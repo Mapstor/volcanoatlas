@@ -1,0 +1,352 @@
+{
+  "slug": "bulusan",
+  "volcano_id": 273010,
+  "title": "Bulusan",
+  "meta_title": "Bulusan Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Bulusan is a 1,535 m active stratovolcano in the Philippines' Sorsogon Province. Explore its 26 eruptions, Irosin caldera setting, and volcanic hazards.",
+  "quick_answer": {
+    "what": "Bulusan is an active andesitic stratovolcano rising to 1,535 m (5,036 ft) in Sorsogon Province, the southernmost volcano on the island of Luzon in the Philippines.",
+    "status": "Active — last erupted in April 2025. One of the most frequently active volcanoes in the Philippines with 26 recorded eruptions since ~3050 BCE.",
+    "famous_for": "Being built within the 11-km-wide Irosin caldera, frequent phreatic (steam-driven) explosions, and its lush tropical forest setting in Bulusan Volcano Natural Park.",
+    "danger_level": "Moderate to high — approximately 50,000 people live within the immediate hazard zones. Frequent phreatic eruptions generate lahars that threaten downstream communities."
+  },
+  "hero": {
+    "name": "Bulusan",
+    "local_name": null,
+    "subtitle": "Luzon's Southernmost Volcanic Sentinel",
+    "country": "Philippines",
+    "region": "Sorsogon Province, Bicol Region, Luzon",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 1535,
+    "elevation_ft": 5036,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 12.769,
+      "lon": 124.056
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01758.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,535 m (5,036 ft)",
+    "type": "Stratovolcano complex",
+    "status": "Active",
+    "last_eruption": "April 2025",
+    "first_known_eruption": "~3050 BCE",
+    "total_recorded_eruptions": 26,
+    "vei_max": "3 (1979–1980, 1981)",
+    "country": "Philippines",
+    "region": "Sorsogon Province, Bicol Region",
+    "tectonic_setting": "Subduction zone — Philippine Sea Plate beneath Eurasian Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "12.769°N, 124.056°E",
+    "nearest_city": "Irosin — approximately 10 km south (population ~53,000 municipality)",
+    "population_at_risk": "~50,000+ within immediate hazard zones in Sorsogon Province",
+    "summit_crater": "300 m wide, 50 m deep",
+    "caldera": "Built within the 11-km-wide Irosin caldera (~36,000 years old)",
+    "protected_status": "Bulusan Volcano Natural Park",
+    "monitoring_agency": "PHIVOLCS (Philippine Institute of Volcanology and Seismology)",
+    "smithsonian_id": "273010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=273010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Bulusan is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 1,535 m (5,036 ft) in Sorsogon Province at the southeastern tip of Luzon, the <a href=\"/volcanoes-in-philippines\">Philippines'</a> largest island. It is Luzon's southernmost volcano and one of the most frequently active volcanoes in the Philippine archipelago, with 26 recorded eruptions spanning approximately 5,000 years. The volcano was constructed along the rim of the 11-km-wide Irosin caldera, which formed approximately 36,000 years ago during a catastrophic dacitic-to-rhyolitic eruption.\n\nBulusan lies at the southeastern end of the Bicol volcanic arc, which occupies the elongated peninsula forming Luzon's southeastern tip. The volcano is flanked by several intracaldera lava domes and cones, including the prominent Mount Jormajan on the southwest flank and Sharp Peak to the northeast. Its summit hosts an unvegetated, 300-m-wide, 50-m-deep crater, with three additional smaller craters on the southeast flank. Most of Bulusan's modern eruptions have been phreatic (steam-driven) explosions, which generate ash plumes, volcanic mudflows (lahars), and hazardous ballistic projectiles. These eruptions, though typically modest in explosive magnitude, pose significant threats to the densely populated agricultural communities surrounding the volcano. Bulusan is monitored by <a href=\"https://www.phivolcs.dost.gov.ph/\" target=\"_blank\" rel=\"noopener\">PHIVOLCS</a> and is protected within the Bulusan Volcano Natural Park."
+    },
+    "geology_and_formation": {
+      "content": "Bulusan's geological history is intimately tied to the Irosin caldera, an 11-km-diameter collapse structure formed approximately 36,000 years ago during a major explosive eruption that produced voluminous dacitic to rhyolitic ignimbrites. Following the caldera-forming event, andesitic volcanism resumed, building the modern Bulusan complex within and along the caldera rim. The caldera's southwestern rim is topographically prominent, while the northeastern rim is largely buried beneath the younger andesitic volcanic complex.\n\nThe tectonic setting is the subduction of the Philippine Sea Plate beneath the Eurasian Plate along the Philippine Trench system, which generates the Eastern Philippine Volcanic Arc. Bulusan's andesitic to basaltic-andesitic composition is typical of this arc. A broad, flat moat lies below the prominent southwestern caldera rim, while the central volcanic complex includes multiple edifices: the main Bulusan cone, Mount Jormajan (a large lava dome on the southwest flank), and Sharp Peak to the northeast. The summit crater is unvegetated and relatively shallow at 50 m depth, reflecting frequent phreatic explosions that prevent vegetation establishment and progressively modify the crater morphology."
+    },
+    "eruption_history_overview": {
+      "content": "Bulusan has 26 recorded eruptions in the Smithsonian database. The earliest confirmed eruption dates to approximately 3050 BCE, with another event recorded around 950 CE. Modern historical eruptions began with an uncertain report in 1852, followed by confirmed activity in 1886. Since the late 19th century, Bulusan has erupted with notable frequency — approximately every 5–10 years on average. Most modern eruptions have been phreatic or phreatomagmatic explosions rated <a href=\"/volcanic-explosivity-index\">VEI</a> 2, producing ash plumes, ballistic projectiles, and lahars. The strongest recorded eruptions reached VEI 3 in 1979–1980 and 1981. Activity has been particularly frequent since 2006, with eruptions in 2006 (two episodes), 2010–2011, 2015, 2016 (two episodes), 2017, 2022, and most recently April 2025."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1979–1981 Eruptions — Bulusan's Most Powerful Modern Events (VEI 3)",
+          "content": "The most powerful eruptions of Bulusan in modern times occurred in a closely spaced pair of events in 1979–1980 and 1981, both rated VEI 3. The December 1979 eruption produced substantial ash columns and pyroclastic material, with activity continuing into 1980. A follow-up eruption in April 1981 maintained VEI 3 intensity. These events exceeded Bulusan's typical phreatic behavior, involving magmatic material and more voluminous explosive products. Ashfall affected communities across Sorsogon Province, and lahars generated by the eruptions damaged agricultural land and infrastructure along river drainages on the volcano's flanks."
+        },
+        {
+          "title": "The 2006–2017 Period of Frequent Unrest",
+          "content": "Beginning in 2006, Bulusan entered a period of heightened activity with multiple eruptive episodes in rapid succession. Eruptions in March 2006, October 2006–2007, November 2010–2011, May 2015, February 2016, June 2016, and June 2017 kept the volcano in a state of nearly continuous unrest. Most of these events were phreatic explosions rated VEI 1–2, characterized by sudden ash plumes rising 1–3 km above the summit, ballistic ejection of rocks near the crater, and lahars triggered by ash-laden rainfall on the steep slopes. PHIVOLCS repeatedly raised the Alert Level to 1 (abnormal) or higher, and several events triggered evacuations of communities in the permanent danger zone."
+        },
+        {
+          "title": "The 2022 and 2025 Eruptions",
+          "content": "Bulusan continued its pattern of frequent phreatic eruptions with a VEI 2 event in June 2022 and the most recent eruption in April 2025. The 2022 eruption generated an ash plume and prompted PHIVOLCS to raise the alert level, while the 2025 eruption continued the volcano's now well-established pattern of recurring phreatic explosions. These events underscore that Bulusan remains in an ongoing state of activity with eruptions expected to continue at intervals of a few years."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Bulusan last erupted in April 2025 and remains under close monitoring by PHIVOLCS. The monitoring network includes seismic stations that detect volcanic earthquakes and tremor, ground deformation measurements using tiltmeters and GPS, sulfur dioxide (SO₂) gas flux monitoring, and visual/thermal webcam surveillance. PHIVOLCS maintains a five-level alert system for Philippine volcanoes, with Bulusan's alert level frequently adjusted based on unrest indicators. The volcano has been at elevated alert levels multiple times in recent years. A 4-km-radius permanent danger zone around the summit is maintained, within which no settlement is permitted. The volcano's frequent phreatic eruptions mean that alert status changes can occur with little warning."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Bulusan's primary hazards are phreatic explosions, lahars, and ashfall. Phreatic eruptions can occur with little precursory warning, launching ballistic projectiles up to 1–2 km from the crater and generating ash plumes that deposit fine volcanic material on surrounding communities. Lahars are a persistent hazard: Sorsogon Province receives heavy tropical rainfall, and water mobilizing fresh ash deposits on the steep slopes generates mudflows that follow river channels into populated lowland areas. Several municipalities, including Irosin, Juban, and Bulusan town, have populations living within potential lahar paths. The 4-km permanent danger zone excludes settlement near the summit, but communities just outside this zone remain vulnerable. During the caldera-forming eruption 36,000 years ago, pyroclastic flows traveled far beyond the modern hazard zones, though such an event is extremely unlikely in the near term. Approximately 50,000 people live within the broader hazard zones."
+    },
+    "geography_and_physical_description": {
+      "content": "Bulusan rises from the lush tropical lowlands of Sorsogon Province as a steep, heavily forested cone, its upper slopes transitioning to bare volcanic rock and the unvegetated summit crater. The volcano sits within the much larger Irosin caldera, whose southwestern rim forms a prominent topographic arc. The caldera's flat moat floor is now occupied by agricultural land and settlements. Multiple volcanic edifices dot the intracaldera landscape: Mount Jormajan, a large lava dome, rises prominently on the southwest flank, while Sharp Peak stands to the northeast. Three small craters on the southeast flank supplement the main 300-m-wide, 50-m-deep summit crater. The volcano is surrounded by the Bulusan Volcano Natural Park, protecting dense tropical rainforest and montane habitats. The region's coastline along the San Bernardino Strait lies just a few kilometers to the east."
+    },
+    "cultural_significance": {
+      "content": "Bulusan is a defining feature of the Sorsogon landscape and is central to the identity of the Bicolano people who inhabit the region. The volcano's name derives from a local term, and it features prominently in regional folklore and cultural traditions. The Bulusan Volcano Natural Park, established to protect the volcano's ecosystems, is an important regional conservation area and eco-tourism destination, featuring hiking trails, a crater lake, and diverse tropical flora and fauna including Philippine eagle habitat. The broader Bicol region has a long history of coexistence with volcanic hazards, and community-based disaster preparedness programs are well-developed around Bulusan."
+    },
+    "nearby_volcanoes": {
+      "content": "The Bicol volcanic arc extending along Luzon's southeastern peninsula hosts several other notable volcanoes. <a href=\"/volcano/mayon\">Mayon</a> (2,462 m), renowned as one of the world's most perfectly symmetrical volcanoes, lies approximately 80 km to the northwest and is the Philippines' most active volcano. <a href=\"/volcano/taal\">Taal</a> (311 m), a complex caldera volcano within a lake, is located far to the northwest near Manila. Within the broader Philippine archipelago, <a href=\"/volcano/pinatubo\">Pinatubo</a> (1,486 m) produced the 20th century's second-largest eruption in 1991. The <a href=\"/volcanoes-in-philippines\">Philippines</a> hosts 23 Holocene volcanoes, many among the world's most active."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Bulusan Compared to Other Active Philippine Volcanoes",
+      "description": "How does Bulusan compare to other frequently active volcanoes in the Philippines?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Bulusan",
+          "Philippines",
+          "1,535 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "26"
+        ],
+        [
+          "Mayon",
+          "Philippines",
+          "2,462 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "51"
+        ],
+        [
+          "Taal",
+          "Philippines",
+          "311 m",
+          "Caldera",
+          "2022",
+          "4",
+          "35"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1,486 m",
+          "Stratovolcano",
+          "1992",
+          "6",
+          "6"
+        ],
+        [
+          "Kanlaon",
+          "Philippines",
+          "2,435 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "27"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -3050,
+      "vei": null,
+      "label": "Earliest recorded eruption",
+      "notable": false
+    },
+    {
+      "year": 950,
+      "vei": null,
+      "label": "Pre-colonial eruption",
+      "notable": false
+    },
+    {
+      "year": 1886,
+      "vei": 2,
+      "label": "First confirmed historical eruption",
+      "notable": false
+    },
+    {
+      "year": 1979,
+      "vei": 3,
+      "label": "Strongest modern eruption (VEI 3)",
+      "notable": true
+    },
+    {
+      "year": 1981,
+      "vei": 3,
+      "label": "VEI 3 explosive event",
+      "notable": true
+    },
+    {
+      "year": 2006,
+      "vei": 2,
+      "label": "Start of frequent modern unrest period",
+      "notable": true
+    },
+    {
+      "year": 2022,
+      "vei": 2,
+      "label": "Phreatic eruption",
+      "notable": false
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption (April 2025)",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 2,
+      "note": "~3050 BCE and ~950 CE"
+    },
+    {
+      "century": "19th",
+      "count": 4
+    },
+    {
+      "century": "20th",
+      "count": 10
+    },
+    {
+      "century": "21st",
+      "count": 10,
+      "note": "Highly active period since 2006"
+    }
+  ],
+  "facts": [
+    "Bulusan is built within the 11-km-wide Irosin caldera, which formed approximately 36,000 years ago during a massive dacitic-to-rhyolitic eruption.",
+    "The volcano has erupted 10 times since 2006, making it one of the most frequently active volcanoes in the Philippines during the 21st century.",
+    "Most of Bulusan's modern eruptions are phreatic (steam-driven) explosions that occur with little warning, producing sudden ash plumes and ballistic projectiles.",
+    "A 4-km-radius permanent danger zone around the summit is maintained by PHIVOLCS, prohibiting permanent settlement within this zone.",
+    "The summit crater is 300 m wide and 50 m deep, one of the most actively modified craters in the Philippines due to frequent phreatic explosions.",
+    "Mount Jormajan, a large lava dome on Bulusan's southwest flank, is one of several intracaldera volcanic features that demonstrate the complex's multi-vent nature.",
+    "Heavy tropical rainfall in Sorsogon Province makes lahars a persistent hazard, as water mobilizes volcanic ash deposits into destructive mudflows along river channels.",
+    "Bulusan Volcano Natural Park protects dense tropical rainforest on the volcano's flanks, including habitat for the critically endangered Philippine eagle.",
+    "Approximately 50,000 people live within the broader hazard zones of Bulusan, primarily in the municipalities of Irosin, Juban, and Bulusan.",
+    "The Irosin caldera that hosts Bulusan was produced by one of the largest Pleistocene eruptions in the Philippines, ejecting dacitic to rhyolitic ignimbrites across a wide area."
+  ],
+  "faqs": [
+    {
+      "question": "Is Bulusan an active volcano?",
+      "answer": "Yes, Bulusan is one of the most active volcanoes in the Philippines. It last erupted in April 2025 and has produced 10 eruptions since 2006 alone. The volcano has 26 confirmed eruptions in its record. Most modern activity consists of phreatic (steam-driven) explosions that generate ash plumes and lahars. PHIVOLCS continuously monitors Bulusan with seismic stations, gas sensors, and webcams, and maintains a permanent danger zone around the summit."
+    },
+    {
+      "question": "What type of eruptions does Bulusan produce?",
+      "answer": "Bulusan predominantly produces phreatic (steam-driven) eruptions, which occur when groundwater is heated by magma and flashes to steam, causing explosive decompression. These events generate ash plumes typically reaching 1–3 km above the summit, ballistic ejection of rocks near the crater, and lahars (volcanic mudflows) when ash mixes with heavy tropical rainfall. The strongest recorded eruptions in 1979–1981 reached VEI 3 and involved magmatic material beyond the typical phreatic activity."
+    },
+    {
+      "question": "How tall is Bulusan?",
+      "answer": "Bulusan rises to 1,535 m (5,036 ft) above sea level. It is the southernmost volcano on Luzon island and the most prominent peak in Sorsogon Province. For comparison, nearby Mayon volcano, approximately 80 km to the northwest, stands at 2,462 m (8,077 ft). Bulusan is built within the much larger 11-km-wide Irosin caldera, so its actual cone rises from the caldera floor rather than from sea level."
+    },
+    {
+      "question": "What is the Irosin caldera?",
+      "answer": "The Irosin caldera is an 11-km-diameter volcanic collapse structure formed approximately 36,000 years ago during a catastrophic eruption that produced voluminous dacitic-to-rhyolitic ignimbrites (pyroclastic flow deposits). Bulusan and several other volcanic edifices — including Mount Jormajan and Sharp Peak — were subsequently built within and along the rim of this caldera. The caldera's flat moat is now occupied by agricultural land and settlements. The event that formed the Irosin caldera was one of the largest Pleistocene eruptions in the Philippines."
+    },
+    {
+      "question": "Is Bulusan dangerous?",
+      "answer": "Bulusan poses moderate to high risk to surrounding communities. Approximately 50,000 people live within the broader hazard zones in Sorsogon Province. Frequent phreatic eruptions can occur with little warning, and the resulting ash and lahars affect communities along river drainages. Heavy tropical rainfall amplifies lahar hazards. PHIVOLCS maintains a 4-km permanent danger zone and issues evacuation orders when eruption risk is elevated. The 1979–1981 VEI 3 eruptions demonstrated that more powerful explosive events are possible."
+    },
+    {
+      "question": "When did Bulusan last erupt?",
+      "answer": "Bulusan's most recent eruption occurred in April 2025. Prior to that, the volcano erupted in June 2022 (VEI 2), June 2017 (VEI 1), twice in 2016 (February and June, both VEI 2), and May 2015 (VEI 2). This pattern of eruptions every one to three years has been characteristic of the volcano since 2006 and shows no signs of abating. PHIVOLCS anticipates continued intermittent phreatic activity."
+    }
+  ],
+  "people_also_search": [
+    "bulusan volcano eruption",
+    "philippines active volcanoes",
+    "sorsogon volcano",
+    "irosin caldera",
+    "bulusan volcano natural park",
+    "bulusan vs mayon"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Bulusan",
+    "description": "Active stratovolcano complex in Sorsogon Province, Philippines, built within the 11-km Irosin caldera, known for frequent phreatic eruptions",
+    "geo": {
+      "latitude": 12.769,
+      "longitude": 124.056,
+      "elevation": 1535
+    },
+    "containedInPlace": {
+      "name": "Sorsogon Province, Bicol Region",
+      "country": "Philippines"
+    },
+    "url": "https://volcanoatlas.com/volcano/bulusan"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=273010",
+      "text": "Smithsonian GVP: Bulusan",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.phivolcs.dost.gov.ph/",
+      "text": "PHIVOLCS — Philippine Institute of Volcanology and Seismology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Philippines",
+      "text": "Britannica: Philippines",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "mayon",
+      "taal",
+      "pinatubo",
+      "kanlaon"
+    ],
+    "country_pages": [
+      "philippines"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "mayon",
+    "taal",
+    "pinatubo",
+    "kanlaon",
+    "hibok-hibok"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Philippines",
+      "url": "/volcanoes-in-philippines"
+    },
+    {
+      "label": "Bulusan",
+      "url": "/volcano/bulusan"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/bulusan"
+}

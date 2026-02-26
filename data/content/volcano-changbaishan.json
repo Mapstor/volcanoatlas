@@ -1,0 +1,394 @@
+{
+  "slug": "changbaishan",
+  "volcano_id": 305060,
+  "title": "Changbaishan",
+  "meta_title": "Changbaishan (Paektu) — Millennium Eruption, Height & Facts | VolcanoAtlas",
+  "meta_description": "Changbaishan (Mount Paektu) is a 2,744 m stratovolcano on the China-North Korea border. Explore its VEI 6 Millennium Eruption, Heaven Lake caldera, and current status.",
+  "quick_answer": {
+    "what": "Changbaishan (also known as Mount Paektu or Baekdu) is a 2,744 m (9,003 ft) stratovolcano straddling the border between China (Jilin Province) and North Korea (Ryanggang Province), crowned by a 5-km-wide summit caldera filled by Heaven Lake (Tianchi).",
+    "status": "Active — last erupted in 1903. Experienced significant seismic unrest and ground deformation in 2002–2005. Continuously monitored by Chinese agencies.",
+    "famous_for": "The Millennium Eruption of 946 CE — one of the largest and most explosive eruptions of the past 2,000 years (VEI 6–7), which deposited tephra as far as northern Japan and ejected an estimated 40–98 km³ of material.",
+    "danger_level": "High — a major eruption could affect millions in northeastern China and North Korea. Lahars from the rapid drainage of Heaven Lake's approximately 2 billion m³ of water represent a particularly severe downstream flood hazard."
+  },
+  "hero": {
+    "name": "Changbaishan",
+    "local_name": "长白山 (Chinese) / 백두산 Baekdusan (Korean)",
+    "subtitle": "The Sacred Volcano of the China–Korea Border",
+    "country": "China-North Korea",
+    "region": "Jilin Province (China) / Ryanggang Province (North Korea)",
+    "type": "Stratovolcano",
+    "elevation_m": 2744,
+    "elevation_ft": 9003,
+    "status": "Active",
+    "last_eruption": "1903",
+    "coordinates": {
+      "lat": 41.98,
+      "lon": 128.08
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06780.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,744 m (9,003 ft)",
+    "type": "Stratovolcano with summit caldera",
+    "status": "Active",
+    "last_eruption": "April 15, 1903 (minor)",
+    "first_known_eruption": "~2155 BCE",
+    "total_recorded_eruptions": 10,
+    "vei_max": "6 (946 CE Millennium Eruption; some estimates reach VEI 7)",
+    "country": "China / North Korea (border volcano)",
+    "region": "Changbai Mountains / Baekdu Mountain Range",
+    "tectonic_setting": "Intraplate / Continental crust (> 25 km)",
+    "rock_types": [
+      "Trachyte",
+      "Trachydacite"
+    ],
+    "coordinates": "41.980°N, 128.080°E",
+    "nearest_city": "Baihe/Erdaobaihe, China — ~35 km northwest",
+    "population_at_risk": "Hundreds of thousands in downstream river valleys (Songhua, Tumen, Yalu rivers)",
+    "summit_crater": "~5 km wide, 850 m deep caldera; Heaven Lake (Tianchi) ~4.9 km², max depth 384 m",
+    "protected_status": "Changbaishan National Nature Reserve (China) / UNESCO Biosphere Reserve",
+    "monitoring_agency": "China Earthquake Administration / Changbaishan Volcano Observatory",
+    "smithsonian_id": "305060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=305060"
+  },
+  "sections": {
+    "overview": {
+      "content": "Changbaishan (Chinese: 长白山, 'Ever-White Mountain'), known in Korean as Baekdusan or Paektusan (백두산, 'White-Headed Mountain'), is a massive <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 2,744 m (9,003 ft) on the border between China's Jilin Province and North Korea's Ryanggang Province. It is the highest peak in both northeastern China and the entire Korean Peninsula, and holds profound cultural significance as a sacred mountain in both Chinese and Korean traditions — North Korea considers it the mythological birthplace of the Korean people. The volcano's defining feature is its 5-km-wide, 850-m-deep summit caldera, which contains Heaven Lake (Tianchi) — one of the highest and deepest alpine crater lakes in the world, holding approximately 2 billion m³ of water. Changbaishan produced one of the most powerful volcanic eruptions of the past 2,000 years: the Millennium Eruption of 946 CE, a VEI 6 (possibly VEI 7) cataclysm that ejected an estimated 40–98 km³ of material, depositing a thick tephra layer across northeastern China and the Sea of Japan, with ash found as far as northern Hokkaido, over 1,000 km away. The volcano is an unusual intraplate system — it does not sit on a plate boundary — and its deep magmatic source remains a subject of active geoscientific debate. A significant period of volcanic unrest between 2002 and 2005, including thousands of earthquakes and measurable ground deformation, raised international concern about the possibility of renewed activity."
+    },
+    "geology_and_formation": {
+      "content": "Changbaishan is an anomalous intraplate volcano, located far from any active plate boundary. Its existence has been attributed to several competing hypotheses: deep mantle upwelling related to the stagnation of the subducted Pacific slab at the 660-km discontinuity in the mantle transition zone; a mantle plume channeling heat from the deep mantle; or lithospheric thinning in the back-arc region behind the Japanese subduction zone. The foundation is the Changbaishan (Laoheidingzi) shield volcano, a broad basaltic edifice built up over millions of years. Atop this shield, the younger stratovolcano grew through eruptions of progressively more silicic magma — from basalt through trachybasalt to the highly evolved trachyte and rhyolite that characterize the Millennium Eruption. The dominantly trachytic-to-rhyolitic composition means eruptions are typically highly explosive, producing viscous lavas, pyroclastic flows, and voluminous tephra. The 5-km-wide summit caldera formed primarily during the 946 CE Millennium Eruption, though evidence suggests incremental development over multiple episodes. The volcano has a total basal diameter of approximately 60 km, and satellitic cinder cones aligned along a NNE trend dot the flanks and surrounding lowlands."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian GVP records 10 eruptions for Changbaishan, spanning from approximately 2155 BCE to 1903 CE. The eruption record includes two VEI 4 events in prehistory (~2155 BCE and ~180 BCE), the catastrophic VEI 6 Millennium Eruption of 946 CE, and several minor or uncertain eruptions from the 15th through early 20th centuries. The relatively sparse eruption record belies the volcano's enormous destructive potential — the Millennium Eruption alone ranks among the five largest eruptions globally in the past 10,000 years. Post-Millennium eruptions have been small and infrequent, with confirmed activity in 1668 and 1702, and small or uncertain events in 1413, 1597, 1898, and 1903. This pattern of long repose punctuated by catastrophic outbursts is characteristic of highly evolved magmatic systems where large volumes of silicic magma accumulate over centuries before erupting explosively."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Millennium Eruption of 946 CE — One of History's Greatest Volcanic Cataclysms",
+          "content": "The Millennium Eruption of Changbaishan, occurring around November 946 CE, was one of the most powerful volcanic eruptions of the past 2,000 years and arguably the least well-known major eruption relative to its magnitude. Recent volume estimates by Yang et al. (2021) place the total erupted material at 40–98 km³ — making it comparable to or exceeding the 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a>. The eruption began with a massive Plinian column that injected tephra into the stratosphere, depositing a recognizable ash layer (the B-Tm tephra) across the Sea of Japan, northern Honshu, and as far as Hokkaido — over 1,000 km from the vent. Pyroclastic flows swept down the flanks, traveling at least 40 km in some directions. The eruption formed much of the present summit caldera and generated enormous lahars that surged down the Songhua and Yalu river valleys. Despite its colossal scale, the eruption received remarkably little attention in contemporary records, likely because the surrounding region — then part of the Balhae (Bohai) kingdom — was sparsely populated. Some historians speculate the eruption contributed to the fall of Balhae, though this remains debated."
+        },
+        {
+          "title": "Prehistoric Eruptions (~2155 BCE and ~180 BCE)",
+          "content": "At least two significant eruptions occurred at Changbaishan during the late Holocene before the Millennium Eruption. An event around 2155 BCE reached VEI 4, and another around 180 BCE also achieved VEI 4 — both producing substantial tephra deposits identified in the geological record. These eruptions indicate that the magmatic system has been capable of violent explosive activity for at least 4,000 years, with an apparent escalation in eruption magnitude over time culminating in the Millennium Eruption."
+        },
+        {
+          "title": "Post-Millennium Historical Eruptions (1413–1903)",
+          "content": "Following the 946 CE cataclysm, Changbaishan entered a prolonged period of relative quiescence punctuated by small eruptions. Confirmed events in 1668 and 1702 produced limited activity, while uncertain eruptions are attributed to 1413 and 1597 based on sparse historical records. The most recent recorded activity was a small eruption on April 15, 1903, possibly involving a minor phreatic event from the Liuhaojie tuff ring. None of these post-Millennium eruptions approached the magnitude of the 946 CE event, but they confirm the magmatic system remains capable of eruptive activity."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Changbaishan experienced a notable episode of volcanic unrest between 2002 and 2005 that drew significant international scientific attention. During this period, over 3,000 volcano-tectonic earthquakes were recorded, the summit area inflated by several centimeters (detected by satellite InSAR and GPS), and geochemical surveys detected elevated volcanic gases including helium-3 — a signature of magmatic input. The unrest subsided after 2005, and the volcano has been relatively quiet since, though background seismicity continues. The Changbaishan Volcano Observatory, operated by the China Earthquake Administration, monitors the volcano with seismometers, GPS stations, and geochemical sampling on the Chinese side. An unprecedented (and brief) period of international scientific cooperation in 2011–2012 allowed Western volcanologists to install temporary seismic stations on the North Korean flanks, revealing a large, partially molten magma body at depths of approximately 5–20 km. A particular concern is the catastrophic lahar hazard posed by Heaven Lake: the lake holds roughly 2 billion m³ of water, and a major eruption could breach the caldera rim, sending devastating floods down the Songhua River (toward Jilin and Harbin in China) and the Yalu and Tumen rivers."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "A future eruption of Changbaishan at the scale of the 946 CE Millennium Eruption would be a regional catastrophe affecting multiple countries. Primary hazards include explosive pyroclastic flows (devastating areas within 40+ km of the summit), massive tephra fall (affecting aviation across northeastern Asia — one of the world's busiest air corridors), and catastrophic lahars from the drainage of Heaven Lake. The lahar risk is especially severe: a sudden breach of the caldera wall could release 2 billion m³ of water, generating floods inundating river valleys for hundreds of kilometers — threatening the city of Jilin (population ~4 million) along the Songhua River. Even a moderate VEI 3–4 eruption could produce deadly pyroclastic flows and trigger dangerous secondary lahars. The geopolitical dimension adds complexity: effective monitoring on the North Korean side is essentially nonexistent under current political conditions, and cross-border evacuation coordination remains challenging."
+    },
+    "geography_and_physical_description": {
+      "content": "Changbaishan is a massive volcanic complex with a total basal diameter of approximately 60 km, making it one of the largest volcanic edifices in East Asia. The summit caldera, roughly 5 km wide and 850 m deep, is filled by Heaven Lake (Tianchi) — an alpine crater lake with a surface area of 4.9 km², a maximum depth of 384 m, and an elevation of approximately 2,189 m, making it the highest volcanic crater lake of its size in the world. The lake remains frozen from October through June, and its vivid blue-green waters set against steep trachytic cliffs constitute one of the most iconic landscapes in East Asia. The caldera rim reaches its highest point at Jiangjun Peak (2,744 m) on the North Korean side. Below the caldera, the flanks descend through zones of alpine tundra, boreal forest, and temperate broadleaf forest — supporting rich biodiversity that earned UNESCO Biosphere Reserve designation. Hot springs at the volcano's base reach temperatures of 82°C."
+    },
+    "climate_and_global_impact": {
+      "content": "The Millennium Eruption of 946 CE injected enormous quantities of sulfur dioxide and ash into the stratosphere, but its global climatic impact appears to have been more muted than might be expected for an eruption of its scale. Ice core records from Greenland show a sulfate signal potentially associated with the event, but tree-ring data does not reveal a strong cooling signal in the years immediately following 946 CE. This may be because the eruption's sulfur output was lower relative to its total volume than eruptions like Tambora (1815), or because the aerosol plume was concentrated at high northern latitudes. A repeat eruption of similar magnitude would nonetheless have severe consequences for modern aviation, agriculture across the Korean Peninsula and northeastern China, and potentially global climate."
+    },
+    "cultural_significance": {
+      "content": "Changbaishan holds extraordinary cultural and spiritual significance in both Chinese and Korean civilizations. In Korean tradition, it is considered the most sacred mountain on the peninsula — the mythological birthplace of Dangun, the legendary founder of Gojoseon (the first Korean kingdom) in 2333 BCE. North Korea has further elevated its status by claiming the mountain as the birthplace of Kim Jong-il. The mountain appears on North Korea's national emblem and in the preamble to South Korea's national anthem. In Chinese culture, Changbaishan is revered as one of the ten great mountains and is sacred to the Manchu people — the Qing Dynasty (1644–1912) considered it the ancestral homeland and restricted access for over two centuries. Today, Changbaishan National Nature Reserve on the Chinese side is a major domestic tourism destination, receiving over 2 million visitors annually."
+    },
+    "visiting_and_tourism": {
+      "content": "Changbaishan is accessible primarily from the Chinese side, where well-developed tourism infrastructure serves visitors arriving via Changbaishan Airport (near Baihe town) or by road from Yanji or Jilin city. The national nature reserve offers three entrance routes: the North Slope (most popular, with shuttle bus to caldera rim), the West Slope (steeper but less crowded), and the South Slope (closest to the North Korean border). The main attraction is the caldera rim viewpoint overlooking Heaven Lake, accessible by a final 1,442-step climb. The Changbaishan Waterfall (68 m tall, fed by Heaven Lake's outflow), the Underground Forest, and the hot spring area where visitors can cook eggs in 82°C mineral water are additional highlights. The best time to visit is July–September. Tourism on the North Korean side is tightly controlled and limited to organized group tours via Samjiyon city."
+    },
+    "nearby_volcanoes": {
+      "content": "Changbaishan is the dominant volcanic feature in the Changbai–Baekdu volcanic province. Smaller volcanic fields surround the main edifice, including the Longgang volcanic field to the southwest (with over 160 Quaternary craters and maars) and the Wudalianchi volcanic field in Heilongjiang Province to the north. Across the Sea of Japan, the Japanese volcanic arc received tephra from the Millennium Eruption, illustrating the transboundary reach of Changbaishan's most violent events. To the south, Ulleungdo (Ulleung Island) is a Quaternary volcanic island in the Sea of Japan with its own distinct eruptive history."
+    },
+    "etymology": {
+      "content": "The Chinese name Changbaishan (长白山) means 'Ever-White Mountain,' referring to the snow and pumice that cap its summit for much of the year. The Korean name Baekdusan (백두산) or Paektusan translates as 'White-Headed Mountain,' conveying the same imagery. The summit lake is called Tianchi (天池, 'Heaven Lake') in Chinese and Cheonji (천지) in Korean."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Changbaishan Compared to Other Major Caldera Volcanoes with Catastrophic Eruption Histories",
+      "description": "How does Changbaishan compare with other large volcanic systems known for massive eruptions?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Changbaishan",
+          "China–N. Korea",
+          "2,744 m",
+          "Stratovolcano",
+          "1903",
+          "6–7",
+          "10"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "2,850 m",
+          "Stratovolcano",
+          "1967",
+          "7",
+          "9"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1,486 m",
+          "Stratovolcano",
+          "2021",
+          "6",
+          "9"
+        ],
+        [
+          "Aira (Sakurajima)",
+          "Japan",
+          "1,117 m",
+          "Caldera",
+          "2025",
+          "6",
+          "53"
+        ],
+        [
+          "Campi Flegrei",
+          "Italy",
+          "458 m",
+          "Caldera",
+          "1538",
+          "7*",
+          "20"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2155,
+      "vei": 4,
+      "label": "Significant prehistoric explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -180,
+      "vei": 4,
+      "label": "Late Holocene explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 946,
+      "vei": 6,
+      "label": "Millennium Eruption — one of the largest eruptions in 2,000 years (40–98 km³)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1668,
+      "vei": null,
+      "label": "Confirmed minor eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1702,
+      "vei": null,
+      "label": "Confirmed minor eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1903,
+      "vei": null,
+      "label": "Most recent eruption — minor event, possibly phreatic",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "3rd millennium BCE",
+      "count": 1
+    },
+    {
+      "century": "1st millennium BCE",
+      "count": 2
+    },
+    {
+      "century": "10th CE",
+      "count": 1,
+      "note": "Millennium Eruption — VEI 6–7"
+    },
+    {
+      "century": "15th CE",
+      "count": 1,
+      "note": "Uncertain"
+    },
+    {
+      "century": "16th CE",
+      "count": 1,
+      "note": "Uncertain"
+    },
+    {
+      "century": "17th CE",
+      "count": 1
+    },
+    {
+      "century": "18th CE",
+      "count": 1
+    },
+    {
+      "century": "19th–20th CE",
+      "count": 2
+    }
+  ],
+  "facts": [
+    "The Millennium Eruption of 946 CE ejected an estimated 40–98 km³ of material, making it one of the five largest volcanic eruptions of the past 10,000 years.",
+    "Heaven Lake (Tianchi) in the summit caldera sits at 2,189 m elevation with a maximum depth of 384 m and holds approximately 2 billion m³ of water.",
+    "Tephra from the Millennium Eruption (the B-Tm layer) has been found in lake sediments in northern Japan — over 1,000 km from the volcano.",
+    "Changbaishan is one of the world's most significant intraplate volcanoes — it sits far from any plate boundary, and its deep magmatic source remains scientifically debated.",
+    "North Korea considers Changbaishan (Paektusan) the sacred birthplace of the Korean nation and features it on its national emblem.",
+    "During the 2002–2005 unrest episode, over 3,000 volcano-tectonic earthquakes were recorded and the summit inflated by several centimeters.",
+    "If Heaven Lake's 2 billion m³ of water were catastrophically released during an eruption, lahars could threaten the city of Jilin (population ~4 million) downstream.",
+    "In an unprecedented collaboration, Western volcanologists were briefly permitted to install monitoring equipment on the North Korean side of the volcano in 2011–2012.",
+    "The Changbaishan Hot Springs at the volcano's base reach 82°C — tourists cook eggs in the mineral-rich water.",
+    "The Qing Dynasty declared Changbaishan the sacred ancestral homeland of the Manchu people and banned settlement in the region for over 200 years.",
+    "Changbaishan receives over 2 million tourists annually on its Chinese side, making it one of the most visited volcanic sites in Asia.",
+    "The volcano's trachytic-to-rhyolitic magma composition means its eruptions tend to be extremely explosive — similar to the most violent styles seen at Vesuvius and Pinatubo."
+  ],
+  "faqs": [
+    {
+      "question": "Is Changbaishan still active?",
+      "answer": "Yes, Changbaishan is classified as an active volcano. Although the most recent confirmed eruption was a minor event in 1903, the volcano experienced significant unrest between 2002 and 2005 involving thousands of earthquakes, ground deformation, and elevated volcanic gas emissions. Geophysical studies have confirmed a large, partially molten magma body beneath the caldera. The Changbaishan Volcano Observatory continuously monitors the volcano with seismometers and GPS stations on the Chinese side. Volcanologists consider Changbaishan capable of future eruptions, with the Millennium Eruption of 946 CE demonstrating its potential for catastrophic events."
+    },
+    {
+      "question": "What was the Millennium Eruption?",
+      "answer": "The Millennium Eruption of Changbaishan occurred around November 946 CE and was one of the most powerful volcanic eruptions of the past 2,000 years. Rated VEI 6 (with some estimates suggesting VEI 7), it ejected an estimated 40–98 km³ of volcanic material. The eruption produced a massive Plinian column, generated pyroclastic flows reaching at least 40 km from the vent, and deposited the recognizable B-Tm tephra layer across northeastern China, the Sea of Japan, and as far as northern Hokkaido. The event formed much of the present summit caldera and caused devastating lahars in surrounding river valleys."
+    },
+    {
+      "question": "Could Changbaishan erupt again?",
+      "answer": "Yes, volcanologists consider a future eruption at Changbaishan possible and have identified it as one of the highest-risk volcanic systems in East Asia. The 2002–2005 unrest demonstrated that the magmatic system remains active, and geophysical data confirm a significant magma reservoir beneath the caldera. Predicting when an eruption might occur is not possible with current science. The recurrence interval since the Millennium Eruption exceeds 1,000 years, but smaller eruptions occurred more recently (1668, 1702, 1903). Monitoring is ongoing but limited on the North Korean side."
+    },
+    {
+      "question": "What is Heaven Lake at Changbaishan?",
+      "answer": "Heaven Lake (Tianchi in Chinese, Cheonji in Korean) is a volcanic crater lake filling the 5-km-wide, 850-m-deep summit caldera of Changbaishan. Situated at approximately 2,189 m elevation, it is one of the highest large crater lakes in the world, with a surface area of 4.9 km², maximum depth of 384 m, and an estimated volume of 2 billion m³. The lake remains frozen October through June. Its waters drain northward via the Erdaobai River, forming the 68-m Changbaishan Waterfall. The enormous water volume represents a major lahar hazard in the event of an eruption."
+    },
+    {
+      "question": "Why is Changbaishan sacred?",
+      "answer": "Changbaishan holds deep spiritual significance in both Chinese and Korean cultures. In Korean mythology, it is the birthplace of Dangun, the legendary founder of Gojoseon — the first Korean kingdom — in 2333 BCE. North Korea venerates the mountain as the claimed birthplace of Kim Jong-il. It appears on North Korea's national emblem and is referenced in South Korea's national anthem. For the Manchu people, Changbaishan is the ancestral homeland of the Qing Dynasty imperial clan, who declared it sacred and restricted access for over two centuries."
+    },
+    {
+      "question": "How tall is Changbaishan?",
+      "answer": "Changbaishan's summit reaches 2,744 m (9,003 ft) at Jiangjun Peak on the North Korean side of the caldera rim. It is the highest peak in both northeastern China and the Korean Peninsula. The caldera rim features 16 named peaks above 2,500 m. Prior to the 946 CE Millennium Eruption, the volcano was likely taller, as the massive eruption removed significant summit volume to create the present 5-km-wide, 850-m-deep caldera."
+    },
+    {
+      "question": "Can you visit Changbaishan?",
+      "answer": "Yes, Changbaishan is accessible from the Chinese side, where the national nature reserve receives over 2 million visitors annually. Three entrance routes serve the reserve: the North Slope (most popular), West Slope, and South Slope. Shuttle buses transport visitors near the caldera rim, followed by a 1,442-step climb to the Heaven Lake viewpoint. Other attractions include the 68-m Changbaishan Waterfall, the Underground Forest, and natural hot springs. The best visiting period is July–September. Access from the North Korean side is limited to organized group tours."
+    },
+    {
+      "question": "What would happen if Changbaishan erupted like the Millennium Eruption?",
+      "answer": "A repeat of the 946 CE Millennium Eruption would be a transnational catastrophe. Pyroclastic flows could devastate areas within 40+ km of the summit on both the Chinese and North Korean sides. The most acute secondary hazard would be catastrophic drainage of Heaven Lake's 2 billion m³, generating lahars flooding the Songhua, Yalu, and Tumen river valleys — potentially threatening cities including Jilin (population ~4 million). Ash fall would severely disrupt aviation across northeastern Asia, contaminate water supplies, and damage agriculture across a vast area."
+    }
+  ],
+  "people_also_search": [
+    "changbaishan eruption",
+    "mount paektu volcano",
+    "heaven lake changbaishan",
+    "millennium eruption 946",
+    "changbaishan active volcano",
+    "baekdu mountain north korea",
+    "changbaishan tourism",
+    "will paektu erupt"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Changbaishan",
+    "alternateName": [
+      "Mount Paektu",
+      "Baekdusan",
+      "Baitoushan",
+      "Paektusan"
+    ],
+    "description": "Active stratovolcano on the China-North Korea border, famous for the catastrophic VEI 6 Millennium Eruption of 946 CE and its summit crater lake, Heaven Lake",
+    "geo": {
+      "latitude": 41.98,
+      "longitude": 128.08,
+      "elevation": 2744
+    },
+    "containedInPlace": {
+      "name": "Jilin Province / Ryanggang Province",
+      "country": "China-North Korea"
+    },
+    "url": "https://volcanoatlas.com/volcano/changbaishan"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=305060",
+      "text": "Smithsonian GVP: Changbaishan",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Paektu",
+      "text": "Britannica: Mount Paektu",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://en.unesco.org/biosphere/aspac/changbaishan",
+      "text": "UNESCO Biosphere Reserve: Changbaishan",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "tambora",
+      "pinatubo",
+      "aira",
+      "campi-flegrei",
+      "asamayama"
+    ],
+    "country_pages": [
+      "china"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "tambora",
+    "pinatubo",
+    "aira",
+    "campi-flegrei"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in China",
+      "url": "/volcanoes-in-china"
+    },
+    {
+      "label": "Changbaishan",
+      "url": "/volcano/changbaishan"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/changbaishan"
+}

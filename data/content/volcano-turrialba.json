@@ -1,0 +1,429 @@
+{
+  "slug": "turrialba",
+  "volcano_id": 345070,
+  "title": "Turrialba Volcano",
+  "meta_title": "Turrialba Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Turrialba is a 3,340 m active stratovolcano in Costa Rica. Explore its eruption history from 7260 BCE to 2022, current status, hazards, and visitor info.",
+  "quick_answer": {
+    "what": "Turrialba is an active stratovolcano in Cartago Province, Costa Rica, rising 3,340 m (10,958 ft) and ranking as the country's second-highest volcano after Irazú.",
+    "status": "Active — last erupted July 2022. Experienced a sustained eruptive phase from 2010 to 2022 after over 140 years of dormancy. Currently monitored by OVSICORI.",
+    "famous_for": "Its dramatic reawakening in 2010 after 144 years of quiet, which disrupted air traffic across Costa Rica and forced the repeated closure of Juan Santamaría International Airport.",
+    "danger_level": "Moderate to high — located approximately 35 km northeast of San José, the capital city with over 1 million residents. Ashfall from eruptions has repeatedly reached the Central Valley."
+  },
+  "hero": {
+    "name": "Turrialba Volcano",
+    "local_name": "Volcán Turrialba",
+    "subtitle": "Costa Rica's Reawakened Giant",
+    "country": "Costa Rica",
+    "region": "Cartago Province",
+    "type": "Stratovolcano",
+    "elevation_m": 3340,
+    "elevation_ft": 10958,
+    "status": "Active",
+    "last_eruption": "2022",
+    "coordinates": {
+      "lat": 10.025,
+      "lon": -83.767
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09636.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "3,340 m (10,958 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "July 17, 2022",
+    "first_known_eruption": "~7260 BCE",
+    "total_recorded_eruptions": 25,
+    "vei_max": "4 (~40 CE)",
+    "country": "Costa Rica",
+    "region": "Cartago Province, Central Cordillera",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "10.025°N, 83.767°W",
+    "nearest_city": "Cartago — 24 km southwest",
+    "population_at_risk": "~1 million+ (San José metropolitan area within ashfall range)",
+    "summit_crater": "Three craters within 800 × 2,200 m summit depression",
+    "protected_status": "Turrialba Volcano National Park (est. 1955)",
+    "monitoring_agency": "OVSICORI-UNA (Observatorio Vulcanológico y Sismológico de Costa Rica)",
+    "smithsonian_id": "345070",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=345070"
+  },
+  "sections": {
+    "overview": {
+      "content": "Turrialba is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> in Cartago Province, Costa Rica, rising to 3,340 m (10,958 ft) and forming the easternmost Holocene volcano along Costa Rica's Central Volcanic Cordillera. The massive edifice covers approximately 500 km² and sits across a broad saddle northeast of its twin volcano, <a href=\"/volcano/irazu\">Irazú</a>, just 24 km from the city of Cartago and roughly 35 km from the capital, San José. Turrialba's dramatic reawakening in 2010, after 144 years of dormancy, thrust the volcano into international headlines when its ash plumes forced repeated closures of Juan Santamaría International Airport — the country's main air gateway. The volcano's eruptive phase continued intermittently through 2022, producing over a dozen distinct eruptions ranging from phreatic blasts to Strombolian activity reaching <a href=\"/volcanic-explosivity-index\">VEI</a> 3. Turrialba's summit features three well-defined craters — the Northeast, Central, and Southwest craters — arranged within an 800 × 2,200 m summit depression that is breached to the northeast. With a geological record stretching back over 9,000 years and five major explosive eruptions in the past 3,500 years alone, Turrialba ranks among the most historically active volcanoes in <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a> and Central America. Its proximity to over one million people in the Central Valley makes it a significant volcanic hazard, monitored continuously by OVSICORI-UNA."
+    },
+    "geology_and_formation": {
+      "content": "Turrialba's existence owes to the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench, a tectonic process that has fueled volcanic activity across Central America for millions of years. The volcano is part of the Central Volcanic Cordillera, a chain of Quaternary volcanoes stretching across central Costa Rica that also includes Irazú, Poás, and Barva. The massive basaltic-to-dacitic edifice has been constructed through successive eruptions over tens of thousands of years, building up layers of lava, tephra, and pyroclastic deposits. Turrialba's summit depression, measuring roughly 800 m wide by 2,200 m long, is breached to the northeast and hosts three distinct craters that have been variably active through history. The Northeast Crater was the site of the oldest known eruption circa 7260 BCE, while most historical activity has centered on the Central and Southwest craters. Two pyroclastic cones sit on the southwest flank, evidence of past flank eruptions. The magmatic system produces predominantly andesitic and basaltic-andesitic compositions, typical of subduction zone volcanism, with the more evolved dacitic products appearing in some of the larger Plinian events. Turrialba and neighboring <a href=\"/volcano/irazu\">Irazú</a> are sometimes considered a twin volcanic complex, sharing a structural saddle and likely connected magmatic plumbing at depth, though they maintain separate conduit systems and distinct eruptive histories."
+    },
+    "eruption_history_overview": {
+      "content": "Turrialba's eruptive record spans at least 9,260 years, with 25 recorded eruptions in the Smithsonian Global Volcanism Program database. The volcano has produced five major explosive eruptions over the past 3,500 years, with the largest — a VEI 4 event around 40 CE — generating pyroclastic flows and depositing thick tephra layers across the Central Valley. Prehistoric eruptions in 7260 BCE, 1420 BCE, 1120 BCE, and 830 BCE demonstrate a pattern of recurring activity through the Holocene. The historical period brought a cluster of eruptions in the mid-19th century (1853, 1855, 1864–1865, and the significant 1866 event at VEI 3), followed by a remarkably long dormancy of 144 years. Turrialba's dramatic reawakening in January 2010 initiated a new eruptive phase that produced over a dozen eruptions through July 2022, including sustained activity from March 2015 to January 2019 that reached VEI 3. This modern sequence has fundamentally reshaped scientific understanding of the volcano's hazard potential and prompted major upgrades to the monitoring network."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~40 CE Eruption — Turrialba's Largest Known Event (VEI 4)",
+          "content": "The most powerful eruption in Turrialba's recorded geological history occurred around 40 CE from the Central Summit Crater. This VEI 4 event produced significant pyroclastic flows and widespread tephra deposits, blanketing the surrounding landscape and reaching areas that are now densely populated sections of Costa Rica's Central Valley. Stratigraphic studies of the tephra deposits reveal a complex eruption sequence involving multiple explosive phases, with column heights likely reaching 10–25 km into the atmosphere. The eruption deposited pumice and ash layers that geologists have traced across much of central Costa Rica, providing a critical marker horizon for dating other geological and archaeological events in the region. At VEI 4, this eruption was comparable in scale to the 1902 eruption of <a href=\"/volcano/santa-maria\">Santa María</a> in Guatemala. The event demonstrated that Turrialba is capable of large-magnitude explosive eruptions — a fact that carries sobering implications given the modern population density within its hazard footprint."
+        },
+        {
+          "title": "The 1864–1866 Eruptions — Turrialba's Most Significant Historical Sequence",
+          "content": "Turrialba's most notable historical eruptive episode began on August 17, 1864, and continued intermittently through 1866, representing the volcano's strongest eruptions in recorded history. The 1864–1865 phase, centered on both the Central and Southwest summit craters, produced explosive eruptions reaching VEI 2 with substantial ash emissions and pyroclastic ejections. The 1866 eruption escalated dramatically to VEI 3, generating powerful explosive columns, pyroclastic flows on the upper flanks, and heavy ashfall across surrounding agricultural areas. Contemporary accounts describe darkness at midday in nearby towns as thick ash clouds blotted out the sun. The eruptions destroyed vegetation across the upper slopes, contaminated water supplies, and caused significant damage to coffee plantations — the backbone of Costa Rica's economy at the time. These events were part of a broader period of unrest that included eruptions in 1853 and 1855, suggesting a sustained magmatic intrusion episode spanning over a decade. After the 1866 eruption, Turrialba fell into a prolonged dormancy that would last 144 years, lulling surrounding populations into a sense of security that was shattered by the 2010 reawakening."
+        },
+        {
+          "title": "The 2010–2022 Eruptive Phase — Reawakening After 144 Years",
+          "content": "On January 5, 2010, Turrialba shattered its 144-year silence with a phreatic eruption from the Southwest Crater, opening a new chapter in the volcano's history and catching both the scientific community and the general public off guard. Although the initial events were relatively modest at VEI 2, they marked the beginning of a prolonged eruptive sequence that would produce over a dozen distinct eruptions through July 2022. Activity escalated significantly in October 2014, when Strombolian eruptions and incandescent ballistic ejections accompanied ash emissions from the West Crater. The most intense phase began on March 8, 2015, and continued nearly continuously until January 2019, reaching VEI 3. During this period, explosive eruptions sent ash plumes up to 4 km above the crater, and fine volcanic ash repeatedly drifted southwest into the Central Valley, forcing multiple closures of Juan Santamaría International Airport in San José — disrupting flights for hundreds of thousands of passengers and causing millions of dollars in economic losses. Ashfall dusted neighborhoods across the capital, a stark reminder that over one million people live within Turrialba's hazard footprint. Communities closest to the volcano, including the town of Turrialba approximately 15 km to the southeast, experienced repeated ashfall events, respiratory health concerns, and damage to crops including dairy pastures and vegetable farms. Turrialba Volcano National Park was closed to visitors for extended periods. Subsequent eruptions in 2020, 2021, and 2022 continued at lower intensity (VEI 1), suggesting a gradual waning of the eruptive episode, though the volcano's future behavior remains uncertain."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Turrialba is classified as active and remains under continuous surveillance by OVSICORI-UNA (Observatorio Vulcanológico y Sismológico de Costa Rica, Universidad Nacional). The monitoring network includes broadband seismometers, GPS deformation sensors, gas spectrometers measuring SO₂ and CO₂ emissions, webcams, and thermal cameras positioned around the summit area. Since the last confirmed eruption in July 2022, the volcano has exhibited ongoing fumarolic activity at the Central and Southwest craters, with periodic increases in seismic tremor and gas output. SO₂ flux measurements have fluctuated but generally remained at levels consistent with an open hydrothermal system, suggesting that magmatic gases continue to rise through the conduit. OVSICORI maintains a color-coded alert system for Turrialba; the volcano has been at elevated status periodically since 2010. Scientists emphasize that the 2010–2022 eruptive phase may represent only one episode in a longer reactivation cycle, and that larger eruptions remain possible. The volcano's proximity to San José — just 35 km northeast — means that even moderate eruptions can generate significant societal impacts through ashfall, flight disruptions, and water contamination."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Turrialba poses a range of volcanic hazards to communities across central Costa Rica. Ashfall is the most frequently realized hazard, with prevailing westerly winds carrying volcanic ash directly over the densely populated Central Valley, including San José, Cartago, and Heredia. During the 2015–2019 eruptive phase, ash reached the capital on multiple occasions, causing respiratory issues, contaminating water supplies, and disrupting aviation. Pyroclastic flows represent the most lethal potential hazard; geological evidence from the VEI 4 eruption around 40 CE shows that pyroclastic flows traveled down the volcano's flanks, reaching areas now used for agriculture and settlement. Lahars (volcanic mudflows) are a significant concern given Turrialba's steep slopes and high rainfall; the breached summit depression channels drainage to the northeast down the Río Turrialba valley. Ballistic projectiles have been ejected during Strombolian phases, with bombs reaching distances of several hundred meters from active vents. The Costa Rican National Emergency Commission (CNE) maintains hazard maps and evacuation plans for surrounding communities. Turrialba's risk profile is amplified by its proximity to critical infrastructure: Juan Santamaría International Airport, the Pan-American Highway, and agricultural zones that supply much of Costa Rica's dairy and vegetable production. The economic impact of the 2010–2022 eruptions — through aviation disruptions, agricultural losses, and tourism decline — underscored the vulnerability of a modern nation to even moderate volcanic activity."
+    },
+    "geography_and_physical_description": {
+      "content": "Turrialba is a massive edifice covering approximately 500 km², making it one of the largest volcanic structures in Costa Rica. The summit rises to 3,340 m (10,958 ft) and is characterized by a broad depression measuring 800 m wide by 2,200 m long, breached to the northeast. Within this depression sit three distinct craters aligned roughly northeast to southwest: the Northeast Crater, Central Crater, and Southwest Crater. The Southwest Crater and Central Crater have been the focus of all recent eruptive activity. The volcano's slopes are clad in lush montane cloud forest at mid-elevations, transitioning to páramo grasslands and barren volcanic terrain near the summit. A broad structural saddle connects Turrialba to <a href=\"/volcano/irazu\">Irazú</a> volcano to the southwest, and on clear days both summits are visible from the Central Valley floor. Two pyroclastic cones on the southwest flank mark sites of past lateral eruptions. The northeastern breach channels the Río Turrialba, which has been the pathway for historical lahars. The surrounding landscape is dominated by dairy farming, coffee cultivation, and sugar cane production, with the town of Turrialba (population ~70,000) located approximately 15 km to the southeast."
+    },
+    "climate_and_global_impact": {
+      "content": "Turrialba's eruptions have been predominantly regional in impact, with no single event large enough to produce measurable global climate effects. The VEI 4 eruption around 40 CE would have injected sulfur aerosols into the upper troposphere, but its climate signature — if any — has not been identified in ice core or tree-ring records. The more significant impacts have been local and economic. The 2015–2019 eruptive phase produced sustained SO₂ emissions that contributed to acid rain and vegetation damage on the upper slopes and downwind areas. Ashfall contaminated water catchments across the Central Valley, requiring filtration upgrades. The repeated closure of Juan Santamaría International Airport during 2014–2016 disrupted international air travel across Central America and drew global attention to the vulnerability of aviation to volcanic ash — echoing the much larger disruptions caused by <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> in 2010."
+    },
+    "cultural_significance": {
+      "content": "The name Turrialba derives from the indigenous term 'Torre Alba' (White Tower), likely referring to the white steam and gas plumes that have risen from the summit for centuries. The volcano holds a prominent place in Costa Rican national identity and the cultural landscape of the Central Valley. For generations, farming communities on its flanks have cultivated some of Costa Rica's finest coffee and dairy products on the rich volcanic soils. Turrialba Volcano National Park, established in 1955, became a popular hiking destination, with trails leading through cloud forest to panoramic summit views. The 2010 reawakening transformed public perception of the volcano from a benign backdrop to a tangible threat, sparking national conversation about volcanic risk preparedness. Local communities near the volcano have developed a complex relationship with their geological neighbor — relying on its fertile soils for livelihood while enduring the disruptions of ashfall and park closures. The Centro Agronómico Tropical de Investigación y Enseñanza (CATIE), an internationally renowned agricultural research center, is headquartered in the town of Turrialba at the volcano's base."
+    },
+    "visiting_and_tourism": {
+      "content": "Turrialba Volcano National Park offers one of Costa Rica's most dramatic volcanic landscapes, though access has been restricted intermittently since the 2010 reawakening. When open, visitors can drive or hike to near the summit and observe the fuming craters from designated viewpoints. The park entrance is accessible via a paved road from the town of Turrialba or from the Irazú side via a connecting trail across the inter-volcanic saddle. The summit area provides panoramic views of Costa Rica's Central Valley, the Caribbean lowlands, and on clear days, both the Pacific and Atlantic coasts. Visitors should check current access status with SINAC (Costa Rica's National System of Conservation Areas) before planning a trip, as the park may be closed during periods of elevated volcanic activity. The surrounding region offers excellent agritourism, whitewater rafting on the Pacuare and Reventazón rivers, and visits to CATIE's botanical gardens. The town of Turrialba serves as a convenient base, with accommodations ranging from budget hostels to eco-lodges."
+    },
+    "nearby_volcanoes": {
+      "content": "Turrialba forms part of Costa Rica's Central Volcanic Cordillera, sharing a structural connection with <a href=\"/volcano/irazu\">Irazú volcano</a> (3,432 m) just 12 km to the southwest. Irazú is Costa Rica's tallest volcano and last erupted significantly in 1963–1965. Further west along the cordillera lie <a href=\"/volcano/poas\">Poás volcano</a>, famous for its acid crater lake, and Barva volcano. To the northwest, <a href=\"/volcano/arenal\">Arenal</a> — Costa Rica's most famous tourist volcano — sits within the Northern Volcanic Cordillera. Southern Costa Rica's Rincón de la Vieja rounds out the country's active volcanic landscape. Together, these volcanoes make <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a> one of the most volcanically dense countries relative to its size, with 10 Holocene volcanoes in an area of just 51,100 km²."
+    },
+    "etymology": {
+      "content": "The name Turrialba is generally thought to derive from 'Torre Alba' — Spanish for 'White Tower' — a reference to the persistent column of white steam and volcanic gas that rises from the summit craters and has been visible from the Central Valley for centuries. Some scholars suggest an alternative indigenous Huetar origin, though the Spanish derivation is most widely accepted."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Turrialba Compared to Central America's Active Volcanoes",
+      "description": "How does Turrialba compare to other recently active volcanoes in the Central American Volcanic Arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Turrialba",
+          "Costa Rica",
+          "3,340 m",
+          "Stratovolcano",
+          "2022",
+          "4",
+          "25"
+        ],
+        [
+          "Poás",
+          "Costa Rica",
+          "2,708 m",
+          "Stratovolcano",
+          "2019",
+          "3",
+          "39"
+        ],
+        [
+          "Fuego",
+          "Guatemala",
+          "3,763 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "63"
+        ],
+        [
+          "Irazú",
+          "Costa Rica",
+          "3,432 m",
+          "Stratovolcano",
+          "1994",
+          "3",
+          "23"
+        ],
+        [
+          "Arenal",
+          "Costa Rica",
+          "1,670 m",
+          "Stratovolcano",
+          "2010",
+          "3",
+          "9"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7260,
+      "vei": null,
+      "label": "Oldest known eruption from NE summit crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1420,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1120,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -830,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 40,
+      "vei": 4,
+      "label": "Largest known eruption — major pyroclastic flows from Central Crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 640,
+      "vei": null,
+      "label": "Eruption during early medieval period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1350,
+      "vei": null,
+      "label": "Pre-Columbian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1853,
+      "vei": 2,
+      "label": "First well-documented historical eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1866,
+      "vei": 3,
+      "label": "Largest historical eruption — heavy ashfall and pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2010,
+      "vei": 2,
+      "label": "Reawakening after 144 years of dormancy",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2015,
+      "vei": 3,
+      "label": "Sustained eruption disrupting San José airport repeatedly",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2022,
+      "vei": 1,
+      "label": "Most recent eruption",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 4,
+      "note": "Eruptions from 7260 BCE to 830 BCE"
+    },
+    {
+      "century": "1st",
+      "count": 1,
+      "note": "VEI 4 eruption ~40 CE"
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 5,
+      "note": "Active cluster: 1853, 1855, 1861, 1864, 1866"
+    },
+    {
+      "century": "21st",
+      "count": 12,
+      "note": "2010–2022 eruptive phase"
+    }
+  ],
+  "facts": [
+    "Turrialba reawakened in 2010 after 144 years of dormancy — one of the longest recorded repose periods for a Central American volcano before returning to activity.",
+    "The volcano's ash plumes forced the closure of Juan Santamaría International Airport in San José on at least 15 separate occasions between 2014 and 2016.",
+    "Turrialba's massive edifice covers approximately 500 km² — larger than the entire island of Barbados.",
+    "The ~40 CE eruption reached VEI 4, making it comparable in explosive magnitude to the 2010 eruption of Eyjafjallajökull in Iceland.",
+    "Turrialba and its neighboring volcano Irazú are separated by just 12 km and may share a connected magmatic plumbing system at depth.",
+    "The volcano's name means 'White Tower' in Spanish, referring to the column of white steam visible from the Central Valley below.",
+    "Turrialba Volcano National Park, established in 1955, was one of Costa Rica's earliest protected areas, predating the country's famous national park system expansion.",
+    "Over one million people in Costa Rica's Central Valley live within the ashfall hazard zone of Turrialba.",
+    "The summit depression is breached to the northeast, creating a natural channel for lahars down the Río Turrialba valley.",
+    "During the 2015–2019 eruptive phase, fine volcanic ash dusted cars and buildings in San José, 35 km to the southwest.",
+    "Turrialba's three summit craters — Northeast, Central, and Southwest — span a 2,200-meter-long depression, one of the largest summit crater complexes in Central America.",
+    "Coffee grown on Turrialba's volcanic soils is among Costa Rica's most prized single-origin varieties."
+  ],
+  "faqs": [
+    {
+      "question": "Is Turrialba volcano still active?",
+      "answer": "Yes, Turrialba is an active stratovolcano that last erupted in July 2022. After lying dormant for 144 years following its 1866 eruption, the volcano dramatically reawakened in January 2010 and has since produced over a dozen eruptions through 2022. OVSICORI-UNA, Costa Rica's volcanological observatory, continuously monitors the volcano with seismometers, gas sensors, GPS deformation instruments, and webcams. Fumarolic activity persists at the summit craters, and scientists consider future eruptions possible. Turrialba is one of Costa Rica's most closely watched volcanoes due to its proximity to the capital city of San José."
+    },
+    {
+      "question": "When did Turrialba last erupt?",
+      "answer": "Turrialba's most recent confirmed eruption began on July 17, 2022, producing ash emissions at VEI 1. This was part of a broader eruptive phase that started in January 2010 when the volcano ended 144 years of dormancy. The most intense period was from March 2015 to January 2019, when sustained eruptions reached VEI 3 and repeatedly disrupted air traffic at San José's international airport. Additional minor eruptions occurred in 2020 and 2021 before the July 2022 event. The current period of relative quiet does not indicate the eruptive phase is definitively over."
+    },
+    {
+      "question": "Could Turrialba erupt again?",
+      "answer": "Future eruptions of Turrialba are considered likely by volcanologists. The volcano's geological record shows recurring cycles of activity over 9,000 years, with five major explosive eruptions in the past 3,500 years. The current eruptive phase that began in 2010 may continue with additional episodes. Scientists note that the 144-year dormancy before 2010 was not unusually long by Turrialba's standards, and the volcano remains capable of eruptions up to VEI 4 — the scale of its largest known event around 40 CE. OVSICORI-UNA maintains continuous monitoring to detect precursory signals."
+    },
+    {
+      "question": "How far is Turrialba from San José?",
+      "answer": "Turrialba volcano is located approximately 35 km (22 miles) northeast of San José, Costa Rica's capital city. The city of Cartago lies closer at about 24 km to the southwest. The town of Turrialba sits roughly 15 km to the southeast at the volcano's base. This proximity to the densely populated Central Valley — home to over one million people — makes Turrialba a significant volcanic hazard. During eruptions, prevailing winds frequently carry ash from the summit directly toward San José and its international airport."
+    },
+    {
+      "question": "How tall is Turrialba volcano?",
+      "answer": "Turrialba stands at 3,340 m (10,958 ft) above sea level, making it Costa Rica's second-tallest volcano after neighboring Irazú at 3,432 m (11,260 ft). The two volcanoes are connected by a broad structural saddle and together form the highest section of the Central Volcanic Cordillera. Turrialba's summit is characterized by a large depression measuring 800 m wide by 2,200 m long, containing three distinct craters rather than a single peak."
+    },
+    {
+      "question": "What type of volcano is Turrialba?",
+      "answer": "Turrialba is classified as a stratovolcano (also called a composite volcano), built up through alternating layers of lava flows, tephra, and pyroclastic deposits over tens of thousands of years. It produces predominantly andesitic and basaltic-andesitic magma, typical of subduction zone volcanoes where the Cocos Plate descends beneath the Caribbean Plate. Stratovolcanoes like Turrialba tend to produce both effusive (lava flow) and explosive eruptions. Its eruption style has ranged from gentle phreatic steam blasts to powerful VEI 4 Plinian events with pyroclastic flows."
+    },
+    {
+      "question": "Can you visit Turrialba volcano?",
+      "answer": "Turrialba Volcano National Park is periodically open to visitors, though access has been restricted frequently since the 2010 reawakening. When open, visitors can drive a paved road to near the summit and walk to viewpoints overlooking the fuming craters. Check current access status with Costa Rica's SINAC (National System of Conservation Areas) before planning a visit. The park may close on short notice during periods of elevated volcanic activity. The surrounding region offers whitewater rafting, agritourism, and visits to CATIE's botanical gardens."
+    },
+    {
+      "question": "Why did Turrialba reawaken in 2010?",
+      "answer": "Turrialba's 2010 reawakening resulted from the injection of fresh magma into the volcano's shallow plumbing system after 144 years of dormancy. Precursory signs included increasing fumarolic activity and subtle ground deformation detected in the years before the first eruption. The long repose period was not unusual by geological standards — Turrialba has experienced variable quiet intervals between eruptive phases throughout the Holocene. Scientists believe the 2010–2022 phase may represent the beginning of a new eruptive cycle rather than an isolated episode."
+    }
+  ],
+  "people_also_search": [
+    "turrialba volcano eruption",
+    "is turrialba volcano active",
+    "turrialba volcano Costa Rica",
+    "turrialba vs irazu",
+    "turrialba volcano national park",
+    "turrialba volcano airport closure",
+    "volcanoes in Costa Rica"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Turrialba Volcano",
+    "alternateName": [
+      "Volcán Turrialba"
+    ],
+    "description": "Active stratovolcano in Cartago Province, Costa Rica, that reawakened in 2010 after 144 years of dormancy",
+    "geo": {
+      "latitude": 10.025,
+      "longitude": -83.767,
+      "elevation": 3340
+    },
+    "containedInPlace": {
+      "name": "Cartago Province",
+      "country": "Costa Rica"
+    },
+    "url": "https://volcanoatlas.com/volcano/turrialba"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=345070",
+      "text": "Smithsonian GVP: Turrialba",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ovsicori.una.ac.cr/",
+      "text": "OVSICORI-UNA — Costa Rica Volcanological Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Turrialba",
+      "text": "Britannica: Turrialba Volcano",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "irazu",
+      "poas",
+      "arenal",
+      "fuego",
+      "eyjafjallajokull"
+    ],
+    "country_pages": [
+      "costa-rica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "irazu",
+    "poas",
+    "arenal",
+    "fuego",
+    "rincon-de-la-vieja"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Costa Rica",
+      "url": "/volcanoes-in-costa-rica"
+    },
+    {
+      "label": "Turrialba Volcano",
+      "url": "/volcano/turrialba"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/turrialba"
+}

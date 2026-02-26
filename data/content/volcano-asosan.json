@@ -1,0 +1,562 @@
+{
+  "slug": "asosan",
+  "volcano_id": 282110,
+  "title": "Mount Aso (Asosan)",
+  "meta_title": "Mount Aso (Asosan) — Eruption History, Caldera & Facts | VolcanoAtlas",
+  "meta_description": "Mount Aso has one of the world's largest calderas and 187 recorded eruptions. Explore its eruption history, Nakadake crater, tourism info, and hazards in Kyushu, Japan.",
+  "quick_answer": {
+    "what": "Mount Aso (Asosan) is an active caldera volcano in central Kyushu, Japan, featuring a 24-km-wide caldera — one of the largest in the world — and 17 central cones, including the persistently active Nakadake crater, with 187 recorded eruptions.",
+    "status": "Active — last erupted October 2021 from the Nakadake crater. Continuously monitored by the Japan Meteorological Agency (JMA). Nakadake remains one of Japan's most frequently active volcanic vents.",
+    "famous_for": "The enormous Aso caldera formed by four cataclysmic eruptions between 300,000 and 90,000 years ago — the last (Aso-4) produced over 600 km³ of pyroclastic deposits covering much of Kyushu. Approximately 50,000 people live inside the caldera today.",
+    "danger_level": "High — approximately 50,000 people live inside the caldera, and Nakadake crater is accessible by toll road and ropeway, placing thousands of tourists in the hazard zone daily."
+  },
+  "hero": {
+    "name": "Mount Aso (Asosan)",
+    "local_name": "阿蘇山 (Aso-san)",
+    "subtitle": "Japan's Largest Active Caldera — A City Inside a Volcano",
+    "country": "Japan",
+    "region": "Kyushu",
+    "type": "Caldera",
+    "elevation_m": 1592,
+    "elevation_ft": 5223,
+    "status": "Active",
+    "last_eruption": "2021",
+    "coordinates": {
+      "lat": 32.8849,
+      "lon": 131.085
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01998.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,592 m (5,223 ft) — Takadake, highest central cone",
+    "type": "Caldera with post-caldera stratovolcanoes",
+    "status": "Active",
+    "last_eruption": "October 14–20, 2021 (Nakadake crater)",
+    "first_known_eruption": "553 CE (Japan's first documented historical eruption)",
+    "total_recorded_eruptions": 187,
+    "vei_max": "3 (multiple events — 440 CE, 553 CE, 864 CE, 1765, 1872, 1906, 2016)",
+    "country": "Japan",
+    "region": "Kyushu, Kumamoto Prefecture",
+    "tectonic_setting": "Subduction zone — Philippine Sea Plate beneath Eurasian Plate (continental crust >25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "32.885°N, 131.085°E",
+    "nearest_city": "Aso city — inside the caldera; Kumamoto — 50 km west",
+    "population_at_risk": "~50,000 inside the caldera; Kumamoto metro (740,000) within 50 km",
+    "summit_crater": "Nakadake — active crater with acidic crater lake",
+    "protected_status": "Aso-Kuju National Park",
+    "monitoring_agency": "Japan Meteorological Agency (JMA) / Aso Volcanological Laboratory, Kyoto University",
+    "caldera_dimensions": "~25 km (N-S) × 18 km (E-W), circumference ~128 km",
+    "smithsonian_id": "282110",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=282110"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Aso (Japanese: 阿蘇山, Aso-san), officially designated Asosan by the Smithsonian Global Volcanism Program, is an active <a href=\"/types-of-volcanoes\">caldera</a> volcano in central Kyushu, <a href=\"/volcanoes-in-japan\">Japan</a>, containing one of the largest volcanic calderas in the world. The caldera measures approximately 25 km north-south by 18 km east-west, with a circumference of roughly 128 km, and was formed by four colossal eruptions between 300,000 and 90,000 years ago. The last of these, the Aso-4 eruption approximately 90,000 years ago, was a supereruption-scale event that produced more than 600 km³ of airfall tephra and pyroclastic flow deposits — burying much of Kyushu under volcanic debris and ranking among the largest eruptions in Japan's geological history.\n\nWithin the caldera, a group of 17 post-caldera cones rises from the floor, the most notable being Nakadake — one of Japan's most frequently active volcanoes with 187 recorded eruptions since approximately 8050 BCE. Nakadake was the site of Japan's first documented historical eruption in 553 CE, and it has maintained a remarkable pattern of activity through more than 1,400 years of written records. The highest of the central cones is Takadake at 1,592 m (5,223 ft), while Nakadake itself reaches 1,506 m.\n\nWhat makes Aso extraordinary, and extraordinarily dangerous, is that approximately 50,000 people live inside the caldera. The town of Aso and surrounding communities occupy the fertile caldera floor, farming the rich volcanic soil and hosting a thriving tourism industry centered on the accessible Nakadake crater — reached by toll road, ropeway (cable car), and walking paths. This makes Aso one of the few places on Earth where a large population lives within the structure of an active volcanic caldera, creating a hazard profile that combines persistent volcanic activity with high human exposure. Within Japan's <a href=\"/ring-of-fire\">Ring of Fire</a> context, Aso is generated by the subduction of the Philippine Sea Plate beneath the Eurasian Plate along the Nansei-Shotō (Ryukyu) Trench, producing the andesitic and basaltic-andesitic magmas that have fueled its eruptions for hundreds of thousands of years."
+    },
+    "geology_and_formation": {
+      "content": "The Aso volcanic system sits on the Nankai volcanic arc in central Kyushu, where the Philippine Sea Plate subducts northwestward beneath the Eurasian Plate. The continental crust beneath Aso exceeds 25 km in thickness, and the resulting magmas range from basaltic andesite to andesite — with occasional more mafic compositions recorded in the younger eruptions.\n\nThe caldera was formed by four major caldera-forming eruptions designated Aso-1 through Aso-4, spanning from approximately 300,000 to 90,000 years ago. Each eruption produced voluminous ignimbrites (pyroclastic flow deposits) that spread across the surrounding landscape. The Aso-4 eruption, the largest and most recent caldera-forming event, was catastrophic in scale: it produced more than 600 km³ of pyroclastic flow deposits and airfall tephra, covering virtually all of Kyushu and depositing recognizable ash layers as far away as Hokkaido, over 1,000 km to the northeast. The pyroclastic flows from Aso-4 traveled up to 160 km from the caldera in some directions, and the deposits (known as the Aso-4 welded tuff) form prominent plateaus and terraces across the Kyushu landscape today. This eruption was comparable in scale to the largest known eruptions in the geological record and would classify as a VEI 7 or possibly VEI 8 event.\n\nFollowing the Aso-4 collapse, volcanic activity resumed within the caldera, building the 17 central cones that occupy the caldera floor today. These cones include Takadake (1,592 m, the highest), Nakadake (1,506 m, the most active), Neko-dake, Eboshi-dake, and Kishima-dake, among others. The Kometsuka scoria cone, a visually striking perfect cone on the caldera floor's northern edge, was active as recently as approximately 210 CE. Nakadake has been the dominant center of historical activity, with its summit crater hosting a highly acidic hot crater lake (Yudamari — 'hot water pool') that oscillates between green and gray depending on volcanic and meteorological conditions. The crater lake has a pH of approximately 1 and temperatures that can exceed 70°C, making it one of the most acidic volcanic lakes on Earth."
+    },
+    "eruption_history_overview": {
+      "content": "Aso's recorded eruption history is among the longest and most detailed of any volcano in the world, encompassing 187 documented eruptions over approximately 10,000 years — 172 of them confirmed. The prehistoric record, preserved in tephra deposits, includes eruptions from vents across the caldera floor, including Jigoku explosion crater (approximately 8050 BCE), Nakadake, Kishimadake, Ojodake, and the Kometsuka scoria cone (approximately 210 CE). The historical record begins with the eruption of 553 CE at Nakadake — Japan's first historically documented volcanic event — and continues with extraordinary density through the medieval, early modern, and modern periods.\n\nThe eruption record shows that Nakadake has been persistently active, with eruptions documented in virtually every century since the 6th century CE. The 13th and 14th centuries were particularly active, with 27 eruptions recorded between 1229 and 1390. The 16th century saw 18 eruptions, and the 20th century was the most prolific in the historical record with 68 documented events — reflecting both genuine volcanic activity and improved monitoring and record-keeping. Historical eruptions have been predominantly basaltic to basaltic-andesitic ash emissions with periodic Strombolian and phreatomagmatic activity. The VEI values have generally been modest — the maximum recorded is VEI 3, achieved by multiple events including the 1906 and 2016 eruptions — but the sheer frequency and persistence of activity make Aso one of the most active volcanic systems in <a href=\"/volcanoes-in-japan\">Japan</a> and in the world."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Aso-4 Supereruption (~90,000 Years Ago) — Kyushu Buried",
+          "content": "The Aso-4 eruption approximately 90,000 years ago was the most catastrophic volcanic event in the Japanese archipelago's recent geological history and one of the largest eruptions on Earth during the Late Pleistocene. The eruption produced more than 600 km³ of pyroclastic flow deposits and airfall tephra — a volume that dwarfs even the 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> (VEI 7, ~160 km³) and approaches the scale of the Toba supereruption (VEI 8, ~2,800 km³ approximately 74,000 years ago). Pyroclastic flows from Aso-4 raced across Kyushu in all directions, traveling up to 160 km from the caldera and covering virtually the entire island under ignimbrite deposits that in places exceed 100 m in thickness.\n\nThe eruption column likely reached the stratosphere at heights exceeding 40 km, and ash fallout from the eruption has been identified in marine sediment cores throughout the western Pacific and in terrestrial deposits as far away as Hokkaido. The collapse of the magma chamber created the present-day caldera — a vast, roughly oval depression that is today home to 50,000 people. If an eruption of this magnitude were to occur today, it would be a civilization-threatening event for Japan, rendering much of Kyushu uninhabitable and causing catastrophic global climate cooling. A 2014 study by researchers at Kobe University estimated that a repeat Aso-4 event could deposit lethal pyroclastic flows across an area home to approximately 7 million people within just two hours of eruption onset."
+        },
+        {
+          "title": "The 553 CE Eruption — Japan's First Historical Volcanic Record",
+          "content": "The eruption of Nakadake in 553 CE holds unique significance in the history of volcanology as the first volcanic eruption documented in Japanese written records. Recorded in the historical chronicles of ancient Japan, this event was noted as a significant eruption from the central cone of Aso, classified at VEI 3. While the description is brief by modern standards, it establishes Nakadake as a volcano that was known to be dangerous even in Japan's early historical period. The event predates the next well-documented Japanese eruption by over two centuries and places Aso among the very first volcanoes in East Asia to enter the historical record."
+        },
+        {
+          "title": "The 1872–1873 Eruption — Phreatomagmatic Violence",
+          "content": "The eruption of December 1872 to 1873 at Nakadake was one of the larger historical eruptions at Aso, reaching VEI 3. The eruption featured vigorous phreatomagmatic explosions — caused by the interaction of rising magma with the acidic crater lake — producing dense ash-laden eruption columns and ejecting large volumes of mud, ash, and ballistic blocks. The event demonstrated the hazard amplification that occurs when Nakadake's crater lake is present: the flash vaporization of lake water during eruptions produces more energetic and widespread explosions than purely magmatic events. Multiple fatalities occurred in the vicinity of the crater. This eruption type — phreatomagmatic explosion through a crater lake — remains the primary hazard scenario for tourists visiting the Nakadake crater today."
+        },
+        {
+          "title": "The 1953 Eruption — Tourist Tragedy at the Crater",
+          "content": "On April 27, 1953, a phreatomagmatic eruption at Nakadake killed six tourists and injured approximately 90 others who were visiting the crater rim — one of Japan's most popular tourist destinations. The eruption occurred without adequate warning, sending a shower of ballistic blocks, mud, and ash onto the viewing platforms and paths around the crater. The disaster focused national attention on the risks of volcano tourism and led to significant improvements in the monitoring and warning systems at Aso, including the development of real-time seismic and gas monitoring networks and the establishment of regulated access zones that could be closed during periods of elevated activity. The 1953 tragedy remains a defining event in the history of volcanic hazard management in Japan."
+        },
+        {
+          "title": "The October 2016 Eruption — Explosive Reawakening",
+          "content": "After a relatively quiet period of predominantly VEI 1 activity through the 2000s, Nakadake produced its largest eruption in decades on October 7–8, 2016, reaching VEI 3. An explosive eruption at 1:46 AM local time on October 8 sent an eruption column approximately 11 km high — by far the tallest column observed at Aso in modern times. Ballistic blocks were ejected up to 1.3 km from the crater, pyroclastic surges traveled approximately 1 km, and ashfall blanketed Aso city and surrounding communities. The JMA raised the alert level to 3 (restricting access within 2 km of the crater), and the Aso Ropeway and crater access road were closed. The eruption caused significant damage to infrastructure, including the ropeway station and viewing platforms. No fatalities occurred, as the eruption happened during nighttime hours when no tourists were present — a fortunate circumstance that echoed the near-miss of the 1953 disaster in reverse."
+        },
+        {
+          "title": "The October 2021 Eruption — Most Recent Activity",
+          "content": "On October 14, 2021, Nakadake erupted again, producing an ash column that rose approximately 3,500 m above the crater. The eruption deposited ash across nearby communities and triggered evacuation advisories. Pyroclastic flows were observed traveling approximately 1.6 km from the crater, though they remained within the restricted access zone. The JMA maintained the alert level at 3. The eruption was classified as VEI 2 and was relatively brief, with activity subsiding by October 20. As of 2025, Aso remains at elevated alert status with ongoing fumarolic activity and seismic unrest at Nakadake."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of 2025, Mount Aso is monitored by the Japan Meteorological Agency (JMA) and the Aso Volcanological Laboratory of Kyoto University through one of the densest volcanic monitoring networks in the world. The system includes broadband and short-period seismometers, GPS ground deformation sensors, tiltmeters, infrasound sensors, SO₂ gas monitoring stations, and multiple visible and infrared cameras providing real-time crater views. The JMA volcanic alert level for Aso has fluctuated between Level 1 (potential for increased activity) and Level 3 (restricting entry within 2 km of the crater) in recent years.\n\nNakadake's crater lake, Yudamari, serves as a natural indicator of subsurface volcanic conditions. Changes in lake level, temperature, color, and chemical composition provide early warning of shifts in the volcano's magmatic and hydrothermal state. A declining lake level and rising temperatures often precede eruptive episodes, as ascending heat and gases evaporate the lake water. The 2016 and 2021 eruptions were both preceded by measurable changes in crater lake behavior, though the lead times were insufficient for long-advance warnings. Given Aso's extraordinary eruption frequency — 187 events over approximately 10,000 years — future eruptions are considered virtually certain. The key question for hazard managers is not whether Nakadake will erupt again, but whether the next eruption will remain within the typical VEI 1–2 range or escalate to the more dangerous VEI 3+ events that have occurred periodically throughout the historical record."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Aso presents a layered hazard profile ranging from frequent, manageable events to low-probability catastrophic scenarios. The most immediate and recurring hazard is phreatomagmatic and Strombolian eruption at Nakadake, producing ballistic ejecta, ash clouds, pyroclastic surges, and toxic gas emissions (particularly SO₂). The 1953 tourist fatalities and the 2016 VEI 3 eruption illustrate the danger to visitors at the crater rim. JMA manages this risk through alert level restrictions: at Level 2, entry within 1 km of the crater is prohibited; at Level 3, the exclusion zone expands to 2 km, closing the toll road and ropeway.\n\nThe broader threat comes from the approximately 50,000 people living inside the caldera. While Nakadake's historical eruptions have been relatively modest (VEI 3 maximum), larger eruptions are geologically possible. The caldera itself was formed by four eruptions of incomparably greater magnitude, and while a repeat Aso-4 event is considered extremely unlikely on human timescales, even a moderate caldera-forming event would be catastrophic for the population living within the depression.\n\nAdditional hazards include lahars flowing down river valleys that drain the caldera, ashfall affecting agriculture across central Kyushu (the region is a major rice-growing area), and volcanic gas hazards — SO₂ concentrations near the Nakadake crater regularly exceed safe exposure limits, and access is restricted when gas levels are elevated. The 2016 eruption demonstrated that pyroclastic surges can extend 1+ km from the crater, overlapping with areas routinely accessed by tourists during lower alert levels. Compared to other Japanese volcanoes, Aso's eruption frequency is rivaled only by <a href=\"/volcano/aira\">Sakurajima</a>, but the presence of a large resident population inside the caldera makes Aso's risk profile unique."
+    },
+    "geography_and_physical_description": {
+      "content": "The Aso caldera is one of the most visually striking volcanic landforms on Earth. The outer caldera walls, known as the Somma walls, rise 300–600 m above the caldera floor, forming a nearly continuous rim of green, forested ridges that encircle the interior basin. Within this vast depression — approximately 350 km² in area — the landscape is remarkably diverse: the northern and western portions of the caldera floor are occupied by the town of Aso, agricultural fields, and the Kurokawa hot spring resort, while the central area is dominated by the cluster of 17 post-caldera cones.\n\nThe highest of these cones is Takadake (1,592 m), characterized by steep, rocky ridges and alpine grassland. Nakadake (1,506 m) is immediately adjacent, its summit hosting the active crater complex with the Yudamari crater lake — a vivid green or gray pool of highly acidic water (pH ~1) that fills the First Crater and serves as both a tourist attraction and a volcanic monitoring indicator. The Kometsuka scoria cone (954 m) on the northern caldera floor is a nearly perfect small cone covered in grassland, historically active around 210 CE and now a popular hiking destination.\n\nThe Kusasenri plateau, a broad grassland plain between the central cones and the western caldera wall, is famous for its pastoral beauty — cattle graze amid sweeping green meadows with the smoking Nakadake crater as a backdrop. The Daikanbo viewpoint on the northern caldera rim provides panoramic views across the entire caldera, revealing the full scale of the volcanic depression and the central cones within. Rivers flowing out of the caldera have carved dramatic gorges through the Somma walls, including the Tateno gorge to the west."
+    },
+    "climate_and_global_impact": {
+      "content": "Aso's historical eruptions — while extraordinarily frequent — have been too small to produce detectable global climate effects. The VEI 1–3 eruptions of the past 1,400+ years inject modest quantities of SO₂ and ash into the troposphere, where they are rapidly rained out and have at most localized air quality impacts.\n\nThe prehistoric caldera-forming eruptions, however, would have had severe regional and potentially global climate consequences. The Aso-4 eruption approximately 90,000 years ago ejected over 600 km³ of material, much of which reached the stratosphere. An eruption of this magnitude would have injected massive quantities of sulfate aerosols into the upper atmosphere, potentially causing global temperature drops of 1–3°C or more for several years — comparable to or exceeding the climate impact of the Toba supereruption. However, the Aso-4 event occurred during the last glacial period when Earth was already in a cold state, making it difficult to isolate its specific climate signature in the palaeoclimate record.\n\nLocally, Aso's alpine setting at 500–1,500 m elevation creates a temperate climate with cool summers and cold winters. Snow covers the central cones from December through March, and the caldera experiences frequent fog and low cloud. The grasslands of the caldera floor — maintained by centuries of controlled burning by local farmers — are iconic in the Japanese imagination and are at their most beautiful in spring (fresh green) and autumn (golden)."
+    },
+    "cultural_significance": {
+      "content": "Mount Aso has been central to the cultural and spiritual life of Kyushu for millennia. In Shinto belief, the caldera is associated with the deity Takeiwatatsu-no-Mikoto, grandson of the legendary first emperor Jinmu, and the Aso Shrine — one of the oldest and most important Shinto shrines in Japan, dating to at least the 6th century CE — sits within the caldera at the base of the central cones. The shrine was severely damaged by the 2016 Kumamoto earthquakes (magnitude 7.0) and has since been extensively restored, reflecting the deep cultural investment in this volcanic landscape.\n\nThe controlled burning of the grasslands (noyaki) around the caldera is a centuries-old agricultural and cultural practice, carried out annually each spring, that maintains the distinctive open landscapes for which Aso is famous. The practice creates the lush green grasslands of Kusasenri and the sweeping pastures where cattle graze against the volcanic backdrop — images that are deeply embedded in the Japanese aesthetic of rural Kyushu.\n\nAso figures prominently in Japanese literature, art, and tourism marketing. The Aso-Kuju National Park, established in 1934, is one of Japan's oldest national parks and among its most visited. The caldera has appeared in numerous films, television programs, and anime, and the iconic image of the smoking Nakadake crater viewed from the green caldera floor is one of the most recognizable volcanic landscapes in East Asian popular culture. The area's onsen (hot spring) culture, fed by the volcanic geothermal system, is another major draw, with resorts like Kurokawa Onsen achieving international fame."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Aso is one of Kyushu's premier tourist destinations and one of the most accessible active volcanic craters in the world. When alert levels permit (Level 1 or 2), visitors can drive the Aso Panorama Line toll road to within approximately 1 km of the Nakadake crater, then walk to the crater rim viewing platforms. The Aso Ropeway (cable car), which formerly provided direct access to the crater rim, was severely damaged by the 2016 eruption and as of 2025 has been replaced by a shuttle bus service. At the crater, visitors can peer into the turquoise-green Yudamari crater lake — one of the few places on Earth where the public can look directly into the active crater of a frequently erupting volcano.\n\nAccess is regulated by JMA alert levels: at Level 1, the crater area is fully open; at Level 2, a 1-km exclusion zone prohibits crater access; at Level 3, the entire central cone area is closed. SO₂ gas concentrations are monitored continuously, and the crater is closed when gas levels exceed safe limits, even at Level 1. Concrete gas shelters line the paths near the crater for emergency use during sudden gas surges or phreatic eruptions.\n\nBeyond Nakadake, the Aso area offers extensive hiking (Kusasenri plateau, Kometsuka cone, Takadake summit), horseback riding on the grasslands, the Aso Volcano Museum, and numerous onsen resorts. The Daikanbo viewpoint on the northern caldera rim is one of Japan's most popular scenic lookouts. Access from Kumamoto (the nearest major city, 50 km west) is excellent by car or bus. The JR Hohi Line railway crosses through the caldera, and Aso Kumamoto Airport is located just outside the western caldera wall."
+    },
+    "nearby_volcanoes": {
+      "content": "Aso sits within a volcanically rich region of central Kyushu. To the northeast, the Kuju volcanic group — a cluster of stratovolcanoes and lava domes within the same national park — includes Kuju-san (1,791 m), Kyushu's tallest peak. To the southwest lies Unzen, a volcanic complex that erupted catastrophically in 1991–1995, killing 43 people (including three volcanologists) in a devastating pyroclastic flow on June 3, 1991. <a href=\"/volcano/aira\">Sakurajima</a>, Japan's most persistently active volcano with hundreds of explosive events annually, is located approximately 150 km to the south in Kagoshima Bay, within the Aira caldera — itself formed by a VEI 7 eruption approximately 22,000 years ago. <a href=\"/volcano/kirishimayama\">Kirishima</a> (1,700 m), a volcanic complex with multiple active cones, lies between Aso and Sakurajima. Together, these volcanoes make Kyushu one of the most volcanically active regions in <a href=\"/volcanoes-in-japan\">Japan</a> and one of the most hazard-exposed in the world."
+    },
+    "etymology": {
+      "content": "The name Aso (阿蘇) is of ancient Japanese origin, and its exact etymology is debated. One theory links it to an ancient word meaning 'shallow bay' or 'hollow' — a reference to the enormous caldera depression. Another interpretation derives it from the deity Aso-no-Kami enshrined at Aso Shrine. In everyday Japanese, the volcano is referred to as Aso-san (阿蘇山), where san (山) means 'mountain.' The Smithsonian Global Volcanism Program uses the romanization 'Asosan' as a single compound word."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Aso Compared to Japan's Other Major Active Volcanoes",
+      "description": "How does Aso compare to the most active and dangerous volcanoes in the Japanese archipelago?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max (Holocene)",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Asosan",
+          "Japan",
+          "1,592 m",
+          "Caldera",
+          "2021",
+          "3",
+          "187"
+        ],
+        [
+          "Sakurajima (Aira)",
+          "Japan",
+          "1,117 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "100+"
+        ],
+        [
+          "Fujisan",
+          "Japan",
+          "3,776 m",
+          "Stratovolcano",
+          "1707",
+          "5",
+          "17"
+        ],
+        [
+          "Asamayama",
+          "Japan",
+          "2,568 m",
+          "Stratovolcano",
+          "2019",
+          "4",
+          "51"
+        ],
+        [
+          "Unzen",
+          "Japan",
+          "1,500 m",
+          "Stratovolcano",
+          "1996",
+          "4",
+          "20"
+        ]
+      ]
+    },
+    {
+      "title": "Aso vs the World's Large Caldera Volcanoes",
+      "description": "A comparison of Aso with other significant caldera systems worldwide.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Caldera Width",
+        "Last Eruption",
+        "Caldera-Forming VEI",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Asosan",
+          "Japan",
+          "~24 km",
+          "2021",
+          "7+ (Aso-4)",
+          "187"
+        ],
+        [
+          "Yellowstone",
+          "USA",
+          "~72 km",
+          "~70,000 yrs ago",
+          "8",
+          "N/A"
+        ],
+        [
+          "Taupō",
+          "New Zealand",
+          "~35 km",
+          "~260 CE",
+          "7 (Hatepe)",
+          "28"
+        ],
+        [
+          "Campi Flegrei",
+          "Italy",
+          "~13 km",
+          "1538",
+          "7 (Campanian Ign.)",
+          "47"
+        ],
+        [
+          "Aira (Kagoshima)",
+          "Japan",
+          "~20 km",
+          "2024 (Sakurajima)",
+          "7",
+          "100+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8050,
+      "vei": 1,
+      "label": "Earliest Holocene eruption — Jigoku explosion crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2050,
+      "vei": 3,
+      "label": "VEI 3 eruption at Kishima-dake",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1350,
+      "vei": 3,
+      "label": "Komezuka scoria cone eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 440,
+      "vei": 3,
+      "label": "Major Nakadake eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 553,
+      "vei": 3,
+      "label": "Japan's first documented historical eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 864,
+      "vei": 3,
+      "label": "Significant Nakadake eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1765,
+      "vei": 3,
+      "label": "VEI 3 eruption at Nakadake",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1872,
+      "vei": 3,
+      "label": "Major phreatomagmatic eruption — fatalities near crater",
+      "deaths": "unknown",
+      "notable": true
+    },
+    {
+      "year": 1906,
+      "vei": 3,
+      "label": "Significant explosive eruption at Nakadake",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1953,
+      "vei": 2,
+      "label": "Tourist tragedy — 6 killed, ~90 injured at crater",
+      "deaths": "6",
+      "notable": true
+    },
+    {
+      "year": 2016,
+      "vei": 3,
+      "label": "Explosive eruption — 11 km column, ropeway destroyed",
+      "deaths": "0",
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": 2,
+      "label": "Most recent eruption — ash column to 3,500 m",
+      "deaths": "0",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 12,
+      "note": "Multiple vents active across the caldera floor"
+    },
+    {
+      "century": "5th",
+      "count": 1
+    },
+    {
+      "century": "6th",
+      "count": 1
+    },
+    {
+      "century": "8th",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 2
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "13th",
+      "count": 12
+    },
+    {
+      "century": "14th",
+      "count": 15
+    },
+    {
+      "century": "15th",
+      "count": 4
+    },
+    {
+      "century": "16th",
+      "count": 18
+    },
+    {
+      "century": "17th",
+      "count": 13
+    },
+    {
+      "century": "18th",
+      "count": 6
+    },
+    {
+      "century": "19th",
+      "count": 23
+    },
+    {
+      "century": "20th",
+      "count": 68
+    },
+    {
+      "century": "21st",
+      "count": 10
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 2
+    },
+    {
+      "vei": 1,
+      "count": 28
+    },
+    {
+      "vei": 2,
+      "count": 140
+    },
+    {
+      "vei": 3,
+      "count": 10
+    }
+  ],
+  "facts": [
+    "The Aso-4 eruption approximately 90,000 years ago produced over 600 km³ of pyroclastic deposits — enough material to bury the entire island of Manhattan under more than 20 km of volcanic debris.",
+    "Approximately 50,000 people live inside the Aso caldera, making it one of the only places on Earth where a sizable city exists within the structure of an active volcano.",
+    "Aso's 187 recorded eruptions make it one of the most frequently erupting volcanoes in the world — averaging approximately one eruption every 54 years across 10,000 years, but far more frequent in historical times.",
+    "The eruption of 553 CE at Nakadake was the first volcanic eruption ever documented in Japanese written records.",
+    "Nakadake's crater lake (Yudamari) has a pH of approximately 1 — roughly as acidic as concentrated hydrochloric acid — making it one of the most acidic natural water bodies on Earth.",
+    "The 2016 eruption at Nakadake sent an eruption column 11 km high — the tallest observed at Aso in modern times — and was followed just days later by the devastating M7.0 Kumamoto earthquake sequence.",
+    "The Aso caldera has a circumference of approximately 128 km and an area of roughly 350 km² — large enough to contain a small city, farms, rail lines, and an airport.",
+    "A 2014 Kobe University study estimated that a repeat of the Aso-4 eruption could deposit lethal pyroclastic flows across an area home to approximately 7 million people within two hours.",
+    "Concrete gas shelters line the paths near Nakadake crater, providing emergency refuge for tourists in the event of sudden phreatic eruptions or toxic gas surges.",
+    "The Aso Shrine, one of Japan's oldest Shinto shrines, has stood within the caldera since at least the 6th century CE — it was severely damaged by the 2016 Kumamoto earthquakes and has since been restored.",
+    "Six tourists were killed and approximately 90 injured in the 1953 phreatomagmatic eruption at Nakadake, prompting Japan's first modern volcanic hazard management protocols for tourist access.",
+    "The Kusasenri grasslands inside the caldera are maintained by annual controlled burning (noyaki), a centuries-old practice that creates the pastoral landscape iconic in Japanese images of Kyushu."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Aso still active?",
+      "answer": "Yes, Mount Aso is one of the most active volcanoes in Japan. Nakadake, the most active of the 17 central cones within the Aso caldera, has produced 187 recorded eruptions spanning approximately 10,000 years, with the most recent occurring in October 2021. The volcano has erupted at least once in nearly every century since the 6th century CE. The Japan Meteorological Agency monitors Aso continuously, and the volcanic alert level is regularly adjusted based on seismic, gas, and crater lake observations. Future eruptions at Nakadake are considered virtually certain, though predicting the timing and magnitude remains challenging."
+    },
+    {
+      "question": "When did Mount Aso last erupt?",
+      "answer": "Mount Aso's most recent eruption occurred on October 14, 2021, when the Nakadake crater produced an explosive eruption generating an ash column approximately 3,500 m high. The eruption deposited ash on nearby communities and produced pyroclastic flows that traveled about 1.6 km from the crater, though they remained within the restricted access zone. No casualties were reported. Prior to this, a more significant VEI 3 eruption occurred on October 7–8, 2016, producing an 11 km eruption column and causing substantial damage to infrastructure near the crater."
+    },
+    {
+      "question": "How big is the Aso caldera?",
+      "answer": "The Aso caldera is one of the largest volcanic calderas in the world, measuring approximately 25 km north-south by 18 km east-west, with a circumference of roughly 128 km and an area of about 350 km². The caldera was formed by four major eruptions between 300,000 and 90,000 years ago. For scale, the caldera is large enough to contain a small city — approximately 50,000 people live inside it, along with farms, roads, rail lines, hot spring resorts, and Aso Kumamoto Airport just outside the western wall. The caldera is significantly larger than famous examples like Crater Lake in Oregon (8 × 10 km) or Santorini in Greece (11 × 7 km)."
+    },
+    {
+      "question": "Can you visit the Aso crater?",
+      "answer": "Yes, when volcanic conditions permit. The Nakadake crater is accessible by a toll road from the Aso area, with a shuttle bus taking visitors to near the crater rim. At JMA Alert Level 1, visitors can walk to the viewing platforms and see the turquoise-green Yudamari crater lake. Access is restricted at Alert Level 2 (1 km exclusion zone) and closed entirely at Level 3 (2 km exclusion zone). Even at Level 1, the crater may be closed when SO₂ gas concentrations exceed safe limits. Concrete gas shelters are positioned along the paths for emergency protection. Entry fees are approximately JPY 1,200 for the shuttle bus roundtrip."
+    },
+    {
+      "question": "What type of volcano is Aso?",
+      "answer": "Aso is classified as a caldera volcano — a large volcanic depression formed by the collapse of a magma chamber after massive eruptions. The 24-km-wide caldera was formed by four caldera-forming eruptions between 300,000 and 90,000 years ago. Within the caldera, 17 post-caldera cones have been built, the most active being Nakadake. This makes Aso a complex volcanic system: a caldera with active stratovolcanic cones inside it. The dominant rock types are andesite and basaltic andesite, produced by subduction of the Philippine Sea Plate beneath the Eurasian Plate. Aso's eruption style at Nakadake ranges from Strombolian to phreatomagmatic explosions."
+    },
+    {
+      "question": "Could the Aso-4 supereruption happen again?",
+      "answer": "While a caldera-forming eruption of the Aso-4 scale (600+ km³ of pyroclastic material) is theoretically possible, volcanologists consider such an event extremely unlikely on human timescales — the last caldera-forming eruption at Aso occurred approximately 90,000 years ago, and the current state of the magmatic system shows no signs of accumulating the enormous magma volume necessary for such an eruption. However, the possibility cannot be entirely ruled out, and a 2014 Kobe University study highlighted that a repeat event could affect approximately 7 million people with lethal pyroclastic flows. Japan's national disaster preparedness plans include contingencies for large-scale volcanic events, though the primary concern at Aso remains the more frequent small-to-moderate eruptions at Nakadake."
+    },
+    {
+      "question": "How many people died in Aso eruptions?",
+      "answer": "The best-documented fatal eruption at Aso occurred on April 27, 1953, when a phreatomagmatic eruption at Nakadake killed 6 tourists and injured approximately 90 others who were visiting the crater rim. Several earlier eruptions, including the 1872–1873 event, also caused fatalities, though historical records are less precise about death tolls. No deaths have been reported from the 2016 or 2021 eruptions, partly due to improved monitoring and alert systems. The primary risk of future fatalities comes from sudden phreatic eruptions at the heavily visited Nakadake crater, where thousands of tourists may be present on busy days."
+    },
+    {
+      "question": "Why do people live inside the Aso caldera?",
+      "answer": "Approximately 50,000 people live inside the Aso caldera primarily because of the exceptionally fertile volcanic soils that support productive agriculture, the geothermal hot springs that attract tourism, and centuries of cultural attachment to the landscape. The caldera floor is relatively flat and sheltered, making it suitable for settlement. Communities have occupied the caldera since ancient times, and the Aso Shrine — one of Japan's oldest — has been located there since at least the 6th century CE. While the hazard from Nakadake's eruptions is real, the frequency of eruptions is well-known and managed through Japan's advanced monitoring and warning systems, and the caldera-forming eruptions that created the depression are extremely rare events."
+    },
+    {
+      "question": "What is the difference between Aso and Nakadake?",
+      "answer": "Aso (Asosan) refers to the entire volcanic complex, including the 24-km-wide caldera and all 17 central cones within it. Nakadake is one specific cone — the most active — located within the Aso caldera. All historical eruptions since 553 CE have occurred at Nakadake, which has a summit crater hosting the acidic Yudamari crater lake. When media reports say 'Mount Aso erupts,' they are almost always referring to activity at the Nakadake cone specifically. The Smithsonian Global Volcanism Program catalogs all eruptions under the single entry 'Asosan' (volcano number 282110), as the various cones share the same underlying magmatic system."
+    },
+    {
+      "question": "How does Aso compare to Yellowstone?",
+      "answer": "Both Aso and Yellowstone are caldera systems capable of supereruptions, but they differ significantly in scale and current activity. Yellowstone's caldera (~72 km wide) is about three times larger than Aso's (~24 km), and Yellowstone's last supereruption (~640,000 years ago) was more recent than Aso's Aso-4 event (~90,000 years ago). However, Aso is far more frequently active — Nakadake has erupted 187 times in approximately 10,000 years, while Yellowstone has not erupted in approximately 70,000 years. Aso has 50,000 residents inside its caldera; Yellowstone has none (it is a national park). Yellowstone is considered a dormant supervolcano, while Aso is an active caldera with a persistently erupting central cone."
+    }
+  ],
+  "people_also_search": [
+    "mount aso eruption",
+    "aso caldera size",
+    "is mount aso active",
+    "aso volcano tourism",
+    "nakadake crater",
+    "aso 4 eruption",
+    "mount aso vs yellowstone",
+    "kumamoto volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Aso",
+    "alternateName": [
+      "Asosan",
+      "Aso-san",
+      "阿蘇山"
+    ],
+    "description": "Active caldera volcano in Kyushu, Japan, with one of the world's largest calderas (24 km wide) and 187 recorded eruptions at the Nakadake central cone",
+    "geo": {
+      "latitude": 32.8849,
+      "longitude": 131.085,
+      "elevation": 1592
+    },
+    "containedInPlace": {
+      "name": "Kumamoto Prefecture",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/asosan"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=282110",
+      "text": "Smithsonian GVP: Asosan",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/activity_info/503.html",
+      "text": "JMA: Aso Volcanic Activity Information",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Aso",
+      "text": "Britannica: Mount Aso",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.env.go.jp/en/nature/nps/park/aso/index.html",
+      "text": "Aso-Kuju National Park (Official)",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "sakurajima",
+      "fujisan",
+      "asamayama",
+      "unzen",
+      "taupo"
+    ],
+    "country_pages": [
+      "japan"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes",
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "sakurajima",
+    "fujisan",
+    "asamayama",
+    "taupo",
+    "campi-flegrei"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Mount Aso (Asosan)",
+      "url": "/volcano/asosan"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/asosan"
+}

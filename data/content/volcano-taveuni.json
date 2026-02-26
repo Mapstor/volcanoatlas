@@ -1,0 +1,347 @@
+{
+  "slug": "taveuni",
+  "volcano_id": 245010,
+  "title": "Taveuni Volcano",
+  "meta_title": "Taveuni Volcano — Eruption History, Garden Island & Facts | VolcanoAtlas",
+  "meta_description": "Taveuni is a 1,241 m basaltic shield volcano in Fiji with ~150 cones and 34 recorded eruptions. Explore its volcanic history, ecology, and visitor guide.",
+  "quick_answer": {
+    "what": "Taveuni is a massive, elongated basaltic shield volcano forming the third-largest island in Fiji, rising to 1,241 m (4,072 ft) with approximately 150 volcanic cones along a 40-km-long NE-SW rift.",
+    "status": "Dormant — the last known eruption occurred around 1550 CE at the southern tip of the island. The volcano has produced at least 34 eruptions over the past 10,000 years.",
+    "famous_for": "Being known as Fiji's 'Garden Island' for its extraordinarily rich volcanic soils, its prolific eruption history with ~150 cones, and the Bouma National Heritage Park rainforest.",
+    "danger_level": "Low to moderate — the volcano has been quiet for approximately 475 years, but the eruption record shows frequent activity over the Holocene. Approximately 14,000 people live on the island."
+  },
+  "hero": {
+    "name": "Taveuni",
+    "local_name": "Taveuni",
+    "subtitle": "Fiji's Garden Island — 150 Cones on a 40-Kilometer Rift",
+    "country": "Fiji",
+    "region": "Fiji Volcanic Arc",
+    "type": "Shield",
+    "elevation_m": 1241,
+    "elevation_ft": 4072,
+    "status": "Dormant",
+    "last_eruption": "~1550 CE",
+    "coordinates": {
+      "lat": -16.8412,
+      "lon": -179.9644
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-12560.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,241 m (4,072 ft)",
+    "type": "Shield volcano",
+    "status": "Dormant",
+    "last_eruption": "~1550 CE",
+    "first_known_eruption": "~8040 BCE",
+    "total_recorded_eruptions": 34,
+    "vei_max": "2 (multiple events)",
+    "country": "Fiji",
+    "region": "Southwestern Pacific Volcanic Regions, Fiji Volcanic Arc",
+    "tectonic_setting": "Subduction zone / Crustal thickness unknown",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "16.841S, 179.964W",
+    "nearest_city": "Suva (Fiji capital) — ~200 km SW",
+    "population_on_island": "~14,000",
+    "island_dimensions": "~40 km long, ~12 km wide",
+    "volcanic_cones": "~150 along NE-SW rift",
+    "protected_areas": "Bouma National Heritage Park, Taveuni Forest Reserve",
+    "monitoring_agency": "Mineral Resources Department of Fiji",
+    "smithsonian_id": "245010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=245010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Taveuni is a massive, elongated basaltic <a href=\"/types-of-volcanoes\">shield volcano</a> forming the third-largest island in Fiji, rising to 1,241 m (4,072 ft) above sea level in the southwestern Pacific. Known as Fiji's 'Garden Island' for its remarkably lush tropical vegetation sustained by rich volcanic soils, Taveuni is one of the most volcanically prolific islands in the Pacific basin, with approximately 150 volcanic cones distributed along a 40-km-long NE-SW rift zone that runs the entire length of the island. The Smithsonian Global Volcanism Program records 34 eruptions spanning from approximately 8040 BCE to around 1550 CE, with at least 58 eruptions estimated since the first human settlements around 950-750 BCE. A period of voluminous eruptions between approximately 300 and 500 CE was so intense that it caused abandonment of the southern part of the island until about 1100 CE. Despite its approximately 475-year repose since the last known eruption, Taveuni's prolific Holocene record suggests the volcano should be considered dormant rather than extinct. Approximately 14,000 people live on the island today, concentrated primarily along the western coast. Taveuni lies within the Fiji Volcanic Arc, though its precise tectonic context remains debated."
+    },
+    "geology_and_formation": {
+      "content": "Taveuni is a large basaltic shield volcano whose subaerial portion represents only the upper section of a much larger volcanic edifice rising from the seafloor. The island measures approximately 40 km long and 12 km wide, with the axial rift zone running along its spine in a NE-SW orientation. Approximately 150 volcanic cones — scoria cones, cinder cones, and small shield structures — are distributed along this rift, with a few additional cones located to the west of the axial zone in the central part of the island. The rock types are predominantly basalt and picro-basalt, reflecting the relatively primitive, low-silica magmas that characterize shield volcanism. These mafic compositions produce relatively fluid lavas and moderate explosive activity (primarily Strombolian-style eruptions building cinder cones), in contrast to the violent Plinian eruptions typical of more silica-rich <a href=\"/types-of-volcanoes\">stratovolcanoes</a>. The tectonic setting is classified as a subduction zone within the Fiji Volcanic Arc, though the crustal thickness beneath Taveuni is unknown, and the island's position relative to the modern plate boundary is complex. Taveuni sits near the 180th meridian — the International Date Line — adding a geographic curiosity to its volcanic interest."
+    },
+    "eruption_history_overview": {
+      "content": "Taveuni's 34 Smithsonian-recorded eruptions span approximately 10,000 years, from ~8040 BCE to ~1550 CE. However, geological investigations suggest at least 58 eruptions occurred since the first human settlements on the island (approximately 950-750 BCE), making it one of the most frequently active volcanoes in the Fiji-Tonga-Vanuatu region over that timeframe. All recorded eruptions are rated <a href=\"/volcanic-explosivity-index\">VEI</a> 0-2, consistent with the basaltic magma composition producing Strombolian to small explosive events and lava flows. The eruption locations have been concentrated in the southern two-thirds of the island, with activity migrating along the rift zone over time. A particularly active period between approximately 300 and 500 CE — producing eruptions from multiple vents in quick succession — was so disruptive that it forced the abandonment of the southern part of the island by its Polynesian inhabitants for roughly 600 years."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 300-500 CE Eruption Cluster — Abandonment of Southern Taveuni",
+          "content": "Between approximately 300 and 500 CE, Taveuni experienced a prolonged episode of voluminous eruptions that fundamentally altered the island's human geography. Multiple cones along the southern portion of the rift zone erupted in relatively rapid succession, producing lava flows and tephra deposits that rendered the southern third of the island uninhabitable. Archaeological evidence indicates that Polynesian settlements in southern Taveuni were abandoned during this period, and the area was not resettled until approximately 1100 CE — a gap of roughly 600 years. This eruption cluster included activity from the Tavuyaga, Ngatutu, and Ngatavo areas, as well as cones in the central Tagimoucea and Des Voeux Peak regions. The episode illustrates how even relatively modest (VEI 2) eruptions, when occurring frequently and across a wide area, can have severe cumulative impacts on human populations."
+        },
+        {
+          "title": "The ~1550 CE Eruption — The Last Known Activity",
+          "content": "The most recent known eruption on Taveuni produced a lava flow at the island's southern tip (near South Cape) sometime between approximately 1450 and 1650 CE, with the best estimate around 1550 CE. This VEI 0 event was effusive rather than explosive, producing a basaltic lava flow that extended to the coast. The young, unvegetated appearance of the lava flow at South Cape is clearly distinguishable from the surrounding older terrain. While relatively small, this eruption demonstrates that the rift zone remained active into the recent historical period, and the absence of eruptions in the approximately 475 years since should not be taken as evidence that the volcano is extinct."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Taveuni has shown no eruptive activity for approximately 475 years, and the volcano is not currently exhibiting signs of unrest. Monitoring capabilities on the island are limited compared to volcanoes in more heavily instrumented regions. Fiji's Mineral Resources Department maintains general awareness of volcanic hazards, but dedicated real-time monitoring infrastructure (seismometers, GPS, gas sensors) specifically for Taveuni is minimal. Given the volcano's prolific Holocene eruption record — with activity documented as recently as the mid-16th century — volcanologists consider future eruptions on Taveuni plausible, particularly along the still-active NE-SW rift zone. The primary gap in hazard preparedness is the lack of continuous instrumental monitoring that would detect early signs of renewed magmatic activity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The primary hazards from future eruptions on Taveuni would include lava flows, Strombolian explosive activity producing cinder and ash, and the construction of new volcanic cones, potentially in areas now occupied by communities or agricultural land. The basaltic composition means pyroclastic flows and Plinian-style eruptions are unlikely; instead, the hazards would resemble those of Hawaiian or Strombolian volcanism — primarily lava flows and localized tephra fall. The approximately 14,000 residents of Taveuni live mainly along the western coast and in scattered settlements throughout the island. A new eruption along the rift zone could require evacuation of nearby communities, though advance warning would likely be provided by precursory seismic activity if monitoring were in place. The island's relatively limited road network and transportation infrastructure could complicate evacuation logistics."
+    },
+    "geography_and_physical_description": {
+      "content": "Taveuni is a striking volcanic island stretching approximately 40 km from northeast to southwest, with a maximum width of about 12 km. The island's spine is defined by the volcanic rift zone, along which approximately 150 cones create a rugged, undulating ridgeline. The highest point, Des Voeux Peak, reaches 1,241 m. The central highlands support Lake Tagimoucia, a volcanic crater lake at approximately 830 m elevation, famous for the tagimoucia flower (Medinilla waterhousei) — Fiji's national flower, which grows only on the lake's shores and nowhere else on Earth. The island's eastern (windward) side receives heavy rainfall, supporting dense tropical rainforest protected within the Bouma National Heritage Park. The western (leeward) coast is drier and hosts most of the island's settlements and agriculture. Taveuni's soils — deeply weathered volcanic material enriched with nutrients — are among the most fertile in the Pacific, supporting abundant agriculture including copra, cocoa, and tropical fruits."
+    },
+    "cultural_significance": {
+      "content": "Taveuni holds a special place in Fijian culture and identity. The island is home to the Tui Cakau, one of Fiji's highest-ranking traditional chiefs, and has been an important center of Fijian chiefly culture for centuries. The volcanic soils that make Taveuni the 'Garden Island' have sustained Fijian agricultural communities for over a millennium, and the eruption-forced abandonment of southern Taveuni between ~300-1100 CE is recorded in oral traditions. The tagimoucia flower, growing only at Lake Tagimoucia in the volcanic highlands, is Fiji's national flower and the subject of Fijian legends about a princess whose tears formed the flower. The International Date Line originally passed through the island, and a marker at Waiyevo commemorates the 180th meridian. Today, Taveuni's pristine coral reefs and rainforests make it one of Fiji's premier eco-tourism destinations."
+    },
+    "visiting_and_tourism": {
+      "content": "Taveuni is one of Fiji's most popular eco-tourism destinations, offering world-class diving, rainforest trekking, and birdwatching in a relatively unspoiled volcanic landscape. The Bouma National Heritage Park protects over 80% of the island's remaining rainforest and offers hiking trails to the Tavoro Waterfalls — a series of three cascades in a lush volcanic gorge. The Rainbow Reef, off Taveuni's coast, is considered one of the world's best soft-coral dive sites. Lake Tagimoucia, in the volcanic highlands, is accessible via a challenging day hike and is the only place on Earth where the tagimoucia flower grows. The island is accessible by domestic flights from Suva and Nadi to Matei Airport, or by ferry from Suva. Accommodation ranges from backpacker lodges to eco-resorts. The volcanic geology is integral to the tourism experience: the lush vegetation, fertile gardens, and dramatic landscapes are all direct products of Taveuni's volcanic heritage."
+    },
+    "nearby_volcanoes": {
+      "content": "Taveuni is one of only two volcanoes in Fiji recorded in the Smithsonian database, the other being Nabukelevu (791 m) on Kadavu Island, a lava dome complex that last erupted around 1660 CE. The broader southwestern Pacific region is intensely volcanic: <a href=\"/volcanoes-in-tonga\">Tonga</a> to the east hosts numerous active submarine and island volcanoes including <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a>, while <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a> to the west contains highly active centers such as Yasur and <a href=\"/volcano/ambrym\">Ambrym</a>."
+    },
+    "etymology": {
+      "content": "The name Taveuni is of Fijian origin. In the iTaukei (indigenous Fijian) language, the island's full ceremonial name reflects its importance in Fijian chiefly hierarchies. The nickname 'Garden Island' (in English) references the exceptional fertility of its volcanic soils, which support some of the lushest vegetation in the Pacific Islands."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Taveuni Compared to Pacific Island Shield Volcanoes",
+      "description": "How does Taveuni compare to other volcanic islands in the southwestern Pacific?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Taveuni",
+          "Fiji",
+          "1,241 m",
+          "Shield",
+          "~1550",
+          "34"
+        ],
+        [
+          "Ambae",
+          "Vanuatu",
+          "1,496 m",
+          "Shield",
+          "2025",
+          "15+"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Shield (pyroclastic)",
+          "2024",
+          "50+"
+        ],
+        [
+          "Niuafo'ou",
+          "Tonga",
+          "260 m",
+          "Shield",
+          "1946",
+          "10"
+        ],
+        [
+          "Nabukelevu",
+          "Fiji",
+          "791 m",
+          "Lava dome(s)",
+          "~1660",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8040,
+      "vei": 2,
+      "label": "Earliest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 350,
+      "vei": 2,
+      "label": "Des Voeux Peak area eruption — part of 300-500 CE cluster",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 480,
+      "vei": 2,
+      "label": "Tagimoucea area eruption during major active phase",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1160,
+      "vei": 2,
+      "label": "Southern Taveuni (Vana Kei Vuna) eruption after resettlement",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1550,
+      "vei": 0,
+      "label": "Last known eruption — lava flow near South Cape",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (before 1 CE)",
+      "count": 19,
+      "note": "~8040 BCE to ~90 BCE — frequent rift activity"
+    },
+    {
+      "century": "1st-5th",
+      "count": 7,
+      "note": "Including the devastating 300-500 CE cluster"
+    },
+    {
+      "century": "6th-10th",
+      "count": 3,
+      "note": "Reduced activity period"
+    },
+    {
+      "century": "11th-15th",
+      "count": 4,
+      "note": "1020-1420 CE — post-resettlement eruptions"
+    },
+    {
+      "century": "16th",
+      "count": 1,
+      "note": "~1550 CE — last known eruption"
+    }
+  ],
+  "facts": [
+    "Taveuni has approximately 150 volcanic cones distributed along a 40-km-long NE-SW rift zone — one of the densest concentrations of volcanic vents on any single Pacific island.",
+    "At least 58 eruptions have occurred on Taveuni since the first human settlements around 950-750 BCE, making it one of the most frequently active volcanoes in the Fiji-Tonga region over that period.",
+    "A period of voluminous eruptions between ~300 and 500 CE forced the abandonment of southern Taveuni for approximately 600 years.",
+    "Lake Tagimoucia, a volcanic crater lake at ~830 m elevation, is the only place on Earth where Fiji's national flower (tagimoucia, Medinilla waterhousei) grows.",
+    "Taveuni's volcanic soils are among the most fertile in the Pacific, earning it the nickname 'Garden Island.'",
+    "The island sits near the 180th meridian — the International Date Line — and a marker at Waiyevo commemorates this geographic curiosity.",
+    "All 34 recorded eruptions are VEI 0-2, reflecting the basaltic shield volcano's relatively gentle eruption style compared to explosive stratovolcanoes.",
+    "Taveuni is Fiji's third-largest island, measuring approximately 40 km long and 12 km wide.",
+    "The Rainbow Reef off Taveuni's coast is considered one of the world's premier soft-coral diving sites.",
+    "Approximately 14,000 people live on Taveuni today, concentrated primarily along the western coast.",
+    "The last known eruption (~1550 CE) produced a lava flow at the island's southern tip that remains clearly distinguishable from the surrounding older terrain.",
+    "The Bouma National Heritage Park protects over 80% of Taveuni's remaining rainforest, which grows on volcanic slopes enriched by millennia of eruptions."
+  ],
+  "faqs": [
+    {
+      "question": "Is Taveuni an active volcano?",
+      "answer": "Taveuni is classified as a dormant shield volcano. Its last known eruption occurred around 1550 CE — approximately 475 years ago. However, the geological record reveals 34 eruptions over the past 10,000 years, with at least 58 eruptions since human settlement began around 950-750 BCE. This prolific history suggests future eruptions are plausible, though not imminent. The volcano's basaltic composition means any future activity would likely produce lava flows and Strombolian-style explosive events rather than catastrophic explosions."
+    },
+    {
+      "question": "How many volcanic cones are on Taveuni?",
+      "answer": "Taveuni has approximately 150 volcanic cones distributed along a 40-km-long NE-SW rift zone that runs the length of the island. These include scoria cones, cinder cones, and small shield structures. This is one of the densest concentrations of volcanic vents on any single Pacific island. Most cones are in the southern two-thirds of the island, reflecting the preferential location of rift-zone eruptions."
+    },
+    {
+      "question": "Why is Taveuni called the Garden Island?",
+      "answer": "Taveuni is called the 'Garden Island' because its volcanic soils are among the most fertile in the Pacific, supporting extraordinarily lush tropical vegetation. The deeply weathered basaltic material is rich in nutrients, enabling dense rainforest growth, productive agriculture (copra, cocoa, tropical fruits), and the unique botanical heritage of sites like Lake Tagimoucia, where Fiji's national flower grows. The entire island's ecology is fundamentally shaped by its volcanic origins."
+    },
+    {
+      "question": "What is Lake Tagimoucia?",
+      "answer": "Lake Tagimoucia is a volcanic crater lake at approximately 830 m elevation in Taveuni's central highlands. It is famous as the only place on Earth where the tagimoucia flower (Medinilla waterhousei) — Fiji's national flower — grows naturally. The lake formed within one of Taveuni's many volcanic craters and is surrounded by cloud forest. It is accessible via a challenging day hike from the coast and is a significant cultural and botanical site in Fiji."
+    },
+    {
+      "question": "Is Taveuni safe to visit?",
+      "answer": "Yes, Taveuni is considered safe to visit. The volcano has not erupted in approximately 475 years and shows no current signs of unrest. The island is one of Fiji's premier eco-tourism destinations, offering world-class diving (Rainbow Reef), rainforest trekking (Bouma National Heritage Park), and unique volcanic landscapes. While future eruptions are theoretically possible, the current risk is very low. Standard travel precautions for tropical Pacific islands apply."
+    },
+    {
+      "question": "When did Taveuni last erupt?",
+      "answer": "Taveuni's last known eruption occurred around 1550 CE (estimated range 1450-1650 CE), producing a basaltic lava flow at the island's southern tip near South Cape. This was a small, effusive (VEI 0) event. Before that, the island had been intermittently active for over 10,000 years, with a particularly intense period of eruptions between 300 and 500 CE that forced human abandonment of the southern part of the island."
+    }
+  ],
+  "people_also_search": [
+    "taveuni fiji diving",
+    "garden island fiji",
+    "taveuni volcano active",
+    "lake tagimoucia",
+    "fiji volcanoes",
+    "bouma national heritage park",
+    "rainbow reef fiji"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Taveuni",
+    "alternateName": [
+      "Garden Island"
+    ],
+    "description": "Massive basaltic shield volcano forming Fiji's third-largest island, with approximately 150 volcanic cones along a 40-km rift zone",
+    "geo": {
+      "latitude": -16.8412,
+      "longitude": -179.9644,
+      "elevation": 1241
+    },
+    "containedInPlace": {
+      "name": "Cakaudrove Province",
+      "country": "Fiji"
+    },
+    "url": "https://volcanoatlas.com/volcano/taveuni"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=245010",
+      "text": "Smithsonian GVP: Taveuni",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Fiji-republic-Pacific-Ocean",
+      "text": "Britannica: Fiji",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "hunga-tonga-hunga-ha-apai",
+      "yasur",
+      "ambrym",
+      "ambae"
+    ],
+    "country_pages": [
+      "fiji",
+      "tonga",
+      "vanuatu"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "ambae",
+    "ambrym",
+    "yasur",
+    "hunga-tonga-hunga-ha-apai"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Fiji",
+      "url": "/volcanoes-in-fiji"
+    },
+    {
+      "label": "Taveuni",
+      "url": "/volcano/taveuni"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/taveuni"
+}

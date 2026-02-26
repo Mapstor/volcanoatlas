@@ -1,0 +1,461 @@
+{
+  "slug": "masaya",
+  "volcano_id": 344100,
+  "title": "Masaya Volcano",
+  "meta_title": "Masaya Volcano — Lava Lake, Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Masaya is a 594 m active basaltic caldera in Nicaragua with 40 recorded eruptions and a persistent lava lake. Explore its full eruption history, hazards, and visitor guide.",
+  "quick_answer": {
+    "what": "Masaya is an active basaltic caldera volcano in southwestern Nicaragua, rising to 594 m (1,949 ft) within the massive Pleistocene Las Sierras caldera, approximately 20 km southeast of Managua.",
+    "status": "Active — currently erupting. A lava lake has been visible in Santiago crater since December 2015. Continuously monitored by INETER.",
+    "famous_for": "Its persistently active lava lake in Santiago crater, one of only a handful of stable lava lakes on Earth, and its role as the first volcano in the Americas described by European explorers.",
+    "danger_level": "Significant — approximately 1.5 million people in the Managua metropolitan area live within 25 km of the caldera. Degassing hazards affect nearby communities year-round."
+  },
+  "hero": {
+    "name": "Masaya Volcano",
+    "local_name": "Volcán Masaya",
+    "subtitle": "Nicaragua's Gateway to the Underworld",
+    "country": "Nicaragua",
+    "region": "Central America",
+    "type": "Caldera",
+    "elevation_m": 594,
+    "elevation_ft": 1949,
+    "status": "Active — currently erupting",
+    "last_eruption": "2015–present",
+    "coordinates": {
+      "lat": 11.9844,
+      "lon": -86.1688
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04177.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "594 m (1,949 ft)",
+    "type": "Caldera (basaltic shield-like)",
+    "status": "Active — currently erupting",
+    "last_eruption": "2015–present (lava lake active since December 2015)",
+    "first_known_eruption": "~4050 BCE (VEI 6 Plinian event)",
+    "total_recorded_eruptions": 40,
+    "vei_max": "6 (~4050 BCE basaltic Plinian eruption)",
+    "country": "Nicaragua",
+    "region": "Central American Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate",
+    "rock_types": [
+      "Basalt",
+      "Picro-basalt"
+    ],
+    "coordinates": "11.984°N, 86.169°W",
+    "nearest_city": "Managua — 20 km northwest",
+    "population_at_risk": "~1.5 million (Managua metropolitan area)",
+    "caldera_dimensions": "6 × 11 km with walls up to 300 m high",
+    "protected_status": "Parque Nacional Volcán Masaya (est. 1979, first national park in Nicaragua)",
+    "monitoring_agency": "INETER — Instituto Nicaragüense de Estudios Territoriales",
+    "smithsonian_id": "344100",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=344100"
+  },
+  "sections": {
+    "overview": {
+      "content": "Masaya is an active basaltic <a href=\"/types-of-volcanoes\">caldera</a> volcano in southwestern <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>, located approximately 20 km (12 mi) southeast of the capital city Managua and rising to just 594 m (1,949 ft) above sea level. It is one of the most persistently active volcanoes in Central America and one of only a handful of volcanoes on Earth to host a long-lived lava lake, which has been continuously visible in the Santiago crater since December 2015. The volcano sits within the Central American Volcanic Arc, produced by the subduction of the Cocos Plate beneath the Caribbean Plate at a rate of approximately 85 mm per year.\n\nMasaya is not a single peak but a broad, 6 × 11 km caldera complex nestled within the much larger Pleistocene Las Sierras caldera. The caldera floor contains more than a dozen vents arranged along a circular fracture system roughly 4 km in diameter, with the Nindirí and Masaya cones at the southern end serving as the source of virtually all historically observed eruptions. Santiago crater, the presently active vent within the Nindirí cone complex, has been the focus of volcanic activity for at least the past 150 years. With 40 recorded eruptions spanning over 6,000 years, Masaya ranks among the <a href=\"/most-active-volcanoes\">most frequently erupting volcanoes</a> in the Americas. Its combination of persistent degassing, proximity to a major capital city, and accessible lava lake make it both a significant volcanic hazard and one of the most visited volcanoes in <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>, drawing tens of thousands of tourists annually to the Parque Nacional Volcán Masaya, the country's first national park."
+    },
+    "geology_and_formation": {
+      "content": "Masaya's geological history begins with the formation of the Las Sierras caldera during the Pleistocene, a massive structure that produced widespread ignimbrite deposits across the Nicaraguan lowlands. Within this older caldera, the modern Masaya caldera formed through a series of large explosive eruptions and collapse events. The most significant of these occurred approximately 6,050 years ago, when a major basaltic Plinian eruption — a rare and remarkable type of eruption for such low-viscosity magma — ejected an estimated 8 km³ of tephra and triggered caldera collapse. This VEI 6 event, known as the Masaya Triple Layer tephra, is one of the largest known basaltic Plinian eruptions in the geological record and is a subject of ongoing volcanological research precisely because such explosive behavior from basaltic magma is unusual.\n\nThe Masaya volcanic complex is part of the Central American Volcanic Arc, which stretches approximately 1,500 km from Guatemala to Panama. The arc is generated by the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench. Unlike many subduction zone volcanoes that erupt viscous, silica-rich magma, Masaya produces predominantly basaltic to picritic basalt lavas — among the most fluid magma compositions found at any convergent plate boundary. This unusual chemistry is attributed to the relatively thin continental crust beneath western Nicaragua (approximately 30–35 km) and the high rate of mantle melting caused by volatile-rich fluids released from the subducting slab.\n\nThe caldera floor is filled with overlapping lava flows from numerous Holocene eruptions, and a shallow lake occupies the far eastern end. The steep caldera walls, reaching up to 300 m in height, expose layered sequences of lava flows, scoria deposits, and pyroclastic material that record thousands of years of eruptive activity. The Nindirí and Masaya cones, built at the southern margin of the ring fracture system, have multiple nested summit craters — Santiago, Nindirí, San Pedro, and Masaya — that reflect shifting vent positions over centuries. Compared to other <a href=\"/types-of-volcanoes\">caldera</a> systems like <a href=\"/volcano/santorini\">Santorini</a> or Campi Flegrei, Masaya is distinctive for its basaltic composition, persistent open-vent degassing, and relatively frequent but generally low-explosivity eruptions."
+    },
+    "eruption_history_overview": {
+      "content": "Masaya's eruptive record spans at least 6,000 years and includes 40 documented eruptions ranging from massive VEI 6 Plinian events to prolonged periods of gentle lava lake activity and vigorous degassing. The volcano's eruption history divides broadly into three phases: a prehistoric period of powerful explosive eruptions (including the ~4050 BCE VEI 6 event, a ~170 BCE VEI 5 event, and a 150 CE VEI 5 event); a colonial and early modern period characterized by lava lake activity and occasional lava overflows (1524–1772); and a modern period of frequent low-level activity dominated by phreatic and Strombolian eruptions from Santiago crater (1852–present).\n\nSince the arrival of Spanish colonists in the 1520s, Masaya has erupted at least 36 times. Activity has been particularly frequent since the mid-19th century, with eruptions recorded in nearly every decade from 1852 onward. The most significant historical eruption occurred in 1670, when a VEI 3 lava flow from Nindirí crater overtopped the northern caldera rim — the only time in recorded history that lava has breached the caldera walls. The current eruptive episode, which began in October 2015 with the reappearance of a lava lake in Santiago crater, continues to the present day and represents one of the longest-sustained periods of surface lava visibility in the volcano's modern record."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~4050 BCE Basaltic Plinian Eruption — VEI 6",
+          "content": "The largest known eruption of Masaya occurred approximately 6,000 years ago, producing what volcanologists call the Masaya Triple Layer tephra. This VEI 6 event was a basaltic Plinian eruption — an exceptionally rare type of eruption in which low-viscosity basaltic magma generates a sustained, high-altitude eruption column typically associated only with more viscous silicic magmas. The eruption ejected an estimated 8 km³ of tephra, producing widespread fallout deposits across western Nicaragua and triggering significant caldera collapse. The event is of considerable scientific interest because it challenges conventional models of explosive volcanism: basaltic magma's low viscosity normally allows volcanic gases to escape gradually, preventing the buildup of pressure required for Plinian-style explosions. Research suggests that exceptionally high magma ascent rates and rapid crystallization may have enabled the volatile retention needed for such an explosive event. This eruption is considered the formative event in creating the modern Masaya caldera."
+        },
+        {
+          "title": "The 1524–1544 Eruption — The Spanish Encounter",
+          "content": "When Spanish conquistadors first reached Masaya in 1524, they found an active lava lake glowing within Nindirí crater. The sight was so extraordinary that Friar Blas del Castillo descended into the crater in 1529 with a metal pot, attempting to extract what the Spaniards believed to be molten gold — only to discover upon cooling that the material was common basalt rock. This event is among the earliest documented scientific experiments involving volcanic material in the Americas. The Spanish erected a cross on the crater rim, naming it 'La Boca del Infierno' (The Mouth of Hell), and attempted to perform exorcisms. The indigenous Chorotega people had long regarded the volcano as sacred, and it is documented that offerings — including, according to some Spanish accounts, human sacrifices — were made to appease the volcanic deity. The lava lake persisted intermittently for approximately two decades during this period."
+        },
+        {
+          "title": "The 1670 Eruption — Lava Overflows the Caldera",
+          "content": "The 1670 eruption was the most significant historical eruption of Masaya, rated VEI 3. Vigorous lava effusion from Nindirí crater produced flows that spread across the caldera floor and, in an unprecedented event, overtopped the northern caldera rim. The lava flowed several kilometers down the outer slopes of the caldera, destroying farmland and threatening communities. This remains the only documented instance of lava breaching the Masaya caldera walls. The eruption demonstrated that despite Masaya's generally low-explosivity character, the volcano is capable of producing voluminous lava flows that can impact areas well beyond the caldera itself. The remnants of the 1670 flow are still clearly visible on the landscape north of the caldera today."
+        },
+        {
+          "title": "The 1772 Eruption — Birth of Santiago Crater",
+          "content": "On March 16, 1772, an eruption opened a new vent on the north side of the old Masaya crater, creating what is now known as Santiago crater — the vent that has been the focus of all subsequent activity. The eruption was accompanied by strong explosions and a notable lava flow. Santiago crater gradually deepened and widened through subsequent activity, eventually becoming the dominant vent of the entire complex. The 1772 eruption marks a pivotal transition in Masaya's behavior, shifting the locus of activity from the Nindirí crater complex to Santiago, where it has remained for over 250 years."
+        },
+        {
+          "title": "The 2015–Present Eruption — Return of the Lava Lake",
+          "content": "In December 2015, a lava lake reappeared in the inner pit of Santiago crater, marking the beginning of the current eruptive episode that continues to the present. The lava lake, typically 30–40 m in diameter, has been remarkably persistent, making Masaya one of approximately six to eight volcanoes worldwide hosting a stable lava lake alongside <a href=\"/volcano/nyiragongo\">Nyiragongo</a>, <a href=\"/volcano/erta-ale\">Erta Ale</a>, <a href=\"/volcano/kilauea\">Kīlauea</a>, and Ambrym. The lake's visibility has varied over the years — at times vigorously churning with fountaining, at other times crusting over — but it has remained essentially continuous. The current episode has transformed Masaya into a major tourist attraction, with visitors able to drive to within a few hundred meters of the crater rim and peer directly into the incandescent lava lake at night. The eruption has been rated VEI 1, reflecting its generally effusive and low-explosivity character, though persistent SO₂ emissions have caused ongoing environmental and health concerns for downwind communities."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Masaya is currently in an active eruptive state. The lava lake that appeared in Santiago crater in December 2015 has been present, with fluctuations, for nearly a decade — one of the longest sustained lava lake episodes in the volcano's historical record. The lava lake surface typically ranges from 30 to 50 m in diameter and sits approximately 400–500 m below the crater rim. Periodic increases in volcanic tremor, changes in SO₂ flux, and variations in lava lake level are monitored continuously.\n\nThe volcano is monitored by INETER (Instituto Nicaragüense de Estudios Territoriales), which operates a network of seismometers, gas-monitoring stations, and webcams around the caldera. SO₂ emissions from Santiago crater are among the highest of any persistently degassing volcano on Earth, typically ranging from 500 to 2,000 tonnes per day and occasionally spiking significantly higher. These emissions create a visible volcanic plume that drifts predominantly westward, affecting air quality in communities downwind. INETER maintains alert levels and issues advisories when emission rates or seismic activity increase. Scientists consider the current open-vent, degassing behavior to represent a relatively stable volcanic state, though the potential for sudden phreatic explosions or lava overflow events cannot be excluded."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Masaya presents a complex and somewhat unusual hazard profile. Unlike many subduction zone volcanoes where the primary threat is explosive eruption, Masaya's most persistent hazard is chronic volcanic gas emission. The volcano releases enormous quantities of sulfur dioxide (SO₂), hydrochloric acid (HCl), and hydrofluoric acid (HF), which damage crops, corrode infrastructure, and pose respiratory health risks for communities within a 10–15 km radius downwind of the crater. Agricultural losses attributed to Masaya's gas emissions have been documented repeatedly over the past century, and periods of intensified degassing — occurring at roughly quarter-century intervals — have forced temporary evacuations.\n\nThe prehistoric record, however, reveals a far more dangerous potential. The ~4050 BCE VEI 6 Plinian eruption demonstrates that Masaya is capable of catastrophic explosive activity, despite its basaltic composition. A repeat of such an eruption would devastate the entire Managua metropolitan area, home to approximately 1.5 million people located just 20 km from the caldera. The 1670 lava overflow also demonstrated the potential for lava flows to breach the caldera walls and impact surrounding lowlands. Other hazards include phreatic explosions (Santiago crater has produced ballistic projectiles reaching the crater rim on several occasions), lahars generated by heavy rainfall mobilizing loose volcanic deposits, and caldera wall collapse. Compared to nearby volcanoes like <a href=\"/volcano/fuego\">Fuego</a> in <a href=\"/volcanoes-in-guatemala\">Guatemala</a> or <a href=\"/volcano/colima\">Colima</a> in <a href=\"/volcanoes-in-mexico\">Mexico</a>, Masaya's typical eruptions are less violently explosive, but its proximity to a major capital city and its capacity for rare Plinian events place it among Central America's highest-risk volcanoes."
+    },
+    "geography_and_physical_description": {
+      "content": "Masaya sits within the Nicaraguan Depression, a tectonic graben running parallel to the Pacific coast that contains most of the country's major volcanoes and lakes. The caldera complex occupies a broad, low-lying area at 594 m (1,949 ft) elevation — making it one of the lowest-elevation active volcanoes in Central America. The outer caldera measures approximately 6 × 11 km and is bounded by near-vertical walls up to 300 m high, composed of layered basaltic lava flows and pyroclastic deposits. The caldera floor is remarkably flat, covered by overlapping lava flows from centuries of eruption, with sparse vegetation reclaiming the younger flows and a shallow lake (Laguna de Masaya) filling the eastern end.\n\nThe active volcanic complex sits at the southern margin of the caldera floor, where the Nindirí and Masaya cones form a broad, low shield-like edifice punctured by multiple craters. Santiago crater, the presently active vent, is a deep, roughly circular pit approximately 500 m in diameter and over 200 m deep, with near-vertical inner walls. Adjacent craters include Nindirí, San Pedro, and the old Masaya crater, each representing former active vents now quiet. Approximately 40 cinder cones dot the caldera floor and flanks, built by eruptions along the ring fracture system. The landscape surrounding the caldera transitions rapidly from barren, gas-scorched rock near Santiago crater to tropical dry forest on the caldera walls and outer slopes, creating a striking ecological gradient visible even from the crater rim viewpoints."
+    },
+    "climate_and_global_impact": {
+      "content": "Masaya's eruptions have generally not produced global climate impacts, as its typical activity consists of low-altitude, low-volume eruptions that do not inject significant quantities of aerosol into the stratosphere. The prehistoric VEI 6 eruption of ~4050 BCE may have had regional climate effects through the injection of large volumes of sulfur-rich tephra into the upper atmosphere, but pre-historic climate records are insufficient to quantify this impact.\n\nHowever, Masaya is significant in volcanological climate research for a different reason: its persistent, high-volume SO₂ degassing provides a natural laboratory for studying the atmospheric fate of volcanic sulfur emissions. Scientists from institutions including NASA and the U.S. Geological Survey have used Masaya as a field site for testing remote sensing instruments designed to measure volcanic gas emissions from space. The volcano's continuous SO₂ plume is routinely detected by satellite instruments such as the Tropospheric Monitoring Instrument (TROPOMI) aboard Sentinel-5P, and Masaya has served as a calibration target for these observations. While the volcano's individual eruptions have negligible global climate influence, its sustained degassing contributes measurably to the regional sulfur budget of Central America."
+    },
+    "cultural_significance": {
+      "content": "Masaya occupies a prominent place in Nicaraguan cultural identity and in the history of European encounter with the Americas' volcanoes. The indigenous Chorotega people named the volcano 'Masaya,' meaning 'burning mountain,' and regarded it as a powerful spiritual site. Spanish accounts from the 16th century record that the Chorotega made offerings at the crater rim, and the volcano featured prominently in indigenous cosmology as a gateway to the spirit world.\n\nWhen Spanish conquistadors arrived in the 1520s, they were astonished by the glowing lava lake — interpreting it through their own religious framework as a literal mouth of Hell. The famous expedition by Friar Blas del Castillo in 1529, lowering himself into the crater to collect 'molten gold,' is one of the earliest documented attempts at volcanic sampling in the Western Hemisphere and appears in numerous historical accounts of the Conquest. The Spanish erected crosses at the crater rim to 'exorcise' the volcano, establishing a tradition that persists today — a large illuminated cross, the Cruz de Bobadilla, still stands on the crater's edge.\n\nIn modern Nicaragua, Masaya National Park (established 1979) is the country's first and most visited national park. The volcano is a source of national pride and a symbol of Nicaragua's volcanic landscape. Local artisans in the nearby city of Masaya — one of Nicaragua's cultural capitals and famous for its markets and handicrafts — have long drawn artistic inspiration from the volcano."
+    },
+    "visiting_and_tourism": {
+      "content": "Masaya is one of the most accessible active volcanoes in the world and among the easiest places on Earth to see a lava lake. Parque Nacional Volcán Masaya lies just 23 km from Managua, reachable in approximately 30 minutes by car on the paved Managua–Granada highway. The park entrance fee is modest (approximately $10 USD for foreign visitors), and a paved road leads directly from the park gate to a parking area just meters from the Santiago crater rim.\n\nNighttime visits are the main attraction: after dark, the lava lake's incandescent glow illuminates the crater walls and is visible from the viewing platform at the crater rim. The park typically operates evening visiting hours specifically for lava lake viewing, with timed entry to manage visitor flow. Daytime visits offer views of the volcanic gases billowing from Santiago crater, panoramic vistas from the caldera rim, and access to several interpretive trails. The Sendero de las Coyotas trail leads through lava tube caves inhabited by Masaya's famous colony of green parakeets — Aratinga strenua — one of the only known bird populations that nests inside an active volcanic crater.\n\nVisitors should be aware that SO₂ levels near the crater can be hazardous; the park sometimes restricts access when gas concentrations are elevated. Carrying a damp cloth and limiting time at the crater rim during high-emission periods is advisable. The nearby city of Masaya, with its famous artisan market (Mercado de Artesanías), makes an excellent combined day trip."
+    },
+    "nearby_volcanoes": {
+      "content": "Masaya is part of the Central American Volcanic Arc, one of the most volcanically active regions on Earth. Within Nicaragua alone, the volcanic front includes a chain of active centers stretching from Cosigüina in the northwest to Maderas in the southeast. Immediately to the northwest, Apoyo caldera — now filled by the picturesque Laguna de Apoyo — represents another large Holocene caldera system, though it has not erupted in historical time. To the south, Mombacho stratovolcano rises above the shores of Lake Nicaragua near Granada, and Concepción volcano on Ometepe Island is one of the most visually striking cones in Central America.\n\nFurther along the arc, the <a href=\"/volcanoes-in-nicaragua\">Nicaraguan</a> volcanic chain connects to volcanoes in <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a> to the south — including <a href=\"/volcano/arenal\">Arenal</a> and <a href=\"/volcano/poas\">Poás</a> — and to <a href=\"/volcanoes-in-guatemala\">Guatemala's</a> highly active volcanoes to the north, including <a href=\"/volcano/fuego\">Fuego</a> and Santa María. The entire chain is driven by the same subduction process that feeds Masaya: the Cocos Plate diving beneath the Caribbean Plate along the Middle America Trench."
+    },
+    "etymology": {
+      "content": "The name 'Masaya' derives from the indigenous Chorotega language, widely interpreted as meaning 'burning mountain' — from the roots 'maça' (to burn) and 'yan' (mountain or hill). The Spanish colonists adopted the indigenous name for both the volcano and the nearby city founded at its base. The Spaniards also referred to the volcano as 'La Boca del Infierno' (The Mouth of Hell) and 'El Volcán' in early colonial documents, though 'Masaya' has been the standard name since the 16th century."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Masaya Compared to Other Persistently Degassing Volcanoes",
+      "description": "How does Masaya compare to the world's other volcanoes with long-lived lava lakes or persistent open-vent degassing?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Lava Lake"
+      ],
+      "rows": [
+        [
+          "Masaya",
+          "Nicaragua",
+          "594 m",
+          "Caldera",
+          "2015–present",
+          "6",
+          "40",
+          "Active since 2015"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2021",
+          "1",
+          "34",
+          "Semi-permanent"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "613 m",
+          "Shield",
+          "2017",
+          "0",
+          "7+",
+          "Semi-permanent"
+        ],
+        [
+          "Kīlauea",
+          "USA",
+          "1,222 m",
+          "Shield",
+          "2023",
+          "4",
+          "70+",
+          "Intermittent"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Pyroclastic shield",
+          "2018",
+          "4",
+          "50+",
+          "Intermittent"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "100+",
+          "Persistent Strombolian"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -4050,
+      "vei": 6,
+      "label": "Massive basaltic Plinian eruption — caldera collapse, ~8 km³ tephra",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -170,
+      "vei": 5,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 150,
+      "vei": 5,
+      "label": "Large explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1524,
+      "vei": 0,
+      "label": "Lava lake observed by Spanish conquistadors in Nindirí crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1670,
+      "vei": 3,
+      "label": "Lava overflow — only known breach of caldera rim",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1772,
+      "vei": 2,
+      "label": "Eruption creates Santiago crater — new active vent",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1852,
+      "vei": 2,
+      "label": "Renewed explosive activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1902,
+      "vei": 2,
+      "label": "Explosive eruption from Santiago",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1919,
+      "vei": 2,
+      "label": "Multi-year eruption from Santiago",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1965,
+      "vei": 1,
+      "label": "20-year eruption episode begins",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2015,
+      "vei": 1,
+      "label": "Lava lake returns to Santiago crater — ongoing",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3,
+      "note": "Three major explosive eruptions (VEI 5–6) over ~6,000 years"
+    },
+    {
+      "century": "16th",
+      "count": 3
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 5
+    },
+    {
+      "century": "20th",
+      "count": 18
+    },
+    {
+      "century": "21st",
+      "count": 8
+    }
+  ],
+  "facts": [
+    "Masaya produced one of the largest known basaltic Plinian eruptions in the geological record — a VEI 6 event around 4050 BCE that ejected approximately 8 km³ of tephra, a style of eruption considered extremely rare for basaltic magma.",
+    "In 1529, Friar Blas del Castillo lowered himself into Masaya's crater with a metal pot to collect what the Spanish believed was molten gold, making it one of the earliest documented volcanic sampling attempts in the Americas.",
+    "Masaya hosts one of roughly six to eight persistent lava lakes currently active on Earth, alongside Nyiragongo, Erta Ale, and Kīlauea.",
+    "The 1670 lava flow from Nindirí crater overtopped the northern caldera rim — the only time in recorded history that lava has breached Masaya's 300-meter-high caldera walls.",
+    "A colony of green parakeets (Aratinga strenua) nests inside the lava tube caves of Masaya's caldera — one of the only known bird populations that breeds within an active volcanic crater.",
+    "Masaya emits between 500 and 2,000 tonnes of sulfur dioxide per day during typical activity, making it one of the strongest continuous volcanic gas sources in the Western Hemisphere.",
+    "Spanish conquistadors named the crater 'La Boca del Infierno' (The Mouth of Hell) and erected a cross at the rim to exorcise what they believed were demonic forces — a cross still stands on the crater edge today.",
+    "Parque Nacional Volcán Masaya, established in 1979, was the first national park in Nicaragua and one of the few places in the world where visitors can drive to within meters of an active volcanic crater.",
+    "Masaya's caldera is unusually large for a basaltic system — measuring 6 × 11 km — comparable in size to many silicic calderas despite being composed of far less viscous magma.",
+    "The Santiago crater, Masaya's currently active vent, was only created during the 1772 eruption — making the most famous feature of the volcano just 253 years old.",
+    "Masaya sits just 20 km from Managua, the capital of Nicaragua (population ~1.5 million), making it one of the closest active volcanic vents to a major city anywhere in the world.",
+    "NASA and USGS scientists have used Masaya as a natural calibration laboratory for satellite-based volcanic gas detection instruments due to its consistent, measurable SO₂ plume."
+  ],
+  "faqs": [
+    {
+      "question": "Is Masaya Volcano currently active?",
+      "answer": "Yes, Masaya is currently active and in an ongoing eruption. A lava lake has been visible in the Santiago crater since December 2015, making it one of the longest-sustained lava lake episodes in the volcano's recorded history. The volcano is continuously monitored by INETER, Nicaragua's territorial studies institute, which tracks seismicity, gas emissions, and lava lake behavior. Masaya has erupted 40 times in the past 6,000 years, with particularly frequent activity since the mid-19th century. Volcanologists classify it as one of the most persistently active volcanoes in Central America, and it currently hosts one of only a handful of stable lava lakes on Earth."
+    },
+    {
+      "question": "Can you see the lava lake at Masaya?",
+      "answer": "Yes, Masaya is one of the most accessible places in the world to see an active lava lake. The Parque Nacional Volcán Masaya offers evening visiting hours specifically for lava lake viewing — after dark, the incandescent glow of the molten basalt is clearly visible from the crater rim viewing platform, located just meters from the parking area. A paved road runs from the park entrance directly to the crater rim, making it one of the few active volcanoes accessible without any hiking. The park is located approximately 23 km (30 minutes by car) from Managua. Entry costs approximately $10 USD for foreign visitors. Access may be temporarily restricted when sulfur dioxide emissions are particularly high."
+    },
+    {
+      "question": "How far is Masaya Volcano from Managua?",
+      "answer": "Masaya Volcano is approximately 20 km (12 mi) southeast of central Managua, the capital city of Nicaragua. The drive takes roughly 30 minutes via the paved Managua–Granada highway. This extreme proximity to a major metropolitan area — home to approximately 1.5 million people — makes Masaya one of the closest active volcanic vents to a national capital anywhere in the world. The city of Masaya, with a population of around 170,000, sits even closer, just south of the caldera."
+    },
+    {
+      "question": "Is Masaya Volcano dangerous?",
+      "answer": "Masaya poses a real but complex set of hazards. Its most persistent danger is chronic volcanic gas emission — the volcano releases 500 to 2,000 tonnes of sulfur dioxide daily, which damages crops, corrodes infrastructure, and poses respiratory health risks for downwind communities. The prehistoric record reveals a far more alarming potential: a VEI 6 basaltic Plinian eruption approximately 6,000 years ago demonstrates that Masaya is capable of catastrophic explosive activity that would devastate the Managua metropolitan area. The 1670 eruption also showed that lava flows can overtop the caldera walls. Phreatic explosions, which have thrown ballistic projectiles to the crater rim, are another recurring hazard. While typical modern eruptions are low-explosivity, the volcano's proximity to 1.5 million people keeps it firmly on the list of Central America's highest-risk volcanic systems."
+    },
+    {
+      "question": "What type of volcano is Masaya?",
+      "answer": "Masaya is classified as a basaltic caldera — a broad, low-profile volcanic depression formed by collapse following major eruptions. It sits within the larger Pleistocene Las Sierras caldera, creating a nested caldera structure. The active complex consists of multiple cones and craters (Nindirí, Masaya, Santiago, and San Pedro) built along a 4-km-diameter ring fracture system, along with approximately 40 cinder cones scattered across the caldera floor. Unlike typical subduction zone stratovolcanoes that erupt viscous, silica-rich magma, Masaya produces fluid basalt and picro-basalt — unusually mafic compositions for a convergent plate boundary. This basaltic chemistry is what enables the formation of its long-lived lava lake."
+    },
+    {
+      "question": "When did Masaya last erupt?",
+      "answer": "Masaya has been in a continuous eruptive state since October 2015, when activity intensified and a lava lake appeared in Santiago crater in December of that year. This lava lake has persisted, with fluctuations, through to the present (2025), making it a decade-long eruption. Prior to this ongoing episode, Masaya experienced frequent low-level eruptions in 2008, 2006, 2005, 2003, 2001, and throughout the 1990s — the volcano has been in an almost semi-permanent state of unrest for the past several decades. Its typical modern activity consists of Strombolian eruptions, gas emission, and lava lake formation within Santiago crater."
+    },
+    {
+      "question": "What is the biggest eruption Masaya has ever had?",
+      "answer": "The largest known eruption of Masaya was a VEI 6 basaltic Plinian eruption that occurred approximately 6,050 years ago (~4050 BCE). This eruption ejected an estimated 8 km³ of tephra and triggered the collapse that formed the modern Masaya caldera. It is one of the largest known basaltic Plinian eruptions in the global geological record — a type of eruption considered extremely rare for low-viscosity basaltic magma. For comparison, this is the same VEI as the 1883 eruption of Krakatau and significantly larger than any eruption Masaya has produced in historical times. Two additional VEI 5 eruptions occurred around 170 BCE and 150 CE."
+    },
+    {
+      "question": "Why do parakeets live in Masaya Volcano?",
+      "answer": "A colony of Pacific parakeets (Aratinga strenua), commonly called green parakeets, nests inside lava tube caves on the caldera floor of Masaya Volcano. This is one of the only documented cases of birds breeding within an active volcanic environment. The parakeets appear to have adapted to the elevated temperatures and gas concentrations inside the tubes, which may offer protection from predators. The lava tubes, formed by previous eruptions, provide stable, sheltered cavities. Visitors can observe the parakeets along the Sendero de las Coyotas trail in Parque Nacional Volcán Masaya. The birds have become an emblematic species of the park and a secondary tourist attraction alongside the lava lake."
+    },
+    {
+      "question": "How tall is Masaya Volcano?",
+      "answer": "Masaya's highest point reaches 594 m (1,949 ft) above sea level, making it one of the lowest-elevation active volcanoes in Central America. However, this figure is somewhat misleading because Masaya is not a towering peak but a broad, low-profile caldera. The caldera floor sits well below the rim, and the active Santiago crater drops a further 200+ meters below the floor. The caldera walls rise up to 300 m above the surrounding lowlands. Masaya's low elevation is a consequence of its caldera morphology — unlike a stratovolcano that builds height through layered eruptions, Masaya's formative eruptions involved collapse rather than construction."
+    },
+    {
+      "question": "How often does Masaya erupt?",
+      "answer": "Masaya is one of the most frequently erupting volcanoes in the Americas. It has produced 40 recorded eruptions over approximately 6,000 years, but the frequency has increased dramatically in the modern era: since 1852, the volcano has erupted at least 28 times, averaging roughly one eruption every 6 years. In the late 20th and early 21st centuries, eruptions occurred almost annually from the mid-1990s through the 2000s. The current eruptive episode has been continuous since 2015. Much of this frequent activity is low-level — Strombolian eruptions, gas emission episodes, and lava lake formation — rather than major explosive events."
+    }
+  ],
+  "people_also_search": [
+    "masaya volcano lava lake",
+    "masaya volcano nicaragua",
+    "is masaya volcano active",
+    "masaya volcano tour",
+    "masaya volcano night tour",
+    "masaya national park",
+    "mouth of hell volcano nicaragua",
+    "volcanoes near managua"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Masaya Volcano",
+    "alternateName": [
+      "Volcán Masaya",
+      "La Boca del Infierno"
+    ],
+    "description": "Active basaltic caldera in Nicaragua with a persistent lava lake, 20 km from Managua",
+    "geo": {
+      "latitude": 11.9844,
+      "longitude": -86.1688,
+      "elevation": 594
+    },
+    "containedInPlace": {
+      "name": "Masaya Department",
+      "country": "Nicaragua"
+    },
+    "url": "https://volcanoatlas.com/volcano/masaya"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=344100",
+      "text": "Smithsonian GVP: Masaya",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Masaya",
+      "text": "Britannica: Masaya",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.ineter.gob.ni/",
+      "text": "INETER — Nicaraguan Territorial Studies Institute",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "nyiragongo",
+      "erta-ale",
+      "kilauea",
+      "fuego",
+      "colima",
+      "arenal",
+      "poas",
+      "stromboli"
+    ],
+    "country_pages": [
+      "nicaragua",
+      "guatemala",
+      "costa-rica",
+      "mexico"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "fuego",
+    "arenal",
+    "poas",
+    "nyiragongo",
+    "erta-ale",
+    "kilauea"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Nicaragua",
+      "url": "/volcanoes-in-nicaragua"
+    },
+    {
+      "label": "Masaya Volcano",
+      "url": "/volcano/masaya"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/masaya"
+}

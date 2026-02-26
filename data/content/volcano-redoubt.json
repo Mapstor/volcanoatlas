@@ -1,0 +1,396 @@
+{
+  "slug": "redoubt",
+  "volcano_id": 313030,
+  "title": "Redoubt Volcano",
+  "meta_title": "Redoubt Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Redoubt is a 3,108 m active stratovolcano in Alaska with 99 recorded eruptions. Explore its 1989 aviation disaster, 2009 eruption, hazards, and monitoring.",
+  "quick_answer": {
+    "what": "Redoubt is a glacier-covered active stratovolcano rising to 3,108 m (10,197 ft) in the Aleutian Range of south-central Alaska, located within Lake Clark National Park approximately 170 km (106 mi) southwest of Anchorage.",
+    "status": "Active — last erupted March–July 2009 (VEI 3). Continuously monitored by the Alaska Volcano Observatory. One of the most dangerous volcanoes in Alaska due to its proximity to Anchorage and Cook Inlet infrastructure.",
+    "famous_for": "The December 1989 eruption that caused a KLM Boeing 747 to lose all four engines after flying through an ash cloud — one of the most significant volcanic aviation incidents in history — and the 2009 eruption that disrupted oil operations in Cook Inlet.",
+    "danger_level": "High — nearest major population center is Anchorage (population ~290,000), and eruptions directly threaten oil storage facilities at the Drift River Terminal on Cook Inlet."
+  },
+  "hero": {
+    "name": "Redoubt Volcano",
+    "local_name": null,
+    "subtitle": "Alaska's Aviation Hazard Sentinel",
+    "country": "United States",
+    "region": "Alaska Peninsula, Aleutian Arc",
+    "type": "Stratovolcano",
+    "elevation_m": 3108,
+    "elevation_ft": 10197,
+    "status": "Active",
+    "last_eruption": "2009",
+    "coordinates": {
+      "lat": 60.485,
+      "lon": -152.742
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05233.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,108 m (10,197 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "March 15 – July 1, 2009",
+    "first_known_eruption": "~9310 BCE (geological record); 1902 CE (historical record)",
+    "total_recorded_eruptions": 99,
+    "vei_max": "3 (1902, 1966–1968, 1989–1990, 2009)",
+    "country": "United States",
+    "region": "Alaska, Cook Inlet",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath North American Plate (continental crust > 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "60.485°N, 152.742°W",
+    "nearest_city": "Anchorage — 170 km northeast; Kenai — 80 km east",
+    "population_at_risk": "~290,000 in greater Anchorage area (ashfall hazard); ~7,500 in Kenai Peninsula communities (lahar and ashfall)",
+    "summit_crater": "1.8-km-wide breached crater open to the north; active vent at north end",
+    "protected_status": "Lake Clark National Park and Preserve",
+    "monitoring_agency": "Alaska Volcano Observatory (AVO) — USGS/UAF/ADGGS",
+    "smithsonian_id": "313030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=313030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Redoubt Volcano is an active, glacier-clad <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,108 m (10,197 ft) in the Aleutian Range of south-central Alaska, <a href=\"/volcanoes-in-united-states\">United States</a>, approximately 170 km (106 mi) southwest of Anchorage — Alaska's largest city and economic hub. Together with <a href=\"/volcano/redoubt\">Mount Spurr</a> to the northeast, Redoubt has been the most active Holocene volcano in the upper Cook Inlet region, with 99 recorded eruptions spanning more than 11,000 years. The volcano's significance extends far beyond its physical dimensions: its 1989 eruption caused one of the most dangerous volcanic aviation incidents in history, when a KLM Boeing 747 carrying 245 passengers lost all four engines after encountering an ash cloud, narrowly avoiding catastrophe. That same eruption caused over $160 million in economic damages, primarily to the Cook Inlet oil industry.\n\nRedoubt exists because of the subduction of the Pacific Plate beneath the North American Plate along the Alaska-Aleutian arc, the same tectonic engine that drives volcanism from the Aleutian Islands through the Alaska Peninsula to Cook Inlet. The volcano's heavily glaciated flanks feed multiple river systems, and its eruptions interact explosively with ice and snow to generate devastating lahars — volcanic mudflows that can travel tens of kilometers downstream. The 2009 eruption, rated <a href=\"/volcanic-explosivity-index\">VEI</a> 3, produced 19 individual explosive events over four months and again threatened the Drift River oil terminal on Cook Inlet, highlighting the ongoing tension between volcanic hazard and critical energy infrastructure in the region. Redoubt is continuously monitored by the Alaska Volcano Observatory (AVO), a joint program of the <a href=\"https://www.usgs.gov/volcanoes\" target=\"_blank\" rel=\"noopener\">USGS</a>, the University of Alaska Fairbanks, and the Alaska Division of Geological and Geophysical Surveys."
+    },
+    "geology_and_formation": {
+      "content": "Redoubt Volcano was constructed beginning approximately 890,000 years ago on a foundation of Mesozoic granitic rocks belonging to the Alaska-Aleutian Range batholith. The current edifice is the product of hundreds of thousands of years of intermittent eruption and erosion, with repeated cycles of volcanic construction, glacial sculpting, and catastrophic collapse shaping the complex landform visible today. The volcano's andesitic to basaltic andesitic composition places it firmly among the 'grey volcanoes' — those dominated by intermediate-composition magmas that produce both explosive eruptions and viscous lava flows, including lava domes.\n\nA catastrophic summit collapse between 13,000 and 10,500 years ago produced a massive debris avalanche that traveled northward down the Drift River valley and reached Cook Inlet, leaving hummocky deposit fields that are still identifiable in the landscape. This event created the 1.8-km-wide, north-facing breached summit crater that characterizes the volcano today. Subsequent Holocene activity has included additional large debris avalanches and clay-rich lahars, notably an event approximately 3,500 years ago that dammed Lake Crescent on the south side of the volcano and sent lahars all the way to Cook Inlet. Historical eruptions have originated from a vent at the northern end of the breached summit crater, where lava domes have grown and been destroyed multiple times during the 20th and 21st centuries. The interaction between volcanic activity and the extensive glacier system that mantles the upper slopes makes lahars the most far-reaching hazard associated with Redoubt eruptions."
+    },
+    "eruption_history_overview": {
+      "content": "Redoubt's eruptive record comprises 99 recognized eruptions, of which 97 are classified as confirmed. The vast majority of these — 90 events — occurred during the prehistoric period and are known only from geological deposits including tephra layers, lahar deposits, and debris avalanche remnants. The prehistoric record, concentrated in the period from approximately 9310 BCE through 720 CE, reveals that the volcano has been persistently active throughout the Holocene, with eruptions occurring roughly every century on average.\n\nHistorical eruptions, documented since the early 20th century, have been relatively infrequent but significant. The first historically observed eruption occurred in January 1902, rated VEI 3. A possible eruption was reported in 1933, but this event remains unconfirmed. The next confirmed activity comprised a series of VEI 3 eruptions in 1966–1968, which produced explosive events from the northern end of the summit crater at an elevation of approximately 2,300 m. The two most consequential eruptions in terms of economic and societal impact occurred in 1989–1990 and 2009, both rated VEI 3, both producing multiple explosive events, lava dome growth, and lahars that traveled down the Drift River valley. In total, Redoubt has produced VEI 3 eruptions in every historical eruptive episode — suggesting that moderate explosive activity is the characteristic mode of this volcano."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1989–1990 Eruption — Aviation Crisis and Economic Devastation",
+          "content": "The eruption that began on December 14, 1989, became one of the most consequential volcanic events in American history, not for its geological magnitude but for its economic and aviation impact. Initial explosive events sent ash columns to altitudes exceeding 12 km (40,000 ft) over the heavily traveled North Pacific air routes. On December 15, 1989, KLM Flight 867, a Boeing 747-400 carrying 245 passengers from Amsterdam to Anchorage, flew directly into the ash cloud at approximately 7,600 m (25,000 ft). All four engines flamed out as volcanic ash melted and resolidified on the turbine blades. The aircraft descended powerless for nearly four minutes — losing approximately 4,000 m of altitude — before pilots managed to restart the engines and make an emergency landing at Anchorage. The aircraft sustained over $80 million in damage.\n\nBeyond the aviation near-disaster, the eruption triggered massive lahars that swept down the Drift River valley, inundating the Drift River Oil Terminal — a critical facility that stored oil piped from Cook Inlet platforms. Floodwaters came within a meter of overtopping the containment dikes, threatening an environmental catastrophe. Over the course of the eruption, which continued with intermittent explosive events and dome growth through April 1990, total economic losses exceeded $160 million (approximately $400 million in today's dollars). The 1989 eruption was directly responsible for the creation of the Volcanic Ash Advisory Center system and strengthened international protocols for volcanic ash and aviation safety — changes that have since protected countless flights worldwide."
+        },
+        {
+          "title": "The 2009 Eruption — A Modern Volcanic Crisis",
+          "content": "Redoubt's most recent eruption began on March 15, 2009, preceded by months of elevated seismicity that allowed AVO to issue increasingly urgent warnings. The eruption produced 19 distinct explosive events between March 22 and April 4, with ash columns reaching 15 km (50,000 ft) in the largest blasts. Pyroclastic flows descended the northern flank, melting glacial ice and generating lahars that again threatened the Drift River Oil Terminal. This time, the terminal had been largely preemptively drained of oil — a direct lesson from 1989 — but lahars still damaged access roads and infrastructure.\n\nA lava dome grew within the summit crater through the spring and early summer, eventually reaching a height of approximately 250 m before explosive activity largely ceased by July 2009. Ashfall from the eruption reached Anchorage, forcing school closures and disrupting daily life. Air traffic in and out of Anchorage was repeatedly interrupted. The eruption was extensively monitored using a combination of seismic networks, satellite remote sensing, infrasound arrays, and gas-monitoring flights, making it one of the best-documented eruptions in Alaskan history. The 2009 event produced a total eruptive volume estimated at 0.08 km³ dense-rock equivalent."
+        },
+        {
+          "title": "The 1966–1968 Eruptions — Cold War Era Activity",
+          "content": "After more than six decades of quiescence following the 1902 eruption, Redoubt reawakened in January 1966 with a VEI 3 explosive event from the north end of the summit crater at approximately 2,300 m elevation. Two additional VEI 3 eruptions followed in October 1966–1967 and December 1967–1968. These eruptions were significant for establishing the pattern that would characterize Redoubt's modern behavior: explosive activity originating from the northern crater vent, accompanied by lava dome emplacement and lahar generation. The eruptions occurred during a period of limited monitoring, and detailed documentation is considerably less comprehensive than for the later events."
+        },
+        {
+          "title": "The 1902 Eruption — First Historical Record",
+          "content": "The first historically documented eruption of Redoubt occurred on January 18, 1902, when a VEI 3 explosive event was observed and reported by residents of the Cook Inlet region. This eruption demonstrated that the volcano, which had been quiet throughout the period of Russian and early American settlement in Alaska, was far from extinct. The 1902 event is notable primarily as a baseline for understanding Redoubt's eruptive frequency — the four historical eruption sequences in 1902, 1966–1968, 1989–1990, and 2009 suggest a recurrence interval of approximately 20–40 years for significant eruptive episodes."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Redoubt has been quiescent since the 2009 eruption ended in July of that year. The lava dome emplaced during the 2009 eruption remains within the summit crater, slowly cooling and degassing. The Alaska Volcano Observatory (AVO) maintains one of its most comprehensive monitoring networks at Redoubt, reflecting the volcano's demonstrated threat to Anchorage, Cook Inlet aviation, and oil infrastructure. The network includes multiple seismic stations, continuous GPS deformation sensors, infrasound arrays for detecting explosive events, and a web camera providing real-time visual monitoring of the summit.\n\nAVO currently assigns Redoubt an Aviation Color Code of Green and a Volcanic Alert Level of Normal, indicating that the volcano is at background levels of activity. However, the 20–40 year recurrence interval observed in historical eruptions means that another eruptive episode within the coming decades is statistically likely. Pre-eruption seismic unrest preceding the 2009 eruption began months in advance, providing confidence that future reawakening would likely be detected well before an eruption. The primary monitoring challenge is winter weather, which can obscure visual observations for weeks at a time and limits access for field measurements."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Redoubt's hazard profile is shaped by three factors: glaciation, proximity to population and infrastructure, and its position beneath major aviation routes. Lahars are the most far-reaching direct hazard — during both the 1989–1990 and 2009 eruptions, hot pyroclastic material interacting with summit glaciers generated lahars that traveled more than 35 km down the Drift River valley to Cook Inlet. These lahars repeatedly threatened the Drift River Oil Terminal, which at peak capacity stores millions of barrels of crude oil. The terminal's vulnerability to lahars represents one of the most significant volcanic risk-infrastructure conflicts in the United States.\n\nAshfall from major eruptions can reach Anchorage and the Kenai Peninsula, home to a combined population of approximately 350,000 people. Even thin ashfall disrupts aviation, contaminates water supplies, damages machinery, and poses respiratory hazards. The 1989 KLM incident demonstrated that volcanic ash at cruising altitude is a lethal hazard to jet aircraft, and Anchorage lies directly downwind of Redoubt under prevailing weather patterns. Pyroclastic flows, while confined to the upper flanks and Drift River valley, can travel at speeds exceeding 100 km/h and are invariably fatal within their reach. USGS hazard maps for Redoubt delineate lahar inundation zones extending to the coast and ashfall probability zones covering much of south-central Alaska."
+    },
+    "geography_and_physical_description": {
+      "content": "Redoubt is an imposing, heavily glaciated stratovolcano that dominates the western skyline as viewed from Anchorage and the Kenai Peninsula across Cook Inlet. The summit reaches 3,108 m (10,197 ft), making it one of the tallest volcanoes in the Cook Inlet region. The defining feature is the 1.8-km-wide summit crater, breached to the north, which was created by a catastrophic sector collapse between 13,000 and 10,500 years ago. Historical eruptions have built and destroyed lava domes within this crater, and the current 2009 dome occupies much of the crater floor.\n\nExtensive glaciers mantle the upper slopes, feeding the Drift River to the north and Crescent River to the south. The Drift Glacier extends from the summit crater down the northern flank, directly over the path that lahars follow during eruptions. Below the glaciated zone, the lower flanks are covered in dense boreal forest of spruce, birch, and alder, transitioning to alpine tundra at higher elevations. The volcano sits within Lake Clark National Park and Preserve, one of Alaska's most remote and pristine wilderness areas, and is surrounded by other volcanic peaks of the Aleutian Range."
+    },
+    "climate_and_global_impact": {
+      "content": "Redoubt's eruptions have not been large enough to produce significant global climate effects — the VEI 3 events that characterize its historical behavior inject far less sulfur dioxide into the stratosphere than the VEI 5–6 eruptions (such as <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991 or <a href=\"/volcano/tambora\">Tambora</a> in 1815) that are capable of measurably cooling the planet. However, Redoubt's eruptions have had outsized regional and international economic impacts due to their effects on aviation and the oil industry. The 1989 eruption's disruption of trans-Pacific air routes and damage to the KLM aircraft catalyzed a transformation in how the global aviation industry manages volcanic ash hazards, with effects that continue to shape flight safety protocols worldwide."
+    },
+    "cultural_significance": {
+      "content": "Redoubt holds a prominent place in Alaskan consciousness as one of the most visible and threatening volcanoes from the state's most populated region. The volcano's name derives from its fortification-like appearance when viewed from Cook Inlet — 'redoubt' being a military term for a temporary defensive fortification. For the Dena'ina Athabascan people, the indigenous inhabitants of the Cook Inlet region, the volcano and its surrounding landscape are part of a cultural landscape with deep spiritual and practical significance. The 1989 eruption and the KLM Flight 867 incident in particular entered the popular consciousness as a dramatic illustration of volcanic aviation hazards, and the story is frequently cited in pilot training, geology education, and disaster preparedness literature. Within Alaska, the Drift River Oil Terminal controversy — the recurring question of whether a critical oil facility should be located in a lahar hazard zone — has been a persistent topic of environmental and political debate."
+    },
+    "visiting_and_tourism": {
+      "content": "Redoubt is located within Lake Clark National Park and Preserve, one of the least-visited units of the US National Park System due to its extreme remoteness — there are no roads to the volcano, and access is exclusively by small aircraft or boat. Scenic flightseeing tours from Anchorage, Kenai, and Homer offer spectacular aerial views of the glacier-clad volcano, the breached summit crater, and the 2009 lava dome, and these are the most common way visitors experience Redoubt. On clear days, the volcano is also visible from Anchorage, the Kenai Peninsula, and from the Sterling Highway, providing a dramatic backdrop to daily life in south-central Alaska.\n\nMountaineering on Redoubt is a serious undertaking requiring glacier travel skills, crevasse rescue capability, and awareness of volcanic hazards including toxic gas emissions at the summit. Few climbers attempt the summit annually. The surrounding Lake Clark National Park offers world-class wilderness recreation including bear viewing, salmon fishing, and backcountry hiking, though none of the main park facilities are located on Redoubt itself."
+    },
+    "nearby_volcanoes": {
+      "content": "Redoubt is part of the Cook Inlet volcanic cluster, a group of active volcanoes that pose the most direct volcanic threat to Alaska's population centers. Mount Spurr, approximately 125 km to the northeast, is the only other Cook Inlet volcano with confirmed historical eruptions, including a 1992 event that deposited ash on Anchorage. Iliamna Volcano, located approximately 85 km southwest of Redoubt, is a 3,053 m glacier-covered stratovolcano with persistent fumarolic activity but no confirmed historical eruptions. Augustine Volcano, an island stratovolcano in lower Cook Inlet approximately 280 km to the southwest, erupted in 2006 and shares many of Redoubt's hazard characteristics. Together, these four volcanoes — Spurr, Redoubt, Iliamna, and Augustine — define the Cook Inlet volcanic hazard landscape and are all monitored by the AVO."
+    },
+    "etymology": {
+      "content": "The name 'Redoubt' was given by early European explorers and settlers who observed the volcano from Cook Inlet. The term 'redoubt' derives from the French 'redoute' and refers to a temporary or supplementary defensive fortification — the volcano's steep, fortress-like profile when viewed from the east across the inlet inspired the military comparison. The Dena'ina Athabascan name for the volcano is 'Bentalit,' though this name is rarely used in modern contexts."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Redoubt Compared to Other Cook Inlet and Alaska Peninsula Volcanoes",
+      "description": "How does Redoubt compare to the other major volcanic threats in south-central Alaska?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Redoubt",
+          "United States",
+          "3,108 m",
+          "Stratovolcano",
+          "2009",
+          "3",
+          "99"
+        ],
+        [
+          "Mount Spurr",
+          "United States",
+          "3,374 m",
+          "Stratovolcano",
+          "1992",
+          "4",
+          "30"
+        ],
+        [
+          "Iliamna",
+          "United States",
+          "3,053 m",
+          "Stratovolcano",
+          "~90 CE",
+          "3",
+          "6"
+        ],
+        [
+          "Augustine",
+          "United States",
+          "1,252 m",
+          "Lava dome(s)",
+          "2006",
+          "4",
+          "18"
+        ],
+        [
+          "Katmai/Novarupta",
+          "United States",
+          "2,047 m",
+          "Stratovolcano",
+          "1912",
+          "6",
+          "5"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -9310,
+      "vei": null,
+      "label": "Earliest known eruption (geological record)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3600,
+      "vei": null,
+      "label": "Large debris avalanche dams Lake Crescent, lahars reach Cook Inlet (~3,500 BP)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1902,
+      "vei": 3,
+      "label": "First historically observed eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1966,
+      "vei": 3,
+      "label": "Eruption sequence begins — three VEI 3 events (1966–1968)",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 1989,
+      "vei": 3,
+      "label": "Major eruption — KLM Flight 867 ash encounter; $160M damages",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2009,
+      "vei": 3,
+      "label": "19 explosive events over 4 months; lava dome growth; lahars threaten oil terminal",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (before 1 CE)",
+      "count": 83,
+      "note": "Dominated by geological record; activity concentrated 9300–600 BCE"
+    },
+    {
+      "century": "1st–10th",
+      "count": 7
+    },
+    {
+      "century": "11th–15th",
+      "count": 3
+    },
+    {
+      "century": "16th–18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 1,
+      "note": "Possible unrecorded activity during sparse settlement"
+    },
+    {
+      "century": "20th",
+      "count": 5
+    },
+    {
+      "century": "21st",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "KLM Flight 867, a Boeing 747 with 245 people aboard, lost all four engines after flying through Redoubt's ash cloud in December 1989 — the pilots restarted the engines after a 4,000-meter powerless descent.",
+    "The 1989–1990 eruption caused over $160 million in damages, primarily to the Cook Inlet oil industry and aviation sector.",
+    "Redoubt has 99 recorded eruptions spanning more than 11,000 years, making it one of the most active volcanoes in the Aleutian arc.",
+    "A catastrophic summit collapse between 13,000 and 10,500 years ago sent a debris avalanche all the way to Cook Inlet, approximately 35 km from the summit.",
+    "The Drift River Oil Terminal, located in Redoubt's lahar hazard zone, stores millions of barrels of crude oil and has been threatened by lahars in every historical eruption.",
+    "The 2009 eruption produced 19 distinct explosive events in just two weeks, with ash columns reaching 15 km (50,000 ft).",
+    "Redoubt is visible from Anchorage (population ~290,000) on clear days, lying approximately 170 km to the southwest across Cook Inlet.",
+    "The 1989 eruption was directly responsible for the creation of the international Volcanic Ash Advisory Center system, which now protects global aviation.",
+    "Every historical eruption of Redoubt has been rated VEI 3, suggesting that moderate explosive activity with dome growth is the volcano's characteristic behavior.",
+    "The volcano sits within Lake Clark National Park, one of the least-visited national parks in the United States, with no road access.",
+    "Redoubt's construction began approximately 890,000 years ago over Mesozoic granitic basement rocks of the Alaska-Aleutian Range batholith.",
+    "The name 'Redoubt' comes from the volcano's fortress-like appearance when viewed from Cook Inlet — 'redoubt' is a military term for a defensive fortification."
+  ],
+  "faqs": [
+    {
+      "question": "Is Redoubt Volcano still active?",
+      "answer": "Yes, Redoubt is classified as an active volcano by the Alaska Volcano Observatory (AVO). It last erupted in 2009, when a four-month-long eruptive episode produced 19 explosive events, pyroclastic flows, lahars, and a lava dome within the summit crater. The volcano has produced four confirmed eruptive episodes since 1902, at an average interval of approximately 20–40 years. AVO maintains continuous seismic, GPS, and infrasound monitoring at Redoubt and currently assigns it a Green (Normal) alert level. Volcanologists consider another eruption in the coming decades to be statistically likely."
+    },
+    {
+      "question": "What happened to the KLM plane during the 1989 Redoubt eruption?",
+      "answer": "On December 15, 1989, KLM Flight 867 — a Boeing 747-400 flying from Amsterdam to Anchorage with 245 passengers and crew — flew into an ash cloud from Redoubt at approximately 7,600 m (25,000 ft). All four engines ingested volcanic ash and flamed out. The aircraft descended powerless for nearly four minutes, losing approximately 4,000 m of altitude, before the pilots managed to restart the engines and make an emergency landing at Anchorage. The aircraft sustained over $80 million in damage. This incident was instrumental in establishing the international Volcanic Ash Advisory Center system."
+    },
+    {
+      "question": "When did Redoubt last erupt?",
+      "answer": "Redoubt's most recent eruption began on March 15, 2009, and continued through approximately July 1, 2009. The eruption produced 19 explosive events between March 22 and April 4, with ash columns reaching 15 km (50,000 ft). Pyroclastic flows melted glacial ice, generating lahars that traveled down the Drift River valley toward Cook Inlet. A lava dome grew within the summit crater through the spring months. Ashfall reached Anchorage, forcing school closures and disrupting air traffic. The eruption was rated VEI 3."
+    },
+    {
+      "question": "How tall is Redoubt Volcano?",
+      "answer": "Redoubt Volcano stands 3,108 m (10,197 ft) above sea level, making it one of the tallest volcanoes in the Cook Inlet region of Alaska. The summit elevation has varied over time as eruptions build lava domes and explosive events destroy them. The glacier-covered peak is visible from Anchorage, approximately 170 km away, on clear days. The 1.8-km-wide summit crater is breached to the north, the result of a catastrophic sector collapse that occurred between 13,000 and 10,500 years ago."
+    },
+    {
+      "question": "Is Redoubt dangerous to Anchorage?",
+      "answer": "Yes, Redoubt poses a significant hazard to Anchorage and the surrounding Cook Inlet region. At 170 km distance, Anchorage is within ashfall range during major eruptions — the 2009 eruption deposited measurable ash on the city, disrupting daily life and closing schools. The greater threat is to aviation: Anchorage's Ted Stevens International Airport is a major hub for trans-Pacific cargo flights, and volcanic ash at altitude can cause jet engine failure, as demonstrated by the 1989 KLM incident. Additionally, lahars from Redoubt threaten the Drift River Oil Terminal and could potentially reach Cook Inlet, affecting fisheries and maritime navigation."
+    },
+    {
+      "question": "What type of volcano is Redoubt?",
+      "answer": "Redoubt is classified as a stratovolcano (also called a composite volcano), built from alternating layers of lava flows, volcanic ash, and debris over approximately 890,000 years. Its primary rock types are andesite and basaltic andesite — intermediate-composition magmas that produce both explosive eruptions and viscous lava domes. The volcano features a 1.8-km-wide summit crater breached to the north, extensive glacier coverage, and a history of eruptions that combine explosive columns, lava dome growth, pyroclastic flows, and lahars. This combination of hazards makes it a typical but particularly dangerous subduction zone stratovolcano."
+    },
+    {
+      "question": "Can you visit Redoubt Volcano?",
+      "answer": "Visiting Redoubt is challenging due to its extreme remoteness within Lake Clark National Park, which has no road access. The most common way to experience the volcano is via scenic flightseeing tours from Anchorage, Kenai, or Homer, which offer spectacular aerial views of the glacier-covered peak, breached summit crater, and 2009 lava dome. On clear days, Redoubt is visible from many locations in Anchorage and the Kenai Peninsula. Mountaineering on the volcano requires advanced glacier travel skills and awareness of volcanic gas hazards. No visitor facilities exist on or near the volcano."
+    },
+    {
+      "question": "Why is there an oil terminal in Redoubt's lahar zone?",
+      "answer": "The Drift River Oil Terminal was constructed in the 1960s before modern volcanic hazard assessments fully quantified the lahar risk from Redoubt. The terminal collects oil piped from Cook Inlet offshore platforms and stores it for periodic tanker loading. During both the 1989 and 2009 eruptions, lahars from the volcano flowed down the Drift River valley and inundated the terminal area. In 1989, floodwaters came within a meter of overtopping containment dikes. After the 2009 eruption, significant efforts were made to reduce stored oil volumes during eruptions and develop contingency plans, but the fundamental conflict between the facility's location and volcanic hazard remains a subject of ongoing debate."
+    }
+  ],
+  "people_also_search": [
+    "redoubt volcano eruption 1989",
+    "redoubt volcano 2009 eruption",
+    "klm flight 867 volcanic ash",
+    "alaska volcanoes near anchorage",
+    "drift river oil terminal volcano",
+    "redoubt volcano eruption history",
+    "cook inlet volcanoes",
+    "most dangerous volcanoes in alaska"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Redoubt Volcano",
+    "alternateName": [
+      "Mount Redoubt",
+      "Bentalit"
+    ],
+    "description": "Glacier-covered active stratovolcano in Alaska, 170 km from Anchorage, famous for the 1989 volcanic aviation incident",
+    "geo": {
+      "latitude": 60.485,
+      "longitude": -152.742,
+      "elevation": 3108
+    },
+    "containedInPlace": {
+      "name": "Lake Clark National Park",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/redoubt"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=313030",
+      "text": "Smithsonian GVP: Redoubt",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.avo.alaska.edu/volcanoes/volcpage.php?volcname=Redoubt",
+      "text": "Alaska Volcano Observatory: Redoubt",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/redoubt",
+      "text": "USGS: Redoubt Volcano",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.nps.gov/lacl/index.htm",
+      "text": "NPS: Lake Clark National Park and Preserve",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.britannica.com/place/Redoubt-Volcano",
+      "text": "Britannica: Redoubt Volcano",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "st-helens",
+      "pinatubo",
+      "novarupta",
+      "rainier"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "st-helens",
+    "novarupta",
+    "rainier",
+    "pinatubo",
+    "tambora"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Redoubt Volcano",
+      "url": "/volcano/redoubt"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/redoubt"
+}

@@ -1,0 +1,475 @@
+{
+  "slug": "nyiragongo",
+  "volcano_id": 223030,
+  "title": "Mount Nyiragongo",
+  "meta_title": "Nyiragongo — Lava Lake, Eruptions & Facts | VolcanoAtlas",
+  "meta_description": "Mount Nyiragongo is a 3,470 m active stratovolcano in DR Congo with the world's largest lava lake. Full eruption history, hazard profile, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount Nyiragongo is an active stratovolcano in the Albertine Rift of eastern DR Congo, rising 3,470 m (11,385 ft) within the Virunga Mountains. Its summit crater hosts the world's most prominent persistent lava lake.",
+    "status": "Active — the current eruption phase began in May 2002 and continues through 2025 with an active lava lake. Continuously monitored by the Goma Volcano Observatory.",
+    "famous_for": "Containing the world's largest known lava lake, and producing the fastest-moving lava flows ever recorded — up to 60 km/h (37 mph) in 1977 — due to its extremely fluid foiditic magma.",
+    "danger_level": "One of Africa's most dangerous volcanoes — the city of Goma (population ~670,000) lies just 18 km south of the summit, directly in the path of potential lava flows."
+  },
+  "hero": {
+    "name": "Mount Nyiragongo",
+    "local_name": "Nyiragongo",
+    "subtitle": "Home of the World's Largest Lava Lake",
+    "country": "DR Congo",
+    "region": "Albertine Rift, Virunga Mountains",
+    "type": "Stratovolcano",
+    "elevation_m": 3470,
+    "elevation_ft": 11385,
+    "status": "Active",
+    "last_eruption": "2002–present (ongoing)",
+    "coordinates": {
+      "lat": -1.52,
+      "lon": 29.25
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05864.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,470 m (11,385 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "2002–present (ongoing lava lake activity)",
+    "first_known_eruption": "1884",
+    "total_recorded_eruptions": 19,
+    "vei_max": "2 (2002–present)",
+    "country": "DR Congo",
+    "region": "Albertine Rift, Virunga Mountains",
+    "tectonic_setting": "Rift zone / Continental crust (> 25 km) — western branch of the East African Rift System",
+    "rock_types": [
+      "Foidite",
+      "Nephelinite",
+      "Melilitite",
+      "Leucitite"
+    ],
+    "coordinates": "1.52°S, 29.25°E",
+    "nearest_city": "Goma — 18 km south",
+    "population_at_risk": "~670,000 (Goma metropolitan area) plus ~250,000 in Gisenyi, Rwanda across Lake Kivu",
+    "summit_crater": "~1.2 km wide, ~250 m deep, with active lava lake",
+    "protected_status": "Virunga National Park (UNESCO World Heritage Site, est. 1925)",
+    "monitoring_agency": "Observatoire Volcanologique de Goma (OVG)",
+    "unesco_sites_nearby": "Virunga National Park — Africa's oldest national park, home to mountain gorillas",
+    "smithsonian_id": "223030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=223030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Nyiragongo is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,470 m (11,385 ft) in the Virunga Mountains of eastern <a href=\"/volcanoes-in-dr-congo\">DR Congo</a>, approximately 18 km (11 mi) north of the city of Goma on the shore of Lake Kivu. It is Africa's most active and most dangerous volcano, renowned worldwide for hosting the largest persistent lava lake on Earth — a churning pool of molten foiditic rock that has been observed intermittently since the late nineteenth century and has glowed almost continuously since 2002.\n\nNyiragongo's extreme danger stems not from explosive power but from the extraordinary fluidity of its lava. The volcano erupts foidite, a silica-undersaturated rock so low in viscosity that molten flows can reach speeds of 60 km/h (37 mph) — faster than any other lava recorded anywhere on the planet. When the crater walls fractured on 10 January 1977, lava drained through fissures on the flanks and raced downhill, killing an estimated 60 to 600 people in minutes. A second catastrophic drainage on 17 January 2002 sent lava streams through the eastern districts of Goma, destroying roughly 15 percent of the city, displacing 400,000 residents, and killing at least 147 people.\n\nThe volcano sits within the western branch of the <a href=\"/ring-of-fire\">East African Rift System</a>, where the African continental plate is slowly tearing apart. This tectonic setting, combined with a deep mantle anomaly beneath the Virunga province, produces the unusual alkaline magmas that make Nyiragongo's eruptions so distinctive. Unlike the subduction-zone <a href=\"/types-of-volcanoes\">stratovolcanoes</a> of Indonesia or the Andes, Nyiragongo rarely generates explosive eruptions; its <a href=\"/volcanic-explosivity-index\">VEI</a> ratings have never exceeded 2. Instead, the threat is almost entirely effusive — but the speed of its lava, the proximity of nearly one million people in the Goma–Gisenyi urban area, and the chronic political instability of eastern Congo make it one of the <a href=\"/deadliest-eruptions\">most dangerous volcanic settings</a> on Earth.\n\nNyiragongo is monitored by the Observatoire Volcanologique de Goma (OVG), though funding shortages and armed conflict in the surrounding region have repeatedly disrupted surveillance. The volcano is also one of sixteen 'Decade Volcanoes' designated by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) for their combination of eruptive history, proximity to large populations, and need for additional research."
+    },
+    "geology_and_formation": {
+      "content": "Nyiragongo belongs to the Virunga volcanic province, a cluster of eight major volcanoes straddling the border between DR Congo, Rwanda, and Uganda along the western (Albertine) branch of the East African Rift System. The rift here is an active zone of continental extension where the Somali Plate is diverging from the Nubian Plate at roughly 2–3 mm per year. Unlike classic subduction-zone volcanism, the magmatism is driven by lithospheric thinning and probable interaction with a deep mantle plume or thermal anomaly beneath the rift.\n\nThe Virunga field began erupting approximately 2 million years ago, and Nyiragongo itself is geologically young, with the present edifice built primarily during the Holocene. The volcano's steep conical profile — unusual for a rift volcano — results from the accumulation of successive lava flows and scoria rather than pyroclastic deposits. Two older, partially collapsed volcanoes, Baruta to the north and Shaheru to the south, are partially overlapped by Nyiragongo's flanks.\n\nThe chemistry of Nyiragongo's magma is exceptional. It erupts foidite, specifically melilite-nephelinite and leucitite, rocks that are among the most silica-undersaturated lavas found anywhere on Earth. Silica content is typically just 36–40 percent by weight, compared with 50–60 percent in the basalts of <a href=\"/volcano/kilauea\">Kilauea</a> or the andesites of <a href=\"/volcano/merapi\">Merapi</a>. This low silica content, combined with high concentrations of alkali elements (sodium and potassium) and relatively low alumina, produces a melt of extraordinarily low viscosity — roughly 100 times less viscous than Hawaiian basalt. The result is a lava that flows almost like water, fills the crater to form a convecting lava lake, and can drain catastrophically through fractures in the crater walls.\n\nApproximately 100 subsidiary cones dot Nyiragongo's flanks, concentrated along radial fissure systems extending south toward Shaheru, east of the summit, and along a northeast–southwest axis reaching Lake Kivu. Many of these cones have produced voluminous lava flows that extend far down the flanks and onto the lake shore, blanketing the landscape in black pahoehoe and aa fields. The rifting tectonics continue to open new fissures, as dramatically demonstrated during the 2002 eruption when a 13 km-long fissure opened on the southern flank."
+    },
+    "eruption_history_overview": {
+      "content": "Nyiragongo has 19 confirmed eruptions in the Smithsonian's Global Volcanism Program database, spanning from 1884 to the present. This record almost certainly understates the volcano's true activity, as the remote and politically unstable region was sparsely observed before European colonial exploration in the 1890s. Oral histories from local communities suggest earlier activity, and geological deposits indicate repeated lava lake formation and drainage events over at least the last several thousand years.\n\nThe most remarkable feature of Nyiragongo's eruptive history is the persistence of its lava lake. A continuous or semi-continuous lava lake occupied the summit crater from at least 1927 until it catastrophically drained in January 1977. The lake reformed by June 1982, persisted through the 1990s, drained again during the January 2002 eruption, and has been active again since May 2002 — making the current lava lake phase over two decades long. The lava lake experienced a dramatic overflow event on 22 May 2021, when lava breached the crater rim and flowed down the southern flank toward Goma, forcing the evacuation of parts of the city.\n\nUnlike most <a href=\"/types-of-volcanoes\">stratovolcanoes</a>, Nyiragongo's eruptions are almost exclusively effusive rather than explosive. The maximum recorded <a href=\"/volcanic-explosivity-index\">VEI</a> is just 2, but the low explosivity belies the extreme hazard: the speed and volume of its lava flows have killed hundreds and displaced hundreds of thousands."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1977 Eruption — The Fastest Lava Flows in History",
+          "content": "On 10 January 1977, Nyiragongo produced one of the most extraordinary volcanic events of the twentieth century. The summit lava lake, which had been continuously active since at least 1927 — a period of fifty years — suddenly drained when fractures opened in the crater walls, releasing approximately 22 million cubic meters of molten foidite onto the northern, southern, and western flanks of the volcano.\n\nThe lava's extreme fluidity, a consequence of its foiditic composition with silica content below 40 percent, allowed flows to reach estimated velocities of up to 60 km/h (37 mph), and possibly as fast as 100 km/h (62 mph) on the steepest upper slopes. These remain the fastest lava flow velocities ever documented at any volcano worldwide. For comparison, even the famously fluid basaltic lava of <a href=\"/volcano/kilauea\">Kilauea</a> in Hawaii rarely exceeds 10 km/h on steep slopes.\n\nThe flows swept through several villages on Nyiragongo's flanks within minutes, giving residents virtually no time to evacuate. Casualty estimates vary widely due to the remoteness of the area and the political chaos of Mobutu-era Zaire. Official reports cited approximately 60 deaths, but subsequent investigations by volcanologists and humanitarian organizations suggested the true death toll may have been as high as 600, with many victims incinerated in their homes or overtaken while fleeing on foot. The 1977 disaster provided a stark demonstration that low-VEI eruptions can be lethal when lava moves fast enough to outrun people.\n\nThe draining of the lava lake left the summit crater empty for the first time in half a century, revealing a system of terraces and benches on the inner walls that marked previous lake levels. The lake began to refill by June 1982."
+        },
+        {
+          "title": "The 2002 Eruption — Lava Invades the City of Goma",
+          "content": "On 17 January 2002, Nyiragongo produced its most destructive eruption in recorded history when a system of fissures opened along a 13 km fracture zone on the southern flank, directing lava flows directly toward the city of Goma, home to approximately 500,000 people at the time.\n\nThe eruption began with the opening of fractures at elevations between 2,800 m and 1,570 m on the southern slope. Lava poured through these fissures rather than over the crater rim, feeding multiple flow fronts that converged on Goma over a period of roughly 18 hours. The main lava flow entered the eastern districts of the city, cutting a path 50 to 200 m wide through the urban area and reaching the shores of Lake Kivu. Approximately 15 percent of Goma was destroyed, including 4,500 buildings. The Goma International Airport runway was bisected, and the commercial center was inundated.\n\nThe eruption killed at least 147 people — some caught by lava flows, others killed by explosions when lava reached fuel storage depots, and still others asphyxiated by carbon dioxide emissions. An estimated 400,000 residents fled across the Rwandan border to the city of Gisenyi or to camps west of Goma. Many returned within weeks to find their homes buried under solidified lava up to 2 m thick.\n\nA secondary hazard emerged in the days following the eruption: the fissure system extended beneath Lake Kivu, raising fears of a limnic eruption. Lake Kivu contains vast quantities of dissolved carbon dioxide and methane in its deep waters, and volcanologists warned that magmatic intrusion could destabilize the lake, potentially releasing a lethal gas cloud similar to the 1986 Lake Nyos disaster in Cameroon that killed 1,746 people. Fortunately, no limnic event occurred, but the risk remains a persistent concern for future eruptions.\n\nThe summit lava lake, which had drained during the eruption, began refilling by May 2002 and has remained active since, making the current phase of activity the longest continuous lava lake observation in Nyiragongo's recorded history."
+        },
+        {
+          "title": "The May 2021 Crisis — Lava Flows Toward Goma Again",
+          "content": "On 22 May 2021, Nyiragongo erupted again when lava overflowed the crater rim and flowed down the southern flank, triggering a mass evacuation of parts of Goma. Unlike the 2002 event, the 2021 lava flows halted before reaching the city center, stopping approximately 1.5 km from the Goma airport. However, the eruption killed at least 32 people and destroyed over 900 homes in the village of Buhene and surrounding areas.\n\nThe eruption was particularly alarming because it occurred with minimal precursory warning detected by the monitoring network. The Goma Volcano Observatory had been severely under-resourced after the World Bank suspended funding in 2020 amid a corruption investigation, and several key seismic stations were not functioning. The crisis underscored the dangerous intersection of volcanic hazard and institutional fragility that defines the Nyiragongo risk landscape.\n\nIn the weeks following the eruption, a series of strong earthquakes struck the Goma–Gisenyi area, with some exceeding magnitude 5.0, prompting additional evacuations. Ground deformation data suggested that magma had intruded laterally beneath the city and possibly beneath Lake Kivu, reigniting fears of a potential limnic eruption. The seismicity gradually subsided, but the episode reinforced Nyiragongo's status as one of the most threatening volcanoes on the planet."
+        },
+        {
+          "title": "The 1927–1977 Lava Lake — A Half-Century of Fire",
+          "content": "One of the most remarkable chapters in Nyiragongo's history is the sustained lava lake that occupied its summit crater from March 1927 until the catastrophic drainage of January 1977. This fifty-year period of continuous lava lake activity is one of the longest documented at any volcano, comparable to the prolonged lava lake phases at <a href=\"/volcano/erta-ale\">Erta Ale</a> in Ethiopia and the Halemaʻumaʻu crater at <a href=\"/volcano/kilauea\">Kilauea</a>.\n\nEuropean explorers and scientists first observed the lava lake in the late nineteenth century, with early reports dating to the 1890s. By the time Belgian volcanologist Haroun Tazieff began systematic observations in the 1940s and 1950s, the lake had become one of the iconic sights of African geology — a roiling, incandescent pool of foiditic lava hundreds of meters across, visible as a bright glow in the night sky from Goma. The lake surface typically sat 200–300 m below the crater rim, with convective overturning producing fountaining, spattering, and occasional high lava stands.\n\nThe abrupt drainage of the lake in 1977 emptied the crater in less than an hour, revealing the plumbing system of conduits and fractures that connected the lake to the rift zone below."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of 2025, Nyiragongo remains in an active eruptive phase that began in May 2002. The summit lava lake is present and fluctuating in level, with periodic increases in thermal output and gas emissions detectable by satellite-based infrared sensors. The volcano continues to release significant quantities of sulfur dioxide (SO₂), contributing to persistent volcanic smog (vog) over the Goma region.\n\nMonitoring is conducted by the Observatoire Volcanologique de Goma (OVG), supported intermittently by international partners including the European Center for Geodynamics and Seismology (ECGS) and various United Nations agencies. The monitoring network includes seismometers, GPS stations, and gas-flux measurement equipment, though operational capacity has been repeatedly compromised by funding gaps, armed conflict, and equipment theft. The May 2021 eruption occurred with notably degraded monitoring capability, highlighting the critical need for sustained investment.\n\nSatellite-based monitoring through programs such as the MOUNTS (Monitoring Unrest from Space) platform and NASA's FIRMS (Fire Information for Resource Management System) provides supplementary real-time data on thermal anomalies and SO₂ emissions. Ground-based InSAR measurements track the inflation and deflation of the edifice, providing early warning of magmatic intrusion events like the lateral dike emplacement detected after the May 2021 eruption.\n\nScientists consider another major eruption of Nyiragongo to be inevitable. The key question is not if but when, and whether the lava will drain through the crater walls toward Goma as it did in 2002 or overflow the rim as it did in 2021."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Nyiragongo presents a hazard profile unlike any other volcano on Earth. Its primary threat is not pyroclastic flows, ashfall, or explosive blasts — the hazards that dominate at subduction-zone volcanoes like <a href=\"/volcano/merapi\">Merapi</a> or <a href=\"/volcano/vesuvius\">Vesuvius</a> — but rather extremely fast-moving lava flows that can reach populated areas within minutes of eruption onset.\n\nThe foiditic lava has viscosity roughly 100 times lower than Hawaiian basalt, enabling flow velocities that have been estimated at up to 60–100 km/h on the steep upper slopes. On the lower flanks approaching Goma, flows slow to walking pace but remain capable of burying entire neighborhoods under 1–3 m of molten rock. The 2002 eruption demonstrated that lava can traverse the 18 km distance from summit to city shore in under 6 hours.\n\nA secondary but potentially more catastrophic hazard involves Lake Kivu, the large body of water on Goma's southern shore. The lake's deep waters contain an estimated 256 km³ of dissolved carbon dioxide and 65 km³ of methane. Magmatic intrusion beneath the lake — as nearly occurred in 2002 and 2021 — could trigger a limnic eruption, releasing a massive cloud of CO₂ that would suffocate inhabitants of the densely populated lake shore. The 1986 Lake Nyos limnic eruption in Cameroon, which killed 1,746 people, involved just 1.6 km³ of CO₂ — a tiny fraction of what Lake Kivu holds.\n\nAdditional hazards include volcanic gas emissions (primarily SO₂ and CO₂), which chronically affect air quality in Goma, and ground fracturing associated with rift-zone seismicity. Evacuation planning is severely complicated by the city's geography — hemmed in by the volcano to the north, the lake to the south, the Rwandan border to the east, and active conflict zones to the west — as well as by inadequate road infrastructure and the presence of hundreds of thousands of internally displaced people from the ongoing conflict in eastern Congo.\n\nThe IAVCEI designated Nyiragongo as one of sixteen 'Decade Volcanoes' specifically because of this extreme combination of volcanic threat and societal vulnerability."
+    },
+    "geography_and_physical_description": {
+      "content": "Nyiragongo rises as a steep, symmetrical cone above the western shore of Lake Kivu in the Virunga Mountains, a volcanic chain running roughly east–west along the border of DR Congo, Rwanda, and Uganda. The summit stands at 3,470 m (11,385 ft) above sea level, towering approximately 2,000 m above the lake surface at 1,460 m elevation. The volcano's steep flanks — averaging 30–35 degrees on the upper slopes — contrast markedly with the broad, gently sloping profile of its neighbor <a href=\"/volcano/nyamulagira\">Nyamulagira</a>, a shield volcano located 13 km to the northwest.\n\nThe summit is crowned by a roughly circular crater approximately 1.2 km (0.75 mi) in diameter and up to 250 m deep. The inner crater walls display prominent terraces and benches that mark the levels of former lava lakes, each representing a period of sustained lake activity before drainage or overflow. The current active lava lake typically occupies a pit within the crater floor, its diameter fluctuating from roughly 200 m to 700 m depending on the supply rate of magma from below.\n\nTwo older volcanic structures are partially buried by Nyiragongo: Baruta to the north and Shaheru to the south. Shaheru's summit, at approximately 2,800 m, contains its own remnant crater. About 100 parasitic cones are distributed across the flanks, concentrated along radial fissure systems to the south, east, and northeast. The fissure system extending south toward Lake Kivu is of particular concern, as it was the conduit for the devastating 2002 lava flows.\n\nThe lower flanks of the volcano transition from barren, unvegetated lava fields near the summit through montane forest and bamboo zones — home to the critically endangered mountain gorilla — into densely cultivated and settled lowlands above Goma. This gradient from wilderness to megacity occurs across just 18 km of horizontal distance and 2,000 m of vertical relief."
+    },
+    "climate_and_global_impact": {
+      "content": "Nyiragongo's eruptions have had negligible direct impact on global climate, as its effusive, low-VEI activity does not inject significant volumes of sulfur aerosols into the stratosphere. Even the largest historical events — the 1977 and 2002 drainage eruptions — were far too small to produce measurable global cooling.\n\nHowever, the volcano's persistent degassing is locally significant. Nyiragongo and neighboring <a href=\"/volcano/nyamulagira\">Nyamulagira</a> together constitute one of the largest continuous sources of volcanic SO₂ on Earth, with combined emissions estimated at 5,000–50,000 tonnes per day during active periods. This output is comparable to that of the most prolific industrial SO₂ sources and contributes to chronic air quality issues in the Goma basin, where acid rain damages crops and respiratory problems are elevated in the local population.\n\nThe potential climate and environmental impact of a Lake Kivu limnic eruption, should one ever be triggered by Nyiragongo's activity, would be regional rather than global but could be catastrophic: the release of 256 km³ of CO₂ and 65 km³ of methane would represent one of the largest sudden greenhouse gas releases in modern history, in addition to the immediate asphyxiation hazard."
+    },
+    "cultural_significance": {
+      "content": "Nyiragongo holds a complex and often tragic cultural significance. For the communities of the Kivu region — primarily the Hunde, Nande, and other Bantu-speaking peoples — the volcano is both a source of fertile soil and a constant existential threat. Local oral traditions contain accounts of past lava flows and destruction, and the volcano figures in regional cosmology as a powerful and unpredictable force.\n\nIn the Western scientific imagination, Nyiragongo became iconic through the work of Haroun Tazieff, a Polish-born French-Belgian volcanologist who conducted expeditions to the crater in 1948, 1953, 1958, and throughout the 1960s and 1970s. Tazieff's photographs and documentary films of the lava lake — glowing orange and convecting in a pit surrounded by sheer crater walls — were among the first close-up images of an active lava lake seen by a global audience. His 1966 documentary helped establish Nyiragongo as one of the world's most visually spectacular volcanoes.\n\nMore recently, Nyiragongo has become a symbol of the intersection between natural disaster and conflict. The 2002 eruption occurred during the Second Congo War, one of the deadliest conflicts since World War II, and relief efforts were hindered by the presence of armed groups, displacement camps, and the collapse of state infrastructure. The volcano's continued threat is inseparable from the broader humanitarian crisis in eastern Congo, making Nyiragongo a case study in compound disaster risk — where volcanic, conflict, and poverty hazards amplify each other.\n\nVirunga National Park, which encompasses Nyiragongo, is Africa's oldest national park (established in 1925) and a UNESCO World Heritage Site. Despite ongoing armed conflict, the park remains one of the most biodiverse places on the African continent and is the primary habitat of the critically endangered mountain gorilla."
+    },
+    "visiting_and_tourism": {
+      "content": "Climbing Nyiragongo to view the lava lake is one of the most extraordinary volcanic experiences available anywhere, but it is also one of the most logistically and security-challenging. The trek is organized through the Institut Congolais pour la Conservation de la Nature (ICCN), which administers Virunga National Park. When security conditions permit, guided overnight hikes depart from the Kibati patrol post, approximately 15 km north of Goma.\n\nThe ascent typically takes 4–6 hours along a steep trail through montane forest and lava fields, gaining approximately 1,500 m in elevation. Hikers overnight in basic shelters on the crater rim, with the reward of watching the lava lake glow and churn through the night — a sight frequently described as among the most awe-inspiring in nature. The descent takes 2–3 hours the following morning.\n\nHowever, access to Nyiragongo has been intermittently suspended due to armed conflict in the surrounding region. The park has been the site of attacks on rangers and tourists by militia groups, and several rangers have been killed in the line of duty. As of early 2025, prospective visitors should check the latest security situation with ICCN and their national travel advisories before planning a trip. Travel insurance that covers conflict zones is essential.\n\nPermit costs have historically been significantly lower than comparable treks (such as gorilla trekking in Rwanda), but availability depends on the security situation. Goma is accessible by air from Kigali (Rwanda) and Kinshasa."
+    },
+    "nearby_volcanoes": {
+      "content": "Nyiragongo is one of eight major volcanoes in the Virunga volcanic province. Its nearest neighbor is <a href=\"/volcano/nyamulagira\">Nyamulagira</a> (3,058 m), a highly active shield volcano just 13 km to the northwest, which is Africa's most prolific lava producer by volume. Despite their proximity, the two volcanoes have distinct magma compositions and eruption styles: Nyamulagira produces more typical alkali basalts, while Nyiragongo erupts the extremely fluid foidites that make its lava lake possible.\n\nOther volcanoes in the Virunga chain include Karisimbi (4,507 m), the highest peak in the chain and home to mountain gorilla habitat; Mikeno (4,437 m), an extinct stratovolcano; and Visoke (Bisoke, 3,711 m), which straddles the DR Congo–Rwanda border. To the south beyond Lake Kivu, the Kigezi volcanic field in Uganda contains additional volcanic features.\n\nFarther afield in the East African Rift, <a href=\"/volcano/lengai-ol-doinyo\">Ol Doinyo Lengai</a> in Tanzania is the only other volcano on Earth that erupts carbonatite lava — even more unusual in composition than Nyiragongo's foidite. <a href=\"/volcano/erta-ale\">Erta Ale</a> in Ethiopia hosts another of the world's persistent lava lakes, making Africa's rift system uniquely rich in rare volcanism."
+    },
+    "etymology": {
+      "content": "The name 'Nyiragongo' derives from the local Kinyarwanda and related Bantu languages. It is commonly interpreted as meaning 'the cooking pot' or 'the place of the cooking pot,' a reference to the churning, bubbling lava lake visible from the crater rim. Some linguistic analyses break the name into 'nyira' (a possessive prefix) and 'gongo' (related to cooking or boiling), though precise etymological sources vary across the several Bantu-speaking communities that have historically lived on and around the volcano's flanks."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Nyiragongo Compared to the World's Lava Lake Volcanoes",
+      "description": "How does Nyiragongo's persistent lava lake compare to other volcanoes with active or historically active lava lakes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Lava Lake Status",
+        "Lava Composition",
+        "Eruption Count",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "Active since 2002",
+          "Foidite",
+          "19",
+          "~670,000"
+        ],
+        [
+          "Kilauea",
+          "United States",
+          "1,222 m",
+          "Shield",
+          "Intermittent (Halemaʻumaʻu)",
+          "Basalt",
+          "70+",
+          "~45,000"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "585 m",
+          "Shield",
+          "Active since 1967",
+          "Basalt",
+          "12",
+          "<5,000"
+        ],
+        [
+          "Erebus",
+          "Antarctica",
+          "3,794 m",
+          "Stratovolcano",
+          "Active since 1972",
+          "Phonolite",
+          "10",
+          "~0"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Shield",
+          "Intermittent",
+          "Basalt",
+          "50+",
+          "~10,000"
+        ]
+      ]
+    },
+    {
+      "title": "Nyiragongo vs Africa's Most Dangerous Volcanoes",
+      "description": "Comparing Nyiragongo with other volcanoes that threaten African populations.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Population at Risk",
+        "VEI Max",
+        "Last Eruption",
+        "Primary Hazard"
+      ],
+      "rows": [
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "Stratovolcano",
+          "~670,000",
+          "2",
+          "2002–present",
+          "Fast lava flows"
+        ],
+        [
+          "Nyamulagira",
+          "DR Congo",
+          "Shield",
+          "~670,000",
+          "2",
+          "2025",
+          "Lava flows, gas"
+        ],
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "Stratovolcano",
+          "~100,000",
+          "2",
+          "2025",
+          "Carbonatite lava, lahars"
+        ],
+        [
+          "Cameroon",
+          "Cameroon",
+          "Stratovolcano",
+          "~500,000",
+          "4",
+          "2000",
+          "Lava flows, gas"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "Shield",
+          "<5,000",
+          "2",
+          "2025",
+          "Lava flows, gas"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1884,
+      "vei": 1,
+      "label": "First recorded eruption — lava lake activity in southern pit",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1927,
+      "vei": 1,
+      "label": "Start of 50-year continuous lava lake phase",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1977,
+      "vei": 1,
+      "label": "Catastrophic lava lake drainage — fastest lava flows ever recorded, 60–600 killed",
+      "deaths": "60-600",
+      "notable": true
+    },
+    {
+      "year": 1982,
+      "vei": 1,
+      "label": "Lava lake reforms in summit crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1994,
+      "vei": 1,
+      "label": "Renewed lava lake activity persists through 1996",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2002,
+      "vei": 1,
+      "label": "January: Lava flows destroy 15% of Goma — 147 killed, 400,000 displaced",
+      "deaths": "147",
+      "notable": true
+    },
+    {
+      "year": 2002,
+      "vei": 2,
+      "label": "May: Current lava lake phase begins, continuing through 2025",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": null,
+      "label": "May: Lava overflows crater rim, 32 killed, major seismic crisis in Goma",
+      "deaths": "32",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th",
+      "count": 5,
+      "note": "First European observations from 1884"
+    },
+    {
+      "century": "20th",
+      "count": 12,
+      "note": "Includes 50-year lava lake phase (1927–1977), catastrophic 1977 drainage, and 2002 eruption"
+    },
+    {
+      "century": "21st",
+      "count": 2,
+      "note": "Ongoing lava lake since 2002, 2021 overflow event"
+    }
+  ],
+  "facts": [
+    "Nyiragongo's 1977 eruption produced lava flows estimated at 60 km/h (37 mph), the fastest ever recorded at any volcano — fast enough to outrun a person.",
+    "The summit lava lake is the largest persistent lava lake on Earth, reaching diameters of up to 700 m during high-activity phases.",
+    "Nyiragongo erupts foidite, one of the rarest and most silica-poor lava types found anywhere on the planet, with silica content as low as 36 percent.",
+    "Lake Kivu, just 18 km south of the summit, contains approximately 256 km³ of dissolved CO₂ and 65 km³ of methane — enough to cause a catastrophic limnic eruption if destabilized by volcanic activity.",
+    "The 2002 eruption destroyed approximately 4,500 buildings and 15 percent of the city of Goma, displacing 400,000 people.",
+    "Nyiragongo's lava is roughly 100 times less viscous than Hawaiian basalt, making it the most fluid lava erupted by any active volcano.",
+    "The volcano is one of sixteen IAVCEI Decade Volcanoes designated as exceptionally dangerous due to eruptive history, population exposure, and the need for additional study.",
+    "Virunga National Park, which encompasses Nyiragongo, is Africa's oldest national park (est. 1925) and a UNESCO World Heritage Site home to mountain gorillas.",
+    "The Goma Volcano Observatory lost critical monitoring capability before the 2021 eruption after the World Bank suspended funding amid a corruption investigation.",
+    "Nyiragongo's neighbor Nyamulagira, just 13 km away, is Africa's most voluminous lava producer, but erupts completely different alkali basalt compositions.",
+    "French-Belgian volcanologist Haroun Tazieff's mid-twentieth-century documentaries of Nyiragongo's lava lake made it one of the most visually iconic volcanoes in the world.",
+    "Despite maximum VEI ratings of only 2, Nyiragongo has killed more people than many volcanoes with far more explosive eruption histories."
+  ],
+  "faqs": [
+    {
+      "question": "Does Nyiragongo have a lava lake?",
+      "answer": "Yes, Mount Nyiragongo hosts the world's largest persistent lava lake, a pool of molten foiditic rock in its 1.2 km-wide summit crater. The current lava lake has been continuously active since May 2002, making it one of only a handful of persistent lava lakes on Earth alongside those at Erta Ale in Ethiopia and intermittently at Kilauea in Hawaii. The lake's diameter fluctuates between roughly 200 m and 700 m depending on the magma supply rate. Nyiragongo's lava lake is unique because of its extremely low-silica foiditic composition, which makes the lava extraordinarily fluid — approximately 100 times less viscous than typical Hawaiian basalt. This fluidity is what produces the churning, convecting surface that glows brilliantly at night and is visible from Goma, 18 km to the south."
+    },
+    {
+      "question": "Is Mount Nyiragongo still active?",
+      "answer": "Yes, Nyiragongo is one of the most active volcanoes in Africa and has been in a state of continuous eruption since May 2002. The summit lava lake remains active as of 2025, with ongoing thermal emissions, degassing of sulfur dioxide and carbon dioxide, and periodic fluctuations in lake level. The volcano's most recent major crisis was the May 2021 eruption, when lava overflowed the crater rim and flowed down the southern flank, killing 32 people and triggering a prolonged seismic swarm beneath the city of Goma. Volcanologists consider another major eruption inevitable, given Nyiragongo's history of catastrophic lava lake drainages in 1977 and 2002. The Goma Volcano Observatory monitors the volcano continuously, though operational capacity is limited by funding and security challenges."
+    },
+    {
+      "question": "Why is Nyiragongo's lava so fast?",
+      "answer": "Nyiragongo produces the fastest-moving lava flows ever recorded — up to 60 km/h (37 mph) — because it erupts foidite, an extremely rare and silica-poor volcanic rock with only 36–40 percent silica by weight. For comparison, Hawaiian basalt typically contains 48–52 percent silica, and the andesite erupted by volcanoes like Merapi has 57–63 percent. Lower silica content produces fewer silicate polymer chains in the melt, dramatically reducing viscosity. Nyiragongo's foiditic lava is approximately 100 times less viscous than Hawaiian basalt, allowing it to flow almost like water on the volcano's steep 30–35 degree upper slopes. This combination of extreme fluidity, steep gradients, and proximity to the city of Goma makes Nyiragongo one of the most dangerous volcanoes on Earth."
+    },
+    {
+      "question": "How many people has Nyiragongo killed?",
+      "answer": "Nyiragongo's eruptions have killed at least several hundred people across three major events. The 1977 lava lake drainage killed an estimated 60 to 600 people, with the wide range reflecting the difficulty of accounting for victims in the remote and politically unstable region of what was then Zaire. The 2002 eruption, which sent lava flows through the city of Goma, killed at least 147 people and displaced approximately 400,000. The 2021 eruption killed at least 32. In total, documented fatalities likely exceed 250, with the true number possibly several times higher due to unreported deaths in the 1977 event. Nyiragongo demonstrates that low-explosivity eruptions (maximum VEI 2) can be highly lethal when lava flows are fast enough to overwhelm populated areas."
+    },
+    {
+      "question": "Can you climb Nyiragongo?",
+      "answer": "Yes, when security conditions permit, guided treks to the summit of Nyiragongo are organized through the Institut Congolais pour la Conservation de la Nature (ICCN), which manages Virunga National Park. The hike departs from the Kibati patrol post north of Goma and takes 4–6 hours to ascend through montane forest and lava fields to the crater rim at 3,470 m. Hikers overnight in basic shelters to view the glowing lava lake after dark — widely described as one of the most spectacular sights in nature. The descent takes 2–3 hours. However, access has been repeatedly suspended due to armed conflict in eastern DR Congo. Several park rangers and tourists have been killed in militia attacks. Prospective visitors must check current security conditions with ICCN and their national travel advisories, and travel insurance covering conflict zones is strongly recommended."
+    },
+    {
+      "question": "What happened in the 2002 Nyiragongo eruption?",
+      "answer": "On 17 January 2002, Nyiragongo erupted when fissures opened along a 13 km fracture on the southern flank, directing lava flows toward the city of Goma. The extremely fluid foiditic lava entered the eastern districts of the city within hours, cutting a path 50–200 m wide through the urban area and reaching the shore of Lake Kivu. Approximately 15 percent of the city was destroyed, including 4,500 buildings and the runway of Goma International Airport. At least 147 people were killed by lava flows, explosions at fuel depots, and carbon dioxide asphyxiation. Some 400,000 residents fled, most crossing into Rwanda. The eruption also raised fears of a limnic eruption in Lake Kivu, which holds vast quantities of dissolved CO₂ and methane. The lava lake re-formed by May 2002 and has remained active since."
+    },
+    {
+      "question": "Could Nyiragongo cause a limnic eruption in Lake Kivu?",
+      "answer": "This is a serious and scientifically recognized concern. Lake Kivu, located just 18 km south of Nyiragongo's summit, contains approximately 256 km³ of dissolved carbon dioxide and 65 km³ of methane trapped in its deep waters by pressure and temperature stratification. If volcanic activity — such as a lava flow entering the lake or magmatic intrusion beneath the lake bed — were to disrupt this stratification, the dissolved gases could rapidly exsolve and rise to the surface, releasing a massive lethal cloud. The 1986 limnic eruption at Lake Nyos in Cameroon, which killed 1,746 people, involved just 1.6 km³ of CO₂. Lake Kivu contains roughly 160 times more. The 2002 and 2021 eruptions both produced fracture systems that extended toward or beneath the lake, making this scenario a focus of ongoing research and monitoring."
+    },
+    {
+      "question": "How tall is Mount Nyiragongo?",
+      "answer": "Mount Nyiragongo stands 3,470 m (11,385 ft) above sea level, making it one of the tallest volcanoes in Africa. Its summit rises approximately 2,000 m above the surface of Lake Kivu at 1,460 m elevation and roughly 1,950 m above the city of Goma at its base. The crater rim elevation has remained relatively stable in recorded history, as Nyiragongo's eruptions are primarily effusive rather than explosive, and the volcano has not experienced the summit collapses that reduce the height of more explosive stratovolcanoes. Nyiragongo's neighbor Nyamulagira is slightly shorter at 3,058 m, while the tallest peak in the Virunga chain is Karisimbi at 4,507 m."
+    },
+    {
+      "question": "What type of volcano is Nyiragongo?",
+      "answer": "Nyiragongo is classified as an active stratovolcano, though it is highly atypical for this category. Unlike most stratovolcanoes — which build steep cones from alternating layers of explosive pyroclastic deposits and lava flows — Nyiragongo's steep edifice is constructed almost entirely from stacked effusive lava flows and scoria. Its eruptions are overwhelmingly effusive rather than explosive, with a maximum recorded VEI of just 2. What makes Nyiragongo truly unique is its lava composition: it erupts foidite (specifically nephelinite and leucitite), one of the rarest volcanic rock types on Earth, with silica content as low as 36 percent. This gives the lava extraordinary fluidity that enables the persistent lava lake and the rapid lava flows for which the volcano is famous."
+    },
+    {
+      "question": "Why is Nyiragongo so dangerous?",
+      "answer": "Nyiragongo is considered one of Earth's most dangerous volcanoes due to a unique convergence of factors. First, its foiditic lava is the most fluid erupted by any active volcano, enabling flow speeds up to 60 km/h that can reach populated areas within minutes. Second, the city of Goma (population ~670,000) and Gisenyi, Rwanda (~250,000) lie directly downslope, just 18 km from the summit. Third, Lake Kivu's enormous dissolved gas reservoir creates a secondary catastrophic risk of limnic eruption. Fourth, the volcano sits in one of the world's most conflict-affected regions, where armed groups operate freely, monitoring infrastructure is fragile, and evacuation logistics are severely constrained. This combination of fast-moving hazard, dense population, secondary catastrophic risk, and institutional fragility is unmatched at any other volcano worldwide."
+    }
+  ],
+  "people_also_search": [
+    "nyiragongo lava lake",
+    "nyiragongo eruption 2002",
+    "fastest lava flow ever recorded",
+    "most dangerous volcano africa",
+    "nyiragongo 2021 eruption",
+    "can you climb nyiragongo",
+    "lake kivu limnic eruption risk",
+    "virunga national park volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Nyiragongo",
+    "alternateName": [
+      "Nyiragongo"
+    ],
+    "description": "Active stratovolcano in eastern DR Congo with the world's largest persistent lava lake and the fastest-moving lava flows ever recorded",
+    "geo": {
+      "latitude": -1.52,
+      "longitude": 29.25,
+      "elevation": 3470
+    },
+    "containedInPlace": {
+      "name": "Virunga Mountains",
+      "country": "DR Congo"
+    },
+    "url": "https://volcanoatlas.com/volcano/nyiragongo"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=223030",
+      "text": "Smithsonian GVP: Nyiragongo",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Nyiragongo",
+      "text": "Britannica: Mount Nyiragongo",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/63",
+      "text": "UNESCO: Virunga National Park",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://vifrancia.org/",
+      "text": "Virunga Foundation",
+      "type": "conservation"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "nyamulagira",
+      "erta-ale",
+      "kilauea",
+      "merapi",
+      "vesuvius",
+      "erebus",
+      "lengai-ol-doinyo"
+    ],
+    "country_pages": [
+      "dr-congo"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "nyamulagira",
+    "erta-ale",
+    "kilauea",
+    "erebus",
+    "lengai-ol-doinyo"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in DR Congo",
+      "url": "/volcanoes-in-dr-congo"
+    },
+    {
+      "label": "Mount Nyiragongo",
+      "url": "/volcano/nyiragongo"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/nyiragongo"
+}

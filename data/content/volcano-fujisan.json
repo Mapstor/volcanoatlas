@@ -1,0 +1,524 @@
+{
+  "slug": "fujisan",
+  "volcano_id": 283030,
+  "title": "Mount Fuji (Fujisan)",
+  "meta_title": "Mount Fuji (Fujisan) — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Mount Fuji is a 3,776 m active stratovolcano in Japan. Explore its full eruption history from 8540 BCE to 1707, current status, hazard map, and climbing guide.",
+  "quick_answer": {
+    "what": "Mount Fuji (Fujisan) is an active stratovolcano rising to 3,776 m (12,389 ft) on the island of Honshu, Japan — the country's tallest peak and one of the most iconic mountains in the world.",
+    "status": "Active — last confirmed eruption December 1707 (Hōei eruption, VEI 5). Continuously monitored. Classified as at risk of future eruption by the Japan Meteorological Agency.",
+    "famous_for": "Its near-perfect conical symmetry, status as Japan's most sacred mountain, UNESCO World Heritage listing, and the devastating VEI 5 Hōei eruption of 1707 that deposited ash on Edo (Tokyo).",
+    "danger_level": "A future eruption poses significant risk — approximately 27 million people live within 100 km, including metropolitan Tokyo. Ashfall from a Hōei-scale eruption could disrupt critical infrastructure across the Kantō region."
+  },
+  "hero": {
+    "name": "Mount Fuji",
+    "local_name": "富士山 (Fujisan)",
+    "subtitle": "Japan's Sacred Peak and Tallest Volcano",
+    "country": "Japan",
+    "region": "Honshu, Chūbu / Kantō border",
+    "type": "Stratovolcano",
+    "elevation_m": 3776,
+    "elevation_ft": 12389,
+    "status": "Active",
+    "last_eruption": "1707 (Hōei eruption)",
+    "coordinates": {
+      "lat": 35.361,
+      "lon": 138.728
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02009.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "3,776 m (12,389 ft)",
+    "type": "Stratovolcano (Composite volcano)",
+    "status": "Active",
+    "last_eruption": "December 16, 1707 – January 1, 1708 (Hōei eruption)",
+    "first_known_eruption": "~8540 BCE",
+    "total_recorded_eruptions": 67,
+    "vei_max": "5 (1707 Hōei eruption; also ~1350 BCE, ~930 BCE)",
+    "country": "Japan",
+    "region": "Honshu — Shizuoka and Yamanashi Prefectures",
+    "tectonic_setting": "Subduction zone — Philippine Sea Plate beneath Eurasian Plate, at the junction of the Izu-Bonin-Mariana Arc",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "35.361°N, 138.728°E",
+    "nearest_city": "Gotemba — 20 km east; Tokyo — 100 km northeast",
+    "population_at_risk": "~750,000 within 30 km; ~27 million within 100 km (including Greater Tokyo)",
+    "summit_crater": "~780 m diameter, ~250 m deep",
+    "protected_status": "UNESCO World Heritage Site — 'Fujisan, Sacred Place and Source of Artistic Inspiration' (2013)",
+    "monitoring_agency": "Japan Meteorological Agency (JMA), Mt. Fuji Research Institute",
+    "unesco_sites_nearby": "Fujisan Cultural Heritage Site (includes Fuji Five Lakes, Sengen shrines, pilgrimage routes)",
+    "smithsonian_id": "283030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=283030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Fuji (Japanese: 富士山, Fujisan) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,776 m (12,389 ft) at the border of Shizuoka and Yamanashi Prefectures on Honshu, <a href=\"/volcanoes-in-japan\">Japan</a> — the country's tallest mountain and highest volcano. Its near-perfect conical symmetry, snow-capped summit, and cultural significance have made it one of the most recognizable mountains on Earth and an enduring symbol of Japan for centuries. Fujisan sits at a rare tectonic triple junction where the Eurasian, Philippine Sea, and North American plates converge, a setting that provides the subduction-driven magma supply responsible for its growth over the past approximately 100,000 years. The modern post-glacial Younger Fuji stratovolcano is constructed atop a group of overlapping older volcanic edifices, including Ko-Fuji (Old Fuji) and the even older Komitake volcano.\n\nWith 67 recorded eruptions spanning more than 10,000 years — including three VEI 5 events — Mount Fuji is among the most historically active volcanoes in <a href=\"/volcanoes-in-japan\">Japan</a>, a country with more than 100 active volcanoes forming part of the <a href=\"/ring-of-fire\">Ring of Fire</a>. The most recent and largest historical eruption, the VEI 5 Hōei eruption of December 1707, deposited volcanic ash on Edo (modern Tokyo), 100 km to the northeast, and created a prominent new crater (Hōei-zan) on the southeastern flank. Since 1707, Fujisan has been dormant — the longest quiet period in its known history — but the Japan Meteorological Agency classifies it as an active volcano with the potential for future eruptions. Approximately 27 million people live within 100 km of the summit, including the entire Greater Tokyo metropolitan area, making any future eruption a major national concern. Fuji was designated a UNESCO World Heritage Site in 2013, recognized not as a natural landscape but as a 'Sacred Place and Source of Artistic Inspiration,' reflecting its profound role in Japanese religion, art, and identity."
+    },
+    "geology_and_formation": {
+      "content": "Mount Fuji occupies a uniquely complex tectonic position at the junction of three tectonic plates: the Eurasian Plate, the Philippine Sea Plate (subducting northwestward beneath Honshu), and the North American Plate (or Okhotsk microplate). This triple junction places Fuji at the intersection of the Izu-Bonin-Mariana volcanic arc and the main volcanic front of the Japanese archipelago, providing an unusually robust magma supply.\n\nThe volcanic edifice is the product of at least three overlapping generations of volcanoes. The oldest, Komitake, began erupting several hundred thousand years ago and forms the lower portion of the mountain's northern flank. Ko-Fuji (Old Fuji) grew atop Komitake starting approximately 100,000 years ago, building much of the current mountain's bulk through a combination of explosive eruptions and lava flows. The modern Younger Fuji phase began approximately 11,000 years ago with a period of voluminous lava flows from 11,000 to 8,000 years BP, accounting for roughly four-fifths of the Younger Fuji volume.\n\nFuji's magma is predominantly basaltic — relatively low in silica compared to many other <a href=\"/types-of-volcanoes\">stratovolcanoes</a> — which means it can produce both fluid lava flows and moderately explosive eruptions depending on gas content, eruption rate, and magma interaction with groundwater. More than 100 flank cones and parasitic vents dot the mountain's slopes, testament to the frequency with which magma has reached the surface through lateral conduits. These flank eruptions blocked drainages against the Tertiary Misaka Mountains on the north side, creating the Fuji Five Lakes (Fujigoko) — now popular resort destinations. Lava tubes, extensive aa and pahoehoe lava fields, and scoria deposits from Strombolian and sub-Plinian eruptions characterize the geological record on all flanks."
+    },
+    "eruption_history_overview": {
+      "content": "Mount Fuji's recorded eruptive history spans approximately 10,500 years, with 67 eruptions documented in the Smithsonian Global Volcanism Program database — 58 confirmed and 9 uncertain. The eruption pattern reveals distinct phases: voluminous lava flows dominated from 11,000 to 8,000 years BP, building the bulk of the Younger Fuji edifice. From 8,000 to 4,500 BP, activity shifted to smaller explosive eruptions. A second major lava flow period occurred from 4,500 to 3,000 BP. After 3,000 BP, intermittent explosive eruptions became dominant, with summit eruptions transitioning to predominantly flank-vent activity after about 2,000 BP. The maximum recorded <a href=\"/volcanic-explosivity-index\">VEI</a> is 5, achieved during eruptions around 1350 BCE, 930 BCE, and the famous 1707 Hōei event. The historical period (since ~781 AD) records approximately 16 eruptions, with the last confirmed eruption — the Hōei eruption — occurring in 1707–1708. The subsequent 300+ years of dormancy represent the longest repose period in Fuji's known history."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Hōei Eruption (1707–1708) — Fuji's Largest Historical Eruption (VEI 5)",
+          "content": "On December 16, 1707, forty-nine days after the devastating Hōei earthquake (M8.6) struck the Nankai Trough, Mount Fuji erupted from a newly opened vent on its southeastern flank at approximately 2,500 m elevation. The eruption began with powerful Plinian columns reaching an estimated 20 km into the atmosphere and continued with violent Strombolian and sub-Plinian explosive phases for approximately 16 days, ending around January 1, 1708.\n\nThe Hōei eruption was Fuji's most powerful event during the historical record, rated VEI 5 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a>. It ejected an estimated 0.68 km³ of tephra — primarily basaltic scoria and ash — but produced no lava flows, an unusual characteristic for a basaltic eruption of this magnitude. Prevailing winds carried the ash plume eastward, depositing measurable ashfall on Edo (Tokyo), approximately 100 km to the northeast. Contemporary accounts describe darkness at midday in Edo, with ash accumulating to several centimeters on streets and rooftops. Villages on the eastern and southeastern flanks were buried under meters of tephra; agricultural land was devastated, and subsequent lahars triggered by rainfall continued to cause destruction for decades.\n\nThe eruption created three prominent craters aligned vertically on the southeastern flank — collectively known as Hōei-zan — which remain the most visible feature breaking the symmetry of Fuji's otherwise near-perfect cone. No direct fatalities were reliably documented from the eruption itself, though the secondary agricultural disruption and lahars caused widespread famine and displacement across the Kantō region."
+        },
+        {
+          "title": "The Jōgan Eruption (864–866 AD) — VEI 3",
+          "content": "One of the most significant lava flow eruptions in Fuji's history, the Jōgan eruption (also called the Aokigahara eruption) began on June 12, 864, from vents on the northwestern flank at the locations now known as Nagao-yama and Kudari-yama. Basaltic lava flows poured northward and westward, reaching the shores of Senoumi lake and reducing it dramatically in size — the remnant is today's Lake Saiko and Lake Shōji, two of the Fuji Five Lakes. The eruption also created the vast Aokigahara lava field, now covered by the dense Aokigahara forest (known as the 'Sea of Trees'), which grows on the rugged pahoehoe and aa lava surfaces. The eruption lasted approximately two years and produced one of the largest post-prehistoric lava flows on Fuji's flanks."
+        },
+        {
+          "title": "The Enryaku Eruption (800–802 AD) — VEI 4",
+          "content": "The Enryaku eruption was a major explosive and effusive event that began on April 11, 800, with activity from both the summit and multiple flank vents on the northeastern and northwestern sides. Rated VEI 4, this eruption was significantly more explosive than most of Fuji's flank eruptions. It produced both pyroclastic falls and lava flows, and is documented in Japanese court records (Nihon Kōki) as causing substantial disruption to the Tōkaidō highway — the critical road connecting Kyoto to eastern Japan. The eruption built the parasitic cone Tenjin-yama on the northeastern flank. Contemporary accounts describe ashfall, loud explosions, and disrupted travel for months."
+        },
+        {
+          "title": "Prehistoric VEI 5 Eruptions (~1350 BCE and ~930 BCE)",
+          "content": "Geological deposits reveal at least two major explosive eruptions in Fuji's prehistoric record that reached VEI 5 — comparable in scale to the 1707 Hōei eruption. The eruption around 1350 BCE is identified in tephra deposits across the southern flanks, while the ~930 BCE eruption originated from the upper southeastern flank. These events demonstrate that large explosive eruptions have been a recurring feature of Fuji's behavior, not an anomaly. A VEI 4 eruption around 1030 BCE from the northwestern flank (Omuro-yama) further confirms the mountain's capacity for powerful events between the larger milestones."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mount Fuji is currently dormant but officially classified as an active volcano by the Japan Meteorological Agency (JMA). The volcano has not erupted since the Hōei event in 1707–1708 — a dormancy exceeding 300 years, the longest quiet interval in its recorded history. The JMA monitors Fuji through a network of seismometers, tiltmeters, GPS stations, and volcanic gas sensors deployed on and around the mountain. Following the 2011 Tōhoku earthquake (M9.1), seismic activity beneath Fuji temporarily increased, and a study by the National Research Institute for Earth Science and Disaster Prevention (NIED) reported elevated pressure in the magma chamber. A M5.4 earthquake occurred directly beneath Fuji in March 2011, raising public concern. However, subsequent monitoring has not detected sustained increases in volcanic unrest indicators.\n\nThe Japanese government has developed detailed hazard maps and evacuation plans for a potential Fuji eruption. A 2020 update to the Mount Fuji Volcanic Disaster Management Plan expanded the estimated ashfall zone, warning that a Hōei-scale eruption could deposit 2–10 cm of ash across the Greater Tokyo area, potentially disrupting transportation (including Shinkansen rail and Haneda/Narita airports), water supply, telecommunications, and power systems. The volcanic alert level currently stands at Level 1 ('Normal'), the lowest on JMA's five-tier scale."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Mount Fuji's hazard profile combines explosive eruption potential with extreme population exposure. Approximately 750,000 people live within 30 km of the summit, and roughly 27 million people — nearly a quarter of Japan's population — reside within 100 km, including the entire Greater Tokyo metropolitan area. A 2004 hazard map produced by the Cabinet Office identifies multiple threat scenarios.\n\nLava flows would likely travel down existing valleys on the flanks, potentially reaching populated areas within hours. Pyroclastic flows, while less common at basaltic volcanoes, occurred during Fuji's more explosive prehistoric eruptions and could threaten communities within 10–15 km. The most widespread hazard is tephra fall (ashfall): modeling of a Hōei-scale eruption with modern wind patterns suggests 2–10 cm of ash deposition across much of the Kantō Plain. Even a few centimeters of wet volcanic ash can collapse lightweight roofs, short-circuit power transformers, clog air filters on vehicles and aircraft, contaminate water supplies, and cause respiratory distress. The economic damage from infrastructure disruption alone has been estimated at trillions of yen.\n\nLahars (volcanic mudflows) represent a significant post-eruptive hazard, as heavy rainfall on fresh ash deposits can mobilize debris flows that travel far beyond the initial eruption zone. After the 1707 eruption, lahars continued to devastate communities for decades. Fuji's hazard profile has drawn comparison with <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> — both are explosive volcanoes in prolonged dormancy surrounded by millions of people. The key difference is Fuji's predominantly basaltic composition, which generally (though not always) produces less explosive eruptions than Vesuvius's more silicic magma."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount Fuji's near-perfect conical profile — a symmetry that has made it the archetypal volcano in both Japanese art and global culture — rises as an isolated peak from a base circumference of approximately 125 km (78 mi) to a summit altitude of 3,776 m (12,389 ft). The summit crater (Nai-in) measures approximately 780 m (2,560 ft) in diameter and 250 m (820 ft) in depth, with a high point (Kengamine) on the southern rim that constitutes Japan's highest point.\n\nThe flanks are remarkably steep for a basaltic volcano, averaging 25–35° in the upper sections, largely due to the complex layering of lava flows and pyroclastic deposits from multiple eruptive phases. More than 100 parasitic cones, vents, and craters are distributed across the flanks, including the prominent Hōei-zan craters on the southeastern slope. The treeline sits at approximately 2,400 m on the northern side and 2,800 m on the sheltered southern side.\n\nTo the north, the Fuji Five Lakes (Kawaguchiko, Yamanakako, Saiko, Shōjiko, and Motosuko) formed when Fuji's lava flows blocked pre-existing river drainages against the Misaka Mountains. Aokigahara, the dense forest growing on the Jōgan lava field's rugged surface, covers roughly 30 km² on the northwestern flank. The mountain is visible from Tokyo on clear days and from points over 200 km away, contributing to its outsized presence in Japanese consciousness."
+    },
+    "climate_and_global_impact": {
+      "content": "Mount Fuji's eruptions have been primarily regional in their climate impact rather than globally significant. The 1707 Hōei eruption (VEI 5), while devastating locally, ejected approximately 0.68 km³ of tephra — substantial but below the threshold for measurable global climate perturbation, which typically requires VEI 6+ events injecting large volumes of sulfur dioxide into the stratosphere. For comparison, the 1991 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> (VEI 6) ejected roughly 5 km³ and cooled the planet by approximately 0.5°C.\n\nHowever, Fuji's prehistoric record includes multiple VEI 5 events, and the cumulative effect of extended eruption sequences — particularly the heavy ashfall, disrupted agriculture, and lahar activity following the 1707 eruption — created years of regional climate and food production disruption in the Kantō Plain. A future Hōei-scale eruption's impact on modern Japan would be primarily infrastructural and economic rather than climatic, given the extreme density of critical systems (transportation, electronics manufacturing, financial markets) within the ashfall zone."
+    },
+    "cultural_significance": {
+      "content": "Mount Fuji occupies a place in Japanese culture that has no true parallel for any other mountain anywhere in the world. It is simultaneously a Shinto sacred site, a Buddhist pilgrimage destination, a national symbol, and the single most depicted natural landmark in art history. The Sengen shrines at the base and summit (Fujisan Hongū Sengen Taisha) have drawn pilgrims since at least the 7th century, and organized climbing pilgrimages became a mass cultural phenomenon during the Edo period (1603–1868) with the rise of Fuji-kō devotional societies.\n\nIn art, Fuji is immortalized in Katsushika Hokusai's 'Thirty-six Views of Mount Fuji' (1830–1832) — including 'The Great Wave off Kanagawa,' one of the most reproduced images in the history of art — and Utagawa Hiroshige's 'Thirty-six Views of Mount Fuji' (1852). Fuji appears in thousands of ukiyo-e woodblock prints, in haiku by Matsuo Bashō and other masters, and in countless paintings, photographs, and films. The mountain's UNESCO World Heritage designation in 2013 explicitly recognized this cultural dimension, listing it as 'Fujisan, Sacred Place and Source of Artistic Inspiration' rather than as a natural wonder.\n\nToday, Fuji remains a powerful national symbol, appearing on the Japanese 1,000-yen banknote, corporate logos, and as the de facto visual emblem of Japan in international media. The mountain attracts roughly 300,000 summit climbers during the official July–September season and millions of additional visitors to the Fuji Five Lakes region year-round."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Fuji's official climbing season runs from early July to mid-September, when mountain huts are staffed and trails are maintained. Four main trails lead to the summit: Yoshida (most popular, from the north — the only trail open from the Fifth Station at 2,300 m), Subashiri (east), Gotemba (southeast — longest route), and Fujinomiya (south — shortest route). Most climbers ascend from a Fifth Station (approximately 2,300–2,400 m), reducing the climb to 5–8 hours ascending and 3–5 hours descending. Since 2024, Yamanashi Prefecture has implemented a reservation system and ¥2,000 entry fee for the Yoshida trail to manage overcrowding, with a daily cap of 4,000 climbers.\n\nMany climbers undertake overnight ascents to witness sunrise from the summit (goraiko) — an experience of deep spiritual significance in Japanese culture. Mountain huts along the routes provide basic accommodation and meals. The summit circuit (ohachi-meguri) around the crater rim takes approximately 60–90 minutes. Altitude sickness is common above 3,000 m, and weather conditions can deteriorate rapidly — hypothermia and high winds are serious hazards even in summer.\n\nOutside climbing season, the Fuji Five Lakes area (particularly Kawaguchiko) offers year-round access to views, museums (including the Fuji Visitor Center), onsens (hot spring baths), and Aokigahara forest trails. The Chureito Pagoda viewpoint in Fujiyoshida provides the iconic pagoda-and-Fuji photograph. Access from Tokyo is approximately 90 minutes by bus or train to the Fifth Station or lake towns."
+    },
+    "nearby_volcanoes": {
+      "content": "Mount Fuji lies along the volcanic front of the Izu-Bonin-Mariana Arc and within the broader volcanic landscape of central Honshu. The Hakone volcanic complex, a popular hot spring resort area 80 km to the southeast, is an active caldera that last erupted approximately 3,000 years ago and experienced notable volcanic unrest (increased fumarolic activity, seismicity, and sulfur dioxide emissions) in 2015. The Izu volcanic arc, extending southward from the Izu Peninsula into the Pacific, includes active submarine volcanoes and the volcanic islands of Miyakejima and Hachijōjima. To the north, the Fuji volcanic zone connects to the Northern Japan volcanic arc, which includes Asamayama, one of Japan's most active volcanoes, located approximately 130 km to the north. Japan's 111 active volcanoes — the third-highest national count in the world after <a href=\"/volcanoes-in-indonesia\">Indonesia</a> and the <a href=\"/volcanoes-in-united-states\">United States</a> — make it one of the most volcanically active nations on the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "etymology": {
+      "content": "The origin of the name 'Fuji' (富士) remains disputed among linguists and historians. The characters used today — meaning 'wealth' (富) and 'warrior' (士) — are ateji (phonetic kanji) and do not reflect the original meaning. Leading theories include derivation from the Ainu word 'huchi' or 'fuchi' meaning 'fire' or 'fire deity,' from the Old Japanese 'fuji' meaning 'wisteria,' or from 'fushi' (不死) meaning 'immortal.' The reading 'Fujisan' uses the on'yomi (Chinese reading) of 山 ('san' for mountain) rather than the native 'yama,' reflecting the mountain's association with Buddhist and Chinese literary traditions."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount Fuji Compared to the World's Most Iconic Stratovolcanoes",
+      "description": "How does Fuji compare to other famous conical volcanoes around the world?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "UNESCO Status"
+      ],
+      "rows": [
+        [
+          "Fujisan",
+          "Japan",
+          "3,776 m",
+          "Stratovolcano",
+          "1707",
+          "5",
+          "67",
+          "World Heritage (2013)"
+        ],
+        [
+          "Vesuvius",
+          "Italy",
+          "1,281 m",
+          "Stratovolcano",
+          "1944",
+          "5",
+          "61",
+          "Nearby WH site"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "73",
+          "None"
+        ],
+        [
+          "Rainier",
+          "United States",
+          "4,392 m",
+          "Stratovolcano",
+          "1894",
+          "3",
+          "12",
+          "None"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,835 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "117",
+          "UNESCO Reserve"
+        ]
+      ]
+    },
+    {
+      "title": "Mount Fuji vs Japan's Other Major Active Volcanoes",
+      "description": "How does Fuji compare to other frequently active volcanoes across the Japanese archipelago?",
+      "headers": [
+        "Volcano",
+        "Region",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Fujisan",
+          "Honshu",
+          "3,776 m",
+          "Stratovolcano",
+          "1707",
+          "5",
+          "67"
+        ],
+        [
+          "Asamayama",
+          "Honshu",
+          "2,568 m",
+          "Complex",
+          "2019",
+          "4",
+          "77"
+        ],
+        [
+          "Sakurajima",
+          "Kyushu",
+          "1,117 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "95"
+        ],
+        [
+          "Unzen",
+          "Kyushu",
+          "1,500 m",
+          "Complex",
+          "1996",
+          "4",
+          "17"
+        ],
+        [
+          "Aso",
+          "Kyushu",
+          "1,592 m",
+          "Caldera",
+          "2021",
+          "5",
+          "79"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8540,
+      "vei": null,
+      "label": "Earliest recorded eruption — south flank vent",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1350,
+      "vei": 5,
+      "label": "Major explosive eruption — one of three VEI 5 events",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -930,
+      "vei": 5,
+      "label": "VEI 5 explosive eruption — upper SE flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1030,
+      "vei": 4,
+      "label": "VEI 4 eruption — NW flank (Omuro-yama)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 781,
+      "vei": 3,
+      "label": "First historically documented eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 800,
+      "vei": 4,
+      "label": "Enryaku eruption — summit and flank vents, disrupted Tōkaidō road",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 864,
+      "vei": 3,
+      "label": "Jōgan eruption — massive lava flows created Aokigahara forest, reshaped lakes",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1033,
+      "vei": 2,
+      "label": "Summit and SSE flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1083,
+      "vei": 2,
+      "label": "Last eruption before long medieval quiet period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1707,
+      "vei": 5,
+      "label": "Hōei eruption — largest historical eruption, ash fell on Edo (Tokyo)",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (before 781 AD)",
+      "count": 43,
+      "note": "Dominated by lava flows 11,000–3,000 BP, then explosive events"
+    },
+    {
+      "century": "8th",
+      "count": 2,
+      "note": "781 AD and 800 AD eruptions"
+    },
+    {
+      "century": "9th",
+      "count": 4,
+      "note": "Including major Jōgan lava flow eruption (864–866)"
+    },
+    {
+      "century": "10th",
+      "count": 4,
+      "note": "Multiple confirmed and uncertain flank eruptions"
+    },
+    {
+      "century": "11th",
+      "count": 3,
+      "note": "Including eruptions in 1017, 1033, and 1083"
+    },
+    {
+      "century": "12th–14th",
+      "count": 0,
+      "note": "Longest pre-modern quiet interval"
+    },
+    {
+      "century": "15th",
+      "count": 2,
+      "note": "1427 (uncertain) and 1435"
+    },
+    {
+      "century": "16th",
+      "count": 2,
+      "note": "1511 and 1560 (uncertain)"
+    },
+    {
+      "century": "17th",
+      "count": 1,
+      "note": "1627 (uncertain)"
+    },
+    {
+      "century": "18th",
+      "count": 3,
+      "note": "1700, 1707 Hōei (VEI 5), 1708 (uncertain aftermath)"
+    },
+    {
+      "century": "19th–present",
+      "count": 0,
+      "note": "Over 300 years of dormancy — longest in recorded history"
+    }
+  ],
+  "facts": [
+    "Mount Fuji is the tallest peak in Japan at 3,776 m (12,389 ft) and the tallest volcano in the country — yet its summit is less than 100 km from the center of Tokyo, one of the world's largest cities.",
+    "Fuji's 1707 Hōei eruption was triggered 49 days after the Hōei earthquake (M8.6) — the last time a great megathrust earthquake in the Nankai Trough preceded a major volcanic eruption in Japan.",
+    "The eruption deposited ash on Edo (Tokyo), causing darkness at midday — a scenario that Japanese hazard planners actively model for today because of its devastating implications for modern infrastructure.",
+    "More than 100 parasitic cones and vents dot Fuji's flanks — more than almost any other stratovolcano on Earth.",
+    "The Fuji Five Lakes (Fujigoko) were created when lava flows from Fuji blocked river valleys against the Misaka Mountains — two of the lakes (Saiko and Shōji) are remnants of a single larger lake split by the 864 AD Jōgan lava flow.",
+    "Aokigahara — the dense forest on Fuji's northwestern flank known as the 'Sea of Trees' — grows on the rugged lava surface of the 864 AD Jōgan eruption.",
+    "Katsushika Hokusai's 'The Great Wave off Kanagawa' (c. 1831), one of the most recognizable artworks in history, features Mount Fuji in the background — part of his series 'Thirty-six Views of Mount Fuji.'",
+    "Fuji's current 300+ year dormancy is the longest quiet period in its 10,500-year eruptive record — previous repose intervals typically lasted only decades to about 200 years.",
+    "Approximately 300,000 people climb to Fuji's summit each year during the official July–September season, making it one of the most-climbed mountains in the world.",
+    "Mount Fuji's near-perfect conical shape is unusual for a basaltic stratovolcano and is the product of its complex three-layered structure (Komitake, Ko-Fuji, and Younger Fuji) and relatively uniform eruption rate.",
+    "The 2011 Tōhoku earthquake (M9.1) increased pressure in Fuji's magma chamber and triggered a M5.4 earthquake directly beneath the mountain — temporarily raising concerns about a potential eruption.",
+    "Since 2024, the Yoshida climbing trail requires advance reservation and a ¥2,000 fee, with a daily cap of 4,000 climbers to address overcrowding on Japan's most iconic mountain."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Fuji still active?",
+      "answer": "Yes, Mount Fuji is classified as an active volcano by the Japan Meteorological Agency. Although it has not erupted since the Hōei eruption of 1707–1708, the volcano shows continued signs of internal activity, including occasional earthquake swarms, fumarolic emissions at the summit, and hot springs on its flanks. Volcanologists define an active volcano as one that has erupted within the Holocene epoch (last 11,700 years) or shows geophysical unrest. Fuji's 67 recorded eruptions over 10,500 years and its tectonic setting at a subduction zone triple junction confirm it remains capable of future eruptions. The current dormancy of 300+ years is historically anomalous — not evidence of extinction."
+    },
+    {
+      "question": "When did Mount Fuji last erupt?",
+      "answer": "Mount Fuji last erupted on December 16, 1707, in what is known as the Hōei eruption — a VEI 5 explosive event that lasted approximately 16 days until January 1, 1708. The eruption was triggered 49 days after the Hōei earthquake (M8.6) on the Nankai Trough. It ejected approximately 0.68 km³ of basaltic tephra, deposited ash on Edo (Tokyo), and created the Hōei craters on the southeastern flank. The subsequent 300+ years without eruption represent the longest dormant interval in Fuji's known eruptive history."
+    },
+    {
+      "question": "Could Mount Fuji erupt again?",
+      "answer": "Yes, volcanologists consider a future eruption of Mount Fuji not only possible but probable on geological timescales. The volcano has averaged roughly one eruption every 50–150 years during its historical period, making the current 300+ year dormancy unusually long. The 2011 Tōhoku earthquake increased pressure in Fuji's magma system, and studies have confirmed that a pressurized magma chamber exists beneath the volcano. The Japan Meteorological Agency and Cabinet Office have published detailed hazard scenarios, and the Japanese government updated its Fuji eruption disaster plan in 2020 to address ashfall impacts on Greater Tokyo. However, no monitoring data currently indicates an imminent eruption."
+    },
+    {
+      "question": "How tall is Mount Fuji?",
+      "answer": "Mount Fuji stands at 3,776.24 m (12,389 ft) above sea level, making it the tallest peak in Japan. The high point is Kengamine, on the southern rim of the summit crater. The summit crater itself is approximately 780 m (2,560 ft) in diameter and 250 m (820 ft) deep. Fuji's height has varied over geological time as eruptions added material and collapses removed it. For comparison, it is taller than Mount Rainier (4,392 m) in the United States by prominence but shorter in absolute elevation, and substantially shorter than Klyuchevskoy (4,835 m) in Russia."
+    },
+    {
+      "question": "What type of volcano is Mount Fuji?",
+      "answer": "Mount Fuji is a stratovolcano, also called a composite volcano — a type built from alternating layers of lava flows and explosive pyroclastic deposits. Its predominantly basaltic magma composition is somewhat unusual for a stratovolcano, as most produce more silica-rich (andesitic to dacitic) magma. Fuji's structure is actually a complex of three overlapping volcanoes: Komitake (oldest), Ko-Fuji (Old Fuji), and the modern Younger Fuji. Its near-perfect conical symmetry makes it the world's most recognizable example of a stratovolcano, though geologists note that its shape is more complex than it appears."
+    },
+    {
+      "question": "What would happen if Mount Fuji erupted today?",
+      "answer": "A Hōei-scale eruption (VEI 5) would deposit 2–10 cm of ash across the Greater Tokyo metropolitan area, potentially affecting 27 million people. Modeling by the Japanese Cabinet Office predicts disruption to rail networks (including the Shinkansen), closure of Haneda and Narita airports, failure of water treatment systems, power outages from transformer short-circuits, and respiratory health emergencies. Lahars could flow down river valleys toward Gotemba and surrounding communities. Economic losses have been estimated at trillions of yen. Evacuation plans exist for 750,000 people in the immediate hazard zone, but the broader ashfall area is too large for evacuation."
+    },
+    {
+      "question": "Can you climb Mount Fuji?",
+      "answer": "Yes, Mount Fuji is open for climbing during the official season from early July to mid-September. Four trails lead to the summit: Yoshida (most popular, from the north), Subashiri (east), Gotemba (southeast), and Fujinomiya (south). Most climbers start from the Fifth Station at approximately 2,300 m. The ascent takes 5–8 hours, with many climbers doing overnight hikes to catch sunrise from the summit. Since 2024, the Yoshida trail requires a ¥2,000 fee and advance reservation with a daily limit of 4,000 climbers. Mountain huts provide basic accommodation. Altitude sickness, rapid weather changes, and hypothermia are real hazards even in summer."
+    },
+    {
+      "question": "Why is Mount Fuji sacred?",
+      "answer": "Mount Fuji has been a sacred site in Shinto and Buddhist traditions for over 1,000 years. In Shinto, the mountain is the dwelling of the deity Konohanasakuya-hime, the goddess of blooming flowers. Pilgrimages to the summit began as early as the 7th century, and during the Edo period, Fuji-kō devotional societies organized mass ascents for thousands of followers. The Fujisan Hongū Sengen Taisha grand shrine at the base has claimed ownership of the summit since an 1609 shogunal grant. UNESCO's 2013 World Heritage designation specifically recognized Fuji as a 'Sacred Place and Source of Artistic Inspiration' — acknowledging its spiritual and cultural role rather than just its natural beauty."
+    }
+  ],
+  "people_also_search": [
+    "mount fuji eruption",
+    "mount fuji height",
+    "is mount fuji active",
+    "mount fuji climbing season",
+    "mount fuji last eruption",
+    "fujisan hōei eruption",
+    "mount fuji from tokyo",
+    "mount fuji UNESCO"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Fuji",
+    "alternateName": [
+      "Fujisan",
+      "富士山",
+      "Fuji-san",
+      "Fuji"
+    ],
+    "description": "Active stratovolcano in Honshu, Japan — the country's tallest peak at 3,776 m, a UNESCO World Heritage Site, and one of the world's most iconic mountains",
+    "geo": {
+      "latitude": 35.361,
+      "longitude": 138.728,
+      "elevation": 3776
+    },
+    "containedInPlace": {
+      "name": "Honshu",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/fujisan"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=283030",
+      "text": "Smithsonian GVP: Fujisan",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran_eng/volcanoes/080_fujisan.pdf",
+      "text": "JMA: Fujisan Volcanic Activity Report",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Fuji",
+      "text": "Britannica: Mount Fuji",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1418",
+      "text": "UNESCO: Fujisan, Sacred Place and Source of Artistic Inspiration",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.fujisan-climb.jp/en/",
+      "text": "Official Mt. Fuji Climbing Information (Shizuoka)",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "rainier",
+      "pinatubo",
+      "asama",
+      "sakurajima",
+      "kilauea",
+      "cotopaxi"
+    ],
+    "country_pages": [
+      "japan",
+      "indonesia",
+      "united-states"
+    ],
+    "special_pages": [
+      "ring-of-fire",
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes",
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "asama",
+    "vesuvius",
+    "rainier",
+    "cotopaxi",
+    "sakurajima"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Mount Fuji (Fujisan)",
+      "url": "/volcano/fujisan"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/fujisan"
+}

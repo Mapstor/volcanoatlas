@@ -1,0 +1,392 @@
+{
+  "slug": "chikurachki",
+  "volcano_id": 290360,
+  "title": "Chikurachki",
+  "meta_title": "Chikurachki Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Chikurachki is a 1,781 m active stratovolcano on Paramushir Island, Russia's Kuril Islands. Explore its 29 eruptions, basaltic Plinian activity, and volcanic hazards.",
+  "quick_answer": {
+    "what": "Chikurachki is the highest volcano on Paramushir Island in Russia's northern Kuril Islands, rising to 1,781 m (5,843 ft). It is a basaltic stratovolcano known for frequent explosive eruptions.",
+    "status": "Active — last erupted in January 2023. One of the most frequently active volcanoes in the Kuril arc.",
+    "famous_for": "Frequent basaltic Plinian eruptions — an unusual eruption style for basaltic magma — and its distinctive reddish-colored summit from oxidized scoria deposits.",
+    "danger_level": "Low population risk due to extreme remoteness, but ash clouds from eruptions pose a significant hazard to North Pacific aviation routes."
+  },
+  "hero": {
+    "name": "Chikurachki",
+    "local_name": "Чикурачки",
+    "subtitle": "The Red-Capped Giant of the Northern Kurils",
+    "country": "Russia",
+    "region": "Kuril Islands, Paramushir Island",
+    "type": "Stratovolcano",
+    "elevation_m": 1781,
+    "elevation_ft": 5843,
+    "status": "Active",
+    "last_eruption": "2023",
+    "coordinates": {
+      "lat": 50.324,
+      "lon": 155.461
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09168.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,781 m (5,843 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "January 2023",
+    "first_known_eruption": "~9360 BCE (Holocene tephrochronology)",
+    "total_recorded_eruptions": 29,
+    "vei_max": "4 (1986, ~1500 BCE, ~1950 BCE, ~6310 BCE, 1690)",
+    "country": "Russia",
+    "region": "Kuril Islands, Paramushir Island",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Okhotsk Plate",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "50.324°N, 155.461°E",
+    "nearest_city": "Severo-Kurilsk — approximately 30 km south",
+    "population_at_risk": "~2,500 (Severo-Kurilsk settlement)",
+    "summit_crater": "Active summit crater with oxidized scoria rim",
+    "monitoring_agency": "Sakhalin Volcanic Eruption Response Team (SVERT) / KVERT",
+    "smithsonian_id": "290360",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=290360"
+  },
+  "sections": {
+    "overview": {
+      "content": "Chikurachki is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 1,781 m (5,843 ft) on Paramushir Island, the northernmost major island of <a href=\"/volcanoes-in-russia\">Russia's</a> Kuril archipelago. It is the tallest volcano on Paramushir and one of the most frequently active in the entire 1,300-km-long Kuril volcanic arc, with 29 recorded eruptions spanning the Holocene. The volcano sits within the <a href=\"/ring-of-fire\">Ring of Fire</a>, where the Pacific Plate subducts beneath the Okhotsk Plate at rates of approximately 80 mm per year, fueling one of the most volcanically active island arcs on Earth.\n\nChikurachki is scientifically notable for producing basaltic Plinian eruptions — a relatively rare eruption style in which low-viscosity basaltic magma generates towering eruption columns more typically associated with silica-rich magmas. The upper portion of the cone is strikingly colored by oxidized basaltic-to-andesitic scoria, giving the summit a distinctive reddish hue visible from considerable distances. Despite its remote, largely uninhabited setting, Chikurachki's eruptions pose a recurring hazard to North Pacific air traffic, as ash plumes from the volcano have repeatedly disrupted flight paths between Asia and North America. The volcano forms the northern anchor of the Chikurachki-Tatarinov volcanic complex, which includes the eroded Tatarinov group of six volcanic centers immediately to the south and the Lomonosov cinder cone group at the southern end of this north–south-trending complex."
+    },
+    "geology_and_formation": {
+      "content": "Chikurachki is a relatively young volcanic edifice constructed atop a much larger Pleistocene-age base. The modern cone rises steeply from this older platform, built through an accumulation of basaltic lava flows, pyroclastic deposits, and scoria layers. The volcano's basaltic composition is somewhat unusual for a subduction zone setting, where andesitic magmas are more common. This basaltic character contributes to Chikurachki's distinctive eruption behavior, including the generation of high basaltic Plinian eruption columns.\n\nThe tectonic engine driving Chikurachki's volcanism is the subduction of the Pacific Plate beneath the Okhotsk Plate along the Kuril-Kamchatka Trench, one of the deepest oceanic trenches in the world at over 10,500 m (34,400 ft). This subduction zone feeds a volcanic front that includes more than 40 active volcanoes across the Kuril chain. Chikurachki sits on the volcanic front at the northern end of this arc. Lava flows from the volcano have reached the Sea of Okhotsk on the northwest coast, forming capes that extend the island's shoreline. Several young lava flows are also present on the eastern flank, draped beneath scoria blankets from more recent explosive activity. The adjacent Tatarinov centers are more deeply eroded and display a complex polygenetic structure, with the southern cone hosting a sulfur-encrusted crater and fumarolic field that remained active along the margins of a crater lake until at least 1959."
+    },
+    "eruption_history_overview": {
+      "content": "Chikurachki's eruption record spans at least 11,000 years, with 29 confirmed eruptions documented through a combination of tephrochronology and historical observations. The Holocene eruptive history reveals multiple VEI 4 events during prehistory — around 6310 BCE, 1950 BCE, and 1500 BCE — indicating that the volcano is capable of substantial explosive eruptions. The historical record begins with a 1690 eruption attributed to the nearby Tatarinov center and a VEI 3 eruption beginning in 1853. Since the mid-20th century, Chikurachki has erupted with notable frequency, producing at least 20 eruptions between 1957 and 2023. Most of these modern eruptions range from <a href=\"/volcanic-explosivity-index\">VEI</a> 1 to 2, though the powerful 1986 eruption reached VEI 4 and the 2015 event achieved VEI 3. The average repose period between modern eruptions has been just one to three years, making Chikurachki one of the Kuril arc's most persistently restless volcanoes."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1986 Eruption — The Largest Modern Event (VEI 4)",
+          "content": "The most significant eruption of Chikurachki in modern times began on November 18, 1986, producing an eruption column that reached the stratosphere and deposited thick layers of basaltic tephra across Paramushir Island. Rated VEI 4, this event was the largest at Chikurachki in nearly three centuries, comparable in scale to the prehistoric Plinian eruptions documented in the tephrochronological record. The eruption generated pyroclastic material that blanketed the surrounding landscape and disrupted regional air traffic in the North Pacific. Given Paramushir's remote location and sparse population — Severo-Kurilsk, the nearest settlement, lies roughly 30 km to the south — no casualties were reported. However, the event served as a stark reminder that Chikurachki was capable of far more powerful eruptions than its typical Strombolian activity might suggest."
+        },
+        {
+          "title": "The 2015 Eruption (VEI 3)",
+          "content": "Beginning on February 16, 2015, Chikurachki produced a significant explosive eruption from its summit crater that sent ash plumes to altitudes of 6–8 km (20,000–26,000 ft). The Kamchatka Volcanic Eruption Response Team (KVERT) issued aviation color code warnings as ash drifted across busy North Pacific air corridors. VEI 3 in magnitude, this was the strongest eruption since 1986 and caused several SIGMET (Significant Meteorological Information) alerts for commercial aviation. Satellite imagery captured the ash plume extending hundreds of kilometers downwind."
+        },
+        {
+          "title": "Frequent 21st-Century Activity (2002–2023)",
+          "content": "Since 2002, Chikurachki has erupted at least 11 times, averaging roughly one eruption every two years. These events — in 2002, 2003, 2005, 2007 (twice), 2008, 2015, 2016 (twice), 2021, 2022, and 2023 — have predominantly been VEI 1–2 explosions from the summit crater, characterized by ash emissions reaching 3–6 km altitude and short-duration Strombolian to sub-Plinian bursts. The January 2023 eruption, the most recent confirmed event, produced an ash column detected by satellite and prompted aviation warnings. This sustained level of activity places Chikurachki among the most active volcanoes in the entire <a href=\"/ring-of-fire\">Ring of Fire</a>, despite receiving far less attention than its better-known counterparts."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Chikurachki is monitored by the Sakhalin Volcanic Eruption Response Team (SVERT) and the Kamchatka Volcanic Eruption Response Team (KVERT), which issue aviation alerts and track volcanic activity throughout the Kuril-Kamchatka region. Due to the volcano's extreme remoteness, ground-based monitoring is limited. Instead, surveillance relies heavily on satellite remote sensing — primarily thermal infrared anomaly detection and ash cloud tracking via instruments aboard satellites like the Terra and Aqua platforms. KVERT maintains an aviation color code system for the volcano, which has been elevated to Orange or Red multiple times in recent years due to explosive eruptions. As of the latest available data, Chikurachki's aviation color code is at Green, though the volcano's pattern of frequent eruptions with little precursory warning means its status can change rapidly. The volcano is considered very likely to erupt again in the near future."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Chikurachki's primary hazard is volcanic ash injection into North Pacific airspace. The busy polar and trans-Pacific air routes connecting East Asia with North America pass within range of the volcano's potential ash plumes, and eruptions at VEI 3–4 can generate columns exceeding 10 km altitude, well within commercial flight levels. Encounter with volcanic ash can cause jet engine failure, windshield abrasion, and instrument damage. On the ground, the direct hazard to human life is minimal: Paramushir Island has a population of approximately 2,500, concentrated in Severo-Kurilsk roughly 30 km south. Lava flows, pyroclastic flows, and tephra fall could affect the volcano's immediate flanks, but no permanent settlements lie within the high-risk zone. Lahars are a secondary concern, as snowmelt during eruptions could generate debris flows along the drainages descending from the cone. The broader Kuril arc is also subject to tsunamigenic earthquakes related to the same subduction system, though this is a tectonic rather than volcanic hazard."
+    },
+    "geography_and_physical_description": {
+      "content": "Chikurachki dominates the northern section of Paramushir Island, the largest island in the northern Kurils, which stretches roughly 100 km in length and 20 km in width. The volcano's steep-sided cone rises sharply from a high Pleistocene base, its upper slopes dramatically colored in reddish-brown hues by oxidized basaltic scoria. The summit hosts an active crater from which modern eruptions issue. Below the barren, scorched summit zone, the lower flanks are draped with young lava flows — some of which extend all the way to the Sea of Okhotsk, forming small coastal promontories. The surrounding landscape is characterized by subarctic tundra, sparse dwarf vegetation, and rugged coastal cliffs. To the south, the Tatarinov group of six eroded volcanic centers forms a connected complex. Further south, the Lomonosov cinder cone group produced an early Holocene lava flow that reached the saddle between it and Fuss Peak to the west. The climate is harsh, with heavy snowfall, persistent fog, and strong winds from the Sea of Okhotsk."
+    },
+    "cultural_significance": {
+      "content": "Chikurachki's cultural footprint is modest compared to more famous volcanoes, reflecting its extreme isolation. The Kuril Islands have a complex geopolitical history — they were inhabited by the indigenous Ainu people for millennia before being contested by Russia and Japan. Paramushir was under Japanese control from 1855 to 1945, during which time the island was partially developed for fishing and military purposes. After the Soviet Union seized the Kurils following World War II, most ethnic Japanese residents were repatriated, and the islands became a sparsely populated Russian territory. The Kuril Islands remain at the center of a territorial dispute between Russia and Japan, which Japan refers to as the Northern Territories question (though this dispute primarily concerns the four southernmost islands). Chikurachki's name is derived from Ainu language, reflective of the indigenous heritage that persists in the toponymy of the entire archipelago."
+    },
+    "nearby_volcanoes": {
+      "content": "Chikurachki stands at the northern end of a densely volcanic section of the Kuril arc. Immediately south lies the Tatarinov volcanic group, a complex of six eroded centers that form part of the Chikurachki-Tatarinov volcanic complex. To the southwest, Fuss Peak (1,772 m) presents a near-twin in elevation and a beautifully symmetrical cone. Further south along Paramushir, Ebeko (1,156 m) is another frequently active volcano that has erupted multiple times in recent years, often simultaneously with activity at Chikurachki. The broader northern Kuril arc contains dozens of active volcanoes extending southward through the chain, including Alaid on Atlasova Island — the tallest volcano in the entire Kuril arc at 2,339 m. Together, <a href=\"/volcanoes-in-russia\">Russia's</a> Kuril Islands host one of the densest concentrations of active volcanoes on the planet."
+    },
+    "etymology": {
+      "content": "The name Chikurachki derives from the Ainu language, the tongue of the indigenous people who inhabited the Kuril Islands for thousands of years before Russian and Japanese colonization. The precise meaning is uncertain, though many Kuril volcano names reflect Ainu descriptions of landscape features, steaming vents, or animal associations. Russian geographic publications sometimes transliterate the name as Chikurachki (Чикурачки)."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Chikurachki Compared to Other Kuril Arc Volcanoes",
+      "description": "How does Chikurachki compare to other frequently active volcanoes in the Kuril island chain?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Chikurachki",
+          "Russia",
+          "1,781 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "29"
+        ],
+        [
+          "Alaid",
+          "Russia",
+          "2,339 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "17"
+        ],
+        [
+          "Ebeko",
+          "Russia",
+          "1,156 m",
+          "Somma volcano",
+          "2022",
+          "3",
+          "18"
+        ],
+        [
+          "Sarychev Peak",
+          "Russia",
+          "1,496 m",
+          "Stratovolcano",
+          "2018",
+          "4",
+          "16"
+        ],
+        [
+          "Fuss Peak",
+          "Russia",
+          "1,772 m",
+          "Stratovolcano",
+          "1854",
+          "2",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -9360,
+      "vei": 2,
+      "label": "Early Holocene eruption",
+      "notable": false
+    },
+    {
+      "year": -8500,
+      "vei": null,
+      "label": "Lomonosov eruption",
+      "notable": false
+    },
+    {
+      "year": -7550,
+      "vei": 2,
+      "label": "Holocene explosive event",
+      "notable": false
+    },
+    {
+      "year": -6310,
+      "vei": 4,
+      "label": "Major Plinian eruption (VEI 4)",
+      "notable": true
+    },
+    {
+      "year": -1950,
+      "vei": 4,
+      "label": "Plinian eruption (VEI 4)",
+      "notable": true
+    },
+    {
+      "year": -1750,
+      "vei": 3,
+      "label": "Significant explosive eruption",
+      "notable": false
+    },
+    {
+      "year": -1500,
+      "vei": 4,
+      "label": "Plinian eruption (VEI 4)",
+      "notable": true
+    },
+    {
+      "year": 1690,
+      "vei": 4,
+      "label": "VEI 4 eruption from Tatarinov center",
+      "notable": true
+    },
+    {
+      "year": 1853,
+      "vei": 3,
+      "label": "Multi-year eruption (1853–1859)",
+      "notable": true
+    },
+    {
+      "year": 1986,
+      "vei": 4,
+      "label": "Largest modern eruption — VEI 4",
+      "notable": true
+    },
+    {
+      "year": 2015,
+      "vei": 3,
+      "label": "Significant explosive eruption, aviation disruption",
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 2,
+      "label": "Most recent eruption",
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 6,
+      "note": "Holocene events from ~9360 BCE to ~1500 BCE"
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 1
+    },
+    {
+      "century": "20th",
+      "count": 16
+    },
+    {
+      "century": "21st",
+      "count": 11
+    }
+  ],
+  "facts": [
+    "Chikurachki is notable for producing basaltic Plinian eruptions, a rare eruption style in which typically fluid basaltic magma generates towering explosive columns more associated with viscous, silica-rich magmas.",
+    "The volcano's upper slopes are distinctively reddish-brown, colored by oxidized basaltic and andesitic scoria deposits — earning it the informal description as the 'red-capped' volcano of the Kurils.",
+    "With 29 recorded eruptions, Chikurachki is the most frequently active volcano on Paramushir Island and one of the most active in the entire 1,300-km Kuril arc.",
+    "Lava flows from Chikurachki have reached the Sea of Okhotsk on the northwest coast, physically extending Paramushir Island by forming small capes and headlands.",
+    "The volcano has erupted at least 11 times since 2002, averaging one eruption roughly every two years in the 21st century.",
+    "Chikurachki's ash plumes pose a significant hazard to North Pacific aviation, as busy polar routes connecting Asia and North America pass through the region.",
+    "The November 1986 eruption reached VEI 4, making it the most powerful eruption at Chikurachki in roughly three centuries.",
+    "Tephrochronological studies have identified at least three VEI 4 eruptions during the prehistoric Holocene, around 6310 BCE, 1950 BCE, and 1500 BCE.",
+    "Paramushir Island, on which Chikurachki stands, has a human population of only about 2,500, nearly all concentrated in the settlement of Severo-Kurilsk.",
+    "The Chikurachki-Tatarinov volcanic complex is a north–south-trending chain of at least eight volcanic centers on northern Paramushir."
+  ],
+  "faqs": [
+    {
+      "question": "Is Chikurachki an active volcano?",
+      "answer": "Yes, Chikurachki is an active stratovolcano and one of the most frequently erupting volcanoes in Russia's Kuril Islands. It last erupted in January 2023 and has produced at least 11 eruptions since 2002. In volcanological terms, a volcano is considered active if it has erupted during the Holocene epoch (the last ~11,700 years). Chikurachki's 29 confirmed Holocene eruptions and its ongoing pattern of activity at intervals of one to three years make it unambiguously active. The volcano is continuously monitored by Russia's KVERT team via satellite remote sensing."
+    },
+    {
+      "question": "Where is Chikurachki located?",
+      "answer": "Chikurachki is located on Paramushir Island, the northernmost major island in Russia's Kuril archipelago, which stretches between Japan's Hokkaido and Russia's Kamchatka Peninsula. Its coordinates are 50.324°N, 155.461°E. The nearest settlement is Severo-Kurilsk, approximately 30 km to the south, with a population of around 2,500. Paramushir Island lies in the northwestern Pacific Ocean, surrounded by the Sea of Okhotsk to the west and the Pacific Ocean to the east. The island is extremely remote and is accessible only by sea or helicopter."
+    },
+    {
+      "question": "How tall is Chikurachki?",
+      "answer": "Chikurachki rises to 1,781 m (5,843 ft) above sea level, making it the tallest volcano on Paramushir Island. It is built atop a higher Pleistocene-age base, so the modern cone itself is somewhat smaller than the total elevation suggests. For comparison, nearby Fuss Peak stands at 1,772 m (5,814 ft), while Alaid — the tallest volcano in the entire Kuril chain — reaches 2,339 m (7,674 ft) on Atlasova Island further north."
+    },
+    {
+      "question": "Why does Chikurachki have a red summit?",
+      "answer": "Chikurachki's distinctive reddish-brown summit coloration comes from oxidized basaltic and andesitic scoria deposits that blanket the upper cone. When iron-rich volcanic material is exposed to air and moisture over time, the iron minerals undergo oxidation — essentially rusting — which produces vivid red and brown tones. This process is particularly pronounced on Chikurachki because the volcano frequently deposits fresh scoria on its summit, and the exposed position at 1,781 m elevation subjects these deposits to constant weathering in the subarctic maritime climate."
+    },
+    {
+      "question": "Does Chikurachki affect air travel?",
+      "answer": "Yes, Chikurachki poses a significant hazard to aviation. The Kuril Islands lie beneath major North Pacific air corridors used by commercial flights between East Asia and North America. When Chikurachki erupts, ash plumes can reach altitudes of 6–10 km (20,000–33,000 ft), well within commercial flight levels. Volcanic ash can damage jet engines, abrade windshields, and clog pitot tubes. The Kamchatka Volcanic Eruption Response Team (KVERT) issues aviation color code alerts for the volcano, and SIGMETs are published when ash threatens flight routes."
+    },
+    {
+      "question": "What type of eruptions does Chikurachki produce?",
+      "answer": "Chikurachki is scientifically notable for producing basaltic Plinian eruptions — powerful explosive events that generate tall eruption columns despite the typically low viscosity of basaltic magma. Most eruptions worldwide that generate Plinian columns involve silica-rich, viscous magmas. Chikurachki's basaltic Plinian behavior may relate to high eruption rates, high volatile content, or rapid magma ascent. More typical activity includes Strombolian to Vulcanian explosions rated VEI 1–2, along with lava effusion on the flanks. Major eruptions such as the 1986 VEI 4 event can reach sub-Plinian to Plinian intensity."
+    },
+    {
+      "question": "When did Chikurachki last erupt?",
+      "answer": "Chikurachki's most recent confirmed eruption began on January 28, 2023, producing ash emissions from the summit crater. The eruption was detected by satellite imagery and rated VEI 2 by the Smithsonian Global Volcanism Program. Prior to that, the volcano erupted in January 2022 (VEI 2) and March 2021 (VEI 1). Chikurachki's pattern of eruptions roughly every one to three years in the 21st century means another eruption could occur at any time."
+    },
+    {
+      "question": "Is Chikurachki dangerous to people?",
+      "answer": "The direct risk to human life is low, given Chikurachki's extreme remoteness. Paramushir Island has a population of approximately 2,500, concentrated in Severo-Kurilsk about 30 km south of the volcano. No fatalities have been recorded from Chikurachki's eruptions in modern times. However, the volcano's indirect hazard is substantial: ash plumes threaten North Pacific aviation, and a large eruption could affect Severo-Kurilsk with ashfall or trigger lahars from snow and ice melting on the cone."
+    }
+  ],
+  "people_also_search": [
+    "chikurachki volcano eruption",
+    "kuril islands volcanoes",
+    "paramushir island",
+    "most active volcanoes russia",
+    "north pacific volcanic ash aviation",
+    "basaltic plinian eruption"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Chikurachki",
+    "alternateName": [
+      "Чикурачки"
+    ],
+    "description": "Active basaltic stratovolcano on Paramushir Island, Kuril Islands, Russia, known for frequent eruptions and basaltic Plinian activity",
+    "geo": {
+      "latitude": 50.324,
+      "longitude": 155.461,
+      "elevation": 1781
+    },
+    "containedInPlace": {
+      "name": "Paramushir Island, Kuril Islands",
+      "country": "Russia"
+    },
+    "url": "https://volcanoatlas.com/volcano/chikurachki"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=290360",
+      "text": "Smithsonian GVP: Chikurachki",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.kscnet.ru/ivs/kvert/index_eng.php",
+      "text": "KVERT — Kamchatka Volcanic Eruption Response Team",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Kuril-Islands",
+      "text": "Britannica: Kuril Islands",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "alaid",
+      "ebeko",
+      "fuss-peak",
+      "sarychev-peak",
+      "klyuchevskoy"
+    ],
+    "country_pages": [
+      "russia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "alaid",
+    "ebeko",
+    "sarychev-peak",
+    "fuss-peak",
+    "klyuchevskoy"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "label": "Chikurachki",
+      "url": "/volcano/chikurachki"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/chikurachki"
+}

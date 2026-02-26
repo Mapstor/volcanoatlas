@@ -1,0 +1,601 @@
+{
+  "slug": "canada",
+  "title": "Volcanoes in Canada",
+  "meta_title": "Volcanoes in Canada \u2014 Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Canada has 24 Holocene volcanoes stretching from British Columbia to the Yukon. Full list with eruption history, hazards, and tectonic context.",
+  "quick_answer": {
+    "how_many": "Canada has 24 Holocene volcanoes recorded in the Smithsonian Global Volcanism Program database, concentrated primarily in British Columbia and the Yukon.",
+    "how_many_active": "None of Canada's volcanoes are currently erupting, but several \u2014 including Meager, Edziza, and Garibaldi \u2014 have erupted within the last 10,000 years and are considered potentially active.",
+    "why": "Canada's volcanoes result from two distinct tectonic processes: subduction of the Juan de Fuca Plate beneath the North American Plate along the Cascadia margin, and intraplate hotspot volcanism within the Northern Cordilleran Volcanic Province.",
+    "tallest": "Silverthrone at 2,860 m (9,383 ft)",
+    "most_recent": "Iskut-Unuk River Cones (estimated ~1800 CE) and Tseax River Cone (~1690 CE)"
+  },
+  "hero": {
+    "title": "Volcanoes in Canada",
+    "subtitle": "24 Holocene Volcanoes Across the Northern Cordillera and Cascadia",
+    "volcano_count": 24,
+    "active_count": 0,
+    "tallest": {
+      "name": "Silverthrone",
+      "elevation_m": 2860
+    },
+    "most_recent_eruption": {
+      "volcano": "Iskut-Unuk River Cones",
+      "year": "~1800 CE"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "Canada has 24 Holocene volcanoes catalogued by the Smithsonian Global Volcanism Program, making it the 11th most volcanically endowed country in the world by total count. The vast majority of these volcanoes are concentrated along the mountainous spine of British Columbia and the southern Yukon, in a volcanic belt that stretches over 1,200 km from the [[country:united-states|United States]] border northward to the central Yukon Territory. Unlike the dramatically active volcanoes of neighbouring [[country:japan|Japan]] or [[country:indonesia|Indonesia]], Canada's volcanoes are quieter \u2014 none has erupted in living memory, and the most recent confirmed eruption occurred approximately 1800 CE at the Iskut-Unuk River Cones near the Alaska border. This relative quiescence, however, is geologically misleading. Canada sits atop two powerful volcanic engines: the Cascadia subduction zone along its Pacific coast, where the Juan de Fuca Plate dives beneath the North American Plate, and a series of intraplate hotspots responsible for the Northern Cordilleran Volcanic Province (NCVP), one of the largest areas of young volcanic activity in North America. The country's most explosive known eruption \u2014 a VEI 5 event at [[volcano:meager|Mount Meager]] around 2,360 years ago \u2014 produced one of the largest eruptions in the [[special:ring-of-fire|Ring of Fire]] during the late Holocene. With approximately 300,000 Canadians living within 30 km of a potentially active volcano and major infrastructure including pipelines and highways crossing volcanic terrain, Canada's volcanism represents an underappreciated natural hazard that the Geological Survey of Canada continues to assess and monitor."
+    },
+    "why_canada_has_volcanoes": {
+      "content": "Canada's volcanism arises from two fundamentally different tectonic mechanisms, each responsible for a distinct style of volcanic activity. Along the southwest coast of British Columbia, the Cascadia subduction zone generates volcanism as the oceanic Juan de Fuca and Explorer Plates slide beneath the continental North American Plate at approximately 40 mm per year. This process, identical to the one driving the explosive [[volcano:st-helens|Mount St. Helens]] and [[volcano:rainier|Mount Rainier]] further south in Washington State, has produced the Garibaldi Volcanic Belt \u2014 a chain of stratovolcanoes and volcanic fields running from [[volcano:garibaldi|Mount Garibaldi]] and [[volcano:meager|Mount Meager]] in the south to the Silverthrone caldera in the north. These subduction volcanoes tend toward more explosive, andesitic eruptions.\n\nFarther inland and to the north, an entirely separate volcanic province \u2014 the Northern Cordilleran Volcanic Province (NCVP) \u2014 extends over 1,200 km through north-central British Columbia into the Yukon. This volcanism is unrelated to subduction. Instead, it results from deep intraplate processes, likely linked to mantle upwelling or edge-driven convection along the margin of the thick cratonic lithosphere of central Canada. The NCVP includes massive shield volcanoes like Level Mountain (2,164 m, covering 1,800 km\u00b2), stratovolcanoes like Mount Edziza (2,786 m), and scattered pyroclastic cones and lava fields. These volcanoes predominantly erupt basaltic to trachytic lavas, often producing extensive lava flows rather than explosive columns. A third volcanic mechanism operates beneath the seafloor off British Columbia's coast, where the Juan de Fuca Ridge creates new oceanic crust at the Endeavour, Cobb, and West Valley Segments \u2014 three submarine fissure vent systems that constitute Canada's only mid-ocean ridge volcanoes. The Anahim Volcanic Belt, running east-west across central BC and terminating at Nazko Cone, represents yet another mechanism \u2014 a possible hotspot track similar to the one producing [[country:united-states|Yellowstone]] far to the south."
+    },
+    "major_volcanoes": {
+      "content": "**Mount Meager** (2,680 m / 8,793 ft) is a glaciated [[special:types-of-volcanoes|complex volcano]] roughly 150 km north of Vancouver and is considered the most potentially hazardous volcano in Canada. Its most significant eruption, a VEI 5 event around 410 BCE, produced a massive explosive column and pyroclastic flows \u2014 the largest known eruption in the Canadian Cascades. In 2010, a major landslide on Meager's south flank \u2014 triggered by glacial retreat and volcanic rock instability \u2014 sent 48 million cubic metres of debris down the Lillooet River valley, demonstrating the compound hazard even without active eruptions. The volcano has significant geothermal resources that have been explored for energy production.\n\n**Mount Garibaldi** (2,678 m / 8,786 ft) towers over the resort town of Squamish, just 66 km north of Vancouver. This andesitic [[special:types-of-volcanoes|stratovolcano]] last erupted around 8060 BCE in a VEI 3 event. It sits within Garibaldi Provincial Park and is one of Canada's most recognizable volcanic peaks, though many hikers reaching its summit are unaware they are standing on a potentially active volcano. Its formation is notable because much of the edifice was built against the margins of Pleistocene glaciers, leaving the Barrier \u2014 a dramatic lava cliff \u2014 as evidence of eruption against an ice wall.\n\n**Mount Edziza** (2,786 m / 9,140 ft) is a massive composite stratovolcano in the Stikine region of northern British Columbia and one of the most voluminous volcanic centres in the NCVP. Its eruptive history spans 7.5 million years across five magmatic cycles. The most recent eruption, approximately 950 CE (VEI 3), produced lava flows that remain largely unvegetated \u2014 a stark volcanic landscape within the surrounding boreal forest. Mount Edziza Provincial Park protects the volcanic landscape, including the striking Eve Cone, an almost perfectly symmetrical cinder cone that has become an iconic Canadian geological landmark.\n\n**Silverthrone** (2,860 m / 9,383 ft) is the highest volcano in Canada and a large caldera complex in the Coast Mountains of British Columbia. Despite its status as the country's tallest volcanic centre, Silverthrone is among the least studied of Canada's volcanoes due to its extreme remoteness and heavy glaciation. No historical eruptions are recorded, but its Holocene age classification means it is considered potentially active.\n\n**Tseax River Cone** (612 m / 2,008 ft) holds the grim distinction of producing Canada's deadliest known volcanic eruption. Around 1690 CE, this small basaltic cinder cone erupted lava flows that travelled approximately 22 km down the Tseax and Nass River valleys. Nisga'a oral histories recount that the eruption and associated volcanic gases killed approximately 2,000 people in two villages \u2014 Lax Ksiluux and Wii Lax K'abit \u2014 making it one of the deadliest volcanic events in North American history. The Nisga'a Lava Bed Memorial Park preserves both the volcanic landscape and the cultural memory of the disaster. It is the only volcanic eruption in Canada for which a significant human death toll has been documented.\n\n**Wells Gray-Clearwater Volcanic Field** (950 m) is a scattered volcanic field in the central interior of British Columbia, notable for eruptions as recently as approximately 1550 CE. Lava flows from these eruptions dammed rivers to create several lakes, including Clearwater Lake. The field demonstrates that volcanic activity in Canada's interior is far more recent than most Canadians realize.\n\n**Nazko Cone** (1,238 m) sits at the eastern terminus of the Anahim Volcanic Belt, a chain that may trace the movement of the North American Plate over a mantle hotspot. In 2007, a swarm of over 1,000 small earthquakes beneath Nazko Cone drew attention from the Geological Survey of Canada, representing the first significant seismic unrest at a Canadian volcano monitored by modern instruments. The swarm was interpreted as possible magma movement at depth, though no eruption occurred.\n\n**Level Mountain** (2,164 m) is one of the largest volcanic complexes in Canada by volume, covering an area of 1,800 km\u00b2 \u2014 roughly the size of the city of London. This massive intraplate shield volcano in the Stikine region erupted a combined volume of approximately 860 km\u00b3 of material over its long eruptive history, though its most recent activity is poorly constrained.\n\n**Garibaldi Lake Volcanic Field** (2,316 m) includes nine small andesitic stratovolcanoes and basaltic vents north of Mount Garibaldi, including The Black Tusk \u2014 an iconic eroded volcanic plug popular with hikers. These vents are part of the broader Garibaldi Volcanic Belt and represent the northernmost extension of Cascade Arc volcanism.\n\n**Hoodoo Mountain** (1,850 m) is a flat-topped volcano in the Boundary Ranges near the Alaska border composed of both subglacial and subaerial volcanic products. Its distinctive shape \u2014 a result of eruptions beneath Pleistocene glaciers \u2014 represents a tuya, a type of table-mountain unique to glaciated volcanic regions."
+    },
+    "eruption_history": {
+      "content": "Canada's eruption record is sparse compared to its Pacific Rim neighbours, a reflection both of genuinely lower eruption frequency and of limited historical observation in a vast, sparsely populated wilderness. The Smithsonian database records eruptions at just 10 of the country's 24 Holocene volcanoes, with only 24 total eruption entries across the entire dataset. The most significant known eruption is the VEI 5 event at Mount Meager around 410 BCE, which produced explosive pyroclastic flows and an eruption column comparable to the 1980 eruption of [[volcano:st-helens|Mount St. Helens]]. Prior to this, Mount Garibaldi produced a VEI 3 eruption around 8060 BCE, and the submarine Endeavour Segment on the Juan de Fuca Ridge erupted around 3490 BCE.\n\nThe eruptions most relevant to human history in Canada are far more recent. The Tseax River Cone eruption of approximately 1690 CE devastated Nisga'a communities along the Nass River, killing an estimated 2,000 people through lava flows and lethal volcanic gas emissions \u2014 the only known fatal volcanic eruption in Canadian history. The Iskut-Unuk River Cones near the Alaska border produced multiple small eruptions estimated at around 1800 CE, making them the most recently active volcanic centre in Canada. Wells Gray-Clearwater erupted around 1550 CE, and Mount Edziza's most recent VEI 3 eruption occurred around 950 CE.\n\nPaleovolcanological research has expanded this picture considerably. Studies of tephra layers across western Canada reveal that several Holocene eruptions may be missing from the current database, and that ash from eruptions at volcanoes in the northwestern United States \u2014 including the cataclysmic eruption of [[volcano:crater-lake|Mount Mazama]] around 5700 BCE \u2014 blanketed portions of British Columbia and Alberta."
+    },
+    "volcanic_hazards": {
+      "content": "Despite Canada's relatively quiet volcanic record, the Geological Survey of Canada has identified several significant volcanic hazards that could affect populations, infrastructure, and aviation. The primary risk centres on the Garibaldi Volcanic Belt, where [[volcano:meager|Mount Meager]] and Mount Garibaldi lie within 150 km of Metro Vancouver, home to 2.6 million people. A large explosive eruption at Meager comparable to the VEI 5 event of 410 BCE could produce pyroclastic flows, lahars along the Lillooet River valley, and ashfall reaching Vancouver \u2014 disrupting one of Canada's largest urban centres and its major international airport.\n\nLandslides represent an immediate and ongoing hazard at several glaciated volcanoes. The 2010 Meager landslide demonstrated that volcanic terrain can produce catastrophic mass movements even without eruptions, as hydrothermally altered rock weakened by volcanic gases becomes unstable \u2014 particularly as climate change accelerates glacial retreat. Lahars \u2014 volcanic mudflows \u2014 pose a particularly insidious threat because they can be triggered by eruptions melting glacial ice or by heavy rainfall mobilizing loose volcanic debris. The Sea-to-Sky Highway (Highway 99), a major transportation corridor linking Vancouver to Whistler, crosses potential lahar pathways from Mount Garibaldi.\n\nVolcanic ash from a Canadian eruption could severely disrupt trans-Pacific and domestic aviation, as demonstrated by the 2010 [[volcano:eyjafjallajokull|Eyjafjallaj\u00f6kull]] eruption in [[country:iceland|Iceland]]. Monitoring capacity remains limited compared to countries like the United States, Japan, or Iceland: as of 2024, no Canadian volcano has a dedicated real-time monitoring network comparable to those operated by the USGS Cascades Volcano Observatory for American Cascade volcanoes. The Canadian Hazards Information Service and Natural Resources Canada maintain seismic networks and conduct periodic assessments, but the remoteness and number of potentially active centres presents a significant challenge."
+    },
+    "volcanic_zones_map": {
+      "content": "Canada's volcanoes are concentrated in three distinct geographic zones, all within the western cordillera. The Garibaldi Volcanic Belt extends from the [[country:united-states|United States]] border near Vancouver northward approximately 150 km to the Silverthrone caldera, following the Cascadia subduction zone. This is the Canadian continuation of the Cascade Range that includes [[volcano:st-helens|Mount St. Helens]] and [[volcano:rainier|Mount Rainier]]. Volcanoes here \u2014 including Garibaldi, Meager, Cayley, and Garibaldi Lake \u2014 are andesitic stratovolcanoes typical of subduction arcs.\n\nFarther north and inland, the Northern Cordilleran Volcanic Province (NCVP) extends over 1,200 km from central British Columbia into the Yukon, containing the largest concentration of Canada's volcanoes. The NCVP includes Mount Edziza, Level Mountain, Heart Peaks, Spectrum Range, Hoodoo Mountain, and the Iskut-Unuk River Cones \u2014 predominantly basaltic to trachytic intraplate volcanoes. Between these two provinces, the Anahim Volcanic Belt runs east-west across central British Columbia, with Nazko Cone at its eastern end. Offshore, three submarine volcanic segments \u2014 Endeavour, Cobb, and West Valley \u2014 mark the Juan de Fuca Ridge, Canada's only mid-ocean ridge volcanism."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Volcanic activity has shaped the cultural heritage of Indigenous peoples in western Canada for millennia. The Nisga'a people of the Nass River valley maintain detailed oral histories of the Tseax River Cone eruption of approximately 1690 CE, which destroyed two villages and killed an estimated 2,000 people. These oral traditions \u2014 passed through generations as adaawak (sacred histories) \u2014 provided accurate descriptions of the eruption's sequence, including lava flows, darkness, and suffocating gas, long before geologists confirmed the volcanic origin in the 20th century. The Nisga'a Lava Bed Memorial Park, part of the Nisga'a Nation's treaty lands, preserves the 18 km\u00b2 lava field as both a geological site and a place of cultural remembrance. Elsewhere, Tahltan, Tlingit, and other First Nations maintain traditions connected to volcanic landscapes in northern British Columbia.\n\nGeothermal energy represents a growing economic connection to Canada's volcanism. Mount Meager has been explored as a geothermal resource since the 1970s, with subsurface temperatures exceeding 250\u00b0C measured at relatively shallow depths. British Columbia's geothermal potential, estimated at thousands of megawatts, could contribute significantly to Canada's clean energy transition. Provincial parks encompassing volcanic landscapes \u2014 including Garibaldi Provincial Park (Mount Garibaldi and The Black Tusk) and Mount Edziza Provincial Park (Eve Cone) \u2014 draw hikers and outdoor enthusiasts who may not fully appreciate the volcanic nature of the terrain they traverse."
+    },
+    "visiting_volcanoes": {
+      "content": "Canada offers unique opportunities to explore volcanic landscapes in some of North America's most spectacular wilderness settings. Garibaldi Provincial Park, accessible from the Sea-to-Sky Highway between Vancouver and Whistler, features trails to Garibaldi Lake, The Black Tusk (an iconic eroded volcanic plug at 2,316 m), and panoramic views of Mount Garibaldi itself. The Barrier \u2014 a dramatic lava cliff formed when volcanic eruptions met Pleistocene glaciers \u2014 overlooks the park road. Most trails are accessible from May to October, with the 9 km Garibaldi Lake trail being the most popular.\n\nMount Edziza Provincial Park in the Stikine region of northern BC offers a more remote volcanic experience. Eve Cone, a near-perfect symmetrical cinder cone surrounded by lava fields and obsidian flows, is one of Canada's most striking geological landmarks \u2014 though reaching it requires a multi-day backcountry trip by foot or floatplane. The Nisga'a Lava Bed Memorial Park near Terrace, BC, is the most accessible volcanic site in Canada, with roads and interpretive trails leading through the Tseax lava flows. Guided tours led by Nisga'a cultural interpreters connect the volcanic geology with the human story of the eruption. Visitors should note that Canada's volcanic regions are remote and that weather, bears, and limited cell coverage present practical challenges."
+    }
+  },
+  "volcano_table": {
+    "description": "Complete table of all 24 Holocene volcanoes in Canada from the Smithsonian Global Volcanism Program database.",
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      {
+        "name": "Silverthrone",
+        "slug": "silverthrone",
+        "elevation_m": 2860,
+        "type": "Caldera",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320160,
+        "rank": 1
+      },
+      {
+        "name": "Edziza",
+        "slug": "edziza",
+        "elevation_m": 2786,
+        "type": "Stratovolcano",
+        "last_eruption": 950,
+        "status": "Holocene",
+        "eruption_count": 4,
+        "vei_max": 3,
+        "id": 320060,
+        "rank": 2
+      },
+      {
+        "name": "Meager",
+        "slug": "meager",
+        "elevation_m": 2680,
+        "type": "Complex",
+        "last_eruption": -410,
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": 5,
+        "id": 320180,
+        "rank": 3
+      },
+      {
+        "name": "Garibaldi",
+        "slug": "garibaldi",
+        "elevation_m": 2678,
+        "type": "Stratovolcano",
+        "last_eruption": -8060,
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": 3,
+        "id": 320200,
+        "rank": 4
+      },
+      {
+        "name": "Bridge River Cones",
+        "slug": "bridge-river-cones",
+        "elevation_m": 2500,
+        "type": "Volcanic field",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320170,
+        "rank": 5
+      },
+      {
+        "name": "Spectrum Range",
+        "slug": "spectrum-range",
+        "elevation_m": 2430,
+        "type": "Shield",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320070,
+        "rank": 6
+      },
+      {
+        "name": "Cayley Volcanic Field",
+        "slug": "cayley-volcanic-field",
+        "elevation_m": 2375,
+        "type": "Volcanic field",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320811,
+        "rank": 7
+      },
+      {
+        "name": "Garibaldi Lake",
+        "slug": "garibaldi-lake",
+        "elevation_m": 2316,
+        "type": "Volcanic field",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320190,
+        "rank": 8
+      },
+      {
+        "name": "Alligator Lake",
+        "slug": "alligator-lake",
+        "elevation_m": 2217,
+        "type": "Volcanic field",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320020,
+        "rank": 9
+      },
+      {
+        "name": "Level Mountain",
+        "slug": "level-mountain",
+        "elevation_m": 2164,
+        "type": "Shield",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320050,
+        "rank": 10
+      },
+      {
+        "name": "Tuya Volcanic Field",
+        "slug": "tuya-volcanic-field",
+        "elevation_m": 2123,
+        "type": "Volcanic field",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320031,
+        "rank": 11
+      },
+      {
+        "name": "Heart Peaks",
+        "slug": "heart-peaks",
+        "elevation_m": 2012,
+        "type": "Shield",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320040,
+        "rank": 12
+      },
+      {
+        "name": "Atlin Volcanic Field",
+        "slug": "atlin-volcanic-field",
+        "elevation_m": 1880,
+        "type": "Pyroclastic cone(s)",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 1,
+        "vei_max": null,
+        "id": 320030,
+        "rank": 13
+      },
+      {
+        "name": "Iskut-Unuk River Cones",
+        "slug": "iskut-unuk-river-cones",
+        "elevation_m": 1880,
+        "type": "Pyroclastic cone(s)",
+        "last_eruption": 1800,
+        "status": "Holocene",
+        "eruption_count": 8,
+        "vei_max": null,
+        "id": 320090,
+        "rank": 14
+      },
+      {
+        "name": "Hoodoo Mountain",
+        "slug": "hoodoo-mountain",
+        "elevation_m": 1850,
+        "type": "Pyroclastic cone(s)",
+        "last_eruption": -7050,
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": 0,
+        "id": 320080,
+        "rank": 15
+      },
+      {
+        "name": "Fort Selkirk",
+        "slug": "fort-selkirk",
+        "elevation_m": 1239,
+        "type": "Volcanic field",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320010,
+        "rank": 16
+      },
+      {
+        "name": "Nazko",
+        "slug": "nazko",
+        "elevation_m": 1238,
+        "type": "Pyroclastic cone(s)",
+        "last_eruption": -5220,
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": null,
+        "id": 320140,
+        "rank": 17
+      },
+      {
+        "name": "Wells Gray-Clearwater",
+        "slug": "wells-gray-clearwater",
+        "elevation_m": 950,
+        "type": "Volcanic field",
+        "last_eruption": 1550,
+        "status": "Holocene",
+        "eruption_count": 2,
+        "vei_max": null,
+        "id": 320150,
+        "rank": 18
+      },
+      {
+        "name": "Tseax River Cone",
+        "slug": "tseax-river-cone",
+        "elevation_m": 612,
+        "type": "Pyroclastic cone",
+        "last_eruption": 1690,
+        "status": "Holocene",
+        "eruption_count": 2,
+        "vei_max": null,
+        "id": 320100,
+        "rank": 19
+      },
+      {
+        "name": "Crow Lagoon",
+        "slug": "crow-lagoon",
+        "elevation_m": 335,
+        "type": "Pyroclastic cone",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320110,
+        "rank": 20
+      },
+      {
+        "name": "Milbanke Sound Group",
+        "slug": "milbanke-sound-group",
+        "elevation_m": 233,
+        "type": "Pyroclastic cone(s)",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 320120,
+        "rank": 21
+      },
+      {
+        "name": "Endeavour Segment",
+        "slug": "endeavour-segment",
+        "elevation_m": -2050,
+        "type": "Fissure vent(s)",
+        "last_eruption": -3490,
+        "status": "Holocene",
+        "eruption_count": 2,
+        "vei_max": 0,
+        "id": 331010,
+        "rank": 22
+      },
+      {
+        "name": "Cobb Segment",
+        "slug": "cobb-segment",
+        "elevation_m": -2100,
+        "type": "Fissure vent(s)",
+        "last_eruption": -1180,
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": null,
+        "id": 331011,
+        "rank": 23
+      },
+      {
+        "name": "West Valley Segment",
+        "slug": "west-valley-segment",
+        "elevation_m": -2550,
+        "type": "Fissure vent",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 331005,
+        "rank": 24
+      }
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Silverthrone",
+      "elevation": 2860,
+      "slug": "silverthrone"
+    },
+    {
+      "name": "Edziza",
+      "elevation": 2786,
+      "slug": "edziza"
+    },
+    {
+      "name": "Meager",
+      "elevation": 2680,
+      "slug": "meager"
+    },
+    {
+      "name": "Garibaldi",
+      "elevation": 2678,
+      "slug": "garibaldi"
+    },
+    {
+      "name": "Bridge River Cones",
+      "elevation": 2500,
+      "slug": "bridge-river-cones"
+    },
+    {
+      "name": "Spectrum Range",
+      "elevation": 2430,
+      "slug": "spectrum-range"
+    },
+    {
+      "name": "Cayley Volcanic Field",
+      "elevation": 2375,
+      "slug": "cayley-volcanic-field"
+    },
+    {
+      "name": "Garibaldi Lake",
+      "elevation": 2316,
+      "slug": "garibaldi-lake"
+    },
+    {
+      "name": "Alligator Lake",
+      "elevation": 2217,
+      "slug": "alligator-lake"
+    },
+    {
+      "name": "Level Mountain",
+      "elevation": 2164,
+      "slug": "level-mountain"
+    },
+    {
+      "name": "Tuya Volcanic Field",
+      "elevation": 2123,
+      "slug": "tuya-volcanic-field"
+    },
+    {
+      "name": "Heart Peaks",
+      "elevation": 2012,
+      "slug": "heart-peaks"
+    },
+    {
+      "name": "Atlin Volcanic Field",
+      "elevation": 1880,
+      "slug": "atlin-volcanic-field"
+    },
+    {
+      "name": "Iskut-Unuk River Cones",
+      "elevation": 1880,
+      "slug": "iskut-unuk-river-cones"
+    },
+    {
+      "name": "Hoodoo Mountain",
+      "elevation": 1850,
+      "slug": "hoodoo-mountain"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8060,
+      "volcano": "Garibaldi",
+      "vei": 3,
+      "label": "VEI 3 eruption of Mount Garibaldi \u2014 earliest major confirmed eruption in southern BC"
+    },
+    {
+      "year": -7050,
+      "volcano": "Hoodoo Mountain",
+      "vei": 0,
+      "label": "Subglacial eruption at Hoodoo Mountain"
+    },
+    {
+      "year": -5220,
+      "volcano": "Nazko",
+      "vei": null,
+      "label": "Eruption at Nazko Cone \u2014 easternmost Anahim Volcanic Belt activity"
+    },
+    {
+      "year": -3490,
+      "volcano": "Endeavour Segment",
+      "vei": 0,
+      "label": "Submarine eruption on the Juan de Fuca Ridge"
+    },
+    {
+      "year": -410,
+      "volcano": "Meager",
+      "vei": 5,
+      "label": "VEI 5 eruption \u2014 Canada's largest known Holocene eruption, pyroclastic flows in Lillooet Valley"
+    },
+    {
+      "year": 950,
+      "volcano": "Edziza",
+      "vei": 3,
+      "label": "VEI 3 eruption \u2014 most recent significant explosive event in the NCVP"
+    },
+    {
+      "year": 1550,
+      "volcano": "Wells Gray-Clearwater",
+      "vei": null,
+      "label": "Lava flows dam rivers, create lakes in BC interior"
+    },
+    {
+      "year": 1690,
+      "volcano": "Tseax River Cone",
+      "vei": null,
+      "label": "Canada's deadliest eruption \u2014 ~2,000 Nisga'a people killed by lava and gas"
+    },
+    {
+      "year": 1800,
+      "volcano": "Iskut-Unuk River Cones",
+      "vei": null,
+      "label": "Canada's most recent known eruption \u2014 small basaltic eruptions near Alaska border"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 3
+    },
+    {
+      "vei": 3,
+      "count": 2
+    },
+    {
+      "vei": 5,
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Canada has 24 Holocene volcanoes, making it the 11th most volcanic country in the world \u2014 ahead of nations like Italy, Colombia, and Argentina.",
+    "The Tseax River Cone eruption of approximately 1690 CE killed an estimated 2,000 Nisga'a people, making it Canada's deadliest natural disaster and one of the deadliest volcanic events in North American history.",
+    "Mount Meager's VEI 5 eruption around 410 BCE was comparable in scale to the 1980 eruption of Mount St. Helens, yet virtually no Canadians are aware their country has experienced such explosive volcanism.",
+    "Level Mountain in northern British Columbia covers an area of 1,800 km\u00b2 \u2014 roughly the size of Greater London \u2014 making it one of the largest volcanic complexes in North America by surface area.",
+    "No Canadian volcano has a dedicated, permanent real-time monitoring network comparable to those operated by the USGS for American Cascade volcanoes.",
+    "Eve Cone on Mount Edziza is one of the most symmetrical cinder cones in the world and appears on the reverse of a Canadian $2 commemorative coin.",
+    "In 2007, a swarm of over 1,000 earthquakes beneath Nazko Cone marked the first significant seismic unrest detected at a Canadian volcano by modern instruments.",
+    "The 2010 landslide at Mount Meager displaced 48 million cubic metres of rock \u2014 roughly equivalent to 20 Cheops pyramids \u2014 demonstrating that volcanic hazards persist even without eruptions.",
+    "Canada's three submarine volcanoes on the Juan de Fuca Ridge host some of the most studied hydrothermal vent communities in the world, including the iconic Endeavour Hydrothermal Vents, a Marine Protected Area.",
+    "Nisga'a oral histories of the Tseax eruption maintained accurate geological details for over 300 years before Western scientists confirmed the volcanic origin, demonstrating the scientific value of Indigenous knowledge systems.",
+    "Mount Garibaldi is one of the few volcanoes in the world built partly against the margin of a continental ice sheet, with The Barrier lava cliff as dramatic evidence of this glaciovolcanic interaction.",
+    "Geothermal exploration at Mount Meager has measured subsurface temperatures exceeding 250\u00b0C, representing one of the highest-temperature geothermal resources in Canada."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Canada?",
+      "answer": "Canada has 24 Holocene volcanoes recorded in the Smithsonian Global Volcanism Program database \u2014 meaning they have erupted at least once in the past 11,700 years. These are concentrated in British Columbia (20 volcanoes) and the Yukon Territory (4 volcanoes), with 3 additional submarine volcanoes on the Juan de Fuca Ridge off the Pacific coast. Different sources may cite different numbers because some count individual vents within volcanic fields separately, while others group them. Including older Pleistocene volcanoes, the total number of volcanic centres in western Canada exceeds 100."
+    },
+    {
+      "question": "Does Canada have active volcanoes?",
+      "answer": "Canada does not currently have any erupting volcanoes, and none have erupted in living memory. However, several volcanoes are considered potentially active based on their Holocene eruption histories. Mount Meager, Mount Garibaldi, and Mount Edziza have all erupted within the past 10,000 years. The Geological Survey of Canada classifies these as potentially hazardous volcanic centres. The most recent eruption in Canada occurred at the Iskut-Unuk River Cones near the Alaska border around 1800 CE, and the Tseax River Cone erupted around 1690 CE. By volcanological standards, volcanoes that have erupted within the Holocene epoch are considered potentially active."
+    },
+    {
+      "question": "What is the tallest volcano in Canada?",
+      "answer": "Silverthrone, a large caldera complex in the Coast Mountains of British Columbia, is the tallest volcano in Canada at 2,860 m (9,383 ft). It is followed by Mount Edziza at 2,786 m (9,140 ft) and Mount Meager at 2,680 m (8,793 ft). Silverthrone is among the least-studied of Canada's volcanoes due to its extreme remoteness and heavy glacial cover. No historical eruptions have been recorded there, but its Holocene classification means it remains potentially active. For context, Canada's tallest volcano is only about half the height of Japan's Mount Fuji (3,776 m) or Ecuador's Cotopaxi (5,897 m)."
+    },
+    {
+      "question": "When was the last volcanic eruption in Canada?",
+      "answer": "The most recent volcanic eruption in Canada occurred at the Iskut-Unuk River Cones in northwestern British Columbia, estimated at approximately 1800 CE. These small basaltic eruptions produced cinder cones and lava flows near the Alaska border. Prior to this, the Tseax River Cone erupted around 1690 CE, producing devastating lava flows and toxic gas that killed approximately 2,000 Nisga'a people. The Wells Gray-Clearwater Volcanic Field in central BC also erupted around 1550 CE. Canada has not experienced a volcanic eruption since the early 19th century, making it one of the longest volcanic quiet periods among Pacific Rim nations."
+    },
+    {
+      "question": "Why does Canada have volcanoes?",
+      "answer": "Canada has volcanoes because of two distinct tectonic processes. First, along the southwest coast of British Columbia, the Juan de Fuca and Explorer Plates subduct (dive beneath) the North American Plate at the Cascadia subduction zone \u2014 the same process that feeds Mount St. Helens and Mount Rainier in Washington State. This generates the Garibaldi Volcanic Belt, including Mount Meager and Mount Garibaldi. Second, farther north and inland, intraplate volcanism \u2014 driven by deep mantle upwelling unrelated to plate boundaries \u2014 creates the Northern Cordilleran Volcanic Province (NCVP), containing Mount Edziza, Level Mountain, and most of Canada's other volcanoes."
+    },
+    {
+      "question": "Could a volcano erupt in Canada?",
+      "answer": "Yes, a future volcanic eruption in Canada is considered geologically certain, though predicting when is impossible. The Geological Survey of Canada considers Mount Meager, Mount Garibaldi, Mount Edziza, and several other centres potentially active. Mount Meager is often cited as the most likely candidate due to ongoing seismic activity and hot springs indicating a still-active magmatic system. The 2007 earthquake swarm at Nazko Cone also demonstrated that magma may be moving beneath Canadian volcanoes. Canada's average eruption recurrence interval is roughly 200-300 years based on the Holocene record, and the last eruption was over 200 years ago."
+    },
+    {
+      "question": "What was Canada's deadliest volcanic eruption?",
+      "answer": "The deadliest volcanic eruption in Canadian history was the Tseax River Cone eruption of approximately 1690 CE, which killed an estimated 2,000 Nisga'a people in the Nass River valley of northwestern British Columbia. Basaltic lava flows travelled 22 km down river valleys, destroying the villages of Lax Ksiluux and Wii Lax K'abit. Many deaths were caused by toxic volcanic gases \u2014 likely carbon dioxide and sulphur dioxide \u2014 that settled in the valley. This event is one of the deadliest volcanic disasters in North American history and is preserved in Nisga'a oral traditions as a transformative event in their cultural history."
+    },
+    {
+      "question": "Is Mount Garibaldi going to erupt?",
+      "answer": "Mount Garibaldi last erupted around 8060 BCE, making its current repose period approximately 10,000 years \u2014 well within the range of dormancy periods observed at other Cascade Arc volcanoes. While there is no indication of imminent eruption, Garibaldi is classified as a potentially active volcano. Its proximity to Metro Vancouver (66 km from Squamish, 90 km from downtown Vancouver) means that even a moderate eruption could produce ashfall, lahars, and disruption to 2.6 million people. The volcano is not currently monitored with dedicated instruments, a gap that volcanologists have flagged as a concern."
+    }
+  ],
+  "people_also_search": [
+    "volcanoes in British Columbia",
+    "active volcanoes in Canada",
+    "Mount Meager eruption",
+    "Tseax River eruption Nisga'a",
+    "Canadian Cascadia volcanoes",
+    "is Mount Garibaldi active",
+    "Northern Cordilleran Volcanic Province",
+    "Eve Cone Edziza"
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/search_volcano.cfm",
+      "text": "Smithsonian GVP: Search Volcanoes (filter by Canada)",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://earthquakescanada.nrcan.gc.ca/info-gen/volcanic-en.php",
+      "text": "Natural Resources Canada \u2014 Volcanic Hazards",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Canada",
+      "text": "Britannica: Canada",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/volcano-hazards/cascades-volcano-observatory",
+      "text": "USGS Cascades Volcano Observatory",
+      "type": "authority"
+    }
+  ],
+  "related_countries": [
+    "united-states",
+    "iceland",
+    "japan",
+    "russia"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Canada",
+      "url": "/volcanoes-in-canada"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

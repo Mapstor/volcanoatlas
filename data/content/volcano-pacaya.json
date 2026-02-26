@@ -1,0 +1,406 @@
+{
+  "slug": "pacaya",
+  "volcano_id": 342110,
+  "title": "Pacaya",
+  "meta_title": "Pacaya Volcano — Eruptions & Hiking Guide | VolcanoAtlas",
+  "meta_description": "Pacaya is Guatemala's most active volcano at 2,569 m with 36 eruptions. Visible from Guatemala City. Full history and hiking guide.",
+  "quick_answer": {
+    "what": "Pacaya is an active complex basaltic volcano rising to 2,569 m (8,428 ft) in central Guatemala, approximately 30 km south of Guatemala City. Its eruptions are frequently visible from the national capital.",
+    "status": "Active — last erupted in a prolonged Strombolian sequence from 2015 to 2021. One of Central America's most persistently active volcanoes, with nearly continuous eruption from 1965 to 2010.",
+    "famous_for": "Nearly continuous Strombolian eruptions from 1965 to 2010 (45 years), its proximity to Guatemala City (eruptions visible from the capital), and the dramatic May 2010 eruption that deposited ash across the capital and forced closure of the international airport.",
+    "danger_level": "Moderate to high — approximately 1 million people in the Guatemala City metropolitan area are within ashfall range. Communities on the volcano's flanks are at risk from lava flows and ballistic projectiles."
+  },
+  "hero": {
+    "name": "Pacaya",
+    "local_name": "Volcán Pacaya",
+    "subtitle": "Guatemala's Perpetually Erupting Volcano",
+    "country": "Guatemala",
+    "region": "Escuintla Department",
+    "type": "Complex volcano",
+    "elevation_m": 2569,
+    "elevation_ft": 8428,
+    "status": "Active",
+    "last_eruption": "2021",
+    "coordinates": {
+      "lat": 14.382,
+      "lon": -90.601
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-07902.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,569 m (8,428 ft)",
+    "type": "Complex volcano (basaltic stratovolcano within a caldera)",
+    "status": "Active",
+    "last_eruption": "2015–2021 (Strombolian)",
+    "first_known_eruption": "~400 CE (VEI 2)",
+    "total_recorded_eruptions": 36,
+    "vei_max": "3 (1775, 1965–1989, 2004–2005, 2006–2010)",
+    "country": "Guatemala",
+    "region": "Escuintla Department, central Guatemala",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "14.382°N, 90.601°W",
+    "nearest_city": "Guatemala City — approximately 30 km north",
+    "population_at_risk": "~1 million+ in the Guatemala City metro area (ashfall range); ~10,000 on volcano flanks",
+    "summit_crater": "MacKenney Crater — active vent on the Mackenney cone",
+    "protected_status": "Pacaya National Park",
+    "monitoring_agency": "INSIVUMEH",
+    "smithsonian_id": "342110",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=342110"
+  },
+  "sections": {
+    "overview": {
+      "content": "Pacaya is an active <a href=\"/types-of-volcanoes\">complex volcano</a> rising to 2,569 m (8,428 ft) in the Escuintla Department of central <a href=\"/volcanoes-in-guatemala\">Guatemala</a>, approximately 30 km (19 mi) south of Guatemala City — the country's capital and largest metropolitan area (population ~3 million). It is one of the most persistently active volcanoes in Central America, with 36 recorded eruptions dating back to approximately 400 CE. Pacaya's eruptions are frequently visible from Guatemala City, making it arguably the most \"watched\" volcano in the Americas. The volcano was constructed just outside the southern topographic rim of the 14 × 16 km Pleistocene Amatitlán caldera and consists of several overlapping edifices: the older Pacaya Viejo and Cerro Grande stratovolcanoes and the currently active Mackenney cone. A catastrophic collapse of Pacaya Viejo between 600 and 1,500 years ago produced a debris-avalanche deposit extending 25 km onto the Pacific coastal plain, leaving an arcuate scarp inside which the modern Mackenney cone grew. Pacaya is notable for its basaltic composition — unusual among Central American <a href=\"/ring-of-fire\">Ring of Fire</a> volcanoes, which are predominantly andesitic — which produces the fluid lava flows and spectacular Strombolian eruptions that characterize its activity. From 1965 to 2010, the volcano was in a state of nearly continuous eruption, one of the longest sustained eruption episodes at any Central American volcano. The climax of this period was the violent May 27, 2010 eruption (VEI 3) that deposited ash across Guatemala City, forced closure of La Aurora International Airport, and caused the deaths of at least two people. Pacaya is now a popular tourist destination within Pacaya National Park, drawing tens of thousands of visitors annually to hike its flanks and witness active lava flows — when conditions permit."
+    },
+    "geology_and_formation": {
+      "content": "Pacaya is a product of the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench. It sits within the broader volcanic arc of <a href=\"/volcanoes-in-guatemala\">Guatemala</a>, which includes some of Central America's most dangerous volcanoes — <a href=\"/volcano/fuego\">Fuego</a>, Acatenango, Atitlán, and Santa María. The volcano was built on the southern rim of the Amatitlán caldera, a large Pleistocene collapse structure measuring 14 × 16 km, within which a cluster of dacitic lava domes occupies the southern floor. The Pacaya massif represents a multi-phase construction history: Pacaya Viejo was the original stratovolcano, while Cerro Grande is an adjacent older edifice. Between 600 and 1,500 years ago, Pacaya Viejo collapsed in a catastrophic sector failure, producing a debris-avalanche deposit that traveled 25 km onto the Pacific coastal plain — one of the most extensive volcanic debris avalanches documented in Central America. The modern Mackenney cone grew within the horseshoe-shaped collapse scarp, and the NW-flank Cerro Chino crater was last active in the 19th century. Pacaya's basaltic to picro-basaltic magma is distinctly mafic for a subduction-zone stratovolcano, producing relatively fluid lava that feeds both effusive flows and gas-rich Strombolian fountains. This basaltic character may reflect a deep magma source tapping the mantle wedge with limited crustal assimilation, despite the thick continental crust (>25 km) beneath the region."
+    },
+    "eruption_history_overview": {
+      "content": "Pacaya's eruption record spans approximately 1,600 years, with 36 confirmed and uncertain eruptions in the Smithsonian database. The earliest recorded event dates to approximately 400 CE (VEI 2), and pre-historical VEI 3 eruptions occurred around 880, 1160, and 1360 CE. Historical eruptions began in 1565, with activity from the Cerro Chino flank vent and the main summit. The 17th century was notably active, with at least 10 eruptions between 1623 and 1699. After eruptions in 1775 (VEI 3, from Cerro Chino) and 1805, the volcano entered a prolonged quiet period. Activity resumed dramatically in March 1961 with a VEI 2 flank eruption, and in July 1965 the famous decades-long eruption sequence began from the Mackenney Crater and flank vents. This nearly continuous eruption (1965–2010, with two phases rated VEI 3) made Pacaya one of the most persistently active volcanoes on Earth. The 2006–2010 phase culminated in the explosive May 27, 2010 eruption. Subsequent activity from 2013 to 2021 continued the Strombolian pattern at lower intensity."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1775 Eruption (VEI 3) — Cerro Chino Erupts",
+          "content": "On July 1, 1775, a VEI 3 eruption from the Cerro Chino flank vent on the NW side of Pacaya produced significant explosive activity and lava flows. Cerro Chino was the primary active vent during the 18th and 19th centuries, before activity shifted to the Mackenney cone in the 20th century. The 1775 event was the last major eruption before the volcano entered a prolonged quiet period that lasted until 1961."
+        },
+        {
+          "title": "The 1965–2010 Sustained Eruption — 45 Years of Continuous Activity",
+          "content": "Beginning on July 4, 1965, Pacaya entered a nearly continuous eruption phase from the Mackenney Crater and flank vents that lasted through 2010 — one of the longest sustained eruption episodes at any Central American volcano. The eruption progressed through two main phases: 1965–1989 and 1990–2000 (both rated VEI 3). Activity consisted primarily of Strombolian eruptions — intermittent fountains of incandescent lava fragments — punctuated by periods of lava flow extrusion that partially filled in the caldera moat and covered the flanks of Mackenney cone. Occasional larger explosive eruptions partially destroyed the summit during this period. The eruption made Pacaya an internationally recognized symbol of persistent volcanic activity and drew increasing numbers of tourists to witness the lava fountains and flows at close range."
+        },
+        {
+          "title": "The May 27, 2010 Eruption (VEI 3) — Ash over Guatemala City",
+          "content": "The climactic event of Pacaya's modern eruptive history occurred on May 27, 2010, when a powerful VEI 3 explosion from the Mackenney cone generated a substantial eruption column that deposited ash across Guatemala City and surrounding areas. The eruption killed at least two people, injured several others, and forced the evacuation of thousands from communities on the volcano's flanks. La Aurora International Airport in Guatemala City was closed as ash accumulated on runways. Ballistic blocks ejected from the crater impacted areas up to 3 km from the vent. The eruption also coincided with Tropical Storm Agatha, compounding the disaster with heavy rainfall that mixed with volcanic ash to produce lahars and caused widespread flooding. The combined Pacaya-Agatha event displaced over 100,000 people and caused an estimated $1 billion in damage across Guatemala."
+        },
+        {
+          "title": "The 2014–2021 Activity — Continued Strombolian Eruptions",
+          "content": "Following the 2010 climax, Pacaya continued with intermittent Strombolian eruptions and lava flow extrusion from the Mackenney Crater. The most recent extended eruption phase (2015–2021, VEI 1) included periods of incandescent lava fountains visible from Guatemala City and lava flows that descended the volcano's flanks, occasionally threatening access roads. The activity attracted large numbers of tourists, as the relatively gentle Strombolian eruptions produced spectacular nighttime displays while maintaining sufficient distance from most visitor trails."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Pacaya is classified as active and is monitored by INSIVUMEH (Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología), Guatemala's national monitoring agency. The monitoring network includes seismometers, webcams, and satellite remote sensing. The volcano's most recent eruption activity ended in 2021, and as of early 2025 the volcano is in a relatively quiet state with fumarolic degassing from the Mackenney Crater. Given Pacaya's historical pattern of nearly continuous activity since 1965, a return to Strombolian eruptions and lava flow extrusion is considered likely. INSIVUMEH and Guatemala's CONRED (disaster management agency) maintain alert systems for communities on the volcano's flanks and for Guatemala City, which is within ashfall range during larger eruptions."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Pacaya's primary hazards are ashfall on Guatemala City, lava flows on the volcano's flanks, and ballistic projectiles near the summit. The 2010 eruption demonstrated that VEI 3 events can deposit centimeters of ash on the capital (population ~3 million), closing the international airport and disrupting the national economy. Communities immediately surrounding the volcano — approximately 10,000 people in villages like San Francisco de Sales, El Cedro, and El Patrocinio — face more acute risks from lava flows, ballistic blocks, and possible pyroclastic flows during larger eruptions. The debris-avalanche deposit from the Pacaya Viejo collapse (600–1,500 years ago) extends 25 km onto the Pacific coastal plain, demonstrating that catastrophic sector collapse is a credible long-term hazard. Compared to nearby <a href=\"/volcano/fuego\">Fuego</a> — whose 2018 eruption killed over 200 people — Pacaya's basaltic eruption style is generally less lethal, but the 2010 event proved it can produce dangerous explosions. The volcano's proximity to Guatemala City makes even moderate eruptions nationally significant."
+    },
+    "geography_and_physical_description": {
+      "content": "Pacaya rises from the fertile highlands of central <a href=\"/volcanoes-in-guatemala\">Guatemala</a>, its Mackenney cone forming the dominant topographic feature of the landscape south of Guatemala City. The volcanic complex is built on the southern rim of the Amatitlán caldera, adjacent to Lago de Amatitlán, a scenic lake that partially fills the caldera depression. The active Mackenney cone, which grew within the arcuate scarp left by the Pacaya Viejo sector collapse, has a steep, asymmetric profile with its highest point at 2,569 m. The summit is frequently modified by eruptions — lava flows, crater fill, and explosive excavation repeatedly reshape the upper reaches of the cone. Cerro Chino, the older NW-flank crater, is a prominent secondary feature now heavily vegetated and no longer active. The volcano's lower slopes transition from volcanic rock and tephra into agricultural land, with coffee, macadamia, and subsistence crops cultivated on the rich volcanic soils."
+    },
+    "climate_and_global_impact": {
+      "content": "Pacaya's eruptions have not produced significant global climate impacts. Even the VEI 3 eruptions of 2004–2005 and 2010 were far too small to inject sulfate aerosols into the stratosphere at levels that would affect global temperatures. The volcano's primary atmospheric impact is regional: ash from the 2010 eruption disrupted aviation across Central America and deposited measurable tephra across the Guatemala City metropolitan area. The combination of the May 2010 eruption with Tropical Storm Agatha created a regional disaster of significant scope, illustrating how volcanic and meteorological hazards can compound each other in tropical regions."
+    },
+    "cultural_significance": {
+      "content": "Pacaya holds a prominent place in Guatemalan culture as the volcano most visible from the national capital. Its incandescent eruptions, glowing against the night sky above Guatemala City, are a familiar sight for millions of Guatemalans. The volcano has become one of Guatemala's premier tourist attractions, with Pacaya National Park drawing tens of thousands of domestic and international visitors annually. Locals have long cultivated the fertile volcanic soils on Pacaya's lower slopes, and the volcano's eruptions — while hazardous — replenish the soil with nutrient-rich ash. The 2010 eruption is a defining event in recent Guatemalan history, remembered alongside Tropical Storm Agatha for the compound devastation they inflicted. Tourism operators offer guided hikes to the lava flows, and during active phases, visitors can roast marshmallows on hot lava — an experience that has become an iconic symbol of Guatemalan adventure tourism."
+    },
+    "visiting_and_tourism": {
+      "content": "Pacaya National Park is one of Guatemala's most popular tourist destinations, located approximately 1.5 hours by car from Guatemala City or Antigua Guatemala. Guided hikes depart from the village of San Francisco de Sales and take approximately 2–3 hours to reach the upper slopes where, during active periods, visitors can observe lava flows and Strombolian eruptions at relatively close range. The hike gains roughly 500 m in elevation over 2.5 km and is of moderate difficulty. Park entry fees are approximately $6 USD (50 quetzales), and licensed guides are required. During periods of elevated activity, CONRED may restrict access to the upper summit area, but lower trails often remain open. The best time to visit for lava viewing is during evening hours when incandescent flows and fountains are most visible. Tours are widely available from Guatemala City and Antigua and typically include transportation, guide, and park fees. Visitors should bring sturdy footwear (the terrain is rough lava), water, and warm layers — temperatures drop significantly at 2,500 m elevation."
+    },
+    "nearby_volcanoes": {
+      "content": "Pacaya is part of Guatemala's extraordinary concentration of active volcanoes along the Central American Volcanic Arc. <a href=\"/volcano/fuego\">Fuego</a> (3,763 m, approximately 60 km northwest) is Central America's most violently active stratovolcano, responsible for the catastrophic 2018 eruption that killed over 200 people. Acatenango (3,976 m), immediately adjacent to Fuego, is a popular hiking destination. Agua (3,760 m) looms over the colonial city of Antigua Guatemala. Further along the arc, Santa María and its active Santiaguito dome complex in western Guatemala, and Tajumulco (4,220 m, Central America's highest peak), round out one of the most volcanically dynamic regions on Earth."
+    },
+    "etymology": {
+      "content": "The name 'Pacaya' is of indigenous origin, likely derived from a Kaqchikel Maya word. Some sources associate it with 'pacaya,' the edible flower bud of a palm tree (Chamaedorea tepejilote) that grows in the region and is a traditional food in Guatemalan cuisine. The active summit cone is named 'Mackenney' (or 'McKenney') after a 20th-century volcanologist who studied the volcano."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Pacaya Compared to Central America's Most Active Volcanoes",
+      "description": "How does Pacaya compare to the region's other persistently erupting volcanoes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Pacaya",
+          "Guatemala",
+          "2,569 m",
+          "Complex",
+          "2021",
+          "3",
+          "36"
+        ],
+        [
+          "Fuego",
+          "Guatemala",
+          "3,763 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "60+"
+        ],
+        [
+          "Arenal",
+          "Costa Rica",
+          "1,670 m",
+          "Stratovolcano",
+          "2010",
+          "3",
+          "10"
+        ],
+        [
+          "San Cristóbal",
+          "Nicaragua",
+          "1,745 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "38"
+        ],
+        [
+          "Santa María",
+          "Guatemala",
+          "3,772 m",
+          "Stratovolcano",
+          "2024",
+          "6",
+          "10"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 400,
+      "vei": 2,
+      "label": "Earliest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 880,
+      "vei": 3,
+      "label": "Pre-historical VEI 3 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1565,
+      "vei": 3,
+      "label": "First historical eruption — Cerro Chino",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1775,
+      "vei": 3,
+      "label": "Major eruption from Cerro Chino",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1965,
+      "vei": 3,
+      "label": "Start of 45-year near-continuous eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2006,
+      "vei": 3,
+      "label": "Intense Strombolian and effusive activity (2006–2010)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2010,
+      "vei": 3,
+      "label": "Explosive eruption — ash on Guatemala City, 2+ killed",
+      "deaths": "2+",
+      "notable": true
+    },
+    {
+      "year": 2015,
+      "vei": 1,
+      "label": "Resumed Strombolian activity (2015–2021)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-1500",
+      "count": 4,
+      "note": "Including ~400, ~880, ~1160, ~1360 CE"
+    },
+    {
+      "century": "16th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 10
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 3,
+      "note": "Including the long 1965–2000 continuous eruption"
+    },
+    {
+      "century": "21st",
+      "count": 7
+    }
+  ],
+  "facts": [
+    "Pacaya erupted nearly continuously for 45 years (1965–2010), one of the longest sustained eruption episodes at any Central American volcano.",
+    "The May 27, 2010 eruption deposited ash across Guatemala City (population ~3 million), closed La Aurora International Airport, and killed at least two people.",
+    "Pacaya's eruptions are frequently visible from Guatemala City, making it one of the most-watched active volcanoes in the Americas.",
+    "A catastrophic collapse of the older Pacaya Viejo cone between 600 and 1,500 years ago produced a debris-avalanche deposit extending 25 km onto the Pacific coastal plain.",
+    "Pacaya is built on the southern rim of the 14 × 16 km Pleistocene Amatitlán caldera, adjacent to Lago de Amatitlán.",
+    "The volcano's basaltic composition is unusual for a Central American arc volcano and produces the fluid lava flows and spectacular Strombolian fountains that characterize its activity.",
+    "Tourists visiting Pacaya during active phases can roast marshmallows on hot lava — an experience that has become iconic in Guatemalan adventure tourism.",
+    "The 2010 Pacaya eruption coincided with Tropical Storm Agatha, creating a compound disaster that displaced over 100,000 people across Guatemala.",
+    "The Mackenney cone — Pacaya's currently active summit — grew inside the horseshoe-shaped scar left by the ancient sector collapse of Pacaya Viejo.",
+    "The 17th century was Pacaya's most active historical period, with at least 10 eruptions between 1623 and 1699.",
+    "Pacaya National Park receives tens of thousands of visitors annually, making it one of Guatemala's most popular natural attractions.",
+    "The NW-flank Cerro Chino crater, last active in the 19th century, is now heavily vegetated and serves as a secondary hiking trail."
+  ],
+  "faqs": [
+    {
+      "question": "Is Pacaya volcano active?",
+      "answer": "Yes, Pacaya is one of the most active volcanoes in Central America. It has produced 36 recorded eruptions and was in a state of nearly continuous eruption from 1965 to 2010 (45 years). The most recent eruption activity lasted from 2015 to 2021. The volcano is monitored by INSIVUMEH and is considered likely to resume Strombolian eruptions. Its eruptions are frequently visible from Guatemala City, approximately 30 km to the north."
+    },
+    {
+      "question": "When did Pacaya last erupt?",
+      "answer": "Pacaya's most recent eruption was a prolonged Strombolian episode from June 2015 to 2021 (VEI 1), featuring intermittent lava fountains and lava flow extrusion from the Mackenney Crater. Prior to that, the volcano was in a near-continuous eruption from 1965 to 2010, culminating in the explosive VEI 3 event of May 27, 2010 that deposited ash across Guatemala City."
+    },
+    {
+      "question": "Can you hike Pacaya?",
+      "answer": "Yes, Pacaya is one of Guatemala's most popular hiking destinations. The guided hike departs from San Francisco de Sales village (approximately 1.5 hours from Guatemala City or Antigua) and takes about 2–3 hours to reach the upper slopes, gaining roughly 500 m in elevation. Park entry costs approximately $6 USD, and licensed guides are required. During active phases, visitors can observe lava flows at close range. Evening hikes are popular for viewing incandescent activity."
+    },
+    {
+      "question": "How dangerous is Pacaya?",
+      "answer": "Pacaya poses moderate-to-high risk. The May 2010 VEI 3 eruption killed at least two people, closed Guatemala City's airport, and combined with Tropical Storm Agatha to displace over 100,000 people. Approximately 10,000 people live on the volcano's flanks, and the Guatemala City metro area (~3 million) is within ashfall range. However, Pacaya's typical Strombolian activity is less lethal than the explosive eruptions of nearby Fuego, which killed over 200 people in 2018."
+    },
+    {
+      "question": "What type of volcano is Pacaya?",
+      "answer": "Pacaya is classified as a complex volcano consisting of multiple overlapping edifices within the Pleistocene Amatitlán caldera. The currently active feature is the Mackenney stratovolcano, built inside the collapse scar of the older Pacaya Viejo cone. It erupts basaltic to picro-basaltic magma — unusually mafic for a Central American subduction-zone volcano — producing fluid lava flows and characteristic Strombolian eruption fountains."
+    },
+    {
+      "question": "How tall is Pacaya?",
+      "answer": "Pacaya's summit (the Mackenney cone) stands at 2,569 m (8,428 ft) above sea level. However, the summit height fluctuates as eruptions alternately build up and excavate the cone. The relative height above the surrounding terrain is approximately 500–600 m on the approach from San Francisco de Sales. For comparison, nearby Fuego reaches 3,763 m and Agua stands at 3,760 m."
+    },
+    {
+      "question": "What happened during the 2010 Pacaya eruption?",
+      "answer": "On May 27, 2010, Pacaya produced a powerful VEI 3 explosion that deposited ash across Guatemala City and surrounding areas. At least two people were killed, thousands were evacuated, and La Aurora International Airport was closed. Ballistic blocks impacted areas up to 3 km from the vent. The eruption coincided with Tropical Storm Agatha, and the combined disaster displaced over 100,000 people and caused an estimated $1 billion in damage."
+    },
+    {
+      "question": "Is it safe to visit Pacaya during an eruption?",
+      "answer": "Pacaya's typical Strombolian activity — lava fountains and slow-moving lava flows — can often be observed from safe distances along designated trails within Pacaya National Park. Licensed guides know the safe viewing areas. However, during periods of heightened explosive activity (like the 2010 eruption), access is restricted by CONRED. Visitors should always check current volcanic alerts from INSIVUMEH before visiting and follow guide instructions strictly."
+    }
+  ],
+  "people_also_search": [
+    "pacaya volcano guatemala",
+    "pacaya volcano hike",
+    "pacaya eruption 2010",
+    "guatemala city volcano",
+    "pacaya national park",
+    "pacaya lava",
+    "active volcanoes guatemala"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Pacaya",
+    "alternateName": [
+      "Volcán Pacaya",
+      "Mackenney"
+    ],
+    "description": "Active complex basaltic volcano in central Guatemala, visible from Guatemala City, with 36 eruptions and 45 years of near-continuous activity (1965–2010)",
+    "geo": {
+      "latitude": 14.382,
+      "longitude": -90.601,
+      "elevation": 2569
+    },
+    "containedInPlace": {
+      "name": "Escuintla Department",
+      "country": "Guatemala"
+    },
+    "url": "https://volcanoatlas.com/volcano/pacaya"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=342110",
+      "text": "Smithsonian GVP: Pacaya",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://insivumeh.gob.gt/",
+      "text": "INSIVUMEH — Guatemala Volcanological Institute",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Guatemala",
+      "text": "Britannica: Guatemala",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "fuego",
+      "san-cristobal",
+      "arenal",
+      "rincon-de-la-vieja"
+    ],
+    "country_pages": [
+      "guatemala",
+      "nicaragua",
+      "costa-rica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "fuego",
+    "san-cristobal",
+    "arenal",
+    "santa-maria",
+    "stromboli"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Guatemala",
+      "url": "/volcanoes-in-guatemala"
+    },
+    {
+      "label": "Pacaya",
+      "url": "/volcano/pacaya"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/pacaya"
+}

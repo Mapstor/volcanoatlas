@@ -1,0 +1,478 @@
+{
+  "slug": "ruapehu",
+  "volcano_id": 241100,
+  "title": "Mount Ruapehu",
+  "meta_title": "Mount Ruapehu — Eruptions, Lake & Facts | VolcanoAtlas",
+  "meta_description": "Mount Ruapehu is a 2,797 m active stratovolcano in New Zealand. Explore its 66 eruptions, deadly 1953 lahar, crater lake, ski fields, and current hazards.",
+  "quick_answer": {
+    "what": "Mount Ruapehu is an active stratovolcano rising 2,797 m (9,177 ft) in the Tongariro Volcanic Centre on the North Island of New Zealand, and the highest peak on the North Island.",
+    "status": "Active — last erupted September 2007. The summit crater lake (Te Wai ā-Moe) is heated by volcanic activity and serves as a real-time indicator of the volcano's state.",
+    "famous_for": "Its summit crater lake, the 1953 Tangiwai lahar disaster that killed 151 people, and hosting two commercial ski fields on an active volcano.",
+    "danger_level": "High — the combination of an acidic crater lake, frequent phreatic eruptions, lahar-prone drainages, and active ski fields and tourism infrastructure on the upper flanks makes Ruapehu one of New Zealand's most hazardous volcanoes."
+  },
+  "hero": {
+    "name": "Mount Ruapehu",
+    "local_name": "Ruapehu",
+    "subtitle": "New Zealand's Highest North Island Peak and Most Active Volcano",
+    "country": "New Zealand",
+    "region": "Taupo Volcanic Arc",
+    "type": "Stratovolcano",
+    "elevation_m": 2797,
+    "elevation_ft": 9177,
+    "status": "Active",
+    "last_eruption": "2007",
+    "coordinates": {
+      "lat": -39.28,
+      "lon": 175.57
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00413.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,797 m (9,177 ft)",
+    "type": "Stratovolcano (Complex, composite)",
+    "status": "Active",
+    "last_eruption": "September 25, 2007",
+    "first_known_eruption": "~9850 BCE (geological record)",
+    "total_recorded_eruptions": 66,
+    "vei_max": "4 (~7840 BCE) / 3 (1945, 1995, 1996 — historical)",
+    "country": "New Zealand",
+    "region": "Taupo Volcanic Arc, Tongariro Volcanic Centre",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Australian Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "39.28°S, 175.57°E",
+    "nearest_city": "Ohakune — 18 km SW; Tūrangi — 35 km NE",
+    "population_at_risk": "~10,000 within 30 km (rural); seasonal visitors and skiers significantly increase exposure",
+    "summit_crater": "Hosts Te Wai ā-Moe (Crater Lake), ~500 m diameter, ~60 m deep, temperature 15–60°C",
+    "protected_status": "Tongariro National Park — UNESCO World Heritage Site (dual cultural and natural, 1990/1993)",
+    "monitoring_agency": "GNS Science (Te Pū Ao) — GeoNet volcanic monitoring system",
+    "smithsonian_id": "241100",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=241100"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Ruapehu is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> and the highest peak on <a href=\"/volcanoes-in-new-zealand\">New Zealand's</a> North Island, rising to 2,797 m (9,177 ft) in the central Tongariro Volcanic Centre within Tongariro National Park, a UNESCO World Heritage Site. It is one of New Zealand's most active volcanoes, with 66 recorded eruptions spanning a geological record extending to approximately 9850 BCE, and is the most frequently active of the three major volcanoes in the Tongariro complex alongside <a href=\"/volcano/tongariro\">Tongariro</a> and Ngāuruhoe. Ruapehu's most distinctive feature is its summit crater lake, Te Wai ā-Moe (formerly known simply as Crater Lake), a warm, highly acidic body of water approximately 500 m in diameter that sits directly above the active vent — one of only a handful of persistent volcanic crater lakes in the world. The volcano's activity is driven by the subduction of the Pacific Plate beneath the Australian Plate along the Hikurangi Margin, the same tectonic engine that powers the entire Taupo Volcanic Zone. Ruapehu's eruptions are predominantly phreatic and phreatomagmatic, driven by the interaction of rising magma with the crater lake water, producing steam-driven explosions, lahars, and ash columns. The 1953 Tangiwai disaster — in which a lahar from the crater lake destroyed a railway bridge and caused the deaths of 151 people — remains one of New Zealand's worst natural disasters and fundamentally shaped the country's approach to volcanic risk management. Today, Ruapehu hosts two commercial ski fields (Whakapapa and Tūroa) on its upper flanks, creating an unusual and ongoing challenge: managing volcanic hazards at a popular recreational destination visited by hundreds of thousands of people annually."
+    },
+    "geology_and_formation": {
+      "content": "Mount Ruapehu is a complex stratovolcano constructed during at least four major cone-building episodes dating back approximately 200,000 years. The dominantly andesitic massif has an estimated volume of 110 km³, making it one of the largest volcanic edifices in New Zealand. It is elongated in a NNE–SSW direction and surrounded by an additional 100 km³ ring plain of volcaniclastic debris — lahars, pyroclastic deposits, and debris-avalanche material — that blankets the surrounding lowlands. The most significant mass-wasting event was the Murimoto debris avalanche, a major sector collapse of the northwest flank that produced a thick, hummocky deposit extending several kilometers from the edifice. Ruapehu sits within the Taupo Volcanic Zone (TVZ), the southern extension of the Tonga–Kermadec subduction system, where the Pacific Plate descends beneath the Australian Plate at a rate of approximately 4–5 cm per year. The TVZ is one of the most active volcanic and geothermal regions on Earth, hosting the Taupo caldera — source of the most recent VEI 8 supereruption approximately 26,500 years ago — just 80 km to the northeast. Ruapehu's magma is predominantly andesitic to basaltic-andesitic in composition, typical of subduction-zone <a href=\"/types-of-volcanoes\">stratovolcanoes</a>. A series of subplinian eruptions occurred between approximately 22,600 and 10,000 years ago, but pyroclastic flows have been infrequent in the Holocene. The broad summit area contains at least six vents that have been active during the Holocene, with the Te Wai ā-Moe (Crater Lake) vent dominating recent activity. The crater lake itself may have formed as recently as 3,000 years ago."
+    },
+    "eruption_history_overview": {
+      "content": "Ruapehu's eruption record comprises 66 events cataloged by the Smithsonian Global Volcanism Program, of which 64 are confirmed. The geological record extends to approximately 9850 BCE, but the vast majority of recorded eruptions — 55 of 66 — have occurred since 1918, reflecting the relatively recent establishment of systematic observation in New Zealand rather than a genuine increase in activity. The historical eruption pattern is dominated by small phreatic and phreatomagmatic events (VEI 0–2), with occasional larger episodes reaching VEI 3. The single VEI 4 event in the record occurred in prehistory, around 7840 BCE. <a href=\"/volcanic-explosivity-index\">VEI</a> 1 eruptions are by far the most common (35 occurrences), followed by VEI 2 events (20 occurrences). Major eruptive episodes in 1945, 1969, 1975, and 1995–1996 produced significant ashfall, lahars, and disruption. The 20th century dominates the record with 55 eruptions, but this reflects improved monitoring rather than anomalous activity — Ruapehu has almost certainly been erupting at similar frequencies for thousands of years."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1953 Tangiwai Disaster — New Zealand's Deadliest Lahar",
+          "content": "On Christmas Eve, December 24, 1953, a lahar from Ruapehu's Crater Lake swept down the Whangaehu River valley and destroyed the railway bridge at Tangiwai, just 6 minutes before the Wellington–Auckland express train arrived at the crossing. The locomotive and six carriages plunged into the flooded river, killing 151 of the 285 people aboard — making it the deadliest rail disaster in New Zealand history and the country's worst volcanic disaster. The lahar was triggered by the collapse of a tephra barrier (dam) on the crater lake rim that had been built up during the March 1945 eruption (VEI 3). Over the following eight years, the lake level rose behind this dam until it breached catastrophically on Christmas Eve, releasing approximately 340,000 m³ of water in a sudden flood. The disaster was not caused by an eruption in progress but by the delayed secondary effects of the 1945 eruption — a chilling demonstration that volcanic hazards can kill long after the eruption itself has ended. The Tangiwai disaster led to the establishment of New Zealand's first lahar warning system on the Whangaehu River and fundamentally changed the country's approach to volcanic risk management. A memorial at the Tangiwai bridge site commemorates the 151 victims."
+        },
+        {
+          "title": "The 1995–1996 Eruptions — Modern Explosive Events",
+          "content": "Ruapehu's most significant recent eruptive activity occurred in two phases in 1995 and 1996. The September–October 1995 eruption (VEI 3) began without warning on September 11 with a series of powerful phreatomagmatic explosions that ejected the crater lake water as steam-charged ballistic projectiles and generated an ash column reaching approximately 12 km (39,000 ft) above sea level. Ashfall disrupted flights across the central North Island, closed highways, and forced the evacuation of the Whakapapa ski field. Lahars generated by the explosive interaction of lake water and erupting magma descended multiple river valleys. The eruption continued intermittently until November. On June 16–17, 1996, a second VEI 3 eruption produced another significant explosive phase, ejecting much of the remaining crater lake water and generating further lahars and ashfall. The 1995–1996 eruptions cost an estimated NZ$130 million in direct and indirect damages and led to major upgrades of the Eastern Ruapehu Lahar Alarm Warning System (ERLAWS) and the development of new volcanic hazard management protocols for ski field operations."
+        },
+        {
+          "title": "The 1945 Eruption — Crater Lake Emptied",
+          "content": "The VEI 3 eruption of March 8, 1945, was the largest eruption at Ruapehu during the 20th century. Powerful explosions emptied much of the crater lake, sending lahars down the Whangaehu River and other drainages. The eruption deposited a significant tephra barrier across the lake outlet, effectively damming the re-filling lake — setting the stage for the catastrophic Tangiwai disaster eight years later. Ashfall affected areas up to 150 km from the summit. The 1945 eruption was also notable for occurring during World War II, when military training was conducted in the Tongariro area, and soldiers witnessed explosive activity from their camps."
+        },
+        {
+          "title": "The 2007 Eruption — Most Recent Activity",
+          "content": "On September 25, 2007, Ruapehu produced its most recent eruption — a small (VEI 1) phreatic event at the crater lake. The eruption generated a lahar that traveled down the Whangaehu River valley, triggering the ERLAWS lahar warning system. The lahar reached the Tangiwai area but caused no casualties or significant damage, validating the warning infrastructure put in place after the 1953 disaster. The 2007 event demonstrated that even small eruptions at Ruapehu can generate lahars of sufficient size to threaten downstream infrastructure."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Ruapehu has not erupted since September 2007, but remains one of New Zealand's most closely monitored volcanoes. GNS Science, through the GeoNet volcanic monitoring network, operates a comprehensive suite of instruments including seismometers, GPS deformation sensors, gas measurement stations, web cameras, and regular surveys of the crater lake's temperature, level, and chemistry. The temperature of Te Wai ā-Moe (Crater Lake) fluctuates between approximately 15°C and 60°C and is the single most important indicator of volcanic unrest — heating cycles typically reflect increased heat input from the underlying magmatic system. The Volcanic Alert Level (VAL) system, managed by GNS Science, provides a 0–5 scale for New Zealand volcanoes; Ruapehu typically sits at VAL 1 (minor volcanic unrest). The Eastern Ruapehu Lahar Alarm Warning System (ERLAWS) uses sensors in the Whangaehu River catchment to detect lahars and automatically trigger warnings, including rail and road closures at Tangiwai. A critical ongoing concern is the stability of the tephra barrier at the crater lake outlet — the same type of dam whose collapse caused the 1953 disaster. In 2007, the lake overtopped the barrier in a controlled lahar, partially lowering the lake level, but the barrier could fail catastrophically during a future eruption."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Ruapehu's hazard profile is dominated by lahars — the volcanic mudflows that have historically been the volcano's most destructive hazard. The presence of the warm, acidic crater lake (Te Wai ā-Moe) means that any eruption through the lake generates lahars automatically as ejected water mixes with loose volcanic debris on the flanks. The 1953 Tangiwai disaster demonstrated that lahars can also occur without an eruption, when tephra dams on the lake rim collapse. Lahar pathways follow the Whangaehu, Mangaturuturu, and Whakapapa river valleys, threatening roads, bridges, rail lines, and downstream communities including the town of Ohakune (population ~1,200) and the Tangiwai area. Phreatic and phreatomagmatic explosions are the most frequent eruption type, typically generating ballistic projectiles within 2–3 km of the crater and ash columns up to 12 km above sea level. Ashfall affects the central North Island and can disrupt aviation. The unique challenge at Ruapehu is the presence of two commercial ski fields — Whakapapa (northwest flank) and Tūroa (southwest flank) — which bring hundreds of thousands of visitors annually to the volcano's upper slopes, many of whom are within the ballistic hazard zone. Ski field operators maintain eruption response plans, including shelter structures and evacuation protocols. The Tongariro Alpine Crossing, New Zealand's most popular day hike (passing over neighboring <a href=\"/volcano/tongariro\">Tongariro</a>), also lies within Ruapehu's broader hazard footprint. Pyroclastic flows, while rare in the Holocene, cannot be ruled out during larger eruptions."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount Ruapehu is a massive, broad-based stratovolcano with an elongated NNE–SSW profile. The summit area is roughly 3 km long and hosts multiple peaks, including Tahurangi (the true summit at 2,797 m / 9,177 ft), Paretetaitonga (2,751 m), Te Heuheu (2,732 m), and Girdlestone Peak. The summit crater, approximately 500 m in diameter, contains Te Wai ā-Moe (Crater Lake), a warm, acidic lake that is one of the volcano's most distinctive features. Lake temperatures typically range from 15°C to 60°C, and the water is highly acidic (pH ~1), infused with volcanic gases and dissolved minerals that give it a characteristic milky blue-green color. The lake's volume fluctuates but is typically 7–9 million m³. The volcano's flanks descend steeply to approximately 1,500 m elevation before transitioning to the broad ring plain — a gently sloping apron of lahars, river gravels, and volcanic debris extending 20–30 km in all directions. Several glaciers and permanent snow fields cling to the upper slopes, including the Whangaehu, Mangaehuehu, and Summit Plateau glaciers, though these have retreated significantly due to volcanic heating and climate change. The surrounding landscape is a dramatic alpine tussock and desert environment, transitioning to native podocarp-hardwood forest at lower elevations."
+    },
+    "climate_and_global_impact": {
+      "content": "Ruapehu's eruptions have not produced measurable global climate effects. The volcano's typical VEI 1–3 eruptions inject ash and gas into the troposphere but not the stratosphere, limiting atmospheric effects to the local and regional scale. The 1995–1996 eruptions disrupted aviation across the central North Island and deposited ash on farmland, causing agricultural losses, but had no hemispheric impact. In the broader context of New Zealand volcanism, the most climate-significant eruptions have come from the Taupo caldera — the Hatepe eruption of 232 CE (VEI 7) is thought to have injected sufficient material into the stratosphere to produce detectable atmospheric effects across the Southern Hemisphere. Ruapehu's eruptions are orders of magnitude smaller, though their frequency and lahar-generating capacity make them the more immediate practical threat."
+    },
+    "cultural_significance": {
+      "content": "Mount Ruapehu holds profound cultural significance for Māori, particularly the Ngāti Rangi, Ngāti Tūwharetoa, and Te Āti Haunui-a-Pāpārangi iwi (tribes) who are the traditional guardians (kaitiaki) of the mountain. In Māori mythology, Ruapehu and the other Tongariro volcanoes are personified as ancestors. The name 'Ruapehu' is variously translated as 'pit of noise,' 'exploding pit,' or 'the great abyss' — reflecting the volcano's long-recognized eruptive nature. The summit crater lake, Te Wai ā-Moe ('the sleeping waters'), is a taonga (treasure) of great spiritual significance. Tongariro National Park was established in 1887 when the paramount chief Te Heuheu Tūkino IV gifted the sacred peaks to the Crown for protection — making it New Zealand's first national park and one of the first in the world. The park was inscribed as a UNESCO World Heritage Site in 1990 for its natural values and in 1993 for its cultural significance, becoming one of the first sites to receive dual designation. The 1953 Tangiwai disaster occupies a solemn place in New Zealand's national consciousness, commemorated every December 24."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Ruapehu is one of New Zealand's premier outdoor destinations, attracting visitors year-round. The Whakapapa ski field on the northwest flank and Tūroa ski field on the southwest flank together represent the North Island's only significant alpine skiing and snowboarding destination, operating from approximately June to October. In summer, the mountain is popular for hiking, mountaineering, and mountain biking. The summit climb — ascending to the crater lake rim via routes from the Whakapapa or Tūroa ski areas — is a challenging but non-technical alpine day trip in good conditions, typically taking 7–10 hours return. The Department of Conservation (DOC) operates several huts on and around the mountain, including the iconic Whangaehu Hut near the crater rim. The Tongariro Alpine Crossing, often called New Zealand's greatest day walk, passes over neighboring <a href=\"/volcano/tongariro\">Tongariro</a> and offers views of Ruapehu. The town of Ohakune, 18 km southwest, serves as the main base town with accommodation, restaurants, and equipment hire. Visitors should always check the GeoNet volcanic alert level and follow DOC advisories — crater area closures are enforced during periods of elevated volcanic unrest."
+    },
+    "nearby_volcanoes": {
+      "content": "Ruapehu is the dominant peak of the Tongariro Volcanic Centre, which also includes <a href=\"/volcano/tongariro\">Tongariro</a> (1,978 m) and its prominent subsidiary cone Ngāuruhoe (2,291 m), located 15 km to the northeast. Ngāuruhoe, New Zealand's most symmetrical cone and the filming location for Mount Doom in the Lord of the Rings films, last erupted in 1975. The Taupo caldera lies 80 km to the northeast and is the site of the most powerful eruption in the last 5,000 years (the 232 CE Hatepe eruption, VEI 7). Whakaari / White Island, New Zealand's most continuously active marine volcano, lies 180 km to the northeast in the Bay of Plenty. Together, these volcanoes form part of the Taupo Volcanic Zone, one of the most active volcanic regions on Earth, generated by the oblique subduction of the Pacific Plate beneath the Australian Plate along the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "etymology": {
+      "content": "The name 'Ruapehu' comes from Te Reo Māori and is most commonly interpreted as 'ru' (shake/earthquake) + 'pehu' (explode/shatter), giving 'exploding pit' or 'pit of noise.' Some scholars translate it as 'the great abyss.' All interpretations reflect the volcano's long-observed eruptive behavior. The summit crater lake's Māori name, Te Wai ā-Moe, translates as 'the sleeping waters' — a poetic reference to the lake's deceptive tranquility between eruptions."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Ruapehu Compared to New Zealand's Active Volcanoes",
+      "description": "How does Ruapehu rank among New Zealand's most active volcanic centers?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Ruapehu",
+          "New Zealand",
+          "2,797 m",
+          "Stratovolcano",
+          "2007",
+          "4",
+          "66"
+        ],
+        [
+          "Tongariro",
+          "New Zealand",
+          "1,978 m",
+          "Stratovolcano",
+          "2012",
+          "2",
+          "16"
+        ],
+        [
+          "White Island",
+          "New Zealand",
+          "321 m",
+          "Stratovolcano",
+          "2019",
+          "3",
+          "47"
+        ],
+        [
+          "Taupo",
+          "New Zealand",
+          "760 m",
+          "Caldera",
+          "232 CE",
+          "7",
+          "28"
+        ],
+        [
+          "Taranaki",
+          "New Zealand",
+          "2,518 m",
+          "Stratovolcano",
+          "1854",
+          "4",
+          "11"
+        ]
+      ]
+    },
+    {
+      "title": "Ruapehu vs the World's Crater Lake Volcanoes",
+      "description": "Comparing volcanoes with significant summit crater lakes — a distinctive and hazardous volcanic feature.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Lake Diameter",
+        "Lake Temp",
+        "Last Eruption",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Ruapehu",
+          "New Zealand",
+          "2,797 m",
+          "~500 m",
+          "15–60°C",
+          "2007",
+          "66"
+        ],
+        [
+          "Poás",
+          "Costa Rica",
+          "2,708 m",
+          "~300 m",
+          "22–85°C",
+          "2019",
+          "31"
+        ],
+        [
+          "Kelud",
+          "Indonesia",
+          "1,731 m",
+          "~350 m",
+          "30–50°C",
+          "2014",
+          "33"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1,486 m",
+          "~2,500 m",
+          "26–33°C",
+          "1991",
+          "6"
+        ],
+        [
+          "Kawah Ijen",
+          "Indonesia",
+          "2,769 m",
+          "~600 m",
+          "33–42°C",
+          "1999",
+          "7"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -9850,
+      "vei": null,
+      "label": "Earliest known eruption (geological record)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -7840,
+      "vei": 4,
+      "label": "Largest known eruption — subplinian, Pinnacle Ridge",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1210,
+      "vei": 3,
+      "label": "Pre-European significant eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1945,
+      "vei": 3,
+      "label": "Crater lake emptied — tephra dam formed",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1953,
+      "vei": null,
+      "label": "Tangiwai lahar disaster — 151 killed (no eruption, dam collapse)",
+      "deaths": "151",
+      "notable": true
+    },
+    {
+      "year": 1969,
+      "vei": 2,
+      "label": "Significant phreatic eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1975,
+      "vei": 2,
+      "label": "Eruption with lahars",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1995,
+      "vei": 3,
+      "label": "Major phreatomagmatic eruption — 12 km ash column, NZ$130M damages",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1996,
+      "vei": 3,
+      "label": "Second major eruption — crater lake ejected",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2007,
+      "vei": 1,
+      "label": "Most recent eruption — lahar triggered ERLAWS",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 7,
+      "note": "Geological record back to ~9850 BCE, including subplinian events"
+    },
+    {
+      "century": "13th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 3
+    },
+    {
+      "century": "20th",
+      "count": 55,
+      "note": "Reflects improved monitoring, not anomalous activity"
+    },
+    {
+      "century": "21st",
+      "count": 2
+    }
+  ],
+  "facts": [
+    "Mount Ruapehu is the highest peak on New Zealand's North Island at 2,797 m (9,177 ft) and one of only three active volcanic peaks in the Tongariro Volcanic Centre.",
+    "The 1953 Tangiwai disaster killed 151 people when a lahar from the crater lake destroyed a railway bridge minutes before a passenger train arrived — New Zealand's worst volcanic disaster.",
+    "Ruapehu's summit crater lake, Te Wai ā-Moe, is one of the world's few persistent volcanic crater lakes, with temperatures fluctuating between 15°C and 60°C and a pH of approximately 1 (extremely acidic).",
+    "The Whakapapa and Tūroa ski fields operate on the upper flanks of the active volcano, making Ruapehu one of the few places in the world where people routinely ski on an active stratovolcano.",
+    "The volcanic edifice has an estimated volume of 110 km³, with an additional 100 km³ of volcaniclastic debris forming the surrounding ring plain — a combined volume exceeding 200 km³.",
+    "Fifty-five of Ruapehu's 66 recorded eruptions occurred in the 20th century, reflecting the establishment of systematic monitoring rather than an increase in volcanic activity.",
+    "The 1995 eruption generated an ash column reaching approximately 12 km (39,000 ft) above sea level and caused an estimated NZ$130 million in damages.",
+    "Tongariro National Park, which contains Ruapehu, was established in 1887 after a gift from Māori chief Te Heuheu Tūkino IV — making it New Zealand's first national park and one of the world's first.",
+    "The Eastern Ruapehu Lahar Alarm Warning System (ERLAWS) can detect lahars in the Whangaehu River and automatically close roads and rail lines at Tangiwai — a direct legacy of the 1953 disaster.",
+    "Ruapehu's crater lake has been known to change color from blue-green to grey depending on volcanic gas input, mineral content, and biological activity — providing a visible early warning of volcanic unrest.",
+    "The Murimoto debris-avalanche deposit on Ruapehu's northwest flank records a major sector collapse — a reminder that even the largest volcanoes can fail catastrophically.",
+    "The name 'Ruapehu' translates from Māori as 'exploding pit' or 'pit of noise' — an apt description given the volcano's frequent phreatic eruptions through its crater lake."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Ruapehu still active?",
+      "answer": "Yes, Mount Ruapehu is classified as active and is one of New Zealand's most frequently erupting volcanoes. Its most recent eruption was a VEI 1 phreatic event on September 25, 2007. The volcano is continuously monitored by GNS Science through the GeoNet network, and the summit crater lake's temperature — which fluctuates between 15°C and 60°C — serves as a real-time indicator of volcanic unrest. Ruapehu typically sits at Volcanic Alert Level 1 (minor volcanic unrest). Volcanologists expect future eruptions, though predicting when they will occur remains impossible."
+    },
+    {
+      "question": "What happened at Tangiwai in 1953?",
+      "answer": "On Christmas Eve 1953, a lahar (volcanic mudflow) from Ruapehu's crater lake swept down the Whangaehu River and destroyed the railway bridge at Tangiwai. The Wellington–Auckland express train arrived at the crossing just minutes after the bridge collapsed, and the locomotive and six carriages plunged into the flooded river, killing 151 of the 285 passengers. The lahar was caused by the collapse of a tephra dam on the crater lake rim that had formed during the 1945 eruption — not by an eruption in progress. The disaster remains New Zealand's worst rail accident and its deadliest volcanic event."
+    },
+    {
+      "question": "Can you ski on Mount Ruapehu?",
+      "answer": "Yes, Ruapehu hosts two commercial ski fields: Whakapapa on the northwest flank and Tūroa on the southwest flank. Together they form the North Island's only significant alpine skiing and snowboarding destination, operating from approximately June to October. The ski fields are managed under volcanic hazard management plans that include eruption response protocols, shelter structures, and evacuation procedures. Skiers should always check the current GeoNet volcanic alert level. During periods of elevated volcanic unrest, access to upper slopes may be restricted."
+    },
+    {
+      "question": "How tall is Mount Ruapehu?",
+      "answer": "Mount Ruapehu's summit, Tahurangi, stands at 2,797 m (9,177 ft) above sea level, making it the highest peak on New Zealand's North Island. The summit area includes several other peaks: Paretetaitonga (2,751 m), Te Heuheu (2,732 m), and Girdlestone Peak. Ruapehu is shorter than New Zealand's tallest peak, Aoraki/Mount Cook (3,724 m), which is located on the South Island. The volcano rises approximately 2,000 m above the surrounding Tongariro Volcanic Centre plateau."
+    },
+    {
+      "question": "What is Ruapehu's crater lake?",
+      "answer": "Te Wai ā-Moe (formerly known as Crater Lake) is a warm, highly acidic lake approximately 500 m in diameter and up to 60 m deep, located in Ruapehu's summit crater directly above the active volcanic vent. The lake's temperature ranges from 15°C to 60°C depending on volcanic heat input, and its water is extremely acidic (pH ~1), laden with dissolved volcanic gases and minerals that give it a characteristic milky blue-green color. The lake acts as both a hazard amplifier — eruptions through the lake generate lahars — and a monitoring tool, as temperature changes indicate shifts in volcanic activity."
+    },
+    {
+      "question": "When did Ruapehu last erupt?",
+      "answer": "Ruapehu's most recent eruption occurred on September 25, 2007. It was a small (VEI 1) phreatic eruption through the crater lake that generated a lahar traveling down the Whangaehu River valley. The lahar triggered the ERLAWS warning system and reached the Tangiwai area without causing casualties — validating the warning infrastructure established after the 1953 disaster. Before that, significant eruptions occurred in September 1995 and June 1996 (both VEI 3), which generated ash columns up to 12 km high, ejected the crater lake, and caused NZ$130 million in damages."
+    },
+    {
+      "question": "Is it safe to hike Mount Ruapehu?",
+      "answer": "Hiking on Ruapehu is generally safe when the Volcanic Alert Level is at 1 (minor unrest) and when hikers follow Department of Conservation (DOC) guidelines. Summit climbs to the crater lake rim are popular in summer and take 7–10 hours return from the ski field car parks. However, visitors should always check the GeoNet volcanic alert level, carry appropriate alpine equipment, and be prepared for sudden weather changes. During periods of elevated volcanic unrest (VAL 2+), the crater area is closed and hiking on upper slopes may be restricted. The 1995 eruption occurred without warning, highlighting the inherent risk."
+    },
+    {
+      "question": "What type of volcano is Ruapehu?",
+      "answer": "Mount Ruapehu is a complex stratovolcano (composite volcano), constructed over approximately 200,000 years through at least four cone-building episodes. The volcano is built primarily of andesitic to basaltic-andesitic lava flows, pyroclastic deposits, and volcaniclastic debris. Its most distinctive feature — the summit crater lake — is relatively rare among stratovolcanoes and drives the volcano's characteristic phreatic and phreatomagmatic eruption style, where rising magma interacts with lake water to produce steam-driven explosions. The volcanic massif has an estimated volume of 110 km³."
+    }
+  ],
+  "people_also_search": [
+    "mount ruapehu eruption",
+    "ruapehu crater lake",
+    "tangiwai disaster 1953",
+    "ruapehu ski field",
+    "is ruapehu going to erupt",
+    "ruapehu volcano alert level",
+    "tongariro national park volcanoes",
+    "ruapehu height"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Ruapehu",
+    "alternateName": [
+      "Ruapehu"
+    ],
+    "description": "Active stratovolcano and highest North Island peak in New Zealand, known for its crater lake and the 1953 Tangiwai lahar disaster",
+    "geo": {
+      "latitude": -39.28,
+      "longitude": 175.57,
+      "elevation": 2797
+    },
+    "containedInPlace": {
+      "name": "Tongariro National Park",
+      "country": "New Zealand"
+    },
+    "url": "https://volcanoatlas.com/volcano/ruapehu"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=241100",
+      "text": "Smithsonian GVP: Ruapehu",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.geonet.org.nz/volcano/ruapehu",
+      "text": "GeoNet: Ruapehu Volcanic Activity",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Ruapehu",
+      "text": "Britannica: Mount Ruapehu",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/",
+      "text": "DOC: Tongariro National Park",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "tongariro",
+      "white-island",
+      "taupo",
+      "taranaki",
+      "poas",
+      "kelud"
+    ],
+    "country_pages": [
+      "new-zealand"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "tongariro",
+    "white-island",
+    "taupo",
+    "poas",
+    "kelud"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in New Zealand",
+      "url": "/volcanoes-in-new-zealand"
+    },
+    {
+      "label": "Mount Ruapehu",
+      "url": "/volcano/ruapehu"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/ruapehu"
+}

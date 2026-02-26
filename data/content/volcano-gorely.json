@@ -1,0 +1,418 @@
+{
+  "slug": "gorely",
+  "volcano_id": 300070,
+  "title": "Gorely Volcano",
+  "meta_title": "Gorely Volcano — Eruption History, Acid Lakes & Facts | VolcanoAtlas",
+  "meta_description": "Gorely is a 1,799 m active caldera volcano in Kamchatka, Russia, with 53 eruptions, acid crater lakes, and a massive 9 x 13 km caldera. Full profile and visitor guide.",
+  "quick_answer": {
+    "what": "Gorely is an active caldera volcano in southern Kamchatka, Russia, rising to 1,799 m (5,902 ft) and consisting of five overlapping stratovolcanoes within a massive 9 x 13 km caldera formed approximately 38,000-40,000 years ago.",
+    "status": "Active — last erupted in 2010. Fumarolic activity continues within summit craters. Monitored by KVERT.",
+    "famous_for": "Its spectacular acid crater lakes, enormous caldera formed by a ~100 km3 eruption ~38,000 years ago, and accessibility as a popular hiking destination in Kamchatka.",
+    "danger_level": "Moderate — Petropavlovsk-Kamchatsky (population ~180,000) lies 75 km northeast. Aviation hazards from ash clouds are the primary risk."
+  },
+  "hero": {
+    "name": "Gorely Volcano",
+    "local_name": "Gorelyy",
+    "subtitle": "Kamchatka's Acid Lake Caldera",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula",
+    "type": "Caldera",
+    "elevation_m": 1799,
+    "elevation_ft": 5902,
+    "status": "Active",
+    "last_eruption": "2010",
+    "coordinates": {
+      "lat": 52.5549,
+      "lon": 158.0358
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02309.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,799 m (5,902 ft)",
+    "type": "Caldera with compound stratovolcano complex",
+    "status": "Active",
+    "last_eruption": "2010",
+    "first_known_eruption": "~7400 BCE",
+    "total_recorded_eruptions": 53,
+    "vei_max": "3 (multiple events)",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula, southern volcanic zone",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Okhotsk Plate",
+    "rock_types": [
+      "Basalt",
+      "Picro-basalt"
+    ],
+    "coordinates": "52.555 N, 158.036 E",
+    "nearest_city": "Petropavlovsk-Kamchatsky — 75 km northeast",
+    "population_at_risk": "~180,000 (Petropavlovsk-Kamchatsky, distant but ash hazard)",
+    "caldera_dimensions": "9 x 13 km",
+    "caldera_forming_eruption": "~38,000-40,000 years ago, ~100 km3 tephra",
+    "monitoring_agency": "KVERT — Kamchatka Volcanic Eruption Response Team",
+    "smithsonian_id": "300070",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=300070"
+  },
+  "sections": {
+    "overview": {
+      "content": "Gorely (Russian: Gorelyy) is an active <a href=\"/types-of-volcanoes\">caldera</a> volcano on the Kamchatka Peninsula in the Russian Far East, rising to 1,799 m (5,902 ft) within one of the most volcanically active regions on Earth. The volcano consists of five small overlapping stratovolcanoes constructed along a WNW-ESE line inside a massive 9 x 13 km caldera that formed approximately 38,000-40,000 years ago during a colossal eruption that ejected roughly 100 km3 of tephra. With 53 recorded eruptions spanning at least 9,400 years, Gorely ranks among the more frequently active volcanoes of <a href=\"/volcanoes-in-russia\">Kamchatka</a>, though its historical eruptions have been moderate Vulcanian and phreatic events rather than catastrophic explosions.\n\nGorely sits within the southern segment of the Kamchatka volcanic arc, part of the <a href=\"/ring-of-fire\">Ring of Fire</a>, where the Pacific Plate subducts beneath the Okhotsk Plate at approximately 80 mm per year — one of the fastest convergence rates on Earth. This tectonic setting supports one of the densest concentrations of active volcanoes on the planet: Kamchatka contains over 30 Holocene volcanoes, including <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a>, the tallest active volcano in Eurasia. Gorely's distinctive features include approximately 40 cinder cones across the caldera floor, multiple acid and freshwater crater lakes in vivid shades of turquoise and blue, and three major rift zones. The volcano is a popular trekking destination offering accessible crater views and striking volcanic landscapes, and is monitored by KVERT (Kamchatka Volcanic Eruption Response Team), which provides aviation alerts for busy North Pacific air corridors."
+    },
+    "geology_and_formation": {
+      "content": "Gorely's geological history begins with a massive caldera-forming eruption approximately 38,000-40,000 years ago. This event — one of the largest Quaternary eruptions in Kamchatka — ejected approximately 100 km3 of tephra, producing extensive ignimbrite sheets traceable tens of kilometers from the caldera. The eruption triggered catastrophic roof collapse, creating the 9 x 13 km depression that defines the modern volcanic landscape.\n\nFollowing caldera formation, post-caldera volcanism built the five overlapping stratovolcano cones comprising the modern Gorely complex, aligned along a WNW-ESE structural trend reflecting underlying tectonic faults. Early Holocene activity was characterized by frequent mild-to-moderate explosive eruptions interspersed with six major lava effusion episodes that progressively filled in the caldera floor. Approximately 40 cinder and scoria cones were built along three major rift zones during this period.\n\nThe volcano's eruptive products are predominantly basaltic to picritic-basaltic — unusually mafic for a complex with such diverse eruption history. The low-viscosity basaltic magma enables both effusive lava flows and moderately explosive Strombolian to Vulcanian activity. The caldera-forming eruption itself involved more evolved (higher-silica) magma, suggesting that Gorely's plumbing system has changed composition over time. Gorely sits adjacent to the Mutnovsky volcanic complex, another highly active caldera system with major geothermal resources; the two are sometimes considered part of a larger volcanic system fed by the same deep magma source."
+    },
+    "eruption_history_overview": {
+      "content": "Gorely has produced 53 recorded eruptions from approximately 7400 BCE to 2010 CE. The Holocene record divides into several phases: an early Holocene period (before ~6000 BCE) of frequent eruptions and major lava extrusion; a middle Holocene period (~6000-2000 BCE) with lengthening intervals; and a late Holocene to historical period (~2000 BCE-present) dominated by explosive eruptions with occasional lava effusion.\n\nApproximately 600-650 years ago, Gorely entered a phase of intermittent strong explosions and lava flow effusion continuing to the present. Historical eruptions documented through Russian scientific expeditions have consisted of moderate Vulcanian and phreatic explosions. The most significant historical eruptions include events in 1828, 1832, 1929-1930, and 1980-1981. The most recent eruption in 2010 was a brief VEI 1 phreatic event from the summit crater. The volcano currently exhibits persistent fumarolic activity and hydrothermal circulation, evidenced by acid crater lakes and steam vents."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~38,000 BP Caldera-Forming Eruption — ~100 km3 Tephra",
+          "content": "The defining event in Gorely's history was the catastrophic caldera-forming eruption approximately 38,000-40,000 years ago. This eruption ejected an estimated 100 km3 of tephra — a volume placing it among the largest eruptions of the late Pleistocene globally. To put this in perspective, the 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> (the largest historically witnessed eruption) ejected approximately 150 km3 of tephra, making Gorely's caldera-forming event roughly two-thirds as voluminous. The eruption produced extensive pyroclastic flow deposits (ignimbrites) that swept across the landscape surrounding the volcano, burying hundreds of square kilometers. The withdrawal of such an enormous volume of magma from the subsurface chamber caused the overlying rock to collapse, creating the 9 x 13 km caldera that remains the volcano's most prominent geological feature. The ignimbrite deposits are still well exposed in river valleys and road cuts throughout southern Kamchatka, providing volcanologists with a detailed record of the eruption sequence."
+        },
+        {
+          "title": "The 1929-1931 Eruptions — Most Significant Historical Activity",
+          "content": "The most significant historical eruption sequence at Gorely occurred from 1929 through 1931, comprising three distinct eruption episodes. The 1929 eruption was rated VEI 3 and produced vigorous Vulcanian explosions with ash columns visible from Petropavlovsk-Kamchatsky, 75 km away. A second VEI 3 eruption followed in 1930, and a VEI 2 event in 1931 concluded the sequence. These eruptions ejected significant volumes of tephra from the summit craters, depositing ash across the sparsely populated surrounding area. The 1929-1931 sequence represents the most energetic historical activity at Gorely and provides the best analogue for what a future eruption might look like."
+        },
+        {
+          "title": "The 1980-1981 Eruption — Renewed Unrest",
+          "content": "After nearly 50 years of quiet following the 1947 eruption, Gorely reawakened in 1980 with a VEI 3 eruption characterized by Vulcanian explosions and phreatic activity from the summit craters. The eruption continued into 1981 and included notable phreatic blasts that disturbed the crater lake. This eruption was the first at Gorely monitored with modern seismological equipment, providing scientists with their first detailed instrumental record of the volcano's behavior. The data confirmed that Gorely's eruptions are preceded by detectable increases in seismicity, validating the use of seismic monitoring for eruption forecasting at this volcano."
+        },
+        {
+          "title": "The 2010 Eruption — Most Recent Activity",
+          "content": "The most recent eruption of Gorely occurred in 2010, consisting of a brief phreatic (steam-driven) explosion from the summit crater rated VEI 1. The eruption produced a small ash-and-steam plume that rose several kilometers above the summit and drifted east over sparsely populated terrain. KVERT raised the aviation color code briefly during the event. While minor in scale, the 2010 eruption confirmed that Gorely's hydrothermal system remains active and capable of producing explosive events. The eruption also coincided with a period of heightened fumarolic activity and temperature increases in the crater lakes, suggesting ongoing magmatic input to the shallow hydrothermal system."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Gorely is currently in a state of elevated fumarolic activity but without eruption. The summit craters contain active fumaroles that emit volcanic gases including SO2, CO2, H2S, and HCl, sustaining the strongly acidic crater lakes for which the volcano is known. Temperature monitoring of these fumaroles and lakes has shown periodic increases, suggesting fluctuations in the heat flux from the underlying magmatic system.\n\nThe volcano is monitored by KVERT, which operates in collaboration with the Alaska Volcano Observatory (AVO) to provide aviation alerts for North Pacific air routes — approximately 50,000 commercial flights per year pass through airspace potentially affected by Kamchatkan eruptions. KVERT maintains seismic monitoring stations around Gorely, supplemented by satellite observations (thermal anomaly detection, SO2 plume tracking). The current aviation color code is typically green (normal background activity). Scientists from the Institute of Volcanology and Seismology (IVS) in Petropavlovsk-Kamchatsky conduct regular field campaigns to sample fumarolic gases, measure crater lake chemistry, and map thermal anomalies. The consensus assessment is that Gorely will erupt again — the question is when, not if — with the most likely scenario being a moderate VEI 2-3 Vulcanian eruption similar to the 1929-1931 events."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Gorely's hazard profile is moderated by its relatively remote location in southern Kamchatka. The nearest significant population center, Petropavlovsk-Kamchatsky (population ~180,000), lies approximately 75 km to the northeast — far enough to be largely protected from pyroclastic flows and lava but potentially within range of significant ashfall during larger eruptions. The primary hazard concerns are aviation-related: ash clouds from eruptions can drift over the North Pacific air corridors used by hundreds of flights daily between North America and Asia, posing a serious risk to aircraft engines.\n\nLocalized hazards near the volcano include pyroclastic flows and surges (channeled within the caldera and down radial valleys), ballistic projectiles near the summit craters, lahars generated by rapid snowmelt during eruptions, and volcanic gas emissions. The acid crater lakes pose a potential hazard for trekkers who approach too closely without awareness of toxic gas concentrations. A worst-case scenario — a repeat of the VEI 3 events of 1929-1931 — would produce ash columns reaching 10-15 km altitude, significant ashfall on downwind areas, and localized pyroclastic flows. While this scenario is unlikely to threaten Petropavlovsk-Kamchatsky with life-threatening hazards, it could disrupt aviation across the entire North Pacific for days to weeks."
+    },
+    "geography_and_physical_description": {
+      "content": "Gorely occupies a dramatic landscape in southern Kamchatka, approximately 75 km southwest of Petropavlovsk-Kamchatsky. The 9 x 13 km caldera is one of the largest in Kamchatka and forms a broad, irregularly shaped depression surrounded by remnant caldera walls that rise 200-400 m above the floor in places. The caldera floor is filled with overlapping Holocene lava flows, scoria deposits, and approximately 40 cinder cones, creating a rugged, otherworldly terrain.\n\nThe five overlapping summit cones are aligned WNW-ESE across the central caldera floor, with the highest point reaching 1,799 m. The summit area contains 11 craters, several of which hold lakes of strikingly different colors — ranging from turquoise to deep blue-green — reflecting varying acid concentrations and dissolved mineral content. The most famous is a brilliant turquoise acid lake in the active crater, with pH values below 2 (comparable to battery acid) due to dissolved volcanic gases. Active fumaroles line the crater walls, producing plumes of steam and sulfurous gas.\n\nThe volcano lies within the Kamchatka volcanic highlands, surrounded by tundra, birch forest, and alpine meadows that support populations of brown bears, Arctic foxes, and other wildlife. Snow covers the summit for much of the year (October through June), and glacial remnants persist on north-facing slopes. The adjacent Mutnovsky volcano (2,323 m) and its geothermal field are visible from Gorely's summit."
+    },
+    "climate_and_global_impact": {
+      "content": "Gorely's historical eruptions have not produced measurable global climate impacts — its VEI 2-3 events inject insufficient aerosol into the stratosphere to affect hemispheric temperatures. The ~38,000 BP caldera-forming eruption, by contrast, almost certainly had significant regional and potentially hemispheric climate effects through the injection of massive quantities of sulfur aerosol into the upper atmosphere, though this predates any climate proxy records detailed enough to identify its specific signature.\n\nGorely's primary atmospheric significance in the modern era relates to aviation safety rather than climate. Kamchatka lies beneath the busy North Pacific air corridor connecting North American cities to East Asia, and eruptions from any of the peninsula's 30+ active volcanoes can produce ash clouds at cruising altitude. The North Pacific Volcanic Ash Advisory Center, operating in coordination with KVERT and the Alaska Volcano Observatory, tracks potential ash hazards in real time. Gorely's location in southern Kamchatka places it directly beneath these air routes."
+    },
+    "cultural_significance": {
+      "content": "The name 'Gorely' (Горелый) translates from Russian as 'burned' or 'scorched,' a straightforward reference to the volcano's volcanic landscape and the charred, treeless terrain surrounding the summit. The indigenous Itelmen people, who inhabited southern Kamchatka for thousands of years before Russian colonization in the 17th-18th centuries, would have experienced Gorely's eruptions and incorporated the volcano into their oral traditions, though specific Itelmen accounts of Gorely have not been well preserved in the historical record.\n\nIn modern Russian and international culture, Gorely is best known as one of the most photogenic and accessible volcanoes in Kamchatka — a region increasingly recognized as one of the world's premier wilderness and adventure tourism destinations. The volcano's acid crater lakes, photographed in vivid blues and greens against a backdrop of snow and volcanic rock, have become iconic images in nature photography and travel media. Gorely features prominently in documentary coverage of Kamchatka's volcanoes and is included in most organized trekking itineraries to the region."
+    },
+    "visiting_and_tourism": {
+      "content": "Gorely is one of the most accessible and popular volcanoes for trekkers visiting Kamchatka. The standard approach begins from a base area accessible by 4WD vehicle from Petropavlovsk-Kamchatsky (approximately 2-3 hours drive via the Mutnovsky road). From the trailhead, the ascent to Gorely's summit craters takes approximately 3-5 hours depending on conditions, following a moderately steep route over volcanic scree and snowfields. The hike does not require technical climbing equipment but demands reasonable fitness and preparation for rapidly changing weather.\n\nThe summit rewards hikers with views of the spectacular acid crater lakes, active fumaroles, and — on clear days — panoramic vistas extending to the Pacific Ocean, Mutnovsky volcano, and the Viluchinsky stratovolcano. Many trekkers combine Gorely with a visit to Mutnovsky's crater and the Dachnye hot springs area. The hiking season is limited, typically from late June through September, with the best conditions in July-August when snow cover is minimized.\n\nTrekkers should be aware of several hazards: volcanic gases near the crater rim can reach dangerous concentrations (especially in calm, windless conditions), sudden weather changes can reduce visibility to near zero, and the terrain includes unstable scree and snowfields with hidden crevasses. A local guide is strongly recommended. Access to Kamchatka itself requires advance planning — most visitors fly to Petropavlovsk-Kamchatsky from Moscow or Vladivostok, and organized tours typically handle logistics including 4WD transport, guides, and bear safety equipment."
+    },
+    "nearby_volcanoes": {
+      "content": "Gorely is part of one of the densest volcanic clusters on Earth. Its nearest neighbor, Mutnovsky (2,323 m), lies immediately to the south and is itself a highly active volcano with an impressive crater complex, fumarolic fields, and an associated geothermal power station that provides electricity to Petropavlovsk-Kamchatsky. Together, Gorely and Mutnovsky are often considered as a paired volcanic system.\n\nOther notable volcanoes in the southern Kamchatka region include Viluchinsky (2,173 m), a strikingly symmetrical cone visible from Petropavlovsk-Kamchatsky; Ksudach, a large caldera that produced a VEI 5 eruption approximately 1,800 years ago; and Zheltovsky. Further north along the Kamchatka volcanic arc, <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (4,750 m), <a href=\"/volcano/sheveluch\">Sheveluch</a>, and Bezymianny are among the most active volcanoes in the world. <a href=\"/volcanoes-in-russia\">Russia</a> as a whole contains over 90 Holocene volcanoes, the vast majority concentrated on the Kamchatka Peninsula and the Kuril Islands."
+    },
+    "etymology": {
+      "content": "The name 'Gorely' (Russian: Горелый, sometimes transliterated as 'Gorelyy' or 'Gorelyi') derives from the Russian adjective горелый, meaning 'burned,' 'scorched,' or 'charred.' The name references the volcano's barren, fire-scarred summit landscape — a common naming convention for Russian volcanoes. The alternative transliteration 'Gorelyj' appears in some older scientific literature."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Gorely Compared to Other Kamchatkan Caldera Volcanoes",
+      "description": "How does Gorely compare to other major caldera systems on the Kamchatka Peninsula?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Caldera Size",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Gorely",
+          "Russia",
+          "1,799 m",
+          "Caldera",
+          "9 x 13 km",
+          "2010",
+          "3",
+          "53"
+        ],
+        [
+          "Ksudach",
+          "Russia",
+          "1,079 m",
+          "Caldera",
+          "7 x 9 km",
+          "1907",
+          "5",
+          "7"
+        ],
+        [
+          "Mutnovsky",
+          "Russia",
+          "2,323 m",
+          "Complex",
+          "2 x 3 km",
+          "2000",
+          "2",
+          "10"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,750 m",
+          "Stratovolcano",
+          "N/A",
+          "2025",
+          "4",
+          "110+"
+        ],
+        [
+          "Aso",
+          "Japan",
+          "1,592 m",
+          "Caldera",
+          "17 x 25 km",
+          "2024",
+          "4",
+          "170+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -38000,
+      "vei": null,
+      "label": "Caldera-forming eruption — ~100 km3 tephra ejected",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -7400,
+      "vei": 0,
+      "label": "Earliest recorded Holocene eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5950,
+      "vei": 3,
+      "label": "VEI 3 explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1030,
+      "vei": 3,
+      "label": "Significant medieval eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1828,
+      "vei": 3,
+      "label": "First well-documented historical eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1929,
+      "vei": 3,
+      "label": "Most significant historical eruption sequence begins",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1980,
+      "vei": 3,
+      "label": "First instrumentally monitored eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2010,
+      "vei": 1,
+      "label": "Most recent eruption — phreatic explosion",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 32,
+      "note": "Frequent Holocene eruptions from ~7400 BCE to 700 BCE"
+    },
+    {
+      "century": "1st BCE-5th CE",
+      "count": 3
+    },
+    {
+      "century": "6th-10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 4
+    },
+    {
+      "century": "20th",
+      "count": 8
+    },
+    {
+      "century": "21st",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Gorely's caldera-forming eruption approximately 38,000-40,000 years ago ejected roughly 100 km3 of tephra — nearly two-thirds the volume of the 1815 Tambora eruption, the largest in recorded history.",
+    "The volcano's 9 x 13 km caldera is one of the largest in Kamchatka and contains approximately 40 cinder cones, 11 craters, and multiple lakes of strikingly different colors.",
+    "Gorely's most famous feature is a turquoise acid crater lake with a pH below 2 — comparable to battery acid — sustained by dissolved volcanic gases from the underlying hydrothermal system.",
+    "Approximately 50,000 commercial flights per year pass through airspace potentially affected by eruptions from Kamchatkan volcanoes like Gorely, making aviation hazard monitoring a critical function.",
+    "The name 'Gorely' translates from Russian as 'burned' or 'scorched,' referencing the volcano's barren, fire-scarred summit landscape.",
+    "Gorely has produced 53 recorded eruptions over approximately 9,400 years — an average of roughly one eruption every 177 years, though the actual distribution is highly clustered.",
+    "The volcano sits adjacent to Mutnovsky, whose associated geothermal power station provides a significant portion of the electricity supply for Petropavlovsk-Kamchatsky, Kamchatka's capital city.",
+    "Gorely's five overlapping summit cones were all built inside the caldera after its formation — essentially five volcanoes growing within the ruins of a much larger one.",
+    "Kamchatka contains over 30 Holocene volcanoes, making it one of the most volcanically dense regions on Earth, and Gorely is among its most frequently active.",
+    "The 1980-1981 eruption was the first at Gorely to be monitored with modern seismological equipment, confirming that detectable seismic precursors precede eruptions.",
+    "Gorely's basaltic composition is unusually mafic for a volcano with such a complex eruption history, including a caldera-forming event that typically requires more evolved magma.",
+    "Brown bears are frequently encountered on the approaches to Gorely, and trekkers are advised to carry bear spray and make noise while hiking."
+  ],
+  "faqs": [
+    {
+      "question": "Is Gorely Volcano active?",
+      "answer": "Yes, Gorely is classified as an active volcano. It last erupted in 2010 with a VEI 1 phreatic explosion from its summit crater. The volcano has produced 53 recorded eruptions over approximately 9,400 years and currently exhibits persistent fumarolic activity, acid crater lakes sustained by volcanic gas emissions, and periodic seismic swarms. It is monitored by KVERT (Kamchatka Volcanic Eruption Response Team) and the Institute of Volcanology and Seismology. Scientists consider future eruptions likely, with the most probable scenario being a moderate VEI 2-3 Vulcanian eruption similar to the 1929-1931 events."
+    },
+    {
+      "question": "Where is Gorely Volcano?",
+      "answer": "Gorely is located on the Kamchatka Peninsula in the Russian Far East, at coordinates 52.555 N, 158.036 E. It lies approximately 75 km southwest of Petropavlovsk-Kamchatsky, the capital of Kamchatka Krai and the only major city on the peninsula. The volcano is part of the southern segment of the Kamchatka volcanic arc, within the Ring of Fire. It sits adjacent to the Mutnovsky volcano and is accessible by 4WD vehicle from Petropavlovsk-Kamchatsky via the Mutnovsky road, a drive of approximately 2-3 hours."
+    },
+    {
+      "question": "Can you hike Gorely Volcano?",
+      "answer": "Yes, Gorely is one of the most popular trekking volcanoes in Kamchatka. The standard ascent from the trailhead (reached by 4WD) to the summit craters takes approximately 3-5 hours over volcanic scree and snowfields. No technical climbing equipment is required, but reasonable fitness and preparation for harsh weather are essential. The summit offers views of the famous acid crater lakes and active fumaroles. The hiking season runs from late June through September, with July-August offering the best conditions. A local guide is strongly recommended due to volcanic gas hazards, rapidly changing weather, and brown bear presence on the approach trails."
+    },
+    {
+      "question": "What are the acid lakes at Gorely?",
+      "answer": "Gorely contains several crater lakes of dramatically different colors, ranging from turquoise to deep blue-green. The most famous is a brilliant turquoise acid lake in the active crater, with a pH below 2 — comparable to battery acid. The extreme acidity results from the dissolution of volcanic gases (SO2, HCl, HF) emitted by fumaroles beneath and around the lake. Different colors reflect varying concentrations of dissolved minerals and sulfur compounds. These lakes are among Gorely's most photogenic features and a major draw for trekkers, though visitors should maintain distance due to toxic gas concentrations near the lake surfaces."
+    },
+    {
+      "question": "When did Gorely last erupt?",
+      "answer": "Gorely's most recent eruption occurred in 2010, consisting of a brief phreatic (steam-driven) explosion from the summit crater rated VEI 1. The eruption produced a small ash-and-steam plume that rose several kilometers above the summit. Prior significant eruptions occurred in 1980-1981 (VEI 3), 1961 (VEI 2), and 1947 (VEI 2). The most substantial historical eruption sequence was in 1929-1931, which included multiple VEI 3 events with Vulcanian explosions visible from Petropavlovsk-Kamchatsky, 75 km away."
+    },
+    {
+      "question": "How big is Gorely's caldera?",
+      "answer": "Gorely's caldera measures approximately 9 x 13 km, making it one of the largest calderas on the Kamchatka Peninsula. It formed approximately 38,000-40,000 years ago during a massive eruption that ejected roughly 100 km3 of tephra. The caldera floor contains five overlapping stratovolcano cones (the modern Gorely complex), approximately 40 cinder cones, and multiple crater lakes. The caldera walls rise up to 200-400 meters above the floor in places. For comparison, the famous Aso caldera in Japan measures 17 x 25 km, while Yellowstone's caldera is approximately 45 x 85 km."
+    },
+    {
+      "question": "Is Gorely dangerous?",
+      "answer": "Gorely poses a moderate hazard. The nearest significant population center, Petropavlovsk-Kamchatsky (~180,000 people), lies 75 km away — far enough to be safe from pyroclastic flows but potentially within range of ashfall during larger eruptions. The primary modern concern is aviation safety: ash clouds from Kamchatkan eruptions can disrupt North Pacific air corridors used by approximately 50,000 flights per year. For trekkers visiting the summit, hazards include toxic volcanic gases near the crater rim, rapidly changing weather, unstable terrain, and brown bear encounters. The prehistoric record shows Gorely is capable of extremely large eruptions, but such events have intervals measured in tens of thousands of years."
+    },
+    {
+      "question": "How does Gorely compare to other Kamchatka volcanoes?",
+      "answer": "Gorely is one of over 30 Holocene volcanoes on Kamchatka, ranking among the more frequently active but not the most explosive in historical times. Klyuchevskoy (4,750 m) is far taller, more active, and more explosive; Sheveluch produces more violent dome-collapse eruptions; and Bezymianny had a catastrophic directed blast in 1956. Gorely's distinguishing features are its large caldera, its acid crater lakes, and its accessibility for trekkers. In terms of eruption frequency (53 events in 9,400 years), Gorely is moderately active by Kamchatkan standards. Its caldera-forming eruption was among the largest in the peninsula's geological record."
+    }
+  ],
+  "people_also_search": [
+    "gorely volcano kamchatka",
+    "gorely crater lake",
+    "kamchatka volcano hiking",
+    "gorely volcano eruption",
+    "acid crater lakes volcanoes",
+    "kamchatka volcanoes list",
+    "mutnovsky gorely trek",
+    "kamchatka trekking"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Gorely Volcano",
+    "alternateName": [
+      "Gorelyy",
+      "Gorelyj"
+    ],
+    "description": "Active caldera volcano in Kamchatka, Russia, with acid crater lakes and 53 recorded eruptions",
+    "geo": {
+      "latitude": 52.5549,
+      "longitude": 158.0358,
+      "elevation": 1799
+    },
+    "containedInPlace": {
+      "name": "Kamchatka Krai",
+      "country": "Russia"
+    },
+    "url": "https://volcanoatlas.com/volcano/gorely"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=300070",
+      "text": "Smithsonian GVP: Gorely",
+      "type": "primary_source"
+    },
+    {
+      "url": "http://www.kscnet.ru/ivs/kvert/index_eng.php",
+      "text": "KVERT — Kamchatka Volcanic Eruption Response Team",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://avo.alaska.edu/",
+      "text": "Alaska Volcano Observatory",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "klyuchevskoy",
+      "sheveluch",
+      "tambora",
+      "aso"
+    ],
+    "country_pages": [
+      "russia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "klyuchevskoy",
+    "sheveluch",
+    "mutnovsky",
+    "ksudach",
+    "aso"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "label": "Gorely Volcano",
+      "url": "/volcano/gorely"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/gorely"
+}

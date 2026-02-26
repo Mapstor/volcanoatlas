@@ -1,0 +1,425 @@
+{
+  "slug": "planchon-peteroa",
+  "volcano_id": 357040,
+  "title": "Planchón-Peteroa",
+  "meta_title": "Planchón-Peteroa Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Planchón-Peteroa is a 3,977 m active stratovolcano complex on the Chile-Argentina border. Full eruption history, hazard info, and current status.",
+  "quick_answer": {
+    "what": "Planchón-Peteroa is an elongated complex of overlapping stratovolcanoes and calderas on the Chile-Argentina border, reaching 3,977 m (13,048 ft) in the Southern Andes.",
+    "status": "Active — last erupted in 2025. Has produced 25 recorded eruptions since ~5080 BCE, with frequent low-level activity from the Peteroa vents.",
+    "famous_for": "The catastrophic Río Teno debris avalanche approximately 11,500 years ago, when much of the complex collapsed and produced a landslide that traveled 95 km — one of the longest volcanic debris avalanches documented in the Andes.",
+    "danger_level": "Moderate — the remote border location limits immediate population exposure, but lahars could travel far downstream and the 1762 VEI 4 eruption demonstrated significant explosive potential."
+  },
+  "hero": {
+    "name": "Planchón-Peteroa",
+    "local_name": "Complejo Volcánico Planchón-Peteroa",
+    "subtitle": "A Restless Volcanic Complex on the Andean Divide",
+    "country": "Chile",
+    "region": "Maule Region / Mendoza Province (Argentina)",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 3977,
+    "elevation_ft": 13048,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -35.223,
+      "lon": -70.568
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06930.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "3,977 m (13,048 ft)",
+    "type": "Stratovolcano complex",
+    "status": "Active",
+    "last_eruption": "October 25, 2025",
+    "first_known_eruption": "~5080 BCE",
+    "total_recorded_eruptions": 25,
+    "vei_max": "4 (1762)",
+    "country": "Chile / Argentina border",
+    "region": "Maule Region, Chile / Mendoza Province, Argentina",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite",
+      "Dacite"
+    ],
+    "coordinates": "35.223°S, 70.568°W",
+    "nearest_city": "Malargüe, Argentina — ~80 km east",
+    "population_at_risk": "Low immediate population but downstream lahar risk to agricultural valleys",
+    "summit_crater": "Peteroa crater with small steaming lake",
+    "monitoring_agency": "SERNAGEOMIN (Chile) / OAVV-SEGEMAR (Argentina)",
+    "smithsonian_id": "357040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=357040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Planchón-Peteroa is an active complex of overlapping <a href=\"/types-of-volcanoes\">stratovolcanoes</a> straddling the Chile-Argentina border in the Southern Andes, reaching 3,977 m (13,048 ft) at its highest point. The volcanic complex comprises three principal edifices — Volcán Azufre, Volcán Planchón, and Volcán Peteroa — arranged along a roughly north-south axis within a chain of overlapping calderas. Peteroa, the youngest and currently active center, contains scattered vents between its older siblings and hosts a small steaming crater lake that serves as a persistent indicator of hydrothermal activity. With 25 recorded eruptions spanning over 7,000 years, Planchón-Peteroa ranks among the more frequently active volcanoes in <a href=\"/volcanoes-in-chile\">Chile's</a> southern volcanic zone. The complex is perhaps most remarkable for the catastrophic Río Teno debris avalanche approximately 11,500 years ago, when a massive sector collapse of Volcán Azufre and part of Planchón sent a landslide racing 95 km westward across Chile's Central Valley — one of the longest runout distances documented for any volcanic debris avalanche in South America. Historical eruptions have been dominantly explosive, though lava flows were emplaced in 1837 and 1937. The most powerful historical event, a <a href=\"/volcanic-explosivity-index\">VEI</a> 4 eruption in 1762, demonstrated the complex's capacity for significant explosive activity. Most recent activity includes ash emissions and phreatic eruptions from the Peteroa vents in 2018–2019 and a confirmed eruption in October 2025."
+    },
+    "geology_and_formation": {
+      "content": "Planchón-Peteroa owes its existence to the subduction of the Nazca Plate beneath the South American Plate, the tectonic engine driving volcanism along the entire Andean chain. The complex sits within the Southern Volcanic Zone (SVZ), a chain of approximately 60 historically active volcanoes extending from central Chile to Patagonia. Volcanic construction began during the Pleistocene with the oldest center, Volcán Azufre, which produced basaltic-andesitic to dacitic lavas. Volcán Planchón was built 6 km to the north, erupting predominantly basaltic and basaltic-andesitic magma. Approximately 11,500 years ago, a catastrophic sector collapse destroyed much of Azufre and part of Planchón, generating the enormous Río Teno debris avalanche. This landslide traveled 95 km westward to reach Chile's Central Valley, leaving behind hummocky terrain and a massive amphitheater-shaped scar. Following the collapse, Volcán Planchón II was constructed within the breach. The youngest volcanic center, Volcán Peteroa, subsequently developed between Azufre and Planchón, with andesitic and basaltic-andesitic vents scattered across the inter-edifice saddle area. The complex's elongated north-south geometry reflects the regional tectonic stress field, and its multiple overlapping calderas record a history of repeated construction and collapse cycles. Magma compositions ranging from basalt to dacite indicate a heterogeneous plumbing system that has tapped different levels of the crust over time."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program documents 25 eruptions for Planchón-Peteroa, spanning from approximately 5080 BCE to October 2025. The earliest confirmed eruption, around 5080 BCE, reached VEI 3. Historical eruptions have been dominated by activity from the Peteroa vents, with the 1762 VEI 4 eruption marking the most explosive event of the historical period. The 19th century was particularly active, with eruptions recorded in 1835, 1837, 1860, 1869, 1872, 1878, and an extended episode from 1889 to 1894. The 20th century brought further eruptions in 1937 (with lava flows), 1938, 1959, 1960, 1962, 1967, 1991, and 1998. The 21st century has continued the pattern with events in 2010, 2011, 2018–2019, and 2025. Most historical eruptions have been small to moderate (VEI 1–2), characterized by phreatic explosions, ash emissions, and fumarolic intensification, though the complex has demonstrated the capacity for significantly larger events."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~11,500 BP Sector Collapse — The Río Teno Debris Avalanche",
+          "content": "The defining geological event in Planchón-Peteroa's history is the massive sector collapse approximately 11,500 years ago that destroyed much of Volcán Azufre and a portion of Volcán Planchón. The resulting debris avalanche — known as the Río Teno debris avalanche — traveled an extraordinary 95 km westward, crossing Chile's Central Valley and ranking among the longest volcanic landslide runout distances ever documented in the Andes. The collapse volume has been estimated at several cubic kilometers, and the avalanche deposit left a distinctive hummocky topography across the Río Teno valley that remains visible today. The event carved the massive amphitheater that now defines the western flank of the complex. Had such a collapse occurred in modern times, it would have been catastrophic for the agricultural communities downstream. The collapse was likely triggered by a combination of volcanic activity, gravitational instability of the oversteepened edifice, and possibly regional seismicity."
+        },
+        {
+          "title": "The 1762 Eruption — Planchón-Peteroa's Largest Historical Event (VEI 4)",
+          "content": "The most powerful historical eruption at Planchón-Peteroa began on December 3, 1762, from a vent 2 km south of the Planchón summit, within the Peteroa crater area. This VEI 4 event produced a significant eruption column and widespread tephra fall across both the Chilean and Argentine sides of the Andes. The eruption was substantially larger than any subsequent historical activity and demonstrated that the complex remains capable of explosive eruptions well beyond the low-level phreatic events that characterize most of its recent behavior. At VEI 4, this eruption was comparable in magnitude to events at other Southern Andean volcanoes such as <a href=\"/volcano/villarrica\">Villarrica</a> and <a href=\"/volcano/llaima\">Llaima</a>, and serves as a critical benchmark for hazard assessments."
+        },
+        {
+          "title": "The 1889–1894 Eruption — Extended Activity Episode",
+          "content": "An extended eruption beginning in September 1889 continued intermittently until 1894, making it the longest-duration historical eruption at Planchón-Peteroa. Activity was centered on a new crater southeast of the 1762 vent, within the Peteroa area. The eruption produced sustained ash emissions at VEI 2 over a five-year span, with periods of heightened explosive activity alternating with quieter phases. This prolonged episode illustrated the complex's tendency toward extended unrest sequences rather than brief, discrete eruptions — a pattern that has repeated in the 20th and 21st centuries."
+        },
+        {
+          "title": "The 2010–2011 and 2018–2019 Eruptions — Modern Unrest",
+          "content": "Planchón-Peteroa entered a renewed phase of unrest in September 2010 with an eruption from the Peteroa vents reaching VEI 2, followed by a VEI 2 eruption in February 2011. After several years of relative quiet, activity resumed in November 2018 with a VEI 1 eruption that continued into early 2019. These modern events, while modest in scale, have been valuable for Chilean and Argentine monitoring agencies in calibrating their surveillance networks and testing cross-border alert protocols. SERNAGEOMIN (Chile) and OAVV-SEGEMAR (Argentina) jointly monitor the complex, given its position directly on the international border. Ash from the 2011 eruption drifted eastward over Argentine Patagonia, a reminder that even small eruptions at this complex can affect populations far from the summit."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Planchón-Peteroa is classified as active and produced a confirmed eruption on October 25, 2025. The complex is jointly monitored by SERNAGEOMIN (Servicio Nacional de Geología y Minería) in Chile and OAVV-SEGEMAR in Argentina, reflecting its position on the international border. The monitoring network includes seismometers, webcams, satellite-based gas and thermal monitoring, and periodic field surveys. The Peteroa crater lake provides a useful indicator of hydrothermal and magmatic changes: its temperature, color, and pH fluctuate in response to changes in the underlying heat and gas flux. Between eruptions, persistent fumarolic activity and periodic increases in seismic tremor maintain the complex at a baseline elevated state. SERNAGEOMIN maintains a color-coded alert level system, and the complex has been raised to Yellow or Orange alert on multiple occasions in recent years. The 2025 eruption underscores the ongoing vitality of this volcanic system."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Despite its relatively remote location on the Andean divide, Planchón-Peteroa poses several significant volcanic hazards. The most far-reaching threat is lahars — volcanic mudflows generated when eruptions melt summit glaciers and snowfields or when the crater lake is ejected. The Río Teno drainage to the west and the Río Grande drainage to the east could channel lahars toward agricultural communities and infrastructure. The catastrophic 11,500 BP debris avalanche demonstrates the extreme upper bound of mass-flow hazards at this complex. Ashfall from moderate eruptions can reach populated areas in both Chile and Argentina; the 2011 eruption deposited ash across western Argentina. Pyroclastic flows from larger eruptions (VEI 3–4) could travel several kilometers from the summit vents. The complex's position at over 3,900 m elevation means that eruptions interact with year-round snow and ice cover, amplifying lahar potential. Cross-border hazard coordination between Chile and Argentina is essential given that impact zones straddle the international boundary."
+    },
+    "geography_and_physical_description": {
+      "content": "Planchón-Peteroa forms an elongated volcanic massif oriented roughly north-south along the crest of the Andes at the Chile-Argentina border, approximately 35°S latitude. The complex extends roughly 10 km from Volcán Planchón in the north (3,977 m / 13,048 ft) through Volcán Peteroa in the center to Volcán Azufre in the south. Multiple overlapping calderas and amphitheater-shaped collapses scar the edifice, testament to repeated episodes of destruction and reconstruction. The Peteroa area, between the older edifices, hosts the active vents and a small crater lake that steams persistently. The surrounding landscape is characterized by high-altitude Andean steppe, with glaciers and perennial snowfields capping the upper slopes. River valleys radiate from the complex — the Río Teno flows westward into Chile's Central Valley, while the Río Grande drains eastward toward the Argentine city of Malargüe, approximately 80 km to the east. Access is challenging, requiring unpaved mountain roads from either the Chilean or Argentine side, and the summit area is typically snow-covered for much of the year."
+    },
+    "climate_and_global_impact": {
+      "content": "None of Planchón-Peteroa's historical eruptions have been large enough to produce measurable global climate effects. The 1762 VEI 4 eruption would have injected sulfur aerosols into the upper troposphere, but any climate signature has not been clearly identified in proxy records. The primary atmospheric impacts of eruptions at this complex are regional: ashfall affecting agriculture and air quality in central Chile and western Argentina, and SO₂ emissions contributing to local acid rain. The complex's most significant environmental impact is the potential for lahars to contaminate river systems used for irrigation and drinking water downstream."
+    },
+    "cultural_significance": {
+      "content": "Planchón-Peteroa occupies a landscape steeped in Andean frontier culture, straddling the international boundary that has defined Chilean-Argentine relations since the 19th century. The complex sits along historical trans-Andean trade and migration routes used for centuries by indigenous Pehuenche communities and later by Chilean and Argentine settlers. The name 'Peteroa' is derived from the Mapudungun language, and the volcanoes feature in regional folklore about the restless spirits of the mountains. The nearby Paso Vergara and Paso Planchón cross-border routes have been historically important connections between central Chile and the Argentine province of Mendoza. Modern significance centers on the complex's role in binational volcanic hazard management — Planchón-Peteroa serves as a test case for cross-border monitoring cooperation in South America."
+    },
+    "visiting_and_tourism": {
+      "content": "Planchón-Peteroa is not a mainstream tourist destination, but it attracts mountaineers and volcanologists drawn to its remote Andean setting and complex geological features. Access from the Chilean side is typically via unpaved roads from the Maule Region, while the Argentine approach follows routes from Malargüe in Mendoza Province. No formal tourism infrastructure exists at the volcano itself, and visitors should be prepared for high-altitude conditions, unpredictable weather, and the possibility of volcanic hazards. The surrounding region offers Andean trekking, hot springs, and access to the broader Southern Andes wilderness. Visitors should check current volcanic alert levels with SERNAGEOMIN or SEGEMAR before approaching the complex."
+    },
+    "nearby_volcanoes": {
+      "content": "Planchón-Peteroa sits within the Southern Volcanic Zone of the Andes, surrounded by other active volcanoes along the Chile-Argentina border. Descabezado Grande lies approximately 60 km to the north, while <a href=\"/volcano/llaima\">Llaima</a> and <a href=\"/volcano/villarrica\">Villarrica</a> are further south along the chain. The San Pedro-Pellado volcanic complex is nearby. Together, these volcanoes form part of a dense concentration of active centers in <a href=\"/volcanoes-in-chile\">Chile's</a> Maule, Biobío, and Araucanía regions, making this segment of the Andes one of the most volcanically active in South America."
+    },
+    "etymology": {
+      "content": "The complex takes its dual name from its two principal active components. 'Planchón' refers to the northern edifice and derives from Spanish, likely describing a flat or broad surface feature. 'Peteroa' comes from the Mapudungun language of the Mapuche people, the indigenous inhabitants of central Chile and Argentina. The older volcanic center, Volcán Azufre, takes its name from the Spanish word for sulfur, reflecting the pervasive sulfurous fumarolic emissions at the site."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Planchón-Peteroa Compared to Southern Andean Volcanoes",
+      "description": "How does this complex compare to other active volcanoes in Chile's Southern Volcanic Zone?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Planchón-Peteroa",
+          "Chile-Argentina",
+          "3,977 m",
+          "Stratovolcano complex",
+          "2025",
+          "4",
+          "25"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "57"
+        ],
+        [
+          "Llaima",
+          "Chile",
+          "3,125 m",
+          "Stratovolcano",
+          "2009",
+          "4",
+          "51"
+        ],
+        [
+          "Copahue",
+          "Chile-Argentina",
+          "2,997 m",
+          "Stratovolcano",
+          "2020",
+          "2",
+          "14"
+        ],
+        [
+          "Nevados de Chillán",
+          "Chile",
+          "3,212 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "14"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -5080,
+      "vei": 3,
+      "label": "Oldest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 900,
+      "vei": 3,
+      "label": "Medieval period eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1660,
+      "vei": 3,
+      "label": "Significant explosive eruption from Peteroa",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1762,
+      "vei": 4,
+      "label": "Largest historical eruption — major explosive event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1837,
+      "vei": 2,
+      "label": "Eruption with lava flows from Peteroa",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1889,
+      "vei": 2,
+      "label": "Start of 5-year eruption episode (1889–1894)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1937,
+      "vei": 2,
+      "label": "Eruption with lava flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1991,
+      "vei": 2,
+      "label": "Modern explosive eruption from Peteroa",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2010,
+      "vei": 2,
+      "label": "21st-century reactivation",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2018,
+      "vei": 1,
+      "label": "Ash emissions from Peteroa crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 1,
+      "note": "~5080 BCE, VEI 3"
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 2,
+      "note": "Including VEI 4 in 1762"
+    },
+    {
+      "century": "19th",
+      "count": 8,
+      "note": "Most active historical century"
+    },
+    {
+      "century": "20th",
+      "count": 7
+    },
+    {
+      "century": "21st",
+      "count": 5,
+      "note": "2010, 2011, 2018–2019, 2025"
+    }
+  ],
+  "facts": [
+    "The Río Teno debris avalanche, triggered by a sector collapse approximately 11,500 years ago, traveled 95 km from the summit to Chile's Central Valley — one of the longest volcanic landslide runout distances in the Andes.",
+    "Planchón-Peteroa straddles the Chile-Argentina border, making it one of the few volcanoes jointly monitored by two nations' geological agencies.",
+    "The complex comprises three distinct volcanic centers — Azufre, Planchón, and Peteroa — built over different geological periods from the Pleistocene to the Holocene.",
+    "Lava flows were emplaced during both the 1837 and 1937 eruptions, the only confirmed effusive events in the complex's historical record.",
+    "The 1762 eruption reached VEI 4, making it the largest explosive eruption in the complex's written history and comparable to major events at Villarrica and Llaima.",
+    "Peteroa's crater lake serves as a natural thermometer — changes in its temperature, color, and chemistry provide early warning of shifts in volcanic activity.",
+    "Volcán Azufre, the oldest center in the complex, produced lavas ranging from basaltic andesite to dacite, indicating a chemically diverse magmatic system.",
+    "The 1889–1894 eruption lasted approximately five years, the longest continuous eruptive episode documented at Planchón-Peteroa.",
+    "The complex's elongated north-south geometry spans approximately 10 km along the Andean crest.",
+    "Planchón-Peteroa erupted as recently as October 2025, confirming its status as one of Chile's most persistently active volcanic systems.",
+    "The name 'Peteroa' derives from the Mapudungun language of the indigenous Mapuche people.",
+    "Ash from the 2011 eruption drifted eastward across the Andes into Argentine Patagonia, affecting areas hundreds of kilometers from the summit."
+  ],
+  "faqs": [
+    {
+      "question": "Is Planchón-Peteroa still active?",
+      "answer": "Yes, Planchón-Peteroa is an active volcanic complex that most recently erupted on October 25, 2025. The complex has produced 25 recorded eruptions since approximately 5080 BCE, with activity in every century since the 17th. Persistent fumarolic emissions and a steaming crater lake at the Peteroa vents indicate ongoing magmatic and hydrothermal processes. SERNAGEOMIN in Chile and SEGEMAR in Argentina jointly monitor the complex with seismometers, webcams, and satellite-based instruments. Volcanologists consider future eruptions highly likely."
+    },
+    {
+      "question": "Where is Planchón-Peteroa located?",
+      "answer": "Planchón-Peteroa straddles the international border between Chile and Argentina in the Southern Andes at approximately 35°S latitude. On the Chilean side, it falls within the Maule Region; on the Argentine side, it lies in Mendoza Province. The nearest significant town is Malargüe, Argentina, approximately 80 km to the east. The complex sits at high altitude along the Andean crest, with its highest point at 3,977 m (13,048 ft). Access requires unpaved mountain roads from either country."
+    },
+    {
+      "question": "What was the Río Teno debris avalanche?",
+      "answer": "The Río Teno debris avalanche was a catastrophic volcanic landslide that occurred approximately 11,500 years ago when a large portion of Volcán Azufre and part of Volcán Planchón collapsed. The resulting debris avalanche traveled an extraordinary 95 km westward across Chile's Central Valley, making it one of the longest-runout volcanic landslides documented in South America. The collapse left a massive amphitheater-shaped scar on the complex's western flank and deposited hummocky terrain across the Río Teno valley that remains visible in the landscape today."
+    },
+    {
+      "question": "How tall is Planchón-Peteroa?",
+      "answer": "The highest point of the Planchón-Peteroa complex reaches 3,977 m (13,048 ft) above sea level at the summit of Volcán Planchón, the northern edifice. The active Peteroa vents are situated at somewhat lower elevations between Planchón and the older Volcán Azufre to the south. The complex's high altitude means that the upper slopes are covered by glaciers and perennial snowfields, which increase the lahar hazard during eruptions."
+    },
+    {
+      "question": "What type of volcano is Planchón-Peteroa?",
+      "answer": "Planchón-Peteroa is classified as a complex of stratovolcanoes — meaning it consists of multiple overlapping volcanic centers rather than a single cone. The complex includes three principal edifices: Volcán Azufre (the oldest), Volcán Planchón, and Volcán Peteroa (the youngest and currently active center). This multi-center structure is common in long-lived volcanic systems where the active vent migrates over time. The complex produces predominantly andesitic and basaltic-andesitic magma, with some dacitic products from older eruptions."
+    },
+    {
+      "question": "When did Planchón-Peteroa last erupt?",
+      "answer": "The most recent confirmed eruption at Planchón-Peteroa began on October 25, 2025. Prior to this, the complex erupted in November 2018 through early 2019, producing ash emissions from the Peteroa crater at VEI 1. The 21st century has seen eruptions in 2010, 2011, 2018–2019, and 2025, maintaining Planchón-Peteroa's status as one of the most frequently active volcanoes in Chile's Southern Volcanic Zone."
+    },
+    {
+      "question": "Is Planchón-Peteroa dangerous?",
+      "answer": "Planchón-Peteroa's remote high-altitude location on the Andean border limits the immediate population at risk, but the volcano poses real dangers. The 1762 VEI 4 eruption shows it is capable of significant explosive events. Lahars generated by eruptions melting summit snow and ice could travel far downstream through the Río Teno and Río Grande valleys. The 11,500 BP sector collapse and 95-km debris avalanche demonstrate the extreme upper bound of hazard at this complex. Ashfall can reach populated areas in both Chile and Argentina."
+    },
+    {
+      "question": "Can you visit Planchón-Peteroa?",
+      "answer": "Planchón-Peteroa can be visited by experienced mountaineers and adventurous travelers, though it lacks formal tourism infrastructure. Access from Chile is via unpaved roads from the Maule Region, while the Argentine approach follows routes from Malargüe in Mendoza Province. Visitors should be prepared for high-altitude conditions above 3,500 m, extreme weather, and potential volcanic hazards. Always check current alert levels with SERNAGEOMIN or SEGEMAR before approaching. The surrounding Andean landscape offers trekking and hot springs."
+    }
+  ],
+  "people_also_search": [
+    "planchon peteroa eruption",
+    "planchon peteroa volcano chile",
+    "volcanoes chile argentina border",
+    "southern andes volcanoes",
+    "rio teno debris avalanche",
+    "peteroa crater lake"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Planchón-Peteroa",
+    "alternateName": [
+      "Complejo Volcánico Planchón-Peteroa",
+      "Peteroa"
+    ],
+    "description": "Active stratovolcano complex on the Chile-Argentina border known for the catastrophic Río Teno debris avalanche",
+    "geo": {
+      "latitude": -35.223,
+      "longitude": -70.568,
+      "elevation": 3977
+    },
+    "containedInPlace": {
+      "name": "Maule Region / Mendoza Province",
+      "country": "Chile / Argentina"
+    },
+    "url": "https://volcanoatlas.com/volcano/planchon-peteroa"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=357040",
+      "text": "Smithsonian GVP: Planchón-Peteroa",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile National Geology and Mining Service",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Andes-Mountains",
+      "text": "Britannica: Andes Mountains",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "villarrica",
+      "llaima",
+      "copahue",
+      "cerro-hudson"
+    ],
+    "country_pages": [
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "villarrica",
+    "llaima",
+    "copahue",
+    "nevados-de-chillan",
+    "hudson-cerro"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Planchón-Peteroa",
+      "url": "/volcano/planchon-peteroa"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/planchon-peteroa"
+}

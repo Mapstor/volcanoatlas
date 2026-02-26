@@ -1,0 +1,601 @@
+{
+  "slug": "hekla",
+  "volcano_id": 372070,
+  "title": "Hekla Volcano",
+  "meta_title": "Hekla — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Hekla is a 1,491 m active stratovolcano in southern Iceland with 65 eruptions. Full eruption history from 1104 to 2000, status, and visitor guide.",
+  "quick_answer": {
+    "what": "Hekla is an active stratovolcano in southern Iceland, rising to 1,491 m (4,892 ft) near the junction of Iceland's eastern rift zone and the South Iceland Seismic Zone.",
+    "status": "Active — last erupted February 26, 2000. Continuously monitored. Considered likely to erupt again with very short warning time.",
+    "famous_for": "Medieval Europeans believed Hekla was one of the gateways to Hell. Its 1104 CE eruption (VEI 5) — the first in recorded Icelandic history — devastated farmlands and its fluorine-rich tephra serves as a key chronological marker across Iceland.",
+    "danger_level": "Moderate-to-high — Hekla's eruptions begin with almost no seismic warning (as little as 30–80 minutes), making it one of the most unpredictable active volcanoes in the world."
+  },
+  "hero": {
+    "name": "Hekla",
+    "local_name": "Hekla",
+    "subtitle": "The Gateway to Hell — Iceland's Most Famous Volcano",
+    "country": "Iceland",
+    "region": "Southern Iceland",
+    "type": "Stratovolcano",
+    "elevation_m": 1491,
+    "elevation_ft": 4892,
+    "status": "Active",
+    "last_eruption": "2000",
+    "coordinates": {
+      "lat": 63.983,
+      "lon": -19.666
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06068.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,491 m (4,892 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "February 26 – March 8, 2000",
+    "first_known_eruption": "~5850 BCE",
+    "total_recorded_eruptions": 65,
+    "vei_max": "5 (5150 BCE, 4110 BCE, 2310 BCE, 1100 BCE, 1104 CE)",
+    "country": "Iceland",
+    "region": "Southern Iceland, Eastern Volcanic Zone",
+    "tectonic_setting": "Rift zone — rift-transform junction on oceanic crust (< 15 km thick)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite",
+      "Dacite",
+      "Rhyolite"
+    ],
+    "coordinates": "63.983°N, 19.666°W",
+    "nearest_city": "Hella — ~40 km southwest",
+    "fissure_length": "Heklugjá summit fissure — 5.5 km long",
+    "associated_system": "Hekla-Vatnafjöll volcanic system — 40 km long, 9 km wide",
+    "warning_time": "Typically 30–80 minutes of seismic precursor before eruption onset",
+    "monitoring_agency": "Icelandic Meteorological Office (IMO)",
+    "smithsonian_id": "372070",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=372070"
+  },
+  "sections": {
+    "overview": {
+      "content": "Hekla is one of <a href=\"/volcanoes-in-iceland\">Iceland's</a> most prominent and historically significant active volcanoes, a 1,491 m (4,892 ft) <a href=\"/types-of-volcanoes\">stratovolcano</a> situated near the southern end of the Eastern Volcanic Zone, approximately 110 km (68 mi) east of Reykjavík. With 65 recorded eruptions spanning nearly 8,000 years, Hekla is among the most active volcanoes in Iceland and in all of Europe. The volcano occupies a tectonically unique position at a rift-transform junction, which gives it an unusual geochemical signature: while most Icelandic rift volcanoes produce tholeiitic basalt, Hekla characteristically erupts basaltic andesite, andesite, and even dacite — a compositional range more typical of subduction zone volcanoes. Hekla's most striking physical feature is its elongated ENE–WSW profile, shaped by repeated eruptions along the 5.5 km-long Heklugjá summit fissure. In medieval Europe, Hekla's frequent and violent eruptions earned it a fearsome reputation as one of the gateways to Hell, and the volcano was depicted in medieval maps alongside demons and the damned. Since the first historically recorded eruption in 1104 CE, Hekla has erupted at least 23 times, with its most recent eruption occurring on February 26, 2000. The volcano is considered very likely to erupt again, and its notoriously short warning time — as little as 30–80 minutes of seismic activity before eruption onset — makes it one of the most dangerous volcanoes to be near when it reawakens. Hekla's fluorine-rich tephra layers serve as critical chronological markers in Icelandic soil stratigraphy and archaeology, making the volcano invaluable to scientific disciplines well beyond volcanology."
+    },
+    "geology_and_formation": {
+      "content": "Hekla occupies a tectonically exceptional position at the junction of Iceland's Eastern Volcanic Zone (a divergent plate boundary) and the South Iceland Seismic Zone (a transform zone), where the Mid-Atlantic Ridge makes a leftward step across the island. This rift-transform junction generates a complex stress field that explains several of Hekla's distinctive characteristics. The Hekla-Vatnafjöll volcanic system encompasses a 40 km-long, 9 km-wide complex of basaltic fissures and crater rows extending southeast from the main Hekla edifice. The summit is bisected by the Heklugjá fissure, a 5.5 km-long rift that is often active along its entire length during major eruptions, producing spectacular curtains of fire. The fissure's orientation is oblique to most rifting structures in the Eastern Volcanic Zone, and repeated eruptions along it have built Hekla's characteristic elongated ridge profile — resembling an upturned boat when viewed from certain angles (the name Hekla may derive from an Old Norse word for a hooded cloak). Unlike the tholeiitic basalts typical of Icelandic rift zone volcanoes, Hekla produces a bimodal compositional suite ranging from basaltic andesite to rhyolite. This unusual chemistry reflects the interaction between the rift and transform stress regimes, which creates conditions for more extensive magma differentiation. A significant pattern in Hekla's behavior is that the composition of the first erupted material correlates with the length of the preceding repose period: longer dormancy produces more silica-rich (and thus more explosive) initial eruptions, as the magma chamber has more time for fractional crystallization. This relationship makes Hekla a natural laboratory for studying magmatic evolution. The volcano has been constructed primarily during the Holocene over the last ~7,000 years, with the Heklugjá fissure serving as the primary conduit throughout."
+    },
+    "eruption_history_overview": {
+      "content": "Hekla's eruption record spans approximately 7,800 years, with 65 confirmed eruptions identified through tephrochronology, historical annals, and modern monitoring. The prehistoric record (before 1104 CE) includes at least 40 eruptions, five of which reached <a href=\"/volcanic-explosivity-index\">VEI 5</a> — the explosive equivalent of the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a>. Since Iceland's settlement around 874 CE, Hekla has produced 23 historically documented eruptions, establishing one of the most complete eruption chronicles in the world. The historical period reveals a striking pattern: major explosive eruptions (VEI 4–5) tend to follow long repose periods (60–120+ years), while smaller eruptions (VEI 2–3) occur after shorter intervals (9–13 years). The four most recent eruptions — 1970, 1980, 1991, and 2000 — followed intervals of 23, 10, 11, and 9 years respectively, with progressively lower VEI ratings (3, 3, 3, 3), suggesting the volcano was in a phase of frequent, moderate-sized eruptions. As of 2026, the current repose period of 26 years exceeds the 10–23 year spacing of the previous four eruptions, and there is concern that a longer dormancy could produce a larger initial eruption, following Hekla's established pattern."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1104 CE Eruption — Hekla's Introduction to History",
+          "content": "The eruption of October 15, 1104, was the first historically documented eruption of Hekla and one of the most powerful volcanic events in medieval Iceland. Rated <a href=\"/volcanic-explosivity-index\">VEI 5</a>, it produced enormous volumes of tephra that devastated the Þjórsárdalur valley, one of Iceland's most fertile agricultural regions. The eruption buried farms under thick layers of pumice and ash, and the valley was largely abandoned — some farms were not resettled for centuries. The H1 tephra layer from this eruption serves as one of Iceland's most important tephrochronological markers, identifiable across much of the island and even in European peat bogs and Greenland ice cores. The eruption's enormous explosive power reflected approximately 250 years of magma accumulation since the previous eruption (~1050 CE), consistent with Hekla's pattern of larger eruptions following longer repose periods. The 1104 eruption cemented Hekla's reputation among medieval Europeans: Cistercian monks soon after described the volcano as a prison of the damned, and by the 12th century, Hekla was firmly established in European consciousness as one of the entrances to Hell."
+        },
+        {
+          "title": "The 1300–1301 Eruption — Destruction During the Medieval Warm Period",
+          "content": "Beginning on July 11, 1300, this VEI 4 eruption lasted over a year and produced extensive lava flows and tephra fall. The eruption occurred during a period of relative prosperity in medieval Iceland, and its destruction of grazing land through fluorine-rich ashfall had severe consequences for livestock and the farming communities that depended on them. The 1300 eruption was followed by additional eruptions in 1341 and 1389, establishing a pattern of increased activity throughout the 14th century. Lava flows from the 1300–1301 eruption covered significant areas of the volcano's flanks and are still visible today."
+        },
+        {
+          "title": "The 1766–1768 Eruption — Hekla's Longest Historical Eruption",
+          "content": "Beginning on April 5, 1766, this VEI 4 eruption was notable for its extended duration of over two years — the longest historically documented eruption of Hekla. The eruption produced both explosive tephra emissions and extensive lava flows from the Bjallagígar vents. Fluorine-contaminated ashfall poisoned livestock across a wide area of southern Iceland, contributing to severe agricultural hardship. The eruption occurred during the harsh climatic conditions of the Little Ice Age, compounding its impact on Iceland's already struggling population. The 1766–1768 event was followed by almost 80 years of quiescence before the 1845 eruption."
+        },
+        {
+          "title": "The 1947–1948 Eruption — Hekla Reawakens in the Modern Era",
+          "content": "After 102 years of dormancy (the longest historical repose period at the time), Hekla erupted on March 29, 1947, in a powerful VEI 4 event that lasted approximately 13 months. The eruption began with a spectacular opening phase along the entire 5.5 km Heklugjá summit fissure, producing a towering eruption column that reached approximately 30 km altitude within the first 30 minutes — the highest Hekla column in recorded history. The initial explosive phase produced highly silicic tephra (dacite to rhyolite), consistent with over a century of magma differentiation, before transitioning to basaltic andesite lava flows that covered approximately 40 km² of the volcano's flanks. This eruption confirmed the relationship between repose period length and initial eruption explosivity that scientists now recognize as a hallmark of Hekla's behavior. The eruption also provided the first instrumental seismic recordings of a Hekla eruption, significantly advancing scientific understanding of the volcano."
+        },
+        {
+          "title": "The 2000 Eruption — Hekla's Most Recent Event",
+          "content": "Hekla's most recent eruption began on February 26, 2000, with characteristic abruptness: seismic tremor was detected only 79 minutes before the eruption broke through the summit fissure. The VEI 3 eruption lasted approximately 11 days, producing lava flows that covered about 17 km² and a moderate tephra plume that disrupted local air traffic. The eruption followed the established pattern of the late 20th-century sequence (1970–1980–1991–2000) of relatively small, frequent eruptions at roughly 10-year intervals. Scientists observed the eruption in real time with modern monitoring equipment, providing unprecedented data on Hekla's eruptive processes. The extremely short warning time alarmed volcanologists and prompted the Icelandic Meteorological Office to issue strong advisories against hiking on Hekla, as climbers on or near the summit could be killed before any evacuation could take place. As of 2026, Hekla has been dormant for 26 years — significantly longer than the 9–23 year intervals of its previous four eruptions — raising concern about both the timing and potential magnitude of its next eruption."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Hekla is monitored continuously by the Icelandic Meteorological Office (IMO) using a network of seismometers, GPS receivers, strain meters (borehole strainmeters are particularly important for Hekla given its minimal seismic precursors), and gas sensors. The volcano presents a unique monitoring challenge: unlike most active volcanoes, which show days to weeks of escalating seismicity before erupting, Hekla typically provides only 30–80 minutes of warning. The 2000 eruption was preceded by just 79 minutes of detectable seismic tremor. GPS data collected since the 2000 eruption shows steady inflation of the volcanic edifice, indicating ongoing magma accumulation in a shallow chamber. Borehole strainmeters installed around Hekla can detect subtle crustal deformation that may provide slightly earlier warning than seismometers alone. The IMO maintains Hekla at an elevated uncertainty level and strongly advises against hiking on or near the summit, as the short warning time means that hikers on the mountain during an eruption could be exposed to lethal volcanic gases, tephra fall, and lava within minutes. Several popular hiking trails cross Hekla's slopes, and despite official warnings, hundreds of tourists and Icelanders climb the volcano each summer, creating an ongoing public safety concern. The current repose period of 26 years is the longest since the 1947 eruption ended a 102-year dormancy with a VEI 4 event, and the possibility that a longer repose could produce a more explosive initial eruption is a significant concern."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Hekla's hazard profile is dominated by three factors: its extreme brevity of warning time, the fluorine toxicity of its tephra, and the potential for large lava flows. The minimal seismic precursor (30–80 minutes) makes Hekla one of the most dangerous volcanoes in the world for anyone in its immediate vicinity — hikers on the summit during eruption onset would face near-certain death from explosive activity, volcanic gases (particularly fluorine-rich gases), and projectile tephra. During major eruptions, Hekla can project ballistic blocks up to 20 km from the summit. Tephra fall from Hekla eruptions poses a severe agricultural hazard across southern Iceland: the ash is characteristically enriched in fluorine, which binds to grass and poisons grazing livestock through dental and skeletal fluorosis. The 1104, 1300, 1693, 1766, and 1845 eruptions all caused significant livestock losses through fluorine contamination. Lava flows from Hekla can extend up to 20 km from the summit fissure, threatening farmland, infrastructure, and potentially blocking river valleys. The Hekla-Vatnafjöll system also includes fissure vents distributed across a 40 km zone, meaning eruptions can occur away from the main summit. Ashfall from a large Hekla eruption would disrupt Icelandic and potentially transatlantic aviation. The sparsely populated area surrounding Hekla means direct population risk is relatively low compared to volcanoes like <a href=\"/volcano/katla\">Katla</a> or <a href=\"/volcano/vesuvius\">Vesuvius</a>, but the volcano's unpredictability and the tourism pressures it faces make it a significant ongoing hazard."
+    },
+    "geography_and_physical_description": {
+      "content": "Hekla rises to 1,491 m (4,892 ft) above the highlands of southern Iceland, approximately 40 km northeast of the town of Hella. The volcano's most distinctive feature is its elongated ENE–WSW ridge profile, shaped by repeated eruptions along the 5.5 km-long Heklugjá summit fissure. When viewed from the east or west, Hekla presents a classic conical silhouette; from the north or south, however, its elongated profile is apparent, resembling the hull of an overturned boat. The summit ridge is typically snow-covered for much of the year, though volcanic heat keeps some areas bare. The Hekla-Vatnafjöll volcanic system extends approximately 40 km to the southeast, encompassing Vatnafjöll — a 9 km-wide swath of basaltic fissures, crater rows, and small shield volcanoes that have been active throughout the Holocene. The volcano's flanks are draped in extensive lava flows from historical eruptions, each distinguishable by its degree of weathering and moss colonization — the youngest (2000) appear as dark, barren basaltic andesite, while older flows (pre-1104) are blanketed in thick Icelandic moss. The landscape surrounding Hekla is a mosaic of lava fields, tephra-covered highlands, and the fertile farmland of the Þjórsárdalur and Rangárþing regions to the south. Several rivers originate on Hekla's slopes, and during eruptions these can be temporarily dammed or diverted by lava flows."
+    },
+    "climate_and_global_impact": {
+      "content": "Hekla's largest eruptions have had measurable climatic effects. The five prehistoric VEI 5 eruptions (approximately 5150, 4110, 2310, 1100 BCE, and 1104 CE) each injected substantial volumes of sulfur dioxide and tephra into the upper atmosphere. The 1104 CE eruption produced a detectable sulfate spike in Greenland ice cores, and European climate proxies show mild cooling in the years following. The 1159 eruption of Hekla (or possibly a closely timed eruption of another Icelandic volcano) has been proposed as a contributor to the 1159 BCE climate anomaly detected in Irish oak tree-ring records, though this attribution remains debated. Hekla's more moderate recent eruptions (VEI 3) had primarily local environmental effects. The volcano's tephra, however, has had outsized environmental impact through its fluorine content. The 1947 eruption's fluorine-laden ashfall killed approximately 30% of the livestock in affected districts of southern Iceland. In a global context, Hekla's climatic influence is modest compared to eruptions like <a href=\"/volcano/tambora\">Tambora</a> 1815 (VEI 7) or <a href=\"/volcano/pinatubo\">Pinatubo</a> 1991 (VEI 6), but a future VEI 5 eruption — possible if the current repose period extends further — could produce meaningful Northern Hemisphere cooling."
+    },
+    "cultural_significance": {
+      "content": "No Icelandic volcano looms larger in European cultural history than Hekla. Following the devastating 1104 CE eruption, Cistercian monk Herbert of Clairvaux described Hekla as a prison of the damned, and by the 13th century the volcano was firmly established across Europe as one of the gateways to Hell. The 1585 map Islandia by Abraham Ortelius depicted Hekla erupting with the Latin inscription 'Hekla, perpetuis damnata estib. et nivi, horrendo boatu lapides evomit' ('Hekla, condemned to eternal fire and ice, vomits stones with a horrible roar'). This infernal reputation persisted for centuries: as late as 1845, the eruption of Hekla was reported in European newspapers alongside speculation about the souls of the damned. The name Hekla itself likely derives from the Old Norse word for a short hooded cloak, possibly referring to the cloud cap that frequently crowns the summit. In Icelandic literature, Hekla features in several sagas and poems, and the volcano's tephrochronological record has proven invaluable to Icelandic archaeology — the distinct tephra layers from known Hekla eruptions (designated H1 through H5 for the major prehistoric events, and by date for historical eruptions) provide a dating framework for archaeological sites across the North Atlantic, from Scotland to Scandinavia. Today, Hekla remains one of Iceland's most iconic natural landmarks, featured prominently in tourism promotion, and its potential for sudden eruption is a recurring topic in Icelandic media."
+    },
+    "visiting_and_tourism": {
+      "content": "Hekla is one of Iceland's most popular hiking destinations, despite official warnings against climbing it. The volcano lies approximately 110 km east of Reykjavík, accessible via Route 1 and the F-road network (4WD required for closer approach). The most popular hiking route ascends from the Hekla parking area on the northwest side, climbing approximately 1,000 m of elevation gain over 7–8 km to the summit ridge — a challenging but non-technical hike taking 4–7 hours round trip. The summit offers panoramic views across Iceland's highlands, though cloud cover is frequent. The IMO and Icelandic Search and Rescue (ICE-SAR) strongly advise against climbing Hekla, noting that the volcano's 30–80 minute warning time means that hikers on or near the summit during an eruption would likely be killed before evacuation could occur. Despite these warnings, hundreds of people summit Hekla each year, primarily in summer. The Hekla Center (Heklusetur) in Leirubakki provides an exhibition about the volcano's history and geology. The surrounding Hekla lava fields, particularly the moss-covered 1845 and 1947 flows, are accessible by car and offer striking volcanic landscapes. The nearby Þjórsárdalur valley contains the reconstructed Viking-age farm Stöng, buried by Hekla's 1104 eruption."
+    },
+    "nearby_volcanoes": {
+      "content": "Hekla sits within the volcanic heartland of southern Iceland. The Vatnafjöll fissure system extends 40 km to the southeast, forming an integral part of the Hekla volcanic system with numerous Holocene basaltic eruptions. <a href=\"/volcano/katla\">Katla</a>, concealed beneath the Mýrdalsjökull ice cap approximately 60 km to the south, is one of Iceland's most powerful volcanoes with 131 recorded eruptions. <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> lies roughly 70 km to the southwest, its 2010 eruption demonstrating the potential for Icelandic volcanoes to disrupt global aviation. To the northeast, <a href=\"/volcano/bardarbunga\">Bárðarbunga</a> beneath the Vatnajökull ice cap produced the spectacular 2014–2015 Holuhraun fissure eruption. <a href=\"/volcano/grimsvotn\">Grímsvötn</a>, Iceland's most frequently erupting volcano, lies further northeast beneath Vatnajökull. The Torfajökull volcanic center, 20 km east of Hekla, is notable for its rhyolitic compositions and geothermal area. Together, these systems constitute one of the most volcanically productive regions on Earth."
+    },
+    "etymology": {
+      "content": "The name Hekla derives from the Old Norse word 'hekla,' meaning a short hooded cloak or cowl. The name likely refers to the cloud cap that frequently shrouds the volcano's summit. In medieval European tradition, Hekla became synonymous with Hell itself — the Latin 'Mons Heclae' appeared on maps as a gateway to the underworld. The Heklugjá summit fissure translates as 'Hekla's rift,' while Vatnafjöll means 'water mountains,' referring to the springs and streams that emerge from the fissure system."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Hekla Compared to Iceland's Most Active Volcanoes",
+      "description": "How does Hekla compare to the other major volcanic systems in Iceland?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Avg. Repose"
+      ],
+      "rows": [
+        [
+          "Hekla",
+          "Iceland",
+          "1,491 m",
+          "Stratovolcano",
+          "2000",
+          "5",
+          "65",
+          "~50 years (historical)"
+        ],
+        [
+          "Katla",
+          "Iceland",
+          "1,490 m",
+          "Subglacial",
+          "1918",
+          "5",
+          "131",
+          "~50 years (historical)"
+        ],
+        [
+          "Grímsvötn",
+          "Iceland",
+          "1,725 m",
+          "Subglacial caldera",
+          "2011",
+          "4",
+          "105+",
+          "~10 years"
+        ],
+        [
+          "Bárðarbunga",
+          "Iceland",
+          "2,009 m",
+          "Subglacial strato.",
+          "2015",
+          "6",
+          "26",
+          "~250 years"
+        ],
+        [
+          "Eyjafjallajökull",
+          "Iceland",
+          "1,651 m",
+          "Stratovolcano",
+          "2010",
+          "4",
+          "8",
+          "~200 years"
+        ]
+      ]
+    },
+    {
+      "title": "Hekla vs Similar Rift Zone Stratovolcanoes Worldwide",
+      "description": "Comparing Hekla to stratovolcanoes at divergent or transform plate boundaries.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Tectonic Setting",
+        "VEI Max",
+        "Last Eruption",
+        "Eruptions"
+      ],
+      "rows": [
+        [
+          "Hekla",
+          "Iceland",
+          "Stratovolcano",
+          "Rift-transform junction",
+          "5",
+          "2000",
+          "65"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "Stratovolcano",
+          "Subduction + rift",
+          "3",
+          "2025",
+          "190+"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "Shield",
+          "Rift zone",
+          "2",
+          "2023",
+          "22"
+        ],
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "Stratovolcano",
+          "Rift zone",
+          "2",
+          "2013",
+          "17"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "Shield",
+          "Hotspot",
+          "2",
+          "2025",
+          "180+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -5850,
+      "vei": null,
+      "label": "Earliest known eruption — Svinholdahraun lava flow",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5150,
+      "vei": 5,
+      "label": "Major VEI 5 explosive eruption (H5 tephra)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -4110,
+      "vei": 5,
+      "label": "VEI 5 explosive eruption (H4 tephra)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -2310,
+      "vei": 5,
+      "label": "VEI 5 explosive eruption (H-S tephra)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1100,
+      "vei": 5,
+      "label": "VEI 5 explosive eruption (H3 tephra)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1104,
+      "vei": 5,
+      "label": "First historical eruption — VEI 5, devastated Þjórsárdalur (H1 tephra)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1158,
+      "vei": 4,
+      "label": "VEI 4 eruption 54 years after 1104",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1300,
+      "vei": 4,
+      "label": "Major eruption lasting over a year",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1510,
+      "vei": 4,
+      "label": "VEI 4 eruption after 70-year repose",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1597,
+      "vei": 4,
+      "label": "VEI 4 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1693,
+      "vei": 4,
+      "label": "VEI 4 eruption after nearly a century of dormancy",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1766,
+      "vei": 4,
+      "label": "Longest historical eruption — continued until 1768",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1845,
+      "vei": 4,
+      "label": "VEI 4 eruption — last of the 'big' historical events",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1947,
+      "vei": 4,
+      "label": "Reawakening after 102 years — 30 km eruption column",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1970,
+      "vei": 3,
+      "label": "First of four rapid-succession eruptions",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1980,
+      "vei": 3,
+      "label": "VEI 3 eruption from summit and flanks",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1991,
+      "vei": 3,
+      "label": "VEI 3 eruption — summit and flank fissures",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2000,
+      "vei": 3,
+      "label": "Most recent eruption — 79 minutes warning time",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 34,
+      "note": "Eruptions from ~5850 BCE to ~150 BCE, including five VEI 5 events"
+    },
+    {
+      "century": "3rd",
+      "count": 1
+    },
+    {
+      "century": "4th",
+      "count": 1
+    },
+    {
+      "century": "6th",
+      "count": 1
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "8th",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 3,
+      "note": "1104 (VEI 5), 1158 (VEI 4), 1206 (VEI 3)"
+    },
+    {
+      "century": "13th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 2
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 3
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 3
+    },
+    {
+      "century": "20th",
+      "count": 6,
+      "note": "1913, 1947, 1970, 1980, 1991, 2000"
+    },
+    {
+      "century": "21st",
+      "count": 0,
+      "note": "Current repose period since 2000"
+    }
+  ],
+  "facts": [
+    "Medieval Europeans believed Hekla was one of the gateways to Hell — Cistercian monks in the 12th century described it as a prison of the damned, and this association persisted in European maps and literature for over 500 years.",
+    "Hekla gives almost no seismic warning before erupting — the 2000 eruption was preceded by only 79 minutes of detectable tremor, making it one of the most unpredictable active volcanoes on Earth.",
+    "The 1947 eruption produced an eruption column that reached approximately 30 km altitude within 30 minutes of onset — higher than most commercial aircraft fly.",
+    "Hekla's tephra is characteristically enriched in fluorine, making it highly toxic to livestock — the 1947 eruption killed approximately 30% of sheep in affected districts through fluorine poisoning.",
+    "Five VEI 5 tephra layers from Hekla (designated H5, H4, H-S, H3, and H1) serve as critical chronological markers used to date archaeological and geological sites across Iceland, Scotland, Scandinavia, and Ireland.",
+    "The 1104 CE eruption — Hekla's first historically recorded event — devastated the Þjórsárdalur valley so thoroughly that some farms were not resettled for centuries.",
+    "Hekla's eruption chemistry follows a predictable pattern: longer repose periods produce more silica-rich (and more explosive) initial eruptions, as magma has more time for fractional crystallization.",
+    "The 5.5 km Heklugjá summit fissure can erupt along its entire length simultaneously, producing 'curtains of fire' visible from great distances across southern Iceland.",
+    "Hekla produces basaltic andesite rather than the tholeiitic basalt typical of Icelandic rift volcanoes — a consequence of its position at a rift-transform junction, giving it a chemistry more like a subduction zone volcano.",
+    "Abraham Ortelius's 1585 map Islandia depicted Hekla erupting alongside the Latin inscription describing it as 'condemned to eternal fire and ice.'",
+    "Despite official warnings from the Icelandic Meteorological Office against climbing Hekla due to its minimal warning time, hundreds of tourists and locals summit the volcano each summer.",
+    "The reconstructed Viking-age farm Stöng in the Þjórsárdalur valley was buried by Hekla's 1104 eruption and excavated in 1939, providing one of Iceland's most important archaeological finds."
+  ],
+  "faqs": [
+    {
+      "question": "Is Hekla going to erupt soon?",
+      "answer": "Hekla is considered very likely to erupt again, though the exact timing cannot be predicted. The volcano's four most recent eruptions (1970, 1980, 1991, 2000) occurred at intervals of 10, 11, and 9 years, but as of 2026, it has been 26 years since the last eruption — the longest gap in this recent sequence. GPS data shows ongoing inflation, indicating magma accumulation. Hekla's established pattern suggests that longer repose periods produce more explosive initial eruptions: the 102-year gap before 1947 produced a VEI 4 event. The Icelandic Meteorological Office monitors Hekla continuously and considers it capable of erupting at any time."
+    },
+    {
+      "question": "Why is Hekla called the Gateway to Hell?",
+      "answer": "Hekla earned its infernal reputation following the devastating 1104 CE eruption (VEI 5), which was among the most violent volcanic events witnessed in medieval Europe. Cistercian monk Herbert of Clairvaux subsequently described Hekla as a prison of the damned, and over the following centuries, European mapmakers and writers depicted the volcano as one of the entrances to Hell. Abraham Ortelius's famous 1585 map of Iceland showed Hekla erupting alongside demons. The association persisted for over 500 years in European literature, art, and cartography, fueled by reports of each subsequent eruption."
+    },
+    {
+      "question": "How tall is Hekla?",
+      "answer": "Hekla stands at 1,491 m (4,892 ft) above sea level, making it one of southern Iceland's most prominent peaks. The summit ridge is formed by the 5.5 km-long Heklugjá fissure, giving the mountain its characteristic elongated profile. Hekla's height has fluctuated modestly over its eruptive history as successive eruptions add material to the summit while explosive events can remove it. The summit elevation is comparable to its neighbor Katla (1,490 m), though Katla's peak is the ice cap surface rather than rock."
+    },
+    {
+      "question": "Can you hike Hekla?",
+      "answer": "Hekla can be hiked, but the Icelandic Meteorological Office and Icelandic Search and Rescue strongly advise against it. The volcano's extremely short warning time — as little as 30–80 minutes before eruption onset — means that hikers on or near the summit during an eruption would likely be killed by explosive activity, volcanic gases, and projectile tephra before any evacuation could occur. Despite these warnings, hundreds of people summit Hekla each summer. The hike from the northwest parking area involves approximately 1,000 m of elevation gain over 7–8 km (4–7 hours round trip). The Hekla Center in Leirubakki provides information about the volcano's history and current status."
+    },
+    {
+      "question": "When did Hekla last erupt?",
+      "answer": "Hekla's most recent eruption began on February 26, 2000, and lasted approximately 11 days until March 8. Rated VEI 3, the eruption was preceded by only 79 minutes of seismic activity before lava burst through the summit fissure. The eruption produced lava flows covering approximately 17 km² and a moderate tephra plume. It was the fourth eruption in a rapid sequence (1970, 1980, 1991, 2000), each at intervals of 9–23 years. As of 2026, the current repose period of 26 years exceeds the spacing of the previous four eruptions."
+    },
+    {
+      "question": "What type of volcano is Hekla?",
+      "answer": "Hekla is classified as a stratovolcano (composite volcano), built from alternating layers of lava and tephra. However, it is unusual among stratovolcanoes because it sits on a divergent plate boundary (rift zone) rather than a subduction zone. Hekla occupies a rift-transform junction, which gives it an uncommon geochemical profile: it erupts basaltic andesite to dacite rather than the tholeiitic basalt typical of Icelandic rift volcanoes. The 5.5 km-long Heklugjá summit fissure gives Hekla an elongated ridge profile rather than the classic symmetrical cone shape of most stratovolcanoes."
+    },
+    {
+      "question": "Why is Hekla's tephra dangerous to animals?",
+      "answer": "Hekla's tephra is characteristically enriched in fluorine, a chemical element that is highly toxic to grazing livestock. When fluorine-laden volcanic ash settles on pastures, animals that consume contaminated grass develop fluorosis — a condition causing dental deterioration, skeletal deformities, and eventual death. The 1947 eruption killed approximately 30% of sheep in affected areas of southern Iceland, and historical eruptions in 1104, 1300, 1693, 1766, and 1845 all caused significant livestock losses. The fluorine content of Hekla's tephra is a consequence of the volcano's unusual magma chemistry at the rift-transform junction."
+    },
+    {
+      "question": "How does Hekla compare to Eyjafjallajökull?",
+      "answer": "Hekla and Eyjafjallajökull are both active stratovolcanoes in southern Iceland but differ significantly in their eruption characteristics. Hekla is far more active with 65 recorded eruptions versus Eyjafjallajökull's 8, and its maximum VEI of 5 exceeds Eyjafjallajökull's VEI 4. Hekla erupts with minimal seismic warning (30–80 minutes), while Eyjafjallajökull's 2010 eruption was preceded by weeks of seismicity. Eyjafjallajökull's 2010 eruption disrupted global aviation for weeks, demonstrating that even moderate Icelandic eruptions can have enormous economic consequences — a prospect that makes a potential large Hekla eruption a significant concern."
+    }
+  ],
+  "people_also_search": [
+    "hekla volcano eruption",
+    "is hekla going to erupt",
+    "hekla gateway to hell",
+    "hekla hiking",
+    "hekla volcano iceland",
+    "hekla eruption history",
+    "hekla warning time",
+    "hekla vs katla"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Hekla",
+    "alternateName": [
+      "Mount Hekla",
+      "Mons Heclae"
+    ],
+    "description": "Active stratovolcano in southern Iceland known as the medieval 'Gateway to Hell,' with 65 eruptions and notoriously short eruption warning times",
+    "geo": {
+      "latitude": 63.983,
+      "longitude": -19.666,
+      "elevation": 1491
+    },
+    "containedInPlace": {
+      "name": "Southern Iceland",
+      "country": "Iceland"
+    },
+    "url": "https://volcanoatlas.com/volcano/hekla"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=372070",
+      "text": "Smithsonian GVP: Hekla",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://en.vedur.is/earthquakes-and-volcanism/volcanic-eruptions/hekla/",
+      "text": "Icelandic Met Office: Hekla Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Hekla",
+      "text": "Britannica: Hekla",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://icelandicvolcanoes.is/?volcano=HEK",
+      "text": "Catalogue of Icelandic Volcanoes: Hekla",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "katla",
+      "eyjafjallajokull",
+      "grimsvotn",
+      "bardarbunga",
+      "etna",
+      "st-helens",
+      "tambora",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "katla",
+    "eyjafjallajokull",
+    "grimsvotn",
+    "bardarbunga",
+    "etna"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    },
+    {
+      "label": "Hekla",
+      "url": "/volcano/hekla"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/hekla"
+}

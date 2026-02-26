@@ -1,0 +1,340 @@
+{
+  "slug": "east-epi",
+  "volcano_id": 257060,
+  "title": "East Epi",
+  "meta_title": "East Epi Submarine Volcano — Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "East Epi is a submarine volcanic complex off Epi Island, Vanuatu. Explore its eruption history, ephemeral islands, underwater cones, and current activity.",
+  "quick_answer": {
+    "what": "East Epi is a submarine volcanic complex consisting of multiple basaltic and dacitic cones located off the northeast coast of Epi Island in Vanuatu, within a possible 10-km-diameter caldera.",
+    "status": "Active — last erupted in January 2023. The complex has produced 15 recorded eruptions since 1920, primarily from the Epi B (Cioan) cone.",
+    "famous_for": "Creating ephemeral volcanic islands in 1920 and 1953 that subsequently eroded away, and persistent submarine explosive activity producing discolored water and floating pumice.",
+    "danger_level": "Moderate — submarine eruptions can generate local tsunamis and floating pumice hazards. Epi Island (population ~5,000) lies immediately to the southwest."
+  },
+  "hero": {
+    "name": "East Epi",
+    "local_name": "East Epi",
+    "subtitle": "Vanuatu's Restless Submarine Volcanic Complex",
+    "country": "Vanuatu",
+    "region": "Vanuatu Volcanic Arc",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 833,
+    "elevation_ft": 2733,
+    "status": "Active",
+    "last_eruption": "2023",
+    "coordinates": {
+      "lat": -16.6797,
+      "lon": 168.3893
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11036.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "833 m (2,733 ft) Epi Island; submarine cones summit at ~34 m below sea level",
+    "type": "Stratovolcano(es) — submarine cone cluster",
+    "status": "Active",
+    "last_eruption": "January 2023",
+    "first_known_eruption": "1920",
+    "total_recorded_eruptions": 15,
+    "vei_max": "3 (February 1953)",
+    "country": "Vanuatu",
+    "region": "Southwestern Pacific, Vanuatu Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Pacific Plate, intermediate crust (15-25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "16.680S, 168.389E",
+    "nearest_island": "Epi Island — immediately SW (pop. ~5,000)",
+    "submarine_cones": "Epi A, Epi B (Cioan), Epi C, plus smaller cones",
+    "monitoring_agency": "Vanuatu Meteorology and Geohazards Department (VMGD)",
+    "smithsonian_id": "257060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=257060"
+  },
+  "sections": {
+    "overview": {
+      "content": "East Epi is a submarine volcanic complex located off the northeast coast of Epi Island in <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a>, consisting of multiple basaltic and dacitic cones within a possible 10-km-diameter caldera in the southwestern Pacific. The complex includes three principal cones — Epi A, Epi B (also known as Cioan), and Epi C — each 1-1.5 km in basal diameter, located along the northern rim of the inferred caldera. Epi B is the most active, with its summit measured at just 34 m below sea level during a 2001 survey. The volcano has produced 15 recorded eruptions since 1920, including events that created ephemeral volcanic islands in 1920 and 1953 — briefly emerging above the waves before being eroded away by the sea. Most activity involves submarine explosive eruptions producing discolored water, floating pumice, and steam plumes, with the 2023 eruption being the most recent confirmed event. East Epi lies along the Vanuatu Volcanic Arc, part of the <a href=\"/ring-of-fire\">Ring of Fire</a>, where the Indo-Australian Plate subducts beneath the Pacific Plate. The nearby island of Epi (population approximately 5,000) is the closest inhabited land, and the volcano's submarine eruptions pose hazards including local tsunamis, floating pumice fields, and disrupted fishing grounds."
+    },
+    "geology_and_formation": {
+      "content": "East Epi is a cluster of submarine <a href=\"/types-of-volcanoes\">stratovolcano</a> cones situated within what may be a 10-km-diameter submarine caldera off the northeast coast of Epi Island. The three principal cones — Epi A, Epi B (Cioan), and Epi C — are arranged along the northern rim of this inferred caldera, though Beier et al. (2018) have proposed an alternative to the post-caldera formation model. Several smaller cones lie south of Epi B. The rock types span a wide range from basalt and picro-basalt to dacite, with a 2013 research cruise (R/V Sonne SO-229) recovering rhyodacitic pumice with mafic streaks from Epi B — an unusual mixed composition that reflects complex magma mixing processes. The same cruise described Epi B as covered by massive blocks of pumice, confirming it as the currently active center. The tectonic setting involves the subduction of the Indo-Australian Plate beneath the Pacific Plate through intermediate-thickness crust (15-25 km), generating the magmas that feed the Vanuatu Volcanic Arc — one of the most volcanically active arcs in the Pacific."
+    },
+    "eruption_history_overview": {
+      "content": "East Epi's 15 recorded eruptions span from 1920 to 2023, with activity concentrated at the Epi B cone. The eruption record includes confirmed eruptions of <a href=\"/volcanic-explosivity-index\">VEI</a> 0-3 and several uncertain events characterized primarily by discolored water and floating pumice. Notable events include the 1920 and 1953 eruptions that built ephemeral islands above sea level, the 1958 and 1960 explosive events, a period of frequent ocean discoloration (1971-1974 and 1988), a new vent detection in 1979, and explosive activity in 1999, 2002, 2004, and most recently 2023. The strongest recorded eruption was the February 1953 event (VEI 3)."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1920 Eruption — First Recorded Activity and Ephemeral Island",
+          "content": "On January 22, 1920, East Epi's first historically recorded eruption occurred at the Epi B cone, rated VEI 2. The submarine explosive activity was vigorous enough to build a temporary volcanic island above sea level. The new island, composed of unconsolidated volcanic debris, was short-lived — the action of waves quickly eroded the loose material back below the surface. This ephemeral island-building is a dramatic feature of shallow submarine volcanism, seen at other western Pacific volcanoes including Home Reef and Lateiki in <a href=\"/volcanoes-in-tonga\">Tonga</a>."
+        },
+        {
+          "title": "The February 1953 Eruption — Strongest Recorded Event",
+          "content": "The most powerful recorded eruption at East Epi began on February 12, 1953, rated VEI 3. Explosive submarine activity at Epi B and other vents was significantly more vigorous than previous events, again building a temporary island above sea level. The eruption produced substantial quantities of floating pumice and discolored water over a wide area. A second episode of activity was reported in November 1953. This was the largest eruption in East Epi's historical record and demonstrates that the complex is capable of moderately explosive activity despite its submarine setting."
+        },
+        {
+          "title": "The 2023 Eruption — Most Recent Activity",
+          "content": "On January 31, 2023, East Epi produced a confirmed eruption rated VEI 1 — the first confirmed eruptive activity at the complex since 2004. The event was detected through ocean monitoring and reports from Epi Island. The 2023 eruption demonstrated that the volcanic complex remains active and capable of generating eruptions with little warning, underscoring the ongoing hazard to the approximately 5,000 residents of Epi Island and maritime traffic in the area."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "East Epi remains an active submarine volcanic complex, with the 2023 eruption confirming ongoing eruptive capability at the Epi B cone. The Vanuatu Meteorology and Geohazards Department (VMGD) monitors the complex, though the submarine nature makes direct monitoring challenging. Indicators include ocean discoloration, floating pumice, acoustic signals, and reports from fishers and maritime observers near Epi Island. International research cruises have periodically surveyed the submarine cones, with the 2001 bathymetric survey measuring Epi B's summit at 34 m below sea level and the 2013 R/V Sonne cruise collecting fresh pumice samples. The shallow depth means moderate eruptions could breach the surface and create new temporary islands."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "East Epi's principal hazards stem from its submarine setting and proximity to inhabited Epi Island (~5,000 residents). Submarine explosive eruptions can generate local tsunamis — a significant concern given that Epi Island's coastline faces directly toward the volcanic complex. Floating pumice fields can damage boat hulls and clog engine intakes, disrupting fishing and maritime transport. Volcanic gas emissions can create hazardous conditions on the ocean surface. The possible presence of a 10-km-diameter submarine caldera raises additional hazard questions, as caldera systems can be capable of much larger eruptions than the modest historical record suggests."
+    },
+    "geography_and_physical_description": {
+      "content": "East Epi is entirely submarine except during rare island-building eruptions. The volcanic complex lies off the northeast coast of Epi Island, which is itself a volcanic island rising to 833 m with rich tropical vegetation and several coastal villages. The three principal submarine cones — Epi A, Epi B, and Epi C — are each 1-1.5 km in basal diameter. Epi B, the most active, had its summit at 34 m below sea level as of 2001. The entire complex sits within a possible 10-km-diameter submarine caldera. The surrounding waters are part of the Coral Sea within the Vanuatu Exclusive Economic Zone."
+    },
+    "cultural_significance": {
+      "content": "For the communities of Epi Island, the submarine volcano is a known hazard woven into local awareness. Fishers from Epi's coastal villages are often the first to detect signs of submarine eruptions — discolored water, unusual bubbling, floating pumice, or sulfurous odors — and their observations have historically provided early warning of volcanic activity. The ephemeral islands created in 1920 and 1953 were notable events in local memory. Submarine volcanism in <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a> is part of a broader cultural relationship between Pacific islanders and their volcanic landscape."
+    },
+    "visiting_and_tourism": {
+      "content": "East Epi is not a conventional tourist destination, as the volcano is entirely submarine. However, Epi Island itself offers a remote, off-the-beaten-path experience for adventurous travelers exploring Vanuatu. The waters around East Epi should be avoided during periods of volcanic activity. For dramatic volcanic tourism in Vanuatu, Yasur volcano on Tanna Island offers safe, guided viewing of near-continuous Strombolian eruptions — one of the most accessible active volcanic experiences on Earth."
+    },
+    "nearby_volcanoes": {
+      "content": "East Epi is part of the extraordinarily active Vanuatu Volcanic Arc. <a href=\"/volcano/ambrym\">Ambrym</a> (1,334 m), one of the most active volcanoes in the Pacific, lies to the north with its persistent lava lakes. <a href=\"/volcano/lopevi\">Lopevi</a> (1,413 m) is an uninhabited volcanic island between Epi and Ambrym. Yasur (361 m) on Tanna Island to the south is one of the world's most accessible erupting volcanoes. Kuwae, a submarine caldera between Epi and Efate, may have produced one of the largest eruptions of the past millennium (~1452 CE). <a href=\"/volcano/ambae\">Ambae</a> (1,496 m) and <a href=\"/volcano/gaua\">Gaua</a> (729 m) continue the arc northward."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "East Epi Compared to Vanuatu's Volcanic Centers",
+      "description": "How does East Epi compare to other volcanoes in one of the Pacific's most active volcanic arcs?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "East Epi",
+          "Vanuatu",
+          "833 m / -34 m",
+          "Submarine cluster",
+          "2023",
+          "3",
+          "15"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Shield (pyroclastic)",
+          "2024",
+          "4",
+          "50+"
+        ],
+        [
+          "Yasur",
+          "Vanuatu",
+          "361 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "50+"
+        ],
+        [
+          "Lopevi",
+          "Vanuatu",
+          "1,413 m",
+          "Stratovolcano",
+          "2007",
+          "3",
+          "20+"
+        ],
+        [
+          "Ambae",
+          "Vanuatu",
+          "1,496 m",
+          "Shield",
+          "2025",
+          "3",
+          "15+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1920,
+      "vei": 2,
+      "label": "First recorded eruption — ephemeral island formed at Epi B",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1953,
+      "vei": 3,
+      "label": "Strongest eruption — island formed, extensive pumice",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1979,
+      "vei": 0,
+      "label": "New vent detected on south flank of Epi B",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2004,
+      "vei": 2,
+      "label": "Explosive activity at Epi B",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2023,
+      "vei": 1,
+      "label": "Most recent eruption confirmed",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "20th",
+      "count": 12,
+      "note": "1920-1999, frequent submarine activity"
+    },
+    {
+      "century": "21st",
+      "count": 3,
+      "note": "2002, 2004, 2023"
+    }
+  ],
+  "facts": [
+    "East Epi created temporary volcanic islands in both 1920 and 1953, which were subsequently eroded back below sea level by wave action.",
+    "The summit of the most active cone (Epi B) lies just 34 m below sea level, meaning moderate eruptions can breach the ocean surface.",
+    "A 2013 research cruise recovered rhyodacitic pumice with mafic streaks from Epi B — evidence of complex magma mixing in the shallow crust.",
+    "The volcanic complex sits within a possible 10-km-diameter submarine caldera off the northeast coast of Epi Island.",
+    "Epi B was described by researchers as covered by massive blocks of pumice, indicating vigorous recent explosive activity.",
+    "The 15 recorded eruptions since 1920 have all been concentrated at or near the Epi B cone.",
+    "Discolored water — a signature of submarine volcanic gas emissions — was frequently observed from 1971 to 1974 and again in 1988.",
+    "The 1953 eruption (VEI 3) was the strongest recorded event, producing an ephemeral island and widespread floating pumice.",
+    "Approximately 5,000 people live on Epi Island, which faces directly toward the submarine volcanic complex.",
+    "The Vanuatu Volcanic Arc, which includes East Epi, is one of the most volcanically active island arcs in the Pacific Ocean.",
+    "Fishers from Epi Island are often the first to detect signs of submarine eruptions through discolored water and sulfurous odors.",
+    "The most recent eruption in January 2023 confirmed ongoing activity after a 19-year gap since the 2004 event."
+  ],
+  "faqs": [
+    {
+      "question": "What is East Epi?",
+      "answer": "East Epi is a submarine volcanic complex consisting of multiple cones located off the northeast coast of Epi Island in Vanuatu. The complex includes three principal cones — Epi A, Epi B (Cioan), and Epi C — within a possible 10-km-diameter submarine caldera. Epi B is the most active cone, with its summit just 34 m below sea level. The volcano has produced 15 recorded eruptions since 1920, including events that created temporary islands."
+    },
+    {
+      "question": "Is East Epi dangerous?",
+      "answer": "East Epi poses moderate hazards to the approximately 5,000 residents of Epi Island and to maritime traffic. Submarine explosive eruptions can generate local tsunamis, floating pumice fields that damage boats, and hazardous volcanic gas emissions on the ocean surface. The shallow depth of Epi B's summit (34 m) means eruptions can breach the surface violently. The possible presence of a 10-km submarine caldera raises additional long-term hazard concerns."
+    },
+    {
+      "question": "When did East Epi last erupt?",
+      "answer": "East Epi most recently erupted on January 31, 2023, with a confirmed VEI 1 event. Prior to that, the most recent confirmed eruption was in February 2004 (VEI 2) from Epi B. The 19-year gap between 2004 and 2023 was one of the longest quiet periods in the volcano's recorded history, which began in 1920."
+    },
+    {
+      "question": "Did East Epi create a new island?",
+      "answer": "Yes, East Epi created temporary volcanic islands during eruptions in 1920 and 1953. Both formed at the Epi B cone through submarine explosive activity. However, the islands were short-lived — composed of loose, unconsolidated material, they were quickly eroded by wave action. Given that Epi B's summit is just 34 m below sea level, future island-building eruptions remain possible."
+    },
+    {
+      "question": "Can you visit East Epi?",
+      "answer": "East Epi is not a conventional tourist destination, as the volcano is entirely submarine. The waters around the complex should be avoided during periods of volcanic activity. Epi Island itself can be visited as part of travel through Vanuatu, with basic accommodation and domestic air and sea connections. For dramatic volcanic tourism in Vanuatu, Yasur volcano on Tanna Island offers safe guided viewing of near-continuous eruptions."
+    },
+    {
+      "question": "What other volcanoes are near East Epi?",
+      "answer": "East Epi is part of the extremely active Vanuatu Volcanic Arc. Nearby volcanoes include Ambrym (one of the most active volcanoes in the Pacific with persistent lava lakes), Lopevi (an uninhabited volcanic island), Yasur on Tanna (one of the worlds most accessible erupting volcanoes), the submarine Kuwae caldera (site of a possible massive ~1452 CE eruption), and Ambae and Gaua to the north."
+    }
+  ],
+  "people_also_search": [
+    "east epi volcano vanuatu",
+    "vanuatu submarine volcano",
+    "epi island",
+    "ephemeral volcanic islands pacific",
+    "vanuatu volcanoes list",
+    "yasur volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "East Epi",
+    "alternateName": [
+      "Epi B",
+      "Cioan"
+    ],
+    "description": "Submarine volcanic complex off Epi Island in Vanuatu with multiple cones and 15 recorded eruptions since 1920",
+    "geo": {
+      "latitude": -16.6797,
+      "longitude": 168.3893,
+      "elevation": 833
+    },
+    "containedInPlace": {
+      "name": "Shefa Province",
+      "country": "Vanuatu"
+    },
+    "url": "https://volcanoatlas.com/volcano/east-epi"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=257060",
+      "text": "Smithsonian GVP: East Epi",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.vmgd.gov.vu/",
+      "text": "Vanuatu Meteorology and Geohazards Department",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "ambrym",
+      "yasur",
+      "lopevi",
+      "kuwae",
+      "ambae",
+      "gaua",
+      "hunga-tonga-hunga-ha-apai"
+    ],
+    "country_pages": [
+      "vanuatu",
+      "tonga"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "ambrym",
+    "yasur",
+    "lopevi",
+    "ambae",
+    "gaua"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Vanuatu",
+      "url": "/volcanoes-in-vanuatu"
+    },
+    {
+      "label": "East Epi",
+      "url": "/volcano/east-epi"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/east-epi"
+}

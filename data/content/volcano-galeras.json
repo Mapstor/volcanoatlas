@@ -1,0 +1,404 @@
+{
+  "slug": "galeras",
+  "volcano_id": 351080,
+  "title": "Galeras",
+  "meta_title": "Galeras Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Galeras is a 4,276 m active complex volcano in Colombia with 42 eruptions. Full history including the deadly 1993 disaster, current status, and hazard guide.",
+  "quick_answer": {
+    "what": "Galeras is an active complex stratovolcano in southwestern Colombia, rising to 4,276 m (14,029 ft) immediately west of the city of Pasto in the Nariño Department.",
+    "status": "Active — last erupted in 2014. One of the most frequently active volcanoes in Colombia, designated a Decade Volcano by the United Nations.",
+    "famous_for": "The January 14, 1993, eruption that killed six scientists and three tourists during a volcanic workshop, and its position looming directly over the city of Pasto (population ~450,000).",
+    "danger_level": "Very high — approximately 450,000 people live in Pasto within 8 km of the summit crater, making Galeras one of the most dangerous volcanoes in South America."
+  },
+  "hero": {
+    "name": "Galeras",
+    "local_name": "Volcán Galeras",
+    "subtitle": "Colombia's Deadly Decade Volcano",
+    "country": "Colombia",
+    "region": "Nariño Department",
+    "type": "Complex volcano",
+    "elevation_m": 4276,
+    "elevation_ft": 14029,
+    "status": "Active",
+    "last_eruption": "2014",
+    "coordinates": {
+      "lat": 1.22,
+      "lon": -77.37
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04376.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "4,276 m (14,029 ft)",
+    "type": "Complex volcano (stratovolcano with breached caldera)",
+    "status": "Active",
+    "last_eruption": "2012–2014",
+    "first_known_eruption": "~7050 BCE (geological record); 1535 (historical)",
+    "total_recorded_eruptions": 42,
+    "vei_max": "3 (multiple events)",
+    "country": "Colombia",
+    "region": "Nariño Department, southwestern Colombia",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "1.220°N, 77.370°W",
+    "nearest_city": "Pasto — 8 km E",
+    "population_at_risk": "~450,000 (Pasto metropolitan area)",
+    "summit_crater": "Central cone within breached caldera, multiple active vents including El Pinta",
+    "monitoring_agency": "Servicio Geológico Colombiano (SGC) — Observatorio Vulcanológico y Sismológico de Pasto",
+    "decade_volcano": "Designated 1991 — UN International Decade for Natural Disaster Reduction",
+    "smithsonian_id": "351080",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=351080"
+  },
+  "sections": {
+    "overview": {
+      "content": "Galeras is an active <a href=\"/types-of-volcanoes\">complex stratovolcano</a> rising to 4,276 m (14,029 ft) in the Nariño Department of southwestern <a href=\"/volcanoes-in-colombia\">Colombia</a>, immediately west of the city of Pasto, one of Colombia's largest highland cities with approximately 450,000 residents. It is one of Colombia's most frequently active volcanoes, with 42 recorded eruptions spanning over 9,000 years, and was designated a Decade Volcano by the United Nations in 1991 — one of only 16 volcanoes worldwide selected for intensive study because of their history of large, destructive eruptions and proximity to populated areas. Galeras owes its existence to the subduction of the Nazca Plate beneath the South American Plate along the Northern Andean Volcanic Arc, a tectonic setting that produces the andesitic magmas responsible for the volcano's explosive eruption style. The volcano's complex structure includes a large breached caldera open to the west — the product of at least three major edifice collapses — inside which the modern active cone has been constructed. Galeras gained international notoriety on January 14, 1993, when a sudden eruption killed six volcanologists and three tourists who were inside the summit crater during a scientific workshop, an event that profoundly shaped modern protocols for volcanic fieldwork safety. With nearly half a million people living in its immediate shadow, Galeras ranks among the <a href=\"/deadliest-eruptions\">most dangerous volcanoes</a> in the Americas, comparable in risk to <a href=\"/volcano/popocatepetl\">Popocatépetl</a> in Mexico and <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a>, the Colombian volcano whose 1985 eruption killed over 23,000 people in Armero."
+    },
+    "geology_and_formation": {
+      "content": "Galeras sits within the Northern Andean Volcanic Arc, powered by the eastward subduction of the Nazca Plate beneath the South American Plate at approximately 58 mm per year. The volcanic complex has been active for more than 1 million years, making it one of the longest-lived volcanic centers in the northern Andes. Two major caldera-forming eruptions occurred during the late Pleistocene, producing large-volume pyroclastic deposits across the region. Long-term hydrothermal alteration — the chemical weakening of rock by hot acidic fluids circulating through the edifice — has contributed to at least three episodes of large-scale edifice collapse, generating catastrophic debris avalanches that swept westward through the caldera breach and across the lowlands beyond. The modern active cone has been built within the remnants of the most recent caldera, reaching slightly below the caldera rim elevation. The predominantly andesitic to basaltic-andesitic magma composition produces eruptions that are characteristically explosive — Vulcanian to sub-Plinian in style — generating ballistic projectiles, pyroclastic flows, ashfall, and occasional lava dome growth. The El Pinta vent, located within the summit crater complex, has been the source of several recent eruptions. The volcano's complex multi-vent structure, combined with the weakened, altered rock of the edifice, makes Galeras inherently unstable and difficult to predict."
+    },
+    "eruption_history_overview": {
+      "content": "Galeras's 42 confirmed eruptions span from approximately 7050 BCE to 2014, with the historical record beginning with the 1535 eruption observed by Spanish conquistadors. The eruption record shows a volcano that alternates between decades of frequent activity and periods of relative quiet. Major explosive eruptions with significant pyroclastic flow generation occurred during the mid-Holocene (around 3150 BCE, VEI 3) and repeatedly during the colonial and post-colonial periods. Most eruptions are Vulcanian in character — sudden, violent explosions that send ballistic blocks and ash columns several kilometers high, often with limited precursory warning. This eruption style makes Galeras particularly dangerous, as the transition from apparent quiet to violent explosion can occur rapidly. The period from 1989 to 2014 was exceptionally active, with at least 15 eruptions in 25 years, including the tragic 1993 event, multiple <a href=\"/volcanic-explosivity-index\">VEI</a> 3 explosions in 2004, 2007, and 2008, and the 2012–2014 eruption that represents the volcano's most recent confirmed activity."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The January 14, 1993, Eruption — Tragedy at the Crater Rim",
+          "content": "The most infamous event in Galeras's recent history occurred during an international volcanic hazard workshop organized by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI). On the morning of January 14, 1993, a group of approximately 15 scientists and several tourists descended into the summit crater to collect gas samples and study fumaroles. At 1:43 PM local time, the volcano erupted without the type of precursory signals that many had expected based on the monitoring data. The Vulcanian explosion was assigned a VEI of 2, relatively small in volcanic terms, but it proved lethal at close range. Ballistic blocks — some weighing several tons — were hurled from the crater, and a pyroclastic surge swept across the crater floor and over the rim. Six scientists were killed: Igor Menyailov and Nestor García from the IAVCEI workshop, along with José Arlés Zapata, Carlos Trujillo, Fernando Cuenca, and Geoffrey Brown, a distinguished British volcanologist who had spent years studying the volcano. Three Colombian tourists on the crater rim were also killed, bringing the death toll to nine. Several other scientists survived with serious injuries, including Stanley Williams, an American geophysicist whose harrowing account of the disaster in his book Surviving Galeras became widely known. The 1993 tragedy led to fundamental changes in how volcanologists approach fieldwork on active volcanoes, including stricter protocols for crater access, improved communication of risk levels to field parties, and a broader reckoning with the culture of risk-taking in volcanology."
+        },
+        {
+          "title": "The 2004–2008 Eruption Sequence — A Decade of Unrest",
+          "content": "After a period of relative quiet following the 1993 eruption, Galeras reawakened dramatically in 2004 with a VEI 3 eruption that sent an ash column high above the summit and triggered emergency evacuations of communities on the volcano's flanks. This event marked the beginning of a sustained period of heightened activity that continued through 2008. The 2005 eruption (VEI 2) was followed by two significant VEI 3 events in 2007 and 2008 that produced pyroclastic flows, extensive ashfall across Pasto, and forced repeated evacuations of up to 9,000 residents from the highest-risk zones. The Colombian government ordered mandatory evacuations of the Galeras hazard zone during this period, generating controversy as some residents resisted relocation. The 2004–2008 sequence demonstrated that Galeras could sustain multi-year episodes of threatening activity and tested the limits of Colombia's volcanic emergency response systems."
+        },
+        {
+          "title": "Colonial-Era Eruptions — Galeras Under the Spanish Crown",
+          "content": "Galeras's historical eruption record begins with Spanish colonial observations in 1535, making it one of the first South American volcanoes documented by European observers. VEI 3 eruptions in 1535, 1580, 1616, 1641, and 1670 indicate that the 16th and 17th centuries were an especially active period. The 1580 and 1616 eruptions produced significant ashfall over what was then the colonial city of San Juan de Pasto, disrupting agricultural production and causing fear among the population. These accounts, preserved in colonial archives, provide valuable baseline data for understanding Galeras's eruption frequency and style — information that has been used to model future volcanic scenarios for the modern city."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Galeras is classified as active, with its most recent eruption running from 2012 to 2014. The volcano is monitored by the Observatorio Vulcanológico y Sismológico de Pasto, a branch of the Servicio Geológico Colombiano (SGC). The monitoring network includes seismometers, tiltmeters, GPS deformation stations, and geochemistry surveys of fumarolic gases and thermal springs. Sulfur dioxide (SO2) emissions, seismicity patterns, and ground deformation data are continuously analyzed to assess the volcano's state. Following the 2008–2014 activity, the volcano entered a period of relative quiet, though fumarolic emissions and low-level seismicity continue at the summit crater complex. The SGC maintains an alert level system (green, yellow, orange, red) for Galeras and has issued elevated alerts multiple times during the 2000s and 2010s. Scientists consider future eruptions highly likely, though the timing and magnitude remain uncertain. The Decade Volcano designation has facilitated international collaboration, and Galeras is among the best-studied volcanoes in South America."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Galeras is one of the most dangerous volcanoes in the Americas, primarily because of the extraordinary proximity of a major city to an active volcanic vent. Pasto, with approximately 450,000 residents, lies just 8 km east of the summit crater — close enough that pyroclastic flows from a moderate eruption could theoretically reach the city's western suburbs within minutes. The city's position in a topographic basin at approximately 2,527 m elevation means that ashfall from even minor eruptions settles directly onto the urban area. Primary hazards include Vulcanian explosions and ballistic projectiles (lethal within several kilometers of the crater), pyroclastic flows and surges, tephra fall, volcanic gases (SO2, HCl, HF), and lahars generated when eruption-triggered or rain-mobilized debris enters the steep river valleys that drain the volcano toward the west. The caldera's westward breach channels pyroclastic flows and debris avalanches in that direction, somewhat reducing the direct hazard to Pasto on the eastern side, though the city remains within the tephra fall and lahar hazard zones. Evacuation planning is complicated by the density of settlement, limited road infrastructure, and the socioeconomic challenges of relocating hundreds of thousands of people."
+    },
+    "geography_and_physical_description": {
+      "content": "Galeras is a massive volcanic complex whose summit reaches 4,276 m (14,029 ft) in the western Cordillera of the Colombian Andes. The volcano's most distinctive structural feature is its large breached caldera, open to the west, formed by successive edifice collapses that removed the western flank. The caldera measures approximately 4 km wide and contains the active central cone, which stands slightly below the remnant caldera rim. The active summit crater is several hundred meters across and contains multiple vents, including the El Pinta vent that has been the source of several recent eruptions. The eastern flank descends steeply toward Pasto, with the city's western neighborhoods extending up the lower slopes. The volcano is located at high elevation in the equatorial Andes, and the upper slopes above approximately 3,800 m consist of barren rock, ash, and fumarolic fields, while lower elevations support Andean cloud forest and agricultural land."
+    },
+    "climate_and_global_impact": {
+      "content": "Galeras's eruptions have been regional rather than global in their climatic impact. The maximum VEI of 3 recorded in multiple historical eruptions is below the threshold (typically VEI 5+) required to inject significant sulfur aerosols into the stratosphere and produce measurable global cooling. However, locally, Galeras's eruptions have had significant atmospheric effects. Ashfall from the 2004–2008 eruption sequence blanketed Pasto repeatedly, affecting air quality, damaging agriculture, and causing respiratory health concerns for the city's population. The volcano's equatorial location (1.22 degrees N) means that any future larger eruption could potentially inject aerosols into both hemispheric circulation patterns."
+    },
+    "cultural_significance": {
+      "content": "Galeras has been a defining element of life in Pasto for centuries, its massive profile dominating the skyline of a city whose history, economy, and identity are intertwined with the volcano. The indigenous Quillacinga people inhabited the Galeras region before the Spanish conquest, and the volcano featured in their cosmology. During the colonial period, Galeras's eruptions were recorded by Spanish administrators and clergy. In modern Pasto, the volcano is simultaneously a source of civic pride, agricultural fertility, geothermal energy potential, and existential anxiety. The 1993 disaster brought international media attention and embedded Galeras in the global narrative of volcanic risk. Galeras's status as a Decade Volcano has made it a focal point for international volcanological research and disaster risk reduction efforts. The Galeras Fauna and Flora Sanctuary protects unique high-altitude Andean ecosystems on the volcano's flanks."
+    },
+    "visiting_and_tourism": {
+      "content": "Access to the summit crater of Galeras is generally restricted due to the volcano's active status and the lessons of the 1993 tragedy. During periods of low activity, guided excursions to the upper slopes may be possible with authorization from the SGC and local authorities, though summit access is rarely permitted. The city of Pasto, at 2,527 m elevation, is the primary base for visitors and offers colonial architecture, the Carnaval de Negros y Blancos (a UNESCO Intangible Heritage event held in January), and panoramic views of the volcano. The Galeras Fauna and Flora Sanctuary, established on the volcano's flanks, protects Andean ecosystems and offers hiking opportunities at lower elevations. Pasto is accessible by air (Antonio Nariño Airport) and road from Bogotá (approximately 20 hours by bus or a 1.5-hour flight)."
+    },
+    "nearby_volcanoes": {
+      "content": "Galeras sits within the Northern Andean Volcanic Arc. The most significant neighbor is <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> (5,321 m), located approximately 350 km to the north, whose catastrophic 1985 eruption killed over 23,000 people. Other Colombian volcanoes include Puracé, Huila, and Sotará. To the south, across the border in <a href=\"/volcanoes-in-ecuador\">Ecuador</a>, the arc continues with <a href=\"/volcano/cotopaxi\">Cotopaxi</a>, Tungurahua, and Reventador. Colombia has 13 Holocene volcanoes, of which Galeras is by far the most frequently active."
+    },
+    "etymology": {
+      "content": "The name 'Galeras' is derived from the Spanish word 'galera' (galley), reportedly because the shape of the mountain reminded early Spanish colonists of the galleons or galleys that sailed the seas. Some accounts suggest the resemblance was specifically to the hull of an overturned ship. The name has been in continuous use since the colonial period."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Galeras Compared to the World's Most Dangerous Volcanoes Near Major Cities",
+      "description": "How does Galeras compare to other volcanoes that pose extreme risk to nearby urban populations?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Nearest City",
+        "Distance",
+        "Population at Risk",
+        "Last Eruption"
+      ],
+      "rows": [
+        [
+          "Galeras",
+          "Colombia",
+          "4,276 m",
+          "Pasto",
+          "8 km",
+          "~450,000",
+          "2014"
+        ],
+        [
+          "Vesuvius",
+          "Italy",
+          "1,281 m",
+          "Naples",
+          "9 km",
+          "~3 million",
+          "1944"
+        ],
+        [
+          "Popocatépetl",
+          "Mexico",
+          "5,426 m",
+          "Puebla",
+          "43 km",
+          "~9 million",
+          "2024"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,968 m",
+          "Yogyakarta",
+          "28 km",
+          "~2 million",
+          "2023"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Manizales",
+          "28 km",
+          "~500,000",
+          "2024"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7050,
+      "vei": null,
+      "label": "Earliest confirmed Holocene eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3150,
+      "vei": 3,
+      "label": "Major mid-Holocene explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1535,
+      "vei": 3,
+      "label": "First historically recorded eruption — observed by Spanish",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1616,
+      "vei": 3,
+      "label": "Major colonial-era eruption — ashfall over Pasto",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1993,
+      "vei": 2,
+      "label": "Eruption kills 6 scientists and 3 tourists during IAVCEI workshop",
+      "deaths": "9",
+      "notable": true
+    },
+    {
+      "year": 2004,
+      "vei": 3,
+      "label": "Start of major eruption sequence — evacuations ordered",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2008,
+      "vei": 3,
+      "label": "VEI 3 eruption — pyroclastic flows, 9,000 evacuated",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2012,
+      "vei": 2,
+      "label": "Most recent eruption (continued to 2014)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-historic",
+      "count": 5
+    },
+    {
+      "century": "9th–15th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 3
+    },
+    {
+      "century": "17th",
+      "count": 3
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 5
+    },
+    {
+      "century": "20th",
+      "count": 11
+    },
+    {
+      "century": "21st",
+      "count": 12
+    }
+  ],
+  "facts": [
+    "Galeras was designated one of only 16 Decade Volcanoes worldwide by the United Nations in 1991, recognizing its extreme danger to nearby populations.",
+    "The January 14, 1993, eruption killed nine people — six volcanologists and three tourists — during an international scientific workshop, fundamentally changing volcanic fieldwork safety protocols.",
+    "Pasto, Colombia's 17th-largest city with ~450,000 residents, lies just 8 km east of the active summit crater — one of the closest city-to-crater distances of any major city in the world.",
+    "Galeras has erupted 42 times in its recorded history, including 15 eruptions in the 25-year period from 1989 to 2014.",
+    "The volcano's westward-breached caldera was formed by at least three catastrophic edifice collapses over the past million years.",
+    "Stanley Williams, an American geophysicist who survived the 1993 eruption with severe injuries, wrote the bestselling account Surviving Galeras about the disaster.",
+    "Galeras's Vulcanian eruption style — sudden, violent explosions with minimal precursory warning — makes it exceptionally difficult to predict.",
+    "The Colombian government ordered mandatory evacuations of up to 9,000 people during the 2004–2008 eruption sequence, though some residents refused to leave.",
+    "Geoffrey Brown, the British volcanologist killed in 1993, had spent years studying Galeras and was considered one of the world's leading experts on the volcano.",
+    "Galeras has been active for more than 1 million years, making it one of the longest-lived volcanic centers in the northern Andes.",
+    "The volcano's name comes from the Spanish word for 'galley,' as colonial settlers thought the mountain resembled an overturned ship.",
+    "During the 2007 VEI 3 eruption, volcanic ash rained on Pasto's streets, closing schools and markets and causing respiratory health alerts across the city."
+  ],
+  "faqs": [
+    {
+      "question": "Is Galeras volcano still active?",
+      "answer": "Galeras is an active complex stratovolcano in southwestern Colombia that has erupted 42 times in its recorded history. Its most recent eruption occurred from 2012 to 2014, and the volcano has produced at least 15 eruptions since 1989. The Servicio Geológico Colombiano continuously monitors Galeras with seismometers, GPS stations, and gas analyzers. Fumarolic activity and low-level seismicity persist at the summit crater. Volcanologists consider future eruptions highly likely, though predicting their timing remains challenging. Galeras was designated one of only 16 Decade Volcanoes by the United Nations, specifically because of its demonstrated danger and proximity to the city of Pasto."
+    },
+    {
+      "question": "What happened at Galeras in 1993?",
+      "answer": "On January 14, 1993, Galeras erupted while approximately 15 scientists and several tourists were inside the summit crater during an international volcanic hazard workshop. The sudden Vulcanian explosion — assigned a VEI of 2 — hurled multi-ton ballistic blocks from the crater and sent a pyroclastic surge across the crater floor. Six volcanologists were killed: Igor Menyailov, Nestor García, José Arlés Zapata, Carlos Trujillo, Fernando Cuenca, and Geoffrey Brown, a renowned British volcanologist. Three Colombian tourists also died, bringing the total death toll to nine. The tragedy led to fundamental reforms in volcanic fieldwork safety protocols worldwide."
+    },
+    {
+      "question": "How close is Pasto to Galeras?",
+      "answer": "The city of Pasto, with approximately 450,000 residents, lies just 8 km (5 miles) east of Galeras's summit crater. This is one of the closest city-to-active-crater distances of any major city in the world. Pasto's western neighborhoods extend up the lower flanks of the volcano. The city sits in a topographic basin at approximately 2,527 m elevation, meaning that ashfall from even minor eruptions settles directly onto the urban area. Pyroclastic flows from a moderate-to-large eruption could theoretically reach the city's outskirts within minutes of onset, though the caldera's westward breach somewhat directs flows away from Pasto."
+    },
+    {
+      "question": "How tall is Galeras?",
+      "answer": "Galeras stands at 4,276 m (14,029 ft) above sea level. It is a complex volcanic structure with a breached caldera approximately 4 km wide, inside which the active central cone has been built. The active cone stands slightly below the caldera rim. At 4,276 m, Galeras is a high-altitude volcano, and its summit lies well above the tree line in the equatorial Andes. The upper slopes above approximately 3,800 m consist of barren rock, volcanic ash, and fumarolic fields. Despite its considerable height, Galeras is not among Colombia's tallest peaks — Nevado del Ruiz, at 5,321 m, stands over 1,000 m higher."
+    },
+    {
+      "question": "What type of volcano is Galeras?",
+      "answer": "Galeras is classified as a complex volcano, meaning it has a multi-vent structure with a complicated geological history involving caldera collapse, edifice rebuilding, and multiple eruption centers. Structurally, it is a stratovolcano (composite volcano) built from alternating layers of lava flows and pyroclastic deposits, but its large breached caldera — open to the west — and its multiple active vents (including the El Pinta vent) give it a more complex geometry than a simple cone. Its eruptions are predominantly Vulcanian in style — characterized by sudden, violent explosions that produce ballistic projectiles, ash columns, and pyroclastic flows."
+    },
+    {
+      "question": "What is a Decade Volcano?",
+      "answer": "A Decade Volcano is one of 16 volcanoes designated by the United Nations International Decade for Natural Disaster Reduction in 1991 for intensive scientific study. These 16 volcanoes were selected because they met two criteria: a documented history of large, destructive eruptions, and close proximity to significant population centers. Galeras was included because of its frequent explosive eruptions and the roughly 450,000 people living in Pasto just 8 km away. Other Decade Volcanoes include Vesuvius (Italy), Merapi (Indonesia), Etna (Italy), Sakurajima (Japan), and Rainier (United States). The program aimed to improve monitoring, hazard assessment, and emergency preparedness at these high-risk sites."
+    },
+    {
+      "question": "Can you visit Galeras volcano?",
+      "answer": "Access to Galeras's summit crater is generally restricted due to the volcano's active status and the lessons of the 1993 disaster. Guided excursions to the upper slopes may occasionally be possible during periods of low activity with special authorization. The Galeras Fauna and Flora Sanctuary on the volcano's flanks offers hiking at lower elevations through Andean ecosystems. The city of Pasto serves as the base for visitors and offers colonial architecture, the UNESCO-recognized Carnaval de Negros y Blancos, and panoramic views of the volcano. Visitors should always check current volcanic alert levels through the Servicio Geológico Colombiano before planning any volcano-related activities."
+    },
+    {
+      "question": "Could Galeras erupt again?",
+      "answer": "Galeras will almost certainly erupt again. The volcano has averaged approximately one eruption every 3–5 years during its most recent active phases, and its current quiet period since 2014 is well within normal inter-eruption intervals. Monitoring by the Servicio Geológico Colombiano continues to detect low-level seismicity and fumarolic emissions. A future eruption could range from a minor VEI 1–2 explosion producing localized ashfall to a larger VEI 3+ event generating pyroclastic flows and widespread tephra. The Vulcanian eruption style typical of Galeras means that escalation from apparent quiet to violent explosion can occur with limited precursory warning."
+    }
+  ],
+  "people_also_search": [
+    "galeras 1993 eruption",
+    "galeras volcano pasto",
+    "decade volcano list",
+    "surviving galeras",
+    "galeras eruption history",
+    "colombia volcanoes",
+    "is galeras still active",
+    "dangerous volcanoes south america"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Galeras",
+    "alternateName": [
+      "Volcán Galeras"
+    ],
+    "description": "Active complex stratovolcano in Colombia, Decade Volcano looming over Pasto, site of 1993 scientist tragedy",
+    "geo": {
+      "latitude": 1.22,
+      "longitude": -77.37,
+      "elevation": 4276
+    },
+    "containedInPlace": {
+      "name": "Nariño Department",
+      "country": "Colombia"
+    },
+    "url": "https://volcanoatlas.com/volcano/galeras"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=351080",
+      "text": "Smithsonian GVP: Galeras",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www2.sgc.gov.co/",
+      "text": "Servicio Geológico Colombiano",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/VHP",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Galeras",
+      "text": "Britannica: Galeras",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "nevado-del-ruiz",
+      "cotopaxi",
+      "popocatepetl",
+      "vesuvius",
+      "merapi"
+    ],
+    "country_pages": [
+      "colombia",
+      "ecuador"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "nevado-del-ruiz",
+    "cotopaxi",
+    "popocatepetl",
+    "vesuvius",
+    "merapi"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Colombia",
+      "url": "/volcanoes-in-colombia"
+    },
+    {
+      "label": "Galeras",
+      "url": "/volcano/galeras"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/galeras"
+}

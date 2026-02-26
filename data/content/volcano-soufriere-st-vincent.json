@@ -1,0 +1,576 @@
+{
+  "slug": "soufriere-st-vincent",
+  "volcano_id": 360150,
+  "title": "Soufrière St. Vincent",
+  "meta_title": "Soufrière St. Vincent — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Soufrière St. Vincent is a 1,220 m active stratovolcano in Saint Vincent and the Grenadines. Explore its eruption history from 1718 to 2021, hazards, and facts.",
+  "quick_answer": {
+    "what": "Soufrière St. Vincent (also known as La Soufrière) is an active stratovolcano rising to 1,220 m (4,003 ft) at the northern end of Saint Vincent Island in the Lesser Antilles, making it the highest peak in Saint Vincent and the Grenadines.",
+    "status": "Active — last erupted April 2021 (VEI 4). Alert level returned to Green in March 2022. Monitored by the University of the West Indies Seismic Research Centre (UWI-SRC).",
+    "famous_for": "Five explosive eruptions since 1718, including the devastating 1902 event that killed approximately 1,600 people just hours before the catastrophic eruption of Mont Pelée on Martinique.",
+    "danger_level": "The most active and dangerous volcano in the Eastern Caribbean — approximately 20,000 people live within its primary hazard zone on the northern end of St. Vincent."
+  },
+  "hero": {
+    "name": "Soufrière St. Vincent",
+    "local_name": "La Soufrière",
+    "subtitle": "The Most Active Volcano in the Eastern Caribbean",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Lesser Antilles",
+    "type": "Stratovolcano",
+    "elevation_m": 1220,
+    "elevation_ft": 4003,
+    "status": "Active",
+    "last_eruption": "2021",
+    "coordinates": {
+      "lat": 13.33,
+      "lon": -61.18
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05130.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,220 m (4,003 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "April 9–22, 2021 (explosive phase); effusive activity from December 27, 2020",
+    "first_known_eruption": "~4380 BCE (geological record); 1718 (historical record)",
+    "total_recorded_eruptions": 23,
+    "vei_max": "4 (1812, 1902, 2021)",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Lesser Antilles, Eastern Caribbean",
+    "tectonic_setting": "Subduction zone — North American Plate beneath Caribbean Plate (oceanic crust < 15 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "13.33°N, 61.18°W",
+    "nearest_city": "Kingstown — 20 km south",
+    "population_at_risk": "~20,000 in northern St. Vincent (Red and Orange hazard zones)",
+    "summit_crater": "1.6 km wide summit crater; NE rim cut by a 500 m wide, 60 m deep crater formed in 1812",
+    "outer_caldera": "2.2 km wide, breached to the SW by slope failure",
+    "monitoring_agency": "University of the West Indies Seismic Research Centre (UWI-SRC)",
+    "smithsonian_id": "360150",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=360150"
+  },
+  "sections": {
+    "overview": {
+      "content": "Soufrière St. Vincent, commonly known as La Soufrière, is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 1,220 m (4,003 ft) at the northern tip of Saint Vincent Island in Saint Vincent and the Grenadines, making it the highest peak in the country and the most active terrestrial volcano in the Eastern Caribbean. It has produced at least five explosive eruptions since historical records began in 1718, including a devastating VEI 4 event in 1902 that killed approximately 1,600 people — an eruption that occurred just hours before the catastrophic destruction of Saint-Pierre by <a href=\"/volcano/pelee\">Mont Pelée</a> on neighbouring Martinique. The volcano owes its existence to the subduction of the North American Plate beneath the Caribbean Plate along the <a href=\"/ring-of-fire\">Lesser Antilles arc</a>, a chain of volcanic islands stretching from Grenada in the south to Saba in the north. With approximately 20,000 people living within its primary hazard zone on the densely cultivated northern slopes of St. Vincent, Soufrière St. Vincent represents one of the most significant volcanic threats in the Caribbean. Its most recent eruption, a VEI 4 explosive sequence in April 2021, displaced more than 20,000 residents, blanketed the island and neighbouring Barbados in ash, and demonstrated that this volcano remains capable of producing powerful, landscape-altering eruptions on a timescale measured in decades rather than centuries. Research on the volcano's eruptive deposits has identified a crude cyclicity of repose periods ranging from approximately 77 to 140 years between major explosive events, with intervals systematically decreasing in more recent times — a pattern that underscores the urgency of continued monitoring and preparedness."
+    },
+    "geology_and_formation": {
+      "content": "Soufrière St. Vincent is the northernmost and youngest volcanic centre on St. Vincent Island, which itself forms part of the inner volcanic arc of the Lesser Antilles. The volcano is built upon oceanic crust less than 15 km thick, generated by the westward subduction of Atlantic Ocean lithosphere (part of the North American Plate) beneath the Caribbean Plate at a rate of approximately 2 cm per year. This subduction supplies water-rich fluids to the overlying mantle wedge, lowering the melting point of the rock and generating the basaltic andesite magmas that characterise Soufrière's eruptions, with silica content typically in the range of 55–58%. The volcanic complex features a nested crater structure of considerable complexity. The main summit crater is approximately 1.6 km wide and lies on the southwestern margin of a larger, 2.2 km wide caldera that is breached extensively to the southwest as a result of ancient slope failure — a sector collapse that removed a significant portion of the older edifice. The northeastern rim of the summit crater is incised by a secondary crater approximately 500 m wide and 60 m deep, formed during the powerful 1812 eruption. Frequent explosive eruptions beginning roughly 4,300 years ago produced the extensive pyroclastic deposits known as the Yellow Tephra Formation, which blankets much of St. Vincent Island and provides critical stratigraphic evidence for reconstructing the volcano's eruptive history. The dominantly andesitic to basaltic andesitic composition of Soufrière's magmas places them in a middle ground between the more mafic eruptions typical of <a href=\"/types-of-volcanoes\">shield volcanoes</a> and the highly silicic products of volcanoes like <a href=\"/volcano/soufriere-hills\">Soufrière Hills</a> on Montserrat, resulting in an eruptive style that alternates between effusive dome-building phases and violently explosive events."
+    },
+    "eruption_history_overview": {
+      "content": "Soufrière St. Vincent has a documented eruptive record spanning at least 6,400 years, with 23 confirmed eruptions in the Smithsonian database — 8 prehistoric events identified through geological deposits and 15 within the historical record beginning in 1718. The volcano's explosive eruptions follow a recognisable pattern: periods of repose lasting 70–140 years are punctuated by powerful vulcanian to sub-Plinian explosions, often preceded or followed by effusive dome-building activity. The five historical explosive eruptions occurred in 1718, 1812, 1902, 1979, and 2021 — intervals of 94, 90, 77, and 42 years respectively, suggesting an accelerating cycle that has significant implications for future hazard planning. Three of these events reached <a href=\"/volcanic-explosivity-index\">VEI</a> 4, placing them among the most powerful eruptions in the Caribbean's historical record. Between explosive episodes, the volcano has also produced purely effusive eruptions, most notably in 1971–1972 when a lava dome grew within a crater lake that had reformed in the summit crater. The prehistoric record, determined through radiocarbon dating of pyroclastic deposits, reveals at least two additional explosive eruptions around 1440 CE and 1580 CE, both producing pyroclastic density currents and lapilli fallout similar to the historical events."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1902 Eruption — Catastrophe on the Eve of Pelée",
+          "content": "The eruption of Soufrière St. Vincent that began on May 6, 1902, remains the deadliest volcanic disaster in the history of Saint Vincent and the Grenadines. During 1901, subtle signs of unrest appeared: small earthquakes were felt by people living on and around the volcano's flanks, and by April 1902 reports of increasing tremors, rockfalls, and landslides were reaching colonial authorities in Kingstown. At the time, a crater lake occupied the summit, and the interaction between rising magma and this body of water would prove catastrophic. On May 6, a series of phreatic and phreatomagmatic explosions heralded the beginning of the eruption. The climactic phase commenced around noon on May 7 and lasted until approximately 5:00 AM on May 8, generating pyroclastic density currents that swept radially down all flanks of the volcano with devastating force. Contemporary accounts describe the atmosphere turning black as sand and stones began to fall, accompanied by intense electrical activity. The pyroclastic flows killed approximately 1,600 people — the vast majority between 2:00 PM and 3:00 PM on May 7 — mostly agricultural workers on sugar estates on the eastern and northern flanks who had little warning and no established evacuation routes. The death zone fell predominantly within the territory of the Island Caribs, an indigenous people of the Lesser Antilles, and the eruption effectively destroyed this last large remnant of Carib culture on the island. A further 600 people were injured or burned, and some 4,000 were left homeless. Remarkably, this catastrophe occurred just hours before the far more famous eruption of <a href=\"/volcano/pelee\">Mont Pelée</a> on Martinique, 160 km to the north, which killed approximately 29,000 people in Saint-Pierre — the two events occurring on the same subduction arc within the same 24-hour period. Sporadic explosions continued until April 1903. The British Navy and the USS Dixie delivered humanitarian aid, and the eruptions ultimately accelerated the decline of the sugar industry while spurring the introduction of new crops including cacao, nutmeg, and coffee."
+        },
+        {
+          "title": "The 1812 Eruption — Turner's Volcano",
+          "content": "On April 27, 1812, Soufrière St. Vincent produced a major VEI 4 explosive eruption that carved the secondary crater still visible on the northeastern rim of the summit today. The eruption generated significant pyroclastic density currents that devastated the northern flanks, killed dozens of people — mostly enslaved workers on plantations — and deposited thick layers of ash across the island. A contemporary account by Captain Sabine of HMS Sabrina described columns of fire and torrents of ash raining down on the settlements below. The eruption attracted considerable attention in Europe: J. M. W. Turner painted a dramatic depiction of the April 30 eruption phase, a work that now belongs to the Victoria Gallery & Museum at the University of Liverpool, and stands as one of the earliest artistic representations of Caribbean volcanism. Geological evidence suggests that pyroclastic density currents from the 1812 event, while not as extensive as those of 1902, were considerably larger than those produced in 2021, indicating that the 1812 eruption may have been the most powerful historical event prior to 1902."
+        },
+        {
+          "title": "The 1979 Eruption — A Modern Success Story",
+          "content": "On April 13, 1979 — Good Friday — Soufrière St. Vincent erupted explosively with less than 24 hours of precursory warning, making it one of the shortest-notice eruptions in modern Caribbean history. The initial vulcanian episode lasted less than two weeks and propelled steam and tephra columns as high as 20 km (65,000 ft) into the atmosphere, generating pyroclastic density currents that swept down the valleys on the volcano's flanks. At the time, a crater lake existed from the quiescent period following the 1971–1972 effusive eruption, and the phreatomagmatic interaction between rising magma and lake water contributed to the explosive violence. The eruption created an ash plume that reached Barbados, 160 km to the east. Crucially, rapid scientific response led by the Seismic Research Unit of the University of the West Indies allowed the successful evacuation of thousands of residents from the northern hazard zones, resulting in no confirmed fatalities — a stark contrast to the 1,600 deaths in 1902. The explosive phase was followed by the quiet extrusion of a new lava dome within the emptied crater. The 1979 eruption serves as one of the most cited examples of effective volcanic crisis management in a developing island nation."
+        },
+        {
+          "title": "The 2020–2021 Eruption — Erupting During a Pandemic",
+          "content": "The most recent eruption of Soufrière St. Vincent began with an effusive phase on December 27, 2020, when increased seismicity and the growth of a new lava dome were detected on the southwestern edge of the main crater. Volcanologists were on high alert because La Soufrière is known to transition suddenly from effusive to explosive behaviour. By March 22, 2021, the dome had grown to 105 m tall, 243 m wide, and 921 m long. On April 8, after a sustained increase in volcanic and seismic activity, a Red Alert was declared and the Prime Minister ordered the evacuation of the Red Zone — affecting more than 20,000 people. The first explosive eruption occurred at 8:41 AM AST on April 9, 2021, producing an ash plume reaching approximately 10,000 m (32,800 ft). Over the following 13 days, more than 30 explosive eruptions occurred, generating pyroclastic density currents that reached the coast in two western valleys, burying the northern landscape under thick ash deposits, and sending a plume that blanketed Barbados 190 km to the east. Both the old 1979 dome and the new 2020 dome were completely destroyed, and a new crater was excavated. Rated at <a href=\"/volcanic-explosivity-index\">VEI</a> 4, the 2021 explosive sequence was comparable in scale to the 1902 event, yet remarkably produced no direct fatalities — a testament to improved monitoring, advance warning, and evacuations coordinated by NEMO and the UWI-SRC. Approximately 22,000 people were displaced, with 12,775 sheltered across 85 public and private shelters as of April 19. The eruption severely damaged agriculture — the economic backbone of northern St. Vincent — blanketed crops, contaminated water supplies, and caused hundreds of millions of dollars in damage. The crisis was compounded by the concurrent COVID-19 pandemic, which complicated shelter arrangements and inter-island evacuation. The alert level was lowered to Yellow in September 2021 and to Green in March 2022."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of early 2025, Soufrière St. Vincent is at Alert Level Green — the lowest level on the four-colour scale — indicating that seismic and fumarolic activity are at or below background levels recorded prior to the 2020–2021 eruption. The volcano is monitored by the University of the West Indies Seismic Research Centre (UWI-SRC) with assistance from the Soufrière Monitoring Unit (SMU) of the Ministry of Agriculture in Kingstown. The monitoring network includes five seismic stations, eight GPS stations, and several dry tilt sites, supplemented by satellite-based thermal and gas monitoring. Unrest has remained slightly elevated since the 2021 eruption, with continued low-level seismicity beneath the edifice, though scientists report no signs of an imminent eruption. In October 2024, a NASA satellite detected elevated temperatures at the summit, prompting concern, though the Prime Minister confirmed no visible unusual activity in the crater. The La Soufrière trail remains closed due to unstable and dangerous terrain left by the 2021 eruption, and NEMO continues to issue reminders about lahar hazards during heavy rainfall. Given the volcano's documented history of explosive eruptions at decreasing intervals — 94, 90, 77, and 42 years between the last five events — continued investment in the monitoring network is considered essential."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Soufrière St. Vincent presents a formidable array of volcanic hazards to the approximately 110,000 residents of St. Vincent Island. The primary threats include pyroclastic density currents — fast-moving avalanches of superheated gas and rock fragments that are unsurvivable and were responsible for essentially all fatalities in 1902 — as well as heavy tephra fall, volcanic ash clouds, lahars triggered by rainfall mobilising loose volcanic deposits, and volcanic gases including sulphur dioxide. The island's volcanic hazard map defines Red, Orange, and Yellow zones based on historical eruption impacts and projected maximum hazard extents. The Red Zone encompasses the northern tip of the island closest to the summit and includes roughly 20,000 residents, while the broader Orange and Yellow zones extend further south. The 2021 eruption demonstrated that pyroclastic density currents can reach the coast within specific valley systems, and that ashfall can severely impact the entire island and reach neighbouring nations including Barbados, Saint Lucia, and Grenada. Lahars remain a significant post-eruption hazard: thick deposits of unconsolidated ash on steep slopes are readily mobilised by tropical rainfall, creating dangerous mudflows that can persist for months or years after an eruption ends. The small size of St. Vincent — just 345 km² — means there is limited space to evacuate away from hazards, necessitating inter-island evacuations by sea during major events. The National Emergency Management Organisation (NEMO) maintains evacuation plans and a network of emergency shelters, though the 2021 experience revealed significant challenges in shelter capacity, water supply, and the complication of simultaneous public health crises."
+    },
+    "geography_and_physical_description": {
+      "content": "Soufrière St. Vincent dominates the northern end of St. Vincent Island, a roughly 29 km long, 17 km wide volcanic island in the Windward Islands of the Eastern Caribbean. The volcano's summit at 1,220 m (4,003 ft) is the highest point in Saint Vincent and the Grenadines. The edifice rises steeply from sea level through a sequence of vegetation zones: coastal coconut palms and cultivated banana and arrowroot fields on the lower slopes give way to dense tropical rainforest on the middle flanks, transitioning to montane cloud forest and finally bare volcanic rock near the summit. The summit complex features a nested structure: the outer 2.2 km wide caldera, breached to the southwest by an ancient sector collapse, contains the 1.6 km wide main crater, which in turn holds the secondary 1812 crater on its northeastern rim. Prior to the 2021 eruption, a lava dome occupied the crater floor. The northwestern flank of the volcano descends steeply into deeply incised river valleys — the Wallibou, Roseau, and Larikai — which serve as natural conduits for pyroclastic flows and lahars during eruptions. The southeastern flank is more gently graded, supporting denser settlement and agriculture. A separate volcanic centre, the Mendana cone, is located on the southeastern side of the edifice."
+    },
+    "climate_and_global_impact": {
+      "content": "The eruptions of Soufrière St. Vincent, while significant regionally, have generally been too small to produce measurable global climate effects. The 2021 VEI 4 eruption injected sulphur dioxide into the lower stratosphere, with satellite instruments measuring the SO₂ plume as it drifted eastward across the Atlantic, but the quantities were insufficient to cause detectable global cooling. By comparison, the 1991 eruption of <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6) injected roughly 20 million tonnes of SO₂ into the stratosphere and cooled the planet by approximately 0.5°C. However, the regional climate impacts of La Soufrière's eruptions are substantial: heavy ashfall alters local albedo, contaminates water supplies, and can devastate agricultural productivity for months to years. Following the 2021 eruption, deposited ash was estimated to require up to 150 years to be fully compensated by ecosystem recovery in the most heavily impacted areas. The volcanic soils of St. Vincent's flanks, enriched by thousands of years of eruptive deposits, are among the most fertile in the Caribbean, supporting the island's banana, arrowroot, and coconut industries."
+    },
+    "cultural_significance": {
+      "content": "La Soufrière occupies a central place in the cultural identity of Saint Vincent and the Grenadines. The volcano's name — French for 'sulphur outlet' — reflects the island's complex colonial history under French and British rule. For the indigenous Garifuna and Island Carib peoples, the volcano was an integral part of their cosmology; tragically, the 1902 eruption destroyed the last large concentration of Island Carib culture on St. Vincent. The 1812 eruption inspired one of J. M. W. Turner's dramatic paintings, now held at the Victoria Gallery & Museum at the University of Liverpool — one of the earliest artistic depictions of Caribbean volcanic activity by a major European painter. The eruption of April 2021, occurring during the Easter period much like the 1979 event, has become a defining moment for a generation of Vincentians, with April 9 marked as a day of national reflection. The volcano also has literary associations: author Daniel Defoe, known for Robinson Crusoe, is the purported writer of an account of the explosive eruption at La Soufrière in 1718, when indigenous inhabitants still controlled the island. Today, the volcano is featured on the national coat of arms and is the centrepiece of proposals for a geopark and nature tourism strategy that would position St. Vincent's volcanic heritage alongside its renowned Grenadine sailing destinations."
+    },
+    "visiting_and_tourism": {
+      "content": "Prior to the 2021 eruption, the hike to Soufrière's summit crater was one of the most popular trekking experiences in the Eastern Caribbean. The trail ascends through lush tropical rainforest from the leeward or windward side, typically taking 3–4 hours to the rim and 2–3 hours to descend, and rewarding hikers with panoramic views of the crater and, on clear days, neighbouring islands including <a href=\"/volcano/soufriere-guadeloupe\">Guadeloupe</a> and <a href=\"/volcano/pelee\">Martinique</a>. As of 2025, the La Soufrière trail remains closed due to unstable terrain created by the 2021 eruption, including loose pyroclastic deposits, altered drainage patterns, and the risk of lahars during rainfall. Visitors are strongly advised to respect closure signs and consult NEMO or the UWI-SRC for current conditions. The lower slopes of the volcano, including the Vermont Nature Trail and the Buccament Bay area, remain accessible and offer excellent birdwatching opportunities, including sightings of the St. Vincent Parrot (Amazona guildingii), the national bird and a critically protected endemic species. When the summit trail eventually reopens, a local guide is strongly recommended due to trail conditions and weather variability."
+    },
+    "nearby_volcanoes": {
+      "content": "Soufrière St. Vincent is one of approximately 20 potentially active volcanic centres along the Lesser Antilles arc, a 750 km chain of islands generated by the subduction of the Atlantic oceanic plate beneath the Caribbean Plate. Its nearest volcanic neighbours include Qualibou (the Soufrière of Saint Lucia), a caldera complex 100 km to the north that last erupted around 1766; Kick 'em Jenny, a submarine volcano off Grenada 150 km to the south that is the most recently active submarine volcano in the Caribbean (last eruption 2017); and <a href=\"/volcano/soufriere-hills\">Soufrière Hills</a> on Montserrat, 450 km to the north, which devastated the capital Plymouth during its prolonged 1995–2013 eruption. Further north, <a href=\"/volcano/soufriere-guadeloupe\">Soufrière Guadeloupe</a> (1,467 m) last erupted in 1977. The proximity of multiple active volcanic centres along this relatively short arc means that simultaneous eruptions — as occurred on May 7–8, 1902, when both St. Vincent and Martinique erupted within hours — remain a credible regional scenario."
+    },
+    "etymology": {
+      "content": "The name 'Soufrière' derives from the French word soufre, meaning 'sulphur,' and refers to the sulphurous fumarolic emissions characteristic of the summit area — a common naming convention in the French-colonised Caribbean. At least four volcanoes in the Lesser Antilles bear the name Soufrière, necessitating the geographic qualifier 'St. Vincent' to distinguish this volcano from its namesakes on Guadeloupe, Montserrat, and Dominica. The volcano is also commonly referred to as 'La Soufrière,' using the French definite article, particularly in local Vincentian usage and by the UWI Seismic Research Centre."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Soufrière St. Vincent Compared to the Lesser Antilles' Most Active Volcanoes",
+      "description": "How does Soufrière St. Vincent compare to other major volcanic centres along the Eastern Caribbean arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Soufrière St. Vincent",
+          "St. Vincent & Grenadines",
+          "1,220 m",
+          "Stratovolcano",
+          "2021",
+          "4",
+          "23",
+          "~20,000"
+        ],
+        [
+          "Mont Pelée",
+          "France (Martinique)",
+          "1,372 m",
+          "Stratovolcano",
+          "1932",
+          "4",
+          "~30",
+          "~100,000"
+        ],
+        [
+          "Soufrière Hills",
+          "United Kingdom (Montserrat)",
+          "915 m",
+          "Stratovolcano",
+          "2013",
+          "3",
+          "~17",
+          "~5,000"
+        ],
+        [
+          "Soufrière Guadeloupe",
+          "France (Guadeloupe)",
+          "1,467 m",
+          "Stratovolcano",
+          "1977",
+          "2",
+          "~8",
+          "~70,000"
+        ],
+        [
+          "Kick 'em Jenny",
+          "Grenada",
+          "-185 m",
+          "Submarine",
+          "2017",
+          "2",
+          "~14",
+          "Shipping lanes"
+        ]
+      ]
+    },
+    {
+      "title": "Soufrière St. Vincent's Five Historical Explosive Eruptions",
+      "description": "A comparison of all five explosive events in the historical record, showing increasing frequency.",
+      "headers": [
+        "Year",
+        "VEI",
+        "Duration",
+        "Key Characteristics",
+        "Casualties",
+        "Repose Period Before"
+      ],
+      "rows": [
+        [
+          "1718",
+          "3",
+          "Unknown",
+          "First recorded eruption; major explosions",
+          "Unknown",
+          "N/A"
+        ],
+        [
+          "1812",
+          "4",
+          "~1 year",
+          "Carved new NE crater; pyroclastic flows; depicted by Turner",
+          "Dozens",
+          "94 years"
+        ],
+        [
+          "1902",
+          "4",
+          "May 1902 – Apr 1903",
+          "Radial pyroclastic flows; coincided with Pelée eruption",
+          "~1,600",
+          "90 years"
+        ],
+        [
+          "1979",
+          "3",
+          "Apr – Oct 1979",
+          "Phreatomagmatic; destroyed 1971 dome; successful evacuation",
+          "0",
+          "77 years"
+        ],
+        [
+          "2021",
+          "4",
+          "Dec 2020 – Apr 2021",
+          "Dome growth → 30+ explosions; ash reached Barbados",
+          "0",
+          "42 years"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2380,
+      "vei": null,
+      "label": "Prehistoric eruption (geological evidence)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2310,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2200,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2135,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2020,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1600,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -750,
+      "vei": null,
+      "label": "Prehistoric eruption — Yellow Tephra deposits",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -530,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 905,
+      "vei": null,
+      "label": "Medieval eruption (geological evidence)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1325,
+      "vei": null,
+      "label": "Prehistoric eruption (~1325 CE)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1395,
+      "vei": null,
+      "label": "Prehistoric eruption (~1395 CE)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1480,
+      "vei": null,
+      "label": "Prehistoric eruption (~1480 CE)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1550,
+      "vei": null,
+      "label": "Prehistoric eruption (~1550 CE)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1640,
+      "vei": null,
+      "label": "Pre-historical record eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1718,
+      "vei": 3,
+      "label": "First historically recorded eruption — major explosions",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1784,
+      "vei": 0,
+      "label": "Minor activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1812,
+      "vei": 4,
+      "label": "Major eruption — new NE crater formed, dozens killed",
+      "deaths": "dozens",
+      "notable": true
+    },
+    {
+      "year": 1902,
+      "vei": 4,
+      "label": "Catastrophic eruption — ~1,600 killed; hours before Pelée",
+      "deaths": "1600",
+      "notable": true
+    },
+    {
+      "year": 1971,
+      "vei": 0,
+      "label": "Effusive eruption — lava dome forms island in crater lake",
+      "deaths": "0",
+      "notable": true
+    },
+    {
+      "year": 1979,
+      "vei": 3,
+      "label": "Explosive eruption — dome destroyed, successful evacuation",
+      "deaths": "0",
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": 4,
+      "label": "30+ explosions, 20,000+ evacuated, ash reached Barbados",
+      "deaths": "0",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 8,
+      "note": "Eruptions from ~4380 BCE to ~530 BCE identified in geological record"
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 2
+    },
+    {
+      "century": "16th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 3
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 2
+    },
+    {
+      "century": "21st",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "The 1902 eruption of Soufrière St. Vincent killed approximately 1,600 people just hours before Mont Pelée on Martinique erupted and killed 29,000 — the two deadliest eruptions on the same volcanic arc within a single day.",
+    "Soufrière St. Vincent has produced five explosive eruptions since 1718, with intervals between them decreasing from 94 years to just 42 years — suggesting an accelerating eruptive cycle.",
+    "The 2021 eruption generated more than 30 explosive events over 13 days, yet caused zero direct fatalities thanks to advance monitoring and the evacuation of over 20,000 people.",
+    "J. M. W. Turner painted the 1812 eruption of Soufrière St. Vincent, creating one of the earliest major European artistic depictions of Caribbean volcanism — the painting is now in Liverpool.",
+    "The death zone of the 1902 eruption fell predominantly within Island Carib territory, effectively destroying the last large remnant of indigenous Carib culture on St. Vincent.",
+    "Ash from the 2021 eruption reached Barbados, 190 km to the east, closing Grantley Adams International Airport and blanketing the island in volcanic debris.",
+    "The volcano's summit crater contains a nested structure: a 2.2 km outer caldera, a 1.6 km main crater, and a 500 m wide secondary crater carved by the 1812 eruption.",
+    "Daniel Defoe, author of Robinson Crusoe, is the purported writer of a contemporary account of the volcano's first historically recorded eruption in 1718.",
+    "The 2021 eruption was complicated by the COVID-19 pandemic — evacuees required vaccination to board cruise ships or seek refuge on neighbouring islands.",
+    "Pyroclastic density currents from the 1902 eruption swept radially down all flanks of the volcano, killing most victims in barely one hour between 2:00 PM and 3:00 PM.",
+    "At least four volcanoes in the Lesser Antilles bear the name 'Soufrière' (French for 'sulphur outlet'), requiring geographic qualifiers to distinguish them.",
+    "The volcano's fertile volcanic soils support St. Vincent's arrowroot industry — the island was historically the world's leading producer of arrowroot starch."
+  ],
+  "faqs": [
+    {
+      "question": "Is Soufrière St. Vincent still active?",
+      "answer": "Yes, Soufrière St. Vincent is an active stratovolcano and the most active terrestrial volcano in the Eastern Caribbean. Its most recent eruption occurred in 2020–2021, beginning with an effusive dome-building phase in December 2020 and culminating in a powerful VEI 4 explosive sequence from April 9–22, 2021. The alert level was lowered to Green (lowest level) in March 2022, indicating background-level seismicity and fumarolic activity. However, the volcano is continuously monitored by the University of the West Indies Seismic Research Centre, and scientists consider future eruptions a certainty given its well-documented history of explosive events at decreasing intervals."
+    },
+    {
+      "question": "When did Soufrière St. Vincent last erupt?",
+      "answer": "Soufrière St. Vincent last erupted in 2020–2021. An effusive eruption began on December 27, 2020, producing a growing lava dome in the summit crater. The eruption transitioned to an explosive phase on April 9, 2021, at 8:41 AM local time, when a powerful blast sent an ash plume approximately 10,000 m (32,800 ft) into the atmosphere. More than 30 explosive eruptions followed over 13 days, with the final explosion recorded on April 22, 2021. The eruption was rated VEI 4, making it comparable in scale to the devastating 1902 event, though no direct fatalities occurred due to successful evacuations."
+    },
+    {
+      "question": "How many people died in the 1902 eruption of Soufrière St. Vincent?",
+      "answer": "Approximately 1,600 people were killed during the 1902 eruption of Soufrière St. Vincent, with most deaths occurring on May 7 between 2:00 PM and 3:00 PM when pyroclastic density currents swept radially down the volcano's flanks. An additional 600 people were injured or burned, and some 4,000 were left homeless. The majority of victims were agricultural labourers working on sugar estates on the eastern flanks, who had limited warning and no evacuation infrastructure. The eruption occurred just hours before Mont Pelée on Martinique killed 29,000 people in Saint-Pierre, making May 7–8, 1902, one of the deadliest days in volcanic history."
+    },
+    {
+      "question": "How tall is Soufrière St. Vincent?",
+      "answer": "Soufrière St. Vincent rises to 1,220 m (4,003 ft) above sea level, making it the highest peak on St. Vincent Island and the highest point in Saint Vincent and the Grenadines. Some sources cite the elevation as 1,178 m (3,864 ft) or 1,235 m (4,052 ft), reflecting different survey methods and post-eruption changes to the summit topography. The volcano's height has been altered by successive eruptions: the 2021 explosive sequence destroyed the pre-existing lava dome and excavated a new crater, modifying the summit profile. For comparison, neighbouring Mont Pelée on Martinique stands at 1,372 m and Soufrière Guadeloupe at 1,467 m."
+    },
+    {
+      "question": "What type of volcano is Soufrière St. Vincent?",
+      "answer": "Soufrière St. Vincent is classified as a stratovolcano, also known as a composite volcano, characterised by alternating layers of lava flows, pyroclastic deposits, and volcanic ash built up over thousands of years. Its magma composition is dominantly andesitic to basaltic andesitic (55–58% silica), placing it in the intermediate range that can produce both effusive dome-building eruptions and violently explosive events. The summit features a complex nested crater structure: a 2.2 km wide outer caldera breached to the southwest, a 1.6 km wide inner crater, and a 500 m secondary crater formed in 1812. This dual effusive-explosive behaviour is typical of andesitic stratovolcanoes on subduction zone arcs worldwide."
+    },
+    {
+      "question": "Could Soufrière St. Vincent erupt again?",
+      "answer": "Yes, another eruption of Soufrière St. Vincent is considered certain by volcanologists. The volcano has produced five explosive eruptions since 1718, with the intervals between events decreasing from 94 years to just 42 years. Research on the past 1,000 years of eruptive deposits identifies a crude cyclicity of repose periods between 77 and 140 years, with more recent intervals systematically shortening. The 2021 eruption did not deplete the underlying magma system, and low-level seismicity continues beneath the edifice. While there are currently no signs of an imminent eruption, the UWI Seismic Research Centre maintains continuous monitoring to detect any early warning signs of renewed unrest."
+    },
+    {
+      "question": "What would happen if Soufrière St. Vincent had a major eruption today?",
+      "answer": "A major eruption of Soufrière St. Vincent would require the evacuation of approximately 20,000 residents from the Red and Orange hazard zones on the northern end of St. Vincent — exactly the scenario that played out in April 2021. Pyroclastic density currents could reach the coast within minutes through established valley systems, heavy ashfall would blanket the entire island and potentially reach neighbouring Barbados and Saint Lucia, and lahars would threaten river valleys for months afterward. The small size of St. Vincent (345 km²) limits on-island evacuation options, requiring maritime evacuations to neighbouring islands. NEMO maintains emergency plans and shelter networks, and the 2021 experience has strengthened response capacity."
+    },
+    {
+      "question": "Can you hike to the summit of Soufrière St. Vincent?",
+      "answer": "As of 2025, the La Soufrière summit trail remains closed due to unstable terrain left by the April 2021 eruption, including loose pyroclastic deposits and ongoing lahar hazards during rainfall. Prior to the eruption, the summit hike was one of the most popular treks in the Eastern Caribbean, ascending through tropical rainforest over 3–4 hours to the crater rim. Visitors should consult NEMO or the UWI Seismic Research Centre for current trail conditions before planning any visit. Lower-altitude trails on the volcano's flanks, including the Vermont Nature Trail, remain accessible for birdwatching and rainforest walks."
+    }
+  ],
+  "people_also_search": [
+    "soufriere st vincent eruption 2021",
+    "la soufriere volcano st vincent",
+    "soufriere st vincent 1902 eruption deaths",
+    "is soufriere st vincent active",
+    "soufriere st vincent height",
+    "soufriere st vincent vs mont pelee",
+    "caribbean volcanoes",
+    "lesser antilles volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Soufrière St. Vincent",
+    "alternateName": [
+      "La Soufrière",
+      "Soufrière Saint Vincent",
+      "St. Vincent Soufriere"
+    ],
+    "description": "Active stratovolcano in Saint Vincent and the Grenadines, the most active terrestrial volcano in the Eastern Caribbean, famous for the 1902 eruption that killed 1,600",
+    "geo": {
+      "latitude": 13.33,
+      "longitude": -61.18,
+      "elevation": 1220
+    },
+    "containedInPlace": {
+      "name": "Saint Vincent Island",
+      "country": "Saint Vincent and the Grenadines"
+    },
+    "url": "https://volcanoatlas.com/volcano/soufriere-st-vincent"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=360150",
+      "text": "Smithsonian GVP: Soufrière St. Vincent",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://uwiseismic.com/volcanoes/la-soufriere-eruption-2020-2021-hub/la-soufri%D1%90re-eruption-2020-2021-factsheet/",
+      "text": "UWI Seismic Research Centre: 2020–2021 Eruption Fact Sheet",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-022-31901-4",
+      "text": "Nature Communications: Responding to eruptive transitions (2022)",
+      "type": "research"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images/148176/eruption-at-la-soufriere",
+      "text": "NASA Earth Observatory: Eruption at La Soufrière",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Soufriere-volcano-Saint-Vincent",
+      "text": "Britannica: Soufrière Volcano, Saint Vincent",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "pelee",
+      "soufriere-hills",
+      "soufriere-guadeloupe",
+      "kick-em-jenny",
+      "qualibou",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "saint-vincent-and-the-grenadines"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "pelee",
+    "soufriere-hills",
+    "soufriere-guadeloupe",
+    "kick-em-jenny",
+    "qualibou"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Saint Vincent and the Grenadines",
+      "url": "/volcanoes-in-saint-vincent-and-the-grenadines"
+    },
+    {
+      "label": "Soufrière St. Vincent",
+      "url": "/volcano/soufriere-st-vincent"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/soufriere-st-vincent"
+}

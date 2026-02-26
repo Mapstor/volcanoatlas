@@ -1,0 +1,375 @@
+{
+  "slug": "tacana",
+  "volcano_id": 341130,
+  "title": "Tacaná",
+  "meta_title": "Tacaná Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Tacaná is a 4,064 m stratovolcano on the Mexico-Guatemala border. 11 eruptions recorded including a VEI 4 event. Full eruption history, hazards, and guide.",
+  "quick_answer": {
+    "what": "Tacaná is a 4,064 m (13,333 ft) composite stratovolcano straddling the Mexico-Guatemala border at the northwestern end of the Central American volcanic belt, the second-highest peak in Central America.",
+    "status": "Active — last erupted in 1986 (phreatic eruption). Historical activity has been restricted to mild phreatic eruptions, but the geological record shows more powerful explosive events as recently as ~70 CE.",
+    "famous_for": "A major border-straddling volcano that is the second-tallest peak in Central America and marks the transition between the Mexican and Central American volcanic arcs.",
+    "danger_level": "Moderate to high — approximately 300,000 people live within 30 km of the summit. The volcano's steep terrain and deeply incised drainages make it particularly susceptible to lahars during eruptions or heavy rainfall."
+  },
+  "hero": {
+    "name": "Tacaná",
+    "local_name": "Volcán Tacaná",
+    "subtitle": "Central America's Second-Highest Volcano on Two Nations' Border",
+    "country": "Mexico-Guatemala",
+    "region": "Chiapas (Mexico) / San Marcos (Guatemala)",
+    "type": "Stratovolcano",
+    "elevation_m": 4064,
+    "elevation_ft": 13333,
+    "status": "Active",
+    "last_eruption": "1986",
+    "coordinates": {
+      "lat": 15.132,
+      "lon": -92.109
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-07795.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "4,064 m (13,333 ft)",
+    "type": "Stratovolcano (composite)",
+    "status": "Active",
+    "last_eruption": "1986 (phreatic)",
+    "first_known_eruption": "~9450 BCE",
+    "total_recorded_eruptions": 11,
+    "vei_max": "4 (~70 CE, San Antonio dome eruption)",
+    "country": "Mexico-Guatemala (border volcano)",
+    "region": "Chiapas (Mexico) / San Marcos (Guatemala), Central American Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean/North American Plates, continental crust (> 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "15.132°N, 92.109°W",
+    "nearest_city": "Tapachula, Mexico — approximately 30 km south (population ~350,000 metro)",
+    "population_at_risk": "~300,000 within 30 km",
+    "monitoring_agency": "UNAM/CENAPRED (Mexico) and INSIVUMEH (Guatemala)",
+    "smithsonian_id": "341130",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=341130"
+  },
+  "sections": {
+    "overview": {
+      "content": "Tacaná is a 4,064 m (13,333 ft) composite <a href=\"/types-of-volcanoes\">stratovolcano</a> straddling the international border between <a href=\"/volcanoes-in-mexico\">Mexico</a> (Chiapas state) and Guatemala (San Marcos department) at the northwestern end of the Central American volcanic belt. It is the second-highest peak in Central America, surpassed only by Tajumulco (4,220 m), which lies just 20 km to the southeast in Guatemala. Tacaná rises approximately 1,800 m above the deeply dissected plutonic and metamorphic terrain at its base, and its elongated summit region is dominated by a series of lava domes intruded along a NE-SW trend. Three large calderas breached to the south mark episodes of edifice collapse. The youngest volcanic center, San Antonio, occupies the upper southwest flank and contains a small adventive lava dome in its crater. Tacaná's 11 recorded eruptions span over 11,000 years, with the most powerful event — a VEI 4 eruption around 70 CE — producing pyroclastic flows from the San Antonio dome. Historical activity since the mid-19th century has been limited to mild phreatic (steam-driven) eruptions, but the geological record demonstrates the volcano's capacity for significantly more powerful explosive events. Approximately 300,000 people live within 30 km of the summit, concentrated primarily around the Mexican city of Tapachula (metropolitan population ~350,000), making Tacaná one of the highest-risk volcanoes on the Mexico-Guatemala border."
+    },
+    "geology_and_formation": {
+      "content": "Tacaná sits at the tectonic junction where the Central American volcanic arc meets the Trans-Mexican Volcanic Belt. The volcano is fueled by the subduction of the Cocos Plate beneath the North American and Caribbean Plates at the Middle America Trench, approximately 150 km to the southwest. The underlying crust is thick continental crust (> 25 km), producing intermediate-composition magma — predominantly andesite and basaltic andesite. The volcanic edifice has evolved through multiple stages. The summit region features three large calderas, all breached to the south by sector collapses — a pattern suggesting repeated structural instability. Volcanism has migrated generally to the southwest over time, with the youngest center, San Antonio, occupying the upper SW flank. The summit area hosts multiple lava domes intruded along a NE-SW alignment, reflecting a structural control on magma ascent. Viscous lava flow complexes drape the north and south flanks, and lobate lahar deposits fill many valleys — evidence of the volcano's long history of debris flow generation. The deeply dissected terrain surrounding Tacaná channels radial drainages toward the Pacific coastal plain on the Guatemalan side, creating natural pathways for future lahars."
+    },
+    "eruption_history_overview": {
+      "content": "Tacaná's eruptive record includes 11 confirmed eruptions spanning approximately 11,400 years, from ~9450 BCE to 1986 CE. The early Holocene saw multiple eruptions for which VEI values are unknown, occurring between ~9450 and ~4740 BCE. The most powerful known eruption — a VEI 4 event around 70 CE — occurred from the San Antonio center on the upper southwest flank and produced pyroclastic flows, the most violent eruption style documented at Tacaná. A subsequent eruption around 1030 CE left additional deposits. The historical record begins in the mid-19th century with uncertain activity in 1855 (VEI 1), followed by a confirmed eruption in 1878 (VEI 1), a phreatic eruption in 1949-1950 (VEI 1), and the most recent eruption in February 1986 (VEI 1) from the NE flank at approximately 3,600 m elevation. All historical eruptions have been phreatic — steam-driven explosions without fresh magma reaching the surface — suggesting that Tacaná's magmatic system is currently in a state where groundwater interaction dominates over direct magmatic eruptions."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~70 CE Eruption — Tacaná's Most Powerful Known Event",
+          "content": "Approximately 1,950 years ago, Tacaná produced its most powerful known eruption from the San Antonio dome on the upper southwest flank. Classified at VEI 4, this eruption generated pyroclastic flows — fast-moving currents of hot gas and volcanic debris — that descended the volcano's flanks. The pyroclastic flow deposits, identified through geological mapping, demonstrate that Tacaná is capable of eruptions far more powerful and hazardous than its mild historical phreatic events suggest. A VEI 4 eruption today would threaten communities throughout the river valleys surrounding the volcano and could impact areas extending well down the Pacific coastal plain. This eruption established the benchmark for worst-case hazard planning at Tacaná."
+        },
+        {
+          "title": "The 1986 Phreatic Eruption — Tacaná's Most Recent Activity",
+          "content": "On February 16, 1986, a phreatic eruption occurred from the northeast flank of Tacaná at approximately 3,600 m elevation. The eruption was classified at VEI 1 and produced steam explosions and minor ash emissions without evidence of fresh magmatic material reaching the surface. The event was preceded by increased fumarolic activity and local seismicity. While small in scale, the eruption served as a reminder that Tacaná remains volcanically active and capable of erupting with relatively little warning. The eruption prompted enhanced monitoring efforts by both Mexican (CENAPRED) and Guatemalan (INSIVUMEH) agencies."
+        },
+        {
+          "title": "The 1949-1950 Eruption — Post-War Activity",
+          "content": "Beginning on December 22, 1949, and continuing into 1950, a phreatic eruption occurred from the southwest side of Tacaná. Classified at VEI 1, this event produced steam and minor ash emissions from the flank. The eruption drew attention to Tacaná as an active volcanic center requiring monitoring, though the limited resources available in the post-war period meant that documentation was sparse."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tacaná has not erupted since 1986 but is considered an active volcano with potential for future eruptions. The volcano is monitored jointly by Mexican and Guatemalan agencies: CENAPRED and UNAM on the Mexican side, and INSIVUMEH (Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología) on the Guatemalan side. Seismometers and periodic field observations track the volcano's activity. Fumarolic emissions from the summit area and flanks indicate ongoing hydrothermal activity. The 39-year quiet period since 1986 is not unusual given Tacaná's historical eruption frequency, but scientists note that the geological record shows the volcano is capable of eruptions far more powerful than its recent phreatic events. The cross-border location complicates monitoring coordination and emergency response planning."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Tacaná poses significant hazards to the approximately 300,000 people living within 30 km of the summit. The primary concerns are lahars, pyroclastic flows, ashfall, and lava dome collapse events. Lahars are arguably the greatest risk: the volcano's steep flanks and deeply incised river valleys create natural channels for volcanic mudflows, which could travel tens of kilometers and reach populated lowlands — including the outskirts of Tapachula, Mexico's major border city with Guatemala. The geological record of VEI 4 eruptions with pyroclastic flows (as in ~70 CE) demonstrates the potential for events far more destructive than the mild phreatic eruptions of recent history. Ashfall from a significant eruption could affect agricultural land across the Soconusco region, one of Mexico's most important coffee-growing areas. The cross-border location creates additional challenges: effective evacuation planning requires coordination between Mexican and Guatemalan civil protection agencies, different communication systems, and communities speaking different languages (Spanish on both sides, but also Mam Maya on the Guatemalan flank)."
+    },
+    "geography_and_physical_description": {
+      "content": "Tacaná rises to 4,064 m (13,333 ft) on the Mexico-Guatemala border, with the summit lying essentially on the international boundary. The volcano's steep, deeply dissected flanks descend through climate zones from alpine páramo at the summit, through cloud forest, to tropical lowlands on the Pacific coastal plain. Three large calderas, all breached to the south, scar the upper edifice. The summit ridge hosts multiple lava domes aligned along a NE-SW trend, with the youngest, San Antonio, on the upper southwest flank. Viscous lava flows drape the north and south flanks. Radial river drainages incise the volcanic slopes, with rivers on the Guatemalan side deflected by surrounding mountains into the Pacific coastal plain. The international border crossing of Talismán/El Carmen lies at the volcano's base, making Tacaná visible to the thousands of people who cross the Mexico-Guatemala border daily."
+    },
+    "cultural_significance": {
+      "content": "Tacaná holds cultural significance for communities on both sides of the Mexico-Guatemala border. For the Mam Maya people of the Guatemalan highlands, the volcano is part of the sacred landscape that defines their ancestral territory. On the Mexican side, Tacaná is a landmark of Chiapas state and an important destination for mountaineering — it is the highest point in southern Mexico. The Soconusco region at the volcano's base has been an important cultural crossroads for millennia, connecting Mesoamerican civilizations from the Olmec to the Maya. Today, the region's coffee plantations (fincas) produce some of Mexico's finest coffee, benefiting from the volcanic soils and altitude. The border town of Ciudad Hidalgo/Tecún Umán, downstream from Tacaná, is one of the busiest crossing points between Mexico and Guatemala."
+    },
+    "visiting_and_tourism": {
+      "content": "Tacaná is climbed from both the Mexican and Guatemalan sides. The Mexican route typically starts from the village of Talquián, above Unión Juárez in Chiapas, and involves a demanding multi-day trek through cloud forest to the summit. The Guatemalan approach from the San Marcos department offers alternative routes. Summit views on clear days encompass the Pacific Ocean, the volcanic chain of Guatemala, and the Mexican highlands. Climbers should be prepared for cold temperatures at altitude and rapidly changing weather. Local guides are available in Unión Juárez and in San Marcos communities. The broader Soconusco region offers coffee plantation tours, birding in the cloud forests, and the archaeological site of Izapa near Tapachula."
+    },
+    "nearby_volcanoes": {
+      "content": "Tacaná marks the northwestern terminus of the Central American volcanic arc. Tajumulco (4,220 m), Central America's highest peak, lies just 20 km to the southeast in Guatemala. <a href=\"/volcano/fuego\">Fuego</a>, Guatemala's most dangerously active volcano, lies farther along the arc to the southeast. To the northwest, the volcanic arc transitions into the Trans-Mexican Volcanic Belt, which includes <a href=\"/volcano/colima\">Colima</a>, the <a href=\"/volcano/michoacan-guanajuato\">Michoacán-Guanajuato volcanic field</a>, and <a href=\"/volcano/popocatepetl\">Popocatépetl</a>. Tacaná's position at the junction of these two volcanic systems makes it geologically significant as a boundary marker between distinct tectonic segments of the Middle American subduction zone."
+    },
+    "etymology": {
+      "content": "The name Tacaná is derived from the Mam Maya language, though its precise meaning is debated. Some scholars translate it as 'fire house' or 'house of fire' (ta = fire, kana = house), while others suggest it means 'high place.' The volcano has been known by this name for centuries among the indigenous Mam Maya communities of the surrounding highlands."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Tacaná Compared to Other Central American Border and Summit Volcanoes",
+      "description": "How does Tacaná compare to other major volcanoes along the Central American volcanic arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Tacaná",
+          "Mexico-Guatemala",
+          "4,064 m",
+          "Stratovolcano",
+          "1986",
+          "4",
+          "11"
+        ],
+        [
+          "Tajumulco",
+          "Guatemala",
+          "4,220 m",
+          "Stratovolcano",
+          "~930 CE",
+          "3",
+          "1"
+        ],
+        [
+          "Fuego",
+          "Guatemala",
+          "3,763 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "60+"
+        ],
+        [
+          "Santa María",
+          "Guatemala",
+          "3,772 m",
+          "Stratovolcano",
+          "2024",
+          "6",
+          "8"
+        ],
+        [
+          "Colima",
+          "Mexico",
+          "3,850 m",
+          "Stratovolcano",
+          "2019",
+          "4",
+          "50+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -9450,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5940,
+      "vei": null,
+      "label": "Early Holocene eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -4740,
+      "vei": null,
+      "label": "Mid-Holocene eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 70,
+      "vei": 4,
+      "label": "Most powerful known eruption — San Antonio dome pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1030,
+      "vei": null,
+      "label": "Medieval eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1878,
+      "vei": 1,
+      "label": "Phreatic eruption — SW side",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1949,
+      "vei": 1,
+      "label": "Phreatic eruption — SW flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1986,
+      "vei": 1,
+      "label": "Most recent eruption — phreatic, NE flank",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 6,
+      "note": "From ~9450 BCE to ~1080 BCE"
+    },
+    {
+      "century": "1st",
+      "count": 1,
+      "note": "VEI 4 eruption ~70 CE"
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 2
+    }
+  ],
+  "facts": [
+    "Tacaná is the second-highest peak in Central America at 4,064 m (13,333 ft), surpassed only by neighboring Tajumulco (4,220 m) just 20 km to the southeast.",
+    "The international border between Mexico and Guatemala runs directly through or very near Tacaná's summit, making it one of the world's few volcanoes shared between two nations.",
+    "Tacaná's most powerful known eruption (~70 CE, VEI 4) produced pyroclastic flows — a capability that far exceeds its mild historical phreatic activity, which has been limited to VEI 1.",
+    "Approximately 300,000 people live within 30 km of the summit, including residents of Tapachula, Mexico's major border city with Guatemala.",
+    "The Soconusco region at Tacaná's base produces some of Mexico's finest coffee, cultivated on volcanic soils at elevations of 900-1,500 m.",
+    "Tacaná marks the precise geological transition between the Central American volcanic arc and the Trans-Mexican Volcanic Belt — two distinct volcanic systems driven by the same subducting Cocos Plate.",
+    "Three large calderas on the volcano's upper flanks, all breached to the south, record episodes of massive edifice collapse.",
+    "Cross-border volcanic hazard coordination between Mexico (CENAPRED) and Guatemala (INSIVUMEH) is required for Tacaná, adding complexity to emergency management.",
+    "The volcano's name likely derives from the Mam Maya language, with a meaning related to 'fire' or 'high place.'",
+    "Lahars from Tacaná could travel down deeply incised river valleys and reach populated lowland areas tens of kilometers from the summit."
+  ],
+  "faqs": [
+    {
+      "question": "Is Tacaná still active?",
+      "answer": "Yes, Tacaná is classified as an active volcano. Its most recent eruption was a phreatic (steam-driven) event in February 1986. While historical eruptions have been mild (VEI 1), the geological record reveals that the volcano produced a VEI 4 eruption with pyroclastic flows approximately 1,950 years ago, demonstrating its capacity for much more powerful events. Fumarolic activity continues at the summit area, indicating an active hydrothermal system. CENAPRED (Mexico) and INSIVUMEH (Guatemala) jointly monitor the volcano."
+    },
+    {
+      "question": "How tall is Tacaná?",
+      "answer": "Tacaná stands 4,064 m (13,333 ft) above sea level, making it the second-highest peak in Central America. Only neighboring Tajumulco in Guatemala surpasses it at 4,220 m. Tacaná rises approximately 1,800 m above the surrounding metamorphic and plutonic terrain at its base. Its summit is the highest point in the Mexican state of Chiapas and in all of southern Mexico."
+    },
+    {
+      "question": "Which countries share Tacaná?",
+      "answer": "Tacaná straddles the international border between Mexico and Guatemala. The Mexican side falls within Chiapas state, while the Guatemalan side is in the San Marcos department. The summit lies essentially on the border. This binational status means that volcanic hazard management requires coordination between two different government systems — CENAPRED and UNAM on the Mexican side, and INSIVUMEH on the Guatemalan side. Communities on both sides of the border would be affected by a significant eruption."
+    },
+    {
+      "question": "What are the main hazards from Tacaná?",
+      "answer": "Tacaná's primary hazards include lahars (volcanic mudflows), pyroclastic flows, ashfall, and dome-collapse events. Lahars are considered the greatest risk because the volcano's steep, deeply incised terrain channels debris flows down river valleys toward populated lowlands, including areas near Tapachula (population ~350,000). The geological record of a VEI 4 eruption with pyroclastic flows (~70 CE) shows the volcano can produce events far more dangerous than its recent mild phreatic eruptions. Ashfall could impact the Soconusco coffee-growing region and disrupt air traffic."
+    },
+    {
+      "question": "Can you climb Tacaná?",
+      "answer": "Yes, Tacaná is a popular mountaineering destination, climbed from both Mexican and Guatemalan sides. The Mexican route typically begins from the village of Talquián above Unión Juárez in Chiapas, involving a demanding multi-day trek through cloud forest to the summit. Clear-weather views from the top are spectacular, encompassing the Pacific Ocean, Guatemala's volcanic chain, and the Mexican highlands. Climbers should prepare for cold temperatures at altitude, rapidly changing weather, and remote conditions. Local guides are available in Unión Juárez."
+    },
+    {
+      "question": "When did Tacaná last erupt?",
+      "answer": "Tacaná's most recent eruption occurred on February 16, 1986, from the northeast flank at approximately 3,600 m elevation. It was a phreatic (steam-driven) eruption classified at VEI 1, producing steam explosions and minor ash without fresh magma reaching the surface. Prior to that, a similar phreatic event occurred in 1949-1950. The volcano has been quiet since 1986 — a period of 39 years — but remains considered active by both Mexican and Guatemalan monitoring agencies."
+    }
+  ],
+  "people_also_search": [
+    "tacana volcano mexico",
+    "tacana volcano guatemala",
+    "highest volcanoes central america",
+    "tacana eruption",
+    "mexico guatemala border volcano",
+    "tacana height"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Tacaná",
+    "alternateName": [
+      "Volcán Tacaná"
+    ],
+    "description": "Active stratovolcano on the Mexico-Guatemala border, second-highest peak in Central America",
+    "geo": {
+      "latitude": 15.132,
+      "longitude": -92.109,
+      "elevation": 4064
+    },
+    "containedInPlace": {
+      "name": "Chiapas/San Marcos",
+      "country": "Mexico-Guatemala"
+    },
+    "url": "https://volcanoatlas.com/volcano/tacana"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=341130",
+      "text": "Smithsonian GVP: Tacaná",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.gob.mx/cenapred",
+      "text": "CENAPRED — Mexico National Disaster Prevention Center",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://insivumeh.gob.gt/",
+      "text": "INSIVUMEH — Guatemala Seismology and Volcanology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Guatemala",
+      "text": "Britannica: Guatemala",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "fuego",
+      "colima",
+      "popocatepetl",
+      "michoacan-guanajuato"
+    ],
+    "country_pages": [
+      "mexico",
+      "guatemala"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "tajumulco",
+    "fuego",
+    "santa-maria",
+    "colima",
+    "popocatepetl"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Mexico",
+      "url": "/volcanoes-in-mexico"
+    },
+    {
+      "label": "Tacaná",
+      "url": "/volcano/tacana"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tacana"
+}

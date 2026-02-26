@@ -1,0 +1,379 @@
+{
+  "slug": "rabaul",
+  "volcano_id": 252140,
+  "title": "Rabaul",
+  "meta_title": "Rabaul Caldera — Eruption History, 1994 Eruption & Facts | VolcanoAtlas",
+  "meta_description": "Rabaul is an active caldera volcano in Papua New Guinea, famous for the 1994 twin eruption that destroyed the city. Full eruption history, hazards, and facts.",
+  "quick_answer": {
+    "what": "Rabaul is an active caldera volcano at the northeastern tip of New Britain island, Papua New Guinea, whose 8 × 14 km caldera forms the sheltered harbor of Blanche Bay.",
+    "status": "Active — last erupted in 2014 from the Tavurvur cone. Highly active over the past century with near-continuous eruptions since 1994.",
+    "famous_for": "The dramatic simultaneous eruption of Vulcan and Tavurvur cones on September 19, 1994, which forced the complete evacuation and effective destruction of Rabaul city.",
+    "danger_level": "Very high — the caldera has produced a VEI 6 eruption (~683 CE) and twin VEI 4 eruptions in both 1937 and 1994. Tens of thousands of people live within the caldera and surrounding area."
+  },
+  "hero": {
+    "name": "Rabaul",
+    "local_name": null,
+    "subtitle": "The Caldera That Destroyed a City",
+    "country": "Papua New Guinea",
+    "region": "Bismarck Volcanic Arc",
+    "type": "Caldera",
+    "elevation_m": 688,
+    "elevation_ft": 2257,
+    "status": "Active",
+    "last_eruption": "2014",
+    "coordinates": {
+      "lat": -4.2459,
+      "lon": 152.1937
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00468.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "688 m (2,257 ft)",
+    "type": "Caldera with multiple intra-caldera cones",
+    "status": "Active",
+    "last_eruption": "July 2014 (Tavurvur cone)",
+    "first_known_eruption": "~683 CE",
+    "total_recorded_eruptions": 19,
+    "vei_max": "6 (~683 CE)",
+    "country": "Papua New Guinea",
+    "region": "East New Britain Province, Gazelle Peninsula",
+    "tectonic_setting": "Subduction zone / Continental crust (> 25 km)",
+    "rock_types": [
+      "Dacite"
+    ],
+    "coordinates": "4.246°S, 152.194°E",
+    "nearest_city": "Kokopo — 20 km SE (replacement capital); Rabaul town within caldera",
+    "population_at_risk": "~50,000+ (Rabaul-Kokopo area)",
+    "summit_crater": "Caldera 8 × 14 km, breached to east (Blanche Bay)",
+    "monitoring_agency": "Rabaul Volcanological Observatory (RVO)",
+    "smithsonian_id": "252140",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=252140"
+  },
+  "sections": {
+    "overview": {
+      "content": "Rabaul is an active <a href=\"/types-of-volcanoes\">caldera</a> volcano located at the northeastern tip of New Britain island in <a href=\"/volcanoes-in-papua-new-guinea\">Papua New Guinea</a>, within the Bismarck Volcanic Arc. The 8 × 14 km caldera is widely breached on its eastern side, where its floor is flooded by Blanche Bay — a broad, sheltered natural harbor that attracted colonial settlement and led to Rabaul city becoming one of the most important ports in the southwestern Pacific. The caldera was formed approximately 1,400 years ago in a massive <a href=\"/volcanic-explosivity-index\">VEI</a> 6 eruption around 683 CE, and an earlier caldera-forming eruption approximately 7,100 years ago is attributed to the offshore Tavui caldera to the north. Since the 683 CE collapse, multiple pyroclastic cones have grown on the caldera floor near the northeastern and western walls. Two of these — Vulcan and Tavurvur — have produced devastating eruptions during historical time, most famously the simultaneous twin eruption of September 19, 1994, which forced the complete evacuation of Rabaul city and effectively destroyed the urban center. Rabaul represents one of the world’s most striking examples of a populated caldera, comparable to <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> near Naples and Aira caldera containing the city of Kagoshima in <a href=\"/volcanoes-in-japan\">Japan</a>. The Rabaul Volcanological Observatory (RVO), established after the catastrophic 1937 eruption, played a crucial role in the successful 1994 evacuation that saved thousands of lives."
+    },
+    "geology_and_formation": {
+      "content": "Rabaul sits within the Bismarck Volcanic Arc at the subduction boundary where the Solomon Sea Plate descends beneath the South Bismarck Plate. The present caldera was created approximately 1,400 years ago in a VEI 6 eruption that produced voluminous dacitic pyroclastic flows and caused massive roof collapse. An older caldera-forming event approximately 7,100 years ago originated from the Tavui caldera offshore to the north. The caldera floor hosts a ring of post-caldera volcanic cones built from basaltic to dacitic materials. Three small <a href=\"/types-of-volcanoes\">stratovolcanoes</a> lie outside the northern and northeastern caldera rims. The most significant intra-caldera features are the Vulcan cone — substantially built during the 1878 eruption — and Tavurvur on the northeastern caldera floor. The dacitic magma composition produces gas-rich, highly explosive eruptions when pressure is released, accounting for the violent Vulcanian to sub-Plinian eruption styles observed at both vents."
+    },
+    "eruption_history_overview": {
+      "content": "Rabaul’s 19 recorded eruptions span approximately 1,350 years, from the caldera-forming VEI 6 event around 683 CE to the most recent Tavurvur eruption in 2014. Historical eruptions have been documented since 1767. The 20th century brought intense activity: the catastrophic VEI 4 twin eruption of 1937 killed over 500 people, several eruptions occurred during the Japanese occupation in World War II (1940–1943), and the equally devastating VEI 4 twin eruption of 1994 destroyed Rabaul city. Since 1994, Tavurvur has been in near-continuous activity, producing eruptions through 2014 with the last event reaching VEI 3."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~683 CE Eruption — Caldera-Forming Cataclysm",
+          "content": "Approximately 1,400 years ago, the Rabaul volcanic complex produced a catastrophic VEI 6 eruption that created the present-day 8 × 14 km caldera. This colossal event generated massive dacitic pyroclastic flows that swept across the Gazelle Peninsula and deposited thick ignimbrite sheets over a wide area. The eruption ejected tens of cubic kilometers of material, comparable in magnitude to the 1991 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a>. The caldera floor collapsed below sea level, allowing the ocean to flood the depression and create Blanche Bay. This event occurred within a few decades of a similar-magnitude eruption at <a href=\"/volcano/witori\">Witori</a> caldera 250 km to the southwest."
+        },
+        {
+          "title": "The 1878 Eruption — Birth of Vulcan Island",
+          "content": "On January 30, 1878, a significant eruption occurred simultaneously from Vulcan Island and Tavurvur, reaching VEI 3. The Vulcan cone was substantially built during this event, which produced explosive eruptions and pyroclastic flows within the western portion of the caldera. This eruption established the pattern — later repeated in both 1937 and 1994 — of simultaneous eruptions from both vents, suggesting they share a connected magma plumbing system beneath the caldera floor."
+        },
+        {
+          "title": "The 1937 Eruption — Catastrophe and the Birth of Monitoring",
+          "content": "On May 29, 1937, Vulcan and Tavurvur erupted simultaneously in a powerful VEI 4 event that devastated the town of Rabaul, then the administrative capital of the Territory of New Guinea under Australian mandate. Vulcan’s eruption was the more violent, producing powerful explosions, pyroclastic flows, and heavy ashfall. Over 500 people were killed, most of them indigenous Tolai people living in villages near Vulcan. The disaster directly led to the establishment of the Rabaul Volcanological Observatory in 1940, which has since monitored all of Papua New Guinea’s approximately 39 active volcanoes."
+        },
+        {
+          "title": "The 1994 Eruption — Destruction of Rabaul City",
+          "content": "On September 19, 1994, Vulcan and Tavurvur erupted simultaneously in another VEI 4 twin eruption, replicating the 1937 pattern. Unlike 1937, the eruption was preceded by years of careful monitoring by the RVO, which had detected escalating seismicity and ground uplift. When the eruption began at approximately 6:06 AM, evacuation plans were activated and the vast majority of Rabaul’s approximately 30,000 residents escaped, resulting in only five deaths — one of the great success stories of volcanological monitoring. Over the following days, up to 75 cm of wet volcanic ash accumulated on parts of the city, collapsing roofs and rendering buildings uninhabitable. Approximately 80% of the town’s structures were damaged or destroyed. The provincial capital was subsequently relocated to Kokopo, approximately 20 km to the southeast."
+        },
+        {
+          "title": "The 2006–2010 and 2014 Eruptions — Ongoing Tavurvur Activity",
+          "content": "Following the 1994 eruption, Tavurvur entered prolonged intermittent activity continuing into the 2010s. The 2006–2010 period was particularly active at VEI 4, with continuous Vulcanian explosions and occasional larger paroxysms disrupting regional aviation. On July 7, 2014, Tavurvur produced the most recent significant eruption at VEI 3. This ongoing activity demonstrates that the Rabaul caldera system remains highly active and Tavurvur has become one of the most persistently active vents in the southwestern Pacific."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tavurvur has been quiet since the July 2014 eruption, though fumarolic emissions and elevated thermal output continue. The Rabaul Volcanological Observatory monitors the caldera using seismometers, tiltmeters, GPS stations, and gas-sampling instruments. International partners including the Australian Bureau of Meteorology provide additional technical support. InSAR satellite monitoring has detected ongoing caldera-scale deformation, indicating the magma system remains dynamic. Given the near-continuous activity at Tavurvur since 1994, the current quiet period does not necessarily indicate long-term dormancy. The possibility of a future caldera-scale eruption cannot be excluded."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Rabaul’s hazard profile spans a wide range of scales. Vulcanian eruptions from Tavurvur produce ashfall, ballistic projectiles, and volcanic gas hazards within 5–10 km. VEI 3–4 eruptions like 1937 and 1994 generate pyroclastic flows, heavy ashfall sufficient to collapse buildings, and potential tsunami. A repeat of the VEI 6 caldera-forming eruption would devastate the entire Gazelle Peninsula. Although much of Rabaul’s population has relocated to Kokopo, some residents have returned to the caldera area, and Kokopo itself lies within the hazard zone for large eruptions. Rabaul is included on the IAVCEI list of Decade Volcanoes, recognizing its combination of eruptive potential and proximity to populated areas."
+    },
+    "geography_and_physical_description": {
+      "content": "The Rabaul caldera measures 8 × 14 km and occupies the northeastern tip of New Britain’s Gazelle Peninsula. The caldera is breached on its eastern side, where Blanche Bay floods the caldera floor. Inside, Tavurvur on the northeastern floor is a small but vigorously active cone, while Vulcan near the southwestern entrance to Blanche Bay is larger and has produced the most powerful recent events. Hot springs and fumaroles are scattered around the caldera floor. The town of Rabaul sits within the caldera on the shores of Blanche Bay, with volcanic cones rising dramatically on either side of the harbor."
+    },
+    "climate_and_global_impact": {
+      "content": "The VEI 6 caldera-forming eruption of ~683 CE was large enough to have injected significant sulfur dioxide into the stratosphere, potentially contributing to climate perturbations in the late 7th century. The 1937 and 1994 VEI 4 eruptions were below the threshold for measurable global climate effects. The prolonged Tavurvur activity since 1994 has released substantial sulfur dioxide, affecting regional atmospheric chemistry in the Bismarck Sea region and episodically impacting aviation routes across the western Pacific."
+    },
+    "cultural_significance": {
+      "content": "Rabaul holds enormous historical significance in the Pacific. The harbor served as capital of German New Guinea (1910–1914), Australian-administered New Guinea (1914–1942), and a major Japanese military base during World War II. The Japanese constructed extensive tunnel networks and airfields still visible today. The Tolai people hold deep cultural connections to the caldera landscape. The 1937 eruption’s impact on Tolai communities and the 1994 destruction of the colonial town are defining events in the region’s history. Post-1994, the partially ruined town has become a tourist attraction."
+    },
+    "visiting_and_tourism": {
+      "content": "Rabaul is accessible by flights to Tokua Airport near Kokopo. The partially ruined town, WWII Japanese tunnels, the active Tavurvur cone, and hot springs around Blanche Bay make it a compelling destination. Guided visits to Tavurvur offer views of the steaming cone and ash-covered landscape. Blanche Bay offers diving on WWII wrecks. Accommodation is available in Kokopo. Visitors should check volcanic alert levels with the RVO before approaching the caldera area."
+    },
+    "nearby_volcanoes": {
+      "content": "<a href=\"/volcano/witori\">Witori</a> caldera lies approximately 250 km to the southwest with a remarkably similar eruptive history. Ulawun, Papua New Guinea’s tallest volcano, lies between the two calderas. Langila is another frequently active cone on New Britain. The Tavui caldera offshore to the north is believed to be the source of an earlier caldera-forming eruption approximately 7,100 years ago."
+    },
+    "etymology": {
+      "content": "The name Rabaul derives from the Kuanua language of the Tolai people. Tavurvur is a Tolai name, while Vulcan was named by European settlers referencing the Roman god of fire. Blanche Bay was named by French navigator Lapérouse during his 1788 Pacific expedition."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Rabaul Compared to the World’s Most Dangerous Inhabited Calderas",
+      "description": "How does Rabaul compare to other calderas where populations live within or near the volcanic structure?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Caldera Size",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Rabaul",
+          "Papua New Guinea",
+          "8 × 14 km",
+          "Caldera",
+          "2014",
+          "6",
+          "~50,000+"
+        ],
+        [
+          "Campi Flegrei",
+          "Italy",
+          "13 km",
+          "Caldera",
+          "1538",
+          "5",
+          "~1.5 million"
+        ],
+        [
+          "Aira (Sakurajima)",
+          "Japan",
+          "17 × 23 km",
+          "Caldera",
+          "2024",
+          "5",
+          "~600,000"
+        ],
+        [
+          "Taal",
+          "Philippines",
+          "~3 km (inner)",
+          "Caldera",
+          "2022",
+          "4",
+          "~900,000"
+        ],
+        [
+          "Yellowstone",
+          "USA",
+          "72 × 55 km",
+          "Caldera",
+          "~70,000 BP",
+          "8",
+          "~10,000 (nearby)"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 683,
+      "vei": 6,
+      "label": "Caldera-forming eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1878,
+      "vei": 3,
+      "label": "Vulcan and Tavurvur twin eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1937,
+      "vei": 4,
+      "label": "Twin eruption destroys Rabaul — 500+ killed",
+      "deaths": "500+",
+      "notable": true
+    },
+    {
+      "year": 1994,
+      "vei": 4,
+      "label": "Twin eruption destroys Rabaul city — 5 killed",
+      "deaths": "5",
+      "notable": true
+    },
+    {
+      "year": 2006,
+      "vei": 4,
+      "label": "Sustained Tavurvur eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2014,
+      "vei": 3,
+      "label": "Most recent eruption — Tavurvur",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "7th",
+      "count": 1,
+      "note": "VEI 6 caldera-forming eruption"
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 5,
+      "note": "Including 1937 and 1994 twin eruptions"
+    },
+    {
+      "century": "21st",
+      "count": 8,
+      "note": "Near-continuous Tavurvur activity"
+    }
+  ],
+  "facts": [
+    "The 1994 eruption of Rabaul was one of volcanology’s great success stories — decades of monitoring meant only 5 people died in an eruption that destroyed an entire city of 30,000.",
+    "Both the 1937 and 1994 eruptions featured simultaneous eruptions from Vulcan and Tavurvur cones on opposite sides of the caldera, suggesting a connected magma system.",
+    "The caldera-forming eruption of ~683 CE reached VEI 6, comparable in magnitude to the 1991 eruption of Mount Pinatubo.",
+    "Rabaul’s Blanche Bay is actually a flooded caldera floor, created when it collapsed below sea level during the 683 CE eruption.",
+    "During World War II, Rabaul served as a major Japanese military base with extensive tunnel networks still visible today.",
+    "The Rabaul Volcanological Observatory, established after the 1937 disaster, was one of the first permanent volcano monitoring institutions in the Pacific.",
+    "Up to 75 cm of wet volcanic ash accumulated on parts of Rabaul city during the 1994 eruption, collapsing roughly 80% of buildings.",
+    "Tavurvur has been in nearly continuous eruption since 1994, producing activity over two decades.",
+    "The 1937 eruption killed over 500 people, mostly indigenous Tolai communities, because no monitoring system existed.",
+    "Rabaul is one of 16 Decade Volcanoes identified by the IAVCEI for its combination of eruptive potential and proximity to populations."
+  ],
+  "faqs": [
+    {
+      "question": "Is Rabaul still active?",
+      "answer": "Yes, Rabaul is one of the most active volcanic complexes in the southwestern Pacific. The Tavurvur cone within the caldera last erupted in July 2014 and has been in near-continuous activity since the major 1994 eruption. Fumarolic emissions continue, and the caldera's magma system shows ongoing signs of dynamic behavior through ground deformation detected by satellite radar. The Rabaul Volcanological Observatory continuously monitors the caldera for any signs of renewed eruption."
+    },
+    {
+      "question": "What happened during the 1994 Rabaul eruption?",
+      "answer": "On September 19, 1994, Vulcan and Tavurvur cones erupted simultaneously inside the Rabaul caldera in a VEI 4 event. The eruption produced powerful explosions, pyroclastic flows, and heavy ashfall that deposited up to 75 cm of ash on parts of Rabaul city. Approximately 80% of the town's structures were damaged or destroyed. However, thanks to decades of monitoring by the Rabaul Volcanological Observatory, evacuation plans were activated quickly, and only five people died out of a population of approximately 30,000 — making it one of the most successful volcanic evacuations in history."
+    },
+    {
+      "question": "When did Rabaul last erupt?",
+      "answer": "Rabaul's Tavurvur cone last erupted on July 7, 2014, in a VEI 3 event that produced a significant eruption column and ashfall across the surrounding area. Prior to that, Tavurvur had been in nearly continuous eruption since September 1994, with only brief pauses. The most recent sustained eruptive period ran from 2006 to 2010 at VEI 4. The caldera has experienced some form of eruptive activity in most years since 1994."
+    },
+    {
+      "question": "How was the 1994 evacuation so successful?",
+      "answer": "The 1994 evacuation succeeded because of lessons learned from the deadly 1937 eruption, which killed over 500 people. After 1937, the Rabaul Volcanological Observatory was established and developed a comprehensive monitoring network and evacuation plan over decades. Seismic activity, ground uplift, and geochemical changes were tracked continuously. When the eruption began on September 19, 1994, the population was already on alert and evacuation routes were well-practiced. The vast majority of Rabaul's 30,000 residents escaped, with only five fatalities."
+    },
+    {
+      "question": "What type of volcano is Rabaul?",
+      "answer": "Rabaul is a caldera volcano — a large volcanic depression formed when a massive eruption emptied an underlying magma chamber, causing the surface to collapse. The Rabaul caldera measures 8 by 14 km and is breached on the east, where Blanche Bay floods the caldera floor. Within this caldera, multiple volcanic cones have grown, most notably Vulcan and Tavurvur. The caldera was formed approximately 1,400 years ago in a VEI 6 eruption and sits within the Bismarck Volcanic Arc, driven by subduction of the Solomon Sea Plate."
+    },
+    {
+      "question": "Can you visit Rabaul?",
+      "answer": "Yes, Rabaul is accessible via Tokua Airport near Kokopo, served by flights from Port Moresby. The partially ruined town, Japanese WWII tunnel networks, the Tavurvur cone, and hot springs around Blanche Bay attract visitors. Guided tours to the Tavurvur area offer views of the steaming cone and ash-covered ruins. Blanche Bay also offers diving on WWII wrecks. Accommodation is available in Kokopo, the replacement provincial capital approximately 20 km southeast. Visitors should check volcanic alert levels with the Rabaul Volcanological Observatory before approaching the caldera."
+    },
+    {
+      "question": "How big is the Rabaul caldera?",
+      "answer": "The Rabaul caldera measures approximately 8 by 14 km, making it one of the larger active calderas in the Pacific. It is widely breached on its eastern side, where the flooded caldera floor forms Blanche Bay, a deep natural harbor. The outer caldera rim reaches 688 m elevation. For comparison, the Aira caldera containing Kagoshima city in Japan measures 17 by 23 km, while Campi Flegrei near Naples spans about 13 km across."
+    }
+  ],
+  "people_also_search": [
+    "rabaul eruption 1994",
+    "rabaul volcano papua new guinea",
+    "tavurvur volcano",
+    "rabaul caldera",
+    "rabaul ww2",
+    "most dangerous volcanoes pacific",
+    "rabaul eruption video"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Rabaul",
+    "alternateName": [
+      "Rabaul caldera",
+      "Tavurvur",
+      "Vulcan"
+    ],
+    "description": "Active caldera volcano in Papua New Guinea, famous for the 1994 twin eruption that destroyed Rabaul city",
+    "geo": {
+      "latitude": -4.2459,
+      "longitude": 152.1937,
+      "elevation": 688
+    },
+    "containedInPlace": {
+      "name": "East New Britain Province",
+      "country": "Papua New Guinea"
+    },
+    "url": "https://volcanoatlas.com/volcano/rabaul"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=252140",
+      "text": "Smithsonian GVP: Rabaul",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Rabaul",
+      "text": "Britannica: Rabaul",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "witori",
+      "campi-flegrei",
+      "pinatubo",
+      "taal",
+      "aira"
+    ],
+    "country_pages": [
+      "papua-new-guinea"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "witori",
+    "campi-flegrei",
+    "pinatubo",
+    "taal"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Papua New Guinea",
+      "url": "/volcanoes-in-papua-new-guinea"
+    },
+    {
+      "label": "Rabaul",
+      "url": "/volcano/rabaul"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/rabaul"
+}

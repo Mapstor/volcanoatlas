@@ -1,0 +1,446 @@
+{
+  "slug": "kirishimayama",
+  "volcano_id": 282090,
+  "title": "Kirishimayama",
+  "meta_title": "Kirishimayama — Eruption History, Facts & Visitor Guide | VolcanoAtlas",
+  "meta_description": "Kirishimayama is a volcanic complex in southern Japan with 85 eruptions and 20+ volcanic centers. Explore the 2011 Shinmoedake eruption, hiking guide, and hazards.",
+  "quick_answer": {
+    "what": "Kirishimayama is a large volcanic complex comprising more than 20 Quaternary volcanoes spread across a 20 x 30 km area in southern Kyushu, Japan, with the highest peak at Karakunidake reaching 1,700 m (5,577 ft).",
+    "status": "Active — most recent eruption in June 2025. Shinmoedake, the most currently active vent, has erupted repeatedly since 2011. Continuously monitored by the Japan Meteorological Agency.",
+    "famous_for": "The dramatic January 2011 eruption of Shinmoedake, which produced a 3-km eruption column, and for being the legendary descent point of the god Ninigi in Shinto mythology. The volcanic complex also featured as a filming location in the James Bond film 'You Only Live Twice' (1967).",
+    "danger_level": "Moderate — multiple population centers surround the complex, including parts of Kirishima, Kobayashi, and Ebino cities. Active vents are within national park boundaries visited by hundreds of thousands of hikers annually."
+  },
+  "hero": {
+    "name": "Kirishimayama",
+    "local_name": "霧島山",
+    "subtitle": "Sacred Volcanic Complex of Southern Japan",
+    "country": "Japan",
+    "region": "Southern Kyushu, Ryukyu Volcanic Arc",
+    "type": "Shield volcano complex",
+    "elevation_m": 1700,
+    "elevation_ft": 5577,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 31.934,
+      "lon": 130.862
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-08954.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,700 m (5,577 ft) at Karakunidake",
+    "type": "Shield volcano complex (stratovolcanoes, pyroclastic cones, maars)",
+    "status": "Active",
+    "last_eruption": "June 22, 2025",
+    "first_known_eruption": "~7050 BCE (geological); 742 CE (historical)",
+    "total_recorded_eruptions": 85,
+    "vei_max": "4 (4350 BCE, 2650 BCE, 788 CE, 1235 CE)",
+    "country": "Japan",
+    "region": "Southern Kyushu, north of Kagoshima Bay",
+    "tectonic_setting": "Subduction zone — Philippine Sea Plate beneath Eurasian Plate (continental crust > 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "31.934°N, 130.862°E",
+    "nearest_city": "Kirishima city — adjacent; Kagoshima — 45 km south",
+    "population_at_risk": "~100,000 in surrounding municipalities",
+    "active_vents": "Shinmoedake (most active), Ohachi, Iwo-yama",
+    "protected_status": "Kirishima-Kinkowan National Park",
+    "monitoring_agency": "Japan Meteorological Agency (JMA)",
+    "smithsonian_id": "282090",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=282090"
+  },
+  "sections": {
+    "overview": {
+      "content": "Kirishimayama (霧島山) is a large and complex volcanic field comprising more than 20 Quaternary volcanic centers spread across a 20 x 30 km area in southern Kyushu, <a href=\"/volcanoes-in-japan\">Japan</a>, situated north of Kagoshima Bay and approximately 45 km from the city of Kagoshima. Unlike a single volcanic peak, Kirishimayama is a sprawling assemblage of <a href=\"/types-of-volcanoes\">stratovolcanoes</a>, pyroclastic cones, maars, and underlying shield volcanoes, with the highest point at Karakunidake reaching 1,700 m (5,577 ft). With 85 recorded eruptions spanning more than 9,000 years, the complex is one of southern Japan's most persistently active volcanic systems.\n\nHistorical eruptions have been concentrated along an east-west line of vents running from the Miike maar in the east through Ohachi to Shinmoedake in the northeast. Shinmoedake has been the most active center in recent decades, erupting explosively in January 2011 in an event that attracted worldwide media attention, and again in 2017, 2018, and most recently in June 2025. The complex sits along the Ryukyu volcanic arc, powered by the subduction of the Philippine Sea Plate beneath the Eurasian Plate. Kirishimayama holds deep significance in Japanese culture — according to Shinto mythology, Takachiho-no-mine, one of the complex's peaks, is the point where the god Ninigi descended from heaven to earth, making it one of Japan's most sacred volcanic landscapes. The complex lies within Kirishima-Kinkowan National Park and draws hundreds of thousands of hikers annually to its network of trails linking volcanic craters, hot springs, and pristine highland forests."
+    },
+    "geology_and_formation": {
+      "content": "Kirishimayama's geological history spans the late Pleistocene to the present, with the volcanic complex built on a foundation of older shield volcanoes that form the broad base of the mountain group. The larger stratovolcanoes are scattered throughout the field, while the centrally located Karakunidake stands as the highest point. The dominant rock type is andesite to basaltic andesite, typical of subduction zone volcanism where the Philippine Sea Plate dives beneath the Eurasian continental crust at this latitude.\n\nThe complex's evolution involved multiple phases of volcanic construction. The underlying shield volcanoes were built during the late Pleistocene, followed by the construction of the larger stratovolcanoes. The two most prominent maars, Onamiike and Miike, formed through phreatomagmatic explosions — violent interactions between rising magma and groundwater. Onamiike lies southwest of Karakunidake, while Miike, at the far eastern end of the complex, is notable for its deep crater lake. The geological diversity of the complex — shield volcanoes, stratovolcanoes, cinder cones, maars, and lava domes all in close proximity — makes it an outstanding natural laboratory for studying different styles of volcanism within a single tectonic setting. Recent geological studies have identified at least four VEI 4 eruptions in the complex's history, occurring at approximately 4350 BCE (Old Takachiho), 2650 BCE (Mi-ike), 788 CE (Ohachi), and 1235 CE (Ohachi), indicating that large explosive events recur on timescales of centuries to millennia."
+    },
+    "eruption_history_overview": {
+      "content": "Kirishimayama's 85 recorded eruptions document a long and varied eruptive history. The earliest known eruptions date to approximately 7050 BCE, when Shinmoedake produced a <a href=\"/volcanic-explosivity-index\">VEI</a> 3 event. Major prehistoric eruptions from Old Takachiho (VEI 4 at ~4350 BCE), Takachiho-mine, and the Mi-ike maar (VEI 4 at ~2650 BCE) shaped the landscape. Historical records, which in Japan begin exceptionally early, document activity from 742 CE onward.\n\nTwo primary eruptive centers have dominated the historical record: Ohachi and Shinmoedake. Ohachi was the most active vent from the 8th through the early 20th century, producing at least 45 eruptions between 700 CE and 1923 CE, most of them VEI 2 events with occasional VEI 3-4 explosions. Since the mid-20th century, activity has shifted to Shinmoedake, which erupted in 1959, 1979, 1991-1992, 2008-2010, 2011, 2017, 2018, and 2025. This vent migration pattern is characteristic of complex volcanic fields where magma supply shifts between conduits over time. Of the 85 total eruptions, 79 are classified as confirmed, and the maximum recorded VEI is 4, achieved four times across different vents."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2011 Shinmoedake Eruption — A Modern Explosive Event",
+          "content": "On January 19, 2011, Shinmoedake erupted after 52 years of relative quiet at that particular vent, producing a sustained explosive event rated VEI 3. The eruption generated an eruption column reaching approximately 3 km above the crater and deposited volcanic ash and lapilli across surrounding communities. On January 26-27, the eruption intensified dramatically, with vulcanian explosions hurling large volcanic blocks more than 3 km from the vent and generating shockwaves that rattled windows in Kirishima city. A lava dome grew within the crater, eventually measuring approximately 600 m in diameter.\n\nThe eruption caused evacuations within a 3-km radius, closure of the Kirishima mountain trail network, disruption to air traffic at Kagoshima and Miyazaki airports, and damage to agriculture from ashfall. The event received extensive international media coverage, partly because of the striking visual similarity between Shinmoedake's eruption and the fictional volcanic lair featured in the 1967 James Bond film 'You Only Live Twice,' which was filmed in the Kirishima area. Activity continued episodically through September 2011 before the eruption ended."
+        },
+        {
+          "title": "The 788 CE Eruption of Ohachi — The Katazoe Scoria Event",
+          "content": "One of the largest historical eruptions at Kirishimayama occurred at Ohachi on April 18, 788 CE, producing a VEI 4 event known from the distinctive Katazoe Scoria deposit it left across the landscape. This eruption generated a large eruption column, widespread tephra fall, and potentially pyroclastic flows on the flanks of Ohachi. The event is documented in early Japanese historical records and represents the type of major explosive eruption that the complex is capable of producing. The 788 CE eruption is comparable in scale to the largest eruptions at other Japanese volcanoes such as <a href=\"/volcano/asosan\">Aso</a> and <a href=\"/volcano/aira\">Sakurajima</a>."
+        },
+        {
+          "title": "The 1235 CE Eruption — Ohachi's Last Major Explosion",
+          "content": "The eruption of January 25, 1235 CE, was the most recent VEI 4 event at the Kirishimayama complex, occurring at Ohachi. Historical records describe heavy ashfall and significant explosive activity. This eruption is significant because it demonstrates that VEI 4 events have occurred at least four times at the complex within the past 6,000 years, at varying intervals — a pattern that keeps the possibility of a similarly large future event firmly within the hazard assessment for the region. Nearly 800 years have elapsed since this eruption, a pause that is well within the range of historical inter-eruption intervals for VEI 4 events at this complex."
+        },
+        {
+          "title": "The 2018 Shinmoedake Eruption — Lava Overflows",
+          "content": "Beginning on March 1, 2018, Shinmoedake erupted again with a VEI 3 event that represented a significant escalation from the 2017 activity. The eruption produced explosive activity and, notably, lava overflowed the crater rim for the first time in the modern eruptive sequence, sending lava flows down the outer slopes of the cone. This was the first lava effusion outside the Shinmoedake crater in historical memory and raised concerns about the potential for larger-scale lava flows in future eruptions. Ashfall again affected regional airports and communities, and the eruption triggered renewed debate about the appropriate size of exclusion zones around the vent."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Kirishimayama's most recent eruption occurred on June 22, 2025, continuing the pattern of frequent activity that has characterized the complex since 2011. The Japan Meteorological Agency (JMA) maintains an extensive monitoring network across the complex, including seismometers, GPS deformation sensors, tiltmeters, volcanic gas analyzers, and webcams focused on Shinmoedake, Ohachi, and the Iwo-yama fumarolic area. As of early 2026, JMA maintains varying alert levels for different vents within the complex, reflecting the reality that different centers can activate independently.\n\nShinmoedake remains the primary focus of concern, having erupted five times since 2011. Elevated fumarolic activity at Iwo-yama, on the northwest flank of Karakunidake, has also attracted attention since 2015, with increased gas emissions and ground deformation suggesting possible magmatic intrusion beneath this previously quiet area. The complexity of monitoring a volcanic field with more than 20 individual vents, each capable of independent eruption, makes Kirishimayama one of the more challenging volcanic surveillance targets in Japan."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Kirishimayama's hazards are distributed across a wide area and vary depending on which vent erupts. For Shinmoedake and Ohachi, the primary hazards include ballistic blocks (volcanic projectiles that can be hurled kilometers from the vent), pyroclastic flows, ashfall, and volcanic gas. The 2011 eruption demonstrated that ballistic blocks from Shinmoedake can travel more than 3 km, reaching areas used by hikers. Ashfall from VEI 2-3 eruptions affects communities in a radius of 20-50 km, impacting Kirishima city, Kobayashi, Ebino, and potentially Miyazaki and Kagoshima.\n\nFor larger potential eruptions (VEI 4), the hazard zone expands significantly. Pyroclastic flows could extend 5-10 km from the vent, potentially reaching lowland areas. The complex's location within a heavily used national park means that hikers are frequently present within hazard zones, and JMA's alert system includes trail closures and exclusion zones around active vents. Lahars are a secondary concern during heavy rainfall, as loose volcanic deposits on steep slopes can be mobilized into destructive mudflows. The proximity of Kagoshima and Miyazaki airports means even moderate eruptions can disrupt regional aviation."
+    },
+    "geography_and_physical_description": {
+      "content": "The Kirishimayama complex occupies a highland area in southern Kyushu, forming a rugged volcanic landscape at the boundary of Kagoshima and Miyazaki prefectures. The 20 x 30 km field encompasses peaks, craters, crater lakes, fumarolic areas, and highland plateaus at elevations ranging from approximately 500 m at the base to 1,700 m at the summit of Karakunidake. Notable individual features include the Shinmoedake cone (1,421 m) with its distinctive crater, the scenic crater lakes of Onamiike and Miike, the fuming Iwo-yama area, and the sacred peak of Takachiho-no-mine (1,574 m). The Ebino Plateau, at approximately 1,200 m elevation on the western side, provides the primary visitor access point and is surrounded by volcanic lakes and steam vents. Dense forests of Japanese oak, beech, and cedar cover the lower slopes, transitioning to Miyama Kirishima azalea and alpine grassland at higher elevations."
+    },
+    "climate_and_global_impact": {
+      "content": "Kirishimayama's eruptions have been regional rather than global in their climatic impact. Even the VEI 4 events, while significant locally, have not injected sufficient material into the stratosphere to affect global temperatures measurably. The complex's primary impact beyond its immediate region has been through aviation disruption, as ash clouds from eruptions at Shinmoedake have repeatedly affected flight operations at Kagoshima and Miyazaki airports — both important domestic transport hubs in southern Japan."
+    },
+    "cultural_significance": {
+      "content": "Kirishimayama occupies a uniquely important position in Japanese spiritual tradition. According to the Kojiki and Nihon Shoki — Japan's foundational mythological texts — Takachiho-no-mine, one of the complex's peaks, is where the god Ninigi-no-Mikoto descended from heaven (Tenson Korin), marking the mythological beginning of the Japanese imperial line. The Kirishima Shrine (Kirishima Jingu), one of Japan's most important Shinto shrines, sits at the southeastern foot of the mountain and has been relocated multiple times throughout history due to volcanic eruptions destroying previous sites — a tangible reminder of the interplay between sacred tradition and volcanic hazard.\n\nThe complex's name, Kirishima, is sometimes interpreted as 'Island of Mist' (霧の島), referring to the clouds and volcanic steam that frequently shroud the peaks. The Miyama Kirishima azalea, which blooms spectacularly across the volcanic highlands each May-June, takes its name from the mountain and is a beloved symbol of Kyushu's natural beauty. The area's connection to the James Bond franchise — 'You Only Live Twice' filmed extensively in the Kirishima area — has given it international pop-culture recognition as well."
+    },
+    "visiting_and_tourism": {
+      "content": "Kirishimayama is one of southern Japan's premier hiking and nature destinations, easily accessible from Kagoshima (45 minutes by car) and well-connected to the Kyushu rail network. The Ebino Plateau, at 1,200 m elevation, serves as the main gateway, with parking, visitor centers, and trailheads for multiple hiking routes. Popular routes include the Karakunidake summit trail (approximately 90 minutes one way), the crater lake circuit connecting Onamiike, Rokkannon Miike, and Byakushi Pond, and the traverse to Takachiho-no-mine.\n\nTrail access depends on current volcanic activity — during periods of elevated alert, trails within exclusion zones around Shinmoedake and other active vents are closed. It is essential to check JMA advisories before hiking. The area's volcanic hot springs (onsen) are a major draw, with resorts at Kirishima Onsen, Maruo Onsen, and Ebino offering baths heated by the volcanic system. The best hiking seasons are spring (April-May, for azalea blooms) and autumn (October-November, for fall foliage). Winter brings snow to the higher peaks, creating scenic but challenging conditions."
+    },
+    "nearby_volcanoes": {
+      "content": "Kirishimayama sits at the northern end of a remarkably dense concentration of volcanic activity in southern Kyushu. Just 45 km to the south, <a href=\"/volcano/aira\">Sakurajima (Aira)</a> — one of Japan's most active volcanoes — erupts almost daily, sending ash plumes over the city of Kagoshima. The Aira caldera in Kagoshima Bay, within which Sakurajima sits, is a supervolcanic system that produced a massive VEI 7 eruption approximately 29,000 years ago. To the southeast, Kaimon-dake (Kaimondake) — sometimes called 'Satsuma Fuji' for its symmetric cone — is another notable stratovolcano. The proximity of these volcanic centers reflects the high rate of subduction-driven magmatism beneath southern Kyushu, making it one of the most volcanically active regions in <a href=\"/volcanoes-in-japan\">Japan</a>."
+    },
+    "etymology": {
+      "content": "The name Kirishimayama (霧島山) combines the characters for 'mist' (霧, kiri), 'island' (島, shima), and 'mountain' (山, yama), yielding 'Mist Island Mountain' — a poetic reference to the volcanic peaks that frequently appear to float above the clouds. The individual vents carry their own names: Shinmoedake (新燃岳, 'New Burning Peak'), Ohachi (御鉢, 'Sacred Bowl'), Karakunidake (韓国岳, 'Korea Peak' — named because Korea was supposedly visible from its summit on clear days), and Takachiho-no-mine (高千穂峰, 'Peak of a Thousand Lofty Rice Ears'), the last being the mythologically significant summit."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Kirishimayama Compared to Other Active Volcanic Complexes in Japan",
+      "description": "How does Kirishimayama compare to Japan's other major multi-vent volcanic systems?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Kirishimayama",
+          "Japan",
+          "1,700 m",
+          "Shield complex",
+          "2025",
+          "4",
+          "85"
+        ],
+        [
+          "Asosan",
+          "Japan",
+          "1,592 m",
+          "Caldera",
+          "2024",
+          "4",
+          "173"
+        ],
+        [
+          "Sakurajima (Aira)",
+          "Japan",
+          "1,117 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "145"
+        ],
+        [
+          "Izu-Oshima",
+          "Japan",
+          "746 m",
+          "Stratovolcano",
+          "1990",
+          "4",
+          "108"
+        ],
+        [
+          "Asamayama",
+          "Japan",
+          "2,568 m",
+          "Complex",
+          "2019",
+          "4",
+          "83"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7050,
+      "vei": 3,
+      "label": "Earliest known eruption at Shinmoedake",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -4350,
+      "vei": 4,
+      "label": "Major eruption at Old Takachiho",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -2650,
+      "vei": 4,
+      "label": "VEI 4 eruption at Mi-ike maar",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 742,
+      "vei": 3,
+      "label": "First historically documented eruption at Ohachi",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 788,
+      "vei": 4,
+      "label": "Katazoe Scoria eruption at Ohachi — major VEI 4 event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1235,
+      "vei": 4,
+      "label": "Last VEI 4 eruption at Ohachi",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1716,
+      "vei": 3,
+      "label": "Shinmoedake eruption series (1716–1717)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2011,
+      "vei": 3,
+      "label": "Major eruption of Shinmoedake — international media attention",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2018,
+      "vei": 3,
+      "label": "Lava overflows Shinmoedake crater rim for first time",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption",
+      "deaths": 0,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (before 700 CE)",
+      "count": 11
+    },
+    {
+      "century": "8th",
+      "count": 4
+    },
+    {
+      "century": "9th",
+      "count": 4
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 4
+    },
+    {
+      "century": "13th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th–16th",
+      "count": 12
+    },
+    {
+      "century": "17th",
+      "count": 10
+    },
+    {
+      "century": "18th",
+      "count": 4
+    },
+    {
+      "century": "19th",
+      "count": 14
+    },
+    {
+      "century": "20th",
+      "count": 11
+    },
+    {
+      "century": "21st",
+      "count": 7
+    }
+  ],
+  "facts": [
+    "Kirishimayama comprises more than 20 individual volcanic centers packed into a 20 x 30 km area — one of the highest concentrations of volcanic vents in Japan.",
+    "The complex has produced four VEI 4 eruptions in the past 6,000 years, at different vents, demonstrating that explosive potential shifts between centers over time.",
+    "Shinmoedake erupted in 2011 after 52 years of silence, hurling volcanic blocks more than 3 km and producing shockwaves felt in nearby cities.",
+    "The filming of the James Bond movie 'You Only Live Twice' (1967) took place in the Kirishima area, with the volcanic landscape serving as the villain's secret lair.",
+    "According to Japan's oldest mythological texts, Takachiho-no-mine is where the god Ninigi descended from heaven — making it one of Japan's most sacred volcanic peaks.",
+    "Kirishima Shrine has been relocated multiple times throughout history because previous sites were destroyed by volcanic eruptions.",
+    "The 2018 eruption of Shinmoedake produced the first lava overflow from the crater rim in the modern historical record, representing a new hazard mode for the complex.",
+    "Ohachi, once the most active vent, has been essentially dormant since 1923, while Shinmoedake has taken over as the primary eruptive center — a textbook example of vent migration in a volcanic field.",
+    "The Miyama Kirishima azalea, which blooms spectacularly across the volcanic highlands each spring, is named after the mountain and is a symbol of Kyushu's natural beauty.",
+    "The name Karakunidake means 'Korea Peak' because Korea was supposedly visible from its 1,700 m summit on exceptionally clear days.",
+    "The Ebino Plateau, the primary visitor gateway at 1,200 m elevation, is surrounded by volcanic crater lakes and active steam vents.",
+    "Kirishimayama has erupted 7 times in the 21st century alone (as of 2025), making it one of the most frequently active volcanic complexes in Japan."
+  ],
+  "faqs": [
+    {
+      "question": "Is Kirishimayama still active?",
+      "answer": "Yes, Kirishimayama is one of Japan's most active volcanic complexes. The most recent eruption occurred on June 22, 2025, and the complex has produced 7 eruptions in the 21st century alone. Shinmoedake, the most currently active vent, erupted significantly in 2011, 2017, and 2018. The Japan Meteorological Agency maintains continuous monitoring across the complex, with varying alert levels for different vents. The complex's 85 recorded eruptions spanning more than 9,000 years confirm that it is a persistently active volcanic system with no indication of waning activity."
+    },
+    {
+      "question": "What is Kirishimayama — is it one volcano or many?",
+      "answer": "Kirishimayama is a volcanic complex, not a single volcano. It comprises more than 20 individual volcanic centers — including stratovolcanoes, pyroclastic cones, maars (volcanic explosion craters), and underlying shield volcanoes — spread across a 20 x 30 km area in southern Kyushu, Japan. The highest peak is Karakunidake at 1,700 m. Different vents within the complex have been active at different times: Ohachi dominated historical activity from the 8th through early 20th centuries, while Shinmoedake has been the primary eruptive center since the mid-20th century."
+    },
+    {
+      "question": "Can you hike Kirishimayama?",
+      "answer": "Yes, Kirishimayama offers excellent hiking within Kirishima-Kinkowan National Park. The Ebino Plateau (1,200 m) serves as the main trailhead, with popular routes to Karakunidake summit (90 minutes one way), the crater lake circuit, and Takachiho-no-mine. However, trail access depends on volcanic activity — during periods of elevated JMA alert levels, trails within exclusion zones around active vents like Shinmoedake are closed. Always check current JMA volcanic advisories before hiking. The area is accessible from Kagoshima (45 minutes by car) and well-connected by rail."
+    },
+    {
+      "question": "What happened during the 2011 Shinmoedake eruption?",
+      "answer": "On January 19, 2011, Shinmoedake erupted explosively after 52 years of quiet, producing an eruption column approximately 3 km high and depositing ash across surrounding communities. Vulcanian explosions on January 26-27 hurled volcanic blocks more than 3 km and produced shockwaves felt in nearby cities. A lava dome approximately 600 m wide grew within the crater. The eruption triggered evacuations, trail closures, agricultural damage, and disruption to Kagoshima and Miyazaki airports. The event was rated VEI 3 and continued episodically through September 2011."
+    },
+    {
+      "question": "Why is Kirishimayama sacred in Japanese culture?",
+      "answer": "Kirishimayama is sacred because Takachiho-no-mine, one of the complex's peaks, is identified in the Kojiki and Nihon Shoki (Japan's foundational mythological texts) as the place where the god Ninigi-no-Mikoto descended from heaven to earth — an event called Tenson Korin that marks the mythological origin of the Japanese imperial line. Kirishima Jingu shrine at the mountain's base is one of Japan's most important Shinto shrines. Notably, the shrine has been relocated multiple times throughout history because volcanic eruptions destroyed previous sites."
+    },
+    {
+      "question": "How does Kirishimayama compare to Sakurajima?",
+      "answer": "Kirishimayama and Sakurajima are both active volcanic systems in southern Kyushu, separated by only about 45 km. Sakurajima erupts far more frequently — it produces thousands of small explosive events annually and is one of the world's most continuously active volcanoes. Kirishimayama erupts less frequently but its individual eruptions tend to be larger, with VEI 3-4 events documented in historical and geological records. Kirishimayama is a multi-vent complex with 20+ centers, while Sakurajima is a single stratovolcano within the Aira caldera. Both are monitored by JMA."
+    },
+    {
+      "question": "What is the connection between Kirishimayama and James Bond?",
+      "answer": "The 1967 James Bond film 'You Only Live Twice,' starring Sean Connery, was partly filmed in the Kirishima volcanic area. The volcanic landscape of the region served as inspiration for the villain's secret rocket base hidden inside a volcano. When Shinmoedake erupted dramatically in January 2011, international media drew widespread comparisons to the Bond film, noting the visual similarity between the real eruption and the movie's fictional volcanic lair. This pop-culture connection has given Kirishimayama a degree of international recognition unusual for a Japanese volcanic complex."
+    },
+    {
+      "question": "What are the main hazards from Kirishimayama?",
+      "answer": "Kirishimayama's primary hazards include ballistic blocks (volcanic projectiles hurled up to 3+ km from vents), pyroclastic flows, ashfall affecting communities within 20-50 km, and volcanic gas emissions. During heavy rainfall, lahars (volcanic mudflows) can mobilize loose deposits on steep slopes. The complex's location within a popular national park means hikers are frequently exposed to hazard zones. Major eruptions (VEI 4) could produce pyroclastic flows reaching 5-10 km from vents. Aviation disruption at Kagoshima and Miyazaki airports is a recurring concern during eruptions."
+    }
+  ],
+  "people_also_search": [
+    "kirishimayama eruption 2011",
+    "shinmoedake volcano eruption",
+    "kirishima volcano hiking",
+    "kirishima national park japan",
+    "james bond you only live twice volcano",
+    "takachiho peak mythology",
+    "kirishima hot springs onsen",
+    "active volcanoes southern japan"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Kirishimayama",
+    "alternateName": [
+      "Kirishima",
+      "霧島山",
+      "Kirishima Mountains"
+    ],
+    "description": "Active volcanic complex of 20+ centers in southern Kyushu, Japan, sacred in Shinto mythology and a popular hiking destination",
+    "geo": {
+      "latitude": 31.934,
+      "longitude": 130.862,
+      "elevation": 1700
+    },
+    "containedInPlace": {
+      "name": "Kagoshima/Miyazaki Prefectures",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/kirishimayama"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=282090",
+      "text": "Smithsonian GVP: Kirishimayama",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.jma.go.jp/jma/en/Activities/kirishima.html",
+      "text": "JMA: Kirishimayama Volcanic Activity",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.env.go.jp/en/nature/nps/park/kirishima/index.html",
+      "text": "Kirishima-Kinkowan National Park",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.britannica.com/place/Kirishima-Mountains",
+      "text": "Britannica: Kirishima Mountains",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "sakurajima",
+      "asosan",
+      "izu-oshima",
+      "asamayama",
+      "fujisan"
+    ],
+    "country_pages": [
+      "japan"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "sakurajima",
+    "asosan",
+    "izu-oshima",
+    "asamayama",
+    "fujisan"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Kirishimayama",
+      "url": "/volcano/kirishimayama"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/kirishimayama"
+}

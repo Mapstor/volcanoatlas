@@ -1,0 +1,356 @@
+{
+  "slug": "tupungatito",
+  "volcano_id": 357010,
+  "title": "Tupungatito",
+  "meta_title": "Tupungatito Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Tupungatito is a 5,660 m active stratovolcano on the Chile-Argentina border. Explore its 20 eruptions, glacier hazards, and proximity to Santiago.",
+  "quick_answer": {
+    "what": "Tupungatito is an active stratovolcano rising to 5,660 m (18,570 ft) on the Chile-Argentina border, the northernmost historically active volcano in the central Chilean Andes.",
+    "status": "Active — last erupted in 1987. Frequent mild explosive eruptions recorded since 1829. Monitored by SERNAGEOMIN.",
+    "famous_for": "Being the northernmost historically active volcano in the Chilean Andes and its proximity to Santiago (~90 km east), making it a significant glacial lahar hazard.",
+    "danger_level": "Significant risk — glacial cover creates lahar potential, and prevailing winds could carry ash toward Santiago and its 7+ million inhabitants."
+  },
+  "hero": {
+    "name": "Tupungatito",
+    "local_name": "Tupungatito",
+    "subtitle": "The Highest Active Volcano near Santiago",
+    "country": "Chile-Argentina",
+    "region": "Central Andes, Metropolitan Region / Mendoza Province",
+    "type": "Stratovolcano",
+    "elevation_m": 5660,
+    "elevation_ft": 18570,
+    "status": "Active",
+    "last_eruption": "1987",
+    "coordinates": {
+      "lat": -33.425,
+      "lon": -69.797
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06918.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "5,660 m (18,570 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "1987",
+    "first_known_eruption": "1829",
+    "total_recorded_eruptions": 20,
+    "vei_max": "2 (multiple events)",
+    "country": "Chile-Argentina (border)",
+    "region": "Central Andes, Southern Andean Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate / Continental crust (> 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "33.425°S, 69.797°W",
+    "nearest_city": "Santiago, Chile — ~90 km west",
+    "population_at_risk": "~7 million (Santiago metropolitan area, primarily ashfall and lahar risk)",
+    "summit_crater": "Group of 12 Holocene craters within Nevado Sin Nombre caldera",
+    "monitoring_agency": "SERNAGEOMIN (National Geology and Mining Service, Chile)",
+    "smithsonian_id": "357010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=357010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Tupungatito is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> straddling the Chile-Argentina border in the central Andes, approximately 90 km (56 mi) east of <a href=\"/volcanoes-in-chile\">Santiago</a>, Chile's capital. At 5,660 m (18,570 ft), it is one of the highest active volcanoes in South America and the northernmost historically active volcano of the Chilean Andes. The volcano consists of a group of 12 Holocene andesitic craters and a pyroclastic cone situated at the northwest end of the 4-km-wide Pleistocene Nevado Sin Nombre caldera, which is partially filled by glaciers at its southern end. Tupungatito has been one of the most persistently active volcanoes in the central Andes during the 19th and 20th centuries, producing 20 recorded eruptions — all relatively mild explosive events at <a href=\"/volcanic-explosivity-index\">VEI 2</a> or below. While individual eruptions have been modest, the volcano's extensive glacial cover creates significant lahar (volcanic mudflow) hazards. Its proximity to the Santiago metropolitan area (population exceeding 7 million) and the trans-Andean highway connecting Chile and <a href=\"/volcanoes-in-argentina\">Argentina</a> makes Tupungatito a volcano of substantial strategic concern. The volcano lies immediately southwest of the massive Pleistocene Tupungato volcano (6,570 m), one of the highest peaks in the Americas, though the two are distinct volcanic systems."
+    },
+    "geology_and_formation": {
+      "content": "Tupungatito owes its existence to the subduction of the Nazca Plate beneath the South American Plate, the fundamental tectonic process that has built the entire Andean volcanic arc. At this latitude (~33.4°S), the subducting plate descends at a relatively steep angle, generating the magmatic activity that feeds the Southern Andean Volcanic Arc. The volcanic complex sits on extremely thick continental crust (greater than 25 km), which modifies the ascending magma to produce andesitic and basaltic andesitic compositions — intermediate rocks that can generate moderate to explosive eruptions. Tupungatito's 12 Holocene craters are nested within the older, larger Nevado Sin Nombre caldera, a 4-km-wide Pleistocene depression formed by a major caldera collapse. The caldera is breached to the northwest, and lava flows from the northernmost active vent have traveled down through this breach. The southern portion of the caldera remains filled by glaciers, connecting to the broader ice fields of the high Andes. This geological setting — active craters embedded in a glaciated caldera — is what makes Tupungatito particularly hazardous, as eruptions can rapidly melt ice and generate lahars that channel down steep river valleys toward populated lowlands."
+    },
+    "eruption_history_overview": {
+      "content": "Tupungatito has produced 20 documented eruptions since 1829, making it one of the most frequently active volcanoes in the central Chilean Andes. Remarkably, all recorded eruptions have been modest — predominantly VEI 2 events characterized by mild Strombolian or Vulcanian explosions, ash emissions, and occasional small pyroclastic flows. The volcano was particularly active during two clustering periods: the mid-19th century (1829, 1835, 1861, 1881, 1889, 1897) and the mid-20th century (1946, 1958, 1959, 1960, 1961, 1964, 1968, 1980). The 1958–1968 period saw an extraordinary burst of seven eruptions in a decade, suggesting a sustained episode of shallow magma replenishment. After the 1980 eruption from the southwest crater, activity paused before a VEI 1 event in 1986 and a final VEI 2 eruption in 1987, after which the volcano has remained quiet. The nearly four-decade repose since 1987 is the longest gap in Tupungatito's recorded history, though it is far too short to suggest the volcano has become dormant."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1958–1968 Eruption Cluster — A Decade of Persistent Activity",
+          "content": "Tupungatito's most remarkable historical period was the decade from 1958 to 1968, during which the volcano erupted seven times. The eruptions of 1958, 1959 (twice), 1960, 1961, 1964, and 1968 were all VEI 2 events, characterized by ash columns rising several kilometers above the summit, light ashfall on nearby Andean communities, and occasional incandescence visible at night. This persistent activity reflected a sustained period of magma supply to the shallow plumbing system. The clustering was closely observed by Chilean and Argentine geologists, who used these eruptions to begin developing monitoring protocols for the remote volcano. Although none of these individual events caused significant damage, the decade of activity demonstrated that Tupungatito can sustain prolonged eruptive episodes."
+        },
+        {
+          "title": "The 1987 Eruption — Most Recent Activity",
+          "content": "The most recent eruption at Tupungatito occurred in 1987, a VEI 2 event that produced ash emissions and minor pyroclastic activity. Though modest in scale, the eruption attracted scientific attention because it followed the devastating 1985 eruption of <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> in Colombia, which killed over 23,000 people when lahars generated by eruption-triggered ice melt swept through the town of Armero. The parallels were immediately drawn: Tupungatito, like Nevado del Ruiz, is a glaciated Andean stratovolcano whose eruptions could melt summit ice. Chilean authorities subsequently upgraded monitoring of the volcano and began developing lahar hazard maps for the Maipo River valley, which drains toward Santiago."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tupungatito has not erupted since 1987, a repose of nearly 38 years — the longest gap in its historical record. However, the volcano is classified as active and is monitored by SERNAGEOMIN (Servicio Nacional de Geología y Minería), Chile's national geological survey. The monitoring network includes seismic stations detecting volcanic tremor and earthquakes, and satellite-based remote sensing for thermal anomalies and ground deformation. The volcano's remote, high-altitude location and harsh weather conditions make ground-based monitoring challenging. SERNAGEOMIN maintains a volcanic alert level system for Tupungatito, currently set at Green (normal). Scientists note that the volcano's pattern of clustered eruptions followed by decades of repose is well within its normal behavior, and a resumption of activity could occur with relatively short warning."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Tupungatito's primary hazard is the generation of lahars through eruption-induced melting of its glacial cover. The Nevado Sin Nombre caldera's southern glaciers represent a substantial ice volume; even a moderate VEI 2 eruption could generate meltwater that combines with volcanic debris to form fast-moving mudflows channeled down the Maipo River valley and its tributaries toward Santiago. The 1985 Nevado del Ruiz disaster demonstrated the catastrophic potential of this scenario at a comparably glaciated Andean volcano. Ashfall from eruptions at Tupungatito would likely be carried westward by prevailing winds toward Santiago, potentially disrupting air traffic at Arturo Merino Benítez International Airport and affecting the respiratory health of millions. The trans-Andean highway (Ruta 60-CH), a critical commercial corridor between Chile and Argentina, passes within 40 km of the volcano and could be blocked by lahars or ashfall. The relatively low VEI of Tupungatito's historical eruptions provides some reassurance, but the volcano's capacity for larger events cannot be ruled out based on its short historical record."
+    },
+    "geography_and_physical_description": {
+      "content": "Tupungatito occupies a spectacular but forbidding high-altitude setting in the central Andes. The volcano's 12 Holocene craters are clustered at the northwest end of the Nevado Sin Nombre caldera, a 4-km-wide depression at approximately 5,000–5,660 m elevation. The caldera is breached to the northwest, with lava flows extending through the gap. The southern half of the caldera is filled by glaciers that connect to the broader ice fields surrounding the neighboring Tupungato massif (6,570 m), whose summit lies just 7 km to the northeast. The landscape is extremely arid despite the altitude — the central Andes at this latitude receive minimal precipitation, and the glaciers survive primarily due to cold temperatures rather than heavy snowfall. The terrain is barren volcanic rock, ice, and wind-sculpted snow above 4,500 m, with no permanent vegetation. Access to the summit region requires technical mountaineering equipment and multi-day expeditions from either the Chilean or Argentine side."
+    },
+    "cultural_significance": {
+      "content": "Tupungatito occupies a notable place in South American mountaineering history as one of the highest accessible active volcanoes in the Andes. The name derives from the Quechua or Mapuche word 'Tupungato,' likely meaning 'lookout point' or 'star viewpoint,' referencing the exceptional vantage the high peaks provide over the surrounding Andean landscape. The nearby Tupungato massif gained international fame in 1947 when a British South American Airways passenger plane, the Star Dust, disappeared during a flight from Buenos Aires to Santiago; wreckage was not discovered until 2000, embedded in a glacier on Tupungato's flanks. While Tupungatito itself is not directly linked to this tragedy, the two peaks are often discussed together in the context of Andean aviation hazards."
+    },
+    "visiting_and_tourism": {
+      "content": "Tupungatito is not a tourist volcano in the conventional sense. Its extreme altitude (5,660 m), remote location, and harsh weather conditions limit visits to experienced mountaineers and scientific expeditions. Summit attempts typically require 3–5 days from roadheads on either the Chilean or Argentine side, with acclimatization stops necessary to avoid altitude sickness. The approach from Chile follows the Maipo River valley, while the Argentine route passes through Mendoza Province. No maintained trails or refugios exist near the volcano. The trans-Andean highway (Ruta 60-CH / Ruta 7 Argentina) passes within visual range, and the volcano can be seen from certain viewpoints along the Cristo Redentor pass road connecting Santiago and Mendoza."
+    },
+    "nearby_volcanoes": {
+      "content": "Tupungatito marks the northern end of the historically active Chilean volcanic arc in the central Andes. To the south, the next major active volcano is San José (5,856 m), approximately 80 km distant. The broader Southern Andean Volcanic Arc extends southward through Chile and Argentina, including <a href=\"/volcano/villarrica\">Villarrica</a>, <a href=\"/volcano/llaima\">Llaima</a>, and dozens of other active centers. To the immediate northeast, the Pleistocene Tupungato massif (6,570 m) — one of the highest peaks in the Western Hemisphere — is not currently active but shares geological roots with Tupungatito. The <a href=\"/volcanoes-in-chile\">Chile</a>-<a href=\"/volcanoes-in-argentina\">Argentina</a> border region hosts numerous volcanic centers, many poorly monitored due to their extreme remoteness."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Tupungatito Compared to Other High-Altitude Andean Volcanoes",
+      "description": "How does Tupungatito compare to the major glaciated volcanoes of the Andes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Tupungatito",
+          "Chile-Argentina",
+          "5,660 m",
+          "Stratovolcano",
+          "1987",
+          "2",
+          "20"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "67"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "12"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "54"
+        ],
+        [
+          "Llaima",
+          "Chile",
+          "3,125 m",
+          "Stratovolcano",
+          "2009",
+          "3",
+          "49"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1829,
+      "vei": 2,
+      "label": "First recorded eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1861,
+      "vei": 2,
+      "label": "Mid-19th century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1897,
+      "vei": 2,
+      "label": "Late-19th century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1946,
+      "vei": 2,
+      "label": "Post-war eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1958,
+      "vei": 2,
+      "label": "Start of decade-long eruption cluster",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1964,
+      "vei": 2,
+      "label": "Mid-cluster eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1968,
+      "vei": 2,
+      "label": "End of 1958–1968 cluster",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1980,
+      "vei": 2,
+      "label": "SW crater eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1987,
+      "vei": 2,
+      "label": "Most recent eruption",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th",
+      "count": 7,
+      "note": "1829–1897"
+    },
+    {
+      "century": "20th",
+      "count": 13,
+      "note": "1901–1987, including 1958–1968 cluster"
+    }
+  ],
+  "facts": [
+    "Tupungatito is the northernmost historically active volcano in the Chilean Andes, marking the northern boundary of the Southern Andean Volcanic Arc.",
+    "All 20 of Tupungatito's recorded eruptions have been VEI 2 or below — an unusually consistent pattern of mild explosive activity among Andean stratovolcanoes.",
+    "Between 1958 and 1968, Tupungatito erupted seven times in a single decade, one of the most concentrated clusters of activity at any central Andean volcano.",
+    "The volcano's 12 Holocene craters are nested within the 4-km-wide Pleistocene Nevado Sin Nombre caldera, which is partially filled by glaciers at its southern end.",
+    "Tupungatito lies just 7 km southwest of Tupungato (6,570 m), one of the highest peaks in the Americas, though the two are separate volcanic systems.",
+    "Santiago, Chile's capital with over 7 million residents, lies approximately 90 km west of Tupungatito, within potential ashfall range from a significant eruption.",
+    "The trans-Andean highway connecting Santiago and Mendoza passes within 40 km of the volcano, a critical commercial corridor that could be disrupted by lahars or ashfall.",
+    "Glacial lahars are Tupungatito's most dangerous potential hazard — the 1985 Nevado del Ruiz disaster demonstrated the lethal power of eruption-triggered ice melt at a similar Andean volcano.",
+    "The nearly four-decade repose since 1987 is the longest gap in Tupungatito's 190-year recorded history, though it falls within the range of normal inter-eruption pauses for Andean volcanoes.",
+    "Tupungatito's andesitic magma composition places it in the same hazard category as other deadly Andean volcanoes like Nevado del Ruiz and Cotopaxi."
+  ],
+  "faqs": [
+    {
+      "question": "Is Tupungatito an active volcano?",
+      "answer": "Yes, Tupungatito is an active stratovolcano on the Chile-Argentina border. It has produced 20 confirmed eruptions since 1829, most recently in 1987. The volcano is monitored by SERNAGEOMIN, Chile's national geological survey. While the current nearly four-decade repose is the longest in its recorded history, this is well within normal behavior for central Andean volcanoes, and scientists classify it as fully capable of future eruptions."
+    },
+    {
+      "question": "Could Tupungatito affect Santiago?",
+      "answer": "Yes, Tupungatito poses potential hazards to the Santiago metropolitan area, located approximately 90 km to the west. The primary risks are ashfall carried by prevailing westward winds, which could disrupt air traffic and affect public health, and glacial lahars that could travel down the Maipo River valley toward populated areas. While Tupungatito's historical eruptions have been modest (all VEI 2 or below), a larger eruption could have significant consequences for Santiago's 7+ million residents."
+    },
+    {
+      "question": "How tall is Tupungatito?",
+      "answer": "Tupungatito stands at 5,660 m (18,570 ft), making it one of the highest active volcanoes in South America. However, it is significantly shorter than its neighbor Tupungato, a dormant Pleistocene volcano that reaches 6,570 m (21,555 ft) just 7 km to the northeast. Both peaks are part of the high Andean cordillera straddling the Chile-Argentina border, but only Tupungatito has erupted in recorded history."
+    },
+    {
+      "question": "When did Tupungatito last erupt?",
+      "answer": "Tupungatito's most recent eruption occurred in 1987, a VEI 2 event that produced ash emissions and minor explosive activity. Prior to that, the volcano erupted in 1986 (VEI 1) and 1980 (VEI 2). The 1987 eruption was scientifically significant because it occurred just two years after the catastrophic 1985 Nevado del Ruiz eruption in Colombia, prompting Chilean authorities to upgrade monitoring and lahar hazard mapping for glaciated Andean volcanoes."
+    },
+    {
+      "question": "What is the difference between Tupungatito and Tupungato?",
+      "answer": "Tupungatito and Tupungato are two separate volcanic systems located about 7 km apart on the Chile-Argentina border. Tupungato is a massive Pleistocene volcano reaching 6,570 m — one of the highest peaks in the Americas — but it is not historically active. Tupungatito is a smaller, younger stratovolcano at 5,660 m that has erupted 20 times since 1829. Tupungatito's craters sit within the Nevado Sin Nombre caldera, immediately southwest of the Tupungato massif."
+    },
+    {
+      "question": "Can you climb Tupungatito?",
+      "answer": "Tupungatito can be climbed, but it is a serious high-altitude mountaineering objective. At 5,660 m, the summit requires multi-day expeditions, proper acclimatization, and technical mountaineering equipment. The approach involves remote and roadless terrain in the high Andes. There are no maintained trails, refugios, or tourist infrastructure. The volcano is best attempted by experienced mountaineers during the Southern Hemisphere summer (December–February), when weather conditions are most favorable."
+    }
+  ],
+  "people_also_search": [
+    "tupungatito volcano eruption",
+    "volcanoes near santiago chile",
+    "tupungatito vs tupungato",
+    "highest active volcanoes south america",
+    "chile argentina border volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Tupungatito",
+    "alternateName": [],
+    "description": "Active stratovolcano on the Chile-Argentina border, northernmost historically active volcano in the Chilean Andes",
+    "geo": {
+      "latitude": -33.425,
+      "longitude": -69.797,
+      "elevation": 5660
+    },
+    "containedInPlace": {
+      "name": "Central Andes",
+      "country": "Chile-Argentina"
+    },
+    "url": "https://volcanoatlas.com/volcano/tupungatito"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=357010",
+      "text": "Smithsonian GVP: Tupungatito",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile National Geology and Mining Service",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Andes-Mountains",
+      "text": "Britannica: Andes Mountains",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "villarrica",
+      "llaima",
+      "nevado-del-ruiz",
+      "cotopaxi"
+    ],
+    "country_pages": [
+      "chile",
+      "argentina"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "villarrica",
+    "llaima",
+    "nevado-del-ruiz",
+    "cotopaxi",
+    "cerro-azul-chile"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Tupungatito",
+      "url": "/volcano/tupungatito"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tupungatito"
+}

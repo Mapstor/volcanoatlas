@@ -1,0 +1,492 @@
+{
+  "slug": "poas",
+  "volcano_id": 345040,
+  "title": "Poás",
+  "meta_title": "Poás Volcano — Eruption History, Crater Lake, Type & Facts | VolcanoAtlas",
+  "meta_description": "Poás is one of Costa Rica’s most active volcanoes at 2,697 m, home to the ultra-acidic Laguna Caliente crater lake. 65 eruptions, visitor guide, and current status.",
+  "quick_answer": {
+    "what": "Poás is an active basaltic-to-dacitic stratovolcano in the Central Volcanic Range of Costa Rica, rising to 2,697 m (8,848 ft) approximately 37 km northwest of the capital San José.",
+    "status": "Active — last erupted January 2025. One of Costa Rica’s most active volcanoes with 65 recorded eruptions and frequent phreatic (steam-driven) explosions from its ultra-acidic crater lake.",
+    "famous_for": "Laguna Caliente, one of the world’s most acidic natural lakes (pH near 0), which produces spectacular geyser-like phreatic eruptions. Poás is also one of the most visited active volcanoes in the Americas.",
+    "danger_level": "Moderate — frequent phreatic eruptions eject lake water and rock debris. The April 2017 eruption forced a two-year closure of the national park. Acidic gas emissions pose respiratory hazards."
+  },
+  "hero": {
+    "name": "Poás",
+    "local_name": "Volcán Poás",
+    "subtitle": "Costa Rica’s Acid Lake Volcano",
+    "country": "Costa Rica",
+    "region": "Central Volcanic Range",
+    "type": "Stratovolcano",
+    "elevation_m": 2697,
+    "elevation_ft": 8848,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 10.2,
+      "lon": -84.233
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04299.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,697 m (8,848 ft)",
+    "type": "Stratovolcano (complex, with three craters)",
+    "status": "Active",
+    "last_eruption": "January 2025",
+    "first_known_eruption": "~7920 BCE",
+    "total_recorded_eruptions": 65,
+    "vei_max": "2",
+    "country": "Costa Rica",
+    "region": "Central Volcanic Range (Cordillera Volcánica Central)",
+    "tectonic_setting": "Subduction zone / Continental crust (> 25 km) — Cocos Plate beneath Caribbean Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "10.200°N, 84.233°W",
+    "nearest_city": "Alajuela — approximately 28 km south (population ~43,000); San José — 37 km southeast (population ~350,000)",
+    "population_at_risk": "Moderate — several thousand residents in surrounding agricultural communities; San José metropolitan area (~2.5 million) is within ashfall range of large eruptions",
+    "summit_crater": "Active crater ~300 m wide containing Laguna Caliente; inactive Botos crater lake to the south",
+    "protected_status": "Poás Volcano National Park (est. 1971)",
+    "monitoring_agency": "OVSICORI-UNA (Observatorio Vulcanológico y Sismológico de Costa Rica) and RSN (Red Sismológica Nacional)",
+    "smithsonian_id": "345040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=345040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Poás (Spanish: Volcán Poás) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> in the Central Volcanic Range (Cordillera Volcánica Central) of <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a>, rising to 2,697 m (8,848 ft) approximately 37 km northwest of the capital city San José. It is one of Costa Rica’s most active and most visited volcanoes, combining frequent volcanic activity with exceptional accessibility — a paved road leads to within a few hundred meters of the active crater rim, making it one of the easiest active volcanoes to visit anywhere in the world. Poás is perhaps best known for Laguna Caliente (‘Hot Lake’), a turquoise-to-gray crater lake that occupies the active summit crater and is one of the most acidic natural bodies of water on Earth, with a pH frequently measured near zero. The lake serves as both a hazard source and a scientific curiosity: phreatic (steam-driven) and phreatomagmatic eruptions from Laguna Caliente are the volcano’s most characteristic activity type, producing geyser-like ejections of superheated water, mud, and rock fragments to heights of tens to hundreds of meters. With 65 recorded eruptions spanning approximately 10,000 years, Poás has been in a state of persistent low-level unrest throughout the modern era, punctuated by episodes of more vigorous activity. The most significant recent event was the April 2017 eruption, which sent an ash-and-steam column to approximately 3 km above the crater and forced the closure of Poás Volcano National Park for nearly two years. The volcano’s broad edifice contains three craters aligned along a N–S fissure: the active crater (Laguna Caliente), the dormant Botos crater (filled by a cold, acidic rainwater lake), and the Von Frantzius cone to the north. Poás sits within the <a href=\"/ring-of-fire\">Ring of Fire</a>, positioned above the subduction zone where the Cocos Plate dives beneath the Caribbean Plate."
+    },
+    "geology_and_formation": {
+      "content": "Poás is a complex stratovolcano built upon the Central Volcanic Range of Costa Rica, a chain of active and dormant volcanoes that runs NW–SE through the center of the country. The volcano’s activity is driven by the subduction of the Cocos Plate beneath the Caribbean Plate at a rate of approximately 7–8 cm per year along the Middle America Trench, located roughly 150 km to the southwest. This subduction zone feeds the entire Central American Volcanic Arc (CAVA), which stretches from Guatemala to Panama and includes some of the most active volcanoes in the Americas, including <a href=\"/volcano/fuego\">Fuego</a>, <a href=\"/volcano/arenal\">Arenal</a>, and <a href=\"/volcano/poas\">Poás</a> itself. Poás’s edifice rises approximately 2,600 m above its base and covers an area of roughly 300 km², making it one of the larger volcanic structures in Costa Rica. The volcano’s magma composition ranges from basaltic to dacitic (andesite/basaltic andesite being most common), reflecting the evolved character typical of subduction-zone volcanism. The three craters along the N–S summit fissure represent different stages of the volcano’s evolution: the Congo stratovolcano and several lake-filled maars on the lower northern flank formed along the same structural trend. The active crater, approximately 300 m in diameter and 40 m deep (though dimensions vary with lake level), is dominated by the extraordinary hydrothermal system that sustains Laguna Caliente. Intense fumarolic activity on the crater floor and walls continuously injects volcanic gases — primarily sulfur dioxide (SO₂), hydrogen sulfide (H₂S), and hydrochloric acid (HCl) — into the lake water, maintaining its extreme acidity. The interaction between this hyper-acidic lake and ascending magmatic heat is responsible for Poás’s characteristic phreatic eruption style."
+    },
+    "eruption_history_overview": {
+      "content": "Poás’s eruption record of 65 events reveals a volcano with persistent, low-level activity dominated by phreatic and phreatomagmatic eruptions rather than large magmatic events. The VEI distribution is strikingly low-magnitude: 36 eruptions at VEI 1, 19 at VEI 2, and 1 at VEI 0, with no eruptions exceeding VEI 2 in the entire record. This reflects Poás’s characteristic eruption style — steam-driven explosions from the crater lake rather than the voluminous magma eruptions typical of larger stratovolcanoes. The earliest recorded eruption dates to approximately 7920 BCE, and prehistoric activity includes eruptions from the Botos cone (~5590 BCE) and the northern flank Congo and Bosque Alegre vents. The historical record begins with a reported eruption in 1828, and since then Poás has erupted with remarkable frequency: the 19th century saw 9 eruptions, the 20th century saw 35, and the 21st century has already recorded 13 eruptions through 2025. The average recurrence interval since 1828 is approximately 3 years, though activity is often semi-continuous with overlapping episodes. The most active period in the modern record was 1952–1981, when Poás produced 19 eruptions in just 29 years. More recently, the 2017 eruption marked a shift to more energetic phreatomagmatic activity, with significant ashfall and the emission of ballistic blocks. The January 2025 eruption — the most recent event — continued the pattern of frequent low-level explosive activity from Laguna Caliente."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The April 2017 Eruption — Poás’s Most Disruptive Modern Event",
+          "content": "On April 12, 2017, Poás produced its most significant eruption in decades, a phreatomagmatic event that sent an ash-and-steam column approximately 3 km above the crater rim. The eruption ejected ballistic blocks and volcanic debris hundreds of meters from the crater, with material landing in areas that had recently been open to tourists. The explosion partially drained Laguna Caliente and exposed the crater floor, revealing intensely fumarolic vents. Volcanic gas emissions increased dramatically, with SO₂ flux reaching levels that posed serious respiratory hazards downwind. The eruption prompted the immediate closure of Poás Volcano National Park, which had been one of Costa Rica’s most popular tourist attractions, receiving approximately 400,000 visitors annually. The park remained closed for nearly two years, reopening in August 2019 with significantly restricted access — visitors were limited to timed 20-minute viewing sessions at the crater overlook, shelters were constructed to protect against ballistic projectiles, and real-time gas monitoring determined whether conditions were safe for visitation. The 2017 event demonstrated that even a low-VEI eruption at Poás could have significant economic and safety consequences due to the volcano’s proximity to one of Central America’s largest metropolitan areas and its role as a major tourist destination. Agricultural communities surrounding the volcano reported crop damage from acid rain and ashfall."
+        },
+        {
+          "title": "The 1952–1957 Eruption Cycle — A Five-Year Episode",
+          "content": "One of Poás’s longest continuous eruption episodes began on March 23, 1952, and persisted until 1957, encompassing repeated phreatic and phreatomagmatic explosions from Laguna Caliente. The eruption was characterized by frequent geyser-like ejections of crater lake water to heights of 50–200 m, a phenomenon that attracted both scientific attention and early tourist interest. The sustained activity significantly altered the crater lake’s chemistry and morphology, with periods of partial or complete lake drainage exposing fumarolic vents on the crater floor. This extended eruption episode coincided with growing scientific interest in Poás and contributed to the decision to establish formal monitoring programs. Rated VEI 2, the 1952–1957 episode was among the more energetic sustained events in Poás’s modern record."
+        },
+        {
+          "title": "The 2009–2014 Eruption — Extended Unrest",
+          "content": "Beginning in November 2009, Poás entered a prolonged phase of elevated activity that persisted until approximately 2014, rated VEI 1. This extended episode involved intermittent phreatic eruptions, persistent fumarolic emissions, elevated lake temperatures, and significant fluctuations in the level and chemistry of Laguna Caliente. The lake repeatedly changed color — shifting between turquoise, green, gray, and milky white — reflecting variations in sulfur content, temperature, and suspended particulate load. Periods of intense gas emission, particularly SO₂ and H₂S, necessitated occasional access restrictions at the national park. The prolonged nature of this episode highlighted Poás’s persistent hydrothermal unrest and its capacity for years-long low-level activity that, while not producing dramatic explosive events, continuously modifies the crater environment."
+        },
+        {
+          "title": "The 2019–2025 Activity — Ongoing Frequent Eruptions",
+          "content": "Following the reopening of Poás Volcano National Park in August 2019, the volcano continued to produce frequent phreatic eruptions. Events in February 2019 (VEI 2), April 2022 (VEI 1), August 2023 (VEI 1), December 2023–January 2024 (VEI 1), and January 2025 demonstrate Poás’s unrelenting low-level activity. The 2019 eruption was among the more energetic recent events, ejecting material above the crater rim. The park continues to operate under restricted-access protocols, with visits limited to timed sessions and closures implemented during periods of elevated gas emission or eruptive activity. This ongoing cycle confirms Poás as one of the most persistently active volcanoes in Central America."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Poás is continuously monitored by two Costa Rican institutions: OVSICORI-UNA (Observatorio Vulcanológico y Sismológico de Costa Rica, Universidad Nacional) and RSN (Red Sismológica Nacional, Universidad de Costa Rica). The monitoring network includes seismometers, tiltmeters, GPS stations, gas-detection instruments (MultiGAS and DOAS for SO₂ flux), webcams, and thermal imaging systems focused on the active crater. As of early 2025, Poás remains in a state of persistent low-level unrest, with the most recent eruption occurring in January 2025. Laguna Caliente fluctuates in temperature (typically 40–70°C, occasionally higher), volume, and color, reflecting variations in the intensity of hydrothermal input from below. SO₂ gas emissions are a constant concern, as prevailing winds can carry volcanic gases toward the heavily populated Central Valley to the south and southeast. The OVSICORI maintains a volcanic alert level system, and Poás has frequently been at elevated alert status due to increased gas emissions and phreatic activity. The national park operates under a controlled-access system implemented after the 2017 eruption: visitors are limited to timed 20-minute sessions at the crater overlook, gas-protective shelters have been constructed, and the park closes when SO₂ concentrations exceed safe thresholds."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Poás presents a unique hazard profile characterized by frequent low-magnitude events rather than rare catastrophic eruptions. The primary hazards include phreatic explosions ejecting ballistic blocks and superheated lake water, volcanic gas emissions (SO₂, H₂S, HCl), acid rain damaging agriculture and infrastructure, and potential lahars in the river valleys draining the volcano. Phreatic eruptions from Laguna Caliente can eject rocks and hot water hundreds of meters from the crater with little or no warning, posing a direct threat to visitors at the crater overlook — a scenario that drove the post-2017 safety measures. Volcanic gas emissions are Poás’s most persistent and widespread hazard. SO₂ flux from the crater can reach several hundred tonnes per day during active phases, and acid aerosol plumes driven by trade winds affect agricultural communities downwind, damaging crops (especially coffee, strawberries, and ornamental plants), corroding metal structures, and causing respiratory irritation. The broader San José metropolitan area (~2.5 million people) lies within potential ashfall range of a large eruption, though Poás’s historical eruptions have not produced significant ashfall at this distance. Lahars represent a secondary hazard: heavy rainfall on fresh volcanic deposits could mobilize debris flows in the Río Sarapiqui and Río Tárcoles watersheds. Compared to Costa Rica’s other active volcanoes — <a href=\"/volcano/arenal\">Arenal</a> (currently dormant since 2010) and Turri-alba (recently active) — Poás is the most frequently eruptive and poses the greatest ongoing hazard to agriculture and tourism."
+    },
+    "geography_and_physical_description": {
+      "content": "Poás is a broad, vegetated stratovolcano that dominates the landscape of Costa Rica’s Central Volcanic Range, with its summit rising to 2,697 m (8,848 ft) above sea level. The edifice covers approximately 300 km² and its slopes transition from tropical cloud forest at lower elevations to dwarf cloud forest and paramo near the summit. Three craters are aligned along a N–S structural fissure across the summit: the active crater containing Laguna Caliente (approximately 300 m diameter, 40 m deep) at the north, the inactive Botos crater (approximately 400 m diameter, 14 m deep, filled by cold rainwater) at the south, and a small area of recent fumarolic activity between them. Laguna Caliente is one of the most extraordinary volcanic features on Earth — a hyperacidic lake with a pH frequently measured near zero, making it among the most acidic natural bodies of water known. The lake’s vivid colors, ranging from turquoise to emerald green to milky gray, shift with changes in sulfur content, temperature, and particulate concentration. The Von Frantzius cone and the Congo stratovolcano occupy the northern extension of the fissure system. Several lake-filled maars (explosion craters) dot the lower northern flank. The surrounding landscape is a mosaic of coffee plantations, strawberry farms, dairy farms, and remnant cloud forest — a reflection of the fertile volcanic soils and the high population density of Costa Rica’s Central Valley."
+    },
+    "climate_and_global_impact": {
+      "content": "Poás’s eruptions have had no measurable global climate impact, as the volcano’s exclusively low-VEI activity (maximum VEI 2) produces insufficient sulfur dioxide and tephra to influence hemispheric or global atmospheric conditions. However, Poás has significant local and regional atmospheric effects. SO₂ emissions from the active crater form acid aerosol plumes that are transported by prevailing winds across the Central Valley, contributing to localized acid rain that damages crops, corrodes infrastructure, and affects air quality in surrounding communities. During periods of elevated gas emission, SO₂ flux can reach several hundred tonnes per day, creating a persistent volcanic haze visible from San José and surrounding areas. The volcano’s location in the tropics, at 2,697 m elevation, places it within the persistent trade wind belt, ensuring that gas plumes are reliably transported to the southwest and southeast toward populated agricultural areas. Compared to volcanoes with significant climate impact like <a href=\"/volcano/pinatubo\">Pinatubo</a> or <a href=\"/volcano/tambora\">Tambora</a>, Poás is a purely local-to-regional atmospheric actor."
+    },
+    "cultural_significance": {
+      "content": "Poás holds a central place in Costa Rican national identity and is often called the country’s ‘signature volcano.’ Poás Volcano National Park, established in 1971, was one of the first national parks in Costa Rica’s pioneering conservation system and has become one of the most visited natural attractions in Central America, receiving approximately 400,000 visitors annually before the 2017 eruption forced its temporary closure. The volcano’s accessibility — a paved road leads to within a few hundred meters of the crater rim — has made it a defining experience for tourists visiting Costa Rica, and images of the turquoise Laguna Caliente are iconic in Costa Rican tourism marketing. For the agricultural communities on Poás’s slopes, the volcano is both a blessing and a challenge: the fertile volcanic soils support some of Costa Rica’s finest coffee, known as ‘café de altura’ (high-altitude coffee), but acid rain from volcanic gas emissions periodically damages crops and corrodes farm equipment. The Fraijanes and Poasito communities on the southern flank have developed a distinct cultural identity shaped by life on an active volcano. In pre-Columbian times, indigenous Huetar peoples regarded the volcano with reverence and caution."
+    },
+    "visiting_and_tourism": {
+      "content": "Poás Volcano National Park is one of Costa Rica’s most popular tourist destinations and offers one of the easiest active volcano experiences in the world. The park is located approximately 37 km (a 1–1.5 hour drive) from San José via a paved road that climbs through coffee plantations and cloud forest to a parking area near the summit. Since reopening in August 2019 after the 2017 eruption, the park operates under a controlled-access system: visitors must purchase tickets in advance through the SINAC (Sistema Nacional de Áreas de Conservación) website, visits are limited to timed 20-minute sessions at the crater overlook, and the park closes when volcanic gas concentrations exceed safe levels. Protective shelters have been constructed near the crater viewpoint to shield visitors from ballistic projectiles in case of sudden phreatic eruptions. From the overlook, visitors gaze directly into the active crater at the turquoise waters of Laguna Caliente, with active fumaroles visible on the crater walls. A separate trail leads to the serene Botos lake, a cold rainwater-filled crater surrounded by cloud forest. The park is best visited in the early morning (opening at 7:00 AM), as clouds typically obscure the crater by late morning. Entry fees are approximately $15 USD for foreigners. Nearby attractions include the La Paz Waterfall Gardens and numerous coffee tours on the volcano’s fertile slopes."
+    },
+    "nearby_volcanoes": {
+      "content": "Poás is one of several active and dormant volcanoes in Costa Rica’s Central Volcanic Range. Barva, a dormant stratovolcano rising to 2,906 m, lies approximately 20 km to the southeast and hosts the popular Braulio Carrillo National Park. Irazú, another of Costa Rica’s most famous active volcanoes (last erupted 1994, 3,432 m), lies approximately 60 km to the southeast and offers a similar crater-lake experience. Turrialba, which became notably active from 2010–2018, sits adjacent to Irazú. <a href=\"/volcano/arenal\">Arenal</a>, Costa Rica’s most famous volcano internationally (a perfectly conical stratovolcano at 1,670 m), lies approximately 90 km to the northwest but has been in a dormant phase since 2010. Rincón de la Vieja, an active volcanic complex in Guanacaste province, lies approximately 180 km to the northwest. Together, Costa Rica’s volcanic chain reflects the active subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench."
+    },
+    "etymology": {
+      "content": "The origin of the name ‘Poás’ is debated. Some scholars suggest it derives from an indigenous Huetar word, possibly related to terms for ‘mountain’ or ‘cold place,’ while others connect it to early Spanish colonial naming practices. The accent on the ‘a’ (Poás) indicates the stress falls on the second syllable, pronounced approximately ‘po-AHS.’ The volcano has also been historically referred to as ‘Volcán de Poás’ in Spanish-language sources."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Poás Compared to Costa Rica’s and Central America’s Active Volcanoes",
+      "description": "How does Costa Rica’s most frequently erupting volcano compare to its regional peers?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Poás",
+          "Costa Rica",
+          "2,697 m",
+          "Stratovolcano",
+          "2025",
+          "2",
+          "65"
+        ],
+        [
+          "Arenal",
+          "Costa Rica",
+          "1,670 m",
+          "Stratovolcano",
+          "2010",
+          "3",
+          "8"
+        ],
+        [
+          "Fuego",
+          "Guatemala",
+          "3,763 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "60+"
+        ],
+        [
+          "Turrialba",
+          "Costa Rica",
+          "3,340 m",
+          "Stratovolcano",
+          "2018",
+          "3",
+          "6"
+        ],
+        [
+          "Rincón de la Vieja",
+          "Costa Rica",
+          "1,916 m",
+          "Complex",
+          "2024",
+          "3",
+          "23"
+        ]
+      ]
+    },
+    {
+      "title": "Poás vs the World’s Crater Lake Volcanoes",
+      "description": "A comparison of notable volcanic crater lakes and their parent volcanoes.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Crater Lake",
+        "Lake pH",
+        "Eruption Count",
+        "Last Eruption",
+        "Tourism Access"
+      ],
+      "rows": [
+        [
+          "Poás",
+          "Costa Rica",
+          "Laguna Caliente",
+          "~0",
+          "65",
+          "2025",
+          "Controlled access, paved road"
+        ],
+        [
+          "Kawah Ijen",
+          "Indonesia",
+          "Kawah Ijen",
+          "~0.5",
+          "7",
+          "1999",
+          "Hiking trail, guided tours"
+        ],
+        [
+          "Ruapehu",
+          "New Zealand",
+          "Crater Lake",
+          "~1",
+          "35+",
+          "2007",
+          "Ski area, hiking"
+        ],
+        [
+          "White Island",
+          "New Zealand",
+          "Crater Lake",
+          "~1",
+          "34",
+          "2019",
+          "Boat/helicopter (restricted)"
+        ],
+        [
+          "Kelimutu",
+          "Indonesia",
+          "3 colored lakes",
+          "Variable",
+          "4",
+          "1968",
+          "Hiking, moderate access"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7920,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5590,
+      "vei": null,
+      "label": "Botos Cone eruption — last activity from southern crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1828,
+      "vei": 1,
+      "label": "First historically reported eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1910,
+      "vei": 2,
+      "label": "Significant phreatic eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1952,
+      "vei": 2,
+      "label": "Start of 5-year eruption episode with geyser-like ejections",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1969,
+      "vei": 2,
+      "label": "Notable phreatic eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1987,
+      "vei": 2,
+      "label": "Extended eruption phase 1987–1990",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2009,
+      "vei": 1,
+      "label": "Start of prolonged unrest (2009–2014)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 1,
+      "label": "Phreatomagmatic eruption — 3 km column, park closed 2 years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2019,
+      "vei": 2,
+      "label": "Energetic phreatic eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption — phreatic activity from Laguna Caliente",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 7,
+      "note": "Events from ~7920 BCE to ~1280 CE including Botos and flank eruptions"
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 9
+    },
+    {
+      "century": "20th",
+      "count": 35
+    },
+    {
+      "century": "21st",
+      "count": 13
+    }
+  ],
+  "facts": [
+    "Laguna Caliente in Poás’s active crater has a pH near zero, making it one of the most acidic natural lakes on Earth — roughly equivalent to battery acid.",
+    "Poás has produced 65 recorded eruptions, making it Costa Rica’s most frequently erupting volcano by a wide margin.",
+    "The volcano’s active crater contains Laguna Caliente while a separate dormant crater just 600 m to the south holds the serene, cold-water Botos lake — two dramatically different lakes on one summit.",
+    "Before the 2017 eruption, Poás Volcano National Park received approximately 400,000 visitors per year, making it one of the most visited active volcano sites in the Americas.",
+    "Poás’s VEI has never exceeded 2 in its entire recorded history — it is one of the world’s most active volcanoes by eruption count while being among the least explosive.",
+    "The April 2017 eruption forced the closure of the national park for nearly two years, resulting in an estimated $10 million in lost tourism revenue.",
+    "Since 2019, visitors to the crater overlook are limited to timed 20-minute sessions and must shelter in purpose-built bunkers if gas levels spike.",
+    "Acid rain from Poás’s SO₂ emissions damages coffee crops, strawberries, and ornamental plants on the volcano’s agricultural slopes.",
+    "Poás is located just 37 km from San José, Costa Rica’s capital city of ~350,000 people — one of the shortest distances between an actively erupting volcano and a national capital.",
+    "The volcano’s Botos crater lake last erupted approximately 7,500 years ago and is now a tranquil rainwater lake surrounded by cloud forest, popular with birdwatchers.",
+    "The 20th century alone saw 35 eruptions from Poás — an average of one eruption every 2.9 years.",
+    "Poás’s characteristic eruption style involves geyser-like ejections of superheated, hyperacidic lake water to heights of 50–500 m with little or no warning."
+  ],
+  "faqs": [
+    {
+      "question": "Is Poás Volcano still active?",
+      "answer": "Poás is one of the most active volcanoes in Costa Rica and Central America. It most recently erupted in January 2025, continuing a pattern of frequent phreatic (steam-driven) eruptions from its crater lake, Laguna Caliente. The volcano has produced 65 documented eruptions, with 13 events in the 21st century alone. Poás is in a state of persistent low-level unrest, with continuous fumarolic gas emissions, elevated lake temperatures, and intermittent phreatic explosions. Two monitoring agencies — OVSICORI-UNA and RSN — maintain continuous surveillance of seismicity, gas emissions, and crater lake conditions."
+    },
+    {
+      "question": "Can you visit Poás Volcano?",
+      "answer": "Yes, Poás Volcano National Park is open to visitors but operates under a controlled-access system implemented after the 2017 eruption. Visitors must purchase timed-entry tickets in advance through the SINAC website. Visits to the crater overlook are limited to 20-minute sessions, and the park closes when volcanic gas concentrations exceed safe levels. A paved road leads from San José (approximately 37 km, 1–1.5 hours by car) to a parking area near the summit. The best time to visit is early morning (park opens at 7:00 AM) before clouds obscure the crater. Entry costs approximately $15 USD for non-residents. Protective shelters are available at the viewpoint."
+    },
+    {
+      "question": "What is Laguna Caliente?",
+      "answer": "Laguna Caliente (‘Hot Lake’) is the hyperacidic crater lake that occupies Poás’s active summit crater. It is one of the most acidic natural bodies of water on Earth, with a pH frequently measured near zero — roughly equivalent to battery acid. The lake’s extreme acidity results from intense fumarolic activity on the crater floor that continuously injects sulfur dioxide, hydrogen sulfide, and hydrochloric acid into the water. The lake’s color shifts between vivid turquoise, emerald green, and milky gray depending on sulfur content, temperature, and suspended particles. Phreatic eruptions from Laguna Caliente produce geyser-like ejections of superheated, acidic water."
+    },
+    {
+      "question": "Is Poás Volcano dangerous?",
+      "answer": "Poás presents moderate danger, primarily from sudden phreatic eruptions and volcanic gas emissions. Phreatic explosions can eject rocks and scalding acidic water hundreds of meters from the crater with little warning — the 2017 eruption ejected ballistic blocks into areas previously open to tourists. SO₂ gas emissions create respiratory hazards near the crater and generate acid rain affecting surrounding agricultural communities. However, Poás has never produced a VEI 3 or larger eruption in its recorded history, and the post-2017 safety measures (timed visits, shelters, gas monitoring) significantly reduce visitor risk. The greater San José area is not at direct risk from Poás’s typical eruption style."
+    },
+    {
+      "question": "How tall is Poás Volcano?",
+      "answer": "Poás rises to 2,697 m (8,848 ft) above sea level, making it the second-tallest active volcano in Costa Rica’s Central Volcanic Range after Irazú (3,432 m). The summit is easily accessible by vehicle via a paved road, making Poás one of the highest points in Costa Rica that can be reached without hiking. The active crater sits near the summit at approximately 2,600 m elevation, with the crater floor roughly 40 m below the rim. The volcano’s broad edifice covers approximately 300 km²."
+    },
+    {
+      "question": "What type of volcano is Poás?",
+      "answer": "Poás is classified as a complex stratovolcano (composite volcano) with three craters aligned along a N–S structural fissure. It produces andesitic to basaltic-andesitic magma, typical of subduction zone volcanism along the Central American Volcanic Arc. Poás’s eruption style is dominated by phreatic (steam-driven) and phreatomagmatic explosions from its crater lake, rather than the effusive lava flows or large explosive Plinian eruptions characteristic of some other stratovolcanoes. The volcano’s persistent hydrothermal system and hyperacidic crater lake make it more comparable to volcanic systems like Kawah Ijen (Indonesia) or White Island (New Zealand) than to typical explosive stratovolcanoes."
+    },
+    {
+      "question": "When did Poás last erupt?",
+      "answer": "Poás’s most recent eruption occurred in January 2025, involving phreatic activity from Laguna Caliente. Prior to that, eruptions occurred in December 2023–January 2024, August 2023, April 2022, and February 2019. The most significant recent eruption was the April 2017 phreatomagmatic event, which produced a 3 km eruption column, ejected ballistic blocks, and forced the closure of the national park for nearly two years. Poás erupts very frequently, with 65 recorded eruptions and an average recurrence interval of approximately 3 years since 1828."
+    },
+    {
+      "question": "How far is Poás from San José?",
+      "answer": "Poás Volcano is approximately 37 km (23 miles) northwest of San José, the capital of Costa Rica. The drive takes approximately 1–1.5 hours via well-maintained paved roads that climb through coffee plantations and cloud forest. This proximity makes Poás one of the closest active volcanoes to a national capital anywhere in the world. The nearest town is Poasito, on the volcano’s southern slope, and the city of Alajuela (population ~43,000) lies approximately 28 km to the south."
+    },
+    {
+      "question": "What is the best time to visit Poás?",
+      "answer": "The best time to visit Poás is early morning, as soon as the park opens at 7:00 AM. Clouds typically move in by late morning (10:00–11:00 AM), obscuring the crater from view. The dry season (December–April) generally offers better visibility than the wet season (May–November), though clear mornings can occur year-round. Book tickets in advance through the SINAC website, as entry is limited to timed sessions. Check OVSICORI for current volcanic activity status before visiting, as the park closes during periods of elevated gas emissions or eruptive activity."
+    },
+    {
+      "question": "Why is Poás’s crater lake so acidic?",
+      "answer": "Laguna Caliente’s extreme acidity (pH near zero) results from the continuous injection of volcanic gases into the lake water from intense fumarolic vents on the crater floor. These vents release sulfur dioxide (SO₂), hydrogen sulfide (H₂S), hydrochloric acid (HCl), and hydrofluoric acid (HF), which dissolve into the lake and react with water to form sulfuric acid, hydrochloric acid, and other corrosive compounds. The lake essentially functions as a natural acid bath heated from below by magmatic heat. Its extreme chemistry makes it inhospitable to all known life forms and capable of dissolving most metals and rocks."
+    }
+  ],
+  "people_also_search": [
+    "poas volcano costa rica",
+    "poas volcano crater lake",
+    "poas national park tickets",
+    "is poas safe to visit",
+    "poas volcano eruption 2025",
+    "laguna caliente poas",
+    "most acidic lake in the world",
+    "costa rica volcano tour"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Poás",
+    "alternateName": [
+      "Volcán Poás",
+      "Poas Volcano"
+    ],
+    "description": "One of Costa Rica’s most active volcanoes, famous for its ultra-acidic crater lake Laguna Caliente and frequent phreatic eruptions",
+    "geo": {
+      "latitude": 10.2,
+      "longitude": -84.233,
+      "elevation": 2697
+    },
+    "containedInPlace": {
+      "name": "Central Volcanic Range",
+      "country": "Costa Rica"
+    },
+    "url": "https://volcanoatlas.com/volcano/poas"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=345040",
+      "text": "Smithsonian GVP: Poás",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ovsicori.una.ac.cr/",
+      "text": "OVSICORI-UNA — Costa Rica Volcanological Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Poas-Volcano",
+      "text": "Britannica: Poás Volcano",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.sinac.go.cr/",
+      "text": "SINAC — Costa Rica National Conservation Areas System (Park Tickets)",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "arenal",
+      "fuego",
+      "ruapehu",
+      "white-island",
+      "pinatubo",
+      "tambora"
+    ],
+    "country_pages": [
+      "costa-rica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "arenal",
+    "turrialba",
+    "rincon-de-la-vieja",
+    "fuego",
+    "ruapehu"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Costa Rica",
+      "url": "/volcanoes-in-costa-rica"
+    },
+    {
+      "label": "Poás",
+      "url": "/volcano/poas"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/poas"
+}

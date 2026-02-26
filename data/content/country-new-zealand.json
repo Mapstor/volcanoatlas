@@ -1,0 +1,615 @@
+{
+  "slug": "new-zealand",
+  "title": "Volcanoes in New Zealand",
+  "meta_title": "Volcanoes in New Zealand \u2014 Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "New Zealand has 23 Holocene volcanoes including Ruapehu, Taupo, and Whakaari. Full list, eruption timeline, tectonic context, and visitor guide.",
+  "quick_answer": {
+    "how_many": "New Zealand has 23 Holocene volcanoes recorded by the Smithsonian Global Volcanism Program, spanning both the North Island and the submarine Kermadec Arc extending northward.",
+    "how_many_active": "At least 9 New Zealand volcanoes have been observed erupting in historical times, including Ruapehu, Tongariro, Whakaari/White Island, and the submarine Monowai seamount.",
+    "why": "New Zealand sits on the boundary where the Pacific Plate subducts beneath the Australian Plate along the Hikurangi Trench, generating the Taupo Volcanic Zone \u2014 one of the most active volcanic regions on Earth.",
+    "tallest": "Ruapehu at 2,797 m (9,177 ft)",
+    "most_recent": "Whakaari/White Island (2025) and Taal [sic \u2014 Kanlaon] (2025)"
+  },
+  "hero": {
+    "title": "Volcanoes in New Zealand",
+    "subtitle": "The Taupo Volcanic Zone \u2014 One of Earth's Most Active Rhyolitic Systems",
+    "volcano_count": 23,
+    "active_count": 9,
+    "tallest": {
+      "name": "Ruapehu",
+      "elevation_m": 2797
+    },
+    "most_recent_eruption": {
+      "volcano": "Whakaari/White Island",
+      "year": "2025"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "New Zealand has 23 Holocene volcanoes catalogued by the Smithsonian Global Volcanism Program, making it one of the most volcanically active countries in the Southern Hemisphere and a key segment of the [[special:ring-of-fire|Ring of Fire]]. Nine of these volcanoes have been observed erupting in historical times, and the country hosts one of the most productive volcanic systems on Earth: the Taupo Volcanic Zone (TVZ), which stretches approximately 300 km from [[volcano:ruapehu|Mount Ruapehu]] on the central North Island northeast to [[volcano:whakaari-white-island|Whakaari/White Island]] in the Bay of Plenty. This zone produces both the explosive rhyolitic eruptions that have shaped the central North Island's landscape and the andesitic volcanism of the classic stratovolcanoes visible on the horizon. New Zealand's volcanic heritage includes one of the largest eruptions of the past 5,000 years \u2014 the Taupo eruption of 233 CE, a VEI 6 event that ejected approximately 120 km\u00b3 of material and devastated an area of 20,000 km\u00b2. Beyond the North Island, the submarine Kermadec Arc extends over 1,000 km northward, contributing another 11 volcanic centres including the remote Raoul Island and numerous seamounts. With 4.9 million people, major cities including Auckland (built atop a volcanic field), and critical infrastructure positioned near active vents, New Zealand treats volcanic risk as a central component of national emergency management. The country's volcanoes are monitored by GeoNet, operated by GNS Science, which maintains a network of seismographs, GPS stations, gas sensors, and webcams across the most active centres."
+    },
+    "why_new_zealand_has_volcanoes": {
+      "content": "New Zealand's volcanism is driven primarily by the subduction of the Pacific Plate beneath the Australian Plate along the Hikurangi Trench, which lies approximately 200 km east of the North Island. The Pacific Plate descends at a rate of about 42-50 mm per year, and as it reaches depths of 80-100 km, fluids released from the sinking oceanic crust trigger partial melting in the overlying mantle wedge. This molten rock rises through the crust to feed the volcanoes of the Taupo Volcanic Zone.\n\nThe TVZ is unusual among subduction zones because it functions as a continental back-arc rift \u2014 the crust is actively stretching and thinning, producing a graben (down-dropped block) that is simultaneously filling with volcanic material. This rifting generates exceptionally high heat flow and explains why the TVZ produces enormous volumes of rhyolitic magma, making it the most frequently active rhyolitic system on Earth. The zone is divided into three segments: the southern TVZ, dominated by the andesitic [[special:types-of-volcanoes|stratovolcanoes]] Ruapehu and [[volcano:tongariro|Tongariro]]; the central TVZ, containing the rhyolitic calderas of Taupo and Okataina that have produced New Zealand's most explosive eruptions; and the northern TVZ extending offshore to Whakaari/White Island.\n\nSeparate from the TVZ, [[volcano:taranaki|Mount Taranaki]] on the west coast of the North Island sits on its own volcanic lineament, possibly fed by a different segment of the subduction system. The Auckland Volcanic Field is an intraplate basaltic field unrelated to subduction, driven instead by deep mantle processes. The Kermadec Arc, stretching from White Island to the Tonga Trench, represents the oceanic portion of the plate boundary where the Pacific Plate subducts more steeply, generating a chain of submarine and emergent stratovolcanoes including Raoul Island. Unlike [[country:iceland|Iceland]], which sits on a divergent boundary, New Zealand's volcanism is fundamentally convergent \u2014 powered by one tectonic plate diving beneath another."
+    },
+    "major_volcanoes": {
+      "content": "**Ruapehu** (2,797 m / 9,177 ft) is the highest volcano in New Zealand and one of its most active, with 66 recorded eruptions. This large andesitic [[special:types-of-volcanoes|stratovolcano]] in the central North Island features a warm acidic crater lake (Te Wai \u0101-moe) at its summit, which periodically overflows to produce lahars. The 1953 Tangiwai disaster \u2014 when a lahar destroyed a railway bridge moments before a passenger train crossed \u2014 killed 151 people and remains New Zealand's worst railway disaster. Ruapehu's most recent eruptions occurred in 1995-96 and 2007. The volcano is a major ski destination, with two commercial ski fields on its slopes.\n\n**Tongariro** (1,978 m / 6,490 ft) is a massive volcanic complex composed of over a dozen composite cones constructed over 275,000 years. Together with Ruapehu and Ngauruhoe, it forms part of the Tongariro National Park \u2014 New Zealand's first national park and a UNESCO World Heritage Site for both its natural and cultural significance to M\u0101ori. The 2012 eruptions of Te Maari crater on Tongariro's northern flank sent ash plumes to 7 km altitude and scattered ballistic blocks across the popular Tongariro Alpine Crossing track, one of New Zealand's most-walked day hikes. [[volcano:tongariro|Tongariro]] has produced 79 recorded eruptions, including VEI 5 events in prehistory.\n\n**Taupo** (760 m) is a massive [[special:types-of-volcanoes|caldera]] now filled by Lake Taupo, the largest lake in New Zealand by surface area (616 km\u00b2). It is the type example of a highly active rhyolitic caldera and has produced at least 25 eruptions over the past 27,000 years. The Oruanui supereruption approximately 26,500 years ago was a VEI 8 event \u2014 one of the largest eruptions in the past 70,000 years, ejecting approximately 1,170 km\u00b3 of material. The 233 CE Taupo eruption (VEI 6) was the most powerful eruption anywhere on Earth in the past 5,000 years, producing a pyroclastic flow that travelled at estimated speeds of 600-900 km/h and devastated an area of 20,000 km\u00b2. Despite this ferocious history, the caldera today is a popular holiday destination \u2014 the town of Taupo sits on its northern shore.\n\n**Whakaari/White Island** (294 m / 965 ft) is New Zealand's most continuously active volcano, a small stratovolcanic island 48 km offshore in the Bay of Plenty. It has produced 42 recorded eruptions and maintains a persistent fumarolic and crater lake system. The December 9, 2019 eruption killed 22 people \u2014 tourists and guides who were visiting the island's crater at the time \u2014 in one of New Zealand's worst volcanic disasters and the deadliest volcanic event globally since the 2014 eruption of [[volcano:ontake|Mount Ontake]] in Japan. The eruption prompted major reviews of volcanic risk management and access policies. [[volcano:whakaari-white-island|Whakaari]] continues to erupt periodically, with activity recorded as recently as 2025.\n\n**Okataina** (1,111 m) is a large rhyolitic volcanic centre in the central TVZ, containing the Tarawera and Haroharo vent lineations. The 1886 eruption of Mount Tarawera (VEI 5) was one of New Zealand's most devastating historical volcanic events, killing an estimated 120 people and burying the famous Pink and White Terraces \u2014 Victorian-era tourist attractions that were considered natural wonders of the world. The eruption was unusual for a rhyolitic centre in that it was basaltic, suggesting deep magma injection.\n\n**Taranaki** (2,518 m / 8,261 ft), formerly known as Mount Egmont, is a near-perfectly symmetrical andesitic stratovolcano on the west coast of the North Island. With 43 recorded eruptions \u2014 including VEI 5 events \u2014 [[volcano:taranaki|Taranaki]] is statistically overdue for activity. Its last eruption around 1800 CE produced lava flows and pyroclastic debris. The volcano lies within Egmont National Park and is often compared to [[volcano:fujisan|Mount Fuji]] for its symmetry.\n\n**Auckland Volcanic Field** (260 m) is a basaltic intraplate volcanic field of approximately 53 eruptive centres directly beneath New Zealand's largest city, Auckland, home to 1.7 million people. The most recent eruption, which formed Rangitoto Island around 1446 CE, occurred only about 600 years ago. The field remains potentially active, and any future eruption \u2014 which could occur at a new, unpredictable location \u2014 would require mass evacuation of urban areas.\n\n**Raoul Island** (516 m) is the most active volcano in the Kermadec Arc, located approximately 1,100 km northeast of the North Island. It has produced 18 recorded eruptions, including three VEI 6 events in prehistory. The island is uninhabited except for a small Department of Conservation station, and a 2006 eruption killed one DOC worker."
+    },
+    "eruption_history": {
+      "content": "New Zealand possesses one of the most explosive volcanic records of any country on Earth, dominated by the enormous rhyolitic eruptions of the Taupo Volcanic Zone. The Oruanui supereruption of Taupo approximately 26,500 years ago \u2014 a VEI 8 event \u2014 ejected roughly 1,170 km\u00b3 of pyroclastic material, ranking among the largest eruptions of the past 100,000 years and qualifying Taupo as a [[special:supervolcanoes|supervolcano]]. Within the Holocene, Taupo has erupted at least 25 times, with the 233 CE eruption (VEI 6) producing the most energetic known pyroclastic flow in recorded geological history, travelling at near-supersonic speeds across the central North Island.\n\nThe historical eruption record is rich. The 1886 Tarawera eruption (VEI 5) killed approximately 120 people, destroyed the Pink and White Terraces, and blasted a 17 km rift across the landscape. The 1945 and 1995-96 eruptions of Ruapehu produced significant lahars and ashfall, while the 1953 Tangiwai lahar disaster killed 151 people when a rail bridge collapsed under a lahar from Ruapehu's crater lake. The 2012 eruptions of Tongariro's Te Maari crater surprised volcanologists with their sudden onset. Most recently, the 2019 Whakaari eruption killed 22 people in a tragedy that reshaped volcanic tourism management worldwide.\n\nThe Kermadec Arc adds substantial activity: Raoul Island has produced three VEI 6 eruptions in the Holocene, and the submarine Monowai seamount has erupted 27 times. In total, the Smithsonian database records over 348 eruptions across New Zealand's 23 volcanic centres, with VEI values ranging from 0 to 6 and a prehistoric VEI 8."
+    },
+    "volcanic_hazards": {
+      "content": "New Zealand faces a diverse and severe portfolio of volcanic hazards. The greatest risk in terms of potential scale lies with the rhyolitic calderas of Taupo and Okataina, which are capable of producing explosive eruptions that could blanket the entire North Island in tephra. Even a moderate (VEI 4-5) eruption of Taupo would devastate the central North Island, potentially displacing hundreds of thousands of people and disrupting agriculture, water supply, and transportation across the country. Ashfall from larger eruptions could affect [[country:australia|Australia]] and disrupt trans-Pacific aviation for weeks.\n\nAt a more immediate level, lahars from Ruapehu's crater lake represent a persistent threat. The Eastern Ruapehu Lahar Alarm and Warning System (ERLAWS) was installed after the 1953 Tangiwai disaster and provides automated warnings when lahars are detected. Pyroclastic flows, ballistic ejecta, and volcanic gas are all hazards at the andesitic stratovolcanoes, as demonstrated tragically at Whakaari in 2019. The Auckland Volcanic Field poses a unique challenge: any future eruption could occur at a new location beneath the city, with virtually no long-term precursory warning. Auckland Council's volcanic contingency plan involves potential evacuation of hundreds of thousands of residents. GeoNet, operated by GNS Science, maintains the Volcanic Alert Level system \u2014 a 0-5 scale used to communicate volcanic unrest \u2014 and operates monitoring networks across all of New Zealand's major volcanic centres."
+    },
+    "volcanic_zones_map": {
+      "content": "New Zealand's volcanoes are organized along clear tectonic lineaments. The dominant feature is the Taupo Volcanic Zone (TVZ), running approximately 300 km northeast from Ruapehu to Whakaari/White Island. The southern TVZ contains the andesitic stratovolcanoes Ruapehu and Tongariro; the central TVZ hosts the massive rhyolitic calderas of Taupo and Okataina; and the northern TVZ extends offshore. West of the TVZ, Mount Taranaki stands in isolation on the Taranaki coast. The Auckland Volcanic Field, 250 km north of the TVZ, is an intraplate basaltic field unrelated to the main volcanic arc. The Kermadec Arc extends northeast from Whakaari over 1,000 km to the Tonga Trench, contributing submarine volcanoes including Monowai, Rumble III, and Raoul Island. The Macauley caldera on this arc has produced VEI 6 eruptions."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism is central to New Zealand's cultural identity, economy, and daily life. For M\u0101ori, volcanoes hold profound spiritual significance. Tongariro National Park \u2014 encompassing Ruapehu, Tongariro, and Ngauruhoe \u2014 was gifted to the nation in 1887 by the paramount chief Te Heuheu T\u016bkino IV to protect the mountains' tapu (sacred) status, making it the world's fourth-oldest national park and a dual UNESCO World Heritage Site recognising both natural and cultural values. Whakaari, Taranaki, and the Auckland volcanic cones each carry specific M\u0101ori narratives and genealogies (whakapapa).\n\nGeothermal energy generated by volcanic heat contributes approximately 17% of New Zealand's electricity, with major power stations at Wairakei, Kawerau, and Nga Awa Purua within the TVZ. Geothermal hot springs and geysers \u2014 particularly at Rotorua and Wai-O-Tapu \u2014 draw over 3 million visitors annually, making volcanic tourism a multi-billion-dollar industry. Volcanic soils support productive agriculture across the Waikato and Bay of Plenty regions. The economic cost of volcanic disruption is also significant: the 1995-96 Ruapehu eruptions caused an estimated NZ$130 million in losses, and the 2019 Whakaari disaster reshaped the nation's approach to adventure tourism risk management."
+    },
+    "visiting_volcanoes": {
+      "content": "New Zealand offers world-class volcanic tourism experiences. The Tongariro Alpine Crossing, a 19.4 km one-day hike through the volcanic landscape of Tongariro National Park, is consistently rated among the world's best day walks. The track passes the Emerald Lakes, Red Crater, and lava flows of the active volcanic field \u2014 though access to sections may be restricted during elevated volcanic alert levels. Ruapehu's ski fields (Whakapapa and T\u016broa) operate on the slopes of an active volcano, a rare combination globally.\n\nThe geothermal wonderlands of Rotorua \u2014 including Wai-O-Tapu Thermal Wonderland, Te Puia (home to P\u014dhutu geyser), and the Buried Village of Te Wairoa (destroyed in the 1886 Tarawera eruption) \u2014 provide accessible volcanic experiences. Rangitoto Island in Auckland Harbour, the youngest volcano in the Auckland Volcanic Field, is accessible by a 25-minute ferry ride and features walking tracks through lava flows and pohutukawa forest. Access to Whakaari/White Island has been restricted since the 2019 disaster, though aerial viewing tours operate. Visitors should check GeoNet's Volcanic Alert Bulletins before visiting any active volcanic area and heed all official warnings."
+    }
+  },
+  "volcano_table": {
+    "description": "Complete table of all 23 Holocene volcanoes in New Zealand from the Smithsonian Global Volcanism Program database.",
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      {
+        "name": "Ruapehu",
+        "slug": "ruapehu",
+        "elevation_m": 2797,
+        "type": "Stratovolcano",
+        "last_eruption": 2007,
+        "status": "Active",
+        "eruption_count": 66,
+        "vei_max": 4,
+        "id": 241100,
+        "rank": 1
+      },
+      {
+        "name": "Taranaki",
+        "slug": "taranaki",
+        "elevation_m": 2518,
+        "type": "Stratovolcano",
+        "last_eruption": 1800,
+        "status": "Active",
+        "eruption_count": 43,
+        "vei_max": 5,
+        "id": 241030,
+        "rank": 2
+      },
+      {
+        "name": "Tongariro",
+        "slug": "tongariro",
+        "elevation_m": 1978,
+        "type": "Stratovolcano(es)",
+        "last_eruption": 2012,
+        "status": "Active",
+        "eruption_count": 79,
+        "vei_max": 5,
+        "id": 241080,
+        "rank": 3
+      },
+      {
+        "name": "Okataina",
+        "slug": "okataina",
+        "elevation_m": 1111,
+        "type": "Lava dome(s)",
+        "last_eruption": 1981,
+        "status": "Active",
+        "eruption_count": 31,
+        "vei_max": 5,
+        "id": 241050,
+        "rank": 4
+      },
+      {
+        "name": "Taupo",
+        "slug": "taupo",
+        "elevation_m": 760,
+        "type": "Caldera",
+        "last_eruption": 260,
+        "status": "Holocene",
+        "eruption_count": 25,
+        "vei_max": 6,
+        "id": 241070,
+        "rank": 5
+      },
+      {
+        "name": "Raoul Island",
+        "slug": "raoul-island",
+        "elevation_m": 516,
+        "type": "Stratovolcano",
+        "last_eruption": 2006,
+        "status": "Active",
+        "eruption_count": 18,
+        "vei_max": 6,
+        "id": 242030,
+        "rank": 6
+      },
+      {
+        "name": "Tuhua/Mayor Island",
+        "slug": "tuhua-mayor-island",
+        "elevation_m": 355,
+        "type": "Shield",
+        "last_eruption": -5055,
+        "status": "Holocene",
+        "eruption_count": 2,
+        "vei_max": 5,
+        "id": 241021,
+        "rank": 7
+      },
+      {
+        "name": "Whakaari/White Island",
+        "slug": "whakaari-white-island",
+        "elevation_m": 294,
+        "type": "Stratovolcano(es)",
+        "last_eruption": 2025,
+        "status": "Active",
+        "eruption_count": 42,
+        "vei_max": 3,
+        "id": 241040,
+        "rank": 8
+      },
+      {
+        "name": "Auckland Volcanic Field",
+        "slug": "auckland-volcanic-field",
+        "elevation_m": 260,
+        "type": "Volcanic field",
+        "last_eruption": 1446,
+        "status": "Holocene",
+        "eruption_count": 2,
+        "vei_max": null,
+        "id": 241020,
+        "rank": 9
+      },
+      {
+        "name": "Macauley",
+        "slug": "macauley",
+        "elevation_m": 238,
+        "type": "Caldera",
+        "last_eruption": -4360,
+        "status": "Holocene",
+        "eruption_count": 3,
+        "vei_max": 6,
+        "id": 242021,
+        "rank": 10
+      },
+      {
+        "name": "Curtis Island",
+        "slug": "curtis-island",
+        "elevation_m": 47,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 2,
+        "vei_max": 0,
+        "id": 242010,
+        "rank": 11
+      },
+      {
+        "name": "Giggenbach",
+        "slug": "giggenbach",
+        "elevation_m": -65,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 242022,
+        "rank": 12
+      },
+      {
+        "name": "Monowai",
+        "slug": "monowai",
+        "elevation_m": -132,
+        "type": "Stratovolcano",
+        "last_eruption": 2014,
+        "status": "Active",
+        "eruption_count": 27,
+        "vei_max": 1,
+        "id": 242050,
+        "rank": 13
+      },
+      {
+        "name": "Rumble III",
+        "slug": "rumble-iii",
+        "elevation_m": -220,
+        "type": "Stratovolcano",
+        "last_eruption": 2008,
+        "status": "Active",
+        "eruption_count": 6,
+        "vei_max": 0,
+        "id": 241130,
+        "rank": 14
+      },
+      {
+        "name": "Rumble V",
+        "slug": "rumble-v",
+        "elevation_m": -400,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 241110,
+        "rank": 15
+      },
+      {
+        "name": "Rumble IV",
+        "slug": "rumble-iv",
+        "elevation_m": -500,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 241120,
+        "rank": 16
+      },
+      {
+        "name": "Tangaroa",
+        "slug": "tangaroa",
+        "elevation_m": -600,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 241102,
+        "rank": 17
+      },
+      {
+        "name": "Clark",
+        "slug": "clark",
+        "elevation_m": -860,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 241101,
+        "rank": 18
+      },
+      {
+        "name": "Havre Seamount",
+        "slug": "havre-seamount",
+        "elevation_m": -897,
+        "type": "Stratovolcano",
+        "last_eruption": 2012,
+        "status": "Active",
+        "eruption_count": 1,
+        "vei_max": 1,
+        "id": 242005,
+        "rank": 19
+      },
+      {
+        "name": "Wright",
+        "slug": "wright",
+        "elevation_m": -900,
+        "type": "Stratovolcano(es)",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 242001,
+        "rank": 20
+      },
+      {
+        "name": "Healy",
+        "slug": "healy",
+        "elevation_m": -980,
+        "type": "Stratovolcano",
+        "last_eruption": 1360,
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": null,
+        "id": 241140,
+        "rank": 21
+      },
+      {
+        "name": "Rumble II West",
+        "slug": "rumble-ii-west",
+        "elevation_m": -1200,
+        "type": "Stratovolcano",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 241131,
+        "rank": 22
+      },
+      {
+        "name": "Brothers",
+        "slug": "brothers",
+        "elevation_m": -1350,
+        "type": "Caldera",
+        "last_eruption": null,
+        "status": "Uncertain",
+        "eruption_count": 0,
+        "vei_max": null,
+        "id": 241150,
+        "rank": 23
+      }
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Ruapehu",
+      "elevation": 2797,
+      "slug": "ruapehu"
+    },
+    {
+      "name": "Taranaki",
+      "elevation": 2518,
+      "slug": "taranaki"
+    },
+    {
+      "name": "Tongariro",
+      "elevation": 1978,
+      "slug": "tongariro"
+    },
+    {
+      "name": "Okataina",
+      "elevation": 1111,
+      "slug": "okataina"
+    },
+    {
+      "name": "Taupo",
+      "elevation": 760,
+      "slug": "taupo"
+    },
+    {
+      "name": "Raoul Island",
+      "elevation": 516,
+      "slug": "raoul-island"
+    },
+    {
+      "name": "Tuhua/Mayor Island",
+      "elevation": 355,
+      "slug": "tuhua-mayor-island"
+    },
+    {
+      "name": "Whakaari/White Island",
+      "elevation": 294,
+      "slug": "whakaari-white-island"
+    },
+    {
+      "name": "Auckland Volcanic Field",
+      "elevation": 260,
+      "slug": "auckland-volcanic-field"
+    },
+    {
+      "name": "Macauley",
+      "elevation": 238,
+      "slug": "macauley"
+    },
+    {
+      "name": "Curtis Island",
+      "elevation": 47,
+      "slug": "curtis-island"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -9650,
+      "volcano": "Tongariro",
+      "vei": 5,
+      "label": "Major Plinian eruption in central North Island"
+    },
+    {
+      "year": -8130,
+      "volcano": "Taupo",
+      "vei": 5,
+      "label": "Large rhyolitic eruption from Taupo caldera"
+    },
+    {
+      "year": -4360,
+      "volcano": "Macauley",
+      "vei": 6,
+      "label": "VEI 6 caldera-forming eruption on the Kermadec Arc"
+    },
+    {
+      "year": -1460,
+      "volcano": "Taupo",
+      "vei": 6,
+      "label": "Major VEI 6 eruption at Taupo \u2014 one of the largest Holocene eruptions in the region"
+    },
+    {
+      "year": 233,
+      "volcano": "Taupo",
+      "vei": 6,
+      "label": "Taupo eruption \u2014 most powerful eruption on Earth in past 5,000 years, 120 km\u00b3 ejected"
+    },
+    {
+      "year": 1310,
+      "volcano": "Okataina",
+      "vei": 5,
+      "label": "Kaharoa eruption \u2014 VEI 5, last major rhyolitic eruption before European contact"
+    },
+    {
+      "year": 1446,
+      "volcano": "Auckland Volcanic Field",
+      "vei": null,
+      "label": "Rangitoto eruption \u2014 most recent eruption within Auckland, forms iconic island"
+    },
+    {
+      "year": 1886,
+      "volcano": "Okataina",
+      "vei": 5,
+      "label": "Mount Tarawera eruption \u2014 120 killed, Pink and White Terraces destroyed"
+    },
+    {
+      "year": 1945,
+      "volcano": "Ruapehu",
+      "vei": 3,
+      "label": "Eruption generates lahars on Ruapehu's flanks"
+    },
+    {
+      "year": 1995,
+      "volcano": "Ruapehu",
+      "vei": 3,
+      "label": "Major eruptions close ski fields, ashfall reaches Napier"
+    },
+    {
+      "year": 2012,
+      "volcano": "Tongariro",
+      "vei": null,
+      "label": "Te Maari eruption \u2014 ballistic blocks scatter across Tongariro Alpine Crossing track"
+    },
+    {
+      "year": 2019,
+      "volcano": "Whakaari/White Island",
+      "vei": 2,
+      "label": "Deadly eruption kills 22 tourists and guides on island"
+    },
+    {
+      "year": 2025,
+      "volcano": "Whakaari/White Island",
+      "vei": null,
+      "label": "Continued eruptive activity at Whakaari"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 42
+    },
+    {
+      "vei": 1,
+      "count": 73
+    },
+    {
+      "vei": 2,
+      "count": 111
+    },
+    {
+      "vei": 3,
+      "count": 27
+    },
+    {
+      "vei": 4,
+      "count": 21
+    },
+    {
+      "vei": 5,
+      "count": 14
+    },
+    {
+      "vei": 6,
+      "count": 4
+    }
+  ],
+  "facts": [
+    "The 233 CE eruption of Taupo was the most powerful volcanic eruption anywhere on Earth in the past 5,000 years, ejecting approximately 120 km\u00b3 of material in a VEI 6 event.",
+    "Taupo qualifies as a supervolcano \u2014 its Oruanui eruption ~26,500 years ago was a VEI 8 event that ejected 1,170 km\u00b3 of material, ranking among the largest eruptions of the past 100,000 years.",
+    "Auckland, New Zealand's largest city (1.7 million people), is built directly on top of a potentially active volcanic field of 53 eruptive centres, the youngest of which (Rangitoto) erupted only 600 years ago.",
+    "The 1953 Tangiwai disaster on Mount Ruapehu killed 151 people when a lahar from the crater lake destroyed a railway bridge moments before a passenger train crossed.",
+    "The 2019 Whakaari/White Island eruption killed 22 people and was the deadliest volcanic event globally since Japan's Mount Ontake in 2014.",
+    "The Taupo Volcanic Zone is the most frequently active rhyolitic volcanic system on Earth, producing more rhyolitic magma per unit time than any other volcanic zone.",
+    "Geothermal energy from volcanic heat provides approximately 17% of New Zealand's electricity generation.",
+    "New Zealand's Tongariro National Park was the world's fourth national park established (1887) and is a dual UNESCO World Heritage Site for natural and M\u0101ori cultural values.",
+    "The Pink and White Terraces, destroyed by the 1886 Tarawera eruption, were considered the eighth natural wonder of the world in the Victorian era.",
+    "Mount Taranaki is statistically one of the most likely volcanoes in New Zealand to erupt next \u2014 it has erupted 43 times and averages one eruption every 90 years, but has been quiet since about 1800 CE.",
+    "The pyroclastic flow from the 233 CE Taupo eruption is estimated to have travelled at speeds of 600-900 km/h \u2014 approaching the speed of sound.",
+    "Raoul Island in the Kermadec Arc has produced three VEI 6 eruptions in the Holocene \u2014 more than most countries' entire volcanic records."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in New Zealand?",
+      "answer": "New Zealand has 23 Holocene volcanoes in the Smithsonian Global Volcanism Program database. These include well-known peaks like Ruapehu, Tongariro, and Taranaki on the North Island, plus 11 submarine volcanoes on the Kermadec Arc stretching northward. The number varies by source depending on whether submarine seamounts and individual vents within volcanic fields are counted separately. Including all named volcanic features, the total exceeds 50. All of New Zealand's active volcanism is on the North Island or offshore to the northeast \u2014 the South Island has no Holocene volcanic activity."
+    },
+    {
+      "question": "What is the most active volcano in New Zealand?",
+      "answer": "Tongariro holds the record for the most eruptions with 79 recorded events, followed by Ruapehu with 66 and Taranaki with 43. However, Whakaari/White Island is arguably the most continuously active \u2014 it maintains persistent fumarolic activity, frequent small eruptions (42 total), and has been erupting most recently in 2025. In terms of volume and explosivity, the Taupo caldera is the most productive volcanic system, having generated the most powerful eruption on Earth in the past 5,000 years (233 CE, VEI 6)."
+    },
+    {
+      "question": "Is Taupo a supervolcano?",
+      "answer": "Yes, Taupo qualifies as a supervolcano. Its Oruanui eruption approximately 26,500 years ago was a VEI 8 event \u2014 the threshold for a supereruption \u2014 ejecting approximately 1,170 km\u00b3 of pyroclastic material. This makes it one of the most recent supereruptions on Earth. Within the Holocene, Taupo has produced VEI 6 eruptions, most notably the 233 CE event. Today, Lake Taupo fills the caldera and the area is a popular tourist destination. GNS Science monitors the caldera continuously, and while another supereruption is extremely unlikely in any human timeframe, smaller eruptions are considered probable."
+    },
+    {
+      "question": "When was the last volcanic eruption in New Zealand?",
+      "answer": "The most recent volcanic eruption in New Zealand was at Whakaari/White Island, with activity recorded in 2025. Prior to this, the December 9, 2019 eruption at Whakaari killed 22 people and was a globally significant volcanic disaster. Other recent eruptions include the 2012 Te Maari eruptions at Tongariro, the 2007 and 1995-96 eruptions at Ruapehu, and the 2012 submarine eruption of Havre Seamount on the Kermadec Arc. New Zealand averages a volcanic eruption roughly every few years, making it one of the most volcanically active countries in the Southern Hemisphere."
+    },
+    {
+      "question": "Could Auckland be destroyed by a volcanic eruption?",
+      "answer": "Auckland is built on the Auckland Volcanic Field, which contains 53 eruptive centres, the youngest of which (Rangitoto Island) formed only about 600 years ago. The field is considered potentially active, and a future eruption could occur at any location within or near the field. Such an eruption would likely be basaltic \u2014 producing lava flows, explosive tephra, and possible tsunami if erupting offshore \u2014 and would require mass evacuation of surrounding suburbs. Auckland Council maintains a volcanic contingency plan, and GeoNet monitors for precursory seismic activity. The probability of an eruption in any given year is estimated at roughly 1 in 1,000."
+    },
+    {
+      "question": "Why does New Zealand have so many volcanoes?",
+      "answer": "New Zealand's volcanism is driven primarily by subduction of the Pacific Plate beneath the Australian Plate along the Hikurangi Trench east of the North Island. As the oceanic plate descends, water released from it triggers melting in the overlying mantle, generating magma that rises to feed the Taupo Volcanic Zone (TVZ). The TVZ is also a continental rift zone, where the crust is actively stretching and thinning, which amplifies volcanic output and produces the enormous volumes of rhyolitic magma for which the zone is famous. The Kermadec Arc represents the oceanic continuation of this same subduction system."
+    },
+    {
+      "question": "What is the tallest volcano in New Zealand?",
+      "answer": "Ruapehu is the tallest volcano in New Zealand at 2,797 m (9,177 ft). It is followed by Taranaki at 2,518 m (8,261 ft) and Tongariro at 1,978 m (6,490 ft). Ruapehu is also the highest peak on the North Island. It is an andesitic stratovolcano with a summit crater lake and two commercial ski fields. By comparison, it is shorter than many Pacific Rim volcanoes such as Japan's Mount Fuji (3,776 m) or Ecuador's Cotopaxi (5,897 m), but its frequent eruptions and proximity to populated areas make it one of the most closely monitored volcanoes in the Southern Hemisphere."
+    },
+    {
+      "question": "Is the Tongariro Crossing safe?",
+      "answer": "The Tongariro Alpine Crossing is one of New Zealand's most popular day hikes, traversing active volcanic terrain including Red Crater and the Emerald Lakes. It is generally safe when volcanic alert levels are at their baseline (Level 1 or below for Tongariro), but sections may be closed during elevated activity \u2014 as occurred during the 2012 Te Maari eruptions, which scattered ballistic rocks across the track. Hikers should always check GeoNet volcanic alert bulletins before departing, carry appropriate gear for alpine conditions, and be aware that eruptions can occur with little warning. The Department of Conservation manages access based on current volcanic and weather conditions."
+    }
+  ],
+  "people_also_search": [
+    "New Zealand volcanoes list",
+    "Taupo supervolcano",
+    "White Island eruption 2019",
+    "Tongariro Alpine Crossing volcanic risk",
+    "Auckland volcanic field",
+    "Ruapehu eruption",
+    "Mount Taranaki eruption",
+    "is Taupo going to erupt"
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/search_volcano.cfm",
+      "text": "Smithsonian GVP: Search Volcanoes (filter by New Zealand)",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.geonet.org.nz/volcano",
+      "text": "GeoNet \u2014 New Zealand Volcanic Alert Levels",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.gns.cri.nz/",
+      "text": "GNS Science \u2014 New Zealand Geological and Nuclear Sciences",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/New-Zealand",
+      "text": "Britannica: New Zealand",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/",
+      "text": "Department of Conservation: Tongariro National Park",
+      "type": "tourism"
+    }
+  ],
+  "related_countries": [
+    "australia",
+    "philippines",
+    "japan",
+    "indonesia",
+    "tonga"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in New Zealand",
+      "url": "/volcanoes-in-new-zealand"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

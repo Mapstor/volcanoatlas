@@ -1,0 +1,285 @@
+{
+  "slug": "blanco-cerro",
+  "volcano_id": 355210,
+  "title": "Cerro Blanco",
+  "meta_title": "Cerro Blanco Volcano — VEI 7 Eruption, Caldera & Facts | VolcanoAtlas",
+  "meta_description": "Cerro Blanco is a 4,670 m caldera in Argentina, site of the largest Holocene eruption in the Central Andes (~4,200 BP, VEI 7). Explore its history.",
+  "quick_answer": {
+    "what": "Cerro Blanco (also called Robledo) is a 4,670 m caldera volcano in Catamarca Province, northwestern Argentina, site of the largest known Holocene eruption in the Central Andes.",
+    "status": "Dormant — last erupted ~2300 BCE (VEI 7). Satellite surveys detected caldera subsidence in the 1990s. Currently unmonitored.",
+    "famous_for": "Its catastrophic VEI 7 eruption approximately 4,200 years ago, which ejected over 170 km³ of tephra across 500,000 km² — comparable in scale to the Minoan eruption of Santorini and exceeding the 1815 Tambora eruption in magma volume.",
+    "danger_level": "Low immediate risk due to remote, sparsely populated location. However, the volcano's demonstrated VEI 7 capability means any future eruption could have hemispheric consequences."
+  },
+  "hero": {
+    "name": "Cerro Blanco",
+    "local_name": "Cerro Blanco (Robledo)",
+    "subtitle": "South America's Hidden Supervolcano",
+    "country": "Argentina",
+    "region": "Southern Puna, Catamarca Province",
+    "type": "Caldera",
+    "elevation_m": 4670,
+    "elevation_ft": 15322,
+    "status": "Dormant",
+    "last_eruption": "~2300 BCE",
+    "coordinates": {
+      "lat": -26.7657,
+      "lon": -67.746
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10786.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "4,670 m (15,322 ft)",
+    "type": "Caldera",
+    "status": "Dormant — last erupted ~2300 BCE",
+    "last_eruption": "~2300 BCE (VEI 7)",
+    "first_known_eruption": "~2300 BCE (only documented eruption)",
+    "total_recorded_eruptions": 1,
+    "vei_max": "7",
+    "country": "Argentina",
+    "region": "Southern Puna plateau, Catamarca Province, NW Argentina",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate / Continental crust (> 25 km)",
+    "rock_types": [
+      "Rhyolite"
+    ],
+    "coordinates": "26.766°S, 67.746°W",
+    "nearest_city": "Antofagasta de la Sierra — ~80 km northeast",
+    "population_at_risk": "Minimal (extremely remote); Fiambalá valley (~10,000 people) 50 km south",
+    "summit_crater": "5-km-diameter Cerro Blanco (Robledo) caldera",
+    "monitoring_agency": "Unmonitored (ranked 8th in Argentine hazard assessment)",
+    "smithsonian_id": "355210",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=355210"
+  },
+  "sections": {
+    "overview": {
+      "content": "Cerro Blanco is a <a href=\"/types-of-volcanoes\">caldera</a> volcano rising to 4,670 m (15,322 ft) on the southern Puna plateau of northwestern <a href=\"/volcanoes-in-argentina\">Argentina</a>, approximately 80 km southwest of the Cerro Galán caldera. Despite its relative obscurity, Cerro Blanco was the site of one of the most powerful volcanic eruptions of the Holocene — a cataclysmic <a href=\"/volcanic-explosivity-index\">VEI 7</a> rhyolitic Plinian event approximately 4,200 years ago that ejected more than 170 km³ of tephra across an area of roughly 500,000 km². This makes the Cerro Blanco eruption one of the largest volcanic events on Earth in the past 10,000 years — comparable in magnitude to the Minoan eruption of <a href=\"/volcano/santorini\">Santorini</a> that destroyed Bronze Age civilization, and exceeding the volume of the infamous 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> that caused the 'Year Without a Summer.' The 5-km-diameter Robledo caldera, formed during the eruption's climactic phase, is the youngest known caldera in the Central Andes. Satellite geodetic surveys in the 1990s detected ongoing subsidence of the caldera at rates of 2–2.5 cm/year, indicating that geological processes continue beneath this remote and largely unmonitored volcanic system. Cerro Blanco's eruption deposits have been used as a chronological marker across northwestern Argentina."
+    },
+    "geology_and_formation": {
+      "content": "Cerro Blanco belongs to the Central Volcanic Zone of the Andes, where the Nazca Plate subducts beneath the South American Plate, generating magmatism through extremely thick continental crust (greater than 25 km). The Puna plateau — an arid, high-altitude expanse averaging 4,000+ m elevation — hosts numerous caldera systems formed over millions of years, including the massive Cerro Galán caldera 80 km to the northeast. Cerro Blanco's magma is rhyolitic — the most silica-rich volcanic composition, producing the most violently explosive eruptions. Rhyolitic magma is extremely viscous and gas-rich; when it erupts, the rapid decompression of dissolved gases drives catastrophic fragmentation, generating towering Plinian columns and widespread pyroclastic flows. The Cerro Blanco Volcanic Complex includes the 5-km-diameter Robledo caldera and the Cerro Blanco del Robledo lava dome that overgrew the southwestern caldera rim after the main eruption. Multiple older eruptions may have preceded the VEI 7 event, including a possible eruption ~54,000 years ago (the Campo de la Piedra Pómez eruption), though attributions remain debated."
+    },
+    "eruption_history_overview": {
+      "content": "Only one eruption is formally documented at Cerro Blanco in the Smithsonian database — the approximately 2300 BCE (±160 years) VEI 7 event. However, geological evidence suggests prior activity. Tephra layers tentatively attributed to Cerro Blanco include a ~54,000-year-old deposit, a ~22,000-year-old layer, and a ~10,000-year-old ash. The volcano appears to have erupted repeatedly during the Holocene, but the overwhelming dominance of the ~4,200 BP event in the stratigraphic record has made it difficult to distinguish earlier deposits. Radio-carbon dating of plant material preserved beneath the ash has confirmed the ~4,200-year age. Research on Cerro Blanco only intensified after satellite imagery in the early 2000s revealed the caldera's ongoing subsidence."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~4,200 BP Eruption — One of Earth's Largest Holocene Volcanic Events",
+          "content": "Approximately 4,200 years ago (calibrated to ~2300 BCE), Cerro Blanco erupted in a catastrophic VEI 7 rhyolitic Plinian event that ranks among the largest volcanic eruptions in the past 10,000 years. Simulations suggest the eruption column reached approximately 32 km (105,000 ft) into the stratosphere — higher than commercial aircraft cruise altitude. Prevailing winds dispersed tephra to the east-southeast, blanketing approximately 500,000 km² with ash. Deposits have been identified 400 km from the caldera near Santiago del Estero. Close to the vent, pyroclastic flows filled surrounding valleys with thick ignimbrite deposits extending up to 35 km from Cerro Blanco. The eruption produced more than 170 km³ of tephra (bulk volume), with an estimated dense-rock equivalent (DRE) of approximately 83 km³ — roughly double the magma volume ejected by Tambora in 1815. Caldera collapse occurred during the eruption, forming the 5-km-diameter Robledo caldera. Archaeological evidence suggests the eruption impacted pre-Columbian hunter-gatherer societies across northwestern Argentina: rodent populations disappeared at one site, human activity patterns changed, and the Fiambalá region may have experienced depopulation during the Archaic period. The eruption deposits are now used as a chronological marker across the region."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Cerro Blanco is classified as dormant — it has not erupted in approximately 4,300 years. However, satellite interferometric synthetic aperture radar (InSAR) surveys conducted between 1992 and 2000 detected subsidence of the Robledo caldera at rates of 2–2.5 cm/year, with the inferred magma source at 4.5–6 km below sea level. This subsidence likely reflects cooling and degassing of residual magma or hydrothermal fluids, rather than indicating imminent eruption, but it confirms that geological activity continues. As of 2024, Cerro Blanco remains unmonitored — there are no seismometers, GPS stations, or gas sensors in the area. The Argentine Geological and Mining Service (SEGEMAR) ranked Cerro Blanco 8th in relative hazard among Argentine volcanoes, and the sparse monitoring reflects the extremely remote location rather than a lack of concern. Wind remobilization of pyroclastic material during dust storms continues to create environmental impacts in the region."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Cerro Blanco's primary significance is its demonstrated capacity for VEI 7 eruptions — events with hemispheric to global climate consequences. A repeat eruption could inject massive volumes of sulfur aerosols into the stratosphere, potentially triggering a volcanic winter. Pyroclastic flows could reach the Bolsón de Fiambalá valley (~10,000 inhabitants) approximately 50 km south through narrow valleys. However, the region's sparse population limits direct impact. The more probable near-term hazard comes from the eruption column: ash dispersed eastward could impact major Argentine cities and disrupt South American air traffic. Future activity might involve dome-building eruptions or smaller Plinian events rather than a full VEI 7 repeat. The volcano's current unmonitored status is a concern given its hazard ranking."
+    },
+    "geography_and_physical_description": {
+      "content": "Cerro Blanco occupies a stark, hyperarid landscape on the southern Puna plateau at approximately 4,670 m elevation. The Robledo caldera is roughly 5 km in diameter, with walls rising above a floor partially filled by the Cerro Blanco del Robledo lava dome on the southwest rim. The surrounding terrain is barren — wind-sculpted ignimbrite deposits, rhyolitic pumice fields, and dramatic aeolian landforms created by the erosion and reworking of pyroclastic material over millennia. These wind-eroded volcanic landscapes are among the most spectacular on Earth and have been studied as analogues for Martian surface features. The Campo de la Piedra Pómez (Field of Pumice Stone), a vast expanse of white pumice sculpted into otherworldly formations by wind erosion, lies nearby and is a growing tourist attraction in Catamarca Province. Annual rainfall is minimal (under 100 mm), and temperatures range from below freezing at night to over 30°C during the day."
+    },
+    "cultural_significance": {
+      "content": "Cerro Blanco's ~4,200 BP eruption had profound consequences for pre-Columbian societies in northwestern Argentina. Archaeological research suggests that the eruption contributed to depopulation of the Fiambalá region and changes in mobility patterns of hunter-gatherer groups who had inhabited the area for millennia. Tephra deposits have been identified at archaeological sites near Antofagasta de la Sierra. The Campo de la Piedra Pómez has emerged as a tourist destination, its alien landscape of wind-sculpted pumice formations attracting photographers and adventurers to one of Argentina's most remote regions."
+    },
+    "visiting_and_tourism": {
+      "content": "Cerro Blanco is extremely remote and not a conventional tourist destination. The nearest town, Antofagasta de la Sierra, is accessible via unpaved roads from Catamarca city (approximately 6–8 hours drive). The Campo de la Piedra Pómez, a stunning pumice field created by Cerro Blanco's eruption, can be visited on guided 4×4 excursions from Antofagasta de la Sierra or El Peñón. The caldera itself requires off-road vehicle access and there are no maintained trails or facilities. Visitors should be prepared for extreme altitude (4,600+ m), intense UV radiation, high temperature variation, and complete self-sufficiency."
+    },
+    "nearby_volcanoes": {
+      "content": "The Puna plateau of northwestern Argentina hosts numerous volcanic centers. The Cerro Galán caldera, approximately 80 km northeast, is one of the largest calderas on Earth (35 × 25 km). Other significant volcanoes in the region include Ojos del Salado (6,893 m, the world's highest volcano, on the Chile-Argentina border), Llullaillaco (6,739 m), and the active Láscar volcano in Chile. The Central Volcanic Zone extends through Chile, Bolivia, and <a href=\"/volcanoes-in-argentina\">Argentina</a>, containing some of the highest and most remote volcanic centers on the planet."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Cerro Blanco Compared to Other VEI 7 Holocene Eruptions",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Eruption Date",
+        "VEI",
+        "Tephra Volume",
+        "Eruption Type"
+      ],
+      "rows": [
+        [
+          "Cerro Blanco",
+          "Argentina",
+          "~2300 BCE",
+          "7",
+          "170+ km³",
+          "Rhyolitic Plinian"
+        ],
+        [
+          "Santorini (Minoan)",
+          "Greece",
+          "~1600 BCE",
+          "7",
+          "~60 km³",
+          "Plinian, caldera collapse"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "1815 CE",
+          "7",
+          "~150 km³",
+          "Plinian, Year Without a Summer"
+        ],
+        [
+          "Mazama (Crater Lake)",
+          "USA",
+          "~5700 BCE",
+          "7",
+          "~150 km³",
+          "Plinian, caldera collapse"
+        ],
+        [
+          "Changbaishan",
+          "China/N. Korea",
+          "946 CE",
+          "7",
+          "~100 km³",
+          "Plinian"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2300,
+      "vei": 7,
+      "label": "Catastrophic VEI 7 eruption — 170+ km³ tephra, 500,000 km² ashfall",
+      "deaths": "Unknown — impacted pre-Columbian populations",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "~2300 BCE",
+      "count": 1,
+      "note": "Single documented VEI 7 event; older eruptions suspected"
+    }
+  ],
+  "facts": [
+    "Cerro Blanco's ~4,200 BP eruption ejected over 170 km³ of tephra — roughly double the volume of the 1815 Tambora eruption.",
+    "The eruption column reached approximately 32 km into the stratosphere, according to computer simulations.",
+    "Ash from the eruption was dispersed across approximately 500,000 km² — an area larger than Spain.",
+    "Tephra deposits have been found 400 km from the caldera, near Santiago del Estero in central Argentina.",
+    "The Cerro Blanco eruption is classified as VEI 7, the same magnitude as the Minoan eruption of Santorini that destroyed Bronze Age Cretan civilization.",
+    "Satellite surveys in the 1990s detected the caldera subsiding at 2–2.5 cm/year, indicating ongoing geological activity.",
+    "The Robledo caldera (5 km diameter) is the youngest known caldera in the Central Andes.",
+    "Cerro Blanco remains unmonitored — no seismometers, GPS stations, or gas sensors exist at the site.",
+    "The eruption produced the Campo de la Piedra Pómez — a vast field of white pumice sculpted by wind into formations studied as Mars surface analogues.",
+    "Archaeological evidence suggests the eruption contributed to depopulation of the Fiambalá region for centuries."
+  ],
+  "faqs": [
+    {
+      "question": "How big was the Cerro Blanco eruption?",
+      "answer": "The Cerro Blanco eruption approximately 4,200 years ago was a VEI 7 event — one of the largest volcanic eruptions of the Holocene (past 11,700 years). It ejected more than 170 km³ of tephra across 500,000 km², with the eruption column reaching approximately 32 km altitude. The erupted magma volume (~83 km³ DRE) was roughly double that of Tambora's 1815 eruption and comparable to the Minoan eruption of Santorini. It is the largest known Holocene eruption in the Central Andes."
+    },
+    {
+      "question": "Is Cerro Blanco still active?",
+      "answer": "Cerro Blanco is classified as dormant rather than extinct. Although its only documented eruption occurred ~4,200 years ago, satellite radar surveys detected ongoing caldera subsidence at 2–2.5 cm/year in the 1990s, indicating active geological processes at depth. The volcano is currently unmonitored due to its extreme remoteness. While a near-term eruption is considered unlikely, the volcano cannot be ruled out as a future hazard given its VEI 7 capability."
+    },
+    {
+      "question": "Could Cerro Blanco erupt again?",
+      "answer": "Future eruptions at Cerro Blanco are possible, though timing is unpredictable. The ongoing caldera subsidence detected by satellite suggests active processes. Future activity might involve dome-building eruptions or smaller Plinian events rather than a full VEI 7 repeat. Given the sparse population, the primary impact of a future eruption would come from stratospheric ash injection affecting climate and air traffic. The volcano's unmonitored status is a concern."
+    },
+    {
+      "question": "Where is Cerro Blanco?",
+      "answer": "Cerro Blanco is located in Catamarca Province, northwestern Argentina, on the southern Puna plateau at 26.77°S, 67.75°W. It sits at approximately 4,670 m elevation, roughly 80 km southwest of the Cerro Galán caldera. The nearest town is Antofagasta de la Sierra (~80 km northeast). The region is extremely remote and hyperarid."
+    },
+    {
+      "question": "Is Cerro Blanco a supervolcano?",
+      "answer": "Cerro Blanco's VEI 7 eruption places it at the boundary between 'super-colossal' and 'supervolcanic' events (VEI 8 is the threshold for supervolcano status). While not technically a supervolcano, its ~170 km³ tephra output ranks among the largest Holocene eruptions globally. The eruption was comparable to events at confirmed supervolcanic systems like Santorini and Crater Lake (Mazama)."
+    },
+    {
+      "question": "Can you visit Cerro Blanco?",
+      "answer": "Cerro Blanco is accessible only by off-road vehicle from Antofagasta de la Sierra (6–8 hours from Catamarca city). There are no facilities or maintained trails. The nearby Campo de la Piedra Pómez pumice field is a growing tourist attraction, reachable on guided 4×4 excursions. Visitors must prepare for extreme altitude (4,600+ m), intense UV, temperature extremes, and complete self-sufficiency."
+    }
+  ],
+  "people_also_search": [
+    "cerro blanco volcano argentina",
+    "largest holocene eruption",
+    "vei 7 eruptions",
+    "puna plateau volcanoes",
+    "campo de la piedra pomez"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Cerro Blanco",
+    "alternateName": [
+      "Robledo",
+      "Cerro Blanco del Robledo"
+    ],
+    "description": "Caldera volcano in NW Argentina, site of one of Earth's largest Holocene eruptions (VEI 7, ~4,200 years ago)",
+    "geo": {
+      "latitude": -26.7657,
+      "longitude": -67.746,
+      "elevation": 4670
+    },
+    "containedInPlace": {
+      "name": "Catamarca Province",
+      "country": "Argentina"
+    },
+    "url": "https://volcanoatlas.com/volcano/blanco-cerro"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=355210",
+      "text": "Smithsonian GVP: Cerro Blanco",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://geo3bcn.csic.es/",
+      "text": "GEO3BCN-CSIC Research",
+      "type": "research"
+    },
+    {
+      "url": "https://www.britannica.com/place/Andes-Mountains",
+      "text": "Britannica: Andes Mountains",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "santorini",
+      "tambora",
+      "crater-lake"
+    ],
+    "country_pages": [
+      "argentina"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "santorini",
+    "tambora",
+    "crater-lake",
+    "cerro-galan",
+    "ojos-del-salado"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Argentina",
+      "url": "/volcanoes-in-argentina"
+    },
+    {
+      "label": "Cerro Blanco",
+      "url": "/volcano/blanco-cerro"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/blanco-cerro"
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "shikotsu",
+  "volcano_id": 285040,
+  "title": "Shikotsu Caldera",
+  "meta_title": "Shikotsu Caldera — Eruption History, Lake Shikotsu & Facts | VolcanoAtlas",
+  "meta_description": "Shikotsu is a 13×15 km caldera in Hokkaido, Japan, with three post-caldera volcanoes including Tarumaesan. 43 eruptions, VEI 5 events. Full history.",
+  "quick_answer": {
+    "what": "Shikotsu is a 13 × 15 km caldera largely filled by Lake Shikotsu in southwestern Hokkaido, Japan, formed during one of the island's largest Quaternary eruptions approximately 31,000–34,000 years ago.",
+    "status": "Active — last erupted in 1981 from Tarumaesan, a post-caldera stratovolcano on the caldera's SE rim. 43 eruptions recorded.",
+    "famous_for": "Its massive caldera-forming eruption, the crystal-clear Lake Shikotsu (Japan's second-deepest lake), and the highly active Tarumaesan post-caldera cone.",
+    "danger_level": "Significant — Sapporo (population ~2 million) lies only 40 km to the northeast, and pyroclastic-flow deposits from Tarumaesan extend nearly to the Pacific coast."
+  },
+  "hero": {
+    "name": "Shikotsu",
+    "local_name": "支笤湖 (Shikotsu-ko)",
+    "subtitle": "Hokkaido's Great Caldera and Its Restless Post-Caldera Cones",
+    "country": "Japan",
+    "region": "Hokkaido",
+    "type": "Caldera",
+    "elevation_m": 1320,
+    "elevation_ft": 4331,
+    "status": "Active",
+    "last_eruption": "1981",
+    "coordinates": {
+      "lat": 42.688,
+      "lon": 141.38
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02225.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,320 m (4,331 ft) — Tarumaesan summit",
+    "type": "Caldera with post-caldera stratovolcanoes",
+    "status": "Active",
+    "last_eruption": "1981 (Tarumaesan)",
+    "first_known_eruption": "~6950 BCE (Tarumaesan)",
+    "total_recorded_eruptions": 43,
+    "vei_max": "5 (6950 BCE, ~550 BCE, 1667, 1739 — all Tarumaesan)",
+    "country": "Japan",
+    "region": "Southwestern Hokkaido",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath North American/Okhotsk Plate (continental crust > 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "42.688°N, 141.380°E",
+    "nearest_city": "Tomakomai — ~25 km SE; Chitose — ~20 km E; Sapporo — ~40 km NE",
+    "population_at_risk": "~2 million (Sapporo metropolitan area)",
+    "caldera_dimensions": "13 × 15 km",
+    "lake": "Lake Shikotsu — Japan's 2nd deepest lake (360 m)",
+    "monitoring_agency": "Japan Meteorological Agency (JMA)",
+    "smithsonian_id": "285040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=285040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Shikotsu is a massive <a href=\"/types-of-volcanoes\">caldera</a> measuring 13 × 15 km in southwestern Hokkaido, <a href=\"/volcanoes-in-japan\">Japan</a>, largely filled by the pristine waters of Lake Shikotsu — Japan's second-deepest lake at 360 m and one of the northernmost ice-free lakes in the country. The caldera formed approximately 31,000–34,000 years ago during one of the most powerful eruptions in Hokkaido's geological history, depositing vast ignimbrite sheets across the surrounding landscape. Three Holocene post-caldera volcanoes have since grown along a NW-trending line within and on the rim of the caldera: Tarumaesan (1,041 m) on the southeast rim, Fuppushidake adjacent to it, and Eniwadake (1,320 m) on the opposite side. Tarumaesan has been the most active, producing 43 recorded eruptions including four VEI 5 events, and its pyroclastic-flow deposits extend nearly to the Pacific coast approximately 25 km to the south. The caldera's proximity to major population centers — Sapporo (population ~2 million) lies only 40 km northeast, and New Chitose Airport, Japan's third-busiest, is just 20 km east — makes Shikotsu one of the most closely monitored volcanic systems in <a href=\"/volcanoes-in-japan\">Japan</a>. The volcanic complex falls within Shikotsu-Toya National Park and draws millions of visitors annually for its scenery, hot springs, and outdoor recreation, making it comparable in cultural significance to the Aso caldera in Kyushu."
+    },
+    "geology_and_formation": {
+      "content": "The Shikotsu caldera formed during a cataclysmic eruption 31,000–34,000 years ago that produced the Shikotsu pyroclastic flow deposits (Spfa) and associated ignimbrites covering hundreds of square kilometers of southwestern Hokkaido. This caldera-forming event was one of the largest volcanic eruptions in Hokkaido's Quaternary history. The caldera subsequently filled with water to form Lake Shikotsu, which reaches a maximum depth of 360 m and has a surface elevation of 247 m. Three post-caldera volcanic centers developed along a NW-SE structural line: Eniwadake on the northwest caldera rim, and Tarumaesan and Fuppushidake on the southeast rim. Tarumaesan, the youngest and most active, began forming approximately 9,000 years ago and has undergone multiple cycles of growth and destruction. Its summit contains a small 1.5 km wide caldera formed during two of Hokkaido's largest historical eruptions — in 1667 and 1739 — both rated VEI 5. A flat-topped summit lava dome, emplaced in 1909, currently caps the volcano. The tectonic driver is the subduction of the Pacific Plate beneath the Okhotsk microplate at the southwestern end of the Kuril-Kamchatka arc."
+    },
+    "eruption_history_overview": {
+      "content": "The Shikotsu volcanic complex has produced 43 recorded eruptions, with the vast majority originating from Tarumaesan. Prehistoric eruptions of Tarumaesan around 6950 BCE and 550 BCE both reached VEI 5. Eniwadake contributed minor eruptions as recently as the 17th century. The historical period (post-1667) has been dominated by Tarumaesan, which produced two VEI 5 eruptions in 1667 and 1739 that deposited pyroclastic flows extending to the Pacific coast. Following these catastrophic events, activity declined to smaller explosive eruptions (VEI 1–3) throughout the 18th–20th centuries, with the most recent eruption in 1981 (VEI 1). The current summit lava dome, emplaced in 1909, has remained stable."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1667 Eruption — VEI 5 Caldera-Forming Event at Tarumaesan",
+          "content": "The 1667 eruption of Tarumaesan was one of the largest volcanic events in Hokkaido's recorded history, rated <a href=\"/volcanic-explosivity-index\">VEI 5</a>. The eruption produced massive pyroclastic flows that swept across the southeastern flanks and reached nearly to the Pacific coastline. Thick pumice deposits blanketed wide areas of southwestern Hokkaido. The eruption partially formed the 1.5 km wide summit caldera that now truncates Tarumaesan. This event occurred when Hokkaido was still sparsely settled by the Ainu people, and detailed written records are limited, though the geological evidence is extensive."
+        },
+        {
+          "title": "The 1739 Eruption — Second VEI 5 in 72 Years",
+          "content": "Just 72 years after the 1667 event, Tarumaesan erupted again at VEI 5 in 1739, completing the formation of the summit caldera. This eruption produced another generation of pyroclastic flows and extensive tephra deposits. The two closely spaced VEI 5 eruptions were among the most powerful volcanic events in Japan during the Edo period and fundamentally reshaped the upper part of Tarumaesan."
+        },
+        {
+          "title": "The 1909 Eruption — Lava Dome Emplacement",
+          "content": "The 1909 eruption (VEI 3) was significant not for its explosivity but for its legacy: it produced the flat-topped lava dome that now caps Tarumaesan's summit. This dome, visible from great distances across Hokkaido, has remained stable for over a century and is one of the volcano's most recognizable features. The eruption was accompanied by explosive activity and ash emissions but was far less violent than the 1667 and 1739 events."
+        },
+        {
+          "title": "20th-Century Activity — Frequent Small Eruptions",
+          "content": "Throughout the 20th century, Tarumaesan produced frequent small explosive eruptions (VEI 1–2), particularly between 1917 and 1954. These events typically involved phreatic or phreatomagmatic explosions from around the base of the summit lava dome, producing ash columns and volcanic tremor but no significant lava flows or pyroclastic density currents. The most recent eruption in 1981 was a small VEI 1 phreatic event from Tarumaesan."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tarumaesan has been in a state of elevated unrest since the early 2000s, with periodic increases in seismic activity, fumarolic emissions, and minor ground deformation. The Japan Meteorological Agency (JMA) maintains a dense monitoring network including seismometers, tiltmeters, GPS stations, and gas measurement equipment. Volcanic alert levels have been briefly raised on several occasions due to swarms of volcanic earthquakes. The volcano is designated one of Japan's 50 most closely monitored volcanoes. Despite more than 40 years since its last eruption, volcanologists do not consider Tarumaesan dormant — its historical pattern of frequent small eruptions punctuated by occasional VEI 5 catastrophes means the potential for a significant event remains."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The Shikotsu volcanic complex poses a multi-layered hazard to southwestern Hokkaido. Tarumaesan's pyroclastic-flow deposits from the 1667 and 1739 eruptions demonstrate that density currents can reach nearly to the Pacific coast, threatening the city of Tomakomai (population ~170,000) approximately 25 km to the southeast. Heavy ashfall from a VEI 5 eruption would likely disrupt Sapporo (40 km NE) and close New Chitose Airport (20 km E), with cascading effects on transportation and the regional economy. Even smaller eruptions pose risks: phreatic explosions could generate ballistic projectiles affecting hikers and visitors in the national park, and ashfall from VEI 2–3 events would impact nearby communities. JMA and local governments maintain evacuation plans and hazard maps, and the areas surrounding Tarumaesan are restricted during periods of elevated volcanic alert."
+    },
+    "geography_and_physical_description": {
+      "content": "Lake Shikotsu, the caldera's dominant feature, covers approximately 78 km² with a maximum depth of 360 m — making it Japan's second-deepest lake after Lake Tazawa in Akita Prefecture. The lake's remarkable clarity and deep blue color result from its great depth and low nutrient content. Tarumaesan (1,041 m) rises steeply from the caldera's southeastern rim, its flat-topped lava dome clearly visible from Sapporo on clear days. Eniwadake (1,320 m), the highest point in the volcanic complex, occupies the northwestern rim. The caldera lies within Shikotsu-Toya National Park, which encompasses both the Shikotsu and Toya calderas and attracts millions of visitors annually. Hot spring resorts line the shores of Lake Shikotsu, heated by the ongoing volcanic activity."
+    },
+    "cultural_significance": {
+      "content": "Lake Shikotsu and the surrounding volcanic landscape hold deep cultural significance in Hokkaido. The name Shikotsu derives from the Ainu language — 'shikot' meaning 'large depression' or 'large lake.' The lake's pristine beauty and the dramatic volcanic backdrop make it one of Hokkaido's premier scenic destinations. Tarumaesan's distinctive flat-topped lava dome is a beloved Hokkaido landmark, visible from Sapporo and frequently depicted in local art and tourism materials. The lake hosts the annual Shikotsu-ko Hyobaku (Ice Festival) in winter, celebrating the lake's crystal-clear ice formations illuminated against the volcanic skyline."
+    },
+    "nearby_volcanoes": {
+      "content": "Shikotsu is one of several major volcanic systems in southwestern Hokkaido. The Toya caldera, with its post-caldera volcano Usu (which erupted most recently in 2000), lies approximately 40 km to the southwest within the same national park. Yoteizan, an iconic symmetrical stratovolcano sometimes called 'Ezo Fuji,' rises to 1,898 m approximately 50 km to the west. The broader Hokkaido volcanic province extends northward to include Tokachidake, Meakandake, and the massive Kutcharo caldera in eastern Hokkaido."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Shikotsu Compared to Japan's Major Caldera Volcanoes",
+      "description": "How does Shikotsu compare to Japan's other great calderas?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Caldera Size",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Shikotsu",
+          "Japan",
+          "13×15 km",
+          "Caldera",
+          "1981",
+          "5",
+          "43"
+        ],
+        [
+          "Aso",
+          "Japan",
+          "25×18 km",
+          "Caldera",
+          "2021",
+          "7",
+          "180+"
+        ],
+        [
+          "Toya (Usu)",
+          "Japan",
+          "~10 km",
+          "Caldera",
+          "2000",
+          "4",
+          "17"
+        ],
+        [
+          "Aira (Sakurajima)",
+          "Japan",
+          "~20 km",
+          "Caldera",
+          "2024",
+          "5",
+          "100+"
+        ],
+        [
+          "Kutcharo",
+          "Japan",
+          "26×20 km",
+          "Caldera",
+          "~200 CE",
+          "7",
+          "7"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6950,
+      "vei": 5,
+      "label": "Major Tarumaesan VEI 5 eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -550,
+      "vei": 5,
+      "label": "Second prehistoric VEI 5 (Tarumaesan)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1667,
+      "vei": 5,
+      "label": "Caldera-forming eruption, pyroclastic flows to coast",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1739,
+      "vei": 5,
+      "label": "Second VEI 5, completes summit caldera",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1909,
+      "vei": 3,
+      "label": "Emplacement of summit lava dome",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1981,
+      "vei": 1,
+      "label": "Most recent eruption (phreatic)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 5
+    },
+    {
+      "century": "16th",
+      "count": 2,
+      "note": "Eniwa volcano"
+    },
+    {
+      "century": "17th",
+      "count": 2,
+      "note": "Including VEI 5 in 1667"
+    },
+    {
+      "century": "18th",
+      "count": 5,
+      "note": "Including VEI 5 in 1739"
+    },
+    {
+      "century": "19th",
+      "count": 8
+    },
+    {
+      "century": "20th",
+      "count": 19
+    },
+    {
+      "century": "21st",
+      "count": 0
+    }
+  ],
+  "facts": [
+    "Lake Shikotsu, filling the caldera, is Japan's second-deepest lake at 360 m and remains ice-free throughout Hokkaido's harsh winters.",
+    "Tarumaesan has produced four VEI 5 eruptions — at ~6950 BCE, ~550 BCE, 1667, and 1739 — making it one of Japan's most explosively powerful volcanoes.",
+    "The caldera-forming eruption 31,000–34,000 years ago was one of the largest Quaternary volcanic events in Hokkaido.",
+    "Tarumaesan's distinctive flat-topped lava dome, formed in 1909, is a beloved Hokkaido landmark visible from Sapporo, 40 km away.",
+    "New Chitose Airport, Japan's third-busiest airport, lies only 20 km east of the caldera — well within ashfall range of a major eruption.",
+    "Pyroclastic-flow deposits from the 1667 eruption extend nearly to the Pacific coast, covering a distance of approximately 25 km.",
+    "The name Shikotsu comes from the Ainu language, meaning 'large depression' or 'large lake.'",
+    "Three post-caldera volcanoes — Tarumaesan, Fuppushidake, and Eniwadake — are aligned along a NW-SE structural trend within the caldera.",
+    "The 1667 and 1739 VEI 5 eruptions occurred only 72 years apart, demonstrating that paired catastrophic events are possible.",
+    "Sapporo, Japan's fifth-largest city with approximately 2 million residents, lies within the potential ashfall zone of a major Tarumaesan eruption."
+  ],
+  "faqs": [
+    {
+      "question": "Is Shikotsu volcano still active?",
+      "answer": "Yes, the Shikotsu volcanic complex is considered active. While the caldera itself formed 31,000–34,000 years ago, the post-caldera volcano Tarumaesan on its southeastern rim last erupted in 1981 and has produced 43 recorded eruptions. The Japan Meteorological Agency monitors the system continuously, and periodic increases in seismicity and fumarolic activity indicate that magma remains present at depth. Tarumaesan is designated one of Japan's 50 most closely monitored volcanoes."
+    },
+    {
+      "question": "What is Lake Shikotsu?",
+      "answer": "Lake Shikotsu is a caldera lake occupying the 13 × 15 km Shikotsu caldera in southwestern Hokkaido, Japan. At 360 m deep, it is Japan's second-deepest lake and is renowned for its exceptionally clear, deep-blue water. Despite Hokkaido's frigid winters, the lake rarely freezes completely due to its great depth and residual volcanic heat. It lies within Shikotsu-Toya National Park and is a popular recreation and tourism destination."
+    },
+    {
+      "question": "How dangerous is Tarumaesan?",
+      "answer": "Tarumaesan is considered one of the more dangerous volcanoes in Hokkaido. Its historical record includes four VEI 5 eruptions, and pyroclastic flows from the 1667 event reached nearly to the Pacific coast, a distance of about 25 km. The city of Tomakomai (population ~170,000) lies in the path of potential pyroclastic flows. Sapporo (~2 million) and New Chitose Airport (Japan's third busiest) are within ashfall range. Even small phreatic eruptions could endanger hikers in the national park."
+    },
+    {
+      "question": "When did Shikotsu's caldera form?",
+      "answer": "The Shikotsu caldera formed approximately 31,000–34,000 years ago during one of the most powerful eruptions in Hokkaido's geological history. The event produced massive pyroclastic flow deposits and ignimbrites that cover hundreds of square kilometers. The resulting caldera, measuring 13 × 15 km, subsequently filled with water to form Lake Shikotsu. Since then, three post-caldera volcanoes have grown within the caldera structure."
+    },
+    {
+      "question": "Can you visit Lake Shikotsu?",
+      "answer": "Yes, Lake Shikotsu is easily accessible and lies within Shikotsu-Toya National Park, approximately 40 km southwest of Sapporo and 20 km west of New Chitose Airport. The area offers hot spring resorts, hiking trails, boat cruises, and scenic viewpoints. The annual Shikotsu-ko Hyobaku (Ice Festival) in winter is a popular attraction. Visitors should be aware that volcanic alert levels can change, and access to Tarumaesan's summit may be restricted during periods of elevated activity."
+    },
+    {
+      "question": "How tall is the highest point in the Shikotsu complex?",
+      "answer": "The highest point in the Shikotsu volcanic complex is Eniwadake at 1,320 m (4,331 ft), located on the northwestern caldera rim. The more frequently active Tarumaesan reaches 1,041 m (3,415 ft) on the southeastern rim. For comparison, nearby Yoteizan ('Ezo Fuji') stands at 1,898 m. The caldera floor — Lake Shikotsu's surface — lies at 247 m elevation."
+    }
+  ],
+  "people_also_search": [
+    "lake shikotsu japan",
+    "tarumaesan volcano",
+    "shikotsu caldera",
+    "hokkaido volcanoes",
+    "shikotsu toya national park",
+    "active volcanoes japan"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Shikotsu",
+    "alternateName": [
+      "Shikotsu-ko",
+      "Tarumae-san",
+      "Lake Shikotsu Caldera"
+    ],
+    "description": "A 13×15 km caldera in Hokkaido, Japan, filled by Lake Shikotsu, with the highly active Tarumaesan post-caldera stratovolcano",
+    "geo": {
+      "latitude": 42.688,
+      "longitude": 141.38,
+      "elevation": 1320
+    },
+    "containedInPlace": {
+      "name": "Hokkaido",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/shikotsu"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=285040",
+      "text": "Smithsonian GVP: Shikotsu",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran_eng/volcanoes/042_tarumaesan.pdf",
+      "text": "JMA: Tarumaesan Volcano",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Hokkaido",
+      "text": "Britannica: Hokkaido",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "aso",
+      "sakurajima",
+      "usu",
+      "fuji"
+    ],
+    "country_pages": [
+      "japan"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "aso",
+    "sakurajima",
+    "usu",
+    "kutcharo",
+    "toya"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Shikotsu",
+      "url": "/volcano/shikotsu"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/shikotsu"
+}

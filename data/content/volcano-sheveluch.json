@@ -1,0 +1,565 @@
+{
+  "slug": "sheveluch",
+  "volcano_id": 300270,
+  "title": "Sheveluch",
+  "meta_title": "Sheveluch — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Sheveluch is one of Kamchatka’s largest and most active stratovolcanoes at 3,283 m, with 103 recorded eruptions. Full eruption history, dome collapses, and current activity.",
+  "quick_answer": {
+    "what": "Sheveluch (also spelled Shiveluch) is a massive andesitic stratovolcano in northern Kamchatka, Russia, rising to 3,283 m (10,771 ft) and ranking as one of the largest and most active volcanic structures on the peninsula.",
+    "status": "Active — in a continuous eruption phase since August 1999 (VEI 4), with ongoing lava dome growth and frequent explosive episodes. One of the most persistently active volcanoes on Earth.",
+    "famous_for": "Catastrophic dome collapses producing pyroclastic flows, the massive 1964 VEI 4 directed blast (comparable to Mount St. Helens 1980), and at least 17 eruptions of VEI 5 or greater over the Holocene.",
+    "danger_level": "High for aviation — frequent ash plumes to 10–15 km altitude threaten North Pacific flight routes. Low for population due to remote location; nearest settlement Klyuchi (pop. ~5,000) lies 45 km to the southwest."
+  },
+  "hero": {
+    "name": "Sheveluch",
+    "local_name": "Шивелуч",
+    "subtitle": "Kamchatka’s Explosive Dome-Building Giant",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula",
+    "type": "Stratovolcano",
+    "elevation_m": 3283,
+    "elevation_ft": 10771,
+    "status": "Active",
+    "last_eruption": "1999–present (ongoing)",
+    "coordinates": {
+      "lat": 56.653,
+      "lon": 161.36
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02524.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,283 m (10,771 ft) — Stary (Old) Sheveluch summit",
+    "type": "Stratovolcano (composite, with active lava dome complex)",
+    "status": "Active — erupting continuously since August 1999",
+    "last_eruption": "1999–present (ongoing, VEI 4)",
+    "first_known_eruption": "~8500 BCE",
+    "total_recorded_eruptions": 103,
+    "vei_max": "5 (at least 17 events, most recently 1854)",
+    "country": "Russia",
+    "region": "Eastern Kamchatka Volcanic Arc",
+    "tectonic_setting": "Subduction zone / Continental crust (> 25 km) — Pacific Plate beneath Okhotsk Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "56.653°N, 161.360°E",
+    "nearest_city": "Klyuchi — approximately 45 km southwest (population ~5,000)",
+    "population_at_risk": "Low — remote location; Klyuchi and Ust-Kamchatsk (~4,500) are nearest settlements",
+    "summit_crater": "9-km-wide late-Pleistocene caldera breached to the south, containing the active Molodoy Sheveluch dome complex",
+    "protected_status": "Part of the Volcanoes of Kamchatka UNESCO World Heritage Site (inscribed 1996)",
+    "monitoring_agency": "Kamchatka Volcanic Eruption Response Team (KVERT), Institute of Volcanology and Seismology",
+    "smithsonian_id": "300270",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=300270"
+  },
+  "sections": {
+    "overview": {
+      "content": "Sheveluch (Russian: Шивелуч, also spelled Shiveluch) is a massive andesitic <a href=\"/types-of-volcanoes\">stratovolcano</a> located in the northern part of the Kamchatka Peninsula in far-eastern <a href=\"/volcanoes-in-russia\">Russia</a>, approximately 45 km northeast of the town of Klyuchi. Rising to 3,283 m (10,771 ft) at the summit of its older edifice (Stary Sheveluch), it is one of the largest and most active volcanic structures in Kamchatka — a peninsula that contains one of the densest concentrations of active volcanoes on Earth. With 103 documented eruptions stretching back approximately 10,500 years, Sheveluch has one of the most prolific Holocene eruption records of any volcano in the world, including at least 17 events reaching VEI 5 — more high-magnitude explosive eruptions than almost any other volcano in the geological record. The volcano has been in a state of near-continuous eruption since August 1999, with the Molodoy (Young) Sheveluch lava dome complex growing steadily within a 9-km-wide horseshoe-shaped caldera that was formed during the late Pleistocene. Frequent dome collapses generate pyroclastic flows that sweep down the southern flank, and explosive episodes regularly send ash plumes to altitudes of 10–15 km, posing a persistent hazard to aviation along the busy North Pacific air corridor connecting North America with East Asia. The volcano's andesitic magma composition — more viscous and gas-rich than the basaltic magmas typical of many Kamchatka volcanoes — produces violently explosive eruptions that have deposited widespread tephra layers across the peninsula, serving as invaluable time markers for dating other volcanic and geological events in the region. Sheveluch forms part of the <a href=\"/ring-of-fire\">Ring of Fire</a>, sitting above the subduction zone where the Pacific Plate plunges beneath the Okhotsk microplate at a rate of approximately 8 cm per year."
+    },
+    "geology_and_formation": {
+      "content": "Sheveluch is approximately 65,000 years old, making it one of the older currently active volcanic edifices in Kamchatka. The volcano's enormous volume — estimated at roughly 1,300 km³ — makes it one of the largest volcanic structures in the entire Kamchatka arc. The massif consists of two principal components: Stary (Old) Sheveluch, the ancient summit reaching 3,283 m (10,771 ft) whose top is truncated by a broad, 9-km-wide caldera breached to the south; and Molodoy (Young) Sheveluch, the active lava dome complex that has been growing within this caldera throughout the Holocene. The caldera formed during a major late-Pleistocene sector collapse — a catastrophic flank failure that removed the southern portion of the old edifice and produced a massive debris avalanche. The resulting amphitheater-shaped crater, open to the south, has served as the site of all historical eruptive activity. Sheveluch's tectonic position is distinctive: it sits at the northern end of the Central Kamchatka Depression, where the Kamchatka subduction zone curves sharply to meet the Aleutian arc. The Pacific Plate subducts beneath the Okhotsk microplate at approximately 8 cm per year, generating the magma that feeds Sheveluch and its neighbors, including <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (the tallest active volcano in Eurasia) located just 80 km to the south. Sheveluch's predominantly andesitic to basaltic-andesitic magma composition is more evolved (silica-rich) than the basaltic magmas characteristic of <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a>, resulting in higher viscosity, greater gas retention, and more explosive eruption behavior. This composition drives Sheveluch's characteristic dome-building and dome-collapse eruption style: viscous magma slowly extrudes to form a lava dome, which periodically becomes unstable and collapses, generating devastating pyroclastic flows and ash clouds. Numerous lava domes of various ages dot the outer flanks of Stary Sheveluch, testifying to thousands of years of this eruptive pattern."
+    },
+    "eruption_history_overview": {
+      "content": "Sheveluch's 103 recorded eruptions represent one of the most extensive Holocene eruption histories of any volcano on Earth. The record extends back to approximately 8500 BCE, with the vast majority of events identified through tephrochronology — the study of volcanic ash layers preserved in soils and ice cores across Kamchatka. The VEI distribution is remarkable for its skew toward high-magnitude events: 17 eruptions reached VEI 5 (Plinian-scale), 26 reached VEI 4, and 48 reached VEI 3. This concentration of powerful eruptions is exceptional — for comparison, <a href=\"/volcano/vesuvius\">Vesuvius</a> has produced only 2 VEI 5 eruptions in its recorded history. The earliest documented eruptions cluster in the period 8500–7000 BCE, during the early Holocene, when Sheveluch was already producing frequent VEI 3–5 events. The tephra from these eruptions has provided critical dating markers for geological and archaeological work across Kamchatka and the broader North Pacific region. The historical record (post-1700 CE) documents increasingly frequent dome-building episodes punctuated by major explosive paroxysms, most notably the 1854 VEI 5 eruption and the 1964 VEI 4 directed blast. The current eruption phase, which began in August 1999, has now persisted for over 25 years, making it one of the longest continuous dome-building eruptions of any volcano worldwide."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1964 Eruption — A Directed Blast Precursor to Mount St. Helens",
+          "content": "On November 12, 1964, Sheveluch produced one of the most powerful and scientifically significant eruptions of the 20th century. The event began with the catastrophic collapse of the Molodoy Sheveluch lava dome complex, triggering a laterally directed blast remarkably similar to — and 16 years before — the famous 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a> in Washington State. The directed blast devastated an area of approximately 100 km² on the volcano's southern flank, stripping vegetation and depositing a thick layer of blast debris across the landscape. A massive debris avalanche accompanied the collapse, sweeping down the southern slopes and across the floor of the breached caldera. The eruption column rose to approximately 15 km (49,000 ft) altitude, depositing ash across vast areas of Kamchatka. The total volume of erupted material was estimated at approximately 1.5 km³ (dense rock equivalent), earning the event a VEI 4 rating. The 1964 eruption fundamentally reshaped the Molodoy Sheveluch dome complex, creating a new crater within the pre-existing caldera that would become the site of subsequent dome growth. In the years following the 1980 Mount St. Helens eruption, volcanologists recognized the 1964 Sheveluch event as an important earlier example of the directed blast mechanism, contributing to the understanding of this hazardous eruption style."
+        },
+        {
+          "title": "The 1854 Eruption — Sheveluch's Largest Historical Event",
+          "content": "On February 18, 1854, Sheveluch produced its most powerful historically documented eruption, rated VEI 5 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a>. The eruption generated a massive Plinian column and deposited thick tephra layers across wide areas of Kamchatka. This event stands as one of the largest explosive eruptions anywhere in the world during the 19th century, comparable in scale to the 1902 eruption of <a href=\"/volcano/pelee\">Mount Pelée</a> in Martinique, though it attracted far less international attention due to Kamchatka's extreme remoteness. The 1854 eruption likely involved a catastrophic dome collapse followed by explosive magma fragmentation, producing pyroclastic flows and an eruptive column reaching estimated heights of 20+ km. Tephra from this eruption has been identified in ice cores and soil profiles across the peninsula and serves as a key chronostratigraphic marker."
+        },
+        {
+          "title": "The 1999–Present Eruption — A Quarter-Century of Continuous Activity",
+          "content": "Beginning in August 1999, Sheveluch entered a phase of sustained dome-building and explosive activity that has continued without significant interruption for over 25 years as of 2025, making it one of the longest-running volcanic eruptions on Earth. The eruption has been characterized by the steady extrusion of viscous andesitic lava forming a growing dome within the 1964 crater, punctuated by frequent partial dome collapses that generate pyroclastic flows extending up to 15–20 km down the southern flank. Explosive episodes have been numerous and powerful: ash plumes regularly reach 10–12 km altitude, and several paroxysmal events have sent ash to 15 km or higher, triggering aviation advisories across the North Pacific. The Kamchatka Volcanic Eruption Response Team (KVERT) has maintained the Aviation Color Code at Orange or Red for extended periods during intense activity phases. A particularly intense explosive episode in November 2022 produced massive pyroclastic flows and an ash column exceeding 15 km, prompting Red aviation alerts. The ongoing eruption has been rated VEI 4 overall, reflecting the cumulative volume of material erupted. The Molodoy Sheveluch dome has grown substantially during this period, building toward future instability."
+        },
+        {
+          "title": "Prehistoric VEI 5 Eruptions — A Pattern of Extreme Explosivity",
+          "content": "Sheveluch's Holocene record contains at least 17 eruptions that reached VEI 5, a concentration of large explosive events that is exceptional among the world's volcanoes. These events span from approximately 7400 BCE to 1854 CE, occurring at irregular intervals ranging from a few centuries to over a thousand years. The earliest documented VEI 5 eruptions — around 7400, 7300, and 7150 BCE — occurred during a period of intense early Holocene volcanism across Kamchatka, when deglaciation and crustal unloading may have enhanced magma production and eruption rates. Later VEI 5 events at approximately 6800, 5500, 4400, 3650, 3500, 2620, 2100, 2000, and 950 BCE, and 600, 650, 1034, and 1652 CE demonstrate that Sheveluch is capable of producing Plinian-scale eruptions at any time. The tephra layers from these eruptions, carefully studied by Russian and international tephrochronologists, form a critical dating framework for Kamchatka's geological and archaeological record."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Sheveluch has been in a state of continuous eruption since August 1999, monitored primarily by the Kamchatka Volcanic Eruption Response Team (KVERT) based in Petropavlovsk-Kamchatsky. KVERT operates a seismic network around the volcano and supplements ground-based monitoring with satellite imagery from multiple sources, including MODIS thermal data that can detect hot spots associated with dome growth and pyroclastic flow activity. The Aviation Color Code for Sheveluch has frequently been set to Orange or Red, and KVERT issues regular Volcanic Activity Notices (VONA) distributed to aviation authorities across the North Pacific. The current dome within the 1964 crater has been growing steadily for over two decades and now stands as one of the largest active lava domes on Earth. Partial dome collapses occur regularly, generating pyroclastic flows that travel down the southern flank and ash plumes that rise 8–15 km above sea level. Intense explosive episodes occurred in 2022 and 2023, producing some of the largest ash columns of the current eruptive phase. The Institute of Volcanology and Seismology (IVS) of the Russian Academy of Sciences conducts periodic field campaigns to sample fresh deposits and measure dome dimensions."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Sheveluch's hazard profile is dominated by three primary threats: pyroclastic flows from dome collapses, high-altitude ash plumes endangering aviation, and tephra fall on downwind communities. Pyroclastic flows generated by partial or total dome collapses are the most lethal proximal hazard, capable of traveling at speeds exceeding 100 km/h down the volcano's southern flank for distances of 15–20 km. The 1964 directed blast devastated an area of approximately 100 km², and a similar event from the current, much larger dome could affect an even greater area. The town of Klyuchi, at 45 km distance, is generally considered beyond the reach of pyroclastic flows but could be impacted by secondary lahars. Aviation hazards are Sheveluch's most significant international concern. The North Pacific air corridor between North America and East Asia passes near Kamchatka, with hundreds of flights daily crossing the region at altitudes that coincide with Sheveluch's ash plume heights of 10–15 km. Ash ingestion can cause catastrophic engine failure in jet aircraft. Compared to other persistently active dome-building volcanoes like <a href=\"/volcano/merapi\">Merapi</a> in Indonesia, Sheveluch's low population exposure reduces the human risk, but its aviation hazard is among the highest of any volcano worldwide."
+    },
+    "geography_and_physical_description": {
+      "content": "Sheveluch stands as a massive, isolated volcanic massif in the northern Central Kamchatka Depression, rising abruptly from lowlands at approximately 100 m elevation to its summit at 3,283 m (10,771 ft). The volcano's total volume of roughly 1,300 km³ makes it one of the most voluminous volcanic structures in the entire Kamchatka arc. The edifice consists of Stary (Old) Sheveluch, the ancient, truncated summit cone whose upper portion was removed by a late-Pleistocene sector collapse creating a 9-km-wide, south-facing horseshoe caldera. Within this caldera, the Molodoy (Young) Sheveluch dome complex — the volcano's currently active center — has been growing throughout the Holocene. The active dome complex rises to approximately 2,500 m, though its height fluctuates as new material is added by extrusion and removed by collapses. The southern flank is dominated by a vast apron of debris avalanche and pyroclastic flow deposits extending 15–20 km from the dome. Numerous older lava domes dot the outer flanks of Stary Sheveluch. The volcano is located approximately 80 km north-northeast of the <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> volcano group, Kamchatka's most famous volcanic cluster."
+    },
+    "climate_and_global_impact": {
+      "content": "While Sheveluch's individual historical eruptions have generally not produced measurable global climate effects, the volcano's cumulative impact on regional atmospheric conditions in the North Pacific has been significant. The 17 VEI 5 eruptions over the Holocene would each have injected substantial quantities of sulfur dioxide and tephra into the upper troposphere and lower stratosphere. The prehistoric VEI 5 eruptions around 7400–7150 BCE occurred during a period of intense volcanism across Kamchatka and may have contributed to short-term hemispheric cooling events detectable in ice core records. By comparison, the 1991 eruption of <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6) lowered global temperatures by approximately 0.5°C; Sheveluch's VEI 5 events would have produced smaller but regionally significant effects. The current eruption (1999–present), while persistent, has not produced individual explosive events of sufficient magnitude to noticeably perturb global climate."
+    },
+    "cultural_significance": {
+      "content": "Sheveluch holds a prominent place in the cultural landscape of the Kamchatka Peninsula's indigenous Itelmen and Koryak peoples, who have lived in the shadow of the volcano for millennia. Traditional Itelmen stories describe the volcano as the dwelling place of powerful spirits, and eruptions were interpreted as expressions of supernatural anger. In the context of modern Russian volcanology, Sheveluch has been one of the most intensively studied volcanoes in Kamchatka since the establishment of Soviet-era monitoring programs in the 1930s and 1940s. The 1964 eruption attracted significant scientific attention and became a key case study in the understanding of directed blast eruptions — knowledge that later proved essential in interpreting the 1980 <a href=\"/volcano/st-helens\">Mount St. Helens</a> event. The volcano's extensive tephra record has made it a cornerstone of Kamchatka tephrochronology, a discipline in which Russian volcanologists have been world leaders. Sheveluch is part of the Volcanoes of Kamchatka UNESCO World Heritage Site, inscribed in 1996, which recognizes the peninsula as one of the most outstanding concentrations of volcanic phenomena on Earth."
+    },
+    "visiting_and_tourism": {
+      "content": "Sheveluch is located in one of the most remote and difficult-to-access volcanic regions on Earth, and visiting the volcano requires significant logistical planning. The nearest settlement is Klyuchi (population ~5,000), approximately 45 km to the southwest, which can be reached by road or helicopter from Petropavlovsk-Kamchatsky, Kamchatka's capital city (~600 km to the south). There are no commercial tourist facilities near the volcano, and access to the active dome area is restricted due to the extreme hazard from pyroclastic flows. Specialized adventure tour operators based in Petropavlovsk-Kamchatsky occasionally offer helicopter-supported expeditions that provide aerial views of the erupting dome — these flights offer some of the most dramatic volcanic scenery accessible anywhere. The nearby <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> volcano group is a more established destination for volcanic tourism and mountaineering. The best viewing season is July–September."
+    },
+    "nearby_volcanoes": {
+      "content": "Sheveluch sits at the northern end of the Central Kamchatka Depression, approximately 80 km north-northeast of the renowned <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> volcano group — one of the most active volcanic clusters on Earth. Klyuchevskoy itself, at 4,754 m (15,597 ft), is the tallest active volcano in Eurasia and erupts almost as frequently as Sheveluch. The Klyuchevskoy group also includes Bezymianny, famous for its catastrophic 1956 directed blast that served as a precursor to both the 1964 Sheveluch and 1980 St. Helens events. Further south along the Kamchatka arc, notable volcanoes include Karymsky, Koryaksky, Avachinsky, and Mutnovsky. Together, the volcanoes of the Kamchatka Peninsula form one of the most volcanically active regions on Earth, with over 90 Holocene volcanoes — second only to <a href=\"/volcanoes-in-indonesia\">Indonesia</a> and the <a href=\"/volcanoes-in-united-states\">United States</a> in total count."
+    },
+    "etymology": {
+      "content": "The name Sheveluch (also Romanized as Shiveluch, written Шивелуч in Russian Cyrillic) is believed to derive from the language of Kamchatka's indigenous peoples, though its exact etymological origin is uncertain. Some sources suggest a connection to local terms describing smoke or steam. The alternate spelling 'Shiveluch' follows a different Romanization convention and is commonly encountered in older scientific literature, while 'Sheveluch' is now the standard form used by the Smithsonian Global Volcanism Program."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Sheveluch Compared to Kamchatka’s Most Active Volcanoes",
+      "description": "How does Sheveluch stack up against the other major volcanic threats on the Kamchatka Peninsula?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Sheveluch",
+          "Russia",
+          "3,283 m",
+          "Stratovolcano",
+          "1999–present",
+          "5",
+          "103"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "109"
+        ],
+        [
+          "Bezymianny",
+          "Russia",
+          "2,882 m",
+          "Stratovolcano",
+          "2024",
+          "5",
+          "52"
+        ],
+        [
+          "Karymsky",
+          "Russia",
+          "1,536 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "32"
+        ],
+        [
+          "Tolbachik",
+          "Russia",
+          "3,682 m",
+          "Shield",
+          "2013",
+          "4",
+          "14"
+        ]
+      ]
+    },
+    {
+      "title": "Sheveluch vs the World’s Dome-Building Volcanoes",
+      "description": "A comparison of the world’s most notable dome-building volcanoes and their hazard profiles.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Eruption Count",
+        "VEI Max",
+        "Last Eruption",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Sheveluch",
+          "Russia",
+          "Stratovolcano/Dome",
+          "103",
+          "5",
+          "1999–present",
+          "~5,000 (Klyuchi)"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "Stratovolcano",
+          "70+",
+          "4",
+          "2024",
+          "~1.7 million"
+        ],
+        [
+          "Soufrière Hills",
+          "Montserrat",
+          "Stratovolcano",
+          "4",
+          "3",
+          "2013",
+          "~5,000"
+        ],
+        [
+          "Mount St. Helens",
+          "USA",
+          "Stratovolcano",
+          "19",
+          "5",
+          "2008",
+          "~300,000"
+        ],
+        [
+          "Unzen",
+          "Japan",
+          "Complex",
+          "7",
+          "4",
+          "1996",
+          "~450,000"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8500,
+      "vei": 3,
+      "label": "Earliest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -7400,
+      "vei": 5,
+      "label": "Major Plinian eruption — early Holocene",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -7300,
+      "vei": 5,
+      "label": "Successive VEI 5 event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -5500,
+      "vei": 5,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -4400,
+      "vei": 5,
+      "label": "VEI 5 Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3650,
+      "vei": 5,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2620,
+      "vei": 5,
+      "label": "VEI 5 event — major tephra deposit",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -2000,
+      "vei": 5,
+      "label": "Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -950,
+      "vei": 5,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 600,
+      "vei": 5,
+      "label": "VEI 5 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1034,
+      "vei": 5,
+      "label": "Major medieval eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1652,
+      "vei": 5,
+      "label": "VEI 5 — last pre-modern Plinian event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1854,
+      "vei": 5,
+      "label": "Largest historical eruption — massive Plinian event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1964,
+      "vei": 4,
+      "label": "Directed blast — devastated 100 km², precursor to St. Helens understanding",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1999,
+      "vei": 4,
+      "label": "Start of ongoing eruption — continuous dome growth to present",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 60,
+      "note": "~8500 BCE to 100 BCE; dominated by VEI 3–5 events identified via tephra layers"
+    },
+    {
+      "century": "2nd",
+      "count": 3
+    },
+    {
+      "century": "3rd",
+      "count": 2
+    },
+    {
+      "century": "4th",
+      "count": 1
+    },
+    {
+      "century": "6th",
+      "count": 3
+    },
+    {
+      "century": "7th",
+      "count": 3
+    },
+    {
+      "century": "8th",
+      "count": 2
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 2
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 4
+    },
+    {
+      "century": "20th",
+      "count": 16
+    }
+  ],
+  "facts": [
+    "Sheveluch has produced at least 17 eruptions of VEI 5 or greater during the Holocene — more large explosive eruptions than almost any other volcano in the world’s geological record.",
+    "The volcano’s estimated volume of 1,300 km³ makes it one of the largest volcanic structures in the entire Kamchatka volcanic arc.",
+    "Sheveluch’s 1964 directed blast devastated approximately 100 km² of landscape, prefiguring the much more famous 1980 eruption of Mount St. Helens by 16 years.",
+    "The current eruption, ongoing since August 1999, has persisted for over 25 years — one of the longest continuous dome-building eruptions on Earth.",
+    "Sheveluch’s andesitic tephra layers are used by geologists as critical time markers for dating Holocene events across the entire Kamchatka Peninsula.",
+    "The volcano sits near the junction of the Kamchatka and Aleutian subduction zones, where the Pacific Plate dives beneath the Okhotsk microplate at approximately 8 cm per year.",
+    "Ash plumes from Sheveluch regularly reach 10–15 km altitude, threatening the heavily trafficked North Pacific air corridor between North America and East Asia.",
+    "The 9-km-wide horseshoe caldera was formed by a massive sector collapse during the late Pleistocene, one of the largest such collapses documented in the Kamchatka arc.",
+    "Sheveluch is approximately 65,000 years old, making it one of the older currently active volcanic edifices in Kamchatka.",
+    "The volcano is part of the Volcanoes of Kamchatka UNESCO World Heritage Site, inscribed in 1996.",
+    "Klyuchi, the nearest settlement at 45 km, occasionally receives ashfall from explosive episodes — particularly during the intense November 2022 paroxysm.",
+    "With 103 documented eruptions, Sheveluch has one of the most prolific eruption records of any volcano in the Smithsonian Global Volcanism Program database."
+  ],
+  "faqs": [
+    {
+      "question": "Is Sheveluch still erupting?",
+      "answer": "Yes, Sheveluch has been in a state of continuous eruption since August 1999, making its current eruptive phase over 25 years in duration. Activity is centered on the Molodoy (Young) Sheveluch lava dome complex, which grows through the slow extrusion of viscous andesitic magma within a 9-km-wide caldera. The dome periodically collapses, generating pyroclastic flows down the southern flank and ash plumes that reach 10–15 km altitude. The Kamchatka Volcanic Eruption Response Team (KVERT) monitors the volcano continuously and issues regular aviation advisories. Intense explosive episodes occurred in 2022 and 2023, confirming that the eruption remains vigorous."
+    },
+    {
+      "question": "Where is Sheveluch located?",
+      "answer": "Sheveluch is located in the northern part of the Kamchatka Peninsula in far-eastern Russia, at coordinates 56.653°N, 161.360°E. It rises above the Central Kamchatka Depression approximately 45 km northeast of the town of Klyuchi (population ~5,000) and roughly 80 km north-northeast of the Klyuchevskoy volcano group. Kamchatka itself is a vast, sparsely populated peninsula extending into the North Pacific Ocean, containing over 90 Holocene volcanoes — one of the densest concentrations of active volcanism anywhere on Earth."
+    },
+    {
+      "question": "How tall is Sheveluch?",
+      "answer": "Sheveluch’s highest point is the summit of Stary (Old) Sheveluch at 3,283 m (10,771 ft), though this ancient summit is no longer the site of active volcanism. The active Molodoy (Young) Sheveluch lava dome complex, growing within the 9-km-wide caldera, reaches approximately 2,500 m, though its height changes continuously as new dome material is extruded and removed by collapses. By comparison, neighboring Klyuchevskoy — the tallest active volcano in Eurasia — stands at 4,754 m (15,597 ft), about 80 km to the south."
+    },
+    {
+      "question": "What type of volcano is Sheveluch?",
+      "answer": "Sheveluch is classified as a stratovolcano (composite volcano) with an active lava dome complex. It produces predominantly andesitic to basaltic-andesitic magma — more silica-rich and viscous than the basaltic magmas of many other Kamchatka volcanoes — which drives its characteristically explosive eruption behavior. The volcano’s current activity is dominated by dome-building: viscous lava slowly extrudes to form a growing dome, which periodically becomes unstable and collapses catastrophically, generating devastating pyroclastic flows and ash clouds."
+    },
+    {
+      "question": "Is Sheveluch dangerous to aviation?",
+      "answer": "Sheveluch poses one of the most significant volcanic aviation hazards in the world. The North Pacific air corridor between North America and East Asia carries hundreds of commercial flights daily, many passing within range of Sheveluch’s ash plumes, which regularly reach altitudes of 10–15 km (33,000–49,000 ft) — directly in the cruising altitude range of commercial aircraft. Volcanic ash can cause catastrophic engine failure in jet aircraft. The Kamchatka Volcanic Eruption Response Team (KVERT) issues regular Aviation Color Code alerts distributed to international aviation authorities for flight route planning."
+    },
+    {
+      "question": "What happened during the 1964 Sheveluch eruption?",
+      "answer": "On November 12, 1964, Sheveluch produced a catastrophic eruption featuring a laterally directed blast that devastated approximately 100 km² of landscape on the volcano’s southern flank. The event involved the collapse of the Molodoy Sheveluch lava dome, triggering a debris avalanche and explosive blast similar to — and 16 years before — the famous 1980 eruption of Mount St. Helens. The eruption column rose to approximately 15 km altitude and deposited ash across vast areas. The event rated VEI 4 and created the crater in which the current dome has been growing since 1999."
+    },
+    {
+      "question": "How does Sheveluch compare to Mount St. Helens?",
+      "answer": "Sheveluch and Mount St. Helens share remarkable similarities: both are andesitic stratovolcanoes that produce dome-building eruptions punctuated by catastrophic directed blasts. Sheveluch’s 1964 directed blast devastated ~100 km², compared to St. Helens’ 1980 blast zone of ~600 km². However, Sheveluch is far more prolific: 103 recorded eruptions versus St. Helens’ 19, and 17 VEI 5 events compared to St. Helens’ 2. Sheveluch is also substantially larger (1,300 km³ volume vs ~75 km³) and taller (3,283 m vs 2,549 m). The key difference is population exposure: Mount St. Helens lies near major American cities, while Sheveluch is in remote Kamchatka."
+    },
+    {
+      "question": "How many eruptions has Sheveluch had?",
+      "answer": "Sheveluch has 103 documented eruptions in the Smithsonian Global Volcanism Program database, spanning from approximately 8500 BCE to the present ongoing eruption. This makes it one of the most prolifically recorded volcanoes in the world. The eruption record is dominated by moderate to large events: 48 eruptions at VEI 3, 26 at VEI 4, and 17 at VEI 5. Most prehistoric eruptions were identified through tephrochronology — the study of volcanic ash layers preserved in soil and ice across Kamchatka."
+    },
+    {
+      "question": "Can you visit Sheveluch?",
+      "answer": "Visiting Sheveluch is possible but extremely challenging. The volcano is in remote northern Kamchatka, approximately 600 km from Petropavlovsk-Kamchatsky. There are no commercial tourist facilities. Specialized adventure tour operators offer helicopter-supported expeditions providing aerial views of the erupting dome. The nearest settlement, Klyuchi, can be reached by rough road or helicopter. Access to the active dome is restricted due to extreme pyroclastic flow hazard. The best visiting season is July–September."
+    },
+    {
+      "question": "Why does Sheveluch erupt so explosively?",
+      "answer": "Sheveluch’s explosive character stems from its andesitic to basaltic-andesitic magma composition, which is more silica-rich and viscous than the basaltic magmas typical of many other Kamchatka volcanoes like Klyuchevskoy. Higher silica content means the magma traps dissolved volcanic gases more effectively. When this gas-rich, viscous magma reaches the surface, the trapped gases expand rapidly, driving explosive fragmentation. Additionally, dome-building creates an inherently unstable structure: as the dome grows, it becomes gravitationally unstable and eventually collapses, exposing pressurized interior magma to sudden decompression."
+    }
+  ],
+  "people_also_search": [
+    "sheveluch eruption today",
+    "sheveluch volcano webcam",
+    "kamchatka volcanoes",
+    "sheveluch aviation hazard",
+    "sheveluch vs mount st helens",
+    "kvert volcano alerts",
+    "shiveluch volcano russia",
+    "most active volcano russia"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Sheveluch",
+    "alternateName": [
+      "Shiveluch",
+      "Шивелуч"
+    ],
+    "description": "One of Kamchatka’s largest and most active stratovolcanoes, in continuous eruption since 1999, with 103 documented eruptions including 17 of VEI 5",
+    "geo": {
+      "latitude": 56.653,
+      "longitude": 161.36,
+      "elevation": 3283
+    },
+    "containedInPlace": {
+      "name": "Kamchatka Peninsula",
+      "country": "Russia"
+    },
+    "url": "https://volcanoatlas.com/volcano/sheveluch"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=300270",
+      "text": "Smithsonian GVP: Sheveluch",
+      "type": "primary_source"
+    },
+    {
+      "url": "http://www.kscnet.ru/ivs/kvert/index_eng.php",
+      "text": "KVERT — Kamchatka Volcanic Eruption Response Team",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Kamchatka-Peninsula",
+      "text": "Britannica: Kamchatka Peninsula",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images?q=shiveluch",
+      "text": "NASA Earth Observatory: Sheveluch imagery",
+      "type": "authority"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/765",
+      "text": "UNESCO: Volcanoes of Kamchatka",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "klyuchevskoy",
+      "st-helens",
+      "merapi",
+      "pinatubo",
+      "vesuvius",
+      "grimsvotn",
+      "mount-pelee"
+    ],
+    "country_pages": [
+      "russia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "klyuchevskoy",
+    "bezymianny",
+    "karymsky",
+    "st-helens",
+    "merapi"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "label": "Sheveluch",
+      "url": "/volcano/sheveluch"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/sheveluch"
+}

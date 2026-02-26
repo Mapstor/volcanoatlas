@@ -1,0 +1,396 @@
+{
+  "slug": "hudson-cerro",
+  "volcano_id": 358057,
+  "title": "Cerro Hudson",
+  "meta_title": "Cerro Hudson Volcano — Eruption History, Caldera & Facts | VolcanoAtlas",
+  "meta_description": "Cerro Hudson is a 1,905 m ice-filled caldera volcano in southern Chile. Explore its VEI 5 eruption in 1991, Holocene VEI 6 events, and current status.",
+  "quick_answer": {
+    "what": "Cerro Hudson is a massive ice-filled caldera volcano in the Aysén Region of southern Chile, rising to 1,905 m (6,250 ft) and containing a 10-km-wide caldera that was not recognized until its first 20th-century eruption in 1971.",
+    "status": "Active — last erupted October 2011. Capable of major explosive eruptions, including two VEI 6 events during the Holocene and a devastating VEI 5 eruption in 1991.",
+    "famous_for": "The catastrophic August 1991 eruption (VEI 5), which was one of the largest volcanic events of the 20th century and deposited ash across Patagonia and the Falkland Islands, devastating the regional livestock economy.",
+    "danger_level": "High — although the immediate surroundings are sparsely populated, the volcano is capable of producing VEI 5–6 eruptions with regional to hemispheric impacts. Lahars from its ice-filled caldera pose downstream threats."
+  },
+  "hero": {
+    "name": "Cerro Hudson",
+    "local_name": "Volcán Hudson",
+    "subtitle": "Patagonia's Hidden Explosive Giant",
+    "country": "Chile",
+    "region": "Aysén Region",
+    "type": "Stratovolcano with ice-filled caldera",
+    "elevation_m": 1905,
+    "elevation_ft": 6250,
+    "status": "Active",
+    "last_eruption": "2011",
+    "coordinates": {
+      "lat": -45.9,
+      "lon": -72.97
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04933.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,905 m (6,250 ft)",
+    "type": "Stratovolcano with caldera",
+    "status": "Active",
+    "last_eruption": "October 26, 2011",
+    "first_known_eruption": "~8010 BCE",
+    "total_recorded_eruptions": 15,
+    "vei_max": "6 (~4750 BCE and ~1890 BCE)",
+    "country": "Chile",
+    "region": "Aysén Region, Patagonia",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "45.900°S, 72.970°W",
+    "nearest_city": "Coyhaique — ~140 km north",
+    "population_at_risk": "Low immediate population, but lahars and ashfall affect Aysén Region communities",
+    "summit_crater": "10-km-wide ice-filled caldera, breached to NW",
+    "monitoring_agency": "SERNAGEOMIN (Servicio Nacional de Geología y Minería)",
+    "smithsonian_id": "358057",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=358057"
+  },
+  "sections": {
+    "overview": {
+      "content": "Cerro Hudson is a massive <a href=\"/types-of-volcanoes\">stratovolcano</a> crowned by a 10-km-wide ice-filled caldera in the remote Aysén Region of southern <a href=\"/volcanoes-in-chile\">Chile</a>, making it the southernmost volcano in the Chilean Andes related to subduction of the Nazca Plate. Rising to only 1,905 m (6,250 ft) — modest by Andean standards — the volcano's low profile and ice-covered summit concealed its true nature for decades; the caldera was not even recognized as volcanic until the explosive eruption of 1971. This obscurity belies a formidable eruptive history. Cerro Hudson has produced two confirmed <a href=\"/volcanic-explosivity-index\">VEI</a> 6 eruptions during the Holocene — around 4750 BCE and 1890 BCE — each generating more than 10 km³ of tephra, placing them among the largest explosive events in the southern Andes over the past 10,000 years. The devastating VEI 5 eruption of August 1991 was one of the most significant volcanic events of the late 20th century, depositing ash across Patagonia and as far as the Falkland Islands (Malvinas), killing over one million livestock, and causing an estimated $50 million in agricultural losses. The massive edifice covers approximately 300 km², and its compound caldera is breached to the northwest, channeling meltwater and potential lahars down the Río de Los Huemeles. With 15 recorded eruptions spanning 10,000 years and a demonstrated capacity for globally significant explosive events, Cerro Hudson ranks among the most dangerous volcanoes in South America."
+    },
+    "geology_and_formation": {
+      "content": "Cerro Hudson sits at the southern terminus of the Chilean Andean volcanic arc, where the Nazca Plate subducts beneath the South American Plate at approximately 45.9°S latitude. This position places it near the Chile Triple Junction, where the Nazca, Antarctic, and South American plates converge — a geologically complex setting that influences the volcano's magmatic composition and behavior. Despite the tectonic complexity, Hudson's primary volcanic driver is conventional subduction zone magmatism. The volcano has been built over multiple eruptive cycles, constructing a broad edifice covering approximately 300 km². The dominant rock type is basaltic to picritic basalt, unusually mafic for a stratovolcano capable of such large explosive eruptions. This compositional paradox — highly explosive behavior from relatively primitive magma — has been attributed to the interaction of rising magma with the extensive glacial ice cap filling the caldera, which amplifies explosive fragmentation through phreatomagmatic processes. The 10-km-wide caldera is a compound structure formed through multiple collapse events associated with the major Holocene eruptions. The caldera is breached to the northwest, where the Río de Los Huemeles drains the ice-filled basin. Two cinder cones sit north of the main edifice, while additional cones occupy the southwest and southeast flanks."
+    },
+    "eruption_history_overview": {
+      "content": "Cerro Hudson's eruptive record spans at least 10,000 years, with 15 confirmed eruptions in the Smithsonian database. The volcano's Holocene history is dominated by two colossal eruptions: a VEI 6 event around 4750 BCE and another VEI 6 event around 1890 BCE, each producing more than 10 km³ of tephra. Additional prehistoric eruptions are recorded around 8010 BCE, 4960 BCE, 3890 BCE, 2250 BCE, 790 BCE, 120 BCE, 390 CE, and 860 CE. Historical eruptions in 1740 and 1891 preceded the 20th-century awakening, which began with the 1971 eruption (VEI 3) that first revealed the caldera. The catastrophic 1991 eruption (VEI 5) remains the defining event in modern Chilean volcanology, and the most recent eruption in October 2011 (VEI 2) confirmed continued activity."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~4750 BCE Eruption — A VEI 6 Cataclysm",
+          "content": "Approximately 6,750 years ago, Cerro Hudson produced one of the largest volcanic eruptions in the Holocene record of the southern Andes. This VEI 6 event ejected more than 10 km³ of tephra, generating massive pyroclastic flows and blanketing Patagonia under thick ash deposits. Tephra from this eruption has been identified in sediment cores across southern Chile and Argentina, serving as a critical chronostratigraphic marker for dating other geological and archaeological events in the region. The eruption likely contributed to caldera collapse, enlarging the summit depression. At VEI 6, this event was comparable in magnitude to the 1883 eruption of <a href=\"/volcano/krakatau\">Krakatau</a> or the 1991 eruption of <a href=\"/volcano/pinatubo\">Pinatubo</a> — placing Cerro Hudson in an elite category of Holocene volcanic producers."
+        },
+        {
+          "title": "The ~1890 BCE Eruption — Second VEI 6 Event",
+          "content": "Cerro Hudson repeated its VEI 6 performance approximately 3,890 years ago, producing another eruption exceeding 10 km³ of tephra. The occurrence of two VEI 6 events within a span of roughly 2,800 years is remarkable and underscores the volcano's exceptional explosive potential. This second cataclysm deposited another major tephra layer across Patagonia, further modifying the caldera structure. The double VEI 6 history distinguishes Cerro Hudson from nearly all other volcanoes in the Chilean Andes."
+        },
+        {
+          "title": "The 1971 Eruption — Discovery of the Caldera (VEI 3)",
+          "content": "On August 12, 1971, Cerro Hudson erupted from the northwest part of the caldera, revealing for the first time that this ice-covered mountain was an active volcano with a major caldera. The VEI 3 eruption produced explosive columns, ashfall, and significant lahars that swept down the Río de Los Huemeles as volcanic heat melted caldera ice. The lahars caused damage downstream and alerted Chilean authorities to the presence of a dangerous volcanic system that had been hidden beneath its glacial cap. The 1971 event was a watershed moment in Chilean volcanology."
+        },
+        {
+          "title": "The 1991 Eruption — Patagonia's Volcanic Catastrophe (VEI 5)",
+          "content": "The eruption of Cerro Hudson beginning on August 8, 1991, was one of the most significant volcanic events of the late 20th century and the largest eruption in Chile since Quizapu in 1932. Coming just months after the VEI 6 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> in the Philippines, Hudson's VEI 5 event generated comparatively less global attention, but its regional impact was devastating. The eruption proceeded in two main phases. The first phase on August 8–9 was a lateral blast from the northwest caldera rim, producing pyroclastic flows and heavy ashfall over a northwest sector. A brief pause was followed by the climactic second phase beginning August 12, when a massive Plinian column rose to approximately 16–18 km altitude. Winds carried the eruption plume eastward, depositing a thick blanket of ash across Argentine Patagonia, reaching the Falkland Islands (Malvinas) over 1,000 km to the east. The eruption formed a new 800-m-wide crater in the southwest portion of the caldera. Total tephra volume was approximately 4 km³. Over one million sheep and cattle perished from ingesting ash-contaminated pasture, with an estimated $50 million in livestock losses. Ashfall exceeded 10 cm across vast areas of Argentine Patagonia. The eruption's sulfur loading combined with <a href=\"/volcano/pinatubo\">Pinatubo's</a> contributed to measurable global temperature reduction in 1992–1993."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Cerro Hudson is classified as active and last erupted in October 2011, when a VEI 2 eruption from the southern and southeastern edges of the caldera produced ash plumes and renewed lahar activity. SERNAGEOMIN monitors the volcano using seismometers, webcams, and satellite-based thermal and gas detection systems. Hudson's extremely remote location — approximately 140 km south of Coyhaique — makes ground-based monitoring more challenging than for Chile's more accessible northern volcanoes. Satellite surveillance has become increasingly important. Given Hudson's demonstrated capacity for VEI 5–6 eruptions, scientists regard it as one of the highest-priority monitoring targets in South America."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Cerro Hudson poses exceptional volcanic hazards despite its remote location. Its two Holocene VEI 6 eruptions and the 1991 VEI 5 event demonstrate a capacity for eruptions that can affect areas thousands of kilometers from the summit. Ashfall is the most wide-reaching hazard; the 1991 eruption deposited ash across all of Argentine Patagonia and reached the Falkland Islands. Pyroclastic flows from major eruptions could travel tens of kilometers from the caldera. Lahars represent a serious downstream threat — the ice-filled caldera provides abundant meltwater channeled through the northwest breach down the Río de Los Huemeles. A repeat VEI 6 eruption would rank among the most significant volcanic events globally and could produce measurable hemispheric climate cooling."
+    },
+    "geography_and_physical_description": {
+      "content": "Cerro Hudson is a broad, massive volcanic edifice covering approximately 300 km² in the Aysén Region of southern Chile, at 45.9°S latitude. Its 10-km-wide caldera — one of the largest in the Chilean Andes — is filled with glacial ice and snow, giving the summit an unremarkable appearance. The caldera is breached to the northwest, where the Río de Los Huemeles drains the basin. The 1991 eruption created a new 800-m-wide crater in the southwest sector. Cinder cones north of the main edifice and on the southwest and southeast flanks indicate distributed volcanic activity. The surrounding landscape is characterized by Patagonian temperate rainforest at lower elevations. Coyhaique (population ~60,000) is located approximately 140 km to the north."
+    },
+    "climate_and_global_impact": {
+      "content": "Cerro Hudson has been responsible for some of the most climatically significant volcanic eruptions in the southern Andes during the Holocene. The two VEI 6 eruptions would have injected massive quantities of sulfur aerosols into the stratosphere, likely producing measurable cooling across the Southern Hemisphere. The 1991 VEI 5 eruption's sulfur loading combined with that of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> contributed to a global mean temperature reduction of approximately 0.5°C during 1992–1993. Regionally, the 1991 eruption devastated Patagonian pastures, contaminated freshwater, and altered soil chemistry over vast areas."
+    },
+    "cultural_significance": {
+      "content": "Cerro Hudson's cultural significance is defined by the traumatic memory of the 1991 eruption in Patagonian communities. The event devastated the livestock-based economy of the Aysén Region and across Argentine Patagonia, destroying livelihoods and forcing evacuations. For ranchers on both sides of the border, the 1991 eruption remains a defining generational event. The eruption catalyzed improvements in Chile's volcanic monitoring and emergency management systems, leading to modernization of SERNAGEOMIN's capabilities."
+    },
+    "visiting_and_tourism": {
+      "content": "Cerro Hudson is not a tourist destination, owing to its extremely remote location in the Aysén Region. No formal visitor infrastructure exists. The surrounding Aysén Region, however, is one of Chile's premier wilderness destinations, offering the Carretera Austral, glaciated fjords, and world-class fly-fishing. Coyhaique serves as the regional hub. Travelers should consult SERNAGEOMIN for current alert levels."
+    },
+    "nearby_volcanoes": {
+      "content": "Cerro Hudson is the southernmost subduction-related volcano in the Chilean Andes. To the north lie Macá, Cay, and Mentolat volcanoes in the Aysén Region. The Chaitén volcano is further north. <a href=\"/volcano/planchon-peteroa\">Planchón-Peteroa</a> and <a href=\"/volcano/villarrica\">Villarrica</a> are major active centers further up <a href=\"/volcanoes-in-chile\">Chile's</a> volcanic chain."
+    },
+    "etymology": {
+      "content": "The volcano takes its name from the peak that caps the edifice, likely named after early European explorers or cartographers in the region. The name 'Volcán Hudson' became standard only after the 1971 eruption revealed its volcanic nature. Prior to that, the ice-filled caldera carried no volcanic designation on maps."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Cerro Hudson Compared to Other Major Caldera Volcanoes",
+      "description": "How does Cerro Hudson compare to other volcanoes that have produced large explosive eruptions?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Cerro Hudson",
+          "Chile",
+          "1,905 m",
+          "Stratovolcano/Caldera",
+          "2011",
+          "6",
+          "15"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1,486 m",
+          "Stratovolcano",
+          "1992",
+          "6",
+          "6"
+        ],
+        [
+          "Krakatau",
+          "Indonesia",
+          "155 m",
+          "Caldera",
+          "2023",
+          "6",
+          "20"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "2,850 m",
+          "Stratovolcano",
+          "1967",
+          "7",
+          "7"
+        ],
+        [
+          "Chaitén",
+          "Chile",
+          "1,122 m",
+          "Caldera",
+          "2011",
+          "4",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8010,
+      "vei": null,
+      "label": "Oldest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -4750,
+      "vei": 6,
+      "label": "Cataclysmic eruption — >10 km³ tephra",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1890,
+      "vei": 6,
+      "label": "Second VEI 6 eruption — >10 km³ tephra",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1740,
+      "vei": null,
+      "label": "First eruption in historical records",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1891,
+      "vei": null,
+      "label": "Late 19th century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1971,
+      "vei": 3,
+      "label": "Caldera discovered — lahars and ashfall",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1991,
+      "vei": 5,
+      "label": "Devastating eruption — ash reached Falkland Islands, 1M+ livestock killed",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2011,
+      "vei": 2,
+      "label": "Most recent eruption",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 10,
+      "note": "8010 BCE to 860 CE, including two VEI 6 events"
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 1
+    },
+    {
+      "century": "20th",
+      "count": 2,
+      "note": "1971 (VEI 3), 1991 (VEI 5)"
+    },
+    {
+      "century": "21st",
+      "count": 1,
+      "note": "2011 (VEI 2)"
+    }
+  ],
+  "facts": [
+    "Cerro Hudson has produced two VEI 6 eruptions during the Holocene (~4750 BCE and ~1890 BCE), each ejecting more than 10 km³ of tephra — volumes comparable to the 1883 Krakatau eruption.",
+    "The volcano's 10-km-wide ice-filled caldera was not recognized as volcanic until the 1971 eruption, making it one of the last major caldera volcanoes discovered in the 20th century.",
+    "The 1991 VEI 5 eruption deposited ash over 100,000 km² of Argentine Patagonia and reached the Falkland Islands more than 1,000 km to the east.",
+    "Over one million sheep and cattle perished from ash ingestion following the 1991 eruption, causing an estimated $50 million in livestock losses.",
+    "The 1991 eruption's sulfur loading combined with Mount Pinatubo's eruption two months earlier contributed to global temperatures dropping approximately 0.5°C in 1992–1993.",
+    "Cerro Hudson is the southernmost subduction-related volcano in the Chilean Andes, sitting near the Chile Triple Junction.",
+    "The 1991 eruption created a new 800-m-wide crater in the southwest portion of the caldera.",
+    "The massive volcanic edifice covers approximately 300 km² — an area larger than the city of Birmingham, UK.",
+    "Despite producing some of the largest eruptions in the southern Andes, Cerro Hudson rises to only 1,905 m — less than half the height of many Andean stratovolcanoes.",
+    "The volcano produces unusually mafic (basaltic) magma for a highly explosive volcano — its explosivity is amplified by magma-ice interaction within the caldera.",
+    "The northwest breach in the caldera channels the Río de Los Huemeles, the primary pathway for lahars during eruptions.",
+    "Cerro Hudson's 1991 eruption was the largest in Chile since Quizapu in 1932."
+  ],
+  "faqs": [
+    {
+      "question": "Is Cerro Hudson still active?",
+      "answer": "Yes, Cerro Hudson is an active volcano that last erupted in October 2011. The volcano has produced 15 recorded eruptions over the past 10,000 years, including two VEI 6 events and the devastating VEI 5 eruption of 1991. SERNAGEOMIN, Chile's geological service, monitors the volcano with seismometers, webcams, and satellite systems. Persistent hydrothermal activity within the ice-filled caldera indicates ongoing magmatic processes. Scientists consider future eruptions likely and regard Cerro Hudson as one of South America's highest-priority volcanic monitoring targets."
+    },
+    {
+      "question": "What happened during the 1991 Cerro Hudson eruption?",
+      "answer": "The August 1991 eruption of Cerro Hudson was a VEI 5 event and one of the largest volcanic eruptions of the late 20th century. It proceeded in two phases: a lateral blast on August 8–9 followed by a climactic Plinian eruption on August 12 that sent an ash column 16–18 km high. Winds carried ash eastward across Argentine Patagonia, reaching the Falkland Islands over 1,000 km away. The eruption killed over one million livestock through ash ingestion, caused an estimated $50 million in agricultural losses, and formed a new 800-m-wide crater. Its sulfur emissions, combined with Mount Pinatubo's eruption months earlier, contributed to global cooling."
+    },
+    {
+      "question": "How big were Cerro Hudson's largest eruptions?",
+      "answer": "Cerro Hudson produced two VEI 6 eruptions during the Holocene — around 4750 BCE and 1890 BCE — each ejecting more than 10 km³ of tephra. These rank among the largest explosive eruptions in the southern Andes over the past 10,000 years and are comparable in magnitude to the 1883 Krakatau eruption or the 1991 Pinatubo eruption. The 1991 eruption, at VEI 5, ejected approximately 4 km³ of tephra. Having two VEI 6 events in its Holocene record makes Cerro Hudson one of the most explosively productive volcanoes in all of South America."
+    },
+    {
+      "question": "Where is Cerro Hudson located?",
+      "answer": "Cerro Hudson is located in the Aysén Region of southern Chile at 45.9°S latitude, making it the southernmost subduction-related volcano in the Chilean Andes. The nearest city is Coyhaique, approximately 140 km to the north. The volcano sits in an extremely remote area of Patagonia, surrounded by temperate rainforest and accessible only by challenging overland routes. Its position near the Chile Triple Junction, where three tectonic plates converge, places it in a geologically complex setting."
+    },
+    {
+      "question": "Why was Cerro Hudson's caldera not discovered until 1971?",
+      "answer": "Cerro Hudson's 10-km-wide caldera remained unrecognized because it is completely filled with glacial ice and snow, giving the mountain an unremarkable appearance indistinguishable from surrounding non-volcanic peaks. The remote location in southern Chilean Patagonia, with difficult access and sparse population, meant that the area received limited geological survey attention. It was only when the explosive 1971 eruption produced ashfall and lahars that scientists investigated and identified the summit depression as a volcanic caldera. The discovery prompted a reassessment of volcanic hazards across the entire Aysén Region."
+    },
+    {
+      "question": "How tall is Cerro Hudson?",
+      "answer": "Cerro Hudson rises to 1,905 m (6,250 ft) above sea level — surprisingly modest for a volcano capable of such enormous eruptions. Many Andean stratovolcanoes tower above 4,000–6,000 m, but Hudson's relatively low elevation belies its vast footprint (approximately 300 km²) and massive caldera (10 km wide). The low summit height combined with the ice-filled caldera contributed to the volcano remaining unrecognized as volcanic until 1971."
+    },
+    {
+      "question": "Could Cerro Hudson erupt again like 1991?",
+      "answer": "Yes, volcanologists consider future large eruptions at Cerro Hudson entirely plausible. The volcano's Holocene record includes two eruptions even larger than the 1991 event — VEI 6 events around 4750 BCE and 1890 BCE. The average recurrence interval between significant eruptions over the past 10,000 years is roughly 700–1,000 years, and it has been only about 30 years since the last major event. A repeat VEI 5 or VEI 6 eruption would have devastating consequences for Patagonia and potentially measurable hemispheric climate effects."
+    },
+    {
+      "question": "What hazards does Cerro Hudson pose?",
+      "answer": "Cerro Hudson poses several serious hazards. Ashfall from large eruptions can blanket hundreds of thousands of square kilometers, as the 1991 eruption demonstrated across Argentine Patagonia. Pyroclastic flows from major eruptions could travel tens of kilometers from the caldera. Lahars (volcanic mudflows) are a particular concern because the ice-filled caldera provides abundant meltwater that is channeled through the northwest breach down the Río de Los Huemeles. A VEI 6 eruption could inject enough sulfur aerosols into the stratosphere to produce measurable hemispheric temperature cooling."
+    }
+  ],
+  "people_also_search": [
+    "cerro hudson eruption 1991",
+    "cerro hudson caldera",
+    "hudson volcano chile",
+    "largest volcanic eruptions south america",
+    "patagonia volcanic ash",
+    "chile volcanoes",
+    "VEI 6 eruptions"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Cerro Hudson",
+    "alternateName": [
+      "Volcán Hudson",
+      "Hudson"
+    ],
+    "description": "Massive ice-filled caldera volcano in southern Chile, the southernmost in the Chilean Andes, known for VEI 5–6 eruptions",
+    "geo": {
+      "latitude": -45.9,
+      "longitude": -72.97,
+      "elevation": 1905
+    },
+    "containedInPlace": {
+      "name": "Aysén Region",
+      "country": "Chile"
+    },
+    "url": "https://volcanoatlas.com/volcano/hudson-cerro"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=358057",
+      "text": "Smithsonian GVP: Cerro Hudson",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile National Geology and Mining Service",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Andes-Mountains",
+      "text": "Britannica: Andes Mountains",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "pinatubo",
+      "krakatau",
+      "tambora",
+      "villarrica",
+      "planchon-peteroa"
+    ],
+    "country_pages": [
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "pinatubo",
+    "krakatau",
+    "planchon-peteroa",
+    "villarrica",
+    "chaiten"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Cerro Hudson",
+      "url": "/volcano/hudson-cerro"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/hudson-cerro"
+}

@@ -1,0 +1,392 @@
+{
+  "slug": "purace",
+  "volcano_id": 351060,
+  "title": "Puracé",
+  "meta_title": "Puracé Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Puracé is a 4,650 m active stratovolcano in Colombia's Andes. Explore its 29 eruptions, the Los Coconucos chain, current 2025 activity, and visitor info.",
+  "quick_answer": {
+    "what": "Puracé is an active andesitic stratovolcano rising to 4,650 m (15,256 ft) in the Cauca Department of southwestern Colombia, forming the northwestern anchor of the Los Coconucos volcanic chain.",
+    "status": "Active — erupted in January and November 2025. Has produced 29 recorded eruptions since ~160 BCE, with frequent small to moderate explosive activity throughout the 19th and 20th centuries.",
+    "famous_for": "Being Colombia's most frequently active volcano and the anchor of the Los Coconucos volcanic chain, a complex of 14 volcanoes stretching southeast to Pan de Azúcar.",
+    "danger_level": "Moderate to high — the city of Popayán (population ~320,000) lies approximately 30 km to the northwest, within potential ashfall and lahar range."
+  },
+  "hero": {
+    "name": "Puracé",
+    "local_name": "Volcán Puracé",
+    "subtitle": "Colombia's Most Frequently Active Volcano",
+    "country": "Colombia",
+    "region": "Cauca Department",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 4650,
+    "elevation_ft": 15256,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 2.3095,
+      "lon": -76.3948
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11786.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "4,650 m (15,256 ft)",
+    "type": "Stratovolcano complex (cluster)",
+    "status": "Active",
+    "last_eruption": "November 23, 2025",
+    "first_known_eruption": "~160 BCE",
+    "total_recorded_eruptions": 29,
+    "vei_max": "3 (1847–1852, 1869, 1885)",
+    "country": "Colombia",
+    "region": "Cauca Department, Northern Andean Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "2.310°N, 76.395°W",
+    "nearest_city": "Popayán — ~30 km northwest (population ~320,000)",
+    "population_at_risk": "~320,000+ (Popayán metropolitan area within ashfall range)",
+    "summit_crater": "600-m-diameter summit crater",
+    "protected_status": "Puracé National Natural Park",
+    "monitoring_agency": "SGC (Servicio Geológico Colombiano)",
+    "smithsonian_id": "351060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=351060"
+  },
+  "sections": {
+    "overview": {
+      "content": "Puracé is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 4,650 m (15,256 ft) in the Cauca Department of southwestern <a href=\"/volcanoes-in-colombia\">Colombia</a>, forming the northwestern anchor of the Los Coconucos volcanic chain. With 29 recorded eruptions spanning over 2,000 years, Puracé holds the distinction of being Colombia's most frequently active volcano — a notable status in a country that also hosts the deadly <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> and the massive Galeras. The Los Coconucos chain comprises nine composite volcanoes and five monogenetic vents stretching over 6 km southeast from the Puracé crater to the summit of Pan de Azúcar stratovolcano, built atop a dacitic massif roughly 13 km by 10 km in extent. Puracé's 600-m-diameter summit crater has been the primary source of historical eruptions, which have been predominantly small to moderate explosive events (VEI 2–3) producing ash columns, pyroclastic ejections, and occasional pyroclastic flows. The volcano poses a tangible threat to the city of Popayán (population approximately 320,000), located just 30 km to the northwest. Eruptions in 2022, January 2025, and November 2025 from vents between the Puracé and Curiquinga craters have confirmed the volcano's continued vigor and prompted elevated alert levels from the Servicio Geológico Colombiano (SGC). The volcano's summit area lies within Puracé National Natural Park, one of Colombia's most ecologically important protected areas, and the surrounding Coconucos region supports sulfur mining, geothermal resources, and thermal springs that have long attracted visitors. Puracé's tectonic context is the subduction of the Nazca Plate beneath the South American Plate, which drives volcanism along the entire Northern Andean Volcanic Arc from <a href=\"/volcanoes-in-colombia\">Colombia</a> through <a href=\"/volcanoes-in-ecuador\">Ecuador</a> and <a href=\"/volcanoes-in-peru\">Peru</a>."
+    },
+    "geology_and_formation": {
+      "content": "Puracé is part of the Northern Andean Volcanic Arc, powered by the eastward subduction of the Nazca Plate beneath the South American Plate at rates of approximately 6–7 cm per year. This tectonic convergence has generated a chain of volcanoes running through southwestern Colombia, including Puracé, Galeras, Nevado del Huila, and <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a>. The Los Coconucos volcanic chain represents a particularly complex structure, with its 14 volcanic centers — nine composite volcanoes and five monogenetic vents — built atop a dacitic massif approximately 13 km long (northwest to southeast) by 10 km wide. Puracé sits at the northwestern terminus of this chain, with its active crater perched at 4,650 m. The volcano produces predominantly andesitic and basaltic-andesitic magma, consistent with typical subduction zone compositions. The 600-m-diameter summit crater has been repeatedly modified by historical eruptions, with the largest events in 1849, 1869, and 1885 (all reaching VEI 3) significantly altering the crater morphology. The more recent eruptions in 2022 and 2025 have occurred from vents between the Puracé and Curiquinga craters, suggesting possible migration of the active conduit system. The underlying dacitic massif indicates that more silica-rich, potentially more explosive magma compositions are present at depth, raising the possibility that future eruptions could exceed the predominantly VEI 2–3 historical range."
+    },
+    "eruption_history_overview": {
+      "content": "Puracé has produced 29 recorded eruptions dating from approximately 160 BCE, making it Colombia's most frequently active volcano. Historical eruptions reported since 1816 have been predominantly small to moderate explosive events, with the largest reaching VEI 3 in 1847–1852, 1869, and 1885. The 19th century was the most active historical period, with eruptions documented in 1816, 1827, 1835, 1840, 1847–1852, 1860, 1869, 1870, 1878, 1881, 1885, and 1899 — twelve events in a single century. The 20th century saw continued but somewhat less frequent activity: eruptions in 1902, 1906, 1924, 1925, 1926, 1927, 1946, 1947, 1949, 1956, 1957, and 1977. After a 45-year quiet period, Puracé reactivated with a VEI 1 eruption in March 2022 from vents between Puracé and Curiquinga, followed by VEI 1 activity in November 2023 and two eruptions in 2025 — a VEI 2 event in January from the Curiquinga Crater and another confirmed eruption in November."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1847–1852 Eruption — Puracé's Longest Historical Episode (VEI 3)",
+          "content": "The most sustained historical eruption at Puracé began on October 27, 1847, and continued intermittently through 1852, making it the longest-duration recorded event at the volcano. This VEI 3 eruption produced powerful explosive columns, heavy ashfall across the surrounding countryside, and pyroclastic ejections that modified the summit crater morphology. The five-year episode caused significant disruption to agriculture and communities across the Cauca region and demonstrated Puracé's capacity for extended unrest sequences. Ashfall from the eruption reached Popayán on multiple occasions, contaminating water supplies and damaging crops."
+        },
+        {
+          "title": "The 1869 and 1885 Eruptions — Peak Explosive Activity (VEI 3)",
+          "content": "Two of Puracé's most vigorous historical eruptions occurred on October 4, 1869, and May 25, 1885, both reaching VEI 3. The 1869 eruption produced a substantial eruption column and heavy ashfall across the Cauca Department. The 1885 eruption was particularly notable for its explosive intensity, ejecting large volumes of ash and pyroclastic material that caused significant damage to nearby communities. These events, combined with the 1847–1852 episode, established the late 19th century as Puracé's most explosively active historical period. At VEI 3, these eruptions were comparable to moderate events at other Andean volcanoes and served as a benchmark for hazard planning in the Popayán region."
+        },
+        {
+          "title": "The 2022–2025 Reactivation — Puracé Returns After 45 Years",
+          "content": "After its longest modern dormancy — 45 years since the 1977 eruption — Puracé reactivated on March 29, 2022, with a VEI 1 eruption from vents between the Puracé and Curiquinga craters. This was followed by a VEI 1 eruption in November 2023, and then a stronger VEI 2 event on January 19, 2025, specifically from the Curiquinga Crater — a notable shift in the eruptive vent location. Another confirmed eruption on November 23, 2025, continued the sequence. The SGC (Servicio Geológico Colombiano) raised the alert level to Orange during the 2025 events, and the city of Popayán activated emergency preparedness measures. The migration of activity toward the Curiquinga vents has raised scientific interest in whether the complex's plumbing system is evolving and whether larger eruptions could follow. The reactivation serves as a reminder that Puracé, despite its relatively modest recent eruptions, remains a significant volcanic hazard for southwestern Colombia."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Puracé is classified as active and most recently erupted on November 23, 2025. The Servicio Geológico Colombiano (SGC) — Colombia's geological survey — operates a comprehensive monitoring network at Puracé including broadband seismometers, infrasound sensors, GPS deformation stations, SO₂ gas spectrometers, webcams, and thermal cameras. The observatory at Popayán coordinates with the national-level volcanological center in Bogotá. During the 2025 eruptions, SGC raised the alert to Orange (Level III) and issued ash dispersion advisories for Popayán and surrounding communities. Seismic activity has included increased volcano-tectonic earthquakes and volcanic tremor episodes consistent with magma movement at shallow depth. SO₂ emissions have been elevated since the 2022 reactivation, indicating a persistent open conduit or active degassing pathway. The migration of eruptive activity toward the Curiquinga vents is being closely monitored for signs of larger magmatic intrusion."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Puracé poses a range of volcanic hazards to the Cauca Department, with particular concern for the city of Popayán (~320,000 residents) located approximately 30 km to the northwest. Ashfall is the most frequently realized hazard; during VEI 3 eruptions in the 19th century, ash reached Popayán and disrupted daily life. Pyroclastic flows from moderate to large eruptions could travel down the volcano's flanks into inhabited valleys. Lahars generated by eruptions interacting with heavy Andean rainfall or snowmelt from the high-altitude summit could channel downstream through river valleys toward populated areas. Ballistic projectiles from explosive eruptions pose hazards within several kilometers of the crater. The volcano's high elevation (4,650 m) means that eruptions occur well above the zone of human habitation, providing some buffer — but the large population within the broader hazard footprint makes Puracé a high-priority monitoring target. SGC maintains detailed hazard maps for the volcano and has established evacuation protocols for nearby communities."
+    },
+    "geography_and_physical_description": {
+      "content": "Puracé rises to 4,650 m (15,256 ft) in the Central Cordillera of the Colombian Andes, within the Cauca Department. The 600-m-diameter summit crater opens at the northwestern end of the Los Coconucos volcanic chain, which extends southeast for more than 6 km to Pan de Azúcar volcano. The broader dacitic massif underlying the chain measures approximately 13 km northwest to southeast by 10 km northeast to southwest. The summit lies within Puracé National Natural Park, a 83,000-hectare protected area spanning from 2,500 to 4,650 m elevation. The park protects Andean cloud forest, páramo grasslands, and wetlands, and is the headwater source for several rivers including the Cauca and Magdalena — Colombia's two most important waterways. Sulfur deposits near the summit have been mined historically, and thermal springs around the base attract visitors. The city of Popayán, the capital of Cauca Department and one of Colombia's most historically important colonial cities, lies approximately 30 km to the northwest in an intermontane valley."
+    },
+    "climate_and_global_impact": {
+      "content": "Puracé's historical eruptions have been predominantly regional in impact, with no individual event large enough to produce measurable global climate effects. The VEI 3 eruptions of the 19th century injected sulfur aerosols into the troposphere, contributing to local acid rain and agricultural damage but not reaching stratospheric altitudes where global climate forcing occurs. The primary environmental concern from Puracé's eruptions is contamination of water sources in the headwaters of the Cauca and Magdalena river systems — river basins that together serve millions of Colombians downstream."
+    },
+    "cultural_significance": {
+      "content": "Puracé and the Coconucos region hold deep cultural significance in Colombian Andean life. The volcano lends its name to the Puracé indigenous resguardo (reservation) and the surrounding municipality. The summit and its hot springs have been important to indigenous communities for centuries, and the thermal baths at Coconuco and Pilimbalá attract visitors seeking the volcano's geothermal warmth. Puracé National Natural Park, established in 1961, is one of Colombia's oldest protected areas and a symbol of Andean conservation. The nearby city of Popayán — one of Colombia's most beautifully preserved colonial cities, known as the 'White City' — lives in the shadow of the volcano, and Puracé forms a prominent backdrop visible from the city on clear days. The volcano's eruptions have periodically reminded Popayán's residents of their geological neighborhood — a relationship similar to that of <a href=\"/volcano/vesuvius\">Vesuvius</a> and Naples."
+    },
+    "visiting_and_tourism": {
+      "content": "Puracé National Natural Park offers trekking routes through cloud forest and páramo to the summit area, weather and volcanic conditions permitting. When open, the ascent provides spectacular views of the Los Coconucos chain, the Cauca Valley, and on clear days, distant Andean peaks. The park also features the Cascada del Bedón waterfall and thermal springs at Pilimbalá. Access is from the town of Puracé or from Popayán, approximately two hours by road. Visitors should check current volcanic alert levels with SGC and park access status with Colombia's national parks authority (Parques Nacionales Naturales) before planning a visit. The summit may be closed during periods of elevated volcanic activity, as occurred during the 2022 and 2025 eruption events. Popayán itself is a major tourist destination, famous for its colonial architecture and Holy Week celebrations."
+    },
+    "nearby_volcanoes": {
+      "content": "Puracé is one of several active volcanoes in southwestern <a href=\"/volcanoes-in-colombia\">Colombia</a>. Sotará lies to the south, while Nevado del Huila — Colombia's tallest active volcano at 5,364 m — is located to the northeast. <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a>, infamous for the 1985 lahar that killed over 23,000 people in Armero, lies further north along the Central Cordillera. Galeras, one of the most actively monitored volcanoes in Colombia, sits approximately 180 km to the southwest near Pasto. Together, Colombia's 13 Holocene volcanoes form part of the Northern Andean Volcanic Arc."
+    },
+    "etymology": {
+      "content": "The name Puracé derives from indigenous terminology in the region, with 'Pura' relating to the concept of fire or burning mountain in local linguistic traditions. The volcano gives its name to the surrounding municipality and indigenous resguardo. The Los Coconucos chain takes its name from the Coconuco indigenous people, who have inhabited the region around the volcano for centuries."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Puracé Compared to Colombia's Other Active Volcanoes",
+      "description": "How does Puracé compare to other historically active volcanoes in Colombia?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Puracé",
+          "Colombia",
+          "4,650 m",
+          "Stratovolcano complex",
+          "2025",
+          "3",
+          "29"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "12"
+        ],
+        [
+          "Galeras",
+          "Colombia",
+          "4,276 m",
+          "Stratovolcano",
+          "2014",
+          "3",
+          "22"
+        ],
+        [
+          "Nevado del Huila",
+          "Colombia",
+          "5,364 m",
+          "Stratovolcano",
+          "2012",
+          "3",
+          "4"
+        ],
+        [
+          "Cerro Machín",
+          "Colombia",
+          "2,650 m",
+          "Stratovolcano",
+          null,
+          "5",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -160,
+      "vei": null,
+      "label": "Oldest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1816,
+      "vei": null,
+      "label": "First historically recorded eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1847,
+      "vei": 3,
+      "label": "Start of 5-year eruption (1847–1852)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1869,
+      "vei": 3,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1885,
+      "vei": 3,
+      "label": "Largest historical eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1949,
+      "vei": 2,
+      "label": "Mid-20th century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1977,
+      "vei": 2,
+      "label": "Last eruption before 45-year dormancy",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2022,
+      "vei": 1,
+      "label": "Reactivation after 45 years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": 2,
+      "label": "Eruption from Curiquinga Crater",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 1,
+      "note": "~160 BCE"
+    },
+    {
+      "century": "19th",
+      "count": 12,
+      "note": "Most active century — 1816 to 1899"
+    },
+    {
+      "century": "20th",
+      "count": 12,
+      "note": "1902 to 1977"
+    },
+    {
+      "century": "21st",
+      "count": 4,
+      "note": "2022, 2023, January 2025, November 2025"
+    }
+  ],
+  "facts": [
+    "Puracé is Colombia's most frequently active volcano, with 29 recorded eruptions over approximately 2,200 years.",
+    "The city of Popayán, with approximately 320,000 residents, lies just 30 km northwest of the active summit crater.",
+    "The Los Coconucos volcanic chain contains 14 individual volcanic centers stretching over 6 km southeast from Puracé to Pan de Azúcar.",
+    "Puracé produced 12 eruptions in the 19th century alone — nearly one per decade.",
+    "The volcano reactivated in March 2022 after a 45-year dormancy, the longest quiet period in its historical record.",
+    "The 2025 eruptions occurred from the Curiquinga Crater, marking a shift in vent location from the main Puracé summit crater.",
+    "Puracé National Natural Park protects the headwaters of both the Cauca and Magdalena rivers — Colombia's two most important waterways.",
+    "The summit crater measures approximately 600 m in diameter and has been repeatedly modified by explosive eruptions since 1816.",
+    "At 4,650 m, Puracé is one of the highest active volcanoes in Colombia, reaching well above the treeline into the páramo zone.",
+    "Sulfur deposits near Puracé's summit have been mined for centuries, and the surrounding thermal springs draw visitors from across Colombia.",
+    "The underlying dacitic massif extends approximately 13 km by 10 km, suggesting that more silica-rich magma capable of larger eruptions may exist at depth.",
+    "Puracé erupted twice in 2025, with events in January and November, confirming a new phase of heightened activity."
+  ],
+  "faqs": [
+    {
+      "question": "Is Puracé volcano still active?",
+      "answer": "Yes, Puracé is Colombia's most frequently active volcano. It erupted twice in 2025 — in January from the Curiquinga Crater (VEI 2) and again in November. The volcano had reactivated in March 2022 after a 45-year dormancy period, and the SGC (Servicio Geológico Colombiano) maintains continuous monitoring with seismometers, gas sensors, and webcams. Puracé's 29 recorded eruptions over approximately 2,200 years include three VEI 3 events, and scientists consider future eruptions highly likely. The volcano remains at elevated alert levels."
+    },
+    {
+      "question": "When did Puracé last erupt?",
+      "answer": "Puracé's most recent confirmed eruption began on November 23, 2025. Earlier in the same year, a VEI 2 eruption occurred on January 19 from the Curiquinga Crater. These events are part of a renewed eruptive phase that began with the volcano's reactivation in March 2022 after 45 years of quiet since the 1977 eruption. The current phase has included eruptions in 2022, 2023, and two in 2025, suggesting Puracé has entered a new period of heightened activity."
+    },
+    {
+      "question": "How far is Puracé from Popayán?",
+      "answer": "Puracé's summit crater is located approximately 30 km (19 miles) southeast of Popayán, the capital of Colombia's Cauca Department with a population of roughly 320,000. This proximity places Popayán within the ashfall hazard zone for moderate eruptions. During the VEI 3 eruptions of the 19th century, ash from Puracé reached the city on multiple occasions. The road from Popayán to the volcano takes approximately two hours."
+    },
+    {
+      "question": "How tall is Puracé?",
+      "answer": "Puracé rises to 4,650 m (15,256 ft) above sea level, making it one of the highest active volcanoes in Colombia. It stands within the Central Cordillera of the Colombian Andes, well above the treeline in the páramo ecological zone. The summit is crowned by a 600-m-diameter crater that has been the primary source of historical eruptions. Despite its impressive height, Puracé is shorter than Colombia's tallest active volcano, Nevado del Huila, at 5,364 m."
+    },
+    {
+      "question": "What is the Los Coconucos volcanic chain?",
+      "answer": "The Los Coconucos volcanic chain is a complex of 14 volcanic centers — nine composite stratovolcanoes and five monogenetic vents — stretching more than 6 km from Puracé's summit crater southeastward to the summit of Pan de Azúcar volcano. The entire chain is built atop a dacitic massif approximately 13 km by 10 km in extent. The chain represents one of the most concentrated volcanic complexes in the Colombian Andes and suggests a large-scale magmatic system feeding multiple surface vents."
+    },
+    {
+      "question": "Is Puracé dangerous?",
+      "answer": "Puracé poses a significant volcanic hazard for southwestern Colombia. Its proximity to Popayán (population ~320,000, just 30 km away) means that ashfall from even moderate eruptions can affect a large population. VEI 3 eruptions in 1847–1852, 1869, and 1885 sent ash over the city and surrounding agricultural lands. Pyroclastic flows, lahars, and ballistic projectiles are additional hazards. The presence of a dacitic magmatic body at depth raises the possibility of eruptions larger than any in the historical record."
+    },
+    {
+      "question": "Can you visit Puracé volcano?",
+      "answer": "Puracé National Natural Park offers trekking routes to the summit area when volcanic conditions permit. The park features páramo landscapes, cloud forest, waterfalls, and thermal springs at Pilimbalá. Access is from Popayán, approximately two hours by road. Visitors should check the current volcanic alert level with SGC and park access status with Parques Nacionales Naturales before planning a trip, as the summit may be closed during periods of volcanic unrest. Popayán itself is a worthwhile destination for its colonial architecture and vibrant culture."
+    },
+    {
+      "question": "How often does Puracé erupt?",
+      "answer": "Puracé has averaged roughly one eruption every 7–8 years over its historical record, though the frequency varies considerably between periods. The 19th century saw 12 eruptions — nearly one per decade — while the mid-to-late 20th century was quieter. After a 45-year dormancy from 1977 to 2022, Puracé has erupted four times in just three years (2022, 2023, and twice in 2025), suggesting it may be entering a new period of frequent activity similar to its 19th-century pattern."
+    }
+  ],
+  "people_also_search": [
+    "purace volcano eruption 2025",
+    "purace volcano colombia",
+    "los coconucos volcanic chain",
+    "volcanoes near popayan",
+    "colombia active volcanoes",
+    "purace national park",
+    "most active volcano colombia"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Puracé",
+    "alternateName": [
+      "Volcán Puracé"
+    ],
+    "description": "Colombia's most frequently active volcano, a 4,650 m stratovolcano anchoring the Los Coconucos chain near Popayán",
+    "geo": {
+      "latitude": 2.3095,
+      "longitude": -76.3948,
+      "elevation": 4650
+    },
+    "containedInPlace": {
+      "name": "Cauca Department",
+      "country": "Colombia"
+    },
+    "url": "https://volcanoatlas.com/volcano/purace"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=351060",
+      "text": "Smithsonian GVP: Puracé",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sgc.gov.co/",
+      "text": "SGC — Servicio Geológico Colombiano",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.parquesnacionales.gov.co/",
+      "text": "Parques Nacionales Naturales de Colombia",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "nevado-del-ruiz",
+      "galeras"
+    ],
+    "country_pages": [
+      "colombia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "nevado-del-ruiz",
+    "galeras",
+    "nevado-del-huila",
+    "cotopaxi"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Colombia",
+      "url": "/volcanoes-in-colombia"
+    },
+    {
+      "label": "Puracé",
+      "url": "/volcano/purace"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/purace"
+}

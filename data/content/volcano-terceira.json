@@ -1,0 +1,394 @@
+{
+  "slug": "terceira",
+  "volcano_id": 382050,
+  "title": "Terceira",
+  "meta_title": "Terceira Volcano — Eruption History, Geology & Facts | VolcanoAtlas",
+  "meta_description": "Terceira Island contains multiple stratovolcanoes along the Azores-Terceira Rift. 15 eruptions recorded including submarine events. Full history and guide.",
+  "quick_answer": {
+    "what": "Terceira is a volcanic island in the central Azores archipelago, Portugal, containing multiple stratovolcanoes and calderas constructed along a prominent ESE-WNW fissure zone, with a maximum elevation of 1,023 m (3,356 ft) at Serra de Santa Bárbara.",
+    "status": "Active — last erupted 1998–2000 (submarine eruption off the Serreta Ridge). Historical eruptions on the island itself in 1761 and from submarine vents in 1867.",
+    "famous_for": "A complex multi-center volcanic island in the mid-Atlantic, with four distinct volcanic centers, three calderas, and a history of both on-land and submarine eruptions spanning nearly 9,000 years.",
+    "danger_level": "Moderate — approximately 56,000 people live on Terceira, including in the historic city of Angra do Heroísmo (a UNESCO World Heritage Site). The island's fissure zone passes through populated areas."
+  },
+  "hero": {
+    "name": "Terceira",
+    "local_name": "Ilha Terceira",
+    "subtitle": "The Azores' Multi-Volcano Island on the Mid-Atlantic Rift",
+    "country": "Portugal",
+    "region": "Azores",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 1023,
+    "elevation_ft": 3356,
+    "status": "Active",
+    "last_eruption": "1998–2000 (submarine)",
+    "coordinates": {
+      "lat": 38.73,
+      "lon": -27.32
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-12003.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,023 m (3,356 ft)",
+    "type": "Stratovolcano(es) / Multi-center volcanic island",
+    "status": "Active",
+    "last_eruption": "1998–2000 (submarine, Serreta Ridge)",
+    "first_known_eruption": "~6720 BCE",
+    "total_recorded_eruptions": 15,
+    "vei_max": "3 (1867, submarine eruption)",
+    "country": "Portugal",
+    "region": "Azores, Atlantic Ocean",
+    "tectonic_setting": "Rift zone — oceanic crust (< 15 km), at the Azores Triple Junction",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "38.73°N, 27.32°W",
+    "nearest_city": "Angra do Heroísmo (population ~35,000) — on the southern coast of the island",
+    "population_at_risk": "~56,000 (entire island population)",
+    "monitoring_agency": "CIVISA (Centro de Informação e Vigilância Sismovulcânica dos Açores)",
+    "unesco_sites": "Angra do Heroísmo — UNESCO World Heritage Site since 1983",
+    "smithsonian_id": "382050",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=382050"
+  },
+  "sections": {
+    "overview": {
+      "content": "Terceira is a volcanically active island in the central Azores archipelago, <a href=\"/volcanoes-in-portugal\">Portugal</a>, located in the middle of the North Atlantic Ocean approximately 1,500 km west of the Portuguese mainland. The island contains multiple <a href=\"/types-of-volcanoes\">stratovolcanoes</a> and calderas constructed along a prominent ESE-WNW fissure zone, with four distinct volcanic centers: Santa Bárbara, Pico Alto, Guilherme Moniz, and Cinco Picos. Serra de Santa Bárbara, at the western end of the island, is the highest point at 1,023 m (3,356 ft). Terceira's 15 recorded eruptions span nearly 9,000 years and include both on-land and submarine events, with the most recent being a submarine eruption off the Serreta Ridge from 1998 to 2000. The island's volcanism is driven by its position near the Azores Triple Junction, where the North American, Eurasian, and African tectonic plates interact along the Terceira Rift. With approximately 56,000 residents — including the historic city of Angra do Heroísmo, a UNESCO World Heritage Site — Terceira is one of the most densely populated volcanic islands in the Atlantic. The island is a key destination in Azorean tourism, famous for its calderas, hot springs, volcanic caves, and distinctive cultural traditions."
+    },
+    "geology_and_formation": {
+      "content": "Terceira's geological complexity reflects its position near the Azores Triple Junction, where the spreading Mid-Atlantic Ridge intersects with the Terceira Rift, a zone of oblique extension between the Eurasian and African plates. This tectonic setting produces a sustained magma supply that has built the island over hundreds of thousands of years. The island's volcanic architecture is organized around four main centers along the ESE-WNW fissure zone. Santa Bárbara, at the western end, is the youngest stratovolcano and is truncated by two nested calderas — the younger one formed approximately 15,000 years ago and is now filled with comenditic (sodium-rich trachytic) lava domes. Pico Alto lies north of the central fissure zone and contains a Pleistocene caldera largely filled by lava domes and flows. Guilherme Moniz caldera sits along the fissure zone to the south. Cinco Picos, the 7-km-wide caldera at the southeastern end, is the island's oldest and largest volcanic structure. The fissure zone connecting these centers has been the source of most Holocene eruptions, producing basaltic to rhyolitic lavas. This compositional range — from primitive basalt to evolved rhyolite — reflects the varied magmatic conditions produced by the rift setting."
+    },
+    "eruption_history_overview": {
+      "content": "Terceira's eruptive record includes 15 confirmed eruptions spanning from approximately 6720 BCE to 2000 CE. The oldest recorded events are associated with the Guilherme Moniz and Santa Bárbara centers. Throughout the Holocene, eruptions have migrated across the island's various volcanic centers and the interconnecting fissure zone. Most Holocene eruptions produced basaltic to rhyolitic lava flows from the fissure zone, while the major calderas experienced both explosive and effusive phases. Historical eruptions include the 1761 fissure eruption east of Santa Bárbara (<a href=\"/volcanic-explosivity-index\">VEI</a> 2), the 1867 submarine eruption west of the island (VEI 3), and the 1998–2000 submarine eruption at Serreta Ridge (VEI 0). The relatively moderate VEI values of historical events should not mask the island's potential for larger eruptions — the caldera-forming events during the Pleistocene were substantially more powerful."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1761 Fissure Eruption — Terceira's Most Recent On-Land Event",
+          "content": "On April 17, 1761, a fissure eruption began along the central fissure zone east of Santa Bárbara volcano. The eruption produced basaltic lava flows that advanced toward the coast and was classified at VEI 2. Contemporary accounts describe fire fountaining and lava flowing through agricultural land. The eruption was relatively brief, ending within the same year, but it demonstrated the continued activity of the fissure system that forms the island's volcanic backbone. This remains the most recent eruption on the island itself, though submarine eruptions have occurred since."
+        },
+        {
+          "title": "The 1867 Submarine Eruption — Explosions in the Atlantic",
+          "content": "Beginning on June 1, 1867, a submarine eruption occurred approximately 3–6 km west-northwest of Terceira. The eruption was classified at VEI 3, making it the most powerful historical eruption associated with the Terceira volcanic system. The submarine explosions produced visible columns of steam, ash, and pumice that were observed from the island. Floating pumice rafts spread across the surrounding ocean. The eruption revealed the extent of Terceira's volcanic system beyond the island's coastline, highlighting the submarine segment of the fissure zone as an active eruptive center."
+        },
+        {
+          "title": "The 1998–2000 Serreta Ridge Submarine Eruption",
+          "content": "From November 25, 1998, through 2000, a submarine eruption occurred along the Serreta Ridge, a volcanic ridge extending west of Terceira. Classified at VEI 0, this was a low-intensity effusive eruption producing lava balloons — hollow basaltic spheres — that floated to the ocean surface and were collected by scientists and fishermen. The balloons, up to 1 m in diameter, provided rare direct samples from an active submarine eruption. The eruption confirmed that the Terceira volcanic system extends well beyond the island's visible coastline and that submarine eruptions remain a recurrent possibility along the Serreta Ridge."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Terceira is monitored by CIVISA (Centro de Informação e Vigilância Sismovulcânica dos Açores), which operates a regional network of seismometers, GPS stations, and geochemical monitoring sites across the Azores. The island experiences regular seismic activity consistent with its rift zone setting — the Azores have a well-documented history of destructive tectonic earthquakes in addition to volcanic events. A magnitude 7.2 earthquake struck near Terceira in 1980, killing 61 people and causing widespread damage in Angra do Heroísmo. CIVISA monitors both seismic and volcanic hazards. The current volcanic alert level is normal, but the island's multiple active volcanic centers and the submarine Serreta Ridge warrant continuous surveillance."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Terceira faces several volcanic hazards. Fissure eruptions along the central ESE-WNW zone could produce lava flows affecting populated areas — the fissure zone passes through agricultural land and near settlements between Santa Bárbara and Pico Alto. Explosive eruptions from the caldera centers, while less frequent, could generate pyroclastic flows and heavy ashfall. Submarine eruptions along the Serreta Ridge, while unlikely to directly threaten on-land populations, could produce tsunamis if sufficiently explosive. The island's approximately 56,000 residents, concentrated in Angra do Heroísmo and Praia da Vitória, live within the volcanic hazard zone. Seismic hazard is also significant — the 1980 earthquake caused extensive damage to Angra's historic center, leading to a major reconstruction effort. CIVISA's monitoring program and the Azores' civil protection system provide the framework for hazard response."
+    },
+    "geography_and_physical_description": {
+      "content": "Terceira is the third-largest island in the Azores archipelago, measuring approximately 30 km long and 17 km wide, with an area of about 400 km². The island's topography is defined by its four volcanic centers. Santa Bárbara (1,023 m) dominates the western end with its nested calderas and flanking lava domes. The central portion features the Guilherme Moniz caldera and the Pico Alto complex. At the southeastern end, the broad Cinco Picos caldera — 7 km in diameter — is the island's largest volcanic structure. Between these centers, the fissure zone creates a linear volcanic landscape of cinder cones, lava flows, and faults. The coastline alternates between steep volcanic cliffs and small bays. Terceira's climate is oceanic and humid, with lush green pastures that support the island's dairy farming economy and give the landscape its characteristic appearance."
+    },
+    "cultural_significance": {
+      "content": "Terceira is one of the most culturally significant islands in the Azores. Angra do Heroísmo, on the southern coast, was designated a UNESCO World Heritage Site in 1983 for its remarkably preserved 15th–18th-century architecture and its historical role as a key port on Atlantic trade routes. The city was a vital stopover for Portuguese maritime expeditions and treasure fleets returning from the Americas and Asia. Terceira is also famous for its traditional bullfighting (tourada à corda), where bulls run through town streets on a rope — a uniquely Azorean cultural practice. The island's volcanic landscape is integral to its identity: calderas serve as grazing land, volcanic caves (algar) are tourist attractions, and the geothermal hot springs of Furnas do Enxofre on the flanks of Santa Bárbara are popular bathing sites. The 1980 earthquake and subsequent reconstruction reinforced the community's awareness of living on an active volcanic island."
+    },
+    "visiting_and_tourism": {
+      "content": "Terceira is a major destination within the Azores tourism boom. Key volcanic attractions include the Algar do Carvão, a spectacular lava tube and volcanic chimney open for guided visits, and the Furnas do Enxofre, a fumarole field and hot springs area on the slopes of Santa Bárbara. The Santa Bárbara caldera offers hiking trails with panoramic views across the island and the Atlantic. Angra do Heroísmo's UNESCO-listed historic center provides a rich cultural complement to the volcanic landscape. The island is accessible via Lajes Airport, with regular flights from Lisbon and inter-island connections. The best time to visit is June through September, though the Azores' changeable weather means prepared visitors can enjoy the island year-round."
+    },
+    "nearby_volcanoes": {
+      "content": "Terceira is part of the Azores volcanic archipelago, which contains numerous active volcanic islands. São Jorge, visible from Terceira's shores, is a fissure-dominated volcanic island with historical eruptions. Faial, home to the famous Capelinhos eruption of 1957–1958, lies to the west. Pico Island features Portugal's highest peak (2,351 m), a massive stratovolcano. São Miguel, the archipelago's largest island, hosts the Sete Cidades and Furnas calderas. Together, these islands form one of the most volcanically active regions in the Atlantic Ocean, driven by the Azores Triple Junction and the <a href=\"/ring-of-fire\">Mid-Atlantic Ridge</a>. <a href=\"/volcano/tenerife\">Tenerife</a> and <a href=\"/volcano/la-palma\">La Palma</a> in the Canary Islands represent other Atlantic volcanic islands to the south."
+    },
+    "etymology": {
+      "content": "The name Terceira means 'third' in Portuguese, reflecting the island's position as the third island discovered (or the third in order from the east) when the Azores were settled by Portuguese colonists in the 15th century. The individual volcanic centers bear Portuguese names: Santa Bárbara (a patron saint), Pico Alto ('High Peak'), Guilherme Moniz (a historical figure), and Cinco Picos ('Five Peaks')."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Terceira Compared to Other Azores and Atlantic Volcanic Islands",
+      "description": "How does Terceira compare to other volcanic islands in the Atlantic?",
+      "headers": [
+        "Volcano/Island",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Terceira",
+          "Portugal",
+          "1,023 m",
+          "Stratovolcano(es)",
+          "1998–2000",
+          "3",
+          "15"
+        ],
+        [
+          "Sete Cidades (São Miguel)",
+          "Portugal",
+          "856 m",
+          "Stratovolcano",
+          "1880",
+          "5",
+          "17"
+        ],
+        [
+          "Faial",
+          "Portugal",
+          "1,043 m",
+          "Stratovolcano",
+          "1958",
+          "2",
+          "10"
+        ],
+        [
+          "La Palma",
+          "Spain",
+          "2,426 m",
+          "Stratovolcano",
+          "2021",
+          "3",
+          "14"
+        ],
+        [
+          "Tenerife (Teide)",
+          "Spain",
+          "3,715 m",
+          "Stratovolcano",
+          "1909",
+          "4",
+          "7"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6720,
+      "vei": null,
+      "label": "Oldest known eruption — Guilherme Moniz center",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2530,
+      "vei": null,
+      "label": "Fissure zone eruption east of Santa Bárbara",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -940,
+      "vei": null,
+      "label": "Santa Bárbara NW flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 820,
+      "vei": null,
+      "label": "Santa Bárbara eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1200,
+      "vei": null,
+      "label": "Guilherme Moniz (Pico Alto) eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1761,
+      "vei": 2,
+      "label": "Most recent on-land eruption — fissure zone",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1867,
+      "vei": 3,
+      "label": "Submarine eruption 3–6 km WNW of Terceira",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1998,
+      "vei": 0,
+      "label": "Serreta Ridge submarine eruption — lava balloons",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 5,
+      "note": "From ~6720 BCE to ~60 BCE"
+    },
+    {
+      "century": "1st",
+      "count": 1
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "13th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 1
+    },
+    {
+      "century": "20th",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Terceira's 1998–2000 submarine eruption produced rare 'lava balloons' — hollow basaltic spheres up to 1 m in diameter that floated to the ocean surface.",
+    "The island contains four distinct volcanic centers — Santa Bárbara, Pico Alto, Guilherme Moniz, and Cinco Picos — each with its own caldera or summit structure.",
+    "Angra do Heroísmo, on Terceira's southern coast, is a UNESCO World Heritage Site and was a crucial port for Portuguese maritime exploration and Atlantic trade.",
+    "A magnitude 7.2 earthquake struck near Terceira in 1980, killing 61 people and causing severe damage to Angra do Heroísmo's historic center.",
+    "Terceira's volcanic system extends well beyond the island's coastline, with the submarine Serreta Ridge representing an active volcanic segment to the west.",
+    "The island's name means 'third' in Portuguese, referring to its order of discovery during the colonization of the Azores in the 15th century.",
+    "Algar do Carvão, a volcanic chimney and lava tube on Terceira, descends about 90 m into the Earth and features a subterranean lake with rare silica stalactites.",
+    "Terceira sits near the Azores Triple Junction where three tectonic plates — North American, Eurasian, and African — interact, making it one of the most tectonically complex volcanic settings in the Atlantic.",
+    "The Cinco Picos caldera at Terceira's southeastern end is 7 km in diameter — the largest caldera structure on the island.",
+    "Approximately 56,000 people live on Terceira, making it one of the most densely populated volcanic islands in the mid-Atlantic."
+  ],
+  "faqs": [
+    {
+      "question": "Is Terceira volcano active?",
+      "answer": "Yes, Terceira is an active volcanic island. Its most recent eruption was a submarine event along the Serreta Ridge from 1998 to 2000. The most recent on-land eruption occurred in 1761 along the island's central fissure zone. With 15 recorded eruptions over nearly 9,000 years and its position on the tectonically active Azores Triple Junction, Terceira is considered fully capable of future eruptions. CIVISA, the Azores' seismic and volcanic monitoring center, maintains continuous surveillance of the island's volcanic systems."
+    },
+    {
+      "question": "When did Terceira last erupt?",
+      "answer": "Terceira's most recent eruption occurred from November 25, 1998, to 2000, when a submarine vent on the Serreta Ridge west of the island produced low-intensity lava effusion. The eruption generated distinctive lava balloons that floated to the ocean surface. The most recent eruption on the island itself was in 1761, when a fissure eruption east of Santa Bárbara volcano produced basaltic lava flows. A more powerful submarine eruption (VEI 3) occurred in 1867 approximately 3–6 km west-northwest of the island."
+    },
+    {
+      "question": "What are the main volcanic attractions on Terceira?",
+      "answer": "Terceira offers several volcanic attractions. Algar do Carvão is a spectacular volcanic chimney and lava tube descending about 90 m underground, featuring a subterranean lake and rare silica stalactites — it is one of the most visited volcanic caves in the Azores. Furnas do Enxofre is an active fumarole field and hot springs area on the slopes of Santa Bárbara volcano. The Santa Bárbara caldera trail provides panoramic views. The island's calderas, cinder cones, and lava landscapes are accessible via well-marked hiking trails. Angra do Heroísmo adds cultural depth with its UNESCO-listed historic center."
+    },
+    {
+      "question": "How many volcanoes are on Terceira?",
+      "answer": "Terceira contains four distinct volcanic centers: Santa Bárbara (the youngest and highest at 1,023 m), Pico Alto, Guilherme Moniz, and Cinco Picos. These are connected by a prominent ESE-WNW fissure zone that has also been the source of independent eruptions. Additionally, the submarine Serreta Ridge extends the volcanic system west of the island. Rather than a single volcano, Terceira is best understood as a multi-center volcanic island where eruptions can occur from several different vents and fissures."
+    },
+    {
+      "question": "Is Terceira at risk of earthquakes?",
+      "answer": "Yes, Terceira faces significant seismic risk in addition to volcanic hazards. The island sits at the intersection of major tectonic plate boundaries. A magnitude 7.2 earthquake struck near Terceira on January 1, 1980, killing 61 people and causing extensive damage in Angra do Heroísmo and surrounding communities. The earthquake triggered a major reconstruction effort that ultimately contributed to the city's UNESCO designation. Smaller earthquakes occur regularly across the Azores, and CIVISA monitors seismic activity continuously."
+    },
+    {
+      "question": "What are lava balloons?",
+      "answer": "Lava balloons are hollow, gas-filled spheres of basaltic lava produced during submarine volcanic eruptions. During Terceira's 1998–2000 Serreta Ridge eruption, lava balloons up to 1 m in diameter floated to the ocean surface, where they were collected by scientists and fishermen. They form when molten lava in contact with seawater develops a rapidly cooled outer shell while volcanic gases trapped inside create buoyancy. Once the gas leaks out, the balloons eventually sink. These formations are rare and scientifically valuable as direct samples from active submarine eruptions."
+    }
+  ],
+  "people_also_search": [
+    "terceira volcano azores",
+    "terceira island eruption",
+    "azores volcanoes",
+    "angra do heroismo",
+    "algar do carvao",
+    "terceira earthquake 1980"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Terceira",
+    "alternateName": [
+      "Ilha Terceira",
+      "Terceira Island"
+    ],
+    "description": "Multi-center volcanic island in the Azores, Portugal, with four volcanic centers and submarine extensions",
+    "geo": {
+      "latitude": 38.73,
+      "longitude": -27.32,
+      "elevation": 1023
+    },
+    "containedInPlace": {
+      "name": "Azores",
+      "country": "Portugal"
+    },
+    "url": "https://volcanoatlas.com/volcano/terceira"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=382050",
+      "text": "Smithsonian GVP: Terceira",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.civisa.cvarg.azores.gov.pt/",
+      "text": "CIVISA — Azores Seismic and Volcanic Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/206",
+      "text": "UNESCO: Angra do Heroísmo",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.britannica.com/place/Azores",
+      "text": "Britannica: Azores",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "la-palma",
+      "tenerife",
+      "sete-cidades"
+    ],
+    "country_pages": [
+      "portugal",
+      "spain"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "sete-cidades",
+    "faial",
+    "la-palma",
+    "tenerife",
+    "pico"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Portugal",
+      "url": "/volcanoes-in-portugal"
+    },
+    {
+      "label": "Terceira",
+      "url": "/volcano/terceira"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/terceira"
+}

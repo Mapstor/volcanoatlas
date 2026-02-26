@@ -1,0 +1,419 @@
+{
+  "slug": "ubinas",
+  "volcano_id": 354020,
+  "title": "Ubinas",
+  "meta_title": "Ubinas — Peru's Most Active Volcano | VolcanoAtlas",
+  "meta_description": "Ubinas is Peru's most active volcano at 5,608 m with 28 eruptions including a VEI 5. Full eruption history and hazard assessment.",
+  "quick_answer": {
+    "what": "Ubinas is an active stratovolcano in southern Peru, rising to 5,608 m (18,399 ft) in the Central Andean Volcanic Arc. It is Peru's most active volcano, with 28 recorded eruptions dating back over 10,000 years.",
+    "status": "Active — last erupted in May 2024. Currently one of the most closely monitored volcanoes in South America.",
+    "famous_for": "Being Peru's most active volcano, a VEI 5 Plinian eruption around 1082 CE, and persistent ash emissions that have forced repeated evacuations of the Ubinas Valley community.",
+    "danger_level": "High — approximately 5,000 people live within 12 km of the summit in the Ubinas Valley, directly exposed to ashfall, lahars, and pyroclastic flow hazards."
+  },
+  "hero": {
+    "name": "Ubinas",
+    "local_name": "Volcán Ubinas",
+    "subtitle": "Peru's Most Active Volcano",
+    "country": "Peru",
+    "region": "Moquegua Department",
+    "type": "Stratovolcano",
+    "elevation_m": 5608,
+    "elevation_ft": 18399,
+    "status": "Active",
+    "last_eruption": "2024",
+    "coordinates": {
+      "lat": -16.345,
+      "lon": -70.8972
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04792.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "5,608 m (18,399 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "May 2024",
+    "first_known_eruption": "~8560 BCE",
+    "total_recorded_eruptions": 28,
+    "vei_max": "5 (~1082 CE)",
+    "country": "Peru",
+    "region": "Moquegua Department, southern Peru",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "16.345°S, 70.897°W",
+    "nearest_city": "Ubinas village — approximately 6 km south of the summit",
+    "population_at_risk": "~5,000 in the Ubinas Valley; ~30,000 in the wider Moquegua region",
+    "summit_crater": "1.4 km wide, 150 m deep, with a 500-m-wide inner funnel-shaped vent 200 m deep",
+    "monitoring_agency": "IGP (Instituto Geofísico del Perú) and INGEMMET (Instituto Geológico Minero y Metalúrgico del Perú)",
+    "smithsonian_id": "354020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=354020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Ubinas is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 5,608 m (18,399 ft) in the Moquegua Department of southern <a href=\"/volcanoes-in-peru\">Peru</a>, approximately 60 km east of the city of Arequipa. It is Peru's most active volcano, with 28 recorded eruptions spanning over 10,500 years — more than any other volcano in the country. The truncated summit bears a 1.4 km-wide crater containing a steep-walled inner vent 500 m across and 200 m deep, from which the volcano's frequent explosive eruptions originate. Ubinas sits approximately 50 km behind the main volcanic front of the Central Andean Volcanic Arc, along a regional structural lineament shared with the neighboring volcanoes Ticsani and Huaynaputina — the latter famous for a devastating VEI 6 eruption in 1600 CE. The volcano's eruption history includes a major VEI 5 Plinian event around 1082 CE that deposited widespread pumice across the region, as well as a debris avalanche from the collapse of the SE flank approximately 3,700 years ago that sent material 10 km from the summit. Since the 16th century, activity has consisted of intermittent minor-to-moderate explosive eruptions, with the most significant recent events occurring in 2006–2009, 2013–2017, 2023, and 2024. Approximately 5,000 people live in the Ubinas Valley within 12 km of the summit, making this one of the most exposed volcanic communities in <a href=\"/volcanoes-in-peru\">Peru</a> and among the most vulnerable in the entire <a href=\"/ring-of-fire\">Andean volcanic arc</a>."
+    },
+    "geology_and_formation": {
+      "content": "Ubinas is a product of the subduction of the Nazca Plate beneath the South American Plate along the Peru-Chile Trench, the same tectonic process that has built the Andes mountain range and fueled volcanism across the Central Andean Volcanic Arc for millions of years. The volcano sits on continental crust exceeding 25 km in thickness, and its position approximately 50 km behind the main volcanic front reflects the influence of a regional structural lineament that allows magma to reach the surface at an unusual distance from the trench. The geological history of Ubinas involves two major construction phases: Ubinas I, an older edifice that was built and subsequently destroyed, and Ubinas II, which began construction in the mid-Pleistocene and forms the present-day volcano. The upper slopes of Ubinas II are composed primarily of andesitic and trachyandesitic lava flows that steepen to nearly 45° near the summit. The steep-walled 150 m-deep summit crater contains an ash cone with the 500 m-wide funnel-shaped inner vent. A catastrophic sector collapse of the SE flank approximately 3,700 years ago produced a debris-avalanche deposit extending 10 km from the volcano. Widespread Plinian pumice-fall deposits, including one from approximately 1,000 years ago (~1082 CE, VEI 5), demonstrate that Ubinas is capable of large-scale explosive eruptions. The magma composition ranges from andesite to rhyolite, with the more silicic compositions associated with the largest explosive events and the intermediate compositions dominating the historical record of smaller eruptions."
+    },
+    "eruption_history_overview": {
+      "content": "Ubinas has 28 recorded eruptions in the Smithsonian Global Volcanism Program database, making it the most prolific eruption producer in <a href=\"/volcanoes-in-peru\">Peru</a>. The eruption record extends back approximately 10,500 years, with the two oldest events dated to ~8560 BCE and ~6850 BCE. The most powerful eruption in the record — a VEI 5 Plinian event around 1082 CE — produced voluminous pumice deposits across the region. Historical eruptions since the mid-16th century have been smaller, typically VEI 2–3, consisting of intermittent Vulcanian explosive bursts that generate ash plumes, ballistic ejecta, and occasional minor lahars. The 17th century was particularly active, with eruptions in 1550 (VEI 3), 1662, 1667, and 1677 (all VEI 3). After a relatively quiet 18th and 19th century (with scattered VEI 2 events), the 20th century saw eruptions in 1906, 1907, 1937, 1951, 1956, and 1969. The 21st century has brought a marked increase in activity, with sustained eruption episodes in 2006–2009, 2013–2017, 2019, 2023, and 2024."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~1082 CE Plinian Eruption (VEI 5) — Ubinas's Most Powerful Event",
+          "content": "Approximately 1,000 years ago, around 1082 CE, Ubinas produced a major Plinian eruption rated VEI 5 — by far the largest eruption in the volcano's recorded history and one of the most powerful Holocene eruptions in Peru. The eruption generated a towering eruption column that deposited widespread pumice-fall deposits across southern Peru. A VEI 5 event at Ubinas today would be catastrophic for the Ubinas Valley communities and could produce pyroclastic flows reaching populated areas tens of kilometers from the summit, heavy ashfall across the Arequipa region, and lahars flowing down the river valleys that drain the volcano. For context, a VEI 5 eruption is comparable in magnitude to the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a> or the 79 CE eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a>."
+        },
+        {
+          "title": "The 2006–2009 Eruption — Modern Crisis Begins",
+          "content": "Beginning on March 25, 2006, Ubinas entered an extended eruption phase that lasted until 2009 (VEI 2). The eruption produced frequent Vulcanian explosions from the summit crater, generating ash plumes that rose 2–5 km above the summit and deposited ash on the Ubinas Valley community and surrounding agricultural areas. This eruption was the first significant event at Ubinas since 1969 and prompted the first modern evacuations of the Ubinas Valley. INGEMMET and IGP deployed monitoring equipment and established a permanent observation network. The eruption exposed the vulnerability of the valley's residents and catalyzed Peru's investment in volcanic monitoring infrastructure."
+        },
+        {
+          "title": "The 2013–2017 Eruption — Prolonged Crisis and Evacuations",
+          "content": "Ubinas entered another sustained eruption phase beginning on September 1, 2013, that continued intermittently through 2016–2017 (VEI 2–3). The 2013–2016 phase included hundreds of Vulcanian explosions, persistent ash emissions, and the ejection of incandescent ballistic blocks from the summit crater. Ashfall repeatedly affected the town of Ubinas and surrounding communities, contaminating water supplies, killing livestock, and damaging crops. The Peruvian government ordered evacuations of the valley multiple times, temporarily relocating thousands of people. A separate episode from 2016 to 2017 continued the pattern. The prolonged disruption highlighted the social and economic costs of living in close proximity to one of South America's most active volcanoes."
+        },
+        {
+          "title": "The 2023 Eruption (VEI 3) — Escalation",
+          "content": "On June 22, 2023, Ubinas produced a VEI 3 eruption — the strongest event at the volcano since the 17th century. The eruption generated an ash plume that rose to high altitude and produced significant ashfall across the Moquegua region. Emergency agencies declared a state of emergency and evacuated communities in the Ubinas Valley. The event demonstrated that Ubinas remains capable of eruptions substantially larger than the VEI 1–2 events that have characterized most of its 21st-century activity."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Ubinas is classified as active and is continuously monitored by two Peruvian agencies: IGP (Instituto Geofísico del Perú) and INGEMMET (Instituto Geológico Minero y Metalúrgico del Perú). The monitoring network includes seismometers, tiltmeters, GNSS stations, webcams, infrasound sensors, and gas measurement equipment. The volcano's most recent eruption occurred on May 6, 2024 (VEI 2). Given the pattern of closely spaced eruption episodes since 2006, future eruptions in the near term are considered highly likely. Peru's civil defense agency (INDECI) maintains evacuation plans for the Ubinas Valley, and the communities have experienced multiple evacuations in recent years. The volcano's alert level is regularly adjusted based on real-time seismic, deformation, and gas emission data. Volcanologists continue to assess the probability of a return to larger-magnitude eruptions (VEI 4–5) comparable to the ~1082 CE Plinian event."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Ubinas poses high hazards due to the combination of frequent explosive eruptions and the proximity of populated communities. Approximately 5,000 people live in the Ubinas Valley within 12 km of the summit, and roughly 30,000 more reside in the wider Moquegua region within range of ashfall from larger eruptions. The primary hazards include ashfall (which contaminates water, kills vegetation and livestock, and causes respiratory illness), ballistic ejecta from Vulcanian explosions (lethal within several kilometers of the crater), lahars (volcanic mudflows channeled down river valleys, particularly dangerous during the rainy season), and pyroclastic flows in the event of a larger eruption. The ~1082 CE VEI 5 event demonstrates that Ubinas can produce Plinian eruption columns and pyroclastic flows capable of reaching communities well beyond the Ubinas Valley. The SE-flank debris-avalanche deposit from 3,700 years ago extends 10 km from the summit, indicating the potential for catastrophic slope failure. Compared to other Andean volcanoes, Ubinas's threat level is elevated by its eruption frequency, the density of the exposed population, and the economic dependence of valley communities on agriculture and pastoralism that is directly vulnerable to ashfall. The nearby Huaynaputina volcano — which produced a VEI 6 eruption in 1600 CE — serves as a regional reminder of the catastrophic potential of Andean volcanism."
+    },
+    "geography_and_physical_description": {
+      "content": "Ubinas rises from the arid highlands of southern Peru at approximately 16°S latitude, in the Moquegua Department roughly 60 km east of Arequipa (Peru's second-largest city, population ~1 million). The truncated summit at 5,608 m gives the volcano a distinctive flat-topped appearance when viewed from a distance. The 1.4 km-wide summit crater is steep-walled and 150 m deep, containing a central ash cone with the 500 m-wide funnel-shaped inner vent that drops another 200 m. The upper slopes of the cone are steep (approaching 45°) and composed of andesitic lava flows with interbedded tephras. The SE flank bears the prominent scar from the 3,700-year-old sector collapse, and the corresponding debris-avalanche deposit extends 10 km onto the valley floor below. River valleys draining the volcano — particularly the Río Ubinas to the south — serve as conduits for lahars during eruptions. The town of Ubinas (approximately 3,400 m elevation) sits in the valley roughly 6 km south of the summit, directly in the path of potential lahars and under the prevailing ashfall trajectory. The surrounding landscape is typical of the high-altitude Andean puna: dry grasslands, scattered agricultural plots, and llama and alpaca herding areas."
+    },
+    "climate_and_global_impact": {
+      "content": "Ubinas's historical eruptions have not produced significant global climate impacts, as they have been limited to VEI 2–3 events that do not inject substantial aerosols into the stratosphere. However, the VEI 5 eruption of ~1082 CE would have had regional climate effects, and a future VEI 5+ eruption could potentially inject sulfate aerosols into the upper troposphere or lower stratosphere at these high altitudes. For context, the 1600 eruption of neighboring Huaynaputina (VEI 6) produced the coldest year in the Northern Hemisphere for six centuries. Ubinas's eruptions have significant local atmospheric impact: persistent ash emissions during the 2006–2009 and 2013–2017 episodes degraded air quality across the Moquegua region and affected regional aviation."
+    },
+    "cultural_significance": {
+      "content": "Ubinas holds deep significance for the communities of the Ubinas Valley, who have lived in the shadow of the volcano for centuries despite its frequent eruptions. Agriculture and pastoralism — raising llamas and alpacas on the high-altitude grasslands — form the economic backbone of these communities. The repeated eruptions and evacuations of recent years have created a cycle of displacement and return that has profoundly affected the social fabric of the valley. The volcano's name, \"Ubinas,\" is believed to derive from the local Aymara or Quechua indigenous languages, though its precise etymology is debated. The 2006–2009 eruption crisis brought Ubinas to national and international attention for the first time, and the volcano has since become a symbol of the challenges facing volcanic-risk communities in developing countries — where people remain in hazardous areas due to economic necessity, cultural attachment, and limited relocation options."
+    },
+    "visiting_and_tourism": {
+      "content": "Ubinas is not a conventional tourist destination. The volcano is located in a remote area of the Peruvian altiplano, accessible by unpaved roads from Arequipa (approximately 4–5 hours by vehicle). There are no established hiking trails or visitor facilities. The summit crater is occasionally visited by experienced mountaineers and volcanologists, but the ascent requires technical experience at high altitude and awareness of volcanic hazards — the inner vent can emit toxic gases and the crater walls are unstable. During periods of volcanic unrest (which have been frequent since 2006), access to the volcano and even to the Ubinas Valley may be restricted by Peruvian civil defense authorities. Visitors to the Arequipa region interested in volcanic tourism are better served by nearby El Misti (5,822 m), which is a more established trekking destination with better infrastructure."
+    },
+    "nearby_volcanoes": {
+      "content": "Ubinas is one of several active and potentially active volcanoes in the Central Andean Volcanic Arc of southern <a href=\"/volcanoes-in-peru\">Peru</a>. It sits along a structural lineament with Ticsani (approximately 20 km northeast) and Huaynaputina (approximately 25 km east) — the latter responsible for the catastrophic VEI 6 eruption of 1600 CE, the largest historical eruption in South America. Other notable nearby volcanoes include El Misti (5,822 m, overlooking Arequipa), Sabancaya (currently active, approximately 100 km northwest), and Coropuna (6,377 m, the highest volcano in Peru). Further south along the arc, the active volcanoes of <a href=\"/volcanoes-in-chile\">Chile</a> and Bolivia continue the chain, including <a href=\"/volcano/villarrica\">Villarrica</a> and <a href=\"/volcano/puyehue-cordon-caulle\">Puyehue-Cordón Caulle</a>. Peru's segment of the arc is characterized by very high summit elevations and a mix of frequently active and long-dormant but potentially dangerous volcanoes."
+    },
+    "etymology": {
+      "content": "The name 'Ubinas' is believed to derive from a local indigenous language — either Aymara or Quechua — though the precise meaning is debated. The surrounding town and valley share the name, indicating that the toponym predates Spanish colonization. In colonial and early republican records, the volcano is consistently referred to as 'Ubinas,' suggesting the name was well-established by the time of European contact."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Ubinas Compared to South America's Most Active Stratovolcanoes",
+      "description": "How does Ubinas compare to other frequently erupting stratovolcanoes in the Andes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Ubinas",
+          "Peru",
+          "5,608 m",
+          "Stratovolcano",
+          "2024",
+          "5",
+          "28"
+        ],
+        [
+          "Sabancaya",
+          "Peru",
+          "5,976 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "15"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "60+"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "50+"
+        ],
+        [
+          "Llaima",
+          "Chile",
+          "3,125 m",
+          "Stratovolcano",
+          "2009",
+          "4",
+          "50+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8560,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1082,
+      "vei": 5,
+      "label": "Major Plinian eruption — widespread pumice deposits",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1550,
+      "vei": 3,
+      "label": "First historically documented eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1667,
+      "vei": 3,
+      "label": "VEI 3 eruption during active 17th century",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1677,
+      "vei": 3,
+      "label": "VEI 3 explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1956,
+      "vei": 2,
+      "label": "20th century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2006,
+      "vei": 2,
+      "label": "Extended eruption (2006–2009) — first modern evacuations",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2013,
+      "vei": 2,
+      "label": "Prolonged crisis (2013–2017) — repeated evacuations",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 3,
+      "label": "Strongest 21st-century eruption — state of emergency",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2024,
+      "vei": 2,
+      "label": "Most recent eruption (May 2024)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3,
+      "note": "Including ~8560 BCE, ~6850 BCE, and ~1082 CE Plinian"
+    },
+    {
+      "century": "16th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 4
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 5
+    },
+    {
+      "century": "20th",
+      "count": 6
+    },
+    {
+      "century": "21st",
+      "count": 7
+    }
+  ],
+  "facts": [
+    "Ubinas is Peru's most active volcano, with 28 recorded eruptions — more than any other volcano in the country.",
+    "The volcano's VEI 5 Plinian eruption around 1082 CE was one of the most powerful Holocene eruptions in Peru, depositing widespread pumice across the southern highlands.",
+    "Approximately 5,000 people live in the Ubinas Valley within just 12 km of the summit, making it one of the most exposed volcanic communities in South America.",
+    "The 1.4 km-wide summit crater contains a steep inner funnel-shaped vent that is 500 m wide and 200 m deep — one of the most dramatic crater-within-a-crater structures in the Andes.",
+    "A debris avalanche from the collapse of the SE flank approximately 3,700 years ago produced deposits extending 10 km from the volcano.",
+    "Ubinas sits 50 km behind the main volcanic front — an unusual position explained by a regional structural lineament that it shares with Huaynaputina and Ticsani.",
+    "Neighboring Huaynaputina produced the VEI 6 eruption of 1600 CE — the largest historical eruption in South America — demonstrating the explosive potential of volcanoes in this region.",
+    "The 2013–2017 eruption sequence forced multiple evacuations of the Ubinas Valley, displacing thousands of people from their agricultural lands.",
+    "Ubinas's upper slopes steepen to nearly 45°, composed primarily of andesitic and trachyandesitic lava flows.",
+    "The 2023 VEI 3 eruption was the strongest event at Ubinas since the 17th century, prompting a regional state of emergency.",
+    "At 5,608 m (18,399 ft), Ubinas is one of the highest frequently active volcanoes in the world.",
+    "Peru has invested heavily in monitoring infrastructure at Ubinas since 2006, making it one of the best-instrumented volcanoes in South America."
+  ],
+  "faqs": [
+    {
+      "question": "Is Ubinas active?",
+      "answer": "Yes, Ubinas is Peru's most active volcano. It has produced 28 recorded eruptions spanning over 10,500 years, with the most recent occurring in May 2024. The volcano has been in a state of elevated activity since 2006, with major eruption episodes in 2006–2009, 2013–2017, 2019, 2023, and 2024. It is continuously monitored by IGP and INGEMMET, and future eruptions are considered highly likely."
+    },
+    {
+      "question": "When did Ubinas last erupt?",
+      "answer": "Ubinas most recently erupted on May 6, 2024 (VEI 2), producing ash plumes from the summit crater. Prior to that, a VEI 3 eruption on June 22, 2023 — the strongest event at the volcano since the 17th century — prompted a regional state of emergency and evacuations of the Ubinas Valley. The volcano has produced seven separate eruption episodes since 2006."
+    },
+    {
+      "question": "How tall is Ubinas?",
+      "answer": "Ubinas stands at 5,608 m (18,399 ft) above sea level, making it one of the highest frequently active volcanoes in the world. Its summit is truncated, giving it a distinctive flat-topped appearance. The 1.4 km-wide summit crater is 150 m deep and contains a 500 m-wide inner vent that drops another 200 m. For comparison, nearby El Misti reaches 5,822 m and Sabancaya reaches 5,976 m."
+    },
+    {
+      "question": "Why is Ubinas so dangerous?",
+      "answer": "Ubinas is dangerous because of the combination of frequent explosive eruptions and a populated valley at its base. Approximately 5,000 people live within 12 km of the summit, directly exposed to ashfall, ballistic ejecta, and lahars. The VEI 5 eruption of ~1082 CE shows the volcano can produce Plinian events comparable to the 1980 Mount St. Helens eruption, and the 3,700-year-old SE flank collapse shows potential for catastrophic slope failure. The location of the city of Arequipa (~1 million people) 60 km to the west adds regional-scale risk."
+    },
+    {
+      "question": "What type of volcano is Ubinas?",
+      "answer": "Ubinas is a stratovolcano (composite volcano) composed primarily of andesitic and trachyandesitic lava flows interbedded with pyroclastic deposits. It was constructed in two main phases: Ubinas I (older, destroyed) and Ubinas II (present edifice, mid-Pleistocene to present). The magma composition ranges from andesite to rhyolite, with the larger eruptions tending to involve more silicic magma. It is part of the Central Andean Volcanic Arc driven by subduction of the Nazca Plate."
+    },
+    {
+      "question": "How many people live near Ubinas?",
+      "answer": "Approximately 5,000 people live in the Ubinas Valley within 12 km of the summit, primarily in the town of Ubinas (elevation ~3,400 m) and surrounding villages. These communities depend on agriculture and pastoralism (llama and alpaca herding). The wider Moquegua region has approximately 30,000 residents within ashfall range, and Peru's second-largest city, Arequipa (~1 million), lies 60 km to the west."
+    },
+    {
+      "question": "What was the biggest eruption of Ubinas?",
+      "answer": "The largest known eruption of Ubinas was a VEI 5 Plinian event around 1082 CE. This eruption produced a towering eruption column and deposited widespread pumice-fall deposits across southern Peru. A VEI 5 eruption is comparable in magnitude to the famous 79 CE eruption of Vesuvius or the 1980 eruption of Mount St. Helens. Since the 16th century, eruptions have been smaller (VEI 2–3), but the 2023 VEI 3 event showed the volcano can still exceed its typical low-level activity."
+    },
+    {
+      "question": "Where is Ubinas located?",
+      "answer": "Ubinas is located in the Moquegua Department of southern Peru, at coordinates 16.345°S, 70.897°W. It sits approximately 60 km east of the city of Arequipa in the Central Andean Volcanic Arc. The volcano is in a remote area of the Peruvian altiplano at high altitude, accessible by unpaved roads from Arequipa (approximately 4–5 hours by vehicle). It is part of a cluster of volcanoes that includes Ticsani, Huaynaputina, and El Misti."
+    }
+  ],
+  "people_also_search": [
+    "ubinas volcano peru",
+    "peru most active volcano",
+    "ubinas eruption 2024",
+    "ubinas eruption 2023",
+    "volcanoes in peru",
+    "ubinas volcano danger",
+    "andean volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Ubinas",
+    "alternateName": [
+      "Volcán Ubinas"
+    ],
+    "description": "Peru's most active stratovolcano at 5,608 m with 28 recorded eruptions in the Central Andean Volcanic Arc",
+    "geo": {
+      "latitude": -16.345,
+      "longitude": -70.8972,
+      "elevation": 5608
+    },
+    "containedInPlace": {
+      "name": "Moquegua Department",
+      "country": "Peru"
+    },
+    "url": "https://volcanoatlas.com/volcano/ubinas"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=354020",
+      "text": "Smithsonian GVP: Ubinas",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.igp.gob.pe/",
+      "text": "IGP — Instituto Geofísico del Perú",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.ingemmet.gob.pe/",
+      "text": "INGEMMET — Peru Geological Survey",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "cotopaxi",
+      "villarrica",
+      "st-helens",
+      "vesuvius",
+      "puyehue-cordon-caulle"
+    ],
+    "country_pages": [
+      "peru",
+      "chile",
+      "ecuador"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "cotopaxi",
+    "villarrica",
+    "sabancaya",
+    "el-misti",
+    "huaynaputina"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Peru",
+      "url": "/volcanoes-in-peru"
+    },
+    {
+      "label": "Ubinas",
+      "url": "/volcano/ubinas"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/ubinas"
+}

@@ -1,0 +1,377 @@
+{
+  "slug": "ambae",
+  "volcano_id": 257030,
+  "title": "Ambae",
+  "meta_title": "Ambae Volcano — Eruption History, Crater Lakes & Facts | VolcanoAtlas",
+  "meta_description": "Ambae is a 1,496 m shield volcano in Vanuatu, the most voluminous in the New Hebrides arc. 2017–2018 eruption forced full island evacuation. Complete guide.",
+  "quick_answer": {
+    "what": "Ambae (also known as Aoba) is a massive basaltic shield volcano forming a 16 x 38 km island in Vanuatu's New Hebrides archipelago, rising to 1,496 m (4,908 ft). It is the most voluminous volcano in the entire New Hebrides arc at approximately 2,500 km³.",
+    "status": "Active — frequent eruptions in the 2020s including events in 2021, 2023, 2024, and 2025. The volcano's crater lakes provide a constant window into its state of unrest.",
+    "famous_for": "The dramatic 2017–2018 eruption (VEI 3) that forced the complete evacuation of the island's ~11,000 residents — one of the largest volcanic evacuations in the Pacific Islands.",
+    "danger_level": "High — approximately 11,000 people live on the island with limited evacuation routes. The volcano's summit crater lakes amplify hazards through phreatomagmatic explosions and acid rain."
+  },
+  "hero": {
+    "name": "Ambae",
+    "local_name": "Aoba / Manaro Voui / Lombenben",
+    "subtitle": "The Pacific's Most Voluminous Island Shield Volcano",
+    "country": "Vanuatu",
+    "region": "New Hebrides",
+    "type": "Shield",
+    "elevation_m": 1496,
+    "elevation_ft": 4908,
+    "status": "Active — erupting frequently",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -15.389,
+      "lon": 167.835
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11911.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,496 m (4,908 ft)",
+    "type": "Shield volcano",
+    "status": "Active — multiple recent eruptions (2017, 2021, 2023, 2024, 2025)",
+    "last_eruption": "2025",
+    "first_known_eruption": "~1530 CE",
+    "total_recorded_eruptions": 14,
+    "vei_max": "3 (2017–2018)",
+    "country": "Vanuatu",
+    "region": "New Hebrides archipelago, Southwestern Pacific",
+    "tectonic_setting": "Subduction zone — Australian Plate beneath Pacific Plate, intermediate crust (15-25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "15.389 S, 167.835 E",
+    "population_at_risk": "~11,000 (island residents)",
+    "summit_features": "Three crater lakes: Manaro Ngoru, Voui (active), and Manaro Lakua",
+    "volume": "~2,500 km3 — most voluminous volcano in the New Hebrides arc",
+    "monitoring_agency": "Vanuatu Meteorology and Geo-Hazards Department (VMGD)",
+    "smithsonian_id": "257030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=257030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Ambae, also known as Aoba, is a massive basaltic <a href=\"/types-of-volcanoes\">shield volcano</a> forming a 16 x 38 km island in the northern part of <a href=\"/volcanoes-in-vanuatu\">Vanuatu's</a> New Hebrides archipelago in the southwestern Pacific Ocean. With a total volume of approximately 2,500 km3, it is the most voluminous volcano in the entire New Hebrides arc — a remarkable distinction for a volcanic edifice that rises only 1,496 m (4,908 ft) above sea level but extends thousands of meters below the ocean surface. The summit hosts a broad pyroclastic cone containing three crater lakes: Manaro Ngoru, Lake Voui (the most volcanically active), and Manaro Lakua. A tuff cone built within Lake Voui has been the focus of most recent eruptions. Ambae has erupted at least 14 times since records began around 1530 CE, with activity intensifying dramatically in the 21st century — eruptions occurred in 2005, 2011, 2017-2018, 2021, 2023, 2024, and 2025. The powerful VEI 3 eruption of 2017-2018 forced the complete evacuation of the island's approximately 11,000 residents, one of the largest volcanic evacuations in Pacific Island history. Ambae's volcanism is driven by the subduction of the Australian Plate beneath the Pacific Plate along the New Hebrides Trench, the same tectonic process that fuels the entire Vanuatu volcanic arc, including <a href=\"/volcano/ambrym\">Ambrym</a> and Yasur."
+    },
+    "geology_and_formation": {
+      "content": "Ambae is constructed at the New Hebrides subduction zone, where the Australian Plate descends beneath the Pacific Plate at approximately 9 cm per year — one of the fastest convergence rates on Earth. Despite sitting above a subduction zone, Ambae erupts predominantly basaltic magma, giving it a shield-like morphology rather than the steep-sided cone typical of subduction zone stratovolcanoes. This basaltic composition reflects the relatively primitive, low-silica magma sourced from the mantle wedge above the subducting slab. The island's elongated shape is controlled by a pronounced NE-SW-trending rift zone studded with numerous scoria cones. The summit region features at least two nested calderas — the largest approximately 6 km in diameter — within which the pyroclastic cone and three crater lakes sit. Lake Voui, the central and most volcanically active lake, has changed color repeatedly from blue-green to red to gray depending on the state of volcanic activity and the chemistry of subaqueous fumaroles. Post-caldera explosive eruptions formed the summit craters approximately 360 years ago, and a tuff cone was constructed within Lake Voui about 60 years later. The most recent flank eruption, approximately 300 years ago, devastated the Nduindui area near the western coast."
+    },
+    "eruption_history_overview": {
+      "content": "Ambae's recorded eruptive history spans approximately 500 years, with 14 confirmed eruptions since about 1530 CE. The eruption frequency has increased markedly in the modern era, with seven eruptions occurring between 2005 and 2025 alone. Most historical eruptions have been centered on the summit area, particularly within or adjacent to Lake Voui, producing phreatomagmatic explosions when rising magma interacts with the crater lake water. Eruption magnitudes range from <a href=\"/volcanic-explosivity-index\">VEI</a> 1 (minor steam and ash emissions) to VEI 3 (the major 2017-2018 event). The earliest recorded eruptions (1530, 1670) affected both the summit lakes and the upper flanks. A significant eruption around 1870 impacted the southeast side of Lake Manaro Lakua. Throughout the 20th century, Ambae remained relatively quiet, with only an uncertain eruption reported in 1915, before reactivating in 1995 with a VEI 2 event in Lake Voui."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2017-2018 Eruption — Full Island Evacuation",
+          "content": "Beginning on September 6, 2017, Ambae entered its most powerful eruption in recorded history. A new volcanic cone grew rapidly within Lake Voui, producing sustained explosive activity that sent ash columns several kilometers into the atmosphere. Heavy ashfall blanketed much of the island, contaminating water supplies, destroying crops, and making the air hazardous to breathe. The eruption reached VEI 3. As conditions worsened in early 2018, the Vanuatu government ordered the complete evacuation of Ambae's approximately 11,000 residents — one of the largest volcanic evacuations in Pacific Island history. Evacuees were relocated primarily to the neighboring islands of Maewo, Pentecost, and Santo. The displacement lasted months and caused significant hardship, disrupting livelihoods, separating families, and creating food security concerns. Acid rain from the volcanic plume devastated the island's vegetation, turning lush tropical forests brown and killing crops across large areas. The eruption's impact on Lake Voui was dramatic — the lake's color shifted from its normal blue-green to a turbid gray-red, and the tuff cone within the lake grew substantially. Activity gradually declined through late 2018, and residents began returning, though the environmental damage took years to recover."
+        },
+        {
+          "title": "The 2005-2006 Eruption — Lake Voui's New Island",
+          "content": "On November 27, 2005, a VEI 2 eruption began within Lake Voui, building a new tuff cone that briefly emerged above the lake's surface as a small island. The eruption was accompanied by vigorous steam plumes and changed the lake's color dramatically. This event, while smaller than the 2017-2018 eruption, drew significant scientific attention as a well-monitored phreatomagmatic eruption within a crater lake. The new cone was subsequently partially eroded by the lake, but its remnants served as the foundation for further growth during later eruptions."
+        },
+        {
+          "title": "Ongoing Activity (2021-2025)",
+          "content": "Ambae has continued to erupt frequently in the 2020s. A VEI 1 eruption occurred in June 2011, followed by VEI 1 activity in December 2021 that extended into early 2022. Two separate VEI 2 eruptions occurred in 2023 (February and December), and another VEI 2 event in June 2024. The most recent confirmed eruption began in November 2025. This high frequency of activity — six eruptions in five years — confirms Ambae as one of the most persistently active volcanoes in the southwestern Pacific and maintains its status as a serious ongoing hazard for the island's population."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Ambae is monitored by the Vanuatu Meteorology and Geo-Hazards Department (VMGD), which operates seismic stations and conducts periodic field assessments on the island. The volcano's alert level is adjusted frequently in response to changes in activity. Given the frequency of eruptions — seven events since 2005 — Ambae is considered to be in a period of elevated unrest. Lake Voui serves as a natural indicator of subsurface conditions; changes in lake color, temperature, and chemistry provide valuable information about magmatic input. Remote sensing from satellites, including thermal infrared and SO2 monitoring, supplements ground-based observations. International support from organizations including the New Zealand-based GNS Science and the Rabaul Volcanological Observatory has enhanced monitoring capacity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Ambae's hazard profile is shaped by its island setting, crater lake interactions, and the vulnerability of its population. The crater lakes amplify explosive hazards through phreatomagmatic eruptions — when rising magma contacts lake water, the resulting steam-driven explosions can be far more violent than purely magmatic eruptions of similar magnitude. Heavy ashfall from summit eruptions can blanket the entire island within hours, contaminating drinking water (a critical issue on a small island dependent on rainwater collection), burying crops, and rendering roads impassable. Acid rain from SO2-rich plumes has repeatedly devastated vegetation and poisoned water catchments. Lahars are possible as ashfall remobilized by tropical rainfall flows down the volcano's steep flanks. The most extreme scenario — a large flank collapse — could generate a tsunami affecting neighboring islands. Evacuation logistics are challenging: the island has limited port facilities and airstrips, and evacuees must be transported by boat to other islands. The 2017-2018 evacuation exposed these vulnerabilities, with overcrowded boats and insufficient housing on receiving islands."
+    },
+    "geography_and_physical_description": {
+      "content": "Ambae is an elongated island measuring approximately 16 km wide and 38 km long, with an area of about 400 km2. Its shape is controlled by the NE-SW rift zone, along which numerous scoria cones are aligned. The summit cone rises to 1,496 m (4,908 ft) and contains two nested calderas. Within the calderas, three lakes occupy the summit: Lake Manaro Ngoru, Lake Voui (central and most active), and Lake Manaro Lakua. Lake Voui typically appears blue-green but shifts to red, gray, or brown during volcanic unrest due to changes in dissolved minerals, acid content, and suspended sediment. The island's lower slopes are heavily vegetated with tropical forest and coconut plantations, and the coast is fringed by coral reefs. Villages are distributed around the coastline, connected by a ring road. The submarine base of the volcano extends several thousand meters below sea level, meaning the vast majority of Ambae's total volume is hidden beneath the Pacific Ocean."
+    },
+    "cultural_significance": {
+      "content": "Ambae holds profound cultural importance in Vanuatu. In Melanesian oral tradition, the island is associated with origin stories and spiritual beliefs linked to the crater lakes and the volcanic landscape. The 2017-2018 evacuation had an enormous cultural and social impact, displacing entire communities from their ancestral lands and disrupting the kastom (traditional custom) practices that are central to ni-Vanuatu identity. The separation of communities during the evacuation strained social bonds and created tensions on receiving islands. Ambae's residents, predominantly subsistence farmers growing copra, kava, and root crops, faced devastating economic losses from repeated ashfall destroying their plantations. The ongoing eruptions have created a challenging dynamic where communities live with persistent volcanic risk because the island is their ancestral home and source of livelihood."
+    },
+    "visiting_and_tourism": {
+      "content": "Ambae is not a standard tourist destination, though it attracts volcanologists and adventurous travelers. Access is by small aircraft from Port Vila or Santo (when the airstrip is operational) or by inter-island boat. The summit crater lakes are a remarkable sight when accessible, but volcanic activity frequently restricts access to the upper slopes. Visitors should check the current alert level with VMGD before planning any trip to the island. Basic accommodation is available in villages on the coast. The island offers a glimpse of traditional Melanesian life alongside a dramatic volcanic landscape, but facilities are minimal and travel logistics are challenging."
+    },
+    "nearby_volcanoes": {
+      "content": "Ambae is part of the Vanuatu volcanic arc, which contains some of the most active volcanoes in the southwestern Pacific. <a href=\"/volcano/ambrym\">Ambrym</a>, approximately 100 km to the south, hosts a persistent lava lake and is one of Vanuatu's most active volcanoes. Yasur on Tanna Island is perhaps the most accessible active volcano in the world, with near-continuous Strombolian eruptions. Lopevi and Gaua are other active volcanic islands in the arc. Together, Vanuatu's volcanoes represent the surface expression of the rapid Australian Plate subduction beneath the Pacific Plate along the New Hebrides Trench, one of the most seismically and volcanically active plate boundaries on Earth."
+    },
+    "etymology": {
+      "content": "The island is known by two names: Ambae and Aoba. 'Ambae' is the indigenous name in the local Melanesian language, while 'Aoba' was an alternative rendering used in earlier colonial-era maps and documents. The summit volcanic complex is sometimes called Manaro Voui or Lombenben after the prominent crater lakes. Lake Voui's name derives from the local language term for the lake that has been the focus of most recent volcanic activity."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Ambae Compared to Other Active Pacific Island Volcanoes",
+      "description": "How does Ambae compare to other frequently active volcanic islands in the Pacific?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Ambae",
+          "Vanuatu",
+          "1,496 m",
+          "Shield",
+          "2025",
+          "3",
+          "14"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Pyroclastic shield",
+          "2019",
+          "4",
+          "50+"
+        ],
+        [
+          "Manam",
+          "Papua New Guinea",
+          "1,807 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "40+"
+        ],
+        [
+          "Rabaul",
+          "Papua New Guinea",
+          "688 m",
+          "Pyroclastic shield",
+          "2014",
+          "4",
+          "20+"
+        ],
+        [
+          "Yasur",
+          "Vanuatu",
+          "361 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "50+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1530,
+      "vei": null,
+      "label": "Earliest recorded eruption — Lakes Voui and Manaro Ngoru",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1670,
+      "vei": 2,
+      "label": "Eruption from Lake Voui and upper west flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1870,
+      "vei": 2,
+      "label": "Eruption on SE side of Lake Manaro Lakua",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1995,
+      "vei": 2,
+      "label": "Renewed activity in Lake Voui",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2005,
+      "vei": 2,
+      "label": "New tuff cone island emerges in Lake Voui",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 3,
+      "label": "Major eruption — full island evacuation of ~11,000 people",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 2,
+      "label": "Two separate eruptions (February and December)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent confirmed eruption",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "16th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 1
+    },
+    {
+      "century": "20th",
+      "count": 2
+    },
+    {
+      "century": "21st",
+      "count": 9,
+      "note": "Dramatic increase in eruption frequency since 2005"
+    }
+  ],
+  "facts": [
+    "Ambae is the most voluminous volcano in the New Hebrides arc at approximately 2,500 km3 — the vast majority of this volume lies beneath the Pacific Ocean.",
+    "The 2017-2018 eruption forced the complete evacuation of all ~11,000 residents of Ambae, one of the largest volcanic evacuations in Pacific Island history.",
+    "Ambae's summit contains three crater lakes — Manaro Ngoru, Voui, and Manaro Lakua — a rare triple-lake summit configuration among the world's active volcanoes.",
+    "Lake Voui changes color dramatically during eruptions, shifting from blue-green to red, gray, or brown depending on volcanic gas input and suspended sediment.",
+    "Ambae has erupted seven times between 2005 and 2025, making it one of the most frequently active volcanoes in the southwestern Pacific during this period.",
+    "Acid rain from Ambae's eruptions has repeatedly devastated the island's vegetation, turning tropical forests brown and poisoning rainwater collection systems — the island's primary freshwater source.",
+    "A tuff cone built within Lake Voui first emerged as a small island during the 2005 eruption and has grown with each subsequent event.",
+    "The Australian Plate subducts beneath the Pacific Plate at the New Hebrides Trench at approximately 9 cm per year — one of the fastest convergence rates on Earth — fueling Ambae's activity.",
+    "Despite being classified as a shield volcano, Ambae produces explosive eruptions enhanced by magma-water interaction in the crater lakes (phreatomagmatic eruptions).",
+    "The 2017-2018 evacuation displaced communities for months, causing food insecurity and social disruption as entire villages were relocated to neighboring islands."
+  ],
+  "faqs": [
+    {
+      "question": "Is Ambae still erupting?",
+      "answer": "Ambae has been erupting frequently in recent years, with confirmed eruptions in 2017-2018, 2021, 2023 (two events), 2024, and 2025. While these are separate eruptive episodes rather than one continuous eruption, the high frequency of activity indicates that Ambae's magmatic system is highly active. The Vanuatu Meteorology and Geo-Hazards Department (VMGD) monitors the volcano continuously and adjusts alert levels as conditions change. Residents and visitors should check current status before travel."
+    },
+    {
+      "question": "Why was Ambae evacuated in 2017?",
+      "answer": "Ambae was evacuated in 2017-2018 because a VEI 3 eruption — the most powerful in the island's recorded history — produced heavy ashfall that contaminated water supplies, destroyed crops, and made air quality hazardous. The eruption from the summit Lake Voui area sent ash columns several kilometers high and generated acid rain that devastated vegetation across the island. The Vanuatu government ordered the complete evacuation of all approximately 11,000 residents, who were transported by boat to neighboring islands including Maewo, Pentecost, and Santo. The displacement lasted months."
+    },
+    {
+      "question": "How big is Ambae volcano?",
+      "answer": "Ambae is enormous. The visible island measures 16 x 38 km with a summit elevation of 1,496 m (4,908 ft), but the total volcano — including its submarine base — has a volume of approximately 2,500 km3, making it the most voluminous volcano in the entire New Hebrides volcanic arc. Most of this volume is hidden beneath the Pacific Ocean. By comparison, the island's surface area is about 400 km2. The submarine flanks descend thousands of meters to the ocean floor."
+    },
+    {
+      "question": "What type of volcano is Ambae?",
+      "answer": "Ambae is classified as a shield volcano, characterized by its broad, gently sloping profile built by successive eruptions of fluid basaltic lava. This is unusual for a volcano in a subduction zone setting, where stratovolcanoes are more common. Ambae's basaltic composition gives it lower-viscosity magma that tends to produce less explosive eruptions than silica-rich stratovolcanoes. However, the interaction between rising magma and the summit crater lakes creates phreatomagmatic explosions that can be significantly more violent than purely magmatic eruptions of the same magnitude."
+    },
+    {
+      "question": "What are the crater lakes on Ambae?",
+      "answer": "Ambae's summit contains three crater lakes: Manaro Ngoru, Lake Voui (also spelled Vui), and Manaro Lakua. Lake Voui is the central and most volcanically active of the three, hosting a tuff cone that has grown during successive eruptions since 2005. The lake changes color dramatically based on volcanic activity — shifting from blue-green during quiescence to red, gray, or brown during unrest as volcanic gases alter the water chemistry. The lakes sit within nested calderas at the summit of the shield volcano and serve as natural indicators of subsurface volcanic conditions."
+    },
+    {
+      "question": "Can you visit Ambae?",
+      "answer": "Ambae is accessible but not a conventional tourist destination. Small aircraft connect the island to Port Vila and Santo when the airstrip is operational, and inter-island boats provide alternative transport. Basic village accommodation is available on the coast. The summit crater lakes are a spectacular sight when volcanic activity permits safe access. However, visitors must check the current volcanic alert level with VMGD, as eruptions occur frequently and can escalate with little warning. Facilities on the island are minimal, and travel logistics require advance planning."
+    }
+  ],
+  "people_also_search": [
+    "ambae volcano vanuatu",
+    "ambae eruption 2018",
+    "ambae evacuation",
+    "manaro voui crater lake",
+    "vanuatu volcanoes",
+    "ambae volcano current status"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Ambae",
+    "alternateName": [
+      "Aoba",
+      "Manaro Voui",
+      "Lombenben"
+    ],
+    "description": "Massive basaltic shield volcano in Vanuatu, the most voluminous in the New Hebrides arc, with three crater lakes",
+    "geo": {
+      "latitude": -15.389,
+      "longitude": 167.835,
+      "elevation": 1496
+    },
+    "containedInPlace": {
+      "name": "Penama Province",
+      "country": "Vanuatu"
+    },
+    "url": "https://volcanoatlas.com/volcano/ambae"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=257030",
+      "text": "Smithsonian GVP: Ambae",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.vmgd.gov.vu/",
+      "text": "VMGD — Vanuatu Geo-Hazards Department",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Vanuatu",
+      "text": "Britannica: Vanuatu",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.gns.cri.nz/",
+      "text": "GNS Science — New Zealand Volcanic Advisory",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "ambrym",
+      "yasur",
+      "manam",
+      "rabaul"
+    ],
+    "country_pages": [
+      "vanuatu"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "ambrym",
+    "yasur",
+    "lopevi",
+    "gaua",
+    "manam"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Vanuatu",
+      "url": "/volcanoes-in-vanuatu"
+    },
+    {
+      "label": "Ambae",
+      "url": "/volcano/ambae"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/ambae"
+}

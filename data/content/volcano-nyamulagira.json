@@ -1,0 +1,434 @@
+{
+  "slug": "nyamulagira",
+  "volcano_id": 223020,
+  "title": "Nyamulagira",
+  "meta_title": "Nyamulagira — Africa's Most Active Volcano | Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Nyamulagira is a 3,058 m shield volcano in DR Congo and Africa's most active volcano with 49 recorded eruptions. Full eruption history, hazards, and lava flow maps.",
+  "quick_answer": {
+    "what": "Nyamulagira (also spelled Nyamuragira) is a massive shield volcano rising to 3,058 m (10,033 ft) in the Virunga volcanic province of the Democratic Republic of the Congo, approximately 25 km north of Lake Kivu.",
+    "status": "Active — a lava lake has been present in the summit caldera since 2018 and was still active as of early 2025.",
+    "famous_for": "Being the most active volcano in Africa by eruption count, with 49 recorded eruptions since 1550. Its lava flows have covered over 1,500 km² of the western branch of the East African Rift.",
+    "danger_level": "High — lava flows from flank eruptions can travel more than 30 km, threatening communities and the habitat of critically endangered mountain gorillas in Virunga National Park."
+  },
+  "hero": {
+    "name": "Nyamulagira",
+    "local_name": "Nyamuragira",
+    "subtitle": "The Most Active Volcano in Africa",
+    "country": "DR Congo",
+    "region": "Virunga Volcanic Province",
+    "type": "Shield",
+    "elevation_m": 3058,
+    "elevation_ft": 10033,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -1.408,
+      "lon": 29.2
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10984.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,058 m (10,033 ft)",
+    "type": "Shield volcano",
+    "status": "Active — lava lake present since 2018",
+    "last_eruption": "2018–2025 (ongoing summit lava lake activity)",
+    "first_known_eruption": "~1550 CE",
+    "total_recorded_eruptions": 49,
+    "vei_max": "3 (multiple: 1907, 1912, 1971, 1980, 1981, 1989, 1991, 1996)",
+    "country": "DR Congo",
+    "region": "Virunga Volcanic Province, North Kivu",
+    "tectonic_setting": "Rift zone — Western (Albertine) Branch of the East African Rift",
+    "rock_types": [
+      "Trachybasalt",
+      "Tephrite",
+      "Basanite"
+    ],
+    "coordinates": "1.408°S, 29.200°E",
+    "nearest_city": "Goma — ~30 km south",
+    "population_at_risk": "~2 million in the broader Goma/Lake Kivu region",
+    "summit_caldera": "~2 × 2.3 km, walls up to 100 m high",
+    "protected_status": "Virunga National Park (UNESCO World Heritage Site)",
+    "monitoring_agency": "Goma Volcano Observatory (OVG)",
+    "smithsonian_id": "223020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=223020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Nyamulagira (also known as Nyamuragira) is a massive high-potassium basaltic shield volcano rising to 3,058 m (10,033 ft) in the Virunga volcanic province of the Democratic Republic of the Congo, approximately 25 km north of Lake Kivu and 13 km northwest of the steep-sided <a href=\"/volcano/nyiragongo\">Nyiragongo volcano</a>. It is the most active volcano in Africa by eruption count, with 49 documented eruptions since approximately 1550 CE — a frequency of roughly one eruption every 2–4 years during the 20th and 21st centuries. Nyamulagira's prolific lava output has covered more than 1,500 km² of the western branch of the East African Rift with basaltic flows, making it one of the most productive effusive volcanoes on Earth. The summit is truncated by a small caldera measuring approximately 2 × 2.3 km with walls up to 100 m high, and a lava lake in the summit crater — first documented in 1921 — has been intermittently active for over a century. Since 2018, a persistent lava lake has occupied the caldera floor. Unlike its neighbor Nyiragongo, whose fluid lava poses catastrophic hazard to the city of Goma, Nyamulagira's eruptions tend to occur on the flanks and produce slower-moving flows that rarely directly threaten densely populated areas, though they have repeatedly caused destruction of agricultural land, forest, and infrastructure within <a href=\"/volcanoes-in-dr-congo\">Virunga National Park</a>."
+    },
+    "geology_and_formation": {
+      "content": "Nyamulagira owes its existence to the Albertine (Western) Rift, the western branch of the East African Rift System — one of the planet's great continental divergence zones, where the African Plate is slowly splitting apart. Unlike subduction-zone volcanoes that produce silica-rich, explosive magmas, rift volcanoes like Nyamulagira are fed by decompression melting of the upper mantle as the continental crust thins and stretches. The resulting magmas are alkaline basalts and trachybasalts, rich in potassium and relatively low in silica, producing characteristically fluid lava that flows rather than explodes.\n\nNyamulagira is a broad <a href=\"/types-of-volcanoes\">shield volcano</a> with gentle upper slopes steepening to roughly 20° on its lower flanks, morphologically similar to the great shield volcanoes of Hawaii but built from a distinctly different alkaline magma suite. The edifice is dotted with over 100 flank cinder cones and fissure vents, concentrated particularly on the south and southwest flanks. These parasitic vents have been the source of most historical eruptions, feeding lava flows that descend radially down the mountain and, in major eruptions, travel more than 30 km to reach the shores of Lake Kivu. The summit caldera was likely formed by a combination of collapse following voluminous flank eruptions and crater-wall slumping. The lava lake that occupied the caldera from at least 1921 drained abruptly in 1938 during a major flank eruption — a pattern also seen at Nyiragongo, where summit lava lake drainage correlates with flank fissure opening."
+    },
+    "eruption_history_overview": {
+      "content": "With 49 eruptions documented in the Smithsonian GVP database, Nyamulagira is not only Africa's most active volcano but one of the most frequently erupting volcanoes on Earth. The historical record begins around 1550 CE, though indigenous oral traditions may preserve earlier accounts. From 1894 onward, eruptions have been documented by European observers, and the frequency is remarkable: 40 eruptions occurred between 1894 and 2018, averaging one event every 3.1 years. Activity styles include summit lava lake overflows, flank fissure eruptions producing extensive lava flows, Strombolian fountaining from cinder cones, and occasional mild explosive events reaching <a href=\"/volcanic-explosivity-index\">VEI 3</a>. The most voluminous eruptions have been flank events that opened new fissures and fed lava flows for weeks to months. A notable lull occurred between the early 1940s and late 1940s, but otherwise the volcano has been remarkably persistent. Since 2018, activity has been focused on the summit caldera lava lake."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1912–1913 Eruption — Rumoka Flank Eruption (VEI 3)",
+          "content": "In December 1912, a fissure opened on Nyamulagira's southwest flank near Rumoka, initiating one of the volcano's most significant 20th-century eruptions. Lava flows poured down the flank for several months, covering substantial areas of forest and agricultural land. The eruption reached VEI 3, making it one of the most energetic historical events at Nyamulagira. Explosive activity at the summit accompanied the flank effusion. This eruption established a pattern that would recur throughout the century: fissure eruptions on the flanks, often accompanied by drain-back of the summit lava lake, producing extensive lava fields that reshaped the surrounding landscape."
+        },
+        {
+          "title": "The 1938–1940 Eruption — Summit Lava Lake Drains",
+          "content": "The eruption that began in January 1938 was pivotal in Nyamulagira's modern history. The lava lake that had been continuously active in the summit caldera since at least 1921 drained rapidly as magma was diverted to flank fissures on the southeast and southwest. Lava flows from the Tshambene vent on the flank traveled extensively. The draining of the lava lake in 1938 ended a 17-year period of continuous summit activity and demonstrated the hydraulic connection between the summit reservoir and flank vents — a phenomenon well-studied at similar basaltic systems like <a href=\"/volcano/kilauea\">Kīlauea</a> in Hawaii."
+        },
+        {
+          "title": "The 1971 Eruption — Rugarama (VEI 3)",
+          "content": "A major flank eruption began in March 1971 on Nyamulagira's west-northwest flank near Rugarama. Rated VEI 3, this event produced fast-moving lava flows that advanced through the surrounding forest, destroying sections of Virunga National Park. The eruption was notable for its threat to the habitat of the critically endangered mountain gorilla — the eastern slopes of the Virunga volcanic complex are one of only two remaining habitats for this species. The 1971 eruption brought Nyamulagira to international attention as conservationists highlighted the dual volcanic and human threats facing the gorilla population."
+        },
+        {
+          "title": "The 1991–1993 Eruption — Mikombe (VEI 3)",
+          "content": "Beginning in September 1991, a flank eruption from the Mikombe vent on the northeast flank at approximately 1,530 m elevation produced one of the most voluminous lava flows in Nyamulagira's recent history. The eruption continued for nearly two years, with lava flows extending over 20 km. The prolonged effusion covered vast areas of forest and came within several kilometers of inhabited zones. VEI 3 explosive activity accompanied the effusion, with Strombolian fountains reaching hundreds of meters above the vent. This eruption contributed significantly to the cumulative lava field that now covers over 1,500 km² around the volcano."
+        },
+        {
+          "title": "The 2011–2012 Eruption — Northwest Flank",
+          "content": "In November 2011, a fissure opened on Nyamulagira's northwest flank, initiating an eruption that continued into 2012. Lava flows advanced through Virunga National Park, destroying sections of forest and prompting concern about impacts on wildlife and nearby communities. The eruption was well-monitored by satellite remote sensing, allowing detailed tracking of lava flow advance rates and thermal output. This event was rated VEI 2."
+        },
+        {
+          "title": "The 2018–Present Lava Lake Activity",
+          "content": "In April 2018, a lava lake reappeared in Nyamulagira's summit caldera for the first time in 80 years (since the 1938 drain event). Satellite thermal monitoring confirmed the sustained presence of incandescent lava at the caldera floor, and the lava lake has persisted continuously through at least early 2025, making it one of the world's longest-lived active lava lakes alongside those at <a href=\"/volcano/nyiragongo\">Nyiragongo</a>, <a href=\"/volcano/erta-ale\">Erta Ale</a>, and <a href=\"/volcano/kilauea\">Kīlauea</a>. The reappearance of the lava lake is interpreted as reflecting a high sustained magma supply rate from depth and an open-conduit system connecting the deep source to the summit."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Nyamulagira is monitored by the Goma Volcano Observatory (OVG), which operates seismic stations, ground-deformation GPS receivers, and gas-monitoring equipment in the Virunga volcanic region. The observatory's infrastructure has been severely challenged by decades of armed conflict in eastern Congo, with equipment damaged or destroyed during fighting on multiple occasions. International support from organizations including the European Commission, USGS, and various academic institutions has helped maintain a minimum monitoring capability.\n\nAs of early 2025, the summit lava lake that reappeared in 2018 remained active, producing a persistent thermal anomaly visible in satellite data and intermittent SO₂ gas plumes. Satellite-based monitoring — particularly thermal infrared and radar interferometry from platforms like Sentinel-2 and MODIS — plays an outsized role at Nyamulagira due to the difficulty of maintaining ground-based instruments in an active conflict zone. Scientists continue to assess whether the sustained lava lake activity might presage a future flank eruption, as the historical pattern suggests that prolonged summit activity can end abruptly when magma finds a lateral pathway."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Nyamulagira's primary hazard is lava flows from flank fissure eruptions. These flows can travel more than 30 km from the summit, potentially reaching Lake Kivu and destroying everything in their path. While less immediately lethal than the fast-moving lava of neighboring Nyiragongo (which devastated the city of Goma in 2002), Nyamulagira's flows have repeatedly destroyed agricultural land, forest, and scattered settlements within Virunga National Park. The cumulative lava coverage of more than 1,500 km² underscores the long-term landscape impact.\n\nSecondary hazards include volcanic gas emissions — particularly sulfur dioxide, which can reach harmful concentrations downwind of active vents and the lava lake — and the ecological destruction of mountain gorilla habitat. A catastrophic but low-probability scenario involves a major flank eruption sending lava flows into Lake Kivu, potentially disturbing the lake's deep stratified layers of dissolved carbon dioxide and methane. A limnic eruption triggered by lava entering the lake could theoretically release lethal gas clouds affecting the approximately 2 million people living around Lake Kivu's shores, including the city of Goma. This scenario, while speculative, has been the subject of scientific investigation following the 1986 Lake Nyos disaster in Cameroon."
+    },
+    "geography_and_physical_description": {
+      "content": "Nyamulagira is a broad shield volcano whose gentle upper slopes and steeper lower flanks give it a characteristic profile visible from across the northern shore of Lake Kivu. The summit stands at 3,058 m (10,033 ft) and is capped by a roughly elliptical caldera measuring approximately 2 × 2.3 km, with rim walls reaching up to 100 m in height. The caldera floor is covered by recent lava flows and hosts the active lava lake. More than 100 parasitic cinder cones and fissure vents dot the flanks, particularly concentrated to the south and southwest. The volcano's base spans approximately 30 km in diameter, and its lava fields extend radially in all directions, with the longest flows reaching Lake Kivu's northern shore, roughly 30 km to the south. The surrounding landscape is characterized by dense tropical forest (where not covered by recent lava), transitioning to bamboo and alpine vegetation at higher elevations. Nyamulagira lies within <a href=\"https://whc.unesco.org/en/list/63\" target=\"_blank\" rel=\"noopener\">Virunga National Park</a>, Africa's oldest national park and a UNESCO World Heritage Site."
+    },
+    "climate_and_global_impact": {
+      "content": "Nyamulagira's persistent degassing makes it one of the largest volcanic sources of sulfur dioxide (SO₂) on Earth. Satellite measurements have consistently ranked it among the top five volcanic SO₂ emitters globally. During major eruptions, SO₂ fluxes can reach thousands of tonnes per day, and even during quiescent periods the lava lake and fumaroles contribute significant background emissions. In 2010, a study published in the Journal of Volcanology and Geothermal Research estimated that Nyamulagira and Nyiragongo together account for a substantial fraction of total volcanic SO₂ emissions in the East African region. These emissions contribute to regional air quality degradation and acid deposition in the forests of the Albertine Rift, one of the world's most biodiverse regions. At the global scale, individual eruptions of Nyamulagira (maximum VEI 3) do not inject sufficient aerosol into the stratosphere to produce measurable climate effects, unlike larger eruptions such as <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6) or <a href=\"/volcano/tambora\">Tambora</a> (VEI 7)."
+    },
+    "cultural_significance": {
+      "content": "In the traditions of the local Congolese communities, Nyamulagira and its neighbor Nyiragongo are deeply embedded in the cultural landscape. The volcanoes feature in oral histories and are regarded with a mix of reverence and fear. The name 'Nyamulagira' (or 'Nyamuragira') is derived from local Kinyarwanda and Swahili linguistic roots. Virunga National Park, which encompasses both volcanoes, was established in 1925 as Albert National Park — Africa's first national park — partly to protect the mountain gorillas of the Virunga Mountains. The park has gained international prominence through wildlife documentaries and the work of primatologist Dian Fossey at nearby Karisimbi. The coexistence of extreme volcanic hazard, extraordinary biodiversity, and human conflict in eastern Congo makes Nyamulagira's setting one of the most complex and compelling natural-cultural landscapes on Earth."
+    },
+    "visiting_and_tourism": {
+      "content": "Visiting Nyamulagira is extremely challenging and not recommended for casual tourists. The volcano lies within Virunga National Park in eastern Democratic Republic of the Congo, a region that has experienced intermittent armed conflict for decades. The security situation fluctuates, and park authorities have periodically closed areas to visitors. When accessible, organized expeditions to Nyamulagira have been offered through Virunga National Park's official tourism program, typically involving multi-day treks with armed ranger escorts. The summit caldera and its lava lake represent a spectacular volcanic sight, but reaching them requires significant physical fitness and acceptance of security risks. Visitors interested in the region's volcanism often visit <a href=\"/volcano/nyiragongo\">Nyiragongo</a> instead, which offers a more accessible (though still challenging) trek to view its renowned lava lake. Any travel to this region should be planned with current security advisories in mind."
+    },
+    "nearby_volcanoes": {
+      "content": "Nyamulagira lies just 13 km northwest of <a href=\"/volcano/nyiragongo\">Nyiragongo</a>, one of the world's most dangerous volcanoes, famous for its persistent lava lake and the catastrophic 2002 eruption that sent fast-moving lava flows through the city of Goma. Together, the two volcanoes form the heart of the Virunga volcanic province in the western branch of the East African Rift. Further south along the rift, <a href=\"/volcano/erta-ale\">Erta Ale</a> in Ethiopia maintains another persistent lava lake, and Ol Doinyo Lengai in Tanzania is the world's only active natrocarbonatite volcano. The Virunga volcanic chain also includes several dormant volcanoes — Karisimbi, Mikeno, Visoke, Sabinyo, Gahinga, and Muhabura — which form the mountain gorilla habitat that makes this region of global conservation importance."
+    },
+    "etymology": {
+      "content": "The name 'Nyamulagira' (also commonly spelled 'Nyamuragira') derives from local Bantu languages spoken in the eastern Congo and Rwanda border region. The precise etymology is debated, but the name is thought to relate to concepts of spreading or flowing, which would be appropriate given the volcano's characteristic lava flow-dominated eruption style. The alternative spelling reflects phonetic transcription differences between French colonial records and more recent English-language sources."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Nyamulagira Compared to Other Persistently Active African and Global Shield Volcanoes",
+      "description": "How does Africa's most active volcano compare to other prolific shield volcanoes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Eruption Count",
+        "VEI Max",
+        "Last Eruption"
+      ],
+      "rows": [
+        [
+          "Nyamulagira",
+          "DR Congo",
+          "3,058 m",
+          "Shield",
+          "49",
+          "3",
+          "2025"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "34",
+          "3",
+          "2021"
+        ],
+        [
+          "Kīlauea",
+          "USA (Hawaii)",
+          "1,222 m",
+          "Shield",
+          "82",
+          "4",
+          "2025"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "180+",
+          "2",
+          "2025"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "613 m",
+          "Shield",
+          "26",
+          "2",
+          "2025"
+        ],
+        [
+          "Mauna Loa",
+          "USA (Hawaii)",
+          "4,170 m",
+          "Shield",
+          "36",
+          "4",
+          "2022"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1550,
+      "vei": null,
+      "label": "Earliest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1907,
+      "vei": 3,
+      "label": "Major summit caldera eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1912,
+      "vei": 3,
+      "label": "Rumoka flank eruption — extensive lava flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1938,
+      "vei": 1,
+      "label": "Summit lava lake drains during flank eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1971,
+      "vei": 3,
+      "label": "Rugarama eruption — gorilla habitat threatened",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1980,
+      "vei": 3,
+      "label": "Gasenyi north flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1991,
+      "vei": 3,
+      "label": "Mikombe eruption — prolonged 2-year lava effusion",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1996,
+      "vei": 3,
+      "label": "VEI 3 eruption during regional instability",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2011,
+      "vei": 2,
+      "label": "Northwest flank eruption into Virunga NP",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2018,
+      "vei": 0,
+      "label": "Lava lake reappears in summit caldera after 80 years",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "16th CE",
+      "count": 1
+    },
+    {
+      "century": "17th–18th CE",
+      "count": 0,
+      "note": "Likely observational gap"
+    },
+    {
+      "century": "19th CE",
+      "count": 5
+    },
+    {
+      "century": "20th CE",
+      "count": 32,
+      "note": "Remarkably high frequency — one eruption every ~3 years"
+    },
+    {
+      "century": "21st CE",
+      "count": 11,
+      "note": "Including ongoing lava lake activity since 2018"
+    }
+  ],
+  "facts": [
+    "Nyamulagira is the most active volcano in Africa, with 49 recorded eruptions — more than any other volcano on the continent.",
+    "Lava flows from Nyamulagira have covered more than 1,500 km² of the western branch of the East African Rift — an area larger than the city of London.",
+    "A lava lake occupied Nyamulagira's summit caldera from at least 1921 to 1938, drained suddenly, then reappeared in 2018 and has persisted for over six years.",
+    "Nyamulagira lies just 13 km from Nyiragongo, creating one of the world's most volcanically hazardous twin-volcano systems.",
+    "The volcano is one of the largest volcanic sources of sulfur dioxide on Earth, with emissions consistently ranking among the top five globally.",
+    "Nyamulagira's eruptions have repeatedly destroyed sections of Virunga National Park, threatening the habitat of the critically endangered mountain gorilla.",
+    "Eight separate eruptions at Nyamulagira have reached VEI 3, all occurring between 1907 and 1996.",
+    "The volcano sits within Africa's oldest national park, Virunga (established 1925), which is also a UNESCO World Heritage Site.",
+    "Nyamulagira's high-potassium alkaline basalt magma is chemically distinct from the magma at neighboring Nyiragongo, indicating separate plumbing systems despite their proximity.",
+    "During the 20th century alone, Nyamulagira erupted 32 times — averaging roughly one eruption every 3.1 years.",
+    "Monitoring Nyamulagira has been severely challenged by decades of armed conflict in eastern Congo, with observatory equipment repeatedly damaged or destroyed.",
+    "A worst-case scenario involving lava entering Lake Kivu could theoretically trigger a limnic eruption — a catastrophic gas release — affecting 2 million people around the lake."
+  ],
+  "faqs": [
+    {
+      "question": "Is Nyamulagira the most active volcano in Africa?",
+      "answer": "Yes, Nyamulagira (also spelled Nyamuragira) is the most active volcano on the African continent by number of recorded eruptions. The Smithsonian Global Volcanism Program documents 49 eruptions since approximately 1550 CE. During the 20th century alone, the volcano erupted 32 times, averaging roughly one eruption every three years. Its prolific lava output has covered over 1,500 km² of surrounding landscape. This makes it significantly more frequently active than other notable African volcanoes such as neighboring Nyiragongo (34 eruptions), Erta Ale in Ethiopia (26 eruptions), or Ol Doinyo Lengai in Tanzania (16 eruptions)."
+    },
+    {
+      "question": "What type of volcano is Nyamulagira?",
+      "answer": "Nyamulagira is classified as a shield volcano — a broad, gently sloping volcanic edifice built predominantly by successive layers of fluid lava flows rather than explosive eruptions. It is constructed from high-potassium alkaline basalt and trachybasalt, producing characteristically fluid lava. The volcano's morphology is similar to Hawaiian shield volcanoes like Kīlauea and Mauna Loa, though its magma chemistry is distinctly different due to its rift-zone tectonic setting. The summit is capped by a caldera approximately 2 × 2.3 km wide, and over 100 parasitic cinder cones dot the flanks."
+    },
+    {
+      "question": "When did Nyamulagira last erupt?",
+      "answer": "Nyamulagira's most recent activity is the summit lava lake that reappeared in April 2018 and has persisted continuously through at least early 2025. This ongoing eruption is rated VEI 0 (effusive activity confined to the summit caldera). The most recent major flank eruption — the type of event that produces extensive lava flows — occurred in November 2011 to 2012, when a fissure opened on the northwest flank and sent lava flows into Virunga National Park. The pattern of the last decade suggests the volcano is currently in a summit-focused phase rather than a flank-eruption phase."
+    },
+    {
+      "question": "How does Nyamulagira compare to Nyiragongo?",
+      "answer": "Nyamulagira and Nyiragongo are neighboring volcanoes separated by just 13 km in the Virunga volcanic province of DR Congo, but they differ significantly. Nyamulagira is a broad shield volcano (3,058 m) with more frequent but generally less immediately dangerous eruptions, while Nyiragongo is a steep stratovolcano (3,470 m) whose extremely fluid lava lake can drain catastrophically, as it did in 2002 when fast-moving lava flows devastated the city of Goma, killing approximately 250 people. Nyamulagira has erupted more often (49 vs 34 times), but Nyiragongo poses the greater direct threat to the city of Goma because of its proximity and lava fluidity. Their magma chemistries are distinct, indicating separate plumbing systems."
+    },
+    {
+      "question": "Is it safe to visit Nyamulagira?",
+      "answer": "Visiting Nyamulagira is extremely challenging and carries significant risks beyond volcanism. The volcano lies within Virunga National Park in eastern DR Congo, a region affected by intermittent armed conflict. When security conditions permit, organized multi-day treks to the summit with armed ranger escorts have been offered through Virunga's official tourism program. The volcanic hazards — principally toxic gas emissions near the summit lava lake — add to the risk. Most visitors interested in Virunga's volcanic scenery visit neighboring Nyiragongo instead, which offers a shorter and more established trek. Any travel to this region requires careful review of current security advisories."
+    },
+    {
+      "question": "Why is Nyamulagira so active?",
+      "answer": "Nyamulagira's high eruption frequency results from its tectonic setting on the western branch of the East African Rift, where the African Plate is actively splitting apart. This rifting thins the continental crust and allows hot mantle material to rise and undergo decompression melting, generating a sustained supply of basaltic magma. The relatively low silica content of Nyamulagira's magma means it is fluid and can reach the surface easily through fractures and fissures without building up explosive pressure. This combination of continuous magma supply and easy eruptive pathways produces the volcano's remarkably frequent activity — comparable to prolific shield volcanoes in Hawaii."
+    },
+    {
+      "question": "Does Nyamulagira threaten mountain gorillas?",
+      "answer": "Yes, Nyamulagira's eruptions have repeatedly affected the habitat of the critically endangered mountain gorilla. The volcano lies within Virunga National Park, which together with adjacent parks in Rwanda and Uganda supports roughly half of the world's remaining mountain gorilla population (estimated at approximately 1,000 individuals). Lava flows from flank eruptions have destroyed sections of forest habitat, and volcanic gas emissions can degrade vegetation. The 1971 Rugarama eruption brought particular international attention to this issue. However, gorilla groups occupy primarily the eastern and southern slopes of the Virunga volcanic chain, somewhat distant from Nyamulagira's most active vents, and the gorilla population has shown resilience to volcanic disturbance."
+    },
+    {
+      "question": "What is the Lake Kivu limnic eruption risk?",
+      "answer": "Lake Kivu, located approximately 25–30 km south of Nyamulagira, contains enormous volumes of dissolved carbon dioxide and methane in its deep waters, held in place by density stratification. A major lava flow entering the lake could theoretically disturb this stratification, triggering a limnic eruption — a sudden, catastrophic release of gas similar to the 1986 Lake Nyos disaster in Cameroon, which killed 1,746 people. Approximately 2 million people live around Lake Kivu's shores. Scientists consider this scenario low-probability but high-consequence. The more immediate limnic threat comes from Nyiragongo, whose lava flows reached the lake shore during the 2002 eruption, but Nyamulagira's longer lava flows could potentially reach the lake during a major event."
+    }
+  ],
+  "people_also_search": [
+    "nyamulagira eruption",
+    "most active volcano africa",
+    "nyamulagira vs nyiragongo",
+    "virunga volcanoes congo",
+    "nyamulagira lava lake",
+    "lake kivu volcanic risk",
+    "africa rift volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Nyamulagira",
+    "alternateName": [
+      "Nyamuragira"
+    ],
+    "description": "Africa's most active volcano, a 3,058 m shield volcano in DR Congo with 49 recorded eruptions",
+    "geo": {
+      "latitude": -1.408,
+      "longitude": 29.2,
+      "elevation": 3058
+    },
+    "containedInPlace": {
+      "name": "Virunga Volcanic Province",
+      "country": "DR Congo"
+    },
+    "url": "https://volcanoatlas.com/volcano/nyamulagira"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=223020",
+      "text": "Smithsonian GVP: Nyamulagira",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://vifrancemonitoring.ovg.cd/",
+      "text": "Goma Volcano Observatory (OVG)",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Nyamulagira",
+      "text": "Britannica: Nyamulagira",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/63",
+      "text": "UNESCO: Virunga National Park",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "nyiragongo",
+      "erta-ale",
+      "kilauea",
+      "ol-doinyo-lengai",
+      "piton-de-la-fournaise",
+      "mauna-loa"
+    ],
+    "country_pages": [
+      "dr-congo"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "nyiragongo",
+    "erta-ale",
+    "kilauea",
+    "piton-de-la-fournaise",
+    "ol-doinyo-lengai"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in DR Congo",
+      "url": "/volcanoes-in-dr-congo"
+    },
+    {
+      "label": "Nyamulagira",
+      "url": "/volcano/nyamulagira"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/nyamulagira"
+}

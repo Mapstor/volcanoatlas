@@ -1,0 +1,430 @@
+{
+  "slug": "marapi",
+  "volcano_id": 261140,
+  "title": "Marapi",
+  "meta_title": "Marapi (Sumatra) — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Marapi is a 2,885 m active complex stratovolcano in West Sumatra, Indonesia — Sumatra's most active volcano. Full eruption history, hazards, and visitor guide.",
+  "quick_answer": {
+    "what": "Gunung Marapi is an active complex stratovolcano rising to 2,885 m (9,465 ft) in the Padang Highlands of West Sumatra, Indonesia, and is the most active volcano on the island of Sumatra.",
+    "status": "Active — ongoing eruptive episode since December 2023, with continuous intermittent explosions through 2025.",
+    "famous_for": "Being Sumatra's most active volcano with 70+ recorded eruptions, and the deadly December 2023 phreatic explosion that killed 23 hikers.",
+    "danger_level": "High — densely populated agricultural highlands surround the volcano, and the 2023 disaster demonstrated that even small eruptions kill at close range."
+  },
+  "hero": {
+    "name": "Marapi",
+    "local_name": "Gunung Marapi",
+    "subtitle": "Sumatra's Most Active Volcano — 70+ Eruptions and Counting",
+    "country": "Indonesia",
+    "region": "West Sumatra, Padang Highlands",
+    "type": "Complex stratovolcano",
+    "elevation_m": 2885,
+    "elevation_ft": 9465,
+    "status": "Active (erupting)",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -0.38,
+      "lon": 100.474
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-12022.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,885 m (9,465 ft)",
+    "type": "Complex stratovolcano",
+    "status": "Active — erupting (2023–2025)",
+    "last_eruption": "2025 (ongoing)",
+    "first_known_eruption": "1770",
+    "total_recorded_eruptions": 70,
+    "vei_max": "2 (numerous events)",
+    "country": "Indonesia",
+    "region": "West Sumatra, Padang Highlands, Sunda Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Eurasian (Sunda) Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "0.38°S, 100.474°E",
+    "nearest_city": "Bukittinggi — approximately 15 km east",
+    "population_at_risk": "Several hundred thousand in surrounding highlands",
+    "summit_craters": "Multiple overlapping craters within 1.4-km-wide Bancah caldera",
+    "monitoring_agency": "PVMBG (Center for Volcanology and Geological Hazard Mitigation, Indonesia)",
+    "smithsonian_id": "261140",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=261140"
+  },
+  "sections": {
+    "overview": {
+      "content": "Gunung Marapi is an active complex <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 2,885 m (9,465 ft) in the Padang Highlands of West Sumatra, <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, and is the most frequently erupting volcano on the island of Sumatra. Not to be confused with the far more globally famous <a href=\"/volcano/merapi\">Merapi</a> (Mount Merapi) on Java — a common and sometimes deadly source of confusion — Marapi is a massive volcanic edifice rising roughly 2,000 m above the surrounding Bukittinggi Plain. With 70 recorded eruptions since 1770, it averages approximately one eruption every 3.6 years, making it one of the most persistently active volcanoes in the Indonesian archipelago.\n\nMarapi's eruptions are characteristically small-to-moderate explosive events, mostly rated VEI 1–2 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a>, but even these modest eruptions proved lethal in December 2023 when a sudden phreatic explosion killed 23 hikers near the summit. The volcano sits along the Sunda Volcanic Arc, where the Indo-Australian Plate subducts beneath the Eurasian (Sunda) Plate — the same tectonic engine that drives <a href=\"/volcano/krakatau\">Krakatau</a>, <a href=\"/volcano/tambora\">Tambora</a>, and Indonesia's other 100+ active volcanoes. A broad summit contains multiple partially overlapping craters within the 1.4 km-wide Bancah caldera, with volcanism migrating westward over time. Marapi is monitored by Indonesia's PVMBG, and eruptive activity has continued intermittently into 2025."
+    },
+    "geology_and_formation": {
+      "content": "Marapi is classified as a complex volcano, comprising multiple overlapping vents, craters, and cones rather than a single symmetrical edifice. The massive mountain rises roughly 2,000 m above the Bukittinggi Plain with a broad summit region containing numerous craters arranged along an ENE–WSW trending line within the 1.4 km-wide Bancah caldera. This alignment reflects the regional tectonic stress field and the progressive westward migration of active venting over time. The named summit craters — Kepundan Bongsu, Kepundan Kuniang, Kepundan Tuo, Kepundan Jinggo, the Verbeek Crater, and Craters B and C — represent successive eruptive vents active at different periods.\n\nThe volcano sits along the Sunda Volcanic Arc, generated by subduction of the Indo-Australian Plate beneath the Eurasian (Sunda) Plate at the Sunda Trench. This convergent boundary extends over 5,000 km and is responsible for the majority of Indonesia's 100+ active volcanoes. Marapi's andesite and basaltic andesite magmas are characteristic of intermediate-composition subduction zone volcanism. Notably, no lava flows outside the summit craters have been recorded in historical time, indicating that eruptions are predominantly explosive rather than effusive — driven by the interaction of groundwater and hydrothermal fluids with shallow magma (phreatic and phreatomagmatic mechanisms). The volcano's complex summit structure distinguishes it from the classic conical form of <a href=\"/types-of-volcanoes\">stratovolcanoes</a> like nearby Sinabung or Java's <a href=\"/volcano/merapi\">Merapi</a>."
+    },
+    "eruption_history_overview": {
+      "content": "Marapi's recorded eruptive history begins in 1770, and with 70 documented eruptions since then, it averages roughly one eruption every 3.6 years. Almost all events are small-to-moderate, predominantly rated VEI 1–2 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a>. No eruption has been definitively rated above VEI 2 in the historical record, making Marapi unusual among Indonesia's major volcanoes for its high frequency but consistently low intensity.\n\nThe 19th century was particularly prolific, with more than 25 eruptions documented between 1807 and 1889 by Dutch colonial observers. The early 20th century continued this pattern, and the period from 1950 to 1994 saw nearly continuous eruption from various summit craters. Activity has persisted through the 21st century with notable events in 2004, 2011–2018, and the deadly 2023–2025 episode. Throughout its history, Marapi's eruptions have typically consisted of phreatic or phreatomagmatic explosions producing ash columns, volcanic bombs near the summit, and occasional minor pyroclastic avalanches confined to the upper flanks."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "19th Century Activity (1807–1889) — A Century of Restlessness",
+          "content": "The 19th century represents Marapi's most prolific documented period, with more than 25 eruptions recorded between 1807 and 1889. Dutch colonial observers documented frequent explosive episodes from the various summit craters, including significant events in 1822, 1833–1834, 1845, 1855–1856, and a cluster of eruptions in the 1870s and 1880s. These eruptions were uniformly small to moderate (VEI 2), producing ash columns, incandescent ejecta, and minor ashfall on surrounding communities. The frequency — sometimes only months between discrete eruptions — established Marapi's reputation as Sumatra's most restless volcano. Dutch geologist Rogier Verbeek, famous for his study of the 1883 <a href=\"/volcano/krakatau\">Krakatau</a> eruption, also studied Marapi and lent his name to one of the summit craters (Verbeek Crater), which remains one of the most active vents today."
+        },
+        {
+          "title": "The 1987–1994 Eruptive Episode — Extended Summit Activity",
+          "content": "From 1987 through 1994, Marapi experienced a prolonged period of intermittent eruptive activity centered primarily on the Verbeek Crater. This seven-year episode included numerous small explosive events (VEI 2), with frequent ash emissions that rarely exceeded 2–3 km above the summit. The activity was characteristic of Marapi: persistent, low-level explosions driven by the interaction of groundwater or hydrothermal fluids with shallow magma. While individual events posed limited hazard to communities at the base of the volcano, cumulative ashfall affected agriculture on the mountain's flanks, particularly the extensive rice paddies and coffee plantations of the Padang Highlands."
+        },
+        {
+          "title": "The December 2023 Eruption — Deadly Phreatic Explosion",
+          "content": "On December 3, 2023, Marapi produced a sudden phreatic explosion that tragically killed 23 hikers who were on or near the summit. The eruption generated a dense ash column approximately 3 km above the crater and sent a surge of hot volcanic debris cascading down the upper slopes. The victims were caught in the eruption zone with virtually no warning, as phreatic explosions can occur with little or no detectable precursory seismic activity. Search-and-rescue operations in the difficult terrain lasted several days, with some bodies recovered from locations very close to the active craters. The disaster was Indonesia's deadliest volcanic incident in years and drew international attention to the dangers posed by even small eruptions at frequently active volcanoes, particularly those popular with hikers. The Indonesian government raised the alert level and imposed a wider exclusion zone around the summit. This eruption initiated an eruptive episode that has continued through 2025."
+        },
+        {
+          "title": "2024–2025 Continued Activity — Ongoing Unrest",
+          "content": "Following the deadly December 2023 event, Marapi has continued producing intermittent explosive activity. PVMBG recorded numerous ash emissions through 2024 and 2025, with eruption columns periodically reaching 1–3 km above the summit. Several ashfall events affected nearby communities including Bukittinggi. The sustained nature of this episode is consistent with Marapi's long-term behavioral pattern of extended periods of low-to-moderate explosive activity. Aviation warnings have been issued when ash plumes drifted into flight paths, and summit access has remained restricted."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Marapi has been in an active eruptive state since December 2023, with intermittent ash emissions and explosions continuing through 2025. PVMBG monitors the volcano using a network of seismometers, tiltmeters, visual and thermal cameras, and gas emission instruments. The volcano has been maintained at elevated alert levels during the ongoing episode, with a 3 km exclusion zone around the summit craters enforced since the December 2023 disaster.\n\nPVMBG records daily seismic data including volcanic earthquakes, tremor, and gas emission measurements. The monitoring network can detect the shallow seismicity and ground deformation that precede many eruptions, though phreatic explosions — like the one that killed 23 hikers — can occur with minimal warning. Hiking to the summit remains prohibited during elevated alert periods. The volcano's proximity to populated areas, combined with its high eruption frequency, makes continuous monitoring essential."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Marapi's primary hazards include phreatic explosions, ballistic projectiles (volcanic bombs), ashfall, and minor pyroclastic avalanches. Unlike more explosive volcanoes such as <a href=\"/volcano/merapi\">Merapi</a> on Java, Marapi has not produced large pyroclastic flows or lahars in historical time, and no lava flows have extended beyond the summit craters. However, the December 2023 disaster demonstrated that even VEI 1–2 phreatic explosions are lethal at close range, particularly for hikers in the summit area.\n\nThe densely populated Padang Highlands surround the volcano, with the city of Bukittinggi (population ~120,000) located approximately 15 km to the east. Smaller communities and extensive agricultural areas — rice paddies, coffee plantations, and cinnamon farms — cover the lower slopes and surrounding plains. Ashfall from eruptions can damage crops, contaminate water supplies, and cause respiratory problems. The volcano's most dangerous hazard zone is the summit itself, where sudden explosions can eject rocks and hot gas with lethal force. PVMBG has established exclusion zones during active periods, but enforcement on a large, populated mountain is challenging. Marapi's high eruption frequency means that the surrounding population lives in a state of persistent low-level volcanic risk."
+    },
+    "geography_and_physical_description": {
+      "content": "Marapi is a massive volcanic edifice occupying a broad footprint in the Padang Highlands of West Sumatra, rising roughly 2,000 m above the surrounding plateau. The summit at 2,885 m (9,465 ft) is not a single peak but a broad, complex region containing multiple overlapping craters within the 1.4 km-wide Bancah caldera. The craters are arranged along an ENE–WSW line, reflecting the progressive westward migration of volcanic activity. Named craters include Kepundan Bongsu, Kepundan Kuniang, Kepundan Tuo, Kepundan Jinggo, and the Verbeek Crater — each representing a different phase of eruptive history.\n\nThe lower slopes are heavily vegetated with tropical forest transitioning to agricultural land, including some of Indonesia's finest coffee and cinnamon-producing areas. The upper slopes become progressively barren, covered in volcanic ash and debris from recent eruptions. The volcano's profile is broad and shield-like rather than steeply conical, reflecting its complex, multi-vent structure. Marapi lies approximately 60 km northeast of the city of Padang, the capital of West Sumatra province, and about 15 km west of the highland city of Bukittinggi, a popular tourist destination known for its cool climate and scenic setting."
+    },
+    "climate_and_global_impact": {
+      "content": "Marapi's consistently small eruptions (VEI 1–2) do not inject significant material into the stratosphere and therefore have no measurable global climate impact. Even the cumulative effect of 70+ eruptions is negligible at a global scale. The volcano's atmospheric effects are confined to local and regional ashfall and SO₂ emissions that affect air quality in the surrounding highlands. Marapi's eruptions are of a fundamentally different scale than the climate-altering events produced by other Indonesian volcanoes such as <a href=\"/volcano/tambora\">Tambora's</a> 1815 eruption (VEI 7, which caused the 'Year Without a Summer') or the 1883 eruption of <a href=\"/volcano/krakatau\">Krakatau</a> (VEI 6)."
+    },
+    "cultural_significance": {
+      "content": "Gunung Marapi holds deep spiritual and cultural significance for the Minangkabau people, the indigenous ethnic group of West Sumatra and the world's largest matrilineal society. In Minangkabau oral tradition, Marapi is considered the ancestral homeland and the place from which the Minangkabau people originated. The name 'Marapi' itself is sometimes interpreted as deriving from the Minangkabau phrase 'mara api' (bringing fire), though this folk etymology is debated.\n\nThe volcano is woven into the cultural landscape of the Padang Highlands, where the Minangkabau have cultivated the volcanic soils for centuries, producing some of Indonesia's finest Arabica coffee and cassia cinnamon. The city of Bukittinggi, nestled in Marapi's shadow, was a center of the Minangkabau kingdom and later played a role in Indonesia's independence movement. For local communities, Marapi is both provider and threat — its fertile volcanic soils sustain livelihoods, while its eruptions periodically remind inhabitants of the mountain's power. The December 2023 disaster renewed discussions about the tension between cultural attachment, economic dependence, and volcanic risk in Indonesia."
+    },
+    "visiting_and_tourism": {
+      "content": "Before the December 2023 eruption, Marapi was a popular trekking destination, drawing thousands of hikers annually who ascended to the summit craters for views over the Padang Highlands and toward the Indian Ocean coast. The standard hiking route from Koto Baru village took approximately 6–7 hours to reach the summit, passing through tropical forest, montane scrub, and barren volcanic terrain. The December 2023 tragedy, which killed 23 hikers, led to the closure of summit trails and the imposition of a 3 km exclusion zone that remains in effect during periods of elevated volcanic activity.\n\nBukittinggi, the nearest major tourist town (approximately 15 km east), is a popular base for exploring the West Sumatra highlands and offers comfortable accommodation, restaurants, and tour operators. When Marapi is at lower alert levels, some lower-slope trekking may be permitted, but visitors should always check current PVMBG alert status before planning any hike. The Ngarai Sianok canyon near Bukittinggi and the surrounding Minangkabau cultural landscape offer alternative attractions."
+    },
+    "nearby_volcanoes": {
+      "content": "Marapi stands as the dominant volcano of the Padang Highlands, with its nearest volcanic neighbor being Tandikat-Singgalang (2,879 m), a similar-height stratovolcano complex located approximately 15 km to the south. Further south along the Sumatran volcanic arc lies Sinabung (2,460 m), which made headlines with its dramatic reawakening in 2010 after 400 years of dormancy. The great volcanic arc of Sumatra includes Kerinci (3,805 m) — the tallest volcano in Sumatra — located approximately 300 km to the southeast. <a href=\"/volcanoes-in-indonesia\">Indonesia</a> as a whole hosts more than 100 active volcanoes, the most of any nation on Earth, with the most dangerous concentration on the island of Java, where <a href=\"/volcano/merapi\">Merapi</a> (2,910 m) — the volcano whose name is most often confused with Marapi — erupts with far more devastating effect."
+    },
+    "etymology": {
+      "content": "The name 'Marapi' is of Minangkabau origin. It is popularly interpreted as deriving from 'mara api' (bringing fire or advancing fire) in the Minangkabau language, though linguists debate this etymology. The prefix 'Gunung' means 'mountain' in Malay/Indonesian. The name should not be confused with 'Merapi' (Gunung Merapi) on Java, which derives from a different Javanese root meaning 'fire mountain' (from the Sanskrit 'meru' meaning sacred mountain and 'api' meaning fire). The similarity in names has caused persistent confusion in international media reports of eruptions."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Marapi Compared to Indonesia's Most Active Volcanoes",
+      "description": "How does Marapi's eruption frequency and style compare to other major Indonesian volcanoes?",
+      "headers": [
+        "Volcano",
+        "Island",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Marapi",
+          "Sumatra",
+          "2,885 m",
+          "Complex",
+          "2025",
+          "2",
+          "70"
+        ],
+        [
+          "Merapi",
+          "Java",
+          "2,910 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "112"
+        ],
+        [
+          "Semeru",
+          "Java",
+          "3,657 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "112"
+        ],
+        [
+          "Sinabung",
+          "Sumatra",
+          "2,460 m",
+          "Stratovolcano",
+          "2021",
+          "4",
+          "6"
+        ],
+        [
+          "Krakatau",
+          "Sunda Strait",
+          "155 m",
+          "Caldera",
+          "2025",
+          "6",
+          "60+"
+        ],
+        [
+          "Dukono",
+          "Halmahera",
+          "1,229 m",
+          "Complex",
+          "2025",
+          "3",
+          "40+"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1770,
+      "vei": 2,
+      "label": "First recorded eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1822,
+      "vei": 2,
+      "label": "Significant 19th-century event",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1871,
+      "vei": 2,
+      "label": "Cluster of 1870s eruptions",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1918,
+      "vei": 2,
+      "label": "Multiple eruptions in single year",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1950,
+      "vei": 2,
+      "label": "Start of 1950–1957 prolonged activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1975,
+      "vei": 2,
+      "label": "Start of 1975–1979 eruptive episode",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1987,
+      "vei": 2,
+      "label": "Start of 1987–1994 sustained eruption from Verbeek Crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2004,
+      "vei": 2,
+      "label": "21st century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2018,
+      "vei": 2,
+      "label": "Eruption from Verbeek Crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2023,
+      "vei": 2,
+      "label": "Deadly eruption — 23 hikers killed in December phreatic explosion",
+      "deaths": "23",
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Ongoing intermittent activity",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "18th",
+      "count": 1,
+      "note": "First recorded eruption 1770"
+    },
+    {
+      "century": "19th",
+      "count": 28,
+      "note": "Extremely prolific — more than 25 eruptions documented by Dutch colonial observers"
+    },
+    {
+      "century": "Early 20th (1900–1950)",
+      "count": 16,
+      "note": "Continued high frequency"
+    },
+    {
+      "century": "Late 20th (1950–2000)",
+      "count": 17,
+      "note": "Includes multi-year episodes 1950–57, 1975–79, 1987–94"
+    },
+    {
+      "century": "21st (2000–present)",
+      "count": 8,
+      "note": "Includes deadly 2023 eruption and ongoing 2023–2025 activity"
+    }
+  ],
+  "facts": [
+    "Marapi is the most active volcano on the island of Sumatra, with 70 recorded eruptions since 1770 — an average of one eruption every 3.6 years.",
+    "On December 3, 2023, a sudden phreatic explosion killed 23 hikers near the summit, making it Indonesia's deadliest volcanic event in years.",
+    "Marapi is frequently confused with Merapi (Mount Merapi) on Java; the two are completely different volcanoes approximately 1,200 km apart.",
+    "No lava flows have been observed outside Marapi's summit craters in its entire recorded history — all eruptions have been purely explosive.",
+    "The Verbeek Crater, one of Marapi's most active vents, is named after Rogier Verbeek, the Dutch geologist who also documented the 1883 Krakatau eruption.",
+    "Marapi's broad summit contains at least seven named craters within a 1.4 km-wide caldera, with volcanic activity migrating progressively westward over time.",
+    "The volcano rises approximately 2,000 m above the Bukittinggi Plain — roughly the same prominence as Mount Vesuvius above the Bay of Naples.",
+    "The Padang Highlands around Marapi are home to the Minangkabau, the world's largest matrilineal ethnic group, who consider the volcano part of their ancestral homeland.",
+    "Despite 70 eruptions, Marapi's maximum recorded VEI is only 2 — making it one of the most frequently active yet consistently low-intensity volcanoes in the world.",
+    "Volcanic soils on Marapi's slopes support some of Indonesia's finest Arabica coffee and cassia cinnamon production.",
+    "The December 2023 disaster led to the enforcement of a 3 km exclusion zone around the summit, with hiking trails closed during elevated alert levels."
+  ],
+  "faqs": [
+    {
+      "question": "Is Marapi the same as Merapi?",
+      "answer": "No. Gunung Marapi and Gunung Merapi are two completely different volcanoes located on different Indonesian islands approximately 1,200 km apart. Marapi is on Sumatra, in the Padang Highlands of West Sumatra province. Merapi is on Java, near the city of Yogyakarta. Merapi is considerably more dangerous, having produced devastating pyroclastic flows that have killed thousands throughout history. The similarity in names causes frequent confusion in international media. Marapi's eruptions are characteristically smaller (VEI 1–2), though the December 2023 disaster proved they can still be lethal."
+    },
+    {
+      "question": "Is Marapi still erupting in 2025?",
+      "answer": "Yes, Marapi has been in an intermittent eruptive state since December 2023, with continued ash emissions and explosions recorded through 2025. PVMBG (Indonesia's volcanological agency) maintains elevated alert levels and monitors the volcano continuously. Eruption columns periodically reach 1–3 km above the summit, and ashfall events have affected nearby communities including Bukittinggi. The ongoing activity is consistent with Marapi's long-term pattern of extended periods of low-to-moderate explosive behavior. Summit hiking trails remain closed during periods of heightened activity."
+    },
+    {
+      "question": "What happened in the December 2023 Marapi eruption?",
+      "answer": "On December 3, 2023, Marapi produced a sudden phreatic explosion that killed 23 hikers who were on or near the summit. The eruption generated a dense ash column approximately 3 km above the crater and sent a surge of hot volcanic debris down the upper slopes. The victims were caught with virtually no warning, as phreatic explosions can occur without significant precursory seismic activity. Search-and-rescue operations lasted several days. The disaster was Indonesia's deadliest volcanic incident in years and led to the closure of summit trails and imposition of a 3 km exclusion zone."
+    },
+    {
+      "question": "How often does Marapi erupt?",
+      "answer": "Marapi has produced 70 recorded eruptions since 1770, averaging approximately one eruption every 3.6 years. This makes it the most frequently erupting volcano on Sumatra and one of the most persistently active in all of Indonesia. However, individual eruptions are typically small, rated VEI 1–2 on the Volcanic Explosivity Index. Some periods feature clusters of eruptions separated by only weeks or months, while other periods see multi-year episodes of nearly continuous activity (such as 1987–1994 and 2023–2025). True quiescent intervals lasting more than a decade are rare in Marapi's record."
+    },
+    {
+      "question": "How tall is Marapi?",
+      "answer": "Gunung Marapi stands 2,885 m (9,465 ft) above sea level, making it the second-tallest volcano in Sumatra after Mount Kerinci (3,805 m). The volcano rises approximately 2,000 m above the surrounding Bukittinggi Plain, giving it significant prominence in the landscape. The summit is not a single peak but a broad, complex area containing multiple overlapping craters within the 1.4 km-wide Bancah caldera. Marapi is slightly shorter than its Javanese namesake Merapi (2,910 m) and considerably shorter than Sumatra's tallest peak, Kerinci."
+    },
+    {
+      "question": "Can you hike Marapi?",
+      "answer": "Hiking to Marapi's summit has been restricted since the deadly December 2023 eruption, which killed 23 hikers. A 3 km exclusion zone around the summit craters is enforced during periods of elevated volcanic activity. Before the disaster, the standard route from Koto Baru village took approximately 6–7 hours to reach the summit. When alert levels decrease, limited trekking on the lower slopes may be permitted. Visitors should always check PVMBG's current alert status before planning any hike. The nearby city of Bukittinggi offers alternative attractions and serves as a base for exploring the Padang Highlands."
+    },
+    {
+      "question": "What type of eruptions does Marapi produce?",
+      "answer": "Marapi produces predominantly phreatic and phreatomagmatic eruptions — explosive events driven by the interaction of groundwater or hydrothermal fluids with shallow magma or hot rock. These eruptions generate ash columns, volcanic bombs (ballistic projectiles), and minor pyroclastic avalanches confined to the upper slopes. No lava flows have been observed outside the summit craters in recorded history. The eruptions are typically rated VEI 1–2, making them small by global standards but potentially lethal at close range, as the December 2023 disaster demonstrated."
+    },
+    {
+      "question": "Why do people live near Marapi?",
+      "answer": "The Padang Highlands surrounding Marapi are home to hundreds of thousands of people who depend on the volcanic soils for agriculture. Volcanic soils are among the most fertile in the world, and Marapi's slopes and surrounding lowlands support rice cultivation, Arabica coffee plantations, cassia cinnamon farms, and other crops. The Minangkabau people have inhabited this region for centuries and consider the volcano part of their ancestral homeland. This trade-off between volcanic risk and agricultural fertility is common throughout Indonesia and much of the developing world."
+    }
+  ],
+  "people_also_search": [
+    "marapi eruption 2023",
+    "marapi vs merapi difference",
+    "gunung marapi sumatra",
+    "marapi hikers killed",
+    "sumatra volcano eruption",
+    "marapi current status",
+    "bukittinggi volcano",
+    "indonesia volcano eruption 2025"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Marapi",
+    "alternateName": [
+      "Gunung Marapi",
+      "Mount Marapi"
+    ],
+    "description": "Sumatra's most active complex stratovolcano, 2,885 m, with 70+ eruptions since 1770",
+    "geo": {
+      "latitude": -0.38,
+      "longitude": 100.474,
+      "elevation": 2885
+    },
+    "containedInPlace": {
+      "name": "West Sumatra",
+      "country": "Indonesia"
+    },
+    "url": "https://volcanoatlas.com/volcano/marapi"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=261140",
+      "text": "Smithsonian GVP: Marapi",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://vsi.esdm.go.id/",
+      "text": "PVMBG — Indonesia Center for Volcanology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Sumatra",
+      "text": "Britannica: Sumatra",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "merapi",
+      "krakatau",
+      "tambora",
+      "sinabung",
+      "kerinci"
+    ],
+    "country_pages": [
+      "indonesia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes",
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "merapi",
+    "sinabung",
+    "krakatau",
+    "kerinci",
+    "tambora"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "label": "Marapi",
+      "url": "/volcano/marapi"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/marapi"
+}

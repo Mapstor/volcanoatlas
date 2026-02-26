@@ -1,0 +1,504 @@
+{
+  "slug": "taranaki",
+  "volcano_id": 241030,
+  "title": "Taranaki (Mount Egmont)",
+  "meta_title": "Taranaki — Eruption History, Hazards & Facts | VolcanoAtlas",
+  "meta_description": "Taranaki (Mount Egmont) is a 2,518 m active stratovolcano in New Zealand. Explore its 43 eruptions, Māori significance, and hazard status.",
+  "quick_answer": {
+    "what": "Taranaki (formerly Mount Egmont) is an active stratovolcano rising to 2,518 m (8,261 ft) on the west coast of New Zealand's North Island, renowned for its near-perfect conical symmetry.",
+    "status": "Active — last confirmed eruption around 1800 CE. The volcano is considered overdue for eruption based on its Holocene record, with a 50% probability of an eruption within the next 50 years according to GNS Science.",
+    "famous_for": "Its strikingly symmetrical cone (often compared to Japan's Mount Fuji), its Māori cultural significance as an ancestor mountain, and its long record of catastrophic debris avalanches that have reshaped the surrounding landscape.",
+    "danger_level": "Significant — approximately 86,000 people live in the Taranaki region within the potential hazard zone, and the volcano's ring plain of lahar and debris-avalanche deposits extends to the coast in every direction."
+  },
+  "hero": {
+    "name": "Taranaki",
+    "local_name": "Taranaki / Mount Egmont",
+    "subtitle": "New Zealand's Most Symmetrical Volcano — And Its Most Overdue",
+    "country": "New Zealand",
+    "region": "Western North Island",
+    "type": "Stratovolcano",
+    "elevation_m": 2518,
+    "elevation_ft": 8261,
+    "status": "Active",
+    "last_eruption": "~1800 CE",
+    "coordinates": {
+      "lat": -39.3,
+      "lon": 174.07
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00337.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,518 m (8,261 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "~1800 CE",
+    "first_known_eruption": "~7650 BCE (geological record)",
+    "total_recorded_eruptions": 43,
+    "vei_max": "5 (~1700 BCE), 4 (1655 CE)",
+    "country": "New Zealand",
+    "region": "Taranaki, western North Island",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Australian Plate / Continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "39.30°S, 174.07°E",
+    "nearest_city": "New Plymouth — approximately 30 km north-northeast",
+    "population_at_risk": "~86,000 in the Taranaki region",
+    "summit_crater": "Small summit crater, frequently snow-covered",
+    "satellite_vents": "Fanthams Peak (1,966 m) on southern flank; 4 lava domes on lower flanks",
+    "protected_status": "Egmont National Park (est. 1900, one of NZ's oldest national parks)",
+    "monitoring_agency": "GNS Science (Te Pū Ao)",
+    "legal_personhood": "Taranaki Maunga granted legal personhood in 2024 under Te Anga Pūtakerongo framework",
+    "smithsonian_id": "241030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=241030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Taranaki (also known as Mount Egmont) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 2,518 m (8,261 ft) on the west coast of <a href=\"/volcanoes-in-new-zealand\">New Zealand's</a> North Island, approximately 30 km south-southwest of the city of New Plymouth. Renowned for its near-perfect conical symmetry — frequently compared to Japan's <a href=\"/volcano/fujisan\">Mount Fuji</a> — Taranaki is one of the most visually striking volcanoes in the southern hemisphere and one of the most hazardous in New Zealand.\n\nWith 43 recorded eruptions spanning nearly 10,000 years and a maximum <a href=\"/volcanic-explosivity-index\">VEI</a> of 5, Taranaki has a formidable eruptive history that includes explosive summit eruptions, lava dome growth, pyroclastic flows, and at least five major edifice collapses that sent colossal debris avalanches across the surrounding ring plain to the sea. The volcano last erupted around 1800 CE, and GNS Science (New Zealand's geological survey) estimates a 50% probability of another eruption within the next 50 years — making Taranaki one of New Zealand's most concerning volcanic hazards.\n\nTaranaki is the youngest and southeasternmost volcano in a chain of three that includes the eroded Pleistocene-age Kaitoke Range to the northwest. Fanthams Peak, a parasitic cone reaching 1,966 m (6,450 ft), sits prominently on the southern flank, while four smaller lava domes dot the lower northern and southern flanks. The volcano stands at the center of Egmont National Park, established in 1900, one of New Zealand's oldest protected areas. In 2024, Taranaki Maunga was granted legal personhood under the Te Anga Pūtakerongo settlement framework, recognizing its profound spiritual significance to the Māori iwi (tribes) of the region."
+    },
+    "geology_and_formation": {
+      "content": "Taranaki is situated at the western margin of the Taupo Volcanic Zone's influence, though it sits distinctly apart from the main volcanic arc of the central North Island. The volcano's magmatism is generated by the subduction of the Pacific Plate beneath the Australian Plate, which occurs along the Hikurangi Trough to the east. However, Taranaki's position — over 100 km west of the main volcanic front — suggests a more complex origin, possibly involving back-arc processes or the influence of an ancient subducted plate fragment beneath the Taranaki region.\n\nThe current Taranaki edifice began building approximately 130,000 years ago, constructing a large andesitic stratovolcano on a basement of Tertiary sedimentary rocks. The volcano's strikingly symmetrical profile reflects its relatively youthful cone, which has been rebuilt repeatedly following catastrophic collapses. Multiple episodes of edifice failure over the past 50,000 years have generated massive debris avalanches — fast-moving landslides of volcanic rock that travel tens of kilometers from the summit across the surrounding ring plain, reaching the coast and extending into the Tasman Sea.\n\nThe ring plain surrounding Taranaki is constructed almost entirely of these volcanic mass-flow deposits — debris avalanches, lahars (volcanic mudflows), and pyroclastic deposits. Geological mapping has identified at least five major sector collapse events, each involving volumes of one to several cubic kilometers. These deposits extend 30–40 km from the summit in all directions. Fanthams Peak, the large parasitic cone on the southern flank, is itself a significant volcanic feature, having erupted independently at times (including around 1130 BCE based on geological evidence). The volcano's andesitic to basaltic-andesitic magmas are typical of subduction-related volcanism, producing lavas sufficiently viscous for dome-building and sufficiently gas-rich for explosive eruptions."
+    },
+    "eruption_history_overview": {
+      "content": "Taranaki's geological record documents 43 eruptions spanning from approximately 7650 BCE to around 1800 CE. The Holocene eruptive history reveals a highly active volcano with an average recurrence interval of roughly 90 years between eruptions during the last millennium, and more closely spaced activity during certain periods. Activity styles have ranged from effusive lava flows and dome extrusion to explosive Plinian events, with the largest known eruption — around 1700 BCE — reaching VEI 5.\n\nThe pre-historical eruptive record (before ~1000 CE) is reconstructed from tephra layers, pyroclastic deposits, and lahar sequences preserved in the ring plain and surrounding soils. These indicate persistent explosive activity through the Holocene, with notable clusters of eruptions around 7000–7650 BCE, 2400–3250 BCE, and 1000–1700 BCE. The historical-period eruptions (roughly the last 1,000 years, documented through Māori oral traditions and geological evidence) include at least 14 events between ~970 CE and ~1800 CE, with the most significant being the VEI 4 eruption of ~1655 CE.\n\nCritically, the current repose period since ~1800 CE (approximately 225 years) is the longest interval between eruptions in at least the last millennium, during which eruptions occurred every 30–100 years. This extended quiet period, rather than suggesting the volcano has become dormant, is viewed by volcanologists as increasing the probability that the next eruption is approaching."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~1700 BCE Eruption — Taranaki's Largest Known Event (VEI 5)",
+          "content": "The largest eruption in Taranaki's geological record occurred approximately 3,700 years ago, around 1700 BCE, reaching an estimated VEI 5 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a>. This Plinian eruption generated a massive eruption column and extensive pyroclastic deposits across the ring plain. A VEI 5 event at Taranaki would have produced widespread tephra fall across the Taranaki region and beyond, with pyroclastic flows extending many kilometers from the summit.\n\nFor context, a VEI 5 eruption is comparable in scale to the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a> or the 79 AD eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a>. An eruption of this magnitude at Taranaki today would have catastrophic consequences for the approximately 86,000 people living in the surrounding region. Fortunately, geological evidence suggests that VEI 5 events are rare at Taranaki — most eruptions in the last several thousand years have been considerably smaller."
+        },
+        {
+          "title": "The ~1655 CE Eruption — The Last Major Explosive Event (VEI 4)",
+          "content": "The most significant eruption in Taranaki's recent geological history occurred around 1655 CE, reaching VEI 4. This explosive event produced substantial pyroclastic deposits, ashfall, and likely pyroclastic flows and lahars that affected the ring plain. The eruption occurred approximately 100–200 years before European settlement of the Taranaki region and is within the period covered by Māori oral traditions, though specific accounts of this event are not well documented in the written record.\n\nA VEI 4 eruption — comparable in intensity to the 2021 eruption of <a href=\"/volcano/soufriere-st-vincent\">Soufrière St. Vincent</a> or the 2010 eruption of Eyjafjallajökull — would today produce hazardous pyroclastic flows within several kilometers of the summit, widespread ashfall affecting agricultural land across the region, and significant lahars channeled down the volcano's river valleys toward populated areas."
+        },
+        {
+          "title": "The ~1755 and ~1800 CE Eruptions — The Most Recent Activity",
+          "content": "Taranaki's two most recent eruptions occurred around 1755 and 1800 CE, both relatively minor events with unknown VEI values based on geological evidence. These eruptions are inferred from tephra deposits and are consistent with small to moderate explosive activity from the summit, possibly involving dome extrusion and Vulcanian explosions. The ~1800 CE event represents the last confirmed volcanic activity at Taranaki, placing the current repose period at approximately 225 years.\n\nEuropean settlement of the Taranaki region began in earnest in the 1840s, meaning that no Western observers have ever witnessed an eruption of Taranaki. This has contributed to a potentially dangerous complacency in public perception — many residents view the mountain primarily as a scenic landmark and recreational destination rather than as an active volcanic threat."
+        },
+        {
+          "title": "Major Edifice Collapses — Taranaki's Hidden Catastrophes",
+          "content": "Perhaps the most devastating events in Taranaki's history are not its eruptions but its edifice collapses. At least five major sector collapse events have occurred over the past 50,000 years, each involving the catastrophic failure of a large portion of the volcanic cone. These collapses generated debris avalanches — fast-moving, enormously voluminous landslides of fragmented rock — that traveled 30–40 km across the ring plain, reaching the coast and extending into the Tasman Sea.\n\nThe most notable collapse event, approximately 7,500 years ago, involved an estimated 7.5 km³ of material and left a distinctive hummocky terrain across the northwestern ring plain. These events reshape the volcano's profile, temporarily lowering the summit, and the current symmetrical cone represents regrowth since the last major collapse. The debris-avalanche deposits underlying the ring plain mean that virtually every community in the Taranaki region is built on material emplaced by past volcanic catastrophes."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Taranaki is currently in its longest known repose period in at least 1,000 years, with no confirmed eruption since approximately 1800 CE. Despite this quiet, the volcano is classified as active by GNS Science and the Smithsonian Global Volcanism Program. The GNS Science assessment assigns a 50% probability of an eruption within the next 50 years, based on the Holocene eruption frequency and the length of the current repose.\n\nThe volcano is monitored by GNS Science (Te Pū Ao) through a network that includes seismometers deployed on and around the mountain, continuous GPS stations measuring ground deformation, and periodic gas and geochemical surveys. The current Volcanic Alert Level is 0 (no volcanic unrest), with Aviation Colour Code Green. Low-level seismic activity occurs intermittently, consisting primarily of tectonic earthquakes in the vicinity rather than volcanic tremor.\n\nFumarolic activity on the summit is weak to absent, and there are no significant surface thermal anomalies. However, volcanologists caution that subduction-zone stratovolcanoes like Taranaki can transition rapidly from quiescence to eruption. The 2008 eruption of Chaitén in Chile, which began with little warning after 9,400 years of dormancy, is frequently cited as a cautionary analogue. Eruption precursors at Taranaki would likely include increased seismicity, ground deformation (inflation), and changes in gas emissions — all of which the current monitoring network is designed to detect."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Taranaki poses a multi-faceted volcanic hazard to the approximately 86,000 people living in the surrounding region, including the city of New Plymouth (population ~58,000), located just 30 km from the summit. The primary hazards include pyroclastic flows and surges (hot, fast-moving currents of gas and rock that could extend 10+ km from the summit during larger eruptions), lahars (volcanic mudflows that would be channeled down the many river valleys radiating from the cone, potentially reaching populated areas within hours), ashfall (which could blanket agricultural land across the Taranaki region and disrupt transportation and infrastructure), and debris avalanches (catastrophic edifice collapses that have historically traveled 30–40 km to the coast).\n\nThe Taranaki Civil Defence Emergency Management Group maintains volcanic contingency plans based on hazard maps produced by GNS Science. These maps delineate zones of different risk levels for various hazard types. The ring plain's radial drainage pattern means that lahars could travel down any of the rivers emanating from the volcano, potentially affecting communities in multiple directions simultaneously.\n\nA key concern is the dairy farming industry that dominates the ring plain — Taranaki is one of New Zealand's most productive dairy regions. A significant ashfall event could devastate pastureland, contaminate water supplies, and cause widespread livestock losses, with economic repercussions extending far beyond the immediate hazard zone. The 1995–1996 eruptions of <a href=\"/volcano/ruapehu\">Ruapehu</a> in the central North Island provided a smaller-scale preview of volcanic impacts on New Zealand's pastoral economy."
+    },
+    "geography_and_physical_description": {
+      "content": "Taranaki's near-perfect conical symmetry is its most celebrated physical feature. The volcano rises as a solitary peak from a broad, gently sloping ring plain that extends 30–40 km to the coast in every direction. This ring plain — built from millennia of debris avalanches, lahars, and pyroclastic deposits — gives the mountain an isolated, dramatic prominence, with no competing peaks or ranges to diminish its visual impact. From the air, the circular boundary of Egmont National Park creates a striking contrast between the protected native forest covering the mountain's lower slopes and the intensively farmed dairy pastures of the surrounding ring plain.\n\nThe main summit cone is steep-sided and frequently snow-covered above approximately 2,000 m in winter. Fanthams Peak (1,966 m / 6,450 ft), a substantial parasitic cone on the southern flank, creates a distinctive double-peaked silhouette when viewed from the south. Four smaller lava domes on the lower northern and southern flanks represent past eruptions from satellite vents. Numerous rivers radiate outward from the summit in a remarkably symmetrical drainage pattern, cutting deep gorges through the volcanic deposits of the ring plain.\n\nVegetation on the mountain follows a clear altitudinal zonation: lowland podocarp-broadleaf forest gives way to montane goblin forest (stunted, moss-draped trees), then subalpine shrublands, tussock grasslands, and finally the barren volcanic rock and snow of the upper cone. This intact vegetation sequence, protected within Egmont National Park, is one of the finest examples of altitudinal zonation in New Zealand."
+    },
+    "climate_and_global_impact": {
+      "content": "None of Taranaki's known eruptions have been large enough to produce measurable global climate effects. Even the VEI 5 eruption of approximately 1700 BCE, while devastating regionally, was likely too small to inject sufficient sulfate aerosols into the stratosphere to cause detectable global cooling. The volcano's eruptions have been overwhelmingly regional to local in their atmospheric impact.\n\nHowever, Taranaki exerts a significant influence on local climate and weather patterns. The isolated, 2,518-m cone acts as a major orographic barrier to the prevailing westerly winds coming off the Tasman Sea, producing enhanced rainfall on the western and southern flanks (up to 8,000 mm per year at upper elevations) and a relative rain shadow to the east. This orographic effect is responsible for the lush native forest of Egmont National Park and the productive dairy pastures of the wetter parts of the ring plain."
+    },
+    "cultural_significance": {
+      "content": "Taranaki holds immense cultural and spiritual significance for the Māori iwi (tribes) of the region, particularly Ngāti Ruanui, Ngāruahine, Taranaki, and Te Ātiawa. In Māori cosmology, Taranaki is an ancestor mountain (tupuna maunga) — a living entity with its own whakapapa (genealogy) and mana (spiritual authority). The mountain's Māori name, Taranaki, predates and takes precedence over the colonial name 'Egmont' bestowed by Captain James Cook in 1770 after the Earl of Egmont.\n\nOne of the most celebrated Māori traditions tells of Taranaki's migration from the central North Island. According to this narrative, Taranaki once stood among the volcanoes of the Taupo Volcanic Zone but was forced to flee westward after a conflict with <a href=\"/volcano/tongariro\">Tongariro</a> over the affections of the beautiful Pihanga, a smaller mountain. Taranaki's journey gouged out the Whanganui River valley, and the mountain came to rest at its present location on the coast, where it remains, cloaked in cloud, mourning its exile.\n\nIn a landmark recognition of these cultural connections, Taranaki Maunga was granted legal personhood in 2024 through the Te Anga Pūtakerongo settlement between the Crown and eight Taranaki iwi. This makes Taranaki one of only a few natural features in the world to be recognized as a legal entity with rights, alongside the Whanganui River and Te Urewera forest in New Zealand. The settlement also transferred ownership of Egmont National Park from the Crown to the mountain itself, to be managed jointly by iwi and the government.\n\nThe mountain has also served as a powerful symbol in New Zealand art and literature. Its distinctive silhouette appears in countless paintings, photographs, and commercial logos, and it features on the Taranaki regional coat of arms."
+    },
+    "visiting_and_tourism": {
+      "content": "Taranaki is one of New Zealand's premier mountaineering and hiking destinations, attracting visitors year-round. Egmont National Park, which encircles the volcano, offers over 300 km of walking tracks ranging from easy rainforest loops to challenging alpine summit climbs. The Pouakai Crossing, a day hike that passes the famous Pouakai Tarns (reflecting pools that mirror the mountain), has become one of New Zealand's most photographed walks.\n\nThe summit climb is a serious mountaineering undertaking, typically requiring 8–10 hours return and appropriate alpine experience and equipment. In winter, the upper slopes are snow- and ice-covered, and the mountain has claimed numerous lives — it is statistically one of the most dangerous mountains in New Zealand relative to the number of people who attempt it. The North Egmont Visitor Centre provides information, weather updates, and track conditions. Three mountain huts (Tahurangi Lodge, Syme Hut, and Fanthams Peak Hut) offer shelter for overnight trips.\n\nThe Taranaki region is accessible via State Highway 3 from Hamilton or Whanganui, or by air via New Plymouth Airport. The mountain is visible from much of the western North Island on clear days, though Taranaki is notorious for its rapidly changing weather, and the summit is cloud-free only about 30% of the time."
+    },
+    "nearby_volcanoes": {
+      "content": "Taranaki stands in relative volcanic isolation on the western North Island, separated from New Zealand's main volcanic belt by over 100 km. The nearest active volcanic center is <a href=\"/volcano/ruapehu\">Mount Ruapehu</a> (2,797 m), the highest volcano on the North Island, located approximately 130 km to the east in the Taupo Volcanic Zone. Also in the central North Island are <a href=\"/volcano/tongariro\">Tongariro</a> and Ngauruhoe, which together form the Tongariro volcanic complex. To the north, the Taupo Volcanic Zone includes the massive Taupo caldera — a supervolcano responsible for the most recent VEI 8 eruption on Earth (~26,500 years ago) and the powerful Hatepe eruption of 232 CE (VEI 7). Whakaari/White Island, an active marine volcano in the Bay of Plenty, completes the list of New Zealand's most prominent volcanic threats."
+    },
+    "etymology": {
+      "content": "The name Taranaki is of Māori origin and is the mountain's original and culturally authoritative name. Its precise etymology is debated among scholars, with proposed meanings including 'gliding peak' or 'barren peak.' The colonial name 'Mount Egmont' was bestowed by Captain James Cook in January 1770, who named it after John Perceval, 2nd Earl of Egmont, then First Lord of the Admiralty. Both names have official status in New Zealand, though 'Taranaki' is increasingly preferred in both official and common usage, and the 2024 settlement formally prioritized the Māori name."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Taranaki Compared to Other New Zealand Volcanoes",
+      "description": "How does Taranaki compare to New Zealand's other major volcanic threats?",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Taranaki",
+          "2,518 m",
+          "Stratovolcano",
+          "~1800",
+          "5",
+          "43",
+          "~86,000"
+        ],
+        [
+          "Ruapehu",
+          "2,797 m",
+          "Stratovolcano",
+          "2007",
+          "4",
+          "50+",
+          "~5,000 (ski fields)"
+        ],
+        [
+          "Tongariro",
+          "1,978 m",
+          "Stratovolcano",
+          "2012",
+          "2",
+          "16",
+          "~2,000"
+        ],
+        [
+          "Taupo",
+          "760 m",
+          "Caldera",
+          "232 CE",
+          "7 (8 prehistoric)",
+          "28",
+          "~36,000"
+        ],
+        [
+          "Whakaari/White Island",
+          "321 m",
+          "Stratovolcano",
+          "2019",
+          "3",
+          "35+",
+          "Tourists (21 killed 2019)"
+        ]
+      ]
+    },
+    {
+      "title": "Symmetrical Stratovolcanoes Compared Worldwide",
+      "description": "Taranaki is often compared to Mount Fuji for its near-perfect conical shape — how do they compare?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Population Nearby"
+      ],
+      "rows": [
+        [
+          "Taranaki",
+          "New Zealand",
+          "2,518 m",
+          "~1800",
+          "5",
+          "43",
+          "~86,000"
+        ],
+        [
+          "Fuji",
+          "Japan",
+          "3,776 m",
+          "1707",
+          "5",
+          "17",
+          "~700,000"
+        ],
+        [
+          "Mayon",
+          "Philippines",
+          "2,462 m",
+          "2024",
+          "4",
+          "50+",
+          "~1 million"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "2023",
+          "4",
+          "48",
+          "~300,000"
+        ],
+        [
+          "Osorno",
+          "Chile",
+          "2,652 m",
+          "1869",
+          "2",
+          "11",
+          "~40,000"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7650,
+      "vei": null,
+      "label": "Earliest known eruption (geological record)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1700,
+      "vei": 5,
+      "label": "Taranaki's largest known eruption — Plinian event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1130,
+      "vei": null,
+      "label": "Eruption from Fanthams Peak parasitic cone",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 150,
+      "vei": 3,
+      "label": "Significant explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1655,
+      "vei": 4,
+      "label": "Last major explosive event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1755,
+      "vei": null,
+      "label": "Minor eruption — one of the last two confirmed events",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1800,
+      "vei": null,
+      "label": "Most recent confirmed eruption — onset of current 225-year repose",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "2nd",
+      "count": 2
+    },
+    {
+      "century": "4th",
+      "count": 1
+    },
+    {
+      "century": "6th",
+      "count": 2
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 2
+    },
+    {
+      "century": "15th",
+      "count": 2
+    },
+    {
+      "century": "16th",
+      "count": 4
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 1,
+      "note": "Uncertain eruption (~1854)"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 3,
+      "count": 1
+    },
+    {
+      "vei": 4,
+      "count": 1
+    },
+    {
+      "vei": 5,
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Taranaki has not erupted since approximately 1800 CE — a 225-year silence that represents its longest repose period in at least 1,000 years.",
+    "GNS Science assigns a 50% probability of Taranaki erupting within the next 50 years, making it one of New Zealand's most concerning long-term volcanic hazards.",
+    "At least five catastrophic edifice collapses in the past 50,000 years have sent debris avalanches traveling 30–40 km from the summit to the coast and into the Tasman Sea.",
+    "Taranaki Maunga was granted legal personhood in 2024 under the Te Anga Pūtakerongo Treaty settlement — one of only a few natural features in the world recognized as a legal entity.",
+    "No European has ever witnessed an eruption of Taranaki — European settlement of the region began in the 1840s, after the volcano's last known eruption around 1800.",
+    "Taranaki's nearly perfect conical symmetry is so striking that it doubled for Mount Fuji in the 2003 film 'The Last Samurai.'",
+    "The volcano's ring plain — built from debris avalanches, lahars, and pyroclastic deposits — extends 30–40 km in every direction, and virtually every community in the region sits on material from past volcanic catastrophes.",
+    "Fanthams Peak, the parasitic cone on Taranaki's southern flank, reaches 1,966 m (6,450 ft) — tall enough to be a significant mountain in its own right.",
+    "In Māori tradition, Taranaki migrated to the west coast from the central North Island after losing a battle with Tongariro over the beautiful mountain Pihanga, carving the Whanganui River valley during its journey.",
+    "Egmont National Park, encircling Taranaki, was established in 1900 as one of New Zealand's first national parks — its circular boundary creates a dramatic aerial contrast between protected forest and surrounding dairy farmland.",
+    "Taranaki is statistically one of New Zealand's most dangerous mountains for climbers, with its steep slopes, rapid weather changes, and winter ice claiming multiple lives.",
+    "The volcano sits over 100 km west of New Zealand's main volcanic arc, an unusual position that may relate to back-arc tectonic processes or a subducted plate fragment."
+  ],
+  "faqs": [
+    {
+      "question": "Is Taranaki (Mount Egmont) still active?",
+      "answer": "Yes, Taranaki is classified as an active volcano by both GNS Science and the Smithsonian Global Volcanism Program. Although it has not erupted since approximately 1800 CE — a 225-year repose — its geological record shows 43 eruptions over the past 10,000 years, with an average recurrence interval of roughly 90 years during the last millennium. GNS Science estimates a 50% probability of eruption within the next 50 years. The current quiet period is the longest in at least 1,000 years, which scientists interpret as increasing rather than decreasing the probability of a future eruption."
+    },
+    {
+      "question": "When did Taranaki last erupt?",
+      "answer": "Taranaki's most recent confirmed eruption occurred around 1800 CE, based on geological evidence of tephra deposits. There is also an uncertain eruption reported around 1854. No European observer has ever witnessed a confirmed eruption of Taranaki, as European settlement of the region began in the 1840s. This means the volcano has been quiet throughout the entire recorded period of Western presence in the Taranaki region — a period of apparent dormancy that contrasts sharply with its much more active Holocene record."
+    },
+    {
+      "question": "Could Taranaki erupt again?",
+      "answer": "Yes, volcanologists consider a future eruption of Taranaki not only possible but probable. GNS Science assigns a 50% probability of eruption within the next 50 years, based on the volcano's Holocene eruption frequency and the length of the current 225-year repose — the longest gap between eruptions in at least 1,000 years. A future eruption could range from a small dome-building event to a large VEI 4–5 explosion. The monitoring network is designed to detect precursory signals (earthquakes, ground deformation, gas changes), potentially providing days to weeks of warning."
+    },
+    {
+      "question": "How tall is Taranaki?",
+      "answer": "Taranaki rises to 2,518 m (8,261 ft) above sea level, making it the second-highest peak on New Zealand's North Island after Mount Ruapehu (2,797 m). The volcano's height has changed over time due to eruptions and collapses — major sector collapses have repeatedly lowered the summit by hundreds of meters before the cone rebuilt. Fanthams Peak, the large parasitic cone on the southern flank, reaches 1,966 m (6,450 ft). The isolated position of Taranaki on the western coastal plain gives it exceptional visual prominence despite being shorter than Ruapehu."
+    },
+    {
+      "question": "Why is Taranaki considered dangerous?",
+      "answer": "Taranaki poses significant hazards for several reasons: approximately 86,000 people live within its potential hazard zone, including the city of New Plymouth (30 km away); the volcano has a proven history of VEI 4–5 explosive eruptions and catastrophic edifice collapses; its numerous radial river valleys can channel lahars (volcanic mudflows) toward populated areas; and the rich dairy farmland on its ring plain supports a major agricultural economy vulnerable to ashfall. Additionally, because no modern eruption has been observed, public awareness of the volcanic risk is lower than it should be."
+    },
+    {
+      "question": "What is the significance of Taranaki to Māori?",
+      "answer": "Taranaki is a tupuna maunga (ancestor mountain) of immense spiritual significance to the Māori iwi of the region. In Māori cosmology, the mountain is a living entity with its own whakapapa (genealogy) and mana. A celebrated tradition tells of Taranaki migrating from the central North Island after a conflict with Tongariro over the mountain Pihanga, carving the Whanganui River during its journey. In 2024, Taranaki Maunga was granted legal personhood through the Te Anga Pūtakerongo Treaty settlement, recognizing the mountain as a legal entity with rights."
+    },
+    {
+      "question": "Can you climb Taranaki?",
+      "answer": "Yes, but the summit climb is a serious mountaineering endeavor requiring 8–10 hours return, good fitness, and appropriate alpine experience and gear. In winter, crampons and ice axes are essential due to snow and ice on the upper slopes. The mountain is statistically one of New Zealand's most dangerous for climbers, with rapid weather changes and steep terrain contributing to fatalities. Egmont National Park also offers extensive lower-altitude walking tracks, including the popular Pouakai Crossing. The North Egmont Visitor Centre provides conditions updates. Summit access may be restricted during volcanic unrest."
+    },
+    {
+      "question": "Why is Taranaki compared to Mount Fuji?",
+      "answer": "Taranaki is frequently compared to Mount Fuji because both volcanoes exhibit remarkably symmetrical conical profiles — a shape characteristic of stratovolcanoes that have built steep, even slopes through alternating eruptions of lava and pyroclastic material. The resemblance was famously utilized in the 2003 film 'The Last Samurai,' which used Taranaki as a stand-in for Fuji. However, Fuji is significantly taller (3,776 m vs. 2,518 m) and has far more people living nearby (~700,000 vs. ~86,000). Both volcanoes are considered overdue for eruption based on their historical activity."
+    }
+  ],
+  "people_also_search": [
+    "taranaki volcano eruption",
+    "is mount taranaki going to erupt",
+    "mount egmont new zealand",
+    "taranaki vs mount fuji",
+    "taranaki national park hiking",
+    "new zealand active volcanoes",
+    "taranaki eruption history",
+    "mount taranaki height"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Taranaki",
+    "alternateName": [
+      "Mount Egmont",
+      "Mount Taranaki",
+      "Taranaki Maunga"
+    ],
+    "description": "Active stratovolcano on New Zealand's North Island, known for its near-perfect symmetry, Māori cultural significance, and 43 recorded eruptions over 10,000 years",
+    "geo": {
+      "latitude": -39.3,
+      "longitude": 174.07,
+      "elevation": 2518
+    },
+    "containedInPlace": {
+      "name": "Taranaki Region",
+      "country": "New Zealand"
+    },
+    "url": "https://volcanoatlas.com/volcano/taranaki"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=241030",
+      "text": "Smithsonian GVP: Taranaki",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.gns.cri.nz/",
+      "text": "GNS Science (Te Pū Ao) — New Zealand Geological Survey",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/",
+      "text": "DOC: Egmont National Park",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Taranaki",
+      "text": "Britannica: Mount Taranaki",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.civildefence.govt.nz/",
+      "text": "National Emergency Management Agency (NZ)",
+      "type": "emergency_management"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "ruapehu",
+      "tongariro",
+      "ngauruhoe",
+      "taupo",
+      "white-island",
+      "fuji",
+      "st-helens",
+      "vesuvius",
+      "soufriere-st-vincent"
+    ],
+    "country_pages": [
+      "new-zealand"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "ruapehu",
+    "tongariro",
+    "taupo",
+    "fuji",
+    "mayon"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in New Zealand",
+      "url": "/volcanoes-in-new-zealand"
+    },
+    {
+      "label": "Taranaki",
+      "url": "/volcano/taranaki"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/taranaki"
+}

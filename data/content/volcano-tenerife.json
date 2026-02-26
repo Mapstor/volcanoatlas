@@ -1,0 +1,496 @@
+{
+  "slug": "tenerife",
+  "volcano_id": 383030,
+  "title": "Tenerife (Teide)",
+  "meta_title": "Tenerife / Mount Teide — Eruption History, Height, Facts & Tourism | VolcanoAtlas",
+  "meta_description": "Mount Teide on Tenerife is a 3,715 m active stratovolcano — the highest peak in the Atlantic Ocean and Spain. Explore its eruption history, UNESCO status, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount Teide (Pico del Teide) is an active stratovolcano on Tenerife, Canary Islands, Spain, rising 3,715 m (12,188 ft) above sea level — the highest peak in the Atlantic Ocean, the highest point in Spain, and Earth's third-tallest volcanic structure measured from the ocean floor (~7,500 m).",
+    "status": "Active — last erupted 18 November 1909 (El Chinyero vent on the Santiago rift). Seismic unrest and elevated gas emissions recorded in 2004–2005 and periodically since.",
+    "famous_for": "Being the tallest peak in the Atlantic Ocean, a UNESCO World Heritage Site (2007), a Decade Volcano, and one of the most visited national parks in the world with over 4 million visitors annually.",
+    "danger_level": "Designated a Decade Volcano due to proximity to several large towns including Garachico, Icod de los Vinos, and Puerto de la Cruz. The 1706 eruption destroyed the town and port of Garachico."
+  },
+  "hero": {
+    "name": "Tenerife (Teide)",
+    "local_name": "Pico del Teide / El Teide",
+    "subtitle": "The Tallest Peak in the Atlantic Ocean",
+    "country": "Spain",
+    "region": "Canary Islands, Tenerife",
+    "type": "Stratovolcano within caldera complex",
+    "elevation_m": 3715,
+    "elevation_ft": 12188,
+    "status": "Active",
+    "last_eruption": "1909 CE",
+    "coordinates": {
+      "lat": 28.271,
+      "lon": -16.641
+    },
+    "photo_url": "",
+    "photo_credit": "Alexander Belousov / CC BY-NC 4.0"
+  },
+  "key_facts_box": {
+    "elevation": "3,715 m (12,188 ft) above sea level; ~7,500 m from ocean floor",
+    "type": "Stratovolcano within caldera complex",
+    "status": "Active",
+    "last_eruption": "18 November 1909 (El Chinyero vent, Santiago rift)",
+    "first_known_eruption": "~1150 BCE (Holocene record)",
+    "total_recorded_eruptions": 15,
+    "vei_max": "5 (Las Cañadas caldera-forming eruptions, Pleistocene)",
+    "country": "Spain",
+    "region": "Canary Islands, Tenerife",
+    "tectonic_setting": "Oceanic intraplate / hotspot — Canary volcanic province",
+    "rock_types": [
+      "Phonolite",
+      "Trachybasalt",
+      "Basanite",
+      "Trachyte"
+    ],
+    "coordinates": "28.271°N, 16.641°W",
+    "nearest_city": "Puerto de la Cruz — ~15 km north; Santa Cruz de Tenerife — ~35 km NE",
+    "population_at_risk": "~900,000 (Tenerife island); closest: Garachico, Icod de los Vinos, Puerto de la Cruz",
+    "protected_status": "Teide National Park (est. 1954); UNESCO World Heritage Site (2007)",
+    "monitoring_agency": "Instituto Geográfico Nacional (IGN); INVOLCAN",
+    "smithsonian_id": "383030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=383030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Teide (Spanish: Pico del Teide) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> on the island of Tenerife, <a href=\"/volcanoes-in-spain\">Canary Islands, Spain</a>, rising to 3,715 m (12,188 ft) above sea level — the highest point in Spain, the tallest peak in the Atlantic Ocean, and Earth's third-tallest volcanic structure when measured from the ocean floor at approximately 7,500 m (24,600 ft). UNESCO and NASA concur in this ranking. In the Smithsonian Global Volcanism Program database, the volcano is listed as “Tenerife” (GVP ID 383030), encompassing the broader volcanic complex of which Teide is the dominant summit.\n\nTeide was constructed within the 10 × 17 km Las Cañadas caldera on the southwestern portion of Tenerife — the largest and most volcanically complex of the Canary Islands. The large, roughly triangular island is a mosaic of overlapping Miocene-to-Quaternary stratovolcanoes, with the northeast-trending Cordillera Dorsal volcanic massif linking the Las Cañadas complex with older volcanic centers to create the biggest volcanic edifice in the archipelago.\n\nThe volcano is designated a Decade Volcano by the IAVCEI, recognizing the intersection of its destructive eruption history with proximity to substantial population centers. Tenerife has approximately 900,000 residents, with the closest towns — Garachico, Icod de los Vinos, and Puerto de la Cruz — lying within 15–25 km of historically active vents. The 1706 eruption of Montañas Negras destroyed the town and principal port of Garachico, and the most recent eruption in 1909 at El Chinyero demonstrated ongoing volcanic vigor.\n\nTeide National Park, covering 18,900 hectares, was designated a <a href=\"https://whc.unesco.org/en/list/1258/\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> in 2007 and is the most visited national park in Spain — by 2016 receiving over 4 million visitors annually, a historical record. The Teide Observatory, a major international astronomical facility, occupies the mountain's slopes, exploiting exceptional atmospheric conditions."
+    },
+    "geology_and_formation": {
+      "content": "Tenerife sits within the Canary volcanic province, an oceanic intraplate chain approximately 290 km northwest of Western Sahara. Unlike <a href=\"/ring-of-fire\">Ring of Fire</a> subduction-zone volcanoes, the Canary Islands are thought to result from a deep mantle plume or hotspot, though the mechanism remains debated — volcanic activity continues across the chain rather than being confined to the youngest island, prompting alternative hypotheses including edge-driven convection.\n\nTenerife's formation began approximately 12 million years ago with a shield volcano. The island's evolution involved three phases: initial shield-building, explosive caldera-forming eruptions, and the most recent constructional phase building the Teide and Pico Viejo stratocones.\n\nThe origin of the dramatic 10 × 17 km Las Cañadas caldera is debated. Three hypotheses compete: collapse following major explosive eruptions; massive gravitational landslides analogous to those creating the La Orotava valley (~600,000 years ago) and Güímar valley (~850,000 years ago); or a combination of both. Current consensus favors a combined origin. The caldera walls rise up to 500 m, creating a spectacular volcanic amphitheater.\n\nTeide and Pico Viejo represent the most recent constructional phase, initiated ~170,000 years ago following a catastrophic northward summit landslide. Teide's base sits within the caldera at ~2,190 m, with the summit cone rising an additional 1,500 m. Composition evolves from trachybasaltic magmas at flank vents to phonolitic magmas at the central complex — reflecting long-term fractional crystallization in crustal reservoirs."
+    },
+    "eruption_history_overview": {
+      "content": "Tenerife has one of the best-documented historical eruption records in the Canary Islands, with at least 15 Holocene eruptions and 7 in the historical period (post-1492). Activity is distributed across two main rift zones — the Santiago (northwest) rift and the Cordillera Dorsal (northeast) rift — plus the central Teide–Pico Viejo complex.\n\nHistorical eruptions have predominantly been fissural, basaltic-to-trachybasaltic events from the rift zones. The only historical eruption from the central complex was the 1798 Narices del Teide on Pico Viejo's western flank. The last explosive eruption from the central complex — a Plinian event from Montaña Blanca — occurred approximately 2,000 years ago.\n\nThe Canary Islands have experienced five eruptions in the past two centuries: Chahorra (1798, Tenerife), Tao (1824, Lanzarote), Chinyero (1909, Tenerife), San Juan (1949, La Palma), and Teneguía (1971, La Palma). The 2021 Cumbre Vieja eruption on La Palma served as a vivid reminder of the archipelago's volcanic vitality."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "1492 — Columbus Witnesses Boca Cangrejo",
+          "content": "The earliest recorded eruption on Tenerife was observed by Christopher Columbus during his passage south of the island en route to the Americas in 1492. The eruption occurred from the Boca Cangrejo vent on the northwestern Santiago rift. Columbus's crew reportedly saw flames emanating from the highest mountain of the island — an account consistent with a flank eruption visible from the sea. While the precise identification of this eruption has been debated, it represents the beginning of Tenerife's written volcanic record and places the island's volcanism in the context of European Age of Exploration."
+        },
+        {
+          "title": "1706 — The Destruction of Garachico",
+          "content": "The most destructive historical eruption on Tenerife began on 5 May 1706, when the Trevejo (Montañas Negras) eruption opened on the Santiago rift approximately 8 km south of the coast. Lava flows descended northward, engulfing and destroying the town and principal port of Garachico — then Tenerife's most important harbor and commercial center — along with several smaller villages. The destruction of Garachico's port permanently shifted the island's maritime commerce to Santa Cruz de Tenerife on the northeast coast, fundamentally reshaping Tenerife's economic geography.\n\nThe eruption produced extensive basaltic lava flows that filled the harbor and flowed into the sea, creating the distinctive rocky coastline visible at Garachico today. While casualties were limited due to the relatively slow advance of the lava, the economic devastation was immense and permanently altered the settlement pattern of northern Tenerife."
+        },
+        {
+          "title": "1798 — Narices del Teide (Chahorra)",
+          "content": "The eruption of Narices del Teide (“Nostrils of Teide”), also known as the Chahorra eruption, began on 9 June 1798 on the western flank of Pico Viejo and lasted until 8 September. This is the only historical eruption directly associated with the Teide–Pico Viejo central volcanic complex, making it significant for hazard assessment. The eruption produced lava flows within the Las Cañadas caldera and is an important reference event for understanding the potential behavior of future central-complex eruptions, which could involve more evolved (phonolitic) and potentially more explosive magmas than the typical rift-zone basaltic events."
+        },
+        {
+          "title": "1909 — The El Chinyero Eruption",
+          "content": "The most recent eruption on Tenerife began on 18 November 1909 from the El Chinyero vent on the northwestern Santiago rift. This fissural eruption was well documented by scientists and eyewitnesses, including the noted volcanologist Frank A. Perret, who published a detailed account in 1914.\n\nThe eruption opened with a violent, pulsating Strombolian explosive phase as a compositionally distinct batch of trachybasaltic magma ascended rapidly through the crust. Mass discharge rates during this initial phase reached 2.0–2.6 × 10⁵ kg/s — comparable to violent Strombolian eruptions at <a href=\"/volcano/vesuvius\">Vesuvius</a> and <a href=\"/volcano/etna\">Etna</a>. The activity produced an approximately 80 m-high scoria cone and heavy fallout of lapilli and ash across the entire northern sector of the island, with lapilli reaching up to 20 km and fine ash dispersing up to 130 km from the vent.\n\nAfter approximately three days, explosive energy waned, giving way to gentler Strombolian activity. Lava flows devastated agricultural crops and surrounding lands, and local communities evacuated at-risk areas. Remarkably, no human casualties were recorded. The eruption lasted approximately 10 days, ending on about 27 November.\n\nGeochemically, the Chinyero magma is distinctive: trace element analysis reveals a tantalum depletion relative to niobium, pointing to a source and ascent pathway independent of the central Teide–Pico Viejo feeding system. This finding underscores that volcanic hazard on Tenerife extends well beyond the central cone."
+        },
+        {
+          "title": "The Montaña Blanca Plinian Eruption (~2,000 Years Ago)",
+          "content": "The last explosive eruption from the central volcanic complex occurred approximately 2,000 years ago from Montaña Blanca, on the eastern flank of Teide. This Plinian event deposited a conspicuous light-colored phonolitic tephra blanket across Teide's eastern slopes — visible today as the pale-colored area near the volcano's base. It represents the most explosive style of eruption possible from the Teide–Pico Viejo system and serves as a worst-case scenario reference for hazard planning, though such events are infrequent compared to the much more common rift-zone basaltic eruptions."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tenerife is monitored by the <a href=\"https://www.ign.es/web/ign/portal/vlc-area-702702\" target=\"_blank\" rel=\"noopener\">Instituto Geográfico Nacional (IGN)</a>, Spain's official seismic and volcanic monitoring agency, in collaboration with INVOLCAN (Instituto Volcanológico de Canarias). The monitoring network includes seismometers, GPS deformation sensors, geochemical gas-monitoring stations, and gravity instruments.\n\nThe volcano has experienced periodic episodes of elevated unrest in recent decades. In April–May 2004, more than 200 earthquakes of magnitude 1–3 were recorded, mostly localized around the northwest rift zone and the strait between Gran Canaria and Tenerife, probably related to dike emplacement at 3–4 km depth. In January 2005, carbon dioxide emissions at Teide rose from 75 to 354 tonnes per day and hydrogen sulfide emissions from 35 to 152 tonnes per day over a two-week period. More recently, seismic swarms have been recorded beneath the Cañadas del Teide area, including an event in which at least 500 earthquakes were detected southwest of Pico Viejo.\n\nThe Spanish National Research Council's TEGETEIDE project, initiated in 2005, established dedicated seismic monitoring with background noise analysis aimed at early detection of eruptive precursors. The 2021 Cumbre Vieja eruption on neighboring La Palma — the first eruption in the Canary Islands since 1971 — reinforced the importance of continuous monitoring across the archipelago."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Tenerife's volcanic hazard profile is complex, involving two distinct eruption scenarios with very different risk characteristics.\n\nThe most probable scenario is a rift-zone fissural eruption, similar to those in 1706 and 1909 — producing lava flows, scoria cones, and tephra fallout from vents on the Santiago or Cordillera Dorsal rifts. These eruptions are typically basaltic to trachybasaltic, relatively predictable with seismic precursors, and manageable with evacuation, though lava flows can destroy infrastructure and agricultural land. The 1706 destruction of Garachico demonstrates the potential for significant economic damage.\n\nThe less probable but more catastrophic scenario involves an explosive eruption from the central Teide–Pico Viejo complex involving phonolitic magma. The Montaña Blanca eruption ~2,000 years ago shows this is possible. A phonolitic Plinian eruption could produce pyroclastic flows within the caldera and on the upper flanks, widespread tephra fall across the island, and potentially <a href=\"/types-of-volcanoes\">pyroclastic density currents</a> reaching populated areas on the coast.\n\nA third hazard — massive flank collapse — is evidenced by the geological record: the La Orotava and Güímar valleys were formed by catastrophic landslides that may have generated tsunamis affecting the Atlantic basin. While such events are extremely rare, their consequences would be severe.\n\nTenerife's population of approximately 900,000, combined with over 4 million annual visitors to Teide National Park, means that even moderate eruptions could require significant evacuation logistics. The IAVCEI designated Teide a Decade Volcano in 1992 and the European Union identified it as a European Laboratory Volcano, both reflecting its high-risk status."
+    },
+    "geography_and_physical_description": {
+      "content": "Tenerife is the largest (2,058 km²) and highest island in the Canary archipelago. The island's roughly triangular shape reflects its volcanic construction from multiple overlapping centers. The northeastern Cordillera Dorsal ridge connects the Las Cañadas region with the older Anaga massif, while the southern flanks slope more gently toward the coast.\n\nTeide's summit rises 3,715 m above sea level from a base within the Las Cañadas caldera at approximately 2,190 m elevation. The adjacent Pico Viejo (3,135 m), despite its name (“Old Peak”), is actually younger than some Teide deposits. Together with Montaña Blanca, they form the Central Volcanic Complex. The Las Cañadas caldera itself, measuring 10 × 17 km, is one of the most spectacular volcanic landscapes on Earth — its walls rising up to 500 m above a floor dotted with lava flows, domes, and cinder cones.\n\nThe visual impact of the landscape is amplified by atmospheric conditions that create constantly changing light, texture, and the famous “sea of clouds” (mar de nubes) effect, where trade wind-driven stratocumulus forms a cloud layer at approximately 1,500 m elevation, leaving Teide's summit projecting above into clear, dry air. This phenomenon contributes to the exceptional astronomical viewing conditions exploited by the Teide Observatory."
+    },
+    "climate_and_global_impact": {
+      "content": "None of Tenerife's historical eruptions have had measurable global climate impact. The rift-zone eruptions (VEI 2–3) are far below the threshold for significant stratospheric injection. Even the Plinian eruptions from the central complex during the Pleistocene, while locally devastating, did not match the global climate-altering potential of eruptions like <a href=\"/volcano/tambora\">Tambora</a> (1815) or <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991).\n\nHowever, the Las Cañadas caldera-forming eruptions during the Pleistocene were major explosive events that would have had regional atmospheric effects. The broader Canary Islands volcanic system contributes to oceanic island volcanic CO₂ degassing budgets, and Teide's fumarolic emissions — which showed dramatic increases during the 2004–2005 unrest — are monitored as both a volcanic precursor indicator and a contribution to local atmospheric chemistry."
+    },
+    "cultural_significance": {
+      "content": "Teide's cultural significance is immense and ancient. The Guanches, the indigenous Berber-descended people of Tenerife before Spanish colonization in 1496, considered the volcano a sacred mountain comparable to Mount Olympus in Greek religion. They believed it housed the forces of evil, principally the powerful figure Guayota, often depicted as a black dog accompanied by demons called Tibicenas. During eruptions, the Guanches lit bonfires to drive Guayota away. The volcano was also believed to hold up the sky. Archaeological finds of stone tools and pottery in mountain hiding places are interpreted as ritual deposits to counter malevolent spirits.\n\nTeide is the primary symbol of Tenerife and the most emblematic natural monument of the Canary Islands. An image of Teide gushing flames appears at the center of Tenerife's coat of arms, surmounted by St. Michael, the island's patron saint. The island flag's colors — dark blue for the sea, white for the snow-capped peak — derive from the volcano. Teide has appeared across centuries of artistic media: European engravings, oil paintings, postcards, and the Spanish 1,000-peseta banknote.\n\nThe volcano has also shaped Tenerife's economy. Wine cultivation on volcanic slopes produces distinctive vintages, and the island's tourism industry — built substantially around the Teide National Park experience — is the economic backbone of the island. The cable car to near the summit, the first in the world to operate exclusively on renewable energy, carries hundreds of thousands of visitors annually."
+    },
+    "visiting_and_tourism": {
+      "content": "Teide National Park is the most visited national park in Spain and consistently ranks among the top ten most visited in the world, with over 4 million visitors recorded in 2016. The park is accessible year-round, with the main approach via the TF-21 road from La Orotava or the TF-38 from the south coast.\n\nThe Teide Cable Car (Teleférico del Teide) ascends from 2,356 m to La Rambleta station at 3,555 m in approximately 8 minutes, offering spectacular views. From La Rambleta, a permit-controlled trail leads to the summit (3,715 m) — free permits must be reserved online through the national park service, and demand significantly exceeds availability during peak seasons. The summit trail takes approximately 40 minutes and rewards with panoramic views of the Canary archipelago and, on clear days, the coast of Africa.\n\nOther popular experiences include guided stargazing excursions (Teide's skies are protected by light-pollution laws), hiking within the Las Cañadas caldera, and the Roques de García trail past dramatic volcanic rock formations. Visitors should be prepared for high-altitude conditions: the summit can be 15–20°C colder than the coast, with UV radiation significantly stronger at elevation. The cable car operates weather-permitting and closes during high winds.\n\nThe solidified lava fields from the 1909 Chinyero eruption can be visited on a marked trail near Santiago del Teide, offering a tangible encounter with Tenerife's most recent volcanism."
+    },
+    "nearby_volcanoes": {
+      "content": "Tenerife is the most volcanically complex island in the Canary archipelago, but it is far from the only active center. La Palma, approximately 140 km to the west, experienced the dramatic 2021 Cumbre Vieja eruption — the most recent volcanic event in Spain. Lanzarote (approximately 300 km to the northeast) hosts the Timanfaya volcanic field, scene of the catastrophic 1730–1736 eruption that lasted six years and reshaped the island. El Hierro, the youngest and westernmost island, experienced a submarine eruption off its southern coast in 2011–2012.\n\nWithin Tenerife itself, the volcanic system extends well beyond Teide: the Santiago and Cordillera Dorsal rifts represent independent magma pathways capable of producing eruptions far from the central cone. The 1909 Chinyero eruption, geochemically distinct from the Teide system, demonstrated this distributed hazard."
+    },
+    "etymology": {
+      "content": "The name Teide (or El Teide) derives from the Guanche word Echeyde, meaning “hell” or “inferno” — a reference to the Guanches' belief that the volcano was the abode of Guayota, the deity of evil. The Spanish form Pico del Teide means “Peak of Teide.” The island name Tenerife may derive from the Guanche Tene (mountain) and ife (white or snow), referring to the snow-capped volcano visible from the sea — though alternative etymologies exist. The Guanches were of Berber origin, and linguistic connections to Amazigh (Berber) roots have been identified in several Canarian place names."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount Teide Compared to Other Atlantic and Mediterranean Island Volcanoes",
+      "description": "How does Teide compare to other major volcanic islands?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "UNESCO Status"
+      ],
+      "rows": [
+        [
+          "Teide (Tenerife)",
+          "Spain",
+          "3,715 m",
+          "Stratovolcano/Caldera",
+          "1909",
+          "5",
+          "World Heritage Site"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "World Heritage Site"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2025",
+          "2",
+          "World Heritage Site"
+        ],
+        [
+          "Cumbre Vieja",
+          "Spain (La Palma)",
+          "2,426 m",
+          "Stratovolcano",
+          "2021",
+          "3",
+          "Biosphere Reserve"
+        ],
+        [
+          "Pico (Azores)",
+          "Portugal",
+          "2,351 m",
+          "Stratovolcano",
+          "1720",
+          "2",
+          "Biosphere Reserve"
+        ]
+      ]
+    },
+    {
+      "title": "Canary Islands Volcanic Activity: Historical Eruptions Compared",
+      "description": "The volcanic history of the Canary archipelago over the past 300 years.",
+      "headers": [
+        "Eruption",
+        "Island",
+        "Year",
+        "Duration",
+        "VEI",
+        "Type",
+        "Notable Impact"
+      ],
+      "rows": [
+        [
+          "Montañas Negras",
+          "Tenerife",
+          "1706",
+          "~1 month",
+          "2",
+          "Fissural",
+          "Destroyed Garachico port"
+        ],
+        [
+          "Narices del Teide",
+          "Tenerife",
+          "1798",
+          "3 months",
+          "3",
+          "Flank",
+          "Only central complex eruption"
+        ],
+        [
+          "Chinyero",
+          "Tenerife",
+          "1909",
+          "10 days",
+          "2",
+          "Fissural",
+          "No casualties; violent Strombolian"
+        ],
+        [
+          "Teneguía",
+          "La Palma",
+          "1971",
+          "24 days",
+          "2",
+          "Fissural",
+          "No casualties"
+        ],
+        [
+          "Cumbre Vieja",
+          "La Palma",
+          "2021",
+          "85 days",
+          "3",
+          "Fissural",
+          "7,000+ buildings destroyed"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -1150,
+      "vei": null,
+      "label": "Earliest known Holocene eruptions on Tenerife",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -50,
+      "vei": 4,
+      "label": "Montaña Blanca Plinian eruption — last central complex explosive event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1492,
+      "vei": 2,
+      "label": "Boca Cangrejo eruption observed by Columbus",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1704,
+      "vei": 2,
+      "label": "Triple eruption: Siete Fuentes, Fasnia, Montaña de las Arenas (Cordillera Dorsal)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1705,
+      "vei": 2,
+      "label": "Continuation of 1704 Cordillera Dorsal activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1706,
+      "vei": 2,
+      "label": "Montañas Negras eruption destroys Garachico",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 1798,
+      "vei": 3,
+      "label": "Narices del Teide (Chahorra) — only historical central complex eruption",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 1909,
+      "vei": 2,
+      "label": "El Chinyero eruption — most recent eruption on Tenerife",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2004,
+      "vei": null,
+      "label": "Seismic unrest: 200+ earthquakes; dike emplacement at 3–4 km depth",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2005,
+      "vei": null,
+      "label": "CO₂ emissions spike: 75 → 354 tonnes/day at Teide",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-1000 BCE",
+      "count": 4,
+      "note": "Limited Holocene record"
+    },
+    {
+      "century": "1st BCE–1st CE",
+      "count": 1,
+      "note": "Montaña Blanca Plinian event"
+    },
+    {
+      "century": "15th",
+      "count": 1,
+      "note": "1492 Columbus-witnessed eruption"
+    },
+    {
+      "century": "18th",
+      "count": 3,
+      "note": "1704–1705 triple eruption, 1706 Garachico, 1798 Chahorra"
+    },
+    {
+      "century": "20th",
+      "count": 1,
+      "note": "1909 El Chinyero"
+    }
+  ],
+  "facts": [
+    "Mount Teide is the highest peak in the Atlantic Ocean and the highest point in Spain at 3,715 m (12,188 ft) above sea level.",
+    "Measured from the ocean floor at ~7,500 m, Teide is Earth's third-tallest volcanic structure — a ranking endorsed by both UNESCO and NASA.",
+    "Teide National Park received over 4 million visitors in 2016, making it the most visited national park in Spain and one of the top ten in the world.",
+    "The 1706 eruption of Montañas Negras destroyed Garachico, Tenerife's principal port, permanently shifting the island's maritime commerce to Santa Cruz de Tenerife.",
+    "The Guanches, Tenerife's indigenous people, believed Teide was the abode of Guayota, a deity of evil depicted as a black dog, and would light bonfires during eruptions to drive him away.",
+    "The 1909 Chinyero eruption's initial explosive phase reached mass discharge rates of 2.0–2.6 × 10⁵ kg/s — comparable to violent Strombolian eruptions at Vesuvius and Etna.",
+    "Christopher Columbus reportedly witnessed the 1492 Boca Cangrejo eruption during his first voyage to the Americas, making it one of the earliest European-documented eruptions in the Atlantic.",
+    "Teide's cable car is the first in the world to operate exclusively on renewable energy, with zero CO₂ emissions to the atmosphere.",
+    "The Las Cañadas caldera (10 × 17 km) was formed by a combination of explosive eruptions and massive gravitational landslides, including events that may have generated Atlantic tsunamis.",
+    "In January 2005, CO₂ emissions at Teide surged from 75 to 354 tonnes per day and H₂S from 35 to 152 tonnes per day within two weeks, indicating magmatic unrest.",
+    "The name Teide derives from the Guanche word Echeyde, meaning “hell” or “inferno.”",
+    "Tenerife has experienced at least 7 historical eruptions since 1492, more than any other island in the Canary archipelago."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Teide still active?",
+      "answer": "Yes, Mount Teide is classified as an active volcano by the Smithsonian Institution and Spanish geological authorities. Its most recent eruption occurred in 1909 from the El Chinyero vent on the northwestern Santiago rift. The central Teide–Pico Viejo complex last erupted in 1798 (Narices del Teide). Periodic seismic unrest and elevated volcanic gas emissions have been recorded, most notably in 2004–2005 when over 200 earthquakes occurred and CO₂ emissions at Teide surged to 354 tonnes per day. The volcano is continuously monitored by Spain's Instituto Geográfico Nacional and INVOLCAN. Teide is designated a Decade Volcano, recognizing that future eruptions are expected."
+    },
+    {
+      "question": "When did Mount Teide last erupt?",
+      "answer": "The most recent eruption on Tenerife occurred on 18 November 1909 from the El Chinyero vent on the northwestern Santiago rift, approximately 15 km from the Teide summit. The eruption lasted about 10 days with violent Strombolian explosions, lava flows, and tephra fallout across northern Tenerife. No casualties were recorded. The last eruption from the central Teide–Pico Viejo complex was the 1798 Narices del Teide event. The last explosive (Plinian) eruption from the central complex occurred approximately 2,000 years ago from Montaña Blanca."
+    },
+    {
+      "question": "Could Teide erupt again?",
+      "answer": "Yes, future eruptions on Tenerife are considered certain on a geological timescale. The most likely scenario is a rift-zone fissural eruption similar to 1706 or 1909, producing lava flows and moderate explosive activity from a vent on the Santiago or Cordillera Dorsal rift. A less probable but more dangerous scenario involves an explosive eruption from the central Teide complex with phonolitic magma. The 2004–2005 unrest episodes and periodic seismic swarms confirm that the volcanic system remains active. The Canary Islands experienced their most recent eruption in 2021 (Cumbre Vieja, La Palma), demonstrating ongoing archipelago-wide volcanic vitality."
+    },
+    {
+      "question": "How tall is Mount Teide?",
+      "answer": "Mount Teide stands 3,715 m (12,188 ft) above sea level, making it the highest point in Spain and the tallest peak in the Atlantic Ocean. When measured from the ocean floor, Teide rises approximately 7,500 m (24,600 ft), making it Earth's third-tallest volcanic structure according to UNESCO and NASA. Its base within the Las Cañadas caldera sits at approximately 2,190 m elevation, so the visible summit cone rises about 1,500 m above the caldera floor. The adjacent Pico Viejo reaches 3,135 m."
+    },
+    {
+      "question": "Can you climb Mount Teide?",
+      "answer": "Yes, but reaching the absolute summit (3,715 m) requires a free permit issued by Teide National Park, which must be reserved online in advance — demand greatly exceeds availability during peak season. The cable car (Teleférico del Teide) ascends from 2,356 m to La Rambleta station at 3,555 m in about 8 minutes. From there, the permitted summit trail (Trail #10) takes approximately 40 minutes. Alternatively, hikers staying overnight at the Altavista Mountain Refuge can summit without a daytime permit by arriving before 9:00 AM. The park also offers trails within the Las Cañadas caldera that don't require permits."
+    },
+    {
+      "question": "What type of volcano is Teide?",
+      "answer": "Teide is a stratovolcano (composite volcano) built within the 10 × 17 km Las Cañadas caldera. The broader Tenerife volcanic complex encompasses multiple overlapping structures spanning 12 million years. Teide itself began forming approximately 170,000 years ago following a massive landslide. The central complex produces phonolitic magmas (silica-undersaturated, alkali-rich) capable of explosive eruptions, while the rift zones produce trachybasaltic magmas in more effusive fissural eruptions. This dual character makes Tenerife volcanologically complex and hazard-assessment challenging."
+    },
+    {
+      "question": "Is Teide a UNESCO World Heritage Site?",
+      "answer": "Yes, Teide National Park was designated a UNESCO World Heritage Site in 2007 under two criteria: as a striking volcanic landscape of outstanding natural beauty (Criterion vii) and as an exceptional example of a geologically complex, mature volcanic system providing evidence of oceanic island evolution (Criterion viii). The 18,900-hectare park encompasses the Las Cañadas caldera, the Teide and Pico Viejo stratocones, and surrounding volcanic formations. UNESCO noted that Teide complements other volcanic World Heritage properties such as Hawaii Volcanoes National Park."
+    },
+    {
+      "question": "What destroyed the town of Garachico?",
+      "answer": "Garachico, Tenerife's principal port and commercial center, was destroyed by lava flows from the 1706 eruption of Montañas Negras (also called the Trevejo eruption) on the Santiago rift. The eruption began on 5 May approximately 8 km south of the coast, and lava flowed northward into the town, filling the harbor and reaching the sea. While casualties were limited because residents could evacuate ahead of the slow-moving lava, the destruction of the port was permanent. Maritime commerce shifted to Santa Cruz de Tenerife, fundamentally changing the island's economic geography. The solidified lava formations along Garachico's coast remain visible today."
+    },
+    {
+      "question": "How far is Teide from the coast?",
+      "answer": "The summit of Teide is approximately 15 km from the nearest coastline at Puerto de la Cruz to the north. The Las Cañadas caldera rim is approximately 10–12 km from the northern coast. Santa Cruz de Tenerife, the island's capital, lies approximately 35 km to the northeast. The towns considered most at risk from volcanic activity — Garachico, Icod de los Vinos, and Santiago del Teide — are all within 15–25 km of historically active vents on the Santiago rift. Tenerife's approximately 900,000 residents are distributed around the island's coast."
+    },
+    {
+      "question": "What is the Las Cañadas caldera?",
+      "answer": "Las Cañadas is a massive volcanic caldera measuring approximately 10 × 17 km, within which the Teide and Pico Viejo stratocones were built. Its origin has been debated for decades: some scientists attribute it to collapse following major explosive eruptions, others to catastrophic gravitational landslides (similar to those that formed the La Orotava and Güímar valleys), and current consensus favors a combination of both processes. The caldera walls rise up to 500 m above the floor, creating a dramatic amphitheater. The caldera floor is partially filled by lava flows, domes, and cinder cones from Teide, Pico Viejo, and Montaña Blanca. It forms the core of Teide National Park and the UNESCO World Heritage Site."
+    }
+  ],
+  "people_also_search": [
+    "mount teide eruption",
+    "teide national park",
+    "is teide active",
+    "teide height",
+    "teide cable car",
+    "tenerife volcano",
+    "canary islands volcanoes",
+    "teide unesco"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Teide",
+    "alternateName": [
+      "Teide",
+      "Pico del Teide",
+      "El Teide",
+      "Tenerife"
+    ],
+    "description": "Active stratovolcano on Tenerife, Canary Islands — highest peak in the Atlantic Ocean, third-tallest volcanic structure on Earth, and UNESCO World Heritage Site",
+    "geo": {
+      "latitude": 28.271,
+      "longitude": -16.641,
+      "elevation": 3715
+    },
+    "containedInPlace": {
+      "name": "Tenerife",
+      "country": "Spain"
+    },
+    "url": "https://volcanoatlas.com/volcano/tenerife"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=383030",
+      "text": "Smithsonian GVP: Tenerife",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1258/",
+      "text": "UNESCO: Teide National Park",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.ign.es/web/ign/portal/vlc-area-702702",
+      "text": "IGN: Tenerife Volcanic Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Teide-Peak",
+      "text": "Britannica: Teide",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.volcanoteide.com/en",
+      "text": "Volcano Teide Official Tourism",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "etna",
+      "stromboli",
+      "piton-de-la-fournaise",
+      "cumbre-vieja"
+    ],
+    "country_pages": [
+      "spain"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "tallest-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "cumbre-vieja",
+    "piton-de-la-fournaise",
+    "etna",
+    "pico",
+    "lanzarote"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Spain",
+      "url": "/volcanoes-in-spain"
+    },
+    {
+      "label": "Tenerife (Teide)",
+      "url": "/volcano/tenerife"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tenerife"
+}

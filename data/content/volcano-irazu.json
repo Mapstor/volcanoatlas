@@ -1,0 +1,367 @@
+{
+  "slug": "irazu",
+  "volcano_id": 345060,
+  "title": "Irazú",
+  "meta_title": "Irazú Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Irazú is a 3,436 m active stratovolcano in Costa Rica, near San José. Explore its 31 eruptions, the 1963-65 crisis, crater lake, and visitor guide.",
+  "quick_answer": {
+    "what": "Irazú is a massive active stratovolcano rising to 3,436 m (11,273 ft) in Costa Rica's Cartago Province, immediately east of the capital city of San José.",
+    "status": "Active — last significant eruption 1963–1965. Minor eruption in 1977. Uncertain phreatic activity in 1994. Continuously monitored.",
+    "famous_for": "The devastating 1963–1965 eruption that showered volcanic ash on San José during U.S. President Kennedy's visit, and its strikingly colored summit crater lake.",
+    "danger_level": "High — San José metropolitan area (population ~2 million) lies within the ashfall hazard zone, and lahars threaten densely populated river valleys."
+  },
+  "hero": {
+    "name": "Irazú",
+    "local_name": "Volcán Irazú",
+    "subtitle": "Costa Rica's Tallest Volcano, Towering Over San José",
+    "country": "Costa Rica",
+    "region": "Cartago Province, Central Volcanic Range",
+    "type": "Stratovolcano",
+    "elevation_m": 3436,
+    "elevation_ft": 11273,
+    "status": "Active",
+    "last_eruption": "1977 (possible 1994)",
+    "coordinates": {
+      "lat": 9.979,
+      "lon": -83.852
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-08625.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,436 m (11,273 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "1977 (possible phreatic 1994)",
+    "first_known_eruption": "~640 BCE",
+    "total_recorded_eruptions": 31,
+    "vei_max": "3 (multiple: 1723, 1917–1921, 1963–1965)",
+    "country": "Costa Rica",
+    "region": "Cartago Province, Central Volcanic Range",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "9.979°N, 83.852°W",
+    "nearest_city": "Cartago — approximately 15 km southwest (pop. ~160,000); San José — 30 km west (metro ~2 million)",
+    "population_at_risk": "~2 million in the San José–Cartago metropolitan corridor",
+    "summit_crater": "Multiple craters; Main Crater ~1,050 m diameter with crater lake",
+    "area": "~500 km² total volcanic massif",
+    "protected_status": "Irazú Volcano National Park (est. 1955)",
+    "monitoring_agency": "OVSICORI-UNA / RSN (UCR-ICE)",
+    "smithsonian_id": "345060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=345060"
+  },
+  "sections": {
+    "overview": {
+      "content": "Irazú (Volcán Irazú) is a massive active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,436 m (11,273 ft) in the Central Volcanic Range of <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a>, making it the tallest volcano in the country. Located immediately east of the capital city of San José and the historic city of Cartago, Irazú is one of the most consequential volcanoes in Central America from a population-risk perspective: approximately 2 million people live within its broader hazard zone in the densely populated Central Valley.\n\nThe volcano covers an area of approximately 500 km² and is vegetated to within a few hundred meters of its broad, complex summit crater system. At least 10 satellite cones dot its southern flank. All known Holocene eruptions have been explosive — no lava effusion has been documented since the Cervantes lava flows from south-flank vents approximately 14,000 years ago. Irazú has 31 recorded eruptions since approximately 640 BCE, with the most devastating modern event being the 1963–1965 eruption that deposited thick ash on San José and triggered destructive lahars in the Reventazón river valley. The volcano is protected within Irazú Volcano National Park, established in 1955, and its summit crater — often containing a vivid green or turquoise lake — is one of Costa Rica's most visited natural attractions. Irazú sits within the <a href=\"/ring-of-fire\">Ring of Fire</a>, driven by the subduction of the Cocos Plate beneath the Caribbean Plate."
+    },
+    "geology_and_formation": {
+      "content": "Irazú is a broad, shield-like stratovolcano whose massive edifice reflects a long constructional history. The summit area hosts a complex of craters, with the focus of eruptions migrating westward over time toward the current main crater, approximately 1,050 m in diameter and 300 m deep, which frequently contains a strikingly colored lake. Adjacent craters include the Diego de la Haya Crater, named after a colonial-era governor, and the Playa Hermosa crater.\n\nThe tectonic engine is the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench, approximately 170 km to the southwest. This drives the Central American Volcanic Arc, of which Irazú is a prominent member. The volcano's andesitic to basaltic-andesitic composition is typical of subduction-zone volcanism. All known Holocene eruptions have been explosive — the last lava effusion occurred approximately 14,000 years ago from south-flank vents producing the Cervantes lava flows. This exclusively explosive Holocene character suggests a shift toward more volatile-rich, explosive magma supply. At least 10 parasitic cones on the southern flank indicate the volcanic system extends well beyond the main summit complex."
+    },
+    "eruption_history_overview": {
+      "content": "Irazú has 31 recorded eruptions dating back to approximately 640 BCE. The pre-colonial record from tephrochronology identifies VEI 3 eruptions around 640 BCE, 430 CE, 690 CE, 1110 CE, and 1560 CE. The first well-documented historical eruption occurred in 1723, witnessed by Spanish colonial governor Diego de la Haya Fernández. From the 18th century onward, Irazú erupted frequently: events in 1723–1724, 1726, 1775, multiple episodes between 1821 and 1847, and numerous eruptions from 1864 through 1940. The <a href=\"/volcanic-explosivity-index\">VEI</a> 3 eruption of 1963–1965 was the most significant modern event. A minor eruption in 1977 (VEI 1) and uncertain phreatic activity in 1994 round out the record. The average recurrence interval for eruptions has been approximately 15–20 years during the historical period."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1963–1965 Eruption — Costa Rica's Most Destructive Modern Volcanic Crisis",
+          "content": "Irazú's most significant modern eruption began on March 13, 1963, and continued for approximately two years. Rated VEI 3, this sustained explosive eruption deposited heavy ashfall on San José, Cartago, and the entire Central Valley — Costa Rica's most densely populated region. The eruption's timing was dramatic: it began the same day that U.S. President John F. Kennedy arrived in San José for a state visit, with ash reportedly falling on the presidential motorcade.\n\nOver the following two years, continuous ash emissions blanketed agricultural land, clogged drainage systems, and contaminated water supplies. The most devastating secondary effect was a series of catastrophic lahars in the Reventazón river valley, triggered when heavy tropical rains mobilized thick ash deposits on the volcano's flanks. These mudflows destroyed bridges, buried homes, and killed approximately 20 people. Economic losses to agriculture and infrastructure were substantial. The eruption permanently changed Costa Rica's approach to volcanic hazard management and led to the establishment of stronger monitoring programs."
+        },
+        {
+          "title": "The 1723–1724 Eruption — The First Well-Documented Event",
+          "content": "The first thoroughly documented eruption of Irazú began on February 16, 1723, with explosive activity from the Diego de la Haya Crater. Colonial governor Diego de la Haya Fernández recorded observations, providing one of the earliest detailed volcanic accounts in Central American colonial history. Rated VEI 3, the eruption produced significant ashfall affecting Cartago, then the colonial capital of Costa Rica."
+        },
+        {
+          "title": "The 1917–1921 Eruption — A Four-Year Episode",
+          "content": "From September 1917 through 1921, Irazú maintained a sustained explosive eruption rated VEI 3. This four-year episode produced intermittent ash plumes and tephra fall affecting the Central Valley, previewing the volcano's capacity for extended eruptive episodes that would repeat dramatically in 1963–1965."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Irazú is currently dormant, with its last confirmed magmatic eruption in 1977 (VEI 1) and uncertain phreatic activity in 1994 that may have been a landslide from the fumarolic area. The volcano is jointly monitored by OVSICORI-UNA and the Red Sismológica Nacional (RSN). The monitoring network includes seismometers, GPS deformation stations, gas measurements, and regular crater lake chemistry surveys — changes in lake temperature, pH, or chemical composition serve as sensitive indicators of subsurface changes. Scientists consider Irazú capable of future eruptions similar to or larger than the 1963–1965 event, and hazard plans are in place for the Central Valley."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Irazú poses one of the highest volcanic risks in Central America due to its explosive eruption history and the approximately 2 million people in the San José–Cartago metropolitan corridor. The primary hazards are ashfall, lahars, and pyroclastic surges. During the 1963–1965 eruption, ash accumulations of several centimeters disrupted life across the Central Valley, and lahars killed approximately 20 people and destroyed infrastructure. A future eruption of similar intensity would affect a much larger and more developed urban population. Steep flanks and multiple river drainages create natural lahar conduits, amplified by Costa Rica's heavy tropical rainfall."
+    },
+    "geography_and_physical_description": {
+      "content": "Irazú is a broad volcanic massif covering approximately 500 km², with gentle lower slopes rising to a steeper summit zone. The summit complex includes several craters, the largest being the Main Crater (approximately 1,050 m diameter, 300 m deep), which hosts a strikingly colored lake ranging from emerald green to turquoise to rust-red. Adjacent craters include the Diego de la Haya Crater and Playa Hermosa. The volcano is vegetated to within a few hundred meters of the summit, with cloud forest on middle flanks giving way to páramo-like scrubland at higher elevations. On clear days, both the Pacific Ocean and the Caribbean Sea are visible from the summit."
+    },
+    "visiting_and_tourism": {
+      "content": "Irazú Volcano National Park is one of Costa Rica's most popular natural attractions, receiving hundreds of thousands of visitors annually. The summit is accessible by paved road — making Irazú one of the most easily visited active volcanoes in the world. Visitors can drive or take organized tours from San José (~80 km, 2-hour drive) or Cartago (~30 km). The park features viewpoints over the main crater and its famous colored lake, the Diego de la Haya Crater, and panoramic views extending to both oceans on clear mornings. The best time to visit is early morning during the dry season (December–April). The park is open daily with an entrance fee. Visitors should bring warm clothing — summit temperatures can drop below 5°C (41°F)."
+    },
+    "cultural_significance": {
+      "content": "Irazú's name is believed to derive from an indigenous word, possibly 'Iztarú' meaning 'thunder' or 'trembling mountain' in the language of the Huetar people who inhabited Costa Rica before the Spanish conquest. The 1963–1965 eruption is seared into Costa Rican national memory, coinciding with President Kennedy's visit and causing years of agricultural disruption. The volcano is a symbol of both natural beauty and natural hazard for Costa Ricans. The famous crater lake has become an iconic Costa Rican image, featured in tourism marketing and cultural media. The surrounding dairy farming landscape on the upper flanks — producing some of the country's finest cheese — adds an agricultural dimension to the volcano's cultural footprint."
+    },
+    "nearby_volcanoes": {
+      "content": "Irazú stands at the eastern end of Costa Rica's Central Volcanic Range. Turrialba (3,340 m), immediately to the southeast, reawakened in 2010 after 145 years of dormancy and has been intermittently active since. To the west, <a href=\"/volcano/poas\">Poás</a> (2,708 m) is another heavily visited active volcano with a famous crater lake. <a href=\"/volcano/arenal\">Arenal</a> (1,670 m), further northwest, was Costa Rica's most continuously active volcano from 1968 to 2010. <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a> hosts 10 Holocene volcanoes along the Central American Volcanic Arc."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Irazú Compared to Costa Rica's Other Active Volcanoes",
+      "description": "How does Irazú compare to Costa Rica's other major volcanic centers?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Irazú",
+          "Costa Rica",
+          "3,436 m",
+          "Stratovolcano",
+          "1977",
+          "3",
+          "31"
+        ],
+        [
+          "Poás",
+          "Costa Rica",
+          "2,708 m",
+          "Stratovolcano",
+          "2019",
+          "3",
+          "30"
+        ],
+        [
+          "Turrialba",
+          "Costa Rica",
+          "3,340 m",
+          "Stratovolcano",
+          "2020",
+          "3",
+          "10"
+        ],
+        [
+          "Arenal",
+          "Costa Rica",
+          "1,670 m",
+          "Stratovolcano",
+          "2010",
+          "3",
+          "8"
+        ],
+        [
+          "Rincón de la Vieja",
+          "Costa Rica",
+          "1,916 m",
+          "Complex",
+          "2024",
+          "2",
+          "21"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -640,
+      "vei": 3,
+      "label": "Earliest recorded eruption (tephrochronology)",
+      "notable": false
+    },
+    {
+      "year": 430,
+      "vei": 3,
+      "label": "Post-classical eruption",
+      "notable": false
+    },
+    {
+      "year": 690,
+      "vei": 3,
+      "label": "Early medieval eruption",
+      "notable": false
+    },
+    {
+      "year": 1110,
+      "vei": 3,
+      "label": "Medieval eruption",
+      "notable": false
+    },
+    {
+      "year": 1723,
+      "vei": 3,
+      "label": "First well-documented eruption — Diego de la Haya Crater",
+      "notable": true
+    },
+    {
+      "year": 1917,
+      "vei": 3,
+      "label": "Four-year eruption (1917–1921)",
+      "notable": true
+    },
+    {
+      "year": 1963,
+      "vei": 3,
+      "label": "Devastating two-year eruption; lahars killed ~20",
+      "notable": true
+    },
+    {
+      "year": 1977,
+      "vei": 1,
+      "label": "Most recent confirmed eruption",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 5,
+      "note": "~640 BCE to 1560 CE (tephrochronology)"
+    },
+    {
+      "century": "18th",
+      "count": 3
+    },
+    {
+      "century": "19th",
+      "count": 10
+    },
+    {
+      "century": "20th",
+      "count": 12
+    },
+    {
+      "century": "21st",
+      "count": 0,
+      "note": "Uncertain 1994 activity; dormant since"
+    }
+  ],
+  "facts": [
+    "Irazú is Costa Rica's tallest volcano at 3,436 m (11,273 ft), and on clear days both the Pacific Ocean and Caribbean Sea are visible from its summit.",
+    "The 1963 eruption began on the same day that U.S. President John F. Kennedy arrived in San José for a state visit — ash reportedly fell on the presidential motorcade.",
+    "The 1963–1965 eruption lasted approximately two years, depositing volcanic ash across the entire Central Valley and triggering lahars that killed approximately 20 people.",
+    "All known Holocene eruptions of Irazú have been explosive — no lava has flowed from the volcano in approximately 14,000 years.",
+    "The summit crater lake changes color dramatically from vivid green to turquoise to rust-red, depending on chemical and mineral conditions, making it one of Costa Rica's most photographed natural features.",
+    "Irazú's volcanic massif covers approximately 500 km², making it one of the largest volcanic edifices in Central America by area.",
+    "At least 10 parasitic cinder cones on the south flank indicate that the volcanic system extends well beyond the main summit complex.",
+    "The Diego de la Haya Crater is named after the Spanish colonial governor who first documented an eruption of Irazú in 1723.",
+    "Approximately 2 million people live in the San José–Cartago metropolitan corridor within Irazú's broader ashfall hazard zone.",
+    "Irazú Volcano National Park, established in 1955, is one of the most visited national parks in Costa Rica thanks to the paved road access to the summit."
+  ],
+  "faqs": [
+    {
+      "question": "Is Irazú an active volcano?",
+      "answer": "Yes, Irazú is classified as an active volcano by the Smithsonian Global Volcanism Program. It has 31 recorded eruptions, with the last confirmed magmatic eruption in 1977 (VEI 1) and uncertain phreatic activity reported in 1994. The most significant modern eruption was the 1963–1965 VEI 3 event that caused widespread destruction across Costa Rica's Central Valley. The volcano is continuously monitored by OVSICORI-UNA and RSN, and scientists consider future eruptions possible. The current dormancy period of approximately 50 years is within the historical range of inter-eruption intervals."
+    },
+    {
+      "question": "Can you visit Irazú Volcano?",
+      "answer": "Yes, Irazú Volcano National Park is one of Costa Rica's most accessible and popular natural attractions. A paved road leads to within walking distance of the summit crater viewpoints, making it one of the easiest active volcanoes to visit in the world. The park is approximately 80 km from San José (about a 2-hour drive) and 30 km from Cartago. Visitors can view the famous colored crater lake and surrounding craters. The best time to visit is early morning during the dry season (December–April) when cloud cover is minimal. An entrance fee is charged."
+    },
+    {
+      "question": "What happened during the 1963 Irazú eruption?",
+      "answer": "The 1963–1965 eruption was Costa Rica's most destructive modern volcanic event. Beginning on March 13, 1963, the VEI 3 eruption produced continuous ash emissions over approximately two years, blanketing San José, Cartago, and the Central Valley. The eruption coincided with U.S. President Kennedy's state visit. The most devastating impacts were lahars (volcanic mudflows) in the Reventazón river valley triggered by heavy rains mobilizing ash deposits, which killed approximately 20 people and destroyed bridges and homes. Agricultural and economic losses were severe."
+    },
+    {
+      "question": "How tall is Irazú?",
+      "answer": "Irazú rises to 3,436 m (11,273 ft) above sea level, making it the tallest volcano in Costa Rica. Its neighboring volcano Turrialba is slightly shorter at 3,340 m. For comparison, Costa Rica's highest point overall is Cerro Chirripó at 3,821 m, which is not volcanic. Irazú's broad massif covers approximately 500 km², and on clear days both the Pacific and Caribbean coasts are visible from the summit — a span of over 200 km."
+    },
+    {
+      "question": "Why is Irazú's crater lake different colors?",
+      "answer": "Irazú's main crater lake changes color due to variations in its chemical and mineral composition. The lake can appear vivid emerald green, turquoise blue, or rust-red at different times. These changes reflect fluctuations in dissolved minerals (particularly sulfur and iron compounds), pH levels, suspended sediment, and volcanic gas input from the underlying hydrothermal system. Scientists monitor the lake's chemistry as an indicator of volcanic unrest — significant color or temperature changes can signal increased magmatic activity at depth."
+    },
+    {
+      "question": "Is Irazú dangerous?",
+      "answer": "Irazú poses one of the highest volcanic risks in Central America. Approximately 2 million people live in the San José–Cartago metropolitan corridor within its ashfall hazard zone. The 1963–1965 eruption demonstrated the volcano's capacity for sustained explosive eruptions that disrupt life across the densely populated Central Valley. Lahars are a particular concern due to steep flanks, multiple river drainages, and heavy tropical rainfall. A future eruption of similar or greater intensity would affect a much larger urban population than existed in 1963."
+    }
+  ],
+  "people_also_search": [
+    "irazu volcano costa rica",
+    "irazu crater lake",
+    "irazu eruption 1963",
+    "costa rica volcanoes",
+    "irazu national park",
+    "irazu vs poas"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Irazú",
+    "alternateName": [
+      "Volcán Irazú"
+    ],
+    "description": "Costa Rica's tallest volcano at 3,436 m, an active stratovolcano near San José famous for its colored crater lake and the devastating 1963–1965 eruption",
+    "geo": {
+      "latitude": 9.979,
+      "longitude": -83.852,
+      "elevation": 3436
+    },
+    "containedInPlace": {
+      "name": "Cartago Province",
+      "country": "Costa Rica"
+    },
+    "url": "https://volcanoatlas.com/volcano/irazu"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=345060",
+      "text": "Smithsonian GVP: Irazú",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ovsicori.una.ac.cr/",
+      "text": "OVSICORI-UNA — Costa Rica Volcanological Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Irazu-Volcano",
+      "text": "Britannica: Irazú Volcano",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.sinac.go.cr/",
+      "text": "SINAC — Costa Rica National Conservation Areas System",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "poas",
+      "arenal",
+      "turrialba",
+      "rincon-de-la-vieja"
+    ],
+    "country_pages": [
+      "costa-rica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "poas",
+    "arenal",
+    "turrialba",
+    "rincon-de-la-vieja",
+    "momotombo"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Costa Rica",
+      "url": "/volcanoes-in-costa-rica"
+    },
+    {
+      "label": "Irazú",
+      "url": "/volcano/irazu"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/irazu"
+}

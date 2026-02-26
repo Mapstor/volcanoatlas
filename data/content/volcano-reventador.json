@@ -1,0 +1,361 @@
+{
+  "slug": "reventador",
+  "volcano_id": 352010,
+  "title": "Reventador",
+  "meta_title": "Reventador Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Reventador is a 3,562 m active stratovolcano in Ecuador's Cordillera Real. Explore its 26 eruptions including the major 2002 event, ongoing activity, and hazards.",
+  "quick_answer": {
+    "what": "Reventador (Volcán El Reventador) is an active andesitic stratovolcano rising to 3,562 m (11,686 ft) in eastern Ecuador's Cordillera Real, approximately 90 km east-southeast of Quito.",
+    "status": "Active — in near-continuous eruption since July 2008 (ongoing through 2025). Ecuador's most frequently active volcano.",
+    "famous_for": "The powerful VEI 4 eruption in November 2002 that produced a 17-km eruption column, pyroclastic flows, and ash that reached Quito. Also the most frequently active volcano east of the main Ecuadorian volcanic axis.",
+    "danger_level": "Moderate — remote eastern location limits direct population exposure, but the volcano's proximity to the Trans-Ecuadorian oil pipeline and the city of Quito creates significant indirect risk."
+  },
+  "hero": {
+    "name": "Reventador",
+    "local_name": "Volcán El Reventador",
+    "subtitle": "Ecuador's Most Restless Volcano",
+    "country": "Ecuador",
+    "region": "Cordillera Real, eastern Ecuador",
+    "type": "Stratovolcano",
+    "elevation_m": 3562,
+    "elevation_ft": 11686,
+    "status": "Active",
+    "last_eruption": "2025 (ongoing since 2008)",
+    "coordinates": {
+      "lat": -0.077,
+      "lon": -77.656
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11671.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,562 m (11,686 ft)",
+    "type": "Stratovolcano",
+    "status": "Active — erupting since 2008",
+    "last_eruption": "2025 (ongoing)",
+    "first_known_eruption": "1541",
+    "total_recorded_eruptions": 26,
+    "vei_max": "4 (November 2002)",
+    "country": "Ecuador",
+    "region": "Cordillera Real, Napo Province",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "0.077°S, 77.656°W",
+    "nearest_city": "Quito — approximately 90 km west-northwest",
+    "population_at_risk": "Scattered communities in eastern foothills; Quito (2.8 million) at ashfall risk",
+    "summit_crater": "Active cone within a 4-km-wide horseshoe-shaped avalanche scarp open to the east",
+    "monitoring_agency": "Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN)",
+    "smithsonian_id": "352010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=352010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Reventador (Volcán El Reventador) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,562 m (11,686 ft) in the Cordillera Real of eastern <a href=\"/volcanoes-in-ecuador\">Ecuador</a>, approximately 90 km (56 mi) east-southeast of the capital city of Quito. It is the most frequently active volcano in Ecuador and one of the most persistently active in all of South America, with 26 recorded eruptions since 1541 and a near-continuous eruptive episode running since July 2008. The volcano's name — meaning \"the exploder\" in Spanish — is well earned.\n\nReventador is unusual among Ecuadorian volcanoes in that it sits well east of the principal volcanic axis of the Andes, within the sub-Andean zone of the Cordillera Real. A young, unvegetated cone rises from the floor of a 4-km-wide horseshoe-shaped amphitheater, the result of a massive edifice collapse that produced voluminous debris avalanche deposits extending eastward into the Amazon lowlands. This amphitheater structure is open to the east, channeling pyroclastic flows and lahars into the heavily forested eastern slopes. The volcano is closely monitored by the <a href=\"https://www.igepn.edu.ec/\" target=\"_blank\" rel=\"noopener\">Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN)</a>, Ecuador's leading volcanological institution, particularly due to the proximity of the Trans-Ecuadorian oil pipeline (SOTE), which passes near the volcano's eastern base."
+    },
+    "geology_and_formation": {
+      "content": "Reventador is the most frequently active of a chain of volcanoes in Ecuador's Cordillera Real, situated well east of the main volcanic arc that includes <a href=\"/volcano/cotopaxi\">Cotopaxi</a>, Tungurahua, and Chimborazo. The volcano's position is linked to the subduction of the Nazca Plate beneath the South American Plate, but its eastward offset from the principal arc reflects deeper or different angles of subduction, or back-arc magmatism in this section of the Andes. The dominant rock type is andesite to basaltic andesite, typical of subduction-zone volcanism.\n\nThe modern volcanic edifice consists of a young cone growing within a horseshoe-shaped collapse amphitheater approximately 4 km wide, open to the east. This collapse scar was formed by a catastrophic sector collapse — an edifice failure that produced enormous debris avalanche deposits traceable for many kilometers into the eastern lowlands. The young cone has rebuilt to a height comparable to the amphitheater rim, demonstrating Reventador's vigorous construction rate. Numerous lava flows have issued from both summit and flank vents, and the steep eastern scarp channels pyroclastic flows and lahars into the headwaters of Amazonian rivers. The region's extremely heavy rainfall — typical of the eastern Andean slopes — ensures that lahars are a persistent hazard, as water rapidly mobilizes fresh volcanic deposits."
+    },
+    "eruption_history_overview": {
+      "content": "Reventador's documented eruption history spans nearly 500 years, with 26 recorded eruptions since 1541. The historical record shows remarkably consistent activity, with most eruptions rated <a href=\"/volcanic-explosivity-index\">VEI</a> 2–3. The volcano has experienced only one confirmed VEI 4 event in the historical record — the dramatic November 2002 eruption — though its frequent VEI 3 eruptions throughout the 19th and early 20th centuries attest to its persistent explosivity. Major eruptive episodes occurred in 1541, 1691, 1797, the 1840s (a cluster of eruptions in 1843–1844), 1856, 1894, 1898–1906 (an eight-year eruption), 1926, 1936, 1944, and multiple events from the 1950s through the 1970s. The transformative 2002 eruption was followed by renewed activity in 2004–2006 and 2007, before the current sustained eruption began in July 2008 and has continued without significant interruption through 2025."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2002 Eruption — Ecuador's Volcanic Wake-Up Call (VEI 4)",
+          "content": "On November 3, 2002, Reventador produced its largest eruption in recorded history, generating a towering eruption column that reached 17 km (56,000 ft) into the stratosphere. Rated VEI 4 by the Smithsonian Global Volcanism Program, the eruption sent pyroclastic flows racing up to 8 km from the summit and produced lava flows from both summit and southeastern flank vents at approximately 2,600 m elevation. The explosive phase deposited several centimeters of ash on Quito, approximately 90 km to the west, disrupting the capital city's airport, clogging drainage systems, and causing respiratory problems among the city's 1.5 million residents (at the time). Perhaps most significantly, the eruption ruptured the Trans-Ecuadorian oil pipeline (SOTE), which carries crude oil from the Amazon basin to Pacific coast refineries — a critical piece of national economic infrastructure. The pipeline damage temporarily halted oil exports, causing significant economic losses for the country. The 2002 eruption served as a powerful reminder of the hazards posed by Reventador, which had been relatively quiet since the 1970s."
+        },
+        {
+          "title": "The 2008–Present Ongoing Eruption",
+          "content": "Beginning on July 27, 2008, Reventador entered a sustained eruptive phase that has continued through 2025 — now spanning over 16 years. Activity has fluctuated between periods of vigorous Strombolian and Vulcanian explosions with ash columns reaching 3–6 km above the summit, lava flow effusion from the summit cone, and quieter intervals of degassing and minor emissions. Throughout this prolonged eruption, the young cone within the amphitheater has been progressively rebuilt and modified, with fresh lava flows extending down multiple flanks. The IG-EPN has maintained continuous seismic and visual monitoring, issuing periodic alerts when activity intensifies. Pyroclastic flows during more vigorous phases have descended the eastern scarp, and lahars triggered by heavy rainfall have traveled significant distances along eastern drainages. The eruption has been rated VEI 2 overall but includes episodes of more intense activity."
+        },
+        {
+          "title": "The 1898–1906 Eruption — An Eight-Year Episode",
+          "content": "One of the longest eruptions in Reventador's historical record began on April 8, 1898, and continued until approximately 1906 — an eight-year episode rated VEI 3. Reports from this period describe recurrent explosive activity visible from the eastern Andean foothills, with ash plumes, lava flows, and pyroclastic emissions. The sustained nature of this eruption foreshadowed the volcano's 21st-century behavior and underscored Reventador's capacity for prolonged eruptive episodes."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Reventador has been in continuous eruption since July 2008 and is closely monitored by Ecuador's Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN). The monitoring network includes seismometers, infrasound sensors, SO₂ gas flux measurements, and real-time webcams, supplemented by satellite remote sensing. The IG-EPN issues daily reports on Reventador's activity, including ash plume heights, explosion counts, and thermal anomaly observations. As of recent reports, the volcano continues to exhibit Strombolian to Vulcanian explosions, intermittent lava flows from the summit cone, and periodic ash emissions. The Trans-Ecuadorian oil pipeline corridor is subject to heightened monitoring protocols given the infrastructure damage caused in 2002. Reventador is considered certain to continue erupting in the near to medium term."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Reventador's hazards include pyroclastic flows, lahars, ashfall, and lava flows. The 4-km-wide collapse amphitheater open to the east acts as a natural channel for pyroclastic flows and lahars, directing them into the Amazon basin's forested lowlands. Pyroclastic flows during major eruptions (such as the 2002 VEI 4 event) can travel up to 8 km from the summit. The region's heavy rainfall — annual totals exceed 3,000 mm on the eastern Andean slopes — makes lahars a persistent secondary hazard. Ashfall from moderate to large eruptions can reach Quito (population approximately 2.8 million), affecting aviation, infrastructure, and public health. The Trans-Ecuadorian oil pipeline, which carries the majority of Ecuador's crude oil exports, passes near the volcano's eastern base and was damaged in 2002. A repeat eruption of similar or greater magnitude would pose significant economic risk. Despite these hazards, the volcano's remote eastern location means direct population exposure at the cone is low."
+    },
+    "geography_and_physical_description": {
+      "content": "Reventador lies in the transition zone between the Andes and the Amazon basin, on the eastern slopes of Ecuador's Cordillera Real. The volcano's summit at 3,562 m is dwarfed by the main Andean peaks to the west, but it stands prominently above the forested eastern foothills. The most distinctive morphological feature is the 4-km-wide horseshoe-shaped amphitheater — a collapse scar open to the east — from which the young, actively growing cone rises. The amphitheater walls reach heights comparable to the inner cone, and the eastern breach channels volcanic material into the headwaters of Amazonian tributaries. The surrounding landscape is covered in dense cloud forest and tropical rainforest, receiving some of the heaviest rainfall in Ecuador. Numerous rivers originate on the volcano's flanks, creating deep valleys that serve as conduits for lahars. The nearby San Rafael waterfall — once Ecuador's tallest waterfall at 150 m — was located downstream of Reventador, though it dramatically disappeared in 2020 due to sinkhole formation, an event linked to erosion of volcanic substrates."
+    },
+    "cultural_significance": {
+      "content": "Reventador's name — Spanish for \"the exploder\" — captures the volcano's temperament and has been in use since the earliest colonial reports of its activity. The first recorded eruption in 1541 coincides with the Spanish conquest period in Ecuador. The volcano has long been a navigation landmark for travelers crossing from the highlands to the Amazon lowlands via the treacherous eastern Andean slopes. In modern Ecuador, Reventador gained renewed prominence after the 2002 eruption demonstrated its capacity to disrupt Quito and national infrastructure. The volcano lies within the Cayambe-Coca Ecological Reserve, one of Ecuador's most important protected areas, which encompasses a vast range of ecosystems from paramo grasslands to lowland rainforest."
+    },
+    "nearby_volcanoes": {
+      "content": "Reventador sits east of Ecuador's main volcanic arc, but numerous major volcanoes lie within 150 km to the west. <a href=\"/volcano/cotopaxi\">Cotopaxi</a> (5,911 m), one of the world's highest active volcanoes, stands approximately 130 km to the southwest. Cayambe (5,790 m), an active glacier-capped stratovolcano, lies roughly 60 km to the west. Antisana (5,753 m) is located about 50 km to the southwest. Further south along the main Andean arc, Tungurahua (5,023 m) was famously active from 1999 to 2016. <a href=\"/volcanoes-in-ecuador\">Ecuador</a> hosts approximately 35 Holocene volcanoes, making it one of the most volcanically active countries on Earth relative to its size."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Reventador Compared to Ecuador's Other Active Volcanoes",
+      "description": "How does Reventador compare to other currently or recently active volcanoes in Ecuador?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Reventador",
+          "Ecuador",
+          "3,562 m",
+          "Stratovolcano",
+          "2025 (ongoing)",
+          "4",
+          "26"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "48"
+        ],
+        [
+          "Sangay",
+          "Ecuador",
+          "5,230 m",
+          "Stratovolcano",
+          "2025 (ongoing)",
+          "3",
+          "15"
+        ],
+        [
+          "Tungurahua",
+          "Ecuador",
+          "5,023 m",
+          "Stratovolcano",
+          "2016",
+          "3",
+          "19"
+        ],
+        [
+          "Guagua Pichincha",
+          "Ecuador",
+          "4,784 m",
+          "Stratovolcano",
+          "2000",
+          "4",
+          "16"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1541,
+      "vei": 3,
+      "label": "First recorded eruption during Spanish colonial period",
+      "notable": true
+    },
+    {
+      "year": 1691,
+      "vei": 3,
+      "label": "Major eruption",
+      "notable": false
+    },
+    {
+      "year": 1797,
+      "vei": 3,
+      "label": "Explosive eruption",
+      "notable": false
+    },
+    {
+      "year": 1843,
+      "vei": 3,
+      "label": "Cluster of eruptions in 1843–1844",
+      "notable": false
+    },
+    {
+      "year": 1898,
+      "vei": 3,
+      "label": "Eight-year eruption (1898–1906)",
+      "notable": true
+    },
+    {
+      "year": 2002,
+      "vei": 4,
+      "label": "Largest recorded eruption — 17-km column, pipeline damage",
+      "notable": true
+    },
+    {
+      "year": 2008,
+      "vei": 2,
+      "label": "Start of current ongoing eruption",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "16th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 6
+    },
+    {
+      "century": "20th",
+      "count": 12
+    },
+    {
+      "century": "21st",
+      "count": 4,
+      "note": "Includes ongoing eruption since 2008"
+    }
+  ],
+  "facts": [
+    "Reventador's name means 'the exploder' in Spanish, a label applied since colonial times and dramatically validated by the 2002 VEI 4 eruption.",
+    "The November 2002 eruption produced a 17-km (56,000-ft) eruption column and deposited several centimeters of ash on Quito, 90 km away, closing the city's airport.",
+    "The 2002 eruption ruptured the Trans-Ecuadorian oil pipeline (SOTE), temporarily halting the country's crude oil exports and causing major economic damage.",
+    "Reventador has been in near-continuous eruption since July 2008 — one of the longest-running active eruptions in the Americas.",
+    "The volcano sits within a 4-km-wide horseshoe-shaped collapse amphitheater, the scar of a catastrophic sector collapse that sent debris avalanches into the Amazon lowlands.",
+    "A young, actively growing cone rises from the amphitheater floor to a height comparable to the rim, demonstrating rapid volcanic construction.",
+    "Reventador lies well east of Ecuador's main Andean volcanic axis, making it the most frequently active volcano in the sub-Andean Cordillera Real.",
+    "The region surrounding Reventador receives over 3,000 mm of rainfall annually, making lahars a persistent hazard as water mobilizes fresh volcanic deposits.",
+    "Ecuador's tallest waterfall, San Rafael (150 m), once located downstream of Reventador, vanished in 2020 due to sinkhole formation — likely linked to erosion of volcanic substrates.",
+    "The volcano lies within the Cayambe-Coca Ecological Reserve, one of Ecuador's largest and most biodiverse protected areas."
+  ],
+  "faqs": [
+    {
+      "question": "Is Reventador currently erupting?",
+      "answer": "Yes, Reventador has been in continuous eruption since July 2008, making it one of the longest-running active eruptions in the Americas as of 2025. Current activity includes Strombolian to Vulcanian explosions, intermittent lava flows from the summit cone, and periodic ash emissions. The Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN) monitors the volcano continuously and publishes daily activity reports. Eruption intensity fluctuates, but there has been no significant cessation of volcanic activity since the eruption began over 16 years ago."
+    },
+    {
+      "question": "What happened during the 2002 Reventador eruption?",
+      "answer": "On November 3, 2002, Reventador produced its largest recorded eruption, generating a 17-km (56,000-ft) eruption column that reached the stratosphere. The VEI 4 event sent pyroclastic flows up to 8 km from the summit and produced lava flows from summit and flank vents. Ash fell heavily on Quito, approximately 90 km to the west, disrupting the airport, clogging drainage systems, and affecting air quality for the city's residents. The eruption also ruptured the Trans-Ecuadorian oil pipeline (SOTE), temporarily halting Ecuador's crude oil exports."
+    },
+    {
+      "question": "How far is Reventador from Quito?",
+      "answer": "Reventador is located approximately 90 km (56 miles) east-southeast of Quito, Ecuador's capital city with a population of roughly 2.8 million. Despite this considerable distance, the 2002 VEI 4 eruption deposited several centimeters of volcanic ash on Quito, demonstrating that the capital lies within the volcano's ashfall hazard zone during major eruptions. Prevailing wind patterns can carry ash westward from Reventador toward the populated Inter-Andean Valley."
+    },
+    {
+      "question": "Why is Reventador considered dangerous?",
+      "answer": "Reventador is considered dangerous for several reasons: it has produced a VEI 4 eruption (2002) capable of affecting Quito; it sits near the Trans-Ecuadorian oil pipeline, a critical economic lifeline; its eastern collapse amphitheater channels pyroclastic flows and lahars into populated lowland areas; and heavy rainfall in the region creates persistent lahar hazards. The volcano's frequent eruptions and demonstrated capacity for large explosive events make it one of Ecuador's highest-priority volcanic hazards, despite its relatively remote location."
+    },
+    {
+      "question": "What type of volcano is Reventador?",
+      "answer": "Reventador is an andesitic stratovolcano — a steep-sided composite cone built from alternating layers of lava flows, pyroclastic deposits, and volcanic debris. Its most distinctive structural feature is a 4-km-wide horseshoe-shaped collapse amphitheater open to the east, formed by a catastrophic sector collapse. A young, actively growing cone has been constructed within this amphitheater, rising to heights comparable to the rim. The volcano produces both explosive eruptions (Strombolian to sub-Plinian) and effusive lava flows."
+    },
+    {
+      "question": "How tall is Reventador?",
+      "answer": "Reventador rises to 3,562 m (11,686 ft) above sea level. While substantial, this is modest compared to Ecuador's highest volcanoes — Chimborazo reaches 6,263 m and Cotopaxi stands at 5,911 m. Reventador's summit elevation is in constant flux due to ongoing eruptive activity that alternately builds and destroys the summit cone. The volcano's base elevation on the eastern Andean slopes means its actual cone prominence is considerable despite the lower summit altitude compared to Inter-Andean volcanoes."
+    }
+  ],
+  "people_also_search": [
+    "reventador volcano eruption 2002",
+    "ecuador volcanoes",
+    "reventador eruption today",
+    "trans-ecuadorian oil pipeline volcano",
+    "most active volcanoes south america",
+    "reventador vs cotopaxi"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Reventador",
+    "alternateName": [
+      "Volcán El Reventador",
+      "El Reventador"
+    ],
+    "description": "Active andesitic stratovolcano in eastern Ecuador, the country's most frequently active volcano, in continuous eruption since 2008",
+    "geo": {
+      "latitude": -0.077,
+      "longitude": -77.656,
+      "elevation": 3562
+    },
+    "containedInPlace": {
+      "name": "Cordillera Real, Napo Province",
+      "country": "Ecuador"
+    },
+    "url": "https://volcanoatlas.com/volcano/reventador"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=352010",
+      "text": "Smithsonian GVP: Reventador",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.igepn.edu.ec/",
+      "text": "IG-EPN — Instituto Geofísico, Ecuador",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Ecuador",
+      "text": "Britannica: Ecuador",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "cotopaxi",
+      "chimborazo",
+      "tungurahua",
+      "sangay",
+      "guagua-pichincha"
+    ],
+    "country_pages": [
+      "ecuador"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "cotopaxi",
+    "sangay",
+    "tungurahua",
+    "guagua-pichincha",
+    "nevado-del-ruiz"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Ecuador",
+      "url": "/volcanoes-in-ecuador"
+    },
+    {
+      "label": "Reventador",
+      "url": "/volcano/reventador"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/reventador"
+}

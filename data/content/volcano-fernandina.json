@@ -1,0 +1,427 @@
+{
+  "slug": "fernandina",
+  "volcano_id": 353010,
+  "title": "Fernandina",
+  "meta_title": "Fernandina — Galápagos Eruptions & Facts | VolcanoAtlas",
+  "meta_description": "Fernandina is the most active Galápagos volcano with 33 eruptions. A 1,476 m basaltic shield on a pristine island. Full history.",
+  "quick_answer": {
+    "what": "Fernandina is an active basaltic shield volcano rising to 1,476 m (4,843 ft) on Fernandina Island (Isla Fernandina), the youngest and most volcanically active of the Galápagos Islands in Ecuador.",
+    "status": "Active — last erupted in March 2024. The most active volcano in the Galápagos archipelago, with 33 recorded eruptions since 950 CE.",
+    "famous_for": "Its dramatic 5 × 6.5 km summit caldera, its status as one of the most pristine volcanic islands on Earth (no introduced species), and a catastrophic 1968 caldera collapse that dropped the caldera floor 350 m.",
+    "danger_level": "Low direct human risk — the island is uninhabited and lies in a restricted zone of the Galápagos National Park. However, lava flows can threaten the island's unique and irreplaceable wildlife, including the Galápagos penguin, flightless cormorant, and marine iguana."
+  },
+  "hero": {
+    "name": "Fernandina",
+    "local_name": "Isla Fernandina / La Cumbre",
+    "subtitle": "The Most Active Volcano in the Galápagos",
+    "country": "Ecuador",
+    "region": "Galápagos Islands",
+    "type": "Shield volcano",
+    "elevation_m": 1476,
+    "elevation_ft": 4843,
+    "status": "Active",
+    "last_eruption": "2024",
+    "coordinates": {
+      "lat": -0.37,
+      "lon": -91.55
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06278.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,476 m (4,843 ft)",
+    "type": "Shield volcano",
+    "status": "Active",
+    "last_eruption": "March 2024",
+    "first_known_eruption": "~950 CE",
+    "total_recorded_eruptions": 33,
+    "vei_max": "4 (1968 caldera collapse)",
+    "country": "Ecuador",
+    "region": "Galápagos Islands, eastern Pacific Ocean",
+    "tectonic_setting": "Rift zone / Oceanic crust (<15 km) — Galápagos hotspot",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "0.37°S, 91.55°W",
+    "nearest_settlement": "Puerto Villamil on Isabela Island — approximately 50 km east",
+    "population_at_risk": "No permanent inhabitants; rare scientific visitors",
+    "summit_caldera": "5 × 6.5 km, approximately 900 m deep",
+    "protected_status": "Galápagos National Park (est. 1959), UNESCO World Heritage Site",
+    "monitoring_agency": "Instituto Geofísico — Escuela Politécnica Nacional (IG-EPN)",
+    "smithsonian_id": "353010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=353010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Fernandina is an active basaltic <a href=\"/types-of-volcanoes\">shield volcano</a> rising to 1,476 m (4,843 ft) on Fernandina Island (Isla Fernandina), the westernmost and youngest of the major Galápagos Islands in <a href=\"/volcanoes-in-ecuador\">Ecuador</a>. It is the most volcanically active island in the Galápagos archipelago and one of the most active shield volcanoes on Earth, with 33 recorded eruptions spanning over 1,000 years. Fernandina lies closest to the Galápagos mantle plume — the deep-seated hotspot that has built the entire island chain — and this proximity to the magma source explains its extraordinary eruption frequency. The volcano displays the classic \"overturned soup bowl\" profile characteristic of Galápagos shields: a broad, gently sloping edifice with steep upper flanks and a large, deep summit caldera measuring 5 × 6.5 km and approximately 900 m deep. The caldera formed through multiple collapse episodes, the most dramatic of which occurred in June 1968, when the caldera floor dropped 350 m following a major VEI 4 explosive eruption — the most powerful event in the Galápagos in recorded history. Fernandina Island is entirely uninhabited and has never been colonized by invasive species, making it one of the most pristine volcanic islands on Earth and a critical refuge for endemic wildlife including the Galápagos penguin, flightless cormorant, and marine iguana. The island lies within a restricted zone of the <a href=\"https://www.galapagos.org/\" target=\"_blank\" rel=\"noopener\">Galápagos National Park</a> (UNESCO World Heritage Site), and visitor access is extremely limited."
+    },
+    "geology_and_formation": {
+      "content": "Fernandina owes its existence to the Galápagos hotspot, a mantle plume that has been building volcanic islands in the eastern Pacific for at least 20 million years as the Nazca Plate moves eastward over the stationary plume. Fernandina sits at the western end of the archipelago, directly above or very near the current center of the hotspot, which is why it is the youngest major island and the most volcanically active. Unlike the subduction-zone volcanoes that dominate the <a href=\"/ring-of-fire\">Ring of Fire</a>, Fernandina erupts through oceanic crust less than 15 km thick in a rift-zone tectonic setting, producing exclusively basaltic to picro-basaltic magma. The resulting lavas are highly fluid tholeiitic basalts that build the characteristic low-angle shield morphology. The volcano's 5 × 6.5 km summit caldera is elongated NW-SE and has been deepened by several collapse events. Circumferential fissures — fractures that follow the caldera rim — are a distinctive feature of Galápagos shields and played a key role in the volcano's growth by feeding eruptions on the upper flanks. Radial fissures on the lower flanks have also produced eruptions, including flows that have reached the coast. The caldera contains nested terraces and benches formed during different collapse and infilling episodes, and prior to the 1988 collapse of the east caldera wall, it hosted a caldera lake. Fernandina's magma supply rate is among the highest of any oceanic island volcano, comparable to <a href=\"/volcano/kilauea\">Kīlauea</a> in Hawaii, and its frequent eruptions reflect the sustained delivery of basaltic melt from the underlying mantle plume."
+    },
+    "eruption_history_overview": {
+      "content": "Fernandina's eruption record includes 33 confirmed eruptions spanning from approximately 950 CE to 2024. Historical observations begin in 1813, when whalers and passing ships documented eruptions in the western Galápagos. Prior to that, three pre-historical eruptions are recorded in the geological record (~950, ~1150, ~1550 CE). The eruption frequency is remarkable: since 1813, Fernandina has erupted at least 30 times, averaging one eruption roughly every seven years. Most eruptions are effusive — producing lava flows from fissure vents on the caldera rim, caldera floor, or flanks — with low <a href=\"/volcanic-explosivity-index\">VEI</a> ratings (0–2). The major exception is the catastrophic June 1968 event (VEI 4), which involved a significant explosive phase followed by caldera floor collapse. Reporting has been inconsistent for this uninhabited island: a 1981 eruption was not witnessed at the time of its occurrence, and early 19th-century eruptions were often reported secondhand by sailors. Despite these gaps, Fernandina's record clearly establishes it as one of the most productive volcanoes in the Western Hemisphere."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1825 Eruption (VEI 3) — Witnessed by Captain Morrell",
+          "content": "On February 14, 1825, American sea captain Benjamin Morrell witnessed an eruption on Fernandina's east summit and southeast flank that he described in dramatic terms, claiming the sea surface around the island was so hot that pitch melted on his ship's hull. While Morrell's account is considered exaggerated by modern volcanologists, the eruption was clearly substantial — rated VEI 3 — and produced lava flows from both summit and flank vents. This remains one of the best-documented 19th-century eruptions in the Galápagos."
+        },
+        {
+          "title": "The 1968 Caldera Collapse (VEI 4) — Fernandina's Most Violent Event",
+          "content": "The most powerful eruption in recorded Galápagos history began on May 21, 1968, with an eruption on the ESE flank at approximately 600 m elevation. Three weeks later, on June 11, a major explosive eruption from the west caldera wall produced an ash column that rose to high altitude, and the caldera floor dropped approximately 350 m — a catastrophic collapse event that swallowed the pre-existing caldera lake. The collapse generated a massive debris avalanche within the caldera and deposited ash across the archipelago. The VEI 4 rating makes this the largest explosive event documented in the Galápagos. The 1968 collapse reshaped the caldera's internal geometry, creating the deep floor and steep walls visible today. Scientific studies of this event have provided crucial insights into caldera dynamics and the relationship between magma withdrawal and roof collapse at basaltic shield volcanoes."
+        },
+        {
+          "title": "The 1988 Eruption — East Caldera Wall Collapse",
+          "content": "During an eruption on September 14, 1988, a nearly 1 km³ section of the east caldera wall collapsed, producing a massive debris-avalanche deposit that covered much of the caldera floor and absorbed the caldera lake that had reformed since 1968. The collapse dramatically altered the caldera's internal topography and provided a natural laboratory for studying large-scale mass wasting at volcanic calderas. Lava flows from vents at the base of the ESE and NW caldera walls accompanied the collapse."
+        },
+        {
+          "title": "The 1995 Eruption — Lava Reaches the Coast",
+          "content": "In January 1995, an eruption from a vent on the SW flank produced lava flows that traveled the full distance to the coast, entering the ocean and creating new land. The lava flows crossed through habitat used by marine iguanas, flightless cormorants, and Galápagos penguins, raising conservation concerns about the impact of volcanic activity on the island's irreplaceable endemic species. Fortunately, these highly mobile species were able to relocate away from the relatively slow-moving pāhoehoe flows."
+        },
+        {
+          "title": "The 2017–2024 Eruption Cluster",
+          "content": "Fernandina has erupted four times since 2017, highlighting its sustained high activity. The September 2017 eruption (VEI 2) produced lava flows from the SSW caldera rim and La Cumbre crater. The June 2018 eruption fed flows from a radial fissure on the NNE flank. A brief eruption in January 2020 was followed by the most recent event in March 2024, when lava erupted from the SE flank. Each eruption was monitored by Ecuador's Instituto Geofísico primarily via satellite remote sensing, as the island's remoteness and restricted access limit ground-based observations."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Fernandina is classified as active and is monitored remotely by the Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN) in Quito, Ecuador. Due to the island's uninhabited status and restricted access within the Galápagos National Park, monitoring relies heavily on satellite remote sensing — including thermal anomaly detection, SO₂ measurements from OMI/TROPOMI sensors, and InSAR deformation analysis — supplemented by seismometers deployed on the island. The volcano erupted most recently in March 2024 and has averaged one eruption every 3–4 years over the past two decades. Given this frequency, volcanologists consider another eruption in the near future to be virtually certain. The primary concern is not human safety but the potential impact of lava flows on Fernandina's unique and irreplaceable endemic species, particularly the flightless cormorant and Galápagos penguin, whose global populations are concentrated in the western Galápagos."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Fernandina poses negligible direct risk to human populations — the island is uninhabited and access is restricted to occasional scientific expeditions and strictly regulated Galápagos National Park tours. The volcano's hazards are primarily ecological. Lava flows from flank eruptions can inundate coastal habitat critical for endemic species: the 1995 eruption sent lava through areas used by marine iguanas and flightless cormorants. The caldera's history of catastrophic collapse events (1968, 1988) demonstrates the potential for large-scale mass wasting that could generate local tsunamis if debris entered the ocean. The 1968 VEI 4 eruption shows that Fernandina can produce explosive events unusual for basaltic shield volcanoes, likely driven by the interaction of magma with caldera-floor lake water or hydrothermal fluids. In the broader context of the Galápagos, Fernandina's frequent eruptions pose more of a conservation risk than a human safety risk — a situation unique among the world's most active volcanoes."
+    },
+    "geography_and_physical_description": {
+      "content": "Fernandina Island is roughly oval, measuring approximately 35 km north-south and 30 km east-west, with a total area of about 642 km². The volcano displays the classic Galápagos shield profile — a broad, gently sloping base with steeper upper flanks converging on the massive summit caldera. The caldera measures 5 × 6.5 km, elongated NW-SE, and is approximately 900 m deep — one of the deepest calderas relative to volcano height of any shield volcano on Earth. The caldera floor contains nested benches and terraces formed during successive collapse and infilling episodes, with the debris from the 1988 east-wall collapse covering much of the present floor. The island's coastline is rugged and rocky, with black basalt lava flows entering the sea at numerous points. Vegetation is sparse on the upper slopes but includes Bursera and Scalesia forests at lower elevations. Fernandina's western and northern coasts provide critical nesting and foraging habitat for the flightless cormorant, Galápagos penguin, and marine iguana, making the island one of the most ecologically valuable in the entire archipelago. The Bolívar Channel, separating Fernandina from Isabela Island to the east, is one of the richest marine environments in the Galápagos due to upwelling of cold, nutrient-rich waters."
+    },
+    "climate_and_global_impact": {
+      "content": "Fernandina's eruptions have had no measurable global climate impact. The volcano's basaltic shield eruptions are overwhelmingly effusive, producing lava flows that release SO₂ at ground level rather than injecting aerosols into the stratosphere. Even the 1968 VEI 4 event — while explosive by Galápagos standards — was small compared to the VEI 5–7 eruptions (such as <a href=\"/volcano/tambora\">Tambora</a> in 1815 or <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991) that have demonstrably altered global climate. Locally, eruptions contribute SO₂ and other volcanic gases to the lower atmosphere, but the remote oceanic setting and typically low eruption columns limit any atmospheric effects."
+    },
+    "cultural_significance": {
+      "content": "Fernandina Island is named after King Ferdinand II of Aragon, who sponsored Christopher Columbus's voyage to the Americas. In the Galápagos context, Fernandina holds a special place as the archipelago's most pristine major island — it has never been colonized by humans and remains free of introduced species (rats, goats, cats, etc.) that have devastated ecosystems on other Galápagos islands. This makes Fernandina a living laboratory for understanding volcanic island ecology in the absence of human disturbance. Charles Darwin did not visit Fernandina during the voyage of the Beagle in 1835, but the island's endemic wildlife — particularly the flightless cormorant, which exists nowhere else on Earth — has become iconic in evolutionary biology. The volcano's frequent eruptions and the resilience of its endemic species provide ongoing opportunities for studying how volcanic activity shapes island ecosystems and drives natural selection. In 2019, a living specimen of the Fernandina Island Galápagos giant tortoise (Chelonoidis phantasticus) was rediscovered after the species had been considered potentially extinct for over a century — a reminder of the island's capacity for extraordinary biological discoveries."
+    },
+    "visiting_and_tourism": {
+      "content": "Access to Fernandina Island is highly restricted. Visitors to the Galápagos National Park can land at Punta Espinoza, a narrow lava point on the island's northeastern tip, as part of regulated multi-day cruise itineraries. Punta Espinoza offers remarkable wildlife viewing — marine iguanas, flightless cormorants, Galápagos penguins, sea lions, and Sally Lightfoot crabs are commonly seen at close range. However, hiking beyond the designated visitor area is not permitted, and summit visits are generally restricted to authorized scientific expeditions. All visits must be accompanied by licensed Galápagos National Park naturalist guides. The island is reached exclusively by boat from the main Galápagos tourism hubs (Puerto Ayora on Santa Cruz, or Puerto Villamil on Isabela). Visitors should be aware that volcanic activity can result in temporary closure of landing sites."
+    },
+    "nearby_volcanoes": {
+      "content": "Fernandina lies at the western end of the Galápagos archipelago, separated from Isabela Island by the narrow Bolívar Channel. Isabela itself is composed of six coalescing shield volcanoes, several of which are active: Wolf (the tallest Galápagos volcano at 1,710 m, last erupted 2022), Sierra Negra (second-largest caldera in the Galápagos, last erupted 2018), Cerro Azul (last erupted 2008), Darwin, Alcedo, and Ecuador. Together with Fernandina, these western Galápagos shields represent one of the most concentrated clusters of active basaltic volcanoes on Earth, all fed by the Galápagos hotspot. The volcanic system is analogous to — and frequently compared with — the Hawaiian Islands, built by a similar hotspot mechanism. Fernandina's eruption frequency exceeds that of any individual Hawaiian volcano except <a href=\"/volcano/kilauea\">Kīlauea</a>, placing it among the most productive shield volcanoes globally."
+    },
+    "etymology": {
+      "content": "Fernandina Island was named in 1832 by the Ecuadorian government in honor of King Ferdinand II of Aragon (Fernando II de Aragón), who with Queen Isabella sponsored Columbus's voyages. The summit caldera is sometimes referred to as 'La Cumbre' ('The Summit'). Earlier names for the island include 'Narborough Island,' named by English buccaneers after the British admiral Sir John Narborough."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Fernandina Compared to the World's Most Active Shield Volcanoes",
+      "description": "How does Fernandina compare to other major shield volcanoes worldwide?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Fernandina",
+          "Ecuador",
+          "1,476 m",
+          "Shield",
+          "2024",
+          "4",
+          "33"
+        ],
+        [
+          "Kīlauea",
+          "USA (Hawaii)",
+          "1,222 m",
+          "Shield",
+          "2023",
+          "4",
+          "70+"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2024",
+          "2",
+          "180+"
+        ],
+        [
+          "Wolf",
+          "Ecuador (Galápagos)",
+          "1,710 m",
+          "Shield",
+          "2022",
+          "2",
+          "12"
+        ],
+        [
+          "Sierra Negra",
+          "Ecuador (Galápagos)",
+          "1,124 m",
+          "Shield",
+          "2018",
+          "3",
+          "14"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 950,
+      "vei": 0,
+      "label": "Earliest recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1813,
+      "vei": 2,
+      "label": "First historically observed eruption — south flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1825,
+      "vei": 3,
+      "label": "Witnessed by Captain Morrell — east summit and SE flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1958,
+      "vei": 2,
+      "label": "Eruption from SE, SW and west caldera rim",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1968,
+      "vei": 4,
+      "label": "Catastrophic caldera collapse — floor drops 350 m",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1988,
+      "vei": 2,
+      "label": "East caldera wall collapse — ~1 km³ debris avalanche",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1995,
+      "vei": 2,
+      "label": "SW flank eruption — lava reaches coast",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2005,
+      "vei": 2,
+      "label": "South caldera rim eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2009,
+      "vei": 2,
+      "label": "SW flank eruption at 400 m elevation",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2017,
+      "vei": 2,
+      "label": "SSW caldera rim and La Cumbre crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2018,
+      "vei": 1,
+      "label": "Radial fissure eruption on NNE flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2024,
+      "vei": 1,
+      "label": "Most recent eruption — SE flank",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-1800",
+      "count": 6,
+      "note": "Including ~950, ~1150, ~1550 CE and early 1800s observations"
+    },
+    {
+      "century": "19th",
+      "count": 7
+    },
+    {
+      "century": "20th",
+      "count": 14
+    },
+    {
+      "century": "21st",
+      "count": 6
+    }
+  ],
+  "facts": [
+    "Fernandina is the most active volcano in the Galápagos Islands, with 33 recorded eruptions — more than any other island in the archipelago.",
+    "The 1968 caldera collapse dropped the caldera floor approximately 350 m in a single event, swallowing a pre-existing caldera lake — the most powerful explosive eruption ever documented in the Galápagos.",
+    "Fernandina Island has never been colonized by invasive species, making it one of the most pristine volcanic islands on Earth.",
+    "The 1988 eruption caused the collapse of nearly 1 km³ of the east caldera wall, generating a massive debris avalanche that covered the caldera floor.",
+    "Fernandina's summit caldera is 5 × 6.5 km and approximately 900 m deep — one of the deepest calderas relative to volcano height of any shield volcano on Earth.",
+    "The island is home to the flightless cormorant (Phalacrocorax harrisi), which exists nowhere else on the planet and has evolved in response to the island's unique volcanic ecology.",
+    "In 2019, a living Fernandina giant tortoise (Chelonoidis phantasticus) was rediscovered on the island after being considered potentially extinct for over a century.",
+    "Captain Benjamin Morrell, who witnessed the 1825 eruption, claimed the sea around Fernandina boiled so intensely that pitch melted on his ship — an account modern volcanologists consider greatly exaggerated.",
+    "Fernandina lies directly above the Galápagos mantle plume, the hotspot that has built the entire island chain over at least 20 million years.",
+    "The volcano erupts exclusively basaltic lava — highly fluid flows that can travel from the summit to the coast, a distance of over 10 km.",
+    "Fernandina's eruption frequency — roughly one event every 3–4 years in recent decades — rivals that of Kīlauea in Hawaii.",
+    "The Bolívar Channel between Fernandina and Isabela is one of the richest marine environments in the Galápagos due to cold-water upwelling."
+  ],
+  "faqs": [
+    {
+      "question": "Is Fernandina volcano active?",
+      "answer": "Yes, Fernandina is the most active volcano in the Galápagos Islands and one of the most active shield volcanoes on Earth. It has erupted 33 times in its recorded history, with the most recent eruption occurring in March 2024. The volcano has averaged one eruption every 3–4 years in recent decades, and volcanologists consider another eruption in the near future to be virtually certain. It is monitored by Ecuador's Instituto Geofísico primarily through satellite remote sensing."
+    },
+    {
+      "question": "When did Fernandina last erupt?",
+      "answer": "Fernandina's most recent eruption occurred on March 2, 2024, producing lava flows from the SE flank (VEI 1). Prior to that, the volcano erupted in January 2020, June 2018, and September 2017. This cluster of four eruptions in seven years is consistent with the volcano's long-term pattern of high-frequency effusive activity, punctuated occasionally by larger events like the catastrophic 1968 caldera collapse."
+    },
+    {
+      "question": "What happened during the 1968 Fernandina eruption?",
+      "answer": "The 1968 eruption was the most powerful explosive event ever recorded in the Galápagos. It began on May 21 with a flank eruption, then escalated on June 11 when a major explosive eruption from the west caldera wall caused the caldera floor to collapse approximately 350 m, swallowing a pre-existing lake. Rated VEI 4, it generated a massive debris avalanche within the caldera and deposited ash across the archipelago. The event fundamentally reshaped the caldera's internal geometry."
+    },
+    {
+      "question": "Can you visit Fernandina Island?",
+      "answer": "Access to Fernandina is highly restricted. Visitors can land at Punta Espinoza on the northeastern tip as part of regulated Galápagos cruise itineraries. This site offers exceptional wildlife viewing, including marine iguanas, flightless cormorants, and Galápagos penguins at close range. All visits require licensed Galápagos National Park guides. Hiking beyond the designated visitor area and summit visits are not permitted for tourists."
+    },
+    {
+      "question": "Why is Fernandina so volcanically active?",
+      "answer": "Fernandina is the Galápagos island closest to the underlying mantle plume (hotspot) that has built the entire archipelago. This proximity to the magma source provides a sustained, high-rate supply of basaltic melt to the volcano's plumbing system. The thin oceanic crust (less than 15 km) beneath the island offers little resistance to rising magma, allowing frequent eruptions. The same hotspot mechanism is responsible for building the Hawaiian Islands, and Fernandina's eruption rate is comparable to Kīlauea's."
+    },
+    {
+      "question": "What type of volcano is Fernandina?",
+      "answer": "Fernandina is a basaltic shield volcano — a broad, gently sloping volcanic edifice built primarily from highly fluid lava flows. It displays the classic Galápagos 'overturned soup bowl' profile: a wide base with steeper upper flanks and a large summit caldera (5 × 6.5 km). The volcano erupts exclusively basaltic to picro-basaltic magma, typical of hotspot volcanism on oceanic crust, and most eruptions are effusive rather than explosive."
+    },
+    {
+      "question": "How tall is Fernandina?",
+      "answer": "Fernandina rises to 1,476 m (4,843 ft) above sea level. While not the tallest Galápagos volcano (Wolf on Isabela reaches 1,710 m), Fernandina is the most voluminous and most active. The summit caldera is approximately 900 m deep, meaning the actual caldera rim stands at about 1,476 m while the floor lies at roughly 576 m — a dramatic drop visible from the rim."
+    },
+    {
+      "question": "Are there any people living on Fernandina Island?",
+      "answer": "No, Fernandina Island is completely uninhabited and has never had permanent human residents. The island lies within a restricted zone of the Galápagos National Park and is visited only by authorized scientific expeditions and strictly regulated tourist groups landing at Punta Espinoza. Remarkably, Fernandina is also free of all introduced species — no rats, goats, cats, or other invasive animals have established populations, making it the most pristine major island in the Galápagos."
+    }
+  ],
+  "people_also_search": [
+    "fernandina island galapagos",
+    "fernandina volcano eruption",
+    "galapagos shield volcanoes",
+    "fernandina caldera collapse 1968",
+    "most active galapagos volcano",
+    "la cumbre volcano",
+    "fernandina island wildlife"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Fernandina",
+    "alternateName": [
+      "La Cumbre",
+      "Narborough Island"
+    ],
+    "description": "Most active Galápagos shield volcano, rising to 1,476 m on a pristine uninhabited island with 33 recorded eruptions",
+    "geo": {
+      "latitude": -0.37,
+      "longitude": -91.55,
+      "elevation": 1476
+    },
+    "containedInPlace": {
+      "name": "Galápagos Islands",
+      "country": "Ecuador"
+    },
+    "url": "https://volcanoatlas.com/volcano/fernandina"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=353010",
+      "text": "Smithsonian GVP: Fernandina",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.igepn.edu.ec/",
+      "text": "IG-EPN — Ecuador Instituto Geofísico",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.galapagos.org/",
+      "text": "Galápagos Conservancy",
+      "type": "conservation"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1",
+      "text": "UNESCO: Galápagos Islands World Heritage",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.britannica.com/place/Galapagos-Islands",
+      "text": "Britannica: Galápagos Islands",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "piton-de-la-fournaise",
+      "cotopaxi"
+    ],
+    "country_pages": [
+      "ecuador"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "kilauea",
+    "piton-de-la-fournaise",
+    "wolf",
+    "sierra-negra",
+    "cerro-azul"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Ecuador",
+      "url": "/volcanoes-in-ecuador"
+    },
+    {
+      "label": "Fernandina",
+      "url": "/volcano/fernandina"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/fernandina"
+}

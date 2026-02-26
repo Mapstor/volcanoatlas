@@ -1,0 +1,365 @@
+{
+  "slug": "momotombo",
+  "volcano_id": 344090,
+  "title": "Momotombo",
+  "meta_title": "Momotombo Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Momotombo is a 1,270 m active stratovolcano on Lake Managua, Nicaragua. Explore its 22 eruptions, the 2015 reawakening, geothermal energy, and visitor info.",
+  "quick_answer": {
+    "what": "Momotombo is a young, symmetrical stratovolcano rising to 1,270 m (4,167 ft) on the northwestern shore of Lake Managua in Nicaragua, forming one of the country's most iconic landmarks.",
+    "status": "Active — last erupted in December 2015–2016 after 110 years of dormancy. Geothermally active with a major power plant on its southern flank.",
+    "famous_for": "Its near-perfect conical symmetry, its role in forcing the relocation of the colonial capital León Viejo, the dramatic 2015 reawakening, and Nicaragua's first geothermal power plant on its slopes.",
+    "danger_level": "Moderate — the city of La Paz Centro (~35,000) and communities along Lake Managua's shore lie within hazard zones. The 2015 eruption prompted evacuations."
+  },
+  "hero": {
+    "name": "Momotombo",
+    "local_name": null,
+    "subtitle": "Nicaragua's Iconic Volcanic Sentinel on Lake Managua",
+    "country": "Nicaragua",
+    "region": "León Department, Marrabios Range",
+    "type": "Stratovolcano",
+    "elevation_m": 1270,
+    "elevation_ft": 4167,
+    "status": "Active",
+    "last_eruption": "2016",
+    "coordinates": {
+      "lat": 12.423,
+      "lon": -86.539
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04164.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,270 m (4,167 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "2015–2016",
+    "first_known_eruption": "~2550 BCE",
+    "total_recorded_eruptions": 22,
+    "vei_max": "4 (~800 BCE, 1605–1606)",
+    "country": "Nicaragua",
+    "region": "León Department, Marrabios Range",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "12.423°N, 86.539°W",
+    "nearest_city": "La Paz Centro — approximately 20 km southeast (population ~35,000)",
+    "population_at_risk": "~50,000 within hazard zones along Lake Managua",
+    "summit_crater": "150 × 250 m wide, with active fumaroles",
+    "geothermal_plant": "Momotombo Geothermal Plant on south flank (35 MW capacity)",
+    "related_features": "Momotombito island cone in Lake Managua; Monte Galán caldera (NW flank)",
+    "monitoring_agency": "INETER (Instituto Nicaragüense de Estudios Territoriales)",
+    "smithsonian_id": "344090",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=344090"
+  },
+  "sections": {
+    "overview": {
+      "content": "Momotombo is a young, beautifully symmetrical <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 1,270 m (4,167 ft) above the northwestern shore of Lake Managua (Lago Xolotlán) in <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>. One of the most recognizable volcanoes in Central America, its near-perfect cone forms a defining element of the Nicaraguan landscape, visible from the capital city of Managua approximately 60 km to the southeast. Momotombo stands at the southeastern end of the Marrabios Range, a volcanic chain stretching along Nicaragua's Pacific lowlands.\n\nThe volcano began growing approximately 4,500 years ago and has accumulated a long record of Strombolian eruptions punctuated by occasional stronger explosive events. Its 22 recorded eruptions include two VEI 4 events — one around 800 BCE and another in 1605–1606. After a major eruption and lava flow in 1905, Momotombo fell silent for 110 years, leading some to speculate that the volcano might be entering a prolonged dormant phase. That assumption was shattered on December 1, 2015, when Momotombo erupted explosively from its summit crater in a dramatic reawakening that was broadcast live by Nicaraguan media. The eruption continued into early 2016, producing incandescent Strombolian explosions and lava flows on the northwestern flank. Momotombo is situated within the <a href=\"/ring-of-fire\">Ring of Fire</a> and is driven by the subduction of the Cocos Plate beneath the Caribbean Plate."
+    },
+    "geology_and_formation": {
+      "content": "Momotombo is a young volcanic edifice, having begun its construction approximately 4,500 years ago at the southeastern terminus of the Marrabios volcanic range. The volcano consists of a somma remnant from an older edifice surmounted by a symmetrical younger cone. The summit hosts a 150 × 250 m crater with active fumaroles. Young basaltic lava flows extend down the northwest flank into the 4-km-wide Monte Galán caldera, a collapse structure on the volcano's northwestern side. The island cone of Momotombito, rising from the waters of Lake Managua offshore, is a related volcanic feature.\n\nThe tectonic engine is the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench, which lies approximately 100 km to the southwest. This subduction zone feeds the Central American Volcanic Arc — one of the most active volcanic chains on Earth, stretching from Guatemala to Costa Rica. Momotombo's predominantly basaltic composition is relatively unusual for a stratovolcano in a subduction setting, where andesitic compositions are more typical. This basaltic character contributes to the volcano's predominantly Strombolian eruption style, though VEI 4 events demonstrate that more explosive behavior is possible. A significant geothermal field on the south flank — exploited by Nicaragua's first geothermal power plant — confirms vigorous heat flow from the magmatic system."
+    },
+    "eruption_history_overview": {
+      "content": "Momotombo's eruption record documents 22 eruptive events spanning approximately 4,500 years. Two VEI 4 eruptions — around 800 BCE and in 1605–1606 — represent the volcano's most powerful recorded events. The historical record since the Spanish colonial period is remarkably detailed for a Central American volcano. The 1524 eruption (VEI 3) was observed by Spanish conquistadors and contributed to the decision to relocate the colonial capital of León. Subsequent eruptions throughout the 16th–19th centuries maintained a pattern of Strombolian activity at predominantly VEI 2. The 1905 eruption was notable for producing a lava flow that traveled from the summit to the lower northeastern base — the most recent lava effusion at the volcano. After 110 years of dormancy, the December 2015 eruption dramatically demonstrated that Momotombo remained very much active."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1605–1606 Eruption — A VEI 4 Explosive Event",
+          "content": "The most powerful eruption of Momotombo in the historical record occurred in 1605–1606, rated <a href=\"/volcanic-explosivity-index\">VEI</a> 4. This major explosive event produced significant pyroclastic material and ashfall across the region. The eruption's intensity was substantially greater than Momotombo's typical Strombolian activity and would have posed severe hazards to communities near the volcano. This event demonstrates that despite its predominantly mild eruption style, Momotombo is capable of eruptions an order of magnitude more powerful than its baseline activity."
+        },
+        {
+          "title": "The 1524 Eruption and the Relocation of León",
+          "content": "When Spanish conquistadors under Francisco Hernández de Córdoba founded the city of León at the foot of Momotombo in 1524, the volcano was erupting (VEI 3). The ongoing volcanic activity, combined with earthquake damage, eventually forced the abandonment and relocation of the city. The original settlement, now known as León Viejo (\"Old León\"), was buried by volcanic deposits and rediscovered in the 20th century. It was designated a <a href=\"https://whc.unesco.org/en/list/613\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> in 2000, preserved as a remarkable archaeological record of early Spanish colonialism in the Americas."
+        },
+        {
+          "title": "The 1905 Eruption — Summit-to-Base Lava Flow",
+          "content": "The 1905 eruption, beginning on January 16, produced the most recent lava flow at Momotombo — a stream of basaltic lava that descended from the summit all the way to the lower northeastern base of the volcano. Rated VEI 2, this eruption marked the end of a remarkably active 19th century during which Momotombo erupted roughly every decade. After the 1905 event, the volcano fell silent for 110 years."
+        },
+        {
+          "title": "The 2015–2016 Eruption — The Dramatic Reawakening",
+          "content": "On December 1, 2015, Momotombo erupted explosively after 110 years of dormancy, ending the longest repose period in its recorded history. The eruption produced spectacular nighttime Strombolian explosions visible from Managua and surrounding cities, with incandescent lava fragments ejected hundreds of meters above the summit crater. Lava flows descended the northwestern flank toward the Monte Galán caldera. The eruption was rated VEI 2 and continued into early 2016. INETER, Nicaragua's territorial studies institute, issued alerts and temporary evacuations were ordered for nearby communities. The eruption attracted global media attention and served as a powerful reminder that long-dormant volcanoes can reawaken with little warning."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Following the 2015–2016 eruption, Momotombo returned to a state of elevated quiescence with ongoing fumarolic activity at the summit crater. The volcano is monitored by INETER (Instituto Nicaragüense de Estudios Territoriales), which operates seismic stations and visual observation networks. The Momotombo geothermal plant on the southern flank also provides indirect monitoring data, as changes in geothermal output can reflect variations in the underlying magmatic system. The 2015 reawakening demonstrated that Momotombo's 110-year dormancy was not an indication of declining activity, and scientists consider future eruptions likely. The volcano's alert level is maintained at an elevated state, with protocols in place for rapid evacuation of nearby communities."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Momotombo's hazards include lava flows, pyroclastic material, ashfall, and potentially lahars during heavy rainfall. The 1905 summit-to-base lava flow demonstrates that lava can reach the volcano's lower flanks. VEI 4 eruptions in ~800 BCE and 1605–1606 show capacity for significant explosive events that would produce widespread pyroclastic fall and potential pyroclastic flows. The town of La Paz Centro (population approximately 35,000) lies about 20 km southeast, and numerous smaller communities dot the shores of Lake Managua within potential hazard zones. The Momotombo geothermal plant on the south flank would be at direct risk from lava flows or pyroclastic activity. Ashfall from a moderate eruption could reach Managua (population approximately 1 million), 60 km to the southeast. Lake Managua itself could be affected by volcanic debris entering the water, though tsunami risk within the lake is considered low."
+    },
+    "geography_and_physical_description": {
+      "content": "Momotombo's near-perfect conical profile is one of the most photographed volcanic silhouettes in Central America. The volcano rises steeply from the northwestern shore of Lake Managua, Nicaragua's second-largest lake. The summit hosts a 150 × 250 m crater with persistent fumarolic emissions. On the northwestern side, the 4-km-wide Monte Galán caldera — a collapse structure — extends the volcanic complex. Offshore in Lake Managua, the small cone of Momotombito island (450 m elevation) is a related volcanic feature. The lower flanks are sparsely vegetated with tropical dry forest, while the upper cone is barren rock and scoria. The Marrabios Range extends to the northwest, including other active volcanoes such as Telica and San Cristóbal — Nicaragua's highest volcano at 1,745 m."
+    },
+    "cultural_significance": {
+      "content": "Momotombo is deeply embedded in Nicaraguan national identity. Its symmetrical cone has been depicted in art, literature, and popular culture for centuries. The Nicaraguan poet Rubén Darío — Latin America's most celebrated modernist poet — immortalized the volcano in his poetry. The ruins of León Viejo at the volcano's base, a UNESCO World Heritage Site since 2000, represent one of the oldest and best-preserved Spanish colonial settlements in the Americas, abandoned in part because of Momotombo's eruptions. The volcano also holds significance in indigenous Chorotega and Nahuatl traditions as a sacred landscape feature. The modern geothermal plant on its slopes represents a practical dimension of the volcano's importance — harnessing volcanic energy for Nicaragua's electricity grid."
+    },
+    "nearby_volcanoes": {
+      "content": "Momotombo lies at the southeastern end of Nicaragua's Marrabios volcanic range, a chain of active volcanoes stretching northwest along the Pacific lowlands. <a href=\"/volcano/telica\">Telica</a> (1,061 m), a frequently active volcano known for gas emissions and explosive eruptions, lies approximately 35 km to the northwest. San Cristóbal (1,745 m), the highest volcano in Nicaragua, stands roughly 60 km northwest. <a href=\"/volcano/masaya\">Masaya</a> (635 m), one of the most accessible active volcanoes in the world with its persistent lava lake, lies about 40 km to the south. <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a> hosts 13 Holocene volcanoes, nearly all along the Central American Volcanic Arc that parallels the Pacific coast."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Momotombo Compared to Other Nicaraguan Volcanoes",
+      "description": "How does Momotombo compare to other active volcanoes in Nicaragua's Marrabios Range and beyond?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Momotombo",
+          "Nicaragua",
+          "1,270 m",
+          "Stratovolcano",
+          "2016",
+          "4",
+          "22"
+        ],
+        [
+          "San Cristóbal",
+          "Nicaragua",
+          "1,745 m",
+          "Stratovolcano",
+          "2013",
+          "3",
+          "14"
+        ],
+        [
+          "Telica",
+          "Nicaragua",
+          "1,061 m",
+          "Stratovolcano",
+          "2020",
+          "3",
+          "21"
+        ],
+        [
+          "Masaya",
+          "Nicaragua",
+          "635 m",
+          "Caldera",
+          "2024",
+          "4",
+          "21"
+        ],
+        [
+          "Cerro Negro",
+          "Nicaragua",
+          "728 m",
+          "Cinder cone",
+          "1999",
+          "3",
+          "23"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2550,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "notable": false
+    },
+    {
+      "year": -800,
+      "vei": 4,
+      "label": "Major explosive eruption (VEI 4)",
+      "notable": true
+    },
+    {
+      "year": 1524,
+      "vei": 3,
+      "label": "Eruption witnessed by Spanish conquistadors; led to León relocation",
+      "notable": true
+    },
+    {
+      "year": 1605,
+      "vei": 4,
+      "label": "Largest historical eruption (VEI 4)",
+      "notable": true
+    },
+    {
+      "year": 1905,
+      "vei": 2,
+      "label": "Summit-to-base lava flow; last eruption before 110-year dormancy",
+      "notable": true
+    },
+    {
+      "year": 2015,
+      "vei": 2,
+      "label": "Dramatic reawakening after 110 years",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3,
+      "note": "~2550 BCE to ~800 BCE"
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 7
+    },
+    {
+      "century": "20th",
+      "count": 3
+    },
+    {
+      "century": "21st",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Momotombo's 2015 eruption ended 110 years of dormancy — the longest quiet period in the volcano's recorded history.",
+    "The original colonial capital of León, founded in 1524 at the base of Momotombo, was abandoned due to volcanic and seismic activity; the ruins of León Viejo are now a UNESCO World Heritage Site.",
+    "Nicaragua's first geothermal power plant was built on Momotombo's southern flank, with a capacity of 35 megawatts, harnessing the volcano's internal heat for electricity.",
+    "The Nicaraguan poet Rubén Darío, considered the father of Latin American literary modernism, immortalized Momotombo in his poetry.",
+    "The 1905 eruption produced a lava flow that traveled from the 1,270 m summit all the way to the northeastern base of the volcano.",
+    "Momotombito, a small cone rising from Lake Managua offshore of Momotombo, is a related volcanic feature that creates a picturesque island in the lake.",
+    "The volcano began forming only about 4,500 years ago, making it one of the youngest stratovolcanoes in the Central American Volcanic Arc.",
+    "Two VEI 4 eruptions — around 800 BCE and in 1605–1606 — demonstrate that Momotombo is capable of eruptions far more powerful than its typical Strombolian activity.",
+    "Momotombo's near-perfect conical profile makes it one of the most photographed and recognized volcanic silhouettes in Central America.",
+    "The volcano is visible from Managua, approximately 60 km to the southeast, where its cone punctuates the skyline above Lake Managua."
+  ],
+  "faqs": [
+    {
+      "question": "Is Momotombo an active volcano?",
+      "answer": "Yes, Momotombo is an active stratovolcano. It most recently erupted in December 2015 through early 2016, ending a 110-year dormant period that had begun after the 1905 eruption. The 2015 reawakening produced dramatic Strombolian explosions and lava flows. The volcano has 22 recorded eruptions spanning approximately 4,500 years. Active fumaroles at the summit crater and a productive geothermal field on the south flank confirm ongoing heat from the magmatic system. Scientists consider future eruptions highly likely."
+    },
+    {
+      "question": "When did Momotombo last erupt?",
+      "answer": "Momotombo last erupted from December 1, 2015, through early 2016. The eruption produced incandescent Strombolian explosions from the summit crater, visible at night from cities across western Nicaragua, along with lava flows on the northwestern flank. Rated VEI 2, this eruption ended 110 years of dormancy that followed the 1905 eruption. The event triggered evacuations of nearby communities and attracted widespread media coverage as a dramatic example of volcanic reawakening."
+    },
+    {
+      "question": "What happened to León Viejo?",
+      "answer": "León Viejo (Old León) was the original colonial capital of Nicaragua, founded by Spanish conquistadors in 1524 at the base of Momotombo. The settlement was abandoned in the early 17th century due to repeated volcanic eruptions and earthquakes, with the capital relocated to its current site further northwest. The ruins were buried by volcanic deposits and largely forgotten until their rediscovery in the 20th century. Excavations revealed remarkably preserved colonial-era structures, and León Viejo was designated a UNESCO World Heritage Site in 2000."
+    },
+    {
+      "question": "How tall is Momotombo?",
+      "answer": "Momotombo rises to 1,270 m (4,167 ft) above sea level. While modest compared to some of the world's great volcanic peaks, the volcano's height is visually amplified by its position on the flat shores of Lake Managua and its near-perfect conical symmetry. For comparison, Nicaragua's tallest volcano, San Cristóbal, reaches 1,745 m (5,725 ft). Momotombo is notable not for its height but for its youthfulness — the entire edifice has been built in approximately 4,500 years."
+    },
+    {
+      "question": "Does Momotombo produce geothermal energy?",
+      "answer": "Yes, a geothermal power plant with a capacity of approximately 35 megawatts operates on Momotombo's southern flank, making it Nicaragua's first and one of its most important geothermal energy facilities. The plant harnesses heat from the volcano's subsurface magmatic system to generate electricity. Geothermal energy is a significant component of Nicaragua's renewable energy strategy. The plant's location on an active volcano presents both advantages (abundant heat) and risks (potential disruption from eruptions)."
+    },
+    {
+      "question": "Is Momotombo dangerous?",
+      "answer": "Momotombo poses moderate risk to surrounding populations. The town of La Paz Centro (~35,000 people) lies about 20 km to the southeast, and communities along Lake Managua's shore are within hazard zones. VEI 4 eruptions in ~800 BCE and 1605–1606 demonstrate capacity for significant explosive events. Lava flows, pyroclastic fallout, and ashfall are the primary hazards. The geothermal plant on the south flank is also at risk. Ashfall from a larger eruption could reach Managua (population ~1 million), 60 km southeast."
+    }
+  ],
+  "people_also_search": [
+    "momotombo eruption 2015",
+    "nicaragua volcanoes",
+    "leon viejo UNESCO",
+    "momotombo geothermal",
+    "marrabios range volcanoes",
+    "momotombo height"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Momotombo",
+    "description": "Active basaltic stratovolcano on Lake Managua, Nicaragua, famous for its symmetrical cone, the León Viejo UNESCO site, and 2015 reawakening",
+    "geo": {
+      "latitude": 12.423,
+      "longitude": -86.539,
+      "elevation": 1270
+    },
+    "containedInPlace": {
+      "name": "León Department",
+      "country": "Nicaragua"
+    },
+    "url": "https://volcanoatlas.com/volcano/momotombo"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=344090",
+      "text": "Smithsonian GVP: Momotombo",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ineter.gob.ni/",
+      "text": "INETER — Nicaraguan Territorial Studies Institute",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/613",
+      "text": "UNESCO: Ruins of León Viejo",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.britannica.com/place/Nicaragua",
+      "text": "Britannica: Nicaragua",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "masaya",
+      "telica",
+      "cerro-negro",
+      "fuego",
+      "arenal"
+    ],
+    "country_pages": [
+      "nicaragua"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "masaya",
+    "telica",
+    "cerro-negro",
+    "san-cristobal",
+    "concepcion"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Nicaragua",
+      "url": "/volcanoes-in-nicaragua"
+    },
+    {
+      "label": "Momotombo",
+      "url": "/volcano/momotombo"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/momotombo"
+}

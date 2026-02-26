@@ -1,0 +1,522 @@
+{
+  "slug": "colima",
+  "volcano_id": 341040,
+  "title": "Volcán de Colima",
+  "meta_title": "Volcán de Colima — Eruptions & Facts | VolcanoAtlas",
+  "meta_description": "Volcán de Colima is a 3,850 m active stratovolcano in Mexico. Explore its 85 eruptions, the devastating 1913 Plinian event, current dome growth, and hazards.",
+  "quick_answer": {
+    "what": "Volcán de Colima (also known as Volcán de Fuego de Colima) is an active stratovolcano rising 3,850 m (12,631 ft) in the western Trans-Mexican Volcanic Belt, straddling the border of Jalisco and Colima states.",
+    "status": "Active — last erupted in 2019. A growing lava dome occupies the summit crater. Considered the most active and most dangerous volcano in Mexico.",
+    "famous_for": "Being Mexico's most active volcano with 85 recorded eruptions, and for the catastrophic VEI 4 Plinian eruption of January 1913 that destroyed the summit and produced pyroclastic flows reaching 15 km from the crater.",
+    "danger_level": "Very high — approximately 300,000 people live within 40 km of the summit, and the city of Colima (population ~150,000) lies 30 km to the south."
+  },
+  "hero": {
+    "name": "Volcán de Colima",
+    "local_name": "Volcán de Fuego de Colima",
+    "subtitle": "Mexico's Most Active Volcano",
+    "country": "Mexico",
+    "region": "Trans-Mexican Volcanic Belt",
+    "type": "Stratovolcano",
+    "elevation_m": 3850,
+    "elevation_ft": 12631,
+    "status": "Active",
+    "last_eruption": "2019",
+    "coordinates": {
+      "lat": 19.514,
+      "lon": -103.62
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-03673.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,850 m (12,631 ft)",
+    "type": "Stratovolcano (Composite)",
+    "status": "Active",
+    "last_eruption": "May 2019",
+    "first_known_eruption": "~7690 BCE (geological record)",
+    "total_recorded_eruptions": 85,
+    "vei_max": "4 (1585, 1606, 1622, 1818, 1889, 1913, and ~2370 BCE)",
+    "country": "Mexico",
+    "region": "Trans-Mexican Volcanic Belt, Jalisco–Colima border",
+    "tectonic_setting": "Subduction zone — Rivera and Cocos Plates beneath North American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "19.514°N, 103.620°W",
+    "nearest_city": "Ciudad Guzmán — 25 km NE; Colima — 30 km S",
+    "population_at_risk": "~300,000 within 40 km, including Colima city (~150,000)",
+    "summit_crater": "~300 m diameter, partially filled by lava dome",
+    "protected_status": "Part of Nevado de Colima National Park",
+    "monitoring_agency": "Universidad de Colima — Centro Universitario de Estudios e Investigaciones de Vulcanología (CUEIV)",
+    "smithsonian_id": "341040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=341040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Volcán de Colima (also known as Volcán de Fuego de Colima) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,850 m (12,631 ft) on the border of Jalisco and Colima states in western <a href=\"/volcanoes-in-mexico\">Mexico</a>, approximately 485 km (300 mi) west of Mexico City. It is the most active and arguably the most dangerous volcano in Mexico, with 85 recorded eruptions — more than any other Mexican volcano — spanning a geological record that extends to approximately 7690 BCE and a historical record beginning with the Spanish colonial era in 1519. Colima forms the younger, southern component of a volcanic complex shared with the dormant Nevado de Colima (4,320 m / 14,173 ft), which together constitute the most prominent volcanic center of the western Trans-Mexican Volcanic Belt. The volcano's activity is driven by the subduction of the Rivera and Cocos Plates beneath the North American Plate, and its eruptions have ranged from gentle lava dome effusion to catastrophic Plinian events. The most recent major episode (1997–2011) featured dome growth, Vulcanian explosions, block-and-ash flows, and culminated in significant dome-collapse pyroclastic flows. Colima's eruptive pattern — decades of dome growth punctuated by sudden explosive destruction of the summit — makes it a classic example of a 'dome-building' <a href=\"/types-of-volcanoes\">stratovolcano</a>, comparable to <a href=\"/volcano/merapi\">Merapi</a> in Indonesia and <a href=\"/volcano/st-helens\">Mount St. Helens</a> in the United States. With approximately 300,000 people living within 40 km and the city of Colima (population ~150,000) only 30 km to the south, it ranks among the <a href=\"/most-active-volcanoes\">most active</a> and most hazardous volcanoes in the Americas."
+    },
+    "geology_and_formation": {
+      "content": "The Colima Volcanic Complex sits at the western end of the Trans-Mexican Volcanic Belt (TMVB), a 1,000-km-long east–west chain of volcanoes spanning central Mexico that is generated by the subduction of the Rivera and Cocos oceanic plates beneath the North American continental plate. The complex occupies the Colima Rift (or Colima Graben), a tectonic depression that intersects the TMVB at a high angle and extends southward to the Pacific coast — a structural feature that has focused magma ascent and volcanism for hundreds of thousands of years. The complex consists of two principal edifices: Nevado de Colima (4,320 m / 14,173 ft) to the north, a dormant older stratovolcano that is the highest point of the complex, and the historically active Volcán de Colima to the south. A group of late-Pleistocene cinder cones is scattered across the graben floor on both sides of the complex. Volcán de Colima is a youthful stratovolcano constructed within a 5-km-wide horseshoe-shaped collapse scarp, breached to the south, that was carved by a major sector collapse. Repeated catastrophic slope failures from both the Nevado and Colima cones have produced thick debris-avalanche deposits on three sides of the complex, some extending over 30 km from the summit. The volcano erupts predominantly andesitic to basaltic-andesitic lavas, producing lava domes, block-and-ash flows, and — during its most explosive episodes — Plinian eruption columns. This compositional range places Colima in the classic subduction-zone stratovolcano category, alongside peers like <a href=\"/volcano/merapi\">Merapi</a>, <a href=\"/volcano/fuego\">Fuego</a>, and the Soufrière Hills."
+    },
+    "eruption_history_overview": {
+      "content": "Volcán de Colima's eruption record is the most extensive of any Mexican volcano, with 85 eruptions cataloged by the Smithsonian Global Volcanism Program. The geological record extends to approximately 7690 BCE, with 25 prehistoric eruptions identified through tephra stratigraphy and radiocarbon dating. Historical eruptions have been documented since the Spanish colonial period beginning in 1519. The volcano has produced eruptions across the full range of <a href=\"/volcanic-explosivity-index\">VEI</a> intensities from 0 to 4, with seven events reaching VEI 4, including devastating Plinian eruptions in 1585, 1606, 1622, 1818, 1889, and 1913. The eruptive pattern shows a characteristic cycle: decades of lava dome growth and effusive activity, followed by sudden explosive destruction of the summit dome. The 19th century was particularly active with 18 eruptions, and the 20th century saw 19. The most recent significant eruptive episode began in November 1997 with dome growth and Vulcanian explosions that continued through 2011, followed by renewed dome growth and explosive activity from 2013 to 2017 (VEI 3), and a brief VEI 1 eruption in May 2019."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1913 Eruption — Colima's Most Powerful Historical Event",
+          "content": "The eruption of January 17–24, 1913, was the most powerful historical eruption of Volcán de Colima and one of the most significant volcanic events in Mexico in the 20th century. Rated <a href=\"/volcanic-explosivity-index\">VEI 4</a>, the eruption produced a Plinian eruption column estimated to have reached 21–23 km (69,000–75,000 ft) above sea level, making it the tallest eruption column produced by a Mexican volcano in recorded history. The eruption began on January 17 with vigorous explosions that destroyed the existing summit lava dome and excavated a deep, steep-sided crater approximately 300 m wide and 70 m deep. Pyroclastic flows descended multiple flanks, reaching distances of approximately 15 km from the summit, traveling through the breached collapse scarp to the south. Heavy ashfall blanketed the surrounding region, with measurable deposits recorded as far as 100 km from the volcano. The city of Colima, 30 km to the south, received significant ashfall. Though the sparsely populated upper flanks minimized casualties, the eruption caused significant destruction to agriculture and infrastructure. The 1913 event marked the last major summit-destroying eruption; the volcano then entered a 64-year repose before dome growth resumed in 1961."
+        },
+        {
+          "title": "The 1818 Eruption — Major Explosive Event",
+          "content": "The VEI 4 eruption of February 15, 1818, was one of Colima's most violent colonial-era events. The eruption produced a large Plinian column, significant pyroclastic flows, and heavy ashfall across Jalisco and Colima states. Historical accounts describe continuous explosions, incandescent debris visible at great distances, and lahars descending multiple drainages. The eruption caused widespread agricultural damage and forced evacuations of communities on the volcano's lower slopes. The 1818 event was part of a broader cycle of VEI 4 eruptions that struck Colima in the 16th, 17th, and 19th centuries — a pattern that suggests the current repose period since 1913 is well within the volcano's capacity for renewed major explosive activity."
+        },
+        {
+          "title": "The 1585 Eruption — First Major Historical Eruption",
+          "content": "On January 10, 1585, Colima produced its first documented VEI 4 eruption, just decades after the start of Spanish colonial record-keeping in western Mexico. Contemporary accounts describe violent explosions, a massive eruption column, and pyroclastic flows that descended the volcano's flanks. The 1585 event was followed by another VEI 4 eruption in 1606 and again in 1622, establishing a pattern of major explosive eruptions roughly every 20–40 years that would characterize Colima's behavior for the next four centuries."
+        },
+        {
+          "title": "The 1997–2011 Eruptive Episode — Modern Dome Growth and Collapse",
+          "content": "Beginning on November 22, 1997, Colima entered its most prolonged modern eruptive phase: a VEI 3 episode of lava dome growth and periodic explosive destruction that lasted until 2011. The episode began with the extrusion of viscous andesitic lava into the summit crater, forming a growing dome. Periodic Vulcanian explosions and gravitational collapses of the dome generated block-and-ash flows — fast-moving avalanches of hot debris — that descended the volcano's southern and southwestern flanks, occasionally reaching distances of 5–8 km. The most significant dome-collapse pyroclastic flows occurred in 2004 and 2005. Ashfall from Vulcanian explosions repeatedly affected Ciudad Guzmán (25 km NE) and the city of Colima. This episode was intensively monitored by the University of Colima's volcanological observatory and produced a wealth of scientific data on dome-growth dynamics."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Volcán de Colima's most recent eruption was a brief VEI 1 event in May 2019 involving minor explosions and ashfall. As of 2025, the volcano is in a state of relative quiescence, with a partially filled summit crater hosting remnants of lava dome material from the 2013–2017 eruptive episode. Fumarolic activity and volcanic gas emissions continue at the summit, indicating that the magmatic system remains active at depth. The volcano is monitored by the University of Colima's Centro Universitario de Estudios e Investigaciones de Vulcanología (CUEIV), which operates a network of seismometers, tiltmeters, GPS stations, webcams, and SO₂ gas monitoring instruments. The Mexican national civil protection system (SINAPROC) maintains a volcanic alert system modeled on a traffic-light semaphore (Semáforo de Alerta Volcánica), which currently stands at Yellow Phase 2 (elevated activity). Given Colima's historical pattern of decades-long dome-growth episodes punctuated by sudden VEI 4 Plinian eruptions — the last of which occurred in 1913, over 110 years ago — volcanologists consider a future major eruption not only possible but likely. The question is when, not if."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Colima presents a full spectrum of volcanic hazards. Pyroclastic flows — both from explosive eruption columns and gravitational dome collapses — are the most lethal threat, with historical and geological evidence of flows reaching 15 km or more from the summit. The 5-km-wide breach in the collapse scarp funnels pyroclastic flows preferentially to the south, directly toward the city of Colima. Lahars generated by rainfall on fresh volcanic deposits are a chronic secondary hazard, particularly dangerous along the Río Armería and Río Tuxpan drainages. Ashfall from Vulcanian and sub-Plinian eruptions regularly affects communities within 30 km, including Ciudad Guzmán (population ~100,000) and Colima city (population ~150,000). Debris avalanches from sector collapse — a recurring event in the complex's geological history — represent a lower-probability but catastrophic threat, capable of devastating areas 30+ km from the summit. The Mexican government has established exclusion zones and evacuation plans for communities in the most exposed areas. However, rapid population growth in Colima and Jalisco states has steadily increased the number of people at risk. A repeat of the 1913 VEI 4 eruption today would require the evacuation of tens of thousands of people and cause severe economic damage to western Mexico's agricultural sector. Colima is often cited alongside <a href=\"/volcano/popocatepetl\">Popocatépetl</a> as one of Mexico's two most dangerous volcanoes, though Colima's more explosive historical record arguably makes it the greater threat."
+    },
+    "geography_and_physical_description": {
+      "content": "Volcán de Colima is a steep-sided, symmetrical stratovolcano that rises dramatically above the Colima Graben in western Mexico. Its summit, at 3,850 m (12,631 ft), is approximately 470 m lower than its dormant northern neighbor, Nevado de Colima (4,320 m / 14,173 ft), which is visible as a broad, snow-capped peak 5 km to the north. The current summit crater, approximately 300 m in diameter, was carved by the 1913 eruption and has been repeatedly filled and destroyed by lava dome growth cycles since then. The most prominent topographic feature is the 5-km-wide horseshoe-shaped collapse scarp that opens to the south, the product of a major sector collapse that removed a significant portion of the volcano's southern flank. This scarp channels pyroclastic flows and lahars preferentially southward. The volcano's flanks are deeply dissected by barrancas, with the Río Armería system carrying volcanic runoff southward to the Pacific Ocean, approximately 90 km away. Vegetation zones transition from subtropical thorn forest on the lower slopes through pine-oak forest in the mid-elevations to alpine grassland above 3,500 m, with the upper 300 m essentially barren volcanic terrain. The complex is partially protected within the Nevado de Colima National Park, established in 1936."
+    },
+    "climate_and_global_impact": {
+      "content": "Colima's eruptions have generally been insufficient in magnitude to produce measurable global climate effects. The 1913 VEI 4 eruption, while regionally devastating, injected sulfur dioxide primarily into the upper troposphere rather than the stratosphere, limiting its atmospheric impact to western Mexico and the eastern Pacific. However, the volcano's periodic ash emissions affect regional air quality and aviation, with the Washington VAAC issuing alerts for flights over western Mexico during eruptive episodes. In the broader context of climate-altering volcanism, Colima's eruptions are modest compared to events like the 1982 eruption of El Chichón (VEI 5), which injected enough SO₂ into the stratosphere to produce measurable Northern Hemisphere cooling — a reminder that Mexico's volcanic belt is capable of globally significant eruptions."
+    },
+    "cultural_significance": {
+      "content": "Volcán de Colima holds deep cultural significance in western Mexico. Pre-Columbian indigenous peoples revered the volcano, and the name 'Colima' is believed to derive from the Nahuatl word 'Colliman,' meaning 'place where the old god rules' or 'place conquered by our forefathers' — likely a reference to the volcano's dominance of the landscape. Colonial-era Spanish chroniclers documented eruptions from the 16th century onward, and the volcano features prominently in the art and literature of Jalisco and Colima states. In modern Mexico, Colima is a symbol of the region's identity and natural heritage, featured on the coat of arms of Colima state. The volcano is also a magnet for scientific research, hosting one of Mexico's most advanced volcanological observatories at the University of Colima, which has produced pioneering studies on dome-growth dynamics, block-and-ash flows, and volcanic risk assessment. The juxtaposition of the snow-capped Nevado de Colima and the smoking Volcán de Colima creates one of Mexico's most iconic volcanic landscapes."
+    },
+    "visiting_and_tourism": {
+      "content": "Access to the summit of Volcán de Colima is restricted due to the volcanic hazard, with an exclusion zone typically enforced within 8–12 km of the crater depending on the current alert level. However, Nevado de Colima (4,320 m), the dormant northern peak, is a popular hiking and mountaineering destination offering panoramic views of the active cone. The ascent of Nevado typically takes 6–8 hours from the La Joya trailhead and requires no technical climbing skills but demands good fitness for the altitude. The Nevado de Colima National Park provides access to forested trails on the complex's lower flanks. The cities of Colima and Ciudad Guzmán serve as base towns, offering accommodations and guide services. Several viewpoints along the road between Comala and the national park provide dramatic vistas of both peaks. Visitors should check the current volcanic alert level with CUEIV or CENAPRED (Mexico's national disaster prevention center) before planning any approach to the volcanic complex."
+    },
+    "nearby_volcanoes": {
+      "content": "Colima anchors the western end of the Trans-Mexican Volcanic Belt, which stretches eastward across <a href=\"/volcanoes-in-mexico\">Mexico</a> to include some of the country's most famous volcanoes. <a href=\"/volcano/popocatepetl\">Popocatépetl</a> (5,426 m), Mexico's most iconic volcano and second most active, lies 570 km to the east near Mexico City. The Ceboruco volcano (2,280 m), another active stratovolcano, is located 200 km to the northwest in Nayarit state. Further east along the TMVB, Pico de Orizaba (5,636 m), Mexico's tallest peak and a dormant stratovolcano, dominates the Veracruz skyline. Within the Colima Graben itself, several late-Pleistocene cinder cones dot the valley floor on either side of the main complex. Guatemala's <a href=\"/volcano/fuego\">Volcán de Fuego</a>, a namesake stratovolcano, shares Colima's alias 'Volcán de Fuego' and similar basaltic eruptive behavior, inviting frequent comparisons between the two."
+    },
+    "etymology": {
+      "content": "The name 'Colima' is generally believed to derive from the Nahuatl word 'Colliman' or 'Coliman,' variously interpreted as 'place where the old god rules,' 'place conquered by our forefathers,' or 'place where the water turns.' The volcano itself is formally known as Volcán de Colima, though it is also called Volcán de Fuego de Colima ('Fire Volcano of Colima') to distinguish it from the dormant Nevado de Colima ('Snow-Covered Peak of Colima') to the north. In everyday usage, 'Volcán de Colima' refers specifically to the active southern cone."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Colima Compared to Mexico's Major Volcanoes",
+      "description": "How does Colima compare to Mexico's other prominent volcanic threats?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Colima",
+          "Mexico",
+          "3,850 m",
+          "Stratovolcano",
+          "2019",
+          "4",
+          "85"
+        ],
+        [
+          "Popocatépetl",
+          "Mexico",
+          "5,426 m",
+          "Stratovolcano",
+          "2025",
+          "5",
+          "20+"
+        ],
+        [
+          "El Chichón",
+          "Mexico",
+          "1,150 m",
+          "Tuff cone",
+          "1982",
+          "5",
+          "12"
+        ],
+        [
+          "Ceboruco",
+          "Mexico",
+          "2,280 m",
+          "Stratovolcano",
+          "1875",
+          "4",
+          "5"
+        ],
+        [
+          "Pico de Orizaba",
+          "Mexico",
+          "5,636 m",
+          "Stratovolcano",
+          "1846",
+          "4",
+          "9"
+        ]
+      ]
+    },
+    {
+      "title": "Colima vs the World's Dome-Building Stratovolcanoes",
+      "description": "Comparing Colima to other volcanoes known for cyclic dome growth and explosive destruction.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Dome Active"
+      ],
+      "rows": [
+        [
+          "Colima",
+          "Mexico",
+          "3,850 m",
+          "2019",
+          "4",
+          "85",
+          "Yes (intermittent)"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,968 m",
+          "2023",
+          "4",
+          "70+",
+          "Yes"
+        ],
+        [
+          "Mount St. Helens",
+          "USA",
+          "2,549 m",
+          "2008",
+          "5",
+          "21",
+          "Dormant"
+        ],
+        [
+          "Soufrière Hills",
+          "Montserrat",
+          "915 m",
+          "2013",
+          "3",
+          "4",
+          "Yes"
+        ],
+        [
+          "Unzen",
+          "Japan",
+          "1,500 m",
+          "1995",
+          "4",
+          "6",
+          "Dormant"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7690,
+      "vei": null,
+      "label": "Earliest known eruption (geological record)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2370,
+      "vei": 4,
+      "label": "Major prehistoric explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1519,
+      "vei": 3,
+      "label": "First historically recorded eruption — Spanish contact",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1585,
+      "vei": 4,
+      "label": "First major VEI 4 event in historical record",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1606,
+      "vei": 4,
+      "label": "Devastating Plinian eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1622,
+      "vei": 4,
+      "label": "Third VEI 4 eruption in 37 years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1818,
+      "vei": 4,
+      "label": "Major explosive eruption after 196-year gap",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1869,
+      "vei": 3,
+      "label": "Formation of El Volcancito parasitic cone on NE flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1889,
+      "vei": 4,
+      "label": "VEI 4 explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1913,
+      "vei": 4,
+      "label": "Most powerful eruption — summit destroyed, 21 km column",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1997,
+      "vei": 3,
+      "label": "Start of prolonged dome-growth episode lasting to 2011",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2013,
+      "vei": 3,
+      "label": "Renewed dome growth and Vulcanian explosions",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2019,
+      "vei": 1,
+      "label": "Most recent eruption — minor explosions",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 24,
+      "note": "Geological record back to ~7690 BCE"
+    },
+    {
+      "century": "6th",
+      "count": 1
+    },
+    {
+      "century": "8th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 5
+    },
+    {
+      "century": "17th",
+      "count": 5
+    },
+    {
+      "century": "18th",
+      "count": 10
+    },
+    {
+      "century": "19th",
+      "count": 18
+    },
+    {
+      "century": "20th",
+      "count": 19
+    },
+    {
+      "century": "21st",
+      "count": 2
+    }
+  ],
+  "facts": [
+    "Volcán de Colima has 85 recorded eruptions — more than any other volcano in Mexico and one of the highest totals in the Western Hemisphere.",
+    "The 1913 VEI 4 eruption produced an eruption column reaching 21–23 km (69,000–75,000 ft) — the tallest ever recorded from a Mexican volcano.",
+    "Seven of Colima's eruptions have reached VEI 4, producing major Plinian eruption columns and devastating pyroclastic flows.",
+    "Major debris avalanches from the Colima complex have traveled over 30 km from the summit, depositing thick volcanic debris on the Pacific coastal plain of Jalisco.",
+    "Colima's summit crater was carved by the 1913 eruption and has been repeatedly filled and destroyed by lava dome growth at least four times since.",
+    "The volcano shares its alternate name, 'Volcán de Fuego' (Volcano of Fire), with Guatemala's Volcán de Fuego — both are among the most active stratovolcanoes in the Americas.",
+    "The dormant Nevado de Colima (4,320 m), just 5 km to the north, is the older twin of the volcanic complex and the highest point in western Mexico.",
+    "The 1869 eruption created El Volcancito, a parasitic cone on the northeast flank that remained active into the 1870s — a rare feature on a large stratovolcano.",
+    "Colima's eruptive cycle — decades of dome growth followed by explosive summit destruction — makes it a textbook example of a dome-building stratovolcano.",
+    "The University of Colima operates one of Latin America's most advanced volcanological observatories, with continuous monitoring of seismicity, deformation, gas emissions, and visual activity.",
+    "Colima sits within the Colima Graben, a tectonic rift that intersects the Trans-Mexican Volcanic Belt and has focused volcanic activity for hundreds of thousands of years.",
+    "The current repose period since the last VEI 4 eruption (1913) — over 110 years — is the longest gap between major eruptions in Colima's historical record, raising concern among volcanologists."
+  ],
+  "faqs": [
+    {
+      "question": "Is Volcán de Colima still active?",
+      "answer": "Yes, Volcán de Colima is classified as active and is considered the most active volcano in Mexico. Its most recent eruption occurred in May 2019, and the volcano has produced five major eruptive episodes since 1961. The summit crater currently hosts remnants of a lava dome from the 2013–2017 episode, and fumarolic activity continues. The volcano is continuously monitored by the University of Colima's volcanological observatory. Volcanologists expect future eruptions, and the Mexican government maintains a volcanic alert system at Yellow Phase 2 (elevated) for the region."
+    },
+    {
+      "question": "When did Volcán de Colima last erupt?",
+      "answer": "Volcán de Colima's most recent eruption was a VEI 1 event on May 11, 2019, consisting of minor explosions and ashfall. Before that, a significant VEI 3 eruptive episode lasted from January 2013 to 2017, producing dome growth, Vulcanian explosions, and block-and-ash flows. The most powerful historical eruption was the VEI 4 Plinian event of January 17–24, 1913, which destroyed the summit and produced pyroclastic flows reaching 15 km from the crater. The current repose period is the longest since the last VEI 4 event."
+    },
+    {
+      "question": "How tall is Volcán de Colima?",
+      "answer": "Volcán de Colima stands 3,850 m (12,631 ft) above sea level. However, the volcano's height fluctuates with eruptive activity: the 1913 eruption excavated the summit significantly, and subsequent lava dome growth has partially restored the lost elevation. The dormant Nevado de Colima, located 5 km to the north, reaches 4,320 m (14,173 ft) and is the highest point of the volcanic complex. By comparison, Mexico's tallest volcano, Pico de Orizaba, stands at 5,636 m (18,491 ft)."
+    },
+    {
+      "question": "Is Volcán de Colima dangerous?",
+      "answer": "Volcán de Colima is considered one of the most dangerous volcanoes in Mexico and the Americas. Approximately 300,000 people live within 40 km of the summit, including the city of Colima (population ~150,000) just 30 km to the south. The volcano's history of VEI 4 Plinian eruptions, sector collapses producing debris avalanches, pyroclastic flows reaching 15+ km, and frequent lahars make it a comprehensive multi-hazard threat. The current repose period of over 110 years since the last VEI 4 eruption is the longest in the historical record, suggesting that strain may be building."
+    },
+    {
+      "question": "What type of volcano is Colima?",
+      "answer": "Volcán de Colima is a stratovolcano (composite volcano), characterized by its steep-sided conical shape built from alternating layers of lava flows, ash, and pyroclastic deposits. It is specifically a dome-building stratovolcano, meaning its eruptive cycle involves the extrusion of viscous andesitic lava domes within the summit crater, which periodically collapse or are explosively destroyed. This behavior is similar to Merapi in Indonesia and Mount St. Helens in the United States. Colima erupts predominantly andesitic to basaltic-andesitic magma."
+    },
+    {
+      "question": "What happened during the 1913 eruption of Colima?",
+      "answer": "The January 1913 eruption was Colima's most powerful historical event, rated VEI 4. Beginning on January 17, violent explosions destroyed the summit lava dome and excavated a deep crater approximately 300 m wide. A Plinian eruption column reached 21–23 km above sea level. Pyroclastic flows descended multiple flanks, traveling approximately 15 km from the summit. Heavy ashfall affected the city of Colima, 30 km to the south, and was measurable at distances exceeding 100 km. The eruption marked the end of a major eruptive cycle; the volcano then entered a 64-year repose before dome growth resumed in the 1960s."
+    },
+    {
+      "question": "Can you visit Volcán de Colima?",
+      "answer": "Direct access to Volcán de Colima's summit is restricted due to the volcanic hazard, with an exclusion zone typically set at 8–12 km from the crater. However, visitors can hike the dormant Nevado de Colima (4,320 m), 5 km to the north, which offers spectacular views of the active cone. The Nevado de Colima National Park provides forest trails on the lower slopes. The cities of Colima and Ciudad Guzmán serve as base towns with accommodation and guide services. Always check the current alert level before visiting."
+    },
+    {
+      "question": "How does Colima compare to Popocatépetl?",
+      "answer": "Colima and Popocatépetl are Mexico's two most dangerous volcanoes, but they differ significantly. Colima (3,850 m) has more recorded eruptions (85 vs approximately 20) and a more explosive VEI 4 track record, while Popocatépetl (5,426 m) is taller and has a higher maximum VEI (5). Popocatépetl poses a greater population risk due to its proximity to Mexico City's metropolitan area of over 21 million people, whereas Colima threatens approximately 300,000 people within 40 km. Both are actively monitored with modern instrumentation."
+    }
+  ],
+  "people_also_search": [
+    "volcán de colima eruption",
+    "colima volcano mexico",
+    "is colima volcano active",
+    "colima vs popocatepetl",
+    "colima volcano 1913",
+    "nevado de colima hike",
+    "most active volcano in mexico",
+    "colima volcano danger"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Volcán de Colima",
+    "alternateName": [
+      "Volcán de Fuego de Colima",
+      "Colima Volcano",
+      "Fuego de Colima"
+    ],
+    "description": "Mexico's most active stratovolcano, known for cyclic dome growth and explosive Plinian eruptions",
+    "geo": {
+      "latitude": 19.514,
+      "longitude": -103.62,
+      "elevation": 3850
+    },
+    "containedInPlace": {
+      "name": "Trans-Mexican Volcanic Belt",
+      "country": "Mexico"
+    },
+    "url": "https://volcanoatlas.com/volcano/colima"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=341040",
+      "text": "Smithsonian GVP: Colima",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://portal.ucol.mx/cueiv/",
+      "text": "University of Colima — CUEIV Volcanological Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Colima-volcano",
+      "text": "Britannica: Volcán de Colima",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.gob.mx/cenapred",
+      "text": "CENAPRED — Mexico's National Disaster Prevention Center",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "fuego",
+      "merapi",
+      "st-helens",
+      "popocatepetl",
+      "pinatubo",
+      "el-chichon",
+      "pico-de-orizaba"
+    ],
+    "country_pages": [
+      "mexico",
+      "guatemala"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "popocatepetl",
+    "fuego",
+    "merapi",
+    "st-helens",
+    "soufriere-hills"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Mexico",
+      "url": "/volcanoes-in-mexico"
+    },
+    {
+      "label": "Volcán de Colima",
+      "url": "/volcano/colima"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/colima"
+}

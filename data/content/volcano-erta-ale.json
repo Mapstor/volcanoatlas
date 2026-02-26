@@ -1,0 +1,464 @@
+{
+  "slug": "erta-ale",
+  "volcano_id": 221080,
+  "title": "Erta Ale",
+  "meta_title": "Erta Ale — Lava Lake, Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Erta Ale is a 585 m shield volcano in Ethiopia's Danakil Depression with one of Earth's longest-lived lava lakes. Geology, hazards, and guide.",
+  "quick_answer": {
+    "what": "Erta Ale is an active basaltic shield volcano in the Afar Triangle of northeastern Ethiopia, rising to just 585 m (1,919 ft) but hosting one of the longest-lived lava lakes on Earth.",
+    "status": "Active — the summit lava lake has been continuously or semi-continuously active since at least 1967, and possibly since 1906. The volcano is in a state of ongoing eruption.",
+    "famous_for": "Hosting one of only five persistent lava lakes on Earth, situated in the Danakil Depression — one of the hottest, lowest, and most inhospitable places on the planet.",
+    "danger_level": "Moderate — the remote, extremely harsh environment limits human exposure, but volcanic hazards combine with extreme heat (>50°C air temperatures), toxic gases, and political instability in the Afar region."
+  },
+  "hero": {
+    "name": "Erta Ale",
+    "local_name": "Erta Ale (Afar: 'Smoking Mountain')",
+    "subtitle": "The Gateway to Hell — Earth's Longest-Lived Lava Lake",
+    "country": "Ethiopia",
+    "region": "Afar Region, Danakil Depression",
+    "type": "Shield volcano",
+    "elevation_m": 585,
+    "elevation_ft": 1919,
+    "status": "Active",
+    "last_eruption": "1967–present (ongoing)",
+    "coordinates": {
+      "lat": 13.601,
+      "lon": 40.666
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09909.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "585 m (1,919 ft) above sea level; edifice rises ~600 m above Danakil Depression floor (below sea level)",
+    "type": "Shield volcano",
+    "status": "Active — ongoing eruption since at least 1967",
+    "last_eruption": "1967–present (continuous/semi-continuous)",
+    "first_known_eruption": "1873 (uncertain); 1906 confirmed",
+    "total_recorded_eruptions": 7,
+    "vei_max": "2 (1873, 1903, 1904 — all uncertain)",
+    "country": "Ethiopia",
+    "region": "Afar Region, Danakil Depression",
+    "tectonic_setting": "Rift zone — Afar Triple Junction (intermediate crust, 15–25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "13.601°N, 40.666°E",
+    "nearest_city": "Mekelle — approximately 300 km west-southwest",
+    "population_at_risk": "<5,000 (nomadic Afar pastoralists in surrounding desert)",
+    "summit_crater": "Elliptical caldera 0.7 x 1.6 km containing multiple pit craters",
+    "protected_status": "None (within proposed Danakil Depression UNESCO site)",
+    "monitoring_agency": "Addis Ababa University Institute of Geophysics; international collaborations",
+    "lava_lake_active_since": "At least 1967; possibly 1906",
+    "danakil_depression": "One of the lowest, hottest places on Earth — down to 125 m below sea level",
+    "smithsonian_id": "221080",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=221080"
+  },
+  "sections": {
+    "overview": {
+      "content": "Erta Ale is an active basaltic <a href=\"/types-of-volcanoes\">shield volcano</a> in the Afar Triangle of northeastern <a href=\"/volcanoes-in-ethiopia\">Ethiopia</a>, standing at a modest 585 m (1,919 ft) above sea level but rising more than 600 m from the floor of the Danakil Depression — one of the hottest, lowest, and most geologically active places on Earth. The volcano is renowned worldwide for hosting one of only five persistent lava lakes on the planet, a continuously convecting pool of molten basalt that has been active since at least 1967 and possibly since 1906, making it one of the longest-lived lava lakes in recorded history. The summit features an elliptical caldera (0.7 x 1.6 km) containing steep-sided pit craters, one of which holds the famous lava lake — a mesmerizing, glowing window into the Earth's interior that has drawn volcanologists, photographers, and adventurous travelers to this extraordinarily remote and hostile landscape. Erta Ale sits at the Afar Triple Junction, where three tectonic plates — the Nubian, Somali, and Arabian — are pulling apart simultaneously, thinning the crust and allowing basaltic magma nearly continuous access to the surface. This tectonic setting links it to the broader East African Rift System that also drives <a href=\"/volcano/lengai-ol-doinyo\">Ol Doinyo Lengai</a> and <a href=\"/volcano/nyiragongo\">Nyiragongo</a>. The volcano's name means 'Smoking Mountain' in the Afar language, and it is sometimes called 'the Gateway to Hell' by Afar pastoralists — a description that applies equally to the volcano's incandescent summit and to the surreal Danakil landscape that surrounds it, where temperatures routinely exceed 50°C (122°F) and the terrain includes salt flats, sulfurous hot springs, and lava fields stretching to the horizon."
+    },
+    "geology_and_formation": {
+      "content": "Erta Ale is the most active volcano in the 100-km-long Erta Ale volcanic range, a NNW-trending chain of basaltic shield volcanoes and fissure vents aligned along the axis of the Afar Triangle — a geological triple junction where the East African Rift, the Red Sea Rift, and the Gulf of Aden Rift converge. This extraordinary tectonic setting represents one of the only places on Earth where a mid-ocean ridge-style spreading center can be observed above sea level, and the Danakil Depression is effectively a nascent ocean basin in the earliest stages of formation. The crust beneath Erta Ale is intermediate in thickness (15–25 km), significantly thinner than typical continental crust, reflecting the advanced stage of rifting. Magma generated by decompression melting of the upper mantle ascends through this thinned crust with relative ease, sustaining the volcano's persistent lava lake and frequent effusive eruptions. The edifice itself is a broad, low-angle shield approximately 50 km in diameter, constructed entirely from fluid basaltic and picro-basaltic lava flows — a composition reflecting the volcano's close affinity with mid-ocean ridge basalts rather than the alkaline magmas typical of continental rift volcanoes like <a href=\"/volcano/lengai-ol-doinyo\">Ol Doinyo Lengai</a>. The summit hosts an elliptical caldera measuring 0.7 x 1.6 km, within which at least two steep-sided pit craters have formed. The southern pit crater contained the famous lava lake for most of the modern observational period, though the lake's position has shifted between pits over time. A larger depression (1.8 x 3.1 km), elongated parallel to the Erta Ale range axis, lies southeast of the summit and is bounded by curvilinear fault scarps — evidence of the ongoing extensional tectonics that drive the volcano. Basaltic lava flows from fissures have repeatedly filled and overflowed the caldera, and recent eruptions on the northern flank demonstrate that activity is not confined to the summit."
+    },
+    "eruption_history_overview": {
+      "content": "Erta Ale's eruption record is remarkably short by volcanic standards — the Smithsonian Global Volcanism Program lists only 7 eruptions, with the earliest uncertain observations from 1873. This brevity reflects the volcano's extreme remoteness rather than infrequency of activity; in reality, Erta Ale has almost certainly been in near-continuous eruption for over a century. The confirmed historical record begins with observations of an active lava lake in 1906, followed by documented activity in 1940 and 1960. The current ongoing eruption is recorded as beginning on July 2, 1967, and continuing without interruption to 2025 — a sustained eruptive episode of over 58 years. Throughout this period, activity has consisted primarily of lava lake convection, periodic overflows of basaltic lava onto the caldera floor, and occasional fissure eruptions on the flanks. The low <a href=\"/volcanic-explosivity-index\">VEI</a> ratings (0–2) reflect the fluid, gas-poor nature of Erta Ale's basaltic magma, which tends to erupt effusively rather than explosively."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Ongoing Eruption (1967–Present) — Over Half a Century of Continuous Activity",
+          "content": "The current eruption of Erta Ale, which began on or about July 2, 1967, represents one of the longest sustained volcanic eruptions on Earth. For most of this period, activity has centered on the lava lake in the southern pit crater of the summit caldera — a roughly circular pool of molten basalt typically 60–100 m in diameter that exhibits constant convection, periodic overturns (when the cooled surface crust is suddenly disrupted by rising magma), spattering, and occasional overflow. The lava lake surface crusts over, darkens, then cracks and recycles in a hypnotic, endlessly repeating pattern that has been described by visitors as the closest thing to looking directly into the Earth's molten interior. Significant episodes within this long eruption include a major overflow event in September 2005 when lava lake levels rose dramatically and basaltic lava flooded portions of the caldera floor; the January 2017 event when the lava lake underwent a major draining episode, dropping tens of meters within the pit crater before refilling, accompanied by a fissure eruption on the northeastern flank that generated extensive new lava flows; and the November 2010 episode when a large overflow event sent lava flows spilling over the caldera rim. The 2017 fissure eruption was particularly notable, as it demonstrated that Erta Ale's magmatic plumbing extends well beyond the summit — the fissure opened approximately 7 km northeast of the caldera, producing fast-moving basaltic lava that caused the displacement of Afar families and their livestock from nearby encampments."
+        },
+        {
+          "title": "The 1906 Eruption — Earliest Confirmed Lava Lake Observation",
+          "content": "The first confirmed eruption of Erta Ale was recorded in May 1906, when Italian explorers in the Danakil region documented active lava at the summit. This VEI 0 observation is significant because it suggests the lava lake may have been active for well over a century — predating the 'official' start of the current eruption by 61 years. If the lava lake has indeed been continuously or semi-continuously active since 1906, it would rank among the longest-lived lava lakes ever documented on Earth, rivaling <a href=\"/volcano/kilauea\">Kilauea's</a> historic Halemaumau lava lake which persisted from 1823 to 1924."
+        },
+        {
+          "title": "The 2017 Flank Fissure Eruption — New Lava Beyond the Caldera",
+          "content": "In January 2017, Erta Ale experienced its most significant episode of the modern era when the lava lake in the summit caldera drained rapidly, simultaneously feeding a major fissure eruption that opened on the volcano's northeastern flank approximately 7 km from the summit. Satellite imagery revealed extensive new lava flows cascading down the flank, covering several square kilometers of desert terrain. The fissure eruption lasted weeks and generated fast-moving pahoehoe lava flows that threatened Afar pastoral camps and the route used by tourist trekking groups. This event demonstrated that Erta Ale's magma supply system can rapidly redistribute large volumes of molten rock from the summit reservoir to lateral fissures — a mechanism similar to the flank eruptions observed at <a href=\"/volcano/kilauea\">Kilauea</a> in Hawaii."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Erta Ale's lava lake has been continuously or semi-continuously active since at least 1967, and the volcano remains in a state of ongoing eruption as of 2025. Monitoring of this extremely remote volcano is primarily conducted through satellite remote sensing — MODIS, Sentinel-2, and Landsat thermal imagery regularly detect intense thermal anomalies at the summit, confirming the persistence of the lava lake. The Toulouse Volcanic Ash Advisory Centre (VAAC) issues periodic alerts when ash or SO2 emissions from Erta Ale are detected at altitude. Ground-based monitoring is extremely limited due to the volcano's location in one of the most inaccessible regions on Earth. The Addis Ababa University Institute of Geophysics maintains scientific oversight, and international collaborations — particularly with French, Italian, and American volcanologists — have conducted periodic field campaigns to install temporary seismic stations, collect gas measurements, and map lava lake dynamics. However, there is no permanent seismic or geodetic network. Political instability and security concerns in the Afar region have periodically interrupted both scientific access and tourism, most notably in 2012 when armed militants attacked a tourist group at the volcano, killing five visitors."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Erta Ale's volcanic hazards are significant but affect a very small population due to its extreme remoteness. The primary direct hazards include lava flows from both summit overflows and flank fissure eruptions (as demonstrated in 2017), toxic volcanic gases (SO2 and CO2) concentrated in the caldera and surrounding low-lying areas, and explosive spattering from the lava lake that can eject incandescent bombs tens of meters. For the nomadic Afar pastoralists who traverse the region with their livestock, lava flows can destroy grazing routes and contaminate scarce water sources. For the growing number of adventure tourists who trek to the summit, hazards include sudden lava lake overflows, gas exposure, extreme heat, unstable crater rim edges, and the disorienting effects of traveling through one of the world's most extreme environments. The 2012 attack by armed militants on a tourist group, which killed five people and kidnapped others, underscored that security risks in the Afar region are as real as the volcanic hazards. Compared to other persistent lava lake volcanoes like <a href=\"/volcano/nyiragongo\">Nyiragongo</a> — where a lava lake sits above a city of 2 million — Erta Ale's human risk profile is vastly lower due to the absence of significant population centers in the surrounding Danakil Desert."
+    },
+    "geography_and_physical_description": {
+      "content": "Erta Ale is a broad, low-angle basaltic shield volcano approximately 50 km in diameter, rising from the Danakil Depression — a geological lowland that extends to 125 m (410 ft) below sea level, making it one of the lowest terrestrial surfaces on Earth. The summit stands at 585 m (1,919 ft) above sea level, but the edifice represents over 600 m of relief from the surrounding depression floor, with additional volcanic structure extending below sea level. The summit is crowned by an elliptical caldera measuring 0.7 x 1.6 km, elongated in the NNW–SSE direction parallel to the Erta Ale range axis. Within the caldera, at least two steep-sided pit craters descend approximately 60–80 m to active lava surfaces. The surrounding landscape is one of the most extreme on Earth — the Danakil Depression experiences average annual temperatures above 34°C (93°F) with summer maxima regularly exceeding 50°C (122°F), receives virtually no rainfall, and features a surreal terrain of active lava flows, salt flats, sulfurous hydrothermal fields (notably at nearby Dallol), and the shimmering white expanse of Lake Afrera. The volcano is flanked by other members of the Erta Ale range, including Hayli Gubbi, Ale Bagu, and Dalaffilla, all products of the same rift-related volcanism."
+    },
+    "climate_and_global_impact": {
+      "content": "Erta Ale's effusive basaltic eruptions have negligible global climate impact. The volcano's persistent lava lake is a steady-state system that releases volcanic gases (primarily SO2, CO2, and water vapor) continuously at low flux rates rather than injecting massive quantities into the stratosphere as explosive eruptions do. Erta Ale contributes to the global volcanic CO2 budget — estimates suggest it emits on the order of thousands of tonnes of CO2 per year — but this is a tiny fraction of the total volcanic gas output and insignificant compared to anthropogenic emissions. The volcano's primary atmospheric contribution is localized: a persistent plume of SO2 and volcanic aerosols visible on satellite imagery extends downwind from the summit, contributing to the already poor air quality of the Danakil region. For comparison, the 1991 eruption of <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6) injected approximately 17 million tonnes of SO2 into the stratosphere and cooled global temperatures by 0.5°C — Erta Ale's annual output is a negligible fraction of that single event."
+    },
+    "cultural_significance": {
+      "content": "For the Afar people, the semi-nomadic pastoralists who have inhabited the Danakil Depression for millennia, Erta Ale is a place of both reverence and dread. The name 'Erta Ale' translates from the Afar language as 'Smoking Mountain,' and the volcano features in Afar oral traditions as a portal to the underworld — the local term 'the Gateway to Hell' predates any European contact. The Afar traditionally avoided the summit, associating the perpetual glow and sulfurous fumes with malevolent spirits. In modern popular culture, Erta Ale has become an iconic image of Earth's geological extremes, featuring prominently in documentary films (BBC's Planet Earth, National Geographic specials), photography books, and travel literature about extreme destinations. The Danakil Depression as a whole — with Erta Ale as its geological centerpiece — has been described as 'the cruelest place on Earth' by explorer Wilfred Thesiger, who crossed the region in the 1930s. For the global volcanological community, the persistent lava lake is a scientifically invaluable natural laboratory for studying magma convection, degassing dynamics, and the mechanics of open-vent volcanic systems."
+    },
+    "visiting_and_tourism": {
+      "content": "Visiting Erta Ale is one of the most extreme tourist experiences on Earth, requiring careful planning, physical fitness, and acceptance of significant risk. Access is from the town of Mekelle in the Tigray region (approximately 300 km west-southwest), traveling by 4x4 vehicle through progressively more remote Afar settlements to the trailhead at Dodom or Kusrawad at the base of the volcano. The trek to the summit takes 3–4 hours across basaltic lava fields, typically undertaken at night to avoid the extreme daytime heat (temperatures frequently exceed 45°C even at the trailhead). At the summit, visitors camp on the caldera rim and descend to the pit crater edge to observe the lava lake — an unforgettable experience of watching molten rock churn, crust, and overturn just meters below. All trips must be organized through licensed Ethiopian tour operators and require armed Afar militia escorts due to security concerns in the region. Essential supplies include at least 6 liters of water per person per day, respiratory protection for volcanic gases, and headlamps. The best visiting season is November–February when temperatures are relatively cooler (but still extreme). Visitors should be aware that the security situation in the Afar region can change rapidly, and several governments have issued travel warnings for the area. Tour operators typically combine Erta Ale with visits to Dallol (the colorful hydrothermal field), Lake Afrera (salt lake), and traditional Afar salt caravans."
+    },
+    "nearby_volcanoes": {
+      "content": "Erta Ale is the most active member of the Erta Ale volcanic range, a 100-km-long chain of basaltic shields and fissure vents running NNW–SSE through the Danakil Depression. Other volcanoes in the range include Hayli Gubbi (521 m), Ale Bagu (1,031 m), Dalaffilla (613 m), and Borawli (812 m) — all basaltic shields in the same tectonic setting. The spectacular hydrothermal field of Dallol, 90 km to the north, represents phreatic volcanic activity in the same rift system. Further south along the East African Rift, <a href=\"/volcanoes-in-ethiopia\">Ethiopia</a> hosts numerous other volcanoes including Fantale, Tullu Moye, Corbetti, and the massive Aluto caldera. Across the broader rift system, Erta Ale shares its persistent lava lake distinction with <a href=\"/volcano/nyiragongo\">Nyiragongo</a> in the DR Congo and <a href=\"/volcano/kilauea\">Kilauea</a> in Hawaii — the three most famous lava lake volcanoes on Earth, though they differ dramatically in tectonic setting and magma composition."
+    },
+    "etymology": {
+      "content": "The name Erta Ale derives from the Afar language, where 'erta' means 'smoking' or 'steaming' and 'ale' means 'mountain.' The literal translation, 'Smoking Mountain,' describes the persistent volcanic plume visible from across the Danakil Depression. The Afar people also refer to the summit area as 'the Gateway to Hell,' reflecting both the incandescent glow of the lava lake visible at night and the extreme inhospitability of the surrounding landscape."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Erta Ale Compared to the World's Persistent Lava Lake Volcanoes",
+      "description": "How does Erta Ale compare to other volcanoes hosting long-lived lava lakes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Lava Lake Active Since",
+        "Lava Type",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "585 m",
+          "Shield",
+          "1967 (possibly 1906)",
+          "Basalt",
+          "<5,000"
+        ],
+        [
+          "Kilauea",
+          "United States",
+          "1,222 m",
+          "Shield",
+          "2008–18; 2020–",
+          "Basalt",
+          "~45,000"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "1927–present",
+          "Nephelinite",
+          "~2 million (Goma)"
+        ],
+        [
+          "Erebus",
+          "Antarctica",
+          "3,794 m",
+          "Stratovolcano",
+          "1972–present",
+          "Phonolite",
+          "0"
+        ],
+        [
+          "Masaya",
+          "Nicaragua",
+          "594 m",
+          "Caldera",
+          "2015–present",
+          "Basalt",
+          "~300,000"
+        ]
+      ]
+    },
+    {
+      "title": "Erta Ale in the Context of Africa's Active Volcanoes",
+      "description": "Comparing Erta Ale to other notable active volcanoes on the African continent.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Eruption Count",
+        "Key Feature"
+      ],
+      "rows": [
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "585 m",
+          "Shield",
+          "1967–present",
+          "7",
+          "Persistent lava lake"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2025",
+          "20",
+          "Lava lake; 2002 Goma disaster"
+        ],
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "2,962 m",
+          "Stratovolcano",
+          "2017–present",
+          "27",
+          "Carbonatite lava"
+        ],
+        [
+          "Nyamuragira",
+          "DR Congo",
+          "3,058 m",
+          "Shield",
+          "2025",
+          "47",
+          "Africa's most active volcano"
+        ],
+        [
+          "Meru",
+          "Tanzania",
+          "4,550 m",
+          "Stratovolcano",
+          "1910",
+          "4",
+          "Tanzania's 2nd tallest"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1873,
+      "vei": 2,
+      "label": "Uncertain eruption — earliest possible activity record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1903,
+      "vei": 2,
+      "label": "Uncertain eruption reported",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1904,
+      "vei": 2,
+      "label": "Uncertain eruption reported",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1906,
+      "vei": 0,
+      "label": "First confirmed eruption — lava lake observed by Italian explorers",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1940,
+      "vei": 0,
+      "label": "Confirmed summit activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1960,
+      "vei": 0,
+      "label": "Confirmed eruption observed by geologists",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1967,
+      "vei": 0,
+      "label": "Current continuous eruption begins — lava lake persists to present day",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2005,
+      "vei": 0,
+      "label": "Major lava lake overflow floods caldera floor",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2010,
+      "vei": 0,
+      "label": "Overflow event — lava spills over caldera rim",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 0,
+      "label": "Lava lake drains; major NE flank fissure eruption",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th",
+      "count": 1,
+      "note": "1873 uncertain — first possible observations"
+    },
+    {
+      "century": "20th",
+      "count": 5,
+      "note": "1903, 1904 (uncertain), 1906, 1940, 1960 — plus onset of continuous eruption in 1967"
+    },
+    {
+      "century": "21st",
+      "count": 1,
+      "note": "Continuation of 1967–present eruption with significant episodes in 2005, 2010, 2017"
+    }
+  ],
+  "facts": [
+    "Erta Ale has maintained a persistent lava lake for at least 58 years (since 1967), and possibly for over 119 years (since 1906) — making it one of the longest-lived lava lakes ever documented on Earth.",
+    "The volcano stands at just 585 m above sea level, but its base lies below sea level in the Danakil Depression — its true edifice rises over 600 m from the depression floor.",
+    "The Danakil Depression surrounding Erta Ale is one of the hottest places on Earth, with average annual temperatures above 34°C and summer maxima exceeding 50°C (122°F).",
+    "Erta Ale sits at the Afar Triple Junction where three tectonic plates (Nubian, Somali, and Arabian) are pulling apart — one of the only places where a mid-ocean ridge spreading center is exposed above sea level.",
+    "The summit lava lake is typically 60–100 m in diameter and exhibits constant convection — the surface crusts over, darkens, then cracks open to reveal glowing magma in a continuously repeating cycle.",
+    "In January 2017, the summit lava lake drained rapidly as a fissure eruption opened 7 km away on the northeast flank, demonstrating that the magma plumbing system extends far beyond the summit.",
+    "Only five volcanoes on Earth currently host persistent lava lakes: Erta Ale, Kilauea (USA), Nyiragongo (DR Congo), Erebus (Antarctica), and Masaya (Nicaragua).",
+    "The Danakil Depression, where Erta Ale stands, is a nascent ocean basin — in roughly 10 million years, the rift will widen enough to flood with seawater, and Erta Ale will become a submarine volcano.",
+    "In 2012, armed militants attacked a tourist group at Erta Ale, killing five visitors and kidnapping others — underscoring that human security risks in the Afar region rival the volcanic hazards.",
+    "Erta Ale's basaltic lava is chemically similar to mid-ocean ridge basalt rather than typical continental rift magma, reflecting the extremely thinned crust (15–25 km) beneath the Afar Triangle.",
+    "The volcano's 50-km-wide shield edifice is one of the broadest volcanic structures in Africa, though its low profile makes it nearly invisible from a distance — it is detected primarily by the persistent glow and plume above the summit.",
+    "Explorer Wilfred Thesiger, who crossed the Danakil Depression in the 1930s, described the region as 'the cruelest place on Earth' — a reputation Erta Ale's molten summit continues to reinforce."
+  ],
+  "faqs": [
+    {
+      "question": "Does Erta Ale have a permanent lava lake?",
+      "answer": "Yes, Erta Ale hosts one of only five persistent lava lakes on Earth. The lava lake, located in a pit crater within the summit caldera, has been continuously or semi-continuously active since at least 1967 — and observations from 1906 suggest it may have persisted for well over a century. The lake is typically 60–100 m in diameter and consists of constantly convecting molten basalt. The surface crusts over, darkens, then fractures to reveal incandescent magma beneath in a perpetually repeating cycle. Periodic overflows send lava across the caldera floor."
+    },
+    {
+      "question": "Is Erta Ale still active?",
+      "answer": "Yes, Erta Ale is very much active and has been in a state of near-continuous eruption since at least 1967. The summit lava lake persists as of 2025, confirmed by satellite thermal monitoring and ground observations. The volcano periodically produces lava overflows from the summit pit craters, and in January 2017 generated a significant fissure eruption on its northeastern flank. Satellite instruments regularly detect intense thermal anomalies at the summit, confirming ongoing activity."
+    },
+    {
+      "question": "Can you visit Erta Ale?",
+      "answer": "Yes, Erta Ale is accessible to adventurous tourists, though it is one of the most extreme volcano-visiting experiences on Earth. Trips depart from Mekelle (approximately 300 km away) with licensed Ethiopian tour operators, traveling by 4x4 to a basecamp, then trekking 3–4 hours across lava fields (usually at night to avoid extreme heat). Visitors camp on the caldera rim and view the lava lake from the crater edge. Armed Afar militia escorts are required due to regional security concerns. Essential gear includes at least 6 liters of water per person per day. The best season is November–February."
+    },
+    {
+      "question": "Where is Erta Ale located?",
+      "answer": "Erta Ale is located in the Afar Region of northeastern Ethiopia, within the Danakil Depression — one of the lowest and hottest places on Earth. The volcano sits at approximately 13.6°N, 40.7°E, near the border with Eritrea and Djibouti. The nearest city is Mekelle, roughly 300 km to the west-southwest. The Danakil Depression extends to 125 m below sea level, and the surrounding landscape consists of lava fields, salt flats, and extreme desert with virtually no permanent human settlement."
+    },
+    {
+      "question": "How hot is the lava lake at Erta Ale?",
+      "answer": "The basaltic lava in Erta Ale's persistent lava lake erupts at temperatures of approximately 1,100–1,200°C (2,000–2,190°F), typical of basaltic magma worldwide. The surface of the lake crusts over and cools to roughly 600–800°C before fracturing and recycling. This extreme temperature, combined with the Danakil Depression's ambient air temperatures exceeding 50°C, creates one of the most thermally intense environments accessible to humans anywhere on Earth."
+    },
+    {
+      "question": "Is Erta Ale dangerous to visit?",
+      "answer": "Yes, visiting Erta Ale carries significant risks from multiple sources. Volcanic hazards include toxic gases (SO2 and CO2), sudden lava lake overflows, incandescent spatter, and unstable caldera rim edges. Environmental hazards include extreme heat (air temperatures often exceeding 45°C), severe dehydration risk, and disorienting terrain. Security risks are also real — in 2012, armed militants attacked a tourist group at the volcano, killing five visitors. All visitors require armed escorts, licensed tour operators, and thorough preparation for extreme conditions."
+    },
+    {
+      "question": "How does Erta Ale compare to other lava lake volcanoes?",
+      "answer": "Erta Ale is one of only five volcanoes on Earth currently hosting persistent lava lakes, alongside Kilauea (Hawaii), Nyiragongo (DR Congo), Erebus (Antarctica), and Masaya (Nicaragua). It is distinguished by the longevity of its lake (active since at least 1967), its extremely remote and hostile setting, and its tectonic context at a continental triple junction. Unlike Nyiragongo, which sits above 2 million people, Erta Ale's remoteness means fewer than 5,000 people live in its vicinity, giving it a much lower human risk profile."
+    },
+    {
+      "question": "Why does Erta Ale have a lava lake?",
+      "answer": "Erta Ale's persistent lava lake exists because of its unique tectonic setting at the Afar Triple Junction, where three tectonic plates are actively pulling apart. This extreme crustal extension thins the lithosphere to just 15–25 km, allowing basaltic magma from the upper mantle to ascend with minimal resistance. The open-vent system of the summit pit crater provides a direct, unobstructed conduit between the magma reservoir and the surface, enabling constant convective circulation of molten rock rather than periodic eruption and re-sealing as occurs at most volcanoes."
+    }
+  ],
+  "people_also_search": [
+    "erta ale lava lake",
+    "erta ale volcano visit",
+    "danakil depression volcano",
+    "ethiopia volcano",
+    "persistent lava lakes",
+    "erta ale eruption 2017",
+    "hottest place on earth volcano",
+    "gateway to hell volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Erta Ale",
+    "alternateName": [
+      "Ertale",
+      "Irtale"
+    ],
+    "description": "Active basaltic shield volcano in Ethiopia's Danakil Depression hosting one of Earth's five persistent lava lakes, active since at least 1967",
+    "geo": {
+      "latitude": 13.601,
+      "longitude": 40.666,
+      "elevation": 585
+    },
+    "containedInPlace": {
+      "name": "Afar Region",
+      "country": "Ethiopia"
+    },
+    "url": "https://volcanoatlas.com/volcano/erta-ale"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=221080",
+      "text": "Smithsonian GVP: Erta Ale",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Erta-Ale",
+      "text": "Britannica: Erta Ale",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images/event/89753",
+      "text": "NASA Earth Observatory: Erta Ale",
+      "type": "remote_sensing"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "nyiragongo",
+      "lengai-ol-doinyo",
+      "erebus",
+      "masaya",
+      "stromboli",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "ethiopia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "kilauea",
+    "nyiragongo",
+    "lengai-ol-doinyo",
+    "erebus",
+    "masaya"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Ethiopia",
+      "url": "/volcanoes-in-ethiopia"
+    },
+    {
+      "label": "Erta Ale",
+      "url": "/volcano/erta-ale"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/erta-ale"
+}

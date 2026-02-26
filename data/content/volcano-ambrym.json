@@ -1,0 +1,492 @@
+{
+  "slug": "ambrym",
+  "volcano_id": 257040,
+  "title": "Ambrym",
+  "meta_title": "Ambrym Volcano — Eruption History, Lava Lakes, Type & Facts | VolcanoAtlas",
+  "meta_description": "Ambrym is a 1,334 m active shield volcano in Vanuatu with persistent lava lakes. Explore its full eruption history, 12 km caldera, hazards, and visitor guide.",
+  "quick_answer": {
+    "what": "Ambrym is a large basaltic shield volcano on the island of Ambrym in the Malampa Province of Vanuatu, rising to 1,334 m (4,377 ft) and featuring a 12-km-wide caldera formed by a catastrophic VEI 6 eruption approximately 1,900 years ago.",
+    "status": "Active — last erupted in 2024. One of the most persistently active volcanoes on Earth, with near-continuous lava lake activity and eruptions recorded almost annually since 1950.",
+    "famous_for": "One of the few volcanoes on Earth to host persistent lava lakes, primarily in the Marum and Benbow craters within the caldera. The volcano is also known for its massive ~50 AD caldera-forming eruption and its extraordinary ongoing degassing.",
+    "danger_level": "Significant — approximately 7,000–10,000 people live on Ambrym Island. Lava flows have reached the coast, and acid rain from volcanic degassing chronically damages crops and vegetation."
+  },
+  "hero": {
+    "name": "Ambrym",
+    "local_name": "Ambrym",
+    "subtitle": "Vanuatu's Black Island — Home of Persistent Lava Lakes",
+    "country": "Vanuatu",
+    "region": "Malampa Province, Vanuatu Volcanic Arc",
+    "type": "Shield (pyroclastic)",
+    "elevation_m": 1334,
+    "elevation_ft": 4377,
+    "status": "Active",
+    "last_eruption": "2024",
+    "coordinates": {
+      "lat": -16.25,
+      "lon": 168.12
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11913.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,334 m (4,377 ft)",
+    "type": "Shield volcano (pyroclastic)",
+    "status": "Active",
+    "last_eruption": "2024",
+    "first_known_eruption": "~50 AD (VEI 6 caldera-forming event)",
+    "total_recorded_eruptions": 58,
+    "vei_max": "6 (~50 AD)",
+    "country": "Vanuatu",
+    "region": "Malampa Province, Vanuatu Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Australian Plate beneath Pacific Plate / Intermediate crust (15–25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "16.250°S, 168.120°E",
+    "nearest_city": "Port Vila — ~250 km south; Craig Cove — on Ambrym's west coast",
+    "population_at_risk": "~7,000–10,000 on Ambrym Island",
+    "caldera_dimensions": "~12 km wide",
+    "active_craters": "Marum and Benbow (persistent lava lakes)",
+    "monitoring_agency": "Vanuatu Meteorology and Geo-Hazards Department (VMGD)",
+    "smithsonian_id": "257040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=257040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Ambrym is a massive basaltic shield volcano that forms the entire island of Ambrym in the <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a> archipelago, located in the southwestern Pacific Ocean approximately 250 km north of the capital, Port Vila. With 58 recorded eruptions — 56 of them confirmed — Ambrym is one of the most persistently active volcanoes on Earth and the most active volcano in the Vanuatu arc. Its defining feature is a 12-km-wide caldera created by a catastrophic <a href=\"/volcanic-explosivity-index\">VEI</a> 6 eruption around 50 AD, one of the largest eruptions in the Pacific in the last 2,000 years. Within this caldera, the Marum and Benbow craters have hosted some of the world's most spectacular persistent lava lakes — incandescent pools of molten basalt that glow continuously, making Ambrym one of only a handful of volcanoes globally (alongside <a href=\"/volcano/nyiragongo\">Nyiragongo</a>, <a href=\"/volcano/kilauea\">Kīlauea</a>, and <a href=\"/volcano/erebus\">Erebus</a>) known for sustained lava lake activity. Since 1950, eruptions have been reported almost every year, ranging from intra-caldera lava flows to major flank eruptions that have sent lava to the coast. Ambrym's extraordinary SO₂ emissions — frequently ranking among the top volcanic point sources of sulfur dioxide on the planet — affect air quality, agriculture, and health across the island and the broader Vanuatu archipelago. The volcano sits along the New Hebrides subduction zone, where the Australian Plate dives beneath the Pacific Plate, fueling the <a href=\"/ring-of-fire\">Ring of Fire</a> volcanism that defines the island chain."
+    },
+    "geology_and_formation": {
+      "content": "Ambrym is a broad basaltic shield volcano built upon the oceanic crust of the New Hebrides island arc. The pre-caldera edifice was a large <a href=\"/types-of-volcanoes\">shield volcano</a> constructed primarily from fluid basaltic lava flows. The most transformative event in Ambrym's geological history was the massive caldera-forming eruption around 50 AD (±100 years), which produced voluminous dacitic pyroclastic flows and ignimbrites — a striking departure from the volcano's otherwise basaltic character. This VEI 6 eruption, one of the largest in the Pacific region during the Holocene, ejected an estimated 30+ km³ of material and created the 12-km-wide caldera that defines the volcano's summit today. A thick, almost exclusively pyroclastic sequence — initially dacitic, then transitioning to basaltic — overlies the lava flows of the pre-caldera shield. Since caldera formation, eruptions have been predominantly basaltic, building the Marum and Benbow cinder cones that partially fill the caldera floor. Post-caldera eruptions have also generated lava flows that have ponded on the caldera floor or overflowed through gaps in the caldera rim, reaching the coast. A series of scoria cones and maars along an ENE–WSW-oriented fissure system cut across the volcano, reflecting the regional tectonic stress field. The subduction of the Australian Plate beneath the Pacific Plate at approximately 9 cm/year provides the magma supply, and the basaltic composition allows for relatively fluid lava flows alongside the explosive phreatomagmatic activity driven by interaction with caldera floor water and saturated ground."
+    },
+    "eruption_history_overview": {
+      "content": "Ambrym has one of the most prolific eruption records of any volcano in the southwestern Pacific, with 58 eruptions documented since ~50 AD. The caldera-forming VEI 6 eruption around 50 AD anchors the record as the most powerful event. Historical records begin in 1774, when Captain Cook's expedition documented activity. Since 1774, Ambrym has erupted 57 times — an average of approximately one eruption every 4.4 years, though since 1950 the frequency has been near-annual. The vast majority of eruptions have been small to moderate (VEI 0–2), reflecting the persistent lava lake and Strombolian activity at Marum and Benbow. However, several larger eruptions have occurred, including VEI 3 events in 1894, 1913, 1961, 1972, 1973, 1980, and 1988, and a notable VEI 4 eruption in 1950–1951 that was the largest in Ambrym's recorded history. The 2018 eruption was particularly significant as it marked the temporary draining of the Marum and Benbow lava lakes when magma was diverted laterally into a rift zone, causing destructive lava flows and ground deformation on the eastern coast."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~50 AD Caldera-Forming Eruption (VEI 6)",
+          "content": "The most powerful eruption in Ambrym's known history occurred approximately 1,900 years ago (around 50 AD, with uncertainties of ±100 years). This catastrophic event was a dramatic departure from Ambrym's typically basaltic character, producing voluminous dacitic pyroclastic flows and dense ignimbrite deposits that devastated the island. The eruption ejected an estimated 30+ km³ of material, placing it in the same VEI 6 class as the 1991 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a>. The resulting caldera collapse created the approximately 12-km-wide depression that defines the summit of modern Ambrym. Oral traditions of the indigenous ni-Vanuatu people preserve memories of this eruption as a time of great destruction, darkness, and catastrophic change, consistent with the geological evidence. The ignimbrites from this eruption can be traced around much of the island and have been identified on neighboring islands, testifying to the eruption's enormous scale."
+        },
+        {
+          "title": "The 1913–1914 Eruption — Major Flank Activity (VEI 3)",
+          "content": "Beginning on October 14, 1913, a significant eruption from Benbow, the west flank, and Marum produced extensive lava flows that destroyed villages and agricultural land. Lava overflowed the caldera rim through gaps and advanced toward the coast. The eruption continued into 1914, with communities on the western side of the island forced to evacuate. This event demonstrated Ambrym's capacity for extra-caldera eruptions that directly threaten populated coastal areas, not just the uninhabited caldera interior."
+        },
+        {
+          "title": "The 1950–1951 Eruption — Ambrym's Largest Historical Event (VEI 4)",
+          "content": "The eruption that began on December 6, 1950 from the Benbow crater was the most powerful historical eruption at Ambrym, reaching VEI 4. Vigorous explosive activity produced eruption columns and heavy ashfall, while lava flows within and outside the caldera threatened communities. The eruption caused significant destruction to vegetation and crops across the island and forced evacuations. Activity continued into 1951 before subsiding. This event remains the benchmark for hazard planning on Ambrym and demonstrated the volcano's potential for larger eruptions beyond its typical low-level persistent activity."
+        },
+        {
+          "title": "The 2018 Eruption — Lava Lake Drainage and Rift Intrusion",
+          "content": "In December 2018, Ambrym experienced a dramatic event that drew international scientific attention. The long-lived Marum and Benbow lava lakes, which had been active for decades, abruptly drained as magma was diverted laterally into an ENE-trending rift zone extending toward the eastern coast. The intrusion caused severe ground deformation — with uplift of over 1 m in some areas and subsidence near the caldera — triggering earthquakes, ground cracking, and coastal uplift and subsidence that damaged villages and infrastructure on the eastern shore. While lava did not reach the surface along the rift, the associated seismicity, ground deformation, and coastal changes displaced thousands of residents. This event was a textbook example of a lateral magma intrusion and was extensively studied by international research teams using satellite interferometry (InSAR), GPS, and seismic data."
+        },
+        {
+          "title": "Persistent Lava Lake Activity (1950–2018)",
+          "content": "Ambrym's most remarkable feature was the near-continuous presence of lava lakes in the Marum and Benbow craters from approximately 1950 to 2018. These incandescent basaltic lakes, typically 30–100 m in diameter, featured roiling surfaces, periodic lava fountaining, and the constant emission of volcanic gases. The Marum lava lake, in particular, became a legendary destination for extreme volcanologists and adventurers, accessible only by a multi-hour trek across the ash-covered caldera floor and a descent into the crater. The lava lakes made Ambrym one of only four to six volcanoes worldwide known for sustained lava lake activity. Following the December 2018 rift intrusion, both lava lakes drained and had not fully re-established as of early 2025, though intermittent incandescence and minor eruptions at both craters have continued."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Ambrym remains actively monitored by the Vanuatu Meteorology and Geo-Hazards Department (VMGD), which operates seismic and deformation monitoring stations on the island, supplemented by satellite-based SO₂ monitoring from agencies including NASA and the European Space Agency. Since the dramatic lava lake drainage event of December 2018, Ambrym has continued to show signs of ongoing activity: eruptions were recorded in January 2022 (VEI 1, Benbow crater) and twice in 2024 (January, VEI 0; October, uncertain eruption). The Marum and Benbow craters continue to emit significant quantities of sulfur dioxide, though at lower levels than during the sustained lava lake period. Seismic activity beneath the caldera persists, indicating that Ambrym's magmatic system remains well-supplied. Scientists anticipate that lava lake activity will eventually resume, as it has repeatedly re-established after previous drainage events throughout the historical record. VMGD maintains alert levels and exclusion zones around the caldera, and volcanic bulletins are issued regularly."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Ambrym's hazard profile encompasses several distinct threat types. Lava flows are the most visible hazard: post-caldera eruptions have repeatedly sent lava through gaps in the caldera rim to the coast, destroying villages and agricultural land. The 1913–1914, 1929, and other eruptions demonstrated that lava can reach populated coastal areas within hours. Volcanic gas emissions represent a chronic and arguably more pervasive hazard: Ambrym consistently ranks among the world's top volcanic SO₂ point sources, with emissions frequently exceeding 5,000–10,000 tonnes per day during active lava lake periods. This SO₂ reacts with moisture to form sulfuric acid aerosol, causing acid rain that damages crops, corrodes building materials, and poses respiratory health risks. The resulting 'vog' (volcanic fog) affects not only Ambrym but neighboring islands including Paama, Malakula, and others downwind. Ashfall from explosive phases can disrupt agriculture, contaminate water supplies, and damage infrastructure. The 2018 rift intrusion demonstrated a less anticipated hazard: lateral magma movement causing ground deformation, fault rupture, and coastal change that damaged coastal villages and infrastructure without lava reaching the surface. Pyroclastic flows, while less frequent at basaltic Ambrym than at more silicic volcanoes, were the dominant hazard during the VEI 6 caldera-forming eruption and could recur in a large explosive event."
+    },
+    "geography_and_physical_description": {
+      "content": "Ambrym Island measures approximately 35 × 50 km and is dominated by the volcanic edifice, making it one of the largest volcanic islands in the Vanuatu archipelago. The summit caldera, approximately 12 km in diameter, is a vast, ash-covered depression ringed by walls rising 200–400 m above the caldera floor. The caldera floor itself is a stark, dark landscape of ash, lava flows, and cinder, earning the island its nickname 'the Black Island.' Within the caldera, the two principal active craters — Marum (to the east) and Benbow (to the west) — are deep, near-vertical-walled pits approximately 300–400 m deep, occasionally containing lava lakes. Several smaller craters and cones, including Mbuelesu and Niri Taten, also dot the caldera floor. Outside the caldera, the flanks of the shield volcano slope gently to the coast, covered in dense tropical rainforest at lower elevations and barren ash fields near the summit. An ENE–WSW fissure system crosses the volcano, along which scoria cones and maars have formed. The coastline is marked by black volcanic sand beaches and, in some areas, steep cliffs formed by lava flow fronts. The island supports approximately 7,000–10,000 inhabitants in scattered villages, primarily along the western and southeastern coasts."
+    },
+    "climate_and_global_impact": {
+      "content": "Ambrym's ~50 AD VEI 6 eruption would have had significant regional atmospheric effects, though ice core and tree ring records from this period are limited. The eruption's scale suggests it could have produced measurable hemispheric cooling, though less than more recent VEI 6+ events that have been better documented. In the modern era, Ambrym's most significant atmospheric impact is its extraordinary chronic SO₂ degassing. During periods of active lava lakes, Ambrym has emitted 5,000–20,000+ tonnes of SO₂ per day, making it one of the single largest volcanic point sources of sulfur dioxide on Earth — comparable to or exceeding emissions from much more famous volcanoes like <a href=\"/volcano/kilauea\">Kīlauea</a> or <a href=\"/volcano/etna\">Etna</a>. This degassing contributes to regional acid deposition, affects air quality across the Vanuatu archipelago, and is detectable by satellite instruments (OMI/TROPOMI) from space. While Ambrym's emissions are significant regionally, they represent a small fraction of total global volcanic SO₂ output and have limited measurable impact on global climate compared to large explosive eruptions that inject aerosols into the stratosphere."
+    },
+    "cultural_significance": {
+      "content": "Ambrym holds an extraordinary cultural position within Vanuatu and the broader Melanesian world. The island is renowned throughout the Pacific for its powerful traditions of sorcery, sand drawing (recognized by UNESCO as an Intangible Cultural Heritage of Humanity), and elaborate carved wooden sculptures, particularly slit drums (tam-tams) that are among the most iconic art forms of Melanesia. Ni-Vanuatu oral traditions on Ambrym preserve vivid accounts of the caldera-forming eruption approximately 1,900 years ago, with legends describing catastrophic destruction and the reshaping of the island. The volcano is deeply embedded in local cosmology and spiritual belief systems; Ambrym's persistent volcanic activity — the glow of lava lakes, the rumbling of the earth, and the pungent sulfurous gases — has shaped the cultural identity of the island's inhabitants for millennia. The Rom dance ceremonies of Ambrym, performed wearing elaborate masks, are among the most significant cultural events in Vanuatu and reflect the island community's enduring relationship with their volcanic landscape. In modern Vanuatu, Ambrym's volcano serves as both a cultural symbol and a tourist attraction, drawing visitors willing to make the challenging trek to the caldera rim."
+    },
+    "visiting_and_tourism": {
+      "content": "Ambrym is one of the most adventurous volcanic destinations in the world, attracting intrepid travelers and volcano enthusiasts. When alert levels permit, the signature experience is the multi-hour guided trek across the caldera floor to the rim of Marum or Benbow crater. The trek begins from villages on the caldera rim — typically Endu or Lalinda on the eastern side — and crosses a surreal, ash-blasted landscape to reach the crater edges, where visitors may witness the glow of active vents or, during lava lake periods, look directly into pools of molten rock. The trek is physically demanding (typically 4–8 hours round trip) and requires a local guide, which also supports the island's economy. Access to Ambrym is by domestic flight from Port Vila to Craig Cove or Ulei airstrips, or by inter-island cargo boat. Basic guesthouse accommodation is available in coastal villages. Visitors should note that access to the caldera is controlled by VMGD alert levels and custom landowner permissions. Since the 2018 eruption and lava lake drainage, the experience has changed — the spectacular lava lakes may or may not be present — but the volcanic landscape remains awe-inspiring."
+    },
+    "nearby_volcanoes": {
+      "content": "Ambrym is part of the intensely active Vanuatu volcanic arc, which hosts 12 Holocene volcanoes across the archipelago. Yasur, on Tanna Island approximately 300 km to the south, is one of the world's most accessible active volcanoes, known for near-continuous Strombolian eruptions visible from the crater rim. <a href=\"/volcano/lopevi\">Lopevi</a>, an uninhabited stratovolcano just 25 km southeast of Ambrym, is frequently active and occasionally visible erupting from Ambrym's shores. <a href=\"/volcano/ambae\">Ambae</a> (Aoba), a massive shield volcano 100 km to the north, forced the temporary evacuation of its entire population (~11,000) during eruptions in 2017–2018. The Vanuatu arc, generated by the subduction of the Australian Plate beneath the Pacific Plate, is one of the most volcanically active island chains in the <a href=\"/ring-of-fire\">Ring of Fire</a>, and <a href=\"/volcanoes-in-vanuatu\">Vanuatu's</a> volcanic landscapes are central to the nation's identity and economy."
+    },
+    "etymology": {
+      "content": "The name 'Ambrym' derives from the local Melanesian language. In some accounts, the word relates to the phrase 'am-brym,' roughly meaning 'here is our place' or 'our land,' reflecting the indigenous community's deep ancestral connection to the island. The name predates European contact and has been consistently used since early colonial-era mapping of the New Hebrides (now Vanuatu)."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Ambrym Compared to the World's Persistent Lava Lake Volcanoes",
+      "description": "How does Ambrym compare to other volcanoes known for sustained lava lake activity?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Lava Lake Status"
+      ],
+      "rows": [
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Shield",
+          "2024",
+          "6",
+          "58",
+          "Drained 2018; intermittent since"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2021",
+          "1",
+          "20+",
+          "Re-established after 2021 drain"
+        ],
+        [
+          "Kīlauea",
+          "United States",
+          "1,222 m",
+          "Shield",
+          "2024",
+          "4",
+          "70+",
+          "Intermittent since 2018"
+        ],
+        [
+          "Erebus",
+          "Antarctica",
+          "3,794 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "10+",
+          "Persistent (phonolite)"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "613 m",
+          "Shield",
+          "2024",
+          "0",
+          "8",
+          "Persistent since ~1967"
+        ]
+      ]
+    },
+    {
+      "title": "Ambrym Compared to Vanuatu's Other Active Volcanoes",
+      "description": "The Vanuatu arc's most active volcanic systems compared.",
+      "headers": [
+        "Volcano",
+        "Island",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Eruption Count",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Ambrym",
+          "Ambrym",
+          "1,334 m",
+          "Shield",
+          "2024",
+          "58",
+          "~7,000–10,000"
+        ],
+        [
+          "Yasur",
+          "Tanna",
+          "361 m",
+          "Stratovolcano",
+          "2024",
+          "50+",
+          "~10,000"
+        ],
+        [
+          "Ambae",
+          "Ambae",
+          "1,496 m",
+          "Shield",
+          "2019",
+          "10+",
+          "~11,000"
+        ],
+        [
+          "Lopevi",
+          "Lopevi",
+          "1,413 m",
+          "Stratovolcano",
+          "2007",
+          "30+",
+          "Uninhabited"
+        ],
+        [
+          "Kuwae",
+          "Epi-Tongoa",
+          "– (submarine)",
+          "Caldera",
+          "1974",
+          "3",
+          "~5,000"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 50,
+      "vei": 6,
+      "label": "Catastrophic caldera-forming eruption — dacitic pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1774,
+      "vei": 2,
+      "label": "First historically recorded eruption (Cook expedition)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1894,
+      "vei": 3,
+      "label": "Major eruption from Benbow and west flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1913,
+      "vei": 3,
+      "label": "Significant eruption — lava flows threaten villages",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1950,
+      "vei": 4,
+      "label": "Largest historical eruption — VEI 4 from Benbow",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1961,
+      "vei": 3,
+      "label": "Multi-year eruption from Benbow and Marum",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1986,
+      "vei": 2,
+      "label": "New cone formed 3 km east of Marum",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1988,
+      "vei": 3,
+      "label": "Explosive eruption from multiple craters",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1996,
+      "vei": 1,
+      "label": "Beginning of sustained decade-long lava lake period",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2008,
+      "vei": 2,
+      "label": "Sustained lava lake activity at Benbow and Marum through 2018",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2024,
+      "vei": 0,
+      "label": "Continued low-level activity",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "1st",
+      "count": 1,
+      "note": "VEI 6 caldera-forming eruption ~50 AD"
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 9
+    },
+    {
+      "century": "20th",
+      "count": 41,
+      "note": "Near-continuous activity, especially post-1950"
+    },
+    {
+      "century": "21st",
+      "count": 4,
+      "note": "Through 2024"
+    }
+  ],
+  "facts": [
+    "Ambrym's ~50 AD caldera-forming eruption was one of the largest volcanic events in the Pacific in the last 2,000 years, ejecting an estimated 30+ km³ of material and creating a 12-km-wide caldera.",
+    "Ambrym's lava lakes at Marum and Benbow craters (active ~1950–2018) made it one of only four to six volcanoes on Earth with sustained lava lake activity, alongside Nyiragongo, Kīlauea, Erebus, and Erta Ale.",
+    "During active lava lake periods, Ambrym's SO₂ emissions frequently exceeded 10,000 tonnes per day, making it one of the single largest volcanic point sources of sulfur dioxide on the planet.",
+    "Ambrym Island is known as 'the Black Island' due to the vast expanses of dark volcanic ash and basaltic rock that cover much of its surface, particularly the stark caldera floor.",
+    "With 58 recorded eruptions since ~50 AD, Ambrym averages one eruption approximately every 4.4 years during the historical period — and near-annually since 1950.",
+    "Ambrym's sand drawings, created by tracing continuous geometric patterns in volcanic sand, are recognized by UNESCO as an Intangible Cultural Heritage of Humanity.",
+    "The December 2018 eruption drained Ambrym's long-lived lava lakes within hours as magma diverted laterally into a rift zone, causing ground uplift of over 1 m on the eastern coast.",
+    "The VEI 6 caldera-forming eruption ~50 AD was unusual for Ambrym: it produced dacitic pyroclastic flows, while virtually all other eruptions have been basaltic — an abrupt compositional shift that intrigues volcanologists.",
+    "Ambrym's caldera floor, approximately 12 km wide, is one of the largest and most accessible active volcanic calderas in the world, reachable by a trek from rim villages.",
+    "Acid rain from Ambrym's chronic volcanic degassing has caused widespread crop damage across the island and neighboring islands, significantly impacting food security for island communities.",
+    "The 1950–1951 eruption from Benbow crater (VEI 4) was the most powerful historical eruption at Ambrym and remains the benchmark for hazard planning.",
+    "Ambrym's persistent volcanic glow, visible at night from neighboring islands, has shaped local mythology and cultural traditions for millennia."
+  ],
+  "faqs": [
+    {
+      "question": "Is Ambrym Volcano still active?",
+      "answer": "Yes, Ambrym is one of the most persistently active volcanoes on Earth. It has produced 58 recorded eruptions since ~50 AD, with near-continuous activity since 1950. The most recent eruption occurred in 2024. From approximately 1950 to 2018, Ambrym hosted spectacular persistent lava lakes in the Marum and Benbow craters. Though the lava lakes drained during a dramatic rift intrusion event in December 2018, the volcano continues to produce intermittent eruptions, emit substantial quantities of SO₂ gas, and generate seismic activity. The Vanuatu Meteorology and Geo-Hazards Department monitors the volcano continuously and considers further eruptions virtually certain."
+    },
+    {
+      "question": "Does Ambrym have a lava lake?",
+      "answer": "Ambrym hosted two of the world's most spectacular persistent lava lakes — in the Marum and Benbow craters — from approximately 1950 to December 2018. These incandescent basaltic lava pools, typically 30–100 m in diameter, glowed continuously and were a major draw for extreme volcano tourism. In December 2018, both lava lakes abruptly drained when magma diverted laterally into a rift zone on the eastern flank. As of early 2025, the lava lakes have not fully re-established, though intermittent incandescence and minor eruptive activity at both craters have been observed. Scientists expect the lava lakes will eventually return, as they have repeatedly re-established after previous drainage events."
+    },
+    {
+      "question": "When did Ambrym last erupt?",
+      "answer": "Ambrym's most recent eruptions occurred in 2024: a VEI 0 eruption in January and an uncertain eruption in October. Prior to that, a VEI 1 eruption occurred at Benbow crater in January 2022. The most significant recent event was the December 2018 eruption, which drained the long-lived Marum and Benbow lava lakes when magma diverted into a lateral rift zone, causing ground deformation and damage to eastern coastal villages. Ambrym has erupted 58 times since ~50 AD and has been in a state of near-continuous unrest since at least 1950."
+    },
+    {
+      "question": "How big is Ambrym's caldera?",
+      "answer": "Ambrym's summit caldera is approximately 12 km (7.5 mi) wide, making it one of the largest active volcanic calderas in the southwestern Pacific. The caldera was formed by a catastrophic VEI 6 eruption around 50 AD that produced massive dacitic pyroclastic flows. The caldera floor is a vast, ash-covered depression 200–400 m below the rim, dotted with active craters (Marum, Benbow, Mbuelesu, Niri Taten), lava flows, and cinder cones. For scale, Ambrym's caldera is comparable in diameter to the famous Ngorongoro Crater in Tanzania, though the geological origins are entirely different."
+    },
+    {
+      "question": "Can you visit Ambrym Volcano?",
+      "answer": "Yes, when volcanic alert levels permit, Ambrym is one of the world's most rewarding (and challenging) volcano destinations. The signature experience is a guided trek from rim villages such as Endu or Lalinda across the caldera floor to the rim of Marum or Benbow crater — a round trip of typically 4–8 hours across barren ash fields. During lava lake periods, visitors could witness molten basalt from the crater rim. Access is by domestic flight from Port Vila to Craig Cove or Ulei airstrip, or by inter-island boat. Basic guesthouse accommodation is available in villages. A local guide is required and supports the island economy. Always check current VMGD alert levels and respect custom landowner permissions."
+    },
+    {
+      "question": "What type of volcano is Ambrym?",
+      "answer": "Ambrym is classified as a basaltic shield volcano with a pyroclastic caldera — an unusual combination. Shield volcanoes are typically broad, gently sloping structures built by fluid lava flows, and Ambrym's pre-caldera form fits this description. However, the massive VEI 6 caldera-forming eruption around 50 AD produced explosive dacitic pyroclastic flows more characteristic of stratovolcanoes, creating the 12-km-wide caldera. Post-caldera activity has reverted to basaltic eruptions, producing lava lakes, Strombolian explosions, and lava flows from Marum, Benbow, and flank vents."
+    },
+    {
+      "question": "How does Ambrym affect the local population?",
+      "answer": "Approximately 7,000–10,000 people live on Ambrym Island and face multiple volcanic hazards. The most pervasive ongoing impact is chronic volcanic gas emissions: Ambrym's SO₂ output creates acid rain that damages crops (particularly taro, yam, and coconut), corrodes roofing materials, and causes respiratory health issues. During eruptions, ashfall contaminates water supplies and damages vegetation. The 2018 rift intrusion caused ground deformation and cracking that damaged villages on the eastern coast, displacing thousands. Lava flows from larger eruptions have historically reached the coast and destroyed settlements. Despite these hazards, the island's communities maintain a resilient relationship with their volcano, sustained by cultural traditions and fertile volcanic soils."
+    },
+    {
+      "question": "Why does Ambrym release so much SO₂?",
+      "answer": "Ambrym's extraordinary SO₂ emissions — frequently exceeding 5,000–10,000 tonnes per day during active periods — result from its basaltic magma composition and persistent shallow magma supply. Basaltic magmas are relatively sulfur-rich compared to more silicic compositions, and the continuous convection of fresh, gas-rich basaltic magma into the shallow Marum and Benbow craters allows efficient degassing without necessarily producing eruptions. This process is similar to what occurs at other prolific degassing volcanoes like Kīlauea and Etna. The open-vent nature of Ambrym's lava lakes provides a direct conduit from the magma reservoir to the atmosphere, enabling continuous passive degassing at rates that rival or exceed most other volcanoes on Earth."
+    }
+  ],
+  "people_also_search": [
+    "ambrym lava lake",
+    "ambrym volcano vanuatu",
+    "ambrym eruption 2018",
+    "most active volcanoes vanuatu",
+    "ambrym caldera",
+    "vanuatu volcanism",
+    "persistent lava lakes world",
+    "ambrym sand drawing"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Ambrym",
+    "alternateName": [
+      "Ambrym Volcano"
+    ],
+    "description": "Large basaltic shield volcano with a 12-km caldera in Vanuatu, known for persistent lava lakes and one of the highest volcanic SO₂ emission rates on Earth",
+    "geo": {
+      "latitude": -16.25,
+      "longitude": 168.12,
+      "elevation": 1334
+    },
+    "containedInPlace": {
+      "name": "Malampa Province",
+      "country": "Vanuatu"
+    },
+    "url": "https://volcanoatlas.com/volcano/ambrym"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=257040",
+      "text": "Smithsonian GVP: Ambrym",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.vmgd.gov.vu/vmgd/index.php/geohazards/volcano",
+      "text": "VMGD — Vanuatu Geo-Hazards",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Ambrym-Island",
+      "text": "Britannica: Ambrym Island",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "yasur",
+      "nyiragongo",
+      "kilauea",
+      "erebus",
+      "etna",
+      "pinatubo",
+      "ambae",
+      "lopevi"
+    ],
+    "country_pages": [
+      "vanuatu"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "yasur",
+    "nyiragongo",
+    "kilauea",
+    "erebus",
+    "erta-ale"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Vanuatu",
+      "url": "/volcanoes-in-vanuatu"
+    },
+    {
+      "label": "Ambrym",
+      "url": "/volcano/ambrym"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/ambrym"
+}

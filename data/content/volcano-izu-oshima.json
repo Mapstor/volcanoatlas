@@ -1,0 +1,475 @@
+{
+  "slug": "izu-oshima",
+  "volcano_id": 284010,
+  "title": "Izu-Oshima",
+  "meta_title": "Izu-Oshima Volcano — Eruption History, Facts & Visitor Guide | VolcanoAtlas",
+  "meta_description": "Izu-Oshima is a 746 m active stratovolcano in Japan's Izu Islands with 108 recorded eruptions. Explore its eruption history, 1986 evacuation, and island visitor guide.",
+  "quick_answer": {
+    "what": "Izu-Oshima is an active basaltic stratovolcano forming the largest and northernmost of Japan's Izu Islands in Sagami Bay, rising to 746 m (2,448 ft) above sea level.",
+    "status": "Active — last erupted in October 1990. Monitored by the Japan Meteorological Agency. Eruptions recur on intervals of roughly 100–150 years for major events, with frequent smaller activity in between.",
+    "famous_for": "The spectacular November 1986 eruption that produced lava fountains up to 1,600 m high and a 16-km eruption column, triggering the evacuation of more than 12,000 island residents.",
+    "danger_level": "Moderate to high — approximately 7,000 residents live on the island, which is also a popular tourist destination accessible by ferry from Tokyo."
+  },
+  "hero": {
+    "name": "Izu-Oshima",
+    "local_name": "伊豆大島 (Izu-Ōshima)",
+    "subtitle": "Tokyo's Volcanic Island Neighbor",
+    "country": "Japan",
+    "region": "Izu Islands, Northwestern Pacific",
+    "type": "Stratovolcano",
+    "elevation_m": 746,
+    "elevation_ft": 2448,
+    "status": "Active",
+    "last_eruption": "1990",
+    "coordinates": {
+      "lat": 34.724,
+      "lon": 139.394
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09077.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "746 m (2,448 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "October 4, 1990",
+    "first_known_eruption": "~8450 BCE (geological record); 684 CE (historical record)",
+    "total_recorded_eruptions": 108,
+    "vei_max": "4 (340 CE, 680 CE, 854 CE, 886 CE, 1183 CE, 1421 CE)",
+    "country": "Japan",
+    "region": "Izu Islands, Sagami Bay",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Philippine Sea Plate (oceanic crust < 15 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "34.724°N, 139.394°E",
+    "nearest_city": "Tokyo — 120 km northwest (accessible by ferry and air)",
+    "population_at_risk": "~7,000 island residents; 120,000+ annual tourists",
+    "summit_crater": "Miharayama central cone within 4-km-wide caldera",
+    "protected_status": "Fuji-Hakone-Izu National Park",
+    "monitoring_agency": "Japan Meteorological Agency (JMA)",
+    "smithsonian_id": "284010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=284010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Izu-Oshima is an active basaltic <a href=\"/types-of-volcanoes\">stratovolcano</a> that forms the largest and northernmost island of Japan's Izu archipelago, lying approximately 120 km (75 mi) south of central Tokyo in Sagami Bay. With 108 recorded eruptions spanning more than 10,000 years of geological history and documented historical activity dating back to the 7th century CE, it ranks among the most frequently erupting volcanoes in <a href=\"/volcanoes-in-japan\">Japan</a> and indeed the entire northwestern Pacific region. The volcano owes its existence to the subduction of the Pacific Plate beneath the Philippine Sea Plate along the Izu-Bonin volcanic arc, a tectonic process that also created the chain of volcanic islands stretching southward to the Mariana Trench.\n\nThe island itself measures roughly 11 × 13 km and is dominated by a 4-km-wide summit caldera containing the central cone of Miharayama, which has been the focus of virtually all historical eruptions. Although Izu-Oshima is primarily basaltic and therefore less explosively viscous than many of Japan's andesitic stratovolcanoes, it has nonetheless produced powerful eruptions at intervals of approximately 100–150 years, with <a href=\"/volcanic-explosivity-index\">VEI</a> 4 events documented multiple times in the geological record. The most recent major eruption, in November 1986, generated lava fountains reaching 1,600 m into the sky and forced the complete evacuation of the island's more than 12,000 residents — the largest volcanic evacuation in Japanese history at the time. Today, Izu-Oshima is a popular day-trip destination from Tokyo, drawing visitors to its dramatic caldera landscape, camellia forests, and volcanic hot springs."
+    },
+    "geology_and_formation": {
+      "content": "Izu-Oshima's geological foundations extend back far beyond its current edifice. The broad, low stratovolcano was constructed over the remnants of three older dissected stratovolcanoes whose eroded remains are still partially visible in the island's topography. The current volcanic complex sits within the Izu-Bonin (Ogasawara) arc, a 1,100-km-long intraoceanic volcanic arc formed by the westward subduction of the Pacific Plate beneath the Philippine Sea Plate at a rate of approximately 5–6 cm per year. This particular tectonic setting — subduction involving thin oceanic crust less than 15 km thick — distinguishes Izu-Oshima from the many Japanese volcanoes that sit on thicker continental crust, and accounts for its predominantly basaltic to picro-basaltic magma composition.\n\nThe 4-km-wide summit caldera, one of the most prominent features of the volcano, formed through repeated collapse events associated with major eruptions. Within this caldera, the central cone of Miharayama (literally 'Mt. Mihara') rises approximately 150 m above the caldera floor and contains the active summit crater. More than 40 additional cones and craters are distributed within the caldera and along two parallel rift zones trending NNW-SSE across the island, indicating that magma migration and flank eruptions have been recurring features of the volcano's behavior. The rift zones channel magma from a shallow storage system estimated to lie at depths of 4–8 km, a reservoir that feeds both summit and flank eruptions. The relatively low viscosity of the basaltic magma means that eruptions often feature dramatic lava fountaining and rapid lava flows rather than the dome-building and pyroclastic activity typical of Japan's more silicic volcanoes like <a href=\"/volcano/fujisan\">Mount Fuji</a> or <a href=\"/volcano/asamayama\">Asamayama</a>."
+    },
+    "eruption_history_overview": {
+      "content": "Izu-Oshima's eruptive record is among the longest and most detailed of any Japanese volcano, with 108 recognized eruptions stretching from approximately 8450 BCE to 1990 CE. Geological studies have identified a pattern of major explosive eruptions recurring at intervals of roughly 100–150 years, interspersed with more frequent, smaller effusive events. The prehistoric record, reconstructed from tephra deposits and radiocarbon dating, documents at least 20 eruptions during the Holocene period before the onset of historical documentation in the 7th century CE.\n\nHistorical records, which in Japan are exceptionally detailed by global standards, document activity from 684 CE onward. Major VEI 4 eruptions occurred in approximately 340 CE, 680 CE, 854–856 CE, 886 CE, 1183 CE, and 1421 CE — confirming the roughly centennial rhythm of large events. VEI 3 eruptions have been considerably more frequent, with events recorded in 600 CE, 625 CE, 654 CE, 713 CE, 822 CE, 838 CE, 1307 CE, 1338 CE, 1552 CE, 1684–1690 CE, 1777–1779 CE, 1821 CE, and most recently in November 1986. Between these larger eruptions, the volcano has produced dozens of smaller VEI 1–2 events, particularly during the active 20th century when eruptions were recorded in nearly every decade from 1910 through 1990. In total, 99 of the 108 documented eruptions are classified as confirmed."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1986 Eruption — Lava Fountains and Mass Evacuation",
+          "content": "The most dramatic eruption in Izu-Oshima's modern history began on November 15, 1986, when fissures opened on the Miharayama central cone and generated spectacular lava fountains that reached heights of up to 1,600 m (5,250 ft) — among the tallest lava fountains ever observed at a Japanese volcano. The eruption column climbed to approximately 16 km (10 mi) into the atmosphere, spreading ash across the island and out over the Pacific Ocean. The initial phase, centered on the summit, was a dramatic spectacle that attracted sightseers and media attention. However, on November 21, new fissure vents opened on the caldera floor and along the volcano's northwestern flank, bringing lava flows dangerously close to populated areas in the northwest part of the island.\n\nFaced with the prospect of lava advancing toward settlements, Japanese authorities ordered the complete evacuation of the island. More than 12,000 residents were evacuated by ferry and helicopter to the mainland — a massive logistical operation that represented one of the largest volcanic evacuations in Japanese history. The eruption, rated VEI 3, ultimately produced significant lava flows within the caldera but did not reach residential areas. Residents were allowed to return after approximately one month. The event demonstrated both the volcano's capacity for sudden escalation from summit to flank activity and the effectiveness of Japan's well-organized volcanic disaster response system. The 1986 eruption fundamentally changed hazard planning for Izu-Oshima and prompted significant upgrades to the monitoring network."
+        },
+        {
+          "title": "The 340 CE Eruption — A Prehistoric Paroxysm",
+          "content": "Geological evidence indicates that one of the most powerful eruptions in Izu-Oshima's Holocene history occurred around 340 CE, producing a VEI 4 event that affected the summit and eastern flank of the volcano. Tephra deposits from this eruption have been traced across the surrounding seabed and along the Izu Peninsula coast, indicating a substantial eruption column and widespread ashfall. This event was part of a cluster of large eruptions that occurred between roughly 250 and 886 CE, a period of exceptionally heightened activity that included at least four VEI 4 events. The 340 CE eruption appears to have significantly modified the caldera morphology, possibly enlarging it through partial collapse."
+        },
+        {
+          "title": "The 886 CE Eruption — The Great Eruption of Ninna",
+          "content": "Recorded in the Japanese historical chronicle as occurring during the Ninna era, the eruption of 886 CE was one of the most violent historically documented events at Izu-Oshima. Rated VEI 4, the eruption produced heavy ashfall that reportedly affected the Kanto region on the Japanese mainland. Japanese court records document the event and its impact on fishing communities and shipping in Sagami Bay. The eruption generated both sustained explosive activity from the summit and significant lava effusion, further modifying the caldera complex. Along with the 854–856 CE eruption (also VEI 4), the 886 event marked the culmination of the highly active period that had characterized the volcano since the 7th century."
+        },
+        {
+          "title": "The 1421 CE Eruption — The Last Great Explosion",
+          "content": "The 1421 eruption was the most recent VEI 4 event at Izu-Oshima and represents the type of major explosive eruption that volcanologists consider likely to recur. The eruption affected the summit and southern flank of the volcano, producing extensive tephra deposits and significant modification of the central cone. Given that the interval between VEI 4 events has historically been approximately 100–300 years, and more than 600 years have now elapsed since the 1421 eruption, the volcano is considered overdue for a similarly large event — a fact that significantly influences current hazard assessments and evacuation planning."
+        },
+        {
+          "title": "The 1777–1779 Eruption — An'ei Period Activity",
+          "content": "Beginning on August 31, 1777, a VEI 3 eruption from the Miharayama cone and flanks produced lava flows and explosive activity over a period of approximately two years. This eruption was well-documented by contemporary observers and caused damage to agricultural land on the island. The 1777–1779 event was the most significant eruption between the 1684 event and the 19th century, and it contributed substantially to the growth of the Miharayama central cone."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Izu-Oshima has not erupted since October 4, 1990, when a brief VEI 2 event produced minor explosive activity from the 1987 summit crater. The current repose period of more than 35 years is notable but not unprecedented in the volcano's history; similar quiet intervals have occurred between eruptive phases multiple times in the past. The Japan Meteorological Agency (JMA) maintains a comprehensive monitoring network on the island, including broadband seismometers, GPS deformation sensors, tiltmeters, and volcanic gas monitoring stations. The volcano is classified under JMA's volcanic warning system and is subject to regular assessment bulletins.\n\nSeismic activity beneath the volcano continues at low but detectable levels, indicating that the magmatic plumbing system remains active. Periodic deep long-period earthquakes, which are typically associated with magma or fluid movement at depth, serve as reminders that the volcano is merely dormant, not extinct. Given the historical pattern of VEI 4 events at intervals of 100–300 years and the fact that 600 years have elapsed since the last such event in 1421, volcanologists consider a large future eruption to be a matter of when, not if. Hazard maps and evacuation plans are regularly updated, and the population is regularly drilled on evacuation procedures."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The primary hazards at Izu-Oshima differ from those at many Japanese volcanoes because of its island setting and basaltic composition. Lava flows represent the most immediate threat to the island's settlements, as demonstrated by the 1986 eruption when fissure vents opened close to populated areas. Tephra fall from large explosive eruptions (VEI 3–4) can blanket the entire island and affect agriculture, infrastructure, and aviation routes in the busy Tokyo–Pacific shipping and air corridor. The volcano's proximity to Tokyo — just 120 km away — means that major eruptions could disrupt aviation at Haneda and Narita airports through ash dispersal.\n\nBecause the island is entirely volcanic, there is no safe haven on Oshima itself during a major eruption; complete evacuation by sea and air is the only viable response for large events. The 1986 evacuation demonstrated that this is logistically achievable but demanding, requiring coordination between ferry operators, the Japan Self-Defense Forces, and municipal authorities. Lahars and debris flows are a secondary concern, particularly during the typhoon season when heavy rainfall can mobilize loose volcanic deposits. In October 2013, Typhoon Wipha triggered catastrophic landslides on the volcano's flanks that killed 39 people — a reminder that volcanic terrain remains hazardous even between eruptions. Tsunamis generated by flank collapse or submarine eruptions along the rift zones represent a low-probability but high-consequence hazard for coastal communities on both the island and the adjacent Izu Peninsula."
+    },
+    "geography_and_physical_description": {
+      "content": "Izu-Oshima forms an elliptical island measuring approximately 11 km north–south by 13 km east–west, with a total area of about 91 km². The island rises from the seafloor of Sagami Bay, which reaches depths of more than 1,000 m in the surrounding waters, making the total volcanic edifice considerably larger than the subaerial portion suggests. The summit is dominated by a 4-km-wide caldera whose rim reaches 746 m (2,448 ft) at its highest point. Within the caldera, the Miharayama central cone rises to approximately 700 m and contains the active crater complex.\n\nTwo parallel rift zones extend NNW-SSE across the island, marked by alignments of more than 40 parasitic cones and craters. The coastline is predominantly cliffy and rugged on the western and southern sides, where wave erosion has carved into older volcanic deposits, while the eastern shore features gentler slopes and black sand beaches. Vegetation zones reflect altitude and volcanic disturbance: coastal areas support subtropical broadleaf forests and the island's famous camellia groves (Oshima is known as 'Camellia Island'), while the caldera interior is largely barren recent lava and tephra. Dense forests of Japanese cedar and Cryptomeria blanket the mid-slopes."
+    },
+    "climate_and_global_impact": {
+      "content": "Izu-Oshima's eruptions have been primarily local to regional in impact, with none of its historical events reaching the scale necessary to produce significant global climate effects. Even the largest VEI 4 events, while capable of injecting ash into the upper troposphere, have not generated sufficient stratospheric aerosol loading to measurably affect global temperatures. The 1986 eruption, despite its dramatic visual impact, produced a relatively modest volume of eruptive material by global standards. However, the volcano's position along heavily traveled Pacific shipping and air routes means that even moderate eruptions can have outsized economic impacts through aviation disruption and maritime hazard warnings. The 1986 ash cloud, for example, prompted temporary rerouting of trans-Pacific flights."
+    },
+    "cultural_significance": {
+      "content": "Izu-Oshima holds a distinctive place in Japanese culture, blending volcanic spectacle with island mystique. The volcano has been a subject of Japanese art, literature, and legend for centuries. Miharayama, the central cone, became internationally notorious in the 1930s when it attracted a tragic wave of suicides; authorities subsequently constructed barriers and warning signs that remain in place today. More positively, the volcano has long been a draw for artists and writers — the island's dramatic volcanic landscape, hot springs, and camellia forests have inspired numerous works of Japanese literature and cinema.\n\nThe island's annual Camellia Festival (Tsubaki Matsuri), held each February, draws thousands of visitors and celebrates the three million camellia trees that thrive in the volcanic soil. Local cuisine features distinctive volcanic-island specialties, and the island's hot springs (onsen) are directly heated by the volcanic system. In Shinto tradition, the volcano is regarded as a sacred landscape, and small shrines dot the caldera rim. The successful 1986 evacuation is itself now part of the island's identity — a point of civic pride demonstrating community resilience in the face of volcanic hazard."
+    },
+    "visiting_and_tourism": {
+      "content": "Izu-Oshima is one of the most accessible active volcanoes in the world, located just 1 hour 45 minutes by high-speed ferry from Tokyo's Takeshiba Pier or 25 minutes by air from Chofu Airport. The island is part of <a href=\"/volcanoes-in-japan\">Japan's</a> Fuji-Hakone-Izu National Park and receives more than 120,000 visitors annually. The primary volcanic attraction is the hike to the Miharayama crater, which takes approximately 45 minutes from the caldera rim parking area along a well-maintained trail with panoramic views of the caldera, the Izu island chain, and on clear days, <a href=\"/volcano/fujisan\">Mount Fuji</a>. The crater viewpoint offers a dramatic look into the funnel-shaped vent, which still emits volcanic gases.\n\nBeyond the crater, visitors can explore the Izu-Oshima Volcano Museum (which documents the 1986 eruption in detail), walk through the barren lava fields of the 1986 flow, and visit the island's numerous volcanic hot springs. The Ura-Sabaku ('Rear Desert'), a landscape of black volcanic sand and tephra on the eastern slopes, is unique among Japanese islands and popular for photography. The island's camellia forests, particularly during the January–March blooming season, offer a striking contrast to the volcanic terrain. Rental bicycles and cars are available, and the island can be comfortably explored in a day trip, though staying overnight to watch the sunset from the caldera rim is highly recommended."
+    },
+    "nearby_volcanoes": {
+      "content": "Izu-Oshima is the northernmost in the chain of volcanic Izu Islands that stretches southward along the Izu-Bonin arc. Its nearest volcanic neighbor, Toshima, lies approximately 25 km to the south. Further south, the chain includes Niijima, Kozushima, and Miyakejima — the last of which erupted violently in 2000, forcing its own mass evacuation that lasted more than four years. Together, these islands form one of the most volcanically active island chains in the western Pacific. On the Japanese mainland, approximately 80 km to the northwest, the Hakone volcanic complex sits within the same broader tectonic setting. <a href=\"/volcano/fujisan\">Mount Fuji</a>, Japan's highest and most iconic volcano, is visible from Izu-Oshima's caldera rim on clear days, a visual reminder that the entire region lies within one of the world's most volcanically dynamic zones."
+    },
+    "etymology": {
+      "content": "The name 'Izu-Oshima' combines 'Izu,' referring to the historical Izu Province of Japan, with 'Ōshima' (大島), literally meaning 'large island' — distinguishing it from the smaller islands in the Izu chain. The central cone, Miharayama (三原山), translates roughly as 'Mt. Mihara' or 'Triple Plain Mountain,' though the precise etymological origin is debated. In older Japanese texts, the volcano was sometimes simply called 'Ōshima' or referred to by its role as a sacred mountain."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Izu-Oshima Compared to Other Island Volcanoes in Japan",
+      "description": "How does Izu-Oshima compare to the other volcanic islands of Japan's Izu and Ryukyu arcs?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Izu-Oshima",
+          "Japan",
+          "746 m",
+          "Stratovolcano",
+          "1990",
+          "4",
+          "108"
+        ],
+        [
+          "Miyakejima",
+          "Japan",
+          "815 m",
+          "Stratovolcano",
+          "2000",
+          "4",
+          "35"
+        ],
+        [
+          "Sakurajima (Aira)",
+          "Japan",
+          "1,117 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "145"
+        ],
+        [
+          "Suwanosejima",
+          "Japan",
+          "796 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "53"
+        ],
+        [
+          "Asosan",
+          "Japan",
+          "1,592 m",
+          "Caldera",
+          "2024",
+          "4",
+          "173"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8450,
+      "vei": null,
+      "label": "Earliest known eruption (geological record)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 340,
+      "vei": 4,
+      "label": "Major eruption affecting summit and east flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 680,
+      "vei": 4,
+      "label": "Large explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 684,
+      "vei": null,
+      "label": "First historically documented eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 854,
+      "vei": 4,
+      "label": "Major multi-year eruption (854–856 CE)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 886,
+      "vei": 4,
+      "label": "Great eruption of the Ninna era — ash reached Kanto",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1183,
+      "vei": 4,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1421,
+      "vei": 4,
+      "label": "Last VEI 4 eruption — summit and south flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1552,
+      "vei": 3,
+      "label": "Significant explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1777,
+      "vei": 3,
+      "label": "An'ei eruption — lava flows from Miharayama (1777–1779)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1986,
+      "vei": 3,
+      "label": "Lava fountains to 1,600 m; 12,000+ evacuated",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 1990,
+      "vei": 2,
+      "label": "Most recent eruption — minor explosive activity",
+      "deaths": 0,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (before 1 CE)",
+      "count": 35,
+      "note": "Includes geological and early historical record"
+    },
+    {
+      "century": "1st–6th",
+      "count": 7
+    },
+    {
+      "century": "7th",
+      "count": 5
+    },
+    {
+      "century": "8th",
+      "count": 3
+    },
+    {
+      "century": "9th",
+      "count": 4
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 2
+    },
+    {
+      "century": "13th",
+      "count": 2
+    },
+    {
+      "century": "14th",
+      "count": 2
+    },
+    {
+      "century": "15th",
+      "count": 4
+    },
+    {
+      "century": "16th",
+      "count": 4
+    },
+    {
+      "century": "17th",
+      "count": 6
+    },
+    {
+      "century": "18th",
+      "count": 4
+    },
+    {
+      "century": "19th",
+      "count": 8
+    },
+    {
+      "century": "20th",
+      "count": 25
+    }
+  ],
+  "facts": [
+    "The 1986 eruption produced lava fountains reaching 1,600 m (5,250 ft) high — among the tallest ever recorded at a Japanese volcano.",
+    "Izu-Oshima has 108 recorded eruptions, making it one of the most frequently erupting volcanoes in the northwestern Pacific region.",
+    "The entire population of the island — more than 12,000 people — was evacuated during the 1986 eruption, one of the largest volcanic evacuations in Japanese history.",
+    "Despite being primarily basaltic (typically associated with gentle eruptions), Izu-Oshima has produced six VEI 4 explosions in the past 2,000 years.",
+    "The volcano lies just 120 km south of central Tokyo, making it one of the closest active volcanoes to a megacity of over 14 million people.",
+    "More than 40 parasitic cones and craters are distributed across the island along two parallel rift zones.",
+    "Izu-Oshima is known as 'Camellia Island' (Tsubaki no Shima) for its three million camellia trees that bloom in the volcanic soil each winter.",
+    "The 4-km-wide summit caldera was formed by repeated collapse events and is one of the most well-defined calderas in the Izu island chain.",
+    "Over 600 years have passed since the last VEI 4 eruption in 1421 — significantly longer than the historical average interval of 100–300 years between major events.",
+    "In October 2013, Typhoon Wipha triggered landslides on Izu-Oshima's volcanic slopes that killed 39 people, demonstrating that volcanic terrain is hazardous even between eruptions.",
+    "Izu-Oshima's black volcanic sand landscape, the Ura-Sabaku, is one of the few desert-like environments in humid, subtropical Japan.",
+    "The volcano was built over the remnants of three older, dissected stratovolcanoes whose eroded forms still influence the island's topography."
+  ],
+  "faqs": [
+    {
+      "question": "Is Izu-Oshima an active volcano?",
+      "answer": "Yes, Izu-Oshima is classified as an active volcano by the Japan Meteorological Agency (JMA). It last erupted on October 4, 1990, producing a VEI 2 explosive event from the Miharayama summit crater. The volcano has 108 recorded eruptions spanning more than 10,000 years, with major VEI 3–4 events recurring at intervals of roughly 100–300 years. The JMA maintains continuous seismic, deformation, and gas monitoring on the island, and periodic deep earthquakes indicate that the magmatic system beneath the volcano remains active. Volcanologists consider a future eruption to be certain; the only uncertainties are its timing and magnitude."
+    },
+    {
+      "question": "When did Izu-Oshima last erupt?",
+      "answer": "Izu-Oshima's most recent eruption occurred on October 4, 1990, when a brief VEI 2 explosive event took place at the 1987 summit crater of Miharayama. This was a relatively minor event compared to the much larger November 1986 eruption (VEI 3), which produced lava fountains up to 1,600 m high and triggered the evacuation of more than 12,000 residents. The current repose period of more than 35 years is notable but not unprecedented — the volcano has experienced similar quiet intervals between active phases throughout its history."
+    },
+    {
+      "question": "How do you get to Izu-Oshima from Tokyo?",
+      "answer": "Izu-Oshima is one of Japan's most accessible volcanic islands. The fastest route is by high-speed jet ferry from Takeshiba Pier in Tokyo, which takes approximately 1 hour 45 minutes. A slower overnight ferry service is also available. Alternatively, short flights operate from Chofu Airport (about 25 minutes) and there are seasonal connections from other airports. Once on the island, rental cars, bicycles, and a local bus network provide transportation. The volcano's Miharayama crater is reached by a well-maintained hiking trail of about 45 minutes from the caldera rim car park."
+    },
+    {
+      "question": "What happened during the 1986 Izu-Oshima eruption?",
+      "answer": "The November 1986 eruption was one of the most dramatic volcanic events in modern Japanese history. On November 15, fissures opened on the Miharayama cone, producing lava fountains reaching 1,600 m high and a 16-km eruption column. On November 21, new fissure vents opened on the caldera floor and northwestern flank, bringing lava dangerously close to residential areas. Authorities ordered the complete evacuation of all 12,000+ island residents by ferry and helicopter. The evacuation was completed successfully with no casualties. Residents returned approximately one month later. The event was rated VEI 3 and fundamentally reshaped volcanic hazard planning for the island."
+    },
+    {
+      "question": "How tall is Izu-Oshima volcano?",
+      "answer": "Izu-Oshima's summit reaches 746 m (2,448 ft) above sea level at the caldera rim. However, the Miharayama central cone, which is the active volcanic vent, rises to approximately 700 m. The total height of the volcanic edifice from the seafloor of Sagami Bay is considerably greater, as the surrounding ocean reaches depths exceeding 1,000 m. The island extends roughly 11 × 13 km and covers an area of about 91 km², making it the largest of the Izu Islands."
+    },
+    {
+      "question": "Is Izu-Oshima dangerous?",
+      "answer": "Izu-Oshima presents a moderate to high volcanic hazard. Approximately 7,000 people live permanently on the island, and more than 120,000 tourists visit annually. The volcano has produced six VEI 4 eruptions in the past 2,000 years, and over 600 years have passed since the last such event — longer than the typical recurrence interval. Lava flows, tephra fall, and volcanic gas are the primary direct hazards. Additionally, the island's volcanic terrain is susceptible to catastrophic landslides during heavy rainfall, as demonstrated by the 2013 Typhoon Wipha disaster that killed 39 people. However, Japan's sophisticated monitoring and evacuation systems significantly mitigate the risk."
+    },
+    {
+      "question": "What type of volcano is Izu-Oshima?",
+      "answer": "Izu-Oshima is classified as a basaltic stratovolcano. Unlike most Japanese stratovolcanoes, which erupt andesitic to dacitic magma and tend toward explosive behavior, Izu-Oshima's dominant rock types are basalt and picro-basalt — relatively fluid magmas that typically produce lava flows and fire fountaining. However, the volcano has nonetheless generated powerful explosive eruptions (up to VEI 4) when gas accumulation in the magma chamber exceeded critical thresholds. The volcano features a 4-km-wide summit caldera containing the Miharayama central cone, plus more than 40 parasitic cones along two parallel rift zones."
+    },
+    {
+      "question": "Can you see Mount Fuji from Izu-Oshima?",
+      "answer": "Yes, on clear days Mount Fuji is visible from Izu-Oshima, particularly from the caldera rim and the summit area of Miharayama. The two volcanoes are separated by approximately 100 km of ocean and the Izu Peninsula. The best views are typically in winter, when cold, dry air provides maximum visibility. Seeing Japan's most iconic volcano from the caldera rim of an active volcano is one of the highlights of visiting Izu-Oshima. The Izu island chain and the mountainous coastline of the Izu Peninsula are also visible from the summit."
+    }
+  ],
+  "people_also_search": [
+    "izu-oshima eruption 1986",
+    "izu-oshima volcano eruption history",
+    "izu-oshima island tokyo",
+    "how to get to izu-oshima",
+    "izu-oshima camellia festival",
+    "miharayama crater hike",
+    "izu islands volcanoes",
+    "izu-oshima hot springs"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Izu-Oshima",
+    "alternateName": [
+      "Izu-Ōshima",
+      "Oshima",
+      "伊豆大島",
+      "Miharayama"
+    ],
+    "description": "Active basaltic stratovolcano forming the largest of Japan's Izu Islands, 120 km south of Tokyo, with 108 recorded eruptions",
+    "geo": {
+      "latitude": 34.724,
+      "longitude": 139.394,
+      "elevation": 746
+    },
+    "containedInPlace": {
+      "name": "Izu Islands",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/izu-oshima"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=284010",
+      "text": "Smithsonian GVP: Izu-Oshima",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.jma.go.jp/jma/en/Activities/Izu-Oshima.html",
+      "text": "JMA: Izu-Oshima Volcanic Activity",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Oshima-island-Japan",
+      "text": "Britannica: Ōshima Island",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.env.go.jp/en/nature/nps/park/fujiha/index.html",
+      "text": "Fuji-Hakone-Izu National Park",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "fujisan",
+      "asamayama",
+      "asosan",
+      "sakurajima",
+      "kirishimayama"
+    ],
+    "country_pages": [
+      "japan"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "fujisan",
+    "asosan",
+    "sakurajima",
+    "kirishimayama",
+    "asamayama"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Izu-Oshima",
+      "url": "/volcano/izu-oshima"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/izu-oshima"
+}

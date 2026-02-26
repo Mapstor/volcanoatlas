@@ -1,0 +1,503 @@
+{
+  "slug": "llaima",
+  "volcano_id": 357110,
+  "title": "Llaima Volcano",
+  "meta_title": "Llaima Volcano — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Llaima is a 3,125 m active stratovolcano in Chile with 58 recorded eruptions. Explore its full eruption history, current status, hazard assessment, and visitor guide.",
+  "quick_answer": {
+    "what": "Llaima is a massive active stratovolcano rising to 3,125 m (10,253 ft) in the Araucanía Region of southern Chile, within Conguillío National Park.",
+    "status": "Active — last erupted January 2008 to July 2009. Continuously monitored by SERNAGEOMIN. Future eruptions are considered highly likely.",
+    "famous_for": "One of Chile's largest and most active volcanoes, with 58 recorded eruptions since ~7410 BCE and a massive 400 km³ edifice volume.",
+    "danger_level": "One of Chile's most dangerous volcanoes — frequent eruptions with lava flows, lahars, and tephra threaten surrounding communities and national park visitors."
+  },
+  "hero": {
+    "name": "Llaima Volcano",
+    "local_name": "Volcán Llaima",
+    "subtitle": "Chile's Most Frequently Erupting Giant",
+    "country": "Chile",
+    "region": "Araucanía",
+    "type": "Stratovolcano",
+    "elevation_m": 3125,
+    "elevation_ft": 10253,
+    "status": "Active",
+    "last_eruption": "2009",
+    "coordinates": {
+      "lat": -38.692,
+      "lon": -71.729
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04885.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "3,125 m (10,253 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "January 2008 – July 2009",
+    "first_known_eruption": "~7410 BCE",
+    "total_recorded_eruptions": 58,
+    "vei_max": "5 (~6880 BCE)",
+    "country": "Chile",
+    "region": "Araucanía, Southern Andes",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate (continental crust >25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "38.692°S, 71.729°W",
+    "nearest_city": "Temuco — approximately 80 km west",
+    "population_at_risk": "~300,000 (Temuco metropolitan area and surrounding communities)",
+    "summit_crater": "Two historically active craters — summit and Pichillaima (SE flank)",
+    "protected_status": "Conguillío National Park (est. 1950, UNESCO Biosphere Reserve 2010)",
+    "monitoring_agency": "SERNAGEOMIN — Servicio Nacional de Geología y Minería",
+    "edifice_volume": "~400 km³",
+    "smithsonian_id": "357110",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=357110"
+  },
+  "sections": {
+    "overview": {
+      "content": "Llaima (Spanish: Volcán Llaima) is a massive active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,125 m (10,253 ft) in the Araucanía Region of southern <a href=\"/volcanoes-in-chile\">Chile</a>, making it one of the largest and most active volcanoes in the entire <a href=\"/ring-of-fire\">South American segment of the Ring of Fire</a>. With 58 recorded eruptions spanning nearly 10,000 years of documented activity, Llaima ranks alongside <a href=\"/volcano/villarrica\">Villarrica</a> as one of the two most restless volcanoes in Chile and one of the most frequently active in all of South America. The volcano owes its existence to the subduction of the Nazca Plate beneath the South American Plate along the Southern Andean Volcanic Arc, a tectonic process that has built an enormous edifice with an estimated volume of 400 km³ — roughly four times the volume of <a href=\"/volcano/st-helens\">Mount St. Helens</a> before its 1980 collapse. Llaima's basaltic to andesitic composition produces eruptions that range from gentle Strombolian and Hawaiian-style lava fountaining to powerful sub-Plinian explosions, and its twin historically active craters — the main summit crater and the secondary Pichillaima vent on the southeast flank — give it a distinctive dual-vent character rare among Andean stratovolcanoes. The volcano sits at the heart of Conguillío National Park, a UNESCO Biosphere Reserve renowned for its ancient Araucaria (monkey puzzle) forests, and its most recent eruption in 2008–2009 sent lava flows cascading down multiple flanks while generating lahars that threatened downstream valleys. Today, Llaima is continuously monitored by Chile's geological survey, SERNAGEOMIN, and remains one of the country's highest-priority volcanic hazards due to its frequent eruptions, proximity to populated valleys, and the potential for catastrophic lahars triggered by interaction between hot volcanic material and the glaciers and snow that permanently cap its summit."
+    },
+    "geology_and_formation": {
+      "content": "Llaima's geological history spans hundreds of thousands of years and records a dramatic transition from catastrophic caldera-forming volcanism to the steady construction of one of South America's most imposing volcanic edifices. The modern volcano sits atop the remnants of an 8 km-wide caldera that formed approximately 13,200 years ago during a colossal eruption that produced the Curacautín Ignimbrite, a pyroclastic flow deposit covering more than 24 km³ of material that spread across the surrounding landscape. This caldera-forming event ranks among the largest known eruptions in the Chilean Andes during the late Pleistocene, comparable in scale to eruptions that shaped Crater Lake in Oregon. Following this cataclysm, a new Holocene-age edifice began growing within and above the collapsed caldera, built primarily through the accumulation of successive lava flows rather than explosive pyroclastic deposits. This constructive phase entered a distinct period around 7,200 years ago when the volcano shifted from an explosive regime to one dominated by Strombolian and Hawaiian-style eruptions, occasionally punctuated by sub-Plinian events. The volcano's position along the Southern Andean Volcanic Arc places it directly above the subduction interface where the Nazca Plate dives beneath South America at approximately 66 mm per year, generating magma at depths of 80–120 km that feeds Llaima's plumbing system. The predominantly basaltic to andesitic composition of Llaima's lavas — unusually mafic for a large Andean <a href=\"/types-of-volcanoes\">stratovolcano</a> — reflects relatively rapid magma ascent through the thick continental crust (greater than 25 km) of this region, with limited crustal contamination. More than 40 scoria cones dot the volcano's flanks, evidence of parasitic eruptions from subsidiary vents that have tapped the main magma supply at various points throughout the Holocene. Llaima's massive 400 km³ volume makes it one of the volumetrically largest volcanoes in the Southern Volcanic Zone, a testament to its sustained high eruption rate over thousands of years."
+    },
+    "eruption_history_overview": {
+      "content": "Llaima's eruptive record encompasses 58 documented eruptions stretching from approximately 7410 BCE to 2009 CE, making it one of the best-documented volcanic histories in South America. The earliest known Holocene eruptions date to the prehistoric period, including a powerful VEI 5 event around 6880 BCE that represents the largest eruption of the modern edifice. Historical records begin in the 17th century with the first European-documented eruption in 1640, a VEI 4 event that signaled the volcano's continued vigor. The 19th century saw a dramatic acceleration in recorded activity, with 16 eruptions documented between 1822 and 1895 — a frequency of roughly one eruption every 4.5 years. The 20th century proved even more active, with 32 recorded eruptions, many concentrated between the 1920s and 1950s when Llaima erupted almost continuously. The volcano's most recent eruption began on January 1, 2008, and continued intermittently until July 2009, producing lava flows, lahars, and explosive activity from the summit crater. The <a href=\"/volcanic-explosivity-index\">VEI</a> distribution of Llaima's eruptions reveals a volcano dominated by moderate activity: 41 eruptions at VEI 2, six at VEI 3, one at VEI 4 (1640), and one at VEI 5 (~6880 BCE). This pattern of frequent, moderately explosive eruptions interspersed with occasional larger events is characteristic of mafic stratovolcanoes in subduction settings and makes Llaima's behavior broadly comparable to that of <a href=\"/volcano/villarrica\">Villarrica</a>, just 165 km to the south."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~6880 BCE Eruption — Llaima's Largest Known Holocene Event (VEI 5)",
+          "content": "The most powerful eruption of Llaima's modern edifice occurred approximately 6,880 years before the Common Era, producing a VEI 5 event that represents the peak explosive capability of this volcano in the Holocene record. This eruption generated extensive pyroclastic deposits across the surrounding region, though its full extent and duration remain incompletely characterized due to the deep antiquity of the event and limited preservation of deposits beneath subsequent lava flows. The VEI 5 classification places this eruption in the same explosive category as the 79 AD eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a> or the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a>, representing a significant departure from the moderate Strombolian and sub-Plinian activity that has characterized most of Llaima's subsequent history. This event likely produced eruption columns exceeding 25 km in height and pyroclastic flows that swept down multiple valleys radiating from the summit, potentially devastating an area of several hundred square kilometers. The eruption occurred during a transitional period in Llaima's volcanic evolution, roughly 300 years before the volcano shifted from predominantly explosive behavior to the more effusive, lava-flow-dominated style that has characterized most of its activity over the past 7,000 years."
+        },
+        {
+          "title": "The 1640 Eruption — First Historically Documented Event (VEI 4)",
+          "content": "The eruption of February 1640 stands as both the most powerful historically recorded eruption of Llaima and the first to be documented by European colonists in the region. Rated VEI 4 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a>, this eruption produced substantial explosive activity, generating pyroclastic flows and heavy tephra fall across the surrounding Araucanian landscape. The event coincided with the early colonial period in southern Chile, when Spanish settlers and Mapuche indigenous communities coexisted in the region, and contemporary accounts describe significant devastation to surrounding areas. The VEI 4 classification makes the 1640 eruption approximately ten times more powerful than any eruption Llaima has produced in the subsequent 385 years, underscoring the potential for this volcano to generate events significantly exceeding its typical moderate output. This eruption also highlights the hazard posed by long repose periods at Llaima — the volcano appears to have been quiet for a considerable period before 1640, and the resumption of activity came with substantially greater force than the frequent smaller eruptions that would characterize subsequent centuries."
+        },
+        {
+          "title": "The 1955–1957 Eruption — Sustained Multi-Year Activity (VEI 3)",
+          "content": "Beginning on October 22, 1955, and continuing through 1957, this eruption represented one of the longest sustained eruptive episodes at Llaima in the 20th century. Activity originated from both the summit crater and the secondary Pichillaima crater on the southeast flank, producing lava flows, Strombolian explosions, and significant tephra emissions over a period spanning more than two years. The VEI 3 classification places this event among Llaima's more significant historical eruptions, generating eruption columns that rose several kilometers above the summit and depositing ash across communities in the Araucanía Region. Lava flows descended multiple flanks of the volcano, threatening areas within Conguillío National Park and testing the limited emergency response capabilities of the era. The dual-vent character of this eruption — with simultaneous activity from both the main summit crater and Pichillaima — is a recurring feature of Llaima's eruptive behavior and adds complexity to hazard assessment, as it means that flows and pyroclastic material can be directed in multiple directions simultaneously."
+        },
+        {
+          "title": "The 2008–2009 Eruption — Llaima's Most Recent Activity (VEI 3)",
+          "content": "Llaima's most recent eruption began dramatically on New Year's Day 2008, when the volcano produced a violent Strombolian explosion from its summit crater that sent an ash column approximately 4 km above the summit and generated lava flows that cascaded down the eastern and northern flanks. The eruption forced the evacuation of approximately 150 people from areas near the volcano, primarily tourists and park staff within Conguillío National Park, and triggered lahars in the Río Calbuco drainage as hot material interacted with summit ice and snow. Activity continued intermittently throughout 2008, with notable phases of renewed explosive activity and lava effusion in February and April. The eruption persisted at reduced levels into 2009 before waning by mid-year. The VEI 3 event served as a stark reminder of Llaima's ongoing hazard potential and prompted SERNAGEOMIN to enhance its monitoring network around the volcano. The lava flows from the 2008 eruption added new material to the volcano's flanks and are still clearly visible today, their dark basaltic surfaces contrasting sharply with the green Araucaria forests and white glacial ice that characterize Llaima's slopes. This eruption also provided modern volcanologists with valuable data on Llaima's eruptive dynamics, particularly the speed with which the volcano can transition from apparent quiescence to vigorous Strombolian activity — the January 1, 2008, onset came with very little precursory seismic warning."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Llaima is classified as active and is continuously monitored by SERNAGEOMIN (Chile's National Geology and Mining Service) through its National Volcanic Monitoring Network (RNVV). The monitoring infrastructure around Llaima includes seismometers, GPS ground deformation sensors, gas emission analyzers, and webcams that provide real-time visual observation of the summit. Since the conclusion of the 2008–2009 eruption, Llaima has remained at a baseline alert level, though periodic increases in seismic activity beneath the edifice remind scientists that the magmatic system remains pressurized. SERNAGEOMIN maintains a four-tier alert system (green, yellow, orange, red) for Chilean volcanoes, and Llaima has historically oscillated between green and yellow status during inter-eruptive periods. Given Llaima's eruption frequency — averaging one eruption approximately every 5–10 years throughout the 20th century — volcanologists consider another eruption not merely possible but statistically overdue. The volcano's behavior pattern suggests that when activity resumes, it will most likely take the form of Strombolian explosions and lava flows from the summit crater, potentially accompanied by lahars if erupted material interacts with the glacier cap. Scientists have identified the generation of lahars as the single greatest hazard, as these fast-moving volcanic mudflows can travel tens of kilometers downstream through populated valleys far from the summit."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Llaima presents a complex multi-hazard threat to surrounding communities, visitors to Conguillío National Park, and downstream populations in several river valleys radiating from the summit. The primary hazards include lava flows, which during the 2008 eruption traveled up to 5 km from the summit; lahars, which form when hot volcanic material melts summit glaciers and snow, creating fast-moving debris flows capable of traveling more than 30 km downstream through inhabited valleys; tephra fall, which during VEI 3 events can deposit centimeters of ash over communities as far as 50 km downwind; and pyroclastic flows, which though less common at Llaima than at more silicic volcanoes, have been documented in the geological record and remain a threat during larger eruptions. The lahar hazard is particularly acute because Llaima's summit supports permanent glaciers and seasonal snow cover that provide abundant water for melt-generated debris flows. SERNAGEOMIN has published detailed hazard maps delineating zones of varying risk around the volcano, with the highest-risk areas concentrated in river valleys draining the northern, eastern, and southern flanks. The city of Temuco, with a metropolitan population of approximately 300,000 and located roughly 80 km to the west, is generally considered outside the range of direct volcanic hazards but could experience significant ashfall during a large eruption with westward-directed winds. Closer communities, including the town of Melipeuco (population approximately 5,500, located 25 km to the south), face more immediate threats from lahars and heavy tephra fall. The volcano's location within Conguillío National Park creates an additional risk dimension, as thousands of tourists visit the park annually and may be present during an eruption onset. The 2008 eruption demonstrated both the effectiveness and limitations of existing evacuation plans when park visitors and staff were successfully evacuated within hours of the eruption's sudden onset."
+    },
+    "geography_and_physical_description": {
+      "content": "Llaima is an imposing, glacier-capped edifice that dominates the landscape of the Araucanía Region, visible from distances exceeding 100 km on clear days. The volcano's summit reaches 3,125 m (10,253 ft) above sea level, making it one of the tallest peaks in the southern Chilean Andes south of latitude 37°S. Two historically active craters define the upper slopes: the main summit crater, which has been the source of most historical eruptions, and the Pichillaima crater, located on the upper southeast flank. The volcano's flanks are dotted with more than 40 scoria cones — parasitic vents that record episodes of flank eruptions throughout the Holocene. Llaima's massive edifice covers an area of approximately 500 km² at its base and rises roughly 2,000 m above the surrounding terrain, with relatively symmetrical slopes averaging 25–30° on the upper cone. Permanent glaciers mantle the upper 500 m of the volcano, feeding several rivers and contributing to the lahar hazard. The surrounding landscape features ancient Araucaria araucana (monkey puzzle tree) forests, a species that has coexisted with Llaima's eruptions for millennia and whose fire-resistant bark is an evolutionary adaptation to volcanic activity. Lago Conguillío, a turquoise glacial lake at the volcano's eastern base, was dammed by one of Llaima's lava flows and serves as the scenic centerpiece of Conguillío National Park."
+    },
+    "climate_and_global_impact": {
+      "content": "Llaima's eruptions have had predominantly local to regional atmospheric effects, as its typical VEI 2–3 events do not inject sufficient sulfur dioxide into the stratosphere to influence global climate. The one exception in the Holocene record is the VEI 5 eruption of approximately 6880 BCE, which likely produced a stratospheric eruption column and may have caused short-term hemispheric cooling, though ice core records from this period are difficult to attribute to specific volcanoes. For context, global climate-altering eruptions such as <a href=\"/volcano/tambora\">Tambora</a> in 1815 (VEI 7) and <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991 (VEI 6) injected 10–100 times more sulfur into the stratosphere than Llaima's typical events. However, Llaima's frequent eruptions do contribute cumulatively to regional air quality impacts and short-term weather effects in southern Chile and western Argentina. The 2008 eruption, for instance, caused ash-related disruptions to air travel in the region and deposited measurable ashfall on communities across the Araucanía Region. The volcano's high eruption frequency means that cumulative SO₂ and particulate emissions over decades are non-trivial contributors to regional volcanic degassing, even if individual eruptions have modest atmospheric footprints."
+    },
+    "cultural_significance": {
+      "content": "Llaima holds deep significance in the cultural traditions of the Mapuche people, the indigenous inhabitants of south-central Chile who have lived in the volcano's shadow for millennia. The name 'Llaima' derives from the Mapudungun language, with interpretations including 'ditch' or 'gully' — a reference to the deep ravines carved into the volcano's flanks by lahars and erosion. In Mapuche cosmology, volcanoes are living entities imbued with spiritual power, and Llaima's frequent eruptions have historically been interpreted as expressions of the volcano's pillan (spirit). The Mapuche's centuries-long coexistence with Llaima has produced a rich oral tradition of eruption narratives that complement and sometimes extend the European historical record. During the colonial period, Spanish chroniclers documented eruptions of Llaima alongside accounts of their conflicts with Mapuche communities, creating a dual historical record that interweaves volcanic and military events. In the modern era, Llaima has become an iconic symbol of the Araucanía Region's identity, featured prominently in tourism marketing and regional imagery. The volcano's location within Conguillío National Park — described by BBC Travel as one of the world's most beautiful national parks — has made it a destination for hikers, skiers, and volcano enthusiasts. The Araucaria forests that ring Llaima's base are themselves culturally significant: the tree is the national tree of Chile, and its seeds (piñones) have been a staple food of the Mapuche for thousands of years."
+    },
+    "visiting_and_tourism": {
+      "content": "Llaima is the centerpiece of Conguillío National Park, one of Chile's most spectacular protected areas, located approximately 120 km east of Temuco and accessible via paved and gravel roads from the towns of Melipeuco and Curacautín. The park is open year-round, though access to higher elevations is limited during winter months (June–September) when the Centro de Ski Las Araucarias operates on the volcano's northwestern slopes, offering skiing on volcanic terrain at elevations between 1,400 and 1,800 m. During the summer months (December–March), visitors can hike a network of trails through ancient Araucaria forests, including the popular Sierra Nevada trail and shorter walks along the shores of Lago Conguillío. Summit ascents of Llaima are technically demanding mountaineering endeavors requiring ice axes, crampons, and glacier travel experience, and are typically undertaken with certified guides from Temuco-based agencies. The climb takes 8–12 hours round trip from the trailhead and is only advisable during stable weather in summer. SERNAGEOMIN maintains an exclusion zone around the summit crater during periods of elevated volcanic alert that may restrict access. Accommodation options range from CONAF-operated campgrounds within the park to cabañas and lodges near the park entrances. The nearest full-service towns are Melipeuco (25 km south) and Curacautín (40 km north), both offering restaurants, lodging, and supplies."
+    },
+    "nearby_volcanoes": {
+      "content": "Llaima is part of the densely volcanic Southern Andean Volcanic Arc, surrounded by numerous other active and dormant volcanoes that collectively make <a href=\"/volcanoes-in-chile\">Chile</a> one of the most volcanically active countries on Earth. The most notable neighbor is <a href=\"/volcano/villarrica\">Villarrica</a>, located approximately 165 km to the south, which rivals Llaima for the title of Chile's most active volcano with 162 recorded eruptions and a persistently active lava lake. To the north, Lonquimay volcano (2,865 m) last erupted in 1988–1990 and is visible from Llaima's summit on clear days. Tolhuaca (2,806 m) lies approximately 60 km to the north, and the Nevados de Sollipulli caldera complex (2,282 m) sits roughly 55 km to the south. Together, these volcanoes form a segment of the Southern Volcanic Zone that produces some of the highest eruption rates anywhere in the Andes, driven by the steady subduction of the Nazca Plate at approximately 66 mm per year. Visitors to the Araucanía Region can experience multiple volcanic landscapes within a single trip, as several of these volcanoes are located within or adjacent to Chilean national parks."
+    },
+    "etymology": {
+      "content": "The name Llaima originates from the Mapudungun language of the Mapuche people, the indigenous inhabitants of south-central Chile. The most widely accepted translation is 'ditch,' 'gully,' or 'ravine' — a reference to the deep channels carved into the volcano's flanks by repeated lahars and erosive runoff. Some linguists have also proposed a connection to the Mapudungun word for 'widow' or 'blood,' potentially alluding to the destructive nature of the volcano's eruptions. The name has been in continuous use since before Spanish colonization."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Llaima Compared to South America's Most Active Stratovolcanoes",
+      "description": "How does Llaima stack up against the continent's other major volcanic threats?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Llaima",
+          "Chile",
+          "3,125 m",
+          "Stratovolcano",
+          "2009",
+          "5",
+          "58"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2025",
+          "5",
+          "162"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "5",
+          "86"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,279 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "24"
+        ],
+        [
+          "Popocatépetl",
+          "Mexico",
+          "5,393 m",
+          "Stratovolcano",
+          "2025",
+          "5",
+          "46"
+        ]
+      ]
+    },
+    {
+      "title": "Llaima vs Chile's Other Major Volcanoes",
+      "description": "A comparison of Llaima with Chile's other highest-priority volcanic hazards.",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Primary Hazard"
+      ],
+      "rows": [
+        [
+          "Llaima",
+          "3,125 m",
+          "Stratovolcano",
+          "2009",
+          "5",
+          "58",
+          "Lahars, lava flows"
+        ],
+        [
+          "Villarrica",
+          "2,847 m",
+          "Stratovolcano",
+          "2025",
+          "5",
+          "162",
+          "Lahars, lava lake"
+        ],
+        [
+          "Calbuco",
+          "2,003 m",
+          "Stratovolcano",
+          "2015",
+          "4",
+          "36",
+          "Pyroclastic flows"
+        ],
+        [
+          "Chaitén",
+          "1,122 m",
+          "Caldera",
+          "2011",
+          "4",
+          "2",
+          "Dome collapse, lahars"
+        ],
+        [
+          "Hudson",
+          "1,905 m",
+          "Stratovolcano",
+          "2011",
+          "5",
+          "10",
+          "Tephra, lahars"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7410,
+      "vei": null,
+      "label": "Earliest known Holocene eruption of modern edifice",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -6880,
+      "vei": 5,
+      "label": "Largest Holocene eruption — major Plinian event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -5290,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1640,
+      "vei": 4,
+      "label": "First historically documented eruption — largest in historical record",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1751,
+      "vei": 2,
+      "label": "First of frequent 18th-century eruptions",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1862,
+      "vei": 3,
+      "label": "Significant 19th-century explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1932,
+      "vei": 3,
+      "label": "VEI 3 eruption — major 20th-century event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1945,
+      "vei": 3,
+      "label": "VEI 3 eruption with significant lava flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1955,
+      "vei": 3,
+      "label": "Multi-year eruption from summit and SE crater (1955–1957)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1994,
+      "vei": 2,
+      "label": "Eruption from SE side of summit crater and upper SW flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2008,
+      "vei": 3,
+      "label": "Most recent eruption — lava flows, lahars, evacuations (2008–2009)",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 3,
+      "note": "Three known eruptions from ~7410 BCE to ~5290 BCE, including VEI 5 event"
+    },
+    {
+      "century": "17th",
+      "count": 1,
+      "note": "1640 VEI 4 eruption — first historically documented"
+    },
+    {
+      "century": "18th",
+      "count": 2,
+      "note": "1751 and 1759"
+    },
+    {
+      "century": "19th",
+      "count": 16,
+      "note": "Highly active period, eruptions every 2–5 years on average"
+    },
+    {
+      "century": "20th",
+      "count": 32,
+      "note": "Peak activity — nearly continuous eruptions in some decades"
+    },
+    {
+      "century": "21st",
+      "count": 4,
+      "note": "2002, 2003, 2007, and 2008–2009 eruptions"
+    }
+  ],
+  "facts": [
+    "Llaima's estimated edifice volume of 400 km³ makes it one of the volumetrically largest volcanoes in the Southern Andes — roughly four times the pre-1980 volume of Mount St. Helens.",
+    "The modern volcano was built inside an 8 km-wide caldera that formed approximately 13,200 years ago after the eruption of the 24 km³ Curacautín Ignimbrite.",
+    "Llaima has two historically active craters: the main summit crater and the Pichillaima crater on the southeast flank, giving the volcano a dual-vent character unusual among large Andean stratovolcanoes.",
+    "More than 40 scoria cones dot Llaima's flanks, each marking a past episode of parasitic eruption from subsidiary vents.",
+    "The 2008 eruption began on New Year's Day with virtually no precursory seismic warning, demonstrating Llaima's ability to transition from apparent quiescence to vigorous activity in hours.",
+    "Llaima recorded 32 eruptions during the 20th century alone — an average of one eruption every 3.1 years.",
+    "The volcano's predominantly basaltic composition is unusually mafic for a large Andean stratovolcano, reflecting rapid magma ascent with limited crustal contamination.",
+    "Conguillío National Park, which surrounds Llaima, was designated a UNESCO Biosphere Reserve in 2010, in part because its Araucaria forests have coevolved with volcanic disturbance.",
+    "Lago Conguillío, the turquoise lake at Llaima's eastern base, was formed when one of the volcano's lava flows dammed a river valley.",
+    "The name 'Llaima' comes from the Mapudungun language and translates to 'ditch' or 'gully,' referencing the deep lahar channels carved into the volcano's slopes.",
+    "Llaima's glaciers and permanent snow cover create a persistent lahar hazard, as even moderate eruptions can melt ice and generate fast-moving debris flows capable of traveling 30+ km downstream.",
+    "The VEI 5 eruption of approximately 6880 BCE is the only eruption in Llaima's Holocene record to match the explosive intensity of Vesuvius's famous 79 AD event."
+  ],
+  "faqs": [
+    {
+      "question": "Is Llaima volcano active?",
+      "answer": "Llaima is one of the most active volcanoes in South America. It has produced 58 recorded eruptions over the past approximately 9,400 years, with the most recent eruption occurring in 2008–2009. The Smithsonian Institution's Global Volcanism Program classifies Llaima as 'Eruption Observed,' the highest evidence category for volcanic activity. Chile's geological survey, SERNAGEOMIN, continuously monitors Llaima with seismometers, GPS stations, and webcams. Given the volcano's historical eruption frequency — averaging one event every 5–10 years during the 20th century — volcanologists consider another eruption statistically likely in the coming decades. Llaima is unequivocally active and remains one of Chile's highest-priority volcanic monitoring targets."
+    },
+    {
+      "question": "When did Llaima last erupt?",
+      "answer": "Llaima's most recent eruption began on January 1, 2008, and continued intermittently until July 2009. The eruption was classified as VEI 3 on the Volcanic Explosivity Index. Activity began with a sudden Strombolian explosion that sent an ash column approximately 4 km above the summit and produced lava flows down the eastern and northern flanks. Lahars were generated when hot volcanic material melted summit glaciers and snow, threatening downstream river valleys. Approximately 150 people were evacuated from Conguillío National Park. The eruption came with very little precursory warning, highlighting the challenges of forecasting activity at frequently erupting volcanoes."
+    },
+    {
+      "question": "How tall is Llaima volcano?",
+      "answer": "Llaima stands 3,125 m (10,253 ft) above sea level, making it one of the tallest peaks in the southern Chilean Andes south of 37°S latitude. The volcano rises approximately 2,000 m above the surrounding terrain, creating an imposing profile visible from more than 100 km away. For comparison, neighboring Villarrica stands at 2,847 m (9,340 ft), while Lonquimay to the north reaches 2,865 m (9,400 ft). Llaima's elevation supports permanent glaciers and year-round snow cover above approximately 2,600 m, which contributes significantly to lahar hazards during eruptions."
+    },
+    {
+      "question": "What type of volcano is Llaima?",
+      "answer": "Llaima is classified as a stratovolcano (also called a composite volcano), built from alternating layers of lava flows, ash, and pyroclastic material accumulated over thousands of years. What makes Llaima somewhat unusual among large Andean stratovolcanoes is its predominantly basaltic to picritic-basaltic composition — most stratovolcanoes of this size produce more silica-rich andesitic or dacitic magmas. Llaima's mafic composition means its eruptions tend to be less explosively violent than those of comparable-sized stratovolcanoes with more evolved magmas, though VEI 4 and VEI 5 events have occurred in its record. The volcano's massive 400 km³ volume reflects steady accumulation of lava flows over the Holocene period."
+    },
+    {
+      "question": "Can you visit Llaima volcano?",
+      "answer": "Yes, Llaima is the centerpiece of Conguillío National Park in Chile's Araucanía Region. The park is open year-round and offers hiking trails through Araucaria forests, camping, and lake recreation during summer (December–March), and skiing at Centro de Ski Las Araucarias during winter (June–September). Summit ascents of Llaima require mountaineering experience, glacier equipment (ice axe, crampons), and typically take 8–12 hours round trip. Most climbers hire certified guides from Temuco. Access to the summit area may be restricted when SERNAGEOMIN raises the volcanic alert level. The park is reached via roads from Melipeuco or Curacautín, approximately 120 km east of Temuco."
+    },
+    {
+      "question": "How dangerous is Llaima volcano?",
+      "answer": "Llaima is considered one of Chile's most dangerous volcanoes due to its high eruption frequency, glacier-capped summit, and proximity to populated valleys. The primary hazards include lahars (volcanic mudflows formed when erupted material melts glacial ice), lava flows, tephra fall, and, during larger eruptions, pyroclastic flows. Lahars pose the greatest threat to downstream communities because they can travel more than 30 km from the summit through inhabited river valleys. The town of Melipeuco (population ~5,500) lies just 25 km from the summit. SERNAGEOMIN maintains detailed hazard maps and evacuation plans, and the 2008 eruption demonstrated both the reality of these hazards and the effectiveness of emergency response protocols."
+    },
+    {
+      "question": "How many times has Llaima erupted?",
+      "answer": "According to the Smithsonian Institution's Global Volcanism Program, Llaima has produced 58 recorded eruptions, of which 56 are classified as confirmed and two as uncertain. The eruptive record spans from approximately 7410 BCE to the most recent eruption in 2008–2009. During the 20th century alone, Llaima erupted 32 times — roughly once every three years. This extraordinary frequency makes Llaima one of the most prolific eruptors in South America, second in Chile only to Villarrica, which has 162 recorded eruptions but over a much longer documented history."
+    },
+    {
+      "question": "Why does Llaima erupt so frequently?",
+      "answer": "Llaima's high eruption frequency results from its position directly above the subduction zone where the Nazca Plate dives beneath the South American Plate at approximately 66 mm per year. This steady plate convergence generates a continuous supply of magma at depths of 80–120 km, maintaining a well-fed volcanic plumbing system. Llaima's predominantly basaltic composition means its magma has relatively low viscosity, allowing it to ascend through the crust more readily than the silica-rich magmas typical of many other Andean stratovolcanoes. This combination of steady magma supply and efficient magma transport produces the frequent, moderately sized eruptions that characterize Llaima's behavior."
+    },
+    {
+      "question": "What is Conguillío National Park?",
+      "answer": "Conguillío National Park is a protected area of approximately 609 km² in Chile's Araucanía Region, centered on Llaima volcano. Established in 1950 and designated a UNESCO Biosphere Reserve in 2010, the park protects one of the finest remaining stands of Araucaria araucana (monkey puzzle tree), a prehistoric conifer species that has survived alongside Llaima's eruptions for millions of years. The park features hiking trails, campgrounds, volcanic landscapes, and the scenic Lago Conguillío — a turquoise lake formed when one of Llaima's lava flows dammed a river valley. BBC Travel has described Conguillío as one of the most beautiful national parks in the world."
+    },
+    {
+      "question": "Could Llaima have a major eruption?",
+      "answer": "Llaima's geological record clearly demonstrates the capacity for eruptions far exceeding its typical moderate activity. The VEI 5 eruption approximately 6880 BCE and the VEI 4 eruption of 1640 show that Llaima can produce explosions 10 to 100 times more powerful than its frequent VEI 2–3 events. A VEI 4 or larger eruption at Llaima today would pose severe risks including extensive pyroclastic flows, massive lahars from glacial melting, and heavy ashfall across the Araucanía Region. However, the majority of Llaima's Holocene eruptions have been VEI 2–3, and the volcano's basaltic magma composition generally favors less explosive eruption styles than those of more silicic Andean volcanoes."
+    }
+  ],
+  "people_also_search": [
+    "llaima volcano eruption",
+    "llaima volcano chile",
+    "conguillío national park volcano",
+    "most active volcanoes in chile",
+    "llaima last eruption 2008",
+    "llaima volcano height",
+    "villarrica vs llaima",
+    "southern andes volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Llaima Volcano",
+    "alternateName": [
+      "Volcán Llaima"
+    ],
+    "description": "Active stratovolcano in Chile's Araucanía Region, one of the largest and most frequently erupting volcanoes in South America with 58 recorded eruptions",
+    "geo": {
+      "latitude": -38.692,
+      "longitude": -71.729,
+      "elevation": 3125
+    },
+    "containedInPlace": {
+      "name": "Araucanía Region",
+      "country": "Chile"
+    },
+    "url": "https://volcanoatlas.com/volcano/llaima"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=357110",
+      "text": "Smithsonian GVP: Llaima",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile National Geology and Mining Service",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Llaima",
+      "text": "Britannica: Llaima",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.conaf.cl/parques/parque-nacional-conguillio/",
+      "text": "CONAF: Conguillío National Park (Official)",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "villarrica",
+      "cotopaxi",
+      "st-helens",
+      "crater-lake-mazama",
+      "vesuvius",
+      "tambora",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "tallest-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "villarrica",
+    "cotopaxi",
+    "popocatepetl",
+    "nevado-del-ruiz",
+    "calbuco"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Llaima Volcano",
+      "url": "/volcano/llaima"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/llaima"
+}

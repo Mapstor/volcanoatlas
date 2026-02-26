@@ -1,0 +1,411 @@
+{
+  "slug": "rincon-de-la-vieja",
+  "volcano_id": 345020,
+  "title": "Rincón de la Vieja",
+  "meta_title": "Rincón de la Vieja — Eruptions & Facts | VolcanoAtlas",
+  "meta_description": "Rincón de la Vieja is a 1,729 m active complex volcano in Costa Rica with 34 eruptions. Full history, hazards, and national park guide.",
+  "quick_answer": {
+    "what": "Rincón de la Vieja is an active complex volcano in the Guanacaste Range of northwestern Costa Rica, rising to 1,729 m (5,673 ft) and featuring a ridge of 12 craters and pyroclastic cones within the 15-km-wide Guachipelín caldera.",
+    "status": "Active — last erupted in a phreatic eruption sequence from 2021 to 2024. Continuously monitored by OVSICORI-UNA.",
+    "famous_for": "Its highly acidic crater lake that drives frequent phreatic (steam-driven) eruptions, and the surrounding Rincón de la Vieja National Park — one of Costa Rica's most biodiverse protected areas.",
+    "danger_level": "Moderate to high — frequent phreatic explosions generate lahars that threaten communities along river drainages on multiple flanks, with several thousand people at risk."
+  },
+  "hero": {
+    "name": "Rincón de la Vieja",
+    "local_name": "Volcán Rincón de la Vieja",
+    "subtitle": "The Colossus of Guanacaste",
+    "country": "Costa Rica",
+    "region": "Guanacaste Province",
+    "type": "Complex volcano",
+    "elevation_m": 1729,
+    "elevation_ft": 5673,
+    "status": "Active",
+    "last_eruption": "2021–2024",
+    "coordinates": {
+      "lat": 10.8314,
+      "lon": -85.3364
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09630.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,729 m (5,673 ft)",
+    "type": "Complex volcano",
+    "status": "Active",
+    "last_eruption": "2021–2024 (phreatic sequence)",
+    "first_known_eruption": "~1820 BCE (VEI 4 Plinian eruption — Río Blanca tephra)",
+    "total_recorded_eruptions": 34,
+    "vei_max": "4 (~1820 BCE)",
+    "country": "Costa Rica",
+    "region": "Guanacaste Province, northwestern Costa Rica",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "10.831°N, 85.336°W",
+    "nearest_city": "Liberia — approximately 25 km southwest",
+    "population_at_risk": "~5,000–10,000 in nearby communities along river drainages",
+    "summit_crater": "~300 m diameter acidic crater lake in the active vent",
+    "protected_status": "Rincón de la Vieja National Park (est. 1973), Guanacaste Conservation Area (UNESCO World Heritage Site)",
+    "monitoring_agency": "OVSICORI-UNA (Observatorio Vulcanológico y Sismológico de Costa Rica)",
+    "smithsonian_id": "345020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=345020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Rincón de la Vieja is an active complex volcano rising to 1,729 m (5,673 ft) in the Guanacaste Range of northwestern <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a>, approximately 25 km (16 mi) northeast of the provincial capital of Liberia. It is one of the most active volcanoes in Central America, with 34 recorded eruptions spanning over 3,800 years, and forms the centerpiece of the Rincón de la Vieja National Park — part of the <a href=\"https://whc.unesco.org/en/list/928\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage</a> Guanacaste Conservation Area. Sometimes called the \"Colossus of Guanacaste,\" the volcanic complex has an estimated volume of 130 km³ and consists of a slightly arcuate 20 km-long ridge containing at least nine major eruptive centers and 12 craters built within the 15 km-wide early Pleistocene Guachipelín caldera. The active crater, located near the center of the ridge, hosts a highly acidic lake roughly 300 m in diameter that is the source of frequent phreatic (steam-driven) explosions. The Santa María cone on the eastern portion of the ridge is the complex's highest point and contains a 400 m-diameter crater with its own lake. Unlike many Central American <a href=\"/types-of-volcanoes\">stratovolcanoes</a> that erupt explosively with magmatic products, Rincón de la Vieja's recent activity has been dominated by phreatic eruptions driven by the interaction of hot volcanic gases and groundwater with the crater lake, making it a particularly lahar-prone system. Its last major magmatic eruption — a Plinian event producing the 0.25 km³ Río Blanca tephra — occurred approximately 3,500 years ago, but the volcano has erupted phreatic bursts as recently as 2024, and the Cocos Plate's ongoing subduction beneath the <a href=\"/ring-of-fire\">Caribbean Plate</a> ensures that magmatic eruptions remain a future possibility."
+    },
+    "geology_and_formation": {
+      "content": "Rincón de la Vieja owes its existence to the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench, a process that has fueled volcanism across the Central American Volcanic Arc for millions of years. The complex sits within the Guachipelín caldera, a broad 15 km-wide depression of early Pleistocene age whose southern rim is still exposed in the landscape. Over time, at least nine major eruptive centers built a chain of cones and craters along a slightly arcuate NW-SE ridge stretching approximately 20 km. The magmatic system is rooted in continental crust exceeding 25 km in thickness, and the predominant rock types — andesite and basaltic andesite — reflect the intermediate composition typical of subduction-zone volcanism in this region. The complex's geological history includes the construction and partial destruction of multiple edifices. The largest Holocene magmatic event was a VEI 4 Plinian eruption approximately 3,500 years ago (~1820 BCE) that produced the Río Blanca tephra, a 0.25 km³ pumice deposit that blanketed the surrounding landscape. Since that eruption, all confirmed activity has been phreatic or phreatomagmatic, originating from the active crater and its acidic lake. The crater lake system acts as a calorimeter, absorbing heat from the underlying hydrothermal system and periodically exploding when gas pressure exceeds the confining capacity of the lake water. This hydrothermal dominance distinguishes Rincón de la Vieja from nearby purely magmatic volcanoes like <a href=\"/volcano/arenal\">Arenal</a> and <a href=\"/volcano/poas\">Poás</a>, making it a key site for studying the interplay between magma, groundwater, and surface volcanism along the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "eruption_history_overview": {
+      "content": "Rincón de la Vieja's eruption record spans at least 3,800 years and includes 34 confirmed or uncertain eruptions documented in the Smithsonian Global Volcanism Program database. The earliest recorded event is a major VEI 4 Plinian eruption around 1820 BCE that deposited the Río Blanca tephra across the region. A poorly dated eruption around 430 CE is the only other prehistoric event in the record. Historical observations begin with an uncertain eruption in 1529 and become more frequent from the mid-19th century onward. The volcano's eruptive pattern is characterized by clusters of phreatic activity separated by quiet intervals of a few years to a few decades. The strongest historical eruptions — both rated VEI 3 — occurred in 1912 and 1966–1967. Since the 1980s, the volcano has been in a state of near-continuous unrest, with phreatic eruption sequences in 1983–1987, 1991–1992, 1995, 1998, 2011–2012, 2014–2016, 2017–2018, 2020, and 2021–2024. Nearly all recent eruptions have originated from the acidic crater lake, producing steam-and-ash columns and triggering lahars along river valleys draining the volcano's flanks."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~1820 BCE Plinian Eruption — The Río Blanca Tephra",
+          "content": "The most powerful eruption in Rincón de la Vieja's known history occurred approximately 3,500 years ago, producing the Río Blanca tephra — a voluminous pumice-fall deposit with an estimated volume of 0.25 km³. This VEI 4 Plinian event generated a towering eruption column that dispersed pumice and ash across the Guanacaste lowlands. The eruption marked a significant shift in the volcano's behavior: all subsequent eruptions over the following 3,500 years have been phreatic or, at most, weakly phreatomagmatic. The Río Blanca tephra serves as a critical stratigraphic marker for understanding the volcano's Holocene evolution and provides evidence that Rincón de la Vieja is capable of large-scale explosive magmatic eruptions, even though its recent activity has been dominated by steam-driven blasts."
+        },
+        {
+          "title": "The 1912 Eruption (VEI 3)",
+          "content": "On June 14, 1912, Rincón de la Vieja produced its strongest historical eruption, a VEI 3 event that sent an eruption column several kilometers into the atmosphere and deposited ash across the Guanacaste region. This eruption was significantly more energetic than the phreatic bursts that typify the volcano's modern activity, suggesting a phreatomagmatic component with possible involvement of fresh magma interacting with the crater lake system. The 1912 event serves as a reminder that the volcano can exceed its usual pattern of low-level phreatic explosions."
+        },
+        {
+          "title": "The 1966–1967 Eruption (VEI 3)",
+          "content": "Beginning on November 6, 1966, and continuing into 1967, this VEI 3 eruption was the second-strongest historical event recorded at Rincón de la Vieja. The eruption produced vigorous explosive activity from the active crater, generating significant ashfall and lahars. The September 1969 event that followed (VEI 2) demonstrated the volcano's tendency toward clustered activity, with multiple eruptions occurring in quick succession during active phases."
+        },
+        {
+          "title": "The 1991 Eruption and Lahar Fatalities",
+          "content": "The eruption sequence beginning on May 7, 1991, was particularly notable because lahars triggered by phreatic explosions swept down river valleys on the volcano's flanks, killing at least two people. Lahars — fast-moving slurries of volcanic debris and water — are the primary hazard at Rincón de la Vieja due to the combination of an acidic crater lake, steep slopes, and rivers draining toward populated areas. The 1991 event underscored the need for lahar early-warning systems and prompted increased monitoring of the volcano's drainage channels."
+        },
+        {
+          "title": "The 2021–2024 Phreatic Eruption Sequence",
+          "content": "The most recent extended eruption began on June 28, 2021, and continued intermittently through 2024. This VEI 2 sequence produced dozens of phreatic explosions from the crater lake, generating steam-and-ash plumes reaching 1,000–3,000 m above the crater rim. Multiple lahars descended river channels on the volcano's northern and southern flanks, occasionally reaching populated areas and disrupting road access. Costa Rica's National Emergency Commission (CNE) repeatedly raised alert levels and issued warnings for communities along river drainages. OVSICORI-UNA monitoring data showed elevated seismicity, elevated temperatures in the crater lake, and increased SO₂ degassing throughout the sequence, indicating sustained heating of the hydrothermal system by an underlying magma body."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Rincón de la Vieja is classified as active and is continuously monitored by OVSICORI-UNA (the Observatorio Vulcanológico y Sismológico de Costa Rica, affiliated with the Universidad Nacional). The monitoring network includes seismometers, tiltmeters, GPS stations, gas sensors (measuring SO₂ and CO₂ emissions), and webcams positioned around the volcanic complex. Following the 2021–2024 phreatic eruption sequence, the volcano has remained in a state of elevated unrest, with intermittent seismic swarms and fumarolic degassing from the crater lake area. The active crater's acidic lake — with pH values as low as 1.0 — acts as both a hazard indicator and a heat sink for the underlying hydrothermal system. Temperature changes in the lake, shifts in its color, and variations in the chemistry of hot springs on the volcano's flanks are all monitored as precursors to phreatic explosions. Given that the last major magmatic eruption occurred around 1820 BCE, volcanologists consider the probability of a large magmatic eruption relatively low in the near term, but the volcano's frequent phreatic activity and lahar generation capacity demand ongoing vigilance. Costa Rica's CNE maintains evacuation plans for communities within lahar hazard zones."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The primary hazard at Rincón de la Vieja is lahar generation. Phreatic explosions from the crater lake expel water, mud, and rock fragments that mix with loose volcanic material on the steep upper slopes, forming fast-moving lahars that channel down river valleys. The Pénjamo, Azufrado, and other rivers draining the volcano's northern and southern flanks pass through agricultural areas and small communities where thousands of people live and work. In the 1991 eruption, lahars killed at least two people, demonstrating that even relatively small phreatic events can produce deadly flows. Ashfall from phreatic eruptions is generally limited in extent but can affect the city of Liberia (population ~65,000) when winds carry fine ash southwestward. A repeat of the ~1820 BCE VEI 4 Plinian eruption — while considered unlikely in the near term — would pose a far greater threat, producing pyroclastic flows, heavy tephra fall, and massive lahars capable of devastating a wide area. Compared to other Central American volcanic hazards, Rincón de la Vieja's risk profile is moderate: less immediately threatening than Guatemala's <a href=\"/volcano/fuego\">Fuego</a>, which erupts magmatically and frequently, but more persistently active than many other Costa Rican volcanoes. The volcano's location within a national park limits permanent habitation on its immediate flanks, but downstream communities remain exposed to lahar risk."
+    },
+    "geography_and_physical_description": {
+      "content": "The Rincón de la Vieja volcanic complex dominates the northwestern Guanacaste Range, forming a broad massif that stretches approximately 20 km along a slightly arcuate NW-SE ridge. The complex rises from the tropical lowlands of the Guanacaste province, with the Pacific coast roughly 30 km to the southwest and the Nicaraguan border approximately 15 km to the north. The ridge contains 12 craters and pyroclastic cones, all constructed within the 15 km-wide Guachipelín caldera. The Santa María cone (1,729 m / 5,673 ft) is the highest point, located on the eastern portion of the ridge, with a 400 m-diameter crater lake at its summit. The active crater sits near the center of the ridge and contains the acidic lake (~300 m diameter) responsible for the volcano's frequent phreatic eruptions. Vegetation zones range from tropical dry forest on the lower Pacific-facing slopes through cloud forest at mid-elevations to sparse volcanic scrub near the summit craters. The contrast between the lush Pacific and Caribbean-facing slopes is stark — the volcano straddles the continental divide, with its western flanks receiving significantly less rainfall than the Caribbean side. Hot springs, mud pots, and fumaroles around the base of the volcano — particularly in the Las Pailas and Las Hornillas sectors — attest to the vigorous hydrothermal system that drives the volcano's eruptive activity."
+    },
+    "climate_and_global_impact": {
+      "content": "Rincón de la Vieja's eruptions have not produced significant global climate impacts. The volcano's historical activity has been exclusively phreatic to phreatomagmatic, generating eruption columns that typically reach only 1–4 km above the crater rim — far below the stratospheric altitudes required for global aerosol injection. Even the ~1820 BCE VEI 4 Plinian eruption, while regionally significant, was small relative to the VEI 6–7 eruptions (such as <a href=\"/volcano/tambora\">Tambora</a> in 1815 or <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991) that have demonstrably altered global climate. The volcano's primary atmospheric impact is localized: SO₂ and other volcanic gases from fumaroles and crater lake degassing contribute to acid rain and vog (volcanic fog) in the immediate vicinity, occasionally affecting air quality in Liberia and surrounding communities."
+    },
+    "cultural_significance": {
+      "content": "The name \"Rincón de la Vieja\" translates to \"The Old Woman's Corner\" or \"The Old Woman's Nook,\" a reference to a legend in which an indigenous woman retreated to the volcano after her lover was thrown into the crater by her father, a local chief. According to the story, the woman lived alone on the mountain for the rest of her life, and the volcano's eruptions are her expressions of grief and rage. The volcano is the centerpiece of Rincón de la Vieja National Park, established in 1973, which protects 14,161 hectares of tropical dry forest, cloud forest, and volcanic terrain. In 1999, the park became part of the Guanacaste Conservation Area, designated a UNESCO World Heritage Site for its outstanding biodiversity. The park is one of Costa Rica's most visited volcanic attractions, drawing visitors to its hot springs, bubbling mud pots, waterfalls, and diverse wildlife — including howler monkeys, tapirs, jaguars, and over 300 bird species. The volcano and its surrounding landscape have become iconic symbols of Guanacaste's natural heritage and are integral to <a href=\"/volcanoes-in-costa-rica\">Costa Rica's</a> ecotourism economy."
+    },
+    "visiting_and_tourism": {
+      "content": "Rincón de la Vieja National Park is accessible from Liberia via two main entrances: the Las Pailas sector on the southwestern side (the most popular, approximately 27 km from Liberia) and the Santa María sector on the southeastern side. The Las Pailas sector offers a well-maintained 3.5 km loop trail passing volcanic mud pots, fumaroles, and a small hot spring — a relatively easy hike suitable for most fitness levels. The Santa María sector provides trails to hot springs and waterfalls, including the Catarata La Cangreja. Hiking to the summit craters is occasionally permitted when volcanic activity is low, but access is frequently restricted during periods of elevated activity — as was the case for much of 2021–2024. Entry fees for foreign visitors are approximately $17 USD (subject to change). The park is open from 8:00 AM to 3:00 PM (last entry), Tuesday through Sunday. The surrounding area offers numerous adventure tourism activities, including ziplining, tubing, and natural hot spring resorts. Visitors should check OVSICORI-UNA alerts before planning trips, as phreatic eruptions can occur with little warning. The dry season (December–April) offers the best weather for visiting, though the park's Caribbean-facing trails can be wet year-round."
+    },
+    "nearby_volcanoes": {
+      "content": "Rincón de la Vieja is the northernmost major active volcano in <a href=\"/volcanoes-in-costa-rica\">Costa Rica's</a> volcanic chain. To the southeast along the Guanacaste and Central volcanic ranges lie several other notable volcanoes: <a href=\"/volcano/arenal\">Arenal</a> (approximately 90 km southeast), one of the most famous volcanoes in the Americas; Miravalles (approximately 20 km southeast), the site of Costa Rica's largest geothermal power plant; <a href=\"/volcano/poas\">Poás</a> (approximately 150 km southeast), known for its own hyperacid crater lake; and Turrialba, which has been active in recent years. Together, these volcanoes form part of the Central American Volcanic Arc, a chain of roughly 50 active volcanoes stretching from Guatemala to Panama along the subduction interface between the Cocos and Caribbean plates. The volcanic arc's high density of active volcanoes — and their proximity to populated areas — makes Central America one of the world's most volcanically hazardous regions."
+    },
+    "etymology": {
+      "content": "\"Rincón de la Vieja\" translates from Spanish as \"The Old Woman's Corner\" or \"The Old Woman's Nook.\" The name derives from a local legend about an indigenous woman (\"la vieja\") who retreated to the volcano's slopes to live in solitude after a personal tragedy. The volcano is also sometimes referred to as the Rincón de la Vieja–Santa María Volcanic Complex, acknowledging that the Santa María cone is technically the highest peak on the ridge."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Rincón de la Vieja Compared to Central America's Phreatic Volcanoes",
+      "description": "How does Rincón de la Vieja compare to other crater-lake and phreatic volcanoes in Central America?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Rincón de la Vieja",
+          "Costa Rica",
+          "1,729 m",
+          "Complex",
+          "2024",
+          "4",
+          "34"
+        ],
+        [
+          "Poás",
+          "Costa Rica",
+          "2,708 m",
+          "Stratovolcano",
+          "2019",
+          "3",
+          "40+"
+        ],
+        [
+          "Irazú",
+          "Costa Rica",
+          "3,432 m",
+          "Stratovolcano",
+          "1994",
+          "3",
+          "23"
+        ],
+        [
+          "Santa Ana",
+          "El Salvador",
+          "2,381 m",
+          "Stratovolcano",
+          "2005",
+          "3",
+          "9"
+        ],
+        [
+          "San Cristóbal",
+          "Nicaragua",
+          "1,745 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "38"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -1820,
+      "vei": 4,
+      "label": "Major Plinian eruption — Río Blanca tephra (0.25 km³)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 430,
+      "vei": null,
+      "label": "Confirmed eruption, details unknown",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1912,
+      "vei": 3,
+      "label": "Strongest historical eruption — significant ashfall",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1966,
+      "vei": 3,
+      "label": "Major explosive activity from active crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1991,
+      "vei": 2,
+      "label": "Phreatic eruption — lahars kill at least 2 people",
+      "deaths": "2+",
+      "notable": true
+    },
+    {
+      "year": 1998,
+      "vei": 2,
+      "label": "Phreatic eruption from crater lake",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2012,
+      "vei": 1,
+      "label": "Phreatic eruption sequence from crater lake",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2020,
+      "vei": 2,
+      "label": "Phreatic eruption with lahars",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2021,
+      "vei": 2,
+      "label": "Extended phreatic sequence (2021–2024)",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 2,
+      "note": "VEI 4 Plinian ~1820 BCE; eruption ~430 CE"
+    },
+    {
+      "century": "16th",
+      "count": 1,
+      "note": "Uncertain eruption 1529"
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 6
+    },
+    {
+      "century": "20th",
+      "count": 12
+    },
+    {
+      "century": "21st",
+      "count": 12
+    }
+  ],
+  "facts": [
+    "Rincón de la Vieja's estimated volume of 130 km³ makes it one of the most massive volcanic complexes in Central America, earning it the nickname 'The Colossus of Guanacaste.'",
+    "The volcano's active crater lake has pH values as low as 1.0, making it one of the most acidic volcanic lakes on Earth.",
+    "All eruptions at Rincón de la Vieja in the past 3,500 years have been phreatic (steam-driven), with no confirmed magmatic eruptions since the ~1820 BCE Plinian event.",
+    "The ~1820 BCE Plinian eruption produced 0.25 km³ of tephra — enough to blanket the entire Guanacaste lowlands in pumice.",
+    "The volcanic complex contains at least nine major eruptive centers and 12 craters along a 20 km ridge within the 15 km-wide Guachipelín caldera.",
+    "Rincón de la Vieja National Park is part of the Guanacaste Conservation Area, a UNESCO World Heritage Site recognized for its outstanding biodiversity spanning from tropical dry forest to cloud forest.",
+    "The volcano straddles the continental divide, with dramatically different rainfall on its Pacific (dry) and Caribbean (wet) flanks.",
+    "Lahars are the primary hazard: in 1991, lahars triggered by a phreatic explosion killed at least two people along river drainages on the volcano's flanks.",
+    "The name 'Rincón de la Vieja' — 'The Old Woman's Corner' — comes from a legend about an indigenous woman who lived on the volcano in solitude after a tragedy.",
+    "The Las Pailas sector of the national park features bubbling mud pots and fumaroles heated by the same hydrothermal system that powers the volcano's phreatic eruptions.",
+    "Between 2021 and 2024, the volcano produced dozens of phreatic explosions, with steam-and-ash plumes reaching up to 3,000 m above the crater rim.",
+    "Rincón de la Vieja's Santa María cone (the highest peak at 1,729 m) has its own crater lake, separate from the active crater lake that drives eruptions."
+  ],
+  "faqs": [
+    {
+      "question": "Is Rincón de la Vieja active?",
+      "answer": "Yes, Rincón de la Vieja is an active volcano. It has produced 34 recorded eruptions and most recently erupted in a phreatic (steam-driven) sequence from 2021 to 2024. The volcano is continuously monitored by OVSICORI-UNA, Costa Rica's volcanological observatory. While its recent eruptions have all been phreatic — driven by the interaction of hot volcanic gases with its acidic crater lake — the volcano remains capable of larger magmatic eruptions, as demonstrated by the VEI 4 Plinian eruption approximately 3,500 years ago. Scientists consider it one of Costa Rica's most persistently active volcanoes."
+    },
+    {
+      "question": "When did Rincón de la Vieja last erupt?",
+      "answer": "Rincón de la Vieja's most recent eruption was a prolonged phreatic sequence that began on June 28, 2021, and continued intermittently through 2024, rated VEI 2. The eruption produced dozens of steam-and-ash explosions from the acidic crater lake, generating plumes reaching up to 3,000 m above the crater and triggering lahars along river drainages on multiple flanks. Prior to this sequence, the volcano erupted in January 2020 (VEI 2), and before that in phreatic events in 2017–2018 and 2015–2016."
+    },
+    {
+      "question": "What type of volcano is Rincón de la Vieja?",
+      "answer": "Rincón de la Vieja is classified as a complex volcano — a volcanic system consisting of multiple overlapping or adjacent eruptive centers. The complex includes a 20 km-long ridge with 12 craters and pyroclastic cones built within the 15 km-wide Guachipelín caldera. Its highest point, the Santa María cone, and the active central crater are two of at least nine major eruptive centers. The dominant rock types are andesite and basaltic andesite, typical of subduction-zone volcanism along the Central American Volcanic Arc."
+    },
+    {
+      "question": "Can you visit Rincón de la Vieja?",
+      "answer": "Yes, Rincón de la Vieja National Park is one of Costa Rica's most popular volcanic attractions. The Las Pailas sector (27 km from Liberia) offers a 3.5 km loop trail past bubbling mud pots, fumaroles, and hot springs. The Santa María sector provides access to waterfalls and hot springs. Entry costs approximately $17 USD for foreign visitors. The park is open 8:00 AM–3:00 PM, Tuesday through Sunday. However, access to the summit craters is frequently restricted during volcanic unrest, and visitors should check OVSICORI-UNA alerts before their trip."
+    },
+    {
+      "question": "How dangerous is Rincón de la Vieja?",
+      "answer": "Rincón de la Vieja poses a moderate-to-high hazard, primarily through lahar generation. Phreatic explosions from the crater lake expel water and debris that form fast-moving lahars in river channels draining the volcano's flanks. In 1991, lahars killed at least two people. Several thousand people live in communities along at-risk river drainages. While a repeat of the VEI 4 Plinian eruption of ~1820 BCE is considered unlikely in the near term, it would pose a severe regional threat. The volcano's frequent phreatic activity makes it one of Costa Rica's most persistently hazardous volcanoes."
+    },
+    {
+      "question": "What is the crater lake at Rincón de la Vieja?",
+      "answer": "The active crater of Rincón de la Vieja contains a highly acidic lake approximately 300 m in diameter with pH values as low as 1.0, making it one of the most acidic volcanic lakes on Earth. The lake is heated by volcanic gases rising from the underlying hydrothermal system and periodically explodes when gas pressure exceeds the confining capacity of the water, producing phreatic eruptions. Changes in the lake's temperature, color, and chemistry are key indicators used by volcanologists to forecast eruptions."
+    },
+    {
+      "question": "Where is Rincón de la Vieja located?",
+      "answer": "Rincón de la Vieja is located in the Guanacaste Province of northwestern Costa Rica, approximately 25 km (16 mi) northeast of the city of Liberia and about 15 km south of the Nicaraguan border. It forms part of the Guanacaste Range, a segment of the Central American Volcanic Arc. The volcano is accessible from the Daniel Oduber Quirós International Airport in Liberia, which receives both domestic and international flights."
+    },
+    {
+      "question": "How tall is Rincón de la Vieja?",
+      "answer": "Rincón de la Vieja's highest point — the Santa María cone — stands at 1,729 m (5,673 ft) above sea level. However, the active crater that produces eruptions is located at a lower elevation near the center of the volcanic ridge. The overall complex spans a 20 km-long ridge with 12 craters at various elevations, all within the broader 15 km-wide Guachipelín caldera. Compared to other Costa Rican volcanoes, it is shorter than Irazú (3,432 m) and Poás (2,708 m) but larger in total volcanic volume."
+    }
+  ],
+  "people_also_search": [
+    "rincon de la vieja national park",
+    "rincon de la vieja eruption",
+    "costa rica volcanoes",
+    "rincon de la vieja hot springs",
+    "is rincon de la vieja active",
+    "rincon de la vieja hiking",
+    "guanacaste volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Rincón de la Vieja",
+    "alternateName": [
+      "Volcán Rincón de la Vieja",
+      "The Colossus of Guanacaste"
+    ],
+    "description": "Active complex volcano in Guanacaste, Costa Rica, known for its acidic crater lake, frequent phreatic eruptions, and surrounding national park",
+    "geo": {
+      "latitude": 10.8314,
+      "longitude": -85.3364,
+      "elevation": 1729
+    },
+    "containedInPlace": {
+      "name": "Guanacaste Province",
+      "country": "Costa Rica"
+    },
+    "url": "https://volcanoatlas.com/volcano/rincon-de-la-vieja"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=345020",
+      "text": "Smithsonian GVP: Rincón de la Vieja",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ovsicori.una.ac.cr/",
+      "text": "OVSICORI-UNA — Costa Rica Volcanological Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Rincon-de-la-Vieja",
+      "text": "Britannica: Rincón de la Vieja",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/928",
+      "text": "UNESCO: Guanacaste Conservation Area",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "arenal",
+      "poas",
+      "fuego",
+      "san-cristobal"
+    ],
+    "country_pages": [
+      "costa-rica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "arenal",
+    "poas",
+    "fuego",
+    "san-cristobal",
+    "santa-ana"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Costa Rica",
+      "url": "/volcanoes-in-costa-rica"
+    },
+    {
+      "label": "Rincón de la Vieja",
+      "url": "/volcano/rincon-de-la-vieja"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/rincon-de-la-vieja"
+}

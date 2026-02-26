@@ -1,0 +1,344 @@
+{
+  "slug": "furnas",
+  "volcano_id": 382100,
+  "title": "Furnas",
+  "meta_title": "Furnas Volcano — Eruption History, Hot Springs & Facts | VolcanoAtlas",
+  "meta_description": "Furnas is an 805 m active stratovolcano on São Miguel, Azores, famous for its hydrothermal caldeiras and the devastating VEI 5 eruption of 1630.",
+  "quick_answer": {
+    "what": "Furnas is an active stratovolcano at the eastern end of São Miguel Island in the Azores, Portugal, featuring a 6-km-wide caldera with vigorous hydrothermal activity and a scenic crater lake.",
+    "status": "Active — last erupted 1630 (VEI 5). Intense ongoing fumarolic and hydrothermal activity. Monitored by CIVISA.",
+    "famous_for": "Its boiling fumaroles (caldeiras), geothermally cooked cozido das Furnas stew, hot spring bathing, and the catastrophic 1630 eruption.",
+    "danger_level": "High risk — the 1630 VEI 5 eruption killed ~200 people, and ~5,000 people now live within the caldera."
+  },
+  "hero": {
+    "name": "Furnas",
+    "local_name": "Furnas",
+    "subtitle": "The Boiling Heart of the Azores",
+    "country": "Portugal",
+    "region": "Azores, São Miguel Island",
+    "type": "Stratovolcano",
+    "elevation_m": 805,
+    "elevation_ft": 2641,
+    "status": "Active",
+    "last_eruption": "1630",
+    "coordinates": {
+      "lat": 37.77,
+      "lon": -25.32
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06227.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "805 m (2,641 ft)",
+    "type": "Stratovolcano (with nested calderas)",
+    "status": "Active — intense hydrothermal activity",
+    "last_eruption": "1630 (VEI 5)",
+    "first_known_eruption": "~4570 BCE",
+    "total_recorded_eruptions": 9,
+    "vei_max": "5 (~80 CE and 1630 CE)",
+    "country": "Portugal",
+    "region": "Azores, São Miguel Island (eastern end)",
+    "tectonic_setting": "Rift zone — Terceira Rift on oceanic crust (< 15 km)",
+    "rock_types": [
+      "Trachyte",
+      "Trachydacite"
+    ],
+    "coordinates": "37.77°N, 25.32°W",
+    "nearest_city": "Furnas village — inside caldera (population ~1,500)",
+    "population_at_risk": "~5,000 (residents within and adjacent to caldera)",
+    "summit_crater": "Younger caldera 6-km wide, ~500 m deep",
+    "protected_status": "Furnas Valley Nature Reserve; Azores UNESCO Global Geopark",
+    "monitoring_agency": "CIVISA",
+    "smithsonian_id": "382100",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=382100"
+  },
+  "sections": {
+    "overview": {
+      "content": "Furnas is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> at the eastern end of São Miguel Island in the <a href=\"/volcanoes-in-portugal\">Azores</a>, rising to 805 m (2,641 ft). It is arguably the most visibly active of São Miguel's three major volcanic centers: boiling fumaroles (caldeiras) erupt from the caldera floor, hot springs cascade through lush subtropical vegetation, and the ground itself steams in the village streets. Furnas features at least two nested calderas — a younger 6-km-wide caldera and a larger, less topographically distinct outer structure. The scenic Lagoa das Furnas occupies part of the caldera floor. With nine documented eruptions and two VEI 5 events (around 80 CE and 1630 CE), Furnas ranks alongside <a href=\"/volcano/agua-de-pau\">Agua de Pau</a> as one of the most explosively powerful volcanoes in the Azores. The 1630 eruption was one of the most catastrophic volcanic events in Portuguese history, killing approximately 200 people and devastating eastern São Miguel. Today, the village of Furnas (~1,500 inhabitants) sits within the caldera, surrounded by fumaroles, hot springs, and the lush gardens of Terra Nostra Park. Together with <a href=\"/volcano/sete-cidades\">Sete Cidades</a> and Agua de Pau, Furnas completes São Miguel's trio of active polygenetic volcanoes along the Terceira Rift."
+    },
+    "geology_and_formation": {
+      "content": "Furnas lies at the eastern end of São Miguel, immediately west of the older Nordeste shield volcano and its Povoação caldera. The volcanic complex dates back approximately 100,000 years. At least two major caldera-forming events created the nested structure visible today: the younger inner caldera is approximately 6 km wide and 500 m deep, its eastern wall overlapping with the Nordeste Povoação caldera. Post-caldera volcanism has been predominantly explosive and trachytic, depositing at least 11 pumice layers over the past 5,000 years. The most prominent post-caldera feature is the Pico do Gaspar lava dome, east of Lagoa das Furnas. A zone of late-Pleistocene to Holocene basaltic-to-trachytic cinder cones extends between Furnas and <a href=\"/volcano/agua-de-pau\">Agua de Pau</a>. Like its São Miguel neighbors, Furnas erupts predominantly trachytic magma — a silica-rich composition that produces violent explosive eruptions."
+    },
+    "eruption_history_overview": {
+      "content": "Furnas has produced 9 documented eruptions spanning approximately 6,500 years. The earliest recorded event (~4570 BCE) occurred on the eastern caldera rim. Two eruptions reached VEI 5 — the event around 80 CE and the devastating 1630 eruption. VEI 4 events occurred around 840 CE, 1170 CE, and 1441 CE, demonstrating that Furnas regularly produces major explosive eruptions. The 395-year repose since 1630 is the longest gap in the post-80 CE record, though vigorous hydrothermal activity confirms the magmatic system remains fully charged."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1630 Eruption — São Miguel's Deadliest Volcanic Disaster",
+          "content": "The 1630 eruption was the most destructive volcanic event in Azorean history. Beginning on September 3, 1630, at the southern end of the caldera (Pico da Areia), the VEI 5 Plinian eruption produced a massive column of trachytic pumice and ash. Pyroclastic density currents swept down the southern flanks, while thick pumice falls devastated the caldera and surrounding parishes. Approximately 200 people were killed — a devastating toll for the small communities. Agricultural land was buried under meters of pumice. Contemporary Portuguese accounts describe darkened skies, raining pumice, and terrified colonists fleeing toward the sea."
+        },
+        {
+          "title": "The ~80 CE Eruption — A Prehistoric VEI 5",
+          "content": "Around 80 CE, Furnas produced its other known VEI 5 eruption from the northern floor of the younger caldera. This massive explosive event deposited thick trachytic pumice across eastern São Miguel. While no written accounts survive, the geological deposits reveal an eruption comparable in scale to the 1630 event, demonstrating that Furnas has repeatedly achieved VEI 5 explosive power."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Furnas has not erupted since 1630 — a 395-year repose. However, the volcano is unambiguously active, displaying some of the most vigorous hydrothermal activity in Europe. The caldera floor features multiple fumarole fields (caldeiras) where superheated steam, CO₂, and hydrogen sulfide vent at temperatures exceeding 100°C. CIVISA monitors the volcano with seismometers, GNSS stations, geochemical sensors, and thermal imaging. Periodic seismicity increases and gas chemistry changes are tracked. Given eruptions at roughly 200–400 year intervals in the post-80 CE record, volcanologists consider the volcano potentially overdue."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Furnas presents a concerning combination of high explosive potential and direct human exposure. The village of Furnas (~1,500) and adjacent communities (~5,000 total) sit within or adjacent to the caldera. A repeat of the 1630 VEI 5 eruption would generate pyroclastic density currents sweeping the caldera floor, Plinian pumice falls collapsing buildings across eastern São Miguel, and lahars from interaction with Lagoa das Furnas. Chronic hazards include diffuse CO₂ degassing, which has caused livestock deaths. The Azores civil protection agency maintains evacuation plans coordinated with CIVISA."
+    },
+    "geography_and_physical_description": {
+      "content": "Furnas' caldera is a verdant depression approximately 6 km wide, its steep walls clothed in luxuriant vegetation. Lagoa das Furnas occupies the southern portion. The village of Furnas sits in the center, surrounded by fumarole fields, botanical gardens, and geothermal bathing facilities. The caldera walls rise approximately 500 m from the floor, with the highest point (805 m) on the northern rim. Numerous hot springs issue from the caldera floor and flanks, the most famous being the caldeiras alongside Lagoa das Furnas and in the village center, where locals cook the traditional cozido das Furnas stew in geothermally heated holes."
+    },
+    "cultural_significance": {
+      "content": "Furnas is a cultural icon of the Azores. The cozido das Furnas — a rich stew slow-cooked for 6–7 hours in geothermally heated ground — is the archipelago's signature dish. Terra Nostra Park's iron-rich thermal pool, surrounded by an 18th-century botanical garden, is among the most atmospheric volcanic bathing experiences in Europe. Furnas has been a health tourism destination since the 19th century, when aristocrats sought its mineral waters. The fumaroles are deeply embedded in Azorean identity."
+    },
+    "visiting_and_tourism": {
+      "content": "Furnas is one of the most popular destinations in the Azores. Key attractions include the caldeiras (fumarole fields), Terra Nostra Park's thermal pool (35–40°C), Poça da Dona Beija hot springs, and watching cozido stew pots buried and retrieved from hot ground at Lagoa das Furnas. Hiking trails encircle the lake and ascend to caldera rim viewpoints. Access from Ponta Delgada takes approximately 45 minutes by car."
+    },
+    "nearby_volcanoes": {
+      "content": "To the west lies <a href=\"/volcano/agua-de-pau\">Agua de Pau</a> (947 m), with its Lagoa do Fogo and history of VEI 5 eruptions. At the island's western tip, <a href=\"/volcano/sete-cidades\">Sete Cidades</a> (842 m) features twin-colored caldera lakes. East of Furnas, the ancient Nordeste shield volcano (dormant) represents an older phase of São Miguel's volcanic history. The <a href=\"/volcanoes-in-portugal\">Azores</a> contain 26 Holocene volcanoes across nine islands."
+    },
+    "etymology": {
+      "content": "The name 'Furnas' derives from the Portuguese word for 'caverns' or 'grottoes,' referencing the numerous fumaroles, hot spring outlets, and cavities that perforate the caldera landscape."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Furnas Compared to Other Azorean Volcanoes",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Furnas",
+          "805 m",
+          "Stratovolcano",
+          "1630",
+          "5",
+          "9"
+        ],
+        [
+          "Agua de Pau",
+          "947 m",
+          "Stratovolcano",
+          "1564",
+          "5",
+          "10"
+        ],
+        [
+          "Sete Cidades",
+          "842 m",
+          "Stratovolcano",
+          "1880",
+          "4",
+          "16"
+        ],
+        [
+          "Pico",
+          "2,351 m",
+          "Stratovolcano",
+          "1720",
+          "2",
+          "4"
+        ],
+        [
+          "Faial",
+          "1,043 m",
+          "Stratovolcano",
+          "1958",
+          "3",
+          "8"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -4570,
+      "vei": null,
+      "label": "Earliest known eruption — east caldera rim",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 80,
+      "vei": 5,
+      "label": "VEI 5 Plinian eruption — north caldera floor",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 840,
+      "vei": 4,
+      "label": "VEI 4 eruption — center of caldera",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1170,
+      "vei": 4,
+      "label": "VEI 4 eruption — east caldera floor",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1441,
+      "vei": 4,
+      "label": "VEI 4 eruption — center of caldera (Gaspar)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1630,
+      "vei": 5,
+      "label": "VEI 5 Plinian eruption — ~200 killed",
+      "deaths": "~200",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3
+    },
+    {
+      "century": "1st",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "The 1630 eruption of Furnas killed approximately 200 people — the deadliest volcanic event in Azorean history.",
+    "Furnas has produced two VEI 5 eruptions (~80 CE and 1630 CE), the same explosive magnitude as Vesuvius's 79 AD eruption.",
+    "The traditional cozido das Furnas stew is cooked by burying pots in geothermally heated ground for 6–7 hours.",
+    "Approximately 1,500 people live in Furnas village, directly on the caldera floor surrounded by active fumaroles.",
+    "Terra Nostra Park's iron-rich thermal pool maintains a natural temperature of 35–40°C year-round.",
+    "At least 11 trachytic pumice layers deposited over 5,000 years testify to Furnas' persistent explosive activity.",
+    "Diffuse CO₂ degassing from the caldera floor has caused livestock deaths in low-lying areas.",
+    "The 395-year repose since 1630 is the longest in Furnas' post-80 CE record.",
+    "Furnas' caldera walls rise ~500 m above the floor, creating a bowl that would trap pyroclastic flows.",
+    "Azorean geothermal energy, concentrated at volcanoes like Furnas, supplies ~42% of São Miguel's electricity."
+  ],
+  "faqs": [
+    {
+      "question": "Is Furnas an active volcano?",
+      "answer": "Yes, Furnas is classified as active by the Smithsonian Global Volcanism Program. Although it last erupted in 1630, its vigorous hydrothermal activity — boiling fumaroles, hot springs exceeding 100°C, diffuse CO₂ degassing — confirms an active magmatic system. CIVISA monitors continuously. With two VEI 5 eruptions and a 395-year repose exceeding average intervals, future activity is considered highly probable."
+    },
+    {
+      "question": "What is cozido das Furnas?",
+      "answer": "Cozido das Furnas is a traditional Azorean stew cooked using volcanic geothermal heat. Pots of meat, sausages, vegetables, and potatoes are lowered into holes in the geothermally heated ground beside Lagoa das Furnas, slow-cooking for 6–7 hours at over 100°C. It is the signature dish of the Azores and a major tourist draw."
+    },
+    {
+      "question": "Can you swim in the hot springs at Furnas?",
+      "answer": "Yes. Terra Nostra Park features an iron-rich thermal pool at 35–40°C surrounded by a botanical garden. Poça da Dona Beija offers pools at varying temperatures. Both charge admission. The lakeside caldeiras are too hot to bathe in."
+    },
+    {
+      "question": "How dangerous is Furnas?",
+      "answer": "Furnas poses significant hazard. Two VEI 5 eruptions demonstrate capacity for Plinian explosions, and ~5,000 people live within the caldera. A repeat of 1630 would generate pyroclastic flows, thick pumice falls, and lahars. Chronic CO₂ degassing is also a concern."
+    },
+    {
+      "question": "When did Furnas last erupt?",
+      "answer": "Furnas last erupted September 3, 1630, in a VEI 5 Plinian event that killed ~200 people — the deadliest eruption in Azorean history. The 395-year repose since is the longest gap in the post-80 CE record."
+    },
+    {
+      "question": "Is it safe to visit Furnas?",
+      "answer": "Furnas is safe to visit under current conditions. CIVISA monitors continuously and no signs of imminent eruption exist. Stay on marked paths near fumaroles. Tens of thousands visit annually without incident."
+    }
+  ],
+  "people_also_search": [
+    "furnas azores",
+    "furnas hot springs",
+    "cozido das furnas",
+    "terra nostra park",
+    "furnas volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Furnas",
+    "alternateName": [],
+    "description": "Active stratovolcano with caldera, famous hot springs and fumaroles on São Miguel Island, Azores",
+    "geo": {
+      "latitude": 37.77,
+      "longitude": -25.32,
+      "elevation": 805
+    },
+    "containedInPlace": {
+      "name": "São Miguel Island",
+      "country": "Portugal"
+    },
+    "url": "https://volcanoatlas.com/volcano/furnas"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=382100",
+      "text": "Smithsonian GVP: Furnas",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.azoresgeopark.com/",
+      "text": "Azores UNESCO Global Geopark",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.civisa.azores.gov.pt/",
+      "text": "CIVISA",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "sete-cidades",
+      "agua-de-pau",
+      "vesuvius"
+    ],
+    "country_pages": [
+      "portugal"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "sete-cidades",
+    "agua-de-pau",
+    "pico",
+    "teide",
+    "campi-flegrei"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Portugal",
+      "url": "/volcanoes-in-portugal"
+    },
+    {
+      "label": "Furnas",
+      "url": "/volcano/furnas"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/furnas"
+}

@@ -1,0 +1,549 @@
+{
+  "slug": "st-helens",
+  "volcano_id": 321050,
+  "title": "Mount St. Helens",
+  "meta_title": "Mount St. Helens — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Mount St. Helens is a 2,549 m active stratovolcano in Washington, USA. Explore its full eruption history from the 1980 lateral blast to today, hazard maps, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount St. Helens is an active stratovolcano in the Cascade Range of southwestern Washington State, USA, rising to 2,549 m (8,363 ft) above sea level.",
+    "status": "Active — last erupted 2004–2008 (dome-building). Continuously monitored by the USGS Cascades Volcano Observatory. Future eruptions considered certain.",
+    "famous_for": "The catastrophic VEI 5 eruption on May 18, 1980 — the deadliest and most economically destructive volcanic event in United States history, which killed 57 people and triggered the largest landslide ever recorded.",
+    "danger_level": "High threat — ranked among the most dangerous volcanoes in the United States. Portland, Oregon (80 km south) and other communities lie within potential lahar and ashfall zones."
+  },
+  "hero": {
+    "name": "Mount St. Helens",
+    "local_name": "Lawetlat'la (Cowlitz), Loowit (Klickitat)",
+    "subtitle": "The Volcano That Reshaped Modern Volcanology",
+    "country": "United States",
+    "region": "Washington State, Pacific Northwest",
+    "type": "Stratovolcano",
+    "elevation_m": 2549,
+    "elevation_ft": 8363,
+    "status": "Active",
+    "last_eruption": "2004–2008",
+    "coordinates": {
+      "lat": 46.2,
+      "lon": -122.18
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05491.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,549 m (8,363 ft) — reduced from 2,950 m (9,677 ft) before 1980",
+    "type": "Stratovolcano (composite volcano)",
+    "status": "Active",
+    "last_eruption": "2004–2008 (dome-building eruption)",
+    "first_known_eruption": "~2340 BCE (geological record extends ~40,000–50,000 years)",
+    "total_recorded_eruptions": 44,
+    "vei_max": "6 (~1860 BCE) and 5 (1980, 1480s, 1800, 530 BCE, 2340 BCE)",
+    "country": "United States",
+    "region": "Skamania County, Washington, Cascade Range",
+    "tectonic_setting": "Subduction zone — Juan de Fuca Plate beneath North American Plate",
+    "rock_types": [
+      "Dacite",
+      "Andesite",
+      "Basalt"
+    ],
+    "coordinates": "46.200°N, 122.180°W",
+    "nearest_city": "Castle Rock, WA — 65 km west; Portland, OR — 80 km south",
+    "population_at_risk": "~300,000 in lahar hazard zones along the Toutle, Cowlitz, and Lewis river valleys",
+    "summit_crater": "Horseshoe-shaped crater, 2 × 3.5 km, open to the north, with lava dome growing inside",
+    "protected_status": "Mount St. Helens National Volcanic Monument (est. 1982, 445 km²)",
+    "monitoring_agency": "USGS Cascades Volcano Observatory (CVO), Vancouver, WA",
+    "smithsonian_id": "321050",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=321050"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount St. Helens is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> in the Cascade Range of southwestern Washington State, <a href=\"/volcanoes-in-united-states\">United States</a>, located approximately 154 km (96 mi) south of Seattle and 80 km (50 mi) northeast of Portland, Oregon. It is the most historically active volcano in the <a href=\"/ring-of-fire\">Cascade Range</a> and one of the most dangerous in North America, with 44 recorded eruptions spanning approximately 4,300 years of geological history — more than any other Cascade volcano during the Holocene. The volcano's current summit elevation of 2,549 m (8,363 ft) represents a dramatic reduction from its pre-1980 height of 2,950 m (9,677 ft), the result of the catastrophic lateral blast and debris avalanche of May 18, 1980, which removed the entire upper 400 m of the mountain and left a gaping horseshoe-shaped crater 2 km wide and 3.5 km long.\n\nThe 1980 eruption was the deadliest and most economically destructive volcanic event in United States history, killing 57 people, destroying 250 homes, 47 bridges, and 24 km of railways, and causing approximately $1.1 billion in damage (equivalent to roughly $4 billion in 2025 dollars). The eruption produced the largest debris avalanche ever recorded — 2.5 km³ of material traveling at speeds up to 250 km/h — and generated pyroclastic flows, lahars, and an ash column that rose 24 km into the stratosphere. Mount St. Helens sits above the <a href=\"/ring-of-fire\">Cascadia subduction zone</a>, where the Juan de Fuca Plate descends beneath the North American Plate at a rate of approximately 40 mm per year, fueling the chain of volcanoes that stretches from northern California to British Columbia. Among the world's volcanoes, St. Helens is often compared with <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> for the similar scale and explosivity of their modern eruptions, and with <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> for its proximity to populated areas and the certainty of future activity."
+    },
+    "geology_and_formation": {
+      "content": "Mount St. Helens is geologically young compared to its Cascade neighbors — the present volcanic edifice began forming only about 40,000–50,000 years ago, making it the youngest major stratovolcano in the range. The volcano sits at the western edge of the Cascade Volcanic Arc, a chain of volcanoes generated by the subduction of the oceanic Juan de Fuca Plate beneath the continental North American Plate. As the dense oceanic crust descends to depths of 80–120 km, it releases water into the overlying mantle wedge, lowering the melting point of the rock and generating magma that rises to feed the surface volcanoes. St. Helens is located about 50 km west of the main Cascade crest, offset from the axis of the volcanic arc — a positioning that may reflect a shallower angle of subduction beneath this section of the range or the influence of local crustal structures.\n\nThe volcano's eruptive history can be divided into nine major eruptive periods: Ape Canyon (approximately 40,000–35,000 years ago), Cougar (28,000–18,000 years ago), Swift Creek (13,000–8,000 years ago), Spirit Lake (3,900–3,300 years ago), Castle Creek (2,500–1,895 years ago), Sugar Bowl (~780 CE), Kalama (1479–1720s), Goat Rocks (1800–1857), and the Modern period (1980–present). The older edifice was built primarily by eruptions of tephra, lava domes, and pyroclastic flows, with relatively few lava flows extending beyond the base of the volcano. The modern cone, constructed largely during the Castle Creek, Kalama, and Goat Rocks periods, includes basaltic as well as andesitic and dacitic products from both summit and flank vents. St. Helens' dominant magma composition is dacite — a silica-rich, viscous magma type that produces highly explosive eruptions due to the buildup of trapped gases. This composition is similar to that of <a href=\"/volcano/pinatubo\">Pinatubo</a> and explains why both volcanoes are capable of Plinian-scale events. The stratovolcano structure — alternating layers of hardened lava, pumice, and volcanic ash — is a hallmark of <a href=\"/types-of-volcanoes\">composite volcanoes</a> worldwide, and St. Helens is one of the most thoroughly studied examples of this volcanic form."
+    },
+    "eruption_history_overview": {
+      "content": "Mount St. Helens has produced 44 documented eruptions spanning more than 4,300 years of recorded geological history, making it the most prolific eruptor in the Cascade Range during the Holocene. Its eruptive behavior has been remarkably diverse, ranging from gentle basaltic lava flows during the Castle Creek period to cataclysmic Plinian explosions that produced VEI 5 and VEI 6 events. The volcano's maximum recorded <a href=\"/volcanic-explosivity-index\">VEI</a> of 6, achieved during an eruption around 1860 BCE, places it among the most explosively powerful volcanoes in the contiguous United States, alongside <a href=\"/volcano/crater-lake\">Crater Lake (Mount Mazama)</a> whose VEI 7 eruption approximately 7,700 years ago remains the largest known eruption in the Cascade Range.\n\nNotably, St. Helens has experienced relatively little quiet time. The 123-year dormancy between the end of the Goat Rocks period in 1857 and the reawakening in 1980 was unremarkable by volcanological standards — many Cascade volcanoes have been dormant for centuries or millennia. The volcano's high eruption frequency compared to its neighbors (<a href=\"/volcano/rainier\">Mount Rainier</a> has erupted approximately 20 times in the Holocene; Mount Hood only 5 times) underscores its status as the most restless volcano in the Pacific Northwest. Since 1980, St. Helens has erupted three more times: a small explosive event in 1989–1990, another in 1990–1991, and a prolonged dome-building episode from 2004 to 2008 that extruded approximately 125 million cubic meters of new lava into the crater."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1980 Eruption — America's Most Devastating Volcanic Disaster",
+          "content": "The eruption of Mount St. Helens on May 18, 1980 was the most significant volcanic event in United States history and one of the most thoroughly documented eruptions in volcanological history. Precursory activity began on March 16, 1980, with a series of small earthquakes that intensified over the following days. On March 27, a steam explosion blasted through the summit ice cap, opening a new crater. Over the next seven weeks, a dramatic bulge developed on the volcano's north flank, growing outward at rates of up to 2.5 m (8 ft) per day — a visible sign that magma was intruding into the mountain at shallow depth.\n\nAt 8:32 AM Pacific Daylight Time on May 18, a magnitude 5.1 earthquake triggered the collapse of the volcano's destabilized north face in the largest debris avalanche ever recorded: 2.5 km³ of rock, ice, and soil cascaded downslope at speeds reaching 250 km/h (155 mph), traveling up to 28 km and burying the North Fork Toutle River valley under deposits averaging 46 m deep. The sudden depressurization of the mountain's interior unleashed a lateral blast — a superheated mixture of gas, ash, and rock fragments traveling at speeds exceeding 1,080 km/h (670 mph) with temperatures reaching 360°C (680°F). This blast devastated an area of approximately 600 km² (230 sq mi) in a fan-shaped zone extending up to 28 km from the crater, flattening virtually every tree in its path. Within minutes, a vertical eruption column rose 24 km (80,000 ft) into the stratosphere, raining ash across 11 U.S. states and two Canadian provinces. In Yakima, Washington, 145 km to the east, visibility dropped to near zero as 600,000 tonnes of ash blanketed the city.\n\nPyroclastic flows — fast-moving currents of hot gas and volcanic matter — surged down the north flank, while lahars (volcanic mudflows) channeled down the Toutle and Cowlitz rivers. The largest lahar reached the Columbia River, 120 km downstream, reducing the shipping channel depth from 12 m to 4 m and temporarily halting river traffic. The eruption removed the top 400 m of the mountain, reducing its elevation from 2,950 m to 2,549 m, and created the distinctive horseshoe-shaped crater that defines the volcano today. Fifty-seven people were killed, including USGS volcanologist David A. Johnston, whose final radio transmission — 'Vancouver! Vancouver! This is it!' — became one of the most iconic statements in the history of natural disasters. The total ejected volume was approximately 1.2 km³ of dense rock equivalent. Economically, the eruption caused an estimated $1.1 billion in damage ($4 billion in 2025 dollars), destroying 250 homes, 47 bridges, 24 km of railways, and 298 km of highways. The event fundamentally transformed the field of volcanology, leading to dramatic improvements in volcanic monitoring, hazard assessment, and public communication of volcanic risk in the United States and worldwide."
+        },
+        {
+          "title": "The ~1860 BCE Eruption — St. Helens' Largest Known Event",
+          "content": "The largest known eruption of Mount St. Helens occurred around 1860 BCE during the Spirit Lake eruptive period and has been assigned a <a href=\"/volcanic-explosivity-index\">VEI</a> of 6 — ten times more powerful than the 1980 eruption. This event produced extensive pyroclastic flows and tephra deposits, including the widespread Yn tephra layer that has been identified across the Pacific Northwest. The eruption significantly altered the landscape around Spirit Lake and generated lahars that traveled far down the river valleys. Though no human records exist, the geological evidence indicates an eruption comparable in scale to the 1883 <a href=\"/volcano/krakatau\">Krakatau</a> eruption or the 1991 <a href=\"/volcano/pinatubo\">Pinatubo</a> event. This eruption serves as a stark reminder that the 1980 event, as devastating as it was, does not represent the upper limit of what St. Helens is capable of producing."
+        },
+        {
+          "title": "The Kalama Period (1479–1720s) — Building the Pre-1980 Cone",
+          "content": "The Kalama eruptive period, lasting from approximately 1479 to the 1720s, was the most sustained period of volcano-building activity in St. Helens' recent history. It began with two major VEI 5 eruptions around 1480 and 1482 that produced large volumes of dacitic tephra and pyroclastic flows. These were followed by centuries of intermittent dome growth, lava flows, and smaller explosive events that constructed much of the symmetrical pre-1980 summit cone — the shape that earned the volcano its nickname as 'the Fujisan of America.' The Kalama period tephra deposits, particularly the Wn layer, are important stratigraphic markers across the region. This period demonstrates St. Helens' capacity for prolonged multi-century eruptive episodes, a pattern that some volcanologists suggest the current modern period may also follow."
+        },
+        {
+          "title": "The Goat Rocks Period (1800–1857) — Eyewitness Eruptions",
+          "content": "The Goat Rocks eruptive period produced the first eruptions of Mount St. Helens witnessed by European settlers in the Pacific Northwest. A major VEI 5 eruption around 1800 deposited the T tephra layer and generated pyroclastic flows. Beginning in 1831, a series of smaller eruptions (VEI 2–3) occurred from the Goat Rocks area on the north flank, producing ash columns, minor lava flows, and small pyroclastic events that were observed and recorded by settlers, fur traders, and early explorers. Reports describe 'smoke' and 'fire' emanating from the mountain throughout the 1830s, 1840s, and 1850s. The final eruption of this period occurred in 1857, after which the volcano entered the 123-year dormancy that preceded the 1980 awakening."
+        },
+        {
+          "title": "The 2004–2008 Dome-Building Eruption — St. Helens Stirs Again",
+          "content": "On October 1, 2004, Mount St. Helens began a new eruptive episode that would last more than three years. Unlike the explosive 1980 event, this was a largely effusive dome-building eruption, rated at VEI 2. Preceded by a swarm of shallow earthquakes, the eruption extruded thick, viscous dacite lava at rates initially exceeding 5 cubic meters per second, building a new lava dome south of the 1980–1986 dome within the horseshoe crater. By the end of the eruption in January 2008, the new dome had added approximately 125 million m³ of material, growing to roughly 500 m in diameter and 300 m in height. The eruption was notable for the extrusion of a remarkable 'lava spine' or 'whaleback' — a solid plug of rock forced upward from the vent at rates of 1–2 m per day, reaching 100 m above the crater floor before collapsing. This eruption was intensively monitored by the USGS CVO and provided scientists with unprecedented data on dome-growth processes, gas emissions, and seismicity associated with effusive eruptions. No lives were lost and no evacuations were required, demonstrating the effectiveness of the monitoring infrastructure developed in the aftermath of 1980."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mount St. Helens is classified as an active volcano with a current alert level of Normal (aviation color code Green) as assessed by the USGS Cascades Volcano Observatory (CVO), based in Vancouver, Washington. The volcano is monitored by one of the densest instrument networks on any volcano in the United States, including more than 20 seismometers, continuous GPS stations measuring ground deformation to sub-millimeter precision, gas monitoring equipment (primarily measuring SO₂ and CO₂ emissions), thermal cameras, and web cameras providing real-time visual surveillance. Seismic activity beneath St. Helens occurs continuously at low levels, with periodic swarms of small earthquakes that reflect ongoing magmatic and hydrothermal processes at depth. The most recent significant seismic activity has consisted of small earthquake clusters detected beneath the volcano, consistent with magmatic recharge rather than imminent eruption.\n\nVolcanologists consider future eruptions of Mount St. Helens to be a certainty — the only unknowns are timing, size, and style. The volcano's prolific Holocene record, with an average repose interval of less than 100 years between eruptive periods, suggests it could reactivate at any time. The USGS has classified St. Helens as one of the highest-threat volcanoes in the United States in its National Volcanic Threat Assessment, reflecting its explosive potential, proximity to populated areas, and the critical infrastructure (including Interstate 5 and the Columbia River shipping corridor) within its hazard footprint."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Mount St. Helens poses multiple volcanic hazards to surrounding communities and infrastructure, including pyroclastic flows, lahars (volcanic mudflows), tephra fall, lateral blasts, lava flows, and volcanic gases. The USGS has identified lahars as the most far-reaching hazard: mudflows generated by eruptions or by heavy rainfall remobilizing loose volcanic deposits can travel over 100 km down the Toutle, Cowlitz, and Lewis river drainages, potentially reaching the Columbia River and threatening communities including Castle Rock, Longview, and Kelso (combined population approximately 50,000). A sediment retention structure (SRS) was constructed on the North Fork Toutle River in 1989 to mitigate lahar and sediment risks; however, the structure's reservoir has been filling with sediment and its long-term effectiveness is a subject of ongoing concern.\n\nTephra (airborne ash) from a major eruption could affect communities across the Pacific Northwest. The 1980 eruption deposited measurable ash across 57,000 km² and caused significant disruption to air travel, agriculture, and daily life. Modern ash-fall models suggest a VEI 5 eruption under prevailing westerly winds could deposit 2–5 cm of ash on communities 150–200 km downwind, with significant impacts to aviation across the Pacific Northwest. Pyroclastic flows, which can travel at speeds exceeding 160 km/h at temperatures above 300°C, are primarily confined to the crater and proximal flanks but represent an extreme hazard to anyone within approximately 15 km of the summit. The USGS and local emergency management agencies maintain detailed hazard maps and evacuation plans, with lahar warning systems (including acoustic flow monitors) installed along the major river drainages. Portland, Oregon, approximately 80 km to the south, could experience minor ashfall from a large eruption but is outside the range of lahars and pyroclastic flows."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount St. Helens rises from the forested lowlands of the southern Washington Cascades, standing conspicuously apart from neighboring peaks. Its current summit elevation of 2,549 m (8,363 ft) makes it one of the shorter major Cascade volcanoes — considerably lower than <a href=\"/volcano/rainier\">Mount Rainier</a> (4,392 m) to the north and Mount Adams (3,742 m) to the east. The volcano's most distinctive feature is the horseshoe-shaped crater blown open to the north during the 1980 eruption, measuring approximately 2 km east-to-west and 3.5 km north-to-south, with walls rising up to 600 m above the crater floor. Within this amphitheater, a composite lava dome has been growing since 1980, consisting of two main components: the original 1980–1986 dome and the newer 2004–2008 dome, together filling a significant portion of the crater interior.\n\nThe Pumice Plain extends north from the crater into the blast zone, a landscape of devastated terrain that has been gradually recolonized by vegetation since 1980. Spirit Lake, once a pristine alpine lake on the volcano's north side, was dramatically altered by the debris avalanche — its surface elevation was raised by approximately 60 m, its area doubled, and it was initially covered by a floating mat of blown-down timber containing an estimated 1 million logs. The volcano's flanks below the blast zone support dense forests of Douglas fir, western red cedar, and western hemlock at lower elevations, transitioning to subalpine meadows and snowfields on the upper slopes. Six glaciers persisted on the mountain before 1980; the eruption destroyed or severely reduced most of them, though new glacial ice has been forming within the crater since the mid-1990s."
+    },
+    "climate_and_global_impact": {
+      "content": "The 1980 eruption of Mount St. Helens, while devastating locally and regionally, had relatively modest global climate effects compared to larger eruptions such as <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991 or <a href=\"/volcano/tambora\">Tambora</a> in 1815. The eruption injected approximately 0.5 megatons of SO₂ into the stratosphere — less than 3% of Pinatubo's 17-megaton injection — which was insufficient to produce measurable global temperature change. The ash cloud circled the Earth in approximately 17 days but the particles were too large and settled too quickly to create sustained atmospheric effects. However, regional climate impacts were significant: ashfall reduced solar radiation reaching the ground across eastern Washington and northern Idaho, temporarily lowering surface temperatures and affecting agriculture during the 1980 growing season.\n\nThe volcano's historical eruptions were similarly regional in impact. The VEI 6 event around 1860 BCE would have produced a larger sulfur injection and may have had measurable hemispheric effects, though paleoclimate records from this period are not precise enough to attribute specific temperature anomalies to St. Helens. The 1980 eruption nonetheless transformed understanding of volcanic impacts on aviation: ash from the eruption damaged aircraft engines and demonstrated the vulnerability of modern jet aircraft to volcanic ash clouds — lessons that would prove critical during the 2010 <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> crisis in Europe."
+    },
+    "cultural_significance": {
+      "content": "Mount St. Helens holds deep cultural significance for the indigenous peoples of the Pacific Northwest. The Cowlitz people know the mountain as Lawetlat'la ('the smoker'), while the Klickitat and Yakama peoples call it Loowit, the name of a beautiful maiden in their oral tradition. According to the 'Bridge of the Gods' legend shared among several tribes, Loowit was a fair maiden placed between two warring chiefs — Pahto (Mount Adams) and Wy'east (Mount Hood) — by the Great Spirit Tyhee Saghalie, who turned all three into mountains when their fighting could not be stopped. The mountain's European name honors Alleyne FitzHerbert, 1st Baron St Helens, a British diplomat, and was bestowed by Captain George Vancouver of the Royal Navy during his 1792 expedition along the Pacific coast.\n\nThe 1980 eruption transformed Mount St. Helens into an icon of both destructive natural power and ecological resilience. The blast zone became one of the most important natural laboratories on Earth, providing scientists with an unparalleled opportunity to study how ecosystems recover from catastrophic disturbance. The story of the eruption has been told in numerous documentaries, books, and educational materials, and the volcano is among the most recognized in the world. The Mount St. Helens National Volcanic Monument, established by the U.S. Congress in 1982, preserves 445 km² of the blast zone for scientific study, education, and recreation. Volcanologist David A. Johnston, killed in the eruption, is memorialized at the Johnston Ridge Observatory, which overlooks the crater from a vantage point just 8 km away."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount St. Helens is one of the most visited volcanic sites in North America, attracting over 500,000 visitors annually to the Mount St. Helens National Volcanic Monument. The Johnston Ridge Observatory (open mid-May through October), located 8 km from the crater, offers panoramic views directly into the crater and interpretive exhibits documenting the 1980 eruption and subsequent recovery. Climbing to the crater rim is permitted with a climbing permit (required May 15–October 31, limited to approximately 100 climbers per day) via the Monitor Ridge route on the south side, a strenuous 14.5 km (9 mi) round trip gaining approximately 1,400 m (4,600 ft) in elevation. The climb typically takes 7–12 hours and offers spectacular views into the crater and across the Cascades to Rainier, Adams, and Hood on clear days.\n\nThe Ape Cave lava tube, a 3.9 km (2.4 mi) long basalt lava tube formed during a Castle Creek period eruption approximately 2,000 years ago, is one of the longest lava tubes in the contiguous United States and a popular underground hiking experience. The Boundary Trail and other hiking routes wind through the blast zone, offering a dramatic landscape of recovering forests, wildflower meadows, and views of the Pumice Plain, Spirit Lake, and the crater. Visitor centers at Castle Rock (on I-5) and along State Route 504 provide additional educational experiences. Winter activities include snowshoeing and backcountry skiing on the volcano's southern flanks."
+    },
+    "nearby_volcanoes": {
+      "content": "Mount St. Helens is part of the Cascade Volcanic Arc, a chain of volcanoes stretching 1,100 km from British Columbia to northern California, fueled by the subduction of the Juan de Fuca Plate. Its nearest major volcanic neighbors include <a href=\"/volcano/rainier\">Mount Rainier</a> (4,392 m), located 80 km to the north — the tallest volcano in the Cascades and the volcano considered to pose the greatest lahar hazard in the United States. Mount Adams (3,742 m), a massive shield-like stratovolcano 55 km to the east, is one of the largest volcanoes by volume in the Cascades but has been relatively quiet in the Holocene. To the south, Mount Hood (3,426 m) near Portland, Oregon, is the most-climbed glaciated peak in North America. Further along the arc, <a href=\"/volcano/crater-lake\">Crater Lake (Mount Mazama)</a> in southern Oregon preserves the caldera from a colossal VEI 7 eruption approximately 7,700 years ago — the largest Holocene eruption in the Cascade Range. Together, these volcanoes represent a significant volcanic hazard corridor in one of the most populated volcanic regions in the United States."
+    },
+    "etymology": {
+      "content": "The name 'Mount St. Helens' was given by Captain George Vancouver of the British Royal Navy on October 20, 1792, during his exploration of the Pacific Northwest coast. Vancouver named the mountain in honor of his friend Alleyne FitzHerbert, 1st Baron St Helens, a British ambassador to Spain who had helped negotiate the Nootka Convention of 1790 — the diplomatic agreement that resolved competing British and Spanish claims to the Pacific Northwest. The indigenous names for the mountain — Lawetlat'la (Cowlitz: 'the smoker'), Loowit (Klickitat: 'the beauty'), and Tah-one-lat-clah (Lewis and Clark expedition transcription) — reflect the volcano's active nature and the reverence it commanded among the native peoples of the region."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount St. Helens Compared to Other Cascade Volcanoes",
+      "description": "How does St. Helens compare to other major volcanoes in the Cascade Range?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "St. Helens",
+          "United States",
+          "2,549 m",
+          "Stratovolcano",
+          "2008",
+          "6",
+          "44"
+        ],
+        [
+          "Rainier",
+          "United States",
+          "4,392 m",
+          "Stratovolcano",
+          "1450",
+          "4",
+          "20"
+        ],
+        [
+          "Crater Lake (Mazama)",
+          "United States",
+          "2,487 m",
+          "Caldera",
+          "~2850 BCE",
+          "7",
+          "5"
+        ],
+        [
+          "Hood",
+          "United States",
+          "3,426 m",
+          "Stratovolcano",
+          "1866",
+          "2",
+          "5"
+        ],
+        [
+          "Baker",
+          "United States",
+          "3,285 m",
+          "Stratovolcano(es)",
+          "1880",
+          "3",
+          "11"
+        ],
+        [
+          "Shasta",
+          "United States",
+          "4,317 m",
+          "Stratovolcano",
+          "1250",
+          "4",
+          "22"
+        ]
+      ]
+    },
+    {
+      "title": "St. Helens vs the World's Most Famous Explosive Eruptions",
+      "description": "Comparing the 1980 eruption with other landmark volcanic events of the modern era.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Year",
+        "VEI",
+        "Ejecta Volume",
+        "Deaths",
+        "Global Impact"
+      ],
+      "rows": [
+        [
+          "St. Helens",
+          "United States",
+          "1980",
+          "5",
+          "1.2 km³ DRE",
+          "57",
+          "Regional ashfall; minimal global cooling"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1991",
+          "6",
+          "5 km³ DRE",
+          "847",
+          "0.5°C global cooling for 2 years"
+        ],
+        [
+          "Krakatau",
+          "Indonesia",
+          "1883",
+          "6",
+          "12 km³ DRE",
+          "36,417",
+          "1.2°C global cooling; vivid sunsets worldwide"
+        ],
+        [
+          "Vesuvius",
+          "Italy",
+          "79",
+          "5",
+          "3.3 km³ DRE",
+          "2,000–16,000",
+          "Regional impact only"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "1815",
+          "7",
+          "50 km³ DRE",
+          "92,000",
+          "Year Without a Summer (1816)"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2340,
+      "vei": 5,
+      "label": "Major Plinian eruption — earliest recorded event",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1860,
+      "vei": 6,
+      "label": "Largest known eruption of St. Helens (Yn tephra)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1770,
+      "vei": 5,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -530,
+      "vei": 5,
+      "label": "Major Plinian eruption during Sugar Bowl period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1480,
+      "vei": 5,
+      "label": "Beginning of Kalama period — major tephra eruption (Wn layer)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1482,
+      "vei": 5,
+      "label": "Second major Kalama eruption — cone-building phase begins",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1800,
+      "vei": 5,
+      "label": "Start of Goat Rocks period — T tephra eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1831,
+      "vei": 3,
+      "label": "First eruption witnessed by European settlers",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1842,
+      "vei": 3,
+      "label": "Multi-year eruption observed by early settlers",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1980,
+      "vei": 5,
+      "label": "Catastrophic lateral blast — 57 killed, largest debris avalanche ever recorded",
+      "deaths": "57",
+      "notable": true
+    },
+    {
+      "year": 2004,
+      "vei": 2,
+      "label": "Dome-building eruption begins — lava spine extrusion",
+      "deaths": "0",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-3000 BCE",
+      "count": 3,
+      "note": "Spirit Lake eruptive stage; includes VEI 6 event"
+    },
+    {
+      "century": "3000–2000 BCE",
+      "count": 2
+    },
+    {
+      "century": "2000–1000 BCE",
+      "count": 5
+    },
+    {
+      "century": "1000–1 BCE",
+      "count": 5
+    },
+    {
+      "century": "1st–5th CE",
+      "count": 5
+    },
+    {
+      "century": "6th–10th CE",
+      "count": 1,
+      "note": "Sugar Bowl period (~780 CE)"
+    },
+    {
+      "century": "11th–14th CE",
+      "count": 0,
+      "note": "Long dormancy"
+    },
+    {
+      "century": "15th–16th CE",
+      "count": 3,
+      "note": "Kalama period begins"
+    },
+    {
+      "century": "17th CE",
+      "count": 1
+    },
+    {
+      "century": "18th CE",
+      "count": 0
+    },
+    {
+      "century": "19th CE",
+      "count": 10,
+      "note": "Goat Rocks period — multiple eruptions witnessed by settlers"
+    },
+    {
+      "century": "20th CE",
+      "count": 4,
+      "note": "Includes catastrophic 1980 eruption"
+    },
+    {
+      "century": "21st CE",
+      "count": 1,
+      "note": "2004–2008 dome-building eruption"
+    }
+  ],
+  "facts": [
+    "The 1980 eruption triggered the largest debris avalanche ever recorded — 2.5 km³ of material traveling at speeds up to 250 km/h, burying the North Fork Toutle River valley under deposits averaging 46 m deep.",
+    "Mount St. Helens lost 401 m (1,314 ft) of its summit in the 1980 eruption, reducing its height from 2,950 m (9,677 ft) to 2,549 m (8,363 ft) — transforming it from the fifth-tallest Cascade peak to one of the shortest major stratovolcanoes in the range.",
+    "The lateral blast on May 18, 1980 traveled at speeds exceeding 1,080 km/h (670 mph) — faster than the speed of sound — and flattened approximately 4 billion board feet of timber across 600 km².",
+    "Before 1980, Mount St. Helens was sometimes called 'the Fujisan of America' for its symmetrical, snow-capped cone — a resemblance now completely erased.",
+    "The 1980 eruption's thermal energy was equivalent to approximately 24 megatons of TNT — roughly 1,600 times the energy of the Hiroshima atomic bomb.",
+    "Spirit Lake's surface elevation rose approximately 60 m (200 ft) during the 1980 debris avalanche, and the lake initially contained an estimated 1 million floating logs — a log mat that persisted for years.",
+    "Mount St. Helens is the youngest major stratovolcano in the Cascades, with its current edifice only about 40,000–50,000 years old, while neighboring Rainier is approximately 500,000 years old.",
+    "The eruption killed 57 people, including USGS volcanologist David A. Johnston, whose final radio message — 'Vancouver! Vancouver! This is it!' — has become one of the most quoted statements in geological history.",
+    "A new glacier, Crater Glacier, began forming inside the crater in the mid-1990s and is one of the youngest glaciers on Earth. By 2004 it had split into two arms flowing around the growing lava dome.",
+    "The 2004–2008 dome-building eruption extruded a remarkable 'lava spine' — a solid plug of rock pushed upward at 1–2 m per day — the fastest-growing such feature ever documented.",
+    "Mount St. Helens has produced 44 recorded eruptions in the Holocene — more than any other volcano in the Cascade Range, including Rainier (20), Shasta (22), and Baker (11).",
+    "The Ape Cave lava tube on the volcano's south flank, formed about 2,000 years ago, is one of the longest lava tubes in the contiguous United States at 3.9 km (2.4 mi)."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount St. Helens still active?",
+      "answer": "Yes, Mount St. Helens is classified as an active volcano by the United States Geological Survey (USGS). Its most recent eruption was a dome-building episode from 2004 to 2008, during which new lava was extruded into the crater formed by the catastrophic 1980 eruption. The volcano is continuously monitored by the USGS Cascades Volcano Observatory using a dense network of seismometers, GPS instruments, gas sensors, and cameras. Low-level seismic activity occurs continuously beneath the volcano, indicating that magma systems remain active at depth. Volcanologists consider future eruptions to be a certainty — St. Helens has been the most active Cascade volcano throughout the Holocene, with 44 recorded eruptions and average repose intervals of less than 100 years between eruptive periods."
+    },
+    {
+      "question": "When did Mount St. Helens last erupt?",
+      "answer": "Mount St. Helens' most recent eruption was a dome-building episode that began on October 1, 2004 and continued until January 2008. This eruption was largely effusive (non-explosive), extruding thick dacite lava into the horseshoe-shaped crater at rates initially exceeding 5 cubic meters per second. It added approximately 125 million cubic meters of new material to the crater dome. Prior to this, the volcano's most famous eruption occurred on May 18, 1980 — a catastrophic VEI 5 event that killed 57 people, produced the largest debris avalanche ever recorded, and blew away the upper 400 m of the mountain. Between 1980 and 2004, smaller eruptions occurred in 1989–1990 and 1990–1991."
+    },
+    {
+      "question": "Could Mount St. Helens erupt again?",
+      "answer": "Mount St. Helens will almost certainly erupt again. The volcano has been the most active in the Cascade Range throughout the Holocene, with 44 documented eruptions over the past 4,300 years and an average interval of less than 100 years between eruptive periods. The USGS classifies it as one of the highest-threat volcanoes in the United States. Future eruptions could range from relatively mild dome-building episodes similar to 2004–2008 to explosive Plinian events comparable to or larger than 1980. The volcano's geological record includes a VEI 6 eruption around 1860 BCE — ten times more powerful than the 1980 event. The USGS Cascades Volcano Observatory monitors St. Helens continuously and would likely detect precursory signs weeks to months before a significant eruption."
+    },
+    {
+      "question": "How many people died in the 1980 eruption?",
+      "answer": "Fifty-seven people were killed in the May 18, 1980 eruption of Mount St. Helens. Most victims were outside the restricted zone that had been established around the volcano but within the blast zone that proved far larger than anticipated. Causes of death included asphyxiation from inhaling hot ash and gases, thermal injuries from the superheated lateral blast (temperatures exceeding 360°C), and burial by the debris avalanche. Among the victims was David A. Johnston, a 30-year-old USGS volcanologist stationed at an observation post 10 km from the summit, and Harry R. Truman, an 83-year-old lodge owner who had refused to evacuate from his home at Spirit Lake. The death toll would have been far higher if the eruption had not occurred on a Sunday morning, when logging operations in the surrounding forests were idle."
+    },
+    {
+      "question": "How tall is Mount St. Helens?",
+      "answer": "Mount St. Helens currently stands at 2,549 m (8,363 ft) above sea level. Before the catastrophic eruption of May 18, 1980, the volcano's summit elevation was 2,950 m (9,677 ft) — making it the fifth-tallest peak in Washington State. The eruption removed the top 401 m (1,314 ft) of the mountain, including the entire summit dome, through a combination of the debris avalanche and explosive ejection. By comparison, neighboring Mount Rainier reaches 4,392 m (14,411 ft), Mount Adams stands at 3,742 m (12,276 ft), and Mount Hood in Oregon rises to 3,426 m (11,239 ft). Lava dome growth since 1980 has partially filled the crater but has not significantly increased the volcano's summit elevation."
+    },
+    {
+      "question": "What type of volcano is Mount St. Helens?",
+      "answer": "Mount St. Helens is a stratovolcano, also known as a composite volcano. Stratovolcanoes are built from alternating layers of lava flows, volcanic ash, pumice, and other pyroclastic deposits, forming steep-sided, roughly conical mountains. St. Helens' dominant magma composition is dacite — a silica-rich, viscous magma type that traps dissolved gases and produces highly explosive eruptions. This composition is characteristic of subduction-zone volcanoes worldwide. Stratovolcanoes are the most common type of volcano along the Ring of Fire and include some of the world's most dangerous volcanic peaks, including Mount Vesuvius, Mount Pinatubo, and Mount Fuji. St. Helens' eruption styles have ranged from effusive dome-building to catastrophic Plinian explosions, reflecting the full spectrum of stratovolcano behavior."
+    },
+    {
+      "question": "Can you visit Mount St. Helens?",
+      "answer": "Yes, Mount St. Helens is open to visitors year-round as part of the Mount St. Helens National Volcanic Monument, managed by the U.S. Forest Service. The Johnston Ridge Observatory, located 8 km from the crater, is the premier visitor destination and is typically open mid-May through October. Climbing to the crater rim is permitted with a permit (required May 15–October 31, limited to approximately 100 climbers per day, available online or at the trailhead) via the Monitor Ridge route, a strenuous 14.5 km round trip taking 7–12 hours. Other popular attractions include the Ape Cave lava tube, the Boundary Trail through the blast zone, and the Windy Ridge viewpoint overlooking Spirit Lake. Winter visitors can snowshoe or backcountry ski on the lower flanks."
+    },
+    {
+      "question": "What caused the 1980 eruption of Mount St. Helens?",
+      "answer": "The 1980 eruption was caused by the intrusion of magma into the volcano's interior, which destabilized the north flank over a period of weeks. Beginning in mid-March 1980, a series of earthquakes indicated that magma was rising beneath the mountain. A large bulge developed on the north face, expanding outward at rates of up to 2.5 m (8 ft) per day. On May 18, a magnitude 5.1 earthquake triggered the collapse of this over-steepened flank in a massive debris avalanche, which instantaneously depressurized the magma system beneath. The sudden release of pressure caused the superheated magma and gases to explode laterally in a devastating blast. The underlying cause is the subduction of the Juan de Fuca Plate beneath North America, which generates magma that feeds all Cascade volcanoes."
+    },
+    {
+      "question": "What would happen if Mount St. Helens erupted today?",
+      "answer": "A future eruption of Mount St. Helens could range from a relatively minor dome-building event (similar to 2004–2008) to an explosive eruption comparable to or larger than 1980. In a worst-case VEI 5+ scenario, pyroclastic flows could sweep down the flanks at speeds exceeding 160 km/h, lahars could travel down the Toutle and Cowlitz river valleys toward communities including Castle Rock, Longview, and Kelso (threatening approximately 50,000 people), and ash could blanket communities across the Pacific Northwest. Portland, Oregon (80 km south) could receive significant ashfall. However, the USGS Cascades Volcano Observatory maintains continuous monitoring and would likely provide days to weeks of warning before a major eruption, enabling evacuations. The 2004–2008 eruption demonstrated that modern monitoring can successfully manage eruption risk."
+    },
+    {
+      "question": "How does Mount St. Helens compare to Mount Rainier?",
+      "answer": "Mount St. Helens and Mount Rainier are both active Cascade stratovolcanoes, but they differ significantly in size, hazard profile, and eruptive history. Rainier (4,392 m) is nearly twice the height of post-1980 St. Helens (2,549 m) and carries 25 major glaciers containing over 4 km³ of ice — the largest glacial system on any volcano in the contiguous United States. This ice mass means Rainier's greatest hazard is lahars, which could reach the Puget Sound lowlands and communities of over 100,000 people. St. Helens, by contrast, has been far more active: 44 eruptions versus Rainier's 20, with a maximum VEI of 6 versus Rainier's 4. St. Helens has more explosive potential, while Rainier poses a greater lahar threat due to its massive ice cover and proximity to denser populations."
+    }
+  ],
+  "people_also_search": [
+    "mount st helens eruption 1980",
+    "is mount st helens going to erupt again",
+    "mount st helens before and after",
+    "mount st helens deaths",
+    "mount st helens height",
+    "how many times has st helens erupted",
+    "mount st helens hike",
+    "mount st helens vs rainier"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount St. Helens",
+    "alternateName": [
+      "St. Helens",
+      "Lawetlat'la",
+      "Loowit",
+      "Mount Saint Helens"
+    ],
+    "description": "Active stratovolcano in Washington State, USA, famous for the catastrophic VEI 5 eruption on May 18, 1980 — the deadliest volcanic event in U.S. history",
+    "geo": {
+      "latitude": 46.2,
+      "longitude": -122.18,
+      "elevation": 2549
+    },
+    "containedInPlace": {
+      "name": "Skamania County, Washington",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/st-helens"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=321050",
+      "text": "Smithsonian GVP: St. Helens",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/mount-st.-helens",
+      "text": "USGS: Mount St. Helens",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Saint-Helens",
+      "text": "Britannica: Mount St. Helens",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=31562",
+      "text": "Mount St. Helens National Volcanic Monument (USFS)",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/VHP",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "rainier",
+      "crater-lake",
+      "pinatubo",
+      "vesuvius",
+      "krakatau",
+      "tambora",
+      "hood",
+      "eyjafjallajokull"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "rainier",
+    "hood",
+    "crater-lake",
+    "pinatubo",
+    "vesuvius"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Mount St. Helens",
+      "url": "/volcano/st-helens"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/st-helens"
+}

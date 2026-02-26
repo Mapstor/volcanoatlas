@@ -1,0 +1,555 @@
+{
+  "slug": "tinakula",
+  "volcano_id": 256010,
+  "title": "Tinakula",
+  "meta_title": "Tinakula Volcano — Eruption History, Facts & Location | VolcanoAtlas",
+  "meta_description": "Tinakula is a 796 m active stratovolcano forming an uninhabited island in the Solomon Islands. Explore its eruption history since 1595, hazards, and facts.",
+  "quick_answer": {
+    "what": "Tinakula is an active stratovolcano forming a small, uninhabited island 3.5 km wide at the northwestern end of the Santa Cruz Islands in Temotu Province, Solomon Islands, rising 796 m (2,612 ft) above sea level.",
+    "status": "Active — in a state of semi-continuous eruption since December 2018, with intermittent lava flows and ash explosions. One of the most frequently erupting volcanoes in the southwestern Pacific.",
+    "famous_for": "Its resemblance to Stromboli, with a breached summit crater open to the northwest through which incandescent lava cascades into the sea, and for an eruption around 1840 that killed all the island's inhabitants.",
+    "danger_level": "Low direct population risk — the island has been uninhabited since 1971 — but ash from larger eruptions can reach the Reef Islands (60 km) and contaminate water supplies for nearby communities."
+  },
+  "hero": {
+    "name": "Tinakula",
+    "local_name": "Tamami / Volcano Island",
+    "subtitle": "The Stromboli of the South Pacific",
+    "country": "Solomon Islands",
+    "region": "Santa Cruz Islands, Southwestern Pacific",
+    "type": "Stratovolcano",
+    "elevation_m": 796,
+    "elevation_ft": 2612,
+    "status": "Active",
+    "last_eruption": "2018–present (ongoing)",
+    "coordinates": {
+      "lat": -10.386,
+      "lon": 165.804
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10475.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "796 m (2,612 ft)",
+    "type": "Stratovolcano",
+    "status": "Active — erupting intermittently since 2018",
+    "last_eruption": "December 2018 – 2024 (ongoing intermittent activity)",
+    "first_known_eruption": "~1050 BCE (geological record); 1595 (historical record)",
+    "total_recorded_eruptions": 27,
+    "vei_max": "3 (1595, 1840, 1951, 1965, 2017)",
+    "country": "Solomon Islands",
+    "region": "Santa Cruz Islands, Temotu Province",
+    "tectonic_setting": "Subduction zone — Australian Plate beneath Pacific Plate (crustal thickness unknown)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "10.386°S, 165.804°E",
+    "nearest_inhabited_island": "Te Motu (Trevanion) Island — ~30 km south",
+    "population_at_risk": "Uninhabited island; nearest communities on Reef Islands (~60 km) and Nupani (~40 km)",
+    "summit_crater": "Breached to the NW; extends from summit to below sea level",
+    "island_width": "3.5 km",
+    "monitoring_agency": "National Disaster Management Office (NDMO), Solomon Islands; Wellington VAAC",
+    "smithsonian_id": "256010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=256010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Tinakula is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> forming a small, uninhabited island approximately 3.5 km (2.2 mi) wide at the northwestern end of the Santa Cruz Islands in Temotu Province, <a href=\"/volcanoes-in-solomon-islands\">Solomon Islands</a>. Rising 796 m (2,612 ft) above sea level and an additional 2–3 km from the sea floor, the volcano is the exposed summit of a massive oceanic stratovolcano and one of the most persistently active volcanoes in the southwestern Pacific. It has been observed in eruption on at least 27 occasions since the Spanish explorer Álvaro de Mendaña first recorded its activity in 1595, and has been in a state of semi-continuous eruption since December 2018. Often compared to <a href=\"/volcano/stromboli\">Stromboli</a> in the Mediterranean, Tinakula shares that volcano's characteristic breached summit crater — an enormous scar open to the northwest through which lava flows and incandescent volcanic debris cascade directly into the sea, creating a spectacular display visible from neighbouring islands up to 60 km away. The island has been uninhabited since 1971, when eruptions and an associated tsunami forced the evacuation of a small Polynesian community that had settled there in 1951. Prior to that, an explosive eruption around 1840 generated pyroclastic flows that swept all sides of the island and killed the entire population. Despite its remoteness and the absence of permanent inhabitants, Tinakula poses a significant aviation hazard in the busy South Pacific air corridor, and larger eruptions can deposit ash on the inhabited Reef Islands and other communities of eastern Temotu Province, contaminating drinking water and food supplies. Its remote location, lack of ground-based monitoring, and near-continuous activity make it one of the most under-studied yet consistently active volcanoes on Earth."
+    },
+    "geology_and_formation": {
+      "content": "Tinakula lies approximately 100 km northeast of the Solomon Trench, where the Australian Plate subducts beneath the Pacific Plate, generating the magmas that feed the volcanic arc extending from Vanuatu through the Solomon Islands. The volcano sits at the northern terminus of the Santa Cruz Islands volcanic chain, which represents a northwestward extension of the Vanuatu arc — a tectonic setting that places Tinakula at a complex junction between two converging plate systems. The edifice rises approximately 3–4 km from the sea floor, with only the uppermost 796 m visible above the waterline, making the total volcanic structure comparable in scale to many major continental stratovolcanoes. The dominantly andesitic to basaltic andesitic composition of its lavas produces an eruptive style that alternates between strombolian explosions and effusive lava flows. The most distinctive geological feature of Tinakula is its enormous breached summit crater, which opens to the northwest and extends from the summit all the way to below sea level — a feature almost certainly produced by a massive flank collapse or sector failure, enlarged by subsequent landslides in 1965 that created a pronounced embayment on the northwestern coast. Flanking this breach are cliffs approximately 100 m high. Within this horseshoe-shaped scar, an active cone has built itself up through repeated eruptions, and the steep apron of lava flows and volcaniclastic debris within the breach remains permanently unvegetated due to ongoing eruptive activity. The Mendana cone, a secondary volcanic centre, is located on the southeastern flank of the island, named after the Spanish explorer who first documented the volcano. The southern and eastern sides of the island, sheltered from the prevailing eruption direction, support dense tropical vegetation, coconut palms, and even former garden sites tended by islanders from the Reef Islands."
+    },
+    "eruption_history_overview": {
+      "content": "Tinakula has one of the longest continuously documented eruption histories of any volcano in the South Pacific, with observations spanning over 430 years from the first European sighting in 1595 to the present day. The Smithsonian Global Volcanism Program records 27 confirmed eruptions, with an additional 3 uncertain events, and geological evidence for at least one prehistoric eruption around 1050 BCE. Since 1595, the volcano has erupted on average every 18–19 years, though this figure understates its activity: when periods of continuous eruption are counted, Tinakula has been active during at least 35 out of the past 430 years — roughly one year in twelve. The <a href=\"/volcanic-explosivity-index\">VEI</a> of recorded eruptions ranges from 1 to 3, with most activity at VEI 1–2 (strombolian to vulcanian), punctuated by occasional larger VEI 3 events in approximately 1840, 1951, 1965, and 2017. Eruptions characteristically involve the ejection of incandescent lava bombs and blocks from the summit cone, with debris rolling and flowing down the northwestern breach into the ocean, accompanied by ash emissions that drift on prevailing winds. The volcano's remoteness means many eruptions have been documented only through brief sightings by passing ships, occasional visits by researchers, and — since the early 2000s — satellite-based thermal and SO₂ monitoring."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~1840 Eruption — An Island Depopulated",
+          "content": "The most devastating known eruption of Tinakula occurred around 1840, when an explosive event generated pyroclastic density currents that swept all sides of the island, killing the entire population. Details of this eruption are sparse — no European witnesses are known to have been present — but oral histories from neighbouring islands and later observations confirm that the island was found uninhabited in the aftermath. The eruption was sufficiently powerful to rate VEI 3, and the radial distribution of pyroclastic flows around the entire circumference of the 3.5 km wide island suggests a violent explosion from the summit crater rather than a directed blast. The event serves as a stark reminder that even small, relatively low-elevation volcanic islands can produce eruptions powerful enough to render them uninhabitable. The island was reportedly reoccupied by 1887, only to be abandoned and resettled repeatedly as volcanic activity waxed and waned."
+        },
+        {
+          "title": "The 1595 Eruption — First European Sighting",
+          "content": "On September 7, 1595, the Spanish navigator Álvaro de Mendaña de Neira sailed past Tinakula during his second expedition across the Pacific Ocean, en route to establishing a colony on Nendo (Santa Cruz Island) to the south. Mendaña's expedition described the volcano as lofty, with a well-shaped peak and a circumference of about three leagues (roughly 6.6 km), and observed it in an active state of eruption — making this one of the earliest European records of volcanic activity in the Pacific Ocean. The observation was rated VEI 3 by the Smithsonian. Mendaña's expedition would meet a tragic end on Nendo, where malaria, conflict with indigenous inhabitants, and mutiny decimated the colonists, but his description of Tinakula's eruption became a founding document in the volcanic record of the southwestern Pacific."
+        },
+        {
+          "title": "The 1965–1966 Eruption — Landslides and Evacuation",
+          "content": "Beginning on November 23, 1965, Tinakula erupted with lava flows and ash explosions from the upper northwestern flank, rated VEI 3. This eruption was significant because it triggered major landslides that enlarged the pre-existing breach scar on the northwestern side of the island, creating the embayment visible in modern satellite imagery. The eruption and an associated tsunami prompted the evacuation of the island's small Polynesian community — settlers from Nukapu and Nupani who had arrived in 1951 and grown to a peak population of approximately 160 people. The island has remained uninhabited since this evacuation, though islanders from the outer Reef Islands have occasionally returned to tend gardens on the sheltered southeastern flank."
+        },
+        {
+          "title": "The October 2017 Eruption — VEI 3 Explosion",
+          "content": "On October 21, 2017, Tinakula produced its largest eruption in decades, with a substantial explosive event sending an ash plume to approximately 10,700 m (35,000 ft) above sea level — detected by the Melanesian Volcano Network and the Himawari-8 weather satellite. The eruption generated a significant sulphur dioxide plume estimated at approximately 40 kilotonnes of SO₂, detected by multiple satellites extending northeast across the Reef Islands. The Solomon Islands National Disaster Management Office (NDMO) categorised the event as VEI 3 and issued aviation warnings. Ashfall reached the inhabited Reef Islands (60 km to the east-northeast) and briefly contaminated drinking water in several communities, including on Fenualoa Island (50 km northeast). Three people were reportedly rescued from the island where they had been tending pigs. A team of geologists from NDMO deployed seismic monitoring equipment to the island in early November, measuring high-frequency volcanic tremor. The eruption was short-lived, with the main explosive phase lasting from approximately October 21–26."
+        },
+        {
+          "title": "The 2018–2024 Eruption — Ongoing Activity",
+          "content": "Renewed thermal activity was detected at Tinakula in December 2018, marking the beginning of a prolonged eruptive episode that continued intermittently through 2024. Satellite-based monitoring — including MODVOLC thermal alerts, Sentinel-2 imagery, and SO₂ detection by TROPOMI — has recorded recurring hotspots at the summit vent and on the northwestern flank, consistent with episodic strombolian activity and lava effusion down the breached crater. Rated VEI 2 by the Smithsonian, this eruption represents Tinakula's characteristic baseline behaviour: persistent, low-level activity punctuated by periods of heightened explosivity. Since ground-based observations are rarely available for this remote, uninhabited island, satellite data remain the primary monitoring tool, supplemented by occasional reports from residents of the Reef Islands and Santa Cruz who observe and hear explosions from across the ocean."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tinakula is one of the most active yet least monitored volcanoes in the world. The volcano has been in a state of semi-continuous eruption since December 2018, with intermittent thermal anomalies, ash emissions, and lava effusion detected primarily through satellite-based instruments. There is no permanent ground-based monitoring network on the uninhabited island; instead, the volcano is tracked by the Wellington Volcanic Ash Advisory Centre (VAAC), which issues alerts for the aviation sector, and by the Solomon Islands National Disaster Management Office (NDMO). The MODVOLC thermal alert system, maintained by the Hawai'i Institute of Geophysics and Planetology, provides automated detection of thermal hotspots using MODIS satellite data. Residents of the Reef Islands (approximately 60 km to the east) and Nupani (40 km to the north) occasionally report hearing explosion sounds and seeing incandescence at night. The Solomon Islands Geohazards Division, part of the Ministry of Environment, Climate Change, Disaster Management and Meteorology, coordinates responses to significant eruptions, as it did during the October 2017 event when a geological team was deployed with portable seismic equipment. The ocean crossing between Santa Cruz and the Reef Islands is notoriously dangerous, with strong currents and high seas, making in-situ monitoring logistically challenging and expensive."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "While the immediate risk to human life from Tinakula is relatively low due to the island's uninhabited status, the volcano presents several hazards to surrounding communities and maritime and aviation traffic. The primary direct hazard is ashfall: during larger eruptions such as the 2017 VEI 3 event, ash plumes can reach altitudes exceeding 10 km, posing a risk to aircraft on busy South Pacific routes, and fine ash carried by trade winds can reach the Reef Islands, Nupani, Fenualoa, and even the provincial capital of Lata on Nendo, contaminating drinking water collected in rain catchments and damaging food crops. Historical accounts record volcanic bombs up to 5 cm in diameter of unknown age found in villages on the Reef Islands over 50 km away. The dominant southeast trade winds typically blow ash away from inhabited islands for most of the year, but eruptions occurring during westerly wind conditions could direct ashfall toward larger populations. A more catastrophic but lower-probability hazard is a major flank collapse of the steep volcanic edifice, which could generate a tsunami affecting the low-lying Reef Islands and other coastal communities in the Santa Cruz group. The 1965 landslides that enlarged the northwestern breach and the associated tsunami that prompted the island's evacuation demonstrate that this hazard is not merely theoretical. Pyroclastic flows from larger eruptions, as occurred in approximately 1840, could sweep the entire island, posing a deadly risk to anyone who might be present — including occasional visitors tending gardens on the southeastern flank."
+    },
+    "geography_and_physical_description": {
+      "content": "Tinakula is a near-perfect volcanic cone rising abruptly from the deep ocean floor of the southwestern Pacific. The island is roughly circular, approximately 3.5 km (2.2 mi) in diameter, with the summit reaching 796 m (2,612 ft) — though some historical sources cite elevations of 851 m (2,792 ft), with the discrepancy likely reflecting changes from eruption-related collapse and rebuilding. The total submarine height of the edifice from the sea floor is approximately 3–4 km, placing it among the larger oceanic stratovolcanoes of the region. The island's most dramatic feature is the enormous breach on its northwestern side, a horseshoe-shaped scar that extends from the summit to below sea level, created by sector collapse and enlarged by the 1965 landslides. Within this breach, an active cone continuously deposits fresh lava and volcanic debris, keeping the steep northwestern flank permanently bare and unvegetated — a stark contrast to the densely forested southern and eastern slopes, where coconut palms grow on cliff tops beyond the reach of sea spray. The island lacks any natural harbour or beach suitable for boat landings, making access extremely difficult; visitors and researchers must typically swim ashore through surf. The Mendana cone on the southeastern flank represents a secondary eruptive centre, named after the 16th-century Spanish explorer. The waters surrounding Tinakula are deep and subject to strong currents, and the 40–60 km open-ocean crossing from the nearest inhabited islands is considered one of the most dangerous small-boat passages in the Solomon Islands."
+    },
+    "climate_and_global_impact": {
+      "content": "Tinakula's eruptions, while regionally significant, have been too small to produce measurable global climate effects. The largest historical events, rated at VEI 3, inject sulphur dioxide into the mid-troposphere rather than the stratosphere, limiting their radiative impact. The October 2017 eruption produced an estimated 40 kilotonnes of SO₂, a substantial plume by regional standards but trivial compared to the 20 million tonnes injected by <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991. The primary environmental impact of Tinakula's eruptions is local: ashfall on neighbouring islands can damage vegetation, contaminate freshwater supplies (critical on small, rain-dependent coral islands), and temporarily reduce marine productivity in surrounding waters. The persistent degassing and small eruptions contribute to regional atmospheric SO₂ and CO₂ budgets, though these contributions are poorly quantified due to the lack of continuous ground-based monitoring."
+    },
+    "cultural_significance": {
+      "content": "Tinakula holds deep cultural importance for the Polynesian and Melanesian communities of the Santa Cruz Islands and the Reef Islands. The volcano is culturally considered part of the Reef Islands, despite being geographically closer to Nendo, and oral traditions from these communities preserve memories of eruptions, tsunamis, and periods of habitation stretching back centuries. The Polynesian settlers from Nukapu and Nupani who colonised the island in 1951 maintained gardens, raised livestock, and built a community that peaked at 160 people before the 1971 evacuation — a brief but culturally significant episode of human adaptation to life on an active volcano. Even today, islanders from the outer Reef Islands occasionally make the dangerous open-ocean crossing to tend coconut and taro gardens on the sheltered southeastern flank, maintaining a tenuous cultural connection to the island. The volcano also occupies a place in the history of European Pacific exploration: Mendaña's 1595 sighting is among the earliest European records of volcanic activity in the Pacific, and the island's dramatic eruptions have been described by a succession of navigators, scientists, and naturalists over more than four centuries, including the 1927 Whitney South Sea Expedition, which landed to collect bird specimens for the American Museum of Natural History while lava cascaded from the summit."
+    },
+    "visiting_and_tourism": {
+      "content": "Tinakula is one of the most remote and difficult-to-access active volcanoes in the world, and there is no tourism infrastructure of any kind. The island is uninhabited, lies 40–60 km from the nearest settlements across notoriously dangerous open ocean, and lacks any beach or harbour for safe boat landings. Occasional adventurous travellers and volcanologists have reached the island by motorised canoe from the Reef Islands or Lata (Nendo), but the crossing is extremely hazardous — single-engine boats must navigate powerful currents and high swells — and landing typically requires swimming through surf to reach the rocky shore. The active eruption zone on the northwestern side of the island is acutely dangerous, with falling lava bombs, unstable slopes of loose volcanic debris, and toxic gases. Any visit to Tinakula should be considered a serious expedition requiring maritime experience, local guides, and an understanding of the volcanic hazards involved. The Reef Islands themselves, the most practical base for observing Tinakula, are accessible by small aircraft from Honiara to Lata, followed by boat transfer, and offer genuine cultural immersion in one of the most isolated island communities in the Pacific."
+    },
+    "nearby_volcanoes": {
+      "content": "Tinakula sits at the northern terminus of the Santa Cruz Islands volcanic chain, which represents a northwestward continuation of the <a href=\"/ring-of-fire\">Vanuatu volcanic arc</a>. The nearest volcanic neighbours within the <a href=\"/volcanoes-in-solomon-islands\">Solomon Islands</a> include <a href=\"/volcano/kavachi\">Kavachi</a>, a highly active submarine volcano approximately 350 km to the west-northwest that is renowned for periodically building ephemeral islands above sea level (last eruption 2014); Savo, a stratovolcano that last erupted in 1847; and Simbo, a volcanic complex in the western Solomon Islands. To the southeast, the volcanoes of <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a> — including the perpetually active Yasur on Tanna and <a href=\"/volcano/ambrym\">Ambrym</a> — represent the continuation of the same subduction arc. Tinakula's closest volcanic analogue, both structurally and in terms of eruptive style, is <a href=\"/volcano/stromboli\">Stromboli</a> in Italy, which shares its characteristic breached crater morphology, persistent strombolian activity, and spectacular night-time incandescence visible from offshore."
+    },
+    "etymology": {
+      "content": "The name Tinakula derives from the local Polynesian language of the Santa Cruz and Reef Islands communities, though its precise linguistic meaning is not well documented in Western sources. The volcano has also been known by several other names: 'Tamami' in older historical records, and 'Volcano Island' in English-language charts and navigation references dating from the 18th and 19th centuries, when it was a well-known navigational landmark for ships transiting the southwestern Pacific. Captain Dillon of the HCS Research referred to it as 'Thinnacoraw, alias the Volcano Island of Carteret' when sailing past during an eruption in 1827."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Tinakula Compared to Other Persistently Active Volcanic Islands",
+      "description": "How does Tinakula compare to other volcanic islands known for near-continuous strombolian activity?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Inhabited?"
+      ],
+      "rows": [
+        [
+          "Tinakula",
+          "Solomon Islands",
+          "796 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "27",
+          "Uninhabited since 1971"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "100+",
+          "~500 residents"
+        ],
+        [
+          "Yasur",
+          "Vanuatu",
+          "361 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "50+",
+          "~10,000 on Tanna"
+        ],
+        [
+          "Dukono",
+          "Indonesia",
+          "1229 m",
+          "Complex",
+          "2025",
+          "3",
+          "30+",
+          "Nearby villages"
+        ],
+        [
+          "Barren Island",
+          "India",
+          "354 m",
+          "Stratovolcano",
+          "2021",
+          "2",
+          "10+",
+          "Uninhabited"
+        ]
+      ]
+    },
+    {
+      "title": "Tinakula Compared to Solomon Islands Volcanoes",
+      "description": "A comparison of all Holocene-active volcanoes in the Solomon Islands.",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Status"
+      ],
+      "rows": [
+        [
+          "Tinakula",
+          "796 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "Erupting"
+        ],
+        [
+          "Kavachi",
+          "-20 m",
+          "Submarine",
+          "2014",
+          "2",
+          "Active"
+        ],
+        [
+          "Savo",
+          "455 m",
+          "Stratovolcano",
+          "1847",
+          "3",
+          "Dormant"
+        ],
+        [
+          "Simbo",
+          "335 m",
+          "Stratovolcano(es)",
+          "1910",
+          "2",
+          "Dormant"
+        ],
+        [
+          "Kana Keoki",
+          "-700 m",
+          "Submarine",
+          "Unknown",
+          "—",
+          "Uncertain"
+        ],
+        [
+          "Coleman Seamount",
+          "-717 m",
+          "Submarine",
+          "Unknown",
+          "—",
+          "Uncertain"
+        ],
+        [
+          "New Georgia (8.9°S)",
+          "-240 m",
+          "Submarine",
+          "Unknown",
+          "—",
+          "Uncertain"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -1050,
+      "vei": null,
+      "label": "Prehistoric eruption (geological evidence)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1595,
+      "vei": 3,
+      "label": "First European observation by Mendaña",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1767,
+      "vei": 2,
+      "label": "Eruption observed by passing ships",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1797,
+      "vei": 1,
+      "label": "Minor eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1840,
+      "vei": 3,
+      "label": "Pyroclastic flows swept entire island — all inhabitants killed",
+      "deaths": "Unknown (all)",
+      "notable": true
+    },
+    {
+      "year": 1855,
+      "vei": 2,
+      "label": "Eruption observed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1857,
+      "vei": 2,
+      "label": "Eruption observed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1869,
+      "vei": 2,
+      "label": "Eruption observed — HMS Rosario notes lava flow to sea",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1871,
+      "vei": 2,
+      "label": "Lava flowing NW into sea; eruptions every 10–15 minutes",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1897,
+      "vei": 2,
+      "label": "Eruption observed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1909,
+      "vei": 2,
+      "label": "Eruption observed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1951,
+      "vei": 3,
+      "label": "Major eruption — same year Polynesians settled island",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1965,
+      "vei": 3,
+      "label": "Landslides enlarge NW breach; tsunami; island evacuated",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1971,
+      "vei": 2,
+      "label": "Eruption — lava flows on upper and lower NW flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1984,
+      "vei": 2,
+      "label": "Eruption 1984–1985",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2006,
+      "vei": 2,
+      "label": "Eruption confirmed by satellite thermal data and local reports",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2017,
+      "vei": 3,
+      "label": "Major explosion — ash to 10,700 m; 40 kt SO₂; ashfall on Reef Islands",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2018,
+      "vei": 2,
+      "label": "Renewed eruption — ongoing intermittent activity through 2024",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 1,
+      "note": "One eruption ~1050 BCE identified geologically"
+    },
+    {
+      "century": "16th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 7
+    },
+    {
+      "century": "20th",
+      "count": 10
+    },
+    {
+      "century": "21st",
+      "count": 6,
+      "note": "Including ongoing 2018–2024 episode"
+    }
+  ],
+  "facts": [
+    "Tinakula has been observed in eruption for over 430 years, since the Spanish explorer Álvaro de Mendaña first recorded its activity on September 7, 1595.",
+    "An eruption around 1840 generated pyroclastic flows that swept all sides of the 3.5 km wide island, killing every inhabitant — one of the few documented cases of a volcanic eruption eradicating an entire island population.",
+    "Tinakula's breached summit crater extends from the 796 m summit all the way to below sea level, creating a natural chute down which lava flows cascade directly into the ocean.",
+    "The island has been uninhabited since 1971, when eruptions and a tsunami forced the evacuation of approximately 160 Polynesian settlers from Nukapu and Nupani.",
+    "The volcano has been in a state of semi-continuous eruption since December 2018, yet has no permanent ground-based monitoring equipment — relying entirely on satellites and reports from islanders 40–60 km away.",
+    "In 1871, the crew of HMS Rosario observed lava flowing down Tinakula's northwest flank into the sea, with flames and smoke erupting every 10 to 15 minutes.",
+    "The 2017 eruption ejected an estimated 40 kilotonnes of sulphur dioxide and sent an ash plume to 10,700 m (35,000 ft), contaminating drinking water on the Reef Islands 60 km away.",
+    "Volcanic bombs up to 5 cm in diameter of unknown age have been found in villages on the Reef Islands, over 50 km from Tinakula, having fallen from the sky during past eruptions.",
+    "The 1927 Whitney South Sea Expedition landed on the erupting island to collect bird specimens for the American Museum of Natural History while lava cascaded from the summit above them.",
+    "Tinakula is often called the 'Stromboli of the South Pacific' due to its similar morphology, persistent activity, and characteristic incandescent night-time displays visible from far offshore.",
+    "Landing on Tinakula typically requires swimming through surf to reach the rocky shore, as the island lacks any beach or harbour suitable for boats.",
+    "The total height of Tinakula's volcanic edifice from the sea floor to the summit is approximately 3–4 km, making the submerged portion roughly four times the height of the visible island."
+  ],
+  "faqs": [
+    {
+      "question": "Is Tinakula volcano still active?",
+      "answer": "Yes, Tinakula is one of the most persistently active volcanoes in the world. It has been in a state of semi-continuous eruption since December 2018, with intermittent strombolian explosions, lava effusion, and ash emissions detected by satellite monitoring. The Smithsonian Global Volcanism Program records 27 confirmed eruptions since the first European observation in 1595, and the volcano has been active for at least 35 of the past 430 years. Its characteristic activity involves the ejection of incandescent lava bombs from the summit cone, with debris rolling down the breached northwestern crater into the sea."
+    },
+    {
+      "question": "Is anyone living on Tinakula?",
+      "answer": "No, Tinakula has been uninhabited since 1971 when eruptions and a tsunami forced the evacuation of approximately 160 Polynesian settlers. The island was previously depopulated around 1840 when pyroclastic flows killed all inhabitants, then resettled in 1951 by families from the nearby islands of Nukapu and Nupani. Since the 1971 evacuation, no permanent settlement has existed, though islanders from the outer Reef Islands occasionally make the dangerous open-ocean crossing to tend coconut and taro gardens on the sheltered southeastern flank of the volcano."
+    },
+    {
+      "question": "Where is Tinakula located?",
+      "answer": "Tinakula is located at 10.386°S, 165.804°E, at the northwestern end of the Santa Cruz Islands in Temotu Province, the easternmost province of the Solomon Islands in the southwestern Pacific Ocean. It lies approximately 100 km northeast of the Solomon Trench, about 30 km north of Te Motu (Trevanion) Island, 40 km south of Nupani, and 60 km west of the Reef Islands. The nearest town is Lata on Nendo (Santa Cruz Island), approximately 25 km to the south. The Solomon Islands capital, Honiara, is roughly 400 km to the west."
+    },
+    {
+      "question": "How tall is Tinakula?",
+      "answer": "Tinakula rises 796 m (2,612 ft) above sea level, though some historical sources cite 851 m (2,792 ft), with the discrepancy likely due to summit changes from eruptions and collapses. The visible island is only the top portion of a much larger volcanic structure that rises an additional 2–3 km from the ocean floor, making the total edifice approximately 3–4 km tall — comparable to many major continental stratovolcanoes. The island itself is approximately 3.5 km (2.2 miles) wide at sea level."
+    },
+    {
+      "question": "What type of volcano is Tinakula?",
+      "answer": "Tinakula is classified as a stratovolcano (composite volcano), built from alternating layers of andesitic to basaltic andesitic lava flows and pyroclastic deposits. Its most distinctive feature is a massive breached summit crater that opens to the northwest and extends from the summit to below sea level, created by sector collapse and enlarged by landslides in 1965. This horseshoe-shaped breach gives Tinakula a strong resemblance to Stromboli in Italy, and like Stromboli, it exhibits persistent strombolian activity with frequent small explosions and lava effusion."
+    },
+    {
+      "question": "Why is Tinakula compared to Stromboli?",
+      "answer": "Tinakula is often called the 'Stromboli of the South Pacific' because both volcanoes share several key characteristics: a horseshoe-shaped breach in the summit crater that channels lava and volcanic debris toward the sea, persistent strombolian activity with frequent small explosions visible from offshore, near-continuous eruption over historical timescales, similar elevations (Tinakula 796 m, Stromboli 924 m), and spectacular night-time incandescence. Both are oceanic island stratovolcanoes formed by subduction zone processes, though they lie in opposite hemispheres and on different plate boundaries."
+    },
+    {
+      "question": "Can you visit Tinakula?",
+      "answer": "Visiting Tinakula is extremely difficult and dangerous. The uninhabited island has no harbour, beach, or landing infrastructure, and reaching it requires a hazardous 40–60 km open-ocean crossing by small boat from the Reef Islands or Lata on Nendo. Landings typically require swimming through surf to rocky shores. The active eruption zone on the northwestern side is acutely dangerous, with falling lava bombs, toxic gases, and unstable slopes. Any visit should be treated as a serious expedition requiring experienced local boatmen, maritime safety equipment, and full awareness of volcanic hazards. There is no tourism infrastructure in the area."
+    },
+    {
+      "question": "What happened during the 1840 eruption of Tinakula?",
+      "answer": "Around 1840, Tinakula produced an explosive eruption that generated pyroclastic density currents — fast-moving avalanches of superheated gas and rock — that swept all sides of the 3.5 km wide island, killing the entire population. The eruption was rated VEI 3 and is one of the few documented cases in history of a volcanic eruption eradicating an entire island community. Exact casualty figures are unknown, as no detailed records from the indigenous population survive. The island was found uninhabited by later visitors, and was reportedly resettled by 1887 before being depopulated again by volcanic activity."
+    }
+  ],
+  "people_also_search": [
+    "tinakula volcano eruption",
+    "tinakula solomon islands",
+    "is tinakula inhabited",
+    "tinakula volcano facts",
+    "most active volcanoes solomon islands",
+    "uninhabited volcanic islands",
+    "stromboli of the pacific",
+    "santa cruz islands volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Tinakula",
+    "alternateName": [
+      "Tamami",
+      "Volcano Island",
+      "Thinnacoraw"
+    ],
+    "description": "Active stratovolcano forming an uninhabited island in the Solomon Islands, known for persistent strombolian activity since 1595 and its Stromboli-like breached crater",
+    "geo": {
+      "latitude": -10.386,
+      "longitude": 165.804,
+      "elevation": 796
+    },
+    "containedInPlace": {
+      "name": "Temotu Province, Santa Cruz Islands",
+      "country": "Solomon Islands"
+    },
+    "url": "https://volcanoatlas.com/volcano/tinakula"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=256010",
+      "text": "Smithsonian GVP: Tinakula",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479/si.GVP.BGVN201802-256010",
+      "text": "Smithsonian GVP: Tinakula Bulletin Report (Feb 2018)",
+      "type": "research"
+    },
+    {
+      "url": "https://www.volcanodiscovery.com/tinakula.html",
+      "text": "VolcanoDiscovery: Tinakula",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://reliefweb.int/report/solomon-islands/tinakula-volcano-eruption-update-23-oct-2017",
+      "text": "ReliefWeb: Tinakula Eruption Update Oct 2017",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "stromboli",
+      "kavachi",
+      "savo",
+      "yasur",
+      "ambrym",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "solomon-islands",
+      "vanuatu"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "stromboli",
+    "kavachi",
+    "savo",
+    "yasur",
+    "ambrym"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Solomon Islands",
+      "url": "/volcanoes-in-solomon-islands"
+    },
+    {
+      "label": "Tinakula",
+      "url": "/volcano/tinakula"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tinakula"
+}

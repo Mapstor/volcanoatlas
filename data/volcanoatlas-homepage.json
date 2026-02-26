@@ -1,0 +1,1506 @@
+{
+  "total_volcanoes_covered": 150,
+  "total_countries": 46,
+  "map_markers": [
+    {
+      "title": "Ambrym",
+      "slug": "/volcano/ambrym",
+      "lat": -16.25,
+      "lon": 168.12,
+      "type": "Shield volcano (pyroclastic)",
+      "elevation": "1,334 m (4,377 ft)",
+      "country": "Vanuatu",
+      "last_eruption": "2024"
+    },
+    {
+      "title": "Avachinsky",
+      "slug": "/volcano/avachinsky",
+      "lat": 53.256,
+      "lon": 158.836,
+      "type": "Stratovolcano (composite)",
+      "elevation": "2,717 m (8,914 ft)",
+      "country": "Russia",
+      "last_eruption": "2001"
+    },
+    {
+      "title": "Volcán de Colima",
+      "slug": "/volcano/colima",
+      "lat": 19.514,
+      "lon": -103.62,
+      "type": "Stratovolcano (Composite)",
+      "elevation": "3,850 m (12,631 ft)",
+      "country": "Mexico",
+      "last_eruption": "May 2019"
+    },
+    {
+      "title": "Erta Ale",
+      "slug": "/volcano/erta-ale",
+      "lat": 13.601,
+      "lon": 40.666,
+      "type": "Shield volcano",
+      "elevation": "585 m (1,919 ft) above sea level; edifice rises ~600 m above Danakil Depression floor (below sea level)",
+      "country": "Ethiopia",
+      "last_eruption": "1967–present (continuous/semi-continuous)"
+    },
+    {
+      "title": "Fonualei",
+      "slug": "/volcano/fonualei",
+      "lat": -18.023,
+      "lon": -174.317,
+      "type": "Stratovolcano",
+      "elevation": "188 m (617 ft)",
+      "country": "Tonga",
+      "last_eruption": "June 16, 1957"
+    },
+    {
+      "title": "Volcán de Fuego",
+      "slug": "/volcano/fuego",
+      "lat": 14.4748,
+      "lon": -90.8806,
+      "type": "Stratovolcano (Composite)",
+      "elevation": "3,799 m (12,464 ft)",
+      "country": "Guatemala",
+      "last_eruption": "2025 (near-continuous since January 2002)"
+    },
+    {
+      "title": "Gamalama",
+      "slug": "/volcano/gamalama",
+      "lat": 0.81,
+      "lon": 127.3322,
+      "type": "Stratovolcano(es)",
+      "elevation": "1,714 m (5,623 ft)",
+      "country": "Indonesia",
+      "last_eruption": "October 2018"
+    },
+    {
+      "title": "Hekla Volcano",
+      "slug": "/volcano/hekla",
+      "lat": 63.983,
+      "lon": -19.666,
+      "type": "Stratovolcano",
+      "elevation": "1,491 m (4,892 ft)",
+      "country": "Iceland",
+      "last_eruption": "February 26 – March 8, 2000"
+    },
+    {
+      "title": "Jan Mayen (Beerenberg)",
+      "slug": "/volcano/jan-mayen",
+      "lat": 71.082,
+      "lon": -8.155,
+      "type": "Stratovolcano (composite volcano built on older shield volcano)",
+      "elevation": "2,277 m (7,470 ft)",
+      "country": "Norway",
+      "last_eruption": "January 6–9, 1985"
+    },
+    {
+      "title": "Karymsky",
+      "slug": "/volcano/karymsky",
+      "lat": 54.049,
+      "lon": 159.443,
+      "type": "Stratovolcano (composite)",
+      "elevation": "1,513 m (4,964 ft)",
+      "country": "Russia",
+      "last_eruption": "2025 (ongoing intermittent activity since 1996)"
+    },
+    {
+      "title": "Katla Volcano",
+      "slug": "/volcano/katla",
+      "lat": 63.633,
+      "lon": -19.083,
+      "type": "Subglacial volcano with fissure vents",
+      "elevation": "1,490 m (4,888 ft)",
+      "country": "Iceland",
+      "last_eruption": "October 12, 1918"
+    },
+    {
+      "title": "Klyuchevskoy",
+      "slug": "/volcano/klyuchevskoy",
+      "lat": 56.056,
+      "lon": 160.642,
+      "type": "Stratovolcano (composite volcano)",
+      "elevation": "4,754 m (15,597 ft) — varies slightly with eruption activity",
+      "country": "Russia",
+      "last_eruption": "April 2025"
+    },
+    {
+      "title": "Marapi",
+      "slug": "/volcano/marapi",
+      "lat": -0.38,
+      "lon": 100.474,
+      "type": "Complex stratovolcano",
+      "elevation": "2,885 m (9,465 ft)",
+      "country": "Indonesia",
+      "last_eruption": "2025 (ongoing)"
+    },
+    {
+      "title": "Mayon Volcano",
+      "slug": "/volcano/mayon",
+      "lat": 13.257,
+      "lon": 123.685,
+      "type": "Stratovolcano (composite)",
+      "elevation": "2,462 m (8,077 ft)",
+      "country": "Philippines",
+      "last_eruption": "2024–2025"
+    },
+    {
+      "title": "Nevado del Ruiz",
+      "slug": "/volcano/ruiz-nevado-del",
+      "lat": 4.892,
+      "lon": -75.324,
+      "type": "Stratovolcano",
+      "elevation": "5,279 m (17,319 ft)",
+      "country": "Colombia",
+      "last_eruption": "2014–present (ongoing unrest and ash emissions)"
+    },
+    {
+      "title": "Ol Doinyo Lengai",
+      "slug": "/volcano/lengai-ol-doinyo",
+      "lat": -2.764,
+      "lon": 35.914,
+      "type": "Stratovolcano",
+      "elevation": "2,962 m (9,718 ft)",
+      "country": "Tanzania",
+      "last_eruption": "2017–present (ongoing)"
+    },
+    {
+      "title": "Piton de la Fournaise",
+      "slug": "/volcano/piton-de-la-fournaise",
+      "lat": -21.244,
+      "lon": 55.708,
+      "type": "Shield volcano",
+      "elevation": "2,632 m (8,635 ft)",
+      "country": "France (overseas department)",
+      "last_eruption": "July 2, 2023"
+    },
+    {
+      "title": "Mount Ruapehu",
+      "slug": "/volcano/ruapehu",
+      "lat": -39.28,
+      "lon": 175.57,
+      "type": "Stratovolcano (Complex, composite)",
+      "elevation": "2,797 m (9,177 ft)",
+      "country": "New Zealand",
+      "last_eruption": "September 25, 2007"
+    },
+    {
+      "title": "San Miguel (Chaparrastique)",
+      "slug": "/volcano/san-miguel",
+      "lat": 13.434,
+      "lon": -88.269,
+      "type": "Stratovolcano",
+      "elevation": "2,130 m (6,988 ft)",
+      "country": "El Salvador",
+      "last_eruption": "November 2022 – 2023"
+    },
+    {
+      "title": "Soufrière St. Vincent",
+      "slug": "/volcano/soufriere-st-vincent",
+      "lat": 13.33,
+      "lon": -61.18,
+      "type": "Stratovolcano",
+      "elevation": "1,220 m (4,003 ft)",
+      "country": "Saint Vincent and the Grenadines",
+      "last_eruption": "April 9–22, 2021 (explosive phase); effusive activity from December 27, 2020"
+    },
+    {
+      "title": "Taal Volcano",
+      "slug": "/volcano/taal",
+      "lat": 14.0106,
+      "lon": 120.9975,
+      "type": "Caldera",
+      "elevation": "311 m (1,020 ft)",
+      "country": "Philippines",
+      "last_eruption": "April 2024–2025"
+    },
+    {
+      "title": "Taranaki (Mount Egmont)",
+      "slug": "/volcano/taranaki",
+      "lat": -39.3,
+      "lon": 174.07,
+      "type": "Stratovolcano",
+      "elevation": "2,518 m (8,261 ft)",
+      "country": "New Zealand",
+      "last_eruption": "~1800 CE"
+    },
+    {
+      "title": "Telica",
+      "slug": "/volcano/telica",
+      "lat": 12.606,
+      "lon": -86.84,
+      "type": "Stratovolcano complex (multiple interlocking cones)",
+      "elevation": "1,036 m (3,399 ft)",
+      "country": "Nicaragua",
+      "last_eruption": "2025 (ongoing intermittent activity)"
+    },
+    {
+      "title": "Tinakula",
+      "slug": "/volcano/tinakula",
+      "lat": -10.386,
+      "lon": 165.804,
+      "type": "Stratovolcano",
+      "elevation": "796 m (2,612 ft)",
+      "country": "Solomon Islands",
+      "last_eruption": "December 2018 – 2024 (ongoing intermittent activity)"
+    },
+    {
+      "title": "Tolbachik",
+      "slug": "/volcano/tolbachik",
+      "lat": 55.832,
+      "lon": 160.326,
+      "type": "Shield volcano with nested calderas (Plosky) + Stratovolcano (Ostry)",
+      "elevation": "3,611 m (11,847 ft) — Ostry Tolbachik summit; Plosky Tolbachik at ~3,085 m",
+      "country": "Russia",
+      "last_eruption": "2012–2013 (Tolbachinsky Dol fissure eruption)"
+    },
+    {
+      "title": "Ulawun",
+      "slug": "/volcano/ulawun",
+      "lat": -5.05,
+      "lon": 151.33,
+      "type": "Stratovolcano",
+      "elevation": "2,334 m (7,657 ft)",
+      "country": "Papua New Guinea",
+      "last_eruption": "2025"
+    },
+    {
+      "title": "Villarrica",
+      "slug": "/volcano/villarrica",
+      "lat": -39.42,
+      "lon": -71.93,
+      "type": "Stratovolcano (composite volcano)",
+      "elevation": "2,847 m (9,341 ft)",
+      "country": "Chile",
+      "last_eruption": "2014–2025 (ongoing)"
+    },
+    {
+      "title": "Agua de Pau",
+      "slug": "/volcano/agua-de-pau",
+      "lat": 37.77,
+      "lon": -25.47,
+      "type": "Stratovolcano (with double caldera)",
+      "elevation": "947 m (3,107 ft)",
+      "country": "Portugal",
+      "last_eruption": "1563–1564"
+    },
+    {
+      "title": "Sakurajima (Aira Caldera)",
+      "slug": "/volcano/aira",
+      "lat": 31.5772,
+      "lon": 130.6589,
+      "type": "Caldera with post-caldera stratovolcano(es)",
+      "elevation": "1,117 m (3,665 ft) — Kitadake (north peak)",
+      "country": "Japan",
+      "last_eruption": "2025 (ongoing since 2017 at Minamidake)"
+    },
+    {
+      "title": "Akutan Volcano",
+      "slug": "/volcano/akutan",
+      "lat": 54.134,
+      "lon": -165.986,
+      "type": "Stratovolcano",
+      "elevation": "1,303 m (4,275 ft)",
+      "country": "United States",
+      "last_eruption": "1992"
+    },
+    {
+      "title": "Ambae",
+      "slug": "/volcano/ambae",
+      "lat": -15.389,
+      "lon": 167.835,
+      "type": "Shield volcano",
+      "elevation": "1,496 m (4,908 ft)",
+      "country": "Vanuatu",
+      "last_eruption": "2025"
+    },
+    {
+      "title": "Arenal Volcano",
+      "slug": "/volcano/arenal",
+      "lat": 10.463,
+      "lon": -84.703,
+      "type": "Stratovolcano",
+      "elevation": "1,670 m (5,479 ft)",
+      "country": "Costa Rica",
+      "last_eruption": "December 2010"
+    },
+    {
+      "title": "Asamayama (Mount Asama)",
+      "slug": "/volcano/asamayama",
+      "lat": 36.406,
+      "lon": 138.523,
+      "type": "Complex volcano (composite landform)",
+      "elevation": "2,568 m (8,425 ft)",
+      "country": "Japan",
+      "last_eruption": "August 7, 2019"
+    },
+    {
+      "title": "Mount Aso (Asosan)",
+      "slug": "/volcano/asosan",
+      "lat": 32.8849,
+      "lon": 131.085,
+      "type": "Caldera with post-caldera stratovolcanoes",
+      "elevation": "1,592 m (5,223 ft) — Takadake, highest central cone",
+      "country": "Japan",
+      "last_eruption": "October 14–20, 2021 (Nakadake crater)"
+    },
+    {
+      "title": "Cerro Azul (Quizapu)",
+      "slug": "/volcano/azul-cerro",
+      "lat": -35.653,
+      "lon": -70.761,
+      "type": "Stratovolcano",
+      "elevation": "3,788 m (12,428 ft)",
+      "country": "Chile",
+      "last_eruption": "August 1967"
+    },
+    {
+      "title": "Bagana",
+      "slug": "/volcano/bagana",
+      "lat": -6.137,
+      "lon": 155.196,
+      "type": "Lava cone (Composite volcano)",
+      "elevation": "1,855 m (6,086 ft)",
+      "country": "Papua New Guinea",
+      "last_eruption": "2025 (ongoing)"
+    },
+    {
+      "title": "Bárðarbunga",
+      "slug": "/volcano/bardarbunga",
+      "lat": 64.633,
+      "lon": -17.516,
+      "type": "Stratovolcano with subglacial caldera and extensive fissure systems",
+      "elevation": "2,000 m (6,562 ft) — second highest point in Iceland (beneath ice)",
+      "country": "Iceland",
+      "last_eruption": "2014–2015 (Holuhraun fissure eruption)"
+    },
+    {
+      "title": "Barren Island",
+      "slug": "/volcano/barren-island",
+      "lat": 12.278,
+      "lon": 93.858,
+      "type": "Stratovolcano with caldera",
+      "elevation": "354 m (1,161 ft)",
+      "country": "India",
+      "last_eruption": "July 2025"
+    },
+    {
+      "title": "Bezymianny",
+      "slug": "/volcano/bezymianny",
+      "lat": 55.972,
+      "lon": 160.595,
+      "type": "Stratovolcano",
+      "elevation": "2,882 m (9,455 ft) — reduced from ~3,100 m before 1956 collapse",
+      "country": "Russia",
+      "last_eruption": "December 24, 2024 – 2025 (ongoing)"
+    },
+    {
+      "title": "Cerro Blanco",
+      "slug": "/volcano/blanco-cerro",
+      "lat": -26.7657,
+      "lon": -67.746,
+      "type": "Caldera",
+      "elevation": "4,670 m (15,322 ft)",
+      "country": "Argentina",
+      "last_eruption": "~2300 BCE (VEI 7)"
+    },
+    {
+      "title": "Bulusan",
+      "slug": "/volcano/bulusan",
+      "lat": 12.769,
+      "lon": 124.056,
+      "type": "Stratovolcano complex",
+      "elevation": "1,535 m (5,036 ft)",
+      "country": "Philippines",
+      "last_eruption": "April 2025"
+    },
+    {
+      "title": "Calbuco",
+      "slug": "/volcano/calbuco",
+      "lat": -41.33,
+      "lon": -72.618,
+      "type": "Stratovolcano",
+      "elevation": "1,974 m (6,476 ft)",
+      "country": "Chile",
+      "last_eruption": "April 22-30, 2015"
+    },
+    {
+      "title": "Campi Flegrei",
+      "slug": "/volcano/campi-flegrei",
+      "lat": 40.827,
+      "lon": 14.139,
+      "type": "Caldera (supervolcano)",
+      "elevation": "458 m (1,503 ft) at Monte Nuovo — highest point of recent activity",
+      "country": "Italy",
+      "last_eruption": "September 29 – October 6, 1538 (Monte Nuovo)"
+    },
+    {
+      "title": "Chaitén",
+      "slug": "/volcano/chaiten",
+      "lat": -42.8349,
+      "lon": -72.6514,
+      "type": "Caldera",
+      "elevation": "1,122 m (3,681 ft)",
+      "country": "Chile",
+      "last_eruption": "2008–2011"
+    },
+    {
+      "title": "Changbaishan",
+      "slug": "/volcano/changbaishan",
+      "lat": 41.98,
+      "lon": 128.08,
+      "type": "Stratovolcano with summit caldera",
+      "elevation": "2,744 m (9,003 ft)",
+      "country": "China / North Korea (border volcano)",
+      "last_eruption": "April 15, 1903 (minor)"
+    },
+    {
+      "title": "Chikurachki",
+      "slug": "/volcano/chikurachki",
+      "lat": 50.324,
+      "lon": 155.461,
+      "type": "Stratovolcano",
+      "elevation": "1,781 m (5,843 ft)",
+      "country": "Russia",
+      "last_eruption": "January 2023"
+    },
+    {
+      "title": "Nevados de Chillán",
+      "slug": "/volcano/chillan-nevados-de",
+      "lat": -36.868,
+      "lon": -71.378,
+      "type": "Compound stratovolcano with multiple cones and domes",
+      "elevation": "3,180 m (10,433 ft)",
+      "country": "Chile",
+      "last_eruption": "2016–2022 (Nicanor crater)"
+    },
+    {
+      "title": "Concepción",
+      "slug": "/volcano/concepcion",
+      "lat": 11.538,
+      "lon": -85.622,
+      "type": "Stratovolcano",
+      "elevation": "1,700 m (5,577 ft)",
+      "country": "Nicaragua",
+      "last_eruption": "May 2024"
+    },
+    {
+      "title": "Copahue Volcano",
+      "slug": "/volcano/copahue",
+      "lat": -37.856,
+      "lon": -71.183,
+      "type": "Stratovolcano",
+      "elevation": "2,953 m (9,688 ft)",
+      "country": "Chile-Argentina",
+      "last_eruption": "October 2024"
+    },
+    {
+      "title": "Cotopaxi",
+      "slug": "/volcano/cotopaxi",
+      "lat": -0.677,
+      "lon": -78.436,
+      "type": "Stratovolcano (composite volcano)",
+      "elevation": "5,911 m (19,393 ft)",
+      "country": "Ecuador",
+      "last_eruption": "October 2022 – January 2023"
+    },
+    {
+      "title": "Crater Lake (Mount Mazama)",
+      "slug": "/volcano/crater-lake",
+      "lat": 42.942,
+      "lon": -122.107,
+      "type": "Caldera",
+      "elevation": "2,487 m (8,159 ft) — caldera rim high point",
+      "country": "United States",
+      "last_eruption": "~2850 BCE (subaqueous rhyodacitic lava dome)"
+    },
+    {
+      "title": "Deception Island",
+      "slug": "/volcano/deception-island",
+      "lat": -62.9567,
+      "lon": -60.6367,
+      "type": "Caldera",
+      "elevation": "602 m (1,975 ft)",
+      "country": "Antarctica (claimed by Argentina, Chile, and the United Kingdom)",
+      "last_eruption": "August 12, 1970"
+    },
+    {
+      "title": "East Epi",
+      "slug": "/volcano/east-epi",
+      "lat": -16.6797,
+      "lon": 168.3893,
+      "type": "Stratovolcano(es) — submarine cone cluster",
+      "elevation": "833 m (2,733 ft) Epi Island; submarine cones summit at ~34 m below sea level",
+      "country": "Vanuatu",
+      "last_eruption": "January 2023"
+    },
+    {
+      "title": "El Chichón",
+      "slug": "/volcano/chichon-el",
+      "lat": 17.3602,
+      "lon": -93.2297,
+      "type": "Lava dome complex / tuff cone",
+      "elevation": "1,150 m (3,773 ft)",
+      "country": "Mexico",
+      "last_eruption": "March 28 – April 4, 1982"
+    },
+    {
+      "title": "Mount Erebus",
+      "slug": "/volcano/erebus",
+      "lat": -77.53,
+      "lon": 167.17,
+      "type": "Stratovolcano (composite)",
+      "elevation": "3,794 m (12,448 ft)",
+      "country": "Antarctica",
+      "last_eruption": "2025 CE (ongoing)"
+    },
+    {
+      "title": "Mount Etna",
+      "slug": "/volcano/etna",
+      "lat": 37.748,
+      "lon": 14.999,
+      "type": "Stratovolcano(es) / Complex",
+      "elevation": "3,357 m (11,014 ft) — variable due to ongoing eruptions",
+      "country": "Italy",
+      "last_eruption": "2022–present (ongoing)"
+    },
+    {
+      "title": "Eyjafjallajökull",
+      "slug": "/volcano/eyjafjallajokull",
+      "lat": 63.633,
+      "lon": -19.633,
+      "type": "Stratovolcano (ice-capped)",
+      "elevation": "1,651 m (5,417 ft)",
+      "country": "Iceland",
+      "last_eruption": "March 20 – October 2010"
+    },
+    {
+      "title": "Fernandina",
+      "slug": "/volcano/fernandina",
+      "lat": -0.37,
+      "lon": -91.55,
+      "type": "Shield volcano",
+      "elevation": "1,476 m (4,843 ft)",
+      "country": "Ecuador",
+      "last_eruption": "March 2024"
+    },
+    {
+      "title": "Mount Fuji (Fujisan)",
+      "slug": "/volcano/fujisan",
+      "lat": 35.361,
+      "lon": 138.728,
+      "type": "Stratovolcano (Composite volcano)",
+      "elevation": "3,776 m (12,389 ft)",
+      "country": "Japan",
+      "last_eruption": "December 16, 1707 – January 1, 1708 (Hōei eruption)"
+    },
+    {
+      "title": "Furnas",
+      "slug": "/volcano/furnas",
+      "lat": 37.77,
+      "lon": -25.32,
+      "type": "Stratovolcano (with nested calderas)",
+      "elevation": "805 m (2,641 ft)",
+      "country": "Portugal",
+      "last_eruption": "1630 (VEI 5)"
+    },
+    {
+      "title": "Galeras",
+      "slug": "/volcano/galeras",
+      "lat": 1.22,
+      "lon": -77.37,
+      "type": "Complex volcano (stratovolcano with breached caldera)",
+      "elevation": "4,276 m (14,029 ft)",
+      "country": "Colombia",
+      "last_eruption": "2012–2014"
+    },
+    {
+      "title": "Gaua",
+      "slug": "/volcano/gaua",
+      "lat": -14.281,
+      "lon": 167.514,
+      "type": "Stratovolcano with summit caldera",
+      "elevation": "729 m (2,392 ft)",
+      "country": "Vanuatu",
+      "last_eruption": "May 2022"
+    },
+    {
+      "title": "Gorely Volcano",
+      "slug": "/volcano/gorely",
+      "lat": 52.5549,
+      "lon": 158.0358,
+      "type": "Caldera with compound stratovolcano complex",
+      "elevation": "1,799 m (5,902 ft)",
+      "country": "Russia",
+      "last_eruption": "2010"
+    },
+    {
+      "title": "Grímsvötn",
+      "slug": "/volcano/grimsvotn",
+      "lat": 64.416,
+      "lon": -17.316,
+      "type": "Caldera",
+      "elevation": "1,719 m (5,640 ft)",
+      "country": "Iceland",
+      "last_eruption": "May 21–28, 2011 (VEI 4)"
+    },
+    {
+      "title": "Guagua Pichincha",
+      "slug": "/volcano/guagua-pichincha",
+      "lat": -0.171,
+      "lon": -78.598,
+      "type": "Stratovolcano (composite)",
+      "elevation": "4,784 m (15,696 ft)",
+      "country": "Ecuador",
+      "last_eruption": "2002"
+    },
+    {
+      "title": "Heard",
+      "slug": "/volcano/heard",
+      "lat": -53.106,
+      "lon": 73.513,
+      "type": "Stratovolcano (basaltic-to-trachytic)",
+      "elevation": "2,745 m (9,006 ft) — possibly higher due to recent volcanic growth",
+      "country": "Australia (Heard Island and McDonald Islands territory)",
+      "last_eruption": "2025 (ongoing)"
+    },
+    {
+      "title": "Home Reef",
+      "slug": "/volcano/home-reef",
+      "lat": -18.992,
+      "lon": -174.775,
+      "type": "Submarine Stratovolcano",
+      "elevation": "-10 m (-33 ft) below sea level (summit depth variable — emerges during eruptions)",
+      "country": "Tonga",
+      "last_eruption": "2025"
+    },
+    {
+      "title": "Cerro Hudson",
+      "slug": "/volcano/hudson-cerro",
+      "lat": -45.9,
+      "lon": -72.97,
+      "type": "Stratovolcano with caldera",
+      "elevation": "1,905 m (6,250 ft)",
+      "country": "Chile",
+      "last_eruption": "October 26, 2011"
+    },
+    {
+      "title": "Hunga Tonga-Hunga Ha'apai",
+      "slug": "/volcano/hunga-tonga-hunga-ha-apai",
+      "lat": -20.5532,
+      "lon": -175.3841,
+      "type": "Caldera",
+      "elevation": "114 m (374 ft) pre-eruption; mostly submarine post-2022",
+      "country": "Tonga",
+      "last_eruption": "January 15, 2022"
+    },
+    {
+      "title": "Irazú",
+      "slug": "/volcano/irazu",
+      "lat": 9.979,
+      "lon": -83.852,
+      "type": "Stratovolcano",
+      "elevation": "3,436 m (11,273 ft)",
+      "country": "Costa Rica",
+      "last_eruption": "1977 (possible phreatic 1994)"
+    },
+    {
+      "title": "Izalco",
+      "slug": "/volcano/izalco",
+      "lat": 13.813,
+      "lon": -89.633,
+      "type": "Stratovolcano",
+      "elevation": "1,950 m (6,398 ft)",
+      "country": "El Salvador",
+      "last_eruption": "October 28, 1966"
+    },
+    {
+      "title": "Izu-Oshima",
+      "slug": "/volcano/izu-oshima",
+      "lat": 34.724,
+      "lon": 139.394,
+      "type": "Stratovolcano",
+      "elevation": "746 m (2,448 ft)",
+      "country": "Japan",
+      "last_eruption": "October 4, 1990"
+    },
+    {
+      "title": "Kanlaon",
+      "slug": "/volcano/kanlaon",
+      "lat": 10.4096,
+      "lon": 123.13,
+      "type": "Stratovolcano",
+      "elevation": "2,422 m (7,946 ft)",
+      "country": "Philippines",
+      "last_eruption": "2024–2025 (ongoing)"
+    },
+    {
+      "title": "Karangetang (Api Siau)",
+      "slug": "/volcano/karangetang",
+      "lat": 2.781,
+      "lon": 125.407,
+      "type": "Stratovolcano",
+      "elevation": "1,797 m (5,896 ft)",
+      "country": "Indonesia",
+      "last_eruption": "2023"
+    },
+    {
+      "title": "Karthala",
+      "slug": "/volcano/karthala",
+      "lat": -11.7658,
+      "lon": 43.3639,
+      "type": "Shield volcano",
+      "elevation": "2,350 m (7,710 ft)",
+      "country": "Union of the Comoros",
+      "last_eruption": "January 2007"
+    },
+    {
+      "title": "Kavachi",
+      "slug": "/volcano/kavachi",
+      "lat": -8.991,
+      "lon": 157.979,
+      "type": "Submarine Stratovolcano",
+      "elevation": "-20 m (-66 ft) — summit below sea level",
+      "country": "Solomon Islands",
+      "last_eruption": "January 2014 (confirmed); uncertain activity 2020–2024"
+    },
+    {
+      "title": "Kelud (Kelut)",
+      "slug": "/volcano/kelud",
+      "lat": -7.935,
+      "lon": 112.314,
+      "type": "Stratovolcano",
+      "elevation": "1,730 m (5,676 ft)",
+      "country": "Indonesia",
+      "last_eruption": "February 13, 2014 (VEI 4)"
+    },
+    {
+      "title": "Kikai Caldera",
+      "slug": "/volcano/kikai",
+      "lat": 30.793,
+      "lon": 130.305,
+      "type": "Caldera",
+      "elevation": "704 m (2,310 ft) — Iodake lava dome on Satsuma-Iōjima",
+      "country": "Japan",
+      "last_eruption": "December 2025 (Iodake crater)"
+    },
+    {
+      "title": "Kilauea",
+      "slug": "/volcano/kilauea",
+      "lat": 19.421,
+      "lon": -155.287,
+      "type": "Shield volcano",
+      "elevation": "1,222 m (4,009 ft)",
+      "country": "United States",
+      "last_eruption": "December 23, 2024 – January 2025 (Halema'uma'u Crater)"
+    },
+    {
+      "title": "Kirishimayama",
+      "slug": "/volcano/kirishimayama",
+      "lat": 31.934,
+      "lon": 130.862,
+      "type": "Shield volcano complex (stratovolcanoes, pyroclastic cones, maars)",
+      "elevation": "1,700 m (5,577 ft) at Karakunidake",
+      "country": "Japan",
+      "last_eruption": "June 22, 2025"
+    },
+    {
+      "title": "Krakatau (Krakatoa)",
+      "slug": "/volcano/krakatau",
+      "lat": -6.1009,
+      "lon": 105.4233,
+      "type": "Caldera",
+      "elevation": "285 m (935 ft) — Anak Krakatau, post-2018 collapse; original Krakatau peaked at ~813 m before 1883",
+      "country": "Indonesia",
+      "last_eruption": "2021–2023 (Anak Krakatau)"
+    },
+    {
+      "title": "Krasheninnikov",
+      "slug": "/volcano/krasheninnikov",
+      "lat": 54.596,
+      "lon": 160.27,
+      "type": "Caldera with intra-caldera stratovolcanoes",
+      "elevation": "1,816 m (5,958 ft)",
+      "country": "Russia",
+      "last_eruption": "2025"
+    },
+    {
+      "title": "La Palma",
+      "slug": "/volcano/la-palma",
+      "lat": 28.57,
+      "lon": -17.83,
+      "type": "Stratovolcano(es) / Volcanic island with rift zone",
+      "elevation": "2,426 m (7,959 ft)",
+      "country": "Spain",
+      "last_eruption": "September 19 - December 13, 2021 (Tajogaite)"
+    },
+    {
+      "title": "Láscar",
+      "slug": "/volcano/lascar",
+      "lat": -23.37,
+      "lon": -67.73,
+      "type": "Stratovolcano(es)",
+      "elevation": "5,592 m (18,346 ft)",
+      "country": "Chile",
+      "last_eruption": "2022–2023"
+    },
+    {
+      "title": "Llaima Volcano",
+      "slug": "/volcano/llaima",
+      "lat": -38.692,
+      "lon": -71.729,
+      "type": "Stratovolcano",
+      "elevation": "3,125 m (10,253 ft)",
+      "country": "Chile",
+      "last_eruption": "January 2008 – July 2009"
+    },
+    {
+      "title": "Lopevi",
+      "slug": "/volcano/lopevi",
+      "lat": -16.507,
+      "lon": 168.346,
+      "type": "Stratovolcano",
+      "elevation": "1,413 m (4,636 ft)",
+      "country": "Vanuatu",
+      "last_eruption": "April 2007"
+    },
+    {
+      "title": "Manam Volcano",
+      "slug": "/volcano/manam",
+      "lat": -4.08,
+      "lon": 145.037,
+      "type": "Stratovolcano (basaltic-andesitic)",
+      "elevation": "1,807 m (5,928 ft)",
+      "country": "Papua New Guinea",
+      "last_eruption": "2018-present"
+    },
+    {
+      "title": "Masaya Volcano",
+      "slug": "/volcano/masaya",
+      "lat": 11.9844,
+      "lon": -86.1688,
+      "type": "Caldera (basaltic shield-like)",
+      "elevation": "594 m (1,949 ft)",
+      "country": "Nicaragua",
+      "last_eruption": "2015–present (lava lake active since December 2015)"
+    },
+    {
+      "title": "Mauna Loa",
+      "slug": "/volcano/mauna-loa",
+      "lat": 19.475,
+      "lon": -155.608,
+      "type": "Shield volcano",
+      "elevation": "4,170 m (13,681 ft) above sea level; ~9,170 m (30,085 ft) from ocean floor",
+      "country": "United States",
+      "last_eruption": "November 27 – December 13, 2022"
+    },
+    {
+      "title": "Mount Merapi",
+      "slug": "/volcano/merapi",
+      "lat": -7.54,
+      "lon": 110.446,
+      "type": "Stratovolcano",
+      "elevation": "2,910 m (9,551 ft)",
+      "country": "Indonesia",
+      "last_eruption": "2020–present (ongoing dome growth and pyroclastic flows)"
+    },
+    {
+      "title": "Michoacán-Guanajuato Volcanic Field",
+      "slug": "/volcano/michoacan-guanajuato",
+      "lat": 19.85,
+      "lon": -101.75,
+      "type": "Volcanic field (monogenetic)",
+      "elevation": "3,860 m (12,664 ft) — highest point in the field",
+      "country": "Mexico",
+      "last_eruption": "1943-1952 (Parícutin cinder cone)"
+    },
+    {
+      "title": "El Misti",
+      "slug": "/volcano/misti-el",
+      "lat": -16.2991,
+      "lon": -71.4056,
+      "type": "Stratovolcano",
+      "elevation": "5,793 m (19,101 ft)",
+      "country": "Peru",
+      "last_eruption": "July 1985 (VEI 1)"
+    },
+    {
+      "title": "Miyakejima",
+      "slug": "/volcano/miyakejima",
+      "lat": 34.094,
+      "lon": 139.526,
+      "type": "Stratovolcano",
+      "elevation": "775 m (2,543 ft)",
+      "country": "Japan",
+      "last_eruption": "2010"
+    },
+    {
+      "title": "Momotombo",
+      "slug": "/volcano/momotombo",
+      "lat": 12.423,
+      "lon": -86.539,
+      "type": "Stratovolcano",
+      "elevation": "1,270 m (4,167 ft)",
+      "country": "Nicaragua",
+      "last_eruption": "2015–2016"
+    },
+    {
+      "title": "Mount Cameroon",
+      "slug": "/volcano/mount-cameroon",
+      "lat": 4.203,
+      "lon": 9.17,
+      "type": "Stratovolcano",
+      "elevation": "4,095 m (13,435 ft)",
+      "country": "Cameroon",
+      "last_eruption": "May 28, 2000"
+    },
+    {
+      "title": "Mutnovsky",
+      "slug": "/volcano/mutnovsky",
+      "lat": 52.449,
+      "lon": 158.196,
+      "type": "Complex volcano (four coalescing stratovolcanoes)",
+      "elevation": "2,288 m (7,507 ft)",
+      "country": "Russia",
+      "last_eruption": "March-June 2000"
+    },
+    {
+      "title": "Niuafo'ou",
+      "slug": "/volcano/niuafo-ou",
+      "lat": -15.6,
+      "lon": -175.63,
+      "type": "Shield volcano",
+      "elevation": "260 m (853 ft)",
+      "country": "Tonga",
+      "last_eruption": "1946 (uncertain: 1985)"
+    },
+    {
+      "title": "Novarupta (Katmai)",
+      "slug": "/volcano/novarupta",
+      "lat": 58.2655,
+      "lon": -155.1588,
+      "type": "Caldera",
+      "elevation": "841 m (2,759 ft)",
+      "country": "United States",
+      "last_eruption": "June 6–8, 1912"
+    },
+    {
+      "title": "Nyamulagira",
+      "slug": "/volcano/nyamulagira",
+      "lat": -1.408,
+      "lon": 29.2,
+      "type": "Shield volcano",
+      "elevation": "3,058 m (10,033 ft)",
+      "country": "DR Congo",
+      "last_eruption": "2018–2025 (ongoing summit lava lake activity)"
+    },
+    {
+      "title": "Mount Nyiragongo",
+      "slug": "/volcano/nyiragongo",
+      "lat": -1.52,
+      "lon": 29.25,
+      "type": "Stratovolcano",
+      "elevation": "3,470 m (11,385 ft)",
+      "country": "DR Congo",
+      "last_eruption": "2002–present (ongoing lava lake activity)"
+    },
+    {
+      "title": "Okataina Volcanic Centre",
+      "slug": "/volcano/okataina",
+      "lat": -38.157,
+      "lon": 176.507,
+      "type": "Lava dome complex within a caldera",
+      "elevation": "1,111 m (3,645 ft) — Haroharo dome complex",
+      "country": "New Zealand",
+      "last_eruption": "1981 (Waimangu hydrothermal); 1886 (magmatic, Tarawera)"
+    },
+    {
+      "title": "Pico de Orizaba",
+      "slug": "/volcano/orizaba-pico-de",
+      "lat": 19.03,
+      "lon": -97.27,
+      "type": "Stratovolcano",
+      "elevation": "5,564 m (18,255 ft)",
+      "country": "Mexico",
+      "last_eruption": "1846"
+    },
+    {
+      "title": "Pacaya",
+      "slug": "/volcano/pacaya",
+      "lat": 14.382,
+      "lon": -90.601,
+      "type": "Complex volcano (basaltic stratovolcano within a caldera)",
+      "elevation": "2,569 m (8,428 ft)",
+      "country": "Guatemala",
+      "last_eruption": "2015–2021 (Strombolian)"
+    },
+    {
+      "title": "Pavlof Volcano",
+      "slug": "/volcano/pavlof",
+      "lat": 55.417,
+      "lon": -161.894,
+      "type": "Stratovolcano (composite)",
+      "elevation": "2,493 m (8,179 ft)",
+      "country": "United States (Alaska)",
+      "last_eruption": "2021-2022"
+    },
+    {
+      "title": "Mount Pelée",
+      "slug": "/volcano/pelee",
+      "lat": 14.809,
+      "lon": -61.166,
+      "type": "Stratovolcano",
+      "elevation": "1,372 m (4,501 ft)",
+      "country": "France (Martinique)",
+      "last_eruption": "September 1929 – November 1932"
+    },
+    {
+      "title": "Mount Pinatubo",
+      "slug": "/volcano/pinatubo",
+      "lat": 15.13,
+      "lon": 120.35,
+      "type": "Stratovolcano (composite volcano)",
+      "elevation": "1,486 m (4,875 ft) — reduced from ~1,745 m (5,725 ft) before 1991",
+      "country": "Philippines",
+      "last_eruption": "November 30, 2021 (minor phreatic activity)"
+    },
+    {
+      "title": "Planchón-Peteroa",
+      "slug": "/volcano/planchon-peteroa",
+      "lat": -35.223,
+      "lon": -70.568,
+      "type": "Stratovolcano complex",
+      "elevation": "3,977 m (13,048 ft)",
+      "country": "Chile / Argentina border",
+      "last_eruption": "October 25, 2025"
+    },
+    {
+      "title": "Poás",
+      "slug": "/volcano/poas",
+      "lat": 10.2,
+      "lon": -84.233,
+      "type": "Stratovolcano (complex, with three craters)",
+      "elevation": "2,697 m (8,848 ft)",
+      "country": "Costa Rica",
+      "last_eruption": "January 2025"
+    },
+    {
+      "title": "Popocatépetl",
+      "slug": "/volcano/popocatepetl",
+      "lat": 19.023,
+      "lon": -98.622,
+      "type": "Stratovolcano (composite)",
+      "elevation": "5,393 m (17,694 ft)",
+      "country": "Mexico",
+      "last_eruption": "Ongoing (current eruptive phase began January 9, 2005)"
+    },
+    {
+      "title": "Puracé",
+      "slug": "/volcano/purace",
+      "lat": 2.3095,
+      "lon": -76.3948,
+      "type": "Stratovolcano complex (cluster)",
+      "elevation": "4,650 m (15,256 ft)",
+      "country": "Colombia",
+      "last_eruption": "November 23, 2025"
+    },
+    {
+      "title": "Puyehue-Cordón Caulle",
+      "slug": "/volcano/puyehue-cordon-caulle",
+      "lat": -40.59,
+      "lon": -72.117,
+      "type": "Stratovolcano with fissure complex",
+      "elevation": "2,236 m (7,336 ft)",
+      "country": "Chile",
+      "last_eruption": "June 2011 – 2012 (VEI 5)"
+    },
+    {
+      "title": "Rabaul",
+      "slug": "/volcano/rabaul",
+      "lat": -4.2459,
+      "lon": 152.1937,
+      "type": "Caldera with multiple intra-caldera cones",
+      "elevation": "688 m (2,257 ft)",
+      "country": "Papua New Guinea",
+      "last_eruption": "July 2014 (Tavurvur cone)"
+    },
+    {
+      "title": "Mount Rainier",
+      "slug": "/volcano/rainier",
+      "lat": 46.853,
+      "lon": -121.76,
+      "type": "Stratovolcano (composite)",
+      "elevation": "4,392 m (14,411 ft)",
+      "country": "United States",
+      "last_eruption": "~1450 CE (confirmed); unconfirmed phreatic activity 1894"
+    },
+    {
+      "title": "Raung",
+      "slug": "/volcano/raung",
+      "lat": -8.119,
+      "lon": 114.056,
+      "type": "Stratovolcano",
+      "elevation": "3,260 m (10,696 ft)",
+      "country": "Indonesia",
+      "last_eruption": "March 13, 2025"
+    },
+    {
+      "title": "Redoubt Volcano",
+      "slug": "/volcano/redoubt",
+      "lat": 60.485,
+      "lon": -152.742,
+      "type": "Stratovolcano",
+      "elevation": "3,108 m (10,197 ft)",
+      "country": "United States",
+      "last_eruption": "March 15 – July 1, 2009"
+    },
+    {
+      "title": "Reventador",
+      "slug": "/volcano/reventador",
+      "lat": -0.077,
+      "lon": -77.656,
+      "type": "Stratovolcano",
+      "elevation": "3,562 m (11,686 ft)",
+      "country": "Ecuador",
+      "last_eruption": "2025 (ongoing)"
+    },
+    {
+      "title": "Reykjanes",
+      "slug": "/volcano/reykjanes",
+      "lat": 63.817,
+      "lon": -22.717,
+      "type": "Crater rows / Fissure volcanic system",
+      "elevation": "140 m (459 ft) — low-lying fissure system",
+      "country": "Iceland",
+      "last_eruption": "July 2025 (eruption series ongoing)"
+    },
+    {
+      "title": "Rincón de la Vieja",
+      "slug": "/volcano/rincon-de-la-vieja",
+      "lat": 10.8314,
+      "lon": -85.3364,
+      "type": "Complex volcano",
+      "elevation": "1,729 m (5,673 ft)",
+      "country": "Costa Rica",
+      "last_eruption": "2021–2024 (phreatic sequence)"
+    },
+    {
+      "title": "Sabancaya",
+      "slug": "/volcano/sabancaya",
+      "lat": -15.787,
+      "lon": -71.857,
+      "type": "Stratovolcano(es)",
+      "elevation": "5,960 m (19,554 ft)",
+      "country": "Peru",
+      "last_eruption": "2025 (ongoing)"
+    },
+    {
+      "title": "San Cristóbal",
+      "slug": "/volcano/san-cristobal",
+      "lat": 12.702,
+      "lon": -87.004,
+      "type": "Stratovolcano (part of a complex of five volcanic edifices)",
+      "elevation": "1,745 m (5,725 ft)",
+      "country": "Nicaragua",
+      "last_eruption": "June 2024"
+    },
+    {
+      "title": "Santa Ana Volcano (Ilamatepec)",
+      "slug": "/volcano/santa-ana",
+      "lat": 13.853,
+      "lon": -89.63,
+      "type": "Stratovolcano",
+      "elevation": "2,381 m (7,812 ft)",
+      "country": "El Salvador",
+      "last_eruption": "October 1, 2005"
+    },
+    {
+      "title": "Santa María Volcano",
+      "slug": "/volcano/santa-maria",
+      "lat": 14.757,
+      "lon": -91.552,
+      "type": "Stratovolcano",
+      "elevation": "3,745 m (12,287 ft)",
+      "country": "Guatemala",
+      "last_eruption": "2025 (Santiaguito dome, continuous since 1922)"
+    },
+    {
+      "title": "Santorini Volcano",
+      "slug": "/volcano/santorini",
+      "lat": 36.404,
+      "lon": 25.396,
+      "type": "Shield volcano / Caldera complex",
+      "elevation": "367 m (1,204 ft) — caldera rim at Profitis Ilias; Nea Kameni summit 128 m (420 ft)",
+      "country": "Greece",
+      "last_eruption": "January 10 – February 2, 1950"
+    },
+    {
+      "title": "Mount Semeru",
+      "slug": "/volcano/semeru",
+      "lat": -8.108,
+      "lon": 112.922,
+      "type": "Stratovolcano",
+      "elevation": "3,657 m (11,998 ft)",
+      "country": "Indonesia",
+      "last_eruption": "2019–present (ongoing as of 2025)"
+    },
+    {
+      "title": "Sete Cidades",
+      "slug": "/volcano/sete-cidades",
+      "lat": 37.865,
+      "lon": -25.785,
+      "type": "Stratovolcano (with summit caldera)",
+      "elevation": "842 m (2,762 ft)",
+      "country": "Portugal",
+      "last_eruption": "1880 (submarine vent off west coast)"
+    },
+    {
+      "title": "Sheveluch",
+      "slug": "/volcano/sheveluch",
+      "lat": 56.653,
+      "lon": 161.36,
+      "type": "Stratovolcano (composite, with active lava dome complex)",
+      "elevation": "3,283 m (10,771 ft) — Stary (Old) Sheveluch summit",
+      "country": "Russia",
+      "last_eruption": "1999–present (ongoing, VEI 4)"
+    },
+    {
+      "title": "Shikotsu Caldera",
+      "slug": "/volcano/shikotsu",
+      "lat": 42.688,
+      "lon": 141.38,
+      "type": "Caldera with post-caldera stratovolcanoes",
+      "elevation": "1,320 m (4,331 ft) — Tarumaesan summit",
+      "country": "Japan",
+      "last_eruption": "1981 (Tarumaesan)"
+    },
+    {
+      "title": "Shishaldin Volcano",
+      "slug": "/volcano/shishaldin",
+      "lat": 54.756,
+      "lon": -163.97,
+      "type": "Stratovolcano",
+      "elevation": "2,857 m (9,373 ft)",
+      "country": "United States",
+      "last_eruption": "2023"
+    },
+    {
+      "title": "Soufrière Guadeloupe",
+      "slug": "/volcano/soufriere-guadeloupe",
+      "lat": 16.044,
+      "lon": -61.664,
+      "type": "Stratovolcano with summit lava dome",
+      "elevation": "1,467 m (4,813 ft)",
+      "country": "France (Guadeloupe)",
+      "last_eruption": "July 1976 – March 1977 (phreatic)"
+    },
+    {
+      "title": "Soufrière Hills",
+      "slug": "/volcano/soufriere-hills",
+      "lat": 16.72,
+      "lon": -62.18,
+      "type": "Complex Stratovolcano (andesitic lava dome complex)",
+      "elevation": "915 m (3,002 ft) — pre-1995 summit; lava dome has exceeded 1,050 m at times",
+      "country": "United Kingdom (Montserrat, British Overseas Territory)",
+      "last_eruption": "2013"
+    },
+    {
+      "title": "Mount St. Helens",
+      "slug": "/volcano/st-helens",
+      "lat": 46.2,
+      "lon": -122.18,
+      "type": "Stratovolcano (composite volcano)",
+      "elevation": "2,549 m (8,363 ft) — reduced from 2,950 m (9,677 ft) before 1980",
+      "country": "United States",
+      "last_eruption": "2004–2008 (dome-building eruption)"
+    },
+    {
+      "title": "Stromboli",
+      "slug": "/volcano/stromboli",
+      "lat": 38.789,
+      "lon": 15.213,
+      "type": "Stratovolcano (composite)",
+      "elevation": "924 m (3,031 ft) above sea level; ~2,000 m (6,600 ft) from seafloor",
+      "country": "Italy",
+      "last_eruption": "Ongoing (current eruption began February 2, 1934)"
+    },
+    {
+      "title": "Tacaná",
+      "slug": "/volcano/tacana",
+      "lat": 15.132,
+      "lon": -92.109,
+      "type": "Stratovolcano (composite)",
+      "elevation": "4,064 m (13,333 ft)",
+      "country": "Mexico-Guatemala (border volcano)",
+      "last_eruption": "1986 (phreatic)"
+    },
+    {
+      "title": "Mount Tambora",
+      "slug": "/volcano/tambora",
+      "lat": -8.25,
+      "lon": 118.0,
+      "type": "Stratovolcano (composite volcano)",
+      "elevation": "2,850 m (9,350 ft) — reduced from ~4,300 m before the 1815 eruption",
+      "country": "Indonesia",
+      "last_eruption": "July 2, 1967 (minor)"
+    },
+    {
+      "title": "Taveuni Volcano",
+      "slug": "/volcano/taveuni",
+      "lat": -16.8412,
+      "lon": -179.9644,
+      "type": "Shield volcano",
+      "elevation": "1,241 m (4,072 ft)",
+      "country": "Fiji",
+      "last_eruption": "~1550 CE"
+    },
+    {
+      "title": "Tenerife (Teide)",
+      "slug": "/volcano/tenerife",
+      "lat": 28.271,
+      "lon": -16.641,
+      "type": "Stratovolcano within caldera complex",
+      "elevation": "3,715 m (12,188 ft) above sea level; ~7,500 m from ocean floor",
+      "country": "Spain",
+      "last_eruption": "18 November 1909 (El Chinyero vent, Santiago rift)"
+    },
+    {
+      "title": "Tengger Caldera",
+      "slug": "/volcano/tengger-caldera",
+      "lat": -7.942,
+      "lon": 112.95,
+      "type": "Stratovolcano complex with nested calderas",
+      "elevation": "2,329 m (7,641 ft) at caldera rim (Bromo cone: ~2,329 m)",
+      "country": "Indonesia",
+      "last_eruption": "December 13, 2023"
+    },
+    {
+      "title": "Terceira",
+      "slug": "/volcano/terceira",
+      "lat": 38.73,
+      "lon": -27.32,
+      "type": "Stratovolcano(es) / Multi-center volcanic island",
+      "elevation": "1,023 m (3,356 ft)",
+      "country": "Portugal",
+      "last_eruption": "1998–2000 (submarine, Serreta Ridge)"
+    },
+    {
+      "title": "Nevado del Tolima",
+      "slug": "/volcano/tolima-nevado-del",
+      "lat": 4.658,
+      "lon": -75.33,
+      "type": "Stratovolcano",
+      "elevation": "5,215 m (17,110 ft)",
+      "country": "Colombia",
+      "last_eruption": "March 1943"
+    },
+    {
+      "title": "Tongariro",
+      "slug": "/volcano/tongariro",
+      "lat": -39.157,
+      "lon": 175.632,
+      "type": "Stratovolcano complex (volcanic massif with multiple composite cones)",
+      "elevation": "1,978 m (6,490 ft) — at Ngauruhoe cone",
+      "country": "New Zealand",
+      "last_eruption": "November 21, 2012 (Te Maari craters)"
+    },
+    {
+      "title": "Tungurahua",
+      "slug": "/volcano/tungurahua",
+      "lat": -1.467,
+      "lon": -78.442,
+      "type": "Stratovolcano",
+      "elevation": "5,023 m (16,480 ft)",
+      "country": "Ecuador",
+      "last_eruption": "2012-2016 (most recent intense phase)"
+    },
+    {
+      "title": "Tupungatito",
+      "slug": "/volcano/tupungatito",
+      "lat": -33.425,
+      "lon": -69.797,
+      "type": "Stratovolcano",
+      "elevation": "5,660 m (18,570 ft)",
+      "country": "Chile-Argentina (border)",
+      "last_eruption": "1987"
+    },
+    {
+      "title": "Turrialba Volcano",
+      "slug": "/volcano/turrialba",
+      "lat": 10.025,
+      "lon": -83.767,
+      "type": "Stratovolcano",
+      "elevation": "3,340 m (10,958 ft)",
+      "country": "Costa Rica",
+      "last_eruption": "July 17, 2022"
+    },
+    {
+      "title": "Ubinas",
+      "slug": "/volcano/ubinas",
+      "lat": -16.345,
+      "lon": -70.8972,
+      "type": "Stratovolcano",
+      "elevation": "5,608 m (18,399 ft)",
+      "country": "Peru",
+      "last_eruption": "May 2024"
+    },
+    {
+      "title": "Mount Vesuvius",
+      "slug": "/volcano/vesuvius",
+      "lat": 40.821,
+      "lon": 14.426,
+      "type": "Somma-stratovolcano",
+      "elevation": "1,281 m (4,203 ft)",
+      "country": "Italy",
+      "last_eruption": "March 18–23, 1944"
+    },
+    {
+      "title": "Vulcano",
+      "slug": "/volcano/vulcano",
+      "lat": 38.404,
+      "lon": 14.962,
+      "type": "Stratovolcano(es)",
+      "elevation": "500 m (1,640 ft)",
+      "country": "Italy",
+      "last_eruption": "1888–1890"
+    },
+    {
+      "title": "Whakaari / White Island",
+      "slug": "/volcano/whakaari-white-island",
+      "lat": -37.52,
+      "lon": 177.18,
+      "type": "Stratovolcano(es) — andesitic to dacitic composite cones",
+      "elevation": "294 m (965 ft) above sea level; the summit of a submarine volcano reaching ~1,600 m from the seafloor",
+      "country": "New Zealand",
+      "last_eruption": "2024–2025 (eruption beginning May 2024)"
+    },
+    {
+      "title": "Witori",
+      "slug": "/volcano/witori",
+      "lat": -5.5745,
+      "lon": 150.5161,
+      "type": "Caldera with intra-caldera cone (Pago)",
+      "elevation": "724 m (2,375 ft) — caldera rim; Pago cone rises above the rim",
+      "country": "Papua New Guinea",
+      "last_eruption": "May 2012 (Pago cone)"
+    },
+    {
+      "title": "Yellowstone Caldera",
+      "slug": "/volcano/yellowstone",
+      "lat": 44.43,
+      "lon": -110.67,
+      "type": "Caldera (Supervolcano)",
+      "elevation": "2,805 m (9,203 ft) at Mount Washburn",
+      "country": "United States",
+      "last_eruption": "~70,000 years ago (Pitchstone Plateau lava flow)"
+    },
+    {
+      "title": "Zaozan (Zaosan)",
+      "slug": "/volcano/zaozan-zaosan",
+      "lat": 38.144,
+      "lon": 140.44,
+      "type": "Complex volcano (cluster of stratovolcanoes, lava domes, tuff cone)",
+      "elevation": "1,841 m (6,040 ft)",
+      "country": "Japan",
+      "last_eruption": "1940"
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "slug": "klyuchevskoy",
+  "volcano_id": 300260,
+  "title": "Klyuchevskoy",
+  "meta_title": "Klyuchevskoy — Eruptions, Height & Facts | VolcanoAtlas",
+  "meta_description": "Klyuchevskoy is a 4,754 m active stratovolcano in Kamchatka, Russia — the highest and most active volcano in Eurasia. Full eruption history and facts.",
+  "quick_answer": {
+    "what": "Klyuchevskoy (also spelled Klyuchevskaya Sopka) is a massive active stratovolcano rising to 4,754 m (15,597 ft) on the Kamchatka Peninsula in the Russian Far East — the highest active volcano in Eurasia.",
+    "status": "Active — last erupted April 2025. The most active volcano on the Kamchatka Peninsula, erupting frequently since the late 17th century with almost no prolonged dormant periods.",
+    "famous_for": "Being the tallest active volcano in Eurasia, its near-continuous eruptive activity over the past 6,000 years, and its position within the spectacular Klyuchevskaya volcanic group — a cluster of 13 volcanoes that forms one of the most dramatic volcanic landscapes on Earth.",
+    "danger_level": "Moderate to high — eruptions produce ash clouds reaching 10–15 km altitude that threaten North Pacific air traffic routes, and pyroclastic flows and lahars endanger the town of Klyuchi (population ~4,500), located 30 km to the south."
+  },
+  "hero": {
+    "name": "Klyuchevskoy",
+    "local_name": "Ключевская Сопка (Klyuchevskaya Sopka)",
+    "subtitle": "The Highest and Most Active Volcano in Eurasia",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula, Russian Far East",
+    "type": "Stratovolcano",
+    "elevation_m": 4754,
+    "elevation_ft": 15597,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 56.056,
+      "lon": 160.642
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02504.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "4,754 m (15,597 ft) — varies slightly with eruption activity",
+    "type": "Stratovolcano (composite volcano)",
+    "status": "Active",
+    "last_eruption": "April 2025",
+    "first_known_eruption": "~3950 BCE (geological record); 1697 CE (historical record)",
+    "total_recorded_eruptions": 113,
+    "vei_max": "4 (1829, 1931, 1986–1990)",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula, Eastern Kamchatka Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Okhotsk (North American) Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "56.056°N, 160.642°E",
+    "nearest_town": "Klyuchi — 30 km south (population ~4,500)",
+    "population_at_risk": "~4,500 (Klyuchi); North Pacific air corridors (ash cloud hazard)",
+    "summit_crater": "~700 m diameter, frequently reshaped by eruptions",
+    "protected_status": "Volcanoes of Kamchatka UNESCO World Heritage Site (1996/2001)",
+    "monitoring_agency": "KVERT (Kamchatka Volcanic Eruption Response Team) — IVS FEB RAS",
+    "smithsonian_id": "300260",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=300260"
+  },
+  "sections": {
+    "overview": {
+      "content": "Klyuchevskoy (Russian: Ключевской, also known as Klyuchevskaya Sopka) is the highest active volcano in Eurasia, a towering <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 4,754 m (15,597 ft) on the Kamchatka Peninsula in the Russian Far East. With 113 recorded eruptions since approximately 3950 BCE and near-continuous activity since the late 17th century, it is also the most active volcano on Kamchatka — itself the most volcanically active region in the Northern Hemisphere, containing over 30 active volcanoes along the 1,250-km-long peninsula.\n\nKlyuchevskoy is the dominant peak of the Klyuchevskaya volcanic group, a spectacular cluster of 13 volcanoes that includes the extinct Kamen (4,575 m), the broad Ushkovsky massif to the northwest, and the highly active <a href=\"/volcano/sheveluch\">Sheveluch</a> (3,283 m) approximately 80 km to the northeast. The group forms one of the most concentrated assemblages of high volcanic peaks on Earth, and was inscribed as part of the <a href=\"https://whc.unesco.org/en/list/765\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site 'Volcanoes of Kamchatka'</a> in 1996.\n\nThe volcano's activity is driven by the subduction of the Pacific Plate beneath the Okhotsk microplate (part of the North American Plate system) at a rate of approximately 8 cm (3 in) per year — one of the fastest convergence rates on Earth. This rapid subduction produces prodigious volumes of basaltic to basaltic-andesitic magma that feed Klyuchevskoy's frequent moderate-to-large eruptions. Despite only approximately 6,000 years of age, the volcano has built an impressively symmetric cone that rises 3,000 m above its base saddle, adding an average of roughly 60 million cubic meters of new material per century.\n\nKlyuchevskoy poses its greatest hazard through volcanic ash clouds that can reach altitudes of 10–15 km (33,000–49,000 ft) and drift across the heavily trafficked North Pacific air corridors connecting Asia and North America. The Kamchatka Volcanic Eruption Response Team (KVERT) monitors the volcano and issues aviation color codes to alert airlines. On the ground, the small town of Klyuchi (population ~4,500), located 30 km (19 mi) south of the summit, faces risks from lahars, ashfall, and pyroclastic flows."
+    },
+    "geology_and_formation": {
+      "content": "Klyuchevskoy is remarkably young for such a large volcano — only approximately 6,000 years old, having been built entirely during the Holocene epoch. It rises above a saddle northeast of the extinct Kamen volcano and southeast of the broad Ushkovsky shield, constructing its nearly perfect cone at a rate that makes it one of the fastest-growing volcanoes on the planet. The rapid growth reflects both the prodigious magma supply from the subducting Pacific Plate and the predominantly basaltic composition of its eruptions, which produce both lava flows and pyroclastic deposits.\n\nThe tectonic setting is the Eastern Kamchatka Volcanic Arc, where the Pacific Plate subducts beneath the Okhotsk microplate at 7.5–8 cm/yr. The subduction zone geometry beneath Klyuchevskoy is unusual: the volcano sits directly above the edge of a subducted slab ('slab edge'), where the plate bends and tears, creating anomalously high mantle temperatures and magma production rates. This explains why Klyuchevskoy produces far more eruptive material than its neighboring volcanoes on the same arc.\n\nThe magma is primarily high-alumina basalt, with compositions ranging to basaltic andesite during more explosive episodes. Phenocryst assemblages include olivine, clinopyroxene, and plagioclase. The shallow magma reservoir is estimated to lie at 3–6 km depth beneath the summit, while deeper magma storage at 20–30 km feeds the system from below. More than 100 flank eruptions have occurred over the past 3,000 years, producing lateral craters and cones along radial fissures predominantly on the unconfined northeast-to-southeast flanks between 500 and 3,600 m elevation."
+    },
+    "eruption_history_overview": {
+      "content": "Klyuchevskoy's eruption record encompasses 113 events in the Smithsonian Global Volcanism Program database, of which 111 are confirmed eruptions. The geological record extends to approximately 3950 BCE, but the overwhelming majority of documented activity postdates 1697, when Russian explorers first recorded eruptions on the Kamchatka Peninsula.\n\nThe historical period reveals a volcano of extraordinary productivity. Since 1697, Klyuchevskoy has erupted at least 108 times — an average of roughly one eruption every three years, with no dormant interval exceeding approximately 12 years. The 18th century saw 15 eruptions, the 19th century 19 eruptions, the 20th century an astonishing 55 eruptions, and the 21st century has already recorded 18 eruptions through 2025. Most eruptions originate from the summit crater, producing Strombolian to Vulcanian explosions, lava flows, and ash columns. Major flank eruptions have produced lateral craters and cinder cones at various elevations.\n\nThree eruptions have reached <a href=\"/volcanic-explosivity-index\">VEI</a> 4 in the modern record: 1829, 1931, and 1986–1990. The 1986–1990 eruption was the most significant event in recent history, lasting approximately four years and producing major ash clouds, lava flows from both summit and flank vents, and pyroclastic flows. The majority of eruptions are VEI 2 (73 events), reflecting the volcano's characteristic pattern of frequent moderate Strombolian-Vulcanian activity."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1829 Eruption — VEI 4",
+          "content": "The eruption of September 9, 1829, was one of the most powerful events at Klyuchevskoy in historical times, rated VEI 4 on the Volcanic Explosivity Index. While detailed contemporary accounts are limited due to Kamchatka's extreme remoteness in the early 19th century, geological evidence indicates a significant explosive eruption that produced voluminous ashfall deposits, pyroclastic flows, and potentially lahars down the volcano's flanks. The 1829 event set a precedent for the intensity of eruptions that Klyuchevskoy is capable of producing, with an eruption column likely reaching well over 10 km altitude."
+        },
+        {
+          "title": "The 1931 Eruption — Major Summit and Flank Activity",
+          "content": "Klyuchevskoy was exceptionally active in 1931, with two distinct eruptions. A VEI 4 eruption beginning on March 25 produced massive ash columns and significant tephra deposits across the surrounding region. A second eruption in August 1931 added further explosive activity. Together, the 1931 events were among the most energetic of the 20th century at Klyuchevskoy and contributed to the growing scientific recognition of Kamchatka as one of the most volcanically productive regions on Earth. The eruptions were documented by Soviet geologists who were beginning systematic studies of Kamchatka's volcanoes, laying the groundwork for the monitoring infrastructure that exists today."
+        },
+        {
+          "title": "The 1935–1939 Eruption Sequence — Sustained Multi-Year Activity",
+          "content": "Between 1935 and 1939, Klyuchevskoy entered a prolonged period of heightened activity that included two VEI 3 eruptions. The eruption beginning April 21, 1935, continued into 1936, producing lava flows and ash emissions from the summit crater. Almost immediately, a new eruption began on April 3, 1937, that lasted until 1939, including significant flank activity that produced the Bilyukai lateral crater on the east flank. This multi-year sequence demonstrated Klyuchevskoy's capacity for sustained, overlapping eruptive episodes — a pattern that has recurred throughout its history."
+        },
+        {
+          "title": "The 1986–1990 Eruption — The Great Eruption",
+          "content": "The most significant eruption of Klyuchevskoy in the modern era began on November 27, 1986, and continued, with varying intensity, until 1990 — a duration of approximately four years. Rated VEI 4, this eruption was Klyuchevskoy's largest in over 150 years. Summit eruptions produced Strombolian and Vulcanian explosions with ash columns reaching 12–15 km (39,000–49,000 ft) altitude, posing significant hazards to trans-Pacific aviation. Major lava flows descended the summit and multiple flanks (southeast, southwest, northeast, and east), fed by both summit and flank vents. Pyroclastic flows generated by column collapse swept down the slopes, while lahars formed by rapid snowmelt reached river valleys to the south and east.\n\nThe eruption's most dramatic phase occurred in September–October 1994 (during a renewed eruptive episode), when an ash column reached over 15 km altitude and aviation color code Red was issued by KVERT, requiring rerouting of numerous commercial flights across the North Pacific. The 1986–1990 sequence fundamentally shaped modern volcanic aviation hazard response protocols in the region."
+        },
+        {
+          "title": "The 2013 and 2015–2018 Eruptions — Recent Major Activity",
+          "content": "Klyuchevskoy produced a VEI 3 eruption beginning on August 15, 2013, that featured powerful Strombolian explosions, lava flows from the summit crater and multiple flank locations, and ash columns reaching 10–12 km (33,000–39,000 ft). The eruption generated multiple SIGMET (Significant Meteorological Information) notices for aviation and deposited ash across wide areas of Kamchatka. A new major eruption began on August 28, 2015, continuing through 2018 at VEI 3 intensity, with sustained summit activity, effusive lava flows, and intermittent explosive phases producing ash clouds tracked by satellite across the North Pacific. The 2019–2021 eruption continued the pattern of semi-continuous activity, with VEI 2 explosions and lava effusion."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Klyuchevskoy last erupted in April 2025, and given its pattern of near-continuous activity over the past three centuries, another eruption is expected within months to a few years at most. The volcano is monitored by the Kamchatka Volcanic Eruption Response Team (KVERT), operated by the Institute of Volcanology and Seismology of the Far Eastern Branch of the Russian Academy of Sciences (IVS FEB RAS), in collaboration with the Alaska Volcano Observatory (AVO) and the Tokyo VAAC (Volcanic Ash Advisory Center).\n\nKVERT assigns aviation color codes (Green, Yellow, Orange, Red) based on the volcano's current activity level, with real-time updates distributed to airlines, meteorological services, and emergency responders across the North Pacific. The monitoring network includes seismometers, satellite thermal imaging (via MODIS and Sentinel satellites), web cameras, and infrasound sensors. Due to Klyuchevskoy's remote location and harsh climate, ground-based monitoring is supplemented extensively by satellite-based observations.\n\nThe 700-m-wide summit crater changes morphology with nearly every major eruption, as explosions destroy portions of the rim while new lava flows rebuild it. The official elevation of 4,754 m is approximate and fluctuates by tens of meters depending on recent activity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Klyuchevskoy presents two primary categories of hazard: aviation ash clouds and ground-level volcanic phenomena.\n\nVolcanic ash is the volcano's most far-reaching threat. Eruption columns reaching 10–15 km (33,000–49,000 ft) inject fine-grained ash into the jet stream at precisely the altitudes where commercial aircraft fly across the North Pacific — one of the busiest aviation corridors in the world, with over 200 flights per day between Asia and North America. Volcanic ash can cause jet engine failure, sandblast windshields to opacity, and damage avionics. Multiple flights have been rerouted during recent Klyuchevskoy eruptions, and the volcano was a key driver in establishing the KVERT monitoring system in 1993.\n\nOn the ground, the town of Klyuchi (population ~4,500), the nearest permanently inhabited settlement 30 km (19 mi) to the south, faces risks from ashfall, lahars (generated by the rapid melting of the volcano's substantial ice and snow cover), and potentially from pyroclastic flows during major eruptions. Lava flows have historically remained on the upper flanks, but some have extended to lower elevations, particularly during sustained eruptions. The volcano's extreme altitude and severe climate make rescue and emergency response exceptionally difficult. Several mountaineers have died on Klyuchevskoy's slopes from volcanic hazards, extreme weather, and altitude-related causes.\n\nCompared to volcanoes near major population centers like <a href=\"/volcano/vesuvius\">Vesuvius</a> or <a href=\"/volcano/popocatepetl\">Popocatépetl</a>, Klyuchevskoy's ground-level hazard is moderated by its extremely remote location — Kamchatka's total population is approximately 300,000 across an area larger than California."
+    },
+    "geography_and_physical_description": {
+      "content": "Klyuchevskoy is one of the most visually dramatic volcanoes on Earth — a near-perfect, steeply sided cone that dominates the landscape of central Kamchatka. The summit at 4,754 m (15,597 ft) is the highest point on the Kamchatka Peninsula and the highest active volcano in Eurasia (the dormant Mount Elbrus in the Caucasus, at 5,642 m, is technically higher but has not erupted in the Holocene). The summit is crowned by a 700-m-wide crater that is frequently filled or partially blocked by fresh lava and tephra from ongoing eruptions.\n\nThe volcano rises above a saddle at approximately 1,700 m (5,600 ft) that connects it to the extinct Kamen volcano (4,575 m) to the west. Together with the broad Ushkovsky massif to the northwest and numerous other peaks, Klyuchevskoy forms part of the Klyuchevskaya group — a cluster of 13 volcanic edifices within a roughly 70-km-long arc that constitutes one of the most concentrated volcanic landscapes on the planet.\n\nThe lower flanks are deeply incised by river valleys and covered with dense birch and alder forest at lower elevations, transitioning to barren lava fields and snow above approximately 2,500 m. More than 100 parasitic cinder cones, craters, and fissure vents pepper the northeast-to-southeast flanks between 500 and 3,600 m, recording a history of flank eruptions spanning 3,000 years. The Kamchatka River, one of the peninsula's largest, flows past the volcano's southern base near Klyuchi."
+    },
+    "climate_and_global_impact": {
+      "content": "Despite its prolific output, Klyuchevskoy's eruptions have not produced documented global climate effects in historical times. Even its VEI 4 eruptions (1829, 1931, 1986–1990) were insufficient to inject stratospheric sulfur at the levels needed to produce measurable global cooling — that threshold typically requires VEI 6+ eruptions such as <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991) or <a href=\"/volcano/tambora\">Tambora</a> (1815). However, Klyuchevskoy's cumulative SO₂ emissions are significant regionally, contributing to periodic degradation of air quality across Kamchatka during sustained eruptions.\n\nKlyuchevskoy's most consequential climate-related impact is indirect: its frequent ash emissions into the upper troposphere affect atmospheric chemistry and aerosol loading over the North Pacific, a region of global significance for weather pattern formation. Satellite measurements of its ash and gas plumes have contributed to scientific understanding of volcanic aerosol transport and atmospheric dynamics."
+    },
+    "cultural_significance": {
+      "content": "For the indigenous Itelmen and Koryak peoples of Kamchatka, Klyuchevskoy has been a landmark of spiritual and practical significance for millennia. In Itelmen mythology, the volcano is a place where spirits dwell and where the world was created. Russian explorers and Cossacks, arriving in Kamchatka in the late 17th century, were deeply impressed by the volcano's size and activity — the explorer Stepan Krasheninnikov, who surveyed Kamchatka from 1737 to 1741, provided some of the earliest scientific descriptions of its eruptions.\n\nIn modern Russian culture, Klyuchevskoy is an icon of Kamchatka — the peninsula's most recognizable natural feature and a symbol of the region's raw, untamed wilderness. It appears on stamps, postcards, and tourism materials, and is a challenging target for mountaineers. The first recorded summit ascent was by the military topographer Daniil Gauss in 1788, making it one of the earliest documented high-altitude climbs in Russian history.\n\nThe UNESCO World Heritage inscription of the 'Volcanoes of Kamchatka' in 1996 recognized Klyuchevskoy and the broader volcanic landscape as a site of outstanding universal value, citing its extraordinary concentration of active volcanoes, diverse volcanic landforms, and globally significant biodiversity including the world's largest population of Steller's sea eagles and the famous brown bears of Kamchatka."
+    },
+    "visiting_and_tourism": {
+      "content": "Visiting Klyuchevskoy is a serious expedition-level undertaking. The volcano is located in one of the most remote regions of Russia, approximately 350 km (220 mi) north of Petropavlovsk-Kamchatsky, the regional capital, which itself is accessible only by air (no road connection to the rest of Russia). The nearest town is Klyuchi, reached by a rough road from Petropavlovsk in 8–10 hours or by helicopter.\n\nClimbing Klyuchevskoy is considered one of the most technically demanding volcano ascents in the world, combining high altitude (4,754 m), extreme cold, severe weather, active volcanic hazards, and remoteness from rescue services. The standard route ascends the southern or southeastern slopes and typically takes 2–3 days. Guided expeditions are available through Kamchatka-based outfitters, but the climb requires mountaineering experience, proper equipment (ice axes, crampons, rope, gas masks), and a willingness to turn back in the event of volcanic activity. Several climbers have died on Klyuchevskoy from volcanic bomb strikes, toxic gas, and weather exposure.\n\nFor non-climbers, the Klyuchevskaya volcanic group can be appreciated from viewpoints near Klyuchi and from helicopter tours operating out of Petropavlovsk-Kamchatsky. The broader Kamchatka region offers world-class wildlife watching, hot springs, and visits to other volcanoes including Tolbachik, Mutnovsky, and Gorely."
+    },
+    "nearby_volcanoes": {
+      "content": "Klyuchevskoy is the centerpiece of the Klyuchevskaya volcanic group, one of the most densely packed clusters of volcanoes on Earth. Its immediate neighbors include Kamen (4,575 m), an extinct stratovolcano whose catastrophic sector collapse in 1956 left a massive horseshoe-shaped scar; Ushkovsky (3,943 m), a broad shield-stratovolcano complex; and Bezymianny (2,882 m), which produced a devastating lateral blast eruption in 1956 — often compared to the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a>. <a href=\"/volcano/sheveluch\">Sheveluch</a> (3,283 m), approximately 80 km to the northeast, is another extremely active stratovolcano currently in a long-duration eruption.\n\nFurther south along the Kamchatka volcanic arc lie Tolbachik, known for its spectacular 2012–2013 fissure eruption, and the more accessible tourist volcanoes Mutnovsky and Gorely near Petropavlovsk-Kamchatsky. <a href=\"/volcanoes-in-russia\">Russia's</a> Kamchatka Peninsula hosts 94 Holocene volcanoes — the fourth-highest count of any country, after the <a href=\"/volcanoes-in-united-states\">United States</a>, <a href=\"/volcanoes-in-japan\">Japan</a>, and <a href=\"/volcanoes-in-indonesia\">Indonesia</a>."
+    },
+    "etymology": {
+      "content": "The name 'Klyuchevskoy' derives from the nearby town of Klyuchi, which in turn takes its name from the Russian word 'klyuch' (ключ), meaning 'spring' or 'key,' referring to the hot springs in the area. The full traditional Russian name is Klyuchevskaya Sopka (Ключевская Сопка), where 'sopka' is a Siberian Russian term for a volcanic peak or hill, widely used across the Russian Far East."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Klyuchevskoy Compared to the World's Tallest Active Stratovolcanoes",
+      "description": "Where does Klyuchevskoy rank among the world's highest active volcanic peaks?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Ojos del Salado",
+          "Chile-Argentina",
+          "6,893 m",
+          "Stratovolcano",
+          "~1,000 CE",
+          "—",
+          "1"
+        ],
+        [
+          "Llullaillaco",
+          "Chile-Argentina",
+          "6,739 m",
+          "Stratovolcano",
+          "1877",
+          "2",
+          "4"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "73"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "113"
+        ],
+        [
+          "Mauna Loa",
+          "United States",
+          "4,170 m",
+          "Shield",
+          "2022",
+          "4",
+          "33"
+        ],
+        [
+          "Fujisan",
+          "Japan",
+          "3,776 m",
+          "Stratovolcano",
+          "1707",
+          "5",
+          "17"
+        ]
+      ]
+    },
+    {
+      "title": "Klyuchevskoy vs Other Highly Active Kamchatka Volcanoes",
+      "description": "The Kamchatka Peninsula hosts some of the most active volcanoes in the Northern Hemisphere.",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Current Status"
+      ],
+      "rows": [
+        [
+          "Klyuchevskoy",
+          "4,754 m",
+          "2025",
+          "4",
+          "113",
+          "Active"
+        ],
+        [
+          "Sheveluch",
+          "3,283 m",
+          "2025",
+          "5",
+          "62",
+          "Active (ongoing dome growth)"
+        ],
+        [
+          "Bezymianny",
+          "2,882 m",
+          "2024",
+          "5",
+          "54",
+          "Active"
+        ],
+        [
+          "Karymsky",
+          "1,536 m",
+          "2021",
+          "4",
+          "36",
+          "Active"
+        ],
+        [
+          "Tolbachik",
+          "3,682 m",
+          "2013",
+          "4",
+          "15",
+          "Dormant"
+        ],
+        [
+          "Avachinsky",
+          "2,741 m",
+          "2001",
+          "4",
+          "17",
+          "Active"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -3950,
+      "vei": null,
+      "label": "Earliest confirmed eruption in geological record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1050,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1697,
+      "vei": 3,
+      "label": "First historically recorded eruption (Russian explorers)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1829,
+      "vei": 4,
+      "label": "Major VEI 4 eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1931,
+      "vei": 4,
+      "label": "VEI 4 eruption with major ash columns",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1945,
+      "vei": 3,
+      "label": "Multiple VEI 3 eruptions (summit and SE flank)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1966,
+      "vei": 3,
+      "label": "VEI 3 — summit and NE flank (Piip Crater)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1974,
+      "vei": 3,
+      "label": "VEI 3 — summit and SW flank activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1986,
+      "vei": 4,
+      "label": "Start of major 4-year VEI 4 eruption (1986–1990)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1994,
+      "vei": 3,
+      "label": "VEI 3 — ash column to 15 km, aviation disruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2013,
+      "vei": 3,
+      "label": "VEI 3 — major summit and flank eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2015,
+      "vei": 3,
+      "label": "Start of prolonged VEI 3 eruption (2015–2018)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 3,
+      "label": "VEI 3 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption (April 2025)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 2,
+      "note": "Limited geological record; ~3950 BCE and ~1050 BCE"
+    },
+    {
+      "century": "6th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 1,
+      "note": "Historical record begins 1697"
+    },
+    {
+      "century": "18th",
+      "count": 15
+    },
+    {
+      "century": "19th",
+      "count": 19
+    },
+    {
+      "century": "20th",
+      "count": 55
+    },
+    {
+      "century": "21st",
+      "count": 18,
+      "note": "Through April 2025"
+    }
+  ],
+  "facts": [
+    "At 4,754 m (15,597 ft), Klyuchevskoy is the highest active volcano in all of Eurasia — taller than Mont Blanc and nearly as high as Mount Rainier.",
+    "The volcano is only approximately 6,000 years old, yet has built a symmetrical cone rising 3,000 m above its base — making it one of the fastest-growing volcanic edifices on Earth.",
+    "With 113 recorded eruptions and an average recurrence interval of roughly 3 years, Klyuchevskoy is the most active volcano in the Northern Hemisphere outside of Iceland.",
+    "The 1986–1990 eruption lasted approximately four years, produced ash clouds to 15 km altitude, and was rated VEI 4 — the volcano's most powerful event in over 150 years.",
+    "Klyuchevskoy's summit crater is approximately 700 m wide, but its shape changes with nearly every major eruption as explosions destroy and rebuild the rim.",
+    "The volcano sits directly beneath one of the busiest aviation corridors in the world, with over 200 commercial flights per day crossing the North Pacific — making its ash clouds a global transportation hazard.",
+    "The Klyuchevskaya volcanic group contains 13 volcanoes in close proximity, forming one of the most concentrated volcanic landscapes on the planet.",
+    "More than 100 flank eruptions over the past 3,000 years have produced lateral craters and cinder cones across the NE-to-SE flanks between 500 and 3,600 m elevation.",
+    "The first recorded summit ascent was by military topographer Daniil Gauss in 1788, making it one of the earliest documented high-altitude climbs in Russian history.",
+    "Klyuchevskoy produces roughly 60 million cubic meters of new volcanic material per century, continuously building its near-perfect cone without major collapse events.",
+    "Three VEI 4 eruptions have occurred in the historical record (1829, 1931, 1986–1990) — the most VEI 4+ events at any single volcano in Kamchatka.",
+    "The nearby volcano Bezymianny produced a catastrophic lateral blast in 1956 that was later recognized as a precursor analogue for the 1980 Mount St. Helens eruption."
+  ],
+  "faqs": [
+    {
+      "question": "Is Klyuchevskoy still active?",
+      "answer": "Yes, Klyuchevskoy is one of the most active volcanoes in the world. Its most recent eruption occurred in April 2025, and it has erupted 113 times in recorded history with an average recurrence interval of roughly 3 years. The volcano has been nearly continuously active since Russian explorers first documented its eruptions in 1697, with no dormant interval exceeding approximately 12 years. The Kamchatka Volcanic Eruption Response Team (KVERT) monitors it continuously and considers another eruption probable within the next few years. It is classified as actively erupting by the Smithsonian Global Volcanism Program."
+    },
+    {
+      "question": "How tall is Klyuchevskoy?",
+      "answer": "Klyuchevskoy rises to 4,754 m (15,597 ft) above sea level, making it the highest active volcano in Eurasia. The summit elevation fluctuates by tens of meters depending on recent eruptive activity — eruptions can both build up and blast away portions of the summit crater rim. For comparison, the highest point in the European Alps, Mont Blanc, stands at 4,808 m, making Klyuchevskoy nearly as tall as western Europe's highest peak. Only dormant volcanoes such as Elbrus (5,642 m) in the Caucasus exceed Klyuchevskoy's height in the Eurasian continent."
+    },
+    {
+      "question": "When did Klyuchevskoy last erupt?",
+      "answer": "Klyuchevskoy's most recent confirmed eruption began on April 8, 2025. Prior to that, major eruptions occurred in 2023 (VEI 3), 2019–2021 (VEI 2), 2015–2018 (VEI 3), and 2013 (VEI 3). The volcano has been nearly continuously active in the modern era, with at least 18 eruptions in the 21st century alone. Most eruptions originate from the 700-m-wide summit crater and produce Strombolian to Vulcanian explosions with ash columns that can reach 10–15 km altitude, posing hazards to aviation across the North Pacific."
+    },
+    {
+      "question": "Can you climb Klyuchevskoy?",
+      "answer": "Yes, but climbing Klyuchevskoy is an extreme mountaineering undertaking. At 4,754 m with active volcanic hazards, severe weather, and extreme remoteness from rescue services, it is considered one of the most challenging volcano climbs in the world. The standard ascent takes 2–3 days from a base camp near Klyuchi. Climbers need full mountaineering equipment including ice axes, crampons, ropes, and gas masks. Several people have died on the volcano from volcanic bombs, toxic gas, and exposure. Access is difficult — the nearest town, Klyuchi, is 350 km from Petropavlovsk-Kamchatsky by rough road."
+    },
+    {
+      "question": "Where is Klyuchevskoy volcano?",
+      "answer": "Klyuchevskoy is located on the Kamchatka Peninsula in the Russian Far East, at coordinates 56.056°N, 160.642°E. The Kamchatka Peninsula is a 1,250-km-long landmass extending southwestward from mainland Siberia into the North Pacific Ocean, bordered by the Sea of Okhotsk to the west and the Pacific Ocean to the east. The volcano lies approximately 350 km north of the regional capital, Petropavlovsk-Kamchatsky, and 30 km north of the small town of Klyuchi. Kamchatka is accessible only by air from Moscow or other Russian cities."
+    },
+    {
+      "question": "Why is Klyuchevskoy so active?",
+      "answer": "Klyuchevskoy's extraordinary activity results from its unique tectonic position. The Pacific Plate subducts beneath the Okhotsk microplate at approximately 8 cm per year — one of the fastest convergence rates on Earth — generating prodigious volumes of basaltic magma. The volcano sits above the edge of the subducting slab, where the plate bends and tears, creating anomalously high mantle temperatures and an exceptionally productive magma supply. This combination of rapid subduction and slab-edge dynamics explains why Klyuchevskoy produces far more eruptive material than its neighboring volcanoes on the same arc."
+    },
+    {
+      "question": "Is Klyuchevskoy dangerous to air travel?",
+      "answer": "Yes, Klyuchevskoy poses one of the most significant volcanic ash hazards to commercial aviation in the world. Its eruption columns regularly reach 10–15 km (33,000–49,000 ft), injecting fine-grained ash directly into the altitude band used by commercial aircraft crossing the North Pacific between Asia and North America — a corridor carrying over 200 flights per day. Volcanic ash can cause jet engine failure and damage aircraft systems. KVERT monitors the volcano and issues aviation color codes that trigger flight rerouting when eruptions produce significant ash clouds."
+    },
+    {
+      "question": "What type of volcano is Klyuchevskoy?",
+      "answer": "Klyuchevskoy is a stratovolcano (composite volcano), built from alternating layers of basaltic lava flows and pyroclastic deposits over approximately 6,000 years. It produces predominantly high-alumina basalt and basaltic andesite, which is relatively mafic for a subduction-zone stratovolcano. Its eruptions range from effusive lava flows to Strombolian and Vulcanian explosions, occasionally reaching sub-Plinian intensity at VEI 4. The near-perfect symmetry of its cone distinguishes it from many other stratovolcanoes that have been disrupted by sector collapses or caldera formation."
+    }
+  ],
+  "people_also_search": [
+    "klyuchevskoy eruption",
+    "tallest volcano in eurasia",
+    "kamchatka volcanoes",
+    "klyuchevskaya sopka",
+    "most active volcano in russia",
+    "kamchatka peninsula",
+    "klyuchevskoy height",
+    "ring of fire volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Klyuchevskoy",
+    "alternateName": [
+      "Klyuchevskaya Sopka",
+      "Ключевской",
+      "Ключевская Сопка",
+      "Kliuchevskoi"
+    ],
+    "description": "The highest and most active volcano in Eurasia, a 4,754 m stratovolcano on the Kamchatka Peninsula, Russia",
+    "geo": {
+      "latitude": 56.056,
+      "longitude": 160.642,
+      "elevation": 4754
+    },
+    "containedInPlace": {
+      "name": "Kamchatka Peninsula",
+      "country": "Russia"
+    },
+    "url": "https://volcanoatlas.com/volcano/klyuchevskoy"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=300260",
+      "text": "Smithsonian GVP: Klyuchevskoy",
+      "type": "primary_source"
+    },
+    {
+      "url": "http://www.kscnet.ru/ivs/kvert/index_eng.php",
+      "text": "KVERT — Kamchatka Volcanic Eruption Response Team",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Klyuchevskaya-Sopka",
+      "text": "Britannica: Klyuchevskaya Sopka",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/765",
+      "text": "UNESCO: Volcanoes of Kamchatka",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "sheveluch",
+      "st-helens",
+      "pinatubo",
+      "tambora",
+      "vesuvius",
+      "popocatepetl",
+      "fujisan"
+    ],
+    "country_pages": [
+      "russia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "sheveluch",
+    "etna",
+    "pinatubo",
+    "st-helens",
+    "fujisan"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "label": "Klyuchevskoy",
+      "url": "/volcano/klyuchevskoy"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/klyuchevskoy"
+}

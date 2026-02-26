@@ -1,0 +1,489 @@
+{
+  "slug": "lengai-ol-doinyo",
+  "volcano_id": 222120,
+  "title": "Ol Doinyo Lengai",
+  "meta_title": "Ol Doinyo Lengai — The Mountain of God, Carbonatite Volcano | VolcanoAtlas",
+  "meta_description": "Ol Doinyo Lengai is a 2,962 m active stratovolcano in Tanzania — the only volcano erupting carbonatite lava. Full eruption history, geology, and guide.",
+  "quick_answer": {
+    "what": "Ol Doinyo Lengai is an active stratovolcano in the Gregory Rift Valley of northern Tanzania, rising to 2,962 m (9,718 ft) south of Lake Natron.",
+    "status": "Active — lava effusion and ash emissions have occurred intermittently since 2017, continuing into 2025. The volcano has been in near-continuous activity since 1983.",
+    "famous_for": "Being the only volcano on Earth currently erupting natrocarbonatite lava — an extraordinarily rare, low-temperature lava rich in sodium and calcium carbonates that appears black when molten and turns white within hours of exposure to moisture.",
+    "danger_level": "Moderate direct risk to sparse local populations, but the volcano's remote location limits casualties. The 2007–2008 explosive eruption generated significant ashfall affecting Maasai pastoral communities."
+  },
+  "hero": {
+    "name": "Ol Doinyo Lengai",
+    "local_name": "Ol Doinyo Lengai (Maasai: 'Mountain of God')",
+    "subtitle": "Earth's Only Active Carbonatite Volcano",
+    "country": "Tanzania",
+    "region": "Arusha Region, Gregory Rift Valley",
+    "type": "Stratovolcano",
+    "elevation_m": 2962,
+    "elevation_ft": 9718,
+    "status": "Active",
+    "last_eruption": "2017–present",
+    "coordinates": {
+      "lat": -2.764,
+      "lon": 35.914
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00195.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "2,962 m (9,718 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "2017–present (ongoing)",
+    "first_known_eruption": "~1550 BCE",
+    "total_recorded_eruptions": 27,
+    "vei_max": "3 (1917, 1940–41, 1960–66, 1967, 2007–10)",
+    "country": "Tanzania",
+    "region": "Arusha Region, Gregory Rift Valley",
+    "tectonic_setting": "Rift zone — East African Rift System, continental crust (>25 km)",
+    "rock_types": [
+      "Foidite",
+      "Natrocarbonatite",
+      "Nephelinite"
+    ],
+    "coordinates": "2.764°S, 35.914°E",
+    "nearest_city": "Arusha — 160 km southeast",
+    "population_at_risk": "~10,000–30,000 (Maasai pastoral communities)",
+    "summit_crater": "Northern Crater — morphology changes dramatically with each eruption cycle",
+    "protected_status": "None (proposed Natron-Engaresero Geopark)",
+    "monitoring_agency": "Tanzania Geological Survey; international research collaborations",
+    "unique_feature": "Only volcano on Earth erupting natrocarbonatite lava",
+    "smithsonian_id": "222120",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=222120"
+  },
+  "sections": {
+    "overview": {
+      "content": "Ol Doinyo Lengai is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 2,962 m (9,718 ft) in the Gregory Rift Valley of northern <a href=\"/volcanoes-in-tanzania\">Tanzania</a>, approximately 15 km south of Lake Natron and 160 km west-northwest of Arusha. It holds a singular distinction in global volcanology: it is the only volcano on Earth known to erupt natrocarbonatite lava in historical times — an extraordinarily rare magma type composed primarily of sodium and calcium carbonates rather than the silicate minerals that characterize virtually all other volcanic lavas on the planet. This unique lava erupts at remarkably low temperatures of approximately 500–590°C (930–1,090°F), less than half the temperature of basaltic lava, and appears black when molten rather than the glowing red-orange of conventional lavas. Within hours of eruption, exposure to atmospheric moisture turns the carbonatite from black to ghostly white, giving the summit crater a constantly shifting, otherworldly appearance. Known to the Maasai people as 'The Mountain of God' (Ol Doinyo Lengai), the volcano holds deep spiritual significance as a sacred peak in the East African Rift landscape. The volcano has been in near-continuous eruptive activity since 1983, alternating between decades of quiet carbonatite lava effusion in the summit crater and periodic explosive eruptions that produce nephelinitic ash columns. It sits within the East African Rift System, the same continental rifting zone that drives <a href=\"/volcano/erta-ale\">Erta Ale</a>, <a href=\"/volcano/nyiragongo\">Nyiragongo</a>, and the volcanic fields of <a href=\"/volcanoes-in-kenya\">Kenya</a>. With 27 recorded eruptions spanning 3,500 years, Ol Doinyo Lengai is both one of the most scientifically important and most geologically unusual volcanoes on Earth."
+    },
+    "geology_and_formation": {
+      "content": "Ol Doinyo Lengai is situated within the Gregory Rift, the eastern branch of the East African Rift System, where the Somali Plate is slowly pulling away from the Nubian Plate at approximately 6–7 mm per year. This continental rifting stretches and thins the lithosphere, allowing magma to ascend from the upper mantle through deeply faulted continental crust exceeding 25 km in thickness. What makes Lengai uniquely remarkable is its magma composition. The volcano taps a metasomatized lithospheric mantle source enriched in carbon dioxide, sodium, and calcium — a reservoir that produces natrocarbonatite melts entirely unlike the silicate magmas of nearly every other volcano on Earth. Natrocarbonatite lava is composed primarily of nyerereite (Na₂Ca(CO₃)₂) and gregoryite ((Na,K,Ca)₂CO₃), mineral species named after Tanzania's first president Julius Nyerere and the Gregory Rift itself. These carbonatite melts have extremely low viscosity (comparable to water) and erupt at just 500–590°C, making them the coolest lavas on the modern Earth's surface. The cone-building stage of Ol Doinyo Lengai ended approximately 15,000 years ago, constructing the steep, symmetrical profile visible today. Since then, eruptive activity has alternated between prolonged phases of quiet natrocarbonatite effusion within the summit crater and periodic explosive eruptions that produce nephelinite and phonolite tephra — silicate magma compositions more typical of alkaline rift volcanoes. This dual character suggests a complex magmatic plumbing system in which carbonatite and silicate melts coexist at different levels, periodically interacting to trigger explosive episodes. The volcano lies at the southern end of a NNE-trending volcanic lineament that includes the Kerimasi and Gelai shield volcanoes, all products of the same rift-related volcanism."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program records 27 eruptions at Ol Doinyo Lengai, spanning from approximately 1550 BCE to the ongoing activity that began in 2017. The historical record — from 1880 onward — reveals a volcano with remarkably persistent activity centered on the Northern Crater. Five eruptions have reached <a href=\"/volcanic-explosivity-index\">VEI 3</a> (1917, 1940–41, 1960–66, 1967, and 2007–10), each representing explosive phases that interrupt the volcano's more typical quiet carbonatite effusion. The dominant eruptive pattern consists of decades-long phases of low-level natrocarbonatite lava emission in the summit crater, gradually filling and reshaping the crater floor, punctuated by brief but violent explosive eruptions that partially empty the crater, generate tall ash columns, and deposit tephra across the surrounding landscape. This cyclical behavior — effusion then explosion — has repeated multiple times in the documented record and is central to understanding the volcano's dual magmatic system."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2007–2010 Explosive Eruption — Lengai Turns Violent",
+          "content": "After more than two decades of quiet natrocarbonatite lava effusion that had gradually filled and overflowed the Northern Crater, Ol Doinyo Lengai transitioned abruptly to explosive activity on September 4, 2007. The VEI 3 eruption produced a sustained column of nephelinitic ash rising several kilometers above the summit, blanketing Maasai villages and pasturelands within a 20 km radius. Lava fountaining and strombolian explosions from the crater generated incandescent bombs visible from Lake Natron. The explosive phase continued intermittently through 2008, with particularly intense activity in March 2008 that produced pyroclastic flows confined to the upper flanks and dramatically altered the crater morphology — the Northern Crater, which had been gradually filling with carbonatite lava for 25 years, was excavated back to a steep-walled pit approximately 100 m deep. Ashfall affected livestock and water sources in Maasai communities, though the volcano's remote location limited structural damage. The eruption attracted international scientific attention as a rare opportunity to observe the transition from effusive carbonatite to explosive silicate volcanism in real time, providing critical data on the relationship between the two magmatic systems. Activity waned through 2009–2010, and by 2011 the volcano had returned to quiet carbonatite effusion — beginning the next cycle of crater infilling."
+        },
+        {
+          "title": "The 1960–1966 Eruption — Prolonged Explosive Activity",
+          "content": "A VEI 3 eruption beginning on March 16, 1960 initiated a six-year period of intermittent explosive activity from the Northern Crater. Ash columns and tephra deposits spread across the rift valley floor, and the eruption significantly deepened the Northern Crater. A subsequent VEI 3 eruption in July 1967 followed almost immediately after the end of the 1960–66 sequence, suggesting continuous magmatic unrest. This mid-20th century explosive phase ended the cone-building period and preceded the long effusive carbonatite phase that began in 1983."
+        },
+        {
+          "title": "The 1917 Eruption — First Major Documented Explosive Event",
+          "content": "In December 1916 to 1917, Ol Doinyo Lengai produced a VEI 3 explosive eruption from the Northern Crater that was among the first well-documented eruptions at the volcano by European observers. The eruption generated a significant ash column and tephra deposits across the surrounding rift floor. This event established the pattern of periodic explosive eruptions alternating with quieter effusive phases that would characterize the volcano throughout the 20th and 21st centuries."
+        },
+        {
+          "title": "The 1983–2006 Effusive Phase — Decades of Unique Lava",
+          "content": "Beginning in 1983, Ol Doinyo Lengai entered a prolonged phase of quiet natrocarbonatite lava effusion that continued for over two decades. Low-viscosity carbonatite lava pooled and flowed within the Northern Crater, forming thin, fast-moving flows that solidified quickly and built up a complex platform of interlayered carbonatite. By the late 1990s, the accumulating lava had nearly filled the Northern Crater, and by 1998 carbonatite flows began overflowing the crater rim and descending the upper flanks — a dramatic sight of jet-black lava streaming down the ash-grey cone. This prolonged effusive period provided volcanologists with unparalleled access to study active carbonatite volcanism, the only such opportunity on the modern Earth."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Ol Doinyo Lengai has been in a state of ongoing eruptive activity since April 2017, with carbonatite lava effusion and intermittent ash emissions from the Northern Crater continuing into 2025. Satellite thermal monitoring (MODIS and Sentinel-2) regularly detects hotspots at the summit, and periodic ash plumes have been reported by aviation advisories. Unlike well-monitored volcanoes in the Americas or Europe, Lengai's remote location in the Tanzanian Rift Valley means ground-based monitoring is limited. The Tanzania Geological Survey maintains oversight, supplemented by international research collaborations — notably with the Universities of Bristol, Cambridge, and several German institutions that have conducted field campaigns at the summit. There is no permanent seismic network on the volcano, though temporary deployments during periods of heightened activity have revealed persistent shallow seismicity beneath the edifice. The volcano's dual eruptive character — quiet carbonatite effusion transitioning without warning to explosive nephelinitic eruptions — makes monitoring particularly important, as the 2007 transition demonstrated that explosive phases can begin abruptly."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The direct hazard from Ol Doinyo Lengai is moderated by its remote location in the sparsely populated Gregory Rift Valley, but it is not negligible. During explosive eruptions like 2007–2008, ashfall can affect Maasai pastoral communities within a 20–30 km radius, contaminating water sources and pastureland for livestock. Pyroclastic flows, though generally confined to the upper flanks, pose a threat to climbers and researchers on the mountain. The volcano's steep, unconsolidated flanks are prone to sector collapse and landslides, particularly during heavy tropical rainfall on freshly deposited ash. A more distant but significant hazard involves Lake Natron, 15 km to the north — massive sector collapse or explosive eruption debris entering the lake could theoretically generate waves affecting shoreline communities and the flamingo breeding grounds that make Natron one of East Africa's most important wetlands. The lack of permanent monitoring infrastructure means that transitions from effusive to explosive activity may not be detected promptly, posing a risk to the growing number of adventure tourists who climb the volcano. Compared to more densely populated volcanic regions like <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> or <a href=\"/volcano/nyiragongo\">Nyiragongo</a>, Lengai's hazard profile is lower in absolute human terms but higher in relative risk for those in its immediate vicinity."
+    },
+    "geography_and_physical_description": {
+      "content": "Ol Doinyo Lengai rises as a steep, symmetrical cone from the floor of the Gregory Rift Valley at approximately 600 m elevation to a summit at 2,962 m (9,718 ft), presenting roughly 2,360 m of topographic prominence — an imposing sight from Lake Natron's soda flats to the north. The volcano's flanks are remarkably steep, with slopes exceeding 35° in places, composed of alternating layers of nephelinite tephra and carbonate-ceite lava. The summit hosts two craters: the active Northern Crater (approximately 300 m wide, with a depth that varies dramatically from near-full to over 100 m deep depending on the eruptive cycle) and the inactive Southern Crater. The Northern Crater floor is a constantly changing landscape of fresh black carbonatite lava flows, white-weathered older flows, small hornitos (spatter cones), and fumarolic vents — resembling an alien terrain unlike any other volcanic summit on Earth. The surrounding landscape is classic East African Rift scenery: the alkaline Lake Natron to the north, the Ngorongoro Conservation Area to the southeast, and the broad rift valley floor punctuated by smaller volcanic cones and fault scarps. The mountain stands relatively isolated, making its symmetrical profile a dramatic landmark visible across the flat rift valley for 50 km or more."
+    },
+    "climate_and_global_impact": {
+      "content": "Ol Doinyo Lengai's eruptions have had negligible global climate impact. Even the VEI 3 explosive eruptions produce modest atmospheric inputs compared to major subduction-zone volcanoes. The volcano's significance lies not in climate forcing but in its contributions to scientific understanding of carbonatite volcanism and the carbon cycle. Carbonatite eruptions release significant quantities of CO₂ directly into the atmosphere, and Lengai provides the only modern analogue for studying this process — one that may have been far more common in Earth's geological past. The volcano's ongoing carbonatite emissions contribute a small but scientifically interesting component to the natural volcanic CO₂ flux. Regionally, explosive eruptions deposit alkaline ash across the rift valley floor, temporarily fertilizing soils but also contaminating water sources with fluorine-rich material."
+    },
+    "cultural_significance": {
+      "content": "Ol Doinyo Lengai — 'The Mountain of God' in the Maa language — is the most sacred volcano in Maasai cosmology. The Maasai believe that Engai (God) descends upon the mountain, and its eruptions are interpreted as divine communication. Young Maasai warriors (moran) traditionally undertake pilgrimages to the summit as rites of passage and spiritual quests, a practice that continues to this day despite the volcanic hazards. The volcano's proximity to Lake Natron — where millions of lesser flamingos breed in one of East Africa's most spectacular wildlife gatherings — adds to its cultural and ecological significance. The mountain features in Maasai oral traditions as a site of creation and transformation, and local communities maintain a deep spiritual connection to its periodic eruptions, viewing the white-dusted summit (carbonatite weathering to white) as a sign of Engai's presence. For the international volcanological community, Ol Doinyo Lengai is a pilgrimage of a different kind — it is the only place on Earth where scientists can observe active carbonatite volcanism, making it an irreplaceable natural laboratory. The volcano has appeared in numerous documentary films, including BBC's Rift Valley series, and its surreal summit landscape has been photographed extensively for geological publications and popular media."
+    },
+    "visiting_and_tourism": {
+      "content": "Climbing Ol Doinyo Lengai has become an increasingly popular adventure tourism experience, though it remains a serious mountaineering undertaking. The standard route begins from the Maasai village of Engare Sero on the southern approach. Climbers typically depart at midnight to reach the summit for sunrise, ascending approximately 2,000 m of vertical gain over 8–10 hours. The final approach involves scrambling up steep, loose volcanic scree and ash at angles exceeding 35°. At the summit, the Northern Crater offers an extraordinary spectacle: fresh black carbonatite lava, white-weathered flows, active fumaroles, and occasionally visible lava in small vents — a landscape unlike anything else on the planet. The climb is physically demanding due to altitude, steepness, loose footing, and tropical heat on the lower slopes followed by cold and wind above 2,500 m. A local Maasai guide is required, and climbers should be aware that the crater area can be hazardous during active effusive or explosive phases. The nearest town with accommodation is Engare Sero or Mto wa Mbu (approximately 60 km south), and most climbers organize trips through Arusha-based operators as part of broader northern Tanzania itineraries that include the Ngorongoro Crater, Serengeti, and Lake Natron flamingo viewing. The best months for climbing are June–October during Tanzania's dry season."
+    },
+    "nearby_volcanoes": {
+      "content": "Ol Doinyo Lengai is part of a broader volcanic province in the eastern arm of the East African Rift. The adjacent Kerimasi volcano (2,607 m), just 13 km to the southeast, is an extinct stratovolcano that shares Lengai's alkaline-carbonatite lineage. The massive Ngorongoro Caldera (2,200 m rim), 60 km to the southeast, is the collapsed remnant of a volcanic complex that once rivaled Kilimanjaro in height. Mount Meru (4,550 m), Tanzania's second-tallest mountain and an active stratovolcano 130 km to the southeast, last erupted in 1910. Further south along the rift, the Kenyan volcanic field includes Longonot, Menengai, and Suswa. Across the rift in the Democratic Republic of Congo, <a href=\"/volcano/nyiragongo\">Nyiragongo</a> and Nyamuragira represent the rift's most persistently active volcanoes, while <a href=\"/volcano/erta-ale\">Erta Ale</a> in <a href=\"/volcanoes-in-ethiopia\">Ethiopia's</a> Afar Triangle hosts another of the world's rare persistent lava lakes."
+    },
+    "etymology": {
+      "content": "The name Ol Doinyo Lengai comes from the Maa language of the Maasai people: 'Ol Doinyo' means 'mountain' and 'Lengai' (also spelled 'Le Ngai' or 'L'Engai') means 'God.' The full name thus translates as 'Mountain of God,' reflecting the volcano's paramount spiritual significance in Maasai culture. The peak features in colonial-era European maps from the late 19th century, when German and British explorers first recorded the Maasai name."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Ol Doinyo Lengai Compared to East African Rift Volcanoes",
+      "description": "How does Lengai compare to other notable volcanoes along the East African Rift System?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Notable Feature"
+      ],
+      "rows": [
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "2,962 m",
+          "Stratovolcano",
+          "2017–present",
+          "3",
+          "27",
+          "Only active carbonatite volcano"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "20",
+          "Persistent lava lake; 2002 Goma disaster"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "585 m",
+          "Shield",
+          "1967–present",
+          "2",
+          "7",
+          "Persistent lava lake since 1967"
+        ],
+        [
+          "Meru",
+          "Tanzania",
+          "4,550 m",
+          "Stratovolcano",
+          "1910",
+          "4",
+          "4",
+          "Tanzania's second-tallest mountain"
+        ],
+        [
+          "Kilimanjaro",
+          "Tanzania",
+          "5,895 m",
+          "Stratovolcano",
+          "—",
+          "—",
+          "—",
+          "Africa's tallest peak; fumarolic"
+        ]
+      ]
+    },
+    {
+      "title": "Ol Doinyo Lengai vs the World's Persistent Lava-Producing Volcanoes",
+      "description": "Comparing the world's volcanoes known for near-continuous lava activity.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Lava Type",
+        "Temperature",
+        "Active Since",
+        "Eruption Style"
+      ],
+      "rows": [
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "Natrocarbonatite",
+          "~540°C",
+          "1983 (effusive)",
+          "Effusive → periodic explosive"
+        ],
+        [
+          "Kilauea",
+          "United States",
+          "Basalt",
+          "~1,170°C",
+          "1983–2018; 2023–",
+          "Shield effusive"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "Basalt",
+          "~1,150°C",
+          "1967–present",
+          "Lava lake"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "Nephelinite",
+          "~1,000°C",
+          "1927–present",
+          "Lava lake"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "Basalt",
+          "~1,100°C",
+          "~1934–present",
+          "Strombolian"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -1550,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -50,
+      "vei": null,
+      "label": "Confirmed eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 700,
+      "vei": null,
+      "label": "Confirmed eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1350,
+      "vei": null,
+      "label": "Confirmed eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1880,
+      "vei": 2,
+      "label": "First documented historical eruption (North Crater)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1917,
+      "vei": 3,
+      "label": "Major explosive eruption — first well-documented VEI 3",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1940,
+      "vei": 3,
+      "label": "Explosive eruption, North Crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1960,
+      "vei": 3,
+      "label": "Prolonged explosive phase begins (6 years)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1967,
+      "vei": 3,
+      "label": "VEI 3 explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1983,
+      "vei": 2,
+      "label": "Long effusive carbonatite phase begins (23 years)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2007,
+      "vei": 3,
+      "label": "Explosive eruption — carbonatite-to-silicate transition",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 0,
+      "label": "Ongoing carbonatite effusion and ash emissions",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 4,
+      "note": "~1550 BCE to ~1350 CE — sparse record"
+    },
+    {
+      "century": "19th",
+      "count": 2,
+      "note": "1880, 1882–83 — first European-documented eruptions"
+    },
+    {
+      "century": "20th",
+      "count": 16,
+      "note": "Remarkably active; near-continuous from 1960s onward"
+    },
+    {
+      "century": "21st",
+      "count": 5,
+      "note": "2007–10 explosive; 2011–14, 2015, 2016, 2017–present effusive"
+    }
+  ],
+  "facts": [
+    "Ol Doinyo Lengai is the only volcano on Earth currently erupting natrocarbonatite lava — a magma type composed of sodium and calcium carbonates rather than silicate minerals.",
+    "Natrocarbonatite lava erupts at approximately 500–590°C (930–1,090°F), less than half the temperature of basaltic lava (~1,170°C) and the coolest lava known on the modern Earth.",
+    "Freshly erupted carbonatite lava appears jet black but turns white within hours as it absorbs atmospheric moisture — giving the summit crater an eerie, constantly changing appearance.",
+    "The Maasai name 'Ol Doinyo Lengai' translates to 'Mountain of God,' and the volcano holds the highest spiritual significance in Maasai culture as a dwelling place of Engai (God).",
+    "Natrocarbonatite lava has the viscosity of motor oil at eruption temperature — approximately 1,000 times less viscous than basaltic lava — making it the most fluid lava on Earth.",
+    "The mineral nyerereite (Na₂Ca(CO₃)₂), found only in Lengai's lavas, is named after Julius Nyerere, Tanzania's first president.",
+    "Between 1983 and 2006, quiet carbonatite lava effusion gradually filled the Northern Crater until flows began overflowing the crater rim in 1998.",
+    "The 2007 explosive eruption transformed the volcano overnight from effusive carbonatite to violent silicate eruptions, demonstrating a dual magmatic system that scientists had only theorized about.",
+    "Ol Doinyo Lengai stands with approximately 2,360 m of topographic prominence above the rift valley floor — making the standard climbing route one of the steepest non-technical volcano ascents in the world.",
+    "Lake Natron, 15 km north of the volcano, hosts up to 2.5 million lesser flamingos — the largest breeding colony of the species in the world — sustained by the lake's extreme alkalinity partly derived from volcanic carbonate minerals.",
+    "Carbonatite volcanism was once thought to be confined to Earth's geological past until Lengai proved it persists today, making the volcano an irreplaceable natural laboratory.",
+    "The summit crater temperature can drop below freezing at night while active carbonatite lava flows at 540°C just meters away — one of the most extreme thermal juxtapositions on any volcanic summit."
+  ],
+  "faqs": [
+    {
+      "question": "What makes Ol Doinyo Lengai unique among volcanoes?",
+      "answer": "Ol Doinyo Lengai is the only volcano on Earth currently erupting natrocarbonatite lava — a magma type composed of sodium and calcium carbonates rather than the silicate minerals found in virtually all other volcanic lavas. This extremely rare lava erupts at just 500–590°C, roughly half the temperature of basaltic lava, and appears black when molten rather than red-orange. It also has extraordinarily low viscosity, flowing almost like water. Within hours of eruption, the lava absorbs atmospheric moisture and turns white, giving the summit an unearthly appearance. No other active volcano produces anything like it."
+    },
+    {
+      "question": "Is Ol Doinyo Lengai still active?",
+      "answer": "Yes, Ol Doinyo Lengai is very much active. The volcano has been in near-continuous eruptive activity since 1983, alternating between quiet phases of natrocarbonatite lava effusion in the summit crater and periodic explosive eruptions that produce ash columns. The most recent confirmed eruption began in April 2017 and continues into 2025, with ongoing carbonatite lava emission and intermittent ash activity at the Northern Crater. Satellite monitoring regularly detects thermal anomalies at the summit."
+    },
+    {
+      "question": "Can you climb Ol Doinyo Lengai?",
+      "answer": "Yes, Ol Doinyo Lengai is climbable and has become a popular adventure tourism objective in northern Tanzania. The standard route ascends from the Maasai village of Engare Sero on the southern side, with climbers typically departing at midnight to reach the summit for sunrise. The climb covers approximately 2,000 m of elevation gain over 8–10 hours and involves steep, loose volcanic scree — it is physically demanding but non-technical. A local Maasai guide is required. The summit crater offers an extraordinary view of active carbonatite lava, unlike anything else on the planet."
+    },
+    {
+      "question": "Why is the lava at Ol Doinyo Lengai black and then white?",
+      "answer": "Natrocarbonatite lava erupts at approximately 540°C — too cool to glow red in daylight — so it appears jet black when fresh. The lava is composed of sodium and calcium carbonate minerals, which are chemically unstable in the presence of atmospheric moisture. Within hours of exposure, the carbonatite absorbs water and undergoes rapid chemical weathering, transforming from dark grey-black to brilliant white. This gives the summit crater a striking appearance: fresh black lava flows surrounded by white-weathered older flows, with the contrast constantly shifting as new lava is erupted."
+    },
+    {
+      "question": "What does Ol Doinyo Lengai mean?",
+      "answer": "Ol Doinyo Lengai translates to 'Mountain of God' in the Maa language spoken by the Maasai people of East Africa. 'Ol Doinyo' means 'mountain' and 'Lengai' (also written 'Le Ngai' or 'L'Engai') means 'God.' The volcano is the most sacred peak in Maasai cosmology, believed to be a dwelling place of Engai, the supreme deity. Maasai warriors traditionally make pilgrimages to the summit as spiritual rites of passage."
+    },
+    {
+      "question": "How dangerous is Ol Doinyo Lengai?",
+      "answer": "Ol Doinyo Lengai poses moderate direct hazard, mitigated by its remote location in the sparsely populated Gregory Rift Valley. During explosive phases like 2007–2008, ashfall can affect Maasai communities within 20–30 km, contaminating water and pasture. Pyroclastic flows, though generally limited to upper flanks, threaten climbers. The steep, unconsolidated slopes are prone to landslides. The most significant risk is the unpredictable transition from quiet effusive activity to explosive eruptions, which can occur suddenly — as demonstrated in September 2007 when decades of calm carbonatite lava emission gave way to violent VEI 3 explosions within days."
+    },
+    {
+      "question": "When did Ol Doinyo Lengai last erupt?",
+      "answer": "Ol Doinyo Lengai has been in a state of ongoing eruption since April 2017, with natrocarbonatite lava effusion and intermittent ash emissions from the Northern Crater continuing into 2025. Before that, a major explosive eruption (VEI 3) occurred from September 2007 through 2010, followed by a return to effusive carbonatite activity from 2011 onward. The volcano has been in near-continuous activity since 1983, making it one of the most persistently active volcanoes in Africa."
+    },
+    {
+      "question": "Where is Ol Doinyo Lengai located?",
+      "answer": "Ol Doinyo Lengai is located in the Arusha Region of northern Tanzania, in the Gregory Rift Valley approximately 15 km south of Lake Natron and 160 km west-northwest of the city of Arusha. It stands within the eastern branch of the East African Rift System. The volcano is accessible from Arusha via the town of Mto wa Mbu and the Maasai village of Engare Sero at its southern base. Its summit is visible across the flat rift valley floor from distances exceeding 50 km."
+    }
+  ],
+  "people_also_search": [
+    "ol doinyo lengai carbonatite lava",
+    "mountain of god volcano",
+    "only carbonatite volcano",
+    "climbing ol doinyo lengai",
+    "ol doinyo lengai eruption",
+    "tanzania volcano",
+    "lake natron volcano",
+    "coldest lava on earth"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Ol Doinyo Lengai",
+    "alternateName": [
+      "Mountain of God",
+      "Oldoinyo Lengai",
+      "Lengai"
+    ],
+    "description": "Active stratovolcano in Tanzania's Gregory Rift Valley — the only volcano on Earth erupting natrocarbonatite lava",
+    "geo": {
+      "latitude": -2.764,
+      "longitude": 35.914,
+      "elevation": 2962
+    },
+    "containedInPlace": {
+      "name": "Arusha Region",
+      "country": "Tanzania"
+    },
+    "url": "https://volcanoatlas.com/volcano/lengai-ol-doinyo"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=222120",
+      "text": "Smithsonian GVP: Ol Doinyo Lengai",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Ol-Doinyo-Lengai",
+      "text": "Britannica: Ol Doinyo Lengai",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images/event/44801",
+      "text": "NASA Earth Observatory: Ol Doinyo Lengai",
+      "type": "remote_sensing"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "erta-ale",
+      "nyiragongo",
+      "nyamuragira",
+      "kilauea",
+      "stromboli"
+    ],
+    "country_pages": [
+      "tanzania",
+      "ethiopia",
+      "dr-congo",
+      "kenya"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "erta-ale",
+    "nyiragongo",
+    "kilauea",
+    "erebus",
+    "stromboli"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Tanzania",
+      "url": "/volcanoes-in-tanzania"
+    },
+    {
+      "label": "Ol Doinyo Lengai",
+      "url": "/volcano/lengai-ol-doinyo"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/lengai-ol-doinyo"
+}

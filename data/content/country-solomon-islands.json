@@ -1,0 +1,175 @@
+{
+  "slug": "solomon-islands",
+  "title": "Volcanoes in Solomon Islands",
+  "meta_title": "Volcanoes in Solomon Islands — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Solomon Islands has 7 Holocene volcanoes including the submarine Kavachi and frequently erupting Tinakula. Full list, map, and eruption guide.",
+
+  "quick_answer": {
+    "how_many": "Solomon Islands has 7 Holocene volcanoes, including 2 submarine seamounts. The islands sit along the Solomon Volcanic Arc where the Australian and Pacific plates converge.",
+    "how_many_active": "Three volcanoes have erupted in the modern era: Tinakula (last 2024), Kavachi (last 2014, possibly 2020), and Savo (last 1847). Tinakula and Kavachi are among the most active volcanoes in the southwestern Pacific.",
+    "why": "Solomon Islands volcanism results from the complex subduction of the Australian Plate beneath the Pacific Plate along the Solomon Trench.",
+    "tallest": "Tinakula at 796 m (2,612 ft)",
+    "most_recent": "Tinakula in 2024"
+  },
+
+  "hero": {
+    "title": "Volcanoes in Solomon Islands",
+    "subtitle": "7 Volcanoes Along the Solomon Arc",
+    "volcano_count": 7,
+    "active_count": 3,
+    "tallest": {"name": "Tinakula", "elevation_m": 796},
+    "most_recent_eruption": {"volcano": "Tinakula", "year": "2024"}
+  },
+
+  "sections": {
+    "overview": {
+      "content": "Solomon Islands has 7 Holocene volcanoes arrayed along the Solomon Volcanic Arc, a tectonically complex island chain in the southwestern Pacific where the Australian and Pacific plates converge. Despite a modest volcano count, the archipelago is remarkably active: [[volcano:kavachi|Kavachi]], a shallow submarine volcano named after a local sea deity, has erupted at least 31 confirmed times since 1939 — one of the highest eruption frequencies in the southwestern Pacific — and [[volcano:tinakula|Tinakula]], a small but ferociously active island, has 24 confirmed eruptions and erupted most recently in 2024. The Solomon Islands' volcanic activity is driven by subduction along the Solomon Trench, complicated by the collision of the Ontong Java Plateau with the arc. The highest volcanic point is Tinakula at just 796 m (2,612 ft), making the Solomon Islands one of the lowest-elevation volcanic nations. Two of the seven volcanoes are submarine (Kana Keoki and Coleman Seamount). [[volcano:savo|Savo]] (455 m), a small island visible from the capital Honiara, is the only volcano with a significant nearby population and a demonstrated history of destructive eruptions, including events that reportedly killed hundreds of islanders in the 16th–19th centuries. The Solomon Islands lack a dedicated volcanic observatory; monitoring relies on satellite observations, regional seismic networks, and reports from islanders and passing ships."
+    },
+
+    "tectonic_setting": {
+      "content": "The Solomon Islands occupy one of the most tectonically complex convergent margins on Earth. The primary driver is the northeastward subduction of the Australian Plate beneath the Pacific Plate along the Solomon Trench, at rates of approximately 95–100 mm per year — among the fastest convergence rates globally. This subduction generates the Solomon Volcanic Arc, which extends from Bougainville (Papua New Guinea) in the northwest through the western and central Solomon Islands. However, the tectonic picture is complicated by the collision of the Ontong Java Plateau — a massive oceanic plateau comparable in area to Alaska — with the arc. This collision has choked the subduction zone, created a reversal of subduction polarity in places, and produced the complex pattern of volcanic islands, submarine volcanoes, and back-arc spreading seen today. Tinakula, at the southeastern end of the chain, technically sits on the northern extension of the [[country:vanuatu|Vanuatu]] volcanic arc rather than the Solomon arc proper. All Solomon Islands volcanoes erupt andesite to basaltic-andesite compositions typical of island-arc subduction volcanism, reflecting the relatively thin crustal thickness beneath the oceanic arc."
+    },
+
+    "major_volcanoes": {
+      "content": "**Kavachi** — [[volcano:kavachi|Kavachi]] is one of the most active submarine volcanoes on Earth and the most prolific eruptor in the Solomon Islands, with 31 confirmed eruptions since its first recorded event in 1939. Named 'Rejo te Kvachi' ('Kavachi's Oven') by the people of nearby Gatokae and Vangunu islands, this shallow submarine volcano has repeatedly built ephemeral islands up to 1 km long, only for them to be destroyed by wave erosion. Its summit lies approximately 20 m below sea level. Eruptions produce dramatic Surtseyan-style activity — explosive jets of steam, rock, and water visible for kilometers. Kavachi gained viral attention in 2015 when researchers discovered sharks living in its warm, acidic crater waters. Despite its frequency (eruptions in 1939, 1942, 1950, 1951, 1952, 1957, 1958, 1961–66, 1969–78, 1991, 2000, 2002, 2004, 2007, 2014, and possibly 2020), Kavachi's VEI max is only 2.\n\n**Tinakula** — [[volcano:tinakula|Tinakula]] is a small (3.5 km wide) but intensely active stratovolcano at the northwestern end of the Santa Cruz Islands. Its breached summit crater extends from the peak to below sea level, creating an embayment on the northwest coast enlarged by landslides in 1965. Tinakula has 24 confirmed eruptions, with a VEI max of 3. The volcano was permanently evacuated in 1971 following a violent eruption, and no one has lived on the island since. Its eruptions are frequently observed by satellite and passing vessels — ash plumes and incandescent lava are regularly detected. The most recent eruption was in 2024, and significant events include VEI 3 eruptions in 1595, 1840, 1951, 1965, and 2017.\n\n**Savo** — [[volcano:savo|Savo]] (455 m / 1,493 ft) is a forested andesitic-to-dacitic stratovolcano forming a 6 × 7 km island off the northeast coast of Guadalcanal, visible from the capital Honiara. It has 3 confirmed eruptions (1568, 1835, and 1847, with an uncertain event in 1650), with a VEI max of 3. The 1568 eruption, observed by Spanish explorer Álvaro de Mendaña during the first European contact with the Solomon Islands, reportedly killed many islanders with pyroclastic flows. Savo's summit crater (1 × 1.5 km) contains young lava domes, and thermal activity (hot springs, steaming ground) continues. Savo is the most hazardous volcano in the Solomon Islands in terms of population risk: approximately 3,000 people live on the island, and Honiara (~85,000) lies just 35 km to the south.\n\n**Simbo** — Simbo (335 m / 1,099 ft) is a small volcanic island in the Western Province with one confirmed eruption around 1910. Active solfataras (fumarolic fields) and hot springs indicate ongoing thermal activity. Approximately 1,500 people live on Simbo.\n\n**Kana Keoki and Coleman Seamount** — These two submarine stratovolcanoes lie at depths of -700 m and -717 m respectively, south of Simbo in the western Solomon arc. Neither has confirmed eruptions, and they are known primarily from bathymetric surveys."
+    },
+
+    "eruption_history": {
+      "content": "The Solomon Islands' volcanic eruption record is dominated by the two most active centers: Kavachi (31 confirmed eruptions since 1939) and Tinakula (24 confirmed eruptions spanning approximately 3,000 years). Together, these two volcanoes account for 55 of the 62 total eruptions in the database. Kavachi's eruption frequency is exceptional — it has erupted roughly every 2–3 years since its first observation in 1939, though its submarine setting means many eruptions may go unrecorded. Most Kavachi eruptions are small (VEI 0–2) Surtseyan events producing steam and tephra jets. Tinakula's eruptions are more consequential: VEI 3 events in 1595, 1840, 1951, 1965, and 2017 produced significant ash columns, pyroclastic flows, and lava flows that have progressively modified the island's shape. The 1595 eruption, observed during Mendaña's second Pacific voyage, reportedly devastated the island. The 1971 eruption prompted the permanent evacuation of Tinakula's population. Savo's eruption history is shorter but more destructive: the 1568 eruption killed many inhabitants (exact numbers unknown), and the 1835 eruption (VEI 3) produced pyroclastic flows that reached the coast. The VEI distribution across Solomon Islands eruptions shows predominantly small events: 5 at VEI 0, 23 at VEI 1, 25 at VEI 2, and 7 at VEI 3."
+    },
+
+    "volcanic_hazards": {
+      "content": "The Solomon Islands face volcanic hazards amplified by limited monitoring infrastructure, remote geography, and coastal communities with few evacuation options. Savo volcano poses the greatest risk to human life: approximately 3,000 people live on Savo Island, and the capital Honiara (population ~85,000) on Guadalcanal is just 35 km south. A significant eruption of Savo could produce pyroclastic flows reaching coastal villages within minutes, and ashfall could disrupt Honiara. Savo's 1568 and 1835 eruptions demonstrate its capacity for destructive pyroclastic activity. Tinakula's hazards are mitigated by its uninhabited status since 1971, though its frequent eruptions and the potential for flank collapse pose tsunami risks to nearby islands. Kavachi's submarine eruptions occasionally create navigation hazards for boats and can produce localized tsunamis when ephemeral islands collapse. The Solomon Islands lack a dedicated volcanic observatory. Volcano monitoring relies on satellite remote sensing (thermal anomaly detection by agencies like the Darwin VAAC), the regional seismic network operated by the Solomon Islands National Disaster Management Office, and reports from local communities and mariners. This monitoring gap means eruptions can begin with little or no warning. Climate change and sea-level rise add compounding hazards, as many Solomon Islands communities live at sea level with minimal resilience to combined volcanic-tsunami events."
+    },
+
+    "volcanic_zones_map": {
+      "content": "The Solomon Islands' 7 Holocene volcanoes span approximately 1,000 km from northwest to southeast across the archipelago. The western cluster includes Simbo (335 m), Kana Keoki (-700 m), and Coleman Seamount (-717 m), all located in the Western Province south of the Shortland Islands. Kavachi (-20 m) lies further southeast, south of Vangunu Island in the New Georgia group. Savo (455 m) sits in isolation between the Florida Islands and Guadalcanal, within sight of Honiara. At the southeastern extremity, Tinakula (796 m) is geographically part of the Santa Cruz Islands, approximately 350 km from the main Solomon chain, and sits on the northern extension of the Vanuatu arc rather than the Solomon arc proper. New Georgia at 8.9°S (-240 m) is a poorly known submarine feature. The distribution reflects the curved geometry of the Solomon Trench subduction zone, with volcanic centers concentrated along the inner (concave) side of the arc."
+    },
+
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism is deeply woven into the cultural traditions of the Solomon Islands. Kavachi takes its name from a sea deity of the Gatokae and Vangunu peoples, and local oral histories record eruptions extending back well before Western documentation. Tinakula's eruptions feature in the oral traditions of the Santa Cruz Islands, where the volcano's abandonment in 1971 displaced an entire island community. Savo's volcanic hot springs and steaming ground are culturally significant to the island's inhabitants. The economic impact of volcanism is limited in the Solomon Islands — the country lacks the tourism infrastructure to capitalize on its volcanic attractions, unlike neighboring [[country:vanuatu|Vanuatu]] (where Mount Yasur is a major tourist draw). However, volcanic soils on islands like Savo contribute to agricultural productivity. The geothermal potential of Savo and Simbo has been assessed for possible small-scale electricity generation, which could benefit island communities currently dependent on diesel generators."
+    },
+
+    "visiting_volcanoes": {
+      "content": "Volcanic tourism in the Solomon Islands is limited by the country's remoteness and underdeveloped tourism infrastructure, but adventurous travelers can experience volcanic features. Savo Island is the most accessible volcanic destination, reached by motorboat from Honiara (~1.5 hours). Visitors can hike to the summit crater and observe thermal activity including hot springs and steaming ground. Simbo Island's solfataras and hot springs can be visited with local guides. Tinakula is uninhabited and officially off-limits due to volcanic hazard, though it can be viewed from boats at safe distance. Kavachi cannot be visited safely — its eruptions are unpredictable, and the submarine volcano is in open ocean far from land. The Solomon Islands have no volcanic national parks or formal visitor infrastructure at volcanic sites. Visitors should arrange guides through local communities and be prepared for basic conditions. The capital Honiara on Guadalcanal serves as the gateway, with international flights from Brisbane, Port Moresby, and Fiji."
+    }
+  },
+
+  "volcano_table": {
+    "columns": ["Name", "Slug", "Elevation (m)", "Type", "Last Eruption", "Status", "Eruption Count", "VEI Max"],
+    "rows": [
+      {"name": "Tinakula", "slug": "tinakula", "elevation_m": 796, "type": "Stratovolcano", "last_eruption": "2024", "status": "Active", "eruption_count": 24, "vei_max": 3},
+      {"name": "Savo", "slug": "savo", "elevation_m": 455, "type": "Stratovolcano", "last_eruption": "1847", "status": "Active", "eruption_count": 3, "vei_max": 3},
+      {"name": "Simbo", "slug": "simbo", "elevation_m": 335, "type": "Stratovolcano(es)", "last_eruption": "1910", "status": "Active", "eruption_count": 1, "vei_max": null},
+      {"name": "Kavachi", "slug": "kavachi", "elevation_m": -20, "type": "Stratovolcano", "last_eruption": "2014", "status": "Active", "eruption_count": 31, "vei_max": 2},
+      {"name": "New Georgia at 8.9S", "slug": "new-georgia-at-8-9-s", "elevation_m": -240, "type": "Stratovolcano", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Kana Keoki", "slug": "kana-keoki", "elevation_m": -700, "type": "Stratovolcano", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Coleman Seamount", "slug": "coleman-seamount", "elevation_m": -717, "type": "Stratovolcano", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null}
+    ]
+  },
+
+  "elevation_chart": [
+    {"name": "Tinakula", "elevation": 796, "slug": "tinakula"},
+    {"name": "Savo", "elevation": 455, "slug": "savo"},
+    {"name": "Simbo", "elevation": 335, "slug": "simbo"}
+  ],
+
+  "eruption_timeline": [
+    {"year": 1568, "volcano": "Savo", "vei": 3, "label": "Eruption observed by Spanish explorer Mendana during first European contact — many islanders killed"},
+    {"year": 1595, "volcano": "Tinakula", "vei": 3, "label": "Major eruption observed during Mendana's second Pacific voyage"},
+    {"year": 1840, "volcano": "Tinakula", "vei": 3, "label": "Significant eruption modifies island shape"},
+    {"year": 1939, "volcano": "Kavachi", "vei": 2, "label": "First recorded eruption of Kavachi submarine volcano"},
+    {"year": 1951, "volcano": "Tinakula", "vei": 3, "label": "Major eruption — ash and pyroclastic flows"},
+    {"year": 1965, "volcano": "Tinakula", "vei": 3, "label": "Violent eruption causes landslides and creates NW coastal embayment"},
+    {"year": 1971, "volcano": "Tinakula", "vei": 2, "label": "Eruption prompts permanent evacuation of island"},
+    {"year": 2007, "volcano": "Kavachi", "vei": 2, "label": "Kavachi builds ephemeral island above sea level"},
+    {"year": 2017, "volcano": "Tinakula", "vei": 3, "label": "Large eruption with significant ash plume detected by satellite"},
+    {"year": 2024, "volcano": "Tinakula", "vei": null, "label": "Most recent eruption in Solomon Islands"}
+  ],
+
+  "vei_distribution": [
+    {"vei": 0, "count": 5},
+    {"vei": 1, "count": 23},
+    {"vei": 2, "count": 25},
+    {"vei": 3, "count": 7}
+  ],
+
+  "facts": [
+    "Kavachi has erupted at least 31 confirmed times since 1939 — roughly once every 2-3 years — making it one of the most frequently active submarine volcanoes on Earth.",
+    "Tinakula was permanently evacuated in 1971 and has been uninhabited ever since, though it continues to erupt regularly.",
+    "Kavachi has repeatedly built temporary islands up to 1 km long, only for wave erosion to destroy them within weeks or months.",
+    "In 2015, researchers discovered sharks living inside Kavachi's warm, acidic submarine crater — the so-called 'sharkcano' made global headlines.",
+    "The Solomon Islands' tallest volcano, Tinakula, is just 796 m — making it one of the lowest-elevation volcanic nations among Pacific island countries.",
+    "Savo Island, home to approximately 3,000 people, sits just 35 km from the capital Honiara — the closest active volcano to a major population center in the Solomon Islands.",
+    "The 1568 eruption of Savo was observed by Spanish explorer Alvaro de Mendana during the first European contact with the Solomon Islands.",
+    "Three of the Solomon Islands' 7 volcanoes are submarine — reflecting the oceanic arc setting where much volcanic activity occurs below sea level.",
+    "Tinakula's island is only 3.5 km wide, yet its 24 confirmed eruptions over approximately 3,000 years make it one of the most active volcanoes by area in the Pacific.",
+    "The Solomon Islands have no dedicated volcanic observatory — eruption monitoring relies on satellites, regional seismic networks, and reports from islanders.",
+    "Kavachi's name comes from a sea deity of the Gatokae and Vangunu peoples — local oral traditions describe eruptions predating Western documentation by centuries.",
+    "The collision of the Ontong Java Plateau with the Solomon arc has created one of the most tectonically complex subduction systems on Earth."
+  ],
+
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Solomon Islands?",
+      "answer": "Solomon Islands has 7 Holocene volcanoes listed in the Smithsonian Global Volcanism Program database: Tinakula, Kavachi, Savo, Simbo, New Georgia (submarine), Kana Keoki (submarine), and Coleman Seamount (submarine). Three are above sea level (Tinakula, Savo, Simbo), one is near the surface (Kavachi at -20 m), and three are deep submarine features. Three volcanoes — Tinakula, Kavachi, and Savo — have confirmed historical eruptions."
+    },
+    {
+      "question": "What is the most active volcano in Solomon Islands?",
+      "answer": "Kavachi is the most active volcano by eruption count, with 31 confirmed eruptions since 1939. It erupts roughly every 2-3 years, producing Surtseyan explosions and occasionally building temporary islands. Tinakula, with 24 confirmed eruptions, is the most active above-sea-level volcano in the Solomon Islands and produces more consequential eruptions, including VEI 3 events with significant ash plumes and pyroclastic flows."
+    },
+    {
+      "question": "What is Kavachi volcano?",
+      "answer": "Kavachi is a shallow submarine volcano in the Solomon Islands, south of Vangunu Island. Named after a sea deity of the local Gatokae and Vangunu peoples, it is one of the most active submarine volcanoes on Earth, with 31 confirmed eruptions since 1939. Its summit lies approximately 20 m below sea level, and eruptions produce dramatic Surtseyan-style jets of steam, rock, and water. Kavachi has repeatedly built ephemeral islands that are subsequently destroyed by wave erosion. It gained worldwide attention in 2015 when sharks were filmed inside its active crater."
+    },
+    {
+      "question": "Is Savo volcano dangerous?",
+      "answer": "Yes, Savo is the most hazardous volcano in the Solomon Islands in terms of population risk. Approximately 3,000 people live on Savo Island, and the capital Honiara (~85,000 population) on Guadalcanal is just 35 km south. Savo has 3 confirmed eruptions, including destructive events in 1568 and 1835 (VEI 3) that produced pyroclastic flows reaching the coast. Ongoing thermal activity (hot springs, steaming ground) confirms an active magmatic system. A significant future eruption could threaten both Savo's residents and potentially Honiara with ashfall."
+    },
+    {
+      "question": "When was the last eruption in Solomon Islands?",
+      "answer": "The most recent eruption in the Solomon Islands was at Tinakula in 2024. Tinakula erupts frequently, with confirmed activity also in 2017 and 2018. Kavachi's most recent confirmed eruption was in 2014, with a possible event in 2020. Savo, the most populated volcanic island, last erupted in 1847 — over 175 years ago. The Solomon Islands experience volcanic eruptions more frequently than many people realize, though most events at Kavachi and Tinakula occur far from populated areas."
+    },
+    {
+      "question": "Why does Solomon Islands have volcanoes?",
+      "answer": "Solomon Islands has volcanoes because it sits on a subduction zone where the Australian Plate dives beneath the Pacific Plate along the Solomon Trench at approximately 95-100 mm per year — one of the fastest convergence rates on Earth. As the plate descends, water released from it triggers melting in the overlying mantle, generating magma that rises to form the Solomon Volcanic Arc. The tectonic picture is complicated by the collision of the massive Ontong Java Plateau with the arc, creating a uniquely complex volcanic setting."
+    },
+    {
+      "question": "Can you visit volcanoes in Solomon Islands?",
+      "answer": "Savo Island is the most accessible volcano, reached by motorboat from Honiara (approximately 1.5 hours). Visitors can hike to the summit crater and see hot springs and steaming ground. Simbo Island also has accessible thermal features. Tinakula is uninhabited and officially off-limits due to volcanic hazard. Kavachi is a submarine volcano in open ocean and cannot be safely visited. The Solomon Islands lack formal volcanic tourism infrastructure — visits require arranging local guides and being prepared for basic conditions."
+    },
+    {
+      "question": "What is the 'sharkcano'?",
+      "answer": "The term 'sharkcano' was coined in 2015 after a National Geographic expedition deployed cameras inside Kavachi's active submarine crater and filmed multiple shark species — including hammerheads and silky sharks — living in the warm, acidic, sulfur-rich waters. The discovery raised scientific questions about how marine life adapts to extreme volcanic environments and became a viral sensation. Kavachi is one of the few places on Earth where large predators have been documented inside an active volcanic crater."
+    }
+  ],
+
+  "comparison_table": {
+    "title": "Solomon Islands Compared to Other Southwest Pacific Volcanic Countries",
+    "headers": ["Country", "Holocene Volcanoes", "Most Active Volcano", "Most Recent Eruption", "Tallest Volcano"],
+    "rows": [
+      ["Solomon Islands", "7", "Kavachi (31 eruptions)", "Tinakula (2024)", "Tinakula (796 m)"],
+      ["Vanuatu", "12", "Ambrym/Yasur", "Yasur (ongoing)", "Aoba (1,496 m)"],
+      ["Papua New Guinea", "39", "Manam/Rabaul", "Manam (2024)", "Ulawun (2,334 m)"],
+      ["Tonga", "21", "Hunga Tonga", "Hunga (2022)", "Kao (1,030 m)"],
+      ["New Zealand", "23", "White Island", "White Island (2019)", "Ruapehu (2,797 m)"]
+    ]
+  },
+
+  "external_links": [
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=255060", "text": "Smithsonian GVP: Kavachi", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=256010", "text": "Smithsonian GVP: Tinakula", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=255070", "text": "Smithsonian GVP: Savo", "type": "primary_source"},
+    {"url": "https://www.bom.gov.au/aviation/volcanic-ash/", "text": "Darwin VAAC — Volcanic Ash Advisory Centre", "type": "monitoring"},
+    {"url": "https://www.britannica.com/place/Solomon-Islands", "text": "Britannica: Solomon Islands", "type": "encyclopedia"}
+  ],
+
+  "related_countries": ["vanuatu", "papua-new-guinea", "tonga", "new-zealand", "fiji"],
+
+  "breadcrumb": [
+    {"label": "Home", "url": "/"},
+    {"label": "Volcanoes in Solomon Islands", "url": "/volcanoes-in-solomon-islands"}
+  ],
+
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

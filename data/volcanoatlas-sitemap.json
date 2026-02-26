@@ -1,0 +1,1444 @@
+[
+  {
+    "url": "/",
+    "title": "VolcanoAtlas \u2014 Every Volcano on Earth",
+    "type": "home",
+    "priority": "1.0",
+    "changefreq": "weekly"
+  },
+  {
+    "url": "/map",
+    "title": "Interactive Volcano Map",
+    "type": "special",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/ambrym",
+    "title": "Ambrym",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/avachinsky",
+    "title": "Avachinsky",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/colima",
+    "title": "Volc\u00e1n de Colima",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-algeria",
+    "title": "Volcanoes in Algeria",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-antarctica",
+    "title": "Volcanoes in Antarctica",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-argentina",
+    "title": "Volcanoes in Argentina",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-armenia",
+    "title": "Volcanoes in Armenia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-australia",
+    "title": "Volcanoes in Australia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-cameroon",
+    "title": "Volcanoes in Cameroon",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-canada",
+    "title": "Volcanoes in Canada",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-chad",
+    "title": "Volcanoes in Chad",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-chile",
+    "title": "Volcanoes in Chile",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-china",
+    "title": "Volcanoes in China",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-colombia",
+    "title": "Volcanoes in Colombia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-costa-rica",
+    "title": "Volcanoes in Costa Rica",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-dominica",
+    "title": "Volcanoes in Dominica",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-dr-congo",
+    "title": "Volcanoes in DR Congo",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-ecuador",
+    "title": "Volcanoes in Ecuador",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-el-salvador",
+    "title": "Volcanoes in El Salvador",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-eritrea",
+    "title": "Volcanoes in Eritrea",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-ethiopia",
+    "title": "Volcanoes in Ethiopia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-france",
+    "title": "Volcanoes in France",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-greece",
+    "title": "Volcanoes in Greece",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-guatemala",
+    "title": "Volcanoes in Guatemala",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-honduras",
+    "title": "Volcanoes in Honduras",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-iceland",
+    "title": "Volcanoes in Iceland",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-indonesia",
+    "title": "Volcanoes in Indonesia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-italy",
+    "title": "Volcanoes in Italy",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-japan",
+    "title": "Volcanoes in Japan",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-kenya",
+    "title": "Volcanoes in Kenya",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-mexico",
+    "title": "Volcanoes in Mexico",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-new-zealand",
+    "title": "Volcanoes in New Zealand",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-nicaragua",
+    "title": "Volcanoes in Nicaragua",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-papua-new-guinea",
+    "title": "Volcanoes in Papua New Guinea",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-peru",
+    "title": "Volcanoes in Peru",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-philippines",
+    "title": "Volcanoes in the Philippines",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-portugal",
+    "title": "Volcanoes in Portugal",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-russia",
+    "title": "Volcanoes in Russia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-saudi-arabia",
+    "title": "Volcanoes in Saudi Arabia",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-solomon-islands",
+    "title": "Volcanoes in Solomon Islands",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-spain",
+    "title": "Volcanoes in Spain",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-sudan",
+    "title": "Volcanoes in Sudan",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-tanzania",
+    "title": "Volcanoes in Tanzania",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-tonga",
+    "title": "Volcanoes in Tonga",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-turkiye",
+    "title": "Volcanoes in T\u00fcrkiye",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-united-kingdom",
+    "title": "Volcanoes in the United Kingdom",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-united-states",
+    "title": "Volcanoes in the United States",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-vanuatu",
+    "title": "Volcanoes in Vanuatu",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanoes-in-yemen",
+    "title": "Volcanoes in Yemen",
+    "type": "country",
+    "priority": "0.9",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/erta-ale",
+    "title": "Erta Ale",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/fonualei",
+    "title": "Fonualei",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/fuego",
+    "title": "Volc\u00e1n de Fuego",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/gamalama",
+    "title": "Gamalama",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/hekla",
+    "title": "Hekla Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/jan-mayen",
+    "title": "Jan Mayen (Beerenberg)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/karymsky",
+    "title": "Karymsky",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/katla",
+    "title": "Katla Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/klyuchevskoy",
+    "title": "Klyuchevskoy",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/marapi",
+    "title": "Marapi",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/mayon",
+    "title": "Mayon Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/ruiz-nevado-del",
+    "title": "Nevado del Ruiz",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/lengai-ol-doinyo",
+    "title": "Ol Doinyo Lengai",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/piton-de-la-fournaise",
+    "title": "Piton de la Fournaise",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/active-volcanoes",
+    "title": "Active Volcanoes Around the World",
+    "type": "ranking",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/deadliest-eruptions",
+    "title": "Deadliest Volcanic Eruptions in History",
+    "type": "ranking",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/most-active-volcanoes",
+    "title": "Most Active Volcanoes in the World",
+    "type": "ranking",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/tallest-volcanoes",
+    "title": "Tallest Volcanoes in the World",
+    "type": "ranking",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/ruapehu",
+    "title": "Mount Ruapehu",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/san-miguel",
+    "title": "San Miguel (Chaparrastique)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/soufriere-st-vincent",
+    "title": "Soufri\u00e8re St. Vincent",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/ring-of-fire",
+    "title": "The Ring of Fire",
+    "type": "special",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/supervolcanoes",
+    "title": "Supervolcanoes",
+    "type": "special",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/types-of-volcanoes",
+    "title": "Types of Volcanoes",
+    "type": "special",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcanic-explosivity-index",
+    "title": "Volcanic Explosivity Index (VEI)",
+    "type": "special",
+    "priority": "0.7",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/taal",
+    "title": "Taal Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/taranaki",
+    "title": "Taranaki (Mount Egmont)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/telica",
+    "title": "Telica",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tinakula",
+    "title": "Tinakula",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tolbachik",
+    "title": "Tolbachik",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/ulawun",
+    "title": "Ulawun",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/villarrica",
+    "title": "Villarrica",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/agua-de-pau",
+    "title": "Agua de Pau",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/aira",
+    "title": "Sakurajima (Aira Caldera)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/akutan",
+    "title": "Akutan Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/ambae",
+    "title": "Ambae",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/arenal",
+    "title": "Arenal Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/asamayama",
+    "title": "Asamayama (Mount Asama)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/asosan",
+    "title": "Mount Aso (Asosan)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/azul-cerro",
+    "title": "Cerro Azul (Quizapu)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/bagana",
+    "title": "Bagana",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/bardarbunga",
+    "title": "B\u00e1r\u00f0arbunga",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/barren-island",
+    "title": "Barren Island",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/bezymianny",
+    "title": "Bezymianny",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/blanco-cerro",
+    "title": "Cerro Blanco",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/bulusan",
+    "title": "Bulusan",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/calbuco",
+    "title": "Calbuco",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/campi-flegrei",
+    "title": "Campi Flegrei",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/chaiten",
+    "title": "Chait\u00e9n",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/changbaishan",
+    "title": "Changbaishan",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/chikurachki",
+    "title": "Chikurachki",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/chillan-nevados-de",
+    "title": "Nevados de Chill\u00e1n",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/concepcion",
+    "title": "Concepci\u00f3n",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/copahue",
+    "title": "Copahue Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/cotopaxi",
+    "title": "Cotopaxi",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/crater-lake",
+    "title": "Crater Lake (Mount Mazama)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/deception-island",
+    "title": "Deception Island",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/east-epi",
+    "title": "East Epi",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/chichon-el",
+    "title": "El Chich\u00f3n",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/erebus",
+    "title": "Mount Erebus",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/etna",
+    "title": "Mount Etna",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/eyjafjallajokull",
+    "title": "Eyjafjallaj\u00f6kull",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/fernandina",
+    "title": "Fernandina",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/fujisan",
+    "title": "Mount Fuji (Fujisan)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/furnas",
+    "title": "Furnas",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/galeras",
+    "title": "Galeras",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/gaua",
+    "title": "Gaua",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/gorely",
+    "title": "Gorely Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/grimsvotn",
+    "title": "Gr\u00edmsv\u00f6tn",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/guagua-pichincha",
+    "title": "Guagua Pichincha",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/heard",
+    "title": "Heard",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/home-reef",
+    "title": "Home Reef",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/hudson-cerro",
+    "title": "Cerro Hudson",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/hunga-tonga-hunga-ha-apai",
+    "title": "Hunga Tonga-Hunga Ha'apai",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/irazu",
+    "title": "Iraz\u00fa",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/izalco",
+    "title": "Izalco",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/izu-oshima",
+    "title": "Izu-Oshima",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/kanlaon",
+    "title": "Kanlaon",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/karangetang",
+    "title": "Karangetang (Api Siau)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/karthala",
+    "title": "Karthala",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/kavachi",
+    "title": "Kavachi",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/kelud",
+    "title": "Kelud (Kelut)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/kikai",
+    "title": "Kikai Caldera",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/kilauea",
+    "title": "Kilauea",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/kirishimayama",
+    "title": "Kirishimayama",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/krakatau",
+    "title": "Krakatau (Krakatoa)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/krasheninnikov",
+    "title": "Krasheninnikov",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/la-palma",
+    "title": "La Palma",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/lascar",
+    "title": "L\u00e1scar",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/llaima",
+    "title": "Llaima Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/lopevi",
+    "title": "Lopevi",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/manam",
+    "title": "Manam Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/masaya",
+    "title": "Masaya Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/mauna-loa",
+    "title": "Mauna Loa",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/merapi",
+    "title": "Mount Merapi",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/michoacan-guanajuato",
+    "title": "Michoac\u00e1n-Guanajuato Volcanic Field",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/misti-el",
+    "title": "El Misti",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/miyakejima",
+    "title": "Miyakejima",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/momotombo",
+    "title": "Momotombo",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/mount-cameroon",
+    "title": "Mount Cameroon",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/mutnovsky",
+    "title": "Mutnovsky",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/niuafo-ou",
+    "title": "Niuafo'ou",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/novarupta",
+    "title": "Novarupta (Katmai)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/nyamulagira",
+    "title": "Nyamulagira",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/nyiragongo",
+    "title": "Mount Nyiragongo",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/okataina",
+    "title": "Okataina Volcanic Centre",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/orizaba-pico-de",
+    "title": "Pico de Orizaba",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/pacaya",
+    "title": "Pacaya",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/pavlof",
+    "title": "Pavlof Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/pelee",
+    "title": "Mount Pel\u00e9e",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/pinatubo",
+    "title": "Mount Pinatubo",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/planchon-peteroa",
+    "title": "Planch\u00f3n-Peteroa",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/poas",
+    "title": "Po\u00e1s",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/popocatepetl",
+    "title": "Popocat\u00e9petl",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/purace",
+    "title": "Purac\u00e9",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/puyehue-cordon-caulle",
+    "title": "Puyehue-Cord\u00f3n Caulle",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/rabaul",
+    "title": "Rabaul",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/rainier",
+    "title": "Mount Rainier",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/raung",
+    "title": "Raung",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/redoubt",
+    "title": "Redoubt Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/reventador",
+    "title": "Reventador",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/reykjanes",
+    "title": "Reykjanes",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/rincon-de-la-vieja",
+    "title": "Rinc\u00f3n de la Vieja",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/sabancaya",
+    "title": "Sabancaya",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/san-cristobal",
+    "title": "San Crist\u00f3bal",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/santa-ana",
+    "title": "Santa Ana Volcano (Ilamatepec)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/santa-maria",
+    "title": "Santa Mar\u00eda Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/santorini",
+    "title": "Santorini Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/semeru",
+    "title": "Mount Semeru",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/sete-cidades",
+    "title": "Sete Cidades",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/sheveluch",
+    "title": "Sheveluch",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/shikotsu",
+    "title": "Shikotsu Caldera",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/shishaldin",
+    "title": "Shishaldin Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/soufriere-guadeloupe",
+    "title": "Soufri\u00e8re Guadeloupe",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/soufriere-hills",
+    "title": "Soufri\u00e8re Hills",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/st-helens",
+    "title": "Mount St. Helens",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/stromboli",
+    "title": "Stromboli",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tacana",
+    "title": "Tacan\u00e1",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tambora",
+    "title": "Mount Tambora",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/taveuni",
+    "title": "Taveuni Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tenerife",
+    "title": "Tenerife (Teide)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tengger-caldera",
+    "title": "Tengger Caldera",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/terceira",
+    "title": "Terceira",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tolima-nevado-del",
+    "title": "Nevado del Tolima",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tongariro",
+    "title": "Tongariro",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tungurahua",
+    "title": "Tungurahua",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/tupungatito",
+    "title": "Tupungatito",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/turrialba",
+    "title": "Turrialba Volcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/ubinas",
+    "title": "Ubinas",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/vesuvius",
+    "title": "Mount Vesuvius",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/vulcano",
+    "title": "Vulcano",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/whakaari-white-island",
+    "title": "Whakaari / White Island",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/witori",
+    "title": "Witori",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/yellowstone",
+    "title": "Yellowstone Caldera",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  },
+  {
+    "url": "/volcano/zaozan-zaosan",
+    "title": "Zaozan (Zaosan)",
+    "type": "volcano",
+    "priority": "0.8",
+    "changefreq": "monthly"
+  }
+]

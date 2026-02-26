@@ -1,0 +1,179 @@
+{
+  "slug": "greece",
+  "title": "Volcanoes in Greece",
+  "meta_title": "Volcanoes in Greece — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Greece has 5 Holocene volcanoes along the Hellenic Volcanic Arc, including Santorini and Nisyros. Full list with map, eruption timeline, and hazards.",
+
+  "quick_answer": {
+    "how_many": "Greece has 5 Holocene volcanoes, all located along the Hellenic Volcanic Arc in the Aegean Sea.",
+    "how_many_active": "Three of Greece's volcanoes have confirmed historical eruptions: Santorini (last erupted 1950), Nisyros (last erupted 1888), and Kolumbo (last erupted 1650).",
+    "why": "Greece's volcanoes exist because the African Plate is subducting beneath the Eurasian Plate along the Hellenic Trench, creating a volcanic arc that stretches across the southern Aegean Sea.",
+    "tallest": "Milos at 751 m (2,464 ft)",
+    "most_recent": "Santorini — lava dome eruption on Nea Kameni island, 1950"
+  },
+
+  "hero": {
+    "title": "Volcanoes in Greece",
+    "subtitle": "5 Volcanoes on the Hellenic Arc — Home to the Legendary Santorini",
+    "volcano_count": 5,
+    "active_count": 3,
+    "tallest": {"name": "Milos", "elevation_m": 751},
+    "most_recent_eruption": {"volcano": "Santorini", "year": "1950"}
+  },
+
+  "sections": {
+
+    "overview": {
+      "content": "Greece has 5 Holocene volcanoes distributed along the Hellenic Volcanic Arc, a 500-km curved chain of volcanic centres stretching from the Methana Peninsula in the western Saronic Gulf to the island of Nisyros in the southeastern Aegean Sea. All five volcanoes are products of the same tectonic engine: the northward subduction of the African Plate beneath the Eurasian Plate along the Hellenic Trench, one of the most seismically active boundaries in the Mediterranean. Although Greece's volcano count is modest compared to arc-front nations like [[country:indonesia|Indonesia]] or [[country:japan|Japan]], the country punches far above its weight in volcanic significance. [[volcano:santorini|Santorini]]'s Minoan eruption around 1600 BCE was one of the most powerful volcanic events in the last 10,000 years — a [[special:volcanic-explosivity-index|VEI 7]] cataclysm that ejected roughly 60 km³ of magma, generated tsunamis across the eastern Mediterranean, and may have contributed to the decline of the Minoan civilisation on Crete. Today, Santorini remains one of the most-visited volcanic islands on Earth, drawing over two million tourists annually to its caldera-rim villages. Beyond Santorini, the submarine volcano Kolumbo — discovered just 7 km to the northeast — is now recognised as a potentially greater hazard due to its gas-charged hydrothermal system. Nisyros, at the arc's eastern end, last erupted in 1888 and maintains vigorous fumarolic activity. Greece's volcanoes are monitored by the [[ext:https://www.noa.gr/en/|National Observatory of Athens]] and the Aristotle University of Thessaloniki, with particular focus on Santorini's unrest episodes and Kolumbo's submarine activity."
+    },
+
+    "why_greece_has_volcanoes": {
+      "content": "Greece's volcanoes owe their existence to one of the oldest and most complex subduction systems in the world. The African Plate, carrying the floor of the eastern Mediterranean, descends beneath the Aegean microplate — a fragment of the Eurasian Plate — at the Hellenic Trench, located roughly 200 km south of the volcanic arc. This subduction occurs at a rate of approximately 35–40 mm per year, one of the fastest convergence rates in the Mediterranean. As the oceanic crust descends to depths of 150–200 km, water released from hydrated minerals lowers the melting point of the overlying mantle wedge, generating magma that rises through the continental crust to feed the arc's volcanoes. The Hellenic Volcanic Arc forms a broad curve from the Saronic Gulf through the Cyclades to the Dodecanese islands, roughly parallel to the Hellenic Trench. This arc is not part of the [[special:ring-of-fire|Ring of Fire]], which encircles the Pacific Ocean, but is instead a segment of the Alpine-Himalayan orogenic belt. The arc's magmas are predominantly calc-alkaline, ranging from basaltic andesite at Methana to dacite and rhyolite at Santorini and Milos. The thick continental crust beneath the Aegean (greater than 25 km) allows extensive magma differentiation, which produces the gas-rich, silica-rich compositions responsible for Greece's characteristically explosive eruptions. The back-arc extension occurring behind the Hellenic Arc also plays a role, creating the thinned crust and elevated heat flow that allow magma to accumulate at shallow depths. This extensional regime has influenced the structure of Santorini's caldera complex and the formation of submarine volcanic centres like Kolumbo along northeast-trending fault zones."
+    },
+
+    "major_volcanoes": {
+      "content": "**Santorini (Thera)** — The most famous volcano in Greece and one of the most iconic volcanic landscapes on Earth, [[volcano:santorini|Santorini]] is a shield volcano complex truncated by at least four overlapping calderas. The caldera bay measures roughly 12 × 7 km and is bounded by cliffs up to 300 m high, atop which the whitewashed villages of Fira and Oia perch dramatically. The volcano's defining event was the Late Bronze Age Minoan eruption around 1600 BCE, a [[special:volcanic-explosivity-index|VEI 7]] event that ranks among the largest eruptions in the Holocene. Since then, Santorini has erupted at least 10 more times, most recently in 1950. The volcanic islands of Palea Kameni and Nea Kameni in the caldera centre are built from post-Minoan lava domes and represent the volcano's ongoing growth. A significant unrest episode in 2011–2012 involving uplift and increased seismicity drew international attention. The volcano is monitored continuously by the Institute for the Study and Monitoring of the Santorini Volcano (ISMOSAV) and the [[ext:https://volcano.si.edu/volcano.cfm?vn=212040|Smithsonian GVP]].\n\n**Kolumbo** — Located approximately 7 km northeast of Santorini beneath the Aegean Sea, [[volcano:kolumbo|Kolumbo]] is a submarine volcano whose crater rim lies just 18 m below sea level. Despite its obscurity relative to its famous neighbour, Kolumbo is considered by many volcanologists to be the greater short-term hazard. Its only known historical eruption in September–November 1650 CE was a powerful VEI 4 event that generated a temporary island of pumice, produced tsunamis, and killed over 60 people on Santorini through toxic gas emissions. A chain of 19 smaller volcanic cones extends 10 km northeast from Kolumbo along the Christiana-Santorini-Kolumbo volcanic line. Active hydrothermal vents on the crater floor discharge gases at temperatures exceeding 220°C, and the accumulation of CO₂-rich fluids in the crater poses a limnic eruption risk.\n\n**Nisyros** — The easternmost volcano of the Hellenic Arc, [[volcano:nisyros|Nisyros]] forms a nearly circular island 9 km across, truncated by a 3–4 km wide caldera. Five large dacitic lava domes fill the western portion of the caldera, while the eastern floor hosts the active Stefanos and Polyvotis hydrothermal craters — dramatic features up to 300 m wide that are a major tourist attraction. Nisyros experienced four historical phreatic eruptions between 1422 and 1888, and intense hydrothermal activity continues today with fumaroles reaching temperatures of 100°C. A seismic-volcanic crisis in 1996–1998, accompanied by uplift and earthquake swarms, prompted renewed monitoring efforts. Approximately 1,000 people live on the island.\n\n**Milos** — The tallest volcanic structure in Greece at 751 m (2,464 ft), [[volcano:milos|Milos]] is a complex of stratovolcanoes that has been active since the Pliocene. The island is famous in archaeology as the source of the Venus de Milo statue and in geology for its spectacular hydrothermal alteration zones and obsidian flows. The youngest magmatic eruptions occurred roughly 90,000 years ago, but phreatic explosions continued into Roman times — a lahar deposit in southeastern Milos buried walls of a Roman harbour town. Active geothermal systems persist, with submarine hot springs along the coast reaching temperatures of 115°C.\n\n**Methana** — The westernmost centre of the Hellenic Arc, [[volcano:methana|Methana]] forms a peninsula jutting into the Saronic Gulf just 50 km southwest of Athens. The lava dome complex includes at least seven andesitic domes built over the past 900,000 years. The youngest dome, Kameno Vouno, was formed during the 3rd century BCE and produced a lava flow that extended 500 m beyond the coastline — the only confirmed eruption on the Greek mainland in historical antiquity. An uncertain eruption was reported in 1922. Today, Methana is known for its therapeutic hot springs, which draw visitors to the small town at the peninsula's base."
+    },
+
+    "eruption_history": {
+      "content": "Greece's volcanic eruption record spans over 3,600 years of documented history, anchored by one of the most consequential volcanic events in human civilisation. The Minoan eruption of Santorini around 1600 BCE was a VEI 7 cataclysm that ejected an estimated 60 km³ of dense rock equivalent, buried the Bronze Age settlement of Akrotiri under metres of pumice and ash, and generated tsunamis that struck the coasts of Crete and the eastern Mediterranean. The eruption column may have reached 36 km into the stratosphere. Many scholars believe this event contributed to the decline of the Minoan civilisation, and some have linked it to the legend of Atlantis. Following the Minoan eruption, Santorini entered a long period of rebuilding. The first post-Minoan eruption in 197 BCE created Hiera (Palea Kameni) island, and subsequent eruptions in 46 CE, 726 CE, and 1570–1573 CE progressively built the Kameni island complex in the caldera centre. The 726 CE eruption was a VEI 4 event that reportedly deposited pumice across the eastern Mediterranean. The 1650 eruption of the submarine Kolumbo volcano was the most destructive volcanic event in modern Greek history, killing at least 60 people on Santorini through toxic gas clouds and triggering tsunamis. At Santorini itself, the most recent cycle of dome-building eruptions between 1866 and 1950 added significant volume to Nea Kameni island, with the final event in January 1950 producing a small lava dome and flow. Meanwhile, Nisyros experienced four phreatic eruptions between 1422 and 1888, and Methana's last confirmed eruption dates to the 3rd century BCE. Overall, Greece's volcanoes have produced 19 confirmed Holocene eruptions across the five centres, with VEI values ranging from 0 to 7. The record is dominated by Santorini, which accounts for 11 of those eruptions and all events of VEI 3 or higher."
+    },
+
+    "volcanic_hazards": {
+      "content": "Despite Greece's relatively small number of volcanoes, the hazards they pose are significant due to the dense populations, critical shipping lanes, and major tourism infrastructure concentrated around the Aegean arc. Santorini is the primary concern: a future eruption could disrupt the tourism economy of the Cyclades, generate tsunamis affecting low-lying coastal areas across the eastern Mediterranean, and produce ashfall that grounds regional aviation. The 2011–2012 unrest episode — involving 14 million m³ of magma intrusion at shallow depth — demonstrated that Santorini remains a viable threat. Kolumbo presents a particularly insidious hazard: a submarine eruption could generate tsunamis with little warning time, and the CO₂-rich fluids pooling in its crater pose a limnic eruption risk similar to the 1986 Lake Nyos disaster in [[country:cameroon|Cameroon]], which killed over 1,700 people. Nisyros's hydrothermal system could produce phreatic explosions with little precursory warning, endangering the thousands of tourists who visit the Stefanos crater each year. Across the arc, pyroclastic flows, tephra fall, lava flows, volcanic gas emissions, and tsunami generation all represent credible hazards. Greece's volcanic monitoring network has been significantly upgraded since the 2011 Santorini unrest, with continuous GPS, seismic, and geochemical monitoring stations on Santorini, Nisyros, and submarine instruments near Kolumbo. The [[ext:https://www.noa.gr/en/|National Observatory of Athens]] coordinates monitoring and works with the European Monitoring and Forecasting Centre."
+    },
+
+    "volcanic_zones_map": {
+      "content": "All five of Greece's Holocene volcanoes are arrayed along the Hellenic Volcanic Arc, which stretches approximately 500 km from the Saronic Gulf in the west to the Dodecanese islands in the east. The arc forms a broad southward-bowing curve roughly parallel to the Hellenic Trench to the south. From west to east, the volcanic centres are: Methana (Saronic Gulf, 37.6°N), Milos (western Cyclades, 36.7°N), Santorini with Kolumbo (central Cyclades, 36.4°N), and Nisyros (Dodecanese, 36.6°N). The arc sits approximately 150–200 km north of the subduction trench, consistent with the typical depth of the subducting slab (100–150 km) at which melting occurs. The volcanoes are not uniformly spaced — the Santorini-Kolumbo complex occupies the most volcanically productive segment, located where the Christiana-Santorini-Kolumbo tectonic lineament intersects the arc. No active volcanic centres exist on the Greek mainland, though Methana is connected to the Peloponnese by a narrow isthmus."
+    },
+
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism has shaped Greek culture for millennia in ways that few other geological forces have. The Minoan eruption of Santorini may have inspired the legend of Atlantis, first recorded by Plato around 360 BCE, and the destruction of Akrotiri has provided one of the most important archaeological windows into Bronze Age Aegean civilisation. The excavations at Akrotiri, sometimes called the \"Pompeii of the Aegean,\" reveal frescoes, multi-story buildings, and sophisticated drainage systems preserved under volcanic deposits. Today, Santorini's caldera landscape is arguably the most commercially valuable volcanic landform in the world — the island's tourism industry generates hundreds of millions of euros annually, with the volcanic setting forming the centrepiece of its global brand. Nisyros's hydrothermal craters attract approximately 100,000 visitors per year, and Milos's volcanic geology produces unique coloured beaches and the geothermal resources that heat parts of the island. Greek volcanic soils support the distinctive Assyrtiko grape variety on Santorini, whose vines are trained in basket-shaped \"kouloura\" formations to protect against wind — a viticulture tradition adapted directly to the volcanic terrain. Pumice quarried from Santorini's deposits was used in the construction of the Suez Canal in the 19th century."
+    },
+
+    "visiting_volcanoes": {
+      "content": "Greece's volcanic sites are among the most accessible in Europe, with well-developed tourism infrastructure and regular ferry connections from Athens. Santorini is the premier destination: visitors can hike the 9-km caldera rim trail from Fira to Oia, take a boat excursion to Nea Kameni to walk on lava flows as recent as 1950, and visit the Akrotiri archaeological site. The Santorini caldera is best experienced from October to May to avoid peak crowds. On Nisyros, the Stefanos crater in the caldera floor is accessible via a short walk from the village of Nikia, and visitors can stand on the actively degassing crater floor — one of the few places in the world where this is possible. Methana offers therapeutic hot springs and volcanic hiking trails within easy day-trip distance of Athens. Milos features volcanic beaches with striking colours — the white cliffs of Sarakiniko and the red-orange formations of Paliorema — created by hydrothermal alteration of volcanic rocks. Kolumbo is not directly visitable, but several Santorini-based dive operators offer excursions above the submarine volcano. The best time to visit Greek volcanic sites is during the shoulder seasons of April–June and September–October, when temperatures are mild and tourism pressure is lower."
+    }
+  },
+
+  "volcano_table": {
+    "columns": ["Rank", "Name", "Slug", "Elevation (m)", "Type", "Last Eruption", "Status", "Eruption Count", "VEI Max"],
+    "rows": [
+      [1, "Milos", "milos", 751, "Stratovolcano(es)", "140 CE", "Holocene", 1, 1],
+      [2, "Nisyros", "nisyros", 698, "Stratovolcano", "1888", "Historical", 4, 2],
+      [3, "Methana", "methana", 380, "Lava dome(s)", "258 BCE", "Historical", 2, 3],
+      [4, "Santorini", "santorini", 367, "Shield(s)", "1950", "Historical", 11, 7],
+      [5, "Kolumbo", "kolumbo", -18, "Complex", "1650", "Historical", 1, 4]
+    ]
+  },
+
+  "elevation_chart": [
+    {"name": "Milos", "elevation": 751, "slug": "milos"},
+    {"name": "Nisyros", "elevation": 698, "slug": "nisyros"},
+    {"name": "Methana", "elevation": 380, "slug": "methana"},
+    {"name": "Santorini", "elevation": 367, "slug": "santorini"},
+    {"name": "Kolumbo", "elevation": -18, "slug": "kolumbo"}
+  ],
+
+  "eruption_timeline": [
+    {"year": -1610, "volcano": "Santorini", "vei": 7, "label": "Minoan eruption — VEI 7, one of the largest Holocene eruptions, buried Akrotiri"},
+    {"year": -258, "volcano": "Methana", "vei": 3, "label": "Kameno Vouno lava dome eruption — lava flowed into the sea"},
+    {"year": -197, "volcano": "Santorini", "vei": 3, "label": "First post-Minoan eruption — created Hiera (Palea Kameni) island"},
+    {"year": 140, "volcano": "Milos", "vei": 1, "label": "Phreatic eruption near Fyriplaka tuff ring"},
+    {"year": 726, "volcano": "Santorini", "vei": 4, "label": "Major eruption — pumice reported across the eastern Mediterranean"},
+    {"year": 1422, "volcano": "Nisyros", "vei": 2, "label": "First historical phreatic eruption at Nisyros caldera"},
+    {"year": 1650, "volcano": "Kolumbo", "vei": 4, "label": "Submarine eruption — killed 60+ people, triggered tsunamis"},
+    {"year": 1707, "volcano": "Santorini", "vei": 3, "label": "Four-year eruption built Nea Kameni island"},
+    {"year": 1866, "volcano": "Santorini", "vei": 2, "label": "Major eruption cycle — built Georgios, Afroessa, and Reka domes"},
+    {"year": 1888, "volcano": "Nisyros", "vei": 2, "label": "Last eruption at Nisyros — phreatic explosion at Polyvotis Micros"},
+    {"year": 1950, "volcano": "Santorini", "vei": 2, "label": "Most recent eruption in Greece — Liatsikas dome on Nea Kameni"}
+  ],
+
+  "vei_distribution": [
+    {"vei": 0, "count": 0},
+    {"vei": 1, "count": 2},
+    {"vei": 2, "count": 8},
+    {"vei": 3, "count": 4},
+    {"vei": 4, "count": 2},
+    {"vei": 5, "count": 0},
+    {"vei": 6, "count": 0},
+    {"vei": 7, "count": 1}
+  ],
+
+  "facts": [
+    "Santorini's Minoan eruption around 1600 BCE was a VEI 7 event — one of only a handful of eruptions of that magnitude in the entire Holocene, ejecting an estimated 60 km³ of magma.",
+    "Kolumbo, located just 7 km northeast of Santorini beneath the sea, has its crater rim only 18 m below the surface — shallow enough that a major eruption could break the surface and generate devastating tsunamis.",
+    "The 1650 eruption of Kolumbo killed over 60 people on Santorini through toxic gas emissions, not lava or ash — making it one of the earliest documented volcanic gas fatalities in Europe.",
+    "Greece's volcanoes have produced the full range of VEI values from 1 to 7, despite the country having just five Holocene volcanic centres.",
+    "Pumice from Santorini's eruptions was quarried for centuries and used in the construction of the Suez Canal in the 1860s.",
+    "The excavations at Akrotiri on Santorini, buried by the Minoan eruption, have revealed Bronze Age frescoes, indoor plumbing, and multi-story buildings — often called the 'Pompeii of the Aegean.'",
+    "Nisyros's Stefanos hydrothermal crater is one of the few places on Earth where tourists can walk on an actively degassing volcanic crater floor.",
+    "Methana's eruption in the 3rd century BCE produced a lava flow that extended 500 m beyond the original coastline, permanently altering the shape of the peninsula.",
+    "Santorini's caldera bay is so deep — up to 390 m — that large cruise ships cannot anchor and must remain in drift or use tenders.",
+    "The Assyrtiko grape, grown on Santorini's volcanic soils, is trained in unique basket-shaped 'kouloura' formations — a viticultural adaptation to the volcanic terrain found nowhere else in the world.",
+    "During Santorini's 2011–2012 unrest episode, the island rose by approximately 14 cm due to magma intrusion at 4 km depth, affecting some 15,000 permanent residents."
+  ],
+
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Greece?",
+      "answer": "Greece has 5 Holocene volcanoes recognised by the Smithsonian Global Volcanism Program, all located along the Hellenic Volcanic Arc in the Aegean Sea. These are Santorini, Kolumbo, Nisyros, Milos, and Methana. The number may appear low compared to Pacific Rim nations, but the volcanic arc extends across a 500-km stretch of the Aegean, and several additional submarine volcanic features along the Christiana-Santorini-Kolumbo line may eventually be catalogued as separate centres. Some geological sources count additional volcanic fields in the northern Aegean, but these lack Holocene activity."
+    },
+    {
+      "question": "Is Santorini an active volcano?",
+      "answer": "Yes, Santorini is an active volcano. Its most recent eruption occurred in January 1950, when a small lava dome and flow formed on Nea Kameni island in the centre of the caldera. By volcanological standards, any volcano that has erupted in the Holocene (the last 11,700 years) is considered active, and Santorini has erupted 11 times in this period. The volcano experienced a significant unrest episode in 2011–2012, with increased seismicity, ground deformation (14 cm of uplift), and evidence of magma intrusion at approximately 4 km depth. Scientists consider a future eruption inevitable, though the timing remains unpredictable. Continuous monitoring is maintained by Greek and European institutions."
+    },
+    {
+      "question": "What was the Minoan eruption of Santorini?",
+      "answer": "The Minoan eruption of Santorini, which occurred around 1600 BCE (some estimates range from 1650 to 1500 BCE), was one of the largest volcanic eruptions in the last 10,000 years. Rated VEI 7, it ejected approximately 60 km³ of magma, generated an eruption column reaching 36 km into the stratosphere, and produced pyroclastic flows and tsunamis that devastated the eastern Mediterranean. The eruption buried the advanced Bronze Age settlement of Akrotiri under metres of pumice, collapsed the island's centre to form the present caldera, and may have contributed to the decline of the Minoan civilisation on Crete, located approximately 110 km to the south."
+    },
+    {
+      "question": "When was the last volcanic eruption in Greece?",
+      "answer": "The most recent volcanic eruption in Greece occurred on January 10, 1950, at Santorini. The eruption produced a lava dome and flow — known as the Liatsikas dome — on Nea Kameni island in the centre of the caldera. This was a relatively small event rated VEI 2, involving slow extrusion of viscous lava accompanied by minor explosive activity. Before that, Santorini had erupted in 1939–1941 and 1925–1928. Outside Santorini, the last eruption in Greece was the 1888 phreatic explosion at Nisyros. Greece has not experienced a large explosive eruption since the VEI 4 event at Kolumbo in 1650."
+    },
+    {
+      "question": "Why does Greece have volcanoes?",
+      "answer": "Greece has volcanoes because the African Plate is subducting (diving beneath) the Eurasian Plate at the Hellenic Trench, located south of Crete. As the oceanic crust descends to depths of 150–200 km, water released from the slab lowers the melting point of the overlying mantle, generating magma that rises to feed the Hellenic Volcanic Arc across the Aegean Sea. This subduction occurs at approximately 35–40 mm per year, one of the fastest rates in the Mediterranean. The process is fundamentally the same as that creating volcanoes in Japan or Indonesia, though at a much smaller scale."
+    },
+    {
+      "question": "What is the most dangerous volcano in Greece?",
+      "answer": "Many volcanologists consider the submarine Kolumbo volcano to be Greece's most dangerous volcano in the near term. Located just 7 km northeast of Santorini at a depth of only 18 m, Kolumbo's hydrothermal system contains CO₂-rich fluids that pose a limnic eruption risk, and a submarine eruption could generate tsunamis with minimal warning time. Santorini itself is the larger long-term threat, given its history of VEI 7 eruptions, the 3 million annual tourists, and the approximately 15,000 permanent residents on the caldera rim. Both are actively monitored by the National Observatory of Athens."
+    },
+    {
+      "question": "Can you visit volcanic craters in Greece?",
+      "answer": "Yes, Greece offers some of the most accessible volcanic crater experiences in Europe. On Santorini, visitors can take boat excursions from Fira to Nea Kameni island, where a 20-minute hike leads to the rim of the 1950 eruption crater with active fumaroles. On Nisyros, the Stefanos hydrothermal crater in the caldera floor is freely accessible — visitors can walk across the actively steaming crater floor, one of very few places in the world where this is possible. The Akrotiri archaeological site on Santorini allows visitors to explore a Bronze Age city preserved by volcanic deposits, similar to Pompeii. Methana's hot springs are another volcanic feature open to visitors, located within easy day-trip distance of Athens."
+    },
+    {
+      "question": "Could Santorini erupt again like the Minoan eruption?",
+      "answer": "While another eruption of Santorini is considered inevitable by volcanologists, a repeat of the VEI 7 Minoan eruption is extremely unlikely in the foreseeable future. The Minoan event required thousands of years of magma accumulation in a large shallow reservoir, and the current system has not had sufficient time to rebuild a comparable volume. More probable scenarios involve smaller lava dome eruptions similar to those of the 19th and 20th centuries (VEI 1–3), or at most a moderate explosive eruption (VEI 3–4). Even a smaller eruption, however, could significantly disrupt the island's tourism economy and pose hazards from ashfall, pyroclastic flows, and tsunamis."
+    }
+  ],
+
+  "people_also_search": [
+    "santorini volcano",
+    "greek volcanoes",
+    "hellenic volcanic arc",
+    "minoan eruption",
+    "is santorini active",
+    "nisyros crater",
+    "kolumbo submarine volcano",
+    "volcanoes in aegean sea"
+  ],
+
+  "external_links": [
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=212040", "text": "Smithsonian GVP: Santorini", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=212050", "text": "Smithsonian GVP: Nisyros", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=212042", "text": "Smithsonian GVP: Kolumbo", "type": "primary_source"},
+    {"url": "https://www.noa.gr/en/", "text": "National Observatory of Athens", "type": "monitoring"},
+    {"url": "https://www.britannica.com/place/Thera-island-Greece", "text": "Britannica: Thera (Santorini)", "type": "encyclopedia"}
+  ],
+
+  "related_countries": ["italy", "turkey", "spain", "portugal"],
+
+  "breadcrumb": [
+    {"label": "Home", "url": "/"},
+    {"label": "Volcanoes in Greece", "url": "/volcanoes-in-greece"}
+  ],
+
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

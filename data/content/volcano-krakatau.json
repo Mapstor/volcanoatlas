@@ -1,0 +1,510 @@
+{
+  "slug": "krakatau",
+  "volcano_id": 262000,
+  "title": "Krakatau (Krakatoa)",
+  "meta_title": "Krakatau (Krakatoa) — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Krakatau is a 285 m active caldera volcano in Indonesia's Sunda Strait. Explore its full eruption history from the cataclysmic 1883 event to Anak Krakatau today.",
+  "quick_answer": {
+    "what": "Krakatau (often anglicized as Krakatoa) is an active caldera volcano in the Sunda Strait between Java and Sumatra, Indonesia, currently rising to 285 m (935 ft) above sea level.",
+    "status": "Active — last erupted 2021–2023 at Anak Krakatau. Erupts frequently (58 recorded eruptions). Continuously monitored by Indonesia's PVMBG.",
+    "famous_for": "The catastrophic VEI 6 eruption on August 26–27, 1883, which killed over 36,000 people (mostly by tsunami), produced the loudest sound in recorded history, and lowered global temperatures by 1.2°C.",
+    "danger_level": "Extremely dangerous — history of caldera collapse, tsunamis, and pyroclastic surges. The December 2018 Anak Krakatau flank collapse triggered a tsunami that killed 437 people on the coasts of Java and Sumatra."
+  },
+  "hero": {
+    "name": "Krakatau",
+    "local_name": "Krakatau (Indonesian)",
+    "subtitle": "The Volcano That Changed the World",
+    "country": "Indonesia",
+    "region": "Sunda Strait, between Java and Sumatra",
+    "type": "Caldera",
+    "elevation_m": 285,
+    "elevation_ft": 935,
+    "status": "Active",
+    "last_eruption": "2021–2023",
+    "coordinates": {
+      "lat": -6.1009,
+      "lon": 105.4233
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00568.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "285 m (935 ft) — Anak Krakatau, post-2018 collapse; original Krakatau peaked at ~813 m before 1883",
+    "type": "Caldera",
+    "status": "Active",
+    "last_eruption": "2021–2023 (Anak Krakatau)",
+    "first_known_eruption": "~250 CE",
+    "total_recorded_eruptions": 58,
+    "vei_max": "6 (1883)",
+    "country": "Indonesia",
+    "region": "Sunda Strait, Lampung Province",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Eurasian Plate (continental crust >25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "6.101°S, 105.423°E",
+    "nearest_city": "Bandar Lampung — 80 km northeast; Jakarta — 160 km east",
+    "population_at_risk": "~10 million along the coasts of western Java and southern Sumatra",
+    "caldera_dimensions": "~7 km wide, formed by prehistoric collapse and modified by 1883 eruption",
+    "anak_krakatau": "Post-collapse cone, emerged from the sea in 1927, has erupted almost continuously since",
+    "monitoring_agency": "PVMBG (Pusat Vulkanologi dan Mitigasi Bencana Geologi) — Indonesian Center for Volcanology",
+    "smithsonian_id": "262000",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=262000"
+  },
+  "sections": {
+    "overview": {
+      "content": "Krakatau (frequently anglicized as Krakatoa) is an active <a href=\"/types-of-volcanoes\">caldera</a> volcano situated in the Sunda Strait between the Indonesian islands of Java and Sumatra, approximately 160 km (100 mi) west of Jakarta. It is one of the most historically significant and scientifically important volcanoes on Earth, renowned for its cataclysmic <a href=\"/volcanic-explosivity-index\">VEI 6</a> eruption of August 26–27, 1883 — an event that killed more than 36,000 people, produced the loudest sound in recorded history, triggered tsunamis up to 30 m (100 ft) high, and lowered global temperatures by approximately 1.2°C for more than a year. The 1883 eruption destroyed two-thirds of the original Krakatau Island and caused caldera collapse, leaving only a remnant of the Rakata cone above the sea.\n\nKrakatau sits on the <a href=\"/ring-of-fire\">Sunda Volcanic Arc</a>, one of the most volcanically active zones on Earth, where the Indo-Australian Plate subducts beneath the Eurasian Plate. The volcano complex consists of a partially submerged 7-km-wide caldera containing several islands: Rakata (the southern remnant of the pre-1883 volcano), Verlaten (Sertung) Island, Lang (Panjang) Island, and Anak Krakatau ('Child of Krakatau'), a post-collapse cone that first emerged above sea level in 1927 and has been nearly continuously active since. With 58 recorded eruptions — making it one of the most frequently erupting volcanoes in <a href=\"/volcanoes-in-indonesia\">Indonesia</a> — Krakatau remains a significant threat to the densely populated coasts of western Java and southern Sumatra. The December 2018 flank collapse of Anak Krakatau, which triggered a tsunami killing 437 people, demonstrated that this volcano's capacity for destruction is far from historical. Among the world's volcanoes, Krakatau is frequently compared with <a href=\"/volcano/tambora\">Tambora</a> (Indonesia's other great catastrophe volcano), <a href=\"/volcano/pinatubo\">Pinatubo</a> (for eruption scale), and <a href=\"/volcano/santorini\">Santorini</a> (for the parallel of caldera collapse destroying a maritime civilization)."
+    },
+    "geology_and_formation": {
+      "content": "Krakatau lies at the junction of two major geological structures: the Sunda Volcanic Arc, produced by the northward subduction of the Indo-Australian Plate beneath the Eurasian Plate at a rate of approximately 67 mm per year, and a major tectonic lineament in the Sunda Strait where the volcanic front changes orientation. This tectonic position contributes to Krakatau's exceptional explosivity. The volcanic complex occupies a 7-km-wide caldera believed to have formed during a major prehistoric eruption, possibly around 416 or 535 CE — an event that some researchers have linked to the global climate anomaly of 535–536 CE, though this attribution remains debated. The caldera rim is preserved in the islands of Verlaten (Sertung) and Lang (Panjang), while the pre-1883 volcanic island of Krakatau grew as three overlapping cones — Rakata, Danan, and Perbuwatan — coalesced within the older caldera.\n\nThe dominant rock types are andesite and basaltic andesite, typical of subduction-zone volcanism. However, the 1883 eruption produced significant quantities of dacite and rhyolite, reflecting the presence of evolved, silica-rich magma that had accumulated in a shallow reservoir. This compositional diversity — ranging from relatively fluid basaltic andesite to viscous, gas-rich dacite — contributes to Krakatau's wide spectrum of eruptive behavior, from gentle Strombolian fountaining at Anak Krakatau to the catastrophic Plinian-Ultraplinian explosions of 1883. The 1883 caldera collapse removed approximately 12 km³ of material, leaving a submarine depression reaching depths of over 250 m. Within this depression, Anak Krakatau has been building since 1927, growing at an average rate of approximately 5 m per year in height until the December 2018 collapse, which removed approximately two-thirds of the cone and reduced its height from around 338 m to approximately 110 m. Since then, the cone has resumed growth and had reached approximately 285 m by 2023. The <a href=\"/types-of-volcanoes\">caldera</a> structure of Krakatau is a textbook example of this volcanic landform type, studied in geology courses worldwide."
+    },
+    "eruption_history_overview": {
+      "content": "Krakatau has produced 58 documented eruptions spanning at least 1,800 years, with a dramatic concentration of activity since Anak Krakatau emerged in 1927. The eruption record falls into two distinct phases: the historical eruptions of the original Krakatau complex (approximately 250–1883 CE, sparse but including catastrophic events) and the modern era of Anak Krakatau (1927–present, with nearly continuous activity). The maximum recorded <a href=\"/volcanic-explosivity-index\">VEI</a> of 6, achieved during the 1883 eruption, ranks Krakatau among the most powerfully explosive volcanoes in the historical record — surpassed in the last millennium only by <a href=\"/volcano/tambora\">Tambora's</a> VEI 7 eruption of 1815 and the VEI 7 eruption of Samalas (Rinjani) in 1257.\n\nBefore 1883, the eruption record is fragmentary. An eruption around 535 CE (VEI 4) may have been associated with caldera formation, though the chronology is uncertain. Eruptions were documented in 850, 950, 1050, 1150, 1320, 1530, and 1680–1681. Since Anak Krakatau's emergence, the volcano has erupted almost without interruption — 44 of its 58 recorded eruptions have occurred since 1927, an average of roughly one eruption every two years. Most Anak Krakatau eruptions are small Strombolian to Vulcanian events (VEI 1–2), but the 2018 eruption sequence culminated in a VEI 3 event and the catastrophic lateral collapse that generated the deadly December 22 tsunami."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1883 Eruption — The Cataclysm That Changed the World",
+          "content": "The eruption of Krakatau on August 26–27, 1883 was one of the most catastrophic volcanic events in recorded history and the first natural disaster to receive truly global media coverage, thanks to the recently completed undersea telegraph network. The eruption began with increasing activity in May 1883, with steam venting and explosions from the Perbuwatan crater. Activity escalated through June and July, with multiple vents opening and ash columns reaching several kilometers. The climactic phase began on the afternoon of August 26, when a series of massive explosions commenced.\n\nThe paroxysmal event occurred at approximately 10:02 AM local time on August 27, when a colossal explosion — likely triggered by the sudden ingress of seawater into the magma chamber as the volcanic edifice collapsed — produced the loudest sound in recorded history. The detonation was heard 4,800 km away on Rodrigues Island in the Indian Ocean, and the atmospheric pressure wave was recorded on barographs worldwide, circling the globe three and a half times. The eruption column reached an estimated 80 km into the atmosphere and ejected approximately 25 km³ of rock and ash (approximately 12 km³ dense rock equivalent). Two-thirds of the pre-existing Krakatau Island was destroyed as caldera collapse consumed the Danan and Perbuwatan cones.\n\nThe most lethal consequence was the series of tsunamis generated by the pyroclastic flows entering the sea and the caldera collapse. Waves reaching heights of 30 m (100 ft) or more devastated the coastlines of western Java and southern Sumatra. The town of Merak was completely destroyed by a wave estimated at 46 m. More than 36,000 people were killed — with the vast majority of casualties caused by the tsunamis. Pyroclastic surges traveled 40 km across the Sunda Strait and reached Sumatra's coast. The volcanic aerosols produced vivid red sunsets worldwide for more than a year — sunsets believed to have inspired Edvard Munch's 'The Scream.' Global temperatures dropped by approximately 1.2°C and did not return to normal until 1888. The 1883 eruption is ranked among the <a href=\"/deadliest-eruptions\">deadliest volcanic eruptions in recorded history</a>."
+        },
+        {
+          "title": "The Possible 535 CE Eruption — A Dark Age Cataclysm?",
+          "content": "Geological evidence suggests a major eruption occurred at Krakatau around 535 CE, possibly associated with the formation of the 7-km-wide caldera. Some researchers have linked this eruption to the extreme global climate anomaly of 535–536 CE, when contemporary sources described an 18-month 'dry fog' that dimmed the sun and caused crop failures. The eruption is assigned a VEI of 4 in the Smithsonian database, though some argue it may have been considerably larger. The attribution remains controversial — ice core evidence suggests multiple volcanic events may have contributed, and some researchers favor the Ilopango caldera in El Salvador as the primary source."
+        },
+        {
+          "title": "The Emergence of Anak Krakatau (1927–1930)",
+          "content": "On December 29, 1927, less than 45 years after the cataclysmic eruption destroyed the original island, submarine eruptions within the 1883 caldera announced the birth of a new volcanic cone. After several months of activity, a small island emerged above sea level in early 1928, though it was repeatedly washed away by wave action. By 1930, the cone had become permanently established and was named Anak Krakatau — Indonesian for 'Child of Krakatau.' The new island grew rapidly, expanding to 338 m in height and approximately 2 km in diameter by 2018, providing volcanologists with an extraordinary natural laboratory for studying volcanic island growth and ecological colonization."
+        },
+        {
+          "title": "The 2018 Flank Collapse and Tsunami — Krakatau Strikes Again",
+          "content": "The 2018 eruption of Anak Krakatau began in June with Strombolian activity and escalated through the year. On December 22, 2018, at approximately 9:03 PM local time, the southwest flank of Anak Krakatau collapsed into the sea, triggering a tsunami that struck the coasts of western Java and southern Sumatra without warning. The waves, reaching heights of up to 5 m in Banten province, killed 437 people, injured 14,059, and displaced 33,719. The collapse removed approximately two-thirds of the cone's above-sea-level volume, reducing its height from 338 m to approximately 110 m.\n\nThe event was devastating because the tsunami was generated by a volcanic flank collapse rather than an earthquake, meaning it was not preceded by the seismic shaking that typically serves as a natural warning. Indonesia's tsunami warning system was not equipped to provide rapid alerts for volcanically generated waves. The disaster prompted significant revisions to Indonesia's tsunami warning capabilities and renewed global attention to the hazard of volcanic flank collapse."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Anak Krakatau remains one of the most active and closely monitored volcanoes in Indonesia. The volcano most recently erupted from May 2021 to 2023, producing Strombolian explosions, ash columns, and incandescent lava fragments. The current alert level is maintained by Indonesia's PVMBG, which monitors the volcano with seismometers, tiltmeters, satellite radar (InSAR), thermal cameras, and visual observations. An exclusion zone of 2 km radius around the island has been in place since the 2018 collapse. Since then, the cone has been rebuilding through continued eruptive activity, reaching approximately 285 m by 2023.\n\nScientists consider continued eruptions at Anak Krakatau virtually certain, given the volcano's extraordinary eruptive frequency (44 eruptions since 1927). The primary concern is the potential for further flank collapses generating tsunamis — the rebuilt cone is composed of poorly consolidated volcanic material and sits on an unstable submarine slope. A repeat collapse event, or a larger eruption, could generate tsunamis affecting approximately 10 million people along the coasts of western Java and southern Sumatra. Indonesia has significantly upgraded its tsunami warning infrastructure since 2018."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Krakatau poses a uniquely dangerous combination of volcanic hazards due to its island location in a narrow, populated strait. The primary hazard is tsunami generation — tsunamis can be triggered by caldera collapse (as in 1883), flank collapse (as in 2018), pyroclastic flows entering the sea, or submarine explosions. The 2018 event demonstrated that even a relatively modest collapse can produce lethal waves with warning times measured in minutes rather than hours.\n\nPyroclastic surges represent another extreme hazard. In 1883, pyroclastic density currents traveled 40 km across the Sunda Strait — an extraordinary distance possible because the hot flows were partially supported by the sea surface. Tephra fall from major eruptions would affect densely populated western Java, including Jakarta (population approximately 11 million, 160 km east). The volcano's threat level is compounded by the enormous coastal populations within tsunami range: Bandar Lampung (1.2 million), Serang (600,000), Cilegon (450,000), and the greater Jakarta metropolitan area (over 30 million people)."
+    },
+    "geography_and_physical_description": {
+      "content": "The Krakatau volcanic complex lies in the middle of the Sunda Strait, approximately 40 km from both the Java and Sumatra coasts. The complex consists of four islands arranged around the 7-km-wide caldera: Rakata to the south (rising to 813 m as the remnant of the pre-1883 volcano), Verlaten (Sertung) Island to the northwest, Lang (Panjang) Island to the northeast, and Anak Krakatau near the center. The caldera floor lies at depths of 100–250 m below sea level. Anak Krakatau has undergone dramatic morphological changes: before the December 2018 collapse it was approximately 2 km in diameter and 338 m high; the collapse removed the southern half, and subsequent eruptions have partially rebuilt the cone to approximately 285 m. Rakata Island supports dense tropical rainforest that has recolonized since 1883 — the subject of landmark ecological studies on island colonization."
+    },
+    "climate_and_global_impact": {
+      "content": "The 1883 eruption of Krakatau was one of the most significant volcanic climate events of the modern era. The eruption injected an estimated 15–20 megatons of sulfur dioxide into the stratosphere, where sulfuric acid aerosols reflected solar radiation. Global temperatures dropped by approximately 1.2°C and did not return to pre-eruption levels until 1888. The aerosol veil produced spectacular optical phenomena worldwide — vivid red and orange sunsets observed across Europe, North America, and Asia for more than a year. These atmospheric effects were studied more thoroughly than any previous volcanic event and provided the first clear scientific evidence linking volcanic eruptions to global climate change. By comparison, <a href=\"/volcano/pinatubo\">Pinatubo's</a> 1991 eruption caused approximately 0.5°C cooling, while <a href=\"/volcano/tambora\">Tambora's</a> 1815 eruption caused approximately 3°C cooling in parts of Europe."
+    },
+    "cultural_significance": {
+      "content": "Krakatau occupies a singular place in human culture as the quintessential catastrophic volcano. The 1883 eruption was the first major natural disaster communicated globally in near-real-time via the telegraph network, making it a watershed event in the history of mass media. The disaster spawned a vast body of literature, art, and scientific investigation. Simon Winchester's bestselling 'Krakatoa: The Day the World Exploded' (2003) brought the story to a modern audience, while the vivid sunsets inspired by the volcanic aerosols are believed to have influenced Edvard Munch's 'The Scream.' In Indonesian culture, the volcano holds deep historical significance — Javanese chronicles reference eruptions in the Sunda Strait, and local legends attribute the origin of the strait to volcanic cataclysm. The common English misspelling 'Krakatoa' originated from a telegraph error in 1883; the correct Indonesian spelling is 'Krakatau.'"
+    },
+    "visiting_and_tourism": {
+      "content": "Krakatau can be visited by boat from the western Java coast, with departures from Carita Beach or Anyer in Banten province (about 3 hours from Jakarta by road, then 1.5–3 hours by boat). Tours usually visit Rakata and the older caldera rim islands, with views of Anak Krakatau from a distance. Access to Anak Krakatau has been restricted since 2018, with a 2-km exclusion zone during elevated activity. The surrounding waters offer excellent snorkeling and diving on coral reefs developing on the submerged volcanic substrate. Rakata Island features dense tropical forest and volcanic sea cliffs. Visitors should be aware that conditions change rapidly — the Sunda Strait has significant swells and the volcano's alert level can change without warning. The best time to visit is during the dry season (May–September)."
+    },
+    "nearby_volcanoes": {
+      "content": "Krakatau sits within the Sunda Volcanic Arc of <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, which hosts more than 130 active volcanoes stretching 3,000 km. The nearest major volcanoes include Rajabasa (1,281 m) at Sumatra's southern tip and Pulosari (1,346 m) in western Java. The arc includes some of Indonesia's most dangerous volcanoes: <a href=\"/volcano/merapi\">Mount Merapi</a> (2,910 m) with 106 recorded eruptions, <a href=\"/volcano/semeru\">Mount Semeru</a> (3,657 m) Java's tallest, and <a href=\"/volcano/tambora\">Mount Tambora</a> (2,850 m) whose 1815 VEI 7 eruption was the largest in recorded history. Indonesia's volcanic arc represents the highest concentration of volcanic hazard and human exposure on Earth."
+    },
+    "etymology": {
+      "content": "The origin of the name 'Krakatau' is debated. Theories include derivation from Sanskrit 'karkata' (crab), Malay 'kelakatu' (white-winged ant), or a corruption of 'Rakata,' the surviving cone's name. The common English misspelling 'Krakatoa' originated from a telegraph error in 1883 and persists in popular culture despite being considered incorrect by Indonesian authorities and most volcanologists. The Smithsonian Global Volcanism Program uses 'Krakatau.'"
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Krakatau Compared to Indonesia's Most Dangerous Volcanoes",
+      "description": "How does Krakatau stack up against Indonesia's other major volcanic threats?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Krakatau",
+          "Indonesia",
+          "285 m",
+          "Caldera",
+          "2023",
+          "6",
+          "58"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "2,850 m",
+          "Stratovolcano",
+          "1967",
+          "7",
+          "7"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,910 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "106"
+        ],
+        [
+          "Semeru",
+          "Indonesia",
+          "3,657 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "64"
+        ],
+        [
+          "Agung",
+          "Indonesia",
+          "2,997 m",
+          "Stratovolcano",
+          "2022",
+          "5",
+          "5"
+        ]
+      ]
+    },
+    {
+      "title": "History's Most Catastrophic Caldera-Forming Eruptions",
+      "description": "Krakatau 1883 in context with other major caldera-collapse events.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Year",
+        "VEI",
+        "Deaths",
+        "Caldera Size",
+        "Global Impact"
+      ],
+      "rows": [
+        [
+          "Krakatau",
+          "Indonesia",
+          "1883",
+          "6",
+          "36,417+",
+          "~7 km",
+          "1.2°C cooling, 5 years"
+        ],
+        [
+          "Santorini (Thera)",
+          "Greece",
+          "~1600 BCE",
+          "7",
+          "Unknown",
+          "~11 km",
+          "Possible Minoan civilization collapse"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "1815",
+          "7",
+          "92,000",
+          "6 × 7 km",
+          "Year Without a Summer (1816)"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1991",
+          "6",
+          "847",
+          "2.5 km",
+          "0.5°C cooling, 2 years"
+        ],
+        [
+          "Crater Lake (Mazama)",
+          "United States",
+          "~5700 BCE",
+          "7",
+          "Unknown",
+          "8 × 10 km",
+          "Major ash deposits across NW USA"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 250,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 535,
+      "vei": 4,
+      "label": "Possible caldera-forming eruption — linked to 535–536 CE climate anomaly (debated)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1680,
+      "vei": 3,
+      "label": "Eruption from Perbuwatan cone — first well-documented historical eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1883,
+      "vei": 6,
+      "label": "Cataclysmic eruption — 36,417+ killed, loudest sound in recorded history, global cooling",
+      "deaths": "36417",
+      "notable": true
+    },
+    {
+      "year": 1927,
+      "vei": 2,
+      "label": "Anak Krakatau emerges from the sea",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1932,
+      "vei": 3,
+      "label": "Major eruption of young Anak Krakatau",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1938,
+      "vei": 3,
+      "label": "Significant eruption — Anak Krakatau growing rapidly",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2018,
+      "vei": 3,
+      "label": "Flank collapse triggers tsunami — 437 killed on Java and Sumatra coasts",
+      "deaths": "437",
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": 2,
+      "label": "Renewed eruptions — cone rebuilding after 2018 collapse",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "3rd CE",
+      "count": 1,
+      "note": "Earliest known activity (~250 CE)"
+    },
+    {
+      "century": "6th CE",
+      "count": 1,
+      "note": "Possible caldera-forming event (535 CE)"
+    },
+    {
+      "century": "9th–10th CE",
+      "count": 2
+    },
+    {
+      "century": "11th–12th CE",
+      "count": 2
+    },
+    {
+      "century": "13th–14th CE",
+      "count": 1
+    },
+    {
+      "century": "15th–16th CE",
+      "count": 1
+    },
+    {
+      "century": "17th CE",
+      "count": 2,
+      "note": "Includes 1680–1681 and 1684 eruptions"
+    },
+    {
+      "century": "18th CE",
+      "count": 0
+    },
+    {
+      "century": "19th CE",
+      "count": 1,
+      "note": "The cataclysmic 1883 eruption"
+    },
+    {
+      "century": "20th CE",
+      "count": 37,
+      "note": "Anak Krakatau era — nearly continuous activity from 1927"
+    },
+    {
+      "century": "21st CE",
+      "count": 10,
+      "note": "Includes 2018 collapse and ongoing activity"
+    }
+  ],
+  "facts": [
+    "The 1883 eruption of Krakatau produced the loudest sound in recorded history — the final explosion was heard 4,800 km away on Rodrigues Island near Mauritius, and the sound wave traveled around the globe three and a half times.",
+    "Tsunamis generated by the 1883 eruption reached heights of up to 46 m (151 ft) at Merak on the Java coast — taller than a 15-story building.",
+    "The atmospheric pressure wave from the 1883 eruption was recorded on barographs worldwide, with measurable fluctuations continuing for five days as the wave circled the Earth repeatedly.",
+    "The volcanic aerosols from 1883 produced such vivid red sunsets that fire brigades were called out in New York and other cities by citizens who believed massive fires were burning on the horizon.",
+    "Anak Krakatau first emerged above sea level in 1927, just 44 years after the eruption that destroyed its parent — growing at an average rate of approximately 5 m per year.",
+    "The 2018 flank collapse of Anak Krakatau occurred without significant seismic warning, generating a tsunami that arrived at the Java coast in just 24 minutes.",
+    "Krakatau has erupted 58 times in its recorded history, with 44 eruptions occurring since Anak Krakatau emerged in 1927 — roughly one eruption every two years.",
+    "The 1883 eruption ejected approximately 25 km³ of rock and ash — enough to bury Manhattan under a layer approximately 37 m (120 ft) deep.",
+    "Pyroclastic surges from the 1883 eruption traveled 40 km across the open surface of the Sunda Strait to reach the coast of Sumatra — an extraordinary distance for a volcanic density current.",
+    "The common English spelling 'Krakatoa' originated from a telegraph transmission error in 1883 — the correct Indonesian name is 'Krakatau.'",
+    "The 1883 eruption lowered global temperatures by approximately 1.2°C for five years and produced vivid sunsets worldwide that are believed to have inspired Edvard Munch's 'The Scream.'",
+    "Rakata Island, the surviving remnant of the pre-1883 volcano, has been the subject of landmark ecological studies on how life recolonizes devastated volcanic islands — informing island biogeography theory."
+  ],
+  "faqs": [
+    {
+      "question": "Is Krakatau still active?",
+      "answer": "Yes, Krakatau is one of the most active volcanoes in Indonesia. The current active center is Anak Krakatau ('Child of Krakatau'), a cone that emerged from the sea in 1927 within the caldera created by the catastrophic 1883 eruption. Anak Krakatau has erupted 44 times since its emergence — an average of roughly one eruption every two years. The most recent eruption occurred from 2021 to 2023, producing Strombolian explosions and ash emissions. The volcano is continuously monitored by Indonesia's PVMBG (Center for Volcanology and Geological Hazard Mitigation) using seismometers, satellite imagery, and visual observation. Future eruptions are considered virtually certain, and a 2-km exclusion zone around the island is frequently enforced."
+    },
+    {
+      "question": "When did Krakatau last erupt?",
+      "answer": "Krakatau's most recent eruption occurred from May 2021 to 2023 at Anak Krakatau, producing Strombolian explosions, ash columns, and incandescent lava fragments (VEI 2). Prior to this, the most significant recent event was the 2018–2020 eruption sequence (VEI 3), which culminated in the catastrophic flank collapse of December 22, 2018 that triggered a deadly tsunami killing 437 people. Krakatau's most famous eruption remains the VEI 6 cataclysm of August 26–27, 1883, which killed more than 36,000 people and produced the loudest sound in recorded history. With 58 recorded eruptions, Krakatau is one of the most prolific erupters among Indonesian volcanoes."
+    },
+    {
+      "question": "Could Krakatau erupt again like 1883?",
+      "answer": "While another eruption on the scale of 1883 (VEI 6) is theoretically possible, it is considered unlikely in the near term because such an event would require the accumulation of a very large volume of evolved, silica-rich magma — a process that takes centuries to millennia. Anak Krakatau's current eruptions are much smaller (VEI 1–3), producing basaltic andesite magma rather than the dacite that fueled the 1883 paroxysm. However, the more immediate concern is the potential for further flank collapses generating tsunamis — the 2018 event demonstrated that even relatively small collapses at Krakatau can be deadly due to the volcano's island location in a populated strait. Krakatau's geological record shows multiple caldera-forming eruptions, confirming that cataclysmic events are part of the volcano's long-term behavior cycle."
+    },
+    {
+      "question": "How many people died in the 1883 Krakatau eruption?",
+      "answer": "The official death toll from the 1883 eruption is 36,417, though some estimates range as high as 120,000. The vast majority of fatalities were caused by tsunamis generated by pyroclastic flows entering the sea and caldera collapse, rather than direct volcanic effects. Waves reaching 30–46 m in height devastated the coastlines of western Java and southern Sumatra. The town of Merak was completely destroyed. An additional estimated 1,000 people on the coast of Sumatra were killed by pyroclastic surges that traveled 40 km across the surface of the Sunda Strait. The 1883 Krakatau eruption ranks as one of the deadliest volcanic events in recorded history."
+    },
+    {
+      "question": "What was the loudest sound in history?",
+      "answer": "The eruption of Krakatau at approximately 10:02 AM local time on August 27, 1883 produced what is considered the loudest sound in recorded history. The explosion was heard clearly 4,800 km away on Rodrigues Island near Mauritius in the Indian Ocean — equivalent to hearing a sound from London in New York. Closer to the volcano, the sound ruptured the eardrums of sailors 64 km away. The atmospheric pressure wave generated by the explosion was recorded on barographs at meteorological stations worldwide and circled the globe three and a half times over the following five days. The sound has been estimated at approximately 310 decibels at the source."
+    },
+    {
+      "question": "What is Anak Krakatau?",
+      "answer": "Anak Krakatau (Indonesian for 'Child of Krakatau') is a volcanic island that emerged from the sea on December 29, 1927 within the caldera created by the catastrophic 1883 eruption of Krakatau. The cone grew rapidly through nearly continuous eruptive activity, reaching 338 m in height and approximately 2 km in diameter by 2018. On December 22, 2018, the southwest flank collapsed into the sea, triggering a tsunami that killed 437 people and reducing the cone's height to approximately 110 m. Since then, renewed eruptions have partially rebuilt the cone to approximately 285 m (as of 2023). Anak Krakatau is one of the most active volcanoes in Indonesia, with 44 eruptions recorded since its emergence."
+    },
+    {
+      "question": "Is it Krakatoa or Krakatau?",
+      "answer": "The correct name is Krakatau, which is the Indonesian spelling used by the Smithsonian Global Volcanism Program, Indonesian authorities, and most volcanologists. The English spelling 'Krakatoa' originated from a telegraph transmission error when news of the 1883 eruption was communicated globally via undersea cable. The garbled version became fixed in English-language newspapers and was subsequently popularized through books and films, including the 1969 movie 'Krakatoa: East of Java' (which also got the geography wrong — Krakatau lies west of Java). While 'Krakatoa' remains common in English popular culture, 'Krakatau' is the scientifically and linguistically correct form."
+    },
+    {
+      "question": "Can you visit Krakatau?",
+      "answer": "Krakatau can be visited by boat from the western Java coast, with departures typically from Carita Beach or Anyer in Banten province (about 3 hours from Jakarta by road, then 1.5–3 hours by boat). Tours usually visit Rakata Island and the older caldera rim islands, with views of Anak Krakatau from a distance. However, landing on Anak Krakatau has been restricted since the 2018 flank collapse, with a 2-km exclusion zone enforced during periods of elevated activity. The surrounding waters offer excellent snorkeling and diving. Tours should be arranged through reputable operators with proper safety equipment. The best time to visit is during the dry season (May–September) when seas are calmer."
+    },
+    {
+      "question": "What caused the 2018 Krakatau tsunami?",
+      "answer": "The December 22, 2018 tsunami was caused by the collapse of approximately two-thirds of Anak Krakatau's above-sea-level volume into the sea. An estimated 150–180 million cubic meters of volcanic material slid from the southwest flank during an ongoing eruption, displacing a massive volume of water that generated tsunami waves of up to 5 m striking the coasts of Banten (Java) and Lampung (Sumatra). The collapse occurred at approximately 9:03 PM local time with virtually no seismic warning, and waves reached the nearest coastlines within 24 minutes. The event killed 437 people, injured over 14,000, and displaced more than 33,000. It exposed critical gaps in Indonesia's tsunami warning system, which had been designed for earthquake-generated tsunamis."
+    },
+    {
+      "question": "How big was the 1883 Krakatau eruption?",
+      "answer": "The 1883 eruption was rated VEI 6 on the Volcanic Explosivity Index, making it one of the most powerful eruptions in recorded history. It ejected approximately 25 km³ of rock and ash (12 km³ dense rock equivalent), destroyed two-thirds of the volcanic island through caldera collapse, and generated an eruption column reaching approximately 80 km into the atmosphere. The eruption was approximately ten times more powerful than the 1980 Mount St. Helens eruption (VEI 5) but about fifty times less powerful than the 1815 Tambora eruption (VEI 7). The energy released has been estimated at approximately 200 megatons of TNT — roughly four times the yield of the largest nuclear weapon ever detonated (Tsar Bomba, 50 megatons)."
+    }
+  ],
+  "people_also_search": [
+    "krakatoa eruption 1883",
+    "anak krakatau",
+    "krakatoa or krakatau",
+    "krakatoa tsunami",
+    "loudest sound in history",
+    "krakatau 2018 tsunami",
+    "krakatoa eruption deaths",
+    "is krakatoa still active"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Krakatau",
+    "alternateName": [
+      "Krakatoa",
+      "Anak Krakatau",
+      "Child of Krakatau"
+    ],
+    "description": "Active caldera volcano in Indonesia's Sunda Strait, famous for the catastrophic VEI 6 eruption of 1883 that killed over 36,000 people and produced the loudest sound in recorded history",
+    "geo": {
+      "latitude": -6.1009,
+      "longitude": 105.4233,
+      "elevation": 285
+    },
+    "containedInPlace": {
+      "name": "Sunda Strait, Lampung Province",
+      "country": "Indonesia"
+    },
+    "url": "https://volcanoatlas.com/volcano/krakatau"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=262000",
+      "text": "Smithsonian GVP: Krakatau",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://vsi.esdm.go.id/",
+      "text": "PVMBG — Indonesian Center for Volcanology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Krakatoa",
+      "text": "Britannica: Krakatoa",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images/144466/the-volcanology-of-anak-krakatau",
+      "text": "NASA Earth Observatory: Anak Krakatau",
+      "type": "research"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "tambora",
+      "merapi",
+      "pinatubo",
+      "vesuvius",
+      "st-helens",
+      "santorini",
+      "semeru"
+    ],
+    "country_pages": [
+      "indonesia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "tambora",
+    "merapi",
+    "pinatubo",
+    "santorini",
+    "agung"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "label": "Krakatau",
+      "url": "/volcano/krakatau"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/krakatau"
+}

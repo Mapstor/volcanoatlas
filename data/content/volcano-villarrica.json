@@ -1,0 +1,533 @@
+{
+  "slug": "villarrica",
+  "volcano_id": 357120,
+  "title": "Villarrica",
+  "meta_title": "Villarrica Volcano — Eruptions & Facts | VolcanoAtlas",
+  "meta_description": "Villarrica is a 2,847 m active stratovolcano in Chile with 162 eruptions since 7520 BCE. Explore its lava lake, lahar risk, ski resort, and visitor guide.",
+  "quick_answer": {
+    "what": "Villarrica (Rucapillán in Mapuche) is a glacier-covered active stratovolcano rising to 2,847 m (9,341 ft) in the Lakes District of south-central Chile, approximately 15 km north of the resort town of Pucón.",
+    "status": "Active — in continuous low-level eruption since December 2014, with an intermittent lava lake visible in the summit crater. One of Chile's most active and dangerous volcanoes.",
+    "famous_for": "Its persistent summit lava lake — one of only a handful on Earth — its devastating lahar-producing eruptions, and its dual identity as both a major volcanic hazard and one of Chile's most popular ski and adventure tourism destinations.",
+    "danger_level": "High — approximately 100,000 people live within 30 km of the summit, including the towns of Pucón and Villarrica. Glacier-covered flanks make it highly susceptible to lahars during eruptions."
+  },
+  "hero": {
+    "name": "Villarrica",
+    "local_name": "Rucapillán (Mapuche: 'House of the Great Spirit')",
+    "subtitle": "Chile's Most Dangerous Active Volcano",
+    "country": "Chile",
+    "region": "Araucanía / Los Ríos, Lakes District",
+    "type": "Stratovolcano",
+    "elevation_m": 2847,
+    "elevation_ft": 9341,
+    "status": "Active",
+    "last_eruption": "2025 (ongoing since 2014)",
+    "coordinates": {
+      "lat": -39.42,
+      "lon": -71.93
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11203.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,847 m (9,341 ft)",
+    "type": "Stratovolcano (composite volcano)",
+    "status": "Active — continuously erupting since December 2014",
+    "last_eruption": "2014–2025 (ongoing)",
+    "first_known_eruption": "~7520 BCE (geological record); 1558 CE (historical record)",
+    "total_recorded_eruptions": 162,
+    "vei_max": "5 (~1810 BCE)",
+    "country": "Chile",
+    "region": "Araucanía / Los Ríos, Southern Andes",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "39.42°S, 71.93°W",
+    "nearest_city": "Pucón — 15 km south",
+    "population_at_risk": "~100,000 (Pucón, Villarrica, and surrounding communities)",
+    "summit_crater": "~200 m diameter, contains active lava lake",
+    "glacier_coverage": "~40 km² of glacial ice",
+    "protected_status": "Villarrica National Park (est. 1940)",
+    "monitoring_agency": "SERNAGEOMIN (Servicio Nacional de Geología y Minería) — OVDAS",
+    "smithsonian_id": "357120",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=357120"
+  },
+  "sections": {
+    "overview": {
+      "content": "Villarrica (Mapuche: Rucapillán, meaning 'House of the Great Spirit') is a glacier-covered active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 2,847 m (9,341 ft) in the Lakes District of south-central <a href=\"/volcanoes-in-chile\">Chile</a>, approximately 15 km (9 mi) north of the popular resort town of Pucón and 100 km (62 mi) southeast of the city of Temuco. With 162 recorded eruptions spanning from approximately 7520 BCE to the present day, it is one of the most active volcanoes in South America and one of the most dangerous in <a href=\"/volcanoes-in-chile\">Chile</a>, where approximately 100,000 people live within its immediate hazard zone.\n\nVillarrica is one of only a handful of volcanoes on Earth that maintains a persistent lava lake in its summit crater — a roiling pool of molten basalt visible to climbers who reach the crater rim. This rare feature, shared with only a few other volcanoes including <a href=\"/volcano/nyiragongo\">Nyiragongo</a> in the DR Congo, <a href=\"/volcano/erta-ale\">Erta Ale</a> in Ethiopia, and <a href=\"/volcano/kilauea\">Kīlauea</a> in Hawai'i, makes Villarrica both a scientific marvel and a significant hazard indicator, as it reflects a continuously open magmatic system.\n\nThe volcano's 40 km² (15 mi²) of glacial ice are central to its danger profile. When eruptions melt the glaciers, they generate lahars (volcanic mudflows) that can travel down river valleys at speeds exceeding 60 km/h (37 mph), reaching populated areas within minutes. The catastrophic lahars of 1964 and 1971 killed dozens of people and destroyed infrastructure in the valleys below. Despite — or perhaps because of — these hazards, Villarrica is also one of Chile's premier tourist destinations, home to a ski resort on its flanks, a popular summit hike, and the adventure tourism hub of Pucón at its base. This unusual duality of extreme hazard and intense recreation makes Villarrica one of the most fascinating and consequential volcanoes in the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "geology_and_formation": {
+      "content": "Villarrica is located on the Southern Volcanic Zone (SVZ) of the Andes, where the oceanic Nazca Plate subducts beneath the South American Plate at a rate of approximately 6.6 cm (2.6 in) per year. The volcano sits at the northwestern end of a NW–SE trending chain of volcanic centers known as the Villarrica–Quetrupillán–Lanín volcanic chain, which extends across the Chilean-Argentine border. Subduction-generated magma rises through continental crust exceeding 25 km in thickness, but Villarrica's predominantly basaltic to basaltic-andesitic composition is unusually mafic for a subduction zone volcano — a characteristic it shares with a few other SVZ centers and one that helps explain its high eruption frequency and effusive tendencies.\n\nThe modern cone of Villarrica has been built within a 6-km-wide Pleistocene caldera formed by a major explosive eruption. A second, smaller caldera approximately 2 km (1.2 mi) in diameter formed roughly 3,500 years ago at the base of the present summit cone and marks the transition to the current eruptive regime. More than 30 scoria cones and fissure vents dot the flanks, reflecting a complex plumbing system with multiple pathways for magma ascent.\n\nThe volcano's Holocene history includes at least three major Plinian eruptions that produced pyroclastic flows extending up to 20 km (12 mi) from the summit and widespread tephra deposits. These explosive events, rated up to <a href=\"/volcanic-explosivity-index\">VEI</a> 5 (approximately 1810 BCE), contrast sharply with the predominantly mild-to-moderate Strombolian and effusive activity that has characterized the historical period since 1558. The presence of a persistent lava lake indicates an open-conduit system where magmatic gases can degas freely, typically preventing the buildup of pressure that leads to catastrophic explosions — though the 1963–1964 and 1971 eruptions demonstrated that transitions to more violent behavior remain possible."
+    },
+    "eruption_history_overview": {
+      "content": "Villarrica's eruption record encompasses 162 events documented in the Smithsonian Global Volcanism Program database, of which 152 are confirmed eruptions. The geological record extends to approximately 7520 BCE, with notable VEI 4–5 events around 6690 BCE, 1810 BCE, 1230 BCE, and 670 BCE. Historical observations begin in 1558, shortly after Spanish contact with the region.\n\nThe historical period reveals a remarkably active volcano: 152 eruptions have been documented since 1384, with major clusters in the 16th century (19 eruptions), 17th century (17 eruptions), 18th century (20 eruptions), and 19th century (23 eruptions). The 20th century saw 34 eruptions, including the deadly events of 1948–1949, 1963, and 1971. The current eruption, which began on December 2, 2014, as a VEI 3 event with dramatic lava fountaining and lahars on March 3, 2015, has continued as low-level summit activity through 2025.\n\nThe overwhelmingly dominant eruption style in the historical period has been Strombolian — mild to moderate explosions ejecting incandescent lava fragments from the summit crater, often visible as a glow at night from Pucón. Lava flows up to 18 km (11 mi) long have issued from both summit and flank vents. The most dangerous eruptions have been those that combined explosive activity with rapid glacier melting, generating lahars down the Turbio, Pedregoso, Zanjón Seco, and Voipir river valleys."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1948–1949 Eruption — VEI 3 and Deadly Lahars",
+          "content": "Beginning on October 9, 1948, Villarrica entered a period of intense activity that escalated to a VEI 3 eruption. Violent Strombolian and Vulcanian explosions sent ash columns several kilometers into the atmosphere. The interaction of hot eruptive products with the summit glaciers generated lahars that swept down multiple river valleys, destroying bridges and isolating communities. The 1948–1949 eruption killed at least 20 people and caused widespread agricultural damage in the valleys south of the volcano. It demonstrated that Villarrica's glacial mantle could amplify even moderate eruptions into deadly lahar events affecting areas tens of kilometers from the summit."
+        },
+        {
+          "title": "The 1963–1964 Eruption — Chile's Volcanic Disaster",
+          "content": "On February 25, 1963, Villarrica erupted explosively in a VEI 3 event that became one of the most damaging volcanic episodes in 20th-century Chile. The eruption began with powerful Strombolian explosions and lava fountains that rapidly melted summit ice and snow. Massive lahars roared down the Turbio and Pedregoso valleys at speeds estimated at 40–60 km/h (25–37 mph), carrying boulders, mud, and debris into the lowlands around Pucón and Villarrica town. The lahars destroyed dozens of homes, severed roads, and killed at least 22 people. Lava flows advanced down the summit and upper southwest flank. The eruption forced the evacuation of thousands of residents and fundamentally shaped Chile's approach to volcanic hazard assessment and emergency planning. A follow-up eruption in March 1964 produced additional lahars, compounding the destruction."
+        },
+        {
+          "title": "The 1971 Eruption — History Repeats",
+          "content": "On October 29, 1971, Villarrica erupted again in a VEI 2 event that tragically replicated many of the hazards of 1963. A 3-km-high eruption column rose above the summit, and rapid melting of glacial ice generated lahars that devastated the valleys to the northeast and southwest. The lahars reached Lago Villarrica, the large lake at the volcano's southern base, causing flooding along its shores. The town of Coñaripe, approximately 30 km (19 mi) to the southeast, was particularly hard hit. At least 15 people were killed, and hundreds were displaced. Lava flows extended from both the summit and flank vents on the northeast and southwest sides. The 1971 disaster reinforced the urgency of developing lahar hazard maps and early warning systems for the Villarrica region."
+        },
+        {
+          "title": "The 2015 Eruption — Lava Fountains Over Pucón",
+          "content": "In the early morning hours of March 3, 2015, Villarrica erupted in a dramatic paroxysmal event that sent a lava fountain approximately 1,500 m (4,900 ft) above the summit crater. The eruption, which lasted roughly 45 minutes before subsiding, was visible from Pucón and across the Lakes District. The lava fountain melted portions of the summit glacier, generating lahars that flowed down the Turbio and Pedregoso river channels. Authorities had raised the alert level in the preceding days based on escalating seismicity detected by SERNAGEOMIN's monitoring network, and approximately 3,500 people were evacuated from areas at risk of lahar inundation. No fatalities occurred — a testament to improved monitoring and evacuation planning since the disasters of 1963 and 1971. The eruption was the most intense phase of an ongoing eruptive episode that had begun on December 2, 2014, and which has continued at varying levels of activity through 2025, maintaining an intermittent lava lake and sporadic Strombolian explosions in the summit crater."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Villarrica has been in a state of continuous low-level eruption since December 2014, with an active or intermittent lava lake visible in the summit crater and frequent Strombolian explosions detectable by seismic and acoustic monitoring. SERNAGEOMIN (Chile's National Geology and Mining Service) maintains the volcano at Alert Level Yellow (the second of four levels) as of the most recent reports, indicating elevated activity above background levels. The agency operates the OVDAS (Observatorio Volcanológico de los Andes del Sur), which monitors Villarrica with a comprehensive network of broadband seismometers, infrasound sensors, GPS receivers, SO₂ measurement stations, and real-time webcams.\n\nThe March 2015 paroxysm demonstrated both the effectiveness of the monitoring system — the eruption was preceded by days of escalating seismic tremor, allowing successful evacuations — and the speed at which conditions can change at Villarrica. The current eruptive phase is the longest sustained activity at the volcano in the observational record. Volcanologists consider the possibility of another paroxysmal event or shift to more intense activity to be an ongoing concern, particularly given the volcano's pattern of multi-year eruptive episodes punctuated by sudden escalations."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Villarrica presents one of the most complex volcanic hazard profiles in South America, combining multiple threat types with a large nearby population. The primary hazards include:\n\nLahars are the greatest killer. Villarrica's 40 km² of glacial ice means that even moderate eruptions can generate devastating mudflows within minutes. The 1963 and 1971 lahars reached populated areas in as little as 30–40 minutes after the onset of eruption. SERNAGEOMIN has mapped detailed lahar inundation zones along the Turbio, Pedregoso, Zanjón Seco, and Voipir river valleys, and lahar warning sirens have been installed in Pucón and surrounding communities.\n\nLava flows from summit and flank vents can extend up to 18 km (11 mi), though they typically advance slowly enough to allow evacuation. Tephra fall from Strombolian and sub-Plinian eruptions can affect areas downwind, contaminating water supplies and damaging agriculture. Pyroclastic flows, while rare in the historical period, are documented in the Holocene geological record extending up to 20 km from the summit.\n\nApproximately 100,000 people live within 30 km (19 mi) of Villarrica's summit, including the rapidly growing tourist hub of Pucón (population ~30,000 including seasonal visitors). The town sits directly in the path of potential lahars from the Turbio River valley. Evacuation planning is complicated by the area's single-road access in some directions and the transient tourist population, who may be unfamiliar with volcanic hazards and evacuation routes."
+    },
+    "geography_and_physical_description": {
+      "content": "Villarrica is one of the most visually striking volcanoes in the Chilean Andes — a near-perfect snow-capped cone rising above the dark-blue waters of Lago Villarrica, framed by temperate rainforest and the resort architecture of Pucón. The summit reaches 2,847 m (9,341 ft) and is crowned by a ~200-m-diameter crater containing the active lava lake. The upper flanks above ~2,000 m are covered by glacial ice, while the lower slopes are cloaked in dense Valdivian temperate rainforest and Araucaria (monkey puzzle) woodlands.\n\nThe volcano occupies the northwestern end of a volcanic chain that extends southeast to Quetrupillán and Lanín volcanos along the Chilean-Argentine border. More than 30 parasitic scoria cones and fissure vents are distributed across the flanks, particularly to the northeast and southwest. The base of the modern cone sits within the 6-km-wide Pleistocene caldera, whose rim is visible as a subtle topographic break on the eastern and southern flanks.\n\nLago Villarrica (surface area 176 km² / 68 mi²) lies at the southern foot of the volcano and is both a tourist draw and a potential hazard amplifier — lahars entering the lake could generate waves affecting shoreline communities. Villarrica National Park, established in 1940, protects 63,000 hectares of the volcano and surrounding forests, harboring endemic species of the Valdivian temperate rainforest ecoregion."
+    },
+    "climate_and_global_impact": {
+      "content": "Villarrica's historical eruptions have had no measurable global climatic impact, as even its most energetic events in the modern period (VEI 3) produced eruption columns too small to inject significant quantities of sulfur dioxide into the stratosphere. The prehistoric VEI 5 event around 1810 BCE may have had regional atmospheric effects in the Southern Hemisphere, but no corresponding signal has been identified in ice-core records.\n\nLocally, the volcano plays a significant role in the regional hydrology and microclimate. Its glaciers feed multiple river systems including the Turbio, Pedregoso, and Trancura rivers, which supply water to downstream communities and Lago Villarrica. Progressive glacier retreat, accelerated by both global warming and volcanic heat flux, is reducing this water supply and altering the lahar hazard profile — thinner glaciers produce less meltwater per eruption but leave steeper, unconsolidated moraine deposits that can be mobilized by rainfall."
+    },
+    "cultural_significance": {
+      "content": "Villarrica holds profound cultural significance for the Mapuche people, the indigenous nation of south-central Chile and Argentina, who call the volcano Rucapillán — 'House of the Great Spirit' or 'House of the Pillán.' In Mapuche cosmology, Pillán are powerful spirits associated with volcanic activity, thunder, and natural phenomena. Eruptions were interpreted as manifestations of the Pillán's power, and the volcano was revered as a sacred site long before European contact.\n\nThe Spanish founded the city of Villarrica at the base of the volcano in 1552, only to see it destroyed and abandoned during the Mapuche uprising of 1602. The city was not permanently refounded until 1882, reflecting the prolonged resistance of the Mapuche to colonization. Today, the volcano's name — and the town's — derive from the Spanish 'Villa Rica' (Rich Town), a reference to gold panning in local rivers.\n\nIn modern Chilean culture, Villarrica is an icon of the Lakes District and a symbol of Patagonian adventure tourism. The summit climb is one of the most popular mountaineering excursions in South America, and the volcano's distinctive cone features on postcards, wine labels, and tourism campaigns throughout Chile. The ski resort Centro de Esquí Villarrica-Pucón operates on the volcano's southeastern slopes, offering the surreal experience of skiing on an active volcano with an open lava lake at the summit."
+    },
+    "visiting_and_tourism": {
+      "content": "Villarrica is one of the most accessible active volcanoes in the world for visitors. The summit hike — a guided ice-axe and crampon ascent taking 4–6 hours up and 2–3 hours down — departs daily (weather permitting) from the ski resort base at approximately 1,400 m and reaches the crater rim at 2,847 m, where climbers can peer into the glowing lava lake. All ascents require a certified guide and are regulated by CONAF (Chile's forestry and parks agency); access is closed when SERNAGEOMIN raises the volcanic alert level above Yellow.\n\nThe town of Pucón, population approximately 30,000 with seasonal influxes reaching 100,000+, has developed into Chile's premier adventure tourism destination largely because of the volcano. In addition to the summit climb, activities include skiing at Centro de Esquí Villarrica-Pucón (typically June–October), hot springs heated by volcanic geothermal systems (Termas de Huife, Termas Geométricas), whitewater rafting on the Trancura River, and hiking in Villarrica National Park. Pucón is approximately 780 km (485 mi) south of Santiago, reachable by a 1.5-hour flight to Temuco followed by a 1.5-hour drive, or by an overnight bus from Santiago."
+    },
+    "nearby_volcanoes": {
+      "content": "Villarrica is the most active member of a volcanic chain that extends southeast along the Chilean-Argentine border. <a href=\"/volcano/llaima\">Llaima</a> (3,125 m), approximately 90 km (56 mi) to the north-northwest, is Villarrica's closest rival in eruption frequency and is also one of Chile's most active volcanoes. Quetrupillán (2,360 m), a less active stratovolcano, lies just 16 km (10 mi) to the southeast within the same national park. Lanín (3,776 m), a dormant stratovolcano straddling the Chilean-Argentine border 55 km to the southeast, is the tallest volcano in the chain. Further south, Mocho-Choshuenco and Osorno continue the chain of Andean stratovolcanoes along the Southern Volcanic Zone, forming part of the dense concentration of active volcanism that makes <a href=\"/volcanoes-in-chile\">Chile</a> home to 66 Holocene volcanoes — the fifth-highest total of any country on Earth."
+    },
+    "etymology": {
+      "content": "The Mapuche name Rucapillán translates as 'House of the Great Spirit' or 'House of the Pillán,' from ruka ('house') and Pillán (powerful spirits in Mapuche mythology associated with volcanoes, thunder, and earthquakes). The Spanish name 'Villarrica' ('Rich Town') derives from the settlement founded in 1552 at the volcano's base, named for the gold found in nearby rivers. The volcano inherited its name from the town rather than the reverse."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Villarrica Compared to South America's Most Active Stratovolcanoes",
+      "description": "How does Villarrica compare to the Andes' other major volcanic threats?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Glacier Coverage"
+      ],
+      "rows": [
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2025 (ongoing)",
+          "5",
+          "162",
+          "40 km²"
+        ],
+        [
+          "Llaima",
+          "Chile",
+          "3,125 m",
+          "Stratovolcano",
+          "2009",
+          "4",
+          "86",
+          "Yes"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "73",
+          "14 km²"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "12",
+          "10 km²"
+        ],
+        [
+          "Tungurahua",
+          "Ecuador",
+          "5,023 m",
+          "Stratovolcano",
+          "2016",
+          "3",
+          "71",
+          "Minimal"
+        ],
+        [
+          "Fuego",
+          "Guatemala",
+          "3,763 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "61",
+          "None"
+        ]
+      ]
+    },
+    {
+      "title": "Volcanoes with Persistent Lava Lakes",
+      "description": "Villarrica is one of very few volcanoes maintaining a persistent lava lake, a feature indicating an open-conduit magmatic system.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Lava Lake Status",
+        "Last Eruption",
+        "Elevation"
+      ],
+      "rows": [
+        [
+          "Villarrica",
+          "Chile",
+          "Stratovolcano",
+          "Intermittent (since 2014)",
+          "2025 (ongoing)",
+          "2,847 m"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "Stratovolcano",
+          "Persistent (reformed 2021)",
+          "2021",
+          "3,470 m"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "Shield",
+          "Persistent",
+          "2017",
+          "613 m"
+        ],
+        [
+          "Kīlauea",
+          "United States",
+          "Shield",
+          "Intermittent",
+          "2023",
+          "1,222 m"
+        ],
+        [
+          "Erebus",
+          "Antarctica",
+          "Stratovolcano",
+          "Persistent (phonolitic)",
+          "2025",
+          "3,794 m"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "Shield",
+          "Intermittent",
+          "2022",
+          "1,334 m"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7520,
+      "vei": 0,
+      "label": "Earliest confirmed eruption in geological record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -6690,
+      "vei": 4,
+      "label": "Major explosive eruption — VEI 4",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1810,
+      "vei": 5,
+      "label": "Largest known eruption — VEI 5, major Plinian event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1230,
+      "vei": 4,
+      "label": "VEI 4 explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -670,
+      "vei": 4,
+      "label": "VEI 4 explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1558,
+      "vei": 2,
+      "label": "First historically documented eruption (Spanish colonial records)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1640,
+      "vei": null,
+      "label": "Eruption during Mapuche resistance period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1948,
+      "vei": 3,
+      "label": "VEI 3 eruption with deadly lahars; at least 20 killed",
+      "deaths": "20+",
+      "notable": true
+    },
+    {
+      "year": 1963,
+      "vei": 3,
+      "label": "Catastrophic lahars destroy homes near Pucón; 22+ killed",
+      "deaths": "22+",
+      "notable": true
+    },
+    {
+      "year": 1971,
+      "vei": 2,
+      "label": "Lahars devastate Coñaripe; 15+ killed",
+      "deaths": "15+",
+      "notable": true
+    },
+    {
+      "year": 2015,
+      "vei": 3,
+      "label": "1,500-m lava fountain; 3,500 evacuated; no deaths",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2014,
+      "vei": 3,
+      "label": "Onset of current ongoing eruption (December 2014–present)",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 11,
+      "note": "Major VEI 4–5 events from ~7520 BCE to ~670 BCE"
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "4th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 3
+    },
+    {
+      "century": "15th",
+      "count": 16
+    },
+    {
+      "century": "16th",
+      "count": 19
+    },
+    {
+      "century": "17th",
+      "count": 17
+    },
+    {
+      "century": "18th",
+      "count": 20
+    },
+    {
+      "century": "19th",
+      "count": 23
+    },
+    {
+      "century": "20th",
+      "count": 34
+    },
+    {
+      "century": "21st",
+      "count": 7,
+      "note": "Through 2025; current eruption ongoing"
+    }
+  ],
+  "facts": [
+    "Villarrica maintains one of only a handful of persistent lava lakes on Earth — a glowing pool of molten basalt visible at the bottom of its summit crater, accessible to guided climbers.",
+    "The Mapuche name Rucapillán means 'House of the Great Spirit,' reflecting the volcano's sacred status in indigenous cosmology for millennia before European contact.",
+    "With 162 recorded eruptions, Villarrica is the most active volcano in the Southern Andes and one of the most active on the entire South American continent.",
+    "The volcano's 40 km² of glacial ice make lahars its deadliest hazard — the 1963 and 1971 eruptions killed over 35 people, primarily through mudflows reaching towns in less than 40 minutes.",
+    "Centro de Esquí Villarrica-Pucón operates a ski resort on the active flanks of the volcano, offering the unique experience of skiing above a glowing lava lake.",
+    "The March 3, 2015, paroxysm sent a lava fountain 1,500 m (4,900 ft) into the sky above Pucón at 3:00 AM — one of the most dramatic volcanic events in recent Chilean history.",
+    "Villarrica's VEI 5 eruption around 1810 BCE produced pyroclastic flows that traveled up to 20 km from the summit — a scale of violence not seen in any historical eruption.",
+    "The town of Pucón, population ~30,000, sits directly in the path of potential lahars from the Turbio River valley, making it one of the most volcanically exposed tourist destinations in the world.",
+    "Villarrica has been continuously erupting at a low level since December 2014, making the current eruptive episode its longest in the observational record (11+ years and counting).",
+    "The Spanish city of Villarrica was founded in 1552 and destroyed by Mapuche forces in 1602; it was not permanently refounded until 1882 — 280 years later.",
+    "The Holocene geological record at Villarrica reveals at least three VEI 4–5 eruptions in the past 10,000 years, suggesting that future eruptions could be far larger than anything witnessed in historical times.",
+    "Villarrica is the closest highly active volcano to a major Southern Hemisphere ski resort, creating a unique intersection of extreme sports and volcanic hazard management."
+  ],
+  "faqs": [
+    {
+      "question": "Is Villarrica volcano still active?",
+      "answer": "Yes, Villarrica is one of the most active volcanoes in South America and has been in a state of continuous eruption since December 2014. An intermittent lava lake is present in the summit crater, and sporadic Strombolian explosions produce incandescent ejections visible at night from the town of Pucón, 15 km to the south. The volcano has 162 recorded eruptions in its history. Chile's SERNAGEOMIN maintains it at an elevated alert level and monitors it with seismometers, infrasound sensors, GPS, and webcams. Another significant eruption is considered a near-certainty over coming decades."
+    },
+    {
+      "question": "When did Villarrica last erupt?",
+      "answer": "Villarrica has been in a state of continuous eruption since December 2, 2014, with the most intense phase occurring on March 3, 2015, when a 1,500-meter lava fountain erupted from the summit, generating lahars and prompting the evacuation of 3,500 people. The eruption continues through 2025 at a low level, with an active lava lake and periodic Strombolian activity in the summit crater. The current eruptive episode, lasting over 11 years, is the longest continuous activity at Villarrica in the observational record."
+    },
+    {
+      "question": "Can you climb Villarrica volcano?",
+      "answer": "Yes, the summit climb is one of the most popular mountaineering excursions in South America. The ascent takes 4–6 hours from the ski resort base at approximately 1,400 m to the crater rim at 2,847 m, and requires crampons, ice axes, and a certified guide — all of which can be arranged through agencies in Pucón. At the summit, climbers can look into the active crater and, conditions permitting, see the glowing lava lake. Climbs are suspended when SERNAGEOMIN raises the alert level above Yellow. Moderate fitness is required, and weather conditions can change rapidly."
+    },
+    {
+      "question": "How dangerous is Villarrica volcano?",
+      "answer": "Villarrica is classified as one of Chile's most dangerous volcanoes. Approximately 100,000 people live within 30 km of the summit, including the tourist town of Pucón. The primary threat is lahars — volcanic mudflows generated when eruptions melt the volcano's 40 km² of glacial ice. Lahars from the 1963 and 1971 eruptions killed more than 35 people and reached populated areas within 30–40 minutes. Lava flows, ashfall, and pyroclastic flows are additional hazards. The Holocene record includes VEI 5 eruptions far larger than any historical event, indicating the potential for catastrophic future activity."
+    },
+    {
+      "question": "How tall is Villarrica volcano?",
+      "answer": "Villarrica rises to 2,847 m (9,341 ft) above sea level, making it a prominent but not exceptionally tall Andean volcano. For comparison, nearby Lanín reaches 3,776 m and Llaima 3,125 m. Villarrica's height is sufficient to support approximately 40 km² of glacial ice, which is central to its hazard profile. The summit is crowned by a crater approximately 200 m in diameter that contains the active lava lake. The upper portion of the cone above approximately 2,000 m is permanently snow- and ice-covered."
+    },
+    {
+      "question": "What type of volcano is Villarrica?",
+      "answer": "Villarrica is a stratovolcano (also called a composite volcano), built from alternating layers of lava flows, tephra, and volcanic debris over hundreds of thousands of years. It sits on the Southern Volcanic Zone of the Andes, where the Nazca Plate subducts beneath the South American Plate. Unlike many subduction-zone stratovolcanoes, Villarrica erupts predominantly basaltic to basaltic-andesitic magma, which is relatively fluid and low in silica — explaining its persistent lava lake and frequent effusive eruptions alongside occasional explosive events."
+    },
+    {
+      "question": "What happened in the 2015 Villarrica eruption?",
+      "answer": "On March 3, 2015, at approximately 3:00 AM local time, Villarrica erupted in a sudden paroxysmal event. A lava fountain rose approximately 1,500 m (4,900 ft) above the summit crater, visible from across the Lakes District. The eruption melted portions of the summit glacier, generating lahars down the Turbio and Pedregoso valleys. SERNAGEOMIN had raised the alert level in preceding days based on escalating seismicity, enabling the successful evacuation of approximately 3,500 people from lahar hazard zones. No fatalities occurred. The intense phase lasted roughly 45 minutes before activity subsided to lower levels."
+    },
+    {
+      "question": "Does Villarrica have a lava lake?",
+      "answer": "Yes, Villarrica is one of only a handful of volcanoes on Earth that maintains a persistent or intermittent lava lake in its summit crater. The lava lake reflects an open-conduit magmatic system where molten basalt from the shallow magma reservoir remains connected to the surface, allowing continuous degassing. The lake's activity level fluctuates — sometimes it is a vigorously convecting pool of glowing lava visible from the crater rim, while at other times it drops below the visible level. Other volcanoes with persistent lava lakes include Nyiragongo (DR Congo), Erta Ale (Ethiopia), and Erebus (Antarctica)."
+    }
+  ],
+  "people_also_search": [
+    "villarrica volcano eruption",
+    "villarrica volcano climb",
+    "villarrica lava lake",
+    "pucon chile volcano",
+    "villarrica 2015 eruption",
+    "most active volcanoes in chile",
+    "villarrica ski resort",
+    "villarrica volcano dangers"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Villarrica",
+    "alternateName": [
+      "Rucapillán",
+      "Volcán Villarrica"
+    ],
+    "description": "Glacier-covered active stratovolcano in Chile's Lakes District with a persistent lava lake and 162 recorded eruptions",
+    "geo": {
+      "latitude": -39.42,
+      "longitude": -71.93,
+      "elevation": 2847
+    },
+    "containedInPlace": {
+      "name": "Lakes District, Araucanía / Los Ríos",
+      "country": "Chile"
+    },
+    "url": "https://volcanoatlas.com/volcano/villarrica"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=357120",
+      "text": "Smithsonian GVP: Villarrica",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile National Geology & Mining Service",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Villarrica-volcano-Chile",
+      "text": "Britannica: Villarrica",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "llaima",
+      "cotopaxi",
+      "kilauea",
+      "nyiragongo",
+      "erta-ale",
+      "erebus",
+      "nevado-del-ruiz"
+    ],
+    "country_pages": [
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "deadliest-eruptions",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "llaima",
+    "cotopaxi",
+    "nevado-del-ruiz",
+    "nyiragongo",
+    "erta-ale"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Villarrica",
+      "url": "/volcano/villarrica"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/villarrica"
+}

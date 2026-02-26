@@ -1,0 +1,422 @@
+{
+  "slug": "jan-mayen",
+  "volcano_id": 376010,
+  "title": "Jan Mayen (Beerenberg)",
+  "meta_title": "Jan Mayen / Beerenberg — Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Beerenberg on Jan Mayen is the world's northernmost active volcano at 2,277 m. Explore its eruption history, Arctic glaciers, and geology.",
+  "quick_answer": {
+    "what": "Jan Mayen is a remote volcanic island in the Norwegian Sea dominated by Beerenberg, a 2,277 m (7,470 ft) glacier-covered basaltic stratovolcano — the northernmost active subaerial volcano on Earth.",
+    "status": "Active — last erupted January 1985. Norway's only active volcano. Continuous threat of new eruptions and earthquakes.",
+    "famous_for": "Being the world's northernmost active volcano above sea level, its dramatic 1970 eruption that went unnoticed for three days by personnel 30 km away, and its spectacular Arctic glacial-volcanic landscape.",
+    "danger_level": "Low population risk — the island is home only to a small Norwegian military and meteorological station (~18 personnel). Primary hazards are to station personnel, aviation, and marine traffic."
+  },
+  "hero": {
+    "name": "Jan Mayen (Beerenberg)",
+    "local_name": "Beerenberg",
+    "subtitle": "The World's Northernmost Active Volcano",
+    "country": "Norway",
+    "region": "Atlantic Ocean Volcanic Regions",
+    "type": "Stratovolcano",
+    "elevation_m": 2277,
+    "elevation_ft": 7470,
+    "status": "Active",
+    "last_eruption": "1985",
+    "coordinates": {
+      "lat": 71.082,
+      "lon": -8.155
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11990.jpg",
+    "photo_credit": "Gernot Hecker, 2005 (Wikimedia Commons)"
+  },
+  "key_facts_box": {
+    "elevation": "2,277 m (7,470 ft)",
+    "type": "Stratovolcano (composite volcano built on older shield volcano)",
+    "status": "Active",
+    "last_eruption": "January 6–9, 1985",
+    "first_known_eruption": "~1350 AD",
+    "total_recorded_eruptions": 7,
+    "vei_max": "4 (1732)",
+    "country": "Norway",
+    "region": "Norwegian Sea, Arctic",
+    "tectonic_setting": "Rift zone — junction of Mohn's Ridge, Jan Mayen Fracture Zone, and Jan Mayen Ridge microcontinent",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt",
+      "Trachyte (Sør-Jan)"
+    ],
+    "coordinates": "71.082°N, 8.155°W",
+    "nearest_settlement": "Norwegian meteorological/military station — ~30 km from summit",
+    "island_dimensions": "~53 km long, 377 km² area",
+    "population_on_island": "~18 (rotating Norwegian military/meteorological personnel)",
+    "glacier_coverage": "~115 km² (approximately 30% of the island), 20+ glaciers",
+    "summit_crater": "~1 km wide",
+    "monitoring_agency": "Norwegian Seismic Array (NORSAR); Norwegian Meteorological Institute",
+    "sovereignty": "Norwegian dependency (not part of the Kingdom of Norway proper)",
+    "distance_from_iceland": "~650 km NE",
+    "distance_from_norway_mainland": "~1,000 km west",
+    "smithsonian_id": "376010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=376010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Beerenberg is the dominant volcanic feature of Jan Mayen, a remote 53-km-long island in the Norwegian Sea approximately 650 km northeast of <a href=\"/volcanoes-in-iceland\">Iceland</a> and 1,000 km west of mainland Norway. At 2,277 m (7,470 ft), it is the northernmost active subaerial volcano on Earth and the highest peak in the Arctic, its glacier-sheathed summit cone visible from great distances across the polar sea. The island consists of two distinct volcanic complexes separated by a narrow isthmus: the massive Beerenberg <a href=\"/types-of-volcanoes\">stratovolcano</a> dominates the northeastern half (Nord-Jan), while the southwestern tip (Sør-Jan) comprises a field of Holocene cinder cones, tephra rings, and trachytic lava domes. Beerenberg has produced at least seven confirmed eruptions since approximately 1350 AD, with the most recent occurring in January 1985 when a brief but intense fissure eruption on the northeast flank sent lava flowing into the Arctic sea. The volcano sits at a tectonically unusual junction where the Mohn's Ridge (a continuation of the Mid-Atlantic Ridge), the Jan Mayen Fracture Zone, and the Jan Mayen Ridge microcontinent converge, creating a complex geological setting that drives its basaltic volcanism. More than 20 glaciers cloak approximately 30% of the island, and several extend their snouts to sea level, making Beerenberg one of the few places on Earth where active volcanism and Arctic glaciation interact at close quarters. Norway's only active volcano, Jan Mayen hosts a small rotating crew of military and meteorological personnel — the only human inhabitants of this extraordinarily remote volcanic outpost within the <a href=\"/ring-of-fire\">global system of active volcanism</a>."
+    },
+    "geology_and_formation": {
+      "content": "Jan Mayen's geological setting is unusual and complex. The island sits near the junction of three major tectonic features: the Mohn's Ridge, which is the northward continuation of the Mid-Atlantic Ridge divergent plate boundary; the Jan Mayen Fracture Zone, a transform fault that offsets the ridge; and the Jan Mayen Ridge, a sliver of continental crust (microcontinent) that separated from Greenland during the opening of the Norwegian-Greenland Sea beginning approximately 55 million years ago. This triple junction creates a region of enhanced mantle upwelling and complex stress patterns that drive Jan Mayen's volcanism.\n\nThe island itself is less than 700,000 years old. Beerenberg's development can be understood in two major phases: an older, broader shield volcano composed primarily of basaltic lava flows, upon which a younger, steeper summit stratovolcano was built from alternating layers of lava and tephra. This structural transition is visible in the mountain's profile: the lower slopes incline at approximately 15°, while the upper cone steepens to roughly 30° around the 1-km-wide summit crater. The volcano is approximately 25 km in diameter at sea level.\n\nBeerenberg's lavas are overwhelmingly basaltic, composed of olivine-bearing alkali basalts and picro-basalts typical of oceanic rift volcanism. Numerous parasitic cinder cones, built from scoria and tephra, dot the lower flanks, erupted along fissures that typically follow the prevailing NE-SW tectonic trend. The southwestern half of the island (Sør-Jan) presents a different volcanic character: here, short fissures with NE-SW orientations have produced cinder cones, tephra rings, and notably trachytic lava domes — a more evolved, silica-enriched magma composition. The Sør-Jan volcanic field is Holocene in age and represents a distinct magmatic system from Beerenberg proper.\n\nThe island is ringed by high sea cliffs, the product of relentless wave erosion in one of the stormiest stretches of ocean on the planet. The combination of glacial erosion, wave action, and volcanic construction creates a landscape of extraordinary geological drama."
+    },
+    "eruption_history_overview": {
+      "content": "Beerenberg has produced seven confirmed eruptions spanning approximately 650 years, from a flank eruption near Eggøya on the southwest flank around 1350 AD to the brief but dramatic fissure eruption of January 1985. The <a href=\"/volcanic-explosivity-index\">VEI</a> ratings range from 0 to 4, with the 1732 eruption at the upper end. Beerenberg's eruption frequency has been estimated at 150 ± 75 years for major events, though three eruptions occurred in rapid succession between 1970 and 1985, suggesting that the volcano may enter periods of clustered activity separated by longer repose intervals. All historical eruptions have been flank events, erupting from fissures on Beerenberg's slopes rather than from the summit crater, and all produced lava flows accompanied by varying degrees of explosive activity and scoria cone construction. The volcano's extreme remoteness, brutal weather, and extensive glacier cover mean that the historical record is almost certainly incomplete — eruptions during the centuries before regular human presence could easily have gone unobserved."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1732 Eruption — Beerenberg's Largest Historical Event (VEI 4)",
+          "content": "The most powerful recorded eruption of Beerenberg began on May 17, 1732, with explosive activity from vents near Eggøya on the southwestern flank. Rated VEI 4, this 'cataclysmic' event represents the upper bound of Beerenberg's known eruptive capability. Details are limited due to the era and the island's remoteness — Jan Mayen was visited primarily by Dutch whalers in the 17th and 18th centuries, and the station they had operated was abandoned by 1634. The eruption produced significant tephra and lava flows. It remains the benchmark event for hazard assessment on the island."
+        },
+        {
+          "title": "The 1970–1971 Eruption — The Volcano Awakens After 120 Years (VEI 3)",
+          "content": "After approximately 120 years of quiescence, Beerenberg erupted dramatically on September 18, 1970, in what was described as an unexpected and impressive event. Intense storms initially concealed the eruption's onset, and remarkably, it went undetected for three days by the nearly 40 personnel stationed at the Norwegian meteorological and LORAN navigation station just 30 km from the summit — they were only alerted when aircraft pilots reported the eruption cloud. Lava erupted from a 6-km-long fissure on the northeast flank at elevations around 600 m, descending nearly to sea level. Activity then concentrated at five major vents spaced approximately 1–1.5 km apart, producing lava fountains several hundred meters high from the highest-elevation vents. The eruption produced at least 0.5 km³ of basaltic lava — a substantial volume — and was accompanied by between 600 and 800 recorded earthquakes per day on average. Activity continued into January 1971, gradually diminishing. The eruption showed notable similarities to the 1973 Heimaey eruption in Iceland's Westman Islands, both being fissure eruptions from basaltic volcanoes on the Mid-Atlantic Ridge system."
+        },
+        {
+          "title": "The 1973 Eruption — A Brief Follow-Up (VEI 1)",
+          "content": "On January 15, 1973, a small eruption occurred on Beerenberg's northeast flank at Skrukkelia, likely representing residual activity from the 1970 event. The eruption was minor (VEI 1) and brief, but it confirmed that Beerenberg's magmatic system remained active."
+        },
+        {
+          "title": "The 1985 Eruption — The Most Recent Activity (VEI 0)",
+          "content": "Beerenberg's most recent eruption began on January 6, 1985, preceded by earthquakes that included magnitude 5.4 and 5.0 events strong enough to be felt at the Norwegian station approximately 30 km away. That afternoon, station personnel observed red-glowing clouds and smoke above and north of Beerenberg. The eruption occurred from a 1-km-long E-W fissure on the extreme northeastern corner of the island, extending from sea level to an elevation of over 200 m. A brown eruption plume rose several kilometers. Lava flowed northward down Kraterlia and over the older Kokssletta lava plateau into the sea, where observers from a Norwegian Coast Guard helicopter reported the ocean 'boiling' up to 150 m from shore. Despite its intensity, the eruption lasted only 35–40 hours, producing approximately 7 million m³ of lava. On April 7, an expedition found a new 300-m-wide subglacial vent within the summit crater at 2,113 m altitude, emitting steam — suggesting that the eruption may have also involved activity within the glacier-filled summit."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Beerenberg is currently in a state of repose but is considered capable of erupting with limited warning. Since the 1985 eruption, very slight but apparently constant steam emission has been observed from Gjuvtinden, a crag near the summit, continuing activity first noted after the September 1971 cessation of the 1970 eruption. The Norwegian Seismic Array (NORSAR) provides seismic monitoring coverage, and the Norwegian Meteorological Institute maintains a presence on the island, though continuous visual observation of the summit is severely hampered by the region's persistent cloud cover and extreme weather. Remote sensing via satellite thermal monitoring and atmospheric gas detection supplements ground-based observation. The 2022 Frontiers in Earth Science volcanic hazard assessment — the first systematic hazard study of Jan Mayen — used vent distribution analysis, eruption recurrence modeling, and computer simulations to evaluate future eruption scenarios. That study estimated eruption recurrence rates and produced hazard maps for tephra fall and lava inundation under various scenarios. The clustering of three eruptions between 1970 and 1985, after 120 years of quiet, illustrates that Beerenberg can transition rapidly from apparent dormancy to activity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Jan Mayen's extreme remoteness and minimal population (approximately 18 rotating Norwegian military and meteorological personnel) mean that the primary volcanic risk is to the station infrastructure and its inhabitants, to aviation routes over the Norwegian Sea, and to marine traffic. The 2022 hazard assessment identified several key threat scenarios. Lava flows from flank fissure eruptions — the dominant historical eruption style — could threaten the station facilities in Olonkinbyen on the southwestern part of the island if vents open on the Sør-Jan volcanic field, though historical Beerenberg eruptions have all occurred on the northeastern flanks. Tephra fall from explosive eruptions could disrupt operations and contaminate water supplies. Aviation hazards are significant: the 1970 eruption cloud extended approximately 60 km from the island, and North Atlantic flight routes pass within range of a major eruption plume. Glacier-volcano interaction poses unique hazards: an eruption beneath Beerenberg's extensive ice cap could trigger jökulhlaups (glacial outburst floods), as occur in Iceland. Coastal landslides and flank collapses are possible given the island's steep, wave-eroded cliffs and seismically active setting. The magnitude 5.4 earthquake that preceded the 1985 eruption demonstrated that significant seismic hazards accompany volcanic activity. Compared to other Arctic and sub-Arctic volcanic systems like those in <a href=\"/volcanoes-in-iceland\">Iceland</a>, Jan Mayen's hazard profile is substantially less complex simply because so few people and so little infrastructure are exposed."
+    },
+    "geography_and_physical_description": {
+      "content": "Jan Mayen is a narrow, elongated island stretching approximately 53 km from northeast to southwest, covering an area of 377 km². The northeastern half (Nord-Jan) is dominated by the massive cone of Beerenberg, approximately 25 km in diameter at sea level, whose glacier-sheathed summit reaches 2,277 m. The 1-km-wide summit crater is glacier-filled, and more than 20 glaciers descend from the upper slopes, some reaching sea level. Glaciers cover approximately 115 km² — around 30% of the island's total area. The break in slope between the gentler lower flanks (~15°) and the steeper upper cone (~30°) reflects Beerenberg's two-phase construction: a broad shield base overlain by a younger stratocone. A narrow, low-lying isthmus connects Nord-Jan to Sør-Jan, the southwestern volcanic complex, which rises as a mountainous ridge of cinder cones, scoria mounds, and trachytic lava domes. The entire island is ringed by dramatic sea cliffs, battered by persistent North Atlantic storms. The station settlement of Olonkinbyen sits on the southwestern coast. The landscape is almost entirely devoid of trees, covered instead by mosses, lichens, and low Arctic vegetation where volcanic rock and ice permit growth."
+    },
+    "climate_and_global_impact": {
+      "content": "None of Beerenberg's historical eruptions have produced measurable global climate effects. Even the VEI 4 event of 1732, while significant locally, would have injected insufficient sulfur dioxide into the stratosphere to perturb global temperatures. However, Jan Mayen's location at 71°N places it in a region of the atmosphere where volcanic aerosols injected into the upper troposphere or lower stratosphere could disproportionately affect Arctic haze and regional climate feedbacks. The 1970 eruption produced a plume visible on NOAA satellite imagery extending ~60 km northeast, and ash from future eruptions could affect trans-Atlantic aviation corridors. By comparison, major eruptions from Iceland — notably <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> in 2010 and the 1783–1784 Laki eruption — have demonstrated the capacity of North Atlantic volcanism to disrupt European air travel and, in Laki's case, alter hemispheric climate. A significantly larger eruption from Beerenberg, while not currently anticipated based on historical patterns, would present similar aviation disruption potential."
+    },
+    "cultural_significance": {
+      "content": "Jan Mayen's cultural history is intimately linked to European Arctic exploration and exploitation. The island was likely known to Vikings, and evidence of human activity dates to the 15th century. Dutch whalers established land stations in the early 17th century for processing whale blubber, part of the massive Dutch Arctic whaling industry; these stations were gradually abandoned after 1634 as whale populations declined. The island's name honors the Dutch whaling captain Jan Jacobs May van Schellinkhout, who visited in 1614. Norwegian trappers hunted Arctic fox on the island from the early 1900s, and five of the original 13 hunting cabins survive as protected cultural heritage sites. In 1921, Hagbart Ekerold established the first meteorological station, and in 1922 the Norwegian Meteorological Institute formally annexed part of the island. Jan Mayen was annexed by Norway in 1929 and maintains a strategic role in weather forecasting for North Atlantic aviation and shipping, as well as hosting LORAN-C navigation infrastructure (now largely superseded by GPS). The first recorded summit ascent of Beerenberg was accomplished in 1921 by an expedition led by Dr. Paul Louis Mercanton, with James Wordie (who had served on Shackleton's Endurance expedition) among the climbers. The mountain's name, Beerenberg ('Bear Mountain' in Dutch), was bestowed by 17th-century whalers."
+    },
+    "visiting_and_tourism": {
+      "content": "Jan Mayen is one of the least accessible volcanic destinations on Earth. The island has no civilian airport, no harbor capable of receiving large vessels, and no tourist infrastructure. Access requires either Norwegian military authorization (the island is a restricted area under Norwegian sovereignty) or passage on one of the rare expedition cruise ships that include Jan Mayen in their Arctic itineraries — weather permitting, as conditions frequently prevent landings. When shore visits are possible, they typically involve Zodiac landings on exposed beaches in Sør-Jan. Climbing Beerenberg is an extreme mountaineering undertaking requiring full glacier and winter equipment, crevasse rescue capability, and favorable weather windows that may not materialize for days or weeks. Fewer than a handful of climbing expeditions attempt the summit in any given year. For those who do reach the island, the rewards are extraordinary: a pristine Arctic volcanic landscape of black lava flows, glacier tongues reaching the sea, immense seabird colonies, and the dramatic cone of the northernmost active volcano on the planet."
+    },
+    "nearby_volcanoes": {
+      "content": "Jan Mayen is the most isolated volcanic system in the North Atlantic, situated roughly 650 km northeast of Iceland and separated from any other active volcanism by vast stretches of the Norwegian-Greenland Sea. The nearest volcanic systems are the <a href=\"/volcano/reykjanes\">Reykjanes</a> fissure swarm and the extensive volcanic zones of <a href=\"/volcanoes-in-iceland\">Iceland</a>, which share Jan Mayen's position along the Mid-Atlantic Ridge divergent plate boundary but are geologically distinct, sitting atop the Icelandic hotspot rather than at a ridge-transform junction. To the north, the Mohn's Ridge extends toward the Arctic, but no other subaerial volcanoes exist along it. The Kolbeinsey Ridge between Iceland and Jan Mayen hosts submarine volcanic activity. Jan Mayen's geological isolation means it serves as a unique natural laboratory for studying volcanism at ridge-transform intersections in an Arctic glacial environment, a tectonic setting with very few accessible analogs anywhere on Earth."
+    },
+    "etymology": {
+      "content": "The island takes its name from the Dutch whaling captain Jan Jacobs May van Schellinkhout, who visited in 1614 during the height of Dutch Arctic whaling operations. Beerenberg, the dominant volcano, means 'Bear Mountain' in Dutch, named by 17th-century whalers — likely a reference to polar bears that were encountered on the island's shores. The Sør-Jan and Nord-Jan designations for the southwestern and northeastern halves of the island are Norwegian, meaning simply 'South Jan' and 'North Jan.'"
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Jan Mayen Compared to Other North Atlantic Volcanic Islands",
+      "description": "How does Beerenberg stack up against other remote volcanic islands in the Atlantic and Arctic?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Tectonic Setting"
+      ],
+      "rows": [
+        [
+          "Jan Mayen (Beerenberg)",
+          "Norway",
+          "2,277 m",
+          "Stratovolcano",
+          "1985",
+          "4",
+          "7",
+          "Rift zone / oceanic"
+        ],
+        [
+          "Hekla",
+          "Iceland",
+          "1,491 m",
+          "Stratovolcano",
+          "2000",
+          "5",
+          "23+",
+          "Rift zone / hotspot"
+        ],
+        [
+          "Snaefellsjökull",
+          "Iceland",
+          "1,446 m",
+          "Stratovolcano",
+          "200 AD",
+          "3",
+          "5+",
+          "Rift zone / hotspot"
+        ],
+        [
+          "Vestmannaeyjar (Heimaey)",
+          "Iceland",
+          "283 m",
+          "Fissure vents",
+          "1973",
+          "3",
+          "5+",
+          "Rift zone / hotspot"
+        ],
+        [
+          "Pico (Azores)",
+          "Portugal",
+          "2,351 m",
+          "Stratovolcano",
+          "1720",
+          "2",
+          "4+",
+          "Rift zone / hotspot"
+        ],
+        [
+          "Teide",
+          "Spain",
+          "3,715 m",
+          "Stratovolcano",
+          "1909",
+          "2",
+          "10+",
+          "Hotspot / oceanic"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1350,
+      "vei": null,
+      "label": "Flank eruption near Eggøya, SW flank of Beerenberg",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1732,
+      "vei": 4,
+      "label": "Largest recorded eruption — explosive activity at Eggøya/Dagnyhaugen, SW flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1818,
+      "vei": 3,
+      "label": "Explosive eruption at Dagnyhaugen, SW flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1851,
+      "vei": null,
+      "label": "Eruption at Kokssletta, NE flank — formed lava plain at north end of island",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1970,
+      "vei": 3,
+      "label": "Major fissure eruption, NE & SW flanks and summit; ~0.5 km³ basalt; first eruption in 120 years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1973,
+      "vei": 1,
+      "label": "Minor eruption at Skrukkelia, NE flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1985,
+      "vei": 0,
+      "label": "Brief intense fissure eruption, NE flank; 7 million m³ lava; lava entered the sea",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "14th",
+      "count": 1,
+      "note": "Earliest known eruption ~1350 AD near Eggøya"
+    },
+    {
+      "century": "16th",
+      "count": 1,
+      "note": "1558 uncertain eruption based on historical text"
+    },
+    {
+      "century": "18th",
+      "count": 1,
+      "note": "Major VEI 4 eruption in 1732"
+    },
+    {
+      "century": "19th",
+      "count": 2,
+      "note": "1818 and 1851 eruptions"
+    },
+    {
+      "century": "20th",
+      "count": 3,
+      "note": "Cluster of eruptions in 1970, 1973, and 1985"
+    }
+  ],
+  "facts": [
+    "Beerenberg is the northernmost active subaerial volcano on Earth, located at 71°N latitude — well within the Arctic Circle and farther north than any point on the Alaskan or Siberian mainland.",
+    "The 1970 eruption went undetected for three days by nearly 40 people stationed just 30 km away, finally noticed only when commercial aircraft pilots reported the eruption cloud.",
+    "More than 20 glaciers cover approximately 30% of Jan Mayen's surface, and some extend their tongues to sea level — making Beerenberg one of the rare places where active lava flows can interact directly with glacial ice.",
+    "The 1985 eruption lasted only 35–40 hours but produced approximately 7 million m³ of lava — enough to bury a football pitch under 1,400 m of rock.",
+    "Jan Mayen's sole human population consists of approximately 18 Norwegian military and meteorological personnel who rotate through the station at Olonkinbyen.",
+    "Beerenberg's name means 'Bear Mountain' in Dutch, given by 17th-century whalers who encountered polar bears on the island's shores.",
+    "The island sits at the junction of three major tectonic features: the Mohn's Ridge, the Jan Mayen Fracture Zone, and the Jan Mayen Ridge microcontinent — a fragment of Greenland separated 55 million years ago.",
+    "During the 1985 eruption, observers in a Norwegian Coast Guard helicopter reported the Arctic sea 'boiling' up to 150 m from shore where lava entered the ocean.",
+    "James Wordie, who had served on Shackleton's ill-fated Endurance expedition to Antarctica, was among the first people to reach Beerenberg's summit in 1921.",
+    "Between 600 and 800 earthquakes per day were recorded during the 1970 eruption, with the volcanic fissure stretching 6 km across the northeastern flank.",
+    "Jan Mayen is approximately 53 km long but only a few hundred meters wide at the narrow isthmus separating the Beerenberg volcano from the Sør-Jan volcanic field.",
+    "The Sør-Jan volcanic complex produces trachytic lavas — a more evolved, silica-rich magma chemistry distinct from Beerenberg's basaltic output — indicating two separate magmatic plumbing systems beneath the island."
+  ],
+  "faqs": [
+    {
+      "question": "Is Jan Mayen's Beerenberg volcano still active?",
+      "answer": "Yes, Beerenberg is classified as an active volcano. Its most recent eruption occurred on January 6–9, 1985, making it Norway's only historically active volcano. Slight but continuous steam emission has been observed from the summit region since the 1970 eruption cycle. The Norwegian Polar Institute states that there is a constant threat of new eruptions and earthquakes. With an estimated eruption frequency of 150 ± 75 years for major events — and three eruptions clustered between 1970 and 1985 — Beerenberg should be considered capable of erupting again with potentially limited warning."
+    },
+    {
+      "question": "When did Jan Mayen last erupt?",
+      "answer": "The most recent eruption of Beerenberg volcano on Jan Mayen began on January 6, 1985, and lasted approximately 35–40 hours. The eruption was preceded by earthquakes up to magnitude 5.4, and lava erupted from a 1-km-long fissure on the extreme northeastern corner of the island. Approximately 7 million cubic meters of basaltic lava flowed north into the Arctic sea. Before 1985, eruptions occurred in 1973 (VEI 1) and 1970–1971 (VEI 3), representing a cluster of activity after 120 years of quiescence."
+    },
+    {
+      "question": "How tall is Beerenberg?",
+      "answer": "Beerenberg stands 2,277 m (7,470 ft) above sea level, making it the highest point on Jan Mayen and the tallest mountain in the Arctic (excluding Greenland's ice-covered peaks and non-volcanic mountains). The Smithsonian Global Volcanism Program records the summit elevation as 2,197 m, though Norwegian sources consistently cite 2,277 m. The discrepancy may reflect different measurement points or the effects of glacial ice on the summit. The mountain's base extends roughly 25 km in diameter at sea level, with the summit cone rising steeply above a broader shield volcano base."
+    },
+    {
+      "question": "What type of volcano is Beerenberg?",
+      "answer": "Beerenberg is a basaltic stratovolcano (composite volcano) built upon an older shield volcano base. The structural distinction is visible in the mountain's profile: gentle ~15° slopes on the lower flanks (the shield phase) give way to steeper ~30° slopes on the upper cone (the stratocone phase). The volcano is composed primarily of basaltic lava flows with minor tephra layers and is dotted with numerous parasitic cinder cones along flank fissures. The southwestern part of Jan Mayen (Sør-Jan) hosts a separate volcanic field of cinder cones and trachytic lava domes."
+    },
+    {
+      "question": "Can you visit Jan Mayen?",
+      "answer": "Visiting Jan Mayen is possible but extremely difficult. The island is a Norwegian dependency with restricted access, and there is no civilian airport or harbor for large ships. Access typically requires either Norwegian military authorization or passage on expedition cruise ships that occasionally include Jan Mayen in Arctic itineraries — though weather frequently prevents landings. Shore visits, when possible, are conducted by Zodiac in the Sør-Jan area. Climbing Beerenberg is an extreme mountaineering challenge requiring full glacier equipment and favorable weather that may not appear for days. Fewer than a handful of expeditions attempt the summit each year."
+    },
+    {
+      "question": "Why is Jan Mayen volcanic?",
+      "answer": "Jan Mayen's volcanism results from its position at the junction of three major tectonic features: the Mohn's Ridge (the northward continuation of the Mid-Atlantic Ridge, where the North American and Eurasian plates diverge), the Jan Mayen Fracture Zone (a transform fault), and the Jan Mayen Ridge microcontinent (a fragment of Greenland that rifted away approximately 55 million years ago). This tectonic triple junction creates complex stress patterns and enhanced mantle upwelling that drive magma generation. Unlike Iceland, which benefits from an additional deep mantle hotspot, Jan Mayen's volcanism is primarily driven by ridge-transform dynamics."
+    },
+    {
+      "question": "How many people live on Jan Mayen?",
+      "answer": "Approximately 18 people live on Jan Mayen at any given time, all Norwegian military and meteorological personnel who rotate through the station at Olonkinbyen on the southwestern coast. There is no permanent civilian population and never has been. The station's primary functions are weather observation (critical for North Atlantic aviation and shipping forecasts), seismic monitoring, and operation of navigation infrastructure. The settlement lies approximately 30 km from Beerenberg's summit, within potential range of tephra fall and seismic effects from a large eruption."
+    },
+    {
+      "question": "What would happen if Beerenberg had a large eruption today?",
+      "answer": "A large eruption of Beerenberg would primarily threaten the 18 station personnel on the island through tephra fall, seismic activity, and potentially jökulhlaups (glacial outburst floods) if the eruption occurred beneath the extensive glacier cover. Ash clouds could disrupt North Atlantic aviation corridors between Europe and North America. Lava flows from flank fissures could reach the sea rapidly, as in 1970 and 1985. An evacuation would depend on weather conditions and the availability of Norwegian military or Coast Guard transport — which in Arctic winter conditions could be severely delayed. The 2022 Frontiers in Earth Science hazard assessment produced the first comprehensive volcanic hazard maps for the island."
+    }
+  ],
+  "people_also_search": [
+    "Jan Mayen volcano",
+    "Beerenberg eruption",
+    "northernmost active volcano",
+    "Jan Mayen island Norway",
+    "Norway volcanoes",
+    "Arctic volcanoes",
+    "Beerenberg height",
+    "Jan Mayen 1970 eruption"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Beerenberg",
+    "alternateName": [
+      "Jan Mayen",
+      "Bear Mountain"
+    ],
+    "description": "Glacier-covered basaltic stratovolcano on Jan Mayen island, the northernmost active subaerial volcano on Earth",
+    "geo": {
+      "latitude": 71.082,
+      "longitude": -8.155,
+      "elevation": 2277
+    },
+    "containedInPlace": {
+      "name": "Jan Mayen",
+      "country": "Norway"
+    },
+    "url": "https://volcanoatlas.com/volcano/jan-mayen"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=376010",
+      "text": "Smithsonian GVP: Jan Mayen",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://npolar.no/en/themes/jan-mayen/",
+      "text": "Norwegian Polar Institute: Jan Mayen",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.frontiersin.org/articles/10.3389/feart.2022.730734/full",
+      "text": "Frontiers: Volcanic Hazards of Jan Mayen Island",
+      "type": "research"
+    },
+    {
+      "url": "https://volcano.oregonstate.edu/beerenberg",
+      "text": "Oregon State Volcano World: Beerenberg",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "eyjafjallajokull",
+      "hekla",
+      "reykjanes",
+      "snaefellsjokull",
+      "vestmannaeyjar"
+    ],
+    "country_pages": [
+      "norway",
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "hekla",
+    "reykjanes",
+    "vestmannaeyjar",
+    "snaefellsjokull",
+    "katla"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Norway",
+      "url": "/volcanoes-in-norway"
+    },
+    {
+      "label": "Jan Mayen (Beerenberg)",
+      "url": "/volcano/jan-mayen"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/jan-mayen"
+}

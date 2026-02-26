@@ -1,0 +1,365 @@
+{
+  "slug": "shishaldin",
+  "volcano_id": 311360,
+  "title": "Shishaldin Volcano",
+  "meta_title": "Shishaldin Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Shishaldin is a 2,857 m active stratovolcano on Unimak Island, Alaska. The highest volcano in the Aleutians with 51 eruptions. Full history and facts.",
+  "quick_answer": {
+    "what": "Shishaldin is an active stratovolcano rising to 2,857 m (9,373 ft) on Unimak Island in the eastern Aleutian Islands, Alaska — the highest and most symmetrical volcano in the Aleutian chain.",
+    "status": "Active — last erupted in 2023. One of the most frequently active volcanoes in the Aleutian arc with 51 recorded eruptions since ~950 CE.",
+    "famous_for": "Its near-perfect symmetrical cone shape, often compared to Japan's Mount Fuji, and its persistent steam plume visible for hundreds of kilometers.",
+    "danger_level": "Moderate for ground-level populations (sparsely inhabited), but significant aviation hazard due to location beneath major North Pacific flight routes."
+  },
+  "hero": {
+    "name": "Shishaldin",
+    "local_name": "Sisquk (Aleut)",
+    "subtitle": "The Tallest Volcano in the Aleutian Islands",
+    "country": "United States",
+    "region": "Unimak Island, Aleutian Islands, Alaska",
+    "type": "Stratovolcano",
+    "elevation_m": 2857,
+    "elevation_ft": 9373,
+    "status": "Active",
+    "last_eruption": "2023",
+    "coordinates": {
+      "lat": 54.756,
+      "lon": -163.97
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05369.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "2,857 m (9,373 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "2023",
+    "first_known_eruption": "~950 CE (historical); ~7550 BCE (prehistoric)",
+    "total_recorded_eruptions": 51,
+    "vei_max": "3 (1824, 1830, 1995, 1999, 2019, 2023)",
+    "country": "United States",
+    "region": "Unimak Island, Aleutian Islands, Alaska",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath North American Plate (continental crust > 25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "54.756°N, 163.970°W",
+    "nearest_settlement": "False Pass — ~32 km southeast",
+    "population_at_risk": "Minimal ground population; major aviation hazard",
+    "summit_crater": "Small summit crater with persistent steam emission",
+    "monitoring_agency": "Alaska Volcano Observatory (AVO)",
+    "smithsonian_id": "311360",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=311360"
+  },
+  "sections": {
+    "overview": {
+      "content": "Shishaldin is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> on Unimak Island in the eastern Aleutian Islands, rising to 2,857 m (9,373 ft) — the highest point in the Aleutian chain and the third-tallest volcano in the <a href=\"/volcanoes-in-united-states\">United States</a> after Mount Bona and Mount Blackburn in the Wrangell range. Its strikingly symmetrical, glacier-clad cone is often called the \"Fuji of the Aleutians\" and serves as one of the most recognizable landmarks in the North Pacific. The Aleut name Sisquk means \"mountain which points the way when I am lost,\" reflecting its role as a navigation beacon for indigenous peoples. Shishaldin has produced 51 recorded eruptions, the most of any volcano in the Aleutian arc, with activity characterized by frequent Strombolian ash eruptions from the small summit crater and occasional lava flows. A steam plume frequently rises from the summit, visible for hundreds of kilometers in clear weather. Located along the <a href=\"/ring-of-fire\">Ring of Fire</a>, the volcano owes its existence to the subduction of the Pacific Plate beneath the North American Plate. While ground-level populations at risk are minimal — Unimak Island is sparsely inhabited — Shishaldin poses a significant aviation hazard, as it sits beneath major transpacific flight routes carrying tens of thousands of passengers daily."
+    },
+    "geology_and_formation": {
+      "content": "Shishaldin is the westernmost of three large stratovolcanoes in the eastern half of Unimak Island, along with Isanotski and Roundtop. The current edifice is constructed atop an older, glacially dissected volcanic structure, remnants of which are exposed on the west and northeast sides at elevations between 1,500 and 1,800 m. The volcano is predominantly basaltic in composition, reflecting the primitive character of melts generated in the Aleutian subduction zone where the Pacific Plate descends beneath relatively thick continental crust (>25 km). More than two dozen pyroclastic cones dot the northwest flank, which is covered by extensive aa lava flows. The symmetrical summit cone is draped with glaciers on all sides, creating significant potential for lahars when eruptions melt ice and snow. The small summit crater often hosts a lava lake or open conduit, evidenced by the near-continuous steam plume and the incandescent glow frequently observed at night. This open-vent character distinguishes Shishaldin from many Aleutian volcanoes, which tend toward more explosive, plugged-conduit eruption styles."
+    },
+    "eruption_history_overview": {
+      "content": "Shishaldin's eruption record includes 51 events spanning from prehistoric activity around 7550 BCE to the most recent eruption in 2023. The volcano has been the most frequently active in the Aleutian arc over the historical period, with eruptions documented in virtually every decade since the early 19th century. Most historical eruptions have been relatively mild, rated VEI 1–2, consisting of Strombolian ash emissions from the summit crater. However, several larger VEI 3 events — in 1824, 1830, 1995, 1999, 2019, and 2023 — produced more substantial ash plumes, lava flows, and pyroclastic activity. The 19th century was particularly active, with at least 15 eruptions documented between 1824 and 1898. Activity continued at a high rate through the 20th century and into the 21st, reinforcing Shishaldin's status as one of the most reliably active volcanoes in North America."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "1824 and 1830 — Early 19th-Century VEI 3 Events",
+          "content": "The first well-documented eruptions of Shishaldin occurred in the 1820s, shortly after Russian colonial observers began recording volcanic activity in the Aleutians. The 1824 eruption, rated VEI 3, produced a significant explosive event. The 1830 eruption was similarly vigorous, also reaching VEI 3, with substantial ashfall recorded across the eastern Aleutians. These eruptions established the pattern of intermittent but persistent explosive activity that has characterized the volcano ever since."
+        },
+        {
+          "title": "1995 and 1999 — Modern VEI 3 Eruptions",
+          "content": "The 1995 eruption marked a significant escalation from the VEI 1–2 activity that had predominated in preceding decades. Ash plumes rose to significant altitudes, triggering aviation warnings across the North Pacific. The 1999 eruption was the most significant event of the late 20th century, rated VEI 3, producing vigorous Strombolian fountaining, lava flows on the upper flanks, and ash clouds that disrupted aviation for extended periods. Satellite imagery captured dramatic thermal signatures, and the eruption was closely monitored by AVO as a test case for the Aleutian monitoring network."
+        },
+        {
+          "title": "2019 Eruption — Major Activity with Lava Flows",
+          "content": "The 2019 eruption, rated <a href=\"/volcanic-explosivity-index\">VEI 3</a>, was one of Shishaldin's most significant events in recent decades. Beginning in mid-2019, the eruption produced powerful Strombolian explosions, lava fountaining from the summit crater, and lava flows that descended the flanks and interacted with glacial ice, generating lahars. Ash plumes reached altitudes above 9,000 m (30,000 ft), prompting the highest aviation color code (Red) and disrupting flights across the North Pacific. The eruption continued intermittently for several months, producing multiple paroxysmal episodes separated by periods of reduced activity."
+        },
+        {
+          "title": "2023 Eruption — Continuing Vigor",
+          "content": "Shishaldin erupted again in 2023, with another VEI 3 event producing substantial ash plumes and pyroclastic activity. The eruption prompted AVO to raise the aviation color code to Red on multiple occasions during the summer and fall of 2023. Lahars generated by the interaction of volcanic material with glacial ice were tracked by satellite. The eruption reinforced the volcano's pattern of producing increasingly energetic episodes roughly every few years."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Following the 2023 eruption, Shishaldin has returned to background levels of activity, though a persistent steam plume continues to emanate from the summit crater — a normal feature of this open-vent volcano. The Alaska Volcano Observatory operates a comprehensive monitoring network on Unimak Island, including seismometers, infrasound sensors, GPS stations, and web cameras. Satellite-based thermal monitoring provides additional coverage for this remote location. AVO currently assigns Shishaldin an aviation color code of Green during quiescent periods but has demonstrated the ability to rapidly escalate warnings when precursory signals are detected. Given the volcano's eruption frequency — roughly every 2–5 years over the past half-century — AVO considers the next eruption a near certainty within the coming decade."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Shishaldin's primary hazard is to aviation. The volcano sits beneath major North Pacific flight routes, and ash plumes from VEI 2–3 eruptions can reach altitudes of 9,000–12,000 m (30,000–40,000 ft), directly intersecting commercial flight levels. Tens of thousands of passengers fly these routes daily, making Shishaldin's eruptions an international aviation safety concern. Ground-level hazards include lava flows, pyroclastic ejecta, and lahars generated when hot volcanic material interacts with the extensive glacial ice capping the upper slopes. These lahars can travel rapidly down river valleys toward the coast. The nearest permanent settlement, False Pass (population approximately 35), lies about 32 km southeast, largely outside the zone of direct pyroclastic hazards but potentially affected by heavy ashfall during major eruptions. The more significant ground-level risk is to fishing vessels and seasonal workers in the area during eruptions."
+    },
+    "geography_and_physical_description": {
+      "content": "Shishaldin's near-perfect conical profile dominates the landscape of eastern Unimak Island. The summit at 2,857 m (9,373 ft) is the highest point in the Aleutian chain and is permanently covered by glaciers and snow fields that extend down to approximately 500 m on all sides. The northwest flank is distinguished by more than two dozen pyroclastic cones and extensive aa lava flows that contrast with the smoother glaciated slopes elsewhere. The summit crater is small but often glows at night, indicative of an open conduit to the underlying magma. Unimak Island itself is the easternmost large island in the Aleutians, separated from the Alaska Peninsula by the narrow Isanotski Strait. The island's climate is severe: cold, wet, and exceptionally windy, with frequent fog that can obscure the volcano for days at a time."
+    },
+    "cultural_significance": {
+      "content": "Shishaldin holds deep significance for the Unangan (Aleut) people, who named it Sisquk — \"mountain which points the way when I am lost\" — reflecting its importance as a navigational landmark for seafaring hunters and fishermen. The volcano's symmetrical cone, visible from great distances across the Bering Sea and North Pacific, has guided maritime navigation for millennia. In modern times, Shishaldin has become an iconic image of Aleutian volcanism, frequently featured in scientific publications, aviation safety materials, and nature photography. Its resemblance to <a href=\"/volcano/fujisan\">Mount Fuji</a> has earned it comparisons in popular media, though it receives far fewer visitors due to its extreme remoteness."
+    },
+    "nearby_volcanoes": {
+      "content": "Shishaldin shares Unimak Island with two other large stratovolcanoes: Isanotski (2,446 m) to the east and Roundtop (1,871 m) between them. <a href=\"/volcano/akutan\">Akutan</a> volcano lies approximately 120 km to the southwest on Akutan Island, and Westdahl volcano (1,654 m) occupies the western end of Unimak Island. To the east across Isanotski Strait, the Alaska Peninsula hosts <a href=\"/volcano/pavlof\">Pavlof</a> (2,493 m), another highly active Aleutian stratovolcano. Together, these volcanoes form one of the most active volcanic clusters within the <a href=\"/volcanoes-in-united-states\">United States</a>."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Shishaldin Compared to the World's Tallest Active Island-Arc Volcanoes",
+      "description": "How does Shishaldin's height and activity compare to other tall subduction-zone stratovolcanoes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Eruption Count",
+        "VEI Max"
+      ],
+      "rows": [
+        [
+          "Shishaldin",
+          "United States",
+          "2,857 m",
+          "Stratovolcano",
+          "2023",
+          "51",
+          "3"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "2025",
+          "110+",
+          "4"
+        ],
+        [
+          "Pavlof",
+          "United States",
+          "2,493 m",
+          "Stratovolcano",
+          "2016",
+          "40+",
+          "4"
+        ],
+        [
+          "Fuji",
+          "Japan",
+          "3,776 m",
+          "Stratovolcano",
+          "1707",
+          "17",
+          "5"
+        ],
+        [
+          "Semeru",
+          "Indonesia",
+          "3,657 m",
+          "Stratovolcano",
+          "2024",
+          "70+",
+          "4"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1824,
+      "vei": 3,
+      "label": "First well-documented VEI 3 eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1830,
+      "vei": 3,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1995,
+      "vei": 3,
+      "label": "Significant ash eruption, aviation disruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1999,
+      "vei": 3,
+      "label": "Vigorous Strombolian eruption with lava flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2019,
+      "vei": 3,
+      "label": "Major eruption with lahars, aviation code Red",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 3,
+      "label": "Most recent eruption, multiple Red alerts",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "18th–19th",
+      "count": 18
+    },
+    {
+      "century": "20th",
+      "count": 22
+    },
+    {
+      "century": "21st",
+      "count": 7
+    }
+  ],
+  "facts": [
+    "At 2,857 m (9,373 ft), Shishaldin is the highest volcano in the Aleutian Islands and the tallest peak on any Aleutian island.",
+    "The Aleut name Sisquk means 'mountain which points the way when I am lost,' reflecting its role as a navigational landmark for indigenous seafarers.",
+    "Shishaldin has produced 51 recorded eruptions — more than any other volcano in the Aleutian arc.",
+    "The volcano's near-perfect symmetrical cone has earned it the nickname 'Fuji of the Aleutians.'",
+    "A persistent steam plume rises from Shishaldin's summit crater and is often visible from hundreds of kilometers away in clear weather.",
+    "The northwest flank hosts more than two dozen pyroclastic cones, forming one of the most complex flank vent fields in the Aleutians.",
+    "Shishaldin's eruptions pose an international aviation hazard, as the volcano lies beneath transpacific flight routes carrying tens of thousands of passengers daily.",
+    "During the 2019 eruption, ash plumes exceeded 9,000 m (30,000 ft) altitude, prompting the highest aviation warning code (Red).",
+    "The volcano's open-vent character means it often glows at night — incandescence is frequently detected by satellite thermal sensors.",
+    "Shishaldin has erupted six times at VEI 3 since the early 19th century, but no eruption larger than VEI 3 has been recorded in its entire history."
+  ],
+  "faqs": [
+    {
+      "question": "Is Shishaldin volcano still active?",
+      "answer": "Yes, Shishaldin is one of the most active volcanoes in the United States. Its most recent eruption occurred in 2023, rated VEI 3, and it has produced 51 recorded eruptions in total. The volcano maintains a near-continuous steam plume from its summit crater and frequently shows thermal anomalies detectable by satellite. The Alaska Volcano Observatory monitors it continuously and considers future eruptions virtually certain, likely within the next few years given its historical eruption frequency of approximately once every 2–5 years."
+    },
+    {
+      "question": "How tall is Shishaldin?",
+      "answer": "Shishaldin stands at 2,857 m (9,373 ft) above sea level, making it the tallest volcano and highest point in the entire Aleutian Island chain. It is the third-tallest volcano in the United States after peaks in the Wrangell Mountains of mainland Alaska. For comparison, its neighbor Akutan reaches only 1,303 m, and Pavlof across Isanotski Strait stands at 2,493 m."
+    },
+    {
+      "question": "Why is Shishaldin called the 'Fuji of the Aleutians'?",
+      "answer": "Shishaldin earns this nickname because of its remarkably symmetrical, conical profile — very similar to Japan's iconic Mount Fuji. Both are stratovolcanoes with glacier-clad upper slopes and near-circular basal outlines. However, the comparison is mostly visual: Fuji (3,776 m) is taller, last erupted in 1707, and sits near 38 million people, while Shishaldin erupts far more frequently but in extreme isolation with virtually no nearby population."
+    },
+    {
+      "question": "Is Shishaldin dangerous to aircraft?",
+      "answer": "Yes, Shishaldin is considered one of the most significant volcanic aviation hazards in the Northern Hemisphere. It sits directly beneath major transpacific flight routes connecting North America with Asia. During eruptions, ash plumes can reach 9,000–12,000 m (30,000–40,000 ft), directly intersecting commercial flight altitudes. The Alaska Volcano Observatory coordinates closely with aviation authorities to issue timely warnings, and Shishaldin has triggered the highest-level Red aviation alert multiple times in recent years."
+    },
+    {
+      "question": "When did Shishaldin last erupt?",
+      "answer": "Shishaldin's most recent eruption occurred in 2023, rated VEI 3. The eruption produced significant ash plumes, pyroclastic activity, and lahars triggered by the interaction of hot volcanic material with glacial ice. AVO raised the aviation color code to Red on multiple occasions during the event. Prior to 2023, the volcano erupted in 2019 (also VEI 3), continuing a pattern of major eruptions roughly every few years."
+    },
+    {
+      "question": "Does anyone live near Shishaldin?",
+      "answer": "Shishaldin is extremely remote. The nearest permanent settlement is False Pass, a small community of approximately 35 people located about 32 km southeast on Unimak Island. The island itself is sparsely inhabited and accessible only by boat or small aircraft. The primary human risk from Shishaldin's eruptions is not to ground populations but to the tens of thousands of airline passengers who fly over or near the volcano on transpacific routes daily."
+    },
+    {
+      "question": "What type of eruptions does Shishaldin produce?",
+      "answer": "Shishaldin predominantly produces Strombolian-style eruptions: intermittent explosive bursts ejecting incandescent lava fragments and ash from its summit crater. Its basaltic magma is relatively fluid, allowing gas to escape more readily than at silica-rich volcanoes, which limits eruption explosivity. The largest recorded events have reached VEI 3. Eruptions sometimes include lava flows on the upper flanks and lahars generated when hot material melts glacial ice — a particular hazard given the extensive ice cap covering the upper slopes."
+    }
+  ],
+  "people_also_search": [
+    "shishaldin volcano eruption",
+    "tallest aleutian volcano",
+    "shishaldin alaska",
+    "aleutian islands volcanoes",
+    "shishaldin eruption 2023",
+    "fuji of the aleutians"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Shishaldin",
+    "alternateName": [
+      "Sisquk",
+      "Mount Shishaldin"
+    ],
+    "description": "The highest and most frequently active stratovolcano in the Aleutian Islands, Alaska, with 51 recorded eruptions",
+    "geo": {
+      "latitude": 54.756,
+      "longitude": -163.97,
+      "elevation": 2857
+    },
+    "containedInPlace": {
+      "name": "Unimak Island, Aleutian Islands",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/shishaldin"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=311360",
+      "text": "Smithsonian GVP: Shishaldin",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://avo.alaska.edu/volcanoes/shishaldin",
+      "text": "Alaska Volcano Observatory: Shishaldin",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Shishaldin-Volcano",
+      "text": "Britannica: Shishaldin Volcano",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "akutan",
+      "pavlof",
+      "cleveland",
+      "fuji",
+      "klyuchevskoy"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "tallest-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "akutan",
+    "pavlof",
+    "cleveland",
+    "klyuchevskoy",
+    "fuji"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Shishaldin",
+      "url": "/volcano/shishaldin"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/shishaldin"
+}

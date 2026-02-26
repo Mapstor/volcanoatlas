@@ -1,0 +1,372 @@
+{
+  "slug": "lascar",
+  "volcano_id": 355100,
+  "title": "Láscar",
+  "meta_title": "Láscar Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Láscar is a 5,592 m active stratovolcano in Chile's Atacama Desert, the most active in the northern Andes. Full eruption history, 1993 VEI 4 event, and guide.",
+  "quick_answer": {
+    "what": "Láscar is an active andesitic-to-dacitic stratovolcano in the Antofagasta Region of northern Chile, rising to 5,592 m (18,346 ft) in the Atacama Desert.",
+    "status": "Active — most recent eruption in 2022–2023. The most active volcano in the northern Chilean Andes, with 37 recorded eruptions since the mid-19th century.",
+    "famous_for": "The April 1993 VEI 4 eruption — the largest in the central Andes since 1600 — which produced pyroclastic flows extending 8.5 km and ashfall reaching Buenos Aires, 1,500 km away.",
+    "danger_level": "Moderate — remote desert location limits population exposure, though the nearby town of Talabre and passing tourists are at risk, and the 1993 eruption demonstrated the volcano's capacity for far-reaching effects."
+  },
+  "hero": {
+    "name": "Láscar",
+    "local_name": "Volcán Láscar",
+    "subtitle": "The Most Active Volcano of the Northern Chilean Andes",
+    "country": "Chile",
+    "region": "Antofagasta Region, Atacama Desert",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 5592,
+    "elevation_ft": 18346,
+    "status": "Active",
+    "last_eruption": "2022–2023",
+    "coordinates": {
+      "lat": -23.37,
+      "lon": -67.73
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04835.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "5,592 m (18,346 ft)",
+    "type": "Stratovolcano(es)",
+    "status": "Active",
+    "last_eruption": "2022–2023",
+    "first_known_eruption": "~7250 BCE (geological record); 1848 (historical)",
+    "total_recorded_eruptions": 37,
+    "vei_max": "4 (April 1993)",
+    "country": "Chile",
+    "region": "Antofagasta Region, northern Chile",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "23.370°S, 67.730°W",
+    "nearest_city": "San Pedro de Atacama — ~70 km W",
+    "population_at_risk": "Low (sparsely populated desert), though Talabre village is within 15 km",
+    "summit_crater": "Six overlapping summit craters, active crater on western side of eastern edifice",
+    "monitoring_agency": "SERNAGEOMIN (Servicio Nacional de Geología y Minería)",
+    "smithsonian_id": "355100",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=355100"
+  },
+  "sections": {
+    "overview": {
+      "content": "Láscar is an active andesitic-to-dacitic <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 5,592 m (18,346 ft) in the Antofagasta Region of northern <a href=\"/volcanoes-in-chile\">Chile</a>, set within one of the driest landscapes on Earth — the Atacama Desert. It is the most active volcano in the northern Chilean Andes, with 37 recorded eruptions since the mid-19th century, including the significant VEI 4 eruption of April 1993 that produced pyroclastic flows extending 8.5 km from the summit and sent ashfall as far as Buenos Aires, Argentina, approximately 1,500 km to the southeast. Láscar owes its existence to the subduction of the Nazca Plate beneath the South American Plate along the Central Andean Volcanic Arc, the same tectonic engine that builds the entire chain of volcanoes along the Chile-Argentina border. The volcano consists of two major edifices — an older, higher eastern volcano (Volcán Aguas Calientes, 5 km to the east) and the currently active western cone, where six overlapping summit craters document a complex eruptive history. Activity migrated westward to the current cone, then shifted back to the eastern edifice approximately 9,000 years ago. Despite its remote desert location, Láscar poses hazards to the small Atacameño village of Talabre, to tourists visiting the popular San Pedro de Atacama area (~70 km west), and to aviation across the central Andes. The volcano is monitored by <a href=\"https://www.sernageomin.cl/\" target=\"_blank\" rel=\"noopener\">SERNAGEOMIN</a>, Chile's national geological survey, and was elevated to orange alert during its 2022–2023 eruption — a reminder that even in the world's driest desert, volcanic hazards persist."
+    },
+    "geology_and_formation": {
+      "content": "Láscar sits within the Central Andean Volcanic Arc at an elevation where the continental crust exceeds 60 km in thickness — among the thickest anywhere on Earth. The Nazca Plate subducts beneath the South American Plate at approximately 65 mm per year, and the descent of water-laden oceanic crust into the mantle generates the magmas that feed Láscar and its neighboring volcanoes. The extreme crustal thickness strongly influences magma composition, producing andesitic-to-dacitic lavas that are more silica-rich and viscous than those found at volcanoes overlying thinner crust, contributing to Láscar's explosive eruption character. The volcanic complex comprises two distinct edifices. The oldest recognized activity produced the Tumbres scoria flow approximately 9,000 years ago during the transition from the western to the eastern cone. The six overlapping summit craters on the active eastern edifice record successive episodes of crater formation and collapse, with the western crater of the eastern summit cone being the current primary vent. Prominent lava flows descend the northwest flanks, and the largest eruption in the geological record occurred approximately 26,500 years ago. The 1993 VEI 4 eruption — while significant by historical standards — was modest compared to the volcanic complex's full Pleistocene capability."
+    },
+    "eruption_history_overview": {
+      "content": "Láscar's 37 recorded eruptions since the mid-19th century make it the most prolific historical erupter in the northern Chilean Andes. The earliest historical observations date to 1848, though there is some uncertainty whether that activity was from Láscar or neighboring Aguas Calientes. Frequent small-to-moderate explosive eruptions (VEI 1–2) have been recorded throughout the 19th and 20th centuries, with eruptions in 1848, 1854, 1858, 1875, 1883, 1898, 1902, 1933, 1940, 1951, 1954, 1959, and 1969 documenting nearly continuous restlessness. A significant escalation began in the mid-1980s with VEI 3 eruptions in 1986 and 1987, building toward the climactic VEI 4 event of April 1993. Post-1993 activity continued at moderate levels through the 2000s and 2010s, with VEI 3 events in 2005, 2006, and the 2022–2023 eruption. The <a href=\"/volcanic-explosivity-index\">VEI</a> distribution — dominated by VEI 2 events with periodic VEI 3–4 escalations — is characteristic of intermediate-composition stratovolcanoes in this tectonic setting."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The April 1993 Eruption — The Largest in the Central Andes Since 1600",
+          "content": "On April 19–20, 1993, Láscar produced its most powerful historical eruption, a VEI 4 event that ranks as the largest eruption in the central Andes in nearly four centuries. The eruption began with a series of powerful explosions that sent an ash column an estimated 22–25 km into the stratosphere. Pyroclastic flows cascaded down the northwest flanks, reaching 8.5 km from the summit — a remarkable distance for a volcano of this size. The pyroclastic flow deposits were hot enough to partially weld in their proximal reaches. Perhaps most dramatically, fine volcanic ash was transported by upper-level winds across the Andes and across Argentina, with measurable ashfall reported in Buenos Aires, approximately 1,500 km to the southeast, and even in São Paulo, Brazil. The eruption deposited an estimated 0.1 km³ of tephra, and the ash plume disrupted aviation across a vast area of South America. Despite the eruption's power, no fatalities occurred — a consequence of Láscar's extreme remoteness. The small Atacameño village of Talabre, the closest settlement approximately 15 km away, experienced heavy ashfall but was not reached by pyroclastic flows. The 1993 eruption demonstrated that even in one of the world's most sparsely populated landscapes, major volcanic events can have far-reaching consequences through ashfall and aviation disruption."
+        },
+        {
+          "title": "The 1986–1987 Eruptions — Precursors to the Big One",
+          "content": "The VEI 3 eruptions of 1986 and 1987 marked a significant escalation in Láscar's activity after decades of relatively minor VEI 1–2 events. Both eruptions originated from the western crater of the eastern summit cone and produced ash columns and moderate pyroclastic activity. In retrospect, these events are interpreted as part of a building cycle of magmatic activity that culminated in the 1993 VEI 4 eruption. The pattern of escalating eruption magnitude is an important volcanological observation for hazard assessment at Láscar and similar volcanoes, suggesting that sequences of moderate eruptions may sometimes presage larger events."
+        },
+        {
+          "title": "The 2022–2023 Eruption — Láscar's Latest Awakening",
+          "content": "Beginning in December 2022 and continuing into 2023, Láscar produced a VEI 3 eruption that prompted SERNAGEOMIN to raise the alert level to orange. The eruption generated ash columns visible from San Pedro de Atacama and deposited ashfall across the surrounding desert. The event occurred during a period of increased tourism in the Atacama region, and authorities established expanded exclusion zones around the volcano. The 2022–2023 eruption confirmed Láscar's status as the most persistently active volcano in northern Chile and served as a reminder to the growing tourism industry in the Atacama that volcanic hazards must be factored into visitor management plans."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Láscar is classified as active and is monitored by SERNAGEOMIN through a network of seismometers, gas monitoring equipment, webcams, and satellite-based thermal and deformation sensors. The volcano's most recent eruption (VEI 3) occurred in 2022–2023, and background fumarolic activity, summit crater thermal anomalies, and intermittent degassing are ongoing. SERNAGEOMIN maintains a four-level alert system (green, yellow, orange, red) and publishes regular volcanic activity reports. During the 2022–2023 eruption, the alert was raised to orange and exclusion zones were expanded. The remote desert location limits the ground-based monitoring infrastructure compared to more accessible volcanoes, but satellite-based monitoring (including InSAR deformation measurements and SO2 tracking from satellite sensors) plays a critical role. Scientists expect Láscar to continue its pattern of frequent small-to-moderate eruptions interspersed with occasional larger events."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Láscar's primary hazards include explosive eruptions producing ash columns and pyroclastic flows, tephra fall, and volcanic gases. The 1993 VEI 4 eruption demonstrated that pyroclastic flows can extend at least 8.5 km from the summit, threatening the closest settlement of Talabre (~15 km away). Ashfall from major eruptions can affect areas hundreds of kilometers downwind, as demonstrated by the 1993 ashfall in Buenos Aires. Aviation disruption is a significant concern — ash plumes from Láscar can affect flight routes across northern Chile, northern Argentina, and Bolivia. The volcano's extreme remoteness means that direct population exposure is limited compared to volcanoes near major cities, but the growing tourism industry around San Pedro de Atacama (~70 km west) introduces increasing numbers of visitors into the broader hazard zone. Tourists sometimes approach the volcano for photography and hiking, and during eruptions, exclusion zones must be actively enforced. Lahar risk is minimal due to the extreme aridity of the Atacama, though catastrophic water release from within the volcanic system during an eruption is theoretically possible."
+    },
+    "geography_and_physical_description": {
+      "content": "Láscar rises to 5,592 m (18,346 ft) from the high Altiplano of the Atacama Desert, one of the driest places on Earth, where average annual precipitation at high elevations is less than 100 mm. The volcanic complex stands in a barren landscape of browns, tans, and rusts, with virtually no vegetation on its flanks — a stark contrast to the lush tropical volcanoes of Central America or Southeast Asia. Six overlapping summit craters document the complex's eruptive evolution, and the currently active vent occupies the western crater of the eastern summit cone. Prominent dark lava flows extend down the northwest flanks, clearly visible against the pale desert terrain. The older Volcán Aguas Calientes, 5 km to the east, displays a well-developed summit crater and possible Holocene lava near its summit. The surrounding landscape at approximately 4,000–4,500 m elevation is dotted with salars (salt flats), including the Salar de Atacama, and scattered small Atacameño villages. The volcano is approached from the west via unpaved roads from San Pedro de Atacama."
+    },
+    "climate_and_global_impact": {
+      "content": "The 1993 VEI 4 eruption injected an ash column 22–25 km into the stratosphere, reaching altitudes where sulfur aerosols can spread hemisperically and contribute to temporary cooling. While the eruption was not large enough to produce detectable global temperature effects (unlike VEI 5+ events such as <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991), it demonstrated Láscar's capacity to affect the upper atmosphere. The volcanic complex's Pleistocene history includes much larger eruptions (the 26,500-year-ago event), and a repeat of that scale would have significant climatic implications. On a regional scale, ashfall from the 1993 eruption reached Buenos Aires and possibly São Paulo, affecting agriculture and air quality across a vast swath of South America — demonstrating that even remote desert volcanoes can have continental-scale atmospheric consequences."
+    },
+    "cultural_significance": {
+      "content": "Láscar sits in the ancestral territory of the Atacameño (Lickanantay) people, one of Chile's indigenous cultures who have inhabited the Atacama region for millennia. The Atacameño communities of Talabre, Camar, and others near the volcano maintain cultural connections to the landscape, though the relationship between indigenous tradition and the specific volcano is less prominently documented than for some other Andean volcanic peaks. In the modern era, Láscar has become significant primarily in the context of Chilean volcanology — as the most active volcano in the northern Andes, it has been the subject of extensive scientific research and serves as a key monitoring priority for SERNAGEOMIN. The volcano's dramatic 1993 eruption attracted international scientific attention and contributed important data on pyroclastic flow dynamics in high-altitude, arid environments."
+    },
+    "visiting_and_tourism": {
+      "content": "Láscar is accessible from San Pedro de Atacama, a popular tourist hub approximately 70 km to the west, connected to Calama (the nearest airport) by paved road. The volcano is visible from many viewpoints in the San Pedro area. During periods of low activity, adventurous visitors with high-altitude experience and 4WD vehicles can approach the base of Láscar via unpaved desert roads, though the final approach is rough and unmarked. Summit attempts are extremely demanding due to the 5,592 m altitude and remote location — high-altitude acclimatization is essential, and there are no services or shelter. During eruption periods, SERNAGEOMIN establishes exclusion zones that prohibit approach. The broader Atacama region offers world-class attractions including the Salar de Atacama, Valle de la Luna, El Tatio geysers, and exceptional astronomical observing conditions at the Atacama Large Millimeter Array (ALMA) site."
+    },
+    "nearby_volcanoes": {
+      "content": "Láscar sits within one of the densest concentrations of high-altitude volcanoes on Earth — the Central Andean Volcanic Arc along the Chile-Argentina-Bolivia border. Volcán Aguas Calientes, the older companion volcano just 5 km to the east, may itself have produced Holocene activity. The region includes Licancabur (5,916 m), the iconic cone on the Chile-Bolivia border visible from San Pedro de Atacama; Sairecabur (5,971 m); and the massive Llullaillaco (6,739 m), one of the world's highest volcanoes. To the south, Ojos del Salado (6,893 m) is the world's highest active volcano by some definitions. <a href=\"/volcano/villarrica\">Villarrica</a> and <a href=\"/volcano/llaima\">Llaima</a> are among Chile's most active volcanoes further south. Chile hosts 66 Holocene volcanoes, the fifth-highest count of any country."
+    },
+    "etymology": {
+      "content": "The name 'Láscar' is believed to derive from a Kunza (Atacameño language) word, though the precise meaning is debated. Some scholars connect it to terms relating to the tongue or fire, possibly referencing the volcano's persistent fumarolic activity or eruptions. The Kunza language is largely extinct, making definitive etymology challenging."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Láscar Compared to Other High-Altitude Active Volcanoes of the Andes",
+      "description": "How does Láscar compare to other major active volcanoes along the Andean volcanic arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Láscar",
+          "Chile",
+          "5,592 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "37"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "50+"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "50+"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "12"
+        ],
+        [
+          "Ubinas",
+          "Peru",
+          "5,672 m",
+          "Stratovolcano",
+          "2019",
+          "4",
+          "25"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7250,
+      "vei": null,
+      "label": "Tumbres scoria flow — activity shifts between edifices",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1848,
+      "vei": 2,
+      "label": "First historically recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1986,
+      "vei": 3,
+      "label": "Significant escalation — VEI 3 from western crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1993,
+      "vei": 4,
+      "label": "Largest central Andean eruption since 1600 — ash reaches Buenos Aires",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2005,
+      "vei": 3,
+      "label": "Renewed explosive activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2022,
+      "vei": 3,
+      "label": "Most recent eruption — orange alert issued",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-historic",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 7
+    },
+    {
+      "century": "20th",
+      "count": 19
+    },
+    {
+      "century": "21st",
+      "count": 9
+    }
+  ],
+  "facts": [
+    "Láscar is the most active volcano in the northern Chilean Andes, with 37 eruptions recorded since the mid-19th century.",
+    "The April 1993 VEI 4 eruption was the largest in the central Andes since a major event at Huaynaputina in Peru in 1600 — a gap of nearly 400 years.",
+    "Ash from the 1993 eruption traveled approximately 1,500 km to Buenos Aires, Argentina, and was reportedly detected as far as São Paulo, Brazil.",
+    "Pyroclastic flows during the 1993 eruption extended 8.5 km from the summit and were hot enough to partially weld in their proximal deposits.",
+    "Láscar stands at 5,592 m (18,346 ft) in one of the driest environments on Earth — the Atacama Desert receives less than 100 mm of rain per year at these elevations.",
+    "The volcano has six overlapping summit craters, documenting a complex history of repeated crater formation and collapse.",
+    "Láscar consists of two distinct edifices — an older eastern volcano (Aguas Calientes) and the currently active western cone.",
+    "No fatalities have been recorded from any of Láscar's eruptions, primarily due to its extreme remoteness in the high Atacama Desert.",
+    "The 1993 eruption column reached an estimated 22–25 km altitude, penetrating well into the stratosphere.",
+    "Activity at Láscar has migrated between eastern and western edifices over the past ~26,500 years, a pattern of vent migration seen at other complex volcanic centers.",
+    "The Atacameño village of Talabre, the closest settlement at ~15 km, received heavy ashfall during the 1993 eruption but was spared pyroclastic flows.",
+    "Láscar's eruptions in the ultra-dry Atacama produce minimal lahar hazard — a rarity among active volcanoes worldwide."
+  ],
+  "faqs": [
+    {
+      "question": "Is Láscar volcano still active?",
+      "answer": "Láscar is an active stratovolcano in northern Chile that has erupted 37 times since historical records began in the mid-19th century. Its most recent eruption occurred in 2022–2023, a VEI 3 event that prompted SERNAGEOMIN (Chile's national geological survey) to raise the alert level to orange. Persistent fumarolic activity, thermal anomalies, and intermittent degassing are ongoing at the summit craters. Láscar is the most active volcano in the northern Chilean Andes, and volcanologists expect continued activity. The volcano is continuously monitored using seismometers, satellite-based deformation and SO2 sensors, and webcams."
+    },
+    {
+      "question": "What happened in the 1993 Láscar eruption?",
+      "answer": "On April 19–20, 1993, Láscar produced a VEI 4 eruption — the largest in the central Andes in nearly 400 years. The eruption sent an ash column an estimated 22–25 km into the stratosphere, well above the tropopause. Pyroclastic flows cascaded 8.5 km down the northwest flanks, hot enough to partially weld near the vent. Fine volcanic ash was carried by upper-level winds across the Andes, with measurable ashfall reported in Buenos Aires (~1,500 km away) and possibly São Paulo, Brazil. The eruption deposited an estimated 0.1 km³ of tephra. No fatalities occurred due to the volcano's extreme remoteness in the Atacama Desert."
+    },
+    {
+      "question": "How tall is Láscar?",
+      "answer": "Láscar stands at 5,592 m (18,346 ft) above sea level, making it one of the highest active volcanoes in northern Chile. It rises from the high Altiplano at approximately 4,000–4,500 m elevation, so its local prominence above the surrounding terrain is approximately 1,000–1,500 m. The neighboring extinct Volcán Aguas Calientes, 5 km to the east, is slightly higher. The extreme altitude makes any approach to the summit physically demanding, requiring full high-altitude acclimatization. For context, Láscar is considerably lower than the highest Andean volcanoes like Ojos del Salado (6,893 m) or Llullaillaco (6,739 m)."
+    },
+    {
+      "question": "Where is Láscar volcano located?",
+      "answer": "Láscar is located in the Antofagasta Region of northern Chile at coordinates 23.370°S, 67.730°W, within the Atacama Desert — one of the driest places on Earth. The nearest town is the small Atacameño village of Talabre, approximately 15 km away. The popular tourist hub of San Pedro de Atacama lies approximately 70 km to the west. The volcano sits within the Central Andean Volcanic Arc along the Chile-Argentina border, at an altitude of 5,592 m on the high Altiplano. The nearest airport is at Calama, connected to San Pedro de Atacama by paved road."
+    },
+    {
+      "question": "Can you visit Láscar volcano?",
+      "answer": "Visiting Láscar is possible during periods of low volcanic activity, though it requires a 4WD vehicle, good navigation skills, high-altitude acclimatization, and respect for volcanic hazard zones. The volcano is reached via unpaved desert roads from San Pedro de Atacama (~70 km). There are no marked trails, services, or shelter. Summit attempts are extremely demanding at 5,592 m altitude. During eruptions, SERNAGEOMIN establishes exclusion zones that prohibit approach. The broader Atacama region offers outstanding attractions including the Salar de Atacama, Valle de la Luna, El Tatio geysers, and world-class stargazing. Always check SERNAGEOMIN's current volcanic alert level before planning any visit."
+    },
+    {
+      "question": "Why is Láscar so active?",
+      "answer": "Láscar's persistent activity results from the subduction of the Nazca Plate beneath the South American Plate along the Central Andean Volcanic Arc. As the oceanic plate descends into the mantle, water released from the slab lowers the melting point of the overlying mantle wedge, generating magma that rises through the extremely thick continental crust (>60 km) of the central Andes. The extreme crustal thickness produces silica-rich, gas-charged magmas that erupt explosively. Láscar's position within the arc, combined with a sustained magma supply evidenced by its persistent thermal anomalies and gas emissions, makes it the most frequently erupting volcano in the northern Chilean segment of the arc."
+    },
+    {
+      "question": "What type of volcano is Láscar?",
+      "answer": "Láscar is classified as a stratovolcano (composite volcano) built from alternating layers of lava flows and pyroclastic deposits. More specifically, the Smithsonian classifies it as 'Stratovolcano(es)' — reflecting that it comprises two distinct volcanic edifices: an older eastern cone and the currently active western cone. The volcano's magmas are andesitic to dacitic in composition, producing eruptions that are typically explosive. Six overlapping summit craters document repeated episodes of crater formation and collapse. Láscar's eruption style ranges from minor ash emissions (VEI 1) to significant explosive events (VEI 4) producing pyroclastic flows."
+    },
+    {
+      "question": "Has anyone died from a Láscar eruption?",
+      "answer": "No fatalities have been recorded from any of Láscar's eruptions. This is primarily due to the volcano's extremely remote location in the high Atacama Desert, where the nearest settlement (the Atacameño village of Talabre) is approximately 15 km away and has a small population. During the powerful 1993 VEI 4 eruption, pyroclastic flows extended 8.5 km — far enough to be dangerous but not reaching Talabre. However, the growing tourism industry around San Pedro de Atacama has increased the number of people who may be in the volcano's vicinity during eruptions, and SERNAGEOMIN's exclusion zones during active periods are critical for maintaining this safety record."
+    }
+  ],
+  "people_also_search": [
+    "lascar eruption 1993",
+    "lascar volcano chile",
+    "atacama desert volcanoes",
+    "most active volcano chile",
+    "lascar eruption 2023",
+    "chile volcanoes",
+    "central andes volcanoes",
+    "san pedro de atacama volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Láscar",
+    "alternateName": [
+      "Volcán Láscar"
+    ],
+    "description": "The most active volcano in the northern Chilean Andes, a high-altitude stratovolcano in the Atacama Desert known for the 1993 VEI 4 eruption",
+    "geo": {
+      "latitude": -23.37,
+      "longitude": -67.73,
+      "elevation": 5592
+    },
+    "containedInPlace": {
+      "name": "Antofagasta Region",
+      "country": "Chile"
+    },
+    "url": "https://volcanoatlas.com/volcano/lascar"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=355100",
+      "text": "Smithsonian GVP: Láscar",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile National Geological Survey",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/VHP",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Chile",
+      "text": "Britannica: Chile",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "villarrica",
+      "llaima",
+      "cotopaxi",
+      "pinatubo",
+      "nevado-del-ruiz"
+    ],
+    "country_pages": [
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "villarrica",
+    "llaima",
+    "cotopaxi",
+    "ubinas",
+    "nevado-del-ruiz"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Láscar",
+      "url": "/volcano/lascar"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/lascar"
+}

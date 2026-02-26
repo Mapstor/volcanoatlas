@@ -1,0 +1,556 @@
+{
+  "slug": "rainier",
+  "volcano_id": 321030,
+  "title": "Mount Rainier",
+  "meta_title": "Mount Rainier — Eruption History, Lahar Risk, Height & Facts | VolcanoAtlas",
+  "meta_description": "Mount Rainier is a 4,392 m active stratovolcano in Washington, USA. Explore its lahar hazards, eruption history, glaciers, current monitoring, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount Rainier is an active stratovolcano in Washington State, USA, rising 4,392 m (14,411 ft) as the highest peak in the Cascade Range, located 87 km (54 mi) southeast of Seattle.",
+    "status": "Active — last confirmed eruption ~1450 CE. Continuously monitored by the USGS Cascades Volcano Observatory. A seismic swarm of 540+ earthquakes occurred in July 2025.",
+    "famous_for": "The greatest lahar (volcanic mudflow) risk in the United States. The catastrophic Osceola Mudflow ~5,600 years ago sent 3.8 km³ of debris to Puget Sound, and 80,000–150,000 people now live on old lahar deposits.",
+    "danger_level": "Ranked 3rd most hazardous U.S. volcano by USGS (2018). Designated a Decade Volcano by the IAVCEI. A major lahar could reach populated lowlands in under 60 minutes."
+  },
+  "hero": {
+    "name": "Mount Rainier",
+    "local_name": "Tacoma / Tahoma",
+    "subtitle": "America's Most Dangerous Volcano",
+    "country": "United States",
+    "region": "Washington State, Pacific Northwest",
+    "type": "Stratovolcano",
+    "elevation_m": 4392,
+    "elevation_ft": 14411,
+    "status": "Active",
+    "last_eruption": "~1450 CE",
+    "coordinates": {
+      "lat": 46.853,
+      "lon": -121.76
+    },
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mount_Rainier_from_west.jpg",
+    "photo_credit": "USGS / Public Domain"
+  },
+  "key_facts_box": {
+    "elevation": "4,392 m (14,411 ft)",
+    "type": "Stratovolcano (composite)",
+    "status": "Active",
+    "last_eruption": "~1450 CE (confirmed); unconfirmed phreatic activity 1894",
+    "first_known_eruption": "~8750 BCE (Holocene record)",
+    "total_recorded_eruptions": 24,
+    "vei_max": "4 (multiple Holocene events)",
+    "country": "United States",
+    "region": "Washington State, Cascade Range",
+    "tectonic_setting": "Subduction zone — Juan de Fuca Plate beneath North American Plate",
+    "rock_types": [
+      "Andesite",
+      "Basalt",
+      "Dacite"
+    ],
+    "coordinates": "46.853°N, 121.760°W",
+    "nearest_city": "Tacoma — 87 km northwest; Seattle — 87 km northwest",
+    "population_at_risk": "80,000–150,000 in lahar hazard zones; ~3.9 million in greater Seattle–Tacoma metro",
+    "glaciers": "26 named glaciers, 93 km² of permanent ice — most glaciated peak in the contiguous US",
+    "summit_crater": "Two overlapping craters, each >300 m diameter; world's largest volcanic glacier-cave system (3.2 km)",
+    "protected_status": "Mount Rainier National Park (est. 1899)",
+    "monitoring_agency": "USGS Cascades Volcano Observatory (CVO)",
+    "smithsonian_id": "321030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=321030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Rainier is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> in the Cascade Range of Washington State, <a href=\"/volcanoes-in-united-states\">United States</a>, rising to 4,392 m (14,411 ft) and dominating the skyline of the Seattle–Tacoma metropolitan area approximately 87 km (54 mi) to the northwest. It is the most glaciated peak in the contiguous United States, armored by 26 named glaciers and 93 km² (36 sq mi) of permanent ice, and it poses what the <a href=\"https://www.usgs.gov/volcanoes/mount-rainier\" target=\"_blank\" rel=\"noopener\">USGS</a> considers the single greatest lahar hazard of any volcano in the nation.\n\nRainier was ranked the third most hazardous volcano in the United States in the USGS's 2018 National Volcanic Threat Assessment, behind only <a href=\"/volcano/kilauea\">Kīlauea</a> and <a href=\"/volcano/st-helens\">Mount St. Helens</a>. It holds a place on the IAVCEI's elite list of 16 Decade Volcanoes — those considered to pose the greatest combined risk of eruption and loss of life globally. The danger stems not primarily from lava or ash, but from the volcano's extraordinary lahar potential: massive volumes of glacial meltwater mixing with hydrothermally weakened rock to generate mudflows capable of burying entire valleys. The catastrophic Osceola Mudflow of ~5,600 years ago sent 3.8 km³ of debris surging to Puget Sound, covering an area of 550 km² — and today, roughly 80,000 to 150,000 people live directly atop old lahar deposits in the river valleys radiating from the mountain.\n\nThe volcano exists because the Juan de Fuca Plate is being subducted beneath the North American Plate along the Cascadia Subduction Zone, generating the chain of <a href=\"/ring-of-fire\">Ring of Fire</a> volcanoes that runs from Mount Baker in the north to Lassen Peak in the south. Rainier last erupted in a confirmed episode around 1450 CE, though uncertain 19th-century phreatic activity — possibly including a small event in 1894 — has been reported. In July 2025, a swarm of over 540 located earthquakes beneath the summit drew renewed scientific attention, though the volcano remained at Normal alert status."
+    },
+    "geology_and_formation": {
+      "content": "Mount Rainier sits atop the Cascadia Subduction Zone, where the oceanic Juan de Fuca Plate plunges eastward beneath the continental North American Plate at approximately 35–40 mm per year. As the subducting slab descends to depths of ~80–100 km, rising temperatures and pressures drive water out of the oceanic crust, lowering the melting point of the overlying mantle wedge and generating the andesitic to basaltic magmas that feed the entire Cascade Volcanic Arc.\n\nThe volcanic complex has a long construction history. The earliest erupted materials in the area date back roughly 840,000 years, belonging to the Lily Formation (~2.9 million to 840,000 years ago), which built a \"proto-Rainier\" or ancestral cone. The modern edifice began forming over 500,000 years ago and has been built through successive eruptions of andesitic lava flows, pyroclastic deposits, and debris flows. A massive lava flow on the northeast flank — the 3.4 km³ Burroughs Mountain flow — erupted approximately 500,000 years ago at the onset of this modern growth phase; it is up to 350 m thick and 11 km long, and preserves ice-contact features indicating it was emplaced against a thick Pleistocene glacier.\n\nRainier once stood significantly taller than its current summit — perhaps as high as ~4,900 m (16,000 ft) — before a catastrophic sector collapse roughly 5,600 years ago removed much of the upper northeast flank, creating a horseshoe-shaped crater 1.8 km wide and generating the Osceola Mudflow. The present summit cone was subsequently reconstructed within this collapse scar, topped today by two overlapping craters. Extensive hydrothermal alteration — driven by acidic fluids from volcanic gases dissolving into groundwater — has converted large volumes of upper-edifice rock to weak, water-saturated clay minerals. This alteration makes the upper mountain structurally fragile and prone to collapse, a key factor in Rainier's outsized lahar hazard. An active geothermal system has produced the world's largest volcanic glacier-cave system within the summit icecap — nearly 3.2 km of passages."
+    },
+    "eruption_history_overview": {
+      "content": "Rainier has produced at least 24 recognized Holocene eruptions over the past ~11,000 years, though many earlier events are poorly constrained. The eruption record intensifies in the last 2,600 years, with approximately a dozen identified events during this interval. The largest Holocene eruption occurred about 2,200 years ago, producing the C tephra layer — the most widely distributed post-glacial tephra from Rainier — and triggering the National Lahar, which traveled more than 100 km down the Nisqually River valley, as well as lahars in the White and Cowlitz drainages.\n\nThe Osceola Mudflow period (~5,600 years ago) involved both explosive eruptions generating tephra set F and the catastrophic sector collapse. Earlier Holocene lahars — the Reflection Lakes and Paradise lahars — swept the south flank prior to Osceola, and at least six smaller debris avalanches have spawned lahars in the past 5,600 years.\n\nThe most recent confirmed eruption dates to approximately 1450 CE, based on tree-ring evidence associated with tephra deposits. During the 19th century, numerous observers in Seattle and Tacoma reported volcanic activity — small eruptions or steam events in 1820, 1843, 1854, 1858, 1870, 1879, 1882, and 1894 — but none have left identifiable eruptive deposits. The 1894 event, most likely phreatic, remains the best-documented uncertain eruption. The 1947 Kautz Mudflow, a glacier-outburst lahar, was not triggered by volcanism but demonstrated the ongoing debris-flow hazard. Periodic small debris flows have continued on Tahoma Creek through recent decades."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Osceola Mudflow (~5,600 Years Ago) — Rainier's Signature Catastrophe",
+          "content": "The defining event in Mount Rainier's Holocene history was the Osceola Mudflow, a colossal lahar that occurred approximately 5,600 years ago during a period of explosive eruptions. The event began as a massive sector collapse of the summit and upper northeast flank, likely triggered by magma intruding into a mountain already weakened by extensive hydrothermal alteration. The collapse produced a horseshoe-shaped amphitheater 1.8 km (1.1 mi) wide — comparable in scale to the crater produced by <a href=\"/volcano/st-helens\">Mount St. Helens's</a> 1980 eruption — and removed an estimated 2.0–2.5 km³ of the volcano's summit, which may have stood roughly 4,900 m (16,000 ft) tall.\n\nWithin 2 km of its origin, the avalanche transformed into a lahar as it incorporated vast quantities of water from the volcano's hydrothermal system. The flow surged down the west and main forks of the White River at speeds likely exceeding 70 km/h (45 mph), passed through what is now Enumclaw, and reached Puget Sound in several areas including the sites of modern-day Tacoma and Auburn. The total volume of the mudflow is estimated at 3.8 km³ (0.91 mi³) — at least ten times larger than any other known Rainier lahar. Near Sumner, deposits are 20–30 m (66–98 ft) deep. Research shows that 1.26 km³ of debris spread underwater, covering 157 km² of prehistoric Puget Sound.\n\nA coeval lahar, the Paradise flow (0.05–0.1 km³), descended Rainier's south flank simultaneously. The combined volume exceeds the \"missing summit\" estimate, accounted for by dilation during collapse and incorporation of valley-floor sediments. The Osceola remains one of the largest lahars documented anywhere on Earth and is the primary basis for Rainier's extreme hazard classification."
+        },
+        {
+          "title": "The C Tephra Eruption (~2,200 Years Ago) — Rainier's Largest Explosive Event",
+          "content": "The largest explosive eruption in Rainier's recent geological history occurred approximately 2,200–2,300 years ago, during the Summerland eruptive episode. This eruption produced the C tephra, Rainier's most widely distributed postglacial ash layer, deposited primarily east and southeast of the volcano. The eruption also triggered lahars at the heads of several drainage systems — the White, Cowlitz, and Nisqually Rivers — including the National Lahar, which was among the most voluminous eruption-triggered lahars in Rainier's record, traveling at least 100 km (62 mi) down the Nisqually River valley.\n\nThese eruption-generated lahars form through an energetic mixing process: hot volcanic rock fragments interact violently with the volcano's snow and ice mantle, producing sudden floods of water and debris that incorporate enormous volumes of sediment from debris-mantled slopes as they descend. This mechanism — energetic mixing of hot rock and ice during eruptions — is the most common cause of voluminous lahars at Mount Rainier and represents the primary eruption-associated hazard scenario for future events."
+        },
+        {
+          "title": "The Electron Mudflow (~500 Years Ago) — A Lahar Without Warning",
+          "content": "The Electron Mudflow, which occurred approximately 500–600 years ago, is among the most important events in Rainier's hazard history — not for its size (though it was substantial at roughly 0.26 km³), but for what it reveals about non-eruptive lahar risk. The Electron flow began as an avalanche of hydrothermally altered rock high on Rainier's west flank near Sunset Amphitheater, but its onset cannot be correlated with any volcanic eruption. Possible triggers include a phreatic explosion too small to leave preserved tephra, a hydrothermal explosion, or an earthquake.\n\nRegardless of the trigger, the flow was catastrophically mobile. Aided by the voluminous water-saturated, clay-rich altered rock of the west summit area, the lahar traveled approximately 100 km (60 mi) downstream to the Puget Sound lowland. When it entered the lowland at the community of Electron, it was still 30 m (98 ft) deep. The flat valley floor on which the town of Orting — population ~8,000 — now stands is composed entirely of Electron Mudflow deposits.\n\nThe Electron event is a sobering reminder that lahars at Rainier can occur with little or no conventional volcanic warning. It underpins the USGS's emphasis on lahar detection systems and community preparedness, even during periods of volcanic quiescence."
+        },
+        {
+          "title": "The ~1450 CE Eruption and 19th-Century Reports",
+          "content": "Rainier's last confirmed eruption occurred around 1450 CE, documented by tephra deposits dated through tree-ring evidence. The eruption was modest — likely small explosive events from the summit area — but it represents the most recent verified volcanic activity at the volcano.\n\nDuring the 19th century, multiple observers in Seattle and Tacoma reported eruptive phenomena including ash emissions, incandescent glow, and steam columns, with reported events in 1820, 1843, 1854, 1858, 1870, 1879, 1882, and 1894. None of these reports have been substantiated by identifiable eruptive deposits, and most remain categorized as uncertain or discredited. The 1894 event is the most credible — likely a small phreatic eruption — but even this cannot be confirmed beyond doubt. The absence of preserved deposits does not necessarily mean no eruptions occurred; small phreatic events can leave minimal geological traces, particularly on a heavily glaciated summit."
+        },
+        {
+          "title": "The July 2025 Seismic Swarm",
+          "content": "On 8 July 2025, a significant seismic swarm began beneath Mount Rainier's summit. The Cascades Volcano Observatory (CVO) and the Pacific Northwest Seismic Network (PNSN) located over 540 earthquakes by 15 July, with many more too small to locate. At the swarm's peak on the morning of 8 July, located events occurred at a rate of 33 per hour. Earthquakes were concentrated at depths of 2–6 km below the summit, with the largest event — a magnitude 2.4 — occurring on 11 July.\n\nNo deformation was detected by GPS instruments, no anomalous signals appeared on infrasound monitoring stations, and no surface changes were observed. The Volcano Alert Level remained at Normal and the Aviation Color Code at Green. CVO noted that background seismicity at Rainier averages about 9 earthquakes per month, with swarms occurring once or twice per year, though typically with much smaller numbers of events. The last comparable large swarm occurred in 2009, when over 1,000 earthquakes were recorded over three days, with a maximum magnitude of 2.3. Both swarms were interpreted as tectonic or fluid-movement processes within the volcanic edifice rather than indicators of imminent eruption."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mount Rainier is classified as an active volcano currently at rest between eruptions. The <a href=\"https://www.usgs.gov/volcanoes/mount-rainier\" target=\"_blank\" rel=\"noopener\">USGS Cascades Volcano Observatory</a> maintains a comprehensive monitoring network on and around the volcano. The Pacific Northwest Seismic Network operates a dense array of seismometers that detects the roughly 9 background earthquakes per month, plus periodic swarms.\n\nThe lahar detection system is the most critical component of Rainier's monitoring infrastructure. First installed in 1998 following lessons from volcanic mudflow hazards, the system has been significantly upgraded and expanded since 2017. Approximately 20 monitoring sites on the volcano's slopes and along the two river valleys identified as most vulnerable now feature broadband seismometers transmitting real-time data, along with trip wires, infrasound sensors, webcams, and GPS receivers. The system is designed both to detect lahars triggered by future eruptions and to provide warning for non-eruptive lahars triggered by flank collapse — the Electron Mudflow scenario.\n\nCommunity preparedness is a critical complement to instrumental monitoring. The cities of Orting, Puyallup, Sumner, and other valley-floor communities maintain evacuation routes and conduct regular lahar drills. Warning time is extremely limited: current models estimate that a large lahar originating from the Sunset Amphitheater area could reach Orting in approximately 60 minutes, Ashford in approximately 20 minutes, and the Nisqually entrance to the national park in approximately 10 minutes."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Mount Rainier's hazard profile is dominated by lahars, with secondary risks from pyroclastic flows, ashfall, lava flows, and ballistic projectiles during eruptions. The USGS has mapped detailed hazard zones for all major river valleys draining the volcano — the Carbon, Puyallup, Nisqually, White, and Cowlitz — and the threat is substantial: approximately 80,000 to 150,000 people reside within mapped lahar inundation areas, with critical infrastructure including Interstate 5, freight and passenger rail lines, the Port of Tacoma (Pierce County's economic base), highways, and bridges all at risk.\n\nLahars can form in multiple ways at Rainier: eruption-triggered melting of the 93 km² glacial mantle, producing floods that incorporate volcanic debris (the most common mechanism for large historical lahars); spontaneous gravitational collapse of hydrothermally weakened rock without eruption (the Electron Mudflow scenario); or heavy rainfall remobilizing loose volcanic debris. The west flank, containing the largest volume of altered rock near Sunset Amphitheater, poses the greatest non-eruptive collapse risk.\n\nA 2022 USGS modeling study simulated two worst-case lahar scenarios. In the first, a 260-million-cubic-meter flow originating at the Tahoma Glacier Headwall would reach the Puyallup valley lowlands at speeds exceeding 4 m/s (13 ft/s) with flow depths over 4 m (13 ft). In the second, a massive Nisqually River lahar could displace enough water from Alder Lake to cause the 100 m-tall (330 ft) Alder Dam to spill over, compounding downstream flooding.\n\nFor context, Rainier carries roughly eight times as much glacial ice as <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> had in 1985, when a relatively modest eruption generated a lahar that killed over 23,000 people in Armero, Colombia — one of the <a href=\"/deadliest-eruptions\">deadliest volcanic disasters</a> in history. Pierce County's hazard assessment notes that a lahar descending any of Rainier's major valleys could cause the highest number of fatalities of any hazard in the region."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount Rainier is the highest peak in the Cascade Range and the most topographically prominent mountain in the contiguous United States, rising roughly 4,000 m (13,000 ft) above the surrounding lowlands. The heavily glaciated andesitic cone is draped by 26 named glaciers and 93 km² (36 sq mi) of permanent snowfields — more glacial ice than all other Cascade volcanoes combined. The Carbon Glacier on the north side, at 9.2 km (5.7 mi) long and up to 213 m (700 ft) thick, is the longest and thickest glacier in the contiguous United States. The Emmons Glacier, on the east face, is the largest by area.\n\nThe summit is capped by two overlapping craters, each more than 300 m (1,000 ft) in diameter. Geothermal heat keeps portions of both crater rims free of snow and ice, and has melted out the world's largest volcanic glacier-cave network — nearly 3.2 km (2 mi) of passages. A small crater lake at the base of the west crater — approximately 40 × 9 m (130 × 30 ft) and 5 m (16 ft) deep — sits at 4,329 m (14,203 ft), making it the highest lake in North America, accessible only through the cave system.\n\nThe volcano's flanks descend through distinct ecological zones: barren rock and ice above approximately 2,700 m gives way to alpine meadows (including the famous Paradise wildflower displays), then subalpine forest, and finally old-growth Douglas fir and western red cedar in the valleys below. Five major river systems — the Carbon, Puyallup, Nisqually, White, and Cowlitz — originate at Rainier's glaciers."
+    },
+    "climate_and_global_impact": {
+      "content": "Mount Rainier's eruptions have been relatively modest in global climate terms. None of its Holocene events produced atmospheric effects comparable to <a href=\"/volcano/tambora\">Tambora's</a> 1815 eruption (which caused the \"Year Without a Summer\") or <a href=\"/volcano/pinatubo\">Pinatubo's</a> 1991 eruption (which cooled global temperatures by ~0.5°C). The C tephra eruption ~2,200 years ago was the largest explosive event, but its <a href=\"/volcanic-explosivity-index\">VEI</a> was likely 3–4 — insufficient for significant stratospheric sulfur injection.\n\nHowever, Rainier's climate impact is felt locally through its role as the dominant water tower of the Puget Sound region. The 93 km² of glacial ice stores an enormous volume of freshwater feeding five major river systems. Climate change is altering this dynamic: Rainier's glaciers have lost approximately 22% of their volume since the mid-20th century. This glacial retreat paradoxically both reduces the total water available for lahar formation during eruptions and increases near-term outburst flood risk as glacial lakes form behind unstable moraines."
+    },
+    "cultural_significance": {
+      "content": "Mount Rainier holds deep cultural significance for the Indigenous peoples of the Pacific Northwest, who have lived in its shadow for millennia. The Puyallup, Nisqually, Muckleshoot, Yakama, and other tribes know the mountain by various names, including Tacoma or Tahoma, a name widely used before the mountain was named in 1792 by Captain George Vancouver for Rear Admiral Peter Rainier. The name has been contested for over a century, with periodic campaigns to restore the Indigenous name.\n\nThe volcano's image dominates the visual identity of the Pacific Northwest — visible from Seattle's skyline on clear days, it appears on Washington State's license plates and in corporate logos. \"The mountain is out\" is a common regional expression when Rainier emerges from cloud cover.\n\nMount Rainier National Park, established on 2 March 1899 as the fifth national park in the United States, receives over 2 million visitors annually. Between 1950 and 2018, over 439,000 people summited the volcano, with approximately 84 mountaineering fatalities recorded between 1947 and 2018. The Paradise area on the south flank once held the world record for measured seasonal snowfall: 28.5 m (93.5 ft) in the winter of 1971–72."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Rainier National Park offers year-round access, though most visitor facilities operate from late May through October. The park contains over 420 km (260 mi) of maintained trails, ranging from gentle valley walks to the 150 km (93 mi) Wonderland Trail circumnavigating the entire volcano.\n\nThe most popular areas are Paradise (south side), with its wildflower meadows and panoramic summit views, and Sunrise (northeast side), the highest point reachable by vehicle at 1,950 m (6,400 ft). The Carbon River area on the northwest provides access to the lowest-elevation old-growth rainforest in the park. Summit climbing is a serious mountaineering endeavor requiring technical glacier-travel skills, typically taking two days via the Disappointment Cleaver route. Guided climbs are available through concessionaire services, and climbers must obtain permits and pay a climbing fee.\n\nVisitors should be aware of volcanic hazards: lahar evacuation routes are posted in valley areas, and the National Park Service educates staff and visitors about debris-flow risks, particularly on valley floors during summer and autumn when glacial meltwater and rainfall can trigger flows. The park entrance fee is $30 per vehicle (2025)."
+    },
+    "nearby_volcanoes": {
+      "content": "Mount Rainier is one of five major Cascade volcanoes in Washington State and sits within a volcanic arc extending from British Columbia to Northern California. <a href=\"/volcano/st-helens\">Mount St. Helens</a>, the most recently active Cascade volcano with its catastrophic 1980 eruption, lies 80 km (50 mi) to the southwest. Mount Adams, a massive but less active stratovolcano, is visible 80 km to the southeast. Mount Baker, 210 km to the north, has shown persistent fumarolic activity. Glacier Peak, 175 km north, is one of the most active Cascade volcanoes but also one of the least visible from populated areas.\n\nThe Cascades Volcanic Arc is generated by the subduction of the Juan de Fuca Plate, and all of Washington's volcanoes share this fundamental tectonic driver. Since 1780, four of the five have shown activity — only Adams has remained quiescent."
+    },
+    "etymology": {
+      "content": "The mountain was named in 1792 by Captain George Vancouver for his friend Rear Admiral Peter Rainier (1741–1808), who never visited the Pacific Northwest. Indigenous peoples knew the mountain for millennia by various names — most notably Tacoma or Tahoma, from the Lushootseed language of the Puyallup people, commonly translated as \"mother of waters\" or \"the great snowy peak.\" The Yakama called it Takhoma, and the Nisqually knew it as Ta-co-bet. Periodic efforts to restore the Indigenous name have not yet resulted in an official federal change, though \"Tahoma\" is used locally and by many Indigenous communities."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount Rainier Compared to Other Cascade Range Volcanoes",
+      "description": "How does Rainier compare to its Cascade neighbors in height, activity, and risk?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Key Hazard"
+      ],
+      "rows": [
+        [
+          "Rainier",
+          "USA",
+          "4,392 m",
+          "Stratovolcano",
+          "~1450 CE",
+          "4",
+          "24",
+          "Lahars"
+        ],
+        [
+          "St. Helens",
+          "USA",
+          "2,549 m",
+          "Stratovolcano",
+          "2008",
+          "5",
+          "50+",
+          "Lateral blast / pyroclastic"
+        ],
+        [
+          "Mount Baker",
+          "USA",
+          "3,286 m",
+          "Stratovolcano",
+          "1880",
+          "3",
+          "6",
+          "Lahars / fumaroles"
+        ],
+        [
+          "Glacier Peak",
+          "USA",
+          "3,213 m",
+          "Stratovolcano",
+          "~1700 CE",
+          "5",
+          "10+",
+          "Tephra / lahars"
+        ],
+        [
+          "Mount Adams",
+          "USA",
+          "3,742 m",
+          "Stratovolcano",
+          "~950 CE",
+          "2",
+          "8",
+          "Debris avalanche"
+        ]
+      ]
+    },
+    {
+      "title": "World's Greatest Lahar Threats: Mount Rainier in Global Context",
+      "description": "Comparing volcanoes that pose the most significant lahar risk to populated areas.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Glacial Ice (km²)",
+        "Population at Risk",
+        "Worst Historical Lahar",
+        "Last Eruption",
+        "Monitoring"
+      ],
+      "rows": [
+        [
+          "Rainier",
+          "USA",
+          "93",
+          "80,000–150,000",
+          "Osceola: 3.8 km³",
+          "~1450 CE",
+          "Comprehensive"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "~10",
+          "~500,000",
+          "Armero 1985: 23,000+ killed",
+          "2024",
+          "Comprehensive"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "~14",
+          "~300,000",
+          "1877: destroyed Latacunga",
+          "2023",
+          "Comprehensive"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "Minimal",
+          "~1.1 million",
+          "2010: 353 killed",
+          "2025",
+          "Comprehensive"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "0",
+          "~1 million",
+          "1991: post-eruption lahars",
+          "1991",
+          "Moderate"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6750,
+      "vei": null,
+      "label": "Early Holocene eruptions",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5600,
+      "vei": 4,
+      "label": "Osceola Mudflow — 3.8 km³ lahar reaches Puget Sound",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -5200,
+      "vei": 3,
+      "label": "Post-Osceola rebuilding eruptions, tephra set F",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3400,
+      "vei": null,
+      "label": "Holocene eruptive period — south flank lahars",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2200,
+      "vei": 3,
+      "label": "Eruptions with minor lahars and tephra",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -520,
+      "vei": null,
+      "label": "Eruptive period with debris flows",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -250,
+      "vei": 4,
+      "label": "C Tephra eruption — largest explosive event; National Lahar",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 600,
+      "vei": null,
+      "label": "Summerland eruptive period activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1450,
+      "vei": 2,
+      "label": "Last confirmed eruption — small summit explosions",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1500,
+      "vei": null,
+      "label": "Electron Mudflow — non-eruptive lahar reaches lowlands",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1820,
+      "vei": null,
+      "label": "Reported eruption — unconfirmed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1854,
+      "vei": null,
+      "label": "Reported eruption from Puget Sound — unconfirmed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1882,
+      "vei": null,
+      "label": "Reported activity — unconfirmed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1894,
+      "vei": 1,
+      "label": "Probable phreatic eruption — uncertain",
+      "deaths": 0,
+      "notable": false
+    },
+    {
+      "year": 1947,
+      "vei": null,
+      "label": "Kautz Mudflow — non-volcanic glacial outburst",
+      "deaths": 0,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-8000 BCE",
+      "count": 3,
+      "note": "Early Holocene, limited record"
+    },
+    {
+      "century": "6000–5000 BCE",
+      "count": 4,
+      "note": "Includes Osceola collapse period"
+    },
+    {
+      "century": "4000–3000 BCE",
+      "count": 3,
+      "note": "Periodic explosive activity"
+    },
+    {
+      "century": "1000 BCE–1 CE",
+      "count": 3,
+      "note": "C tephra / Summerland period"
+    },
+    {
+      "century": "1st–14th",
+      "count": 4,
+      "note": "Intermittent activity"
+    },
+    {
+      "century": "15th",
+      "count": 1,
+      "note": "Last confirmed eruption ~1450 CE"
+    },
+    {
+      "century": "19th",
+      "count": 6,
+      "note": "All uncertain/unconfirmed reports"
+    }
+  ],
+  "facts": [
+    "Mount Rainier carries more glacial ice than all other Cascade Range volcanoes combined — 26 named glaciers covering 93 km² (36 sq mi).",
+    "The Osceola Mudflow ~5,600 years ago deposited 3.8 km³ of debris — enough to bury Manhattan under 40 m (130 ft) of mud — making it one of the largest lahars in geological history.",
+    "Between 80,000 and 150,000 people live directly atop ancient lahar deposits in the river valleys radiating from Mount Rainier.",
+    "The summit's volcanic glacier-cave system, melted by geothermal heat, extends nearly 3.2 km and is the largest of its kind in the world.",
+    "A crater lake at 4,329 m (14,203 ft) elevation inside the west summit crater is the highest lake in North America — accessible only through ice caves.",
+    "Mount Rainier carries approximately eight times as much glacial ice as Nevado del Ruiz had in 1985, when a lahar killed over 23,000 people in Armero, Colombia.",
+    "The Electron Mudflow reached the Puget Sound lowlands only ~500 years ago without any volcanic eruption — triggered solely by the collapse of hydrothermally weakened rock.",
+    "A lahar from Rainier's west flank could reach the town of Orting (pop. ~8,000) in approximately 60 minutes, and the Nisqually park entrance in just 10 minutes.",
+    "Paradise, on Rainier's south flank, holds the contiguous US record for measured seasonal snowfall: 28.5 m (93.5 ft) in 1971–72.",
+    "Over 439,000 people summited Mount Rainier between 1950 and 2018, making it one of the most-climbed glaciated peaks in the world.",
+    "Mount Rainier is one of only 16 Decade Volcanoes worldwide — selected by the IAVCEI for their exceptional combination of hazard and population risk.",
+    "In July 2025, a seismic swarm produced over 540 located earthquakes beneath the summit in a single week — the largest swarm since 2009."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Rainier an active volcano?",
+      "answer": "Yes, Mount Rainier is classified as an active volcano by both the USGS and the Smithsonian Institution's Global Volcanism Program. Its last confirmed eruption occurred around 1450 CE, and uncertain phreatic (steam-driven) activity was reported as recently as 1894. Volcanologists define 'active' as having erupted within the Holocene (past ~11,700 years), and Rainier has produced at least 24 recognized eruptions during this period. The volcano is continuously monitored by the USGS Cascades Volcano Observatory, and a swarm of over 540 earthquakes beneath the summit in July 2025 demonstrated that the volcanic system remains dynamic. Another eruption is considered certain on a geological timescale."
+    },
+    {
+      "question": "When did Mount Rainier last erupt?",
+      "answer": "Mount Rainier's last confirmed eruption occurred approximately 1450 CE, based on tree-ring dating of tephra deposits found on the volcano's flanks. Several 19th-century eruptions were reported by observers in Seattle and Tacoma — including events in 1854, 1870, 1879, 1882, and 1894 — but none have been confirmed by identifiable eruptive deposits. The most credible of these, a probable phreatic eruption in 1894, remains officially uncertain. The Smithsonian Global Volcanism Program lists 1450 CE as the last known eruption. The current repose period of approximately 575 years is notable but not unprecedented in Rainier's eruptive history."
+    },
+    {
+      "question": "Could Mount Rainier erupt again?",
+      "answer": "Mount Rainier will almost certainly erupt again. The volcano has averaged roughly one eruption per century over the past 2,600 years, and its current dormancy of ~575 years, while longer than average, falls well within the range of historical repose intervals. The USGS considers future eruptions inevitable on a geological timescale, though predicting the timing of any specific eruption is not currently possible. A future eruption would most likely involve moderate explosive activity (VEI 2–4) with lahars as the primary threat. However, even without an eruption, a catastrophic lahar could be triggered by gravitational collapse of the hydrothermally weakened summit — as the Electron Mudflow demonstrated only ~500 years ago."
+    },
+    {
+      "question": "Why is Mount Rainier considered so dangerous?",
+      "answer": "Mount Rainier is considered one of the most dangerous volcanoes in the United States — and the world — due to a convergence of factors. First, 26 glaciers and 93 km² of permanent ice provide enormous volumes of meltwater that can mix with volcanic debris to form devastating lahars. Second, extensive hydrothermal alteration has converted large portions of the upper mountain to weak, water-saturated clay, making it prone to catastrophic collapse even without an eruption. Third, approximately 80,000–150,000 people live directly in mapped lahar inundation zones. Fourth, warning time is extremely limited — as little as 60 minutes for a major lahar to reach populated lowlands. The USGS ranked Rainier as the third most hazardous U.S. volcano in its 2018 assessment."
+    },
+    {
+      "question": "What is a lahar and why are Rainier's lahars so dangerous?",
+      "answer": "A lahar is a rapidly flowing slurry of water, volcanic rock, and debris that moves like liquid concrete at speeds of 30–80 km/h (20–50 mph), destroying or burying everything in its path. Lahars at Mount Rainier form when glacial meltwater mixes with volcanic material during eruptions, or when hydrothermally weakened sections of the mountain collapse under gravity. Rainier's lahars are exceptionally dangerous because they can be enormous (the Osceola Mudflow moved 3.8 km³ of material), they travel far (reaching Puget Sound, over 100 km away), and densely populated communities like Orting, Puyallup, and Sumner lie directly in their paths. The Electron Mudflow ~500 years ago proved that catastrophic lahars can occur without any eruption."
+    },
+    {
+      "question": "How tall is Mount Rainier?",
+      "answer": "Mount Rainier stands 4,392 m (14,411 ft) above sea level, making it the highest peak in the Cascade Range and the most topographically prominent mountain in the contiguous United States. It rises roughly 4,000 m above the surrounding Puget Sound lowlands. The summit was once even taller — possibly reaching approximately 4,900 m (16,000 ft) — before the catastrophic sector collapse ~5,600 years ago that generated the Osceola Mudflow removed the upper northeast flank. The present summit cone was rebuilt within the resulting amphitheater."
+    },
+    {
+      "question": "What type of volcano is Mount Rainier?",
+      "answer": "Mount Rainier is a stratovolcano, also called a composite volcano — a steep-sided, roughly conical mountain built by alternating layers of lava flows, pyroclastic material, and volcanic debris over hundreds of thousands of years. Rainier is composed primarily of andesite, an intermediate-composition volcanic rock typical of subduction-zone volcanism, along with some basalt and dacite. The volcano formed due to subduction of the Juan de Fuca Plate beneath the North American Plate along the Cascadia Subduction Zone. At over 500,000 years old, it has been significantly modified by glacial erosion and a massive sector collapse."
+    },
+    {
+      "question": "Can you visit Mount Rainier?",
+      "answer": "Yes, Mount Rainier National Park — established in 1899 as the fifth U.S. national park — is open year-round and receives over 2 million visitors annually. The most popular areas are Paradise (south side) with wildflower meadows and views, and Sunrise (northeast) at 1,950 m, the highest point accessible by car. The park offers over 420 km of trails including the 150 km Wonderland Trail. Summit climbing requires technical glacier skills and permits; guided climbs are available. The entrance fee is $30 per vehicle (2025). Visitors should be aware of lahar hazard evacuation routes in valley areas."
+    },
+    {
+      "question": "What was the Osceola Mudflow?",
+      "answer": "The Osceola Mudflow was a catastrophic lahar approximately 5,600 years ago when Mount Rainier's summit and upper northeast flank collapsed during volcanic eruptions. The debris avalanche transformed into a mudflow carrying 3.8 km³ of material — at least ten times larger than any other known Rainier lahar. It surged down the White River valley past modern-day Enumclaw and reached Puget Sound near present-day Tacoma and Auburn, covering 550 km². Deposits are up to 30 m deep in lowland areas. The collapse removed roughly 2.0–2.5 km³ from the summit. It remains one of the largest documented lahars on Earth."
+    },
+    {
+      "question": "How far is Mount Rainier from Seattle?",
+      "answer": "Mount Rainier is approximately 87 km (54 mi) southeast of downtown Seattle and a similar distance from Tacoma. On clear days, the volcano's 4,392 m summit dominates the southeastern skyline. The drive from Seattle to the Nisqually entrance of Mount Rainier National Park takes approximately 2 hours via State Route 7. While Seattle itself is unlikely to be directly impacted by a lahar, communities in the Kent Valley, Puyallup River valley, and other lowland areas between the volcano and the cities lie within mapped lahar hazard zones."
+    }
+  ],
+  "people_also_search": [
+    "mount rainier eruption",
+    "is mount rainier going to erupt",
+    "mount rainier lahar",
+    "mount rainier height",
+    "mount rainier national park",
+    "mount rainier danger zone",
+    "osceola mudflow",
+    "mount rainier vs st helens"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Rainier",
+    "alternateName": [
+      "Rainier",
+      "Tahoma",
+      "Tacoma",
+      "Mount Tacoma"
+    ],
+    "description": "Active stratovolcano in Washington State, USA, posing the greatest lahar hazard in the nation",
+    "geo": {
+      "latitude": 46.853,
+      "longitude": -121.76,
+      "elevation": 4392
+    },
+    "containedInPlace": {
+      "name": "Washington",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/rainier"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=321030",
+      "text": "Smithsonian GVP: Rainier",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/mount-rainier",
+      "text": "USGS: Mount Rainier Volcano",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/mount-rainier/science/significant-lahars-mount-rainier",
+      "text": "USGS: Significant Lahars at Mount Rainier",
+      "type": "research"
+    },
+    {
+      "url": "https://www.nps.gov/mora/index.htm",
+      "text": "Mount Rainier National Park (NPS)",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Rainier",
+      "text": "Britannica: Mount Rainier",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://pnsn.org/volcanoes/mount-rainier",
+      "text": "Pacific Northwest Seismic Network: Rainier",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "st-helens",
+      "kilauea",
+      "mount-adams",
+      "mount-baker",
+      "glacier-peak",
+      "nevado-del-ruiz",
+      "cotopaxi",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "st-helens",
+    "mount-adams",
+    "mount-baker",
+    "glacier-peak",
+    "nevado-del-ruiz"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Mount Rainier",
+      "url": "/volcano/rainier"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/rainier"
+}

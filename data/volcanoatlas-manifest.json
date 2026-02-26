@@ -1,0 +1,28 @@
+{
+  "project": "VolcanoAtlas",
+  "version": "1.0",
+  "total_pages": 204,
+  "content_dir": "content/",
+  "files": {
+    "content": "204 JSON files in content/",
+    "sitemap": "volcanoatlas-sitemap.json",
+    "seo": "volcanoatlas-seo.json",
+    "nav": "volcanoatlas-nav.json",
+    "homepage": "volcanoatlas-homepage.json",
+    "registry": "volcanoatlas-registry.json"
+  },
+  "page_types": {
+    "volcano": 150,
+    "country": 46,
+    "special": 4,
+    "ranking": 4
+  },
+  "url_structure": {
+    "home": "/",
+    "map": "/map",
+    "volcano": "/volcano/[slug]",
+    "country": "/volcanoes-in-[slug]",
+    "special": "/[slug]",
+    "ranking": "/[slug]"
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "slug": "stromboli",
+  "volcano_id": 211040,
+  "title": "Stromboli",
+  "meta_title": "Stromboli — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Stromboli is a 924 m active stratovolcano in Italy's Aeolian Islands. Explore its continuous eruptions spanning millennia, hazards, and visitor guide.",
+  "quick_answer": {
+    "what": "Stromboli is an active stratovolcano forming a small island in the Tyrrhenian Sea, part of Italy's Aeolian Islands, rising 924 m (3,031 ft) above sea level and approximately 2,000 m (6,600 ft) from the seafloor.",
+    "status": "Persistently active — Stromboli has been in near-continuous eruption since at least 1934, and historical records of activity extend back over 2,000 years. It is one of the most continuously active volcanoes on Earth.",
+    "famous_for": "Its remarkably persistent mild explosive eruptions — rhythmic bursts of incandescent lava fragments ejected every 10–20 minutes from summit craters — which have earned it the nickname 'Lighthouse of the Mediterranean' and given its name to the volcanological term 'Strombolian eruption.'",
+    "danger_level": "Moderate — the island has a permanent population of approximately 400–700 residents. While typical Strombolian activity is confined to the summit craters, periodic paroxysmal eruptions and associated tsunamis pose serious risk. A major paroxysm in 2019 killed one hiker."
+  },
+  "hero": {
+    "name": "Stromboli",
+    "local_name": "Stromboli / Strùmboli (Sicilian)",
+    "subtitle": "The Lighthouse of the Mediterranean",
+    "country": "Italy",
+    "region": "Aeolian Islands, Tyrrhenian Sea",
+    "type": "Stratovolcano",
+    "elevation_m": 924,
+    "elevation_ft": 3031,
+    "status": "Persistently Active",
+    "last_eruption": "2025 (ongoing since 1934)",
+    "coordinates": {
+      "lat": 38.789,
+      "lon": 15.213
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09131.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "924 m (3,031 ft) above sea level; ~2,000 m (6,600 ft) from seafloor",
+    "type": "Stratovolcano (composite)",
+    "status": "Persistently active — continuous eruption since at least 1934",
+    "last_eruption": "Ongoing (current eruption began February 2, 1934)",
+    "first_known_eruption": "~6050 BCE (geological), ~350 BCE (historical)",
+    "total_recorded_eruptions": 22,
+    "vei_max": "3 (multiple periods)",
+    "country": "Italy",
+    "region": "Aeolian Islands, Tyrrhenian Sea, Sicily",
+    "tectonic_setting": "Subduction zone — African Plate subducting beneath Eurasian Plate, Calabrian Arc",
+    "rock_types": [
+      "Trachyandesite",
+      "Basaltic Trachyandesite"
+    ],
+    "coordinates": "38.789°N, 15.213°E",
+    "nearest_city": "Lipari — 40 km southwest; Tropea — 55 km east on Calabrian mainland",
+    "population_at_risk": "~400–700 permanent residents (up to 5,000+ during summer tourist season)",
+    "summit_crater": "Three active vent areas within the crater terrace at ~750 m elevation",
+    "protected_status": "UNESCO World Heritage Site (Aeolian Islands, inscribed 2000)",
+    "monitoring_agency": "INGV — Istituto Nazionale di Geofisica e Vulcanologia (Osservatorio Etneo, Catania)",
+    "smithsonian_id": "211040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=211040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Stromboli is a persistently active <a href=\"/types-of-volcanoes\">stratovolcano</a> forming a small volcanic island in the Tyrrhenian Sea, the northeasternmost of <a href=\"/volcanoes-in-italy\">Italy's</a> Aeolian Islands, approximately 60 km (37 mi) north of the Sicilian coast. Rising 924 m (3,031 ft) above sea level — and roughly 2,000 m (6,600 ft) from the surrounding seafloor — it is one of the most continuously active volcanoes on Earth, with documented eruptions spanning at least 2,500 years and essentially uninterrupted activity since at least 1934. Its rhythmic mild explosive bursts, which hurl incandescent lava fragments 100–200 m (330–660 ft) above the summit craters every 10–20 minutes, have earned it the enduring nickname \"Lighthouse of the Mediterranean\" and lent its name to the scientific term \"Strombolian eruption\" — a classification used by volcanologists worldwide to describe a specific style of moderate, rhythmic explosive activity.\n\nStromboli's volcanic activity is powered by the subduction of the African Plate beneath the Eurasian Plate along the Calabrian Arc, the same tectonic process responsible for <a href=\"/volcano/vesuvius\">Mount Vesuvius</a>, <a href=\"/volcano/etna\">Mount Etna</a>, and the other volcanoes of the Aeolian archipelago. The volcano's summit hosts three main active vent areas clustered within a crater terrace at approximately 750 m (2,460 ft) elevation, perched at the head of the Sciara del Fuoco — a dramatic horseshoe-shaped collapse scar on the northwest flank that channels pyroclastic ejecta and occasional lava flows directly into the sea. While typical Strombolian activity poses minimal risk to the island's approximately 400–700 permanent residents, periodic paroxysmal eruptions — violent events far exceeding normal intensity — and associated tsunami hazards have caused fatalities and property damage throughout recorded history, most recently killing one hiker in July 2019."
+    },
+    "geology_and_formation": {
+      "content": "Stromboli is the emergent summit of a large submarine stratovolcano that rises approximately 2,000 m (6,600 ft) from the Tyrrhenian Sea floor. The volcano belongs to the Aeolian volcanic arc, a chain of seven major islands and numerous seamounts generated by the subduction of remnant oceanic lithosphere of the African Plate beneath the Eurasian Plate along the Calabrian subduction zone. This tectonic setting produces the characteristic calc-alkaline to potassic magma compositions found across the Aeolian arc, though Stromboli's eruptive products are predominantly shoshonitic basalt and trachyandesite — relatively potassium-rich compositions that reflect the volcano's position at the arc's eastern terminus.\n\nThe island's volcanic history spans two major eruptive cycles. The older Paleostromboli cycle (>13,000 years ago) built the eastern and southern portions of the island. The younger Neostromboli cycle, between approximately 13,000 and 5,000 years ago, constructed the western portion and established the present summit morphology. A pivotal event approximately 5,000 years ago shaped the volcano's modern character: a series of catastrophic slope failures on the northwest flank carved the Sciara del Fuoco (\"Stream of Fire\"), a steep collapse scar approximately 1 km wide extending from the summit crater terrace to below sea level. The modern volcano has been constructed entirely within this collapse amphitheater, which serves as a natural channel directing all eruptive products toward the uninhabited northwest coast and into the sea.\n\nStromboli's persistent activity is sustained by a remarkably steady supply of gas-rich magma from a shallow reservoir at approximately 7–10 km depth. The regular explosive bursts that characterize <a href=\"/types-of-volcanoes\">Strombolian activity</a> are produced by large gas bubbles (\"slugs\") rising through the magma column and bursting at the surface — a process analogous to a pot of thick soup slowly boiling. This open-vent degassing system is remarkably efficient: Stromboli releases an estimated 6,000–9,000 tonnes of SO2 and 700–1,000 tonnes of CO2 per day even during routine activity."
+    },
+    "eruption_history_overview": {
+      "content": "Stromboli's eruption record in the Smithsonian GVP database lists 22 confirmed eruptions spanning from approximately 6050 BCE to the present, but this number dramatically underrepresents the volcano's actual activity. Since at least the 4th century BCE — when Greek and Roman writers first documented its fiery summit — Stromboli has been in a state of near-continuous mild explosive eruption. The current ongoing eruption, catalogued as beginning on February 2, 1934, has continued without cessation for over 91 years as of 2025, making it one of the longest sustained eruptions in recorded history.\n\nThe prehistoric eruption record documents eight eruptions between 6050 and 350 BCE, including two VEI 3 events (around 4050 BCE and 550 CE). Historical records from the classical period onward describe Stromboli's persistent glow and periodic intensifications. The modern instrumental record reveals a pattern of decades-long sustained Strombolian activity (VEI 1–2) punctuated by occasional paroxysmal eruptions (VEI 3) — violent events that significantly exceed normal intensity and can eject lava bombs several kilometers from the summit. The volcano's eruption frequency makes it one of the most active volcanoes in Europe alongside <a href=\"/volcano/etna\">Etna</a> (170 eruptions)."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Ongoing Eruption (1934–Present) — 91 Years and Counting",
+          "content": "The current eruption of Stromboli, officially catalogued as beginning on February 2, 1934, is among the longest continuously documented volcanic eruptions in the world. For over nine decades, the volcano has maintained its characteristic Strombolian activity: rhythmic explosive bursts from the three main vent areas on the crater terrace, occurring at intervals of roughly 10–20 minutes, each sending incandescent lava fragments 100–200 m (330–660 ft) into the air. On a typical day, Stromboli produces 300–500 individual explosive events. This baseline activity, while spectacular, is confined to the upper slopes and the Sciara del Fuoco and poses no direct threat to the inhabited areas on the island's eastern and southern coasts.\n\nHowever, the 91-year eruption has been punctuated by at least a dozen significant paroxysms — sudden, violent intensifications that dwarf normal activity. The most consequential recent paroxysms occurred on December 28, 2002, and in two events on July 3 and August 28, 2019.\n\nThe December 2002 paroxysm produced major landslides on the Sciara del Fuoco that entered the sea and generated tsunami waves reaching 8–10 m (26–33 ft) on the island's northwest coast. The waves damaged buildings in the villages of Stromboli and Ginostra and were detected across the Aeolian Islands and the Calabrian mainland coast. Six people were injured.\n\nThe July 3, 2019 paroxysm was the most violent in decades. With virtually no precursory warning, a massive explosion sent a pyroclastic flow racing down the Sciara del Fuoco and into the sea, while a towering eruption column rose several kilometers above the summit. A 35-year-old Italian hiker, Massimo Imbesi, was killed by falling ejecta near the summit, and another hiker from Brazil was seriously injured. A second paroxysm on August 28, 2019, produced another major eruption column and pyroclastic flows but caused no fatalities. These events led Italian authorities to restrict summit access and implement new alert protocols."
+        },
+        {
+          "title": "The 2002–2003 Crisis — Landslides, Lava, and Tsunami",
+          "content": "The 2002–2003 eruptive crisis at Stromboli began on December 28, 2002, when a large effusive eruption sent lava flows pouring down the Sciara del Fuoco. The weight and heat of the lava destabilized the upper portion of the collapse scar, triggering two major submarine landslides with a combined volume estimated at 20–30 million m3. The landslides generated tsunami waves that struck the island within minutes. On the northwest coast facing the Sciara del Fuoco, waves reached 8–10 m (26–33 ft); on the inhabited east coast at Stromboli village, they measured 1–2 m (3–7 ft), sufficient to damage harbors, boats, and ground-floor structures. Waves were also recorded along the Calabrian coast, 55 km away. The event resulted in the temporary evacuation of the island's entire population and sparked the installation of a comprehensive tsunami early warning system."
+        },
+        {
+          "title": "Historical Activity — The Ancient Lighthouse",
+          "content": "Stromboli's persistent volcanic glow has served as a navigational beacon in the Tyrrhenian Sea since antiquity, earning the island its enduring nickname \"Lighthouse of the Mediterranean.\" Greek colonists in the 4th century BCE noted the volcano's steady nighttime glow, and Roman writers including Strabo and Pliny the Elder described its eruptions. The island's Greek name, Strongyle (meaning \"round one\"), referenced its circular island profile.\n\nThrough the medieval and early modern periods, Stromboli's activity was recorded intermittently by sailors and island residents. Major intensifications were documented in 1558–1857, 1857–1889, and 1890–1907, all rated VEI 3. A particularly violent paroxysm in 1930 killed several people and destroyed houses on the island, contributing to a mass emigration that reduced the permanent population from several thousand to a few hundred by mid-century. The 1930 event remains one of the benchmarks against which modern paroxysms are measured."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of early 2026, Stromboli remains in its characteristic state of persistent mild Strombolian activity, with rhythmic explosions from the summit crater terrace occurring every 10–20 minutes. The volcano's alert level is maintained at \"yellow\" (elevated) by Italy's Dipartimento della Protezione Civile, reflecting the ongoing eruption and the ever-present possibility of paroxysmal escalation.\n\nStromboli is one of the most intensively monitored volcanoes in the world. The INGV operates a comprehensive surveillance network including broadband seismometers, infrasound sensors, tiltmeters and GPS stations, thermal cameras providing real-time video of the crater terrace, SO2 flux monitoring stations, and a submarine tsunami detection system installed after the 2002 event. The INGV's webcams streaming live views of Stromboli's eruptions are among the most watched volcano feeds globally.\n\nVolcanologists closely monitor several parameters that historically precede paroxysmal eruptions: an increase in the rate and intensity of normal explosions, changes in thermal output, ground inflation, and elevated SO2 flux. However, the July 2019 paroxysm demonstrated the challenge of forecasting these events — it occurred with minimal detectable precursory signals. Since 2019, access to the summit above 400 m has been restricted or limited to guided groups, depending on current activity levels."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Stromboli presents a complex hazard profile that combines routine, manageable risks with rare but potentially catastrophic threats. During normal Strombolian activity, the primary hazard zone is the summit crater terrace and the upper Sciara del Fuoco, where ballistic ejecta (lava bombs up to 1 m in diameter) can reach distances of 200–300 m from the vents.\n\nParoxysmal eruptions represent a more serious threat. During events like those in July and August 2019, pyroclastic flows can descend the Sciara del Fuoco at speeds exceeding 100 km/h (62 mph), ballistic projectiles can reach distances of 1–2 km, and bush fires can ignite across the upper slopes.\n\nThe most catastrophic hazard scenario involves flank collapse of the Sciara del Fuoco generating a tsunami, as occurred in 2002. Numerical modeling suggests that a major collapse could generate waves reaching 5–20 m along the Aeolian coastlines and 1–3 m on the Calabrian and northern Sicilian mainlands within 10–30 minutes. The submarine monitoring system installed since 2002 provides minutes of warning, but evacuation logistics for an island with limited harbor access remain challenging, particularly during summer when tourist populations can swell to over 5,000.\n\nLava flows, while common on the Sciara del Fuoco, rarely threaten inhabited areas due to the topographic barrier between the collapse scar and the settlements on the eastern and southern coasts."
+    },
+    "geography_and_physical_description": {
+      "content": "Stromboli island is roughly circular in plan view, approximately 5 km (3 mi) long and 3 km (1.9 mi) wide, with a total surface area of about 12.6 km2 (4.9 sq mi). The island is the emergent peak of a steep-sided submarine volcano — meaning roughly three-quarters of the volcanic edifice lies beneath the sea.\n\nThe summit reaches 924 m (3,031 ft) at Vancori, the highest point on the southeastern rim. The active crater terrace sits at approximately 750 m (2,460 ft) on the northwest side, perched at the head of the Sciara del Fuoco. This massive collapse scar, roughly 1 km (0.6 mi) wide and extending from the crater terrace to below sea level at a gradient of approximately 35 degrees, was carved by catastrophic landslides around 5,000 years ago. Its blackened, unvegetated surface stands in stark contrast to the lush Mediterranean vegetation covering the rest of the island.\n\nTwo small settlements occupy the island's lower slopes: Stromboli village (comprising San Vincenzo, San Bartolo, and Ficogrande) on the northeastern coast, and Ginostra, a tiny hamlet of approximately 30 permanent residents accessible only by boat, on the southwestern coast. Between these settlements, the island's slopes feature abandoned agricultural terraces, Mediterranean maquis, prickly pear, and scattered olive and caper plantations."
+    },
+    "climate_and_global_impact": {
+      "content": "Stromboli's persistent but relatively low-volume eruptions have no measurable impact on global climate. The volcano's continuous degassing releases an estimated 6,000–9,000 tonnes of SO2 per day — a significant flux that contributes to regional atmospheric chemistry and occasional volcanic haze over the Aeolian Islands, but far below the stratospheric injection required for climate-scale effects. By comparison, <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991 injected approximately 20 million tonnes of SO2 into the stratosphere in a single event.\n\nStromboli's true global significance lies in science. The volcano has served as the world's natural laboratory for studying persistent explosive volcanism for over a century. Its accessibility, predictability, and near-continuous activity have made it the type locality for Strombolian eruption dynamics — a foundational concept in volcanology. Research conducted at Stromboli has produced breakthrough insights into magma degassing, conduit processes, slug-flow dynamics, and the transition from normal to paroxysmal activity."
+    },
+    "cultural_significance": {
+      "content": "Stromboli has occupied a singular place in Mediterranean culture and imagination for millennia. Ancient Greek sailors knew the island as Strongyle and associated its fiery summit with the forge of Hephaestus (later the Roman Vulcan) — a mythological connection shared with neighboring Vulcano island, from which the word \"volcano\" itself derives. Roman naturalist Pliny the Elder described Stromboli's eruptions in his Naturalis Historia, and the volcano's persistent nighttime glow has guided mariners through the Tyrrhenian Sea for over two thousand years.\n\nIn modern popular culture, Stromboli gained cinematic fame through Roberto Rossellini's 1950 neorealist film Stromboli (Terra di Dio), starring Ingrid Bergman as a Lithuanian refugee who marries an island fisherman. The film's dramatic climax, featuring Bergman amid actual eruptions, brought international attention to both the island and the director's affair with Bergman. Jules Verne featured Stromboli as the exit point from the Earth's interior in his 1864 novel Journey to the Center of the Earth.\n\nThe Aeolian Islands, including Stromboli, were inscribed as a UNESCO World Heritage Site in 2000, recognized for their outstanding example of volcanic island-building processes and their contribution to the development of volcanology as a science."
+    },
+    "visiting_and_tourism": {
+      "content": "Stromboli is accessible by ferry and hydrofoil from Milazzo and Naples on the Italian mainland, and from Lipari and the other Aeolian Islands. The ferry from Milazzo takes approximately 3–5 hours; hydrofoils are faster at 1.5–2.5 hours. During summer (June–September), multiple daily connections operate; winter service is more limited.\n\nThe island's iconic experience is the sunset summit hike to observe Strombolian explosions after dark. Since the 2019 paroxysms, access above 400 m elevation is restricted and requires authorized volcanological guides. Guided hikes typically depart in late afternoon and last 3–4 hours. Hikers witness the rhythmic explosions from a viewpoint overlooking the crater terrace — an unforgettable spectacle of incandescent lava arcs against the night sky.\n\nFor those not hiking, evening boat tours circumnavigating the island to view the Sciara del Fuoco from the water are enormously popular. The eruptions are also visible from the village at night as a red glow above the summit. The island offers charming small hotels and rental apartments and maintains a relaxed, car-free atmosphere. The beaches at Ficogrande, with striking black volcanic sand, and the tiny settlement of Ginostra are additional highlights."
+    },
+    "nearby_volcanoes": {
+      "content": "Stromboli is the northeasternmost volcano in the Aeolian volcanic arc, a chain of seven major islands stretching approximately 200 km (124 mi) across the southern Tyrrhenian Sea. Its nearest volcanic neighbor is Panarea, 20 km (12 mi) to the southwest, a largely dormant complex that produced notable submarine gas emissions in 2002. Vulcano, 60 km (37 mi) to the southwest, last erupted in 1888–1890 and gave its name to the word \"volcano.\"\n\nBeyond the Aeolian arc, <a href=\"/volcano/etna\">Mount Etna</a> — Europe's tallest and most active volcano at 3,357 m (11,014 ft) — dominates eastern Sicily approximately 140 km to the south. <a href=\"/volcano/vesuvius\">Vesuvius</a> lies 300 km to the north near Naples, and the supervolcanic caldera of <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> lies nearby. Together with <a href=\"/volcanoes-in-iceland\">Iceland</a>, Italy is the most volcanically active country in Europe."
+    },
+    "etymology": {
+      "content": "The name Stromboli derives from the Ancient Greek Strongyle, meaning \"round one\" or \"the round island,\" describing its roughly circular shape. The Greek name was Latinized to Strongyle and evolved through medieval Italian into the modern form Stromboli. In Sicilian dialect, the island is known as Strumboli. The volcano has also lent its name to the fundamental volcanological term \"Strombolian eruption,\" coined in the early 20th century to describe rhythmic mild explosive activity — a term now used universally in Earth science."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Stromboli Compared to Europe's Other Active Volcanoes",
+      "description": "How does Stromboli's persistent activity compare to Europe's other major volcanic centers?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Activity Style"
+      ],
+      "rows": [
+        [
+          "Stromboli",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "Ongoing (1934–)",
+          "3",
+          "22",
+          "Persistently active (Strombolian)"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "2025",
+          "5",
+          "170",
+          "Frequent effusive + explosive"
+        ],
+        [
+          "Vesuvius",
+          "Italy",
+          "1,281 m",
+          "Stratovolcano",
+          "1944",
+          "5",
+          "61",
+          "Currently dormant"
+        ],
+        [
+          "Campi Flegrei",
+          "Italy",
+          "458 m",
+          "Caldera",
+          "1538",
+          "5",
+          "20",
+          "Unrest (bradyseism)"
+        ],
+        [
+          "Vulcano",
+          "Italy",
+          "500 m",
+          "Stratovolcano",
+          "1890",
+          "4",
+          "44",
+          "Dormant (fumarolic)"
+        ]
+      ]
+    },
+    {
+      "title": "World's Most Persistently Active Volcanoes",
+      "description": "Stromboli in global context: volcanoes with the longest ongoing or near-continuous eruption records.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Continuous Since",
+        "Duration (years)",
+        "Activity Type",
+        "Elevation"
+      ],
+      "rows": [
+        [
+          "Stromboli",
+          "Italy",
+          "1934",
+          "91+",
+          "Strombolian explosions",
+          "924 m"
+        ],
+        [
+          "Kilauea",
+          "USA",
+          "2021 (intermittent since 1983)",
+          "42+",
+          "Effusive lava flows",
+          "1,222 m"
+        ],
+        [
+          "Erebus",
+          "Antarctica",
+          "1972",
+          "53+",
+          "Lava lake + Strombolian",
+          "3,794 m"
+        ],
+        [
+          "Yasur",
+          "Vanuatu",
+          "~1270",
+          "755+",
+          "Strombolian",
+          "361 m"
+        ],
+        [
+          "Sakurajima",
+          "Japan",
+          "1955",
+          "70+",
+          "Vulcanian explosions",
+          "1,117 m"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6050,
+      "vei": 0,
+      "label": "Earliest confirmed eruption — Northern flank (Vallonazzo)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -4050,
+      "vei": 3,
+      "label": "Major prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -350,
+      "vei": 2,
+      "label": "First eruptions in the classical historical period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 550,
+      "vei": 3,
+      "label": "Major eruption during early medieval period",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1558,
+      "vei": 3,
+      "label": "Beginning of 299-year catalogued eruptive period (1558–1857)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1890,
+      "vei": 3,
+      "label": "Intensified activity period (1890–1907)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1930,
+      "vei": null,
+      "label": "Violent paroxysm — fatalities, house destruction, mass emigration",
+      "deaths": "6",
+      "notable": true
+    },
+    {
+      "year": 1934,
+      "vei": 2,
+      "label": "Current ongoing eruption begins — continuous for 91+ years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2002,
+      "vei": null,
+      "label": "Major lava flow, Sciara del Fuoco landslide, tsunami (8–10 m waves)",
+      "deaths": "0",
+      "notable": true
+    },
+    {
+      "year": 2019,
+      "vei": null,
+      "label": "Violent paroxysm July 3 — one hiker killed, pyroclastic flows",
+      "deaths": "1",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 8,
+      "note": "Eruptions from ~6050 BCE to ~350 BCE"
+    },
+    {
+      "century": "4th BCE–1st CE",
+      "count": 3,
+      "note": "Classical period historical documentation"
+    },
+    {
+      "century": "2nd–5th",
+      "count": 2,
+      "note": "Roman and post-Roman period"
+    },
+    {
+      "century": "6th",
+      "count": 1,
+      "note": "Major VEI 3 eruption ~550 CE"
+    },
+    {
+      "century": "10th",
+      "count": 1,
+      "note": "Activity recorded ~950 CE"
+    },
+    {
+      "century": "16th–19th",
+      "count": 3,
+      "note": "Near-continuous activity as long eruptive periods"
+    },
+    {
+      "century": "20th–21st",
+      "count": 4,
+      "note": "Includes current ongoing eruption (1934–present)"
+    }
+  ],
+  "facts": [
+    "Stromboli has been in near-continuous eruption since at least February 1934 — over 91 years of uninterrupted volcanic activity, making it one of the longest ongoing eruptions in the world.",
+    "The volcano produces an estimated 300–500 individual explosive bursts per day during normal activity, ejecting incandescent lava fragments every 10–20 minutes.",
+    "The volcanological term 'Strombolian eruption' — used globally to describe rhythmic mild explosive volcanic activity — is named directly after this volcano.",
+    "Stromboli's total height from the seafloor to its summit is approximately 2,000 m (6,600 ft), meaning roughly three-quarters of the volcanic edifice is submerged.",
+    "The Sciara del Fuoco collapse scar was formed by catastrophic landslides approximately 5,000 years ago and channels all modern eruptive products toward the uninhabited northwest coast.",
+    "In December 2002, a submarine landslide off the Sciara del Fuoco generated tsunami waves reaching 8–10 m (26–33 ft) on the island's northwest coast.",
+    "Stromboli continuously degasses approximately 6,000–9,000 tonnes of SO2 and 700–1,000 tonnes of CO2 per day — even during routine mild activity.",
+    "The Aeolian Islands, including Stromboli, are a UNESCO World Heritage Site, inscribed in 2000 for their contribution to the study of volcanology.",
+    "Roberto Rossellini's 1950 film 'Stromboli' starring Ingrid Bergman was shot on the island during actual eruptions.",
+    "A violent paroxysm on July 3, 2019, killed one hiker near the summit and led to restrictions on summit access above 400 m elevation.",
+    "Jules Verne chose Stromboli as the exit point from the Earth's interior in his 1864 novel 'Journey to the Center of the Earth.'",
+    "The island's permanent population declined from several thousand in the early 20th century to approximately 400–700, partly due to the deadly 1930 paroxysm that triggered mass emigration."
+  ],
+  "faqs": [
+    {
+      "question": "Is Stromboli still erupting?",
+      "answer": "Yes, Stromboli is one of the most continuously active volcanoes on Earth. The current eruption officially began on February 2, 1934, and has not stopped since — making it over 91 years of uninterrupted activity as of 2026. During normal conditions, the volcano produces rhythmic mild explosive bursts every 10–20 minutes, ejecting incandescent lava fragments 100–200 m above the summit craters. This persistent activity is Stromboli's baseline state and has been occurring for at least 2,000 years. The volcano is continuously monitored by Italy's INGV. While the intensity fluctuates, the fundamental Strombolian activity pattern has defined this volcano for millennia."
+    },
+    {
+      "question": "Can you visit Stromboli volcano?",
+      "answer": "Yes, Stromboli is one of the most accessible active volcanoes in the world, drawing 100,000–200,000 visitors annually. The island is reached by ferry or hydrofoil from Milazzo, Naples, or other Aeolian Islands. Since the violent paroxysms of 2019, hiking above 400 m elevation requires authorized volcanological guides and is subject to activity-dependent restrictions. Guided sunset hikes allow visitors to watch Strombolian explosions after dark — an unforgettable spectacle. Evening boat tours along the Sciara del Fuoco coastline offer sea-level views of eruptions. The island also features black sand beaches, charming car-free villages, and excellent Mediterranean food."
+    },
+    {
+      "question": "How often does Stromboli erupt?",
+      "answer": "Stromboli erupts constantly. During its normal persistent activity, the volcano produces approximately 300–500 individual explosive bursts per day — roughly one every 10–20 minutes. This is not periodic eruption in the traditional sense but continuous activity maintained by a steady supply of gas-rich magma degassing in the open summit vents. Superimposed on this baseline are occasional paroxysms — sudden, violent intensifications far exceeding normal activity — which occur irregularly, roughly once every few years to decades. Major paroxysms occurred in 1930, 2002, 2003, 2007, and twice in 2019."
+    },
+    {
+      "question": "How tall is Stromboli?",
+      "answer": "Stromboli rises 924 m (3,031 ft) above sea level at its highest point (Vancori, on the southeastern rim). However, this only represents the tip of a much larger submarine edifice: the volcano rises approximately 2,000 m (6,600 ft) from the Tyrrhenian Sea floor, meaning about three-quarters of the mountain is submerged. The active crater terrace sits at approximately 750 m (2,460 ft) elevation — about 170 m below the actual summit. By comparison, Italy's other major volcanoes include Etna at 3,357 m and Vesuvius at 1,281 m."
+    },
+    {
+      "question": "Is Stromboli dangerous?",
+      "answer": "Stromboli poses a real but manageable hazard. Normal Strombolian activity is confined to the summit crater terrace and the Sciara del Fuoco, posing risk only to hikers who approach the active vents too closely. The primary dangers are: paroxysmal eruptions that can eject ballistic projectiles 1–2 km and send pyroclastic flows down the Sciara, as in July 2019 when one hiker was killed; tsunamis generated by flank collapse of the Sciara, as in 2002 when 8–10 m waves struck the island; and lava flows on the Sciara, which rarely threaten settlements. The island has 400–700 permanent residents and up to 5,000 summer visitors."
+    },
+    {
+      "question": "What is a Strombolian eruption?",
+      "answer": "A Strombolian eruption is a type of volcanic eruption characterized by rhythmic, moderate explosive bursts that eject incandescent lava fragments to heights of 100–200 m above the vent, typically at intervals of seconds to tens of minutes. The term was coined by volcanologists based on the characteristic activity of Stromboli itself. Strombolian eruptions are driven by large gas bubbles (called 'slugs') that rise through relatively fluid basaltic magma and burst at the surface. They are classified as VEI 1–2 on the <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index</a> and represent some of the most common and least dangerous types of volcanic eruption globally."
+    },
+    {
+      "question": "Has anyone died on Stromboli?",
+      "answer": "Yes. The most recent fatality occurred on July 3, 2019, when a violent paroxysmal eruption killed 35-year-old Italian hiker Massimo Imbesi near the summit. The 1930 paroxysm killed approximately 6 people and destroyed houses, triggering mass emigration. Throughout the volcano's long recorded history, deaths have been relatively rare given the continuous activity, primarily because normal Strombolian bursts are confined to the crater terrace and Sciara del Fuoco, away from inhabited areas. The 2002 tsunami caused injuries but no deaths. Stromboli's death toll is low compared to more explosive volcanoes, but the 2019 fatality underscored that familiar volcanoes can produce deadly surprises."
+    },
+    {
+      "question": "Why is Stromboli called the Lighthouse of the Mediterranean?",
+      "answer": "Stromboli has been called the 'Lighthouse of the Mediterranean' for centuries because its persistent nighttime eruptions produce a visible glow that sailors have used as a navigational reference in the Tyrrhenian Sea. The incandescent lava fragments ejected during Strombolian bursts illuminate the summit area with a pulsating orange-red light visible from considerable distances at sea. Ancient Greek and Roman mariners documented this phenomenon, and the nickname has persisted through the ages. The rhythmic nature of the eruptions — bursts every 10–20 minutes — creates a beacon-like regularity that makes the lighthouse analogy particularly apt."
+    },
+    {
+      "question": "What caused the 2002 Stromboli tsunami?",
+      "answer": "The December 2002 tsunami was caused by two large submarine landslides on the Sciara del Fuoco. A major effusive eruption produced lava flows that loaded additional weight onto the already unstable collapse scar. Approximately 20–30 million cubic meters of material slid into the sea in two rapid events, displacing enough water to generate tsunami waves reaching 8–10 m on the island's northwest coast and 1–2 m on the east coast at Stromboli village. Waves were detected as far as the Calabrian mainland, 55 km away. The event prompted the installation of a submarine monitoring and tsunami early warning system."
+    },
+    {
+      "question": "How do I get to Stromboli?",
+      "answer": "Stromboli is reached by ferry or hydrofoil from the Italian mainland and other Aeolian Islands. The most common departure point is Milazzo in northeastern Sicily, with ferry crossings taking 3–5 hours and hydrofoils 1.5–2.5 hours. Services also operate from Naples (6–9 hours by ferry) and from Lipari, the largest Aeolian island. During summer (June–September), multiple daily connections run; winter service is more limited and weather-dependent. There is no airport on the island. Stromboli village has a small harbor for docking, while Ginostra on the opposite coast is accessible only by small boat. The island is largely car-free."
+    }
+  ],
+  "people_also_search": [
+    "stromboli volcano eruption",
+    "stromboli eruption today",
+    "is stromboli still active",
+    "stromboli italy visit",
+    "lighthouse of the mediterranean",
+    "strombolian eruption definition",
+    "stromboli 2019 explosion",
+    "stromboli webcam"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Stromboli",
+    "alternateName": [
+      "Strongyle",
+      "Strumboli"
+    ],
+    "description": "Persistently active stratovolcano in Italy's Aeolian Islands, known as the Lighthouse of the Mediterranean and the type locality for Strombolian eruptions",
+    "geo": {
+      "latitude": 38.789,
+      "longitude": 15.213,
+      "elevation": 924
+    },
+    "containedInPlace": {
+      "name": "Aeolian Islands",
+      "country": "Italy"
+    },
+    "url": "https://volcanoatlas.com/volcano/stromboli"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=211040",
+      "text": "Smithsonian GVP: Stromboli",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ingv.it/en/",
+      "text": "INGV — Italian National Institute of Geophysics and Volcanology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Stromboli-island-Italy",
+      "text": "Britannica: Stromboli",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/908",
+      "text": "UNESCO: Aeolian Islands World Heritage Site",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.ct.ingv.it/en/stromboli.html",
+      "text": "INGV Catania: Stromboli Monitoring",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "etna",
+      "campi-flegrei",
+      "vulcano",
+      "kilauea",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "italy",
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "etna",
+    "vesuvius",
+    "campi-flegrei",
+    "vulcano",
+    "kilauea"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Italy",
+      "url": "/volcanoes-in-italy"
+    },
+    {
+      "label": "Stromboli",
+      "url": "/volcano/stromboli"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/stromboli"
+}

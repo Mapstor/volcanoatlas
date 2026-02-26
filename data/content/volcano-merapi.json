@@ -1,0 +1,585 @@
+{
+  "slug": "merapi",
+  "volcano_id": 263250,
+  "title": "Mount Merapi",
+  "meta_title": "Mount Merapi — Eruptions, Height & Facts | VolcanoAtlas",
+  "meta_description": "Mount Merapi is a 2,910 m active stratovolcano in Java, Indonesia. Explore its 106+ eruptions, the deadly 2010 event, current status, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount Merapi (Gunung Merapi) is an active stratovolcano rising 2,910 m (9,551 ft) on the border of Central Java and Yogyakarta Special Region, Indonesia. It is the most active volcano in Indonesia and one of the most active in the world.",
+    "status": "Active — currently in an eruptive phase that began in December 2020, with ongoing dome growth, pyroclastic flows, and lahars. Continuously monitored by BPPTKG.",
+    "famous_for": "Exceptionally frequent and deadly eruptions, particularly the catastrophic VEI 4 eruption of October–November 2010 that killed 367 people and forced the evacuation of 350,000.",
+    "danger_level": "Extremely dangerous — approximately 1.3 million people live within the volcano's hazard zones, and the major city of Yogyakarta (population ~3.7 million metro) lies just 28 km to the south."
+  },
+  "hero": {
+    "name": "Mount Merapi",
+    "local_name": "Gunung Merapi",
+    "subtitle": "Indonesia's Most Active and Deadly Stratovolcano",
+    "country": "Indonesia",
+    "region": "Central Java",
+    "type": "Stratovolcano",
+    "elevation_m": 2910,
+    "elevation_ft": 9551,
+    "status": "Active",
+    "last_eruption": "2020–present (ongoing)",
+    "coordinates": {
+      "lat": -7.54,
+      "lon": 110.446
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01722.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,910 m (9,551 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "2020–present (ongoing dome growth and pyroclastic flows)",
+    "first_known_eruption": "~8780 BCE (geological), 1548 CE (historical)",
+    "total_recorded_eruptions": 106,
+    "vei_max": "4 (1872, 2010)",
+    "country": "Indonesia",
+    "region": "Central Java / Yogyakarta Special Region",
+    "tectonic_setting": "Subduction zone / Continental crust (> 25 km) — Indo-Australian Plate beneath Eurasian Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic andesite"
+    ],
+    "coordinates": "7.54°S, 110.446°E",
+    "nearest_city": "Yogyakarta — 28 km south",
+    "population_at_risk": "~1.3 million in hazard zones; ~3.7 million in greater Yogyakarta",
+    "summit_crater": "Active lava dome, frequently destroyed and rebuilt",
+    "protected_status": "Mount Merapi National Park (est. 2004)",
+    "monitoring_agency": "BPPTKG (Balai Penyelidikan dan Pengembangan Teknologi Kebencanaan Geologi)",
+    "unesco_sites_nearby": "Borobudur Temple (40 km west), Prambanan Temple (15 km south)",
+    "smithsonian_id": "263250",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=263250"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Merapi (Indonesian: Gunung Merapi, literally 'Fire Mountain') is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> on the island of Java, <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, rising to 2,910 m (9,551 ft) on the border between Central Java Province and the Yogyakarta Special Region. With 106 confirmed eruptions in the Smithsonian Global Volcanism Program database — more than almost any other volcano on Earth — Merapi is the most active volcano in Indonesia and one of the most active anywhere.\n\nMerapi's danger lies in the lethal combination of eruption frequency, eruption style, and population density. The volcano's typical activity involves the growth and gravitational collapse of a viscous andesitic lava dome at the summit, generating pyroclastic flows (locally known as 'awan panas' or 'wedhus gembel') that sweep down the flanks at speeds exceeding 100 km/h. These incandescent density currents are Merapi's primary killer. The steep upper slopes are unvegetated due to near-constant activity, while the fertile lower flanks support some of the densest agricultural populations in the world. Approximately 1.3 million people live within Merapi's designated hazard zones, and the cultural capital of <a href=\"/volcanoes-in-indonesia\">Java</a> — Yogyakarta, with a metropolitan population of 3.7 million — lies just 28 km to the south.\n\nThe volcano sits within the Sunda volcanic arc, where the Indo-Australian Plate subducts beneath the Eurasian Plate at approximately 67 mm per year. This subduction produces the volatile, gas-rich andesitic magmas that drive Merapi's explosive eruptions. The maximum recorded <a href=\"/volcanic-explosivity-index\">VEI</a> is 4, reached in 1872 and again in 2010, but even the more frequent VEI 2–3 events generate pyroclastic flows lethal enough to devastate communities within 5–10 km of the summit. Merapi has killed more than 2,600 people since comprehensive records began in the sixteenth century, making it one of the <a href=\"/deadliest-eruptions\">deadliest volcanoes</a> in modern history.\n\nMerapi is monitored around the clock by BPPTKG, Indonesia's geological hazard agency, which operates a dense network of seismometers, tiltmeters, GPS stations, gas sensors, and webcams. The volcano's frequent eruptions have made it one of the best-studied in the world and a natural laboratory for understanding dome-collapse pyroclastic flows."
+    },
+    "geology_and_formation": {
+      "content": "Merapi is the youngest and southernmost volcano in a chain extending north-northwest to the older and now dormant Ungaran volcano. The chain sits atop the Sunda volcanic arc, generated by the northward subduction of the Indo-Australian Plate beneath the Eurasian Plate at a rate of approximately 67 mm per year. The subducted oceanic crust releases water into the overlying mantle wedge, lowering the melting point of the rock and generating the volatile-rich andesitic magmas that characterize Merapi and its neighbors.\n\nThe volcano's geological history is divided into two major phases. 'Old Merapi' was an earlier edifice that grew during the Pleistocene and early Holocene, producing eruptions dating back to approximately 8780 BCE in the geological record. This older structure experienced a catastrophic sector collapse roughly 2,000 years ago (some researchers place it between 1,900 and 4,800 years ago), leaving a large arcuate scarp that cut into the still-older Batulawang volcano to the north. The horseshoe-shaped collapse scar opened to the south, directing subsequent hazards preferentially toward the densely populated southern slopes.\n\n'Young Merapi' — the present active edifice — began growing southwest of the older collapse scarp, building the steep-sided cone that dominates the landscape of Central Java today. The upper portion of the volcano is bare of vegetation due to the near-continuous activity, and the summit is occupied by a lava dome that is perpetually being built, destroyed, and rebuilt. The dome currently sits in a breached crater that opens to the southeast, a configuration that has directed most pyroclastic flows down the Gendol and Boyong river valleys on the southern flank.\n\nMerapi's magma is predominantly andesite and basaltic andesite, with silica content typically ranging from 52 to 58 percent. This intermediate composition produces lava viscous enough to form domes but sufficiently gas-rich to drive explosive dome collapses. The resulting pyroclastic flows — known in volcanological literature as Merapi-type pyroclastic flows or block-and-ash flows — are characterized by dense, ground-hugging clouds of hot rock, gas, and ash that travel at 60–100+ km/h and can reach temperatures exceeding 300°C. This eruption style has become the textbook example of <a href=\"/types-of-volcanoes\">dome-collapse volcanism</a> worldwide.\n\nCompared with <a href=\"/volcano/krakatau\">Krakatau</a> (caldera) or <a href=\"/volcano/tambora\">Tambora</a> (massive Plinian eruptions), Merapi's individual eruptions are smaller in magnitude. But their relentless frequency — on average one significant eruption every 4–5 years over the past five centuries — produces a cumulative hazard impact that rivals or exceeds many single larger events."
+    },
+    "eruption_history_overview": {
+      "content": "Merapi has 106 confirmed eruptions in the Smithsonian database, spanning from roughly 8780 BCE to the ongoing 2020–present eruptive episode. Historical records become reliable from the mid-sixteenth century, when Javanese court chronicles and Dutch colonial reports began documenting eruptions systematically. Since 1548 CE, the record shows an eruption roughly every 4–7 years, with particularly active clusters in the nineteenth and twentieth centuries.\n\nThe eruptions follow a remarkably consistent pattern: slow extrusion of a viscous andesitic lava dome at the summit, followed by gravitational or explosive collapse of part or all of the dome, generating pyroclastic flows and block-and-ash flows that sweep down river valleys on the flanks. Major eruptions (VEI 3–4) produce flows that extend 8–15 km from the summit, reaching the densely populated lower slopes. Smaller events (VEI 1–2) generate flows that typically remain within 3–5 km of the summit.\n\nThe two largest recorded eruptions are the 1872 event (VEI 4), which produced the most voluminous pyroclastic deposits of the historical period, and the October–November 2010 eruption (VEI 4), which killed 367 people in the deadliest Merapi event in over 80 years. Other notable high-casualty eruptions include 1930–1931 (approximately 1,300 killed), 1672 (approximately 3,000 killed according to colonial records), and 1006 CE, which may have contributed to the abandonment of Hindu-Buddhist court centers in the region.\n\nThe eruption database shows a striking pattern: 27 eruptions in the nineteenth century and 23 in the twentieth century, reflecting both genuine high activity and improving observational coverage. The 21st century has already recorded 8 eruptions in just 25 years, consistent with Merapi's status as one of the <a href=\"/most-active-volcanoes\">most active volcanoes</a> on Earth."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2010 Eruption — Merapi's Deadliest Event in a Century",
+          "content": "The eruption that began on 26 October 2010 was the largest and deadliest at Merapi since 1930. After weeks of escalating seismicity, deformation, and gas emissions, the volcano exploded in a series of increasingly powerful events that culminated in a paroxysmal eruption on 5 November — far more violent than the typical dome-collapse pyroclastic flows that characterize Merapi's normal activity.\n\nThe eruption was rated VEI 4, making it the most powerful Merapi event in recorded history alongside the 1872 eruption. The 5 November paroxysm generated pyroclastic flows that traveled over 15 km from the summit down the Gendol River valley on the southern flank, far exceeding the 5–8 km reach assumed by existing hazard maps. The eruption column rose to an estimated 17 km altitude, and ashfall was reported across much of Central Java.\n\nThe death toll reached 367, including Mbah Maridjan, the cultural guardian ('juru kunci') of Merapi, who refused to evacuate from his home 4 km from the summit and whose death became a national mourning event. An estimated 350,000 people were evacuated from the hazard zones in what was one of the largest volcano-related evacuations in Indonesian history. Total economic losses were estimated at approximately USD 600 million, including destruction of villages, agricultural land, infrastructure, and tourism facilities.\n\nThe 2010 eruption was scientifically significant because it deviated from Merapi's typical dome-collapse pattern. The paroxysmal phase involved explosive fragmentation of the dome and conduit, producing a sustained eruption column rather than the usual gravitational collapses. Volcanologists interpreted this as evidence that Merapi can switch between effusive (dome-building) and explosive (column-generating) eruption regimes, a finding with important implications for hazard forecasting.\n\nThe event led to a comprehensive revision of Merapi's hazard maps, expanding the high-danger zones significantly, and prompted improvements to Indonesia's volcano early warning system."
+        },
+        {
+          "title": "The 1930–1931 Eruption — Merapi's Deadliest Modern Disaster",
+          "content": "The eruption that began on 25 November 1930 produced the deadliest known pyroclastic flows in Merapi's recorded history. Hot pyroclastic density currents swept down the western and southern flanks, incinerating villages and killing approximately 1,300 people. The scale of the disaster made international headlines and prompted the Dutch colonial government to establish the first systematic volcano monitoring programs in the Netherlands East Indies.\n\nThe 1930 eruption was rated VEI 3 — lower than the 2010 event — but the casualty toll was far higher, reflecting the absence of any organized evacuation system and the dense settlement of the lower flanks. The pyroclastic flows reached 9–12 km from the summit, destroying dozens of villages. The eruption's main phase continued into early 1931, with intermittent dome growth and collapse generating additional smaller pyroclastic flows.\n\nThis eruption is historically significant as the catalyst for modern volcanology in Indonesia. The Dutch established the Volcanologisch Dienst (Volcanological Survey) in 1920 but greatly expanded its capabilities after the 1930 disaster, installing the first permanent seismometers on Merapi and initiating the continuous monitoring tradition that continues today under BPPTKG."
+        },
+        {
+          "title": "The 1872 Eruption — The Largest Recorded Merapi Eruption",
+          "content": "The 1872 eruption, which began on 15 April, was rated VEI 4 and represents the most voluminous eruption in Merapi's documented history. The event produced massive pyroclastic flows and extensive tephra deposits that blanketed the surrounding landscape. Dutch colonial records describe powerful explosions audible at great distances and ash clouds that darkened the sky over Central Java.\n\nThe 1872 eruption was notable for the volume of material ejected and the scale of dome destruction, which left the summit deeply excavated. Subsequent rebuilding of the dome has continued in cycles ever since, with the 1872 event establishing the pattern of catastrophic dome collapse that defines Merapi's modern behavior. Precise casualty figures from the 1872 eruption are uncertain, but colonial accounts describe significant destruction of villages on the upper flanks."
+        },
+        {
+          "title": "The 1672 Eruption — Historical Catastrophe",
+          "content": "The eruption of August 1672 is recorded in Javanese historical sources and Dutch colonial accounts as one of the most devastating events in Merapi's history. Contemporary accounts suggest approximately 3,000 people were killed by pyroclastic flows and lahars (volcanic mudflows), though this figure is difficult to verify with precision. The 1672 eruption was rated VEI 3 and produced pyroclastic flows that devastated agricultural communities on the southern and western flanks.\n\nThe 1672 event is significant in Java's cultural history because it occurred during a period of political transition and was interpreted through the Javanese cosmological framework that views Merapi as a powerful spiritual force. The eruption contributed to the court's decision to relocate and reinforced the tradition of appointing a juru kunci (spiritual guardian) to mediate between the human world and the volcano's supernatural power."
+        },
+        {
+          "title": "The 2020–Present Eruption — Ongoing Activity",
+          "content": "The current eruptive phase began on 31 December 2020 with renewed dome growth at the summit. Activity has continued through 2025, with periods of accelerated dome growth, partial dome collapses generating pyroclastic flows, and intermittent explosive events. The dome has been repeatedly built to volumes exceeding 1 million cubic meters before partially collapsing, sending pyroclastic flows down the Boyong and Gendol river valleys.\n\nBPPTKG has maintained the alert level at elevated status throughout, and periodic evacuations of communities closest to the summit have been ordered when dome growth accelerates. Lahars — mudflows triggered when rainfall remobilizes loose volcanic deposits — have been a persistent secondary hazard, especially during the rainy season, inundating river channels and threatening downstream communities and infrastructure. As of 2025, the eruption continues with no signs of cessation."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of 2025, Merapi remains in an active eruptive phase that began in late December 2020. The summit lava dome continues to grow and partially collapse, generating regular pyroclastic flows down the southern and southwestern flanks, primarily in the Boyong, Gendol, Bebeng, and Krasak river drainages. Dome volume fluctuates as extrusion alternates with collapse events. BPPTKG has maintained the alert level at Level III ('Siaga' — the second-highest level) for most of the ongoing eruption, with brief escalations to Level IV ('Awas') during periods of heightened activity.\n\nMonitoring is conducted by BPPTKG from its observation post in Babadan, approximately 7 km from the summit, with supplementary stations ringing the volcano. The monitoring network is one of the densest deployed at any volcano in the world and includes: over 20 short-period and broadband seismometers; over 10 electronic tiltmeters and GPS stations tracking ground deformation; DOAS (Differential Optical Absorption Spectroscopy) instruments measuring SO2 flux; multi-gas analyzers measuring CO2, H2S, and other species; thermal cameras providing 24/7 imagery of the summit dome; and a network of lahar detection instruments (acoustic flow monitors and trip-wire sensors) in major river channels.\n\nSatellite-based monitoring supplements ground instrumentation. Radar interferometry (InSAR) from Sentinel-1 satellites tracks centimeter-scale inflation and deflation of the edifice, while thermal infrared data from MODIS and VIIRS sensors detect hot spots associated with dome growth and pyroclastic flow deposition. This integrated system has successfully provided advance warning for recent pyroclastic flow events, enabling timely evacuations that have saved lives.\n\nSeismicity at Merapi is classified into several characteristic types: volcanic-tectonic (VT) earthquakes from magma fracturing rock; multiphase (MP) earthquakes associated with dome growth; low-frequency (LF) events from fluid movement; and rockfall/avalanche signals from dome collapse. The ratio and frequency of these seismic types are key forecasting tools."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Merapi presents a multi-hazard environment that threatens one of the most densely populated volcanic regions on Earth. The primary hazard is pyroclastic density currents — fast-moving, ground-hugging avalanches of hot gas, rock fragments, and volcanic ash — generated by the gravitational or explosive collapse of the active summit lava dome. These flows typically travel at 60–100+ km/h, reach temperatures exceeding 300 degrees Celsius, and have historically extended 5–15 km from the summit depending on eruption magnitude.\n\nPyroclastic flows are channeled by river valleys radiating from the summit, concentrating their destructive energy along the Boyong, Code, Gendol, Woro, Kuning, and Putih river drainages. Communities in these valleys face the highest risk. The 2010 eruption demonstrated that under extreme conditions (VEI 4), pyroclastic flows can extend beyond the previously mapped hazard zones, reaching areas considered safe under older risk assessments. Updated hazard maps now designate three concentric zones: KRB III (highest danger, within approximately 5 km), KRB II (high danger, 5–10 km), and KRB I (danger zone, 10–15 km), with roughly 1.3 million people residing within these zones collectively.\n\nLahars represent the second most significant hazard. Heavy rainfall — common throughout the wet season from November to April — remobilizes the thick deposits of loose volcanic material on the upper slopes, generating destructive mudflows that surge down river channels at speeds of 20–40 km/h. Lahars can occur months or even years after an eruption and affect communities far downstream, including areas on the outskirts of Yogyakarta. The Boyong and Code rivers, which flow directly through the city, have been the conduit for damaging lahars multiple times.\n\nAshfall from larger eruptions affects agriculture and infrastructure across Central Java. The 2010 eruption deposited ash across the Yogyakarta airport, disrupting flights for weeks. <a href=\"/volcano/popocatepetl\">Popocatepetl</a> in Mexico and <a href=\"/volcano/fuego\">Fuego</a> in Guatemala face comparable multi-hazard profiles among the world's dangerous stratovolcanoes near major cities, but Merapi's eruption frequency is higher than either.\n\nEvacuation planning for Merapi is among the most complex in volcanology due to the dense population, limited road infrastructure on the upper flanks, cultural attachment to agricultural land, and the need to shelter tens or hundreds of thousands of evacuees for potentially extended periods. The 2010 evacuation of 350,000 people strained Indonesian disaster response capacity to its limits."
+    },
+    "geography_and_physical_description": {
+      "content": "Merapi rises as a steep, conical peak dominating the landscape immediately north of the Yogyakarta plain on the island of Java. The summit stands at 2,910 m (9,551 ft) above sea level, though this figure fluctuates by tens of meters as the active lava dome grows and collapses. The volcano's upper slopes are bare and grey, stripped of vegetation by the near-constant fall of hot rock, ash, and pyroclastic flows. Below approximately 1,500 m elevation, the flanks transition rapidly into dense tropical vegetation and some of the most intensively farmed land in Java, with rice paddies, vegetable gardens, and fruit orchards climbing the lower slopes in a patchwork of brilliant green.\n\nThe summit is occupied by a horseshoe-shaped crater breached to the southeast — a product of the ancient sector collapse of 'Old Merapi' — within which the active lava dome grows. The dome's size and shape change continuously; during active phases it can grow by 100,000+ cubic meters per day, reaching volumes of 1–5 million cubic meters before partial or complete collapse. The southeastern breach directs most pyroclastic flows down the Gendol River valley.\n\nMerapi's flanks are deeply incised by radial river valleys — locally called 'kali' — that serve as natural channels for pyroclastic flows and lahars. The major drainages include Kali Boyong, Kali Code, Kali Gendol, Kali Woro, and Kali Kuning on the southern side, and Kali Bebeng and Kali Putih on the west. These rivers flow through densely populated lowlands and several pass through the urban area of Yogyakarta itself, making lahar management a year-round challenge.\n\nThe broader landscape around Merapi includes several other volcanoes: Merbabu (3,145 m), a dormant stratovolcano immediately to the north that forms a prominent twin-peaked skyline with Merapi; Ungaran (2,050 m), an older volcano to the north-northwest; and the ancient Batulawang structure partially buried by Merapi's growth. The Borobudur Temple, the world's largest Buddhist monument, lies 40 km to the west, and Prambanan Temple is just 15 km to the south — both UNESCO World Heritage Sites built from volcanic stone in the shadow of Merapi."
+    },
+    "climate_and_global_impact": {
+      "content": "Merapi's eruptions, while frequent and locally devastating, are generally too small in magnitude to produce measurable effects on global climate. Even the VEI 4 events of 1872 and 2010 injected insufficient sulfur dioxide into the stratosphere to cause global cooling. Merapi's eruption columns typically reach 10–17 km in altitude — near the tropopause in the tropics — which limits stratospheric aerosol injection compared with the massive Plinian columns of eruptions like <a href=\"/volcano/pinatubo\">Pinatubo</a> in 1991 (VEI 6, column to 34 km) or <a href=\"/volcano/tambora\">Tambora</a> in 1815 (VEI 7).\n\nHowever, Merapi does contribute significantly to regional atmospheric effects. During active phases, SO2 emissions can reach several thousand tonnes per day, degrading local air quality and contributing to acid rain that affects agriculture on the flanks. Ashfall from major eruptions disrupts aviation across Central Java, with the 2010 eruption causing the closure of Adisucipto International Airport in Yogyakarta for extended periods.\n\nThe volcano's broader impact is primarily socioeconomic rather than climatic. Merapi eruptions have caused estimated cumulative economic losses exceeding USD 1 billion since 2000, including direct destruction, agricultural losses, evacuation costs, and tourism impacts. The fertile volcanic soils that make the flanks so productive for agriculture are, paradoxically, the same deposits that testify to the volcano's destructive power."
+    },
+    "cultural_significance": {
+      "content": "Merapi occupies an extraordinary position in Javanese culture, spirituality, and national identity. In the Javanese cosmological system, the volcano is one of the four cardinal spiritual anchors of the Yogyakarta Sultanate, linked by a mystical north-south axis to the Kraton (sultan's palace) and the Indian Ocean to the south, where the goddess Nyai Roro Kidul is believed to reign. The sultan has traditionally maintained a relationship with the spiritual forces of the volcano through the juru kunci — a hereditary guardian who lives near the summit, performs rituals, and serves as an intermediary between the human world and the volcano's supernatural ruler.\n\nThe most famous juru kunci, Mbah Maridjan, became a national figure when he refused to evacuate during the 2006 eruption, stating that the mountain's spirits had not told him to leave. He survived that eruption but was killed during the 2010 event at his post 4 km from the summit. His death became a national mourning event and a focal point for debate about the tension between traditional beliefs and modern disaster science in Indonesian society.\n\nMerapi's influence on Java's cultural landscape is profound and ancient. The great Hindu-Buddhist kingdoms that built Borobudur and Prambanan in the eighth and ninth centuries did so in Merapi's shadow, using volcanic andesite as building stone. Some scholars have proposed that a major eruption in approximately 1006 CE may have contributed to the eastward shift of Javanese court civilization from Central to East Java, though this theory remains debated.\n\nThe annual Labuhan ceremony, held by the Yogyakarta Sultanate, involves offering food, clothing, and other items to Merapi as appeasement of the spiritual forces. Sand mining on the flanks — extracting the abundant volcanic sand and gravel deposited by eruptions and lahars — is a major local industry, and communities on the slopes have developed a complex cultural relationship with the volcano that balances economic dependence on its fertile soils and mineral deposits against the perpetual risk of destruction.\n\nMerapi also holds a special place in modern Indonesian volcanology. The study of its eruptions, beginning with Dutch colonial scientists in the early twentieth century, established many of the concepts and monitoring techniques now used worldwide. The term 'Merapi-type' pyroclastic flow — describing block-and-ash flows generated by gravitational dome collapse — is a standard term in volcanological literature."
+    },
+    "visiting_and_tourism": {
+      "content": "Merapi is one of the most visited volcanoes in Indonesia, accessible as a day trip from Yogyakarta, one of Java's major tourist destinations. The volcano and its surroundings offer a range of experiences depending on the current activity level and alert status.\n\nWhen conditions permit (alert Level I or II), guided treks to the summit depart from the village of Selo on the northern side, typically beginning at midnight to reach the summit for sunrise. The ascent takes approximately 4–5 hours along a steep trail through forest and scree. From the summit, climbers can view the active lava dome and, on clear days, panoramic views extending to Merbabu, the Dieng Plateau, and the Indian Ocean.\n\nDuring elevated activity (Level III–IV), summit access is prohibited, but the Merapi Museum and Kaliurang area on the southern flank offer volcanic education exhibits, memorials to the 2010 eruption, and jeep tours through the devastated zone where villages were buried by pyroclastic flows. The 'Lava Tour' by off-road vehicle through the lahar-scarred landscape of the Gendol and Boyong river valleys has become one of Yogyakarta's most popular tourist experiences, though it raises concerns among volcanologists about tourists entering active hazard zones.\n\nMount Merapi National Park, established in 2004, protects 6,410 hectares of montane forest on the upper slopes, including habitat for the endangered Javan hawk-eagle and other endemic species. Yogyakarta's international airport provides easy access, and the city offers abundant accommodation. Most visitors combine a Merapi visit with trips to Borobudur and Prambanan temples."
+    },
+    "nearby_volcanoes": {
+      "content": "Merapi sits within one of the most volcanically dense regions on Earth. Its immediate neighbor is Merbabu (3,145 m), a dormant stratovolcano just 7 km to the north whose twin summit creates Merapi's most iconic skyline. To the north-northwest lies the older Ungaran volcano (2,050 m), part of the same volcanic chain.\n\nWithin a 200 km radius on Java, <a href=\"/volcano/kelud\">Kelud</a> (1,730 m) is another highly active and dangerous stratovolcano known for explosive lake-draining eruptions, most recently in 2014 (VEI 4). <a href=\"/volcano/semeru\">Semeru</a> (3,657 m), Java's tallest volcano, produces near-continuous ash eruptions and occasional larger pyroclastic flow events. <a href=\"/volcano/krakatau\">Krakatau</a> (285 m), the remnant caldera of the legendary 1883 eruption, lies in the Sunda Strait between Java and Sumatra. Farther east, Agung (2,997 m) on Bali erupted explosively in 2017–2019.\n\n<a href=\"/volcanoes-in-indonesia\">Indonesia</a> as a whole contains 101 Holocene volcanoes — more than any other country except the <a href=\"/volcanoes-in-united-states\">United States</a> — stretching along the Sunda-Banda volcanic arc from Sumatra through Java, Bali, and eastward through the Lesser Sunda Islands and Maluku. Merapi's eruption frequency exceeds that of any other volcano in this extraordinarily active arc."
+    },
+    "etymology": {
+      "content": "The name 'Merapi' derives from the Javanese words 'meru' (mountain, itself from the Sanskrit 'Meru,' the cosmic mountain in Hindu-Buddhist cosmology) and 'api' (fire), translating directly as 'Fire Mountain' or 'Mountain of Fire.' The name is shared with another active volcano, Merapi on the island of Sumatra (also known as Marapi), which has led to occasional confusion. In local Javanese usage, 'Gunung Merapi' always refers to the Central Java volcano, while the Sumatran volcano is typically called 'Gunung Marapi' to distinguish the two."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Merapi Compared to the World's Most Active Stratovolcanoes",
+      "description": "How does Merapi's eruption frequency and hazard profile compare to other highly active composite volcanoes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Eruption Count",
+        "VEI Max",
+        "Last Eruption",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Merapi",
+          "Indonesia",
+          "2,910 m",
+          "Stratovolcano",
+          "106",
+          "4",
+          "2020–present",
+          "~1.3 million"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "190+",
+          "3",
+          "2025",
+          "~1 million"
+        ],
+        [
+          "Semeru",
+          "Indonesia",
+          "3,657 m",
+          "Stratovolcano",
+          "70+",
+          "4",
+          "2025",
+          "~500,000"
+        ],
+        [
+          "Fuego",
+          "Guatemala",
+          "3,799 m",
+          "Stratovolcano",
+          "60+",
+          "4",
+          "2025",
+          "~300,000"
+        ],
+        [
+          "Popocatepetl",
+          "Mexico",
+          "5,393 m",
+          "Stratovolcano",
+          "40+",
+          "5",
+          "2025",
+          "~25 million"
+        ]
+      ]
+    },
+    {
+      "title": "Merapi vs Indonesia's Deadliest Volcanoes",
+      "description": "Indonesia's volcanic arc contains many of the world's most dangerous volcanoes. Here's how Merapi compares.",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Eruption Count",
+        "VEI Max",
+        "Last Eruption",
+        "Major Fatality Event"
+      ],
+      "rows": [
+        [
+          "Merapi",
+          "2,910 m",
+          "Stratovolcano",
+          "106",
+          "4",
+          "2020–present",
+          "1,300 killed (1930)"
+        ],
+        [
+          "Krakatau",
+          "285 m",
+          "Caldera",
+          "40+",
+          "6",
+          "2023",
+          "36,000+ killed (1883)"
+        ],
+        [
+          "Tambora",
+          "2,850 m",
+          "Stratovolcano",
+          "7",
+          "7",
+          "1967",
+          "92,000 killed (1815)"
+        ],
+        [
+          "Kelud",
+          "1,730 m",
+          "Stratovolcano",
+          "35+",
+          "5",
+          "2014",
+          "5,000+ killed (1586)"
+        ],
+        [
+          "Agung",
+          "2,997 m",
+          "Stratovolcano",
+          "6",
+          "5",
+          "2022",
+          "1,148 killed (1963)"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8780,
+      "vei": null,
+      "label": "Oldest known eruption — Old Merapi edifice",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1180,
+      "vei": 4,
+      "label": "Major prehistoric eruption — VEI 4",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 20,
+      "vei": 4,
+      "label": "Large eruption in early Common Era",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1548,
+      "vei": 3,
+      "label": "First reliably documented historical eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1672,
+      "vei": 3,
+      "label": "Major eruption — approximately 3,000 killed",
+      "deaths": "3000",
+      "notable": true
+    },
+    {
+      "year": 1822,
+      "vei": 3,
+      "label": "Significant eruption during Dutch colonial period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1872,
+      "vei": 4,
+      "label": "Largest recorded eruption — massive dome collapse and pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1930,
+      "vei": 3,
+      "label": "Deadliest modern eruption — approximately 1,300 killed",
+      "deaths": "1300",
+      "notable": true
+    },
+    {
+      "year": 1961,
+      "vei": 3,
+      "label": "Major dome-collapse eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2010,
+      "vei": 4,
+      "label": "Paroxysmal eruption — 367 killed, 350,000 evacuated",
+      "deaths": "367",
+      "notable": true
+    },
+    {
+      "year": 2013,
+      "vei": 3,
+      "label": "Explosive eruption from summit crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2018,
+      "vei": 3,
+      "label": "Significant dome growth and pyroclastic flows",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2020,
+      "vei": 1,
+      "label": "Current eruption phase begins — ongoing dome growth",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 11,
+      "note": "Geological deposits from ~8780 BCE to 700 BCE"
+    },
+    {
+      "century": "1st",
+      "count": 1
+    },
+    {
+      "century": "2nd",
+      "count": 2
+    },
+    {
+      "century": "3rd",
+      "count": 1
+    },
+    {
+      "century": "5th",
+      "count": 2
+    },
+    {
+      "century": "6th",
+      "count": 1
+    },
+    {
+      "century": "7th",
+      "count": 2
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 2
+    },
+    {
+      "century": "12th",
+      "count": 2
+    },
+    {
+      "century": "13th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 2
+    },
+    {
+      "century": "15th",
+      "count": 2
+    },
+    {
+      "century": "16th",
+      "count": 5,
+      "note": "First reliable historical records begin"
+    },
+    {
+      "century": "17th",
+      "count": 5
+    },
+    {
+      "century": "18th",
+      "count": 7
+    },
+    {
+      "century": "19th",
+      "count": 27,
+      "note": "Peak activity period with improved colonial-era observation"
+    },
+    {
+      "century": "20th",
+      "count": 23
+    },
+    {
+      "century": "21st",
+      "count": 8,
+      "note": "Includes ongoing 2020–present eruption"
+    }
+  ],
+  "facts": [
+    "Merapi has 106 confirmed eruptions in the Smithsonian database — more than almost any other volcano on Earth, with an average of one significant eruption every 4–5 years since 1548.",
+    "The term 'Merapi-type pyroclastic flow' is an internationally recognized volcanological term describing block-and-ash flows generated by gravitational dome collapse.",
+    "The 2010 eruption killed 367 people, including Mbah Maridjan, the cultural guardian (juru kunci) of Merapi, whose death became a national mourning event in Indonesia.",
+    "Approximately 1.3 million people live within Merapi's officially designated hazard zones, with the city of Yogyakarta (3.7 million metro) just 28 km to the south.",
+    "Merapi's lava dome can grow by over 100,000 cubic meters per day during active phases — roughly equivalent to filling an Olympic swimming pool every 30 seconds.",
+    "The 1930 eruption killed approximately 1,300 people and led to the establishment of Indonesia's first permanent volcano monitoring network.",
+    "The Borobudur Temple, the world's largest Buddhist monument, and Prambanan Temple, a UNESCO World Heritage Site, both sit within the potential ashfall zone of a major Merapi eruption.",
+    "Sand mining of Merapi's volcanic deposits is a major local industry, with trucks carrying volcanic sand and gravel operating on the flanks year-round.",
+    "During the 2010 eruption, pyroclastic flows traveled over 15 km from the summit — far exceeding the 5–8 km distance assumed by the then-current hazard maps.",
+    "The Yogyakarta Sultanate holds an annual Labuhan ceremony offering gifts to the volcano's spiritual forces, a tradition maintained for centuries.",
+    "Merapi's name translates literally as 'Fire Mountain' from the Javanese words 'meru' (mountain) and 'api' (fire).",
+    "The volcano shares its name with Marapi on Sumatra — an entirely different volcano — leading to occasional confusion in international media reports."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Merapi still active?",
+      "answer": "Yes, Mount Merapi is not only still active but is currently in an ongoing eruptive phase that began in December 2020. As of 2025, the summit lava dome continues to grow and periodically collapse, generating pyroclastic flows and triggering lahars during the rainy season. BPPTKG, Indonesia's geological hazard agency, maintains the alert at elevated levels and operates one of the densest volcano monitoring networks in the world around Merapi. The volcano has produced 106 confirmed eruptions in recorded history, with significant events occurring on average every 4–5 years since the sixteenth century. It is classified as the most active volcano in Indonesia, a country with 101 Holocene volcanoes."
+    },
+    {
+      "question": "When did Merapi last erupt?",
+      "answer": "Merapi's current eruption began on 31 December 2020 and is ongoing as of 2025, making it one of the volcano's sustained eruptive episodes. The most recent major eruption prior to this was the catastrophic VEI 4 event of October–November 2010, which killed 367 people, displaced 350,000, and caused approximately USD 600 million in damage. The 2010 eruption was the largest at Merapi in over a century and significantly exceeded the reach predicted by existing hazard maps. Between the 2010 and current eruptions, notable activity also occurred in 2013 (VEI 3) and 2018 (VEI 3), consistent with Merapi's pattern of erupting every few years."
+    },
+    {
+      "question": "How many people has Merapi killed?",
+      "answer": "Mount Merapi has killed more than 2,600 people in documented eruptions since the sixteenth century. The deadliest events include the 1672 eruption (approximately 3,000 killed according to historical accounts, though this figure is uncertain), the 1930–1931 eruption (approximately 1,300 killed by pyroclastic flows), and the 2010 eruption (367 killed). Additional hundreds of casualties are recorded across dozens of smaller eruptions over the past five centuries. The high death tolls reflect Merapi's combination of frequent dome-collapse pyroclastic flows and the extremely dense population on its lower flanks, where approximately 1.3 million people live within designated hazard zones."
+    },
+    {
+      "question": "What type of volcano is Merapi?",
+      "answer": "Merapi is an active stratovolcano (also called a composite volcano), built from alternating layers of lava flows and pyroclastic deposits. Its eruption style is dominated by the extrusion and collapse of viscous andesitic lava domes at the summit. When the dome becomes gravitationally unstable or is disrupted by explosive activity, it collapses to produce fast-moving pyroclastic density currents known as 'Merapi-type' block-and-ash flows — a term used in volcanological literature worldwide. The andesitic magma (52–58 percent silica) is intermediate in composition, making it viscous enough to build domes but gas-rich enough to drive explosive collapses. Merapi's eruption style is characteristic of subduction-zone stratovolcanoes along the Sunda volcanic arc."
+    },
+    {
+      "question": "How tall is Mount Merapi?",
+      "answer": "Mount Merapi stands at approximately 2,910 m (9,551 ft) above sea level, though the summit elevation fluctuates by tens of meters over time as the active lava dome grows and collapses. The 2010 eruption, for example, reduced the summit height by roughly 38 m when the dome was explosively destroyed. Merapi rises approximately 2,400 m above the Yogyakarta plain to the south. It is not the tallest volcano in Java — that distinction belongs to Semeru at 3,657 m — but its proximity to a major metropolitan area and extreme eruption frequency make it far more dangerous than taller but less active peaks."
+    },
+    {
+      "question": "Can you visit Mount Merapi?",
+      "answer": "Yes, though access depends on the volcano's current alert level. When activity is low (Level I or II), guided overnight treks from the village of Selo on the northern flank reach the summit in 4–5 hours, typically departing at midnight for a sunrise arrival. During elevated activity (Level III–IV, which has been the case for much of the 2020–present eruption), summit access is prohibited. Alternative experiences include the popular 'Lava Tour' by off-road vehicle through pyroclastic flow devastation zones, the Merapi Museum near Kaliurang, and memorial sites from the 2010 eruption. Yogyakarta, just 28 km south, is the base for all Merapi visits and also offers access to the Borobudur and Prambanan World Heritage Sites."
+    },
+    {
+      "question": "What happened in the 2010 Merapi eruption?",
+      "answer": "The 2010 eruption began on 26 October and escalated to a VEI 4 paroxysm on 5 November — Merapi's largest eruption in over a century. Pyroclastic flows raced over 15 km down the Gendol River valley, far exceeding the predicted hazard zones. The eruption killed 367 people, including Mbah Maridjan, the cultural guardian of the volcano who refused to evacuate. Some 350,000 people were evacuated in one of Indonesia's largest-ever volcanic evacuations. The eruption column reached 17 km altitude, ashfall blanketed Central Java, and economic losses totaled approximately USD 600 million. The event was scientifically significant because Merapi shifted from its typical dome-collapse behavior to explosive column-generating eruptions."
+    },
+    {
+      "question": "Why is Merapi so dangerous?",
+      "answer": "Merapi is considered one of Earth's most dangerous volcanoes due to the convergence of three factors: extreme eruption frequency (106 eruptions recorded, roughly one every 4–5 years), a lethal eruption style that produces fast-moving pyroclastic flows reaching 60–100+ km/h, and an enormous exposed population of approximately 1.3 million within the hazard zones plus 3.7 million in greater Yogyakarta. The volcano's dome-collapse pyroclastic flows can reach communities 5–15 km away within minutes, and secondary lahars threaten downstream areas for months after eruptions. The steep flanks channel flows directly toward densely populated lowlands, and evacuation logistics are complicated by poor road infrastructure and the cultural attachment of communities to their volcanic-soil farmland."
+    },
+    {
+      "question": "What is a juru kunci?",
+      "answer": "A juru kunci (literally 'key keeper') is a hereditary spiritual guardian appointed by the Yogyakarta Sultanate to serve as an intermediary between the human world and the supernatural forces believed to inhabit Mount Merapi. The juru kunci lives near the summit, performs regular rituals and offerings, and is traditionally consulted before major decisions regarding the volcano. The most famous juru kunci was Mbah Maridjan, who held the position for decades and became nationally known when he refused to evacuate during the 2006 eruption. He was killed during the 2010 eruption at his post. The tradition reflects the deep integration of Javanese spiritual beliefs with the physical reality of living on an active volcano."
+    },
+    {
+      "question": "How does Merapi compare to other Indonesian volcanoes?",
+      "answer": "Merapi is the most frequently erupting volcano in Indonesia, with 106 recorded eruptions — significantly more than Semeru (70+), Krakatau (40+), or Kelud (35+). However, Merapi's individual eruptions are typically smaller in magnitude (mostly VEI 1–3, occasionally VEI 4) compared with the catastrophic VEI 6–7 events produced by Krakatau (1883) and Tambora (1815). What makes Merapi exceptionally dangerous is the combination of relentless frequency, proximity to millions of people, and the speed of its pyroclastic flows. In terms of cumulative fatalities since the sixteenth century (2,600+), Merapi ranks among Indonesia's deadliest, though single events at Krakatau (36,000+) and Tambora (92,000) far exceed any individual Merapi eruption."
+    }
+  ],
+  "people_also_search": [
+    "merapi eruption 2010",
+    "merapi eruption today",
+    "most active volcano indonesia",
+    "mount merapi yogyakarta",
+    "merapi lava tour",
+    "merapi vs krakatoa",
+    "merapi pyroclastic flow",
+    "mbah maridjan merapi guardian"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Merapi",
+    "alternateName": [
+      "Gunung Merapi",
+      "Merapi"
+    ],
+    "description": "Active stratovolcano in Central Java, Indonesia, the most active in Indonesia with 106 recorded eruptions and a population of 1.3 million in its hazard zones",
+    "geo": {
+      "latitude": -7.54,
+      "longitude": 110.446,
+      "elevation": 2910
+    },
+    "containedInPlace": {
+      "name": "Central Java",
+      "country": "Indonesia"
+    },
+    "url": "https://volcanoatlas.com/volcano/merapi"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=263250",
+      "text": "Smithsonian GVP: Merapi",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Merapi",
+      "text": "Britannica: Mount Merapi",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/592",
+      "text": "UNESCO: Borobudur Temple Compounds",
+      "type": "heritage"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/642",
+      "text": "UNESCO: Prambanan Temple Compounds",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "krakatau",
+      "tambora",
+      "semeru",
+      "kelud",
+      "agung",
+      "sinabung",
+      "pinatubo",
+      "fuego",
+      "popocatepetl",
+      "nyiragongo"
+    ],
+    "country_pages": [
+      "indonesia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "semeru",
+    "kelud",
+    "krakatau",
+    "tambora",
+    "agung"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "label": "Mount Merapi",
+      "url": "/volcano/merapi"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/merapi"
+}

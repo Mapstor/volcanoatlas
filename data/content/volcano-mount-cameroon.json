@@ -1,0 +1,383 @@
+{
+  "slug": "mount-cameroon",
+  "volcano_id": 224010,
+  "title": "Mount Cameroon",
+  "meta_title": "Mount Cameroon — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Mount Cameroon is a 4,095 m active stratovolcano in Cameroon, West Africa's highest peak. Explore its 19 eruptions, lava flows reaching the Atlantic, and annual race.",
+  "quick_answer": {
+    "what": "Mount Cameroon (also called Fako) is an active stratovolcano rising to 4,095 m (13,435 ft) on the coast of southwestern Cameroon, making it the highest peak in West Africa and the largest volcano in sub-Saharan Africa.",
+    "status": "Active — last erupted in 2000. Eruptions have been recorded since the 5th century BCE. One of the most frequently active volcanoes on the African continent.",
+    "famous_for": "Being the highest peak in West Africa, producing lava flows that reach the Atlantic Ocean, the annual Mount Cameroon Race of Hope, and a recorded eruption history stretching back to the Carthaginian navigator Hanno in ~450 BCE.",
+    "danger_level": "Moderate to high — the city of Buea (population ~90,000) sits on its southeastern flank, and the broader Fako Division has over 500,000 residents in potential hazard zones."
+  },
+  "hero": {
+    "name": "Mount Cameroon",
+    "local_name": "Fako / Mongo ma Ndemi",
+    "subtitle": "West Africa's Highest Peak and Most Active Volcano",
+    "country": "Cameroon",
+    "region": "Southwest Region",
+    "type": "Stratovolcano",
+    "elevation_m": 4095,
+    "elevation_ft": 13435,
+    "status": "Active",
+    "last_eruption": "2000",
+    "coordinates": {
+      "lat": 4.203,
+      "lon": 9.17
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-08685.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "4,095 m (13,435 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "May 28, 2000",
+    "first_known_eruption": "~450 BCE (observed by Carthaginian navigator Hanno)",
+    "total_recorded_eruptions": 19,
+    "vei_max": "3 (~450 BCE, 1650, 1807)",
+    "country": "Cameroon",
+    "region": "Southwest Region, Fako Division",
+    "tectonic_setting": "Intraplate / Continental crust (> 25 km) — Cameroon Volcanic Line",
+    "rock_types": [
+      "Trachybasalt",
+      "Tephrite",
+      "Basanite"
+    ],
+    "coordinates": "4.203°N, 9.170°E",
+    "nearest_city": "Buea — on southeastern flank (~90,000 population)",
+    "population_at_risk": "~500,000+ in Fako Division",
+    "summit_crater": "Multiple summit craters; edifice volume ~1,400 km³",
+    "protected_status": "Mount Cameroon National Park (est. 2009)",
+    "monitoring_agency": "Institute for Geological and Mining Research (IRGM), Cameroon",
+    "smithsonian_id": "224010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=224010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Cameroon (locally called Fako or Mongo ma Ndemi) is a massive active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 4,095 m (13,435 ft) on the coast of southwestern <a href=\"/volcanoes-in-cameroon\">Cameroon</a>, overlooking the Bight of Biafra in the Gulf of Guinea. It is the highest peak in West Africa, the largest volcano in sub-Saharan Africa by volume (approximately 1,400 km³), and one of the most frequently active volcanoes on the African continent, with 19 recorded eruptions spanning over 2,400 years. The volcano's eruption history stretches back to approximately 450 BCE, when the Carthaginian navigator Hanno reportedly observed a 'Chariot of the Gods' — a fiery volcanic display — during his voyage along the West African coast, making it one of the earliest documented volcanic observations in human history. Mount Cameroon sits along the Cameroon Volcanic Line (CVL), a 1,600-km-long chain of volcanoes and plutonic complexes stretching from the Atlantic Ocean islands of Annobon and São Tomé northeastward across Cameroon into Nigeria and Chad. Unlike most volcanic chains, the CVL is not associated with a plate boundary or a conventional hotspot track — its origin remains debated. The volcano's flanks support an extraordinary range of ecosystems, from coastal mangrove and tropical rainforest at its base to montane grassland and near-barren lava fields at its summit. The city of Buea (population ~90,000), the former colonial capital of German Kamerun, sits on the southeastern flank at approximately 1,000 m elevation."
+    },
+    "geology_and_formation": {
+      "content": "Mount Cameroon is constructed along the Cameroon Volcanic Line (CVL), an anomalous intraplate volcanic chain that extends approximately 1,600 km from oceanic islands in the Gulf of Guinea (Pagalu, São Tomé, Príncipe, Bioko) through the continental interior. The CVL does not show the age-progressive pattern expected of a hotspot track, and its origin has been attributed to edge-driven mantle convection, lithospheric fracturing, or localized mantle upwelling. The volcano is a dominantly basaltic-to-trachybasaltic edifice built upon a foundation of Precambrian metamorphic basement rocks overlain by Cretaceous to Quaternary sediments. The structure forms a volcanic horst — an uplifted block bounded by faults — elongated along a roughly SW–NE axis. More than 100 small cinder cones, many aligned along fissures parallel to the edifice's long axis, dot the flanks and surrounding lowlands. A large satellitic peak, Etinde (also known as Little Cameroon), rises on the southern flank near the coast. The rock types are alkaline, ranging from basalt through trachybasalt to nephelinite, reflecting derivation from a deep, enriched mantle source."
+    },
+    "eruption_history_overview": {
+      "content": "Mount Cameroon has produced 19 recorded eruptions from approximately 450 BCE to 2000 CE, with a marked increase in recorded activity frequency since 1800 — reflecting improved historical documentation rather than necessarily increased volcanic output. Most eruptions have been VEI 2 (moderate explosive and effusive activity), with the three largest events (450 BCE, 1650, 1807) reaching VEI 3. Eruptions typically involve Strombolian explosions from summit or flank vents, accompanied by basaltic lava flows that descend the steep flanks, sometimes reaching the Atlantic Ocean. The 1922 eruption from the SW flank sent lava to the coast, and the 1999 eruption from the S flank produced a flow that stopped only 200 m from the sea. Activity has occurred from both summit craters and numerous flank vents at elevations ranging from 1,300 m to over 4,000 m, making the exact location of the next eruption difficult to predict."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~450 BCE Observation by Hanno the Navigator",
+          "content": "The earliest recorded volcanic activity at Mount Cameroon dates to approximately 450 BCE, when the Carthaginian explorer Hanno sailed along the West African coast and reportedly observed a dramatic volcanic display that he described as the 'Chariot of the Gods' — a mountain ablaze with fire and streams of lava flowing to the sea. While the exact identification of Hanno's 'Chariot' is debated among historians, Mount Cameroon is the most widely accepted candidate. If correct, this makes it one of the earliest documented volcanic eruptions in human history and the earliest known observation of African volcanism. The eruption was rated VEI 3 by the Smithsonian GVP."
+        },
+        {
+          "title": "The 1922 Eruption — Lava Reaches the Atlantic",
+          "content": "The February 1922 eruption was one of the most significant 20th-century events at Mount Cameroon. Fissure vents opened at approximately 3,300 m on the western flank (Mateer vent) and at 1,300 m on the southwestern flank (Waldau vent), producing lava flows that descended rapidly toward the coast. The lower flow from the Waldau vent reached the Atlantic Ocean, creating new land where it entered the sea. The VEI 2 eruption lasted several weeks and demonstrated the volcano's capacity to produce fast-moving lava flows that threaten coastal communities and infrastructure."
+        },
+        {
+          "title": "The 1999 Eruption — Lava Stops 200 m from the Sea",
+          "content": "On March 28, 1999, Mount Cameroon erupted from vents on the south flank at approximately 2,650 m and 1,500 m elevation. Lava flows from the lower vent descended toward the coast, ultimately stopping just 200 m from the ocean after traveling approximately 10 km. The eruption caused the evacuation of several villages and damaged farmland, though no fatalities were reported. Scientific monitoring detected precursory seismicity in the days before the eruption, providing some advance warning. The event underscored the ongoing threat to the dense agricultural communities on the volcano's lower flanks."
+        },
+        {
+          "title": "The 2000 Eruption — Most Recent Activity",
+          "content": "The most recent eruption began on May 28, 2000, with explosive activity from two vents on the upper SW flank at elevations between 3,200 and 4,000 m. This VEI 2 event produced Strombolian explosions and lava flows but, due to the high elevation of the vents, the flows did not reach populated areas. The eruption lasted several weeks and was monitored by the Institute for Geological and Mining Research (IRGM). Since 2000, Mount Cameroon has remained quiet, but given its history of erupting every few decades, another eruption within the coming years is considered likely."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mount Cameroon has been quiet since the 2000 eruption, but with eruptions recorded in 1982, 1989, 1999, and 2000, the volcano has demonstrated a pattern of activity every 1–20 years in recent decades. The Institute for Geological and Mining Research (IRGM) in Cameroon, in collaboration with international partners, operates a monitoring network that includes seismometers and periodic gas and ground deformation surveys, though the network is less comprehensive than those at similarly hazardous volcanoes in wealthier nations. Fumarolic activity continues at the summit and at various flank locations. The Cameroonian government and international volcanological organizations have identified the need for improved monitoring infrastructure and community preparedness programs, particularly given the rapid population growth in the Fako Division."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The primary volcanic hazards from Mount Cameroon include fast-moving basaltic lava flows (which have reached the Atlantic coast in multiple eruptions), Strombolian tephra fall, volcanic gas emissions, and secondary hazards such as lahars generated by heavy tropical rainfall mobilizing fresh volcanic deposits. Lava flows represent the greatest direct threat — the volcano's steep flanks and low-viscosity basaltic magma can produce flows that travel 10+ km in hours, threatening villages and agricultural land on the lower slopes. The city of Buea, with approximately 90,000 residents, is situated directly on the southeastern flank, and the broader Fako Division supports over 500,000 people, many in subsistence farming communities with limited evacuation infrastructure. The Cameroon Development Corporation's extensive banana and rubber plantations on the lower flanks represent significant economic assets at risk. Unlike many stratovolcanoes, Mount Cameroon's basaltic composition means that highly explosive Plinian eruptions are unlikely, but the frequency of activity and proximity to dense populations maintain a significant hazard level."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount Cameroon is an enormous volcanic edifice with an estimated volume of 1,400 km³, elongated along a roughly SW–NE axis for approximately 50 km. The summit at 4,095 m (13,435 ft) is frequently obscured by clouds, and the upper slopes above ~3,000 m consist of barren lava fields, cinder cones, and sparse alpine vegetation. Below the treeline (~2,800 m), the flanks support montane forest that transitions through submontane rainforest to tropical lowland forest and coastal mangrove near sea level — an extraordinary elevational range of ecosystems within a single mountain. More than 100 parasitic cinder cones dot the flanks and surrounding lowlands. The satellitic peak of Etinde (1,713 m) on the southern flank near the coast is a distinct volcanic center with unique nephelinitic rock compositions. The mountain's coastal position means it intercepts moisture-laden winds from the Gulf of Guinea, producing some of the highest rainfall in Africa — Debundscha, at the mountain's base, receives approximately 10,000 mm (394 in) of rain annually."
+    },
+    "cultural_significance": {
+      "content": "Mount Cameroon is central to the cultural identity of the Bakweri people, who have lived on its slopes for centuries and consider the mountain the abode of their ancestral spirits. The Bakweri refer to the mountain as 'Mongo ma Ndemi' (Mountain of Greatness). Volcanic eruptions are traditionally interpreted through spiritual frameworks, and rituals are performed to appease the mountain's spirits. The annual Mount Cameroon Race of Hope, first held in 1973, is an internationally recognized mountain race that attracts hundreds of runners who ascend from Buea at ~1,000 m to the summit at 4,095 m and back — a grueling course of approximately 42 km with over 3,000 m of elevation gain. The race has become a major cultural and sporting event for Cameroon and is broadcast nationally. During the colonial era, German administrators established Buea as the capital of Kamerun in 1901, partly because the mountain's elevation provided a cooler climate than the coastal lowlands."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Cameroon offers one of the most accessible high-altitude trekking experiences in West Africa. The standard ascent from Buea to the summit takes two to three days, with established hut camps along the route. Trekkers pass through tropical forest, montane grassland, and volcanic desert before reaching the summit area, where views can extend across the Gulf of Guinea to Bioko Island (Equatorial Guinea). A guide and porter are required (organized through the Mount Cameroon Ecotourism Organization in Buea), and the best trekking season is the dry period from November to February. The mountain's extraordinary biodiversity — including endemic plant species found nowhere else — adds natural history interest to the climb. Mount Cameroon National Park, established in 2009, protects the upper slopes and supports community-based ecotourism initiatives."
+    },
+    "nearby_volcanoes": {
+      "content": "Mount Cameroon is the largest and most active volcano along the Cameroon Volcanic Line (CVL), which includes several other notable volcanic centers. Bioko Island (Equatorial Guinea), visible from Mount Cameroon's summit on clear days, hosts three volcanic centers including the 3,012 m Pico Basilé. Further along the CVL, the islands of São Tomé and Príncipe, and the Manengouba and Bambouto caldera complexes in Cameroon's western highlands, represent other volcanic centers. Lake Nyos and Lake Monoun, two crater lakes in northwestern Cameroon, gained tragic global notoriety when limnic eruptions (catastrophic CO₂ release) killed approximately 1,800 people at Lake Nyos in 1986 and 37 at Lake Monoun in 1984."
+    },
+    "etymology": {
+      "content": "The volcano shares its name with the country of Cameroon — both derive from 'Rio dos Camarões' (River of Prawns), the name given by Portuguese explorers in the 15th century to the Wouri River estuary near present-day Douala. The local Bakweri name 'Mongo ma Ndemi' means 'Mountain of Greatness.' The summit is also called 'Fako' in local languages."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount Cameroon Compared to Africa's Other Major Volcanoes",
+      "description": "How does Mount Cameroon compare with the continent's other notable volcanic peaks?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Mount Cameroon",
+          "Cameroon",
+          "4,095 m",
+          "Stratovolcano",
+          "2000",
+          "3",
+          "19"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2021",
+          "1",
+          "19"
+        ],
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "2,962 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "19"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "613 m",
+          "Shield",
+          "2025",
+          "1",
+          "18"
+        ],
+        [
+          "Karthala",
+          "Comoros",
+          "2,361 m",
+          "Shield",
+          "2007",
+          "2",
+          "36"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -450,
+      "vei": 3,
+      "label": "Observed by Hanno the Navigator — 'Chariot of the Gods'",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1807,
+      "vei": 3,
+      "label": "Major eruption from south flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1922,
+      "vei": 2,
+      "label": "SW flank eruption — lava reaches the Atlantic Ocean",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1959,
+      "vei": 2,
+      "label": "NE flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1982,
+      "vei": 2,
+      "label": "SW flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1999,
+      "vei": 2,
+      "label": "South flank eruption — lava stops 200 m from sea",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2000,
+      "vei": 2,
+      "label": "Most recent eruption — upper SW flank",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "5th BCE",
+      "count": 1
+    },
+    {
+      "century": "17th CE",
+      "count": 1
+    },
+    {
+      "century": "19th CE",
+      "count": 7
+    },
+    {
+      "century": "20th CE",
+      "count": 9
+    },
+    {
+      "century": "21st CE",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Mount Cameroon's first recorded eruption was observed by the Carthaginian navigator Hanno around 450 BCE, making it one of the earliest documented volcanic observations in human history.",
+    "At 4,095 m (13,435 ft), Mount Cameroon is the highest peak in West Africa and the largest volcano by volume (1,400 km³) in sub-Saharan Africa.",
+    "The volcano has produced lava flows that reached the Atlantic Ocean multiple times, including in 1922, with the 1999 flow stopping just 200 m from the coast.",
+    "More than 100 parasitic cinder cones dot the flanks and surrounding lowlands of Mount Cameroon, many aligned along fissures parallel to the edifice's long axis.",
+    "Debundscha, at the base of Mount Cameroon, receives approximately 10,000 mm (394 inches) of rain annually — making it one of the wettest places in Africa.",
+    "The annual Mount Cameroon Race of Hope sends runners from Buea at ~1,000 m to the 4,095 m summit and back — a 42 km course with over 3,000 m of elevation gain.",
+    "Mount Cameroon gave its name to the entire country — both derive from the Portuguese 'Rio dos Camarões' (River of Prawns).",
+    "The volcano sits along the Cameroon Volcanic Line, a 1,600-km chain whose origin is still debated — it is not associated with any plate boundary or conventional hotspot.",
+    "Mount Cameroon has erupted 9 times in the 20th century alone, making it one of the most frequently active volcanoes in Africa.",
+    "The satellite peak Etinde (Little Cameroon) on the southern flank produces rare nephelinitic rocks found at very few volcanic centers worldwide.",
+    "The 1986 Lake Nyos disaster, which killed ~1,800 people via limnic CO₂ eruption, occurred in a crater lake along the same Cameroon Volcanic Line.",
+    "German colonial administrators chose Buea as the capital of Kamerun in 1901 partly because the volcano's elevation offered cooler temperatures than the humid coast."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Cameroon still active?",
+      "answer": "Yes, Mount Cameroon is one of the most active volcanoes in Africa. It has erupted 19 times since approximately 450 BCE, with the most recent eruption occurring in May 2000. In the 20th century alone, the volcano erupted nine times (1909, 1922, 1925, 1954, 1959, 1982, 1989, 1999, 2000). The volcano's basaltic-to-trachybasaltic composition produces primarily effusive eruptions with lava flows, accompanied by Strombolian explosive activity. Given its history of erupting every few decades, volcanologists consider another eruption within the coming years to be likely."
+    },
+    {
+      "question": "How tall is Mount Cameroon?",
+      "answer": "Mount Cameroon stands 4,095 m (13,435 ft) above sea level, making it the highest peak in West Africa and the tallest volcano in sub-Saharan Africa. Because the volcano rises almost directly from sea level on the Gulf of Guinea coast, its visual prominence is extraordinary — the full 4,095 m of relief is visible from the shoreline on clear days. The edifice has an estimated volume of 1,400 km³, making it one of the largest volcanic structures on the African continent."
+    },
+    {
+      "question": "Can you climb Mount Cameroon?",
+      "answer": "Yes, Mount Cameroon is a popular trekking destination and one of the most accessible high-altitude climbs in West Africa. The standard ascent from Buea takes two to three days, passing through tropical forest, montane grassland, and volcanic desert. Guides and porters are required (organized through the Mount Cameroon Ecotourism Organization). Established hut camps provide overnight shelter. The best season is November to February (dry season). The annual Mount Cameroon Race of Hope attracts competitive runners who complete the summit round-trip in under five hours."
+    },
+    {
+      "question": "When did Mount Cameroon last erupt?",
+      "answer": "Mount Cameroon's most recent eruption began on May 28, 2000, from two vents on the upper southeastern flank at elevations between 3,200 and 4,000 m. The VEI 2 event produced Strombolian explosions and lava flows that, due to their high-elevation origin, did not reach populated areas. The previous eruption in March 1999 was more threatening, producing lava flows from lower-elevation vents that stopped just 200 m from the Atlantic coast. With eruptions in 1982, 1989, 1999, and 2000, the volcano demonstrates a pattern of frequent activity."
+    },
+    {
+      "question": "What type of volcano is Mount Cameroon?",
+      "answer": "Mount Cameroon is a stratovolcano — a large, steep-sided composite volcano built from alternating layers of lava flows, tephra, and volcanic debris. Its magma is dominantly basaltic to trachybasaltic, which is somewhat unusual for a stratovolcano (most produce more silicic magmas). This basaltic composition means eruptions are primarily effusive, producing fluid lava flows and moderate Strombolian explosions rather than the highly explosive Plinian eruptions typical of stratovolcanoes with more silicic magma. Over 100 smaller cinder cones on the flanks attest to the frequent, fissure-fed nature of its activity."
+    },
+    {
+      "question": "What is the Cameroon Volcanic Line?",
+      "answer": "The Cameroon Volcanic Line (CVL) is a 1,600-km-long chain of volcanic centers extending from the Atlantic Ocean islands of Annobon and São Tomé northeastward through Mount Cameroon across the Cameroonian highlands into Nigeria and Chad. Unlike most volcanic chains, the CVL does not follow a plate boundary and does not show the age-progressive pattern of a hotspot track — volcanoes along its length have erupted concurrently rather than sequentially. Its origin remains debated, with hypotheses including edge-driven mantle convection and lithospheric fracture zones. Mount Cameroon is the largest and most active volcano along the line."
+    },
+    {
+      "question": "Is Mount Cameroon dangerous?",
+      "answer": "Mount Cameroon poses a significant hazard to the approximately 500,000 people living in its Fako Division. The primary danger is fast-moving basaltic lava flows, which have reached the Atlantic coast in multiple eruptions. The city of Buea (~90,000 residents) sits directly on the southeastern flank at about 1,000 m elevation. While the volcano's basaltic composition makes catastrophically explosive eruptions unlikely, the frequency of activity, the unpredictability of flank vent locations, and limited monitoring infrastructure and evacuation routes maintain a meaningful risk level."
+    },
+    {
+      "question": "What is the Mount Cameroon Race of Hope?",
+      "answer": "The Mount Cameroon Race of Hope is an annual mountain race first held in 1973, in which participants run from Buea (approximately 1,000 m elevation) to the summit at 4,095 m and back — a course of about 42 km with over 3,000 m of elevation gain. Elite runners complete the round trip in under five hours. The race attracts hundreds of national and international competitors and is a major cultural and sporting event in Cameroon, broadcast on national television. It is considered one of the most grueling mountain races in Africa."
+    }
+  ],
+  "people_also_search": [
+    "mount cameroon eruption",
+    "mount cameroon height",
+    "mount cameroon race",
+    "mount cameroon hike",
+    "cameroon volcanic line",
+    "is mount cameroon active",
+    "tallest volcano in africa",
+    "mount cameroon national park"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Cameroon",
+    "alternateName": [
+      "Fako",
+      "Mongo ma Ndemi"
+    ],
+    "description": "Active stratovolcano in southwestern Cameroon, the highest peak in West Africa at 4,095 m",
+    "geo": {
+      "latitude": 4.203,
+      "longitude": 9.17,
+      "elevation": 4095
+    },
+    "containedInPlace": {
+      "name": "Southwest Region",
+      "country": "Cameroon"
+    },
+    "url": "https://volcanoatlas.com/volcano/cameroon"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=224010",
+      "text": "Smithsonian GVP: Mount Cameroon",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Cameroon",
+      "text": "Britannica: Mount Cameroon",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://whc.unesco.org/en/tentativelists/5765/",
+      "text": "UNESCO Tentative List: Mount Cameroon",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "nyiragongo",
+      "ol-doinyo-lengai",
+      "erta-ale"
+    ],
+    "country_pages": [
+      "cameroon"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "nyiragongo",
+    "ol-doinyo-lengai",
+    "erta-ale",
+    "karthala"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Cameroon",
+      "url": "/volcanoes-in-cameroon"
+    },
+    {
+      "label": "Mount Cameroon",
+      "url": "/volcano/cameroon"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/mount-cameroon"
+}

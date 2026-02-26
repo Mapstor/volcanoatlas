@@ -1,0 +1,901 @@
+{
+  "slug": "tallest-volcanoes",
+  "page_type": "ranking",
+  "title": "Tallest Volcanoes in the World",
+  "meta_title": "50 Tallest Volcanoes in the World — Ranked by Elevation | VolcanoAtlas",
+  "meta_description": "The world's 50 tallest volcanoes ranked by summit elevation, from Ojos del Salado at 6,879 m to Popocatépetl at 5,393 m. Full data, continental breakdown, and maps.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Rankings",
+      "path": "/rankings"
+    },
+    {
+      "label": "Tallest Volcanoes",
+      "path": "/tallest-volcanoes"
+    }
+  ],
+  "hero": {
+    "title": "Tallest Volcanoes in the World",
+    "subtitle": "The 50 highest volcanic summits on Earth, ranked by elevation"
+  },
+  "introduction": "The tallest volcano in the world is Nevados Ojos del Salado, a stratovolcano straddling the border between <a href=\"/volcanoes-in-chile\">Chile</a> and <a href=\"/volcanoes-in-argentina\">Argentina</a>, with a summit elevation of 6,879 m (22,569 ft). It is also the highest peak in Chile and the second-highest in Argentina after Aconcagua (which is not volcanic). Despite its immense height, Ojos del Salado has only one confirmed historical eruption, around 750 CE, and is considered dormant.\n\nSouth America dominates this ranking overwhelmingly. Of the 50 tallest volcanoes on Earth, 46 are located in South America — nearly all along the Andean Volcanic Belt, where the Nazca Plate subducts beneath the South American Plate. The Central Volcanic Zone of the Andes, running through southern <a href=\"/volcanoes-in-peru\">Peru</a>, Bolivia, northern <a href=\"/volcanoes-in-chile\">Chile</a>, and northwestern <a href=\"/volcanoes-in-argentina\">Argentina</a>, hosts the greatest concentration of high-altitude volcanoes anywhere on the planet. The extreme elevations result from the combination of tectonic uplift and volcanic construction atop an already elevated plateau, the Altiplano, which itself averages 3,750 m (12,300 ft).\n\nIt is important to distinguish between elevation (height above sea level) and prominence (height above the surrounding base). Many of the tallest volcanoes by elevation sit atop the Andean Plateau, meaning their actual rise from base to summit may be only 1,000–2,000 m. By contrast, volcanoes like <a href=\"/volcano/mauna-loa\">Mauna Loa</a> in Hawaii rise over 9,000 m from their oceanic base to summit, making them the tallest volcanoes by total structural height — yet Mauna Loa's summit elevation is only 4,170 m (13,681 ft), ranking it far below the Andean giants.\n\nOutside the Andes, the tallest volcanoes include Mount Damavand in Iran at 5,670 m (18,602 ft) — the highest peak in the Middle East — and Mount Elbrus in Russia at 5,642 m (18,510 ft), the highest peak in Europe. <a href=\"/volcano/orizaba-pico-de\">Pico de Orizaba</a> in <a href=\"/volcanoes-in-mexico\">Mexico</a> reaches 5,564 m (18,255 ft), making it the tallest volcano in North America. Africa's tallest volcano is Kilimanjaro at 5,895 m — though at rank 19 overall, the continent's volcanic peaks are dwarfed by the Andes.\n\nMany of the world's tallest volcanoes are also among its least active. The extreme elevations and arid conditions of the high Andes mean that several of these peaks have not erupted in thousands of years, and some — like Tipas (6,658 m) and Coropuna (6,377 m) — have no confirmed historical eruptions at all. By contrast, the most active volcanoes in the world, such as <a href=\"/volcano/kilauea\">Kilauea</a> (1,222 m) and <a href=\"/volcano/stromboli\">Stromboli</a> (924 m), tend to be far shorter.\n\nThe tallest currently active volcano — defined as having erupted since 2020 — is <a href=\"/volcano/sabancaya\">Sabancaya</a> in <a href=\"/volcanoes-in-peru\">Peru</a> at 5,960 m (19,554 ft), which has been in a continuous eruptive phase since 2016. <a href=\"/volcano/cotopaxi\">Cotopaxi</a> in <a href=\"/volcanoes-in-ecuador\">Ecuador</a>, at 5,911 m (19,393 ft), last erupted in 2023 and remains one of the world's most closely monitored high-altitude volcanoes due to the lahar risk it poses to the 300,000 people living downstream.",
+  "ranked_table": {
+    "title": "The 50 Tallest Volcanoes in the World",
+    "description": "Ranked by summit elevation above sea level. Data from the Smithsonian Global Volcanism Program.",
+    "headers": [
+      "Rank",
+      "Volcano",
+      "Country",
+      "Region",
+      "Type",
+      "Elevation",
+      "Elevation (m)",
+      "Last Eruption",
+      "Max VEI",
+      "Slug"
+    ],
+    "rows": [
+      [
+        1,
+        "Ojos del Salado, Nevados",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "6,879 m (22,569 ft)",
+        6879,
+        "750",
+        1,
+        "ojos-del-salado-nevados"
+      ],
+      [
+        2,
+        "Llullaillaco",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "6,739 m (22,110 ft)",
+        6739,
+        "1877",
+        2,
+        "llullaillaco"
+      ],
+      [
+        3,
+        "Tipas",
+        "Argentina",
+        "South America",
+        "Complex",
+        "6,658 m (21,844 ft)",
+        6658,
+        "Unknown",
+        "—",
+        "tipas"
+      ],
+      [
+        4,
+        "Incahuasi, Nevado de",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano(es)",
+        "6,638 m (21,778 ft)",
+        6638,
+        "Unknown",
+        "—",
+        "incahuasi-nevado-de"
+      ],
+      [
+        5,
+        "Coropuna",
+        "Peru",
+        "South America",
+        "Stratovolcano",
+        "6,377 m (20,922 ft)",
+        6377,
+        "Unknown",
+        "—",
+        "coropuna"
+      ],
+      [
+        6,
+        "Condor, El",
+        "Argentina",
+        "South America",
+        "Stratovolcano",
+        "6,373 m (20,909 ft)",
+        6373,
+        "Unknown",
+        "—",
+        "condor-el"
+      ],
+      [
+        7,
+        "Parinacota",
+        "Chile-Bolivia",
+        "South America",
+        "Stratovolcano",
+        "6,336 m (20,787 ft)",
+        6336,
+        "290",
+        4,
+        "parinacota"
+      ],
+      [
+        8,
+        "Chimborazo",
+        "Ecuador",
+        "South America",
+        "Stratovolcano",
+        "6,261 m (20,541 ft)",
+        6261,
+        "550",
+        "—",
+        "chimborazo"
+      ],
+      [
+        9,
+        "Pular",
+        "Chile",
+        "South America",
+        "Stratovolcano(es)",
+        "6,233 m (20,449 ft)",
+        6233,
+        "Unknown",
+        1,
+        "pular"
+      ],
+      [
+        10,
+        "Solo, El",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "6,205 m (20,358 ft)",
+        6205,
+        "Unknown",
+        "—",
+        "solo-el"
+      ],
+      [
+        11,
+        "Nevada, Sierra",
+        "Chile-Argentina",
+        "South America",
+        "Complex",
+        "6,173 m (20,253 ft)",
+        6173,
+        "Unknown",
+        "—",
+        "nevada-sierra"
+      ],
+      [
+        12,
+        "Aracar",
+        "Argentina",
+        "South America",
+        "Stratovolcano",
+        "6,095 m (19,997 ft)",
+        6095,
+        "Unknown",
+        2,
+        "aracar"
+      ],
+      [
+        13,
+        "Guallatiri",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "6,071 m (19,918 ft)",
+        6071,
+        "1960",
+        2,
+        "guallatiri"
+      ],
+      [
+        14,
+        "San Jose",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano(es)",
+        "6,070 m (19,915 ft)",
+        6070,
+        "1960",
+        2,
+        "san-jose"
+      ],
+      [
+        15,
+        "Socompa",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "6,031 m (19,787 ft)",
+        6031,
+        "5250 BCE",
+        "—",
+        "socompa"
+      ],
+      [
+        16,
+        "Acamarachi",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "6,023 m (19,760 ft)",
+        6023,
+        "Unknown",
+        "—",
+        "acamarachi"
+      ],
+      [
+        17,
+        "Sairecabur",
+        "Chile-Bolivia",
+        "South America",
+        "Stratovolcano(es)",
+        "5,961 m (19,557 ft)",
+        5961,
+        "Unknown",
+        "—",
+        "sairecabur"
+      ],
+      [
+        18,
+        "Sabancaya",
+        "Peru",
+        "South America",
+        "Stratovolcano(es)",
+        "5,960 m (19,554 ft)",
+        5960,
+        "2025",
+        3,
+        "sabancaya"
+      ],
+      [
+        19,
+        "Licancabur",
+        "Chile-Bolivia",
+        "South America",
+        "Stratovolcano",
+        "5,916 m (19,409 ft)",
+        5916,
+        "Unknown",
+        "—",
+        "licancabur"
+      ],
+      [
+        20,
+        "Cotopaxi",
+        "Ecuador",
+        "South America",
+        "Stratovolcano",
+        "5,911 m (19,393 ft)",
+        5911,
+        "2023",
+        5,
+        "cotopaxi"
+      ],
+      [
+        21,
+        "Miniques",
+        "Chile",
+        "South America",
+        "Stratovolcano(es)",
+        "5,910 m (19,390 ft)",
+        5910,
+        "Unknown",
+        "—",
+        "miniques"
+      ],
+      [
+        22,
+        "Falso Azufre",
+        "Chile-Argentina",
+        "South America",
+        "Complex",
+        "5,906 m (19,377 ft)",
+        5906,
+        "Unknown",
+        "—",
+        "falso-azufre"
+      ],
+      [
+        23,
+        "Putana",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "5,884 m (19,304 ft)",
+        5884,
+        "1810",
+        "—",
+        "putana"
+      ],
+      [
+        24,
+        "Taapaca",
+        "Chile",
+        "South America",
+        "Complex",
+        "5,860 m (19,226 ft)",
+        5860,
+        "320 BCE",
+        "—",
+        "taapaca"
+      ],
+      [
+        25,
+        "Cordon de Puntas Negras",
+        "Chile",
+        "South America",
+        "Stratovolcano(es)",
+        "5,852 m (19,199 ft)",
+        5852,
+        "Unknown",
+        "—",
+        "cordon-de-puntas-negras"
+      ],
+      [
+        26,
+        "Tutupaca",
+        "Peru",
+        "South America",
+        "Stratovolcano(es)",
+        "5,801 m (19,032 ft)",
+        5801,
+        "1802",
+        4,
+        "tutupaca"
+      ],
+      [
+        27,
+        "Misti, El",
+        "Peru",
+        "South America",
+        "Stratovolcano",
+        "5,793 m (19,006 ft)",
+        5793,
+        "1985",
+        4,
+        "misti-el"
+      ],
+      [
+        28,
+        "Cayambe",
+        "Ecuador",
+        "South America",
+        "Compound",
+        "5,790 m (18,996 ft)",
+        5790,
+        "1786",
+        4,
+        "cayambe"
+      ],
+      [
+        29,
+        "Chiliques",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "5,778 m (18,957 ft)",
+        5778,
+        "Unknown",
+        "—",
+        "chiliques"
+      ],
+      [
+        30,
+        "Antisana",
+        "Ecuador",
+        "South America",
+        "Stratovolcano",
+        "5,753 m (18,875 ft)",
+        5753,
+        "1802",
+        2,
+        "antisana"
+      ],
+      [
+        31,
+        "Peinado",
+        "Argentina",
+        "South America",
+        "Stratovolcano",
+        "5,741 m (18,835 ft)",
+        5741,
+        "Unknown",
+        "—",
+        "peinado"
+      ],
+      [
+        32,
+        "Lastarria",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "5,706 m (18,720 ft)",
+        5706,
+        "Unknown",
+        "—",
+        "lastarria"
+      ],
+      [
+        33,
+        "Olca-Paruma",
+        "Chile-Bolivia",
+        "South America",
+        "Stratovolcano(es)",
+        "5,705 m (18,717 ft)",
+        5705,
+        "Unknown",
+        "—",
+        "olca-paruma"
+      ],
+      [
+        34,
+        "Purico Complex",
+        "Chile",
+        "South America",
+        "Shield(pyroclastic)",
+        "5,703 m (18,711 ft)",
+        5703,
+        "Unknown",
+        "—",
+        "purico-complex"
+      ],
+      [
+        35,
+        "Damavand",
+        "Iran",
+        "Arabia-Central Asia",
+        "Stratovolcano",
+        "5,670 m (18,602 ft)",
+        5670,
+        "5350 BCE",
+        0,
+        "damavand"
+      ],
+      [
+        36,
+        "Tupungatito",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "5,660 m (18,570 ft)",
+        5660,
+        "1987",
+        2,
+        "tupungatito"
+      ],
+      [
+        37,
+        "Elbrus",
+        "Russia",
+        "Arabia-Central Asia",
+        "Stratovolcano",
+        "5,642 m (18,510 ft)",
+        5642,
+        "50",
+        "—",
+        "elbrus"
+      ],
+      [
+        38,
+        "Colachi",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "5,631 m (18,474 ft)",
+        5631,
+        "Unknown",
+        "—",
+        "colachi"
+      ],
+      [
+        39,
+        "Casiri, Nevados",
+        "Peru",
+        "South America",
+        "Stratovolcano(es)",
+        "5,626 m (18,458 ft)",
+        5626,
+        "Unknown",
+        "—",
+        "casiri-nevados"
+      ],
+      [
+        40,
+        "Ubinas",
+        "Peru",
+        "South America",
+        "Stratovolcano",
+        "5,608 m (18,399 ft)",
+        5608,
+        "2024",
+        5,
+        "ubinas"
+      ],
+      [
+        41,
+        "Guayaques",
+        "Chile-Bolivia",
+        "South America",
+        "Lava dome(s)",
+        "5,598 m (18,366 ft)",
+        5598,
+        "Unknown",
+        "—",
+        "guayaques"
+      ],
+      [
+        42,
+        "Lascar",
+        "Chile",
+        "South America",
+        "Stratovolcano(es)",
+        "5,592 m (18,346 ft)",
+        5592,
+        "2023",
+        4,
+        "lascar"
+      ],
+      [
+        43,
+        "Orizaba, Pico de",
+        "Mexico",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "5,564 m (18,255 ft)",
+        5564,
+        "1846",
+        5,
+        "orizaba-pico-de"
+      ],
+      [
+        44,
+        "Isluga",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "5,550 m (18,209 ft)",
+        5550,
+        "1913",
+        2,
+        "isluga"
+      ],
+      [
+        45,
+        "Yucamane",
+        "Peru",
+        "South America",
+        "Stratovolcano(es)",
+        "5,495 m (18,028 ft)",
+        5495,
+        "1320 BCE",
+        5,
+        "yucamane"
+      ],
+      [
+        46,
+        "Cordon del Azufre",
+        "Chile-Argentina",
+        "South America",
+        "Complex",
+        "5,481 m (17,982 ft)",
+        5481,
+        "Unknown",
+        "—",
+        "cordon-del-azufre"
+      ],
+      [
+        47,
+        "Corrida de Cori Volcanic Field",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "5,451 m (17,884 ft)",
+        5451,
+        "Unknown",
+        "—",
+        "corrida-de-cori-volcanic-field"
+      ],
+      [
+        48,
+        "Tata Sabaya",
+        "Bolivia",
+        "South America",
+        "Stratovolcano",
+        "5,430 m (17,815 ft)",
+        5430,
+        "Unknown",
+        "—",
+        "tata-sabaya"
+      ],
+      [
+        49,
+        "Bayo Gorbea, Cerro",
+        "Chile-Argentina",
+        "South America",
+        "Complex",
+        "5,413 m (17,759 ft)",
+        5413,
+        "Unknown",
+        "—",
+        "bayo-gorbea-cerro"
+      ],
+      [
+        50,
+        "Popocatepetl",
+        "Mexico",
+        "Middle America-Caribbean",
+        "Stratovolcano(es)",
+        "5,393 m (17,694 ft)",
+        5393,
+        "2025",
+        5,
+        "popocatepetl"
+      ]
+    ]
+  },
+  "sections": {
+    "south_america": {
+      "title": "South America: The Andes Volcanic Giants",
+      "content": "South America accounts for 46 of the 50 tallest volcanoes, all located along the Andean Volcanic Belt. The belt is divided into four volcanic zones: the Northern Volcanic Zone (Colombia and Ecuador), the Central Volcanic Zone (southern Peru to northern Chile/Argentina), the Southern Volcanic Zone (central Chile/Argentina), and the Austral Volcanic Zone (southern Patagonia).\n\nThe Central Volcanic Zone hosts nearly all of the tallest peaks, including the top 10. These volcanoes rise from the Altiplano-Puna Plateau, where the crust is exceptionally thick (up to 70 km) due to tectonic compression. Llullaillaco (6,739 m / 22,110 ft), the world's second-tallest volcano, is notable for holding the world's highest archaeological site — Inca child mummies were discovered near its summit in 1999. <a href=\"/volcano/cotopaxi\">Cotopaxi</a> (5,911 m), while only 20th on this list, is arguably the most famous due to its near-perfect conical shape and its history of devastating lahars.\n\nThe rock composition in this zone is predominantly andesitic to dacitic, favoring explosive eruptions. However, the extreme aridity of the Atacama Desert and Altiplano means that many of these volcanoes pose limited immediate risk to populations, as few people live above 4,000 m in the region."
+    },
+    "outside_andes": {
+      "title": "Beyond the Andes: Tall Volcanoes on Other Continents",
+      "content": "While the Andes dominate the top of this list, every inhabited continent has notable high-altitude volcanoes.\n\nMount Damavand (5,670 m / 18,602 ft) in Iran is a potentially active <a href=\"/types-of-volcanoes\">stratovolcano</a> and the highest peak in the Middle East. Its last confirmed eruption was around 5350 BCE, but active fumaroles near the summit indicate ongoing magmatic activity.\n\nMount Elbrus (5,642 m / 18,510 ft) in Russia's Caucasus Mountains is Europe's highest peak and a dormant stratovolcano that last erupted around 50 CE. It is heavily glaciated, with over 20 glaciers covering its twin summits.\n\n<a href=\"/volcano/orizaba-pico-de\">Pico de Orizaba</a> (5,564 m / 18,255 ft) in <a href=\"/volcanoes-in-mexico\">Mexico</a> is North America's tallest volcano and third-highest peak overall. Its last confirmed eruption was in 1846 (VEI 5), and it is currently considered dormant.\n\n<a href=\"/volcano/popocatepetl\">Popocatépetl</a> (5,393 m / 17,694 ft), also in Mexico, is considerably more dangerous — it is one of the most active volcanoes in the world, with continuous eruptions since 2005 and over 25 million people living within 100 km of its summit.\n\nIn Africa, while Kilimanjaro (5,895 m) narrowly misses the Smithsonian database's confirmed eruption threshold, <a href=\"/volcano/lengai-ol-doinyo\">Ol Doinyo Lengai</a> in Tanzania and <a href=\"/volcano/nyiragongo\">Nyiragongo</a> in the DR Congo are among the most active volcanoes on the continent, though at much lower elevations."
+    },
+    "elevation_vs_prominence": {
+      "title": "Elevation vs. Prominence: A Critical Distinction",
+      "content": "Summit elevation — the height above mean sea level — is the standard metric used in this ranking. However, it can be misleading when comparing volcanoes across different tectonic settings.\n\nConsider <a href=\"/volcano/mauna-loa\">Mauna Loa</a> in Hawaii: its summit stands at 4,170 m (13,681 ft) above sea level, placing it well outside the top 50 on this list. But measured from its base on the ocean floor, Mauna Loa rises approximately 9,170 m (30,085 ft) — making it the tallest mountain on Earth by structural height. The volcano's enormous mass has actually depressed the ocean floor beneath it by an additional 8 km.\n\nBy contrast, the tallest volcano by elevation, Ojos del Salado (6,879 m), rises only about 2,000 m above the surrounding Altiplano terrain. Its extreme elevation is largely a function of its position atop an already elevated plateau.\n\nThis distinction matters for understanding volcanic hazards. A volcano's hazard zone is determined by its height above its surroundings (prominence), not its elevation above sea level. A 3,000 m prominence volcano near a populated coast poses far greater risk than a 6,000 m elevation volcano rising 1,500 m above a remote desert plateau."
+    }
+  },
+  "key_stats": [
+    "Nevados Ojos del Salado (6,879 m / 22,569 ft) is the tallest volcano and the highest point in Chile.",
+    "Of the 50 tallest volcanoes, 46 are in South America, nearly all along the Andean Volcanic Belt.",
+    "Llullaillaco (6,739 m) hosts the world's highest archaeological site — Inca child mummies found near the summit.",
+    "Damavand (5,670 m) is the tallest volcano outside the Americas and the highest peak in the Middle East.",
+    "Elbrus (5,642 m) is the tallest volcano in Europe and the continent's highest peak.",
+    "Pico de Orizaba (5,564 m) is the tallest volcano in North America.",
+    "Mauna Loa rises 9,170 m from its ocean-floor base — the tallest mountain on Earth by structural height — but only reaches 4,170 m above sea level.",
+    "Sabancaya (5,960 m) is the tallest volcano that has erupted since 2020.",
+    "Popocatépetl (5,393 m) is the tallest volcano with continuous eruptive activity, located just 70 km from Mexico City.",
+    "Many of the tallest volcanoes have no confirmed historical eruptions due to their remote, high-altitude locations."
+  ],
+  "faqs": [
+    {
+      "question": "What is the tallest volcano in the world?",
+      "answer": "The tallest volcano in the world by summit elevation is Nevados Ojos del Salado, a stratovolcano on the Chile-Argentina border, standing at 6,879 m (22,569 ft) above sea level. It is also the highest point in Chile and the second-highest in Argentina after non-volcanic Aconcagua. Despite its height, Ojos del Salado is considered dormant, with only one confirmed eruption around 750 CE. By structural height from base to summit, the tallest volcano is Mauna Loa in Hawaii, rising approximately 9,170 m from the ocean floor."
+    },
+    {
+      "question": "What is the tallest active volcano?",
+      "answer": "The tallest currently active volcano is Sabancaya in Peru, at 5,960 m (19,554 ft). It has been in a continuous eruptive phase since 2016, producing frequent Vulcanian explosions and ash plumes. Among volcanoes that have erupted in the past century, Llullaillaco at 6,739 m (22,110 ft) last erupted in 1877. The definition of 'active' matters here — volcanologists generally classify any volcano that has erupted in the Holocene (past 11,700 years) as potentially active, which would include most of the top 50."
+    },
+    {
+      "question": "Why are the tallest volcanoes in South America?",
+      "answer": "The tallest volcanoes concentrate in South America because they sit atop the Altiplano-Puna Plateau of the central Andes, which itself rises to 3,750 m (12,300 ft) due to tectonic compression where the Nazca Plate subducts beneath the South American Plate. The volcanoes are built on top of this already elevated base. Additionally, the thick continental crust (up to 70 km) in this region supports massive volcanic edifices. No other volcanic belt on Earth combines high plateau elevation with active volcanism at such scale."
+    },
+    {
+      "question": "What is the difference between volcano elevation and prominence?",
+      "answer": "Elevation is the height of a volcano's summit above mean sea level, while prominence is the height above its surrounding base level. A volcano can have high elevation but low prominence if it sits on an elevated plateau. For example, Ojos del Salado has 6,879 m elevation but only about 2,000 m prominence. Conversely, Mauna Loa has 4,170 m elevation but approximately 9,170 m structural height from the ocean floor. Prominence is more relevant for assessing volcanic hazards, as it determines how far pyroclastic flows, lahars, and lava can travel."
+    },
+    {
+      "question": "Is Mount Everest a volcano?",
+      "answer": "No, Mount Everest is not a volcano. Everest (8,849 m / 29,032 ft) is composed of sedimentary and metamorphic rocks pushed upward by the collision of the Indian and Eurasian tectonic plates. It formed through continental collision and crustal folding, not volcanic activity. The tallest volcano, Ojos del Salado at 6,879 m, is approximately 1,970 m shorter than Everest. No volcano on Earth approaches Everest's elevation, because volcanic edifices built from erupted material have structural limits that continental collision mountains do not."
+    },
+    {
+      "question": "What is the tallest volcano in Europe?",
+      "answer": "The tallest volcano in Europe is Mount Elbrus in southern Russia (Caucasus Mountains), standing at 5,642 m (18,510 ft). It is a dormant stratovolcano with twin summits, last erupting around 50 CE. It is also the highest peak in Europe overall. Italy's Mount Etna (3,357 m / 11,014 ft) is Europe's tallest active volcano with continuous recent eruptions. The next tallest European volcanic peak is Mount Kazbek in Georgia at 5,054 m."
+    },
+    {
+      "question": "What is the tallest volcano in North America?",
+      "answer": "The tallest volcano in North America is Pico de Orizaba (Citlaltépetl) in Mexico, standing at 5,564 m (18,255 ft). It is Mexico's highest peak and the third-highest summit in North America after Denali and Mount Logan (both non-volcanic). Pico de Orizaba is classified as dormant, with its last confirmed eruption in 1846. The tallest active volcano in North America is Popocatépetl (5,393 m / 17,694 ft), also in Mexico, which has been erupting continuously since 2005."
+    },
+    {
+      "question": "How tall is the tallest underwater volcano?",
+      "answer": "The tallest underwater (submarine) volcano is Mauna Kea in Hawaii, which rises approximately 10,203 m (33,474 ft) from its base on the ocean floor to its summit at 4,207 m above sea level. However, Mauna Kea is considered dormant. Among active submarine volcanoes, the Tamu Massif in the northwest Pacific is one of the largest volcanic structures on Earth by area, though its summit remains about 1,980 m below sea level. The 2022 eruption of Hunga Tonga-Hunga Ha'apai demonstrated that submarine volcanoes can produce eruptions of extraordinary power."
+    }
+  ],
+  "charts": {
+    "elevation_chart": [
+      {
+        "name": "Ojos del Salado, Nevados",
+        "elevation": 6879,
+        "slug": "ojos-del-salado-nevados",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Llullaillaco",
+        "elevation": 6739,
+        "slug": "llullaillaco",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Tipas",
+        "elevation": 6658,
+        "slug": "tipas",
+        "country": "Argentina"
+      },
+      {
+        "name": "Incahuasi, Nevado de",
+        "elevation": 6638,
+        "slug": "incahuasi-nevado-de",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Coropuna",
+        "elevation": 6377,
+        "slug": "coropuna",
+        "country": "Peru"
+      },
+      {
+        "name": "Condor, El",
+        "elevation": 6373,
+        "slug": "condor-el",
+        "country": "Argentina"
+      },
+      {
+        "name": "Parinacota",
+        "elevation": 6336,
+        "slug": "parinacota",
+        "country": "Chile-Bolivia"
+      },
+      {
+        "name": "Chimborazo",
+        "elevation": 6261,
+        "slug": "chimborazo",
+        "country": "Ecuador"
+      },
+      {
+        "name": "Pular",
+        "elevation": 6233,
+        "slug": "pular",
+        "country": "Chile"
+      },
+      {
+        "name": "Solo, El",
+        "elevation": 6205,
+        "slug": "solo-el",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Nevada, Sierra",
+        "elevation": 6173,
+        "slug": "nevada-sierra",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Aracar",
+        "elevation": 6095,
+        "slug": "aracar",
+        "country": "Argentina"
+      },
+      {
+        "name": "Guallatiri",
+        "elevation": 6071,
+        "slug": "guallatiri",
+        "country": "Chile"
+      },
+      {
+        "name": "San Jose",
+        "elevation": 6070,
+        "slug": "san-jose",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Socompa",
+        "elevation": 6031,
+        "slug": "socompa",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Acamarachi",
+        "elevation": 6023,
+        "slug": "acamarachi",
+        "country": "Chile"
+      },
+      {
+        "name": "Sairecabur",
+        "elevation": 5961,
+        "slug": "sairecabur",
+        "country": "Chile-Bolivia"
+      },
+      {
+        "name": "Sabancaya",
+        "elevation": 5960,
+        "slug": "sabancaya",
+        "country": "Peru"
+      },
+      {
+        "name": "Licancabur",
+        "elevation": 5916,
+        "slug": "licancabur",
+        "country": "Chile-Bolivia"
+      },
+      {
+        "name": "Cotopaxi",
+        "elevation": 5911,
+        "slug": "cotopaxi",
+        "country": "Ecuador"
+      },
+      {
+        "name": "Miniques",
+        "elevation": 5910,
+        "slug": "miniques",
+        "country": "Chile"
+      },
+      {
+        "name": "Falso Azufre",
+        "elevation": 5906,
+        "slug": "falso-azufre",
+        "country": "Chile-Argentina"
+      },
+      {
+        "name": "Putana",
+        "elevation": 5884,
+        "slug": "putana",
+        "country": "Chile"
+      },
+      {
+        "name": "Taapaca",
+        "elevation": 5860,
+        "slug": "taapaca",
+        "country": "Chile"
+      },
+      {
+        "name": "Cordon de Puntas Negras",
+        "elevation": 5852,
+        "slug": "cordon-de-puntas-negras",
+        "country": "Chile"
+      }
+    ],
+    "by_continent": [
+      {
+        "region": "South America",
+        "tallest": "Ojos del Salado, Nevados",
+        "elevation": 6879,
+        "slug": "ojos-del-salado-nevados"
+      },
+      {
+        "region": "Asia",
+        "tallest": "Damavand",
+        "elevation": 5670,
+        "slug": "damavand"
+      },
+      {
+        "region": "Central America & Mexico",
+        "tallest": "Orizaba, Pico de",
+        "elevation": 5564,
+        "slug": "orizaba-pico-de"
+      }
+    ]
+  },
+  "internal_links": [
+    "Ojos del Salado",
+    "Llullaillaco",
+    "<a href=\"/volcano/cotopaxi\">Cotopaxi</a>",
+    "Mount Damavand",
+    "Mount Elbrus",
+    "<a href=\"/volcano/orizaba-pico-de\">Pico de Orizaba</a>",
+    "<a href=\"/volcano/popocatepetl\">Popocatépetl</a>",
+    "<a href=\"/volcano/mauna-loa\">Mauna Loa</a>",
+    "<a href=\"/volcano/kilauea\">Kilauea</a>",
+    "<a href=\"/volcanoes-in-chile\">Chile</a>",
+    "<a href=\"/volcanoes-in-argentina\">Argentina</a>",
+    "<a href=\"/volcanoes-in-peru\">Peru</a>",
+    "<a href=\"/types-of-volcanoes\">Types of Volcanoes</a>",
+    "<a href=\"/most-active-volcanoes\">Most Active Volcanoes</a>"
+  ],
+  "external_links": [
+    "<a href=\"https://volcano.si.edu/\" target=\"_blank\" rel=\"noopener\">Smithsonian Global Volcanism Program</a>",
+    "<a href=\"https://www.usgs.gov/volcanoes\" target=\"_blank\" rel=\"noopener\">USGS Volcano Hazards Program</a>",
+    "<a href=\"https://www.britannica.com/science/volcano\" target=\"_blank\" rel=\"noopener\">Britannica: Volcanoes</a>"
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "url": "/tallest-volcanoes"
+}

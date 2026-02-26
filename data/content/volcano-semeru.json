@@ -1,0 +1,472 @@
+{
+  "slug": "semeru",
+  "volcano_id": 263300,
+  "title": "Mount Semeru",
+  "meta_title": "Mount Semeru — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Mount Semeru is Java's tallest volcano at 3,657 m with 66 recorded eruptions. Explore its eruption history, deadly 2021 disaster, current status, and hazard info.",
+  "quick_answer": {
+    "what": "Mount Semeru (Gunung Semeru) is an active stratovolcano in East Java, Indonesia, rising to 3,657 m (11,998 ft) — the highest peak on the island of Java and one of Java's most persistently active volcanoes.",
+    "status": "Active — in near-continuous eruption since 1967, with the current eruptive episode ongoing since February 2019. Produces frequent Strombolian explosions, ash emissions, and periodic pyroclastic flows.",
+    "famous_for": "Known as Mahameru ('Great Mountain'), Semeru is revered in Javanese Hindu-Buddhist tradition as the abode of the gods. The devastating December 2021 pyroclastic flows killed at least 51 people and destroyed villages on the southeastern flanks.",
+    "danger_level": "Very high — densely populated agricultural lowlands extend to the volcano's base, and pyroclastic flows have repeatedly reached inhabited areas. The December 2021 disaster demonstrated the lethal threat to downstream communities."
+  },
+  "hero": {
+    "name": "Mount Semeru",
+    "local_name": "Gunung Semeru / Mahameru",
+    "subtitle": "Java's Tallest Volcano — The Great Mountain",
+    "country": "Indonesia",
+    "region": "East Java",
+    "type": "Stratovolcano",
+    "elevation_m": 3657,
+    "elevation_ft": 11998,
+    "status": "Active",
+    "last_eruption": "2025 (ongoing)",
+    "coordinates": {
+      "lat": -8.108,
+      "lon": 112.922
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00736.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "3,657 m (11,998 ft)",
+    "type": "Stratovolcano",
+    "status": "Active — erupting",
+    "last_eruption": "2019–present (ongoing as of 2025)",
+    "first_known_eruption": "1818",
+    "total_recorded_eruptions": 66,
+    "vei_max": "4 (2014–2017, 2017–2018, 2019–present)",
+    "country": "Indonesia",
+    "region": "East Java, Sunda Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Eurasian Plate (continental crust >25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "8.108°S, 112.922°E",
+    "nearest_city": "Lumajang — ~30 km southeast",
+    "population_at_risk": "Hundreds of thousands in Lumajang and Malang regencies on the volcano's flanks",
+    "summit_crater": "Jonggring Seloko — active summit crater",
+    "protected_status": "Bromo Tengger Semeru National Park",
+    "monitoring_agency": "PVMBG (Pusat Vulkanologi dan Mitigasi Bencana Geologi) / CVGHM",
+    "smithsonian_id": "263300",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=263300"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Semeru (Indonesian: Gunung Semeru) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 3,657 m (11,998 ft) in East Java, <a href=\"/volcanoes-in-indonesia\">Indonesia</a> — the highest peak on the island of Java and the third tallest volcano in Indonesia outside of Papua. Also known as Mahameru ('Great Mountain'), Semeru is one of the most persistently active volcanoes in the Sunda Volcanic Arc, having been in a state of near-continuous eruption since 1967 and in ongoing eruption since February 2019. The volcano has produced 66 recorded eruptions since 1818, the majority characterized by Strombolian explosions and ash emission from the summit crater Jonggring Seloko, punctuated by more dangerous pyroclastic flows that have repeatedly descended the volcano's southeastern flanks.\n\nSemeru gained worldwide attention in December 2021 when a catastrophic partial dome collapse generated pyroclastic flows that devastated villages on the southeastern slopes, killing at least 51 people and displacing thousands more. This disaster underscored the extreme vulnerability of the densely populated Javanese communities that farm the fertile volcanic soils at the mountain's base. Within the context of <a href=\"/volcanoes-in-indonesia\">Indonesia's</a> 127 active volcanoes, Semeru ranks among the most dangerous due to the combination of frequent explosive activity, pyroclastic flow potential, and a large population living within reach of its most lethal hazards. The volcano lies at the southern end of a volcanic massif that extends northward to the Tengger caldera — home to the iconic Mount Bromo — within the Bromo Tengger Semeru National Park, one of Java's premier natural attractions and a major tourist destination."
+    },
+    "geology_and_formation": {
+      "content": "Semeru sits within the Sunda Volcanic Arc, a chain of volcanoes stretching approximately 3,000 km from Sumatra through Java and Bali to the Lesser Sunda Islands, formed by the northward subduction of the Indo-Australian Plate beneath the Eurasian Plate at rates of 60–70 mm per year. The continental crust beneath East Java exceeds 25 km in thickness, and the interaction between subducting oceanic lithosphere and this thick continental crust generates the water-rich, silica-intermediate magmas — predominantly andesite and basaltic andesite — that characterize Semeru's eruptions.\n\nThe volcano was constructed south of two overlapping older calderas, Ajek-ajek and Jambangan, which attest to a prolonged history of volcanism in this area. The steep-sided edifice rises above coastal plains to the south, its slopes dissected by deep ravines carved by lahars and erosion. A line of lake-filled maars extends along a north-south trend through the summit area, and cinder cones and lava domes occupy the eastern and northeastern flanks, indicating complex eruptive behavior over time.\n\nThe summit morphology is complicated by the progressive southeastward migration of the active crater. The current summit crater, Jonggring Seloko, is a steep-walled pit approximately 500 m in diameter that opens to the southeast — a geometry that channels pyroclastic flows and rockfalls preferentially down the southeastern slopes toward the populated lowlands of Lumajang regency. This asymmetric hazard distribution is a critical factor in Semeru's risk profile. The volcano's andesitic magma is moderately viscous and gas-rich, producing the intermittent Vulcanian and Strombolian explosions that occur every 15–40 minutes during active periods, generating ash columns that typically rise 200–600 m above the summit."
+    },
+    "eruption_history_overview": {
+      "content": "Semeru's recorded eruptive history begins in 1818 and encompasses 66 documented eruptions over just over two centuries — an average of roughly one eruption every three years, though in practice the volcano has been in near-continuous activity for long stretches. The 19th century saw 41 recorded eruptions, mostly small VEI 2 events, documenting a volcano in persistent low-level activity. The 20th century recorded 19 eruptions, including a pivotal event: the eruption that began in August 1967 and continued with only brief interruptions until 2009, representing one of the longest continuous eruptive episodes at any volcano worldwide during that period.\n\nSince 2010, Semeru has been even more active, with six distinct eruptive episodes documented, three of which reached VEI 4 — the highest recorded at this volcano. The current eruptive episode, which began in February 2019, has been particularly vigorous, producing thousands of individual explosions from Jonggring Seloko, repeated pyroclastic flows (including the devastating December 2021 event), lava dome growth and collapse, and widespread ashfall across surrounding communities. The VEI 4 classification for the 2014–2017, 2017–2018, and 2019–present eruptions reflects larger explosive events interspersed within the ongoing background Strombolian activity."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1911 Eruption — Early Documentary Record",
+          "content": "The eruption of November 8, 1911 was one of the more significant events in Semeru's early historical record, reaching VEI 3. While detailed contemporary accounts are limited, this eruption produced substantial ash columns and pyroclastic activity that were noted by Dutch colonial observers. The event demonstrated that Semeru was capable of eruptions significantly larger than the persistent VEI 2 background activity that characterized most of its 19th-century behavior. It provided an early warning of the volcano's capacity for more explosive events — a capacity that would be demonstrated more dramatically in the 21st century."
+        },
+        {
+          "title": "The 1967–2009 Eruption — Four Decades of Continuous Activity",
+          "content": "Beginning on August 31, 1967, Semeru entered a period of near-continuous eruptive activity that persisted for over four decades, making it one of the longest sustained eruption episodes at any volcano in the world during the 20th century. Classified as a single VEI 3 eruptive episode, this remarkable period was characterized by persistent Strombolian and Vulcanian explosions from the Jonggring Seloko summit crater, occurring at intervals of 15–40 minutes during active phases. Ash columns routinely rose several hundred meters above the summit, and the crater floor was repeatedly resurfaced by lava dome growth and destruction.\n\nThroughout this prolonged episode, periodic intensifications produced pyroclastic flows that descended the southeastern flanks, reaching distances of several kilometers from the summit. These flows repeatedly impacted river valleys on the lower slopes, generating secondary lahars during the rainy season that affected downstream communities. The continuous activity made Semeru a valuable natural laboratory for volcanologists studying persistent eruptive processes, but it also created a sense of familiarity among local populations that may have dulled awareness of the volcano's capacity for larger, more lethal events."
+        },
+        {
+          "title": "The December 2021 Disaster — Pyroclastic Flows Devastate Lumajang",
+          "content": "On December 4, 2021, a catastrophic partial collapse of the lava dome at Semeru's summit generated massive pyroclastic flows that raced down the southeastern slopes with devastating speed and force. The flows traveled up to 11 km from the summit, burying portions of several villages in Lumajang regency under hot volcanic debris, ash, and mud. The village of Sumberwuluh was among the worst affected, with homes, bridges, and infrastructure destroyed or buried. The official death toll reached at least 51, with dozens more injured and thousands displaced.\n\nThe disaster occurred during the rainy season, when heavy rainfall had saturated the volcanic deposits and weakened the unstable lava dome. The pyroclastic flows incorporated water and loose material as they descended, creating hot lahars that followed river channels deep into populated areas. The catastrophe exposed critical gaps in hazard communication and evacuation preparedness — many residents had grown accustomed to Semeru's persistent low-level activity and did not recognize the signs of an escalating crisis. Indonesian authorities raised the alert level to the maximum (Level 4 — Awas) following the event and expanded the exclusion zone around the summit.\n\nA second major pyroclastic flow event on December 17, 2021 forced further evacuations, and the volcano continued to produce dangerous flows into early 2022. The December 2021 disaster drew international attention to the chronic hazard posed by Semeru's ongoing eruption and prompted calls for improved early warning systems and permanent relocation of the most vulnerable communities. The death toll made it one of the <a href=\"/deadliest-eruptions\">deadliest volcanic events</a> in Indonesia in the 21st century."
+        },
+        {
+          "title": "The 2019–Present Eruption — Ongoing VEI 4 Activity",
+          "content": "The current eruptive episode began on February 24, 2019 and continues as of 2025, classified at VEI 4. This extended eruption has been marked by thousands of Strombolian and Vulcanian explosions from Jonggring Seloko, repeated lava dome growth and partial collapse, pyroclastic flows reaching 5–11 km down the southeastern flanks, and recurrent ashfall affecting communities across Lumajang and Malang regencies. Alert levels have fluctuated between Level 2 (Waspada) and Level 4 (Awas) depending on the intensity of activity. The December 2021 disaster was the most lethal episode within this ongoing eruption, but subsequent pyroclastic flow events in 2022 and 2023 continued to threaten downstream communities. PVMBG maintains an exclusion zone around the summit that has been repeatedly expanded and contracted based on activity levels."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of 2025, Mount Semeru remains in a state of active eruption, with the eruptive episode that began in February 2019 continuing. The volcano is monitored by PVMBG (Pusat Vulkanologi dan Mitigasi Bencana Geologi), Indonesia's Center for Volcanology and Geological Hazard Mitigation, through a network of seismometers, tiltmeters, visual cameras, and satellite-based monitoring systems. The Semeru Volcano Observatory maintains permanent staff who record explosion counts, measure seismic tremor, and track lava dome dimensions.\n\nThe alert level has been maintained at elevated status for much of the 2019–present eruption, with escalations to Level 4 (Awas — the highest level) during periods of intensified pyroclastic flow activity. An exclusion zone extends 5–13 km from the summit depending on direction, with the largest restricted area on the southeastern flank where pyroclastic flows preferentially travel. Despite these measures, enforcement of exclusion zones remains challenging given the economic dependence of local communities on agriculture within the hazard zone. Semeru's persistent activity generates continuous volcanic seismicity, with hundreds of explosion earthquakes recorded daily during active phases. Scientists consider the ongoing eruption capable of producing further large pyroclastic flow events comparable to or exceeding the December 2021 disaster, particularly during the rainy season when dome instability increases."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Semeru poses one of the most severe volcanic threats in <a href=\"/volcanoes-in-indonesia\">Indonesia</a> — itself the country with the most active volcanoes on Earth. The primary hazards include pyroclastic density currents (the most lethal threat, capable of traveling at speeds exceeding 100 km/h and reaching temperatures above 300°C), lahars (particularly dangerous during the October–April wet season when heavy rainfall mobilizes volcanic deposits), ashfall (affecting agriculture and respiratory health across a wide radius), ballistic ejecta near the summit, and volcanic gases.\n\nThe southeastern flanks of Semeru are by far the highest-risk area, as the open geometry of the Jonggring Seloko crater channels pyroclastic flows preferentially in that direction. The December 2021 disaster demonstrated that flows can travel 11+ km from the summit, reaching well into populated agricultural areas of Lumajang regency. Tens of thousands of people live within the potential reach of pyroclastic flows, and hundreds of thousands more could be affected by ashfall and lahars.\n\nCompared to other high-risk Indonesian volcanoes such as <a href=\"/volcano/merapi\">Mount Merapi</a> — which killed 367 people in 2010 — Semeru presents a similar combination of persistent activity, pyroclastic flow capability, and dense population on its flanks. PVMBG has implemented alert level protocols, exclusion zones, and evacuation plans, but the 2021 disaster revealed that communication of escalating danger to at-risk communities remains a critical challenge. The volcano's ongoing eruption means that hazard levels remain elevated indefinitely, with the potential for sudden escalation at any time."
+    },
+    "geography_and_physical_description": {
+      "content": "Semeru rises as a steep, imposing cone from the lowlands of East Java, its summit reaching 3,657 m (11,998 ft) — the highest point on an island of over 150 million people. The volcano's flanks are deeply dissected by ravines and river valleys, particularly on the southern and southeastern sides where erosion by lahars has carved dramatic channels. The summit area is dominated by the Jonggring Seloko crater, approximately 500 m in diameter, which opens toward the southeast and contains an active lava dome that undergoes repeated cycles of growth and collapse.\n\nThe broader volcanic massif extends northward from Semeru through a highland plateau to the Tengger caldera, a 16-km-wide volcanic depression that contains the famous Sand Sea and the active cone of Mount Bromo (2,329 m). Together, these features form the centerpiece of Bromo Tengger Semeru National Park, covering approximately 800 km² of volcanic terrain, tropical forest, and alpine grassland. The park's landscapes range from the misty Sand Sea of the Tengger caldera — an otherworldly expanse of volcanic sand surrounding Bromo's smoking crater — to the dense montane forests on Semeru's middle slopes and the barren, scree-covered upper cone.\n\nThe lower slopes of Semeru are extensively farmed, with rice paddies, coffee plantations, and vegetable gardens extending up to approximately 1,500 m elevation. This agricultural activity places communities in direct contact with volcanic hazard zones. The Besuk Kobokan, Besuk Bang, and other river channels draining the southeastern slopes serve as conduits for both pyroclastic flows and rain-triggered lahars."
+    },
+    "climate_and_global_impact": {
+      "content": "Semeru's individual eruptions have not been large enough to produce measurable global climate effects. The volcano's persistent activity — while impressive in its duration — consists predominantly of small to moderate explosions that inject relatively modest quantities of sulfur dioxide into the troposphere rather than the stratosphere. Even the VEI 4 episodes produce eruption columns that typically remain below the 15–20 km altitude threshold necessary for significant stratospheric aerosol injection at tropical latitudes.\n\nLocally, however, Semeru's continuous ash emissions affect air quality across a wide radius of East Java. During intensified activity, ashfall blankets agricultural fields in Lumajang and Malang regencies, damaging crops and contaminating water supplies. The fine volcanic particulate matter poses respiratory health risks, particularly for communities on the southeastern flanks that experience the most frequent ashfall. The volcano's altitude creates its own microclimate: temperatures at the summit drop below freezing, and the upper slopes experience cloud immersion for much of the day, contributing to the dome instability that triggers pyroclastic flows."
+    },
+    "cultural_significance": {
+      "content": "Semeru holds deep spiritual significance in Javanese culture, where it is known as Mahameru — 'The Great Mountain' — and is traditionally regarded as the most sacred mountain on Java. In Javanese Hindu-Buddhist mythology, Semeru is believed to be a fragment of Mount Meru, the cosmic mountain at the center of the universe in Hindu and Buddhist cosmology, which the gods are said to have transported from India to Java to stabilize the island. The Tengger people, an ethnic group of Hindu faith who inhabit the highlands around the Tengger caldera and Semeru's upper slopes, maintain centuries-old rituals tied to the volcanic landscape, most notably the annual Kasada ceremony at the rim of Mount Bromo, during which offerings are thrown into the crater to appease the mountain spirits.\n\nSemeru appears frequently in Javanese literature and art, and its towering profile is a defining element of the East Java landscape. The mountain has also entered popular culture through the 2022 Indonesian film Thirteen Lives and through its presence as a backdrop to the globally famous sunrise viewpoint at Mount Penanjakan overlooking the Tengger caldera. For trekkers, the summit climb of Semeru is considered one of Java's greatest mountaineering challenges — a demanding 2–3 day trek that rewards climbers with panoramic views across East Java, though access is frequently restricted during periods of elevated volcanic activity."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Semeru lies within Bromo Tengger Semeru National Park, one of Indonesia's most visited national parks. The classic Semeru summit trek begins from Ranu Pani village (approximately 2,100 m) and follows a trail through montane forest, past the crater lake of Ranu Kumbolo (a popular camping spot at 2,400 m), across the open Sand Sea plateau, and up the steep upper cone to reach the summit. The trek typically takes 2 days (one night camping), though strong hikers can complete it in a single long day.\n\nAccess to the summit area is regulated by the national park authority and PVMBG, and the trail has been closed for extended periods during intensified eruptive activity — including much of 2022–2023 following the December 2021 disaster. When open, a daily quota limits the number of climbers (typically 300–600 per day), and trekkers must register at the Ranu Pani ranger station. The upper cone above approximately 2,800 m is exposed to volcanic hazards including ballistic ejecta, volcanic gas, and ashfall, and climbers are advised to reach the summit before dawn to avoid the afternoon cloud cover and to minimize exposure time during the peak period of daily explosive activity.\n\nThe broader Bromo Tengger Semeru National Park offers additional attractions: the iconic sunrise at Mount Penanjakan (2,770 m), the drive across the Tengger Sand Sea to Mount Bromo's crater rim, and the highland Tengger villages with their distinctive Hindu-Javanese culture. Park entry fees are approximately IDR 220,000 (USD ~14) for foreign visitors on weekdays."
+    },
+    "nearby_volcanoes": {
+      "content": "Semeru is part of a dense cluster of volcanoes in East Java. Mount Bromo (2,329 m), one of Indonesia's most iconic volcanoes, sits within the Tengger caldera approximately 16 km to the north and is in frequent low-level activity. To the west lies Arjuno-Welirang (3,339 m), a twin-peaked volcanic complex with active fumaroles and sulfur mining. Further west, <a href=\"/volcano/kelud\">Kelud</a> — notorious for its explosive eruptions and crater lake — last erupted violently in 2014. To the east, the Ijen volcanic complex is famous for its turquoise crater lake and sulfur mining operations. Together, East Java's volcanic chain represents one of the most concentrated zones of active volcanism in <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, all driven by the same subduction of the Indo-Australian Plate along the Java Trench. <a href=\"/volcano/merapi\">Mount Merapi</a>, Indonesia's most monitored volcano, lies approximately 500 km to the west in Central Java."
+    },
+    "etymology": {
+      "content": "The name Semeru derives from Sumeru or Meru, the sacred cosmic mountain in Hindu-Buddhist cosmology that stands at the center of the universe. In Javanese tradition, the gods are said to have transported a fragment of Mount Meru from India to Java and placed it at the island's highest point — hence Mahameru, 'The Great Mountain.' The summit crater's name, Jonggring Seloko, is Javanese and is associated with the sacred fire that the mountain is believed to contain."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Semeru Compared to Java's Other Major Stratovolcanoes",
+      "description": "How does Semeru compare to the other major active volcanoes on the world's most densely populated volcanic island?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Semeru",
+          "Indonesia",
+          "3,657 m",
+          "Stratovolcano",
+          "2025 (ongoing)",
+          "4",
+          "66"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,968 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "68"
+        ],
+        [
+          "Kelud",
+          "Indonesia",
+          "1,731 m",
+          "Stratovolcano",
+          "2014",
+          "5",
+          "31"
+        ],
+        [
+          "Bromo (Tengger)",
+          "Indonesia",
+          "2,329 m",
+          "Caldera",
+          "2019",
+          "3",
+          "55"
+        ],
+        [
+          "Raung",
+          "Indonesia",
+          "3,332 m",
+          "Stratovolcano",
+          "2021",
+          "3",
+          "56"
+        ]
+      ]
+    },
+    {
+      "title": "Semeru vs Other Persistently Erupting Volcanoes Worldwide",
+      "description": "A comparison of volcanoes with prolonged eruption episodes spanning decades.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Current Episode Since",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Semeru",
+          "Indonesia",
+          "3,657 m",
+          "2019 (1967–2009 prior)",
+          "4",
+          "66"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "924 m",
+          "~1934",
+          "3",
+          "100+"
+        ],
+        [
+          "Kīlauea",
+          "USA",
+          "1,222 m",
+          "2023 (1983–2018 prior)",
+          "4",
+          "70+"
+        ],
+        [
+          "Sakurajima (Aira)",
+          "Japan",
+          "1,117 m",
+          "1955",
+          "3",
+          "100+"
+        ],
+        [
+          "Dukono",
+          "Indonesia",
+          "1,229 m",
+          "1933",
+          "3",
+          "21"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1818,
+      "vei": 2,
+      "label": "First historically recorded eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1911,
+      "vei": 3,
+      "label": "Significant explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1941,
+      "vei": 2,
+      "label": "Eruption on the ESE flank (1400–1775 m)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1967,
+      "vei": 3,
+      "label": "Beginning of 42-year continuous eruption (1967–2009)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2014,
+      "vei": 4,
+      "label": "Escalation to VEI 4 — increased pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 4,
+      "label": "Continued VEI 4 activity with dome collapses",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2019,
+      "vei": 4,
+      "label": "Current eruption episode begins — ongoing as of 2025",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": null,
+      "label": "Catastrophic pyroclastic flows kill 51+ in Lumajang",
+      "deaths": "51+",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th",
+      "count": 41
+    },
+    {
+      "century": "20th",
+      "count": 19
+    },
+    {
+      "century": "21st",
+      "count": 6
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 1,
+      "count": 1
+    },
+    {
+      "vei": 2,
+      "count": 59
+    },
+    {
+      "vei": 3,
+      "count": 2
+    },
+    {
+      "vei": 4,
+      "count": 3
+    }
+  ],
+  "facts": [
+    "Semeru has been in a state of near-continuous eruption since 1967 — a period of over 58 years that makes it one of the longest-active volcanoes on Earth.",
+    "At 3,657 m (11,998 ft), Semeru is the tallest peak on the island of Java — home to over 150 million people — and the tallest volcano in Indonesia outside of Papua.",
+    "During active phases, Semeru's summit crater Jonggring Seloko produces Strombolian explosions every 15–40 minutes, generating hundreds of individual explosions per day.",
+    "The December 4, 2021 pyroclastic flows killed at least 51 people and traveled up to 11 km from the summit, making it one of Indonesia's deadliest volcanic events of the 21st century.",
+    "Semeru's name derives from Mount Meru, the cosmic mountain at the center of the universe in Hindu-Buddhist cosmology — the gods are said to have placed a fragment of Meru on Java to stabilize the island.",
+    "The volcano lies within Bromo Tengger Semeru National Park, which receives over 500,000 visitors annually, primarily for the iconic sunrise views over Mount Bromo and the Tengger Sand Sea.",
+    "Semeru's Jonggring Seloko crater opens toward the southeast, creating an asymmetric hazard profile that channels pyroclastic flows directly toward the densely populated lowlands of Lumajang regency.",
+    "The 1967–2009 eruption at Semeru lasted approximately 42 years, ranking among the longest continuous eruption episodes documented anywhere in the world during the 20th century.",
+    "Three separate eruptive episodes at Semeru since 2014 have reached VEI 4, indicating an escalation in explosive capability compared to the predominantly VEI 2–3 activity of the 19th and 20th centuries.",
+    "Semeru's 66 recorded eruptions since 1818 give it an average of roughly one eruption every three years, though the volcano's persistent activity means true repose periods are rare.",
+    "The Tengger people who live on Semeru's highland slopes are one of the few remaining Hindu communities on predominantly Muslim Java, and they maintain volcanic rituals including the annual Kasada ceremony.",
+    "Rising from sea level to 3,657 m, Semeru encompasses climate zones from tropical lowland to alpine tundra — climbers experience temperature changes of 25°C or more during the summit trek."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Semeru still erupting?",
+      "answer": "Yes, Mount Semeru has been in a state of active eruption since February 2019, and this eruption episode continues as of 2025. The volcano produces frequent Strombolian explosions from the Jonggring Seloko summit crater — often hundreds per day during active phases — along with periodic larger explosive events, ash columns, lava dome growth, and pyroclastic flows. Prior to the current episode, Semeru was in near-continuous eruption from 1967 to 2009. The volcano is monitored continuously by PVMBG (Indonesia's volcanology agency), and alert levels are adjusted based on activity. Semeru is one of the most persistently active volcanoes in the world."
+    },
+    {
+      "question": "How many people died in the 2021 Semeru eruption?",
+      "answer": "The catastrophic pyroclastic flows on December 4, 2021 killed at least 51 people and injured dozens more, making it one of Indonesia's deadliest volcanic disasters of the 21st century. The flows were triggered by a partial collapse of the lava dome at Semeru's summit and traveled up to 11 km down the southeastern flanks, devastating villages in Lumajang regency, particularly Sumberwuluh. Thousands of residents were evacuated or displaced. A second major pyroclastic flow event on December 17 forced further evacuations. Heavy rainfall during the wet season had destabilized the dome, contributing to the collapse. The disaster highlighted the ongoing danger posed by Semeru's persistent eruption to downstream communities."
+    },
+    {
+      "question": "How tall is Mount Semeru?",
+      "answer": "Mount Semeru stands at 3,657 m (11,998 ft) above sea level, making it the tallest peak on the island of Java and the tallest volcano in Indonesia outside the island of Papua. For comparison, Java's second tallest peak is Mount Arjuno at 3,339 m, and Indonesia's tallest overall is Puncak Jaya (4,884 m) in Papua, which is not volcanic. Semeru's height makes the summit trek a physically demanding 2-day climb, with altitude-related cold temperatures and thin air adding to the challenge of ascending an actively erupting volcano."
+    },
+    {
+      "question": "What type of volcano is Semeru?",
+      "answer": "Semeru is classified as a stratovolcano (composite volcano), built up over thousands of years through alternating layers of lava flows, pyroclastic deposits, and volcanic ash. It is composed primarily of andesite and basaltic andesite — intermediate-composition volcanic rocks typical of subduction-zone volcanoes. The steep-sided cone has a summit crater called Jonggring Seloko that opens toward the southeast. Semeru's eruption style alternates between persistent Strombolian explosions (frequent small bursts of incandescent lava and ash) and more dangerous Vulcanian eruptions and pyroclastic flows generated by the collapse of lava domes growing within the summit crater."
+    },
+    {
+      "question": "Can you climb Mount Semeru?",
+      "answer": "Climbing Mount Semeru is possible but is subject to restrictions based on volcanic activity levels. When the volcano's alert level permits access, trekkers can undertake the 2-day climb from Ranu Pani village (approximately 2,100 m), passing through montane forest, past the beautiful Ranu Kumbolo crater lake, across open plateau, and up the steep upper cone to the summit. A daily quota limits climbers (typically 300–600 per day), and registration at the Ranu Pani ranger station is mandatory. The trail has been closed for extended periods during heightened eruptions, including much of 2022–2023 following the December 2021 disaster. Climbers should check PVMBG alert levels before planning a trek."
+    },
+    {
+      "question": "Why is Semeru so dangerous?",
+      "answer": "Semeru is dangerous because of a combination of factors: it is in near-continuous eruption, its summit crater opens toward the densely populated southeastern lowlands (channeling pyroclastic flows directly at communities), and large populations of farmers cultivate the fertile volcanic soils at its base. The December 2021 pyroclastic flows demonstrated that lethal volcanic flows can reach 11+ km from the summit, well into inhabited areas. Additional hazards include rain-triggered lahars that follow river channels during the wet season, ashfall that damages agriculture and threatens respiratory health, and the potential for sudden escalation of activity with limited warning time. Tens of thousands of people live within reach of the volcano's most dangerous hazards."
+    },
+    {
+      "question": "Is Semeru the tallest volcano in Indonesia?",
+      "answer": "Semeru is the tallest volcano on the island of Java at 3,657 m (11,998 ft), but it is not the tallest volcano in all of Indonesia. That distinction belongs to Kerinci on Sumatra at 3,805 m (12,484 ft). However, Indonesia's overall highest peak — Puncak Jaya at 4,884 m in Papua — is not volcanic. Semeru is often referred to as the tallest volcano in Indonesia outside of Papua and Sumatra, and it is by far the most prominent peak on Java, visible from cities across East Java on clear days."
+    },
+    {
+      "question": "What is the connection between Semeru and Mount Bromo?",
+      "answer": "Semeru and Mount Bromo are part of the same volcanic massif in East Java and both lie within Bromo Tengger Semeru National Park. The Tengger caldera — a 16-km-wide volcanic depression containing Mount Bromo and its surrounding Sand Sea — sits at the northern end of this massif, while Semeru rises as the tallest peak at the southern end. Both volcanoes are driven by the same tectonic process (subduction of the Indo-Australian Plate) and are frequently active. However, they have separate magmatic systems and erupt independently. The famous sunrise viewpoint at Mount Penanjakan shows both Bromo's smoking crater and Semeru's towering cone in a single panorama."
+    },
+    {
+      "question": "How often does Semeru erupt?",
+      "answer": "Semeru is one of the world's most persistently active volcanoes, having been in near-continuous eruption since 1967. During active phases, the summit crater produces Strombolian explosions every 15–40 minutes — meaning the volcano literally erupts hundreds of times per day. In terms of distinct eruptive episodes documented by the Smithsonian Global Volcanism Program, Semeru has 66 recorded eruptions since 1818, averaging roughly one every three years. However, this figure understates the volcano's activity, as the 1967–2009 and 2019–present episodes each encompass thousands of individual explosive events over years of continuous activity."
+    },
+    {
+      "question": "What should you do if Semeru erupts while you are nearby?",
+      "answer": "If you are near Semeru during an escalation in activity, follow instructions from PVMBG and local authorities immediately. Move away from river channels and valleys on the southeastern flanks, as these are the primary pathways for pyroclastic flows and lahars. If ashfall occurs, cover your nose and mouth with a wet cloth, seek shelter indoors, and protect water supplies. If you are on the trekking route, descend immediately and do not attempt to approach the summit crater. Monitor PVMBG's alert level updates and local emergency broadcasts. Do not enter exclusion zones under any circumstances. In Lumajang and surrounding areas, be prepared to evacuate to designated shelters if instructed by authorities."
+    }
+  ],
+  "people_also_search": [
+    "semeru eruption 2021",
+    "semeru eruption today",
+    "mount semeru deaths",
+    "semeru climbing",
+    "tallest volcano java",
+    "bromo semeru national park",
+    "semeru alert level",
+    "mahameru meaning"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Semeru",
+    "alternateName": [
+      "Gunung Semeru",
+      "Mahameru",
+      "Great Mountain"
+    ],
+    "description": "Java's tallest active stratovolcano at 3,657 m, in near-continuous eruption since 1967, site of the deadly 2021 pyroclastic flow disaster",
+    "geo": {
+      "latitude": -8.108,
+      "longitude": 112.922,
+      "elevation": 3657
+    },
+    "containedInPlace": {
+      "name": "East Java",
+      "country": "Indonesia"
+    },
+    "url": "https://volcanoatlas.com/volcano/semeru"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=263300",
+      "text": "Smithsonian GVP: Semeru",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://magma.esdm.go.id/v1/gunung/api/263300",
+      "text": "PVMBG: Semeru Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Semeru",
+      "text": "Britannica: Mount Semeru",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "merapi",
+      "krakatau",
+      "tambora",
+      "bromo",
+      "kelud",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "indonesia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "tallest-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "merapi",
+    "bromo",
+    "krakatau",
+    "kelud",
+    "raung"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "label": "Mount Semeru",
+      "url": "/volcano/semeru"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/semeru"
+}

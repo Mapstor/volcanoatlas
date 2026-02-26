@@ -1,0 +1,173 @@
+{
+  "slug": "saudi-arabia",
+  "title": "Volcanoes in Saudi Arabia",
+  "meta_title": "Volcanoes in Saudi Arabia — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Saudi Arabia has 7 Holocene volcanic fields (harrats) along the western Arabian Peninsula. Full list with map, eruption history, and geological guide.",
+
+  "quick_answer": {
+    "how_many": "Saudi Arabia has 7 Holocene volcanoes — all basaltic volcanic fields known locally as 'harrats' — stretching along the western margin of the Arabian Peninsula parallel to the Red Sea.",
+    "how_many_active": "Four harrats have confirmed eruptions within the last 2,000 years: Harrat Rahat (last 1256), Harrat Lunayyir (last ~1000 CE), Harrat Khaybar (last ~650 CE), and Jabal Yar (last 1810).",
+    "why": "Saudi Arabia's volcanism is driven by the rifting of the Red Sea, where the Arabian Plate separates from the African Plate. The harrats formed from basaltic fissure eruptions along the rift's eastern margin.",
+    "tallest": "Harrat Khaybar at 2,093 m (6,867 ft)",
+    "most_recent": "Jabal Yar in 1810 (some sources note the 1256 Harrat Rahat eruption near Medina as the most significant)"
+  },
+
+  "hero": {
+    "title": "Volcanoes in Saudi Arabia",
+    "subtitle": "7 Basaltic Lava Fields Along the Red Sea Rift",
+    "volcano_count": 7,
+    "active_count": 4,
+    "tallest": {"name": "Harrat Khaybar", "elevation_m": 2093},
+    "most_recent_eruption": {"volcano": "Jabal Yar", "year": "1810"}
+  },
+
+  "sections": {
+    "overview": {
+      "content": "Saudi Arabia has 7 Holocene volcanic fields catalogued by the Smithsonian Global Volcanism Program, all of them basaltic lava fields known in Arabic as 'harrats' — a term meaning rough, stony ground covered by dark lava flows. These harrats form one of the largest continental volcanic provinces on Earth, stretching approximately 2,000 km along the western margin of the Arabian Peninsula from southern Türkiye to Yemen, parallel to the Red Sea rift. The most significant is [[volcano:rahat-harrat|Harrat Rahat]], Saudi Arabia's largest lava field at approximately 20,000 km², which produced the most recent major eruption near the holy city of Medina (Madinah) in 1256 CE. That event, described in contemporary Islamic historical accounts, sent lava flows to within 12 km of Medina and remains one of the best-documented medieval volcanic eruptions. Saudi Arabia's volcanic heritage is unexpected to many: the kingdom is better known for oil and desert than for volcanism. Yet the harrats collectively cover over 80,000 km² of western Saudi Arabia — an area larger than the Czech Republic — and represent an active volcanic system that has erupted multiple times in the last millennium. The 2009 seismic swarm beneath Harrat Lunayyir, which included over 30,000 earthquakes and measurable ground uplift, demonstrated that Saudi Arabia's volcanic systems remain restless. The Saudi Geological Survey (SGS) monitors volcanic seismicity across the harrats in cooperation with the King Abdulaziz City for Science and Technology (KACST)."
+    },
+
+    "tectonic_setting": {
+      "content": "Saudi Arabia's volcanism is directly linked to the Red Sea Rift, one of Earth's youngest and most active continental rift systems. The Arabian Plate is separating from the African (Nubian) Plate at approximately 15–20 mm per year, a process that has been ongoing for roughly 30 million years and has created the Red Sea basin. As the plates diverge, the lithosphere thins along the rift margins, allowing hot asthenospheric mantle to rise and partially melt, producing the basaltic magmas that feed the harrats. The harrats are concentrated along the western Arabian margin, roughly 100–300 km east of the Red Sea coast, aligned with the rift's shoulder. They represent a form of rift-margin volcanism distinct from the mid-ocean-ridge volcanism developing in the Red Sea's central trough. The dominant rock type across all Saudi harrats is basalt, with some fields (like Khaybar) also producing trachybasalt and evolved felsic compositions. The volcanic fields are fed by fissure eruptions along NNW–SSE-trending vent systems that parallel the Red Sea rift axis. Harrat Rahat's 300-km length and linear vent distribution exemplify this rift-parallel geometry. The tectonic setting is comparable to the East African Rift volcanic fields in [[country:ethiopia|Ethiopia]] and Kenya, though the Arabian harrats are somewhat older and less active than the most vigorous East African rift centers. The combined harrat system — extending from the Syrian–Jordanian Harrat Ash Shaam in the north through the Saudi harrats to Yemen in the south — represents one of the largest areas of Cenozoic continental basaltic volcanism on Earth."
+    },
+
+    "major_volcanoes": {
+      "content": "**Harrat Rahat** — [[volcano:rahat-harrat|Harrat Rahat]] is Saudi Arabia's largest and most historically significant volcanic field, covering approximately 20,000 km² and extending 300 km south from Medina. A 100-km-long NNW–SSE vent system contains hundreds of basaltic scoria cones, with some evolved trachybasaltic and even trachytic domes in the northern section. Harrat Rahat produced the kingdom's most significant historical eruption in 1256 CE (VEI 3), when lava flows from vents southeast of Medina advanced northwestward for over 23 km, stopping approximately 12 km from the Prophet's Mosque. The event was documented by multiple Islamic historians and is one of the most detailed medieval eruption accounts from anywhere in the world. An earlier eruption around 641 CE is also recorded. With approximately 3 eruptions in the Holocene database and a VEI max of 3, Harrat Rahat is the most hazardous volcanic system in Saudi Arabia.\n\n**Harrat Khaybar** — [[volcano:khaybar-harrat|Harrat Khaybar]] covers more than 14,000 km² north of Medina and is one of the largest volcanic fields in the Arabian Peninsula. Its 100-km NNS vent system includes the Jabal Qidr stratovolcano, felsic lava domes, and tuff rings alongside the dominant basaltic cones. At least 7 lava flows are less than 4,500 years old, and 8 more are less than 1,500 years old. A confirmed eruption around 650 CE (VEI 2) produced extensive lava flows. Khaybar's distinctive 'white volcano' (Jabal Abyad) and 'black-and-white volcano' are among the most photogenic volcanic landmarks in Saudi Arabia.\n\n**Harrat Lunayyir** — [[volcano:lunayyir-harrat|Harrat Lunayyir]] is one of the smallest Saudi harrats but gained international attention in April–June 2009 when a seismic swarm of over 30,000 earthquakes (the largest M 5.7) and 40 cm of ground uplift occurred beneath the field. The event was interpreted as a shallow dike intrusion that nearly reached the surface — the closest Saudi Arabia has come to a volcanic eruption in modern times. Approximately 40,000 people were evacuated from nearby villages. One confirmed eruption around 1000 CE is recorded. The 2009 event significantly upgraded Saudi Arabia's volcanic monitoring program.\n\n**Jabal Yar** — Jabal Yar (305 m / 1,001 ft) in the southern Asir region produced Saudi Arabia's most recent confirmed eruption in 1810 (VEI 2). It is the lowest-elevation and southernmost of the Saudi harrats.\n\n**Harrat Kishb** — Harrat Kishb (1,475 m / 4,839 ft) lies east of Mecca and covers approximately 6,000 km². It has no confirmed historical eruptions but contains young-appearing lava flows.\n\n**Harrat Ithnayn** — Harrat Ithnayn (1,625 m / 5,331 ft) in the north has no confirmed eruptions but represents the northernmost Saudi harrat.\n\n**Harrat al Birk** — Harrat al Birk (587 m / 1,926 ft) in the southern Asir coastal zone has no confirmed Holocene eruptions."
+    },
+
+    "eruption_history": {
+      "content": "Saudi Arabia's eruption record is short but significant, with 6 catalogued eruptions across the 7 harrats. The most consequential event was the 1256 CE eruption of Harrat Rahat, one of the most thoroughly documented medieval volcanic eruptions in the world. Islamic historians including Abu Shama and Ibn al-Athir described the eruption in detail: lava flows began from vents southeast of Medina and advanced toward the holy city for several weeks, creating panic among the population. The flows traveled over 23 km before halting approximately 12 km from the Prophet's Mosque, an event interpreted at the time as divine intervention. The eruption was assigned VEI 3 and produced a lava field clearly visible today. Harrat Rahat also records an earlier eruption around 641 CE (VEI 2), and an uncertain event in 1292. Harrat Khaybar produced a VEI 2 eruption around 650 CE. Jabal Yar's 1810 eruption (VEI 2) in the far south was the kingdom's most recent confirmed event. Harrat Lunayyir's eruption around 1000 CE is the only confirmed event for that field. The 2009 Lunayyir seismic swarm — though it did not result in eruption — was the most significant volcanic unrest event in modern Saudi Arabian history, demonstrating that the harrats remain capable of producing eruptions with little long-term warning."
+    },
+
+    "volcanic_hazards": {
+      "content": "Saudi Arabia's volcanic hazards center on the potential for basaltic fissure eruptions from the harrats, particularly Harrat Rahat due to its proximity to Medina (population ~1.5 million) and Mecca (population ~2 million). A repeat of the 1256 eruption could send lava flows toward Medina's expanding urban area, which has grown significantly closer to the volcanic field since the 13th century. Basaltic fissure eruptions produce fast-moving lava flows (potentially 10+ km/hr on steep terrain), volcanic gases, and localized tephra fall. While fatalities from lava flows are rare due to their visibility and the ability to evacuate, infrastructure damage would be enormous. The 2009 Lunayyir seismic swarm demonstrated an additional hazard: the seismicity itself caused building damage, ground cracking, and mass panic, requiring evacuation of ~40,000 people — even without an eruption. If the 2009 dike intrusion had reached the surface, it would have produced a Strombolian to Hawaiian-style eruption with lava fountaining and flows. The Saudi Geological Survey has significantly expanded its volcanic monitoring network since 2009, deploying seismometers, GPS stations, and InSAR satellite monitoring across the major harrats. A volcanic hazard assessment for Harrat Rahat was published in cooperation with the USGS, and eruption contingency planning for Medina has been developed."
+    },
+
+    "volcanic_zones_map": {
+      "content": "Saudi Arabia's 7 Holocene volcanic fields form a roughly linear belt parallel to the Red Sea, extending approximately 1,500 km from north to south along the western margin of the Arabian Peninsula. From north to south: Harrat Ithnayn (26.6°N) in the northern desert; Harrat Khaybar (25.5°N) and Harrat Lunayyir (25.2°N) north of Medina; Harrat Rahat (23.1°N) stretching 300 km south from Medina; Harrat Kishb (22.8°N) east of Mecca; Harrat al Birk (18.4°N) on the Asir coastal plain; and Jabal Yar (17.1°N) in the far south near the Yemen border. The fields are concentrated 100–300 km east of the Red Sea coast, aligned along the rift shoulder. Harrat Rahat and Harrat Khaybar are the two largest, together covering over 34,000 km². The cross-border Harrat Ash Shaam, shared with Syria and Jordan, extends the volcanic belt northward into the Levant. The entire Saudi harrat system sits on thick continental crust (>25 km) of the Arabian Shield."
+    },
+
+    "impact_on_culture_and_economy": {
+      "content": "Saudi Arabia's volcanic fields have shaped both the physical landscape and the cultural history of the Arabian Peninsula. The 1256 Harrat Rahat eruption near Medina is recorded in Islamic historical literature and holds religious significance — the event was interpreted as one of the signs prophesied by the Prophet Muhammad. The lava field from that eruption is still clearly visible south of Medina and has influenced urban planning as the city expanded. The harrats' dark basaltic landscapes contrast dramatically with the surrounding pale desert, creating striking visual features visible from space. Harrat Khaybar's unusual volcanic landforms — including the 'white volcano' Jabal Abyad and the distinctive lava formations — have attracted growing geological tourism interest, particularly as Saudi Arabia develops its tourism sector under Vision 2030. The harrats have historically been barriers to travel and settlement, with their rough lava surfaces impassable to traditional caravans — the Arabic word 'harrat' itself reflects this harsh terrain. Archaeologically, the volcanic fields contain extensive pre-Islamic rock art and stone structures, preserved by the hostile terrain that discouraged later settlement."
+    },
+
+    "visiting_volcanoes": {
+      "content": "Saudi Arabia's volcanic fields are increasingly accessible as the kingdom develops tourism infrastructure under Vision 2030. Harrat Khaybar, with its dramatic volcanic cones and the photogenic Jabal Abyad ('White Mountain'), is emerging as a geological tourism destination approximately 130 km north of Medina. The AlUla region, though primarily known for the Nabataean archaeological site of Hegra (Mada'in Salih), sits adjacent to volcanic terrain. Harrat Rahat's 1256 lava field south of Medina can be viewed from highway vantage points. The Hejaz Railway runs through volcanic landscapes. Access to the more remote harrats (Lunayyir, Kishb, Ithnayn) requires 4WD vehicles and is currently limited to geological expeditions. Saudi Arabia's volcanic sites lack the developed visitor infrastructure found at volcanic parks in [[country:spain|Spain]] or [[country:iceland|Iceland]], but this is expected to change as the country's tourism sector grows."
+    }
+  },
+
+  "volcano_table": {
+    "columns": ["Name", "Slug", "Elevation (m)", "Type", "Last Eruption", "Status", "Eruption Count", "VEI Max"],
+    "rows": [
+      {"name": "Harrat Khaybar", "slug": "khaybar-harrat", "elevation_m": 2093, "type": "Volcanic field", "last_eruption": "650 CE", "status": "Active", "eruption_count": 1, "vei_max": 2},
+      {"name": "Harrat Rahat", "slug": "rahat-harrat", "elevation_m": 1744, "type": "Volcanic field", "last_eruption": "1256", "status": "Active", "eruption_count": 2, "vei_max": 3},
+      {"name": "Harrat Ithnayn", "slug": "ithnayn-harrat", "elevation_m": 1625, "type": "Volcanic field", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Harrat Kishb", "slug": "kishb-harrat", "elevation_m": 1475, "type": "Volcanic field", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Harrat Lunayyir", "slug": "lunayyir-harrat", "elevation_m": 1370, "type": "Volcanic field", "last_eruption": "1000 CE", "status": "Active", "eruption_count": 1, "vei_max": null},
+      {"name": "Harrat al Birk", "slug": "birk-harrat-al", "elevation_m": 587, "type": "Volcanic field", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Jabal Yar", "slug": "yar-jabal", "elevation_m": 305, "type": "Volcanic field", "last_eruption": "1810", "status": "Active", "eruption_count": 1, "vei_max": 2}
+    ]
+  },
+
+  "elevation_chart": [
+    {"name": "Harrat Khaybar", "elevation": 2093, "slug": "khaybar-harrat"},
+    {"name": "Harrat Rahat", "elevation": 1744, "slug": "rahat-harrat"},
+    {"name": "Harrat Ithnayn", "elevation": 1625, "slug": "ithnayn-harrat"},
+    {"name": "Harrat Kishb", "elevation": 1475, "slug": "kishb-harrat"},
+    {"name": "Harrat Lunayyir", "elevation": 1370, "slug": "lunayyir-harrat"},
+    {"name": "Harrat al Birk", "elevation": 587, "slug": "birk-harrat-al"},
+    {"name": "Jabal Yar", "elevation": 305, "slug": "yar-jabal"}
+  ],
+
+  "eruption_timeline": [
+    {"year": 641, "volcano": "Harrat Rahat", "vei": 2, "label": "Early Islamic-era eruption south of Medina"},
+    {"year": 650, "volcano": "Harrat Khaybar", "vei": 2, "label": "Confirmed eruption at Khaybar — extensive young lava flows"},
+    {"year": 1000, "volcano": "Harrat Lunayyir", "vei": null, "label": "Confirmed eruption at Lunayyir volcanic field"},
+    {"year": 1256, "volcano": "Harrat Rahat", "vei": 3, "label": "Lava flows advance to within 12 km of Medina — documented by Islamic historians"},
+    {"year": 1810, "volcano": "Jabal Yar", "vei": 2, "label": "Most recent confirmed eruption in Saudi Arabia"},
+    {"year": 2009, "volcano": "Harrat Lunayyir", "vei": null, "label": "Major seismic swarm (30,000+ earthquakes, M 5.7 max) — dike intrusion, 40,000 evacuated, no eruption"}
+  ],
+
+  "vei_distribution": [
+    {"vei": 2, "count": 3},
+    {"vei": 3, "count": 1}
+  ],
+
+  "facts": [
+    "Saudi Arabia's harrats collectively cover over 80,000 km² of basaltic lava fields — an area larger than the Czech Republic.",
+    "Harrat Rahat is Saudi Arabia's largest lava field at approximately 20,000 km², extending 300 km south of Medina.",
+    "The 1256 eruption near Medina was documented by multiple Islamic historians and is one of the most detailed medieval eruption accounts worldwide.",
+    "Lava flows from the 1256 Harrat Rahat eruption advanced to within 12 km of the Prophet's Mosque in Medina.",
+    "The 2009 Harrat Lunayyir seismic swarm produced over 30,000 earthquakes and 40 cm of ground uplift — the closest Saudi Arabia has come to a modern eruption.",
+    "All seven of Saudi Arabia's Holocene volcanoes are basaltic volcanic fields (harrats) — the country has no stratovolcanoes or calderas.",
+    "Harrat Khaybar's Jabal Abyad ('White Mountain') is a rare felsic trachyte dome within a predominantly basaltic field, creating a stark visual contrast.",
+    "The Arabic word 'harrat' (also harrah) means rough, dark lava terrain — reflecting the basaltic flows that cover western Saudi Arabia.",
+    "Saudi Arabia's volcanic monitoring network was significantly expanded after the 2009 Lunayyir crisis, in cooperation with the USGS.",
+    "Harrat Khaybar alone has at least 15 lava flows less than 4,500 years old, indicating sustained volcanic activity well into the historical period.",
+    "Jabal Yar's 1810 eruption at just 305 m elevation is the lowest-altitude confirmed volcanic eruption in the Arabian Peninsula.",
+    "The Saudi harrat system is the eastern continuation of the same rift volcanism that feeds Ethiopia's volcanic fields along the Red Sea–East African Rift."
+  ],
+
+  "faqs": [
+    {
+      "question": "Does Saudi Arabia have volcanoes?",
+      "answer": "Yes, Saudi Arabia has 7 Holocene volcanic fields, known locally as 'harrats.' These basaltic lava fields stretch along the western margin of the Arabian Peninsula parallel to the Red Sea and collectively cover over 80,000 km². Four have erupted within the last 2,000 years. The most significant is Harrat Rahat near Medina, which produced a well-documented eruption in 1256 CE. Saudi Arabia's volcanism surprises many people, as the kingdom is better known for its deserts and oil reserves."
+    },
+    {
+      "question": "When was the last volcanic eruption in Saudi Arabia?",
+      "answer": "Saudi Arabia's most recent confirmed volcanic eruption was at Jabal Yar in 1810 (VEI 2), in the southern Asir region. The most significant historical eruption, however, was the 1256 CE event at Harrat Rahat (VEI 3) near Medina. While no eruption has occurred since 1810, the 2009 seismic swarm at Harrat Lunayyir — with over 30,000 earthquakes, ground uplift, and a near-surface dike intrusion — demonstrated that Saudi Arabia's volcanic systems remain actively fed by magma."
+    },
+    {
+      "question": "What is a harrat?",
+      "answer": "A harrat (also spelled harrah; plural: harrat or harat) is an Arabic term for a volcanic field covered by dark basaltic lava flows. The word literally describes rough, stony ground. Saudi Arabia's harrats are vast expanses of solidified lava dotted with hundreds of cinder cones and volcanic vents. They formed through repeated basaltic fissure eruptions over millions of years, driven by the rifting of the Red Sea. The harrats' dark surfaces create dramatic contrasts with the surrounding pale desert terrain and are easily visible from satellite imagery."
+    },
+    {
+      "question": "Could a volcano erupt near Medina or Mecca?",
+      "answer": "Yes, a future eruption at Harrat Rahat could potentially produce lava flows that approach Medina (population ~1.5 million), as occurred in 1256 CE. The city has expanded significantly since then, moving its boundaries closer to the volcanic field. Mecca (population ~2 million) is further from active vents but is adjacent to Harrat Kishb. The Saudi Geological Survey has conducted volcanic hazard assessments in cooperation with the USGS and developed contingency plans. The 2009 Lunayyir event demonstrated that volcanic unrest can occur with relatively little long-term warning."
+    },
+    {
+      "question": "Why does Saudi Arabia have volcanoes?",
+      "answer": "Saudi Arabia's volcanoes exist because the Arabian Peninsula is actively rifting away from the African continent along the Red Sea. This rifting, which has been ongoing for approximately 30 million years, thins the lithosphere along the rift margins, allowing hot mantle material to rise and partially melt. The resulting basaltic magma erupts along fissures parallel to the Red Sea, building the extensive harrat lava fields. The same rift system drives volcanism in Ethiopia, Eritrea, and Yemen on the African side."
+    },
+    {
+      "question": "What happened during the 1256 eruption near Medina?",
+      "answer": "The 1256 CE eruption of Harrat Rahat is one of the best-documented medieval volcanic events in the world. Lava erupted from vents southeast of Medina and flowed northwestward for over 23 km toward the holy city, stopping approximately 12 km from the Prophet's Mosque. Multiple Islamic historians described the event in detail, including the glow visible for hundreds of kilometers and the panic among Medina's residents. The eruption was assigned VEI 3 and produced a lava field still clearly visible today along the highway south of Medina."
+    },
+    {
+      "question": "What was the 2009 Lunayyir event?",
+      "answer": "In April–June 2009, a seismic swarm of over 30,000 earthquakes (largest magnitude 5.7) and up to 40 cm of ground uplift occurred beneath Harrat Lunayyir in northwestern Saudi Arabia. Scientists interpreted the event as a shallow magmatic dike intrusion that advanced toward the surface but did not erupt. Approximately 40,000 people were evacuated from nearby villages. The event was Saudi Arabia's most significant volcanic crisis in modern history and led to a major expansion of the country's volcanic monitoring network."
+    },
+    {
+      "question": "Can you visit Saudi Arabia's volcanoes?",
+      "answer": "Saudi Arabia's volcanic fields are increasingly accessible as the kingdom develops tourism under Vision 2030. Harrat Khaybar, with its dramatic cones and the distinctive white-domed Jabal Abyad, is the most visually striking destination, accessible via 4WD from Medina (~130 km north). Harrat Rahat's 1256 lava flows can be viewed from highways south of Medina. The AlUla region, now a major tourism development zone, borders volcanic terrain. Most remote harrats require off-road vehicles and are not yet developed for tourism."
+    }
+  ],
+
+  "comparison_table": {
+    "title": "Saudi Arabia Compared to Other Rift-Volcanic Countries",
+    "headers": ["Country", "Holocene Volcanoes", "Tectonic Setting", "Dominant Type", "Most Recent Eruption"],
+    "rows": [
+      ["Saudi Arabia", "7", "Red Sea Rift margin", "Basaltic volcanic fields", "Jabal Yar (1810)"],
+      ["Ethiopia", "46", "East African Rift", "Mixed (fields + stratovolcanoes)", "Erta Ale (ongoing)"],
+      ["Yemen", "10", "Red Sea / Gulf of Aden Rift", "Volcanic fields + islands", "Jabal al-Tair (2007)"],
+      ["Eritrea", "4", "Afar Triple Junction", "Fissure eruptions", "Nabro (2011)"],
+      ["Djibouti", "1", "Afar Triple Junction", "Fissure eruptions", "Ardoukôba (1978)"]
+    ]
+  },
+
+  "external_links": [
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=231070", "text": "Smithsonian GVP: Harrat Rahat", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=231060", "text": "Smithsonian GVP: Harrat Khaybar", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=231040", "text": "Smithsonian GVP: Harrat Lunayyir", "type": "primary_source"},
+    {"url": "https://www.sgs.gov.sa/", "text": "Saudi Geological Survey", "type": "monitoring"},
+    {"url": "https://www.britannica.com/place/Saudi-Arabia", "text": "Britannica: Saudi Arabia", "type": "encyclopedia"}
+  ],
+
+  "related_countries": ["yemen", "ethiopia", "eritrea", "turkiye", "jordan"],
+
+  "breadcrumb": [
+    {"label": "Home", "url": "/"},
+    {"label": "Volcanoes in Saudi Arabia", "url": "/volcanoes-in-saudi-arabia"}
+  ],
+
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

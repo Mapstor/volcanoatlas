@@ -1,0 +1,345 @@
+{
+  "slug": "chaiten",
+  "volcano_id": 358041,
+  "title": "Chaitén",
+  "meta_title": "Chaitén Volcano — 2008 Eruption, History & Facts | VolcanoAtlas",
+  "meta_description": "Chaitén is a 1,122 m rhyolitic caldera volcano in southern Chile. Its explosive 2008 eruption caught scientists off guard. Full eruption history and hazards.",
+  "quick_answer": {
+    "what": "Chaitén is a small caldera volcano approximately 3 km in diameter in the Los Lagos Region of southern Chile, rising to 1,122 m (3,681 ft) and filled by a rhyolitic lava dome.",
+    "status": "Active — last erupted 2008–2011. Currently in repose with an active fumarole field on the new dome. Another eruption is possible with little warning.",
+    "famous_for": "The sudden, powerful VEI 4 eruption in May 2008 — the first confirmed rhyolitic eruption in over 450 years globally — which devastated the nearby town of Chaitén and forced the evacuation of its entire population.",
+    "danger_level": "Significant — the town of Chaitén (population ~4,500 before 2008) was severely damaged by lahars during the eruption. The volcano's potential for explosive rhyolitic eruptions with minimal precursory warning makes it a serious hazard."
+  },
+  "hero": {
+    "name": "Chaitén",
+    "local_name": "Volcán Chaitén",
+    "subtitle": "The Volcano That Destroyed Its Own Town",
+    "country": "Chile",
+    "region": "Los Lagos",
+    "type": "Caldera",
+    "elevation_m": 1122,
+    "elevation_ft": 3681,
+    "status": "Active",
+    "last_eruption": "2008–2011",
+    "coordinates": {
+      "lat": -42.8349,
+      "lon": -72.6514
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-12045.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,122 m (3,681 ft)",
+    "type": "Caldera",
+    "status": "Active",
+    "last_eruption": "2008–2011",
+    "first_known_eruption": "~7750 BCE",
+    "total_recorded_eruptions": 5,
+    "vei_max": "5 (~7750 BCE, ~3100 BCE)",
+    "country": "Chile",
+    "region": "Los Lagos, Southern Andean Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (> 25 km)",
+    "rock_types": [
+      "Rhyolite"
+    ],
+    "coordinates": "42.835°S, 72.651°W",
+    "nearest_city": "Chaitén — 10 km southwest",
+    "population_at_risk": "~5,000 (Chaitén town and surrounding area)",
+    "monitoring_agency": "SERNAGEOMIN (Servicio Nacional de Geología y Minería)",
+    "smithsonian_id": "358041",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=358041"
+  },
+  "sections": {
+    "overview": {
+      "content": "Chaitén is an active <a href=\"/types-of-volcanoes\">caldera</a> volcano in the Los Lagos Region of southern <a href=\"/volcanoes-in-chile\">Chile</a>, located approximately 10 km northeast of the town of Chaitén on the Gulf of Corcovado. The volcano's ~3-km-wide caldera is largely filled by a rhyolitic obsidian lava dome, and the entire complex rises to 1,122 m (3,681 ft) above sea level. Despite its modest size and low profile, Chaitén achieved worldwide scientific and media attention in May 2008, when it erupted explosively with virtually no recognized precursory activity — the first confirmed eruption of rhyolitic magma anywhere on Earth in more than 450 years. The VEI 4 eruption forced the complete evacuation of the town of Chaitén and produced Plinian ash columns reaching 20 km into the atmosphere, lahars that devastated the town's infrastructure, and a new lava dome that grew rapidly within the caldera. Chaitén's eruption fundamentally changed scientific understanding of how quickly rhyolitic volcanoes can mobilize magma to the surface. Its Holocene record includes at least two VEI 5 eruptions, in approximately 7750 BCE and 3100 BCE, demonstrating the potential for even larger events. The volcano sits within the Southern Andean Volcanic Arc, driven by subduction of the Nazca Plate beneath the South American Plate."
+    },
+    "geology_and_formation": {
+      "content": "Chaitén sits within the Southern Andean Volcanic Arc, where the Nazca Plate subducts beneath the South American Plate. What makes Chaitén geologically exceptional is its magma composition: high-silica rhyolite, a relatively rare composition for Andean volcanoes, which are overwhelmingly andesitic. Rhyolitic magma is extremely viscous and gas-rich, producing highly explosive eruptions when it reaches the surface. The caldera, approximately 3 km in diameter, formed through collapse following major explosive eruptions during the Holocene. Multiple explosive events have been identified throughout its ~10,000-year eruptive history. The caldera floor is dominated by a complex rhyolitic obsidian dome — the product of effusive phases following explosive events. Obsidian cobbles eroded from this dome and transported by the Blanco River have been found at archaeological sites along 800 km of Chile's Pacific coast, attesting to the significance of Chaitén's obsidian as a raw material for pre-Columbian tool-making. The caldera is breached on its southwest side, where a river drains into the bay near the town of Chaitén — a drainage configuration that proved catastrophic during the 2008 eruption when lahars followed this channel directly into the town."
+    },
+    "eruption_history_overview": {
+      "content": "Chaitén's eruptive record is sparse but includes some powerful events. The Smithsonian GVP database lists five confirmed eruptions, the oldest dating to approximately 7750 BCE. Two of these events — ~7750 BCE and ~3100 BCE — reached VEI 5, placing them among the most powerful explosive eruptions in southern South America's Holocene record. A VEI 4 eruption occurred around 1640 CE, the most recent pre-2008 event. The long interval between 1640 and 2008 — nearly 370 years — contributed to the perception that Chaitén was a minor, largely inactive volcanic center. No eruption had been witnessed at the volcano in modern times prior to 2008. The eruption that began on May 2, 2008, and continued through 2011, dramatically revised this assessment and revealed Chaitén as an active volcanic system fully capable of large explosive eruptions."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2008–2011 Eruption — A Sleeping Giant Awakens",
+          "content": "On May 2, 2008, Chaitén erupted explosively after showing only about 24 hours of significant seismic precursors — an astonishingly short warning period for a major volcanic event. The eruption began with a Plinian column that punched through the atmosphere to approximately 20 km altitude, dispersing rhyolitic ash across Patagonia and into Argentina. Ash blanketed the town of Chaitén, 10 km to the southwest, within hours. Chilean authorities ordered the complete evacuation of the town's approximately 4,500 residents — one of the largest volcanic evacuations in Chilean history. The initial explosive phase was followed by rapid extrusion of a viscous rhyolitic lava dome within the caldera, which grew to a height exceeding the old caldera rim within weeks. As the dome grew, it destabilized the caldera walls, generating pyroclastic flows and block-and-ash flows. Perhaps the most destructive consequence came from lahars: volcanic debris mixed with heavy rainfall overwhelmed the Blanco River — the caldera's natural drainage outlet — sending massive mudflows directly through the center of Chaitén. The lahars buried streets under meters of mud and debris, destroyed dozens of buildings, and reshaped the town's waterfront. Although no lives were lost thanks to the evacuation, the physical destruction was enormous. Approximately half the town was rendered uninhabitable. The Chilean government initially planned to relocate the entire town, establishing 'Nueva Chaitén' at a safer location. However, many residents ultimately returned, and the original town was partially rebuilt. The dome continued to grow through 2009, and intermittent explosive activity persisted until 2011. The eruption was classified at VEI 4. Its scientific significance was profound: it demonstrated that rhyolitic magma could transit from storage depths to the surface in days or less, overturning assumptions that such viscous magma required weeks or months to ascend."
+        },
+        {
+          "title": "Prehistoric Plinian Eruptions (~7750 BCE and ~3100 BCE)",
+          "content": "Geological investigations have revealed at least two VEI 5 Plinian eruptions from Chaitén during the early to mid-Holocene. The older event, approximately 7750 BCE, produced extensive pyroclastic deposits across the surrounding landscape. A second major eruption around 3100 BCE deposited thick tephra layers that have been identified in sediment cores and outcrop studies throughout the region. These events demonstrate that Chaitén is capable of eruptions significantly more powerful than the 2008 event — a critical consideration for long-term hazard assessment. The VEI 4 eruption of approximately 1640 CE, while smaller, confirmed continued activity into the historical period."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Since the end of the 2008–2011 eruption, Chaitén has been in a state of relative quiescence. The new lava dome within the caldera remains hot, with active fumaroles emitting volcanic gases. SERNAGEOMIN, Chile's geological survey, monitors the volcano through a network of seismometers and periodic satellite observations. The volcanic alert level is currently green (the lowest level). However, the 2008 eruption's extremely short precursory period — seismicity was only recognized approximately 24 hours before the explosion — raises significant concerns about early warning capabilities. Scientists have emphasized that Chaitén should be considered capable of future eruptions with minimal advance notice. Research since 2008 has focused on understanding the magma storage system and developing improved detection of pre-eruptive signals for rhyolitic volcanoes globally."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Chaitén's primary hazards include explosive ashfall, pyroclastic flows, lahars, and dome-collapse events. The 2008 eruption graphically demonstrated the lahar hazard: the caldera's natural drainage through the Blanco River channels debris flows directly toward the town of Chaitén. Even a moderate eruption producing significant tephra within the caldera could generate devastating lahars during the region's frequent heavy rainfall. Ashfall from a Plinian column can affect areas hundreds of kilometers downwind — the 2008 ash cloud reached Buenos Aires, over 1,500 km to the east, disrupting flights across southern South America. The volcano's rhyolitic composition makes pyroclastic flows a serious risk during dome-building phases. The partially rebuilt town of Chaitén remains within the high-hazard zone, and community preparedness has improved since 2008 with better evacuation routes and warning systems, though the possibility of an eruption with minimal precursory time remains a fundamental challenge."
+    },
+    "geography_and_physical_description": {
+      "content": "Chaitén is a small but geologically significant caldera approximately 3 km in diameter, located in the densely forested Andean foothills of Chile's Los Lagos Region. The caldera is largely filled by a composite rhyolitic lava dome — now including the substantial new dome emplaced during the 2008–2011 eruption. The summit of the dome complex reaches 1,122 m (3,681 ft). The caldera rim is breached to the southwest, where the Blanco River drains toward the Gulf of Corcovado. The surrounding terrain is covered by temperate rainforest characteristic of Patagonian Chile, receiving over 3,000 mm of annual rainfall. The town of Chaitén lies on the coast approximately 10 km to the southwest, serving as a ferry port connecting the Carretera Austral to Chiloé Island."
+    },
+    "cultural_significance": {
+      "content": "Chaitén's cultural impact is primarily modern, centered on the dramatic 2008 eruption and its consequences. The evacuation and near-destruction of the town became an iconic event in Chilean disaster history and sparked a national debate about volcanic risk management and community relocation. The images of the ash-darkened town buried under lahar deposits were broadcast worldwide. In pre-Columbian times, Chaitén's obsidian was an important trade commodity — obsidian cobbles from the volcano's dome, transported downstream by the Blanco River, were collected and traded along hundreds of kilometers of coastline, making Chaitén one of the most significant obsidian sources in southern South America. The town of Chaitén itself is a gateway to Patagonia and a stop on the famous Carretera Austral highway, giving the volcano a continuing role in Chilean tourism and regional identity."
+    },
+    "visiting_and_tourism": {
+      "content": "The town of Chaitén has been partially rebuilt and serves as a transit hub for travelers on the Carretera Austral, Chile's scenic highway through Patagonia. Evidence of the 2008 eruption remains visible in the town, including areas still buried under lahar deposits and damaged buildings. The volcano itself can be viewed from the town and surrounding areas but is not currently developed for close-range tourism. The broader region offers extraordinary natural attractions including Pumalín Douglas Tompkins National Park (formerly Pumalín Park) to the north and the fjords and forests of northern Patagonia. Visitors arrive by ferry from Chiloé or by road along the Carretera Austral. The volcano is best viewed in clear weather during the Chilean summer (December–March)."
+    },
+    "nearby_volcanoes": {
+      "content": "Chaitén is located within the Southern Andean Volcanic Arc, which hosts numerous active volcanoes across southern <a href=\"/volcanoes-in-chile\">Chile</a>. Michinmahuida (2,404 m), a large ice-capped stratovolcano, lies approximately 15 km to the east. <a href=\"/volcano/calbuco\">Calbuco</a>, which erupted spectacularly in April 2015, is about 200 km to the north. Chaitén is also relatively close to <a href=\"/volcano/villarrica\">Villarrica</a> and <a href=\"/volcano/llaima\">Llaima</a>, two of Chile's most active volcanoes. The Hudson caldera, source of a major VEI 5 eruption in 1991, lies farther south. Together, these volcanoes represent the ongoing volcanic activity produced by subduction along Chile's lengthy convergent plate boundary."
+    },
+    "etymology": {
+      "content": "The name Chaitén derives from the Mapudungun language of the Mapuche people. It is thought to mean 'basket of water' or 'estuary,' referring to the coastal setting of the town rather than the volcano itself. The town predates modern awareness of the volcanic hazard, having been established as a fishing and farming settlement. The volcano bore no distinct name in colonial or early republican records, contributing to its obscurity before 2008."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Chaitén Compared to Other Notable Caldera/Rhyolitic Volcanoes",
+      "description": "How does Chaitén compare to other volcanoes known for silicic explosive eruptions?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Chaitén",
+          "Chile",
+          "1,122 m",
+          "Caldera",
+          "2008–2011",
+          "5",
+          "5"
+        ],
+        [
+          "Puyehue-Cordón Caulle",
+          "Chile",
+          "2,236 m",
+          "Stratovolcano",
+          "2011",
+          "5",
+          "5"
+        ],
+        [
+          "Novarupta (Katmai)",
+          "USA",
+          "841 m",
+          "Caldera",
+          "1912",
+          "6",
+          "1"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1,486 m",
+          "Stratovolcano",
+          "1992",
+          "6",
+          "6"
+        ],
+        [
+          "Taupo",
+          "New Zealand",
+          "760 m",
+          "Caldera",
+          "~232 CE",
+          "7",
+          "28"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7750,
+      "vei": 5,
+      "label": "Major Plinian eruption — one of Chaitén's most powerful events",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -6650,
+      "vei": null,
+      "label": "Confirmed eruption, VEI unknown",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3100,
+      "vei": 5,
+      "label": "Second major Plinian eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1640,
+      "vei": 4,
+      "label": "Last pre-modern eruption — preceded by 368-year dormancy",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2008,
+      "vei": 4,
+      "label": "Sudden explosive eruption destroys town of Chaitén; new dome grows",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3,
+      "note": "Including two VEI 5 events"
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "21st",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Chaitén's 2008 eruption was the first confirmed eruption of rhyolitic magma anywhere on Earth in over 450 years.",
+    "The volcano gave only about 24 hours of recognizable seismic warning before its explosive eruption on May 2, 2008 — one of the shortest precursory periods for a major volcanic event in modern history.",
+    "The 2008 Plinian column reached approximately 20 km into the atmosphere, dispersing ash across Patagonia and as far as Buenos Aires, over 1,500 km away.",
+    "Despite the complete destruction of much of the town of Chaitén by lahars, the 2008 evacuation was successful — no direct fatalities occurred from volcanic hazards.",
+    "Obsidian from Chaitén's lava dome was traded by pre-Columbian peoples along over 800 km of Chile's Pacific coast, making it one of the most important obsidian sources in South America.",
+    "The new lava dome extruded during the 2008–2011 eruption grew so rapidly that it exceeded the height of the caldera rim within weeks.",
+    "Chaitén's Holocene record includes two VEI 5 eruptions (~7750 BCE and ~3100 BCE), indicating the volcano is capable of eruptions significantly more powerful than the 2008 event.",
+    "The Chilean government initially planned to abandon and relocate the entire town of Chaitén, but many residents returned and the town was partially rebuilt.",
+    "Chaitén's 2008 eruption overturned the scientific assumption that highly viscous rhyolitic magma requires weeks or months to ascend through the crust — the magma traveled from storage to surface in days.",
+    "The caldera's natural drainage through the Blanco River channels lahars directly toward the town of Chaitén, creating a persistent geographic vulnerability."
+  ],
+  "faqs": [
+    {
+      "question": "Is Chaitén volcano still active?",
+      "answer": "Yes, Chaitén is classified as an active volcano. Its most recent eruption occurred from 2008 to 2011, producing a major explosive event followed by rapid lava dome growth. The new dome within the caldera remains hot with active fumarolic emissions. SERNAGEOMIN maintains monitoring equipment around the volcano. While the current alert level is green, scientists emphasize that Chaitén is fully capable of erupting again, potentially with very little precursory warning — the 2008 eruption had a recognizable precursory period of only about 24 hours."
+    },
+    {
+      "question": "What happened during the 2008 Chaitén eruption?",
+      "answer": "On May 2, 2008, Chaitén erupted explosively after centuries of dormancy, producing a Plinian ash column reaching 20 km altitude. The eruption forced the complete evacuation of the nearby town of Chaitén (population ~4,500). Volcanic ash blanketed the region and disrupted air traffic across southern South America. A rhyolitic lava dome rapidly grew within the caldera, and lahars — mudflows of volcanic debris — swept through the town via the Blanco River, burying streets and destroying buildings. No direct fatalities occurred, but approximately half the town was rendered uninhabitable. Dome growth continued until 2011."
+    },
+    {
+      "question": "Was the town of Chaitén destroyed?",
+      "answer": "The town of Chaitén was severely damaged but not entirely destroyed. Lahars carrying volcanic debris overwhelmed the Blanco River and flooded through the town center, burying some areas under meters of mud. Approximately half the town's buildings were damaged or destroyed. The Chilean government initially planned to relocate the entire settlement to a safer site called Santa Bárbara. However, many residents chose to return, and the town was partially rebuilt and repopulated. Today, Chaitén functions as a transit hub on the Carretera Austral, though evidence of the 2008 disaster remains visible."
+    },
+    {
+      "question": "How tall is Chaitén volcano?",
+      "answer": "Chaitén's summit reaches 1,122 m (3,681 ft) above sea level. The volcano is a relatively small caldera, approximately 3 km in diameter, largely filled by a rhyolitic lava dome. Its modest height and low profile contributed to it being overlooked as a volcanic hazard before the 2008 eruption. By comparison, nearby Michinmahuida stands at 2,404 m. The height of the dome within the caldera changed significantly during the 2008–2011 eruption as new dome material was rapidly extruded."
+    },
+    {
+      "question": "What type of magma does Chaitén produce?",
+      "answer": "Chaitén erupts rhyolite, the most silica-rich (>72% SiO₂) and viscous type of magma. Rhyolitic eruptions are relatively rare globally and are typically extremely explosive because the high viscosity traps volcanic gases until pressure builds to a critical point. When rhyolitic magma does reach the surface effusively, it forms obsidian domes — glassy, viscous lava structures. Chaitén's caldera contains a prominent obsidian dome, and the 2008 eruption produced both explosive tephra and a new dome of the same composition."
+    },
+    {
+      "question": "Could Chaitén erupt again?",
+      "answer": "Yes, volcanologists consider future eruptions at Chaitén not only possible but likely on geological timescales. The volcano has erupted five times during the Holocene, including two VEI 5 events more powerful than the 2008 eruption. The magma storage system beneath the caldera is still active, as evidenced by ongoing fumarolic emissions from the 2008 dome. A key concern is that Chaitén may erupt again with very little advance warning — the 2008 event demonstrated that rhyolitic magma can mobilize and reach the surface in days. SERNAGEOMIN continues to monitor the volcano to detect any early signs of renewed activity."
+    },
+    {
+      "question": "Why was the 2008 Chaitén eruption scientifically important?",
+      "answer": "The 2008 eruption was a landmark event in volcanology for several reasons. It was the first confirmed rhyolitic eruption worldwide in over 450 years. It demonstrated that high-viscosity rhyolitic magma can ascend from crustal storage to the surface in days or less, overturning the prevailing assumption that such magma requires weeks to months. The extremely short precursory period — about 24 hours of notable seismicity — challenged existing volcanic early warning frameworks. The eruption also provided scientists with their first real-time observations of a rhyolitic dome-building eruption using modern monitoring technology."
+    }
+  ],
+  "people_also_search": [
+    "chaiten eruption 2008",
+    "chaiten town destroyed",
+    "chaiten volcano chile",
+    "rhyolite volcano eruption",
+    "chaiten volcano current status",
+    "patagonia volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Chaitén",
+    "alternateName": [
+      "Volcán Chaitén"
+    ],
+    "description": "Active rhyolitic caldera volcano in southern Chile, famous for its sudden 2008 eruption that devastated the nearby town",
+    "geo": {
+      "latitude": -42.8349,
+      "longitude": -72.6514,
+      "elevation": 1122
+    },
+    "containedInPlace": {
+      "name": "Los Lagos Region",
+      "country": "Chile"
+    },
+    "url": "https://volcanoatlas.com/volcano/chaiten"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=358041",
+      "text": "Smithsonian GVP: Chaitén",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/",
+      "text": "SERNAGEOMIN — Chile Geological Survey",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Chile",
+      "text": "Britannica: Chile",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "villarrica",
+      "llaima",
+      "calbuco",
+      "pinatubo",
+      "novarupta"
+    ],
+    "country_pages": [
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "villarrica",
+    "llaima",
+    "calbuco",
+    "puyehue-cordon-caulle",
+    "hudson"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "label": "Chaitén",
+      "url": "/volcano/chaiten"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/chaiten"
+}

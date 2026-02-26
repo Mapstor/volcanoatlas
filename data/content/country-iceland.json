@@ -1,0 +1,977 @@
+{
+  "slug": "iceland",
+  "title": "Volcanoes in Iceland",
+  "meta_title": "Volcanoes in Iceland — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Iceland has 35 Holocene volcanoes across 32 active systems on the Mid-Atlantic Ridge. Full list with map, eruption timeline, hazards, and travel guide.",
+  "quick_answer": {
+    "how_many": "Iceland has 35 Holocene volcanoes and approximately 130 volcanic mountains across 32 active volcanic systems, giving it one of the highest concentrations of volcanic activity per capita of any nation on Earth.",
+    "how_many_active": "At least 18 volcanoes have erupted since human settlement in 874 CE. On average, an eruption occurs somewhere in Iceland every 4–5 years.",
+    "why": "Iceland sits on the Mid-Atlantic Ridge where the North American and Eurasian plates diverge at approximately 19 mm per year, combined with a deep mantle plume (hotspot) that amplifies volcanic activity — the only place on Earth where a mid-ocean ridge rises above sea level.",
+    "tallest": "Öræfajökull at 2,010 m (6,594 ft), Iceland's highest peak, located beneath the Vatnajökull icecap.",
+    "most_recent": "Reykjanes/Sundhnúkur eruptions on the Reykjanes Peninsula (2023–2025, ongoing as of early 2025)."
+  },
+  "hero": {
+    "title": "Volcanoes in Iceland",
+    "subtitle": "32 Active Volcanic Systems on the Mid-Atlantic Ridge",
+    "volcano_count": 35,
+    "active_count": 18,
+    "tallest": {
+      "name": "Öræfajökull",
+      "elevation_m": 2010
+    },
+    "most_recent_eruption": {
+      "volcano": "Reykjanes / Sundhnúkur",
+      "year": "2023–2025 (ongoing)"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "Iceland has 35 Holocene volcanoes organized into 32 active volcanic systems, making this North Atlantic island nation one of the most volcanically active places on Earth. Situated on the Mid-Atlantic Ridge where the North American and Eurasian tectonic plates diverge, and simultaneously heated from below by a deep mantle plume, Iceland has produced over 530 documented eruptions with an extraordinary VEI distribution reaching VEI 6. In the roughly 1,150 years since Norse settlement in 874 CE, at least 18 volcanic systems have erupted, producing on average one eruption every 4–5 years. Iceland has generated approximately one-third of all lava erupted on Earth’s surface in the last 500 years — a staggering output for a country of just 103,000 km². The island’s volcanic character is fundamental to daily life: over 90% of homes are heated by geothermal energy, the landscape is shaped by lava fields covering roughly 11% of the surface area, and eruptions have repeatedly altered the course of Icelandic history, from the Laki catastrophe of 1783–84 that killed one-fifth of the population to the [[volcano:eyjafjallajokull|Eyjafjallajökull]] eruption of 2010 that disrupted European aviation for six weeks. The ongoing Reykjanes Peninsula eruption series, which began with [[volcano:fagradalsfjall|Fagradalsfjall]] in 2021 and continued through the Sundhnúkur fissures near Grindavík from 2023 into 2025, marks a new cycle of activity on a peninsula that had been volcanically dormant for approximately 800 years. Iceland’s volcanic systems span a remarkable diversity, from massive subglacial calderas like [[volcano:grimsvotn|Grímsvötn]] and [[volcano:bardarbunga|Bárðarbunga]] beneath the Vatnajökull icecap, to submarine ridges extending north toward the Arctic, to the picturesque [[volcano:snaefellsjokull|Snæfellsjökull]] immortalized in Jules Verne’s Journey to the Center of the Earth."
+    },
+    "why_iceland_has_volcanoes": {
+      "content": "Iceland’s exceptional volcanic activity results from a globally unique tectonic coincidence: it is the only place on Earth where a mid-ocean ridge rises above sea level, and it sits directly above a deep mantle plume. The Mid-Atlantic Ridge, the divergent plate boundary where the North American and Eurasian plates pull apart at approximately 19 mm per year, runs directly through Iceland from the Reykjanes Peninsula in the southwest to the Tjörnes Fracture Zone in the north. As the plates separate, mantle rock rises to fill the gap, partially melting as pressure decreases and producing basaltic magma — the same process that creates new oceanic crust along the entire 65,000-km mid-ocean ridge system, but nowhere else does it break the ocean surface so dramatically.\n\nThe second mechanism — the Iceland mantle plume — is a column of abnormally hot mantle material rising from deep within the Earth, possibly from the core–mantle boundary at ~2,900 km depth. This plume provides additional heat that amplifies melt production far beyond what plate divergence alone would generate. The plume is currently centered beneath the Vatnajökull icecap in southeastern Iceland, which explains why the highest eruption rates and the most voluminous volcanic systems (Grímsvötn, Bárðarbunga, and their associated fissure swarms) are concentrated in this region.\n\nIceland’s volcanic activity is organized into four principal volcanic zones. The Reykjanes Volcanic Zone (RVZ) extends along the Reykjanes Peninsula as a direct onshore continuation of the Mid-Atlantic Ridge. The Western Volcanic Zone (WVZ) runs northeast through Thingvellir and Langjökull. The Eastern Volcanic Zone (EVZ), the most productive, stretches from Vestmannaeyjar through Katla, Hekla, Grímsvötn, and Bárðarbunga to Askja and the Northern Volcanic Zone (NVZ), which continues to the Tjörnes Fracture Zone on the north coast. The Snæfellsnes Volcanic Zone in the west operates as an older, off-axis system. It is important to note that despite its extreme volcanic activity, Iceland is not on the [[special:ring-of-fire|Ring of Fire]] — a common misconception. The Ring of Fire is defined by subduction zones around the Pacific Ocean, while Iceland’s volcanism is driven by rifting and a hotspot, with no subduction involved."
+    },
+    "major_volcanoes": {
+      "content": "**Katla (1,490 m / 4,888 ft)**\n\n[[volcano:katla|Katla]], hidden beneath the Mýrdalsjökull icecap in southern Iceland, holds the record for the most eruptions of any Icelandic volcano with 131 in the Smithsonian database, including five VEI 5 events. Its 10 × 14 km subglacial caldera can generate devastating jökulhlaups (glacial outburst floods) when eruptions melt the overlying ice. Katla last erupted in 1918 (VEI 4), and its current repose period exceeds its historical average interval of roughly 50 years, raising concern among volcanologists. It has been linked to Eyjafjallajökull eruptions — three of the last four Eyjafjallajökull eruptions have been followed by a Katla eruption.\n\n**Hekla (1,490 m / 4,888 ft)**\n\n[[volcano:hekla|Hekla]], one of Iceland’s most famous volcanoes, was known to medieval Europeans as the “Gateway to Hell.” With 65 recorded eruptions, including five VEI 5 events, Hekla is remarkably versatile, producing eruptions ranging from effusive basaltic fissure events to powerful Plinian explosions of silicic tephra. The volcano occupies a rift–transform junction and produces basaltic andesites unusual for Icelandic rift volcanism. Hekla’s most recent eruption in 2000 (VEI 3) lasted only 12 days, but produced a 15-km-high eruption column. Its eruption interval has shortened from centuries in the medieval period to roughly 10 years in the 20th century, and scientists consider it overdue for its next eruption.\n\n**Grímsvötn (1,719 m / 5,640 ft)**\n\n[[volcano:grimsvotn|Grímsvötn]], Iceland’s most frequently active volcano in recent centuries, lies beneath the Vatnajökull icecap directly above the mantle plume. Its 6 × 8 km caldera is covered by a 200-m-thick ice shelf, with only the southern rim exposed. Grímsvötn’s 85 recorded eruptions include two VEI 6 events, and it was the source of the Laki fissure eruption of 1783–84 — one of the most consequential volcanic events in recorded history. The 2011 eruption (VEI 4) disrupted European aviation for the second time in two years.\n\n**Eyjafjallajökull (1,651 m / 5,417 ft)**\n\n[[volcano:eyjafjallajokull|Eyjafjallajökull]] became the world’s most famous volcano overnight when its April–May 2010 eruption (VEI 4) produced an ash cloud that shut down European airspace for six weeks, stranding an estimated 10 million passengers and costing the airline industry $1.7 billion. Despite its global notoriety, Eyjafjallajökull is a relatively small stratovolcano with only five recorded eruptions. Its eruptions have historically been followed by eruptions of the much larger Katla to the east — a pattern that kept Iceland on high alert through 2010–2011.\n\n**Bárðarbunga (2,000 m / 6,562 ft)**\n\n[[volcano:bardarbunga|Bárðarbunga]], Iceland’s second-highest peak, contains a subglacial caldera 700 m deep beneath the Vatnajökull icecap. Its 55 recorded eruptions include the VEI 6 event of 1477 and the Þjórsáhraun eruption, which produced the largest known Holocene lava flow on Earth — more than 21 km³. The 2014–2015 Holuhraun eruption, a six-month fissure event on its northern flank, produced 1.6 km³ of lava and emitted sulfur dioxide quantities that regularly degraded air quality across Iceland and into continental Europe.\n\n**Askja (1,080 m / 3,543 ft)**\n\n[[volcano:askja|Askja]], a large basaltic central volcano in the remote highlands, is truncated by three overlapping calderas. Its 1875 rhyolitic Plinian eruption (VEI 5) deposited tephra across eastern Iceland and into Scandinavia, triggering a wave of Icelandic emigration to North America. The youngest caldera, Öskjuvatn, formed during this eruption and now holds a deep lake.\n\n**Krafla (800 m / 2,625 ft)**\n\n[[volcano:krafla|Krafla]], in the Northern Volcanic Zone near Lake Mývatn, has a 7 × 9 km caldera formed approximately 110,000 years ago. Its 23 eruptions include a VEI 4 event. The Krafla Fires (Mývatn Fires) of 1975–1984 consisted of nine eruptive episodes along a fissure swarm, providing volcanologists with one of the best-documented rifting sequences in history. Iceland’s ambitious Krafla Magma Testbed (KMT) project aims to drill directly into the shallow magma body discovered accidentally in 2009.\n\n**Öræfajökull (2,010 m / 6,594 ft)**\n\n[[volcano:oraefajokull|Öræfajökull]], Iceland’s highest peak, is a broad glacier-clad volcano at the southeastern edge of the Vatnajökull icecap. Its 1362 eruption (VEI 5) — Iceland’s largest known explosive eruption — devastated the Öræfi district, killing all inhabitants and livestock. A second eruption in 1728 was considerably smaller. Increased seismicity and geothermal activity detected in 2017–2018 raised concern about a potential reawakening.\n\n**Vestmannaeyjar / Surtsey / Heimaey (283 m / 928 ft)**\n\n[[volcano:vestmannaeyjar|Vestmannaeyjar]] encompasses the mostly submarine volcanic system off Iceland’s south coast. The island of Surtsey emerged from the sea in a dramatic eruption from 1963 to 1967, becoming a UNESCO World Heritage Site and a natural laboratory for studying biological colonization. In 1973, the eruption on Heimaey island threatened Iceland’s most important fishing port; residents famously sprayed seawater onto advancing lava flows to slow them, saving the harbor.\n\n**Fagradalsfjall / Reykjanes (250 m / 820 ft and 140 m / 459 ft)**\n\n[[volcano:fagradalsfjall|Fagradalsfjall]] and the broader [[volcano:reykjanes|Reykjanes]] volcanic system have dominated Icelandic volcanic news since 2021. After roughly 800 years of dormancy on the Reykjanes Peninsula, a series of eruptions began at Fagradalsfjall in March 2021, followed by eruptions in 2022 and 2023. Activity then shifted to the Sundhnúkur fissure system near the town of Grindavík in late 2023, with repeated eruptions threatening the town and the nearby Blue Lagoon tourist facility through 2024 and into 2025. This series marks the beginning of what may be a multi-decadal cycle of volcanic unrest on the peninsula.\n\n**Snæfellsjökull (1,446 m / 4,744 ft)**\n\n[[volcano:snaefellsjokull|Snæfellsjökull]], the glacier-capped stratovolcano at the western tip of the Snæfellsnes Peninsula, is Iceland’s most famous literary volcano — Jules Verne chose it as the entrance to the subterranean world in Journey to the Center of the Earth (1864). With 10 recorded eruptions and a last eruption around 200 CE, it is not currently considered highly active but remains a cherished national landmark."
+    },
+    "eruption_history": {
+      "content": "Iceland’s eruption history is among the best-documented of any volcanic region, thanks to over 1,100 years of continuous written records since Norse settlement and an extensive geological record extending back through the Holocene. The Smithsonian database records 530 eruptions across Iceland’s 35 Holocene volcanoes, but this number significantly undercounts activity — many eruptions, particularly subglacial events, went unrecorded or were attributed to the wrong volcano before modern monitoring.\n\nThe most consequential eruption in Icelandic — and arguably European — history was the Laki (Skaftáreldar) fissure eruption of 1783–84, part of the Grímsvötn volcanic system. Over eight months, a 27-km-long fissure produced approximately 14.7 km³ of basaltic lava and released an estimated 122 million tonnes of sulfur dioxide into the atmosphere. The resulting toxic haze, or “Haze Famine” (Móðuharðindin), killed roughly 50–75% of Iceland’s livestock and approximately 20% of the human population — about 10,000 people out of 50,000. The sulfur aerosol spread across Europe, contributing to crop failures and an estimated 23,000 excess deaths in Britain alone. The eruption’s climate impact depressed Northern Hemisphere temperatures by approximately 1–3°C and may have contributed to the severe winter of 1783–84 across Europe.\n\nThe Eldgjá eruption of 934 CE, also from a Katla-associated fissure, produced the largest basaltic lava flow in recorded human history — approximately 19.6 km³. The 1362 eruption of Öræfajökull (VEI 5) was Iceland’s most explosive historical eruption, completely depopulating the Öræfi district. Hekla erupted destructively in 1104 (VEI 5), 1300, 1341, 1510, and 1766–68, earning its medieval reputation. Askja’s rhyolitic VEI 5 eruption in 1875 contributed to a major wave of emigration.\n\nThe 20th and 21st centuries brought globally significant events: the 1963–67 Surtsey eruption that built a new island from the sea, the 1973 Heimaey eruption that threatened Iceland’s premier fishing port, the Krafla Fires of 1975–84, Grímsvötn’s repeated eruptions (most recently 2011), and the aviation-disrupting 2010 Eyjafjallajökull event. Bárðarbunga’s 2014–2015 Holuhraun fissure eruption was the largest Icelandic eruption in over 200 years by lava volume. Most recently, the Reykjanes Peninsula eruption series from 2021 onward represents a new volcanic cycle with significant implications for infrastructure around Grindavík and the Svartsengi geothermal power plant."
+    },
+    "volcanic_hazards": {
+      "content": "Iceland faces a distinctive set of volcanic hazards shaped by the interaction of volcanism with ice, ocean, and a small but highly concentrated population. Jökulhlaups — glacial outburst floods triggered when subglacial eruptions melt overlying ice — are Iceland’s most destructive volcanic hazard. The Vatnajökull icecap alone covers multiple active volcanic systems (Grímsvötn, Bárðarbunga, Öræfajökull, Kverkfjöll), and meltwater can accumulate beneath the glacier until it catastrophically breaches the ice dam. The 1996 Grímsvötn eruption generated a jökulhlaup with peak discharge exceeding 50,000 m³/s, destroying bridges and sections of the ring road. A major eruption of Katla beneath Mýrdalsjökull could produce jökulhlaups with estimated peak flows of 100,000–300,000 m³/s, dwarfing most river floods on Earth.\n\nVolcanic ash and gas pose significant hazards, as demonstrated by Eyjafjallajökull’s 2010 ash cloud and Holuhraun’s 2014–2015 sulfur dioxide emissions. Tephra fall from explosive eruptions can collapse roofs, contaminate water supplies, and — critically for modern Iceland — shut down transatlantic and European aviation. Fluorine-bearing tephra falling on pastures causes fluorosis in livestock, a hazard that killed the majority of Iceland’s sheep, cattle, and horses during the 1783 Laki eruption. Lava flows, while generally slow-moving and rarely lethal, can destroy infrastructure; the 2023–2025 Sundhnúkur eruptions have repeatedly threatened the town of Grindavík and critical geothermal infrastructure.\n\nIceland’s monitoring is coordinated by the Icelandic Meteorological Office ([[ext:https://en.vedur.is/|IMO]]), operating one of the world’s densest seismic and geodetic monitoring networks relative to land area. A color-coded aviation alert system (green, yellow, orange, red) provides real-time hazard communication for airlines."
+    },
+    "volcanic_zones_map": {
+      "content": "Iceland’s 35 Holocene volcanoes are distributed across four principal volcanic zones plus one off-axis belt, each with distinct characteristics. The Reykjanes Volcanic Zone (RVZ) occupies the southwestern peninsula as the direct onshore extension of the Mid-Atlantic Ridge. It contains the Reykjanes, Krýsuvík-Trölladyngja, Brennisteinsfjöll, and Fagradalsfjall systems — all crater-row and fissure-vent dominated. This zone is currently the most active in Iceland, with the ongoing Sundhnúkur eruption series.\n\nThe Western Volcanic Zone (WVZ) extends northeast from Hengill through the UNESCO-listed Thingvellir rift valley to Prestahnúkur, Langjökull, and Hofsjökull. It overlaps with the Eastern Volcanic Zone (EVZ), Iceland’s most productive volcanic zone, which stretches from Vestmannaeyjar and Eyjafjallajökull in the south through Katla, Hekla, and Torfajökull to the massive subglacial systems of Grímsvötn and Bárðarbunga beneath Vatnajökull. The Northern Volcanic Zone (NVZ) continues from Askja and Fremrínámar to Krafla and Theistareykir near the north coast. Together, the EVZ and NVZ host Iceland’s most powerful volcanoes and the majority of eruption volume.\n\nThe Snæfellsnes Volcanic Zone, running along the western peninsula of the same name, contains Snæfellsjökull, Helgrindur, and Ljósufjöll — an older, off-axis system that is less active than the main rift zones. Finally, submarine volcanism extends both north (Kolbeinsey Ridge) and south (Vestmannaeyjar) of the island along the Mid-Atlantic Ridge. The mantle plume is centered beneath southeastern Iceland, approximately under Vatnajökull, which explains the concentration of the most voluminous eruptions in this region."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism is inseparable from Icelandic identity, economy, and daily life. Geothermal energy, a direct product of volcanic heat, provides over 90% of Iceland’s space heating and roughly 25–30% of its electricity, making Iceland one of the most renewable-energy-dependent nations on Earth. The iconic Blue Lagoon, situated in a lava field on the Reykjanes Peninsula within kilometers of the current eruption site, is Iceland’s most visited tourist attraction, drawing over 1.3 million visitors annually. Geothermal tourism — hot springs, steam baths, and volcano tours — is a cornerstone of Iceland’s tourism industry, which accounts for approximately 8–10% of GDP.\n\nVolcanoes have shaped Icelandic culture since the sagas. The Laki eruption of 1783 remains the nation’s greatest natural disaster, and Katla’s anticipated eruption looms large in public consciousness. Iceland’s geological uniqueness — the “Land of Fire and Ice” branding — is its primary international tourism draw. The Surtsey eruption (1963–67) created a UNESCO World Heritage Site, and the Thingvellir rift valley, where the tectonic plates visibly diverge, is both a UNESCO site and the location of Iceland’s medieval parliament. Volcanic landscapes provide filming locations for international productions, and the 2010 Eyjafjallajökull eruption paradoxically boosted tourism by raising global awareness of Iceland’s volcanic nature. The eruptions near Grindavík since 2023, while displacing thousands of residents, have also attracted international volcano tourism, continuing a complex relationship between Icelanders and their volcanic landscape."
+    },
+    "visiting_volcanoes": {
+      "content": "Iceland offers world-class volcano tourism, from hiking recently cooled lava fields to descending inside a dormant magma chamber. The Reykjanes Peninsula, accessible within 45 minutes of Reykjavík, features the fresh lava fields from the 2021–2025 Fagradalsfjall and Sundhnúkur eruptions (accessible when conditions and authorities permit). [[volcano:snaefellsjokull|Snæfellsjökull National Park]] on the Snæfellsnes Peninsula offers glacier hikes on the iconic volcano. Þríhnúkagígur (“Inside the Volcano”) is a unique tourism experience allowing visitors to descend 120 m into a dormant magma chamber via an open elevator — the only such attraction in the world.\n\nFor more adventurous travelers, Askja in the remote highlands is accessible via 4WD vehicles in summer, with the warm Víti crater lake offering a surreal bathing experience. Krafla’s Víti explosion crater and the surrounding Mývatn geothermal area provide an accessible Northern Volcanic Zone experience. Landmannalaugar, at the foot of the Torfajökull rhyolite volcano, is one of Iceland’s most popular hiking destinations, famous for colorful rhyolite mountains and natural hot springs. The [[volcano:vestmannaeyjar|Westman Islands]] offer visits to the Eldfell cone from the 1973 eruption and a museum dedicated to the event.\n\nThe best time to visit Iceland’s volcanic sites is June through September, when highland roads are open and daylight is virtually continuous. All visitors should check [[ext:https://safetravel.is/|SafeTravel.is]] for current conditions and volcanic alert levels, particularly around the Reykjanes eruption zone."
+    }
+  },
+  "volcano_table": {
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      [
+        1,
+        "Oraefajokull",
+        "oraefajokull",
+        2010,
+        "Stratovolcano",
+        "1728",
+        "Historically active",
+        2,
+        5
+      ],
+      [
+        2,
+        "Bardarbunga",
+        "bardarbunga",
+        2000,
+        "Stratovolcano",
+        "2015",
+        "Active",
+        55,
+        6
+      ],
+      [
+        3,
+        "Kverkfjoll",
+        "kverkfjoll",
+        1930,
+        "Stratovolcano",
+        "1968",
+        "Active",
+        8,
+        1
+      ],
+      [
+        4,
+        "Snaefell",
+        "snaefell",
+        1833,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene (uncertain)",
+        0,
+        "Unknown"
+      ],
+      [
+        5,
+        "Hofsjokull",
+        "hofsjokull",
+        1765,
+        "Fissure vent(s)",
+        "Unknown",
+        "Holocene (uncertain)",
+        0,
+        "Unknown"
+      ],
+      [
+        6,
+        "Grimsvotn",
+        "grimsvotn",
+        1719,
+        "Caldera",
+        "2011",
+        "Active",
+        85,
+        6
+      ],
+      [
+        7,
+        "Eyjafjallajokull",
+        "eyjafjallajokull",
+        1651,
+        "Stratovolcano",
+        "2010",
+        "Active",
+        5,
+        4
+      ],
+      [
+        8,
+        "Thordarhyrna",
+        "thordarhyrna",
+        1650,
+        "Stratovolcano",
+        "1904",
+        "Historically active",
+        3,
+        4
+      ],
+      [
+        9,
+        "Esjufjoll",
+        "esjufjoll",
+        1620,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene (uncertain)",
+        1,
+        1
+      ],
+      [
+        10,
+        "Tungnafellsjokull",
+        "tungnafellsjokull",
+        1523,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene (uncertain)",
+        0,
+        "Unknown"
+      ],
+      [
+        11,
+        "Katla",
+        "katla",
+        1490,
+        "Fissure vent(s)",
+        "1918",
+        "Historically active",
+        131,
+        5
+      ],
+      [
+        12,
+        "Hekla",
+        "hekla",
+        1490,
+        "Stratovolcano",
+        "2000",
+        "Active",
+        65,
+        5
+      ],
+      [
+        13,
+        "Tindfjallajokull",
+        "tindfjallajokull",
+        1464,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene (uncertain)",
+        0,
+        "Unknown"
+      ],
+      [
+        14,
+        "Snaefellsjokull",
+        "snaefellsjokull",
+        1446,
+        "Stratovolcano",
+        "200",
+        "Holocene",
+        10,
+        2
+      ],
+      [
+        15,
+        "Prestahnukur",
+        "prestahnukur",
+        1385,
+        "Fissure vent(s)",
+        "-3350",
+        "Holocene",
+        3,
+        0
+      ],
+      [
+        16,
+        "Torfajokull",
+        "torfajokull",
+        1280,
+        "Stratovolcano",
+        "1477",
+        "Historically active",
+        10,
+        3
+      ],
+      [
+        17,
+        "Oddnyjarhnjukur-Langjokull",
+        "oddnyjarhnjukur-langjokull",
+        1100,
+        "Fissure vent(s)",
+        "950",
+        "Holocene",
+        6,
+        2
+      ],
+      [
+        18,
+        "Askja",
+        "askja",
+        1080,
+        "Stratovolcano",
+        "1961",
+        "Active",
+        14,
+        5
+      ],
+      [
+        19,
+        "Ljosufjoll",
+        "ljosufjoll",
+        1063,
+        "Volcanic field",
+        "960",
+        "Holocene",
+        5,
+        3
+      ],
+      [
+        20,
+        "Helgrindur",
+        "helgrindur",
+        986,
+        "Volcanic field",
+        "Unknown",
+        "Holocene (uncertain)",
+        0,
+        "Unknown"
+      ],
+      [
+        21,
+        "Fremrinamar",
+        "fremrinamar",
+        970,
+        "Stratovolcano",
+        "-1200",
+        "Holocene",
+        4,
+        0
+      ],
+      [
+        22,
+        "Hengill",
+        "hengill",
+        803,
+        "Crater rows",
+        "150",
+        "Holocene",
+        13,
+        2
+      ],
+      [
+        23,
+        "Krafla",
+        "krafla",
+        800,
+        "Caldera",
+        "1984",
+        "Active",
+        23,
+        4
+      ],
+      [
+        24,
+        "Brennisteinsfjoll",
+        "brennisteinsfjoll",
+        610,
+        "Crater rows",
+        "1341",
+        "Historically active",
+        9,
+        2
+      ],
+      [
+        25,
+        "Theistareykir",
+        "theistareykir",
+        563,
+        "Shield",
+        "-900",
+        "Holocene",
+        3,
+        0
+      ],
+      [
+        26,
+        "Hromundartindur",
+        "hromundartindur",
+        550,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene (uncertain)",
+        0,
+        "Unknown"
+      ],
+      [
+        27,
+        "Heidarspordar",
+        "heidarspordar",
+        490,
+        "Fissure vent",
+        "-300",
+        "Holocene",
+        7,
+        2
+      ],
+      [
+        28,
+        "Krysuvik-Trolladyngja",
+        "krysuvik-trolladyngja",
+        360,
+        "Crater rows",
+        "1340",
+        "Historically active",
+        11,
+        2
+      ],
+      [
+        29,
+        "Vestmannaeyjar",
+        "vestmannaeyjar",
+        283,
+        "Fissure vent(s)",
+        "1973",
+        "Active",
+        10,
+        4
+      ],
+      [
+        30,
+        "Fagradalsfjall",
+        "fagradalsfjall",
+        250,
+        "Fissure vent",
+        "2023",
+        "Active",
+        3,
+        0
+      ],
+      [
+        31,
+        "Grimsnes",
+        "grimsnes",
+        200,
+        "Volcanic field",
+        "-3500",
+        "Holocene",
+        11,
+        3
+      ],
+      [
+        32,
+        "Reykjanes",
+        "reykjanes",
+        140,
+        "Crater rows",
+        "2025",
+        "Active",
+        24,
+        4
+      ],
+      [
+        33,
+        "Eldey",
+        "eldey",
+        70,
+        "Fissure vent",
+        "1926",
+        "Historically active",
+        6,
+        4
+      ],
+      [
+        34,
+        "Kolbeinsey Ridge",
+        "kolbeinsey-ridge",
+        5,
+        "Fissure vent",
+        "1755",
+        "Historically active",
+        2,
+        2
+      ],
+      [
+        35,
+        "Tjornes Fracture Zone",
+        "tjornes-fracture-zone",
+        -75,
+        "Fissure vent",
+        "1868",
+        "Historically active",
+        1,
+        "Unknown"
+      ]
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Oraefajokull",
+      "elevation": 2010,
+      "slug": "oraefajokull"
+    },
+    {
+      "name": "Bardarbunga",
+      "elevation": 2000,
+      "slug": "bardarbunga"
+    },
+    {
+      "name": "Kverkfjoll",
+      "elevation": 1930,
+      "slug": "kverkfjoll"
+    },
+    {
+      "name": "Snaefell",
+      "elevation": 1833,
+      "slug": "snaefell"
+    },
+    {
+      "name": "Hofsjokull",
+      "elevation": 1765,
+      "slug": "hofsjokull"
+    },
+    {
+      "name": "Grimsvotn",
+      "elevation": 1719,
+      "slug": "grimsvotn"
+    },
+    {
+      "name": "Eyjafjallajokull",
+      "elevation": 1651,
+      "slug": "eyjafjallajokull"
+    },
+    {
+      "name": "Thordarhyrna",
+      "elevation": 1650,
+      "slug": "thordarhyrna"
+    },
+    {
+      "name": "Esjufjoll",
+      "elevation": 1620,
+      "slug": "esjufjoll"
+    },
+    {
+      "name": "Tungnafellsjokull",
+      "elevation": 1523,
+      "slug": "tungnafellsjokull"
+    },
+    {
+      "name": "Katla",
+      "elevation": 1490,
+      "slug": "katla"
+    },
+    {
+      "name": "Hekla",
+      "elevation": 1490,
+      "slug": "hekla"
+    },
+    {
+      "name": "Tindfjallajokull",
+      "elevation": 1464,
+      "slug": "tindfjallajokull"
+    },
+    {
+      "name": "Snaefellsjokull",
+      "elevation": 1446,
+      "slug": "snaefellsjokull"
+    },
+    {
+      "name": "Prestahnukur",
+      "elevation": 1385,
+      "slug": "prestahnukur"
+    },
+    {
+      "name": "Torfajokull",
+      "elevation": 1280,
+      "slug": "torfajokull"
+    },
+    {
+      "name": "Oddnyjarhnjukur-Langjokull",
+      "elevation": 1100,
+      "slug": "oddnyjarhnjukur-langjokull"
+    },
+    {
+      "name": "Askja",
+      "elevation": 1080,
+      "slug": "askja"
+    },
+    {
+      "name": "Ljosufjoll",
+      "elevation": 1063,
+      "slug": "ljosufjoll"
+    },
+    {
+      "name": "Helgrindur",
+      "elevation": 986,
+      "slug": "helgrindur"
+    },
+    {
+      "name": "Fremrinamar",
+      "elevation": 970,
+      "slug": "fremrinamar"
+    },
+    {
+      "name": "Hengill",
+      "elevation": 803,
+      "slug": "hengill"
+    },
+    {
+      "name": "Krafla",
+      "elevation": 800,
+      "slug": "krafla"
+    },
+    {
+      "name": "Brennisteinsfjoll",
+      "elevation": 610,
+      "slug": "brennisteinsfjoll"
+    },
+    {
+      "name": "Theistareykir",
+      "elevation": 563,
+      "slug": "theistareykir"
+    },
+    {
+      "name": "Hromundartindur",
+      "elevation": 550,
+      "slug": "hromundartindur"
+    },
+    {
+      "name": "Heidarspordar",
+      "elevation": 490,
+      "slug": "heidarspordar"
+    },
+    {
+      "name": "Krysuvik-Trolladyngja",
+      "elevation": 360,
+      "slug": "krysuvik-trolladyngja"
+    },
+    {
+      "name": "Vestmannaeyjar",
+      "elevation": 283,
+      "slug": "vestmannaeyjar"
+    },
+    {
+      "name": "Fagradalsfjall",
+      "elevation": 250,
+      "slug": "fagradalsfjall"
+    },
+    {
+      "name": "Grimsnes",
+      "elevation": 200,
+      "slug": "grimsnes"
+    },
+    {
+      "name": "Reykjanes",
+      "elevation": 140,
+      "slug": "reykjanes"
+    },
+    {
+      "name": "Eldey",
+      "elevation": 70,
+      "slug": "eldey"
+    },
+    {
+      "name": "Kolbeinsey Ridge",
+      "elevation": 5,
+      "slug": "kolbeinsey-ridge"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8230,
+      "volcano": "Grímsvötn",
+      "vei": 6,
+      "label": "Massive eruption — largest known VEI 6 in Iceland's record"
+    },
+    {
+      "year": -5150,
+      "volcano": "Hekla",
+      "vei": 5,
+      "label": "Major Plinian eruption, one of Hekla's largest"
+    },
+    {
+      "year": 934,
+      "volcano": "Eldgjá (Katla system)",
+      "vei": 4,
+      "label": "Largest basaltic lava flow in human history — ~19.6 km³"
+    },
+    {
+      "year": 1104,
+      "volcano": "Hekla",
+      "vei": 5,
+      "label": "First documented eruption after Norse settlement — devastated farmland"
+    },
+    {
+      "year": 1262,
+      "volcano": "Katla",
+      "vei": 5,
+      "label": "Major subglacial explosive eruption with devastating jökulhlaups"
+    },
+    {
+      "year": 1362,
+      "volcano": "Öræfajökull",
+      "vei": 5,
+      "label": "Iceland's most explosive known eruption — depopulated the Öræfi district"
+    },
+    {
+      "year": 1477,
+      "volcano": "Bárðarbunga",
+      "vei": 6,
+      "label": "Massive eruption, one of Iceland's largest Holocene events"
+    },
+    {
+      "year": 1625,
+      "volcano": "Katla",
+      "vei": 5,
+      "label": "Major VEI 5 subglacial eruption"
+    },
+    {
+      "year": 1721,
+      "volcano": "Katla",
+      "vei": 5,
+      "label": "Powerful eruption with extensive jökulhlaup flooding"
+    },
+    {
+      "year": 1755,
+      "volcano": "Katla",
+      "vei": 5,
+      "label": "Major eruption, one of Katla's most explosive historical events"
+    },
+    {
+      "year": 1783,
+      "volcano": "Laki (Grímsvötn system)",
+      "vei": 4,
+      "label": "27-km fissure eruption — killed ~20% of Iceland's population, European climate crisis"
+    },
+    {
+      "year": 1875,
+      "volcano": "Askja",
+      "vei": 5,
+      "label": "Rhyolitic Plinian eruption triggered mass emigration to North America"
+    },
+    {
+      "year": 1918,
+      "volcano": "Katla",
+      "vei": 4,
+      "label": "Last confirmed eruption of Katla — major jökulhlaup"
+    },
+    {
+      "year": 1947,
+      "volcano": "Hekla",
+      "vei": 4,
+      "label": "Major eruption after 102 years of dormancy"
+    },
+    {
+      "year": 1963,
+      "volcano": "Surtsey (Vestmannaeyjar)",
+      "vei": 3,
+      "label": "New island born from the sea — UNESCO World Heritage Site"
+    },
+    {
+      "year": 1973,
+      "volcano": "Heimaey (Vestmannaeyjar)",
+      "vei": 3,
+      "label": "Eruption threatened Iceland's most important fishing port"
+    },
+    {
+      "year": 1975,
+      "volcano": "Krafla",
+      "vei": 1,
+      "label": "Krafla Fires begin — nine eruptive episodes through 1984"
+    },
+    {
+      "year": 2010,
+      "volcano": "Eyjafjallajökull",
+      "vei": 4,
+      "label": "Ash cloud shut down European airspace for six weeks, 10 million passengers stranded"
+    },
+    {
+      "year": 2011,
+      "volcano": "Grímsvötn",
+      "vei": 4,
+      "label": "Powerful subglacial eruption — 20-km ash plume"
+    },
+    {
+      "year": 2014,
+      "volcano": "Bárðarbunga (Holuhraun)",
+      "vei": 0,
+      "label": "Largest Icelandic eruption in 200+ years by lava volume — 1.6 km³ in 6 months"
+    },
+    {
+      "year": 2021,
+      "volcano": "Fagradalsfjall",
+      "vei": 0,
+      "label": "First eruption on Reykjanes Peninsula in ~800 years"
+    },
+    {
+      "year": 2023,
+      "volcano": "Fagradalsfjall",
+      "vei": 0,
+      "label": "Third Fagradalsfjall eruption; activity shifts to Sundhnúkur fissure system"
+    },
+    {
+      "year": 2025,
+      "volcano": "Reykjanes",
+      "vei": null,
+      "label": "Ongoing eruption series on Reykjanes Peninsula near Grindavík"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 90
+    },
+    {
+      "vei": 1,
+      "count": 25
+    },
+    {
+      "vei": 2,
+      "count": 96
+    },
+    {
+      "vei": 3,
+      "count": 35
+    },
+    {
+      "vei": 4,
+      "count": 38
+    },
+    {
+      "vei": 5,
+      "count": 12
+    },
+    {
+      "vei": 6,
+      "count": 2
+    }
+  ],
+  "facts": [
+    "Iceland has produced approximately one-third of all lava erupted on Earth's surface in the last 500 years — a disproportionate output for a country of just 103,000 km².",
+    "The Laki fissure eruption of 1783–84 released an estimated 122 million tonnes of sulfur dioxide, killed approximately 20% of Iceland's population, and caused an estimated 23,000 excess deaths in Britain from toxic haze.",
+    "Bárðarbunga's associated fissure system produced the Þjórsáhraun lava flow — at over 21 km³, the largest known Holocene lava flow on Earth.",
+    "Iceland is the only place on Earth where a mid-ocean ridge (the Mid-Atlantic Ridge) rises above sea level, creating a visible divergent plate boundary at Thingvellir.",
+    "Over 90% of Icelandic homes are heated by volcanic geothermal energy, making it one of the world's most renewable-energy-dependent nations.",
+    "Katla has erupted 131 times — more than any other Icelandic volcano — and its current repose period since 1918 exceeds its historical average interval, raising concern among scientists.",
+    "The Eyjafjallajökull eruption of 2010 stranded approximately 10 million air passengers and cost the airline industry an estimated $1.7 billion, despite being a relatively modest VEI 4 eruption.",
+    "During the 1973 Heimaey eruption, residents sprayed over 6 million cubic meters of seawater onto advancing lava flows to cool and divert them, successfully saving the town's harbor.",
+    "The island of Surtsey, created by eruptions from 1963 to 1967, is one of the youngest islands on Earth and a UNESCO-protected natural laboratory for studying how life colonizes new land.",
+    "Hekla was known throughout medieval Europe as the 'Gateway to Hell' — monks and scholars from the 12th century onward believed its summit crater was a literal entrance to the underworld.",
+    "The 2014–2015 Holuhraun eruption at Bárðarbunga produced 1.6 km³ of lava in six months and emitted more sulfur dioxide than all of Europe's industrial sources combined during the same period.",
+    "Iceland's 530 documented eruptions across 35 Holocene volcanoes give it an average of one eruption every 4–5 years, making it the most volcanically active country in Europe by a wide margin.",
+    "Krafla's accidental drilling into a shallow magma body in 2009 at just 2.1 km depth led to the Krafla Magma Testbed project — an unprecedented attempt to deliberately drill into and study magma in situ."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Iceland?",
+      "answer": "Iceland has 35 Holocene volcanoes listed in the Smithsonian Global Volcanism Program database, organized into approximately 32 active volcanic systems. Different sources cite varying numbers because counts depend on definitions — Iceland has about 130 individual volcanic mountains, but many of these belong to shared volcanic systems connected by underground magma plumbing. The 35 Holocene volcanoes include calderas, stratovolcanoes, fissure vents, crater rows, shield volcanoes, and volcanic fields. If only historically active systems (those that have erupted since settlement in 874 CE) are counted, the number is approximately 18."
+    },
+    {
+      "question": "How many active volcanoes are in Iceland?",
+      "answer": "At least 18 of Iceland's volcanic systems have erupted since human settlement in 874 CE, and these are generally considered 'active' in the Icelandic context. By the broader volcanological definition of 'active' (erupted within the Holocene, or the last ~11,700 years), all 35 of Iceland's Holocene volcanoes qualify. In practical terms, Iceland experiences a volcanic eruption somewhere in the country roughly every 4–5 years on average, though eruptions tend to cluster in certain periods. As of early 2025, the Reykjanes Peninsula is in an active eruption sequence that began in 2021."
+    },
+    {
+      "question": "What is the tallest volcano in Iceland?",
+      "answer": "Öræfajökull at 2,010 m (6,594 ft) is Iceland's tallest volcano and also the country's highest peak. It is a broad, glacier-clad stratovolcano located at the southeastern edge of the Vatnajökull icecap. Despite its relatively modest height compared to continental volcanoes, Öræfajökull produced Iceland's most powerful known explosive eruption in 1362 (VEI 5), which completely devastated the surrounding Öræfi district. Bárðarbunga, at 2,000 m, is the second-tallest, while Kverkfjöll at 1,930 m ranks third — all three are beneath or at the edge of the Vatnajökull icecap."
+    },
+    {
+      "question": "When was the last volcanic eruption in Iceland?",
+      "answer": "As of early 2025, Iceland is experiencing an ongoing eruption series on the Reykjanes Peninsula. The current cycle began with the Fagradalsfjall eruption in March 2021 — the first eruption on the peninsula in approximately 800 years — followed by further Fagradalsfjall eruptions in 2022 and 2023. Activity then shifted to the Sundhnúkur fissure system near the town of Grindavík in late 2023, with multiple eruptions in 2024 and continuing into 2025. These eruptions have repeatedly threatened Grindavík and nearby geothermal infrastructure, forcing evacuations."
+    },
+    {
+      "question": "Why does Iceland have so many volcanoes?",
+      "answer": "Iceland's extraordinary volcanic activity results from a globally unique combination of two tectonic mechanisms. First, it sits directly on the Mid-Atlantic Ridge, the divergent plate boundary where the North American and Eurasian plates pull apart at approximately 19 mm per year, allowing mantle rock to rise and partially melt. Second, a deep mantle plume (hotspot) beneath the island provides additional heat that dramatically amplifies magma production. Iceland is the only place on Earth where a mid-ocean ridge rises above sea level, and the coincidence of ridge and plume makes it one of the most volcanically active locations on the planet."
+    },
+    {
+      "question": "Is it safe to visit volcanoes in Iceland?",
+      "answer": "Yes, visiting volcanoes in Iceland is generally safe when following official guidance. Iceland operates one of the world's densest volcanic monitoring networks, managed by the Icelandic Meteorological Office (IMO), which issues real-time alerts using a color-coded aviation system (green, yellow, orange, red). Popular volcanic sites like Snæfellsjökull, Krafla, and the Westman Islands have established tourism infrastructure. The Reykjanes eruption zone near Grindavík is accessible at times under supervised conditions but can be closed during active eruptions. Visitors should always check SafeTravel.is for current conditions."
+    },
+    {
+      "question": "What is the most dangerous volcano in Iceland?",
+      "answer": "Katla is generally considered Iceland's most dangerous volcano due to its combination of high eruption frequency (131 recorded eruptions), large VEI potential (five VEI 5 events), subglacial location beneath the Mýrdalsjökull icecap (enabling devastating jökulhlaups), and an overdue repose period exceeding its historical average. A major Katla eruption could generate glacial outburst floods with estimated peak flows of 100,000–300,000 m³/s and produce significant tephra fall and potential aviation disruption. Grímsvötn, with 85 eruptions and two VEI 6 events, is also considered extremely hazardous."
+    },
+    {
+      "question": "Can you see lava in Iceland?",
+      "answer": "Whether you can see active lava in Iceland depends on current volcanic activity. The ongoing Reykjanes Peninsula eruption series (2021–2025) has at times provided spectacular public lava viewing opportunities, particularly during the Fagradalsfjall eruptions of 2021–2023, when thousands hiked to viewpoints overlooking active lava flows. During the Sundhnúkur eruptions near Grindavík (2023–2025), access has been more restricted. Even between eruptions, Iceland offers extensive recent lava fields to walk on, including the Holuhraun field from 2014–2015 and numerous historical flows."
+    },
+    {
+      "question": "What was Iceland's worst volcanic eruption?",
+      "answer": "The Laki (Skaftáreldar) fissure eruption of 1783–84, part of the Grímsvötn volcanic system, was Iceland's worst eruption in terms of human impact. Over eight months, a 27-km-long fissure erupted approximately 14.7 km³ of basaltic lava and released 122 million tonnes of sulfur dioxide. The resulting toxic haze and fluorine poisoning killed roughly 50–75% of Iceland's livestock and approximately 10,000 people — about 20% of the population — in the 'Haze Famine' (Móðuharðindin). The sulfur aerosol spread across Europe, contributing to crop failures and an estimated 23,000 excess deaths in Britain."
+    },
+    {
+      "question": "How often do volcanoes erupt in Iceland?",
+      "answer": "On average, a volcanic eruption occurs somewhere in Iceland every 4–5 years. However, eruptions are not evenly distributed in time — they tend to cluster during active periods on particular volcanic systems, separated by quieter intervals. The current Reykjanes Peninsula cycle, which began in 2021, has already produced multiple eruptions within a few years. Historically, the Krafla Fires (1975–1984) saw nine eruptive episodes in a decade. Some volcanic systems like Katla have erupted roughly every 40–80 years, while others have repose periods of centuries. Iceland's total of 530 documented eruptions provides one of the most complete volcanic records on Earth."
+    }
+  ],
+  "comparison_table": {
+    "title": "Iceland Compared to Other Volcanic Countries in Europe and the North Atlantic",
+    "headers": [
+      "Country",
+      "Holocene Volcanoes",
+      "Total Eruptions",
+      "Tallest Volcano",
+      "Elevation",
+      "Most Active",
+      "VEI Max"
+    ],
+    "rows": [
+      [
+        "Iceland",
+        "35",
+        "530",
+        "Öræfajökull",
+        "2,010 m",
+        "Katla / Grímsvötn",
+        "6"
+      ],
+      [
+        "Italy",
+        "13",
+        "450+",
+        "Etna",
+        "3,357 m",
+        "Etna / Stromboli",
+        "7"
+      ],
+      [
+        "Spain (Canary Islands)",
+        "8",
+        "40+",
+        "Teide",
+        "3,715 m",
+        "Cumbre Vieja",
+        "4"
+      ],
+      [
+        "Greece",
+        "5",
+        "30+",
+        "Methana",
+        "760 m",
+        "Santorini",
+        "7"
+      ],
+      [
+        "Portugal (Azores)",
+        "13",
+        "30+",
+        "Pico",
+        "2,351 m",
+        "Furnas / Sete Cidades",
+        "5"
+      ],
+      [
+        "France (Réunion)",
+        "18",
+        "200+",
+        "Piton des Neiges",
+        "3,069 m",
+        "Piton de la Fournaise",
+        "4"
+      ]
+    ]
+  },
+  "people_also_search": [
+    "how many volcanoes in Iceland",
+    "Iceland volcano eruption",
+    "Eyjafjallajökull eruption 2010",
+    "Reykjanes eruption",
+    "Katla volcano overdue",
+    "Grindavík volcano",
+    "most active volcano Iceland",
+    "Laki eruption 1783",
+    "Iceland volcano tour",
+    "Fagradalsfjall eruption"
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/search_volcano_results.cfm",
+      "text": "Smithsonian GVP: Iceland Volcanoes",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://en.vedur.is/",
+      "text": "Icelandic Meteorological Office (IMO)",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://icelandicvolcanoes.is/",
+      "text": "Catalogue of Icelandic Volcanoes",
+      "type": "authority"
+    },
+    {
+      "url": "https://safetravel.is/",
+      "text": "SafeTravel.is — Icelandic Travel Safety",
+      "type": "safety"
+    },
+    {
+      "url": "https://www.britannica.com/place/Iceland",
+      "text": "Britannica: Iceland",
+      "type": "encyclopedia"
+    }
+  ],
+  "related_countries": [
+    "united-kingdom",
+    "norway",
+    "united-states",
+    "italy",
+    "portugal"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

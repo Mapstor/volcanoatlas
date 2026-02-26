@@ -1,0 +1,392 @@
+{
+  "slug": "sabancaya",
+  "volcano_id": 354006,
+  "title": "Sabancaya",
+  "meta_title": "Sabancaya Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Sabancaya is a 5,960 m active stratovolcano in Peru, erupting continuously since 2016. Full eruption history, hazards, monitoring status, and visitor guide.",
+  "quick_answer": {
+    "what": "Sabancaya is an active stratovolcano in the Andes of southern Peru, rising to 5,960 m (19,554 ft) in the Arequipa Region. It is the youngest and most active of a trio of volcanoes that includes Ampato and Hualca Hualca.",
+    "status": "Actively erupting — continuous explosive activity since November 2016. Frequent daily vulcanian explosions producing ash plumes reaching 2–4 km above the summit.",
+    "famous_for": "One of the most persistently active volcanoes in South America, with its current eruption ongoing for over eight years. The nearby discovery of the Inca 'Ice Maiden' Juanita on Ampato in 1995 was triggered by Sabancaya's ashfall melting summit ice.",
+    "danger_level": "Moderate direct risk — the volcano is relatively remote, but ashfall regularly affects agricultural communities in the Colca Valley and can disrupt flights to Arequipa, Peru's second-largest city (population ~1 million), located 70 km to the southeast."
+  },
+  "hero": {
+    "name": "Sabancaya",
+    "local_name": "Sabancaya (Quechua: 'tongue of fire')",
+    "subtitle": "Peru's Relentlessly Active Andean Stratovolcano",
+    "country": "Peru",
+    "region": "Arequipa",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 5960,
+    "elevation_ft": 19554,
+    "status": "Active — erupting",
+    "last_eruption": "2025 (ongoing since 2016)",
+    "coordinates": {
+      "lat": -15.787,
+      "lon": -71.857
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04768.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "5,960 m (19,554 ft)",
+    "type": "Stratovolcano(es)",
+    "status": "Active — erupting continuously since November 2016",
+    "last_eruption": "2025 (ongoing)",
+    "first_known_eruption": "~6600 BCE",
+    "total_recorded_eruptions": 15,
+    "vei_max": "3 (1990–1998, 2016–present)",
+    "country": "Peru",
+    "region": "Arequipa, Central Andean Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (> 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "15.787°S, 71.857°W",
+    "nearest_city": "Chivay — approximately 25 km north; Arequipa — 70 km southeast",
+    "population_at_risk": "~30,000 in proximal Colca Valley communities; ~1 million in Arequipa (ashfall risk)",
+    "monitoring_agency": "Instituto Geofísico del Perú (IGP) and INGEMMET/OVI",
+    "smithsonian_id": "354006",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=354006"
+  },
+  "sections": {
+    "overview": {
+      "content": "Sabancaya is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> in the Central Andes of southern <a href=\"/volcanoes-in-peru\">Peru</a>, standing 5,960 m (19,554 ft) above sea level in the Arequipa Region. Its name derives from the Quechua word meaning 'tongue of fire,' a designation that first appeared in historical records around 1595 CE, suggesting the volcano was already active at that time. Sabancaya sits in a saddle between two older volcanic edifices — Nevado Ampato (6,288 m) to the southwest and Nevado Hualca Hualca (6,025 m) to the northwest — and is the youngest and most volcanically active of this trio. The volcano has been in a state of near-continuous eruption since November 2016, producing daily vulcanian explosions that send ash columns 2–4 km above the crater, making it one of the most persistently active volcanoes in all of South America. Its activity is driven by the subduction of the Nazca Plate beneath the South American Plate along the Central Andean Volcanic Arc, a tectonic belt that also hosts <a href=\"/volcano/cotopaxi\">Cotopaxi</a>, <a href=\"/volcano/misti-el\">El Misti</a>, and dozens of other major stratovolcanoes. While Sabancaya's summit is relatively remote from large population centers, its ashfall regularly impacts farming communities in the Colca Valley and occasionally disrupts air traffic into Arequipa, Peru's second-largest city."
+    },
+    "geology_and_formation": {
+      "content": "Sabancaya is situated within the Central Andean Volcanic Arc, where the oceanic Nazca Plate subducts beneath the continental South American Plate at a rate of approximately 6–7 cm per year. The thick continental crust in this region — exceeding 70 km in places — contributes to the generation of intermediate-composition magmas, predominantly andesite and basaltic andesite. Sabancaya is the youngest component of a volcanic complex that developed over more than 2 million years. Hualca Hualca, the oldest, dates to the late Pliocene to early Pleistocene. Ampato formed during the middle to late Pleistocene and retains a substantial ice cap. Sabancaya itself began building during the late Pleistocene and has been the sole active center in the group during the Holocene. Its eruptive history includes Plinian explosive phases followed by the extrusion of voluminous andesitic and dacitic lava flows, which form an extensive apron around the volcano on all sides except the south. The summit crater, approximately 300–400 m in diameter, is the source of the current persistent activity. Interaction between magmatic heat and the glaciers on adjacent Ampato and Hualca Hualca raises the potential for lahars — volcanic mudflows — during sustained eruptive periods."
+    },
+    "eruption_history_overview": {
+      "content": "Sabancaya's eruptive record spans at least 8,600 years, with 15 known eruptions documented in the Smithsonian Global Volcanism Program database. The oldest confirmed eruption dates to approximately 6600 BCE. Holocene activity has alternated between periods of explosive Plinian-style eruptions and effusive phases producing extensive lava flows. The historical record begins around 1595 CE, when the volcano's Quechua name first entered written documents. Recorded eruptions since 1750 have become increasingly well documented, particularly from the late 20th century onward. The volcano entered a particularly active phase beginning in the late 1980s, with eruptions in 1986, 1988, and a prolonged episode from 1990 to 1998 that reached <a href=\"/volcanic-explosivity-index\">VEI</a> 3. After a period of relative quiet from 1998 to 2016 — punctuated by minor unrest in 2003, 2014, and 2015 — Sabancaya resumed vigorous explosive activity in November 2016 and has remained in eruption continuously since, producing one of the longest-running eruption sequences in the Andes."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1990–1998 Eruption — Sabancaya's Late 20th-Century Reawakening",
+          "content": "After precursory activity in 1986 (VEI 1) and 1988 (VEI 1), Sabancaya entered a sustained eruptive phase on May 28, 1990, that would last eight years and reach VEI 3. The eruption was characterized by vulcanian explosions producing ash columns several kilometers high, accompanied by significant sulfur dioxide emissions. Ashfall blanketed agricultural lands in the Colca Valley, damaging crops and contaminating water supplies for communities including Chivay, Achoma, and Maca. The sustained thermal output accelerated glacier retreat on neighboring Ampato. This glacial melting had an extraordinary archaeological consequence: in September 1995, anthropologist Johan Reinhard discovered the frozen mummy of 'Juanita,' a 500-year-old Inca sacrificial victim, exposed on Ampato's summit ridge after Sabancaya's ashfall darkened the ice and hastened melting. The eruption finally waned in 1998 after producing hundreds of individual explosive events."
+        },
+        {
+          "title": "The 2016–Present Eruption — A Decade of Persistent Activity",
+          "content": "Sabancaya's current eruption began on November 6, 2016, following two years of escalating seismicity, ground deformation, and fumarolic activity. The eruption rapidly intensified, with vulcanian explosions occurring multiple times daily and ash plumes regularly reaching 2,000–4,000 m above the summit crater. By 2017, INGEMMET's Observatorio Vulcanológico was recording 20–40 explosions per day during peak phases. The eruption has been classified at VEI 3 and shows no signs of abating. Ashfall zones extend primarily to the north and northeast, repeatedly affecting communities in the Colca Valley and periodically triggering aviation alerts. Lava effusion within the summit crater has built small dome structures that are periodically destroyed by subsequent explosions. Satellite monitoring reveals continued thermal anomalies and SO₂ emissions. The eruption surpassed eight years of continuous activity in 2024, placing it among the longest ongoing eruptions in South America. INGEMMET has maintained the alert level at orange (the second-highest) for most of this period."
+        },
+        {
+          "title": "The Jorullo Parallel — Historical Eruptions (1750, 1784)",
+          "content": "The earliest well-attested historical eruptions of Sabancaya occurred in 1750 and 1784. Records from these periods are sparse, but colonial-era accounts describe ashfall and visible activity from the summit region. These eruptions confirmed that Sabancaya — not its larger and more imposing neighbors Ampato and Hualca Hualca — was the active volcanic center of the trio. The 1784 eruption, noted in July of that year, preceded a long hiatus of nearly two centuries before significant activity resumed in the 1980s."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Sabancaya is currently one of the most actively erupting volcanoes on Earth. As of 2025, vulcanian explosions continue on a daily to near-daily basis, with ash plumes typically reaching 1,500–4,000 m above the crater rim. The volcano is monitored by the Instituto Geofísico del Perú (IGP) and INGEMMET's Observatorio Vulcanológico del INGEMMET (OVI), which operates a network of seismometers, infrasound sensors, GPS stations, and gas analyzers around the edifice. Satellite-based monitoring through platforms including MIROVA (thermal) and the Washington VAAC (ash advisories) provides continuous remote tracking. Weekly reports from OVI document explosion counts, ash plume heights, sulfur dioxide flux, and seismicity levels. The volcanic alert level has been maintained at orange for most of the current eruption, reflecting sustained explosive activity with potential for escalation. The aviation color code is frequently raised to red during individual explosive pulses."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Sabancaya's primary hazards include ashfall, pyroclastic flows, lahars, and ballistic projectiles. Ashfall poses the most widespread risk, repeatedly affecting agricultural communities in the Colca Valley — one of Peru's most important tourist destinations and an essential farming region. Crops including alfalfa, corn, and quinoa have suffered periodic damage since 2016. Pyroclastic flows and surges represent a severe but more localized threat, particularly if explosive intensity escalates beyond current VEI 3 levels. Lahars are a significant concern given the glaciers on adjacent Ampato and Hualca Hualca; sustained volcanic heating accelerates ice melt, and the resulting meltwater can mobilize loose volcanic debris into devastating mudflows that funnel down river valleys toward populated areas. Aviation hazards are also substantial — Sabancaya lies beneath flight corridors serving Arequipa's Rodríguez Ballón International Airport, and ash advisories have forced flight cancellations on multiple occasions. INGEMMET has published hazard maps delineating zones of varying risk, and community preparedness programs operate in the Colca Valley."
+    },
+    "geography_and_physical_description": {
+      "content": "Sabancaya rises to 5,960 m (19,554 ft) in the Western Cordillera of the Peruvian Andes, approximately 70 km northwest of the city of Arequipa. The volcano occupies a saddle between the higher, glaciated peaks of Nevado Ampato (6,288 m) to the southwest and Nevado Hualca Hualca (6,025 m) to the northwest. Its summit crater, roughly 300–400 m in diameter, is the source of the current eruptive activity. Extensive andesitic and dacitic lava flows radiate from the edifice in all directions except to the south, where the terrain drops steeply toward the Río Colca. The surrounding landscape is characterized by the high-altitude puna grasslands and barren volcanic terrain typical of elevations above 4,500 m. The Colca Canyon — one of the deepest canyons in the world at over 3,400 m — lies to the north, and its valley communities are directly downwind of the volcano's typical ash dispersal patterns."
+    },
+    "climate_and_global_impact": {
+      "content": "Sabancaya's current eruption, while sustained, has not produced global-scale climatic effects. Its VEI 3 explosions inject sulfur dioxide and ash into the upper troposphere but generally not into the stratosphere, where longer-term climate forcing occurs. However, the persistent SO₂ emissions — measured at hundreds to thousands of tonnes per day during active phases — contribute to regional air quality degradation and acid rain that affects high-Andean ecosystems and agriculture. Compared with historical climate-altering eruptions like <a href=\"/volcano/tambora\">Tambora</a> (VEI 7, 1815) or <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6, 1991), Sabancaya's output is modest. Nevertheless, the cumulative SO₂ output over more than eight years of continuous activity is scientifically significant and has been tracked by satellite instruments including OMI and TROPOMI."
+    },
+    "cultural_significance": {
+      "content": "Sabancaya holds deep cultural significance for the Quechua-speaking communities of the Colca Valley. The volcano's name — meaning 'tongue of fire' in Quechua — reflects centuries of indigenous observation and oral tradition recording its activity. The Colca Valley itself is one of Peru's premier cultural and natural tourism destinations, famed for its pre-Inca agricultural terraces, traditional villages, and the Andean condors that soar above the canyon. Sabancaya's most remarkable cultural connection is indirect: its ashfall during the 1990s accelerated glacier melting on neighboring Ampato, leading to the 1995 discovery of 'Juanita,' the exceptionally preserved frozen mummy of an Inca girl sacrificed approximately 500 years ago. Juanita is now displayed at the Museo Santuarios Andinos in Arequipa and is one of Peru's most celebrated archaeological finds. The Inca practiced ritual sacrifices (capacocha) on high Andean peaks, which they considered sacred — the volcanic trio of Sabancaya, Ampato, and Hualca Hualca was clearly a site of profound spiritual importance."
+    },
+    "visiting_and_tourism": {
+      "content": "Sabancaya is visible from many points in the Colca Valley, Peru's second-most-visited tourist destination after Machu Picchu. While direct summit access is restricted during the current eruption, visitors to the Colca Canyon can observe Sabancaya's ash plumes from safe vantage points around Chivay and the Cruz del Condor viewpoint. The broader volcanic landscape is accessible via organized trekking tours that explore the high-altitude terrain between Ampato and Hualca Hualca. Arequipa, the gateway city, offers the Museo Santuarios Andinos where the Juanita mummy is displayed. Travelers should check current volcanic alert levels with INGEMMET before visiting the Colca Valley and be prepared for potential ashfall. The best viewing conditions typically occur during the dry season (May–October)."
+    },
+    "nearby_volcanoes": {
+      "content": "Sabancaya is one of numerous active volcanoes along the Central Andean Volcanic Arc in southern Peru. <a href=\"/volcano/misti-el\">El Misti</a> (5,822 m), the iconic cone overlooking Arequipa, lies 70 km to the southeast. Ubinas, Peru's most historically active volcano, is approximately 90 km to the east and has also experienced recent eruptive episodes. To the northwest along the arc, the massive Coropuna (6,377 m) is the highest volcano in <a href=\"/volcanoes-in-peru\">Peru</a>. Farther south, across the border in <a href=\"/volcanoes-in-chile\">Chile</a>, the volcanic arc continues with centers including Guallatiri, Isluga, and <a href=\"/volcano/villarrica\">Villarrica</a>. Together, these volcanoes form part of the Andean Central Volcanic Zone, one of the most volcanically active segments of the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "etymology": {
+      "content": "The name Sabancaya derives from the Quechua language, combining 'saban' or 'sabanc' (tongue) with 'caya' (fire), yielding 'tongue of fire.' This evocative name first appeared in written records around 1595 CE, indicating that the volcano was exhibiting visible activity — likely summit incandescence, fumaroles, or minor explosions — at the time of early Spanish colonial contact with indigenous Colca Valley communities."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Sabancaya Compared to Other Active Andean Stratovolcanoes",
+      "description": "How does Sabancaya compare to other currently or recently active volcanoes along the Central Andean Volcanic Arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Sabancaya",
+          "Peru",
+          "5,960 m",
+          "Stratovolcano",
+          "2025 (ongoing)",
+          "3",
+          "15"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,911 m",
+          "Stratovolcano",
+          "2023",
+          "4",
+          "60+"
+        ],
+        [
+          "Ubinas",
+          "Peru",
+          "5,672 m",
+          "Stratovolcano",
+          "2019",
+          "3",
+          "25"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "60+"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "12"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6600,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3490,
+      "vei": 0,
+      "label": "Minor eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1350,
+      "vei": null,
+      "label": "Medieval eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1750,
+      "vei": null,
+      "label": "First historically recorded eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1784,
+      "vei": null,
+      "label": "Colonial-era eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1986,
+      "vei": 1,
+      "label": "Precursory activity begins",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1990,
+      "vei": 3,
+      "label": "Major 8-year eruption begins; triggers Juanita discovery on Ampato",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2000,
+      "vei": 2,
+      "label": "Brief explosive episode",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2016,
+      "vei": 3,
+      "label": "Current eruption begins — ongoing daily explosions",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3,
+      "note": "Eruptions dating back to ~6600 BCE"
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 5
+    },
+    {
+      "century": "21st",
+      "count": 4,
+      "note": "Including ongoing eruption since 2016"
+    }
+  ],
+  "facts": [
+    "Sabancaya's name means 'tongue of fire' in Quechua, one of the oldest indigenous volcano names still in active use — it first appeared in written records around 1595 CE.",
+    "The volcano has been erupting continuously since November 6, 2016, with daily vulcanian explosions producing ash plumes up to 4,000 m above the summit for over eight years.",
+    "Sabancaya's ashfall during the 1990s accelerated glacier melting on adjacent Ampato, directly leading to the 1995 discovery of 'Juanita,' one of the best-preserved Inca mummies ever found.",
+    "At 5,960 m (19,554 ft), Sabancaya is one of the highest currently erupting volcanoes in the world.",
+    "The Michoacán-Guanajuato volcanic field in Mexico and Sabancaya share the distinction of having eruptions that each lasted approximately eight or more continuous years.",
+    "Sabancaya sits in a saddle between two older, higher volcanoes — Ampato (6,288 m) and Hualca Hualca (6,025 m) — yet it is the only one of the three that has erupted in historical time.",
+    "During peak activity, INGEMMET's monitoring station records 20–40 individual explosive events per day at Sabancaya's summit crater.",
+    "The Colca Valley below Sabancaya is one of the deepest canyons in the world at over 3,400 m, and its pre-Inca agricultural terraces are still farmed by local Quechua communities.",
+    "Sabancaya's persistent SO₂ emissions have been tracked by satellite instruments for years, contributing valuable data to global volcanic gas monitoring programs.",
+    "Ashfall from Sabancaya has disrupted flights into Arequipa's Rodríguez Ballón International Airport on multiple occasions since 2016."
+  ],
+  "faqs": [
+    {
+      "question": "Is Sabancaya currently erupting?",
+      "answer": "Yes, Sabancaya has been in a state of continuous eruption since November 6, 2016. The volcano produces daily vulcanian explosions, generating ash plumes that typically rise 1,500–4,000 m above the summit crater. INGEMMET and the Instituto Geofísico del Perú monitor the volcano around the clock using seismometers, infrasound sensors, and satellite remote sensing. The volcanic alert level has been maintained at orange (the second-highest level) for most of this eruption, with periodic elevations to red during intense explosive pulses. As of 2025, there are no indications that the eruption is waning."
+    },
+    {
+      "question": "How tall is Sabancaya?",
+      "answer": "Sabancaya stands 5,960 m (19,554 ft) above sea level, making it one of the highest actively erupting volcanoes on Earth. Despite its impressive elevation, it is actually the shortest of three volcanic peaks in its immediate group — neighboring Ampato reaches 6,288 m and Hualca Hualca stands at 6,025 m. Sabancaya occupies the saddle between these two older, glaciated edifices. Its summit elevation places it in the extreme high-altitude zone of the Peruvian Andes, well above the limit of permanent human habitation."
+    },
+    {
+      "question": "What is the connection between Sabancaya and the Juanita mummy?",
+      "answer": "Sabancaya's eruption in the 1990s deposited dark volcanic ash on the glaciers of neighboring Nevado Ampato. The darkened ice surface absorbed more solar radiation, accelerating melting and exposing the frozen remains of an Inca girl who had been sacrificed approximately 500 years earlier in a capacocha ritual. Anthropologist Johan Reinhard discovered the mummy — dubbed 'Juanita' or the 'Ice Maiden' — near Ampato's summit in September 1995. The remarkably preserved remains, clothing, and offerings are now exhibited at the Museo Santuarios Andinos in Arequipa, making Sabancaya an indirect catalyst for one of the most significant archaeological finds in Andean history."
+    },
+    {
+      "question": "Is it safe to visit the Colca Valley during Sabancaya's eruption?",
+      "answer": "The Colca Valley remains open to tourism during Sabancaya's eruption, though visitors should take precautions. The main tourist sites — including the Cruz del Condor viewpoint, Chivay, and the canyon trails — are generally outside the highest-risk zones. However, ashfall can occur in the valley depending on wind direction, potentially causing respiratory irritation and reducing visibility. Travelers should check current alert levels from INGEMMET before visiting, carry face masks or bandanas, and be prepared for possible flight disruptions to Arequipa. The dry season (May–October) typically offers the best conditions."
+    },
+    {
+      "question": "What type of volcano is Sabancaya?",
+      "answer": "Sabancaya is classified as a stratovolcano (also called a composite volcano), built from alternating layers of lava flows and pyroclastic deposits. It produces predominantly andesitic to dacitic magma, typical of subduction zone volcanoes along the Andean arc. Its current activity is characterized by vulcanian explosions — short, violent blasts that fragment a solidified or partially solidified lava plug in the summit crater, ejecting ash, gas, and ballistic blocks. This eruption style is common among intermediate-composition stratovolcanoes worldwide."
+    },
+    {
+      "question": "Why does Sabancaya erupt so frequently?",
+      "answer": "Sabancaya's persistent activity reflects its position above the Central Andean subduction zone, where the Nazca Plate descends beneath the South American Plate at approximately 6–7 cm per year. This continuous subduction generates a steady supply of magma. The volcano's relatively open conduit system allows gas-rich magma to reach the surface frequently rather than building up to catastrophic pressure. The current eruption represents a sustained degassing cycle, where magma rises, partially solidifies, is fragmented by gas pressure (vulcanian explosions), and the process repeats. This cycle can persist for years or even decades."
+    },
+    {
+      "question": "What are the main hazards from Sabancaya?",
+      "answer": "Sabancaya poses several volcanic hazards. Ashfall is the most widespread, regularly impacting agricultural communities in the Colca Valley and occasionally disrupting aviation. Pyroclastic flows — fast-moving currents of hot gas and rock — could reach the valley if explosive intensity escalates significantly. Lahars (volcanic mudflows) are a serious concern because Sabancaya's volcanic heat accelerates glacier melt on adjacent Ampato and Hualca Hualca, producing water that can mobilize loose volcanic material into destructive flows. Ballistic projectiles from explosions pose immediate danger within several kilometers of the crater."
+    }
+  ],
+  "people_also_search": [
+    "sabancaya eruption today",
+    "sabancaya volcano peru",
+    "sabancaya current status",
+    "colca valley volcano",
+    "juanita mummy sabancaya",
+    "most active volcano in peru",
+    "sabancaya height"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Sabancaya",
+    "alternateName": [
+      "Nevado Sabancaya"
+    ],
+    "description": "Active stratovolcano in Peru's Arequipa Region, erupting continuously since 2016",
+    "geo": {
+      "latitude": -15.787,
+      "longitude": -71.857,
+      "elevation": 5960
+    },
+    "containedInPlace": {
+      "name": "Arequipa Region",
+      "country": "Peru"
+    },
+    "url": "https://volcanoatlas.com/volcano/sabancaya"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=354006",
+      "text": "Smithsonian GVP: Sabancaya",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ingemmet.gob.pe/observatorio-vulcanologico-ingemmet",
+      "text": "INGEMMET Observatorio Vulcanológico",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.igp.gob.pe/",
+      "text": "Instituto Geofísico del Perú",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Andes-Mountains",
+      "text": "Britannica: Andes Mountains",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "cotopaxi",
+      "el-misti",
+      "villarrica",
+      "tambora",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "peru",
+      "chile"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "el-misti",
+    "cotopaxi",
+    "villarrica",
+    "ubinas",
+    "nevado-del-ruiz"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Peru",
+      "url": "/volcanoes-in-peru"
+    },
+    {
+      "label": "Sabancaya",
+      "url": "/volcano/sabancaya"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/sabancaya"
+}

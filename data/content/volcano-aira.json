@@ -1,0 +1,513 @@
+{
+  "slug": "aira",
+  "volcano_id": 282080,
+  "title": "Sakurajima (Aira Caldera)",
+  "meta_title": "Sakurajima Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Sakurajima is a 1,117 m active caldera volcano in Kagoshima, Japan. Explore its eruption history, the 1914 VEI 4 eruption, current activity, and visitor info.",
+  "quick_answer": {
+    "what": "Sakurajima is an active post-caldera stratovolcano rising to 1,117 m (3,665 ft) within the Aira caldera in Kagoshima Bay, southern Kyushu, Japan.",
+    "status": "Highly active — in near-continuous eruption since 1955. One of the most frequently erupting volcanoes on Earth. Produces hundreds of explosive events per year from Minamidake and Showa craters.",
+    "famous_for": "The catastrophic VEI 4 eruption of January 1914, which produced massive lava flows that permanently joined the formerly island volcano to the Osumi Peninsula, and for its proximity to the city of Kagoshima (population ~600,000) just 8 km across the bay.",
+    "danger_level": "One of Japan’s most dangerous volcanoes — approximately 600,000 people in Kagoshima live within its direct hazard zone."
+  },
+  "hero": {
+    "name": "Sakurajima",
+    "local_name": "桜島 (Sakurajima)",
+    "subtitle": "Japan’s Most Active Volcano, Towering Over Kagoshima",
+    "country": "Japan",
+    "region": "Kagoshima, Kyushu",
+    "type": "Caldera with post-caldera stratovolcano",
+    "elevation_m": 1117,
+    "elevation_ft": 3665,
+    "status": "Active",
+    "last_eruption": "2025 (ongoing)",
+    "coordinates": {
+      "lat": 31.5772,
+      "lon": 130.6589
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10567.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,117 m (3,665 ft) — Kitadake (north peak)",
+    "type": "Caldera with post-caldera stratovolcano(es)",
+    "status": "Active — near-continuous eruption since 1955",
+    "last_eruption": "2025 (ongoing since 2017 at Minamidake)",
+    "first_known_eruption": "~8050 BCE (Wakamiko caldera-forming VEI 6 event)",
+    "total_recorded_eruptions": 53,
+    "vei_max": "6 (~8050 BCE, Wakamiko Caldera); 5 (1471–1476 AD)",
+    "country": "Japan",
+    "region": "Kagoshima Prefecture, Kyushu",
+    "tectonic_setting": "Subduction zone — Philippine Sea Plate beneath Eurasian Plate, Ryukyu Volcanic Arc",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "31.577°N, 130.659°E",
+    "nearest_city": "Kagoshima — 8 km west across Kagoshima Bay",
+    "population_at_risk": "~600,000 (Kagoshima city); ~2.3 million in wider hazard zone",
+    "summit_crater": "Minamidake (south peak, 1,040 m) — primary active vent; Showa crater (east flank, ~800 m)",
+    "caldera_dimensions": "17 × 23 km (Aira caldera, filled by Kagoshima Bay)",
+    "protected_status": "Kirishima-Kinkowan National Park",
+    "monitoring_agency": "Japan Meteorological Agency (JMA) — Sakurajima Volcano Observatory",
+    "smithsonian_id": "282080",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=282080"
+  },
+  "sections": {
+    "overview": {
+      "content": "Sakurajima (Japanese: 桜島, literally \"Cherry Blossom Island\") is one of the most active volcanoes on Earth and the most active in <a href=\"/volcanoes-in-japan\">Japan</a>, a post-caldera <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 1,117 m (3,665 ft) within the 17 × 23 km Aira caldera in Kagoshima Bay, southern Kyushu. It is one of the most closely monitored volcanoes in the world and has been in a state of near-continuous Strombolian and Vulcanian eruption since 1955, producing hundreds to thousands of explosive events per year from its Minamidake summit crater and the flank Showa crater. Sakurajima sits just 8 km east of the city of Kagoshima — a metropolitan area of approximately 600,000 people — making it one of the most dangerously situated volcanoes on the planet, comparable in risk to <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> overlooking Naples. The Aira caldera system has been active for at least 100,000 years, with a massive VEI 6 caldera-forming eruption approximately 22,000 years ago producing the voluminous Ito pyroclastic flow that deposited ignimbrite across southern Kyushu. Sakurajima itself began building on the caldera’s southern rim around 13,000 years ago and was an island in Kagoshima Bay until the catastrophic VEI 4 eruption of January 1914, when lava flows permanently connected it to the Osumi Peninsula. Today, residents of Kagoshima live under a constant shower of volcanic ash, carrying umbrellas and wearing masks as a part of daily life — a remarkable coexistence between a major modern city and one of the world’s most restless volcanoes. The volcano is part of the <a href=\"/ring-of-fire\">Ring of Fire</a>, sitting on the Ryukyu Volcanic Arc where the Philippine Sea Plate subducts beneath the Eurasian Plate."
+    },
+    "geology_and_formation": {
+      "content": "The Aira caldera is one of the largest and most volcanologically significant calderas in Japan, measuring approximately 17 × 23 km and now largely occupied by Kagoshima Bay (Kinko Bay). The caldera formed approximately 22,000 years ago during a colossal VEI 7 eruption that ejected an estimated 400 km³ of material, including the Ito ignimbrite — a pyroclastic flow deposit that blanketed over 1,000 km² of southern Kyushu. This eruption ranks among the largest in the late Pleistocene. Following caldera collapse, post-caldera volcanism began almost immediately. The smaller Wakamiko caldera formed in the northeastern corner of the Aira caldera during the early Holocene, around 8050 BCE, in a VEI 6 event. Sakurajima itself began constructing on the southern rim of the Aira caldera approximately 13,000 years ago, initially building the older Kitadake (north peak, 1,117 m), which ceased erupting around 4,850 years ago. Activity then migrated to the younger Minamidake (south peak, 1,040 m), which has been the primary active vent throughout historical time. The volcano’s magma is predominantly andesitic to basaltic andesitic in composition — typical of subduction zone volcanism — produced by the northwestward subduction of the Philippine Sea Plate beneath the Eurasian Plate along the Ryukyu Volcanic Arc. This tectonic setting produces viscous, gas-rich magma capable of generating explosive Vulcanian and sub-Plinian eruptions, though Sakurajima’s frequent activity tends to release pressure in smaller, more regular bursts. The caldera system remains inflated: geodetic monitoring shows ongoing ground uplift in the Aira caldera at rates of approximately 1–2 cm per year, indicating continued magma supply to a shallow reservoir estimated at 3–6 km depth beneath the caldera floor. This persistent magma recharge is what drives Sakurajima’s extraordinary level of activity and raises concerns about the potential for a future large-scale eruption. Several other post-caldera cones and vents exist within the Aira caldera, but Sakurajima dominates the system’s current volcanic output. The relationship between <a href=\"/types-of-volcanoes\">caldera</a> systems and post-caldera volcanism is a critical area of volcanological research, and Aira-Sakurajima is one of the best-studied examples on Earth."
+    },
+    "eruption_history_overview": {
+      "content": "The Aira-Sakurajima volcanic system has a recorded eruption history spanning over 10,000 years, with 53 confirmed eruptions in the Smithsonian Global Volcanism Program database. Prehistoric activity was dominated by large caldera-forming events and construction of the Kitadake cone, while the historical record — beginning in 708 AD — documents a pattern of frequent, moderate eruptions punctuated by occasional large explosive events. The most significant historical eruptions include the VEI 4 event of 764 AD, the devastating VEI 5 eruption of 1471–1476, the VEI 4 eruptions of 1779–1781 and 1914, and the ongoing eruptive period that began in 1955 and continues to the present day. The 18th century was an exceptionally active period, with 14 recorded eruptions between 1706 and 1799. The current eruptive phase at Minamidake (1955–present) has produced tens of thousands of explosive events — the Japan Meteorological Agency recorded over 1,000 explosive eruptions in the single year of 2010, and annual totals regularly exceed several hundred. Since 2006, the Showa crater on the eastern flank has also become a significant eruptive vent. The <a href=\"/volcanic-explosivity-index\">VEI</a> distribution of Sakurajima’s eruptions reveals a volcano capable of producing events across the full spectrum, from near-continuous VEI 1–2 activity to rare but catastrophic VEI 5–6 explosions."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Caldera-Forming Eruption (~22,000 Years Ago) — Birth of Kagoshima Bay",
+          "content": "The defining event in the Aira system’s history occurred approximately 22,000 years ago, when a massive eruption — estimated at VEI 7 — produced the Ito pyroclastic flow and collapsed the caldera that now forms Kagoshima Bay. The eruption ejected an estimated 400 km³ of volcanic material, including pumice falls that reached thicknesses of over 10 m near the source and produced ignimbrite deposits covering more than 1,000 km² of southern Kyushu. The Ito pyroclastic flow traveled up to 100 km from the vent, making it one of the most extensive pyroclastic flows in the geological record of Japan. Fine ash from this eruption has been identified in deep-sea cores across a wide area of the western Pacific. The caldera that formed measured approximately 17 × 23 km and subsequently flooded to become Kagoshima Bay (Kinko Bay), one of Japan’s most distinctive geographical features. This eruption is considered one of the most powerful volcanic events of the late Pleistocene and established the framework within which all subsequent Aira volcanism has occurred."
+        },
+        {
+          "title": "The 1471–1476 Eruption — Sakurajima’s Largest Historical Event (VEI 5)",
+          "content": "The most powerful historical eruption of Sakurajima began on November 3, 1471, and continued intermittently for approximately five years. This VEI 5 event produced massive lava flows from both the northeast and southwest flanks, as well as explosive activity from the summit crater. Lava flows extended into the sea on multiple sides of the volcano, significantly expanding the island’s footprint. Large volumes of tephra were deposited across Kagoshima and the surrounding region, causing widespread agricultural devastation. The eruption is documented in Japanese historical records as causing significant casualties and forcing the evacuation of settlements on the island, though precise death toll figures are not well established. This eruption demonstrated that Sakurajima is capable of producing large-scale explosive events far beyond its typical Vulcanian activity, a reality that continues to inform modern hazard planning for the Kagoshima region."
+        },
+        {
+          "title": "The 1779–1781 Eruption — An-ei Great Eruption (VEI 4)",
+          "content": "On November 8, 1779, Sakurajima erupted in what is known as the An-ei Great Eruption, the second-largest historical event at the volcano. The eruption began with explosive activity from the northeast flank and rapidly intensified, producing pyroclastic flows and massive volumes of pumice and ash. Lava flows entered the sea off the northeast coast and the south flank, creating new coastal land. Submarine eruptions occurred offshore to the northeast, producing floating pumice rafts that drifted across Kagoshima Bay. The eruption was accompanied by a small tsunami that struck the shores of Kagoshima Bay. Approximately 150 people were killed, and widespread damage was recorded in settlements around the bay. The event continued through 1781 with intermittent explosive activity. Contemporary accounts describe darkness falling over Kagoshima during the peak of the eruption, with ash and pumice raining down on the city. The An-ei eruption is a critical reference event for modern hazard assessment because it demonstrated the potential for simultaneous explosive and effusive activity from multiple vents."
+        },
+        {
+          "title": "The 1914 Taisho Eruption — When Sakurajima Ceased Being an Island (VEI 4)",
+          "content": "The eruption of January 12, 1914 — known as the Taisho eruption — is the most significant volcanic event in modern Japanese history and the defining moment in Sakurajima’s recent geological story. The eruption was preceded by several days of increased seismicity that prompted many residents to evacuate the island. On the morning of January 12, explosive eruptions began simultaneously from the west and east flanks, generating eruption columns that reached 8–10 km in height. Within hours, massive lava flows began pouring from vents on both flanks. The western lava flow advanced toward Kagoshima Bay, while the eastern flows advanced toward the Osumi Peninsula. Over the following weeks and months, the eastern lava flows — estimated at approximately 1.6 km³ in volume — crossed the narrow strait separating Sakurajima from the Osumi Peninsula, permanently connecting the former island to the mainland. This dramatic geographical transformation is one of the most vivid examples of volcanic landscape change in recorded history. On the same day as the eruption’s onset, a magnitude 7.1 earthquake struck Kagoshima, collapsing buildings and compounding the disaster. The earthquake is believed to have been triggered by the massive withdrawal of magma from beneath the Aira caldera. The combined eruption and earthquake killed 58 people — a remarkably low toll given the scale of the event, attributable in large part to the precautionary evacuations. A stone monument at the Kurokami Buried Torii gate, where a Shinto shrine entrance was buried up to its crossbar by 2 m of volcanic ash and lapilli, stands as one of Japan’s most powerful reminders of volcanic hazards. The Taisho eruption also produced measurable caldera subsidence — the floor of Kagoshima Bay sank approximately 1 m — confirming the direct link between Sakurajima’s eruptions and the larger Aira caldera magma system. The eruption fundamentally changed hazard awareness in <a href=\"/volcanoes-in-japan\">Japan</a> and led to the establishment of more systematic volcano monitoring."
+        },
+        {
+          "title": "The 1955–Present Eruptive Phase — Decades of Near-Continuous Activity",
+          "content": "The current eruptive phase of Sakurajima began on October 13, 1955, at Minamidake crater and has continued virtually without pause for seven decades, making it one of the longest-running eruptions on Earth. This period has been characterized by persistent Vulcanian and Strombolian explosions, producing ash plumes that typically rise 1–3 km above the crater and occasionally reach 5–7 km. The volcano produces hundreds to over a thousand explosive events per year — JMA recorded a peak of 1,355 explosions at Minamidake in 1985, and annual totals regularly exceed several hundred. In 2006, eruptive activity began at the Showa crater on the eastern flank at approximately 800 m elevation, adding a second active vent to the system. The Showa crater became the dominant source of activity from 2009 to 2015, sometimes producing more explosive events than Minamidake. This long-running eruption has profoundly shaped daily life in Kagoshima. The city’s 600,000 residents are accustomed to regular ashfall, with specially reinforced shelters (known as ‘taihi-go’) positioned along roadsides for protection during explosive events. Garbage collection in Kagoshima includes a dedicated schedule for volcanic ash disposal. Schools practice eruption drills, and car windshield wiper fluid is formulated to handle ash. An eruption of VEI 3 intensity occurred between 1955 and 2016 at the Minamidake and Showa craters, demonstrating sustained elevated activity. The ongoing eruptive phase raises concerns about the potential for escalation to a larger eruption, similar to the 1914 Taisho event — particularly given that geodetic monitoring shows continued inflation of the Aira caldera."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Sakurajima remains one of the most closely monitored volcanoes in the world and is currently in an active eruptive state. The Japan Meteorological Agency (JMA) maintains the Sakurajima Volcano Observatory (SVO), which operates a comprehensive network of seismometers, tiltmeters, GPS stations, infrasound sensors, and cameras trained on the summit and flank craters. As of 2025, eruptive activity continues at Minamidake crater, with the current eruptive episode having been logged as ongoing since March 2017. JMA maintains a volcanic alert level system for Sakurajima, and the volcano has frequently been at Level 3 (\"Do not approach the volcano\"), with temporary escalations to Level 4 or 5 during larger explosions. A notable escalation occurred in July 2022, when a VEI 1–2 explosion at Minamidake prompted a brief Level 5 alert and evacuation preparations for communities on the volcano’s flanks. Geodetic monitoring reveals a critical long-term signal: the Aira caldera floor continues to inflate at approximately 1–2 cm per year, suggesting that magma is being supplied to the shallow reservoir faster than Sakurajima’s current eruptions can discharge it. Volcanologists have estimated that the magma stored beneath the caldera has been accumulating since the 1914 Taisho eruption and may now approach the volume ejected during that event. This has led to explicit warnings from the Japanese scientific community that a major eruption — comparable to or larger than the 1914 event — is considered plausible within the coming decades. The Kagoshima prefectural government maintains a detailed evacuation plan covering approximately 77,000 residents in the volcano’s immediate hazard zone, with regular drills conducted citywide."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Sakurajima poses one of the most complex volcanic hazard scenarios in the world due to the combination of frequent eruptive activity, proximity to a major urban center, and the potential for large-scale events. The primary ongoing hazards include volcanic bombs and ballistic projectiles (dangerous within 2–3 km of active vents), ashfall (affecting Kagoshima city during prevailing wind conditions, predominantly in summer months), pyroclastic flows (potential to reach the coastline and cross Kagoshima Bay via surges), and volcanic mudflows (lahars) generated when heavy rain mobilizes accumulated ash on steep slopes. During larger eruptions, additional hazards include lava flows (the 1914 event produced flows up to 10 m thick), volcanic earthquakes (the magnitude 7.1 earthquake accompanying the 1914 eruption demonstrated seismic hazard), and tsunamis (Kagoshima Bay’s enclosed geography amplifies wave hazards). The JMA designates a permanent exclusion zone within 2 km of Minamidake and Showa craters. The population at risk is staggering: approximately 600,000 people live in Kagoshima city, 8 km across the bay, while roughly 4,000 people live on Sakurajima itself. In a worst-case scenario resembling the 22,000-year-ago caldera-forming eruption, pyroclastic flows could inundate the entire bay region, though such an event is considered extremely unlikely in the near term. Comparison with <a href=\"/volcano/vesuvius\">Vesuvius</a> is instructive: both volcanoes threaten major cities at close range, but Sakurajima erupts far more frequently, providing both a continuous hazard and — paradoxically — a degree of pressure release that may reduce the likelihood of a sudden catastrophic event. The Kagoshima disaster preparedness infrastructure is among the most advanced in the world, with reinforced concrete shelters, ash-resistant infrastructure, and a population that is highly educated about volcanic risk."
+    },
+    "geography_and_physical_description": {
+      "content": "Sakurajima is a roughly circular volcanic massif approximately 12 km in circumference, connected to the Osumi Peninsula on its eastern side by the solidified lava flows of the 1914 eruption. The volcano consists of three main peaks: Kitadake (north peak, 1,117 m — the highest point, but dormant since approximately 4,850 years ago), Minamidake (south peak, 1,040 m — the currently active summit), and Nakedake (central peak, 1,060 m). The summit area is off-limits to hikers due to ongoing eruptive hazard. The Showa crater, which opened in 1939 and reactivated in 2006, sits on the eastern flank of Minamidake at approximately 800 m elevation. The volcano’s flanks descend steeply to the coast, with slopes clad in dense subtropical vegetation on the lower reaches and bare rock and ash deposits above approximately 600 m. Several rivers radiate from the summit, and extensive sabo (erosion control) dams have been constructed along these drainages to mitigate lahar hazards. The Aira caldera itself is a massive feature: 17 × 23 km, with much of it occupied by the waters of Kagoshima Bay, which reaches depths of over 200 m — an indicator of the enormous volume excavated by the caldera-forming eruption. On clear days, the summit of Sakurajima dominates the Kagoshima cityscape, often wreathed in steam and ash plumes — one of the most iconic urban-volcanic panoramas in the world."
+    },
+    "climate_and_global_impact": {
+      "content": "Sakurajima’s individual eruptions in the modern era are typically too small to produce measurable global climate effects, though the cumulative volcanic gas output is significant. The volcano emits an estimated 1,000–5,000 tonnes of sulfur dioxide (SO₂) per day during active periods, making it one of the largest persistent point sources of volcanic SO₂ in the world. This continuous degassing contributes to regional air quality issues in Kagoshima and has been linked to acid rain effects on local agriculture. The larger historical eruptions had more significant atmospheric impacts: the 1914 Taisho eruption injected ash and SO₂ into the upper troposphere, producing atmospheric haze observed across southern Japan, though its global climate impact was negligible compared to contemporary events like the 1912 Novarupta eruption. The caldera-forming eruption approximately 22,000 years ago, however, would have had substantial hemispheric climate effects, injecting hundreds of megatonnes of ash and sulfur aerosols into the stratosphere. If a similar large-scale eruption were to occur today, climate modeling suggests it could produce temporary hemispheric cooling of 1–3°C for 1–2 years, comparable to the effects of <a href=\"/volcano/tambora\">Tambora’s</a> 1815 eruption."
+    },
+    "cultural_significance": {
+      "content": "Sakurajima holds a singular place in Japanese culture as a symbol of the dramatic coexistence between human civilization and volcanic forces. The volcano’s name — literally \"Cherry Blossom Island\" — reflects its historical status as an island in Kagoshima Bay, named for the cherry trees that once graced its lower slopes. Sakurajima is inextricable from the identity of Kagoshima, serving as the city’s unofficial emblem and appearing on municipal logos, tourist materials, and countless works of art. The Kurokami Buried Torii — a Shinto shrine gate buried to its crossbar by ash from the 1914 eruption — is preserved as a designated national monument and has become one of Japan’s most photographed volcanic heritage sites. The Tsukiyomi Shrine on the volcano’s western flank is dedicated to the Shinto moon deity and has been rebuilt multiple times following volcanic damage. Sakurajima’s hot springs, fueled by volcanic heat, are a significant cultural and tourism draw, with the Furusato Onsen offering outdoor baths with direct views of the steaming crater. The volcanic soil supports distinctive agriculture: Sakurajima daikon (giant radish, up to 30 kg) and Sakurajima komikan (tiny mandarin oranges, just 3 cm across) are celebrated local specialties. The volcano features prominently in Japanese literature, film, and documentary, and has inspired generations of volcanologists — the Sakurajima Volcano Observatory, established in 1960, is one of the world’s premier centers for studying explosive volcanism."
+    },
+    "visiting_and_tourism": {
+      "content": "Sakurajima is one of Japan’s most accessible active volcanoes and a major tourist destination within <a href=\"/volcanoes-in-japan\">Kagoshima Prefecture</a>. The volcano is reached by a 15-minute ferry ride from Kagoshima city center, with ferries operating 24 hours a day — one of the few round-the-clock volcanic ferry services in the world. Upon arrival, visitors can explore the Sakurajima Visitor Center, which houses exhibits on the volcano’s geology, eruption history, and monitoring systems. Key attractions include the Kurokami Buried Torii (the partially buried Shinto gate from 1914), the Yunohira Observation Point (the closest publicly accessible viewpoint to the crater at approximately 373 m elevation), and the Arimura Lava Observatory (built on the 1914 lava flow with panoramic crater views). The 36 km Sakurajima cycling and driving loop circles the volcano’s coast, passing through lava fields, fishing villages, and subtropical forests. Hot springs are scattered around the base, including the popular Furusato Onsen with its outdoor volcanic-view baths. Hiking above the designated exclusion zone (currently 2 km from the summit craters) is prohibited. Visitors should be aware that ashfall can occur at any time — carrying an umbrella and wearing a mask is advisable."
+    },
+    "nearby_volcanoes": {
+      "content": "Sakurajima is part of a volcanically active region in southern Kyushu. The Kirishima volcanic complex, approximately 50 km to the northeast, includes the Shinmoedake volcano that erupted spectacularly in 2011 and again in 2018. <a href=\"/volcano/asosan\">Mount Aso</a>, Japan’s largest caldera system at 25 km across, lies approximately 150 km to the north in Kumamoto Prefecture and remains highly active. The Satsuma Iwojima volcano, located 115 km south on a volcanic island in the Tokara chain, is another persistently degassing volcano in the same arc system. Kaimon-dake (Mount Kaimon), a beautifully symmetrical stratovolcano sometimes called ‘Satsuma Fuji,’ rises to 924 m approximately 40 km to the south. Within Japan’s broader volcanic landscape, Sakurajima is often compared with <a href=\"/volcano/asosan\">Aso</a>, <a href=\"/volcano/asamayama\">Asamayama</a>, and <a href=\"/volcano/fujisan\">Mount Fuji</a> as one of the country’s ‘landmark volcanoes,’ though Sakurajima’s eruption frequency far exceeds all of them."
+    },
+    "etymology": {
+      "content": "The name Sakurajima (桜島) literally translates to \"Cherry Blossom Island\" in Japanese — sakura (桜) meaning cherry blossom and shima/jima (島) meaning island. The name likely references the ornamental cherry trees that historically grew on the volcano’s lower slopes, though some scholars suggest it may derive from the name of the deity Konohana-Sakuyahime, the Shinto goddess of volcanoes and cherry blossoms. The Smithsonian Global Volcanism Program catalogs the broader system as \"Aira\" (after the Aira caldera), while \"Sakurajima\" refers specifically to the post-caldera cone — in popular usage, Sakurajima is the far more widely recognized name."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Sakurajima Compared to Japan’s Other Major Active Volcanoes",
+      "description": "How does Sakurajima compare to the other most frequently erupting volcanoes in Japan?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Sakurajima (Aira)",
+          "Japan",
+          "1,117 m",
+          "Caldera",
+          "2025",
+          "6",
+          "53",
+          "~600,000"
+        ],
+        [
+          "Asosan",
+          "Japan",
+          "1,592 m",
+          "Caldera",
+          "2021",
+          "3",
+          "187",
+          "~50,000"
+        ],
+        [
+          "Asamayama",
+          "Japan",
+          "2,568 m",
+          "Complex",
+          "2019",
+          "5",
+          "145",
+          "~20,000"
+        ],
+        [
+          "Fujisan",
+          "Japan",
+          "3,776 m",
+          "Stratovolcano",
+          "1708",
+          "5",
+          "67",
+          "~300,000"
+        ],
+        [
+          "Suwanosejima",
+          "Japan",
+          "796 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "66",
+          "<200"
+        ]
+      ]
+    },
+    {
+      "title": "Sakurajima vs the World’s Most Frequently Erupting Volcanoes",
+      "description": "A global comparison of volcanoes with the highest eruption frequency in the modern era.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Eruptions Since 1900",
+        "Current Status",
+        "VEI Max",
+        "Nearest City"
+      ],
+      "rows": [
+        [
+          "Sakurajima",
+          "Japan",
+          "Caldera",
+          "20+",
+          "Continuous since 1955",
+          "6",
+          "Kagoshima (8 km)"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "Stratovolcano",
+          "60+",
+          "Frequently active",
+          "3",
+          "Catania (28 km)"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "Stratovolcano",
+          "Continuous",
+          "Persistent activity",
+          "3",
+          "Stromboli village (2 km)"
+        ],
+        [
+          "Kilauea",
+          "USA",
+          "Shield",
+          "40+",
+          "Active",
+          "4",
+          "Hilo (45 km)"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "Stratovolcano",
+          "25+",
+          "Active",
+          "4",
+          "Yogyakarta (28 km)"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8050,
+      "vei": 6,
+      "label": "Wakamiko caldera-forming eruption within Aira caldera",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -6050,
+      "vei": 5,
+      "label": "Major Plinian eruption at Kitadake",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -3050,
+      "vei": 4,
+      "label": "Explosive eruption at Kitadake",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 708,
+      "vei": 3,
+      "label": "First historically documented eruption of Sakurajima",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 764,
+      "vei": 4,
+      "label": "Nabe-yama east flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1471,
+      "vei": 5,
+      "label": "Largest historical eruption — lava flows from NE and SW flanks for 5 years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1779,
+      "vei": 4,
+      "label": "An-ei Great Eruption — tsunamis in Kagoshima Bay, ~150 killed",
+      "deaths": "150",
+      "notable": true
+    },
+    {
+      "year": 1914,
+      "vei": 4,
+      "label": "Taisho eruption — lava connects island to mainland, 58 killed, M7.1 earthquake",
+      "deaths": "58",
+      "notable": true
+    },
+    {
+      "year": 1955,
+      "vei": 3,
+      "label": "Start of current eruptive phase at Minamidake — ongoing for 70+ years",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 2,
+      "label": "Current eruptive episode begins at Minamidake — continues into 2025",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 12,
+      "note": "Caldera-forming and cone-building eruptions over ~10,000 years"
+    },
+    {
+      "century": "8th",
+      "count": 6
+    },
+    {
+      "century": "15th",
+      "count": 3
+    },
+    {
+      "century": "17th",
+      "count": 3
+    },
+    {
+      "century": "18th",
+      "count": 14,
+      "note": "Most active historical century before the modern era"
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 12,
+      "note": "Includes start of current continuous eruptive phase (1955)"
+    },
+    {
+      "century": "21st",
+      "count": 1,
+      "note": "Ongoing eruption since 2017 (continuous from 1955 phase)"
+    }
+  ],
+  "facts": [
+    "Sakurajima was a true island until January 1914, when lava flows from the Taisho eruption permanently joined it to the Osumi Peninsula — one of the most dramatic volcanic landscape changes in recorded history.",
+    "The Aira caldera-forming eruption approximately 22,000 years ago ejected an estimated 400 km³ of material, producing the Ito ignimbrite that covered over 1,000 km² of southern Kyushu.",
+    "Sakurajima produces hundreds to over 1,000 explosive eruptions per year, making it one of the most frequently erupting volcanoes on Earth — residents of Kagoshima carry ash umbrellas as part of daily life.",
+    "The volcano emits 1,000–5,000 tonnes of sulfur dioxide per day, making it one of the largest persistent point sources of volcanic gas on the planet.",
+    "Kagoshima city (population ~600,000) lies just 8 km across the bay from Sakurajima’s active craters — a closer proximity than Naples to Vesuvius.",
+    "The Kurokami Buried Torii — a Shinto shrine gate buried to its crossbar by 2 m of ash in the 1914 eruption — is preserved as a designated national cultural monument.",
+    "Sakurajima daikon radishes, grown in the volcano’s rich ash soil, can grow up to 30 kg in weight and are recognized as one of the world’s largest radish varieties.",
+    "A magnitude 7.1 earthquake struck Kagoshima on the same day the 1914 eruption began, triggered by the massive withdrawal of magma from the Aira caldera.",
+    "Geodetic monitoring shows the Aira caldera floor continues to inflate at ~1–2 cm per year, suggesting magma is accumulating faster than Sakurajima’s eruptions can discharge it.",
+    "Kagoshima’s garbage collection includes a dedicated schedule specifically for disposing of volcanic ash, with specially designated yellow bags distributed to residents.",
+    "The 24-hour Kagoshima-Sakurajima ferry service is one of the few round-the-clock volcanic ferry routes in the world, running approximately every 15 minutes.",
+    "Sakurajima komikan (tiny mandarin oranges, just 3 cm in diameter) are among the smallest commercially cultivated citrus in the world, grown on the volcano’s ash-enriched slopes."
+  ],
+  "faqs": [
+    {
+      "question": "Is Sakurajima still active?",
+      "answer": "Sakurajima is one of the most active volcanoes in the world and has been in a state of near-continuous eruption since October 1955. The volcano produces hundreds of explosive eruptions per year from its Minamidake summit crater and the flank Showa crater, generating ash plumes that regularly rise 1–3 km above the summit. The Japan Meteorological Agency continuously monitors the volcano with seismometers, GPS, gas sensors, and cameras. As of 2025, Sakurajima remains at an elevated alert level, with eruptive activity ongoing at Minamidake. It is not a question of whether Sakurajima will erupt — it is erupting right now and has been for over seven decades."
+    },
+    {
+      "question": "When did Sakurajima last erupt?",
+      "answer": "Sakurajima is currently erupting and has been doing so continuously since 1955. The most recent discrete eruptive episode cataloged by the Smithsonian Global Volcanism Program began in March 2017 at Minamidake crater and was ongoing as of 2025. However, this is part of a much longer eruptive period stretching back to October 13, 1955, during which the volcano has produced tens of thousands of explosive events. In a typical year, Sakurajima generates between 200 and 1,000+ explosive eruptions. The most recent large-scale historical eruption was the VEI 4 Taisho eruption of January 12, 1914, which produced massive lava flows and permanently connected the island to the mainland."
+    },
+    {
+      "question": "Could Sakurajima have a large eruption?",
+      "answer": "Yes, volcanologists consider a large-scale eruption at Sakurajima to be a realistic possibility. Geodetic monitoring shows that the Aira caldera floor has been inflating at approximately 1–2 cm per year since the 1914 Taisho eruption, indicating that magma is being supplied to the shallow reservoir faster than the current continuous eruptions can release it. Japanese scientists have estimated that accumulated magma may now approach the volume ejected during the 1914 eruption (approximately 1.6 km³ of lava). A future VEI 4–5 eruption could produce large lava flows, pyroclastic flows reaching the coastline, heavy ashfall on Kagoshima, and potentially a significant earthquake. Evacuation plans exist for approximately 77,000 residents in the immediate hazard zone."
+    },
+    {
+      "question": "How far is Sakurajima from Kagoshima city?",
+      "answer": "Sakurajima’s Minamidake summit crater is approximately 8 km east of central Kagoshima city, separated by the waters of Kagoshima Bay. The nearest point of the volcano’s coastline is approximately 4 km from the Kagoshima waterfront. The city of Kagoshima has a population of roughly 600,000 people, making the Sakurajima-Kagoshima relationship one of the closest large city-to-active volcano proximities in the world — comparable to Naples and Vesuvius in Italy. A ferry connects Kagoshima port to Sakurajima in approximately 15 minutes."
+    },
+    {
+      "question": "What type of volcano is Sakurajima?",
+      "answer": "Sakurajima is a post-caldera stratovolcano (composite volcano) that has grown within the much larger Aira caldera. The Aira caldera, measuring 17 × 23 km, formed approximately 22,000 years ago during a massive VEI 7 eruption and is now largely filled by Kagoshima Bay. Sakurajima began building on the caldera’s southern rim around 13,000 years ago. It consists of three peaks: the dormant Kitadake (1,117 m), the active Minamidake (1,040 m), and Nakedake (1,060 m). The volcano’s magma is predominantly andesitic to basaltic andesitic — typical of subduction zone volcanism — producing explosive Vulcanian and Strombolian eruptions."
+    },
+    {
+      "question": "Can you visit Sakurajima?",
+      "answer": "Yes, Sakurajima is one of Japan’s most accessible active volcanoes and a popular tourist destination. The volcano is reached via a 15-minute ferry from Kagoshima city center, operating 24 hours a day. Key visitor sites include the Sakurajima Visitor Center, the Yunohira Observation Point (the closest public viewpoint to the crater), the Kurokami Buried Torii (the Shinto gate buried in 1914 ash), and the Arimura Lava Observatory. Hot spring baths at Furusato Onsen offer views of the steaming summit. The summit itself is off-limits due to the permanent exclusion zone (2 km radius around active craters), but the coastal road circling the volcano is open to vehicles and cyclists."
+    },
+    {
+      "question": "What is the Aira caldera?",
+      "answer": "The Aira caldera is a large volcanic caldera measuring approximately 17 × 23 km in Kagoshima Bay, southern Kyushu, Japan. It formed approximately 22,000 years ago during a colossal eruption (estimated VEI 7) that ejected roughly 400 km³ of material, including the Ito pyroclastic flow that blanketed over 1,000 km² of southern Kyushu. Following caldera collapse, the depression flooded to form the northern half of Kagoshima Bay. Sakurajima grew as a post-caldera volcano on the southern rim of this caldera, beginning approximately 13,000 years ago. The caldera remains volcanically active, with ongoing ground uplift indicating continued magma recharge beneath the system."
+    },
+    {
+      "question": "What happened during the 1914 Sakurajima eruption?",
+      "answer": "The January 12, 1914 Taisho eruption was the most significant volcanic event in modern Japanese history. After several days of warning earthquakes, explosive eruptions began from the west and east flanks, generating columns 8–10 km high. Massive lava flows — approximately 1.6 km³ in volume — poured from both flanks, with the eastern flows eventually crossing the strait and permanently connecting the former island of Sakurajima to the Osumi Peninsula. A magnitude 7.1 earthquake struck Kagoshima the same day, triggered by magma withdrawal. The combined disaster killed 58 people. The Kurokami Buried Torii, where a shrine gate was entombed in 2 m of ash, remains a national monument commemorating the event."
+    },
+    {
+      "question": "How tall is Sakurajima?",
+      "answer": "Sakurajima’s highest point is Kitadake (north peak) at 1,117 m (3,665 ft) above sea level, though this peak has been dormant since approximately 4,850 years ago. The currently active Minamidake (south peak) reaches 1,040 m (3,412 ft), and the central Nakedake peak stands at 1,060 m (3,478 ft). However, Sakurajima’s true scale is better appreciated by considering the volcano’s base: it rises from the floor of Kagoshima Bay, which reaches depths exceeding 200 m, giving the total volcanic edifice a height of over 1,300 m from base to summit."
+    },
+    {
+      "question": "Why does Sakurajima erupt so frequently?",
+      "answer": "Sakurajima’s extraordinary eruption frequency results from its position at the intersection of two geological factors: it sits above a subduction zone where the Philippine Sea Plate dives beneath the Eurasian Plate along the Ryukyu Volcanic Arc, providing a continuous supply of water-rich magma, and it is built within the Aira caldera, a large active magma system that provides sustained heat and magma recharge. Geodetic data shows the Aira caldera inflates at 1–2 cm per year, continuously feeding fresh magma to Sakurajima’s shallow plumbing system. The frequent small eruptions at Minamidake and Showa craters may actually serve as pressure-relief valves, preventing the buildup that would otherwise lead to less frequent but far more catastrophic eruptions."
+    }
+  ],
+  "people_also_search": [
+    "sakurajima eruption today",
+    "sakurajima live cam",
+    "is sakurajima erupting now",
+    "sakurajima kagoshima",
+    "sakurajima 1914 eruption",
+    "aira caldera supervolcano",
+    "most active volcano japan",
+    "sakurajima eruption frequency"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Sakurajima",
+    "alternateName": [
+      "桜島",
+      "Aira",
+      "Sakura-jima"
+    ],
+    "description": "Active post-caldera stratovolcano in Kagoshima Bay, Japan, one of the most frequently erupting volcanoes on Earth",
+    "geo": {
+      "latitude": 31.5772,
+      "longitude": 130.6589,
+      "elevation": 1117
+    },
+    "containedInPlace": {
+      "name": "Kagoshima Prefecture",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/aira"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=282080",
+      "text": "Smithsonian GVP: Aira (Sakurajima)",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.jma.go.jp/jma/en/Activities/Sakurajima.html",
+      "text": "JMA: Sakurajima Volcanic Activity",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Sakurajima",
+      "text": "Britannica: Sakurajima",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/activity_info/506.html",
+      "text": "JMA: Sakurajima Monitoring Data",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "asosan",
+      "asamayama",
+      "fujisan",
+      "merapi",
+      "etna",
+      "stromboli",
+      "kilauea",
+      "tambora",
+      "novarupta-katmai"
+    ],
+    "country_pages": [
+      "japan"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "deadliest-eruptions",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "asosan",
+    "asamayama",
+    "fujisan",
+    "merapi",
+    "etna"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Sakurajima (Aira Caldera)",
+      "url": "/volcano/aira"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/aira"
+}

@@ -1,0 +1,607 @@
+{
+  "slug": "most-active-volcanoes",
+  "page_type": "ranking",
+  "title": "Most Active Volcanoes in the World",
+  "meta_title": "25 Most Active Volcanoes in the World — Ranked by Eruption Count | VolcanoAtlas",
+  "meta_description": "The 25 most active volcanoes on Earth ranked by number of confirmed eruptions, from Piton de la Fournaise (197) to Karangetang (59). Eruption data, VEI ratings, and profiles.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Rankings",
+      "path": "/rankings"
+    },
+    {
+      "label": "Most Active Volcanoes",
+      "path": "/most-active-volcanoes"
+    }
+  ],
+  "hero": {
+    "title": "Most Active Volcanoes in the World",
+    "subtitle": "The 25 most frequently erupting volcanoes on Earth, ranked by confirmed eruption count"
+  },
+  "introduction": "The most active volcano in the world by number of confirmed eruptions is <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a>, a shield volcano on Réunion Island in the Indian Ocean, with 197 confirmed eruptions recorded in the Smithsonian Global Volcanism Program database. It is followed by <a href=\"/volcano/asosan\">Mount Aso</a> in <a href=\"/volcanoes-in-japan\">Japan</a> (172 confirmed eruptions), <a href=\"/volcano/villarrica\">Villarrica</a> in <a href=\"/volcanoes-in-chile\">Chile</a> (152), and <a href=\"/volcano/etna\">Mount Etna</a> in <a href=\"/volcanoes-in-italy\">Italy</a> (147).\n\nDefining \"most active\" requires careful qualification. This ranking uses the total number of confirmed historical eruptions as recorded by the <a href=\"https://volcano.si.edu/\" target=\"_blank\" rel=\"noopener\">Smithsonian Global Volcanism Program</a> — the world's most comprehensive volcanic eruption database. However, eruption count alone does not capture the full picture of volcanic activity. <a href=\"/volcano/kilauea\">Kilauea</a> in Hawaii, for example, ranks 18th on this list with 75 confirmed eruptions, yet it has been in a state of nearly continuous eruption since 1983 (with intermissions), making it one of the most persistently active volcanoes on the planet.\n\nSeveral factors bias eruption counts. Volcanoes in populated regions with long written histories — such as <a href=\"/volcano/etna\">Etna</a> (recorded since 1500 BCE) and <a href=\"/volcano/asosan\">Aso</a> (documented since 553 CE) — have higher counts partly because their eruptions have been observed and documented for millennia. Remote volcanoes in Alaska, Kamchatka, or the deep ocean may be equally active but have shorter observational records.\n\nEruption style also matters. <a href=\"/types-of-volcanoes\">Shield volcanoes</a> like <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a> and <a href=\"/volcano/kilauea\">Kilauea</a> produce frequent, relatively gentle effusive eruptions with lava flows. <a href=\"/types-of-volcanoes\">Stratovolcanoes</a> like <a href=\"/volcano/merapi\">Merapi</a> and <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> tend to erupt less frequently but far more explosively, posing greater risks to surrounding populations. A single VEI 5 eruption from a stratovolcano can be more consequential than 50 VEI 1 effusive eruptions from a shield volcano.\n\nGeographically, the <a href=\"/ring-of-fire\">Ring of Fire</a> dominates this list. The Pacific Rim's subduction zones — where oceanic plates dive beneath continental plates — generate the volatile-rich magmas responsible for most of the world's explosive volcanism. <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, <a href=\"/volcanoes-in-japan\">Japan</a>, and <a href=\"/volcanoes-in-russia\">Russia</a> (Kamchatka Peninsula) each contribute multiple entries. The Kamchatka Peninsula alone hosts three of the top 25: <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (111), <a href=\"/volcano/sheveluch\">Sheveluch</a> (102), and <a href=\"/volcano/bezymianny\">Bezymianny</a> (69), making it one of the most volcanically active regions on Earth.\n\nThe <a href=\"/volcanic-explosivity-index\">Volcanic Explosivity Index (VEI)</a> maximum for each volcano reveals an important pattern: the most frequently erupting volcanoes rarely produce the largest eruptions. The highest maximum VEI among the top 25 is 5 (shared by <a href=\"/volcano/cotopaxi\">Cotopaxi</a> and several others), while most peak at VEI 3 or 4. The truly catastrophic VEI 6+ eruptions tend to come from volcanoes with longer repose periods — like <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6 in 1991 after 500+ years of dormancy).",
+  "ranked_table": {
+    "title": "The 25 Most Active Volcanoes by Confirmed Eruption Count",
+    "description": "Ranked by number of confirmed eruptions recorded in the Smithsonian GVP database. Includes uncertain eruptions in the total count.",
+    "headers": [
+      "Rank",
+      "Volcano",
+      "Country",
+      "Type",
+      "Elevation",
+      "Confirmed Eruptions",
+      "Total Eruptions",
+      "Last Eruption",
+      "Max VEI",
+      "Slug"
+    ],
+    "rows": [
+      [
+        1,
+        "Fournaise, Piton de la",
+        "France",
+        "Shield",
+        "2,632 m (8,635 ft)",
+        197,
+        203,
+        "2023",
+        5,
+        "fournaise-piton-de-la"
+      ],
+      [
+        2,
+        "Asosan",
+        "Japan",
+        "Caldera",
+        "1,592 m (5,223 ft)",
+        172,
+        187,
+        "2021",
+        3,
+        "asosan"
+      ],
+      [
+        3,
+        "Villarrica",
+        "Chile",
+        "Stratovolcano",
+        "2,847 m (9,341 ft)",
+        152,
+        162,
+        "2025",
+        5,
+        "villarrica"
+      ],
+      [
+        4,
+        "Etna",
+        "Italy",
+        "Stratovolcano(es)",
+        "3,357 m (11,014 ft)",
+        147,
+        170,
+        "2025",
+        5,
+        "etna"
+      ],
+      [
+        5,
+        "Asamayama",
+        "Japan",
+        "Complex",
+        "2,568 m (8,425 ft)",
+        129,
+        145,
+        "2019",
+        5,
+        "asamayama"
+      ],
+      [
+        6,
+        "Katla",
+        "Iceland",
+        "Fissure vent(s)",
+        "1,490 m (4,888 ft)",
+        128,
+        131,
+        "1918",
+        5,
+        "katla"
+      ],
+      [
+        7,
+        "Klyuchevskoy",
+        "Russia",
+        "Stratovolcano",
+        "4,754 m (15,597 ft)",
+        111,
+        113,
+        "2025",
+        4,
+        "klyuchevskoy"
+      ],
+      [
+        8,
+        "Mauna Loa",
+        "United States",
+        "Shield",
+        "4,170 m (13,681 ft)",
+        110,
+        111,
+        "2022",
+        2,
+        "mauna-loa"
+      ],
+      [
+        9,
+        "Merapi",
+        "Indonesia",
+        "Stratovolcano",
+        "2,910 m (9,547 ft)",
+        106,
+        112,
+        "2025",
+        4,
+        "merapi"
+      ],
+      [
+        10,
+        "Sheveluch",
+        "Russia",
+        "Stratovolcano",
+        "3,283 m (10,771 ft)",
+        102,
+        103,
+        "2025",
+        5,
+        "sheveluch"
+      ],
+      [
+        11,
+        "Izu-Oshima",
+        "Japan",
+        "Stratovolcano",
+        "746 m (2,448 ft)",
+        99,
+        108,
+        "1990",
+        4,
+        "izu-oshima"
+      ],
+      [
+        12,
+        "Redoubt",
+        "United States",
+        "Stratovolcano",
+        "3,108 m (10,197 ft)",
+        97,
+        99,
+        "2009",
+        3,
+        "redoubt"
+      ],
+      [
+        13,
+        "Cotopaxi",
+        "Ecuador",
+        "Stratovolcano",
+        "5,911 m (19,393 ft)",
+        85,
+        86,
+        "2023",
+        5,
+        "cotopaxi"
+      ],
+      [
+        14,
+        "Kirishimayama",
+        "Japan",
+        "Shield",
+        "1,700 m (5,577 ft)",
+        79,
+        85,
+        "2025",
+        4,
+        "kirishimayama"
+      ],
+      [
+        15,
+        "Colima",
+        "Mexico",
+        "Stratovolcano(es)",
+        "3,850 m (12,631 ft)",
+        79,
+        85,
+        "2019",
+        4,
+        "colima"
+      ],
+      [
+        16,
+        "Tongariro",
+        "New Zealand",
+        "Stratovolcano(es)",
+        "1,978 m (6,490 ft)",
+        76,
+        79,
+        "2012",
+        5,
+        "tongariro"
+      ],
+      [
+        17,
+        "Grimsvotn",
+        "Iceland",
+        "Caldera",
+        "1,719 m (5,640 ft)",
+        76,
+        85,
+        "2011",
+        6,
+        "grimsvotn"
+      ],
+      [
+        18,
+        "Kilauea",
+        "United States",
+        "Shield",
+        "1,222 m (4,009 ft)",
+        75,
+        75,
+        "2025",
+        4,
+        "kilauea"
+      ],
+      [
+        19,
+        "Raung",
+        "Indonesia",
+        "Stratovolcano",
+        "3,260 m (10,696 ft)",
+        70,
+        76,
+        "2025",
+        5,
+        "raung"
+      ],
+      [
+        20,
+        "Bezymianny",
+        "Russia",
+        "Stratovolcano",
+        "2,882 m (9,455 ft)",
+        69,
+        71,
+        "2025",
+        5,
+        "bezymianny"
+      ],
+      [
+        21,
+        "Marapi",
+        "Indonesia",
+        "Complex",
+        "2,885 m (9,465 ft)",
+        68,
+        70,
+        "2025",
+        2,
+        "marapi"
+      ],
+      [
+        22,
+        "Tengger Caldera",
+        "Indonesia",
+        "Stratovolcano(es)",
+        "2,329 m (7,641 ft)",
+        67,
+        72,
+        "2023",
+        4,
+        "tengger-caldera"
+      ],
+      [
+        23,
+        "Gamalama",
+        "Indonesia",
+        "Stratovolcano(es)",
+        "1,714 m (5,623 ft)",
+        67,
+        84,
+        "2018",
+        3,
+        "gamalama"
+      ],
+      [
+        24,
+        "Mayon",
+        "Philippines",
+        "Stratovolcano",
+        "2,462 m (8,077 ft)",
+        65,
+        69,
+        "2024",
+        4,
+        "mayon"
+      ],
+      [
+        25,
+        "Hekla",
+        "Iceland",
+        "Stratovolcano",
+        "1,490 m (4,888 ft)",
+        65,
+        65,
+        "2000",
+        5,
+        "hekla"
+      ]
+    ]
+  },
+  "sections": {
+    "defining_active": {
+      "title": "How Do Volcanologists Define 'Most Active'?",
+      "content": "The term \"most active volcano\" is used colloquially but has no single scientific definition. Volcanologists measure activity in several ways, each producing different rankings.\n\n**Eruption frequency** — the total number of discrete eruption episodes — is the metric used in this ranking. By this measure, <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a> leads with 197 confirmed eruptions. However, many of these are brief effusive events lasting days to weeks, while a single \"eruption\" of <a href=\"/volcano/kilauea\">Kilauea</a> lasted continuously from 1983 to 2018 — 35 years counted as one event.\n\n**Continuous activity** favors volcanoes like <a href=\"/volcano/stromboli\">Stromboli</a>, which has been erupting nearly continuously for over 2,000 years (earning its nickname \"Lighthouse of the Mediterranean\"), and Yasur in <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a>, which has been active for roughly 800 years. These volcanoes have fewer discrete \"eruptions\" but are among the most persistently active on the planet.\n\n**Erupted volume** — the total amount of material produced — favors large shield volcanoes. <a href=\"/volcano/mauna-loa\">Mauna Loa</a> and <a href=\"/volcano/kilauea\">Kilauea</a> have produced far more lava by volume than any stratovolcano on this list, even though their eruption counts are lower.\n\n**Recent activity intensity** gives weight to volcanoes that have erupted most in the past century. By this measure, volcanoes like <a href=\"/volcano/semeru\">Semeru</a> (nearly continuous since 1967) and Dukono (continuously active since 1933) would rank highly despite lower total historical counts."
+    },
+    "ring_of_fire": {
+      "title": "The Ring of Fire Connection",
+      "content": "The vast majority of the world's most active volcanoes lie along the <a href=\"/ring-of-fire\">Ring of Fire</a>, a 40,000 km (25,000 mi) horseshoe-shaped belt of subduction zones and transform faults encircling the Pacific Ocean. Of the 25 volcanoes on this list, over 20 are situated on or near the Ring of Fire.\n\nSubduction zones generate highly active volcanism because oceanic crust and sediments, rich in water and volatiles, are dragged into the mantle at convergent plate boundaries. As these materials descend and heat up, they release water into the overlying mantle wedge, lowering the melting point of the rock and generating buoyant magma that rises to feed volcanic arcs.\n\nThe Kamchatka Peninsula in Russia's Far East is one of the most concentrated volcanic regions on the Ring of Fire, hosting three of the top 25 most active volcanoes. <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (4,754 m / 15,597 ft) is the tallest active volcano in Eurasia and one of the most productive stratovolcanoes on Earth, erupting roughly every 1–2 years. The Pacific Plate subducts beneath the Okhotsk Plate here at a rate of about 8 cm/year, sustaining exceptionally high levels of volcanic activity.\n\n<a href=\"/volcanoes-in-indonesia\">Indonesia</a>'s position along the Sunda-Banda Arc — where the Indo-Australian Plate subducts beneath the Eurasian Plate — makes it the most volcanically active country in the world by most measures. <a href=\"/volcano/merapi\">Merapi</a>, <a href=\"/volcano/raung\">Raung</a>, <a href=\"/volcano/semeru\">Semeru</a>, and several other Indonesian volcanoes appear on this list."
+    },
+    "shield_vs_strato": {
+      "title": "Shield Volcanoes vs. Stratovolcanoes: Different Activity Patterns",
+      "content": "The top 25 most active volcanoes include both shield volcanoes and stratovolcanoes, but their activity patterns differ fundamentally.\n\n<a href=\"/types-of-volcanoes\">Shield volcanoes</a> like <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a>, <a href=\"/volcano/kilauea\">Kilauea</a>, and <a href=\"/volcano/mauna-loa\">Mauna Loa</a> produce frequent effusive eruptions characterized by lava flows rather than explosive blasts. Their basaltic magma is low in silica and highly fluid, allowing gases to escape easily rather than building up pressure. These eruptions are spectacular but rarely deadly — Piton de la Fournaise has erupted nearly 200 times with zero confirmed fatalities. Kilauea's 2018 eruption destroyed over 700 homes but killed only one person (from lava impact).\n\n<a href=\"/types-of-volcanoes\">Stratovolcanoes</a>, which make up the majority of this list, produce a wider range of eruption styles — from small phreatic explosions to devastating Plinian events. <a href=\"/volcano/merapi\">Merapi</a>, with 106 confirmed eruptions, has killed over 7,000 people throughout its recorded history. <a href=\"/volcano/fuego\">Fuego</a> in <a href=\"/volcanoes-in-guatemala\">Guatemala</a>, with 61 confirmed eruptions, killed at least 190 people in its 2018 eruption alone.\n\nThis fundamental difference in eruption style means that the most active volcano is not necessarily the most dangerous. The most dangerous volcanoes are those that combine frequent activity with explosive eruption potential and proximity to large populations — volcanoes like <a href=\"/volcano/merapi\">Merapi</a>, <a href=\"/volcano/popocatepetl\">Popocatépetl</a>, and <a href=\"/volcano/vesuvius\">Vesuvius</a>."
+    }
+  },
+  "key_stats": [
+    "Piton de la Fournaise leads with 197 confirmed eruptions — the highest count of any volcano on Earth.",
+    "The top 25 most active volcanoes have a combined total of 2,491 confirmed eruptions.",
+    "Indonesia contributes 5 volcanoes to the top 25 — more than any other country.",
+    "Klyuchevskoy (4,754 m) is the tallest active volcano in Eurasia and erupts roughly every 1–2 years.",
+    "Shield volcanoes like Piton de la Fournaise erupt most frequently but rarely produce dangerous explosive events.",
+    "Kilauea's single eruption from 1983–2018 lasted 35 years, the longest continuous eruption in modern history.",
+    "Stromboli has been erupting nearly continuously for over 2,000 years, earning the nickname 'Lighthouse of the Mediterranean.'",
+    "Over 20 of the top 25 most active volcanoes lie along the Pacific Ring of Fire.",
+    "The most active volcanoes rarely produce VEI 6+ eruptions — catastrophic eruptions tend to come from volcanoes with longer repose periods.",
+    "Merapi, with 106 confirmed eruptions, has killed over 7,000 people — making it the deadliest among the most active volcanoes."
+  ],
+  "faqs": [
+    {
+      "question": "What is the most active volcano in the world?",
+      "answer": "By number of confirmed eruptions, the most active volcano in the world is Piton de la Fournaise on Réunion Island (France), with 197 confirmed eruptions in the Smithsonian Global Volcanism Program database. It is a basaltic shield volcano that erupts frequently with lava flows. By continuous activity, Kilauea in Hawaii and Stromboli in Italy are strong contenders — Kilauea has been erupting nearly continuously since 1983, while Stromboli has been active for over 2,000 years. The answer depends on how 'most active' is defined."
+    },
+    {
+      "question": "How many active volcanoes are there in the world?",
+      "answer": "There are approximately 1,350 potentially active volcanoes on Earth (those that have erupted during the Holocene, the past 11,700 years). Of these, about 500 have erupted in recorded history, and roughly 50–70 erupt in any given year. At any moment, approximately 20 volcanoes are actively erupting somewhere on the planet. The Smithsonian Global Volcanism Program maintains a weekly activity report tracking all current eruptions worldwide."
+    },
+    {
+      "question": "Which country has the most active volcanoes?",
+      "answer": "Indonesia has the most active volcanoes of any country, with over 100 volcanoes that have erupted in recorded history and approximately 130 classified as active. The United States ranks second with 65+ active volcanoes (mostly in Alaska and Hawaii), followed by Japan with approximately 50. Indonesia's extreme volcanic activity results from its position on the Sunda-Banda volcanic arc, where the Indo-Australian Plate subducts beneath the Eurasian Plate along a 5,600 km front."
+    },
+    {
+      "question": "What makes a volcano 'active' vs 'dormant' vs 'extinct'?",
+      "answer": "There is no universally agreed definition, but volcanologists generally classify a volcano as 'active' if it has erupted during the Holocene (past 11,700 years) or shows signs of unrest such as seismicity, gas emissions, or ground deformation. A 'dormant' volcano is one that hasn't erupted recently but is expected to erupt again — Vesuvius, which last erupted in 1944, is considered dormant but dangerous. An 'extinct' volcano is one that is not expected to erupt again, typically because it has moved off its magma source. However, these categories are imprecise — some volcanoes classified as extinct have unexpectedly erupted."
+    },
+    {
+      "question": "Is Mount Etna the most active volcano in Europe?",
+      "answer": "Mount Etna is the most active volcano in Europe by most measures. It has 147 confirmed eruptions — the highest count of any European volcano — and has been erupting frequently in recent years. However, Stromboli (also in Italy) has been in a state of nearly continuous eruption for over 2,000 years, making it arguably more persistently active. Iceland's Reykjanes Peninsula has also seen frequent eruptions since 2021. Etna stands out for its combination of eruption frequency, eruption size, and proximity to over 1 million people in the city of Catania."
+    },
+    {
+      "question": "What is the most active volcano in the United States?",
+      "answer": "Kilauea on Hawaii's Big Island is the most active volcano in the United States, with 75 confirmed eruptions and a nearly continuous eruptive phase from 1983 to 2018. It most recently erupted in 2025. Mauna Loa, also on the Big Island, ranks second with 110 confirmed eruptions and its most recent eruption in 2022. In Alaska, Mount Shishaldin (51 eruptions) and Pavlof (48 eruptions) are among the most active stratovolcanoes in the Aleutian arc."
+    },
+    {
+      "question": "Do the most active volcanoes produce the biggest eruptions?",
+      "answer": "No — in fact, the opposite tends to be true. The most frequently erupting volcanoes (like Piton de la Fournaise and Kilauea) tend to produce relatively small eruptions (VEI 0–3), because their magma supply is continuously relieved through frequent eruptions, preventing massive pressure buildup. The largest eruptions (VEI 6–8) tend to come from volcanoes with long repose periods. Pinatubo's VEI 6 eruption in 1991 came after 500+ years of dormancy. Tambora's VEI 7 in 1815 followed centuries of quiet. This inverse relationship between frequency and maximum size is a fundamental pattern in volcanology."
+    },
+    {
+      "question": "How often does a volcano need to erupt to be considered active?",
+      "answer": "There is no specific eruption frequency threshold required for a volcano to be classified as active. The Smithsonian Global Volcanism Program considers any volcano that has erupted during the Holocene (past 11,700 years) to be potentially active. This includes volcanoes that haven't erupted in thousands of years but retain the potential to do so. For practical hazard assessment, agencies like the USGS focus on volcanoes showing current signs of unrest — seismicity, gas emissions, ground deformation — regardless of when they last erupted. Some volcanoes can be quiet for centuries and then erupt catastrophically."
+    }
+  ],
+  "charts": {
+    "eruption_count_chart": [
+      {
+        "name": "Fournaise, Piton de la",
+        "confirmed_eruptions": 197,
+        "slug": "fournaise-piton-de-la"
+      },
+      {
+        "name": "Asosan",
+        "confirmed_eruptions": 172,
+        "slug": "asosan"
+      },
+      {
+        "name": "Villarrica",
+        "confirmed_eruptions": 152,
+        "slug": "villarrica"
+      },
+      {
+        "name": "Etna",
+        "confirmed_eruptions": 147,
+        "slug": "etna"
+      },
+      {
+        "name": "Asamayama",
+        "confirmed_eruptions": 129,
+        "slug": "asamayama"
+      },
+      {
+        "name": "Katla",
+        "confirmed_eruptions": 128,
+        "slug": "katla"
+      },
+      {
+        "name": "Klyuchevskoy",
+        "confirmed_eruptions": 111,
+        "slug": "klyuchevskoy"
+      },
+      {
+        "name": "Mauna Loa",
+        "confirmed_eruptions": 110,
+        "slug": "mauna-loa"
+      },
+      {
+        "name": "Merapi",
+        "confirmed_eruptions": 106,
+        "slug": "merapi"
+      },
+      {
+        "name": "Sheveluch",
+        "confirmed_eruptions": 102,
+        "slug": "sheveluch"
+      },
+      {
+        "name": "Izu-Oshima",
+        "confirmed_eruptions": 99,
+        "slug": "izu-oshima"
+      },
+      {
+        "name": "Redoubt",
+        "confirmed_eruptions": 97,
+        "slug": "redoubt"
+      },
+      {
+        "name": "Cotopaxi",
+        "confirmed_eruptions": 85,
+        "slug": "cotopaxi"
+      },
+      {
+        "name": "Kirishimayama",
+        "confirmed_eruptions": 79,
+        "slug": "kirishimayama"
+      },
+      {
+        "name": "Colima",
+        "confirmed_eruptions": 79,
+        "slug": "colima"
+      },
+      {
+        "name": "Tongariro",
+        "confirmed_eruptions": 76,
+        "slug": "tongariro"
+      },
+      {
+        "name": "Grimsvotn",
+        "confirmed_eruptions": 76,
+        "slug": "grimsvotn"
+      },
+      {
+        "name": "Kilauea",
+        "confirmed_eruptions": 75,
+        "slug": "kilauea"
+      },
+      {
+        "name": "Raung",
+        "confirmed_eruptions": 70,
+        "slug": "raung"
+      },
+      {
+        "name": "Bezymianny",
+        "confirmed_eruptions": 69,
+        "slug": "bezymianny"
+      },
+      {
+        "name": "Marapi",
+        "confirmed_eruptions": 68,
+        "slug": "marapi"
+      },
+      {
+        "name": "Tengger Caldera",
+        "confirmed_eruptions": 67,
+        "slug": "tengger-caldera"
+      },
+      {
+        "name": "Gamalama",
+        "confirmed_eruptions": 67,
+        "slug": "gamalama"
+      },
+      {
+        "name": "Mayon",
+        "confirmed_eruptions": 65,
+        "slug": "mayon"
+      },
+      {
+        "name": "Hekla",
+        "confirmed_eruptions": 65,
+        "slug": "hekla"
+      }
+    ],
+    "country_distribution": [
+      {
+        "country": "Indonesia",
+        "count": 5
+      },
+      {
+        "country": "Japan",
+        "count": 4
+      },
+      {
+        "country": "Iceland",
+        "count": 3
+      },
+      {
+        "country": "Russia",
+        "count": 3
+      },
+      {
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "country": "France",
+        "count": 1
+      },
+      {
+        "country": "Chile",
+        "count": 1
+      },
+      {
+        "country": "Italy",
+        "count": 1
+      },
+      {
+        "country": "Ecuador",
+        "count": 1
+      },
+      {
+        "country": "Mexico",
+        "count": 1
+      },
+      {
+        "country": "New Zealand",
+        "count": 1
+      },
+      {
+        "country": "Philippines",
+        "count": 1
+      }
+    ]
+  },
+  "internal_links": [
+    "<a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a>",
+    "<a href=\"/volcano/etna\">Mount Etna</a>",
+    "<a href=\"/volcano/kilauea\">Kilauea</a>",
+    "<a href=\"/volcano/merapi\">Mount Merapi</a>",
+    "<a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a>",
+    "<a href=\"/volcano/stromboli\">Stromboli</a>",
+    "<a href=\"/volcano/mauna-loa\">Mauna Loa</a>",
+    "<a href=\"/volcanoes-in-indonesia\">Indonesia</a>",
+    "<a href=\"/volcanoes-in-japan\">Japan</a>",
+    "<a href=\"/volcanoes-in-russia\">Russia</a>",
+    "<a href=\"/ring-of-fire\">Ring of Fire</a>",
+    "<a href=\"/volcanic-explosivity-index\">VEI Scale</a>",
+    "<a href=\"/types-of-volcanoes\">Types of Volcanoes</a>",
+    "<a href=\"/active-volcanoes\">Active Volcanoes Around the World</a>",
+    "<a href=\"/deadliest-eruptions\">Deadliest Eruptions</a>"
+  ],
+  "external_links": [
+    "<a href=\"https://volcano.si.edu/\" target=\"_blank\" rel=\"noopener\">Smithsonian Global Volcanism Program</a>",
+    "<a href=\"https://www.usgs.gov/volcanoes\" target=\"_blank\" rel=\"noopener\">USGS Volcano Hazards Program</a>",
+    "<a href=\"https://volcano.si.edu/reports_weekly.cfm\" target=\"_blank\" rel=\"noopener\">GVP Weekly Volcanic Activity Report</a>"
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "url": "/most-active-volcanoes"
+}

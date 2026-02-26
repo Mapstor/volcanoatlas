@@ -1,0 +1,483 @@
+{
+  "slug": "whakaari-white-island",
+  "volcano_id": 241040,
+  "title": "Whakaari / White Island",
+  "meta_title": "Whakaari/White Island — Eruption History, 2019 Disaster & Facts | VolcanoAtlas",
+  "meta_description": "Whakaari/White Island is a 294 m active stratovolcano off New Zealand's North Island. Full eruption history, the deadly 2019 eruption, hazards, and geology.",
+  "quick_answer": {
+    "what": "Whakaari/White Island is an active andesitic stratovolcano forming a 2 × 2.4 km island in the Bay of Plenty, approximately 50 km off the northeast coast of New Zealand's North Island.",
+    "status": "Active — most recently erupted in 2024–2025. The volcano produces frequent phreatic and phreatomagmatic eruptions and maintains a persistent hydrothermal system with fumaroles, hot springs, and an acidic crater lake.",
+    "famous_for": "The devastating phreatic eruption of December 9, 2019, which occurred while 47 tourists were on the island, killing 22 people and severely injuring many others — one of New Zealand's worst natural disasters.",
+    "danger_level": "Extremely hazardous — the island's crater is a confined space with no shelter from eruptions. Following the 2019 disaster, public access has been prohibited. The volcano's frequent phreatic eruptions are inherently unpredictable."
+  },
+  "hero": {
+    "name": "Whakaari / White Island",
+    "local_name": "Te Puia o Whakaari",
+    "subtitle": "New Zealand's Most Active Cone Volcano — Site of the 2019 Tragedy",
+    "country": "New Zealand",
+    "region": "Bay of Plenty",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 294,
+    "elevation_ft": 965,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -37.52,
+      "lon": 177.18
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01614.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "294 m (965 ft) above sea level; the summit of a submarine volcano reaching ~1,600 m from the seafloor",
+    "type": "Stratovolcano(es) — andesitic to dacitic composite cones",
+    "status": "Active — last erupted 2024–2025",
+    "last_eruption": "2024–2025 (eruption beginning May 2024)",
+    "first_known_eruption": "~1826 (first European-documented activity)",
+    "total_recorded_eruptions": 42,
+    "vei_max": "3 (1933, 1962, 1966–67, 1968–69, 1976–82, 1986–94, 2000)",
+    "country": "New Zealand",
+    "region": "Bay of Plenty, Taupo Volcanic Zone",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Australian Plate, Taupo Volcanic Arc",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "37.520°S, 177.180°E",
+    "nearest_city": "Whakatane — 49 km southwest",
+    "population_at_risk": "No permanent population (uninhabited island); tourists and workers historically at risk",
+    "crater_description": "Open amphitheater breached to SE at sea level, ~1 km from shore to rear crater wall",
+    "island_dimensions": "Approximately 2 × 2.4 km",
+    "submarine_dimensions": "16 × 18 km total volcanic edifice on the seafloor",
+    "monitoring_agency": "GeoNet — GNS Science (New Zealand)",
+    "smithsonian_id": "241040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=241040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Whakaari/White Island is <a href=\"/volcanoes-in-new-zealand\">New Zealand's</a> most active cone volcano and the most frequently erupting volcanic center in the country, a small andesitic <a href=\"/types-of-volcanoes\">stratovolcano</a> rising 294 m (965 ft) above sea level in the Bay of Plenty, approximately 50 km offshore from the North Island. The visible island — just 2 × 2.4 km — is merely the emergent summit of a much larger 16 × 18 km submarine volcanic edifice that rises approximately 1,600 m from the seafloor. Whakaari/White Island sits at the northeastern end of the Taupo Volcanic Zone (TVZ), the most active volcanic region in New Zealand and one of the most volcanically productive regions on Earth, forming part of the Taupo Volcanic Arc where the Pacific Plate subducts westward beneath the Australian Plate. The volcano has a documented eruption history stretching back to 1826, with 42 recorded eruptions — predominantly phreatic (steam-driven) and phreatomagmatic explosions driven by the interaction between magmatic heat and a highly active hydrothermal system. The island's name derives from its Māori name Te Puia o Whakaari, meaning \"The Dramatic Volcano\" or \"The Uplifted Dramatic Thing,\" while Captain James Cook gave it the English name White Island in 1769, referencing the perpetual cloud of white steam enveloping it. Whakaari became tragically famous worldwide on December 9, 2019, when a sudden phreatic eruption occurred while 47 tourists from a cruise ship excursion were inside the crater, killing 22 people in one of New Zealand's worst natural disasters. The island is privately owned, uninhabited, and has been closed to visitors since the 2019 eruption. It is also a significant seabird nesting colony and was designated a private scenic reserve in 1953. The volcano's position as the most accessible and frequently active volcanic island near a developed coastline made it one of New Zealand's most popular adventure tourism destinations before the disaster — a status that raises profound questions about the management of volcanic risk in tourism contexts."
+    },
+    "geology_and_formation": {
+      "content": "Whakaari/White Island represents the emergent summit of a large submarine volcano at the northeastern terminus of the Taupo Volcanic Zone (TVZ), New Zealand's dominant volcanic and geothermal province. The TVZ is a back-arc extensional rift zone associated with the Hikurangi subduction system, where the Pacific Plate descends westward beneath the Australian Plate at approximately 42–50 mm per year. This subduction generates the andesitic to dacitic magmas that feed Whakaari and the other volcanoes of the Taupo Volcanic Arc, including <a href=\"/volcano/ruapehu\">Ruapehu</a>, <a href=\"/volcano/tongariro\">Tongariro</a>, and the Taupo caldera. The island itself consists of two overlapping andesitic-to-dacitic stratovolcanoes that have built up over an estimated 150,000 years of submarine and later subaerial eruption. The southeastern sector of the crater is open at sea level — a collapsed amphitheater that exposes the volcano's interior and allows the sea to intrude during storm surges. The active vents are located approximately 1 km from the shore, near the rear (northwest) crater wall. The crater floor hosts a complex and constantly changing landscape of fumaroles, hot springs, acidic lakes (pH values often below 1), sulfur deposits, and mud pools. The hydrothermal system is exceptionally vigorous, with temperatures reaching over 800°C at depth, and the interaction between this hydrothermal fluid and shallow magmatic intrusions is the primary driver of the volcano's frequent phreatic and phreatomagmatic eruptions. Volckner Rocks — sea stacks located 5 km northwest of the island — are remnants of an older lava dome, testifying to the broader volcanic complex beneath the sea. The rapid rate of vent creation and destruction (many new vents formed during the 19th and 20th centuries) causes the crater floor topography to change dramatically between eruptions, making hazard assessment particularly challenging. The <a href=\"/types-of-volcanoes\">stratovolcano</a> structure of Whakaari, combined with its aggressive hydrothermal alteration, means that the edifice is inherently unstable — a wall collapse in 1914 produced a catastrophic debris avalanche that destroyed a sulfur mining operation and killed all 10 workers."
+    },
+    "eruption_history_overview": {
+      "content": "Whakaari/White Island has produced 42 recorded eruptions since European documentation began in 1826, making it the most frequently erupting volcanic center in New Zealand. The volcano's eruption style is dominated by phreatic (steam-driven) and phreatomagmatic explosions — events generated by the violent flashing of superheated groundwater and hydrothermal fluids rather than the direct eruption of fresh magma. These eruptions are typically small to moderate (VEI 1–3) but can occur with little to no warning, making them exceptionally dangerous to anyone within the crater. The 20th century was the most active recorded period, with 27 eruptions documented between 1900 and 2001. The 19th century recorded 7 eruptions, and the 21st century has seen 8 eruptions through 2025. Notable eruption clusters include sustained activity from 1976 to 1994 (which included multiple VEI 3 events) and from 2012 to 2025. The <a href=\"/volcanic-explosivity-index\">VEI</a> distribution is heavily weighted toward VEI 2 events (27 recorded), with 7 events reaching VEI 3 and 7 events at VEI 1. Despite their modest VEI ratings, these eruptions can be lethal at close range — the 2019 eruption was classified as VEI 2 yet killed 22 people. The absence of any VEI 4+ events in the recorded history suggests that Whakaari's eruptions are controlled by its hydrothermal system rather than by large-volume magmatic intrusions, though the possibility of a larger magmatic eruption cannot be excluded."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1914 Crater Wall Collapse — Disaster at the Sulfur Mine",
+          "content": "On September 21, 1914, part of the western crater wall of Whakaari/White Island collapsed in a massive debris avalanche, generating a lahar that swept through the sulfur mining camp on the crater floor. All 10 men working at the mining operation — operated by the White Island Sulphur Company — were killed instantly. Their bodies were never recovered, buried beneath tens of meters of volcanic debris. The only survivor in the camp was the miners' cat, 'Peter the Great,' who was found alive when a rescue party reached the island two weeks later. The collapse was likely triggered by hydrothermal weakening of the highly altered crater wall rock, possibly in association with increased volcanic activity. The disaster effectively ended commercial sulfur mining on the island, though attempts to restart operations were made in subsequent decades. The 1914 collapse dramatically reshaped the crater interior and is a sobering reminder that volcanic hazards extend beyond eruptions to include gravitational instability of hydrothermally weakened edifices."
+        },
+        {
+          "title": "The 1976–1982 Eruption Sequence — Sustained Explosive Activity (VEI 3)",
+          "content": "Beginning on December 18, 1976, Whakaari entered a prolonged period of heightened eruptive activity that persisted for six years and included multiple explosive episodes reaching VEI 3 intensity. Activity was concentrated at the Christmas, Gibrus, and 1978 craters, producing repeated phreatomagmatic explosions that ejected rock, mud, and superheated water high above the crater rim. New vents opened and old ones sealed shut as the hydrothermal plumbing system reorganized repeatedly. Ashfall from the larger explosions was observed from the mainland, and crater lake levels fluctuated dramatically. This eruption sequence significantly altered the crater floor topography and destroyed monitoring equipment installed during quieter periods. It demonstrated the volcano's capacity for sustained multi-year activity cycles, a pattern that would repeat during the 1986–1994 sequence."
+        },
+        {
+          "title": "The 1986–1994 Eruption Sequence — The Longest Modern Episode (VEI 3)",
+          "content": "From February 1986 through 1994, Whakaari experienced its longest documented eruptive episode, with activity shifting between numerous vents including Congress crater and several newly formed craters. Multiple explosive events reached VEI 3 intensity, generating eruption columns visible from the mainland and depositing ash and ballistic blocks across the crater floor. The eruption sequence was particularly notable for the complex interplay between magmatic and hydrothermal processes, with periods of apparent magmatic involvement (indicated by juvenile material in eruption deposits) interspersed with purely phreatic events. The dynamic nature of the crater during this period — with new vents opening, lakes forming and draining, and fumarole fields migrating — made the island increasingly hazardous and unpredictable. Despite this, tourist operations continued to bring visitors into the crater throughout much of this period, reflecting the complex risk management challenges that would later prove catastrophic."
+        },
+        {
+          "title": "The December 9, 2019 Eruption — New Zealand's Deadliest Volcanic Disaster",
+          "content": "At 2:11 PM local time on December 9, 2019, Whakaari/White Island erupted without warning in a sudden phreatic explosion while 47 people — tourists from the cruise ship Ovation of the Seas and their guides — were inside the main crater. The eruption, classified as VEI 2, generated a lateral blast of superheated steam, volcanic gas, mud, and rock fragments that engulfed the crater floor and swept toward the sea. Twenty-two people were killed — some immediately from the blast and thermal injuries, others in the days and weeks that followed from catastrophic burns sustained in the superheated environment. All survivors suffered severe burns, many covering over 70% of their bodies, requiring months of intensive care and skin graft surgeries. The eruption produced a steam-and-ash plume that rose approximately 3.7 km above the island and was visible from the mainland. The eruption had been preceded by weeks of elevated volcanic tremor and gas emissions, and GeoNet had raised the Volcanic Alert Level from 1 to 2 (indicating moderate to heightened volcanic unrest) on November 18, 2019. However, the operators continued to bring tourists to the island. The disaster triggered New Zealand's largest medical burns response, with skin donations sought from international sources, and led to a criminal prosecution under the Health and Safety at Work Act 2015. In 2023, several organizations and individuals involved in the tour operations were found guilty of safety failures. The Whakaari eruption became a watershed moment in global discussions about volcanic tourism risk management and raised fundamental questions about whether any level of visitor access to active volcanic craters can be considered safe. The island has remained closed to all public access since the disaster."
+        },
+        {
+          "title": "The 2024–2025 Eruptions — Renewed Activity",
+          "content": "Whakaari entered a new eruptive phase beginning on May 24, 2024, with activity continuing into 2025. This eruption was detected through the remote monitoring network maintained by GeoNet, including webcams, seismometers, and gas flux measurements, as no observers were present on the closed island. Volcanic tremor increased markedly in the weeks preceding the eruption, and the Volcanic Alert Level was raised accordingly. The eruption produced steam-and-ash emissions observed from the mainland and by satellite. A further eruptive event was recorded beginning August 28, 2025. These eruptions underscore the volcano's persistent activity and reinforce the decision to keep the island closed to visitors. The ongoing activity is consistent with Whakaari's historical pattern of eruption clusters separated by periods of relative quiescence lasting months to years."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Whakaari/White Island remains in an active state as of 2025, with eruptive activity recorded in both 2024 and 2025. The volcano is monitored remotely by GeoNet (operated by GNS Science), New Zealand's national geological hazard monitoring agency. The monitoring network includes real-time seismometers on the island, web cameras providing continuous visual surveillance, satellite-based gas flux measurements (particularly SO₂ and CO₂), thermal infrared imagery, and periodic aerial observations by drone. The island is uninhabited and has been closed to all public access since the December 2019 disaster. GeoNet maintains a Volcanic Alert Level (VAL) system for Whakaari, ranging from 0 (no volcanic unrest) to 5 (major volcanic eruption). The volcano frequently fluctuates between VAL 1 and VAL 2, reflecting its persistent hydrothermal unrest. A key challenge in monitoring Whakaari is that phreatic eruptions — the volcano's predominant eruption style — are inherently difficult to forecast because they are driven by sudden pressure changes in the shallow hydrothermal system rather than by the upward movement of magma that produces more detectable precursory signals. The 2019 eruption occurred at VAL 2, demonstrating that even elevated alert levels do not guarantee safety. Ongoing research focuses on improving real-time monitoring of hydrothermal pressure conditions and developing short-term probabilistic eruption forecasting models for phreatic systems."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The volcanic hazards at Whakaari/White Island are disproportionately dangerous relative to the volcano's modest size and eruption intensities, primarily because of the confined crater geography and the historically close proximity of human visitors to active vents. The dominant hazard is phreatic and phreatomagmatic explosions: sudden blasts of superheated steam, rock fragments, and acidic mud that can occur with little or no precursory warning. These events generate ballistic projectiles (rock fragments ejected at high velocity, dangerous within 1–2 km), pyroclastic surges (ground-hugging currents of hot gas and debris), and lateral blasts that can sweep the entire crater floor within seconds. The superheated environment (temperatures exceeding 100°C in eruption plumes) causes catastrophic thermal burns — the primary cause of death and injury in the 2019 eruption. Additional hazards include volcanic gas emissions (SO₂, H₂S, CO₂, and HCl), which can reach lethal concentrations in the enclosed crater; acidic volcanic fog (vog); crater wall collapse and landslides (as occurred in 1914); and small tsunamis generated by large explosions or flank collapses. The crater lake, when present, has pH values below 1 — more acidic than battery acid — and its sudden ejection during eruptions adds a chemical burn hazard. Unlike volcanoes near population centers, Whakaari's primary risk is to visitors rather than to a residential population, making it a fundamentally different risk management challenge from volcanoes like <a href=\"/volcano/vesuvius\">Vesuvius</a> or <a href=\"/volcano/aira\">Sakurajima</a>. The 2019 disaster conclusively demonstrated that the crater of an active phreatic volcano is among the most dangerous environments on Earth for human beings."
+    },
+    "geography_and_physical_description": {
+      "content": "Whakaari/White Island is a small, roughly oval island measuring approximately 2 × 2.4 km, situated 50 km off the coast of New Zealand's North Island in the Bay of Plenty. The island rises to a maximum elevation of 294 m (965 ft) at its northwestern rim, but its visible portion represents only a small fraction of the total volcanic edifice — a submarine structure measuring 16 × 18 km that rises approximately 1,600 m from the seafloor, making the total volcano comparable in height to many major terrestrial stratovolcanoes. The island's most striking feature is its large amphitheater-shaped crater, open to the southeast at sea level. This horseshoe-shaped opening allows direct visual access into the crater interior from the sea, and historically allowed tourists to walk from landing points on the coast directly into the active crater area. The crater floor lies near or slightly below sea level and hosts a dynamic landscape of fumaroles emitting sulfurous gases at temperatures up to 800°C, acidic hot springs, a crater lake (when present) with pH values often below 1, and extensive sulfur deposits that once supported commercial mining. The interior crater walls rise steeply to 200–300 m, composed of heavily altered and unstable volcanic rock. Volckner Rocks, located 5 km to the northwest, are sea stacks formed from an eroded lava dome that represent an older part of the volcanic complex. The island's exterior slopes support sparse vegetation and provide important nesting habitat for several seabird species, including Australasian gannets and grey-faced petrels. The constant emission of volcanic gases gives the island its characteristic white plume visible from the mainland — the feature that earned it the name \"White Island\" from Captain James Cook."
+    },
+    "climate_and_global_impact": {
+      "content": "Whakaari/White Island's eruptions are far too small to produce measurable global climate effects. The volcano's maximum recorded eruption intensity (VEI 3) injects material only into the troposphere, where it is quickly removed by precipitation and does not have the stratospheric residence time needed to affect global temperatures. However, the volcano is a persistent source of volcanic gas emissions, particularly sulfur dioxide (SO₂), hydrogen sulfide (H₂S), and carbon dioxide (CO₂). These emissions contribute to localized atmospheric chemistry effects in the Bay of Plenty region. During periods of elevated activity, volcanic fog (vog) from Whakaari can occasionally be detected on the New Zealand mainland, approximately 50 km downwind. The volcano's significance is not in global climate impact but rather in its role as a natural laboratory for understanding phreatic volcanic systems and hydrothermal processes — research conducted at Whakaari has contributed substantially to the global scientific understanding of volcanic hazards at hydrothermal systems worldwide, including at tourist-accessible volcanoes such as <a href=\"/volcano/poas\">Poás</a> in Costa Rica and <a href=\"/volcano/taal\">Taal</a> in the Philippines."
+    },
+    "cultural_significance": {
+      "content": "Whakaari holds deep cultural significance for the Māori people of the Bay of Plenty, particularly the Te Tahi-o-te-rangi hapū of the Ngāti Awa iwi, who hold traditional authority (mana whenua) over the island. The Māori name Te Puia o Whakaari translates variously as \"The Dramatic Volcano,\" \"The Uplifted Dramatic Thing,\" or \"That Which Can Be Made Visible,\" referencing the volcano's spectacular and ever-present steam plume. The island features in Māori oral traditions and whakapapa (genealogy), and the erupting volcano was a significant navigational landmark for Polynesian voyagers. The English name White Island was given by Captain James Cook during his first voyage in 1769, who observed the island perpetually shrouded in its white steam cloud. In the colonial era, Whakaari became the site of sulfur mining operations from the 1880s to 1914, when the fatal crater wall collapse ended mining activity. The island was purchased privately and designated a private scenic reserve in 1953. Before the 2019 disaster, Whakaari was one of New Zealand's most iconic adventure tourism destinations, with commercial boat and helicopter tours bringing approximately 10,000 visitors per year into the active crater — an activity that blurred the line between tourism and extreme risk. The 2019 eruption and its aftermath have profoundly reshaped New Zealand's national conversation about the relationship between volcanic tourism, indigenous land management, commercial responsibility, and the limits of acceptable risk. The criminal prosecution and convictions that followed have set international precedents for accountability in volcanic tourism."
+    },
+    "visiting_and_tourism": {
+      "content": "Whakaari/White Island has been closed to all public access since the December 9, 2019 eruption, and there is no indication that visitor tours will resume. Before the disaster, the island was one of New Zealand's premier adventure tourism experiences: commercial operators based in Whakatane offered boat and helicopter tours that brought visitors directly into the active volcanic crater, where they could walk among fumaroles, observe acidic lakes, and see volcanic vents at close range. Approximately 10,000 tourists visited annually. Visitors were provided with hard hats and gas masks but were otherwise exposed to the full range of volcanic hazards within the crater. The 2019 disaster resulted in criminal convictions of tour operators and other organizations, and has fundamentally changed the legal and regulatory landscape for volcanic tourism in New Zealand. The island can still be viewed from a distance on scenic cruises operating from Whakatane and the Bay of Plenty coast. The Whakatane Museum and Gallery includes exhibits about the island's volcanic history and the 2019 eruption. For visitors interested in experiencing New Zealand's volcanic landscapes safely, <a href=\"/volcano/tongariro\">Tongariro</a> and <a href=\"/volcano/ruapehu\">Ruapehu</a> in the central North Island offer spectacular volcanic scenery with established and monitored hiking trails at safer distances from active vents."
+    },
+    "nearby_volcanoes": {
+      "content": "Whakaari/White Island sits at the northeastern end of the Taupo Volcanic Zone (TVZ), which extends approximately 300 km southwest through the North Island to <a href=\"/volcano/ruapehu\">Mount Ruapehu</a>. The TVZ contains some of the most productive volcanic systems on Earth. Moving southwest from Whakaari, the major volcanic centers include the submarine Whakatane Seamount (approximately 20 km southwest), the Okataina Volcanic Centre (home to Mount Tarawera, which erupted catastrophically in 1886), the Taupo Volcanic Centre (site of the massive 26,500-year-ago Oruanui supereruption and the 232 AD Hatepe eruption, one of the most violent eruptions of the last 5,000 years), <a href=\"/volcano/tongariro\">Tongariro</a> (which erupted in 2012), and <a href=\"/volcano/ruapehu\">Ruapehu</a> (New Zealand's most frequently active on-land volcano). Together, these systems make the TVZ one of the most concentrated zones of active volcanism in the world. Whakaari is unique among them as the only active volcanic island, and its offshore position means it presents a different hazard profile than the terrestrial TVZ volcanoes."
+    },
+    "etymology": {
+      "content": "The official dual name Whakaari/White Island reflects both the indigenous Māori and colonial European naming traditions. The full Māori name is Te Puia o Whakaari, which has been translated as \"The Dramatic Volcano,\" \"The Uplifted Dramatic Thing,\" or \"That Which Can Be Made Visible\" — each interpretation capturing the volcano's spectacular and constantly visible steam plume. The English name White Island was bestowed by Lieutenant (later Captain) James Cook on November 1, 1769, during his first circumnavigation of New Zealand, specifically because the island appeared perpetually \"white\" due to its dense volcanic steam cloud. The official government designation combines both names as Whakaari/White Island, following New Zealand's bicultural naming conventions."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Whakaari Compared to New Zealand's Other Active Volcanoes",
+      "description": "How does Whakaari stack up against the other volcanic centers of the Taupo Volcanic Zone?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Whakaari/White Island",
+          "New Zealand",
+          "294 m",
+          "Stratovolcano(es)",
+          "2025",
+          "3",
+          "42"
+        ],
+        [
+          "Ruapehu",
+          "New Zealand",
+          "2,797 m",
+          "Stratovolcano",
+          "2007",
+          "4",
+          "66"
+        ],
+        [
+          "Tongariro",
+          "New Zealand",
+          "1,978 m",
+          "Stratovolcano(es)",
+          "2012",
+          "5",
+          "79"
+        ],
+        [
+          "Tarawera",
+          "New Zealand",
+          "1,111 m",
+          "Lava dome(s)",
+          "1886",
+          "5",
+          "5"
+        ],
+        [
+          "Taupo",
+          "New Zealand",
+          "760 m",
+          "Caldera",
+          "232 AD",
+          "7",
+          "28"
+        ]
+      ]
+    },
+    {
+      "title": "Whakaari vs Other Dangerous Volcanic Islands Worldwide",
+      "description": "Comparison with other volcanic islands that have posed risks to visitors and nearby populations.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Eruption Style",
+        "Last Eruption",
+        "VEI Max",
+        "Key Hazard"
+      ],
+      "rows": [
+        [
+          "Whakaari",
+          "New Zealand",
+          "Stratovolcano",
+          "Phreatic/Phreatomagmatic",
+          "2025",
+          "3",
+          "Unpredictable steam explosions"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "Stratovolcano",
+          "Strombolian",
+          "2025",
+          "3",
+          "Persistent explosions, tsunamis"
+        ],
+        [
+          "Taal",
+          "Philippines",
+          "Caldera",
+          "Phreatomagmatic",
+          "2025",
+          "6",
+          "Lake-based explosions, surges"
+        ],
+        [
+          "Anak Krakatau",
+          "Indonesia",
+          "Caldera",
+          "Strombolian/Vulcanian",
+          "2025",
+          "6",
+          "Flank collapse, tsunamis"
+        ],
+        [
+          "Surtsey",
+          "Iceland",
+          "Submarine",
+          "Surtseyan",
+          "1967",
+          "3",
+          "Historical — island building"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1826,
+      "vei": 2,
+      "label": "First European-documented eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1914,
+      "vei": null,
+      "label": "Crater wall collapse buries sulfur mine — 10 workers killed",
+      "deaths": "10",
+      "notable": true
+    },
+    {
+      "year": 1933,
+      "vei": 3,
+      "label": "Major phreatic eruption creates new crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1962,
+      "vei": 3,
+      "label": "Explosive eruption at Big John Crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1976,
+      "vei": 3,
+      "label": "Start of 6-year eruption sequence at Christmas/Gibrus/1978 craters",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1986,
+      "vei": 3,
+      "label": "Start of longest modern eruption episode (1986–1994)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2000,
+      "vei": 3,
+      "label": "Explosive eruption at MH vent",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2012,
+      "vei": 2,
+      "label": "Eruption at 1978/90 crater complex — lava dome observed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2019,
+      "vei": 2,
+      "label": "Devastating phreatic eruption kills 22 tourists and guides",
+      "deaths": "22",
+      "notable": true
+    },
+    {
+      "year": 2024,
+      "vei": 1,
+      "label": "Renewed eruptive activity — island remains closed",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th",
+      "count": 7,
+      "note": "First European records from 1826; includes fatal 1914 collapse"
+    },
+    {
+      "century": "20th",
+      "count": 27,
+      "note": "Most active recorded century — sustained activity 1976–1994"
+    },
+    {
+      "century": "21st",
+      "count": 8,
+      "note": "Includes the fatal 2019 eruption and ongoing 2024–2025 activity"
+    }
+  ],
+  "facts": [
+    "Whakaari/White Island is the emergent peak of a submarine volcano measuring 16 × 18 km at its base — the visible island is less than 2% of the total volcanic edifice.",
+    "The 2019 eruption killed 22 people, making it New Zealand's deadliest volcanic event since the 1886 eruption of Mount Tarawera, which killed an estimated 120 people.",
+    "The crater lake at Whakaari has pH values below 1 — more acidic than battery acid — making it one of the most corrosive natural water bodies on Earth.",
+    "Captain James Cook named the island in 1769 because it appeared perpetually shrouded in a white cloud of volcanic steam, visible from the open ocean.",
+    "After the 1914 crater wall collapse killed all 10 miners, the only survivor found on the island was the camp cat, 'Peter the Great,' discovered alive two weeks later.",
+    "Whakaari has produced 42 recorded eruptions since 1826 — an average of approximately one eruption every 4.7 years — making it the most frequently erupting volcanic center in New Zealand.",
+    "The 2019 eruption occurred at Volcanic Alert Level 2, demonstrating that phreatic eruptions can happen even when monitoring indicates only moderate unrest — they are inherently unpredictable.",
+    "Before the 2019 disaster, approximately 10,000 tourists per year walked directly into the active volcanic crater of Whakaari, making it one of the most extreme volcanic tourism experiences on Earth.",
+    "The criminal prosecution following the 2019 eruption resulted in convictions under New Zealand's Health and Safety at Work Act — the first time volcanic tourism operators were held criminally accountable for eruption deaths.",
+    "Fumarole temperatures inside the crater exceed 800°C — hot enough to melt aluminum — yet tourists routinely walked within meters of these vents before 2019.",
+    "Whakaari sits at the northeastern end of the Taupo Volcanic Zone, which also contains the Taupo caldera — responsible for one of the most powerful eruptions in the last 5,000 years (the 232 AD Hatepe eruption, VEI 7).",
+    "The Māori name Te Puia o Whakaari translates to 'The Dramatic Volcano' — a name that has proved tragically apt."
+  ],
+  "faqs": [
+    {
+      "question": "Can you visit White Island?",
+      "answer": "No, Whakaari/White Island has been closed to all public access since the deadly eruption of December 9, 2019, which killed 22 people. Before the disaster, commercial tour operators offered boat and helicopter trips from Whakatane that brought visitors directly into the active volcanic crater. Following the eruption, criminal prosecutions resulted in convictions of tour operators, and there is currently no indication that visitor access will resume. The island can be viewed from a distance on scenic boat cruises operating from the Bay of Plenty coast. For safe volcanic tourism experiences in New Zealand, the Tongariro Alpine Crossing and Waimangu Volcanic Valley are recommended alternatives."
+    },
+    {
+      "question": "What happened during the 2019 White Island eruption?",
+      "answer": "At 2:11 PM on December 9, 2019, Whakaari/White Island erupted suddenly while 47 people — cruise ship tourists and their guides — were inside the active crater. A phreatic (steam-driven) explosion sent a blast of superheated steam, rock, mud, and volcanic gas sweeping across the crater floor. Twenty-two people were killed, some immediately and others in the weeks that followed from catastrophic burns. All survivors suffered severe burns, many covering over 70% of their bodies. The eruption was classified as VEI 2, relatively small by volcanic standards, but deadly at close range. The volcano had been at Volcanic Alert Level 2 (moderate unrest) before the eruption. The disaster led to criminal convictions of tour operators and organizations."
+    },
+    {
+      "question": "Is White Island still active?",
+      "answer": "Yes, Whakaari/White Island remains one of New Zealand's most active volcanoes. It erupted most recently in 2024–2025, with ongoing activity detected by GeoNet's remote monitoring systems. The volcano has produced 42 recorded eruptions since 1826 and maintains a vigorous hydrothermal system with fumaroles, acidic lakes, and persistent gas emissions. Its eruption style is predominantly phreatic (steam-driven), which is inherently difficult to predict. GeoNet continuously monitors the volcano with seismometers, cameras, gas sensors, and satellite imagery. The volcano is expected to continue producing eruptions for the foreseeable future."
+    },
+    {
+      "question": "How many people died on White Island?",
+      "answer": "Twenty-two people were killed by the December 9, 2019 eruption of Whakaari/White Island. Of the 47 people on the island at the time of the eruption, 22 died — some immediately from the blast and burns, others in the days and weeks following in hospital burn units from catastrophic thermal injuries. Additionally, all 25 survivors suffered severe burns, many requiring years of medical treatment. The 2019 disaster was New Zealand's deadliest volcanic event since the 1886 eruption of Mount Tarawera. Earlier, in 1914, a crater wall collapse killed 10 sulfur miners on the island, bringing the total historical death toll to 32."
+    },
+    {
+      "question": "How far is White Island from the coast?",
+      "answer": "Whakaari/White Island is located approximately 50 km (31 miles) offshore from the nearest point on New Zealand's North Island coast, in the Bay of Plenty. The nearest town is Whakatane, approximately 49 km to the southwest. Before the island's closure, boat tours from Whakatane took approximately 80 minutes each way to reach the island. Despite its distance from shore, the volcano's constant steam plume is often visible from the mainland on clear days, and larger eruption columns can be seen from even greater distances."
+    },
+    {
+      "question": "What type of volcano is White Island?",
+      "answer": "Whakaari/White Island is an andesitic stratovolcano (composite volcano) consisting of two overlapping cones. The visible island, measuring just 2 × 2.4 km, is the small emergent summit of a much larger submarine volcanic edifice measuring 16 × 18 km that rises approximately 1,600 m from the seafloor. The volcano sits at the northeastern end of the Taupo Volcanic Zone, where the Pacific Plate subducts beneath the Australian Plate. Its eruptions are predominantly phreatic and phreatomagmatic — driven by the interaction between magmatic heat and a highly active hydrothermal system rather than by the direct eruption of fresh magma to the surface."
+    },
+    {
+      "question": "Why is White Island so dangerous?",
+      "answer": "Whakaari/White Island is exceptionally dangerous for several compounding reasons. Its eruptions are predominantly phreatic (steam-driven), which are among the most difficult to forecast because they result from sudden pressure changes in shallow hydrothermal systems rather than from the detectable upward migration of magma. The crater is a confined amphitheater with limited escape routes, trapping anyone inside during an eruption. Eruption products include superheated steam (temperatures exceeding 100°C causing catastrophic burns), ballistic rock fragments, and acidic fluids. The 2019 disaster demonstrated that even a VEI 2 eruption — small by volcanic standards — can be lethal within the crater."
+    },
+    {
+      "question": "Who owns White Island?",
+      "answer": "Whakaari/White Island is privately owned. The island has been in private ownership since the 19th century and is currently held by the Buttle family trust. It was designated a private scenic reserve in 1953 under New Zealand conservation law. The island also holds significant cultural importance for the Ngāti Awa iwi (Māori tribe), who maintain traditional authority (mana whenua) over the area. The dual naming — Whakaari/White Island — reflects this shared heritage. Following the 2019 eruption and the closure of the island to visitors, the question of future management and access remains unresolved."
+    },
+    {
+      "question": "How tall is White Island?",
+      "answer": "Whakaari/White Island rises to just 294 m (965 ft) above sea level, making it one of the lowest-elevation active volcanoes in the world. However, this figure is misleading: the visible island is merely the emergent tip of a massive submarine volcanic structure measuring 16 × 18 km at its base on the seafloor. The total height of the volcanic edifice from base to summit is approximately 1,600 m (5,250 ft), comparable to many major land-based stratovolcanoes. The crater floor sits at or slightly below sea level, meaning visitors historically walked downward from the landing area into the active volcanic zone."
+    },
+    {
+      "question": "When did White Island last erupt?",
+      "answer": "Whakaari/White Island most recently erupted in 2024–2025, with an eruptive episode beginning on May 24, 2024, and further activity recorded from August 2025. These eruptions were detected by GeoNet's remote monitoring network, as the island has been closed to human access since the deadly 2019 eruption. Prior to this, the volcano erupted in 2016 (two separate events in April and September). With 42 recorded eruptions since 1826, the volcano erupts on average approximately once every 4–5 years, though activity tends to cluster in multi-year sequences separated by longer quiet intervals."
+    }
+  ],
+  "people_also_search": [
+    "white island eruption 2019",
+    "white island deaths",
+    "can you visit white island",
+    "whakaari white island documentary",
+    "white island eruption video",
+    "new zealand volcano 2019",
+    "white island tour",
+    "white island trial verdict"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Whakaari / White Island",
+    "alternateName": [
+      "White Island",
+      "Whakaari",
+      "Te Puia o Whakaari"
+    ],
+    "description": "Active andesitic stratovolcano in the Bay of Plenty, New Zealand, site of the fatal 2019 eruption that killed 22 tourists",
+    "geo": {
+      "latitude": -37.52,
+      "longitude": 177.18,
+      "elevation": 294
+    },
+    "containedInPlace": {
+      "name": "Bay of Plenty",
+      "country": "New Zealand"
+    },
+    "url": "https://volcanoatlas.com/volcano/whakaari-white-island"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=241040",
+      "text": "Smithsonian GVP: Whakaari/White Island",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.geonet.org.nz/volcano/whiteisland",
+      "text": "GeoNet: Whakaari/White Island Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/White-Island-volcano-New-Zealand",
+      "text": "Britannica: White Island",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.gns.cri.nz/",
+      "text": "GNS Science — New Zealand Geological Survey",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "ruapehu",
+      "tongariro",
+      "taal",
+      "poas",
+      "stromboli",
+      "aira",
+      "vesuvius",
+      "krakatau"
+    ],
+    "country_pages": [
+      "new-zealand"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "active-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "ruapehu",
+    "tongariro",
+    "taal",
+    "poas",
+    "stromboli"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in New Zealand",
+      "url": "/volcanoes-in-new-zealand"
+    },
+    {
+      "label": "Whakaari / White Island",
+      "url": "/volcano/whakaari-white-island"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/whakaari-white-island"
+}

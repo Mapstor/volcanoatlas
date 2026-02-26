@@ -1,0 +1,503 @@
+{
+  "slug": "erebus",
+  "volcano_id": 390020,
+  "title": "Mount Erebus",
+  "meta_title": "Mount Erebus — Lava Lake, Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Mount Erebus is a 3,794 m active stratovolcano in Antarctica with a persistent phonolite lava lake. Explore its eruption history, research, and the 1979 disaster.",
+  "quick_answer": {
+    "what": "Mount Erebus is an active stratovolcano on Ross Island, Antarctica, rising 3,794 m (12,448 ft) as Earth's southernmost historically active volcano.",
+    "status": "Actively erupting — a persistent lava lake in the summit crater has been continuously observed since 1972, with ongoing Strombolian activity into 2025.",
+    "famous_for": "Hosting one of only a handful of persistent lava lakes on Earth, composed of rare anorthoclase phonolite magma — unique among the world's lava lakes.",
+    "danger_level": "Low population risk due to remote Antarctic location. McMurdo Station, the principal US Antarctic research base, lies ~35 km to the south-southwest. The volcano is also the site of the 1979 Air New Zealand Flight 901 disaster that killed 257 people."
+  },
+  "hero": {
+    "name": "Mount Erebus",
+    "local_name": null,
+    "subtitle": "Earth's Southernmost Active Volcano",
+    "country": "Antarctica",
+    "region": "Ross Island, McMurdo Volcanic Province",
+    "type": "Stratovolcano",
+    "elevation_m": 3794,
+    "elevation_ft": 12448,
+    "status": "Active — continuous eruption",
+    "last_eruption": "2025 CE (ongoing)",
+    "coordinates": {
+      "lat": -77.53,
+      "lon": 167.17
+    },
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mount_Erebus_from_Scott_Base.jpg",
+    "photo_credit": "US Antarctic Program / Public Domain"
+  },
+  "key_facts_box": {
+    "elevation": "3,794 m (12,448 ft)",
+    "type": "Stratovolcano (composite)",
+    "status": "Active — continuous eruption since at least 1972",
+    "last_eruption": "2025 CE (ongoing)",
+    "first_known_eruption": "1841 CE (first sighting by Captain James Ross)",
+    "total_recorded_eruptions": 10,
+    "vei_max": "3 (estimated, historical)",
+    "country": "Antarctica",
+    "region": "Ross Island, McMurdo Volcanic Province",
+    "tectonic_setting": "Continental rift — West Antarctic Rift System / mantle plume",
+    "rock_types": [
+      "Phonolite (anorthoclase phonolite)",
+      "Basanite",
+      "Tephriphonolite"
+    ],
+    "coordinates": "77.530°S, 167.170°E",
+    "nearest_station": "McMurdo Station (USA) — ~35 km SSW; Scott Base (New Zealand) — ~35 km SSW",
+    "population_at_risk": "~1,000–1,500 seasonal personnel at nearby research stations",
+    "summit_crater": "Elliptical, 500 × 600 m, 110 m deep; inner crater 250 m wide with active lava lake",
+    "monitoring_agency": "Satellite-based (MODVOLC/MODIS); formerly Mt. Erebus Volcano Observatory (MEVO)",
+    "discovery": "Discovered and named 27 January 1841 by Captain James Clark Ross",
+    "smithsonian_id": "390020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=390020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Erebus is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> on Ross Island, <a href=\"/volcanoes-in-antarctica\">Antarctica</a>, rising to 3,794 m (12,448 ft) as Earth's southernmost historically active volcano. It is the largest of three major volcanic edifices forming the roughly triangular Ross Island and overlooks McMurdo Station — the principal <a href=\"/volcanoes-in-united-states\">United States</a> research facility on the continent — approximately 35 km (22 mi) to the south-southwest. Erebus is one of the rarest volcanoes on the planet: it hosts a persistent lava lake of phonolitic composition, a magma type found at no other known lava lake on Earth.\n\nThe volcano has been in a state of continuous or near-continuous eruption since at least 1972, when the anorthoclase phonolite lava lake in the summit crater was first directly observed. Minor Strombolian explosions punctuated by occasional larger bursts that eject volcanic bombs onto the crater rim characterize its persistent activity. The lava lake was likely active long before 1972 — the volcano was actively erupting when first sighted on 27 January 1841 by Captain James Clark Ross during his Antarctic expedition, and Ross named it after his flagship vessel HMS Erebus. In Greek mythology, Erebus, son of Chaos, personifies darkness — a name that took on somber significance when Air New Zealand Flight 901 crashed into the volcano's lower slopes on 28 November 1979, killing all 257 people aboard in the worst civil disaster in New Zealand's history.\n\nErebus sits within the McMurdo Volcanic Province, associated with the West Antarctic Rift System and possibly a deep mantle plume. Its dominantly phonolitic composition — rich in alkali elements and poor in silica relative to typical subduction-zone volcanoes — reflects this intraplate tectonic setting and makes it a globally important natural laboratory for studying alkalic volcanism, persistent lava lake dynamics, and volcanic degassing in extreme polar conditions."
+    },
+    "geology_and_formation": {
+      "content": "Mount Erebus is situated within the McMurdo Volcanic Province at the western margin of the West Antarctic Rift System (WARS), a major extensional tectonic feature analogous in some respects to the East African Rift. The volcanism is generally attributed to a combination of continental rifting and the influence of a possible deep mantle plume, though the precise tectonic driver remains debated. Unlike most of the world's famous volcanoes, Erebus is not associated with a subduction zone — it is an intraplate volcano, and its magma reflects this origin.\n\nThe summit of the dominantly phonolitic <a href=\"/types-of-volcanoes\">stratovolcano</a> has been modified by one or two generations of caldera formation. A summit plateau at approximately 3,200 m (10,500 ft) marks the rim of the youngest caldera, which formed during the late Pleistocene. The modern cone was constructed within this caldera. An elliptical summit crater measuring approximately 500 × 600 m (1,640 × 1,970 ft) and 110 m (360 ft) deep truncates the peak. Within this outer crater lies a smaller inner crater, roughly 250 m (820 ft) wide and 100 m (330 ft) deep, that contains the famous active lava lake. A second, smaller lava lake occasionally appears.\n\nThe volcanic composition is dominated by phonolite — specifically anorthoclase phonolite, an alkalic rock type rich in sodium and potassium feldspars. This is geochemically distinctive: compared to typical subduction-zone volcanoes, Erebus magma is CO₂-rich, and the CO₂/CO ratio is consistent with the measured oxygen fugacity of Erebus phonolite estimated from mineral compositions. The volcano also produces basanite and tephriphonolite, reflecting the broader alkalic magma series. The presence of large, euhedral anorthoclase feldspar crystals in the lava — sometimes several centimeters across — is a signature feature of Erebus and a valuable tool for studying crystallization histories in phonolitic magmatic systems on thousand-year timescales."
+    },
+    "eruption_history_overview": {
+      "content": "Mount Erebus's recorded eruption history begins with its discovery in 1841, when Captain James Clark Ross observed the volcano actively erupting during his Antarctic expedition. The summit was first reached in 1908 during Ernest Shackleton's Nimrod expedition, and participants reported vigorous steam and gas activity. Systematic scientific observation began in the 1970s, when researchers first directly documented the persistent lava lake.\n\nThe Smithsonian Global Volcanism Program records approximately 10 eruptive episodes since 1841, though this number underestimates the volcano's true activity — it has likely been in nearly continuous eruption for far longer than the observational record. The lava lake was first reported in 1963 and has been documented continuously since 1972. Between December 1972 and January 1976, an average of approximately 2.5 Strombolian eruptions occurred daily. During 1978, rates varied between 1.6 and 3.6 eruptions per day.\n\nLarger eruptions punctuate the low-level background. The Mt. Erebus Volcano Observatory (MEVO) recorded peaks in eruption frequency during 1995, 1997, 1998, 2000, and a sustained increase beginning in late 2005 through 2006. MODVOLC satellite thermal alert data show major peaks in activity around 2009 (2,514 thermal alert pixels), with significant declines during 2015–2016 and renewed increases through 2023. In October 2025, several small- to medium-sized eruptions were recorded, with a \"very large\" event on 14 October, classified by comparison of seismic data with signatures of known Erebus eruptions."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "Discovery and Early Observations (1841–1908)",
+          "content": "Mount Erebus was actively erupting when Captain James Clark Ross first sighted it on 27 January 1841, during his pioneering Antarctic expedition aboard HMS Erebus and HMS Terror. Ross described the volcano emitting flame and smoke — a dramatic sight in the frozen Antarctic landscape. The volcano was named after his flagship, which itself bore the name of the Greek primordial deity of darkness.\n\nThe first summit ascent was achieved on 10 March 1908 by members of Ernest Shackleton's Nimrod expedition, led by Professor T.W. Edgeworth David. The party of six men climbed the volcano over five days in extreme conditions and observed a vigorously active crater with a small inner crater producing explosions. Later that year, members of the same expedition reported steam clouds and a major steam eruption (\"geyser\") in April and June 1908, rising from a source area at the ~600 m level on the south-southwest slopes of Mount Bird — an area apparently experiencing hydrothermal activity that would later be linked to earthquake swarms detected in the 1980s."
+        },
+        {
+          "title": "The Persistent Lava Lake (1972–Present)",
+          "content": "The anorthoclase phonolite lava lake in Erebus's inner summit crater was first reported in 1963 and has been continuously documented since December 1972, when New Zealand, American, and Japanese scientists began systematic observation. The lake initially measured approximately 50 m across and has fluctuated in size over the decades — by December 1976, it had grown to roughly 100 m in diameter with a measured temperature of 980 ± 20°C, determined by optical pyrometry. Vigorous convection was observed across part of the lake surface.\n\nThe lake sustains a regime of ongoing Strombolian eruptions. During the 1986–87 austral summer, video surveillance recorded approximately two strong eruptions per day. The center of the lake was continuously active, with the surface characteristically bulging upward before exploding, throwing volcanic bombs to heights of hundreds of meters. By the early 2000s, the lake was sometimes joined by a second, smaller lava lake. Sentinel-2 satellite imagery during 2021 typically showed a single lava lake, though a much smaller second one was observed on 30 October of that year.\n\nThe lava lake's level has fluctuated over time: between 1976 and 1983, the surface dropped at an average rate of 2–3 m per year. These variations in lake level, size, and eruption frequency reflect changes in magma supply, degassing rates, and the dynamics of the shallow plumbing system. Erebus's persistent lake is one of only a handful in the world — others include <a href=\"/volcano/kilauea\">Kīlauea's</a> Halemaʻumaʻu lake, <a href=\"/volcano/nyiragongo\">Nyiragongo's</a> lava lake, and Erta Ale in Ethiopia — but it is unique in its phonolitic composition."
+        },
+        {
+          "title": "Elevated Activity Periods (1995–2009)",
+          "content": "The Mt. Erebus Volcano Observatory (MEVO) seismic and infrasonic monitoring network, operational from 1980 to 2016, documented several periods of elevated activity. Notable peaks in eruption frequency occurred in 1995, 1997, 1998, and 2000. A broad period of increased activity began in late 2005 and continued through much of 2006, during which large eruptions ceased by June 2006 but smaller events continued. The most pronounced peak in satellite-detected thermal activity occurred in 2009, when MODVOLC recorded 2,514 thermal alert pixels — the highest annual total in the 2000–2016 record.\n\nThese fluctuations in activity are monitored primarily through two methods: seismic detection of explosions (distinguishable from icequakes by their waveform characteristics) and infrared satellite imagery. The MODIS instruments aboard NASA's Aqua and Terra satellites, analyzed using the MODVOLC algorithm maintained by the Hawai'i Institute of Geophysics and Planetology, have provided continuous thermal monitoring data since 2000. The data show waxing and waning activity cycles on timescales of several years."
+        },
+        {
+          "title": "Recent Activity (2020–2025)",
+          "content": "Since the suspension of MEVO's ground-based monitoring program in 2016, Erebus has been monitored almost exclusively by satellite. MODIS-MODVOLC data have shown a strong and nearly continuous thermal signal through 2019 and 2020. Thermal detections increased considerably in 2023 compared to the 2020–2022 period, with the MODIS instruments capturing data from Erebus every month during 2023 — in contrast to previous years when some months lacked detections. Consistent with long-term patterns, the lowest thermal signatures were recorded in the austral summer months of January, November, and December, when shorter nights reduce infrared contrast.\n\nAs recently as October 2025, the Mt. Erebus activity log recorded several \"small- to medium-sized\" eruptions during 12–18 October, with a \"very large\" eruption occurring on 14 October. These eruption classifications are based on comparisons of seismic waveform data with the signatures of known Erebus eruptions recorded during the MEVO era. The persistent activity confirms that the lava lake and its associated Strombolian eruption regime remain vigorous more than 50 years after continuous observation began."
+        },
+        {
+          "title": "The Air New Zealand Flight 901 Disaster (28 November 1979)",
+          "content": "Mount Erebus's name is inseparable from one of the worst aviation disasters in history. On 28 November 1979, Air New Zealand Flight TE901 — a McDonnell Douglas DC-10 carrying 237 passengers and 20 crew on an Antarctic sightseeing flight from Auckland — crashed into the volcano's lower slopes at an altitude of 447 m (1,465 ft), killing everyone aboard. It remains the worst civil disaster in New Zealand's history.\n\nAir New Zealand had operated Antarctic sightseeing flights since 1977, departing Auckland in the morning and returning the same evening via Christchurch. Passengers enjoyed low-level views of the Ross Dependency while an experienced guide — a role previously filled by Sir Edmund Hillary — narrated landmarks. In the early hours of 28 November, the airline's navigation section altered a coordinate in the flight's computer flight plan, shifting the programmed route 27 nautical miles east — from a track down McMurdo Sound to one passing directly over Ross Island and Mount Erebus. The flight crew was not informed of the change.\n\nThe aircraft descended to approximately 610 m (2,000 ft) for sightseeing, likely in conditions of \"sector whiteout,\" where the volcano's snow-covered slopes became indistinguishable from the overcast sky. At 12:49 p.m. NZST, the DC-10 struck the mountain at near-cruising speed. Wreckage was spotted near midnight. The initial investigation attributed the crash to pilot error, but a Royal Commission of Inquiry led by Justice Peter Mahon concluded the accident was fundamentally caused by the unannounced alteration of the flight coordinates, compounded by institutional failings at Air New Zealand. In 2019, Prime Minister Jacinda Ardern and Air New Zealand formally apologized. A memorial cross stands on a hill near McMurdo Station, and a sculpted koru containing letters from victims' families was placed at the crash site in January 2010."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mount Erebus remains in a state of continuous eruption, with the persistent phonolite lava lake and associated Strombolian explosions continuing as of 2025. The volcano's remote Antarctic location makes conventional monitoring challenging. The Mt. Erebus Volcano Observatory (MEVO), run by the New Mexico Institute of Mining and Technology, operated up to 10 seismic stations and infrasonic monitoring equipment from 1980 to 2016. Scientists from New Mexico Tech, the University of Cambridge, and University College London conducted yearly austral-summer expeditions between 2003 and 2016.\n\nSince MEVO suspended its ground-based program in 2016, monitoring has been primarily satellite-based. The MODIS instruments aboard NASA's Aqua and Terra satellites, analyzed via the <a href=\"http://modis.higp.hawaii.edu/\" target=\"_blank\" rel=\"noopener\">MODVOLC algorithm</a>, provide near-continuous thermal data. Sentinel-2 optical imagery supplements this with higher-resolution views of the lava lake. The combination allows detection of changes in thermal output, lake size, and eruption frequency.\n\nOpen-path Fourier Transform Infrared (FTIR) spectroscopy, conducted during field campaigns, has measured gas emissions revealing that CO₂ is the dominant plume component by mass, with an estimated CO₂ flux of approximately 1,300 Mg/day and H₂O flux of approximately 860 Mg/day. These measurements are among the few available for a highly alkalic magmatic system and provide crucial reference data for understanding volcanic degassing in phonolitic plumbing systems."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The direct human risk from Mount Erebus is low compared to most active volcanoes, owing to its extremely remote Antarctic location. The nearest inhabited facilities — McMurdo Station (United States) and Scott Base (New Zealand) — lie approximately 35 km to the south-southwest, with seasonal populations of roughly 1,000–1,500 personnel combined during the austral summer (November–February). Winter-over crews are much smaller, typically 200–250 at McMurdo and about 10 at Scott Base.\n\nThe primary volcanic hazards are Strombolian bomb ejection (confined to the immediate crater area), minor ashfall from larger explosions, and volcanic gas emissions. The larger eruptions can eject bombs onto and beyond the crater rim, posing a danger to any researchers visiting the summit — an important consideration given that field scientists have periodically descended into the outer crater to study the lava lake. In December 1978, a team member narrowly avoided injury when an eruption occurred from a vent adjacent to the lava lake while he had descended to within approximately 25 m of the inner crater floor.\n\nThe broader environmental hazard is volcanic gas, particularly SO₂ and CO₂, which can affect air quality at the summit and potentially at McMurdo Station during unfavorable wind conditions. The 1979 Air New Zealand disaster, while not a volcanic hazard in the traditional sense, remains the most devastating incident in the volcano's human history and serves as a permanent reminder of the risks inherent in operating in the Antarctic environment."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount Erebus dominates Ross Island, a roughly triangular volcanic island approximately 72 km (45 mi) across, located in the Ross Sea off the Scott Coast of Antarctica, about 90 km east of the continental edge. Ross Island is formed by three major volcanic edifices — Erebus (3,794 m), Mount Terror (3,230 m), and Mount Bird (1,765 m) — of which Erebus is by far the highest and the only one historically active. The island is connected to the Antarctic continent by the Ross Ice Shelf.\n\nThe glacier-covered volcano features an elliptical summit crater measuring approximately 500 × 600 m (1,640 × 1,970 ft) and 110 m (360 ft) deep. Within this lies the inner crater — approximately 250 m wide and 100 m deep — containing the active lava lake. The lake has varied in size from approximately 50 m to over 100 m in diameter during the observation period. The outer crater walls expose thick sequences of lava flows and pyroclastic deposits documenting the volcano's construction history.\n\nA summit plateau at approximately 3,200 m marks the rim of the youngest caldera, formed during the late Pleistocene. Glaciers mantle the volcano's flanks down to sea level. The volcano rises in a relatively isolated, ice-covered landscape, with the vast Ross Ice Shelf extending to the south and east. The McMurdo Dry Valleys — some of the most extreme arid environments on Earth — lie to the west across McMurdo Sound. The geographic isolation, extreme cold (summit temperatures regularly below -40°C), and persistent high winds make Erebus one of the most challenging volcanoes in the world to study."
+    },
+    "climate_and_global_impact": {
+      "content": "Mount Erebus's eruptions are overwhelmingly small-scale by global standards and have produced no known climate impact. The persistent Strombolian activity ejects material only within or slightly beyond the summit crater, and even the larger explosions represent minuscule volumes compared to climate-altering eruptions like <a href=\"/volcano/tambora\">Tambora</a> (1815) or <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991).\n\nHowever, Erebus's continuous volcanic degassing is of interest to atmospheric scientists. The volcano emits a persistent plume containing CO₂, H₂O, SO₂, CO, HF, HCl, and other gases. The estimated CO₂ flux of ~1,300 Mg/day, while trivial in terms of global volcanic CO₂ emissions, represents one of the few well-characterized sources of volcanic gas in the Antarctic atmosphere. Trace gas species from Erebus have been detected in snow and ice samples from surrounding regions, providing a modern analog for interpreting volcanic signals in Antarctic ice cores. The volcano's emissions of halogens (HF, HCl) are particularly notable, as these compounds can interact with stratospheric ozone chemistry at high latitudes."
+    },
+    "cultural_significance": {
+      "content": "Mount Erebus carries a powerful cultural weight that transcends its scientific significance. Named for the Greek primordial deity of darkness — via Captain James Clark Ross's flagship HMS Erebus — the volcano's name has acquired layers of meaning through its association with both Antarctic exploration and tragedy. HMS Erebus and its sister ship Terror were later lost in the doomed Franklin expedition to the Canadian Arctic, in which all 129 men perished — adding an earlier note of catastrophe to the name long before the 1979 Air New Zealand disaster.\n\nFor New Zealand, the Erebus disaster is a defining national tragedy. The loss of 257 lives — in a nation of approximately 3 million people at the time — meant that almost everyone knew someone affected. Justice Peter Mahon's Royal Commission report, which concluded that Air New Zealand had perpetrated \"an orchestrated litany of lies\" to cover up the causes of the crash, became one of the most quoted judicial statements in New Zealand history. The 40th anniversary in 2019 brought formal government and airline apologies.\n\nIn the scientific community, Erebus occupies an almost mythic status as one of the world's most extraordinary natural laboratories — a continuously erupting volcano with a persistent phonolite lava lake at the bottom of the world, accessible only during brief austral summers and monitored for decades by a small community of dedicated researchers who endured extreme conditions to study it. The volcano has been the subject of hundreds of peer-reviewed papers and has provided fundamental insights into alkalic volcanism, lava lake dynamics, and volcanic degassing."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Erebus is not accessible to conventional tourists. Access to Ross Island requires passage through the Antarctic Treaty System's logistical framework, with visits typically limited to national Antarctic program personnel, approved researchers, and rare expedition cruise participants who may view the volcano from a distance aboard icebreaker ships.\n\nScientists visiting Erebus for field research must be supported by the United States Antarctic Program (USAP) or New Zealand's Antarctic program, which provide helicopter transportation to the summit area from McMurdo Station or Scott Base. Field seasons are limited to the austral summer (November–February), when temperatures at the summit still regularly drop below -40°C and high winds are persistent. Summit visits require specialized cold-weather mountaineering equipment and careful planning around weather windows.\n\nExpeditionary cruise ships operating in the Ross Sea occasionally offer distant views of Erebus, though landing on Ross Island is restricted. The volcano is visible from McMurdo Station and Scott Base, where it provides a dramatic backdrop to the primary research stations on the continent. For most people, Erebus remains a volcano to be experienced through the scientific literature, satellite imagery, and the rare photographs brought back from the extreme Antarctic field seasons."
+    },
+    "nearby_volcanoes": {
+      "content": "Ross Island itself contains two other major volcanic edifices: Mount Terror (3,230 m / 10,597 ft) and Mount Bird (1,765 m / 5,791 ft), neither of which is historically active. The island is part of the McMurdo Volcanic Province, which includes numerous volcanic centers along the western Ross Sea coast and the Transantarctic Mountains.\n\nOther notable Antarctic volcanoes include Mount Melbourne (2,732 m), located approximately 350 km to the north on the Antarctic mainland, which has fumarolic activity; and Deception Island in the South Shetland Islands, which last erupted in 1970 and is accessible to Antarctic cruise tourists. Mount Siple (3,110 m) on Siple Island and other volcanoes in Marie Byrd Land represent the continuation of the West Antarctic volcanic province.\n\nThe entire Antarctic continent contains at least 19 recognized Holocene volcanoes, with Erebus being by far the most active and best-studied. The volcanic province is of global geological interest as an example of continental rift volcanism in a glaciated polar setting."
+    },
+    "etymology": {
+      "content": "Mount Erebus was named on 27 January 1841 by Captain James Clark Ross after his flagship vessel HMS Erebus. The ship itself was named for Erebus (Greek: Ἔρεβος), the primordial deity personifying darkness in Greek mythology, born from Chaos alongside Nyx (Night). The neighboring peak, Mount Terror, was named for Ross's second ship, HMS Terror. Both vessels would later be lost in Sir John Franklin's ill-fated 1845 Arctic expedition, where all 129 crew members perished. The wrecks of Erebus and Terror were finally located in the Canadian Arctic in 2014 and 2016 respectively. The name's association with darkness and catastrophe has proven grimly prophetic given the 1979 air disaster on the volcano's slopes."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount Erebus Compared to the World's Other Persistent Lava Lakes",
+      "description": "How does Erebus's lava lake compare to the handful of other persistent lava lakes on Earth?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Lava Composition",
+        "Lake Active Since",
+        "Lake Diameter",
+        "Eruption Style"
+      ],
+      "rows": [
+        [
+          "Erebus",
+          "Antarctica",
+          "3,794 m",
+          "Phonolite",
+          "1972+ (likely much earlier)",
+          "50–100 m",
+          "Strombolian"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Nephelinite/Melilitite",
+          "1927+ (intermittent)",
+          "~200 m",
+          "Effusive/explosive"
+        ],
+        [
+          "Kīlauea",
+          "USA",
+          "1,222 m",
+          "Basalt",
+          "2008+ (intermittent)",
+          "Variable",
+          "Effusive"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "613 m",
+          "Basalt",
+          "1967+ (intermittent)",
+          "~60 m",
+          "Strombolian"
+        ],
+        [
+          "Ambrym",
+          "Vanuatu",
+          "1,334 m",
+          "Basalt",
+          "Intermittent",
+          "Variable",
+          "Strombolian"
+        ]
+      ]
+    },
+    {
+      "title": "Antarctic Volcanoes: Erebus in Context",
+      "description": "Comparing the major volcanic centers of the Antarctic region.",
+      "headers": [
+        "Volcano",
+        "Location",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Status",
+        "Notable Feature"
+      ],
+      "rows": [
+        [
+          "Erebus",
+          "Ross Island",
+          "3,794 m",
+          "Stratovolcano",
+          "2025 (ongoing)",
+          "Active — lava lake",
+          "Persistent phonolite lava lake"
+        ],
+        [
+          "Mount Terror",
+          "Ross Island",
+          "3,230 m",
+          "Shield",
+          "Pleistocene",
+          "Extinct",
+          "Adjacent to Erebus"
+        ],
+        [
+          "Mount Melbourne",
+          "N. Victoria Land",
+          "2,732 m",
+          "Stratovolcano",
+          "~1892?",
+          "Active (fumarolic)",
+          "Ice fumarole towers"
+        ],
+        [
+          "Deception Island",
+          "S. Shetland Is.",
+          "576 m",
+          "Caldera",
+          "1970",
+          "Active",
+          "Flooded caldera; tourist site"
+        ],
+        [
+          "Mount Siple",
+          "Siple Island",
+          "3,110 m",
+          "Shield",
+          "Holocene?",
+          "Uncertain",
+          "Remote Marie Byrd Land"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1841,
+      "vei": 2,
+      "label": "First sighting by Captain James Ross — volcano actively erupting",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1908,
+      "vei": null,
+      "label": "First summit ascent by Shackleton's Nimrod expedition — active crater observed",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1947,
+      "vei": null,
+      "label": "Reported eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1963,
+      "vei": null,
+      "label": "Lava lake first reported in summit crater",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1972,
+      "vei": 2,
+      "label": "Continuous lava lake observation begins; ~2.5 eruptions/day",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1979,
+      "vei": null,
+      "label": "Air New Zealand Flight 901 crashes into lower slopes — 257 killed",
+      "deaths": 257,
+      "notable": true
+    },
+    {
+      "year": 1984,
+      "vei": 3,
+      "label": "Large Strombolian eruptions; bombs ejected beyond crater rim",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1993,
+      "vei": 2,
+      "label": "Increased Strombolian activity observed",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2005,
+      "vei": 2,
+      "label": "Broad peak in eruption frequency begins — continues through 2006",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2009,
+      "vei": 2,
+      "label": "Peak satellite thermal activity — 2,514 MODVOLC alert pixels",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2016,
+      "vei": null,
+      "label": "MEVO ground-based monitoring program suspended",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2023,
+      "vei": 2,
+      "label": "Considerable increase in thermal detections vs. 2020–2022",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2025,
+      "vei": 2,
+      "label": "Ongoing activity; 'very large' eruption recorded 14 October 2025",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th (from 1841)",
+      "count": 2,
+      "note": "Discovery and early observations"
+    },
+    {
+      "century": "20th",
+      "count": 6,
+      "note": "Systematic observation; continuous lava lake from 1972"
+    },
+    {
+      "century": "21st (to 2025)",
+      "count": 2,
+      "note": "Continuous activity; satellite monitoring era"
+    }
+  ],
+  "facts": [
+    "Mount Erebus hosts the only known persistent lava lake of phonolitic composition on Earth — all other persistent lava lakes are basaltic or nephelinitic.",
+    "The lava lake has been continuously active since at least 1972, making it one of the longest-documented persistent lava lakes in the world.",
+    "Erebus's lava lake temperature has been measured at 980 ± 20°C using optical pyrometry — hot enough to melt aluminum.",
+    "The volcano was named after HMS Erebus, Captain James Clark Ross's flagship, which — along with sister ship Terror — was later lost in the Franklin expedition, where all 129 men perished in the Canadian Arctic.",
+    "Air New Zealand Flight 901 crashed into Mount Erebus on 28 November 1979, killing all 257 aboard — the worst civil disaster in New Zealand's history.",
+    "Erebus emits approximately 1,300 tonnes of CO₂ per day, making it one of the few well-characterized sources of volcanic gas in the Antarctic atmosphere.",
+    "The volcano is located just 35 km from McMurdo Station, where ~1,000 researchers and support staff work during the austral summer.",
+    "Summit temperatures at Erebus regularly drop below -40°C, making it one of the most hostile volcanic research environments on the planet.",
+    "During the 1986–87 field season, researchers observed approximately two strong Strombolian eruptions per day, with bombs thrown to heights of hundreds of meters.",
+    "Peak satellite thermal activity was recorded in 2009, with MODVOLC detecting 2,514 thermal alert pixels — over 20 times the annual count in the year 2000.",
+    "The Mt. Erebus Volcano Observatory (MEVO) operated ground-based seismic monitoring for 36 years (1980–2016) before funding was suspended.",
+    "HMS Erebus was rediscovered in Arctic waters in September 2014 — 169 years after it was lost — by a Parks Canada underwater archaeology team."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Erebus still active?",
+      "answer": "Yes, Mount Erebus is one of the most continuously active volcanoes on Earth. A persistent lava lake of rare phonolitic composition has been documented in the summit crater since 1972, accompanied by ongoing Strombolian explosions that range from minor bubble bursts to larger events ejecting bombs onto the crater rim. Satellite thermal monitoring confirms continuous activity through 2025, with a 'very large' eruption recorded on 14 October 2025. The volcano was actively erupting when first sighted by Captain James Ross in 1841, and it has likely been in a state of near-continuous eruption for far longer than the observational record covers."
+    },
+    {
+      "question": "Where is Mount Erebus?",
+      "answer": "Mount Erebus is located on Ross Island, Antarctica, at coordinates 77.53°S, 167.17°E. Ross Island is situated in the Ross Sea, approximately 90 km east of the Antarctic continent's edge, off the Scott Coast. The volcano lies roughly 35 km north-northeast of McMurdo Station (United States) and Scott Base (New Zealand), the two primary research facilities in the region. Ross Island is connected to the Antarctic continent via the Ross Ice Shelf. Erebus is Earth's southernmost historically active volcano."
+    },
+    {
+      "question": "What type of lava does Mount Erebus have?",
+      "answer": "Mount Erebus produces phonolite, specifically anorthoclase phonolite — a rare alkalic volcanic rock rich in sodium and potassium feldspars and relatively low in silica. This composition is unique among the world's persistent lava lakes, which are otherwise basaltic or nephelinitic. Erebus phonolite contains distinctive large crystals of anorthoclase feldspar, sometimes several centimeters across. Compared to typical subduction-zone volcanoes, Erebus magma is exceptionally CO₂-rich, and the CO₂/CO ratio is consistent with the oxygen fugacity of Erebus phonolite estimated from mineral compositions — making the volcano a globally important reference for alkalic volcanism."
+    },
+    {
+      "question": "What happened in the Erebus disaster of 1979?",
+      "answer": "On 28 November 1979, Air New Zealand Flight TE901 — a DC-10 sightseeing flight from Auckland carrying 257 people — crashed into the lower slopes of Mount Erebus at 447 m elevation, killing everyone aboard. Unknown to the pilots, the airline's navigation section had altered flight coordinates in the early hours that morning, shifting the programmed route from McMurdo Sound (flat sea ice) to directly over Ross Island and Mount Erebus. The crew descended to approximately 610 m for sightseeing in conditions likely involving sector whiteout. A Royal Commission found the airline, not the pilots, primarily at fault. It remains New Zealand's worst civil disaster."
+    },
+    {
+      "question": "Can you visit Mount Erebus?",
+      "answer": "Mount Erebus is not accessible to conventional tourists. The volcano is located on Ross Island, Antarctica, reachable only through national Antarctic program logistics or rare expedition cruises. Scientists conducting field research are supported by the United States Antarctic Program (USAP), with helicopter transport from McMurdo Station. Field seasons are limited to the austral summer (November–February), when summit temperatures still regularly drop below -40°C. Expedition cruise ships in the Ross Sea may offer distant views, but landing on Ross Island is restricted under the Antarctic Treaty System."
+    },
+    {
+      "question": "How tall is Mount Erebus?",
+      "answer": "Mount Erebus stands 3,794 m (12,448 ft) above sea level, making it the second-highest volcano in Antarctica after Mount Sidley (4,181 m). It is the highest point on Ross Island and the most prominent peak visible from McMurdo Station and Scott Base. The volcano rises from near sea level, giving it nearly its full height as topographic relief — an imposing presence in the Antarctic landscape. The summit hosts an elliptical crater 500 × 600 m wide and 110 m deep, containing a smaller inner crater with the active lava lake."
+    },
+    {
+      "question": "What type of volcano is Mount Erebus?",
+      "answer": "Mount Erebus is a stratovolcano (composite volcano) built primarily of phonolitic lava flows and pyroclastic deposits. Unlike most famous stratovolcanoes, which sit above subduction zones, Erebus is an intraplate volcano associated with the West Antarctic Rift System and possibly a deep mantle plume. Its alkalic magma composition — dominated by phonolite rather than the andesite or basalt typical of subduction volcanoes — reflects this tectonic setting. The summit has been modified by one or two generations of caldera collapse, with the modern cone built within the youngest late-Pleistocene caldera."
+    },
+    {
+      "question": "Why is Mount Erebus scientifically important?",
+      "answer": "Mount Erebus provides a unique natural laboratory for studying several volcanic phenomena. Its persistent phonolite lava lake — the only one of its kind on Earth — allows direct observation of alkalic magma dynamics, degassing processes, and crystallization in a continuously active system. The volcano's extreme polar location offers insights into volcanic-ice interactions. Its gas emissions serve as reference data for interpreting volcanic signals in Antarctic ice cores. The rare anorthoclase crystals in Erebus lava enable study of crystallization histories on thousand-year timescales. Decades of monitoring data from MEVO have produced fundamental contributions to volcanic seismology and infrasound research."
+    },
+    {
+      "question": "How is Mount Erebus monitored?",
+      "answer": "Since the suspension of the Mt. Erebus Volcano Observatory's ground-based program in 2016, Erebus has been monitored primarily by satellite. The MODIS instruments on NASA's Aqua and Terra satellites, analyzed via the MODVOLC algorithm, provide near-continuous thermal alert data. Sentinel-2 optical imagery gives higher-resolution views of the lava lake. Before 2016, MEVO operated up to 10 seismometers, infrasound sensors, GPS receivers, and webcams at the volcano. Field campaigns with FTIR spectroscopy measured volcanic gas emissions during austral summers. The transition to satellite-only monitoring, while providing broad coverage, has reduced the ability to detect smaller events and subtle changes."
+    },
+    {
+      "question": "Does Mount Erebus affect climate?",
+      "answer": "Mount Erebus has no measurable global climate impact. Its eruptions are small-scale Strombolian events confined to the summit crater, ejecting negligible volumes of material into the atmosphere compared to climate-altering eruptions like Tambora (1815) or Pinatubo (1991). However, the volcano's continuous degassing — approximately 1,300 tonnes of CO₂ and 860 tonnes of H₂O per day — is of scientific interest as a persistent volcanic gas source in the Antarctic atmosphere. Trace volcanic species from Erebus have been detected in surrounding snow and ice, providing modern calibration data for interpreting volcanic signals preserved in Antarctic ice cores."
+    }
+  ],
+  "people_also_search": [
+    "erebus volcano lava lake",
+    "erebus disaster 1979",
+    "mount erebus antarctica",
+    "mount erebus eruption",
+    "erebus phonolite",
+    "southernmost active volcano",
+    "air new zealand flight 901",
+    "ross island volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Erebus",
+    "alternateName": [
+      "Erebus"
+    ],
+    "description": "Earth's southernmost historically active volcano, hosting a persistent phonolite lava lake on Ross Island, Antarctica",
+    "geo": {
+      "latitude": -77.53,
+      "longitude": 167.17,
+      "elevation": 3794
+    },
+    "containedInPlace": {
+      "name": "Ross Island",
+      "country": "Antarctica"
+    },
+    "url": "https://volcanoatlas.com/volcano/erebus"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=390020",
+      "text": "Smithsonian GVP: Erebus",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Erebus",
+      "text": "Britannica: Mount Erebus",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://nzhistory.govt.nz/page/erebus-disaster",
+      "text": "NZ History: Erebus Disaster",
+      "type": "history"
+    },
+    {
+      "url": "https://www.usap.gov/",
+      "text": "United States Antarctic Program",
+      "type": "logistics"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/",
+      "text": "NASA Earth Observatory",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "nyiragongo",
+      "erta-ale",
+      "stromboli",
+      "tambora",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "antarctica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "nyiragongo",
+    "kilauea",
+    "erta-ale",
+    "stromboli",
+    "ambrym"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Antarctica",
+      "url": "/volcanoes-in-antarctica"
+    },
+    {
+      "label": "Mount Erebus",
+      "url": "/volcano/erebus"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/erebus"
+}

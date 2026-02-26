@@ -1,0 +1,335 @@
+{
+  "slug": "akutan",
+  "volcano_id": 311320,
+  "title": "Akutan Volcano",
+  "meta_title": "Akutan Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Akutan is a 1,303 m active stratovolcano in the Aleutian Islands, Alaska. Explore its 47 eruptions, caldera, hot springs, and volcanic hazards.",
+  "quick_answer": {
+    "what": "Akutan is an active stratovolcano rising to 1,303 m (4,275 ft) on Akutan Island in the eastern Aleutian Islands of Alaska, United States.",
+    "status": "Active — last erupted in 1992. One of the most frequently active volcanoes in the Aleutian arc with 47 recorded eruptions.",
+    "famous_for": "Its active caldera with a prominent cinder cone, persistent explosive activity, and proximity to one of Alaska's largest fishing ports.",
+    "danger_level": "Moderate — the community of Akutan (population ~75) and one of the largest seafood processing facilities in North America lie within the volcano's hazard zone."
+  },
+  "hero": {
+    "name": "Akutan",
+    "local_name": null,
+    "subtitle": "The Aleutians' Restless Caldera Volcano",
+    "country": "United States",
+    "region": "Aleutian Islands, Alaska",
+    "type": "Stratovolcano",
+    "elevation_m": 1303,
+    "elevation_ft": 4275,
+    "status": "Active",
+    "last_eruption": "1992",
+    "coordinates": {
+      "lat": 54.134,
+      "lon": -165.986
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04544.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,303 m (4,275 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "1992",
+    "first_known_eruption": "~7620 BCE (prehistoric); 1790 CE (historical uncertain)",
+    "total_recorded_eruptions": 47,
+    "vei_max": "5 (~340 CE, caldera-forming eruption)",
+    "country": "United States",
+    "region": "Aleutian Islands, Alaska",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath North American Plate (intermediate crust, 15–25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "54.134°N, 165.986°W",
+    "nearest_city": "Akutan village — ~13 km east of summit",
+    "population_at_risk": "~75 permanent residents + seasonal fishing workers",
+    "summit_caldera": "~2 km wide, 60–365 m deep, formed ~1,600 years ago",
+    "monitoring_agency": "Alaska Volcano Observatory (AVO)",
+    "smithsonian_id": "311320",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=311320"
+  },
+  "sections": {
+    "overview": {
+      "content": "Akutan is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> on Akutan Island in the eastern Aleutian Islands, rising to 1,303 m (4,275 ft) approximately 1,200 km southwest of Anchorage, Alaska, in the <a href=\"/volcanoes-in-united-states\">United States</a>. With 47 recorded eruptions, it is one of the most frequently active volcanoes in the Aleutian arc, a chain of more than 50 historically active volcanoes stretching 2,500 km across the northern Pacific as part of the <a href=\"/ring-of-fire\">Ring of Fire</a>. The volcano is distinguished by a 2 km wide summit caldera formed during a major VEI 5 eruption around 340 CE, within which a large cinder cone has become the primary source of modern eruptive activity. Though remote, Akutan Island hosts a small Unangan (Aleut) community and one of the largest commercial fishing ports in North America, placing both people and critical infrastructure within the volcano's hazard zone. Akutan's eruption frequency in the 20th century — particularly from the 1970s through the 1990s with near-annual explosive episodes — places it alongside <a href=\"/volcano/shishaldin\">Shishaldin</a> and <a href=\"/volcano/pavlof\">Pavlof</a> as one of the Aleutian arc's most reliably active volcanoes."
+    },
+    "geology_and_formation": {
+      "content": "Akutan lies along the Aleutian Volcanic Arc, formed by the northwestward subduction of the Pacific Plate beneath the North American Plate at a rate of approximately 7 cm per year. The volcano is built primarily of basaltic to picritic lavas, reflecting its position above relatively thin intermediate crust (15–25 km thick). The current edifice is constructed atop an older, largely buried caldera of late Pleistocene or early Holocene age. The younger, more prominent caldera — approximately 2 km wide and 60–365 m deep — formed during a major explosive eruption approximately 1,600 years ago (around 340 CE), rated VEI 5. This event produced extensive pyroclastic deposits found across the island. Within this younger caldera, a large cinder cone has grown in the northeastern sector and has been the source of most historical eruptions. At least three lakes occupy the caldera floor. Two additional volcanic centers lie on the northwest flank: Lava Peak (Pleistocene age) and a more recent cinder cone that produced a lava flow in 1852, which extended the shoreline to form Lava Point. Fumaroles persist at the base of the caldera cinder cone, and hot springs occur northeast of the caldera along Hot Springs Bay valley."
+    },
+    "eruption_history_overview": {
+      "content": "Akutan's eruption record spans more than 9,000 years, from prehistoric activity around 7620 BCE to its most recent eruption in 1992. The caldera-forming VEI 5 eruption around 340 CE was the most powerful event in the volcano's history. Historical records begin with uncertain reports in the 1790s, and confirmed eruptions have been documented from 1848 onward. The late 20th century was an exceptionally active period: between 1973 and 1992, Akutan erupted nearly every year, producing a sustained series of VEI 2 Strombolian and Vulcanian explosions from the caldera cinder cone. These eruptions were typically characterized by ash plumes rising several kilometers, incandescent ejections visible at night, and occasional lava effusion onto the caldera floor. Since 1992, the volcano has been relatively quiet but remains closely monitored by the Alaska Volcano Observatory (AVO)."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~340 CE Caldera-Forming Eruption (VEI 5)",
+          "content": "The most significant eruption in Akutan's history occurred approximately 1,600 years ago, producing a <a href=\"/volcanic-explosivity-index\">VEI 5</a> explosive event that formed the current 2 km wide summit caldera. The eruption generated voluminous pyroclastic flows and tephra deposits that blanketed much of Akutan Island. The caldera collapse left a depression 60–365 m deep, which subsequently filled partially with water to form several lakes. This event was comparable in scale to other major Aleutian caldera-forming eruptions and significantly reshaped the upper portion of the volcanic edifice."
+        },
+        {
+          "title": "The 1852 Eruption — Lava Point Formation",
+          "content": "A notable eruption from a flank cinder cone on the northwest side of the volcano produced a lava flow that traveled downslope and extended the island's coastline, forming the feature known today as Lava Point. This event is significant as one of the few Akutan eruptions to have produced substantial lava flows outside the summit caldera and demonstrates that eruptive vents are not limited to the caldera cinder cone."
+        },
+        {
+          "title": "The 1978 Eruption — Lava Breaches the Caldera",
+          "content": "The 1978 eruption (VEI 2) is notable for producing a lava flow that traveled through a narrow breach in the north caldera rim, extending nearly to the coast. This event demonstrated that lava flows from the intra-caldera cinder cone could escape the caldera enclosure and potentially threaten areas outside the summit region. The eruption was accompanied by Strombolian explosions and ash emissions typical of Akutan's modern activity style."
+        },
+        {
+          "title": "1973–1992 — Two Decades of Near-Annual Eruptions",
+          "content": "From 1973 through 1992, Akutan erupted in almost every year — a remarkable sequence of persistent activity. These eruptions were consistently rated VEI 2, featuring Strombolian explosions, ash plumes, and incandescent ejections from the caldera cinder cone. While individually modest, the cumulative effect of nearly 20 consecutive years of activity made Akutan one of the most reliable erupting volcanoes in Alaska during this period. Ash clouds occasionally disrupted aviation routes in the North Pacific, and AVO maintained elevated monitoring throughout the sequence."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Since its last confirmed eruption in 1992, Akutan has remained in a state of relative quiescence, though fumarolic activity and elevated temperatures at the summit caldera and Hot Springs Bay persist. The Alaska Volcano Observatory (AVO) monitors Akutan with a network of seismometers, GPS stations, and satellite-based remote sensing. The volcano's aviation color code has generally remained at Green (normal background activity), though brief elevations have occurred during periods of increased seismicity. A significant earthquake swarm struck the region in 1996, raising concerns about a possible eruption, but no surface volcanic activity followed. Akutan is classified as a high-priority volcano for monitoring given its eruption frequency and proximity to critical fishing infrastructure."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "While Akutan Island has a small permanent population (approximately 75 in the village of Akutan), the presence of one of North America's largest seafood processing plants significantly increases the number of people at risk, particularly during the summer fishing season when hundreds of workers are present. Primary hazards include ashfall, pyroclastic flows from the caldera, lava flows (which have breached the caldera rim in the past), and lahars generated by the interaction of hot volcanic material with snow and ice cover. Aviation hazards are also significant, as Akutan lies near major North Pacific flight routes connecting North America and Asia. Ash clouds from even modest VEI 2 eruptions can disrupt these routes. AVO has produced hazard assessments and maintains communication protocols with the Federal Aviation Administration. The village's relative distance (~13 km east of the summit) provides some buffer from direct pyroclastic hazards, but ashfall and lahars transported along drainages remain credible threats."
+    },
+    "geography_and_physical_description": {
+      "content": "Akutan Island, roughly 30 km long and 20 km wide, is one of the larger islands in the eastern Aleutian chain. The volcanic summit at 1,303 m (4,275 ft) is typically draped in snow and ice, with small glaciers occupying cirques on the upper flanks. The 2 km wide caldera is the volcano's most distinctive feature, containing the large cinder cone, several small lakes, and active fumarolic fields. Hot Springs Bay, on the northeast coast, features geothermal springs fed by volcanic heat. The landscape is typical of the windswept Aleutians: treeless tundra with grasses and low shrubs, steep coastal cliffs, and frequent fog and precipitation. The island's coastline is deeply indented with bays and harbors, including the protected harbor at Akutan village."
+    },
+    "cultural_significance": {
+      "content": "Akutan has been home to the Unangan (Aleut) people for thousands of years. The village of Akutan is one of the oldest continuously inhabited communities in the Aleutian Islands, and the volcano's hot springs have been used by indigenous inhabitants since long before European contact. The Russian name Akutan derives from the Aleut language. The island's modern economy is dominated by commercial fishing, with the Trident Seafoods processing plant being the largest employer. The volcano's persistent activity is a part of daily life for residents, who live with the awareness of its potential hazards."
+    },
+    "nearby_volcanoes": {
+      "content": "Akutan is part of the densely volcanic eastern Aleutian arc. Its nearest notable neighbor is <a href=\"/volcano/shishaldin\">Shishaldin</a>, the iconic symmetrical stratovolcano on Unimak Island approximately 120 km to the northeast. Other nearby volcanoes include Makushin on neighboring Unalaska Island (home to the city of Unalaska/Dutch Harbor), and Westdahl on Unimak Island. The broader Aleutian arc extends westward through Okmok, Cleveland, and dozens of other active volcanoes, forming one of the most volcanically active island arcs on Earth within the <a href=\"/volcanoes-in-united-states\">United States</a>."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Akutan Compared to Other Frequently Active Aleutian Volcanoes",
+      "description": "How does Akutan compare to its most active neighbors in the Aleutian arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Eruption Count",
+        "VEI Max"
+      ],
+      "rows": [
+        [
+          "Akutan",
+          "United States",
+          "1,303 m",
+          "Stratovolcano",
+          "1992",
+          "47",
+          "5"
+        ],
+        [
+          "Shishaldin",
+          "United States",
+          "2,857 m",
+          "Stratovolcano",
+          "2023",
+          "51",
+          "3"
+        ],
+        [
+          "Pavlof",
+          "United States",
+          "2,493 m",
+          "Stratovolcano",
+          "2016",
+          "40+",
+          "4"
+        ],
+        [
+          "Cleveland",
+          "United States",
+          "1,730 m",
+          "Stratovolcano",
+          "2023",
+          "25+",
+          "3"
+        ],
+        [
+          "Okmok",
+          "United States",
+          "1,073 m",
+          "Shield",
+          "2008",
+          "15+",
+          "5"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 340,
+      "vei": 5,
+      "label": "Caldera-forming eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1852,
+      "vei": null,
+      "label": "NW flank eruption, Lava Point formed",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1978,
+      "vei": 2,
+      "label": "Lava flow breaches caldera rim",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1992,
+      "vei": 2,
+      "label": "Most recent eruption",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 5,
+      "note": "Including caldera-forming VEI 5 event ~340 CE"
+    },
+    {
+      "century": "19th",
+      "count": 10
+    },
+    {
+      "century": "20th",
+      "count": 30
+    },
+    {
+      "century": "21st",
+      "count": 0
+    }
+  ],
+  "facts": [
+    "Akutan erupted nearly every year from 1973 to 1992, producing one of the longest sustained sequences of annual eruptions in the Aleutian arc.",
+    "The summit caldera, approximately 2 km wide and up to 365 m deep, was formed during a VEI 5 eruption around 340 CE.",
+    "A lava flow in 1852 from a NW flank cinder cone extended the island's shoreline, creating the feature known as Lava Point.",
+    "In 1978, a lava flow escaped through a breach in the caldera rim and traveled nearly to the coast — the only modern eruption to send lava outside the caldera.",
+    "Akutan Island hosts one of the largest seafood processing plants in North America, placing hundreds of seasonal workers within the volcano's hazard zone.",
+    "The caldera contains at least three lakes and active fumarolic fields at the base of its prominent cinder cone.",
+    "Hot Springs Bay, northeast of the caldera, features geothermal springs that have been used by the Unangan (Aleut) people for thousands of years.",
+    "Akutan lies along one of the busiest North Pacific aviation corridors, making even small ash eruptions a concern for international air traffic.",
+    "The total edifice, from seafloor to summit, rises roughly 4,500 m — more than three times the visible height above sea level.",
+    "Despite having 47 recorded eruptions, no fatalities have ever been attributed to Akutan's volcanic activity."
+  ],
+  "faqs": [
+    {
+      "question": "Is Akutan volcano still active?",
+      "answer": "Yes, Akutan is classified as an active volcano by the Alaska Volcano Observatory (AVO). Although its last confirmed eruption occurred in 1992, the volcano maintains persistent fumarolic activity within its summit caldera and at Hot Springs Bay. With 47 recorded eruptions — including near-annual activity from 1973 to 1992 — Akutan is one of the most frequently active volcanoes in the Aleutian arc. AVO monitors the volcano continuously and considers future eruptions likely."
+    },
+    {
+      "question": "When did Akutan last erupt?",
+      "answer": "Akutan's most recent confirmed eruption occurred in 1992. The eruption was a VEI 2 Strombolian event from the cinder cone within the summit caldera, consistent with the volcano's typical activity pattern. Prior to 1992, Akutan had erupted nearly every year for two decades, and the current quiet period of more than 30 years represents the longest repose in its modern record."
+    },
+    {
+      "question": "How tall is Akutan volcano?",
+      "answer": "Akutan's summit stands at 1,303 m (4,275 ft) above sea level. However, the total height of the volcanic edifice from the seafloor is approximately 4,500 m, as the volcano rises from deep ocean floor typical of the Aleutian arc region. Compared to its famous neighbor Shishaldin at 2,857 m, Akutan is a considerably shorter but much more frequently eruptive volcano."
+    },
+    {
+      "question": "Do people live near Akutan volcano?",
+      "answer": "Yes, the village of Akutan — one of the oldest continuously inhabited communities in the Aleutian Islands — is located approximately 13 km east of the summit with a permanent population of about 75. The island also hosts a major Trident Seafoods processing plant that employs hundreds of seasonal workers during the summer fishing season, significantly increasing the population at risk during peak periods."
+    },
+    {
+      "question": "What type of volcano is Akutan?",
+      "answer": "Akutan is a stratovolcano (composite volcano) composed primarily of basaltic to picritic lavas. Its most distinctive feature is a 2 km wide summit caldera formed during a VEI 5 eruption approximately 1,600 years ago. A large cinder cone within the caldera has been the source of most historical eruptions. This caldera-within-a-stratovolcano configuration is relatively common in the Aleutian arc."
+    },
+    {
+      "question": "Is Akutan volcano dangerous to aircraft?",
+      "answer": "Yes, Akutan lies near major North Pacific aviation routes connecting North America and Asia. Even VEI 2 eruptions can produce ash plumes that reach altitudes hazardous to aircraft. The Alaska Volcano Observatory coordinates with the Federal Aviation Administration and Volcanic Ash Advisory Centers to issue warnings when eruptions produce ash clouds. During the 1973–1992 period of frequent activity, aviation alerts were issued regularly."
+    }
+  ],
+  "people_also_search": [
+    "akutan volcano alaska",
+    "akutan island",
+    "aleutian volcanoes",
+    "akutan eruption history",
+    "most active aleutian volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Akutan",
+    "alternateName": [
+      "Akutan Peak"
+    ],
+    "description": "Active stratovolcano in the Aleutian Islands, Alaska, with 47 recorded eruptions and a 2 km wide summit caldera",
+    "geo": {
+      "latitude": 54.134,
+      "longitude": -165.986,
+      "elevation": 1303
+    },
+    "containedInPlace": {
+      "name": "Aleutian Islands",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/akutan"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=311320",
+      "text": "Smithsonian GVP: Akutan",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://avo.alaska.edu/volcanoes/akutan",
+      "text": "Alaska Volcano Observatory: Akutan",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "shishaldin",
+      "pavlof",
+      "cleveland",
+      "okmok"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "shishaldin",
+    "pavlof",
+    "cleveland",
+    "okmok",
+    "makushin"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Akutan",
+      "url": "/volcano/akutan"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/akutan"
+}

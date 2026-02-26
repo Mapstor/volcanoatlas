@@ -1,0 +1,354 @@
+{
+  "slug": "barren-island",
+  "volcano_id": 260010,
+  "title": "Barren Island",
+  "meta_title": "Barren Island — India's Only Active Volcano | VolcanoAtlas",
+  "meta_description": "Barren Island is India's only active volcano, a 354 m stratovolcano in the Andaman Sea. Explore its 23 eruptions, caldera, and why this uninhabited island erupts so frequently.",
+  "quick_answer": {
+    "what": "Barren Island is an active stratovolcano rising to 354 m (1,161 ft) in the Andaman Sea, approximately 135 km northeast of Port Blair in the Andaman and Nicobar Islands, India.",
+    "status": "Active — last erupted in 2025. Has been in a near-continuous state of eruption or unrest since 1991, making it one of the most persistently active volcanoes in southern Asia.",
+    "famous_for": "Being the only confirmed historically active volcano in India and along the entire volcanic arc extending from Sumatra to Myanmar.",
+    "danger_level": "Low for human populations — the island is uninhabited and access is restricted. The primary risk is to passing maritime traffic and occasional dive boats."
+  },
+  "hero": {
+    "name": "Barren Island",
+    "local_name": null,
+    "subtitle": "India's Only Active Volcano",
+    "country": "India",
+    "region": "Andaman and Nicobar Islands",
+    "type": "Stratovolcano",
+    "elevation_m": 354,
+    "elevation_ft": 1161,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 12.278,
+      "lon": 93.858
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01706.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "354 m (1,161 ft)",
+    "type": "Stratovolcano with caldera",
+    "status": "Active — near-continuous eruption since 1991",
+    "last_eruption": "July 2025",
+    "first_known_eruption": "~8060 BCE (geological); 1787 (first observed)",
+    "total_recorded_eruptions": 23,
+    "vei_max": "2 (multiple events)",
+    "country": "India",
+    "region": "Andaman Sea, Andaman and Nicobar Islands",
+    "tectonic_setting": "Subduction zone — Indian Plate beneath Burma Plate / continental crust",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "12.278°N, 93.858°E",
+    "nearest_city": "Port Blair — ~135 km southwest",
+    "population_at_risk": "Uninhabited island — no permanent population",
+    "summit_crater": "~2-km-wide caldera, open to sea on west side; central pyroclastic cone",
+    "protected_status": "Part of Andaman and Nicobar Islands Protected Area",
+    "monitoring_agency": "Geological Survey of India (GSI) / National Institute of Oceanography (NIO)",
+    "smithsonian_id": "260010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=260010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Barren Island is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> in the Andaman Sea, approximately 135 km (84 mi) northeast of Port Blair in India's Andaman and Nicobar Islands territory. Rising to just 354 m (1,161 ft) above sea level, it is the emergent summit of a much larger volcanic edifice that ascends from a seafloor depth of approximately 2,250 m (7,380 ft). It holds the distinction of being the only confirmed historically active volcano in India and the only historically active volcano along the entire N–S volcanic arc extending from Sumatra to Myanmar. The small, uninhabited island — roughly 3 km (1.9 mi) wide — contains a 2-km-wide caldera with walls 250–350 m high, breached on its western side to allow the sea into the caldera interior. A central pyroclastic cone within the caldera has been the source of all recent activity. Since reawakening in 1991 after nearly 150 years of dormancy, Barren Island has been in a near-continuous state of eruption or elevated unrest, with 23 recorded eruptions spanning from approximately 8060 BCE to 2025. The volcano sits above the subduction zone where the Indian Plate descends beneath the Burma Plate, part of the broader <a href=\"/ring-of-fire\">Sunda-Andaman</a> arc system. Despite its scientific importance as India's only active volcano, Barren Island remains relatively understudied due to its remote location and restricted access."
+    },
+    "geology_and_formation": {
+      "content": "Barren Island sits atop the Andaman segment of the Sunda-Andaman subduction zone, where the Indian Plate descends eastward beneath the Burma Plate. This subduction zone extends from the Sunda Strait (between Java and Sumatra) northward through the Andaman Sea to Myanmar, generating a volcanic arc of which Barren Island is the sole historically active member in the Andaman sector. The volcanic edifice rises approximately 2,600 m from the seafloor, with only the upper 354 m above sea level. The 2-km-wide caldera was created during a major explosive eruption in the late Pleistocene that produced pyroclastic flow and surge deposits now exposed in the caldera walls. The caldera is breached on its western side, allowing the Andaman Sea to flood the interior and creating a partially sheltered embayment. Historical eruptions have built and repeatedly modified a central pyroclastic cone within the caldera, and basaltic lava flows that fill much of the caldera floor have periodically reached the sea through the western breach. The dominantly basaltic composition is somewhat unusual for a subduction zone volcano and may reflect the relatively juvenile nature of the subducted slab."
+    },
+    "eruption_history_overview": {
+      "content": "Barren Island has 23 recorded eruptions spanning from approximately 8060 BCE to 2025. The earliest geological evidence of activity dates to around 8060 BCE, followed by a gap in the record until historical eruptions were first observed by British colonial surveyors in 1787. Eruptions were documented in 1787, 1789, 1795, 1803–1804, and 1832, after which the volcano fell dormant for approximately 150 years. It reawakened dramatically in April 1991 and has been in a near-continuous state of eruption or unrest since, with confirmed events in 1991, 1994–1995, 2005–2007, 2008–2010, 2010–2011, 2013, 2013–2014, 2015–2016, 2017, 2018–2019, 2019–2022, 2022–2023, 2024, and 2025. Most eruptions are VEI 1–2, involving Strombolian explosions from the central cone and basaltic lava flows within the caldera."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1787–1832 Historical Eruptions",
+          "content": "The first historically documented eruptions of Barren Island were observed by British colonial officers in the late 18th century. The 1787 eruption was described by surveyors who noted fire and smoke rising from the island. Eruptions continued intermittently through 1832, with events in 1789, 1795, 1803–1804, and 1832. These early observations established Barren Island as India's only known active volcano. After the 1832 eruption, the volcano fell dormant for approximately 150 years, and by the mid-20th century some geologists questioned whether it would ever erupt again."
+        },
+        {
+          "title": "The 1991 Reawakening",
+          "content": "On April 1, 1991, Barren Island erupted after approximately 150 years of dormancy, catching the scientific community by surprise. The VEI 2 eruption produced Strombolian explosions from the central cone and lava flows from both summit and NE flank vents within the caldera. The eruption was observed by Indian Coast Guard and Navy vessels. The 1991 event marked the beginning of a new eruptive phase that has continued, with intermissions, to the present day. It reinvigorated scientific interest in the volcano and prompted the Geological Survey of India to establish periodic monitoring."
+        },
+        {
+          "title": "The 2005–2010 Extended Eruption Period",
+          "content": "The longest sustained eruption at Barren Island began in May 2005 and continued with only brief pauses through 2010. During this five-year period, the central cone produced continuous Strombolian explosions, lava fountaining, and multiple basaltic lava flows that traversed the caldera floor and reached the sea through the western breach. The eruption significantly modified the morphology of the central cone and added new land where lava entered the ocean. Satellite monitoring provided valuable data on eruption rates and thermal output."
+        },
+        {
+          "title": "Ongoing Activity (2017–2025)",
+          "content": "Barren Island has continued its pattern of frequent eruptions into the 2020s. Notable events include eruptions in 2017, 2018–2019, a prolonged episode from 2019 to 2022, activity in 2022–2023, 2024, and the most recent confirmed eruption beginning July 30, 2025. This sustained activity over more than three decades confirms Barren Island's status as one of the most persistently active volcanoes in southern Asia."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Barren Island has been in a near-continuous state of eruption or elevated unrest since 1991, with the most recent confirmed activity in July 2025. The Geological Survey of India (GSI) conducts periodic monitoring visits by ship, supplemented by satellite-based surveillance including thermal anomaly detection (MODIS/VIIRS), SO₂ tracking, and InSAR ground deformation analysis. The National Institute of Oceanography (NIO) in Goa has also conducted oceanographic and geochemical surveys of the surrounding waters. However, continuous ground-based monitoring (permanent seismometers, GPS, gas sensors) has been limited due to the island's remoteness and uninhabited status. Indian Navy and Coast Guard vessels periodically report on visible activity. The volcano's persistent eruptive behavior suggests it will continue to produce eruptions for the foreseeable future."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Because Barren Island is uninhabited and access is restricted by Indian authorities, the direct risk to human life is minimal. The primary hazards are to maritime traffic in the Andaman Sea (which passes near the island), dive boats that visit the surrounding coral reefs, and potentially to aircraft if eruption columns reach sufficient altitude. The Indian Navy restricts approach to within a safety perimeter during active eruptions. A theoretical worst-case scenario — a caldera-forming eruption or major flank collapse — could generate a local tsunami affecting the Andaman Islands, but no evidence suggests such an event is likely. The volcano's low elevation and basaltic composition favor effusive rather than highly explosive behavior."
+    },
+    "geography_and_physical_description": {
+      "content": "Barren Island is a small, roughly circular island approximately 3 km (1.9 mi) in diameter. The caldera occupies most of the island's interior, measuring about 2 km across with sheer walls 250–350 m high. The western caldera wall has been breached, allowing the Andaman Sea to flood the interior and creating a partially enclosed bay. The central pyroclastic cone, built by recent eruptions, rises from the caldera floor and has been repeatedly reshaped by eruptions since 1991. Lava flows fill much of the caldera floor. The outer slopes of the island are steep and covered with sparse, drought-resistant vegetation — predominantly grasses and shrubs rather than the dense tropical forest of the nearby Andaman Islands. Feral goats, introduced during a brief period of attempted habitation, inhabit the outer slopes. The surrounding waters support rich coral reef ecosystems, making the area attractive to dive operators when volcanic activity permits."
+    },
+    "cultural_significance": {
+      "content": "Barren Island has no permanent human population and limited cultural history. It was known to Andamanese islanders and maritime traders for centuries before British colonial surveyors documented its eruptions in the late 18th century. The island's name reflects its barren, volcanic landscape — devoid of the lush tropical vegetation found on other Andaman islands. In modern India, Barren Island holds symbolic significance as the country's only active volcano, a geological curiosity that distinguishes the Andaman Islands from mainland India. It has become a niche destination for adventurous divers and photographers, and eruption images from Barren Island periodically generate media attention across India."
+    },
+    "visiting_and_tourism": {
+      "content": "Barren Island is accessible only by boat from Port Blair (approximately 6–8 hours) or Havelock Island. The Indian authorities regulate access, and landing on the island is generally prohibited — visitors can view the volcano from boats offshore. The surrounding coral reefs offer excellent diving, with manta rays, reef sharks, and diverse coral formations drawing experienced divers. Several dive operators in the Andaman Islands offer multi-day liveaboard trips that include Barren Island as a dive site, weather and volcanic conditions permitting. During active eruptions, the spectacle of lava flows entering the sea can be observed from the water. The dive season runs October through May, when sea conditions are calmest."
+    },
+    "nearby_volcanoes": {
+      "content": "Barren Island is the only historically active volcano in the Andaman Sea segment of the Sunda-Andaman arc. Its nearest volcanic neighbor is Narcondam Island, approximately 140 km to the northeast — a dormant stratovolcano that last erupted in the Pleistocene and now supports dense tropical forest and a significant seabird colony. The broader Sunda-Andaman arc extends south to the Indonesian volcanoes of Sumatra, including the highly active volcanoes of Toba, Sinabung, and Kerinci, and north toward the mud volcanoes of Myanmar. Barren Island's isolated position — the only historically active link in a long chain — makes it a geologically unique study site for understanding volcanic arc processes."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Barren Island Compared to Other Island Volcanoes in the Indian Ocean Region",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Barren Island",
+          "India",
+          "354 m",
+          "Stratovolcano",
+          "2025",
+          "2",
+          "23"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2024",
+          "2",
+          "180+"
+        ],
+        [
+          "Karthala",
+          "Comoros",
+          "2,361 m",
+          "Shield",
+          "2007",
+          "2",
+          "36"
+        ],
+        [
+          "Heard",
+          "Australia",
+          "2,745 m",
+          "Stratovolcano",
+          "2023",
+          "2",
+          "9"
+        ],
+        [
+          "Narcondam",
+          "India",
+          "710 m",
+          "Stratovolcano",
+          "Pleistocene",
+          "—",
+          "0"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8060,
+      "vei": null,
+      "label": "Earliest geological evidence of eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1787,
+      "vei": 2,
+      "label": "First historically observed eruption — British surveyors",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1832,
+      "vei": 2,
+      "label": "Last eruption before 150-year dormancy",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1991,
+      "vei": 2,
+      "label": "Reawakening after ~150 years of dormancy",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2005,
+      "vei": 2,
+      "label": "Start of extended 2005–2010 eruption period",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption (July 2025)",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-Holocene",
+      "count": 1
+    },
+    {
+      "century": "18th CE",
+      "count": 3
+    },
+    {
+      "century": "19th CE",
+      "count": 3
+    },
+    {
+      "century": "20th CE (1991–2000)",
+      "count": 3
+    },
+    {
+      "century": "21st CE (2005–2025)",
+      "count": 13
+    }
+  ],
+  "facts": [
+    "Barren Island is the only confirmed historically active volcano in India — and the only historically active volcano along the entire Andaman volcanic arc from Sumatra to Myanmar.",
+    "The volcano has been in a near-continuous state of eruption or unrest since reawakening in 1991 after approximately 150 years of dormancy.",
+    "The volcanic edifice rises approximately 2,600 m from the seafloor, but only 354 m are above sea level — the island represents merely the tip of a large submarine mountain.",
+    "The 2-km-wide caldera is breached on its western side, allowing the Andaman Sea to flood the interior and creating a spectacular partially enclosed bay.",
+    "Feral goats — descendants of animals introduced during a brief period of attempted habitation — are the island's only permanent land mammals.",
+    "The surrounding coral reefs are among the most pristine in the Andaman Sea, attracting manta rays, reef sharks, and adventurous divers willing to make the 6-8 hour boat journey from Port Blair.",
+    "Barren Island's first documented eruption was observed by British colonial surveyors in 1787, making it one of the earliest volcanological observations in the Indian subcontinent.",
+    "During active eruptions, lava flows descend through the caldera's western breach and enter the sea, creating spectacular laze plumes (volcanic steam) visible from boats offshore.",
+    "With 13 eruptions since 2005, Barren Island has been one of the most frequently active volcanoes in southern Asia over the past two decades.",
+    "The Indian Navy restricts approach to the island during eruptions, establishing a safety perimeter around the active volcano.",
+    "Narcondam Island, 140 km northeast, is Barren Island's nearest volcanic neighbor — but it is dormant and has not erupted in recorded history.",
+    "The basaltic composition of Barren Island's lava is somewhat unusual for a subduction zone volcano, where more silicic andesitic compositions are typical."
+  ],
+  "faqs": [
+    {
+      "question": "Is Barren Island still erupting?",
+      "answer": "Barren Island has been in a near-continuous state of eruption or elevated unrest since 1991. The most recent confirmed eruption began in July 2025. Between discrete eruptions, the volcano typically exhibits elevated thermal emissions and fumarolic activity. With 23 recorded eruptions — 13 in the 21st century alone — Barren Island is one of the most persistently active volcanoes in southern Asia. The Geological Survey of India monitors the volcano periodically, and satellite surveillance tracks thermal anomalies and gas emissions."
+    },
+    {
+      "question": "Can you visit Barren Island?",
+      "answer": "You cannot land on Barren Island — Indian authorities generally prohibit landing due to volcanic hazards. However, you can view the volcano from boats offshore, and several dive operators in the Andaman Islands offer liveaboard trips to the surrounding coral reefs. The boat journey from Port Blair takes 6–8 hours. During active eruptions, the spectacle of Strombolian explosions and lava entering the sea can be observed from a safe distance on the water. The dive season runs October through May. Trips are weather and eruption dependent."
+    },
+    {
+      "question": "Where is Barren Island?",
+      "answer": "Barren Island is located in the Andaman Sea at approximately 12.28°N, 93.86°E, about 135 km (84 mi) northeast of Port Blair, the capital of India's Andaman and Nicobar Islands territory. It lies within the Indian Exclusive Economic Zone. The nearest populated islands are in the main Andaman chain to the west-southwest. Narcondam Island, a dormant volcanic island, lies approximately 140 km to the northeast."
+    },
+    {
+      "question": "Why is Barren Island the only active volcano in India?",
+      "answer": "Barren Island is India's only active volcano because it is the sole historically active member of the Andaman volcanic arc — a segment of the broader Sunda-Andaman subduction zone where the Indian Plate descends beneath the Burma Plate. Mainland India sits on stable continental crust far from any active plate boundary. The Deccan Traps volcanic province in central India produced massive eruptions approximately 66 million years ago but has been extinct since. Barren Island's unique position on the active Andaman subduction zone is what makes it volcanically active today."
+    },
+    {
+      "question": "Is anyone living on Barren Island?",
+      "answer": "No, Barren Island is completely uninhabited. The island has no permanent human residents, infrastructure, or fresh water sources. Brief historical attempts at habitation left only feral goats as evidence. The Indian government restricts access to the island, and landing is generally prohibited due to volcanic hazards. The only regular human presence is from visiting dive boats (which remain offshore), periodic Indian Navy patrols, and occasional Geological Survey of India monitoring teams."
+    },
+    {
+      "question": "What type of volcano is Barren Island?",
+      "answer": "Barren Island is a stratovolcano — a composite volcanic cone built from alternating lava flows and tephra deposits. It sits within a 2-km-wide caldera formed by a major explosive eruption in the late Pleistocene. The caldera is breached on its western side, allowing the sea to flood the interior. A central pyroclastic cone within the caldera has been the source of all recent eruptions. The lava composition is basaltic — unusually fluid for a subduction zone volcano — producing primarily Strombolian explosions and fast-moving lava flows rather than highly explosive eruptions."
+    },
+    {
+      "question": "How tall is Barren Island?",
+      "answer": "Barren Island rises to 354 m (1,161 ft) above sea level at the caldera rim. However, the volcanic edifice extends approximately 2,250 m below sea level to the floor of the Andaman Sea, making the total height of the volcanic structure roughly 2,600 m (8,530 ft) from base to summit. The central pyroclastic cone within the caldera, which is the source of current eruptions, is lower than the caldera rim and changes height with each eruption."
+    }
+  ],
+  "people_also_search": [
+    "barren island eruption",
+    "barren island volcano india",
+    "barren island diving",
+    "is barren island active",
+    "only active volcano in india",
+    "barren island andaman",
+    "barren island eruption 2024",
+    "narcondam vs barren island"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Barren Island",
+    "description": "India's only active volcano, a stratovolcano in the Andaman Sea with near-continuous eruptions since 1991",
+    "geo": {
+      "latitude": 12.278,
+      "longitude": 93.858,
+      "elevation": 354
+    },
+    "containedInPlace": {
+      "name": "Andaman and Nicobar Islands",
+      "country": "India"
+    },
+    "url": "https://volcanoatlas.com/volcano/barren-island"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=260010",
+      "text": "Smithsonian GVP: Barren Island",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.gsi.gov.in/",
+      "text": "Geological Survey of India",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Barren-Island-island-India",
+      "text": "Britannica: Barren Island",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [],
+    "country_pages": [
+      "india"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "piton-de-la-fournaise",
+    "karthala",
+    "heard"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in India",
+      "url": "/volcanoes-in-india"
+    },
+    {
+      "label": "Barren Island",
+      "url": "/volcano/barren-island"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/barren-island"
+}

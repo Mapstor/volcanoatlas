@@ -1,0 +1,439 @@
+{
+  "slug": "yellowstone",
+  "volcano_id": null,
+  "title": "Yellowstone Caldera",
+  "meta_title": "Yellowstone Caldera — Supervolcano Facts & Risk | VolcanoAtlas",
+  "meta_description": "Yellowstone is a 2,805 m active supervolcano caldera in Wyoming, USA. Explore its eruption history, geothermal features, eruption risk, and visitor guide.",
+  "quick_answer": {
+    "what": "Yellowstone is an active supervolcano caldera in Yellowstone National Park, northwestern Wyoming, USA, measuring approximately 72 km (45 mi) long by 55 km (34 mi) wide — one of the largest active volcanic systems on Earth.",
+    "status": "Active — last erupted approximately 70,000 years ago (lava flow). Continuously monitored by USGS. Another caldera-forming supereruption is statistically unlikely in the near future.",
+    "famous_for": "Being the world's most famous supervolcano, capable of VEI 8 eruptions. Its three caldera-forming eruptions (2.1 Ma, 1.3 Ma, 640,000 years ago) are among the largest known volcanic events on Earth.",
+    "danger_level": "A full supereruption would have global consequences — blanketing much of North America in ash and triggering a volcanic winter. However, the annual probability is approximately 1 in 730,000."
+  },
+  "hero": {
+    "name": "Yellowstone Caldera",
+    "local_name": null,
+    "subtitle": "Earth's Most Famous Supervolcano",
+    "country": "United States",
+    "region": "Wyoming, Rocky Mountains",
+    "type": "Caldera (Supervolcano)",
+    "elevation_m": 2805,
+    "elevation_ft": 9203,
+    "status": "Active",
+    "last_eruption": "~70,000 years ago (lava flow)",
+    "coordinates": {
+      "lat": 44.43,
+      "lon": -110.67
+    },
+    "photo_url": null,
+    "photo_credit": null
+  },
+  "key_facts_box": {
+    "elevation": "2,805 m (9,203 ft) at Mount Washburn",
+    "type": "Caldera (Supervolcano)",
+    "status": "Active",
+    "last_eruption": "~70,000 years ago (Pitchstone Plateau lava flow)",
+    "first_known_eruption": "~2.1 million years ago (Huckleberry Ridge Tuff)",
+    "total_recorded_eruptions": "3 caldera-forming eruptions, ~80 non-explosive rhyolitic lava flows since 640,000 BP",
+    "vei_max": "8 (Huckleberry Ridge eruption, ~2.1 Ma)",
+    "country": "United States",
+    "region": "Wyoming / Montana / Idaho",
+    "tectonic_setting": "Intraplate hotspot — North American Plate over the Yellowstone mantle plume",
+    "rock_types": [
+      "Rhyolite",
+      "Basalt",
+      "Obsidian",
+      "Tuff"
+    ],
+    "coordinates": "44.43°N, 110.67°W",
+    "nearest_city": "West Yellowstone, Montana — adjacent; Bozeman, Montana — 140 km north",
+    "population_at_risk": "~70,000 in surrounding communities; global consequences in supereruption scenario",
+    "summit_crater": "Caldera: 72 × 55 km (45 × 34 mi)",
+    "protected_status": "Yellowstone National Park (est. 1872, first US national park)",
+    "monitoring_agency": "Yellowstone Volcano Observatory (YVO) — USGS, University of Utah, Yellowstone National Park",
+    "unesco_sites_nearby": "Yellowstone National Park — UNESCO World Heritage Site (1978)",
+    "smithsonian_id": "N/A — not in GVP Holocene database as a single entry",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=325010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Yellowstone is an active <a href=\"/supervolcanoes\">supervolcano</a> caldera located in Yellowstone National Park, northwestern Wyoming, <a href=\"/volcanoes-in-united-states\">United States</a>, with small portions extending into Montana and Idaho. Measuring approximately 72 km (45 mi) long by 55 km (34 mi) wide, it is one of the largest volcanic calderas on Earth and the centerpiece of the most powerful volcanic system in North America. Yellowstone is best known for its three cataclysmic caldera-forming eruptions — at 2.1 million, 1.3 million, and 640,000 years ago — each reaching <a href=\"/volcanic-explosivity-index\">VEI</a> 8, the highest level on the Volcanic Explosivity Index. The most recent of these, the Lava Creek eruption, ejected approximately 1,000 km³ of material, roughly 2,500 times more than the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a>. Yellowstone sits above a deep mantle plume (hotspot) that has fueled volcanism across the Snake River Plain for roughly 16.5 million years as the North American Plate drifts southwestward over the stationary plume. Today, the caldera's volcanic nature is visible in its extraordinary geothermal features — more than 10,000 hot springs, mudpots, fumaroles, and over 500 geysers, including Old Faithful, the world's most famous geyser. The Yellowstone Volcano Observatory (YVO), a consortium led by the USGS and the University of Utah, continuously monitors the system using seismometers, GPS stations, satellite radar (InSAR), and geochemical sensors. While Yellowstone remains volcanically active, the USGS estimates the annual probability of a caldera-forming supereruption at approximately 1 in 730,000, making it far more likely that any future activity would take the form of hydrothermal explosions or relatively small lava flows rather than a civilization-threatening event."
+    },
+    "geology_and_formation": {
+      "content": "The Yellowstone volcanic system owes its existence to a mantle plume — a column of abnormally hot rock rising from deep within Earth's mantle, possibly from the core-mantle boundary more than 2,800 km below the surface. As the North American Plate has drifted southwestward at approximately 2.5 cm (1 in) per year, the stationary plume has left a 650-km-long track of progressively older calderas stretching from northern Nevada through the Snake River Plain to its current position beneath Yellowstone. The oldest caldera in this chain, the McDermitt volcanic field, formed roughly 16.5 million years ago.\n\nThe Yellowstone Plateau volcanic field itself has produced three major caldera-forming eruptions. The first, the Huckleberry Ridge eruption (~2.1 Ma), expelled approximately 2,500 km³ of material — one of the largest known eruptions in Earth's history. The second, the Mesa Falls eruption (~1.3 Ma), was smaller but still massive at roughly 280 km³. The third and most recent, the Lava Creek eruption (~640,000 years ago), produced approximately 1,000 km³ of ejecta and created the present-day Yellowstone Caldera. Each eruption produced widespread ignimbrite sheets (welded tuff deposits) that cover thousands of square kilometers across the western United States.\n\nBeneath the caldera today, geophysical imaging reveals two magma bodies: a shallow rhyolitic chamber roughly 5–17 km deep containing an estimated 5–15% melt, and a deeper basaltic reservoir at 20–50 km depth. These chambers are not the roiling lakes of magma depicted in popular media; rather, they are largely crystallized rock with pockets of interstitial melt. The rhyolitic composition of Yellowstone's magma — high in silica and dissolved gases — is what gives the system its explosive potential. When this viscous, gas-rich magma reaches the surface, it can fragment violently rather than flowing gently, producing the massive pyroclastic eruptions that characterize <a href=\"/supervolcanoes\">supervolcano</a> systems worldwide, including <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> in Italy and Toba in Sumatra."
+    },
+    "eruption_history_overview": {
+      "content": "Yellowstone's eruptive history spans at least 2.1 million years, though the track of the underlying hotspot extends volcanism back 16.5 million years across the Snake River Plain. The volcanic field has produced three caldera-forming supereruptions (VEI 8), each separated by roughly 600,000–800,000 years, though volcanologists caution that this apparent regularity does not imply a predictable cycle. Between and after these catastrophic events, the caldera has experienced numerous smaller eruptions — approximately 80 post-caldera rhyolitic lava flows have occurred since the Lava Creek eruption 640,000 years ago, with the most recent lava flow (the Pitchstone Plateau flow) erupting approximately 70,000 years ago. These smaller eruptions, while not globe-altering, produced lava flows covering hundreds of square kilometers. Additionally, large hydrothermal explosions have occurred as recently as approximately 13,000 years ago, creating features like Mary Bay, a 2.6-km-wide crater on Yellowstone Lake. The intervals between eruptions vary widely — there is no reliable timetable for when Yellowstone might next erupt."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Huckleberry Ridge Eruption (~2.1 Million Years Ago) — VEI 8",
+          "content": "The oldest and largest of Yellowstone's three caldera-forming eruptions, the Huckleberry Ridge event ejected approximately 2,500 km³ of material — enough to bury the entire state of Texas under 1.5 m (5 ft) of ash. This eruption ranks among the five largest known volcanic events in Earth's history. It produced the Huckleberry Ridge Tuff, a massive ignimbrite deposit found across the western United States, and created a caldera roughly 100 km long. Ash from this eruption has been identified in deposits as far east as Iowa and as far south as the Gulf of Mexico. The eruption likely caused severe global cooling and disrupted ecosystems across North America. For context, the Huckleberry Ridge eruption produced roughly 6,000 times more material than the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a> (VEI 5) and roughly 250 times more than the 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> (VEI 7), the largest historically documented eruption."
+        },
+        {
+          "title": "The Mesa Falls Eruption (~1.3 Million Years Ago) — VEI 8",
+          "content": "The second caldera-forming eruption produced the Mesa Falls Tuff and ejected approximately 280 km³ of material — the smallest of Yellowstone's three supereruptions but still vastly larger than any historically recorded eruption. The caldera formed by this event lies mostly within the Island Park area west of present-day Yellowstone National Park. While less studied than the other two events, the Mesa Falls eruption demonstrates that supereruptions at Yellowstone are not uniform in scale and that the system's output varies considerably between cycles."
+        },
+        {
+          "title": "The Lava Creek Eruption (~640,000 Years Ago) — VEI 8",
+          "content": "The most recent caldera-forming eruption created the present-day Yellowstone Caldera and ejected approximately 1,000 km³ of pyroclastic material. The Lava Creek Tuff, the deposit left by this eruption, blankets much of the surrounding region and has been identified in ash layers across the central and western United States. The eruption proceeded in two major phases, producing two distinct tuff members. Pyroclastic flows from the eruption traveled at speeds exceeding 100 km/h and extended up to 100 km from the vent in some directions. The caldera collapse that accompanied the eruption dropped a roughly 72 × 55 km block of the Earth's crust into the partially emptied magma chamber below. In the millennia that followed, resurgent doming raised two areas within the caldera — the Sour Creek dome and the Mallard Lake dome — as magma repressurized the shallow reservoir. This eruption is approximately 2,500 times larger by volume than the <a href=\"/volcano/st-helens\">1980 Mount St. Helens eruption</a> and remains one of the benchmarks against which potential future supereruptions are measured."
+        },
+        {
+          "title": "Post-Caldera Lava Flows (640,000–70,000 Years Ago)",
+          "content": "Following the Lava Creek supereruption, Yellowstone entered a prolonged phase of less explosive but still significant volcanism. Approximately 80 eruptions of rhyolitic and basaltic lava occurred within and around the caldera. The most voluminous of these, the Central Plateau Member rhyolites, erupted between approximately 170,000 and 70,000 years ago and filled much of the caldera floor with thick lava flows. The most recent of these, the Pitchstone Plateau flow (~70,000 years ago), covered roughly 130 km² with lava up to 100 m thick. These flows collectively demonstrate that Yellowstone's most likely future eruptive activity would be effusive lava flows rather than another caldera-forming supereruption."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Yellowstone is comprehensively monitored by the Yellowstone Volcano Observatory (YVO), a collaborative effort between the USGS, the University of Utah Seismograph Stations, and Yellowstone National Park. The monitoring network includes more than 40 seismograph stations, more than 20 continuous GPS stations, satellite-based InSAR (Interferometric Synthetic Aperture Radar) for ground deformation measurements, geochemical sampling of gases and thermal waters, and continuous stream gauges and temperature sensors.\n\nThe caldera experiences 1,500 to 2,500 earthquakes per year, most too small to be felt, making it one of the most seismically active regions in the United States. Periodic earthquake swarms are common — the largest recorded swarm, in 1985, included more than 3,000 events over three months. Ground deformation is ongoing: the Sour Creek resurgent dome rose approximately 18 cm between 2004 and 2009, then subsided, illustrating the dynamic behavior of the underlying magma system. The caldera floor regularly rises and falls by several centimeters per year.\n\nYVO maintains the current volcanic alert level at 'Normal' (green), indicating that the volcano is at background levels of activity. The USGS has emphasized repeatedly that there are no signs of an imminent eruption, and any future large eruption would likely be preceded by weeks to months of intensifying seismic activity, ground uplift, and changes in gas emissions that would be detected well in advance by the existing monitoring infrastructure."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Yellowstone presents three distinct categories of volcanic hazard, each with vastly different probabilities and consequences. The most likely volcanic hazard is a hydrothermal explosion — a steam-driven blast caused by superheated water flashing to vapor near the surface. These occur every few centuries at Yellowstone and have created craters up to 2.6 km wide (Mary Bay). While locally devastating, they are not preceded by deep magmatic signals and affect areas of only a few square kilometers.\n\nThe second hazard category is a lava flow eruption, similar to the approximately 80 post-caldera flows that have occurred since the Lava Creek event. Such an eruption could produce lava flows covering tens to hundreds of square kilometers within the park. The USGS estimates the annual probability of a lava flow at roughly 1 in 10,000.\n\nThe third and most extreme scenario — a full caldera-forming supereruption (VEI 8) — would deposit thick pyroclastic flows within approximately 60–80 km of the vent, blanket much of the western and central United States in centimeters to meters of ash, disrupt agriculture across North America, and inject enough sulfur dioxide into the stratosphere to lower global temperatures by 5–10°C for years. Modeling suggests that states within 500 km could receive more than 30 cm of ash. However, the annual probability is estimated at only 1 in 730,000, and current monitoring shows no indications of conditions approaching those needed for such an event. For comparison, the volcanic threat score assigned to Yellowstone by the USGS National Volcano Early Warning System places it among the <a href=\"/most-active-volcanoes\">highest-priority monitored volcanoes</a> in the United States, alongside <a href=\"/volcano/kilauea\">Kilauea</a>, <a href=\"/volcano/st-helens\">Mount St. Helens</a>, and <a href=\"/volcano/rainier\">Mount Rainier</a>."
+    },
+    "geography_and_physical_description": {
+      "content": "The Yellowstone Caldera occupies much of the central portion of Yellowstone National Park, a high-elevation plateau averaging approximately 2,400 m (7,900 ft) in the northern Rocky Mountains. The caldera itself measures 72 km (45 mi) from east to west and 55 km (34 mi) from north to south, making it large enough that early explorers did not recognize it as a volcanic feature — its full extent was only confirmed through satellite imaging and geological mapping in the 1960s and 1970s.\n\nWithin the caldera, two resurgent domes — the Sour Creek dome in the east and the Mallard Lake dome in the west — rise above the caldera floor, pushed upward by magma pressure below. Yellowstone Lake, one of the largest high-altitude lakes in North America at 352 km² (136 mi²), fills the southeastern portion of the caldera. The lake's floor contains active hydrothermal vents and sublacustrine geysers.\n\nThe park's highest point, Eagle Peak at 3,462 m (11,358 ft), lies on the eastern boundary, while Mount Washburn (3,122 m / 10,243 ft) on the caldera rim provides panoramic views of the entire caldera. The Grand Canyon of the Yellowstone, carved through rhyolitic tuff by the Yellowstone River, exposes colorful hydrothermally altered rock in its 400-m-deep walls. The park contains more than 10,000 geothermal features — roughly half of all the active geothermal features on Earth."
+    },
+    "climate_and_global_impact": {
+      "content": "Yellowstone's caldera-forming eruptions rank among the most climatically significant volcanic events in Earth's recent geological history. The Lava Creek eruption 640,000 years ago injected massive quantities of sulfur dioxide and fine ash into the stratosphere, likely causing global cooling of several degrees Celsius persisting for years to a decade. The Huckleberry Ridge eruption, roughly 2.5 times larger, would have produced even more severe climate disruption.\n\nModern climate modeling of a hypothetical Yellowstone supereruption suggests that global average temperatures could drop 5–10°C for several years, with regional cooling even more extreme. Agricultural disruption would extend across entire continents, and the eruption column would inject ash into the stratosphere at heights exceeding 25 km. For perspective, the 1991 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> (VEI 6, ~10 km³ of ejecta) cooled the planet by approximately 0.5°C for two years — a Yellowstone supereruption would be roughly 100 times larger. The 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> (VEI 7, ~160 km³), which caused the 'Year Without a Summer' in 1816, was still only about one-sixth the size of the Lava Creek eruption. These comparisons underscore both the extreme scale of supervolcanic events and the importance of continued monitoring."
+    },
+    "cultural_significance": {
+      "content": "Yellowstone holds a singular place in both American and global cultural history. Established as the world's first national park in 1872, it was designated a UNESCO World Heritage Site in 1978. The park attracts approximately 4.5 million visitors annually, making it one of the most visited natural areas on Earth. Indigenous peoples, including the Tukudika (Sheepeaters), Crow, Blackfeet, Bannock, and Eastern Shoshone, have inhabited and utilized the Yellowstone Plateau for at least 11,000 years, well before any recorded volcanic activity.\n\nIn modern culture, Yellowstone's supervolcanic potential has made it a fixture in disaster fiction and popular science. The 2005 BBC docudrama 'Supervolcano' dramatized a hypothetical eruption, and the caldera features prominently in films, novels, and countless documentary productions. The term 'supervolcano' itself entered widespread public vocabulary largely through Yellowstone's media coverage. Old Faithful geyser, erupting approximately every 90 minutes, is arguably the single most iconic geothermal feature on the planet and a symbol of the American national park system. Yellowstone's geothermal environment also holds scientific significance beyond volcanology: the extremophile bacterium Thermus aquaticus, discovered in the park's hot springs in 1969, yielded the Taq polymerase enzyme that made the polymerase chain reaction (PCR) possible — a cornerstone of modern molecular biology and genetic testing."
+    },
+    "visiting_and_tourism": {
+      "content": "Yellowstone National Park is open year-round, though most roads close to wheeled vehicles from early November through mid-April. The park has five entrance gates, with the most popular being the West Entrance (West Yellowstone, Montana) and the South Entrance (from Grand Teton National Park). The park entrance fee is $35 per private vehicle, valid for seven days.\n\nKey volcanic and geothermal attractions include Old Faithful and the Upper Geyser Basin (the world's largest concentration of geysers), Grand Prismatic Spring (the largest hot spring in the United States at 112 m / 370 ft diameter), Mammoth Hot Springs (a terraced travertine formation), Norris Geyser Basin (the hottest and most dynamic thermal area), and the Grand Canyon of the Yellowstone with its twin waterfalls. The park's 1,600 km (1,000 mi) of hiking trails offer access to backcountry geothermal areas, though visitors are strictly required to stay on boardwalks and designated trails in thermal areas — ground in these zones can be thin crust over boiling water. Peak visitation occurs in July and August; September offers smaller crowds and excellent wildlife viewing. The closest major airports are in Bozeman, Montana (140 km north) and Jackson Hole, Wyoming (100 km south)."
+    },
+    "nearby_volcanoes": {
+      "content": "Yellowstone's hotspot track extends southwestward across the Snake River Plain, marked by progressively older volcanic centers including the Heise volcanic field (4.5–6.6 Ma) and the Bruneau-Jarbidge volcanic center (~12 Ma). To the south, the Teton Range — including the Grand Teton — was uplifted by the same tectonic forces associated with the Yellowstone hotspot system. Within the broader region, the Island Park caldera (Mesa Falls eruption, ~1.3 Ma) lies immediately west of the park. Further afield in the western <a href=\"/volcanoes-in-united-states\">United States</a>, other notable volcanic systems include the Cascade Range stratovolcanoes (<a href=\"/volcano/st-helens\">Mount St. Helens</a>, <a href=\"/volcano/rainier\">Mount Rainier</a>, Mount Hood), the Long Valley Caldera in California (another <a href=\"/supervolcanoes\">supervolcano</a>), and Newberry Volcano in Oregon. Together, these systems make the western United States one of the most volcanically diverse regions on Earth."
+    },
+    "etymology": {
+      "content": "The name 'Yellowstone' derives from the Yellowstone River, which early French-Canadian trappers called 'Roche Jaune' ('Yellow Rock' or 'Yellow Stone') — likely a translation of the Hidatsa name 'Mi tsi a-da-zi' ('Yellow Rock River'). The yellowish rock in the Grand Canyon of the Yellowstone, produced by hydrothermal alteration of rhyolitic volcanic rock, gave the river and subsequently the park its distinctive name. The caldera itself was only recognized and named as a volcanic feature in the 1960s and 1970s, when geological and later satellite mapping revealed the enormous collapsed structure hidden in plain sight."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Yellowstone Compared to the World's Known Supervolcanoes",
+      "description": "How does Yellowstone compare to other volcanic systems capable of VEI 7–8 eruptions?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Last Supereruption",
+        "VEI Max",
+        "Current Status",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Yellowstone",
+          "United States",
+          "Caldera",
+          "~640,000 years ago",
+          "8",
+          "Normal — monitored",
+          "Regional/Global"
+        ],
+        [
+          "Toba",
+          "Indonesia",
+          "Caldera",
+          "~74,000 years ago",
+          "8",
+          "Resurgent — Lake Toba",
+          "~3 million (local)"
+        ],
+        [
+          "Taupo",
+          "New Zealand",
+          "Caldera",
+          "~26,500 years ago",
+          "8",
+          "Active — minor unrest",
+          "~400,000 (local)"
+        ],
+        [
+          "Campi Flegrei",
+          "Italy",
+          "Caldera",
+          "~39,000 years ago",
+          "7",
+          "Elevated unrest",
+          "~1.5 million"
+        ],
+        [
+          "Long Valley",
+          "United States",
+          "Caldera",
+          "~760,000 years ago",
+          "7+",
+          "Normal — monitored",
+          "~40,000 (local)"
+        ],
+        [
+          "Aira (Sakurajima)",
+          "Japan",
+          "Caldera",
+          "~29,000 years ago",
+          "7",
+          "Frequently erupting",
+          "~600,000"
+        ]
+      ]
+    },
+    {
+      "title": "Yellowstone's Three Caldera-Forming Eruptions Compared",
+      "description": "A comparison of Yellowstone's three known supereruptions by volume, extent, and geological deposit.",
+      "headers": [
+        "Eruption",
+        "Age",
+        "Volume (km³)",
+        "VEI",
+        "Deposit Name",
+        "Caldera Size"
+      ],
+      "rows": [
+        [
+          "Huckleberry Ridge",
+          "~2.1 Ma",
+          "~2,500",
+          "8",
+          "Huckleberry Ridge Tuff",
+          "~100 km long"
+        ],
+        [
+          "Mesa Falls",
+          "~1.3 Ma",
+          "~280",
+          "8",
+          "Mesa Falls Tuff",
+          "~40 km (Island Park)"
+        ],
+        [
+          "Lava Creek",
+          "~640,000 BP",
+          "~1,000",
+          "8",
+          "Lava Creek Tuff",
+          "72 × 55 km"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2100000,
+      "vei": 8,
+      "label": "Huckleberry Ridge supereruption — ~2,500 km³ ejecta",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1300000,
+      "vei": 8,
+      "label": "Mesa Falls supereruption — ~280 km³ ejecta",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -640000,
+      "vei": 8,
+      "label": "Lava Creek supereruption — ~1,000 km³, formed present caldera",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -174000,
+      "vei": null,
+      "label": "Central Plateau rhyolite lava flows begin",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -70000,
+      "vei": null,
+      "label": "Pitchstone Plateau lava flow — most recent eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -13000,
+      "vei": null,
+      "label": "Mary Bay hydrothermal explosion — 2.6 km crater",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Deep time (>640,000 BP)",
+      "count": 3,
+      "note": "Three caldera-forming VEI 8 supereruptions"
+    },
+    {
+      "century": "640,000–170,000 BP",
+      "count": "~30",
+      "note": "Rhyolite and basalt lava flows within caldera"
+    },
+    {
+      "century": "170,000–70,000 BP",
+      "count": "~50",
+      "note": "Central Plateau Member rhyolite flows"
+    },
+    {
+      "century": "70,000 BP–present",
+      "count": 0,
+      "note": "No magmatic eruptions; hydrothermal explosions only"
+    }
+  ],
+  "facts": [
+    "Yellowstone's Huckleberry Ridge eruption (~2.1 million years ago) ejected approximately 2,500 km³ of material — enough to bury the entire state of Texas under 1.5 m of volcanic debris.",
+    "The Yellowstone Caldera is so large (72 × 55 km) that its true extent was not recognized until satellite imaging and geological mapping in the 1960s and 1970s.",
+    "Yellowstone contains more than 10,000 geothermal features — roughly half of all the active geothermal features on Earth.",
+    "The park has more than 500 active geysers, more than any other region on the planet. Old Faithful erupts approximately every 90 minutes with remarkable regularity.",
+    "The USGS estimates the annual probability of a caldera-forming Yellowstone supereruption at approximately 1 in 730,000 — lower than the probability of a 1-km asteroid impact.",
+    "Yellowstone's mantle plume has been active for at least 16.5 million years, leaving a 650-km trail of progressively older calderas across the Snake River Plain.",
+    "The extremophile bacterium Thermus aquaticus, discovered in Yellowstone's hot springs in 1969, provided the Taq polymerase enzyme that made PCR (polymerase chain reaction) possible — revolutionizing genetics and medicine.",
+    "Grand Prismatic Spring, at 112 m (370 ft) in diameter, is the largest hot spring in the United States and the third largest in the world.",
+    "Yellowstone's caldera floor rises and falls by several centimeters per year due to fluctuations in the underlying magma system — a phenomenon called 'caldera breathing.'",
+    "The shallow magma chamber beneath Yellowstone contains only 5–15% molten material — it is not the roiling lake of lava depicted in popular disaster films.",
+    "The 1959 Hebgen Lake earthquake (M7.3) near the park boundary killed 28 people and dramatically altered many of Yellowstone's geothermal features — some geysers became dormant while new ones activated.",
+    "Yellowstone was the world's first national park, established by President Ulysses S. Grant in 1872 — 18 years before Wyoming even became a state."
+  ],
+  "faqs": [
+    {
+      "question": "Is Yellowstone about to erupt?",
+      "answer": "Yellowstone is not showing signs of an imminent eruption. The Yellowstone Volcano Observatory continuously monitors the system with seismographs, GPS, satellite radar, and geochemical sensors. The current volcanic alert level is 'Normal' (green), indicating background activity. While the caldera experiences 1,500–2,500 small earthquakes per year and ongoing ground deformation, these are typical behaviors for a large volcanic system and do not indicate an approaching eruption. The USGS has stated that any future large eruption would be preceded by weeks to months of detectable precursors — intensifying earthquakes, accelerating ground uplift, and changes in gas emissions — that current instruments would identify."
+    },
+    {
+      "question": "What would happen if Yellowstone erupted today?",
+      "answer": "The impact depends entirely on eruption type. The most likely scenario — a hydrothermal explosion or lava flow — would primarily affect areas within the park. A full VEI 8 supereruption, while extremely unlikely (approximately 1 in 730,000 annual probability), would deposit thick pyroclastic material within 60–80 km, blanket states within 500 km in more than 30 cm of ash, disrupt agriculture across North America, ground air traffic, and inject enough sulfur dioxide into the stratosphere to cool global temperatures by 5–10°C for several years. However, most volcanologists consider a smaller eruption far more probable than a caldera-forming event."
+    },
+    {
+      "question": "When did Yellowstone last erupt?",
+      "answer": "Yellowstone's most recent volcanic eruption was a rhyolitic lava flow known as the Pitchstone Plateau flow, which occurred approximately 70,000 years ago. The most recent caldera-forming supereruption occurred approximately 640,000 years ago, producing the Lava Creek Tuff. The most recent explosive event was a large hydrothermal explosion that created the 2.6-km-wide Mary Bay crater on Yellowstone Lake approximately 13,000 years ago. Hydrothermal explosions, while not magmatic eruptions, are the most common type of violent event at Yellowstone and occur on timescales of centuries."
+    },
+    {
+      "question": "Is Yellowstone the biggest volcano in the world?",
+      "answer": "Yellowstone is one of the largest volcanic systems on Earth, but the title depends on how size is measured. By caldera area (72 × 55 km), it is one of the largest active calderas. However, by total volume, Mauna Loa in Hawaii is the world's largest active volcano, and Tamu Massif in the Pacific (now extinct) is the largest known volcano by volume. By eruption size, Yellowstone's Huckleberry Ridge eruption (~2,500 km³) ranks among the largest known, though the La Garita Caldera eruption in Colorado (~5,000 km³, ~27 Ma) was larger. Yellowstone is unquestionably the most powerful active volcanic system in North America."
+    },
+    {
+      "question": "How is Yellowstone monitored?",
+      "answer": "The Yellowstone Volcano Observatory (YVO) — a partnership between the USGS, University of Utah, and Yellowstone National Park — operates one of the most comprehensive volcano monitoring networks in the world. It includes more than 40 seismograph stations detecting earthquakes, more than 20 continuous GPS stations measuring ground deformation, satellite-based InSAR tracking surface changes, geochemical monitoring of gas emissions (particularly CO₂ and helium isotopes in thermal features), stream gauges and temperature sensors throughout the hydrothermal system, and regular field surveys. Data is analyzed in real time, and the alert level is published continuously."
+    },
+    {
+      "question": "Why does Yellowstone have so many geysers?",
+      "answer": "Yellowstone hosts more than 500 active geysers — over 60% of the world's total — because of a rare combination of three factors: a shallow heat source (the magma chamber 5–17 km below), abundant groundwater from snowmelt and rainfall across the high plateau, and a fractured rhyolitic rock 'plumbing system' that channels superheated water upward through constrictive passages. This plumbing geometry is critical — geysers require narrow conduits that allow pressure to build until the water flashes to steam explosively. Most volcanic areas lack this specific rock structure, which is why geysers are far rarer than hot springs globally."
+    },
+    {
+      "question": "Can you visit the Yellowstone Caldera?",
+      "answer": "Yes. Yellowstone National Park — which encompasses the caldera — receives approximately 4.5 million visitors per year. Major geothermal attractions include Old Faithful, Grand Prismatic Spring, Norris Geyser Basin, and Mammoth Hot Springs, all accessible via boardwalks. The park offers more than 1,600 km of hiking trails, campgrounds, lodges, and visitor centers. Entry costs $35 per vehicle for seven days. Peak season is July–August; September is less crowded with excellent wildlife viewing. All visitors must stay on designated boardwalks in thermal areas — the ground can be thin crust over boiling water."
+    },
+    {
+      "question": "What type of volcano is Yellowstone?",
+      "answer": "Yellowstone is classified as a caldera — a large volcanic depression formed by the collapse of ground following a massive eruption that empties or partially empties the underlying magma chamber. It belongs to a special category informally called a supervolcano, meaning it is capable of producing eruptions of VEI 8 (more than 1,000 km³ of ejecta). Unlike the conical shape of stratovolcanoes such as Mount Fuji, calderas are broad, often subtle depressions. Yellowstone sits above an intraplate hotspot rather than a subduction zone, making its tectonic setting similar to Hawaii but with fundamentally different (rhyolitic vs. basaltic) magma composition."
+    }
+  ],
+  "people_also_search": [
+    "yellowstone supervolcano eruption",
+    "will yellowstone erupt",
+    "yellowstone caldera size",
+    "yellowstone volcano last eruption",
+    "is yellowstone going to explode",
+    "yellowstone national park geysers",
+    "supervolcano eruption consequences",
+    "yellowstone magma chamber"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Yellowstone Caldera",
+    "alternateName": [
+      "Yellowstone Supervolcano",
+      "Yellowstone Plateau Volcanic Field"
+    ],
+    "description": "Active supervolcano caldera in Yellowstone National Park, Wyoming, USA, known for three VEI 8 eruptions and more than 10,000 geothermal features",
+    "geo": {
+      "latitude": 44.43,
+      "longitude": -110.67,
+      "elevation": 2805
+    },
+    "containedInPlace": {
+      "name": "Wyoming",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/yellowstone"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=325010",
+      "text": "Smithsonian GVP: Yellowstone",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/yellowstone",
+      "text": "USGS: Yellowstone Volcano Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Yellowstone-Caldera",
+      "text": "Britannica: Yellowstone Caldera",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://volcanoes.usgs.gov/volcanoes/yellowstone/yellowstone_monitoring_32.html",
+      "text": "USGS: Yellowstone Monitoring Data",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.nps.gov/yell/index.htm",
+      "text": "National Park Service: Yellowstone",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "st-helens",
+      "rainier",
+      "kilauea",
+      "mauna-loa",
+      "campi-flegrei",
+      "pinatubo",
+      "tambora"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "supervolcanoes",
+      "volcanic-explosivity-index",
+      "types-of-volcanoes"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "campi-flegrei",
+    "taupo",
+    "st-helens",
+    "kilauea",
+    "mauna-loa"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Yellowstone Caldera",
+      "url": "/volcano/yellowstone"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/yellowstone"
+}

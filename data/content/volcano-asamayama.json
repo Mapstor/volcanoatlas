@@ -1,0 +1,537 @@
+{
+  "slug": "asamayama",
+  "volcano_id": 283110,
+  "title": "Asamayama (Mount Asama)",
+  "meta_title": "Asamayama (Mount Asama) — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Asamayama is a 2,568 m active complex volcano in Japan with 145 recorded eruptions. Explore its full eruption history from 1108 to 2019, hazards, and visitor guide.",
+  "quick_answer": {
+    "what": "Asamayama (Mount Asama) is an active complex volcano rising to 2,568 m (8,425 ft) in central Honshu, Japan, approximately 140 km northwest of Tokyo.",
+    "status": "Active — last erupted August 2019. Continuously monitored by JMA (Japan Meteorological Agency). One of Honshu's most restless volcanoes.",
+    "famous_for": "The most active volcano on Honshu, Japan's main island. The catastrophic VEI 4 eruption of 1783 killed over 1,400 people and triggered devastating pyroclastic flows and lahars.",
+    "danger_level": "High hazard — overlooks the resort town of Karuizawa and lies within 140 km of the Tokyo metropolitan area (38+ million people)."
+  },
+  "hero": {
+    "name": "Asamayama",
+    "local_name": "浅間山 (Asama-yama)",
+    "subtitle": "Honshu's Most Active Volcano",
+    "country": "Japan",
+    "region": "Central Honshu",
+    "type": "Complex volcano",
+    "elevation_m": 2568,
+    "elevation_ft": 8425,
+    "status": "Active",
+    "last_eruption": "2019",
+    "coordinates": {
+      "lat": 36.406,
+      "lon": 138.523
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01465.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "2,568 m (8,425 ft)",
+    "type": "Complex volcano (composite landform)",
+    "status": "Active",
+    "last_eruption": "August 7, 2019",
+    "first_known_eruption": "~7200 BCE",
+    "total_recorded_eruptions": 145,
+    "vei_max": "5 (1108 CE)",
+    "country": "Japan",
+    "region": "Central Honshu, Gunma-Nagano prefectural border",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Eurasian Plate / junction of Izu-Marianas and NE Japan volcanic arcs (continental crust >25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "36.406°N, 138.523°E",
+    "nearest_city": "Karuizawa — directly at the foot of the volcano (SE)",
+    "population_at_risk": "~50,000 (Karuizawa town); Tokyo metro (38+ million) within 140 km",
+    "summit_crater": "Kamayama pyroclastic cone — forms the present summit",
+    "protected_status": "Jōshin'etsu-kōgen National Park",
+    "monitoring_agency": "JMA — Japan Meteorological Agency",
+    "volcanic_complex": "Maekake cone (summit) built east of remnant Kurofuyama volcano",
+    "smithsonian_id": "283110",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=283110"
+  },
+  "sections": {
+    "overview": {
+      "content": "Asamayama (浅間山, also known as Mount Asama) is an active complex volcano rising to 2,568 m (8,425 ft) on the border of Gunma and Nagano Prefectures in central Honshu, <a href=\"/volcanoes-in-japan\">Japan</a>, approximately 140 km (87 mi) northwest of central Tokyo. It is the most active volcano on Honshu, Japan's main and most populous island, with an extraordinary 145 recorded eruptions spanning more than 9,000 years of eruptive history — more than any other volcano in the Japanese archipelago's historical record. Asamayama sits at a volcanologically significant junction where the Izu-Marianas volcanic arc intersects the Northeast Japan volcanic arc, a tectonic crossroads that feeds the volcano's magmatic system through the subduction of the Pacific Plate beneath the Eurasian Plate. The volcano's modern summit cone, called Maekake, is capped by the Kamayama pyroclastic cone and was constructed east of the remnants of Kurofuyama, an older andesitic volcano destroyed by a massive landslide approximately 20,000 years ago. Asamayama's two largest Holocene eruptions — the VEI 5 Plinian event of 1108 CE and the devastating VEI 4 eruption of 1783 that killed more than 1,400 people — rank among the most catastrophic volcanic events in Japanese history. The volcano overlooks the fashionable resort town of Karuizawa, a popular summer and winter retreat for Tokyo residents, creating a juxtaposition of volcanic hazard and leisure tourism that is quintessentially Japanese. Today, Asamayama is continuously monitored by the Japan Meteorological Agency (JMA) through one of the most comprehensive volcanic surveillance networks in the world, and the volcano's most recent eruption occurred on August 7, 2019, when a sudden explosion sent an ash plume approximately 1.8 km above the crater. With its proven capacity for VEI 4–5 explosions and its proximity to the Tokyo metropolitan area — home to more than 38 million people — Asamayama is considered one of Japan's highest-priority volcanic hazards and one of the most closely watched volcanoes in the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "geology_and_formation": {
+      "content": "Asamayama's geological evolution records a complex history of edifice construction, destruction, and rebuilding that has unfolded over tens of thousands of years at the junction of two major volcanic arcs. The volcano's unique tectonic position — where the Izu-Marianas arc meets the Northeast Japan arc — means that it sits above a particularly complex subduction geometry, with the Pacific Plate diving beneath the Eurasian Plate at a rate of approximately 80–90 mm per year. The earliest phase of volcanism at the site involved the construction of an andesitic edifice now known as Kurofuyama, which was catastrophically destroyed by a massive sector collapse approximately 20,000 years before present (BP). This landslide removed the western portion of the original volcano, leaving a pronounced scarp that is still visible in the landscape today. Following the collapse of Kurofuyama, a new phase of volcanism began with the growth of a dacitic shield volcano, accompanied by voluminous pumiceous pyroclastic flows that represent the largest eruptions in the complex's history, particularly during the period between approximately 14,000 and 11,000 BP. During this interval, the Ko-Asamayama lava dome was emplaced on the eastern flank, representing a period of more viscous, silicic magmatism. The modern Maekake cone, which forms the present summit and has been the source of virtually all historical eruptions, is geologically young — probably only a few thousand years old. Maekake is capped by the Kamayama pyroclastic cone, a steep-sided crater complex that has been repeatedly modified by explosive eruptions throughout the historical period. The andesitic to basaltic andesitic composition of Maekake's products represents a shift toward less silicic magmatism compared to the earlier dacitic shield phase, suggesting an evolution in the magma supply system beneath the volcano. This compositional range — spanning basaltic andesite to andesite — produces eruptions of widely varying character, from relatively gentle Strombolian activity and small ash emissions to the powerful Plinian columns that characterized the 1108 eruption. Understanding this geological complexity is essential for <a href=\"/types-of-volcanoes\">hazard assessment</a>, as the volcano's past demonstrates a capacity for eruption styles and magnitudes that far exceed its typical modern behavior."
+    },
+    "eruption_history_overview": {
+      "content": "Asamayama's eruptive record of 145 documented eruptions is one of the most extensive of any volcano in the world, reflecting both the volcano's genuinely high activity rate and Japan's exceptionally long and detailed tradition of historical record-keeping. The earliest known eruptions date to approximately 7200 BCE, but the observed record begins in earnest around the 4th century CE and becomes increasingly detailed from the 16th century onward, when Japanese feudal lords maintained meticulous chronicles that included volcanic events. The 1108 CE eruption stands as the largest known event of the modern Maekake cone, a VEI 5 Plinian eruption that produced widespread pyroclastic flows and heavy tephra fall across central Honshu. The 16th and 17th centuries saw intense activity, with more than 38 recorded eruptions between 1527 and 1661 — an average of roughly one eruption every 3.5 years. The 18th century produced the catastrophic 1783 eruption (VEI 4), which killed over 1,400 people and remains the most devastating volcanic disaster in Asamayama's historical record. Activity continued through the 19th and 20th centuries at a somewhat reduced pace, with notable eruptions in 1815 (VEI 3), 1931–1932 (VEI 3), 1934–1937 (VEI 3), and 1953–1955 (VEI 3). The 21st century has seen smaller eruptions in 2003, 2004, 2008, 2009, 2015, and most recently 2019, all at VEI 1–2. The <a href=\"/volcanic-explosivity-index\">VEI</a> distribution of Asamayama's eruptions shows 99 events at VEI 2, making moderate explosive eruptions the dominant mode, with 10 at VEI 3, three at VEI 4, and the singular VEI 5 event of 1108."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1108 CE Eruption — Asamayama's Largest Holocene Event (VEI 5)",
+          "content": "The eruption of August 29, 1108, was the largest and most explosive eruption of Asamayama's modern Maekake cone, producing a VEI 5 Plinian event that devastated central Honshu and was documented in remarkable detail by contemporary Japanese chroniclers. The eruption generated a towering eruption column that injected ash and pumice into the stratosphere, depositing thick tephra layers across a vast area of the Kantō Plain east and southeast of the volcano. Pyroclastic flows swept down the volcano's flanks, transforming formerly cultivated land into barren volcanic wasteland. The Chūyūki, a diary maintained by the Fujiwara courtier Munetada, recorded that in the aftermath of the eruption, rice paddies in the provinces surrounding Asamayama were buried under volcanic debris and rendered uncultivable for years, leading to localized famine. The 1108 eruption is classified as a Plinian event, placing it in the same explosive category as the 79 AD eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a> or the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a>, and represents the maximum known explosive capability of Asamayama's current volcanic system. The eruption produced an estimated 1+ km³ of tephra and fundamentally reshaped the summit area, building much of the Kamayama pyroclastic cone that forms the present summit. This event serves as the benchmark for worst-case eruption scenarios in modern hazard planning for the Asamayama region."
+        },
+        {
+          "title": "The 1783 Eruption — Tenmei Eruption (VEI 4)",
+          "content": "The eruption that began on May 9, 1783 (known in Japanese history as the Tenmei eruption, after the era name) is the most famous and deadliest eruption in Asamayama's recorded history. Over a period of approximately three months, the volcano produced a series of increasingly violent explosions, culminating in a catastrophic paroxysmal phase on August 5, 1783, that generated a massive pyroclastic flow — known as the Agatsuma pyroclastic flow — that swept down the northern flank at devastating speed. This pyroclastic flow buried the village of Kanbara, killing an estimated 477 of its approximately 570 inhabitants in one of the most lethal individual pyroclastic flow events in Japanese volcanic history. The superheated flow then entered the Agatsuma River, generating a massive lahar that traveled downstream and killed hundreds more people in downstream communities. Total casualties from the 1783 eruption are estimated at more than 1,400 people, making it one of the <a href=\"/deadliest-eruptions\">deadliest volcanic eruptions in Japanese history</a>. The eruption also produced voluminous lava flows, the most notable being the Onioshidashi lava flow on the northern flank, which today is preserved as the Onioshidashi Volcanic Park and serves as one of the area's most popular tourist attractions. The Tenmei eruption coincided with, and potentially contributed to, the severe Tenmei famine (1782–1788) that caused widespread starvation across Japan. The 1783 eruption fundamentally shaped Japanese approaches to volcanic hazard awareness and remains the reference event for emergency planning around Asamayama today."
+        },
+        {
+          "title": "The 1934–1937 Eruption — Sustained 20th-Century Activity (VEI 3)",
+          "content": "Beginning on November 13, 1934, and continuing through 1937, this eruption represented one of Asamayama's most sustained eruptive episodes of the 20th century. The VEI 3 event produced repeated explosive eruptions from the Kamayama summit crater, generating ash plumes that rose several kilometers above the summit and deposited tephra across communities in Gunma and Nagano Prefectures. This eruption occurred during a broader period of heightened activity at Asamayama that saw the volcano erupt almost continuously from the late 1920s through the mid-1940s, with eruptions recorded in 1927–1928, 1929, 1930, 1931–1932, 1934–1937, 1938–1942, and 1944–1945. This multi-decade episode of sustained activity remains the most recent period of intense volcanism at Asamayama."
+        },
+        {
+          "title": "The 2019 Eruption — Most Recent Activity (VEI 2)",
+          "content": "Asamayama's most recent eruption occurred on August 7, 2019, when a sudden Vulcanian explosion at the summit sent an ash plume approximately 1.8 km above the crater rim. The eruption was brief but violent, ejecting ballistic blocks that landed up to 200 m from the vent and depositing light ashfall on areas to the east. The Japan Meteorological Agency had previously raised the alert level for Asamayama from Level 1 to Level 2 in June 2019 following an increase in volcanic tremor and inflation of the edifice detected by GPS monitoring, providing some advance warning. The 2019 eruption caused no casualties but prompted temporary closures of hiking trails on the volcano's upper slopes."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Asamayama is classified as active and is one of 50 volcanoes designated by Japan as requiring intensive monitoring under the country's volcanic disaster prevention plan. The Japan Meteorological Agency (JMA) maintains one of the world's most sophisticated monitoring networks around Asamayama, including broadband seismometers, tiltmeters, GPS ground deformation stations, infrasound sensors, and high-resolution surveillance cameras that provide 24-hour visual observation of the summit crater. The volcano's alert level system ranges from Level 1 (normal) to Level 5 (evacuation), and Asamayama has fluctuated between Levels 1 and 2 in recent years, with brief periods at Level 3 during and immediately after eruptions. Since the 2019 eruption, the volcano has returned to Level 1 status, though background seismicity continues and periodic volcanic gas emissions are detected from the summit crater. Scientists consider the probability of another eruption in the coming decade to be high, most likely as a VEI 1–2 Vulcanian or Strombolian event, though the volcano's demonstrated capacity for VEI 4–5 explosions means that larger events cannot be ruled out."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Asamayama presents a significant multi-hazard threat that extends well beyond the immediate vicinity of the summit. The primary hazards include pyroclastic flows, which during the 1783 eruption traveled up to 12 km from the summit and killed nearly 500 people in the buried village of Kanbara; tephra fall, which during VEI 3–5 events can deposit centimeters to tens of centimeters of ash across communities up to 100 km downwind; ballistic projectiles, which during even small VEI 1–2 eruptions can endanger people within 2–4 km of the crater; lahars, formed when pyroclastic material enters rivers or interacts with seasonal snow; and volcanic gases, particularly SO₂, which are continuously emitted from the summit crater. The resort town of Karuizawa, with a permanent population of approximately 20,000 that swells to over 50,000 during peak tourist seasons, sits directly at the southeastern foot of the volcano. The broader implications of a major Asamayama eruption extend to the Tokyo metropolitan area, 140 km to the southeast, which could receive significant ashfall during a VEI 4–5 event with favorable wind conditions. Japanese hazard assessments have modeled scenarios in which a 1108-scale eruption could deposit 2–10 cm of ash across portions of metropolitan Tokyo, potentially disrupting transportation, water supplies, and electrical infrastructure for millions of people. The Japanese government has developed detailed evacuation plans for communities surrounding Asamayama, incorporating real-time monitoring data from JMA's extensive instrument network. An exclusion zone around the summit (typically 500 m to 2 km radius depending on alert level) is enforced to protect hikers and visitors."
+    },
+    "geography_and_physical_description": {
+      "content": "Asamayama is a complex volcanic massif occupying the border between Gunma and Nagano Prefectures in central Honshu, approximately 140 km northwest of Tokyo. The summit reaches 2,568 m (8,425 ft) above sea level, making it one of the most prominent peaks in central Japan. The present summit is formed by the Kamayama pyroclastic cone, a steep-sided crater structure sitting atop the broader Maekake cone, which was built east of the eroded remnant of the older Kurofuyama volcano. The summit crater of Kamayama is approximately 300 m in diameter and 120 m deep, with fumarolic activity visible along its inner walls. To the east, the Ko-Asamayama lava dome rises as a distinct subsidiary peak. The volcano's flanks descend through vegetation zones: barren volcanic rock above approximately 2,200 m gives way to subalpine shrubs and birch forests at middle elevations, transitioning to dense deciduous and mixed forests at lower slopes. The northern flank is dominated by the Onioshidashi lava field, a dramatic expanse of blocky andesite lava extruded during the 1783 eruption that remains largely unvegetated after more than 240 years. Several rivers drain the volcano's slopes, including the Agatsuma River to the north, which served as the pathway for the catastrophic 1783 lahar."
+    },
+    "climate_and_global_impact": {
+      "content": "Asamayama's largest eruptions have had measurable atmospheric impacts, though none in the Holocene record approaches the global climate influence of <a href=\"/volcano/tambora\">Tambora</a> (1815, VEI 7) or <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991, VEI 6). The VEI 5 eruption of 1108 CE likely injected sulfur dioxide into the lower stratosphere, potentially contributing to short-term regional cooling in East Asia, though isolating its signal in proxy climate records is difficult. The 1783 eruption is of particular climatic interest because it occurred in the same year as the eruption of Laki in Iceland, which produced one of the most devastating atmospheric events of the 18th century. Some researchers suggest that the combined effects of Asamayama's 1783 eruption and other volcanic events may have contributed to the severe Tenmei famine in Japan. Asamayama's typical VEI 1–2 eruptions have negligible global atmospheric effects but can cause regional air quality impacts and occasionally disrupt aviation in the busy Tokyo–northern Japan air corridor."
+    },
+    "cultural_significance": {
+      "content": "Asamayama has occupied a central place in Japanese culture, art, and literature for more than a millennium. The volcano appears in the Man'yōshū, Japan's oldest anthology of poetry compiled around 759 CE, where it is described as a smoking mountain. The 1783 Tenmei eruption became one of the most extensively documented natural disasters in pre-modern Japanese history, with accounts appearing in official feudal records, personal diaries, and popular woodblock prints that depicted the eruption's terrifying power. The buried village of Kanbara has been compared in Japanese volcanic literature to the fate of Pompeii beneath <a href=\"/volcano/vesuvius\">Vesuvius</a>, and archaeological excavations of the site have provided valuable insights into the eruption mechanics and the lives of Edo-period villagers. The Onioshidashi lava park — preserving the 1783 lava flow — has become one of Nagano Prefecture's most visited geological attractions, complete with a Buddhist temple (Kannon-dō) built atop the lava field as a memorial to the eruption's victims. Asamayama's cultural footprint extends into the resort identity of Karuizawa, which has been a fashionable retreat for Tokyo's elite since the Meiji era. The Asama Volcano Museum in Karuizawa educates visitors about the volcano's history and ongoing monitoring."
+    },
+    "visiting_and_tourism": {
+      "content": "Asamayama and its surroundings offer multiple visitor experiences, though access to the summit itself is restricted due to volcanic hazard. At the lowest alert levels (Level 1), hikers can approach within approximately 500 m of the summit crater via the Kurobishi course from the southeast or the Ogama course from the west, though entry to the crater itself is permanently prohibited. When the alert level is raised to Level 2 or above, the exclusion zone expands to 2 km or more from the crater. The most popular volcanic attraction is Onioshidashi Volcanic Park, located on the northern flank, where visitors can walk through the spectacular blocky lava field produced by the 1783 eruption. The park includes interpretive displays, the Kannon-dō temple, and panoramic views. Karuizawa, the resort town at Asamayama's southeastern base, is accessible from Tokyo via the Hokuriku Shinkansen in approximately 70 minutes. The Asama Volcano Museum near Karuizawa provides educational exhibits. The broader Jōshin'etsu-kōgen National Park encompasses Asamayama and surrounding volcanic and alpine landscapes."
+    },
+    "nearby_volcanoes": {
+      "content": "Asamayama is part of a volcanically active region of central Honshu. <a href=\"/volcano/fujisan\">Mount Fuji</a> (3,776 m), Japan's tallest and most iconic volcano, lies approximately 150 km to the south-southwest. Kusatsu-Shiranesan (2,160 m), an active volcanic complex known for its acidic crater lake, is located just 30 km to the northwest and last erupted in 2018. Asosan (1,592 m), one of the world's largest calderas, lies on the island of Kyushu roughly 800 km to the southwest but shares Asamayama's distinction as one of Japan's most frequently erupting volcanoes with 187 recorded eruptions. <a href=\"/volcano/aira\">Sakurajima</a> (1,117 m), continuously active in Kagoshima Bay, exemplifies the same challenges of volcanoes adjacent to populated areas. Asamayama's position at the junction of the Izu-Marianas and Northeast Japan volcanic arcs gives it a unique tectonic context among <a href=\"/volcanoes-in-japan\">Japan's</a> approximately 105 Holocene volcanoes."
+    },
+    "etymology": {
+      "content": "The name Asamayama (浅間山) uses the kanji characters for 'shallow' (浅) and 'space/interval' (間), followed by 'mountain' (山). However, the name likely predates the use of these specific kanji and may derive from an older Ainu or proto-Japanese word related to volcanic fire or burning. The reading 'Asama' is shared with the Asama shrine tradition (浅間神社, Sengen-jinja), a network of Shinto shrines dedicated to the deity Konohanasakuya-hime associated with volcanoes throughout Japan, particularly Mount Fuji. In English, the volcano is referred to as both 'Asamayama' and 'Mount Asama.'"
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Asamayama Compared to Japan's Most Active Volcanoes",
+      "description": "How does Asamayama compare to other frequently erupting volcanoes in Japan?",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Distance to Major City"
+      ],
+      "rows": [
+        [
+          "Asamayama",
+          "2,568 m",
+          "Complex",
+          "2019",
+          "5",
+          "145",
+          "140 km to Tokyo"
+        ],
+        [
+          "Aso (Asosan)",
+          "1,592 m",
+          "Caldera",
+          "2021",
+          "3",
+          "187",
+          "65 km to Kumamoto"
+        ],
+        [
+          "Sakurajima (Aira)",
+          "1,117 m",
+          "Caldera",
+          "2025",
+          "6",
+          "53",
+          "8 km to Kagoshima"
+        ],
+        [
+          "Fujisan",
+          "3,776 m",
+          "Stratovolcano",
+          "1708",
+          "5",
+          "67",
+          "100 km to Tokyo"
+        ],
+        [
+          "Suwanosejima",
+          "796 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "75",
+          "Remote island"
+        ]
+      ]
+    },
+    {
+      "title": "Asamayama vs Other Volcanoes Near Major Population Centers",
+      "description": "A global comparison of volcanoes posing significant hazards to large urban populations.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "VEI Max",
+        "Eruption Count",
+        "Nearest Major City",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Asamayama",
+          "Japan",
+          "2,568 m",
+          "5",
+          "145",
+          "Tokyo (140 km)",
+          "38+ million"
+        ],
+        [
+          "Vesuvius",
+          "Italy",
+          "1,281 m",
+          "5",
+          "61",
+          "Naples (9 km)",
+          "~3 million"
+        ],
+        [
+          "Popocatépetl",
+          "Mexico",
+          "5,393 m",
+          "5",
+          "46",
+          "Mexico City (70 km)",
+          "22+ million"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,910 m",
+          "4",
+          "112",
+          "Yogyakarta (25 km)",
+          "~4 million"
+        ],
+        [
+          "Rainier",
+          "USA",
+          "4,392 m",
+          "5",
+          "13",
+          "Seattle (87 km)",
+          "~4 million"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7200,
+      "vei": null,
+      "label": "Earliest known Holocene eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2550,
+      "vei": 4,
+      "label": "Major prehistoric Plinian eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 350,
+      "vei": 4,
+      "label": "VEI 4 eruption — significant early historical event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1108,
+      "vei": 5,
+      "label": "Largest Holocene eruption — devastating Plinian event",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1783,
+      "vei": 4,
+      "label": "Tenmei eruption — killed 1,400+, buried Kanbara village",
+      "deaths": "1400+",
+      "notable": true
+    },
+    {
+      "year": 1815,
+      "vei": 3,
+      "label": "Significant 19th-century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1931,
+      "vei": 3,
+      "label": "Multi-year VEI 3 eruption (1931–1932)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1934,
+      "vei": 3,
+      "label": "Sustained eruption through 1937",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1953,
+      "vei": 3,
+      "label": "VEI 3 eruption (1953–1955)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2004,
+      "vei": 2,
+      "label": "Moderate Vulcanian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2019,
+      "vei": 2,
+      "label": "Most recent eruption — sudden explosion, ash plume 1.8 km",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 7,
+      "note": "Seven known eruptions from ~7200 BCE to ~1130 BCE, including VEI 4 events"
+    },
+    {
+      "century": "4th",
+      "count": 1,
+      "note": "VEI 4 eruption in 350 CE"
+    },
+    {
+      "century": "7th",
+      "count": 1,
+      "note": "VEI 3 eruption in 685 CE (uncertain volcano attribution)"
+    },
+    {
+      "century": "12th",
+      "count": 2,
+      "note": "Includes the massive VEI 5 eruption of 1108 CE"
+    },
+    {
+      "century": "13th",
+      "count": 1,
+      "note": "Uncertain eruption in 1281"
+    },
+    {
+      "century": "15th",
+      "count": 1,
+      "note": "Uncertain eruption in 1427"
+    },
+    {
+      "century": "16th",
+      "count": 14,
+      "note": "Intense activity — 14 eruptions in 73 years (1527–1600)"
+    },
+    {
+      "century": "17th",
+      "count": 24,
+      "note": "Peak historical activity — nearly continuous eruptions"
+    },
+    {
+      "century": "18th",
+      "count": 29,
+      "note": "Most eruptions of any century; includes catastrophic 1783 event"
+    },
+    {
+      "century": "19th",
+      "count": 13,
+      "note": "Continued activity including VEI 3 eruption in 1815"
+    },
+    {
+      "century": "20th",
+      "count": 46,
+      "note": "Highest-count century — near-continuous activity in 1920s–1950s"
+    },
+    {
+      "century": "21st",
+      "count": 6,
+      "note": "2003, 2004, 2008, 2009, 2015, 2019 — all VEI 1–2"
+    }
+  ],
+  "facts": [
+    "Asamayama's 145 recorded eruptions make it the most prolific erupting volcano on Honshu, Japan's main island, and one of the most frequently active volcanoes in the world.",
+    "The 1783 Tenmei eruption killed over 1,400 people — the pyroclastic flow buried the village of Kanbara, killing 477 of its approximately 570 inhabitants.",
+    "The VEI 5 eruption of 1108 CE was the largest eruption of the modern Maekake cone and is classified as a Plinian event comparable to the 79 AD eruption of Vesuvius.",
+    "Asamayama sits at the unique tectonic junction where the Izu-Marianas volcanic arc meets the Northeast Japan volcanic arc.",
+    "The Onioshidashi lava flow from the 1783 eruption remains largely unvegetated after more than 240 years and is now preserved as a volcanic park.",
+    "Asamayama is located just 140 km from central Tokyo — a VEI 5 eruption could deposit significant ashfall on the world's most populous metropolitan area.",
+    "The modern summit cone (Maekake) was built east of the remnants of Kurofuyama, an older volcano destroyed by a massive landslide approximately 20,000 years ago.",
+    "During the 18th century alone, Asamayama produced 29 recorded eruptions — an average of one eruption approximately every 3.4 years.",
+    "The 1783 eruption coincided with the severe Tenmei famine that caused widespread starvation across Japan.",
+    "Asamayama overlooks Karuizawa, one of Japan's most fashionable resort towns and a popular Shinkansen day trip from Tokyo.",
+    "The volcano has been referenced in Japanese literature since at least the 8th century, appearing in the Man'yōshū compiled around 759 CE.",
+    "JMA's monitoring network around Asamayama includes broadband seismometers, GPS sensors, tiltmeters, infrasound arrays, gas analyzers, and 24-hour cameras — one of the most instrumented volcanoes on Earth."
+  ],
+  "faqs": [
+    {
+      "question": "Is Asamayama (Mount Asama) still active?",
+      "answer": "Asamayama is one of the most active volcanoes in Japan and on Earth. It has produced 145 recorded eruptions over more than 9,000 years, with the most recent eruption occurring on August 7, 2019. The Japan Meteorological Agency (JMA) classifies Asamayama as active and maintains one of its most intensive monitoring networks around the volcano. The summit crater continues to emit volcanic gases, and seismic activity beneath the edifice is ongoing. Given the volcano's historical eruption frequency — an average of one eruption every 2–5 years during the 20th century — volcanologists consider another eruption highly probable. Asamayama is unequivocally active and remains one of Japan's highest-priority volcanic monitoring targets."
+    },
+    {
+      "question": "When did Mount Asama last erupt?",
+      "answer": "Asamayama's most recent eruption occurred on August 7, 2019, when a sudden Vulcanian explosion sent an ash plume approximately 1.8 km above the summit crater rim. The eruption ejected ballistic blocks up to 200 m from the vent and deposited light ashfall to the east. It was classified as VEI 2 on the Volcanic Explosivity Index. JMA had raised the alert level from Level 1 to Level 2 in June 2019 following increased seismic activity and ground deformation, providing some advance warning. The eruption caused no casualties but prompted temporary trail closures. Prior to 2019, the most recent eruptions occurred in 2015 (VEI 1) and 2009 (VEI 2)."
+    },
+    {
+      "question": "How dangerous is Asamayama?",
+      "answer": "Asamayama is considered one of Japan's most dangerous volcanoes due to its high eruption frequency, proven capacity for VEI 4–5 explosions, and proximity to large populations. The 1783 eruption killed over 1,400 people through pyroclastic flows and lahars, and a similar event today would threaten Karuizawa (population ~50,000 including tourists). A VEI 5 eruption could deposit significant ashfall on the Tokyo metropolitan area, 140 km to the southeast, potentially disrupting infrastructure for tens of millions of people. Japan maintains detailed evacuation plans and an advanced monitoring network to provide early warning."
+    },
+    {
+      "question": "How tall is Asamayama?",
+      "answer": "Asamayama stands at 2,568 m (8,425 ft) above sea level, making it one of the most prominent peaks in central Japan. The summit is formed by the Kamayama pyroclastic cone, capping the broader Maekake cone. For comparison, Mount Fuji — Japan's tallest volcano — reaches 3,776 m (12,389 ft), while Kusatsu-Shiranesan to the northwest stands at 2,160 m (7,087 ft). Asamayama's elevation has fluctuated throughout its eruptive history as explosive eruptions remove material and effusive eruptions add to the summit area."
+    },
+    {
+      "question": "What type of volcano is Asamayama?",
+      "answer": "Asamayama is classified as a complex volcano, reflecting its multi-cone, multi-vent structure encompassing several distinct volcanic edifices. The modern summit is the Maekake cone, capped by the Kamayama pyroclastic cone. The Ko-Asamayama lava dome to the east represents an earlier phase of dacitic volcanism. The remnant of the older Kurofuyama volcano is visible to the west. Asamayama's magma ranges from basaltic andesite to andesite, producing eruptions that vary from gentle Strombolian activity to powerful Plinian explosions."
+    },
+    {
+      "question": "What happened in the 1783 eruption of Asamayama?",
+      "answer": "The 1783 Tenmei eruption was the most devastating in Asamayama's history. Beginning May 9, 1783, the volcano produced three months of escalating explosions. On August 5, the Agatsuma pyroclastic flow swept down the northern flank and buried Kanbara village, killing 477 of approximately 570 inhabitants. The flow entered the Agatsuma River, generating a lahar that killed hundreds more downstream. Total casualties exceeded 1,400. The eruption also produced the Onioshidashi lava flow, now a tourist attraction. The event coincided with the Tenmei famine and remains the benchmark for hazard planning."
+    },
+    {
+      "question": "Can you visit Asamayama?",
+      "answer": "Yes, though summit access is restricted. At alert Level 1, hikers can approach within about 500 m of the crater via designated trails, but the crater itself is permanently off-limits. At Level 2 or above, the exclusion zone expands to 2+ km. The most popular attraction is Onioshidashi Volcanic Park on the northern flank, featuring the 1783 lava field, the Kannon-dō temple, and panoramic views. Karuizawa at the volcano's base is reachable from Tokyo in ~70 minutes by Shinkansen. The Asama Volcano Museum offers educational exhibits."
+    },
+    {
+      "question": "Could Asamayama threaten Tokyo?",
+      "answer": "While Tokyo is 140 km from Asamayama — safe from direct hazards like pyroclastic flows — a major eruption could deposit significant ash on the metropolitan area. Models for a VEI 5 eruption estimate 2–10 cm of ash could fall on parts of Tokyo under unfavorable wind conditions, disrupting transportation, water, and electricity for millions. Even VEI 3–4 events could affect aviation and air quality. The probability of a VEI 5 event in any given decade is low, and Japan's monitoring system provides significant advance warning."
+    },
+    {
+      "question": "How often does Asamayama erupt?",
+      "answer": "Asamayama is one of the most frequently erupting volcanoes on Earth. During the 20th century, it produced 46 recorded eruptions — roughly one every 2.2 years. The 17th and 18th centuries were even more active, with 24 and 29 eruptions respectively. In the 21st century, the pace has slowed somewhat, with six eruptions between 2003 and 2019. However, this apparent decrease is well within the range of normal variability for the volcano, and volcanologists expect the current inter-eruptive interval to end with renewed activity in the coming years."
+    },
+    {
+      "question": "What is the Onioshidashi lava field?",
+      "answer": "Onioshidashi (literally 'demon push-out rock') is a dramatic lava field on Asamayama's northern flank, produced during the catastrophic 1783 Tenmei eruption. The blocky andesite lava covers approximately 6 km² and remains largely unvegetated more than 240 years after the eruption, creating an otherworldly landscape of jagged volcanic rock. Today it is preserved as Onioshidashi Volcanic Park, one of Nagano Prefecture's most visited geological attractions. A Buddhist temple, Kannon-dō, sits atop the lava field as a memorial to the eruption's victims. The park includes walking paths through the lava, interpretive displays, and panoramic views of the surrounding mountains."
+    }
+  ],
+  "people_also_search": [
+    "mount asama eruption",
+    "asamayama volcano japan",
+    "1783 asama eruption kanbara",
+    "most active volcanoes in japan",
+    "mount asama last eruption",
+    "karuizawa volcano",
+    "asamayama height",
+    "onioshidashi lava park"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Asamayama",
+    "alternateName": [
+      "Mount Asama",
+      "浅間山",
+      "Asama-yama"
+    ],
+    "description": "Active complex volcano in central Honshu, Japan — the most frequently erupting volcano on Japan's main island with 145 recorded eruptions",
+    "geo": {
+      "latitude": 36.406,
+      "longitude": 138.523,
+      "elevation": 2568
+    },
+    "containedInPlace": {
+      "name": "Gunma-Nagano border, Central Honshu",
+      "country": "Japan"
+    },
+    "url": "https://volcanoatlas.com/volcano/asamayama"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=283110",
+      "text": "Smithsonian GVP: Asamayama",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran_eng/volcanoes/030_asamayama.pdf",
+      "text": "JMA: Asamayama Volcano Information",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Asama",
+      "text": "Britannica: Mount Asama",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.onioshidashi.com/",
+      "text": "Onioshidashi Volcanic Park (Official)",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "fujisan",
+      "aso",
+      "sakurajima",
+      "vesuvius",
+      "st-helens",
+      "popocatepetl",
+      "merapi",
+      "tambora",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "japan"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "fujisan",
+    "aso",
+    "sakurajima",
+    "vesuvius",
+    "popocatepetl"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "label": "Asamayama",
+      "url": "/volcano/asamayama"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/asamayama"
+}

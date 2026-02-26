@@ -1,0 +1,408 @@
+{
+  "slug": "san-cristobal",
+  "volcano_id": 344020,
+  "title": "San Cristóbal",
+  "meta_title": "San Cristóbal — Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "San Cristóbal is Nicaragua's highest volcano at 1,745 m with 38 eruptions. Full eruption history, hazards, and Marrabios Range.",
+  "quick_answer": {
+    "what": "San Cristóbal (also known as El Viejo) is an active stratovolcano in northwestern Nicaragua, standing at 1,745 m (5,725 ft) as the country's highest volcano and forming the northwestern anchor of the Marrabios Range.",
+    "status": "Active — last erupted June 2024. One of Central America's most frequently active volcanoes with 38 recorded eruptions since 1528.",
+    "famous_for": "Being Nicaragua's tallest and one of its most active volcanoes, with a symmetrical cone visible across the Chinandega lowlands, and its association with the catastrophic 1998 Hurricane Mitch landslide on nearby Volcán Casita.",
+    "danger_level": "High — the city of Chichigalpa (population ~46,000) lies only 8 km from the summit, and frequent explosive eruptions produce ashfall, while the complex includes Casita, site of a 1998 lahar that killed over 2,500 people."
+  },
+  "hero": {
+    "name": "San Cristóbal",
+    "local_name": "El Viejo",
+    "subtitle": "Nicaragua's Highest and Most Restless Volcano",
+    "country": "Nicaragua",
+    "region": "Chinandega Department",
+    "type": "Stratovolcano",
+    "elevation_m": 1745,
+    "elevation_ft": 5725,
+    "status": "Active",
+    "last_eruption": "2024",
+    "coordinates": {
+      "lat": 12.702,
+      "lon": -87.004
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04093.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,745 m (5,725 ft)",
+    "type": "Stratovolcano (part of a complex of five volcanic edifices)",
+    "status": "Active",
+    "last_eruption": "June 2024",
+    "first_known_eruption": "1528 (VEI 3)",
+    "total_recorded_eruptions": 38,
+    "vei_max": "3 (1528, 2017)",
+    "country": "Nicaragua",
+    "region": "Chinandega Department, Marrabios Range",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath Caribbean Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "12.702°N, 87.004°W",
+    "nearest_city": "Chichigalpa — approximately 8 km southwest",
+    "population_at_risk": "~100,000+ in Chichigalpa, Chinandega, and surrounding communities",
+    "summit_crater": "500 × 600 m wide crater",
+    "monitoring_agency": "INETER (Instituto Nicaragüense de Estudios Territoriales)",
+    "smithsonian_id": "344020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=344020"
+  },
+  "sections": {
+    "overview": {
+      "content": "San Cristóbal (also known as El Viejo) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> standing at 1,745 m (5,725 ft) in the Chinandega Department of northwestern <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>, making it the highest volcano in the country. It anchors the northwestern end of the Marrabios Range, a chain of Quaternary volcanoes that runs roughly parallel to the Pacific coast along the Central American Volcanic Arc. With 38 recorded eruptions dating back to 1528, San Cristóbal is one of the most frequently active volcanoes in Central America, producing small-to-moderate explosive events at an average interval of roughly 13 years over its historical record. The symmetrical younger cone is capped by a prominent 500 × 600 m summit crater that often emits vigorous gas plumes visible from the Pacific lowlands. San Cristóbal is not a single volcano but the youngest member of a complex of five principal volcanic edifices: the active San Cristóbal cone itself, the Pleistocene El Chonco (4 km west, with several flank lava domes), the eroded Moyotepe (4 km northeast), Volcán Casita (immediately east), and the Plio-Pleistocene La Pelona caldera at the complex's eastern end. The complex's most devastating modern event did not come from San Cristóbal itself but from neighboring Casita, where a catastrophic landslide triggered by Hurricane Mitch in October 1998 killed over 2,500 people — one of the <a href=\"/deadliest-eruptions\">deadliest volcanic disasters</a> of the 20th century, though caused by rainfall-induced slope failure rather than eruption. The volcano's frequent eruptions, proximity to the city of Chichigalpa (population ~46,000, just 8 km southwest), and position within the densely populated Chinandega lowlands make it one of <a href=\"/volcanoes-in-nicaragua\">Nicaragua's</a> most closely watched volcanic hazards."
+    },
+    "geology_and_formation": {
+      "content": "San Cristóbal is a product of the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench, the same tectonic process that fuels the entire Central American Volcanic Arc and the broader <a href=\"/ring-of-fire\">Ring of Fire</a>. The Marrabios Range, in which San Cristóbal sits, runs NW-SE through western Nicaragua and comprises more than a dozen Quaternary volcanic centers. The San Cristóbal complex has been built in stages over millions of years. The Plio-Pleistocene La Pelona caldera at the eastern end is the oldest structure, followed by the construction and erosion of El Chonco and Moyotepe during the Pleistocene. The youngest and currently active cone — the symmetrical San Cristóbal summit — was built atop and partially within the older edifices. The volcano's basaltic to picro-basaltic composition is notable for a Central American stratovolcano; most comparably active stratovolcanoes in the arc erupt andesitic magma. San Cristóbal's mafic magma produces relatively fluid lava but is sufficiently gas-rich to drive Strombolian and Vulcanian explosive episodes from the summit crater. The 500 × 600 m crater is a persistent source of sulfur dioxide (SO₂) degassing, and San Cristóbal has been identified as one of the top volcanic SO₂ point sources in Central America. The interaction between San Cristóbal's basaltic plumbing system and the regional extensional stress regime of the Nicaraguan Depression — a graben structure running through western Nicaragua — may facilitate magma ascent and contribute to the volcano's high eruption frequency."
+    },
+    "eruption_history_overview": {
+      "content": "San Cristóbal's eruption record includes 38 confirmed and uncertain eruptions spanning nearly 500 years since the first documented event in 1528. The eruption frequency accelerated markedly in the 21st century: 24 of the 38 recorded eruptions have occurred since 1971, and 16 have occurred since 2001 alone. This apparent acceleration likely reflects improved monitoring and reporting rather than a genuine change in volcanic behavior, though increased activity since 1999 is well-documented. The maximum observed <a href=\"/volcanic-explosivity-index\">VEI</a> is 3, achieved in 1528 and again in August 2017. Most eruptions are VEI 1–2 events consisting of brief explosive bursts from the summit crater, producing ash plumes that rise 1–4 km above the summit and deposit fine ash on downwind communities. The volcano's basaltic composition means that eruptions tend to be Strombolian to Vulcanian in character rather than the sustained Plinian columns associated with more silicic volcanoes. Quiet intervals between eruption clusters have ranged from a few months to nearly a century (1685–1971 is the longest recorded gap, though this may reflect incomplete reporting)."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1528 Eruption (VEI 3) — First Historical Record",
+          "content": "The first historically documented eruption of San Cristóbal occurred in 1528, shortly after the Spanish conquest of Nicaragua. Rated VEI 3, it was the most powerful eruption in the volcano's recorded history (tied with the 2017 event) and produced significant ashfall across the Pacific lowlands. Early colonial accounts describe a vigorous explosive eruption from the summit, though details are sparse. This event established San Cristóbal's identity as an active and potentially dangerous volcano for the new colonial settlements being established in the Chinandega region."
+        },
+        {
+          "title": "The 1998 Casita Landslide — Hurricane Mitch Disaster",
+          "content": "While not an eruption of San Cristóbal itself, the most catastrophic event associated with the volcanic complex occurred on October 30, 1998, on neighboring Volcán Casita, located immediately east of San Cristóbal. Torrential rainfall from Hurricane Mitch (one of the deadliest Atlantic hurricanes in recorded history) destabilized the hydrothermally altered rocks of Casita's elongated summit crater, triggering a massive debris avalanche that transformed into a lahar as it swept downslope. The lahar buried the communities of El Porvenir and Rolando Rodríguez in the town of Posoltega, killing an estimated 2,500 people in minutes. The disaster illustrated the compound hazards of volcanic complexes: even during periods of volcanic quiescence, hydrothermally weakened edifices are vulnerable to slope failure during extreme rainfall events. The Casita tragedy remains one of the deadliest volcanic-terrain disasters of the 20th century."
+        },
+        {
+          "title": "The 2012 Eruptions — Ashfall on Chinandega",
+          "content": "San Cristóbal produced multiple eruptions in 2012, including VEI 2 events in September and December that generated ash plumes rising 2–4 km above the summit. Fine ash fell on the cities of Chinandega and Chichigalpa, affecting agricultural areas and prompting temporary evacuations of communities on the volcano's western flanks. The September 8 eruption was particularly vigorous, with a sustained explosive phase that lasted several hours and deposited measurable ashfall across a wide area of Chinandega Department."
+        },
+        {
+          "title": "The August 2017 Eruption (VEI 3)",
+          "content": "On August 18, 2017, San Cristóbal produced its strongest eruption since 1528, a VEI 3 event that sent an ash plume to approximately 4.5 km above the summit crater. The eruption occurred from the central summit vent and produced heavy ashfall on communities southwest of the volcano, including parts of Chichigalpa. INETER raised the alert level and local authorities implemented precautionary evacuations. The eruption was a sharp reminder that San Cristóbal can produce eruptions significantly larger than the VEI 1–2 events that characterize most of its modern activity."
+        },
+        {
+          "title": "The 2020–2022 Eruption Sequence",
+          "content": "Beginning on December 27, 2020, San Cristóbal entered an extended eruption phase that continued intermittently until 2022 (VEI 2). Multiple explosive episodes produced ash plumes and renewed SO₂ degassing. The prolonged sequence overlapped with the global COVID-19 pandemic, complicating monitoring efforts and emergency response planning. INETER maintained continuous surveillance throughout the sequence."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "San Cristóbal is classified as active and remains under continuous surveillance by INETER (Instituto Nicaragüense de Estudios Territoriales), Nicaragua's seismological and volcanological monitoring agency. The most recent confirmed eruption occurred on June 7, 2024 (VEI 1). The volcano's summit crater is a persistent source of SO₂ gas emissions, and satellite-based sensors regularly detect elevated sulfur dioxide plumes drifting from the summit. The monitoring network includes seismometers deployed around the volcanic complex, along with visual observations and satellite remote sensing. Given San Cristóbal's eruption frequency — averaging roughly one event per year in recent decades — future eruptions in the near term are considered highly likely. INETER and Nicaragua's civil defense agency (SINAPRED) maintain evacuation plans for communities within the volcano's hazard zones."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "San Cristóbal poses significant hazards to the populated Chinandega lowlands. The primary volcanic threat is ashfall from explosive eruptions: the city of Chichigalpa (population ~46,000) lies only 8 km southwest of the summit, and the departmental capital Chinandega (~135,000) is approximately 20 km to the south-southwest. Under typical trade-wind conditions, ash is carried toward these population centers. Larger eruptions (VEI 3+) could deposit centimeters of ash on inhabited areas, damaging crops, contaminating water supplies, and causing respiratory problems. Ballistic projectiles from explosive eruptions pose a risk within several kilometers of the crater. The compound nature of the volcanic complex adds additional hazards: the 1998 Casita disaster demonstrated that rainfall-induced landslides on hydrothermally altered volcanic slopes can be catastrophic even without an eruption. SO₂ emissions from the summit crater contribute to acid rain that affects agriculture on the volcano's windward flanks. Compared to other Central American volcanoes, San Cristóbal's threat level is elevated by its eruption frequency, proximity to large populations, and the compound hazards of the multi-edifice complex. It ranks alongside <a href=\"/volcano/fuego\">Fuego</a> (Guatemala) and <a href=\"/volcano/pacaya\">Pacaya</a> (Guatemala) as one of the region's most persistent volcanic threats."
+    },
+    "geography_and_physical_description": {
+      "content": "San Cristóbal's symmetrical cone dominates the skyline of the Chinandega lowlands in northwestern <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>. The volcano rises from near sea level on the Pacific coastal plain to its 1,745 m summit, giving it an impressive visual prominence. The 500 × 600 m summit crater is slightly elongated and often filled with gas emissions that form a visible plume. The San Cristóbal complex spans roughly 20 km from El Chonco in the west to La Pelona caldera in the east. El Chonco, a Pleistocene volcano with several flank lava domes, rises to approximately 1,105 m about 4 km west of the San Cristóbal summit. Volcán Casita (1,405 m), immediately east, features an elongated summit crater and the prominent scar from the 1998 debris avalanche on its southern flank. The landscape surrounding the volcanic complex is dominated by sugarcane plantations and other agriculture, which extend to the lower slopes of the volcano itself. The Ingenio San Antonio — one of Central America's largest sugar mills — operates near Chichigalpa at the base of the volcano."
+    },
+    "climate_and_global_impact": {
+      "content": "San Cristóbal's eruptions have not produced significant global climate impacts. The volcano's maximum recorded VEI of 3 is well below the threshold for stratospheric aerosol injection that drives volcanic climate forcing. However, the volcano is one of the most prolific SO₂ emitters in Central America, with persistent degassing from its summit crater contributing to regional atmospheric chemistry. The dense SO₂ plumes that frequently drift from the summit can affect local air quality and contribute to acid rain on downwind agricultural lands, occasionally causing crop damage on the volcano's western and southwestern flanks."
+    },
+    "cultural_significance": {
+      "content": "San Cristóbal, also widely known as \"El Viejo\" (\"The Old Man\"), holds a prominent place in Nicaraguan culture as the country's tallest volcano. The city of El Viejo — one of Nicaragua's oldest colonial settlements, founded in the early 16th century — takes its name from the volcano. The Basílica Menor de la Inmaculada Concepción in El Viejo is one of Nicaragua's most important religious sites, and the volcano forms the dramatic backdrop for the colonial town. San Cristóbal's frequent gas emissions and eruptions have woven the volcano into the daily consciousness of Chinandega residents, who monitor the summit plume as a matter of routine. The 1998 Casita disaster remains a defining tragedy for the region and prompted significant changes in Nicaragua's approach to disaster risk reduction, including the establishment of community-based early-warning systems and improved volcanic hazard mapping. The volcano is also an important resource: the Ingenio San Antonio sugar mill, operating at the volcano's base since the 19th century, relies on the fertile volcanic soils of the Chinandega lowlands."
+    },
+    "visiting_and_tourism": {
+      "content": "San Cristóbal can be hiked, though it is a strenuous climb. The ascent from the base near Chichigalpa to the summit crater takes approximately 5–7 hours round trip, gaining roughly 1,400 m in elevation over steep, loose volcanic terrain. There are no developed trails or facilities, and hikers should arrange a local guide through tour operators in Chinandega or León. The summit offers panoramic views of the Marrabios Range, Lake Managua, and the Pacific coast. Hiking is only advisable when the volcano is in a quiet phase — INETER alerts should be checked before any ascent, as the summit crater is an active vent with toxic gas emissions. The nearby colonial city of El Viejo and the Leon Viejo ruins (a UNESCO World Heritage Site) provide additional cultural attractions for visitors to the region."
+    },
+    "nearby_volcanoes": {
+      "content": "San Cristóbal is the northwesternmost major volcano in the Marrabios Range, a chain of Quaternary volcanic centers stretching roughly 75 km through western <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>. To the southeast along the range lie Telica, an active stratovolcano known for persistent crater incandescence; Cerro Negro, the youngest volcano in Central America (born in 1850); Momotombo, a symmetrical cone on the shore of Lake Managua; and Masaya, a large basaltic caldera with an active lava lake. Nicaragua's volcanic arc also continues across the border into <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a>, where <a href=\"/volcano/rincon-de-la-vieja\">Rincón de la Vieja</a> and <a href=\"/volcano/arenal\">Arenal</a> are among the most active centers. Together, these volcanoes form a segment of the <a href=\"/ring-of-fire\">Ring of Fire</a> characterized by unusually high eruption frequency and basaltic-to-andesitic volcanism driven by the subduction of the Cocos Plate."
+    },
+    "etymology": {
+      "content": "The volcano is named San Cristóbal (\"Saint Christopher\") in the Spanish colonial tradition, but is equally known as \"El Viejo\" (\"The Old Man\" or \"The Old One\"), a name shared with the nearby colonial town. The dual naming reflects the volcano's cultural importance: \"San Cristóbal\" is the formal geographic designation used in volcanological literature, while \"El Viejo\" is the common local name that has been in use since the colonial period."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "San Cristóbal Compared to Nicaragua's Active Volcanoes",
+      "description": "How does San Cristóbal compare to the other most active volcanoes in Nicaragua's Marrabios Range and volcanic arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "San Cristóbal",
+          "Nicaragua",
+          "1,745 m",
+          "Stratovolcano",
+          "2024",
+          "3",
+          "38"
+        ],
+        [
+          "Telica",
+          "Nicaragua",
+          "1,061 m",
+          "Stratovolcano",
+          "2015",
+          "3",
+          "30+"
+        ],
+        [
+          "Cerro Negro",
+          "Nicaragua",
+          "728 m",
+          "Cinder cone",
+          "1999",
+          "3",
+          "24"
+        ],
+        [
+          "Masaya",
+          "Nicaragua",
+          "635 m",
+          "Caldera",
+          "2016",
+          "4",
+          "19"
+        ],
+        [
+          "Momotombo",
+          "Nicaragua",
+          "1,297 m",
+          "Stratovolcano",
+          "2016",
+          "3",
+          "15"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1528,
+      "vei": 3,
+      "label": "First historical eruption — significant ashfall",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1680,
+      "vei": 2,
+      "label": "Explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1977,
+      "vei": 2,
+      "label": "Explosive eruption from summit crater",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1999,
+      "vei": 2,
+      "label": "Post-Hurricane Mitch eruption sequence",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2012,
+      "vei": 2,
+      "label": "Multiple eruptions — ashfall on Chinandega",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2017,
+      "vei": 3,
+      "label": "Strongest eruption since 1528 — ash plume to 4.5 km",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2020,
+      "vei": 2,
+      "label": "Extended eruption sequence (2020–2022)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2024,
+      "vei": 1,
+      "label": "Most recent eruption (June 2024)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "16th",
+      "count": 2,
+      "note": "1528 (VEI 3) + uncertain 1613"
+    },
+    {
+      "century": "17th",
+      "count": 3
+    },
+    {
+      "century": "18th",
+      "count": 0,
+      "note": "No recorded eruptions (possible reporting gap)"
+    },
+    {
+      "century": "19th",
+      "count": 0,
+      "note": "No recorded eruptions (possible reporting gap)"
+    },
+    {
+      "century": "20th",
+      "count": 13
+    },
+    {
+      "century": "21st",
+      "count": 20
+    }
+  ],
+  "facts": [
+    "San Cristóbal is Nicaragua's highest volcano at 1,745 m (5,725 ft) — taller than any other peak in the Marrabios Range.",
+    "The volcano has erupted 38 times in its recorded history, with 16 eruptions since 2001 alone — averaging more than one eruption per year in the 21st century.",
+    "San Cristóbal is one of Central America's top volcanic sources of sulfur dioxide (SO₂), with persistent degassing from its 500 × 600 m summit crater.",
+    "The 1998 Hurricane Mitch disaster on neighboring Volcán Casita — part of the same volcanic complex — killed over 2,500 people in a catastrophic landslide and lahar, one of the deadliest volcanic-terrain disasters of the 20th century.",
+    "The city of Chichigalpa, home to ~46,000 people and Central America's largest sugar mill, lies only 8 km from the summit crater.",
+    "San Cristóbal is also known as 'El Viejo' ('The Old Man'), a name shared with the nearby colonial town founded in the early 16th century.",
+    "The volcanic complex consists of five principal edifices: San Cristóbal, El Chonco, Moyotepe, Casita, and La Pelona caldera — spanning roughly 20 km.",
+    "The volcano's basaltic composition is unusual among Central American stratovolcanoes, which typically erupt andesitic magma.",
+    "The August 2017 VEI 3 eruption was the strongest at San Cristóbal in nearly 500 years, sending an ash plume approximately 4.5 km above the summit.",
+    "San Cristóbal's summit crater is persistently degassing, producing visible gas plumes that serve as a daily marker for residents of the Chinandega lowlands.",
+    "The gap between 1685 and 1971 in the eruption record — nearly 300 years — likely reflects incomplete reporting rather than true quiescence.",
+    "Fertile volcanic soils derived from San Cristóbal's eruptions support one of Nicaragua's most productive sugarcane-growing regions."
+  ],
+  "faqs": [
+    {
+      "question": "Is San Cristóbal volcano active?",
+      "answer": "Yes, San Cristóbal is one of the most active volcanoes in Central America. It has produced 38 recorded eruptions since 1528, with 16 eruptions since 2001 alone. The most recent eruption occurred in June 2024. The volcano is continuously monitored by INETER (Nicaragua's seismological institute) and its summit crater is a persistent source of SO₂ gas emissions. Future eruptions in the near term are considered highly likely given its historical eruption frequency."
+    },
+    {
+      "question": "When did San Cristóbal last erupt?",
+      "answer": "San Cristóbal's most recent eruption occurred on June 7, 2024, rated VEI 1. Prior to that, the volcano was in an extended eruption phase from December 2020 to 2022 (VEI 2). The volcano has averaged more than one eruption per year in the 21st century, making brief quiet intervals between events the norm rather than the exception."
+    },
+    {
+      "question": "How tall is San Cristóbal?",
+      "answer": "San Cristóbal stands at 1,745 m (5,725 ft), making it Nicaragua's highest volcano. For comparison, other notable Nicaraguan volcanoes include Momotombo (1,297 m), Concepción (1,610 m), and Telica (1,061 m). Despite being the tallest, San Cristóbal is not the most voluminous volcano in the country — that distinction goes to the massive Masaya caldera complex."
+    },
+    {
+      "question": "What happened at Volcán Casita in 1998?",
+      "answer": "On October 30, 1998, torrential rainfall from Hurricane Mitch destabilized the hydrothermally altered rocks of Volcán Casita — part of the San Cristóbal volcanic complex — triggering a massive debris avalanche that became a lahar. The flow buried the communities of El Porvenir and Rolando Rodríguez near Posoltega, killing over 2,500 people in minutes. This was not a volcanic eruption but a rainfall-induced slope failure on volcanic terrain, illustrating the compound hazards of volcanic complexes."
+    },
+    {
+      "question": "Can you hike San Cristóbal?",
+      "answer": "Yes, San Cristóbal can be hiked, though it is a strenuous ascent. The round trip from the base near Chichigalpa takes 5–7 hours, gaining roughly 1,400 m in elevation over steep, loose volcanic terrain. Local guides can be arranged through tour operators in Chinandega or León. Hikers should check INETER volcanic alerts before ascending, as the summit crater emits toxic gases and the volcano can erupt with little warning."
+    },
+    {
+      "question": "How dangerous is San Cristóbal?",
+      "answer": "San Cristóbal poses a high hazard due to its frequent eruptions and proximity to populated areas. The city of Chichigalpa (~46,000 people) is only 8 km from the summit, and the departmental capital Chinandega (~135,000) lies approximately 20 km south-southwest. Ashfall from eruptions can damage crops, contaminate water, and cause respiratory problems. The compound nature of the volcanic complex adds landslide and lahar risks, as demonstrated by the 1998 Casita disaster that killed over 2,500 people."
+    },
+    {
+      "question": "What type of volcano is San Cristóbal?",
+      "answer": "San Cristóbal is classified as a stratovolcano (composite volcano), built up from alternating layers of lava flows, ash, and other volcanic materials. It is notable for its basaltic composition — unusual among Central American stratovolcanoes, which typically erupt andesitic magma. The volcano is part of a complex of five volcanic edifices including El Chonco, Moyotepe, Casita, and La Pelona caldera."
+    },
+    {
+      "question": "Why is San Cristóbal also called El Viejo?",
+      "answer": "'El Viejo' means 'The Old Man' or 'The Old One' in Spanish. The name is shared with the nearby colonial town of El Viejo, one of Nicaragua's oldest settlements. The dual naming reflects the volcano's deep cultural significance in the Chinandega region. In volcanological literature, 'San Cristóbal' is the formal designation, while 'El Viejo' remains the common local name."
+    }
+  ],
+  "people_also_search": [
+    "san cristobal volcano nicaragua",
+    "nicaragua highest volcano",
+    "marrabios range volcanoes",
+    "casita volcano 1998",
+    "san cristobal eruption",
+    "chinandega volcanoes",
+    "el viejo volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "San Cristóbal",
+    "alternateName": [
+      "El Viejo",
+      "Volcán San Cristóbal"
+    ],
+    "description": "Nicaragua's highest volcano at 1,745 m, an active stratovolcano in the Marrabios Range with 38 recorded eruptions",
+    "geo": {
+      "latitude": 12.702,
+      "longitude": -87.004,
+      "elevation": 1745
+    },
+    "containedInPlace": {
+      "name": "Chinandega Department",
+      "country": "Nicaragua"
+    },
+    "url": "https://volcanoatlas.com/volcano/san-cristobal"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=344020",
+      "text": "Smithsonian GVP: San Cristóbal",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ineter.gob.ni/",
+      "text": "INETER — Nicaragua Seismological Institute",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Nicaragua",
+      "text": "Britannica: Nicaragua",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "fuego",
+      "pacaya",
+      "rincon-de-la-vieja",
+      "arenal",
+      "masaya"
+    ],
+    "country_pages": [
+      "nicaragua",
+      "costa-rica",
+      "guatemala"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes",
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "fuego",
+    "pacaya",
+    "rincon-de-la-vieja",
+    "telica",
+    "masaya"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Nicaragua",
+      "url": "/volcanoes-in-nicaragua"
+    },
+    {
+      "label": "San Cristóbal",
+      "url": "/volcano/san-cristobal"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/san-cristobal"
+}

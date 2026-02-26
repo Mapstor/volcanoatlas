@@ -1,0 +1,416 @@
+{
+  "slug": "tolbachik",
+  "volcano_id": 300240,
+  "title": "Tolbachik",
+  "meta_title": "Tolbachik — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Tolbachik is a 3,611 m shield-stratovolcano complex in Kamchatka, Russia. Home to Kamchatka's largest historical basaltic eruption. Full eruption history and guide.",
+  "quick_answer": {
+    "what": "Tolbachik is a massive volcanic complex rising to 3,611 m (11,847 ft) at the southern end of the Klyuchevskaya volcano group in Kamchatka, Russia, composed of two overlapping volcanoes: the flat-topped Plosky Tolbachik shield volcano and the sharp-peaked Ostry Tolbachik stratovolcano.",
+    "status": "Active — last erupted in 2012–2013 in a dramatic fissure eruption. Monitored by KVERT.",
+    "famous_for": "The Great Tolbachik Fissure Eruption of 1975–1976, the largest historical basaltic eruption in Kamchatka, and the spectacular 2012–2013 eruption that produced vast lava fields.",
+    "danger_level": "Low to moderate for populated areas (remote location), but the 1975–1976 and 2012–2013 eruptions produced lava flows covering tens of square kilometers."
+  },
+  "hero": {
+    "name": "Tolbachik",
+    "local_name": "Толбачик",
+    "subtitle": "Kamchatka's Great Basaltic Fire — Home of the 1975 Fissure Eruption",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula",
+    "type": "Shield volcano (complex with stratovolcano)",
+    "elevation_m": 3611,
+    "elevation_ft": 11847,
+    "status": "Active",
+    "last_eruption": "2012–2013",
+    "coordinates": {
+      "lat": 55.832,
+      "lon": 160.326
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02397.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,611 m (11,847 ft) — Ostry Tolbachik summit; Plosky Tolbachik at ~3,085 m",
+    "type": "Shield volcano with nested calderas (Plosky) + Stratovolcano (Ostry)",
+    "status": "Active",
+    "last_eruption": "2012–2013 (Tolbachinsky Dol fissure eruption)",
+    "first_known_eruption": "~7600 BCE",
+    "total_recorded_eruptions": 60,
+    "vei_max": "4 (multiple prehistoric and historical events, including the 1975–1976 fissure eruption)",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula, Klyuchevskaya Group",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Okhotsk Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "55.832°N, 160.326°E",
+    "nearest_city": "Klyuchi — approximately 55 km NE",
+    "population_at_risk": "Minimal (remote; Klyuchi population ~4,500)",
+    "summit_calderas": "Nested Holocene calderas up to 3 km diameter at Plosky Tolbachik",
+    "rift_zones": "NE and SSW rift zones with extensive basaltic fissure systems",
+    "monitoring_agency": "KVERT (Kamchatka Volcanic Eruption Response Team)",
+    "unesco_status": "Part of UNESCO Volcanoes of Kamchatka World Heritage Site",
+    "smithsonian_id": "300240",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=300240"
+  },
+  "sections": {
+    "overview": {
+      "content": "Tolbachik (Russian: Толбачик) is a massive volcanic complex rising to 3,611 m (11,847 ft) at the southern end of the Klyuchevskaya volcano group in central Kamchatka, <a href=\"/volcanoes-in-russia\">Russia</a>, and is one of the most scientifically significant volcanoes in the <a href=\"/ring-of-fire\">Ring of Fire</a>. The complex comprises two morphologically distinct but overlapping volcanoes: Plosky Tolbachik ('Flat Tolbachik'), a broad <a href=\"/types-of-volcanoes\">shield volcano</a> with nested Holocene calderas up to 3 km in diameter, and Ostry Tolbachik ('Sharp Tolbachik'), an older, taller, and more steeply peaked stratovolcano.\n\nTolbachik is best known for the Great Tolbachik Fissure Eruption of 1975–1976, the largest historical basaltic eruption in Kamchatka, which became one of the most intensively studied volcanic events of the 20th century. Long rift zones extending northeast and south-southwest from the summit have erupted voluminous basaltic lava flows throughout the Holocene, creating the vast lava-field landscape known as Tolbachinsky Dol ('Tolbachik Valley'). The volcano erupted again spectacularly in 2012–2013, producing lava flows that covered approximately 36 km² of terrain. Unlike most Kamchatkan volcanoes, which erupt intermediate to silicic magmas explosively, Tolbachik is fundamentally basaltic — producing fluid lava flows and spectacular fire-fountain eruptions more reminiscent of Hawaiian volcanism than typical subduction zone activity. This basaltic character, unusual for a subduction zone setting, makes Tolbachik a subject of intense scientific interest. The volcano is part of the UNESCO 'Volcanoes of Kamchatka' World Heritage Site and is monitored by KVERT."
+    },
+    "geology_and_formation": {
+      "content": "Tolbachik is geologically remarkable for being a predominantly basaltic volcanic system within a subduction zone setting — where andesitic to dacitic (more silica-rich) magmas typically dominate. The complex sits at the southern end of the Klyuchevskaya Group, the most volcanically productive cluster on the Kamchatka Peninsula, which also includes <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (4,754 m), <a href=\"/volcano/bezymianny\">Bezymianny</a> (2,882 m), and several other active volcanoes. All are generated by the subduction of the Pacific Plate beneath the Okhotsk Plate along the Kuril-Kamchatka Trench.\n\nPlosky Tolbachik, the eastern and currently active component, is a broad shield volcano whose flat summit hosts nested calderas up to 3 km in diameter. The summit caldera formed approximately 6,500 years ago in association with major lava effusion and simultaneously with a large southward-directed sector collapse of Ostry Tolbachik. Ostry Tolbachik, the western component, is an older stratovolcano that reaches the complex's highest point at 3,611 m but has been inactive in the Holocene. The most distinctive geological features of Tolbachik are its long rift zones extending NE and SSW of the summit, along which voluminous basaltic fissure eruptions have occurred repeatedly. Activity during the past 2,000 years has been confined to a narrow axial zone within these rifts, producing chains of cinder cones and vast lava flow fields. The basalt and picro-basalt magmas are fluid and gas-poor compared to the andesites of neighboring Klyuchevskoy, resulting in effusive rather than highly explosive eruptions."
+    },
+    "eruption_history_overview": {
+      "content": "Tolbachik has 60 documented eruptions in the Smithsonian database, spanning from approximately 7600 BCE to 2013. The volcano's eruptive history is dominated by basaltic fissure eruptions along the NE and SSW rift zones, which have built dozens of cinder cones and produced extensive lava flow fields across the Tolbachinsky Dol. Several eruptions have reached VEI 4, the most significant being the fissure eruptions of 50 CE, 400 CE, 900 CE, 950 CE, 1000 CE, and the famous 1975–1976 event.\n\nThe historical record (post-1700) documents approximately 30 eruptions, with the 18th century showing frequent summit activity from Plosky Tolbachik. The 20th century was dominated by numerous small summit eruptions (VEI 1–2) from the 1930s through the 1970s, punctuated by the landmark 1975–1976 fissure eruption. After 36 years of quiet, the dramatic 2012–2013 fissure eruption demonstrated that Tolbachik remained capable of large-volume effusive activity. The vast majority of eruptions originate from either the summit calderas of Plosky Tolbachik or from vents along the southern rift zone."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "Prehistoric Fissure Eruptions — Building Tolbachinsky Dol",
+          "content": "Throughout the Holocene, Tolbachik has produced dozens of fissure eruptions along its NE and SSW rift zones, collectively building the remarkable volcanic landscape of Tolbachinsky Dol. These eruptions created chains of cinder cones — each named by Russian volcanologists (Lesnaya, Bubochka, Kruglenky, Mokhnataya, Kamenistaya, Peschanie Gorky, Alaid, Kleshnya, and many others) — that dot the valley floor for tens of kilometers south-southwest of the summit. Several of these prehistoric eruptions reached VEI 4, including events around 50, 400, 900, 950, and 1000 CE. The cumulative volume of lava flows erupted along these rift zones over the past 10,000 years is estimated at several tens of cubic kilometers, making Tolbachik one of the most voluminously productive volcanoes in Kamchatka."
+        },
+        {
+          "title": "The Great Tolbachik Fissure Eruption of 1975–1976 (VEI 4) — Kamchatka's Largest Basaltic Eruption",
+          "content": "The Great Tolbachik Fissure Eruption (Russian: Большое трещинное Толбачинское извержение, БТТИ) began on July 6, 1975, when a fissure opened on Tolbachik's southern flank approximately 18 km from the summit. This became one of the most important and best-studied volcanic eruptions of the 20th century. The eruption proceeded in two distinct phases.\n\nThe first phase, known as the Northern Breakthrough (Severny Proryv), lasted from July to September 1975. Spectacular basaltic fire fountains, some reaching 1,000–2,500 m in height, erupted from a chain of newly formed cinder cones. Lava flows advanced across the Tolbachinsky Dol, and an eruption column deposited ash across wide areas. The second phase, the Southern Breakthrough (Yuzhny Proryv), began in September 1975 from a new fissure located 28 km from the summit and continued until December 1976. This phase was characterized by voluminous, fluid lava effusion that covered approximately 40 km² of terrain with basaltic lava up to 80 m thick in places. The total volume of erupted material exceeded 2 km³, making it the largest historical basaltic eruption in Kamchatka and one of the largest in the world during the 20th century. The eruption attracted volcanologists from across the Soviet Union and internationally, and the extensive dataset collected — including lava chemistry, eruption dynamics, tephra dispersal, and cinder cone formation — remains a cornerstone of basaltic eruption research."
+        },
+        {
+          "title": "The 2012–2013 Eruption (VEI 3) — Tolbachik Reawakens",
+          "content": "After 36 years of quiet following the 1975–1976 event, Tolbachik erupted again on November 27, 2012, when a fissure opened in Tolbachinsky Dol south of Plosky Tolbachik. The eruption produced spectacular Hawaiian-style lava fountains and vast, fluid basaltic lava flows that spread across approximately 36 km² of terrain over the following months, eventually reaching depths of up to 12 m. Two main vent complexes — named Naboko and Leningradskaya — were active, producing vigorous lava effusion and moderate explosive activity.\n\nThe lava flows from the 2012–2013 eruption destroyed a volcanological field station and buried portions of the access road to the Klyuchevskaya Group. The eruption continued until approximately August 2013, with a total erupted volume estimated at about 0.5–0.7 km³. The event was closely monitored by KVERT and international teams, and satellite imagery captured the growth of the lava field in remarkable detail. The 2012–2013 eruption confirmed that Tolbachik's rift zone system remains highly active and capable of producing large-volume effusive eruptions with relatively little warning — the seismic precursor period was only a few days."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tolbachik has been quiet since the end of the 2012–2013 eruption, with KVERT maintaining a Green (normal background) aviation color code. The volcano is monitored by seismometers, satellite thermal and gas detection, and periodic field observations as part of the broader Klyuchevskaya Group monitoring network. The 2012–2013 lava flows are still cooling, with residual thermal anomalies detectable by satellite sensors years after effusion ceased.\n\nGiven the volcano's history of long repose periods punctuated by large fissure eruptions (36 years between 1976 and 2012, similar intervals between earlier episodes), predicting the timing of the next eruption is inherently uncertain. However, the magma supply system beneath the Klyuchevskaya Group remains one of the most productive in the world, and another eruption — likely from the southern rift zone — is considered probable over coming decades."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Tolbachik's remote location means it poses minimal direct threat to human populations. The nearest settlement, Klyuchi (population ~4,500), lies approximately 55 km to the northeast. However, the volcano's eruptions produce hazards relevant to aviation, infrastructure, and the small number of volcanologists and tourists who visit the area.\n\nLava flows are the primary hazard. The 1975–1976 eruption covered approximately 40 km² with basaltic lava, and the 2012–2013 eruption covered 36 km² — these flows destroyed a volcanological field station and roads. Tephra fall from fire fountains and Strombolian explosions affects areas downwind, and the 1975–1976 eruption deposited significant ash across the Tolbachinsky Dol. Aviation hazards exist but are less severe than for more explosive Kamchatkan volcanoes, as basaltic eruptions produce lower ash columns. The possibility of a flank collapse or interaction between lava flows and snowpack/ice (producing lahars) represents a secondary hazard, though the sparse population reduces the downstream risk."
+    },
+    "geography_and_physical_description": {
+      "content": "The Tolbachik volcanic complex is a broad, massive structure at the southern end of the Klyuchevskaya Group, the most impressive volcanic cluster on the Kamchatka Peninsula. Ostry Tolbachik, the older western summit, reaches 3,611 m (11,847 ft) and has a characteristically sharp, glaciated peak. Plosky Tolbachik, the eastern active component, has a flat summit at approximately 3,085 m hosting nested calderas up to 3 km in diameter that formed ~6,500 years ago.\n\nSouth and south-southwest of the summit extends Tolbachinsky Dol, a vast volcanic valley studded with dozens of cinder cones and blanketed by extensive basaltic lava flows — the products of thousands of years of fissure eruptions. The 2012–2013 lava flows are the most recent addition to this landscape, their dark, ropy surfaces still largely unvegetated. The NE rift zone extends toward <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a>, linking Tolbachik to the broader Klyuchevskaya magmatic system. The landscape surrounding Tolbachik transitions from barren lava fields at higher elevations to Kamchatkan birch forest and tundra at lower elevations. The region is noted for its stark volcanic beauty and has been compared to volcanic landscapes in Iceland and Hawaii."
+    },
+    "climate_and_global_impact": {
+      "content": "Tolbachik's basaltic eruptions are primarily effusive rather than explosively Plinian, which means they inject relatively little material into the stratosphere and have negligible global climate impact. The 1975–1976 eruption, despite producing over 2 km³ of material, generated most of its output as lava flows rather than stratospheric ash. However, large basaltic fissure eruptions can release significant quantities of volcanic gases — particularly sulfur dioxide and fluorine — that can affect regional air quality and vegetation. The 2012–2013 eruption produced a persistent SO₂ plume detectable by satellite sensors. In the context of Kamchatka's volcanic output, Tolbachik's eruptions are significant contributors to regional volcanic gas emissions but minor at a global scale compared to events like <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991) or <a href=\"/volcano/tambora\">Tambora</a> (1815)."
+    },
+    "cultural_significance": {
+      "content": "Tolbachik holds a special place in the history of volcanology. The 1975–1976 Great Fissure Eruption was one of the most thoroughly studied volcanic events of the Cold War era, attracting volcanologists from across the Soviet Union and marking a high point in Soviet volcanological research. The extensive dataset collected during that eruption — covering everything from lava chemistry to eruption dynamics — remains influential in basaltic eruption research globally. The 2012–2013 eruption reinforced this legacy, drawing an international scientific community that included researchers from Russia, the United States, Japan, and Europe.\n\nFor the indigenous peoples of Kamchatka and the small Russian community in Klyuchi, Tolbachik is part of a sacred and dramatic volcanic landscape. The volcano is included within the UNESCO 'Volcanoes of Kamchatka' World Heritage Site. In recent years, the 2012–2013 lava fields have become an increasingly popular destination for adventure tourists and photographers, drawn by the alien landscape of fresh basaltic lava, steaming fumaroles, and the stark contrast with the surrounding snow-covered mountains."
+    },
+    "visiting_and_tourism": {
+      "content": "Tolbachik has become one of Kamchatka's most popular adventure tourism destinations since the 2012–2013 eruption, which created a vast and dramatic lava field landscape accessible from the Klyuchevskaya Group base area. The most popular attraction is the 2012–2013 lava flow field, where visitors can walk across still-warm basaltic lava, explore lava tubes and collapse features, and observe steaming fumaroles. The cinder cones of the 1975–1976 eruption are also visited.\n\nAccess is via rough track from Klyuchi or Kozyrevsk, typically requiring 6x6 trucks or other heavy-duty vehicles, with driving times of 6–10 hours depending on conditions. Helicopter access from Petropavlovsk-Kamchatsky is also available. The climbing season runs from July through September. Guided expeditions often combine Tolbachik visits with other Klyuchevskaya Group volcanoes. Visitors should be prepared for remote conditions — there is no permanent infrastructure at the volcano, and weather can change rapidly. The stark beauty of the lava fields, combined with views of Klyuchevskoy and other surrounding volcanoes, makes Tolbachik one of Kamchatka's most rewarding destinations."
+    },
+    "nearby_volcanoes": {
+      "content": "Tolbachik occupies the southern end of the Klyuchevskaya Group, Kamchatka's most volcanically impressive cluster. Immediately to the north lies <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (4,754 m), the tallest active volcano in Eurasia, which has been erupting almost continuously in recent years. <a href=\"/volcano/bezymianny\">Bezymianny</a> (2,882 m), famous for its catastrophic 1956 lateral blast (comparable to Mount St. Helens in 1980), is approximately 20 km to the north. <a href=\"/volcano/sheveluch\">Sheveluch</a> (3,283 m), one of Kamchatka's most explosive volcanoes, lies about 80 km to the northeast. Further south along the Kamchatka arc, <a href=\"/volcano/karymsky\">Karymsky</a> (1,513 m) — the peninsula's most frequently active volcano — is approximately 200 km away. The density of active volcanism in this region is unmatched anywhere else in the Northern Hemisphere."
+    },
+    "etymology": {
+      "content": "The name Tolbachik derives from the Tolbachik River, which flows along the western base of the volcanic complex. The river name is of indigenous origin, from the languages of the Itelmen or Even peoples who have inhabited the Kamchatka Peninsula for millennia. The distinguishing qualifiers 'Plosky' (Flat) and 'Ostry' (Sharp) are Russian descriptors referring to the contrasting summit profiles of the two component volcanoes."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Tolbachik Compared to Major Basaltic Volcanic Systems Worldwide",
+      "description": "How does Tolbachik's effusive style compare to other large basaltic volcanic systems around the world?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Notable Feature"
+      ],
+      "rows": [
+        [
+          "Tolbachik",
+          "Russia",
+          "3,611 m",
+          "Shield/Stratovolcano",
+          "2013",
+          "4",
+          "Largest basaltic eruption in Kamchatka (1975–76)"
+        ],
+        [
+          "Kilauea",
+          "United States",
+          "1,222 m",
+          "Shield",
+          "2025",
+          "4",
+          "Continuous eruption 1983–2018"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2025",
+          "2",
+          "One of world's most active"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "2025",
+          "4",
+          "Tallest active volcano in Eurasia"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "Most active in Europe"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7600,
+      "vei": null,
+      "label": "Earliest recorded volcanic activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 50,
+      "vei": 4,
+      "label": "Major VEI 4 fissure eruption — SW flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 400,
+      "vei": 4,
+      "label": "VEI 4 fissure eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 900,
+      "vei": 4,
+      "label": "VEI 4 eruption — Peschanie Gorky cinder cone",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1000,
+      "vei": 4,
+      "label": "VEI 4 eruption — Kleshnya, Rastaschenny cones",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1739,
+      "vei": 2,
+      "label": "First historically documented eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1940,
+      "vei": 3,
+      "label": "VEI 3 eruption — summit and SW flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1975,
+      "vei": 4,
+      "label": "Great Tolbachik Fissure Eruption — largest basaltic eruption in Kamchatka; >2 km³ lava",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2012,
+      "vei": 3,
+      "label": "2012–2013 fissure eruption — 36 km² lava field in Tolbachinsky Dol",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (8000–1 BCE)",
+      "count": 14,
+      "note": "Extensive fissure eruptions building Tolbachinsky Dol"
+    },
+    {
+      "century": "1st millennium CE",
+      "count": 8,
+      "note": "Multiple VEI 4 fissure eruptions"
+    },
+    {
+      "century": "2nd millennium (pre-1700)",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 5,
+      "note": "First historical documentation from 1739"
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 25,
+      "note": "Frequent summit eruptions 1930s–1970s + Great Fissure Eruption 1975–76"
+    },
+    {
+      "century": "21st",
+      "count": 1,
+      "note": "2012–2013 fissure eruption"
+    }
+  ],
+  "facts": [
+    "The 1975–1976 Great Tolbachik Fissure Eruption produced over 2 km³ of basaltic lava, making it the largest historical basaltic eruption in Kamchatka and one of the largest worldwide in the 20th century.",
+    "Fire fountains during the 1975–1976 eruption reached heights of 1,000–2,500 m — comparable to the tallest fire fountains ever recorded at any volcano.",
+    "The 2012–2013 eruption covered approximately 36 km² with fresh basaltic lava — an area roughly equivalent to the city of Paris.",
+    "Tolbachik is one of the few predominantly basaltic volcanic systems in a subduction zone setting, where more silica-rich explosive volcanism typically dominates.",
+    "Ostry Tolbachik (Sharp Tolbachik) at 3,611 m is taller but extinct; the currently active component, Plosky Tolbachik (Flat Tolbachik), reaches only ~3,085 m.",
+    "The summit caldera of Plosky Tolbachik formed approximately 6,500 years ago simultaneously with a massive southward sector collapse of Ostry Tolbachik.",
+    "Tolbachinsky Dol, the volcanic valley south of Tolbachik, contains dozens of named cinder cones from thousands of years of fissure eruptions.",
+    "The 1975–1976 eruption was one of the most intensively studied volcanic events of the Soviet era, producing foundational research on basaltic eruption dynamics.",
+    "The 2012–2013 lava flows destroyed a volcanological field station and buried portions of the access road to the Klyuchevskaya Group.",
+    "Visitors can still feel warmth radiating from the 2012–2013 lava flows, which continue to cool more than a decade after emplacement.",
+    "Tolbachik is part of the UNESCO 'Volcanoes of Kamchatka' World Heritage Site, recognized for outstanding universal geological value."
+  ],
+  "faqs": [
+    {
+      "question": "Is Tolbachik still active?",
+      "answer": "Yes, Tolbachik is classified as an active volcano. It last erupted in 2012–2013, producing a dramatic fissure eruption that covered 36 km² with basaltic lava in Tolbachinsky Dol. While the volcano has been quiet since 2013, its history of long repose periods followed by major eruptions (36 years separated the 1975–76 and 2012–13 events) means that another eruption could occur with relatively little warning. KVERT monitors the volcano continuously as part of the Klyuchevskaya Group network. The magma supply system beneath the region remains one of the most productive in the world."
+    },
+    {
+      "question": "What was the Great Tolbachik Fissure Eruption?",
+      "answer": "The Great Tolbachik Fissure Eruption of 1975–1976 was the largest historical basaltic eruption in Kamchatka. Beginning on July 6, 1975, it proceeded in two phases: the Northern Breakthrough (July–September 1975), which produced fire fountains up to 2,500 m high, and the Southern Breakthrough (September 1975–December 1976), which effused vast quantities of fluid lava. The eruption produced over 2 km³ of basaltic material and covered approximately 40 km² with lava flows. It was one of the most intensively studied eruptions of the 20th century and remains a cornerstone of basaltic eruption research."
+    },
+    {
+      "question": "What type of volcano is Tolbachik?",
+      "answer": "Tolbachik is a complex volcanic massif composed of two overlapping volcanoes. Plosky Tolbachik (Flat Tolbachik) is a shield volcano with nested summit calderas — the currently active component. Ostry Tolbachik (Sharp Tolbachik) is an older stratovolcano reaching 3,611 m — the highest point but now extinct. The system is predominantly basaltic, which is unusual for a subduction zone setting. Its eruption style is effusive (lava flows and fire fountains) rather than violently explosive, more similar to Hawaiian volcanism than to the typical explosive eruptions of Kamchatkan stratovolcanoes."
+    },
+    {
+      "question": "How tall is Tolbachik?",
+      "answer": "The highest point of the Tolbachik complex is Ostry Tolbachik (Sharp Tolbachik) at 3,611 m (11,847 ft), but this peak is extinct and has not erupted during the Holocene. The currently active component, Plosky Tolbachik (Flat Tolbachik), reaches approximately 3,085 m (10,121 ft). Within the Klyuchevskaya Group, Tolbachik is shorter than neighboring Klyuchevskoy (4,754 m) and Sheveluch (3,283 m), but taller than Bezymianny (2,882 m). Ostry Tolbachik is the third-tallest volcano on the Kamchatka Peninsula."
+    },
+    {
+      "question": "Can you visit the Tolbachik lava fields?",
+      "answer": "Yes, the 2012–2013 lava fields in Tolbachinsky Dol have become one of Kamchatka's most popular adventure tourism destinations. Visitors can walk across the still-warm basaltic lava, explore lava tubes and collapse features, and observe steaming fumaroles. Access is via rough track from the towns of Klyuchi or Kozyrevsk, requiring heavy-duty off-road vehicles with driving times of 6–10 hours. Helicopter access from Petropavlovsk-Kamchatsky is also available. The climbing season runs July–September. Guided expeditions often combine Tolbachik with visits to other Klyuchevskaya Group volcanoes."
+    },
+    {
+      "question": "Why is Tolbachik basaltic in a subduction zone?",
+      "answer": "Most subduction zone volcanoes erupt andesite or dacite — more silica-rich, viscous magmas that produce explosive eruptions. Tolbachik is anomalous because it erupts basalt, a fluid, low-silica magma that produces effusive lava flows and fire fountains. The exact mechanism is debated, but it may relate to Tolbachik's position at the edge of the Klyuchevskaya volcanic cluster, where the magma plumbing system allows relatively primitive, undifferentiated mantle-derived basalt to reach the surface without the extensive crustal processing that transforms basalt into andesite at neighboring volcanoes like Klyuchevskoy and Bezymianny."
+    },
+    {
+      "question": "How does the 1975 eruption compare to the 2012 eruption?",
+      "answer": "Both were fissure eruptions on Tolbachik's southern rift zone producing basaltic lava flows, but they differed in scale. The 1975–1976 eruption was rated VEI 4, lasted approximately 18 months, and produced over 2 km³ of material covering ~40 km². The 2012–2013 eruption was rated VEI 3, lasted about 9 months, and produced an estimated 0.5–0.7 km³ covering ~36 km². The 1975–76 eruption featured more powerful explosive phases with fire fountains up to 2,500 m, while the 2012–13 eruption was more purely effusive. Both were among the largest volcanic events in Kamchatka in their respective decades."
+    },
+    {
+      "question": "Is Tolbachik dangerous?",
+      "answer": "Tolbachik poses low risk to populated areas due to its remote location — the nearest settlement, Klyuchi (population ~4,500), is approximately 55 km away. However, its eruptions produce extensive lava flows that have destroyed infrastructure (including a volcanological station in 2012–2013) and could threaten anyone in the eruption zone. Aviation hazards exist but are less severe than for explosive Kamchatkan volcanoes, as Tolbachik's basaltic eruptions produce lower ash columns. The primary risk is to volcanologists and tourists who visit the area during or between eruptions."
+    }
+  ],
+  "people_also_search": [
+    "tolbachik eruption 1975",
+    "tolbachik lava fields",
+    "tolbachik 2012 eruption",
+    "kamchatka fissure eruption",
+    "klyuchevskaya group volcanoes",
+    "tolbachik basaltic eruption",
+    "tolbachik visit kamchatka",
+    "largest eruption kamchatka"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Tolbachik",
+    "alternateName": [
+      "Толбачик",
+      "Plosky Tolbachik",
+      "Ostry Tolbachik"
+    ],
+    "description": "Massive shield-stratovolcano complex in Kamchatka, 3,611 m, home to the largest historical basaltic eruption in the region",
+    "geo": {
+      "latitude": 55.832,
+      "longitude": 160.326,
+      "elevation": 3611
+    },
+    "containedInPlace": {
+      "name": "Kamchatka Peninsula",
+      "country": "Russia"
+    },
+    "url": "https://volcanoatlas.com/volcano/tolbachik"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=300240",
+      "text": "Smithsonian GVP: Tolbachik",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.kscnet.ru/ivs/kvert/index_eng.php",
+      "text": "KVERT — Kamchatka Volcanic Eruption Response Team",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/765",
+      "text": "UNESCO: Volcanoes of Kamchatka",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "klyuchevskoy",
+      "bezymianny",
+      "sheveluch",
+      "karymsky",
+      "avachinsky",
+      "kilauea",
+      "pinatubo",
+      "tambora"
+    ],
+    "country_pages": [
+      "russia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "klyuchevskoy",
+    "bezymianny",
+    "sheveluch",
+    "karymsky",
+    "kilauea"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "label": "Tolbachik",
+      "url": "/volcano/tolbachik"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tolbachik"
+}

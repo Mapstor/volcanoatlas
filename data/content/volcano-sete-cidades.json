@@ -1,0 +1,407 @@
+{
+  "slug": "sete-cidades",
+  "volcano_id": 382080,
+  "title": "Sete Cidades",
+  "meta_title": "Sete Cidades Volcano — Eruption History, Caldera & Facts | VolcanoAtlas",
+  "meta_description": "Sete Cidades is an 842 m active stratovolcano on São Miguel Island, Azores. Explore its caldera lakes, 16 recorded eruptions, and visitor guide.",
+  "quick_answer": {
+    "what": "Sete Cidades is an active stratovolcano at the western end of São Miguel Island in the Azores, Portugal, crowned by a dramatic 5-km-wide summit caldera containing twin crater lakes.",
+    "status": "Active — last confirmed eruption in 1880 (submarine vent). Monitored by CIVISA. Future eruptions considered likely.",
+    "famous_for": "Its twin caldera lakes — Lagoa Azul (Blue Lake) and Lagoa Verde (Green Lake) — which together form one of the Seven Natural Wonders of Portugal and one of the most iconic landscapes in the North Atlantic.",
+    "danger_level": "Moderate risk — approximately 13,000 people live within the caldera's immediate hazard zone on São Miguel, the most populated island in the Azores."
+  },
+  "hero": {
+    "name": "Sete Cidades",
+    "local_name": "Sete Cidades",
+    "subtitle": "The Twin-Lake Caldera of the Azores",
+    "country": "Portugal",
+    "region": "Azores, São Miguel Island",
+    "type": "Stratovolcano",
+    "elevation_m": 842,
+    "elevation_ft": 2762,
+    "status": "Active",
+    "last_eruption": "1880",
+    "coordinates": {
+      "lat": 37.865,
+      "lon": -25.785
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11287.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "842 m (2,762 ft)",
+    "type": "Stratovolcano (with summit caldera)",
+    "status": "Active",
+    "last_eruption": "1880 (submarine vent off west coast)",
+    "first_known_eruption": "~3050 BCE",
+    "total_recorded_eruptions": 16,
+    "vei_max": "4 (multiple: ~3050 BCE, ~90 CE, ~380 CE, 1444 CE)",
+    "country": "Portugal",
+    "region": "Azores, São Miguel Island (western end)",
+    "tectonic_setting": "Rift zone — Terceira Rift on oceanic crust (< 15 km)",
+    "rock_types": [
+      "Trachyte",
+      "Trachydacite"
+    ],
+    "coordinates": "37.865°N, 25.785°W",
+    "nearest_city": "Ponta Delgada — 15 km east",
+    "population_at_risk": "~13,000 (São Miguel western parishes)",
+    "summit_crater": "5-km-wide caldera, ~500 m deep",
+    "protected_status": "Sete Cidades Natural Reserve; Azores UNESCO Global Geopark",
+    "monitoring_agency": "CIVISA (Centre for Volcanological and Seismological Information of the Azores)",
+    "smithsonian_id": "382080",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=382080"
+  },
+  "sections": {
+    "overview": {
+      "content": "Sete Cidades is an active stratovolcano occupying the western tip of São Miguel Island in the Azores archipelago, <a href=\"/volcanoes-in-portugal\">Portugal</a>, rising to 842 m (2,762 ft) above the Atlantic Ocean. The volcano is defined by its spectacular 5-km-wide summit caldera — one of the largest in the Azores — which formed approximately 22,000 years ago during a cataclysmic collapse event and now hosts the iconic twin lakes of Lagoa Azul and Lagoa Verde. With 16 recorded eruptions spanning over 5,000 years, including at least four events reaching <a href=\"/volcanic-explosivity-index\">VEI 4</a>, Sete Cidades ranks among the most volcanologically significant systems in the mid-Atlantic. The caldera is not merely a scenic landmark; it is the product of repeated explosive trachytic eruptions that have blanketed the western half of São Miguel in thick pumice deposits. Sete Cidades sits on the Terceira Rift, a tectonic structure where the Eurasian and Nubian plates slowly diverge, generating the magmatic activity that fuels all nine of the Azores' volcanic islands. Alongside its neighbors <a href=\"/volcano/agua-de-pau\">Agua de Pau</a> and <a href=\"/volcano/furnas\">Furnas</a>, Sete Cidades forms part of São Miguel's trio of active polygenetic volcanic centers. The most recent activity occurred in 1880 from a submarine vent off the western coast, but the volcano is continuously monitored by CIVISA, and scientists consider future eruptions highly probable given its robust Holocene track record."
+    },
+    "geology_and_formation": {
+      "content": "Sete Cidades owes its existence to the Terceira Rift, a spreading zone within the Azores Triple Junction where the Eurasian, Nubian, and North American tectonic plates converge and interact. This complex tectonic setting generates extensional faulting on thin oceanic crust (less than 15 km thick), creating pathways for trachytic and trachydacitic magma to reach the surface. The volcanic edifice began building roughly 210,000 years ago on the mid-Atlantic seafloor, gradually emerging above sea level through a succession of effusive and explosive phases. The critical turning point in the volcano's evolution came approximately 22,000 years ago, when a catastrophic caldera-forming eruption evacuated a massive volume of magma from the shallow chamber, causing the summit to collapse inward and forming the present 5-km-wide, 500-m-deep caldera. This collapse caldera distinguishes Sete Cidades from simple <a href=\"/types-of-volcanoes\">stratovolcanoes</a>, placing it in the category of caldera-bearing polygenetic volcanic complexes. A large group of Pleistocene post-caldera trachytic lava domes, lava flows, and pyroclastic-flow deposits drape the western-to-northern flanks, revealing a volcano that has repeatedly rebuilt itself. Within the caldera, a nearly circular ring of six Holocene pyroclastic cones on the floor mark the vents of a dozen trachytic pumice-fall deposits erupted over the past 5,000 years. The volcano's dominant rock types — trachyte and trachydacite — are relatively silica-rich, which traps volcanic gases and produces explosive eruptions rather than quiet lava effusions."
+    },
+    "eruption_history_overview": {
+      "content": "Sete Cidades has produced 16 documented eruptions over the past ~5,000 years, an average recurrence interval of roughly 300 years. The earliest recorded event, around 3050 BCE at Seara Cerrado da Ladeira, reached VEI 4, depositing thick pumice falls across western São Miguel. Pre-historical eruptions clustered in a pattern of caldera-floor activity alternating with flank eruptions, a dynamic that continues into the historical record. At least four eruptions reached VEI 4 — the threshold for major regional damage — while the strongest historical event, in 1444, was a VEI 4 caldera eruption that produced substantial trachytic pumice deposits on the southwest caldera rim at Caldeira Seca. The historical period (post-15th century) shows a shift toward submarine venting off the west coast: the eruptions of 1638, 1682, 1811, and 1880 all originated from submarine vents, reflecting magma exploitation of offshore fracture systems. No eruption has occurred on land since the 1713 event at Pico das Camarinhas on the west flank. The long repose since 1880 — now over 145 years — does not indicate extinction; rather, it falls within the statistical norm for Sete Cidades' inter-eruption intervals."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1444 Eruption — The Last Major Caldera Eruption",
+          "content": "The most significant historical eruption at Sete Cidades occurred in 1444, roughly a decade after Portuguese settlers first reached São Miguel. This VEI 4 event originated from the southwest side of the caldera at Caldeira Seca and produced a major trachytic pumice-fall deposit that blanketed the western parishes. The eruption column likely reached 15–20 km into the atmosphere, characteristic of sub-Plinian to Plinian activity from silica-rich trachytic magma. The resulting pumice deposits are prominent in the stratigraphic record and serve as a key chronological marker in Azorean geology. While detailed contemporary accounts from 1444 are sparse — the island was only recently settled — archaeological and geological evidence indicates substantial disruption to the fledgling colony. The eruption demonstrated that Sete Cidades' caldera floor remains volcanically active and capable of explosive events, a hazard that persists today."
+        },
+        {
+          "title": "The Submarine Eruptions of 1811 — Dual Events in One Year",
+          "content": "In 1811, Sete Cidades produced two eruptions from submarine vents west of the caldera, an unusual double event that alarmed the inhabitants of western São Miguel. The first, relatively modest eruption was followed by a more powerful VEI 3 event that generated vigorous explosions at the ocean surface, producing columns of steam, ash, and pumice visible from shore. Floating pumice rafts drifted across local shipping lanes. These events confirmed that Sete Cidades' magmatic system extends well offshore, with submarine fracture zones serving as conduits for eruptions beyond the visible island edifice."
+        },
+        {
+          "title": "The 1713 Eruption at Pico das Camarinhas — Last On-Land Activity",
+          "content": "The most recent eruption on land at Sete Cidades took place in 1713, when a VEI 2 event at Pico das Camarinhas on the west flank produced lava flows and moderate ash emissions. This cinder cone, visible today as a prominent landform on the western slopes, marks the last time magma breached the surface of São Miguel's western peninsula."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Sete Cidades has not erupted since 1880, placing it in a 145-year repose period — the longest documented gap in its Holocene history. However, the volcano remains firmly classified as active. CIVISA (Centro de Informação e Vigilância Sismovulcânica dos Açores), based in the Azores, maintains a comprehensive monitoring network including seismometers, GNSS ground deformation stations, and geochemical sampling of fumaroles and springs around the caldera. Low-level seismicity is periodically recorded beneath the volcano, and diffuse CO₂ degassing from the caldera floor indicates an active magmatic system at depth. Scientists at CIVISA and the University of the Azores have modeled potential eruption scenarios for Sete Cidades, ranging from submarine venting (the most frequent historical pattern) to a repeat of a VEI 4 caldera eruption — the latter posing the most serious risk. Given the volcano's robust Holocene eruption record and active degassing, volcanologists consider a future eruption virtually certain on geological timescales."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Sete Cidades presents a multifaceted hazard profile. The primary risks include trachytic pumice falls from caldera eruptions (capable of collapsing roofs and disrupting agriculture across western São Miguel), pyroclastic density currents that could sweep down the caldera's breach toward coastal villages, and lahars generated by the interaction of erupted material with the caldera's lake water. Approximately 13,000 people live in the parishes immediately surrounding the caldera, including the village of Sete Cidades itself, which sits within the caldera floor. A VEI 4 eruption — the highest magnitude recorded in the historical period — would require evacuation of these communities and could blanket Ponta Delgada (population ~68,000, located 15 km to the east) in ash, disrupting the regional economy and air traffic. Submarine eruptions off the west coast pose additional hazards including localized tsunamis and floating pumice that could damage fishing vessels. The Azores regional civil protection agency maintains evacuation plans for western São Miguel, coordinated with CIVISA's alert system."
+    },
+    "geography_and_physical_description": {
+      "content": "Sete Cidades occupies the entire western tip of São Miguel, the largest island in the Azores at 746 km². The caldera dominates the landscape: roughly circular, 5 km in diameter, and approximately 500 m deep, with steep inner walls draped in lush temperate vegetation — laurel forest, Japanese cedar plantations, and hydrangea-lined paths. The caldera floor sits at roughly 260 m above sea level and contains two principal lakes separated by a narrow bridge: Lagoa Azul (the larger, Blue Lake) and Lagoa Verde (Green Lake), whose contrasting colors derive from differences in depth and algal content. A third smaller lake, Lagoa de Santiago, occupies a separate crater on the southeastern caldera floor. The caldera rim reaches its highest point at 842 m on the northwestern side. Outside the caldera, the flanks descend steeply to the coast, scarred by radial ravines and dotted with parasitic cinder cones — notably Pico das Camarinhas (1713 eruption) on the west flank and the Ferraria hot spring zone on the southwest coast, where geothermally heated seawater creates natural ocean swimming pools."
+    },
+    "cultural_significance": {
+      "content": "Sete Cidades — Portuguese for 'Seven Cities' — takes its name from a popular Azorean legend. According to the myth, a king once ruled a prosperous island kingdom with seven cities, which sank beneath the sea during a divine punishment; the twin lakes are said to represent the tears of a princess (blue) and a shepherd (green) whose love was forbidden. This legend resonates deeply in Azorean identity and has inspired centuries of local art, poetry, and song. The caldera is designated one of the Seven Natural Wonders of Portugal, and its image graces Azorean tourism branding worldwide. The village of Sete Cidades, nestled on the caldera floor, maintains a traditional pastoral way of life, with dairy farming on the fertile volcanic soils constituting the primary livelihood. The surrounding landscape is part of the Azores UNESCO Global Geopark, recognized for its outstanding geological heritage."
+    },
+    "visiting_and_tourism": {
+      "content": "Sete Cidades is the most visited natural attraction in the Azores, drawing hundreds of thousands of visitors annually. The classic viewpoint is Miradouro da Vista do Rei on the southern caldera rim, offering a postcard-perfect panorama of both lakes and the village below. The caldera can be explored on foot via well-maintained hiking trails, including the Mata do Canário trail along the western rim (approximately 12 km round trip, 3–4 hours) and shorter paths descending to the lakeshores. Kayaking on Lagoa Azul is popular in summer months. At Ferraria on the southwest coast, visitors can bathe in naturally heated ocean pools — a rare volcanic hot spring experience on the Atlantic shore. The village of Sete Cidades offers modest restaurants and guesthouses. Access from Ponta Delgada takes approximately 30 minutes by car."
+    },
+    "nearby_volcanoes": {
+      "content": "São Miguel Island hosts three major active volcanic centers aligned along its 65-km east–west axis. East of Sete Cidades lies <a href=\"/volcano/agua-de-pau\">Agua de Pau</a> (947 m), whose Lagoa do Fogo caldera lake produced a devastating VEI 5 eruption in 1563. At the island's eastern end, <a href=\"/volcano/furnas\">Furnas</a> (805 m) last erupted explosively in 1630 and remains famous for its hydrothermal caldeiras and geothermally cooked cozido stew. Together, these three volcanoes make São Miguel one of the most volcanically complex islands in the Atlantic. The broader <a href=\"/volcanoes-in-portugal\">Azores archipelago</a> contains 26 Holocene volcanoes across nine islands."
+    },
+    "etymology": {
+      "content": "The name 'Sete Cidades' (Portuguese for 'Seven Cities') derives from a medieval Iberian legend about a mythical island kingdom called Antillia, supposedly ruled by seven bishops who each founded a city before the island vanished beneath the Atlantic. Portuguese settlers arriving at São Miguel in the 15th century applied the name to the caldera, whose dramatic landscape evoked the sunken kingdom of myth."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Sete Cidades Compared to Other Azorean Volcanoes",
+      "description": "How does Sete Cidades compare to the other major volcanic centers in the Azores?",
+      "headers": [
+        "Volcano",
+        "Island",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Sete Cidades",
+          "São Miguel",
+          "842 m",
+          "Stratovolcano",
+          "1880",
+          "4",
+          "16"
+        ],
+        [
+          "Agua de Pau",
+          "São Miguel",
+          "947 m",
+          "Stratovolcano",
+          "1564",
+          "5",
+          "10"
+        ],
+        [
+          "Furnas",
+          "São Miguel",
+          "805 m",
+          "Stratovolcano",
+          "1630",
+          "5",
+          "9"
+        ],
+        [
+          "Pico",
+          "Pico Island",
+          "2,351 m",
+          "Stratovolcano",
+          "1720",
+          "2",
+          "4"
+        ],
+        [
+          "Faial (Capelinhos)",
+          "Faial Island",
+          "1,043 m",
+          "Stratovolcano",
+          "1958",
+          "3",
+          "8"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -3050,
+      "vei": 4,
+      "label": "VEI 4 eruption at Seara Cerrado da Ladeira",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 90,
+      "vei": 4,
+      "label": "VEI 4 eruption on SE caldera floor (Lagoa de Santiago)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 380,
+      "vei": 4,
+      "label": "VEI 4 eruption on SE caldera floor (Lagoa Rasa)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 670,
+      "vei": 3,
+      "label": "VEI 3 eruption on SE flank (Carvão)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1444,
+      "vei": 4,
+      "label": "Major caldera eruption at Caldeira Seca — last VEI 4",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1638,
+      "vei": 2,
+      "label": "Submarine eruption west of caldera",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1713,
+      "vei": 2,
+      "label": "Last on-land eruption at Pico das Camarinhas",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1811,
+      "vei": 3,
+      "label": "Dual submarine eruptions — significant pumice production",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1880,
+      "vei": 0,
+      "label": "Most recent eruption — submarine vent off São Miguel",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 3,
+      "note": "~3050 BCE to ~750 BCE"
+    },
+    {
+      "century": "1st",
+      "count": 1
+    },
+    {
+      "century": "4th",
+      "count": 1
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "19th",
+      "count": 3
+    }
+  ],
+  "facts": [
+    "Sete Cidades' caldera formed approximately 22,000 years ago in a catastrophic collapse, creating a 5-km-wide depression that is one of the largest calderas in the Azores.",
+    "The twin caldera lakes — Lagoa Azul (Blue Lake) and Lagoa Verde (Green Lake) — were voted one of the Seven Natural Wonders of Portugal in 2010.",
+    "At least 22 post-caldera eruptions have occurred at Sete Cidades, with a nearly circular ring of six Holocene pyroclastic cones on the caldera floor marking the most recent vents.",
+    "The 1444 eruption was the last VEI 4 event at Sete Cidades and occurred less than a decade after Portuguese settlement of São Miguel, disrupting the fledgling colony.",
+    "Four of the last five eruptions at Sete Cidades originated from submarine vents off the western coast, indicating that the volcano's magmatic plumbing extends well offshore.",
+    "The volcano's trachytic magma composition makes its eruptions significantly more explosive than basaltic eruptions typical of mid-ocean ridges.",
+    "Sete Cidades sits at the Azores Triple Junction where three tectonic plates — Eurasian, Nubian, and North American — interact, one of only a handful of triple junctions on Earth.",
+    "The village of Sete Cidades (population ~800) sits on the caldera floor, making it one of the few inhabited volcanic calderas in Europe.",
+    "The 1811 submarine eruptions produced two separate events in the same year, generating floating pumice rafts that disrupted Atlantic shipping lanes.",
+    "Ferraria, a geothermally heated ocean swimming area on the volcano's southwest coast, reaches temperatures of up to 40°C where volcanic hot springs meet the Atlantic."
+  ],
+  "faqs": [
+    {
+      "question": "Is Sete Cidades an active volcano?",
+      "answer": "Yes, Sete Cidades is classified as an active volcano by the Smithsonian Global Volcanism Program. It last erupted in 1880 from a submarine vent off the western coast of São Miguel Island in the Azores. The volcano has produced 16 documented eruptions over the past 5,000 years, with an average recurrence interval of roughly 300 years. CIVISA, the Azores' volcanological monitoring center, continuously tracks seismicity and gas emissions from the caldera. Scientists consider a future eruption virtually certain on geological timescales, though the timing remains unpredictable."
+    },
+    {
+      "question": "Why are the lakes at Sete Cidades different colors?",
+      "answer": "The two main caldera lakes — Lagoa Azul (Blue Lake) and Lagoa Verde (Green Lake) — appear to have different colors primarily due to differences in depth, light reflection, and algal content. Lagoa Azul is deeper and reflects the sky's blue tones more prominently, while the shallower Lagoa Verde supports more algal growth, lending it a greenish hue. The effect is most pronounced on clear, sunny days. Local legend attributes the colors to the tears of a princess (blue) and a shepherd (green) whose forbidden love created the lakes."
+    },
+    {
+      "question": "When did Sete Cidades last erupt?",
+      "answer": "The most recent eruption at Sete Cidades occurred in 1880, from a submarine vent off the western coast of São Miguel Island. This was a relatively minor event (VEI 0). The last on-land eruption took place in 1713 at Pico das Camarinhas on the western flank (VEI 2). The last major explosive eruption from the caldera itself was in 1444, a VEI 4 event at Caldeira Seca that produced significant trachytic pumice fall deposits across western São Miguel."
+    },
+    {
+      "question": "Can you visit Sete Cidades caldera?",
+      "answer": "Yes, Sete Cidades is the most popular natural attraction in the Azores and is easily accessible from Ponta Delgada, the island's capital, about 15 km to the east (a 30-minute drive). The classic viewpoint is Miradouro da Vista do Rei on the southern caldera rim. Visitors can hike rim trails, descend to the lakeshores, kayak on Lagoa Azul, and explore the village of Sete Cidades on the caldera floor. The geothermally heated ocean pools at Ferraria are also nearby. Entry to the caldera area is free."
+    },
+    {
+      "question": "How dangerous is Sete Cidades?",
+      "answer": "Sete Cidades poses a moderate volcanic hazard. Its trachytic magma composition favors explosive eruptions, and its caldera has produced four VEI 4 events in the past 5,000 years. Approximately 13,000 people live in the surrounding parishes, and the village of Sete Cidades sits on the caldera floor. A major eruption could produce pyroclastic flows, heavy pumice fall, and lahars. Ponta Delgada (population ~68,000), 15 km east, could experience significant ashfall. CIVISA and the Azores civil protection authority maintain evacuation plans."
+    },
+    {
+      "question": "What type of volcano is Sete Cidades?",
+      "answer": "Sete Cidades is classified as a stratovolcano with a summit caldera. Stratovolcanoes are composite volcanoes built from alternating layers of lava and pyroclastic material. Its defining feature is the 5-km-wide caldera, formed by a catastrophic collapse approximately 22,000 years ago. Post-caldera activity has built pyroclastic cones, lava domes, and cinder cones both within and outside the caldera. Its trachytic magma — more silica-rich than typical oceanic basalt — produces moderately to highly explosive eruptions."
+    },
+    {
+      "question": "How many volcanoes are on São Miguel Island?",
+      "answer": "São Miguel Island hosts three major active polygenetic volcanic centers: Sete Cidades at the western end, Agua de Pau (with Lagoa do Fogo) in the center, and Furnas at the eastern end. Additionally, the Picos Volcanic Fissure Zone lies between Sete Cidades and Agua de Pau, and the Nordeste shield volcano (now dormant) forms the island's eastern tip. In total, São Miguel contains five distinct volcanic systems, making it one of the most volcanically complex islands in the Atlantic."
+    }
+  ],
+  "people_also_search": [
+    "sete cidades azores",
+    "sete cidades caldera",
+    "blue and green lake azores",
+    "são miguel volcano",
+    "azores volcanoes active",
+    "sete cidades hike",
+    "lagoa azul lagoa verde"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Sete Cidades",
+    "alternateName": [
+      "Sete Cidades Massif"
+    ],
+    "description": "Active stratovolcano with iconic twin-lake caldera on São Miguel Island, Azores, Portugal",
+    "geo": {
+      "latitude": 37.865,
+      "longitude": -25.785,
+      "elevation": 842
+    },
+    "containedInPlace": {
+      "name": "São Miguel Island, Azores",
+      "country": "Portugal"
+    },
+    "url": "https://volcanoatlas.com/volcano/sete-cidades"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=382080",
+      "text": "Smithsonian GVP: Sete Cidades",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.azoresgeopark.com/",
+      "text": "Azores UNESCO Global Geopark",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.civisa.azores.gov.pt/",
+      "text": "CIVISA — Azores Volcanological Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Azores",
+      "text": "Britannica: Azores Islands",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "agua-de-pau",
+      "furnas",
+      "pico",
+      "faial"
+    ],
+    "country_pages": [
+      "portugal"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "agua-de-pau",
+    "furnas",
+    "pico",
+    "faial",
+    "teide"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Portugal",
+      "url": "/volcanoes-in-portugal"
+    },
+    {
+      "label": "Sete Cidades",
+      "url": "/volcano/sete-cidades"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/sete-cidades"
+}

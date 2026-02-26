@@ -1,0 +1,377 @@
+{
+  "slug": "kavachi",
+  "volcano_id": 255060,
+  "title": "Kavachi",
+  "meta_title": "Kavachi Volcano — Eruption History, Submarine Activity & Facts | VolcanoAtlas",
+  "meta_description": "Kavachi is a shallow submarine stratovolcano in the Solomon Islands. One of the most active underwater volcanoes on Earth with 34 eruptions since 1939.",
+  "quick_answer": {
+    "what": "Kavachi is one of the most active submarine volcanoes on Earth, a shallow underwater stratovolcano located south of Vangunu Island in the Solomon Islands, with its summit approximately 20 m (66 ft) below sea level.",
+    "status": "Active — has erupted at least 34 times since 1939, with possible ongoing activity as recently as 2024. One of the Pacific's most frequently erupting submarine volcanoes.",
+    "famous_for": "Repeatedly building ephemeral islands up to 1 km long that are quickly eroded back below the waves, and for hosting sharks and other marine life within its active underwater crater — earning it the nickname 'Sharkcano.'",
+    "danger_level": "Moderate — poses hazards to maritime traffic through submarine explosions and sudden island formation. Local fishing communities have long recognized its dangers."
+  },
+  "hero": {
+    "name": "Kavachi",
+    "local_name": "Rejo te Kvachi (Kavachi's Oven)",
+    "subtitle": "The Pacific's Most Active Submarine Volcano",
+    "country": "Solomon Islands",
+    "region": "Western Province",
+    "type": "Submarine Stratovolcano",
+    "elevation_m": -20,
+    "elevation_ft": -66,
+    "status": "Active",
+    "last_eruption": "2014 (uncertain activity to 2024)",
+    "coordinates": {
+      "lat": -8.991,
+      "lon": 157.979
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11611.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "-20 m (-66 ft) — summit below sea level",
+    "type": "Submarine Stratovolcano",
+    "status": "Active",
+    "last_eruption": "January 2014 (confirmed); uncertain activity 2020–2024",
+    "first_known_eruption": "1939 (reports of 'fire on the water' prior to this)",
+    "total_recorded_eruptions": 34,
+    "vei_max": "2 (multiple eruptions)",
+    "country": "Solomon Islands",
+    "region": "Western Province, New Georgia Islands",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Pacific Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "8.991°S, 157.979°E",
+    "nearest_land": "Vangunu Island — ~30 km north",
+    "base_depth": "1,100–1,200 m below sea level (north flank)",
+    "monitoring_agency": "No permanent monitoring — observed by satellite and local reports",
+    "smithsonian_id": "255060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=255060"
+  },
+  "sections": {
+    "overview": {
+      "content": "Kavachi is one of the most active submarine volcanoes on Earth, located in the Solomon Islands approximately 30 km south of Vangunu Island in the southwestern Pacific. Named for a sea-god of the Gatokae and Vangunu peoples, this shallow <a href=\"/types-of-volcanoes\">stratovolcano</a> has its summit approximately 20 m (66 ft) below sea level, though during eruptions it has repeatedly breached the surface to build ephemeral islands up to 1 km long — only to have them eroded back beneath the waves within weeks or months. Since its first recorded eruption in 1939, Kavachi has erupted at least 34 times, making it one of the most frequently active volcanoes in the entire Pacific basin. The roughly conical edifice rises from water depths of 1,100–1,200 m on its northern flank and even greater depths to the southeast, constructing a volcanic structure entirely hidden beneath the ocean surface. Kavachi produces spectacular phreatomagmatic explosions — interactions between rising magma and seawater — that eject columns of steam, ash, and incandescent lava bombs above the ocean surface, sometimes visible from neighboring islands. In 2015, a NASA-funded research expedition using cameras on the summit discovered active populations of sharks, including hammerheads and silky sharks, living within the volcano's warm, acidic crater waters — a discovery that captured global attention and earned Kavachi the popular nickname 'Sharkcano.' The volcano lies within the <a href=\"/ring-of-fire\">Ring of Fire</a>, powered by the subduction of the Indo-Australian Plate beneath the Pacific Plate along the New Britain Trench system."
+    },
+    "geology_and_formation": {
+      "content": "Kavachi's existence is driven by the subduction of the Indo-Australian Plate beneath the Pacific Plate, the same tectonic process that has built the volcanic island chains of the <a href=\"/volcanoes-in-solomon-islands\">Solomon Islands</a>, <a href=\"/volcanoes-in-papua-new-guinea\">Papua New Guinea</a>, and Vanuatu across the southwestern Pacific. The volcano sits within the Solomon Volcanic Province, part of the Melanesian arc system. Kavachi produces basaltic-andesitic to andesitic magma, typical of island arc volcanism, and its eruption style is dominated by Surtseyan phreatomagmatic explosions — named after Iceland's Surtsey volcano, which famously emerged from the sea in 1963. The interaction between hot magma and cold seawater generates violent steam-driven explosions that fragment the erupting material into fine ash and lapilli, shooting jets of debris and steam hundreds of meters above the ocean surface. The volcano's conical edifice has been built almost entirely from accumulated volcanic debris — lava bombs, tephra, and pillow lavas — deposited on the seafloor over thousands of eruptions. When eruptions are sustained and vigorous enough, the accumulating material briefly exceeds sea level to form islands. However, the unconsolidated volcanic debris is rapidly eroded by wave action once eruptive activity ceases, and the islands disappear. On several occasions, lava flows have been observed on the ephemeral islands, which provide more resistant material and could potentially stabilize a permanent island if eruption rates outpace erosion."
+    },
+    "eruption_history_overview": {
+      "content": "Kavachi's recorded eruptive history begins in 1939, though residents of nearby Vangunu and Nggatokae (Gatokae) islands reported 'fire on the water' prior to this date, suggesting earlier eruptions were observed but not formally documented. Since 1939, the Smithsonian Global Volcanism Program has recorded 34 eruptions, giving Kavachi an average recurrence interval of roughly 2.5 years — one of the highest eruption frequencies of any volcano on Earth. Activity has been essentially continuous through the decades, with eruptions documented in every decade since the 1930s. The eruptions are predominantly small (VEI 0–2), producing submarine and occasionally subaerial phreatomagmatic explosions. Ephemeral islands have formed during many of these events, with the largest reaching approximately 1 km in length before being eroded away. The most recent confirmed eruption began in January 2014 (VEI 1), with uncertain activity reported from satellite observations between 2020 and 2024."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1939 Eruption — First Recorded Activity",
+          "content": "Kavachi's first formally documented eruption began on April 30, 1939, when observers from nearby islands witnessed explosive activity breaking the ocean surface. The VEI 2 event produced columns of steam, ash, and incandescent debris above the sea surface, and an ephemeral island is believed to have briefly formed during this episode. The 1939 event established Kavachi's identity as an active submarine volcano and drew the attention of regional geological surveys, though the remote location and limited infrastructure of the wartime Solomon Islands meant that detailed scientific observation was impossible."
+        },
+        {
+          "title": "The 1950s–1960s Island-Building Episodes",
+          "content": "Kavachi entered one of its most prolific periods during the 1950s and 1960s, with eruptions recorded in 1950, 1951, 1952–1953, 1957, 1958, 1961, 1962, 1963–1964, 1965, 1966, and 1969–1970. During several of these episodes, ephemeral islands breached the surface and persisted for weeks to months before wave erosion destroyed them. The 1952–1953 eruption produced an island that reportedly reached approximately 1 km in length — the largest recorded for Kavachi. These island-building events captivated observers and established Kavachi as a textbook example of submarine volcanism and island formation. Eruption intensities ranged from VEI 0 to VEI 2, with the most vigorous events producing jets of incandescent material and steam columns visible from Vangunu Island, 30 km to the north."
+        },
+        {
+          "title": "The 1977–1982 Active Phase",
+          "content": "Kavachi was particularly active in the late 1970s and early 1980s, producing eruptions in 1974, 1975, 1976, February 1977, July 1977, 1978, 1980–1981, and 1982. This sustained period of activity included numerous submarine explosions and at least one episode of island formation. The frequency of eruptions during this period — averaging nearly one per year — highlighted Kavachi as one of the most persistently active volcanic systems in the Pacific. Observations during these events helped scientists better understand Surtseyan eruption dynamics and the processes by which submarine volcanoes build and destroy ephemeral islands."
+        },
+        {
+          "title": "The 'Sharkcano' Discovery — 2015 Expedition",
+          "content": "While not an eruption event per se, a 2015 expedition funded by NASA and the National Geographic Society deployed baited drop cameras into Kavachi's active summit crater, revealing a thriving ecosystem of sharks — including scalloped hammerheads, silky sharks, and sixgill stingrays — living within the warm, chemically enriched waters of the volcanic crater. The discovery raised profound questions about how large marine predators tolerate the acidic, turbid, thermally elevated conditions within an active submarine volcano. The resulting media coverage, featuring dramatic footage of sharks swimming through volcanic plumes, earned Kavachi the viral nickname 'Sharkcano' and made it one of the most recognizable submarine volcanoes in public consciousness. The discovery highlighted the intersection of volcanology and marine biology and spurred further research into chemosynthetic ecosystems at shallow submarine volcanic sites."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Kavachi has no permanent ground-based monitoring network — its remote oceanic location and submarine nature make traditional seismic and gas monitoring impractical. Current surveillance relies primarily on satellite remote sensing, including thermal anomaly detection from sensors such as MODIS and VIIRS, ocean color changes visible in satellite imagery, and reports from passing ships and fishing vessels from nearby islands. The Smithsonian Global Volcanism Program tracks activity reports, and the Solomon Islands have limited volcanological infrastructure. Uncertain eruption activity was reported between 2020 and 2024, based on satellite detection of discolored water and possible thermal anomalies above the summit. The lack of continuous monitoring means that eruptions can occur and end without being formally recorded, and the true eruption frequency may be even higher than the 34 confirmed events suggest."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Kavachi's submarine location means it poses different hazards than terrestrial volcanoes. The most immediate threat is to maritime traffic — fishing vessels and small boats from nearby islands frequently transit the waters around the volcano. Submarine explosions can produce sudden uprushes of hot water, steam, and volcanic debris without warning. When ephemeral islands form, they present navigation hazards and can produce localized tsunamis during rapid formation or collapse. Floating pumice rafts from eruptions can damage boat hulls and foul propellers. The phreatomagmatic explosions launch ballistic projectiles — incandescent lava bombs — that can travel hundreds of meters from the vent. For the indigenous communities of Vangunu and Gatokae islands, approximately 30 km to the north, Kavachi poses primarily a navigational hazard rather than a direct threat to settlements. However, the theoretical possibility of a larger-than-normal eruption generating a local tsunami cannot be entirely excluded, though no such event has been documented in Kavachi's recorded history."
+    },
+    "geography_and_physical_description": {
+      "content": "Kavachi is a roughly conical submarine volcano rising from the seafloor at depths of 1,100–1,200 m on its northern flank, with even greater depths to the southeast. The summit sits approximately 20 m (66 ft) below sea level during quiescent periods, though this depth fluctuates with eruptive activity as material is added and subsequently eroded. The volcano is located in the Solomon Sea approximately 30 km south of Vangunu Island, within the New Georgia Islands group of the Western Province, Solomon Islands. The surrounding ocean is deep blue tropical water with strong currents and significant wave energy that rapidly erodes any island material that accumulates above sea level. During eruptions, the sea surface above Kavachi is transformed by roiling, discolored water, steam plumes, and jets of volcanic debris. Between eruptions, the site is unremarkable from the surface — only satellite sensors and local knowledge mark the location of this hidden volcano."
+    },
+    "cultural_significance": {
+      "content": "Kavachi holds deep cultural significance for the indigenous peoples of the nearby islands of Vangunu and Nggatokae (Gatokae). The volcano is named for a sea-god in the traditional belief systems of these communities, and its alternative name — Rejo te Kvachi, meaning 'Kavachi's Oven' — reflects a long-standing awareness of the submarine volcanic activity. Oral traditions describe 'fire on the water' predating the first formally recorded eruption in 1939, suggesting that local communities have observed and incorporated Kavachi's activity into their cultural framework for generations. The 2015 'Sharkcano' discovery brought Kavachi into global popular culture, making it one of the most recognizable submarine volcanoes worldwide and inspiring documentaries, news features, and widespread social media engagement. The volcano serves as a powerful symbol of the hidden volcanic forces beneath the Pacific Ocean."
+    },
+    "visiting_and_tourism": {
+      "content": "Kavachi is not accessible to casual tourists. The volcano lies in open ocean approximately 30 km south of Vangunu Island, reachable only by boat from the nearest settlements in the Western Province of the Solomon Islands. No tourism infrastructure exists, and approaching an active submarine volcano carries significant risk from sudden explosive eruptions, hot water upwelling, and ballistic projectiles. Scientific expeditions to Kavachi have been mounted periodically, but these require specialized equipment, support vessels, and careful timing relative to eruptive activity. The Solomon Islands remain an off-the-beaten-path destination with limited visitor infrastructure outside the capital, Honiara."
+    },
+    "nearby_volcanoes": {
+      "content": "Kavachi is part of the broader Melanesian volcanic arc system in the southwestern Pacific. The <a href=\"/volcanoes-in-solomon-islands\">Solomon Islands</a> host seven Holocene volcanoes, including the active Savo Island near Honiara and Tinakula in the Santa Cruz Islands. Further along the arc, <a href=\"/volcanoes-in-papua-new-guinea\">Papua New Guinea</a> has 39 Holocene volcanoes, and the Vanuatu archipelago hosts 12. This region of the Pacific represents one of the most volcanically dense zones in the <a href=\"/ring-of-fire\">Ring of Fire</a>."
+    },
+    "etymology": {
+      "content": "The name Kavachi derives from a sea-god in the traditional beliefs of the Gatokae and Vangunu peoples of the Solomon Islands. The alternative name 'Rejo te Kvachi' translates as 'Kavachi's Oven,' a vivid description of the submarine volcanic activity — the boiling, steaming water and incandescent eruptions above the summit — observed by local communities long before the first formal scientific documentation."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Kavachi Compared to Other Notable Submarine Volcanoes",
+      "description": "How does Kavachi compare to other submarine volcanoes that interact with the ocean surface?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Depth/Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Kavachi",
+          "Solomon Islands",
+          "-20 m",
+          "Submarine Stratovolcano",
+          "2014",
+          "2",
+          "34"
+        ],
+        [
+          "Surtsey",
+          "Iceland",
+          "155 m (now above sea level)",
+          "Submarine/Surtseyan",
+          "1967",
+          "3",
+          "1"
+        ],
+        [
+          "Fukutoku-Oka-no-Ba",
+          "Japan",
+          "-29 m",
+          "Submarine",
+          "2021",
+          "3",
+          "10"
+        ],
+        [
+          "Monowai",
+          "Tonga/NZ",
+          "-132 m",
+          "Submarine",
+          "2011",
+          "0",
+          "9"
+        ],
+        [
+          "NW Rota-1",
+          "Northern Mariana Islands",
+          "-517 m",
+          "Submarine",
+          "2010",
+          "0",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1939,
+      "vei": 2,
+      "label": "First recorded eruption — 'fire on the water'",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1952,
+      "vei": 2,
+      "label": "Major eruption — ephemeral island up to 1 km long",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1961,
+      "vei": 2,
+      "label": "Island-forming eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1969,
+      "vei": 2,
+      "label": "Extended eruption 1969–1970",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1978,
+      "vei": 2,
+      "label": "Strong submarine explosions",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1991,
+      "vei": 2,
+      "label": "Eruption with discolored water observed by satellite",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2007,
+      "vei": 1,
+      "label": "Recent confirmed eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2014,
+      "vei": 1,
+      "label": "Most recent confirmed eruption",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "20th",
+      "count": 31,
+      "note": "1939–1999, averaging nearly one eruption every 2 years"
+    },
+    {
+      "century": "21st",
+      "count": 3,
+      "note": "2004, 2007, 2014 confirmed; 2020–2024 uncertain"
+    }
+  ],
+  "facts": [
+    "Kavachi has erupted at least 34 times since 1939, giving it an average recurrence interval of roughly 2.5 years — one of the highest eruption frequencies of any volcano on Earth.",
+    "During eruptions, Kavachi has built ephemeral islands up to 1 km long that are rapidly eroded back below sea level by wave action.",
+    "In 2015, scientists discovered hammerhead sharks, silky sharks, and stingrays living inside Kavachi's active volcanic crater, earning it the nickname 'Sharkcano.'",
+    "The volcano is named for a sea-god of the Gatokae and Vangunu peoples of the Solomon Islands.",
+    "Kavachi's summit sits approximately 20 m below sea level during quiescent periods, but breaches the surface during vigorous eruptions.",
+    "The volcanic edifice rises from depths of over 1,100 m, meaning the total height of the volcanic structure from base to summit exceeds 1 km.",
+    "Indigenous residents of nearby islands described 'fire on the water' before the first formally recorded eruption in 1939, indicating older unrecorded eruptions.",
+    "Kavachi's eruptions are classified as Surtseyan — a type of phreatomagmatic activity driven by the interaction of hot magma with seawater.",
+    "Lava flows have been observed on several of Kavachi's ephemeral islands, suggesting that a permanent island could eventually form if eruption rates outpace wave erosion.",
+    "The volcano has no permanent monitoring equipment — surveillance relies on satellites, passing ships, and reports from local fishing communities.",
+    "The alternative name 'Rejo te Kvachi' translates as 'Kavachi's Oven' in the local language.",
+    "Kavachi's 1952–1953 eruption produced the largest known ephemeral island at the site, reportedly reaching approximately 1 km in length."
+  ],
+  "faqs": [
+    {
+      "question": "Is Kavachi still active?",
+      "answer": "Yes, Kavachi is one of the most active submarine volcanoes on Earth. It has produced at least 34 recorded eruptions since 1939, with the most recent confirmed eruption in January 2014 and uncertain activity detected by satellite between 2020 and 2024. The volcano erupts on average every 2.5 years, and its activity shows no signs of diminishing. The absence of permanent monitoring means that additional eruptions may have occurred undetected. Kavachi's persistent activity makes it a textbook example of shallow submarine volcanism."
+    },
+    {
+      "question": "What is the 'Sharkcano'?",
+      "answer": "Kavachi earned the nickname 'Sharkcano' in 2015 when a NASA-funded expedition deployed underwater cameras into the volcano's active summit crater and discovered sharks — including scalloped hammerheads, silky sharks, and sixgill stingrays — living within the warm, acidic volcanic waters. The discovery challenged assumptions about marine life's tolerance for extreme volcanic conditions and generated worldwide media attention. The term 'Sharkcano' quickly went viral and made Kavachi one of the most recognizable submarine volcanoes in popular culture."
+    },
+    {
+      "question": "Has Kavachi ever formed an island?",
+      "answer": "Yes, Kavachi has repeatedly built ephemeral islands above the ocean surface during vigorous eruptions. The largest known island, formed during the 1952–1953 eruption, reportedly reached approximately 1 km in length. However, none of these islands have persisted permanently — wave erosion rapidly dismantles the unconsolidated volcanic debris once eruptive activity ceases. Islands have formed and disappeared many times since 1939. Lava flows observed on some ephemeral islands could theoretically provide more durable material, but to date no island has survived long-term."
+    },
+    {
+      "question": "Where is Kavachi located?",
+      "answer": "Kavachi is located in the Solomon Sea, approximately 30 km south of Vangunu Island in the Western Province of the Solomon Islands. Its coordinates are approximately 8.991°S, 157.979°E. The volcano lies within the Melanesian volcanic arc in the southwestern Pacific, part of the broader Ring of Fire. The nearest inhabited islands are Vangunu and Nggatokae (Gatokae), whose residents have observed the volcano's activity for generations."
+    },
+    {
+      "question": "How deep is Kavachi?",
+      "answer": "Kavachi's summit sits approximately 20 m (66 ft) below sea level during quiescent periods, though this depth fluctuates with eruptive activity. The base of the volcanic edifice rests on the seafloor at depths of 1,100–1,200 m on the northern flank, with even greater depths to the southeast. This means the total height of the Kavachi volcanic structure from base to summit exceeds 1 km — comparable to many terrestrial volcanoes — even though the entire structure is submerged."
+    },
+    {
+      "question": "Is Kavachi dangerous?",
+      "answer": "Kavachi poses moderate hazards, primarily to maritime traffic and fishing vessels that transit the waters above the volcano. Submarine explosions can produce sudden jets of hot water, steam, and incandescent lava bombs without warning. Ephemeral islands create temporary navigation hazards, and floating pumice can damage boats. For communities on nearby Vangunu and Gatokae islands, approximately 30 km away, the primary risk is to fishermen rather than settlements. No fatalities have been recorded from Kavachi's eruptions, but the possibility of unwarned explosive events makes the area inherently hazardous."
+    },
+    {
+      "question": "Why do sharks live in an active volcano?",
+      "answer": "The sharks discovered in Kavachi's crater in 2015 are thought to be attracted by the warm, nutrient-rich waters produced by hydrothermal venting within the volcanic crater. The chemically enriched waters support microbial communities that form the base of a food chain attracting larger marine life. How these animals tolerate the acidic conditions, elevated temperatures, and periodic volcanic eruptions remains an active area of research. Scientists hypothesize that the sharks may detect precursory changes and evacuate before major eruptions, or that they simply tolerate conditions that appear extreme by human standards."
+    },
+    {
+      "question": "How often does Kavachi erupt?",
+      "answer": "Kavachi erupts approximately every 2.5 years on average, based on 34 recorded eruptions since 1939. This makes it one of the most frequently erupting volcanoes on Earth. However, the true eruption frequency may be even higher, as the lack of permanent monitoring means that some submarine eruptions — particularly smaller events that do not breach the surface — may go undetected. There was essentially continuous activity during certain periods, such as the late 1970s, when eruptions were recorded nearly every year."
+    }
+  ],
+  "people_also_search": [
+    "kavachi sharkcano",
+    "kavachi submarine volcano",
+    "kavachi island formation",
+    "solomon islands volcanoes",
+    "most active submarine volcano",
+    "sharks in volcano",
+    "underwater volcano eruption"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Kavachi",
+    "alternateName": [
+      "Rejo te Kvachi",
+      "Kavachi's Oven",
+      "Sharkcano"
+    ],
+    "description": "One of the most active submarine volcanoes on Earth, located in the Solomon Islands, famous for building ephemeral islands and hosting sharks in its crater",
+    "geo": {
+      "latitude": -8.991,
+      "longitude": 157.979,
+      "elevation": -20
+    },
+    "containedInPlace": {
+      "name": "Western Province",
+      "country": "Solomon Islands"
+    },
+    "url": "https://volcanoatlas.com/volcano/kavachi"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=255060",
+      "text": "Smithsonian GVP: Kavachi",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images/150049/kavachi-volcano-erupts",
+      "text": "NASA Earth Observatory: Kavachi Erupts",
+      "type": "satellite_imagery"
+    },
+    {
+      "url": "https://www.britannica.com/place/Solomon-Islands",
+      "text": "Britannica: Solomon Islands",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "surtsey",
+      "ambrym"
+    ],
+    "country_pages": [
+      "solomon-islands"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "ring-of-fire",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "surtsey",
+    "ambrym",
+    "tinakula",
+    "fukutoku-oka-no-ba"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Solomon Islands",
+      "url": "/volcanoes-in-solomon-islands"
+    },
+    {
+      "label": "Kavachi",
+      "url": "/volcano/kavachi"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/kavachi"
+}

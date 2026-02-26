@@ -1,0 +1,2703 @@
+{
+  "slug": "active-volcanoes",
+  "page_type": "ranking",
+  "title": "Active Volcanoes Around the World",
+  "meta_title": "Active Volcanoes Around the World — 117 Currently Active in 2025 | VolcanoAtlas",
+  "meta_description": "A comprehensive list of 117 volcanoes with confirmed eruptions since 2020. Grouped by region with eruption data, VEI ratings, and interactive maps.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Rankings",
+      "path": "/rankings"
+    },
+    {
+      "label": "Active Volcanoes",
+      "path": "/active-volcanoes"
+    }
+  ],
+  "hero": {
+    "title": "Active Volcanoes Around the World",
+    "subtitle": "117 volcanoes with confirmed eruptions since 2020"
+  },
+  "introduction": "There are currently 117 volcanoes worldwide with confirmed eruptions since 2020, spanning every inhabited continent and numerous oceanic islands. Of these, 61 have erupted in 2025 alone, underscoring that volcanic activity is a constant, global phenomenon — not a rare event.\n\nThis page catalogs every volcano classified as \"Eruption Observed\" in the <a href=\"https://volcano.si.edu/\" target=\"_blank\" rel=\"noopener\">Smithsonian Global Volcanism Program</a> database with a last known eruption from 2020 onward. These are volcanoes with documented, confirmed eruptive activity in the past five years — not merely those classified as \"active\" in the broader geological sense (which would include approximately 1,350 volcanoes that have erupted during the Holocene, the past 11,700 years).\n\nThe geographic distribution reveals clear patterns. The Sunda-Banda arc in <a href=\"/volcanoes-in-indonesia\">Indonesia</a> leads with 18 recently active volcanoes, followed by the Northwestern Pacific (17), the Western Pacific (16), and Middle America-Caribbean (13). Together, these four volcanic arcs — all part of or adjacent to the <a href=\"/ring-of-fire\">Ring of Fire</a> — account for over half of all currently active volcanoes.\n\nBy country, <a href=\"/volcanoes-in-indonesia\">Indonesia</a> leads with 22 recently active volcanoes, followed by the <a href=\"/volcanoes-in-united-states\">United States</a> (12, primarily in Alaska and Hawaii), <a href=\"/volcanoes-in-japan\">Japan</a> (12), and <a href=\"/volcanoes-in-russia\">Russia</a> (9, almost entirely on the Kamchatka Peninsula).\n\nNotable developments in recent volcanic activity include the ongoing eruptions along Iceland's <a href=\"/volcano/reykjanes\">Reykjanes Peninsula</a>, where a sequence of fissure eruptions since 2021 has forced the repeated evacuation of the town of Grindavík. The 2022 eruption of <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a> in <a href=\"/volcanoes-in-tonga\">Tonga</a> produced one of the most powerful explosions ever recorded, injecting water vapor into the mesosphere and generating a global atmospheric shockwave. In the Philippines, <a href=\"/volcano/taal\">Taal Volcano</a> entered a new eruptive phase in 2020 and has remained intermittently active since, while <a href=\"/volcano/kanlaon\">Kanlaon</a> erupted explosively in 2025.\n\nEach volcano listed here links to a detailed VolcanoAtlas profile with full eruption history, hazard assessment, geological context, and visitor information where applicable.",
+  "ranked_table": {
+    "title": "All 117 Volcanoes with Confirmed Eruptions Since 2020",
+    "description": "Sorted by most recent eruption year. Eruption counts reflect all confirmed eruptions in the historical record, not just since 2020.",
+    "headers": [
+      "Volcano",
+      "Country",
+      "Region",
+      "Type",
+      "Elevation",
+      "Last Eruption",
+      "Total Confirmed Eruptions",
+      "Max VEI",
+      "Slug"
+    ],
+    "rows": [
+      [
+        "Aira",
+        "Japan",
+        "Western Pacific",
+        "Caldera",
+        "1,117 m (3,665 ft)",
+        "2025",
+        48,
+        6,
+        "aira"
+      ],
+      [
+        "Akan",
+        "Japan",
+        "Northwestern Pacific",
+        "Caldera",
+        "1,499 m (4,918 ft)",
+        "2025",
+        36,
+        4,
+        "akan"
+      ],
+      [
+        "Ambae",
+        "Vanuatu",
+        "Southwestern Pacific",
+        "Shield",
+        "1,496 m (4,908 ft)",
+        "2025",
+        12,
+        3,
+        "ambae"
+      ],
+      [
+        "Atka Volcanic Complex",
+        "United States",
+        "North America",
+        "Stratovolcano(es)",
+        "1,518 m (4,980 ft)",
+        "2025",
+        11,
+        3,
+        "atka-volcanic-complex"
+      ],
+      [
+        "Bagana",
+        "Papua New Guinea",
+        "Southwestern Pacific",
+        "Lava cone",
+        "1,855 m (6,086 ft)",
+        "2025",
+        25,
+        4,
+        "bagana"
+      ],
+      [
+        "Barren Island",
+        "India",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "354 m (1,161 ft)",
+        "2025",
+        20,
+        2,
+        "barren-island"
+      ],
+      [
+        "Bezymianny",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "2,882 m (9,455 ft)",
+        "2025",
+        69,
+        5,
+        "bezymianny"
+      ],
+      [
+        "Bulusan",
+        "Philippines",
+        "Western Pacific",
+        "Stratovolcano(es)",
+        "1,535 m (5,036 ft)",
+        "2025",
+        25,
+        3,
+        "bulusan"
+      ],
+      [
+        "Dempo",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano(es)",
+        "3,142 m (10,308 ft)",
+        "2025",
+        33,
+        2,
+        "dempo"
+      ],
+      [
+        "Dieng Volcanic Complex",
+        "Indonesia",
+        "Sunda-Banda",
+        "Complex",
+        "2,565 m (8,415 ft)",
+        "2025",
+        30,
+        3,
+        "dieng-volcanic-complex"
+      ],
+      [
+        "Dukono",
+        "Indonesia",
+        "Western Pacific",
+        "Complex",
+        "1,273 m (4,177 ft)",
+        "2025",
+        5,
+        3,
+        "dukono"
+      ],
+      [
+        "Erebus",
+        "Antarctica",
+        "Antarctic-Scotia",
+        "Stratovolcano",
+        "3,794 m (12,448 ft)",
+        "2025",
+        20,
+        2,
+        "erebus"
+      ],
+      [
+        "Erta Ale",
+        "Ethiopia",
+        "Eastern Africa",
+        "Shield",
+        "585 m (1,919 ft)",
+        "2025",
+        4,
+        2,
+        "erta-ale"
+      ],
+      [
+        "Etna",
+        "Italy",
+        "European",
+        "Stratovolcano(es)",
+        "3,357 m (11,014 ft)",
+        "2025",
+        147,
+        5,
+        "etna"
+      ],
+      [
+        "Fuego",
+        "Guatemala",
+        "Middle America-Caribbean",
+        "Stratovolcano(es)",
+        "3,799 m (12,464 ft)",
+        "2025",
+        61,
+        4,
+        "fuego"
+      ],
+      [
+        "Great Sitkin",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "1,740 m (5,709 ft)",
+        "2025",
+        9,
+        2,
+        "great-sitkin"
+      ],
+      [
+        "Hayli Gubbi",
+        "Ethiopia",
+        "Eastern Africa",
+        "Shield",
+        "493 m (1,617 ft)",
+        "2025",
+        2,
+        "—",
+        "hayli-gubbi"
+      ],
+      [
+        "Heard",
+        "Australia",
+        "Somalian-Antarctic",
+        "Stratovolcano",
+        "2,745 m (9,006 ft)",
+        "2025",
+        11,
+        2,
+        "heard"
+      ],
+      [
+        "Home Reef",
+        "Tonga",
+        "Tonga-Kermadec",
+        "Stratovolcano",
+        "-10 m (-33 ft)",
+        "2025",
+        8,
+        3,
+        "home-reef"
+      ],
+      [
+        "Ibu",
+        "Indonesia",
+        "Western Pacific",
+        "Stratovolcano",
+        "1,357 m (4,452 ft)",
+        "2025",
+        5,
+        2,
+        "ibu"
+      ],
+      [
+        "Ioto",
+        "Japan",
+        "Northwestern Pacific",
+        "Caldera",
+        "169 m (554 ft)",
+        "2025",
+        27,
+        1,
+        "ioto"
+      ],
+      [
+        "Kanlaon",
+        "Philippines",
+        "Western Pacific",
+        "Stratovolcano",
+        "2,422 m (7,946 ft)",
+        "2025",
+        31,
+        3,
+        "kanlaon"
+      ],
+      [
+        "Karymsky",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "1,513 m (4,964 ft)",
+        "2025",
+        53,
+        6,
+        "karymsky"
+      ],
+      [
+        "Kikai",
+        "Japan",
+        "Western Pacific",
+        "Caldera",
+        "704 m (2,310 ft)",
+        "2025",
+        28,
+        7,
+        "kikai"
+      ],
+      [
+        "Kilauea",
+        "United States",
+        "Eastern Pacific",
+        "Shield",
+        "1,222 m (4,009 ft)",
+        "2025",
+        75,
+        4,
+        "kilauea"
+      ],
+      [
+        "Kirishimayama",
+        "Japan",
+        "Western Pacific",
+        "Shield",
+        "1,700 m (5,577 ft)",
+        "2025",
+        79,
+        4,
+        "kirishimayama"
+      ],
+      [
+        "Klyuchevskoy",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "4,754 m (15,597 ft)",
+        "2025",
+        111,
+        4,
+        "klyuchevskoy"
+      ],
+      [
+        "Langila",
+        "Papua New Guinea",
+        "Southwestern Pacific",
+        "Complex",
+        "1,330 m (4,364 ft)",
+        "2025",
+        26,
+        3,
+        "langila"
+      ],
+      [
+        "Lengai, Ol Doinyo",
+        "Tanzania",
+        "Eastern Africa",
+        "Stratovolcano",
+        "2,962 m (9,718 ft)",
+        "2025",
+        26,
+        3,
+        "lengai-ol-doinyo"
+      ],
+      [
+        "Lewotobi",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano(es)",
+        "1,703 m (5,587 ft)",
+        "2025",
+        23,
+        3,
+        "lewotobi"
+      ],
+      [
+        "Lewotolok",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "1,431 m (4,695 ft)",
+        "2025",
+        11,
+        3,
+        "lewotolok"
+      ],
+      [
+        "Manam",
+        "Papua New Guinea",
+        "Southwestern Pacific",
+        "Stratovolcano",
+        "1,807 m (5,928 ft)",
+        "2025",
+        41,
+        4,
+        "manam"
+      ],
+      [
+        "Marapi",
+        "Indonesia",
+        "Sunda-Banda",
+        "Complex",
+        "2,885 m (9,465 ft)",
+        "2025",
+        68,
+        2,
+        "marapi"
+      ],
+      [
+        "Masaya",
+        "Nicaragua",
+        "Middle America-Caribbean",
+        "Caldera",
+        "594 m (1,949 ft)",
+        "2025",
+        36,
+        6,
+        "masaya"
+      ],
+      [
+        "Merapi",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "2,910 m (9,547 ft)",
+        "2025",
+        106,
+        4,
+        "merapi"
+      ],
+      [
+        "Northern EPR at 9.8°N",
+        "Undersea Features",
+        "Eastern Pacific",
+        "Fissure vent(s)",
+        "-2,500 m (-8,202 ft)",
+        "2025",
+        18,
+        0,
+        "northern-epr-at-9-8-n"
+      ],
+      [
+        "Nyamulagira",
+        "DR Congo",
+        "Eastern Africa",
+        "Shield",
+        "3,058 m (10,033 ft)",
+        "2025",
+        48,
+        3,
+        "nyamulagira"
+      ],
+      [
+        "Nyiragongo",
+        "DR Congo",
+        "Eastern Africa",
+        "Stratovolcano",
+        "3,470 m (11,385 ft)",
+        "2025",
+        19,
+        2,
+        "nyiragongo"
+      ],
+      [
+        "Planchon-Peteroa",
+        "Chile",
+        "South America",
+        "Stratovolcano(es)",
+        "3,977 m (13,048 ft)",
+        "2025",
+        21,
+        4,
+        "planchon-peteroa"
+      ],
+      [
+        "Poas",
+        "Costa Rica",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "2,697 m (8,848 ft)",
+        "2025",
+        63,
+        2,
+        "poas"
+      ],
+      [
+        "Popocatepetl",
+        "Mexico",
+        "Middle America-Caribbean",
+        "Stratovolcano(es)",
+        "5,393 m (17,694 ft)",
+        "2025",
+        41,
+        5,
+        "popocatepetl"
+      ],
+      [
+        "Purace",
+        "Colombia",
+        "South America",
+        "Stratovolcano(es)",
+        "4,650 m (15,256 ft)",
+        "2025",
+        29,
+        3,
+        "purace"
+      ],
+      [
+        "Raung",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "3,260 m (10,696 ft)",
+        "2025",
+        70,
+        5,
+        "raung"
+      ],
+      [
+        "Reventador",
+        "Ecuador",
+        "South America",
+        "Stratovolcano",
+        "3,562 m (11,686 ft)",
+        "2025",
+        26,
+        4,
+        "reventador"
+      ],
+      [
+        "Reykjanes",
+        "Iceland",
+        "Atlantic Ocean",
+        "Crater rows",
+        "140 m (459 ft)",
+        "2025",
+        22,
+        4,
+        "reykjanes"
+      ],
+      [
+        "Ruiz, Nevado del",
+        "Colombia",
+        "South America",
+        "Stratovolcano",
+        "5,279 m (17,320 ft)",
+        "2025",
+        20,
+        4,
+        "ruiz-nevado-del"
+      ],
+      [
+        "Sabancaya",
+        "Peru",
+        "South America",
+        "Stratovolcano(es)",
+        "5,960 m (19,554 ft)",
+        "2025",
+        12,
+        3,
+        "sabancaya"
+      ],
+      [
+        "Sangay",
+        "Ecuador",
+        "South America",
+        "Stratovolcano",
+        "5,286 m (17,343 ft)",
+        "2025",
+        11,
+        3,
+        "sangay"
+      ],
+      [
+        "Santa Maria",
+        "Guatemala",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "3,745 m (12,287 ft)",
+        "2025",
+        3,
+        6,
+        "santa-maria"
+      ],
+      [
+        "Saunders",
+        "United Kingdom",
+        "Antarctic-Scotia",
+        "Stratovolcano",
+        "843 m (2,766 ft)",
+        "2025",
+        7,
+        2,
+        "saunders"
+      ],
+      [
+        "Semeru",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "3,657 m (11,998 ft)",
+        "2025",
+        64,
+        4,
+        "semeru"
+      ],
+      [
+        "Sheveluch",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "3,283 m (10,771 ft)",
+        "2025",
+        102,
+        5,
+        "sheveluch"
+      ],
+      [
+        "Stromboli",
+        "Italy",
+        "European",
+        "Stratovolcano",
+        "924 m (3,031 ft)",
+        "2025",
+        22,
+        3,
+        "stromboli"
+      ],
+      [
+        "Suwanosejima",
+        "Japan",
+        "Western Pacific",
+        "Stratovolcano(es)",
+        "796 m (2,612 ft)",
+        "2025",
+        24,
+        4,
+        "suwanosejima"
+      ],
+      [
+        "Taal",
+        "Philippines",
+        "Western Pacific",
+        "Caldera",
+        "311 m (1,020 ft)",
+        "2025",
+        39,
+        6,
+        "taal"
+      ],
+      [
+        "Telica",
+        "Nicaragua",
+        "Middle America-Caribbean",
+        "Stratovolcano(es)",
+        "1,036 m (3,399 ft)",
+        "2025",
+        48,
+        4,
+        "telica"
+      ],
+      [
+        "Tofua",
+        "Tonga",
+        "Tonga-Kermadec",
+        "Caldera",
+        "515 m (1,690 ft)",
+        "2025",
+        11,
+        2,
+        "tofua"
+      ],
+      [
+        "Ulawun",
+        "Papua New Guinea",
+        "Southwestern Pacific",
+        "Stratovolcano",
+        "2,334 m (7,657 ft)",
+        "2025",
+        47,
+        4,
+        "ulawun"
+      ],
+      [
+        "Villarrica",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "2,847 m (9,341 ft)",
+        "2025",
+        152,
+        5,
+        "villarrica"
+      ],
+      [
+        "Whakaari/White Island",
+        "New Zealand",
+        "Tonga-Kermadec",
+        "Stratovolcano(es)",
+        "294 m (965 ft)",
+        "2025",
+        38,
+        3,
+        "whakaari-white-island"
+      ],
+      [
+        "Yasur",
+        "Vanuatu",
+        "Southwestern Pacific",
+        "Stratovolcano",
+        "361 m (1,184 ft)",
+        "2025",
+        3,
+        3,
+        "yasur"
+      ],
+      [
+        "Ambrym",
+        "Vanuatu",
+        "Southwestern Pacific",
+        "Shield(pyroclastic)",
+        "1,334 m (4,377 ft)",
+        "2024",
+        56,
+        6,
+        "ambrym"
+      ],
+      [
+        "Concepcion",
+        "Nicaragua",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "1,700 m (5,577 ft)",
+        "2024",
+        33,
+        4,
+        "concepcion"
+      ],
+      [
+        "Copahue",
+        "Chile-Argentina",
+        "South America",
+        "Stratovolcano",
+        "2,953 m (9,688 ft)",
+        "2024",
+        21,
+        2,
+        "copahue"
+      ],
+      [
+        "Ebeko",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "1,103 m (3,619 ft)",
+        "2024",
+        20,
+        2,
+        "ebeko"
+      ],
+      [
+        "Fernandina",
+        "Ecuador",
+        "Eastern Pacific",
+        "Shield",
+        "1,476 m (4,843 ft)",
+        "2024",
+        33,
+        4,
+        "fernandina"
+      ],
+      [
+        "Kerinci",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "3,800 m (12,467 ft)",
+        "2024",
+        38,
+        2,
+        "kerinci"
+      ],
+      [
+        "Mayon",
+        "Philippines",
+        "Western Pacific",
+        "Stratovolcano",
+        "2,462 m (8,077 ft)",
+        "2024",
+        65,
+        4,
+        "mayon"
+      ],
+      [
+        "Rincon de la Vieja",
+        "Costa Rica",
+        "Middle America-Caribbean",
+        "Complex",
+        "1,729 m (5,673 ft)",
+        "2024",
+        30,
+        4,
+        "rincon-de-la-vieja"
+      ],
+      [
+        "Ruang",
+        "Indonesia",
+        "Western Pacific",
+        "Stratovolcano",
+        "703 m (2,306 ft)",
+        "2024",
+        13,
+        4,
+        "ruang"
+      ],
+      [
+        "San Cristobal",
+        "Nicaragua",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "1,745 m (5,725 ft)",
+        "2024",
+        35,
+        3,
+        "san-cristobal"
+      ],
+      [
+        "Suoh",
+        "Indonesia",
+        "Sunda-Banda",
+        "Caldera(s)",
+        "1,000 m (3,281 ft)",
+        "2024",
+        2,
+        4,
+        "suoh"
+      ],
+      [
+        "Tinakula",
+        "Solomon Islands",
+        "Southwestern Pacific",
+        "Stratovolcano",
+        "796 m (2,612 ft)",
+        "2024",
+        24,
+        3,
+        "tinakula"
+      ],
+      [
+        "Ubinas",
+        "Peru",
+        "South America",
+        "Stratovolcano",
+        "5,608 m (18,399 ft)",
+        "2024",
+        25,
+        5,
+        "ubinas"
+      ],
+      [
+        "Chikurachki",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano(es)",
+        "1,781 m (5,843 ft)",
+        "2023",
+        28,
+        4,
+        "chikurachki"
+      ],
+      [
+        "Cotopaxi",
+        "Ecuador",
+        "South America",
+        "Stratovolcano",
+        "5,911 m (19,393 ft)",
+        "2023",
+        85,
+        5,
+        "cotopaxi"
+      ],
+      [
+        "East Epi",
+        "Vanuatu",
+        "Southwestern Pacific",
+        "Stratovolcano(es)",
+        "833 m (2,733 ft)",
+        "2023",
+        9,
+        3,
+        "east-epi"
+      ],
+      [
+        "Fagradalsfjall",
+        "Iceland",
+        "Atlantic Ocean",
+        "Fissure vent",
+        "250 m (820 ft)",
+        "2023",
+        3,
+        0,
+        "fagradalsfjall"
+      ],
+      [
+        "Fournaise, Piton de la",
+        "France",
+        "Somalian-Antarctic",
+        "Shield",
+        "2,632 m (8,635 ft)",
+        "2023",
+        197,
+        5,
+        "fournaise-piton-de-la"
+      ],
+      [
+        "Kaitoku Seamount",
+        "Japan",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "-95 m (-312 ft)",
+        "2023",
+        2,
+        1,
+        "kaitoku-seamount"
+      ],
+      [
+        "Kanaga",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "1,307 m (4,288 ft)",
+        "2023",
+        18,
+        2,
+        "kanaga"
+      ],
+      [
+        "Karangetang",
+        "Indonesia",
+        "Western Pacific",
+        "Stratovolcano",
+        "1,797 m (5,896 ft)",
+        "2023",
+        59,
+        3,
+        "karangetang"
+      ],
+      [
+        "Krakatau",
+        "Indonesia",
+        "Sunda-Banda",
+        "Caldera",
+        "285 m (935 ft)",
+        "2023",
+        57,
+        6,
+        "krakatau"
+      ],
+      [
+        "Lascar",
+        "Chile",
+        "South America",
+        "Stratovolcano(es)",
+        "5,592 m (18,346 ft)",
+        "2023",
+        32,
+        4,
+        "lascar"
+      ],
+      [
+        "Nishinoshima",
+        "Japan",
+        "Northwestern Pacific",
+        "Caldera",
+        "100 m (328 ft)",
+        "2023",
+        7,
+        2,
+        "nishinoshima"
+      ],
+      [
+        "Ruby",
+        "United States",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "-174 m (-571 ft)",
+        "2023",
+        3,
+        1,
+        "ruby"
+      ],
+      [
+        "San Miguel",
+        "El Salvador",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "2,130 m (6,988 ft)",
+        "2023",
+        41,
+        3,
+        "san-miguel"
+      ],
+      [
+        "Semisopochnoi",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "1,221 m (4,006 ft)",
+        "2023",
+        6,
+        2,
+        "semisopochnoi"
+      ],
+      [
+        "Shishaldin",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "2,857 m (9,373 ft)",
+        "2023",
+        40,
+        3,
+        "shishaldin"
+      ],
+      [
+        "Tengger Caldera",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano(es)",
+        "2,329 m (7,641 ft)",
+        "2023",
+        67,
+        4,
+        "tengger-caldera"
+      ],
+      [
+        "Agung",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "2,997 m (9,833 ft)",
+        "2022",
+        5,
+        5,
+        "agung"
+      ],
+      [
+        "Alaid",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "2,285 m (7,497 ft)",
+        "2022",
+        15,
+        4,
+        "alaid"
+      ],
+      [
+        "Chillan, Nevados de",
+        "Chile",
+        "South America",
+        "Stratovolcano",
+        "3,180 m (10,433 ft)",
+        "2022",
+        26,
+        3,
+        "chillan-nevados-de"
+      ],
+      [
+        "Chirinkotan",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "724 m (2,375 ft)",
+        "2022",
+        11,
+        3,
+        "chirinkotan"
+      ],
+      [
+        "Gaua",
+        "Vanuatu",
+        "Southwestern Pacific",
+        "Stratovolcano",
+        "729 m (2,392 ft)",
+        "2022",
+        18,
+        3,
+        "gaua"
+      ],
+      [
+        "Hunga Tonga-Hunga Ha'apai",
+        "Tonga",
+        "Tonga-Kermadec",
+        "Caldera",
+        "114 m (374 ft)",
+        "2022",
+        7,
+        5,
+        "hunga-tonga-hunga-ha-apai"
+      ],
+      [
+        "Kita-Ioto",
+        "Japan",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "792 m (2,598 ft)",
+        "2022",
+        4,
+        2,
+        "kita-ioto"
+      ],
+      [
+        "Mauna Loa",
+        "United States",
+        "Eastern Pacific",
+        "Shield",
+        "4,170 m (13,681 ft)",
+        "2022",
+        110,
+        2,
+        "mauna-loa"
+      ],
+      [
+        "Pavlof",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "2,493 m (8,179 ft)",
+        "2022",
+        44,
+        4,
+        "pavlof"
+      ],
+      [
+        "Sangeang Api",
+        "Indonesia",
+        "Sunda-Banda",
+        "Complex",
+        "1,912 m (6,273 ft)",
+        "2022",
+        20,
+        3,
+        "sangeang-api"
+      ],
+      [
+        "Turrialba",
+        "Costa Rica",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "3,340 m (10,958 ft)",
+        "2022",
+        21,
+        4,
+        "turrialba"
+      ],
+      [
+        "Wolf",
+        "Ecuador",
+        "Eastern Pacific",
+        "Shield",
+        "1,710 m (5,610 ft)",
+        "2022",
+        16,
+        4,
+        "wolf"
+      ],
+      [
+        "Asosan",
+        "Japan",
+        "Western Pacific",
+        "Caldera",
+        "1,592 m (5,223 ft)",
+        "2021",
+        172,
+        3,
+        "asosan"
+      ],
+      [
+        "Fukutoku-Oka-no-Ba",
+        "Japan",
+        "Northwestern Pacific",
+        "Pyroclastic cone",
+        "-29 m (-95 ft)",
+        "2021",
+        10,
+        4,
+        "fukutoku-oka-no-ba"
+      ],
+      [
+        "Iliwerung",
+        "Indonesia",
+        "Sunda-Banda",
+        "Complex",
+        "583 m (1,913 ft)",
+        "2021",
+        14,
+        3,
+        "iliwerung"
+      ],
+      [
+        "La Palma",
+        "Spain",
+        "Northern Africa",
+        "Stratovolcano(es)",
+        "2,426 m (7,959 ft)",
+        "2021",
+        14,
+        3,
+        "la-palma"
+      ],
+      [
+        "Pacaya",
+        "Guatemala",
+        "Middle America-Caribbean",
+        "Complex",
+        "2,569 m (8,428 ft)",
+        "2021",
+        32,
+        3,
+        "pacaya"
+      ],
+      [
+        "Pagan",
+        "United States",
+        "Northwestern Pacific",
+        "Stratovolcano(es)",
+        "570 m (1,870 ft)",
+        "2021",
+        21,
+        4,
+        "pagan"
+      ],
+      [
+        "Pinatubo",
+        "Philippines",
+        "Western Pacific",
+        "Stratovolcano",
+        "1,486 m (4,875 ft)",
+        "2021",
+        9,
+        6,
+        "pinatubo"
+      ],
+      [
+        "Sarychev Peak",
+        "Russia",
+        "Northwestern Pacific",
+        "Stratovolcano",
+        "1,496 m (4,908 ft)",
+        "2021",
+        20,
+        4,
+        "sarychev-peak"
+      ],
+      [
+        "Sinabung",
+        "Indonesia",
+        "Sunda-Banda",
+        "Stratovolcano",
+        "2,460 m (8,071 ft)",
+        "2021",
+        5,
+        4,
+        "sinabung"
+      ],
+      [
+        "Sirung",
+        "Indonesia",
+        "Sunda-Banda",
+        "Complex",
+        "1,347 m (4,419 ft)",
+        "2021",
+        11,
+        2,
+        "sirung"
+      ],
+      [
+        "Soufriere St. Vincent",
+        "Saint Vincent and the Grenadines",
+        "Middle America-Caribbean",
+        "Stratovolcano",
+        "1,220 m (4,003 ft)",
+        "2021",
+        22,
+        4,
+        "soufriere-st-vincent"
+      ],
+      [
+        "Veniaminof",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "2,507 m (8,225 ft)",
+        "2021",
+        24,
+        6,
+        "veniaminof"
+      ],
+      [
+        "Cleveland",
+        "United States",
+        "North America",
+        "Stratovolcano",
+        "1,730 m (5,676 ft)",
+        "2020",
+        22,
+        3,
+        "cleveland"
+      ],
+      [
+        "Kuchinoerabujima",
+        "Japan",
+        "Western Pacific",
+        "Stratovolcano(es)",
+        "657 m (2,156 ft)",
+        "2020",
+        29,
+        4,
+        "kuchinoerabujima"
+      ],
+      [
+        "Soputan",
+        "Indonesia",
+        "Western Pacific",
+        "Stratovolcano",
+        "1,785 m (5,856 ft)",
+        "2020",
+        41,
+        3,
+        "soputan"
+      ]
+    ]
+  },
+  "regional_breakdown": {
+    "Antarctic-Scotia": [
+      {
+        "name": "Erebus",
+        "slug": "erebus",
+        "country": "Antarctica",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Saunders",
+        "slug": "saunders",
+        "country": "United Kingdom",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Atlantic Ocean": [
+      {
+        "name": "Reykjanes",
+        "slug": "reykjanes",
+        "country": "Iceland",
+        "last_eruption": 2025,
+        "type": "Crater rows"
+      },
+      {
+        "name": "Fagradalsfjall",
+        "slug": "fagradalsfjall",
+        "country": "Iceland",
+        "last_eruption": 2023,
+        "type": "Fissure vent"
+      }
+    ],
+    "Eastern Africa": [
+      {
+        "name": "Erta Ale",
+        "slug": "erta-ale",
+        "country": "Ethiopia",
+        "last_eruption": 2025,
+        "type": "Shield"
+      },
+      {
+        "name": "Hayli Gubbi",
+        "slug": "hayli-gubbi",
+        "country": "Ethiopia",
+        "last_eruption": 2025,
+        "type": "Shield"
+      },
+      {
+        "name": "Lengai, Ol Doinyo",
+        "slug": "lengai-ol-doinyo",
+        "country": "Tanzania",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Nyamulagira",
+        "slug": "nyamulagira",
+        "country": "DR Congo",
+        "last_eruption": 2025,
+        "type": "Shield"
+      },
+      {
+        "name": "Nyiragongo",
+        "slug": "nyiragongo",
+        "country": "DR Congo",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Eastern Pacific": [
+      {
+        "name": "Kilauea",
+        "slug": "kilauea",
+        "country": "United States",
+        "last_eruption": 2025,
+        "type": "Shield"
+      },
+      {
+        "name": "Northern EPR at 9.8°N",
+        "slug": "northern-epr-at-9-8-n",
+        "country": "Undersea Features",
+        "last_eruption": 2025,
+        "type": "Fissure vent(s)"
+      },
+      {
+        "name": "Fernandina",
+        "slug": "fernandina",
+        "country": "Ecuador",
+        "last_eruption": 2024,
+        "type": "Shield"
+      },
+      {
+        "name": "Mauna Loa",
+        "slug": "mauna-loa",
+        "country": "United States",
+        "last_eruption": 2022,
+        "type": "Shield"
+      },
+      {
+        "name": "Wolf",
+        "slug": "wolf",
+        "country": "Ecuador",
+        "last_eruption": 2022,
+        "type": "Shield"
+      }
+    ],
+    "European": [
+      {
+        "name": "Etna",
+        "slug": "etna",
+        "country": "Italy",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Stromboli",
+        "slug": "stromboli",
+        "country": "Italy",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Middle America-Caribbean": [
+      {
+        "name": "Fuego",
+        "slug": "fuego",
+        "country": "Guatemala",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Masaya",
+        "slug": "masaya",
+        "country": "Nicaragua",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Poas",
+        "slug": "poas",
+        "country": "Costa Rica",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Popocatepetl",
+        "slug": "popocatepetl",
+        "country": "Mexico",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Santa Maria",
+        "slug": "santa-maria",
+        "country": "Guatemala",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Telica",
+        "slug": "telica",
+        "country": "Nicaragua",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Concepcion",
+        "slug": "concepcion",
+        "country": "Nicaragua",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Rincon de la Vieja",
+        "slug": "rincon-de-la-vieja",
+        "country": "Costa Rica",
+        "last_eruption": 2024,
+        "type": "Complex"
+      },
+      {
+        "name": "San Cristobal",
+        "slug": "san-cristobal",
+        "country": "Nicaragua",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "San Miguel",
+        "slug": "san-miguel",
+        "country": "El Salvador",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Turrialba",
+        "slug": "turrialba",
+        "country": "Costa Rica",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Pacaya",
+        "slug": "pacaya",
+        "country": "Guatemala",
+        "last_eruption": 2021,
+        "type": "Complex"
+      },
+      {
+        "name": "Soufriere St. Vincent",
+        "slug": "soufriere-st-vincent",
+        "country": "Saint Vincent and the Grenadines",
+        "last_eruption": 2021,
+        "type": "Stratovolcano"
+      }
+    ],
+    "North America": [
+      {
+        "name": "Atka Volcanic Complex",
+        "slug": "atka-volcanic-complex",
+        "country": "United States",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Great Sitkin",
+        "slug": "great-sitkin",
+        "country": "United States",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Kanaga",
+        "slug": "kanaga",
+        "country": "United States",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Semisopochnoi",
+        "slug": "semisopochnoi",
+        "country": "United States",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Shishaldin",
+        "slug": "shishaldin",
+        "country": "United States",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Pavlof",
+        "slug": "pavlof",
+        "country": "United States",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Veniaminof",
+        "slug": "veniaminof",
+        "country": "United States",
+        "last_eruption": 2021,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Cleveland",
+        "slug": "cleveland",
+        "country": "United States",
+        "last_eruption": 2020,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Northern Africa": [
+      {
+        "name": "La Palma",
+        "slug": "la-palma",
+        "country": "Spain",
+        "last_eruption": 2021,
+        "type": "Stratovolcano(es)"
+      }
+    ],
+    "Northwestern Pacific": [
+      {
+        "name": "Akan",
+        "slug": "akan",
+        "country": "Japan",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Bezymianny",
+        "slug": "bezymianny",
+        "country": "Russia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ioto",
+        "slug": "ioto",
+        "country": "Japan",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Karymsky",
+        "slug": "karymsky",
+        "country": "Russia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Klyuchevskoy",
+        "slug": "klyuchevskoy",
+        "country": "Russia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Sheveluch",
+        "slug": "sheveluch",
+        "country": "Russia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ebeko",
+        "slug": "ebeko",
+        "country": "Russia",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Chikurachki",
+        "slug": "chikurachki",
+        "country": "Russia",
+        "last_eruption": 2023,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Kaitoku Seamount",
+        "slug": "kaitoku-seamount",
+        "country": "Japan",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Nishinoshima",
+        "slug": "nishinoshima",
+        "country": "Japan",
+        "last_eruption": 2023,
+        "type": "Caldera"
+      },
+      {
+        "name": "Ruby",
+        "slug": "ruby",
+        "country": "United States",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Alaid",
+        "slug": "alaid",
+        "country": "Russia",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Chirinkotan",
+        "slug": "chirinkotan",
+        "country": "Russia",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Kita-Ioto",
+        "slug": "kita-ioto",
+        "country": "Japan",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Fukutoku-Oka-no-Ba",
+        "slug": "fukutoku-oka-no-ba",
+        "country": "Japan",
+        "last_eruption": 2021,
+        "type": "Pyroclastic cone"
+      },
+      {
+        "name": "Pagan",
+        "slug": "pagan",
+        "country": "United States",
+        "last_eruption": 2021,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Sarychev Peak",
+        "slug": "sarychev-peak",
+        "country": "Russia",
+        "last_eruption": 2021,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Somalian-Antarctic": [
+      {
+        "name": "Heard",
+        "slug": "heard",
+        "country": "Australia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Fournaise, Piton de la",
+        "slug": "fournaise-piton-de-la",
+        "country": "France",
+        "last_eruption": 2023,
+        "type": "Shield"
+      }
+    ],
+    "South America": [
+      {
+        "name": "Planchon-Peteroa",
+        "slug": "planchon-peteroa",
+        "country": "Chile",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Purace",
+        "slug": "purace",
+        "country": "Colombia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Reventador",
+        "slug": "reventador",
+        "country": "Ecuador",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ruiz, Nevado del",
+        "slug": "ruiz-nevado-del",
+        "country": "Colombia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Sabancaya",
+        "slug": "sabancaya",
+        "country": "Peru",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Sangay",
+        "slug": "sangay",
+        "country": "Ecuador",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Villarrica",
+        "slug": "villarrica",
+        "country": "Chile",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Copahue",
+        "slug": "copahue",
+        "country": "Chile-Argentina",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ubinas",
+        "slug": "ubinas",
+        "country": "Peru",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Cotopaxi",
+        "slug": "cotopaxi",
+        "country": "Ecuador",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Lascar",
+        "slug": "lascar",
+        "country": "Chile",
+        "last_eruption": 2023,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Chillan, Nevados de",
+        "slug": "chillan-nevados-de",
+        "country": "Chile",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Southwestern Pacific": [
+      {
+        "name": "Ambae",
+        "slug": "ambae",
+        "country": "Vanuatu",
+        "last_eruption": 2025,
+        "type": "Shield"
+      },
+      {
+        "name": "Bagana",
+        "slug": "bagana",
+        "country": "Papua New Guinea",
+        "last_eruption": 2025,
+        "type": "Lava cone"
+      },
+      {
+        "name": "Langila",
+        "slug": "langila",
+        "country": "Papua New Guinea",
+        "last_eruption": 2025,
+        "type": "Complex"
+      },
+      {
+        "name": "Manam",
+        "slug": "manam",
+        "country": "Papua New Guinea",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ulawun",
+        "slug": "ulawun",
+        "country": "Papua New Guinea",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Yasur",
+        "slug": "yasur",
+        "country": "Vanuatu",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ambrym",
+        "slug": "ambrym",
+        "country": "Vanuatu",
+        "last_eruption": 2024,
+        "type": "Shield(pyroclastic)"
+      },
+      {
+        "name": "Tinakula",
+        "slug": "tinakula",
+        "country": "Solomon Islands",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "East Epi",
+        "slug": "east-epi",
+        "country": "Vanuatu",
+        "last_eruption": 2023,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Gaua",
+        "slug": "gaua",
+        "country": "Vanuatu",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      }
+    ],
+    "Sunda-Banda": [
+      {
+        "name": "Barren Island",
+        "slug": "barren-island",
+        "country": "India",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Dempo",
+        "slug": "dempo",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Dieng Volcanic Complex",
+        "slug": "dieng-volcanic-complex",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Complex"
+      },
+      {
+        "name": "Lewotobi",
+        "slug": "lewotobi",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Lewotolok",
+        "slug": "lewotolok",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Marapi",
+        "slug": "marapi",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Complex"
+      },
+      {
+        "name": "Merapi",
+        "slug": "merapi",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Raung",
+        "slug": "raung",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Semeru",
+        "slug": "semeru",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Kerinci",
+        "slug": "kerinci",
+        "country": "Indonesia",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Suoh",
+        "slug": "suoh",
+        "country": "Indonesia",
+        "last_eruption": 2024,
+        "type": "Caldera(s)"
+      },
+      {
+        "name": "Krakatau",
+        "slug": "krakatau",
+        "country": "Indonesia",
+        "last_eruption": 2023,
+        "type": "Caldera"
+      },
+      {
+        "name": "Tengger Caldera",
+        "slug": "tengger-caldera",
+        "country": "Indonesia",
+        "last_eruption": 2023,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Agung",
+        "slug": "agung",
+        "country": "Indonesia",
+        "last_eruption": 2022,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Sangeang Api",
+        "slug": "sangeang-api",
+        "country": "Indonesia",
+        "last_eruption": 2022,
+        "type": "Complex"
+      },
+      {
+        "name": "Iliwerung",
+        "slug": "iliwerung",
+        "country": "Indonesia",
+        "last_eruption": 2021,
+        "type": "Complex"
+      },
+      {
+        "name": "Sinabung",
+        "slug": "sinabung",
+        "country": "Indonesia",
+        "last_eruption": 2021,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Sirung",
+        "slug": "sirung",
+        "country": "Indonesia",
+        "last_eruption": 2021,
+        "type": "Complex"
+      }
+    ],
+    "Tonga-Kermadec": [
+      {
+        "name": "Home Reef",
+        "slug": "home-reef",
+        "country": "Tonga",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Tofua",
+        "slug": "tofua",
+        "country": "Tonga",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Whakaari/White Island",
+        "slug": "whakaari-white-island",
+        "country": "New Zealand",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Hunga Tonga-Hunga Ha'apai",
+        "slug": "hunga-tonga-hunga-ha-apai",
+        "country": "Tonga",
+        "last_eruption": 2022,
+        "type": "Caldera"
+      }
+    ],
+    "Western Pacific": [
+      {
+        "name": "Aira",
+        "slug": "aira",
+        "country": "Japan",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Bulusan",
+        "slug": "bulusan",
+        "country": "Philippines",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Dukono",
+        "slug": "dukono",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Complex"
+      },
+      {
+        "name": "Ibu",
+        "slug": "ibu",
+        "country": "Indonesia",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Kanlaon",
+        "slug": "kanlaon",
+        "country": "Philippines",
+        "last_eruption": 2025,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Kikai",
+        "slug": "kikai",
+        "country": "Japan",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Kirishimayama",
+        "slug": "kirishimayama",
+        "country": "Japan",
+        "last_eruption": 2025,
+        "type": "Shield"
+      },
+      {
+        "name": "Suwanosejima",
+        "slug": "suwanosejima",
+        "country": "Japan",
+        "last_eruption": 2025,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Taal",
+        "slug": "taal",
+        "country": "Philippines",
+        "last_eruption": 2025,
+        "type": "Caldera"
+      },
+      {
+        "name": "Mayon",
+        "slug": "mayon",
+        "country": "Philippines",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Ruang",
+        "slug": "ruang",
+        "country": "Indonesia",
+        "last_eruption": 2024,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Karangetang",
+        "slug": "karangetang",
+        "country": "Indonesia",
+        "last_eruption": 2023,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Asosan",
+        "slug": "asosan",
+        "country": "Japan",
+        "last_eruption": 2021,
+        "type": "Caldera"
+      },
+      {
+        "name": "Pinatubo",
+        "slug": "pinatubo",
+        "country": "Philippines",
+        "last_eruption": 2021,
+        "type": "Stratovolcano"
+      },
+      {
+        "name": "Kuchinoerabujima",
+        "slug": "kuchinoerabujima",
+        "country": "Japan",
+        "last_eruption": 2020,
+        "type": "Stratovolcano(es)"
+      },
+      {
+        "name": "Soputan",
+        "slug": "soputan",
+        "country": "Indonesia",
+        "last_eruption": 2020,
+        "type": "Stratovolcano"
+      }
+    ]
+  },
+  "sections": {
+    "indonesia_arc": {
+      "title": "Indonesia and the Sunda-Banda Arc",
+      "content": "<a href=\"/volcanoes-in-indonesia\">Indonesia</a> is the most volcanically active country on Earth, with 22 volcanoes that have erupted since 2020. The Indonesian archipelago straddles three major tectonic plates — the Eurasian, Indo-Australian, and Pacific — creating one of the most complex and active volcanic arcs on the planet.\n\nThe Sunda-Banda Arc stretches approximately 5,600 km from Sumatra in the west to the Banda Islands in the east. Along this arc, the Indo-Australian Plate subducts beneath the Eurasian Plate at varying angles and rates, producing a remarkable diversity of volcanic activity. <a href=\"/volcano/merapi\">Mount Merapi</a> on Java, with 106 confirmed eruptions and a history of lethal pyroclastic flows, is one of the most closely monitored volcanoes in the world. <a href=\"/volcano/semeru\">Semeru</a>, Java's highest peak at 3,657 m (11,998 ft), has been in near-continuous eruption since 1967. <a href=\"/volcano/krakatau\">Krakatau</a>, infamous for its 1883 cataclysm, continues to rebuild and erupt from its new cone, Anak Krakatau.\n\nIndonesia's volcanic hazard challenge is immense: over 8.6 million people live within potential volcanic hazard zones. The country's Center for Volcanology and Geological Hazard Mitigation (CVGHM) monitors all active volcanoes and operates an alert system using four levels: Normal, Advisory, Watch, and Warning."
+    },
+    "pacific_rim": {
+      "title": "The Pacific Ring of Fire",
+      "content": "The Pacific <a href=\"/ring-of-fire\">Ring of Fire</a> accounts for approximately 75% of the world's active volcanoes and 90% of its earthquakes. This 40,000 km horseshoe-shaped belt of subduction zones and volcanic arcs encircles the Pacific Ocean from New Zealand northward through the western Pacific, across Kamchatka, down the Aleutians, and southward along the Americas.\n\nIn the Northwestern Pacific, Russia's Kamchatka Peninsula hosts some of the most spectacularly active volcanoes on the planet. <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (4,754 m), the tallest active volcano in Eurasia, erupts roughly every 1–2 years with powerful Strombolian and Vulcanian explosions. <a href=\"/volcano/sheveluch\">Sheveluch</a> and <a href=\"/volcano/bezymianny\">Bezymianny</a> are similarly prolific, producing frequent dome-building eruptions punctuated by explosive collapses.\n\n<a href=\"/volcanoes-in-japan\">Japan</a>'s volcanic arc contributes 12 recently active volcanoes, including <a href=\"/volcano/aira\">Sakurajima</a> (within the Aira caldera), which erupts hundreds of times per year with small explosive events, and Iwo Jima, where recent volcanic uplift has raised the island by several meters.\n\nThe Southwestern Pacific features intense activity in <a href=\"/volcanoes-in-papua-new-guinea\">Papua New Guinea</a> (<a href=\"/volcano/manam\">Manam</a>, <a href=\"/volcano/ulawun\">Ulawun</a>, <a href=\"/volcano/bagana\">Bagana</a>) and <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a> (Yasur, <a href=\"/volcano/ambae\">Ambae</a>, <a href=\"/volcano/ambrym\">Ambrym</a>), where rapid subduction rates sustain high eruption frequencies."
+    },
+    "americas": {
+      "title": "The Americas: From Alaska to Patagonia",
+      "content": "The Americas contribute 34 recently active volcanoes spanning from the Aleutian Islands of Alaska to the Southern Volcanic Zone of Chile.\n\nIn North America, the <a href=\"/volcanoes-in-united-states\">United States</a>'s 12 recently active volcanoes are concentrated in two areas: the Aleutian arc in Alaska (Great Sitkin, <a href=\"/volcano/shishaldin\">Shishaldin</a>, <a href=\"/volcano/pavlof\">Pavlof</a>) and the Hawaiian hotspot (<a href=\"/volcano/kilauea\">Kilauea</a>, <a href=\"/volcano/mauna-loa\">Mauna Loa</a>). <a href=\"/volcano/popocatepetl\">Popocatépetl</a> in <a href=\"/volcanoes-in-mexico\">Mexico</a> is among the most closely watched volcanoes in the world, erupting continuously since 2005 with over 25 million people in its extended hazard zone.\n\nCentral America's volcanic arc, generated by the Cocos Plate subducting beneath the Caribbean Plate, features persistently active volcanoes including <a href=\"/volcano/fuego\">Fuego</a> in <a href=\"/volcanoes-in-guatemala\">Guatemala</a> (whose 2018 eruption killed at least 190 people), <a href=\"/volcano/poas\">Poás</a> in <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a>, and <a href=\"/volcano/telica\">Telica</a> in <a href=\"/volcanoes-in-nicaragua\">Nicaragua</a>.\n\nSouth America's Andean Volcanic Belt contributes multiple recently active volcanoes, led by <a href=\"/volcano/villarrica\">Villarrica</a> in <a href=\"/volcanoes-in-chile\">Chile</a> (152 confirmed eruptions), <a href=\"/volcano/sabancaya\">Sabancaya</a> in <a href=\"/volcanoes-in-peru\">Peru</a>, and <a href=\"/volcano/reventador\">Reventador</a> in <a href=\"/volcanoes-in-ecuador\">Ecuador</a>."
+    },
+    "europe_africa": {
+      "title": "Europe, Africa, and the Atlantic",
+      "content": "Europe and Africa contribute a smaller but significant number of recently active volcanoes, including some of the most closely monitored in the world.\n\n<a href=\"/volcano/etna\">Mount Etna</a> and <a href=\"/volcano/stromboli\">Stromboli</a> in <a href=\"/volcanoes-in-italy\">Italy</a> are Europe's two most active volcanoes. Etna, the tallest active volcano in Europe at 3,357 m (11,014 ft), has been erupting frequently with lava fountains and paroxysmal episodes. Stromboli continues its millennia-old pattern of persistent Strombolian explosions, punctuated by occasional larger events that send pyroclastic flows down the Sciara del Fuoco.\n\n<a href=\"/volcanoes-in-iceland\">Iceland</a> sits on the Mid-Atlantic Ridge, where the Eurasian and North American plates diverge. The <a href=\"/volcano/reykjanes\">Reykjanes Peninsula</a> has entered a new volcanic cycle after 800 years of dormancy, with a series of fissure eruptions since 2021 that have repeatedly threatened the town of Grindavík and the Blue Lagoon geothermal spa.\n\nIn East Africa, the <a href=\"/volcano/erta-ale\">Erta Ale</a> shield volcano in <a href=\"/volcanoes-in-ethiopia\">Ethiopia</a> maintains a persistent lava lake — one of only a handful on Earth. <a href=\"/volcano/nyiragongo\">Nyiragongo</a> in the <a href=\"/volcanoes-in-dr-congo\">DR Congo</a>, whose exceptionally fluid lava lake can drain catastrophically through fissures, poses one of the greatest volcanic threats in Africa — its 2002 eruption sent lava flows through the city of Goma, displacing 400,000 people.\n\n<a href=\"/volcano/la-palma\">La Palma</a> in Spain's Canary Islands erupted in September 2021 for the first time since 1971, destroying over 2,900 buildings during an 85-day eruption that was the longest recorded on the island."
+    }
+  },
+  "key_stats": [
+    "There are 117 volcanoes with confirmed eruptions since 2020.",
+    "61 volcanoes have erupted in 2025 — roughly one eruption every week somewhere on Earth.",
+    "Indonesia leads with 22 recently active volcanoes — more than any other country.",
+    "Approximately 800 million people worldwide live within 100 km of an active volcano.",
+    "The Sunda-Banda arc (Indonesia) is the most volcanically active arc on Earth, with 18 recently active volcanoes.",
+    "At any given moment, approximately 20 volcanoes are actively erupting somewhere on the planet.",
+    "The Ring of Fire accounts for approximately 75% of all active volcanoes worldwide.",
+    "The United States has 12 recently active volcanoes, concentrated in Alaska and Hawaii.",
+    "Erta Ale in Ethiopia and Nyiragongo in DR Congo maintain persistent lava lakes — among only a handful on Earth.",
+    "Iceland's Reykjanes Peninsula entered a new volcanic cycle in 2021 after 800 years of dormancy."
+  ],
+  "faqs": [
+    {
+      "question": "How many active volcanoes are there in the world right now?",
+      "answer": "There are currently 117 volcanoes with confirmed eruptions since 2020 and approximately 1,350 volcanoes classified as potentially active (having erupted during the Holocene, the past 11,700 years). At any given moment, roughly 20 volcanoes are actively erupting somewhere on Earth. In a typical year, 50–70 volcanoes experience some form of eruptive activity. The Smithsonian Global Volcanism Program publishes a weekly volcanic activity report tracking all ongoing eruptions worldwide."
+    },
+    {
+      "question": "Which volcanoes are erupting right now in 2025?",
+      "answer": "As of 2025, 61 volcanoes have recorded eruptions this year. These include Kilauea (Hawaii), Etna and Stromboli (Italy), Klyuchevskoy and Sheveluch (Russia), Merapi and Semeru (Indonesia), Fuego (Guatemala), Villarrica (Chile), Sabancaya (Peru), and numerous others across the Pacific Ring of Fire. Volcanic activity fluctuates continuously — the Smithsonian GVP weekly report provides the most current information on which volcanoes are actively erupting."
+    },
+    {
+      "question": "Where are most active volcanoes located?",
+      "answer": "The vast majority of active volcanoes are concentrated along the Pacific Ring of Fire — a 40,000 km belt of subduction zones encircling the Pacific Ocean. Indonesia has the most active volcanoes of any country (100+), followed by the United States (65+, mostly in Alaska and Hawaii), Japan (50+), and Russia (30+, primarily on the Kamchatka Peninsula). Other major volcanic zones include the East African Rift, the Mid-Atlantic Ridge (Iceland), and the Mediterranean (Italy, Greece). Approximately 75% of all active volcanoes lie on or near the Ring of Fire."
+    },
+    {
+      "question": "What is the difference between an active and dormant volcano?",
+      "answer": "An active volcano is one that has erupted recently or shows current signs of volcanic unrest (seismicity, gas emissions, ground deformation). A dormant volcano hasn't erupted in recent history but retains the potential to erupt again — Mount Vesuvius, dormant since 1944, is a classic example. An extinct volcano is not expected to erupt again, typically because it has moved away from its magma source. These boundaries are imprecise: some volcanoes considered dormant or even extinct have erupted unexpectedly. For this page, 'active' specifically means volcanoes with confirmed eruptions since 2020."
+    },
+    {
+      "question": "How many people live near active volcanoes?",
+      "answer": "Approximately 800 million people worldwide live within 100 km of an active volcano, and about 200 million live within potential volcanic hazard zones. The most at-risk populations include the 3 million people near Vesuvius in Italy, the 25+ million near Popocatépetl in Mexico, the 8.6 million in Indonesian volcanic hazard zones, and millions more near volcanoes in the Philippines, Japan, and Central America. Urbanization and population growth continue to increase volcanic exposure globally."
+    },
+    {
+      "question": "Can scientists predict volcanic eruptions?",
+      "answer": "Scientists cannot predict the exact date and time of an eruption, but modern monitoring can detect precursory signals days to weeks in advance with increasing reliability. Key indicators include increased seismicity (earthquake swarms beneath the volcano), ground deformation (swelling measured by GPS and satellite radar), changes in gas emissions (particularly sulfur dioxide), and changes in hydrothermal activity. The successful prediction and evacuation for the 1991 Pinatubo eruption saved an estimated 20,000+ lives. However, some eruptions — particularly phreatic (steam-driven) explosions — can occur with little warning."
+    },
+    {
+      "question": "Is volcanic activity increasing worldwide?",
+      "answer": "There is no scientific evidence that volcanic activity is increasing globally. The apparent increase in reported eruptions over recent centuries reflects improvements in monitoring technology, satellite surveillance, and global communication networks — not an actual increase in volcanic events. Geological records show that volcanic activity has been relatively constant over millennia. However, the risk from volcanic eruptions is increasing because more people now live near active volcanoes due to population growth and urbanization."
+    },
+    {
+      "question": "What should you do if a volcano erupts near you?",
+      "answer": "If authorities issue a volcanic alert, follow evacuation orders immediately — do not wait to see the eruption. Move perpendicular to valleys and river channels, as lahars and pyroclastic flows follow topographic lows. If caught in ashfall, stay indoors with windows and doors sealed, wear an N95 mask or damp cloth over your nose and mouth, and avoid driving (ash destroys engines). Monitor official alert channels (civil defense, USGS, local volcanological agency). After the eruption, avoid low-lying areas prone to secondary lahars triggered by rain, and do not return until authorities declare it safe."
+    }
+  ],
+  "charts": {
+    "by_region": [
+      {
+        "region": "Sunda-Banda",
+        "count": 18
+      },
+      {
+        "region": "Northwestern Pacific",
+        "count": 17
+      },
+      {
+        "region": "Western Pacific",
+        "count": 16
+      },
+      {
+        "region": "Middle America-Caribbean",
+        "count": 13
+      },
+      {
+        "region": "South America",
+        "count": 12
+      },
+      {
+        "region": "Southwestern Pacific",
+        "count": 10
+      },
+      {
+        "region": "North America",
+        "count": 8
+      },
+      {
+        "region": "Eastern Africa",
+        "count": 5
+      },
+      {
+        "region": "Eastern Pacific",
+        "count": 5
+      },
+      {
+        "region": "Tonga-Kermadec",
+        "count": 4
+      },
+      {
+        "region": "Antarctic-Scotia",
+        "count": 2
+      },
+      {
+        "region": "European",
+        "count": 2
+      },
+      {
+        "region": "Somalian-Antarctic",
+        "count": 2
+      },
+      {
+        "region": "Atlantic Ocean",
+        "count": 2
+      },
+      {
+        "region": "Northern Africa",
+        "count": 1
+      }
+    ],
+    "by_country": [
+      {
+        "country": "Indonesia",
+        "count": 22
+      },
+      {
+        "country": "Japan",
+        "count": 12
+      },
+      {
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "country": "Russia",
+        "count": 9
+      },
+      {
+        "country": "Vanuatu",
+        "count": 5
+      },
+      {
+        "country": "Philippines",
+        "count": 5
+      },
+      {
+        "country": "Ecuador",
+        "count": 5
+      },
+      {
+        "country": "Papua New Guinea",
+        "count": 4
+      },
+      {
+        "country": "Nicaragua",
+        "count": 4
+      },
+      {
+        "country": "Chile",
+        "count": 4
+      },
+      {
+        "country": "Guatemala",
+        "count": 3
+      },
+      {
+        "country": "Tonga",
+        "count": 3
+      },
+      {
+        "country": "Costa Rica",
+        "count": 3
+      },
+      {
+        "country": "Ethiopia",
+        "count": 2
+      },
+      {
+        "country": "Italy",
+        "count": 2
+      }
+    ],
+    "eruptions_2025": [
+      {
+        "name": "Aira",
+        "country": "Japan",
+        "slug": "aira"
+      },
+      {
+        "name": "Akan",
+        "country": "Japan",
+        "slug": "akan"
+      },
+      {
+        "name": "Ambae",
+        "country": "Vanuatu",
+        "slug": "ambae"
+      },
+      {
+        "name": "Atka Volcanic Complex",
+        "country": "United States",
+        "slug": "atka-volcanic-complex"
+      },
+      {
+        "name": "Bagana",
+        "country": "Papua New Guinea",
+        "slug": "bagana"
+      },
+      {
+        "name": "Barren Island",
+        "country": "India",
+        "slug": "barren-island"
+      },
+      {
+        "name": "Bezymianny",
+        "country": "Russia",
+        "slug": "bezymianny"
+      },
+      {
+        "name": "Bulusan",
+        "country": "Philippines",
+        "slug": "bulusan"
+      },
+      {
+        "name": "Dempo",
+        "country": "Indonesia",
+        "slug": "dempo"
+      },
+      {
+        "name": "Dieng Volcanic Complex",
+        "country": "Indonesia",
+        "slug": "dieng-volcanic-complex"
+      },
+      {
+        "name": "Dukono",
+        "country": "Indonesia",
+        "slug": "dukono"
+      },
+      {
+        "name": "Erebus",
+        "country": "Antarctica",
+        "slug": "erebus"
+      },
+      {
+        "name": "Erta Ale",
+        "country": "Ethiopia",
+        "slug": "erta-ale"
+      },
+      {
+        "name": "Etna",
+        "country": "Italy",
+        "slug": "etna"
+      },
+      {
+        "name": "Fuego",
+        "country": "Guatemala",
+        "slug": "fuego"
+      },
+      {
+        "name": "Great Sitkin",
+        "country": "United States",
+        "slug": "great-sitkin"
+      },
+      {
+        "name": "Hayli Gubbi",
+        "country": "Ethiopia",
+        "slug": "hayli-gubbi"
+      },
+      {
+        "name": "Heard",
+        "country": "Australia",
+        "slug": "heard"
+      },
+      {
+        "name": "Home Reef",
+        "country": "Tonga",
+        "slug": "home-reef"
+      },
+      {
+        "name": "Ibu",
+        "country": "Indonesia",
+        "slug": "ibu"
+      },
+      {
+        "name": "Ioto",
+        "country": "Japan",
+        "slug": "ioto"
+      },
+      {
+        "name": "Kanlaon",
+        "country": "Philippines",
+        "slug": "kanlaon"
+      },
+      {
+        "name": "Karymsky",
+        "country": "Russia",
+        "slug": "karymsky"
+      },
+      {
+        "name": "Kikai",
+        "country": "Japan",
+        "slug": "kikai"
+      },
+      {
+        "name": "Kilauea",
+        "country": "United States",
+        "slug": "kilauea"
+      },
+      {
+        "name": "Kirishimayama",
+        "country": "Japan",
+        "slug": "kirishimayama"
+      },
+      {
+        "name": "Klyuchevskoy",
+        "country": "Russia",
+        "slug": "klyuchevskoy"
+      },
+      {
+        "name": "Langila",
+        "country": "Papua New Guinea",
+        "slug": "langila"
+      },
+      {
+        "name": "Lengai, Ol Doinyo",
+        "country": "Tanzania",
+        "slug": "lengai-ol-doinyo"
+      },
+      {
+        "name": "Lewotobi",
+        "country": "Indonesia",
+        "slug": "lewotobi"
+      },
+      {
+        "name": "Lewotolok",
+        "country": "Indonesia",
+        "slug": "lewotolok"
+      },
+      {
+        "name": "Manam",
+        "country": "Papua New Guinea",
+        "slug": "manam"
+      },
+      {
+        "name": "Marapi",
+        "country": "Indonesia",
+        "slug": "marapi"
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua",
+        "slug": "masaya"
+      },
+      {
+        "name": "Merapi",
+        "country": "Indonesia",
+        "slug": "merapi"
+      },
+      {
+        "name": "Northern EPR at 9.8°N",
+        "country": "Undersea Features",
+        "slug": "northern-epr-at-9-8-n"
+      },
+      {
+        "name": "Nyamulagira",
+        "country": "DR Congo",
+        "slug": "nyamulagira"
+      },
+      {
+        "name": "Nyiragongo",
+        "country": "DR Congo",
+        "slug": "nyiragongo"
+      },
+      {
+        "name": "Planchon-Peteroa",
+        "country": "Chile",
+        "slug": "planchon-peteroa"
+      },
+      {
+        "name": "Poas",
+        "country": "Costa Rica",
+        "slug": "poas"
+      },
+      {
+        "name": "Popocatepetl",
+        "country": "Mexico",
+        "slug": "popocatepetl"
+      },
+      {
+        "name": "Purace",
+        "country": "Colombia",
+        "slug": "purace"
+      },
+      {
+        "name": "Raung",
+        "country": "Indonesia",
+        "slug": "raung"
+      },
+      {
+        "name": "Reventador",
+        "country": "Ecuador",
+        "slug": "reventador"
+      },
+      {
+        "name": "Reykjanes",
+        "country": "Iceland",
+        "slug": "reykjanes"
+      },
+      {
+        "name": "Ruiz, Nevado del",
+        "country": "Colombia",
+        "slug": "ruiz-nevado-del"
+      },
+      {
+        "name": "Sabancaya",
+        "country": "Peru",
+        "slug": "sabancaya"
+      },
+      {
+        "name": "Sangay",
+        "country": "Ecuador",
+        "slug": "sangay"
+      },
+      {
+        "name": "Santa Maria",
+        "country": "Guatemala",
+        "slug": "santa-maria"
+      },
+      {
+        "name": "Saunders",
+        "country": "United Kingdom",
+        "slug": "saunders"
+      },
+      {
+        "name": "Semeru",
+        "country": "Indonesia",
+        "slug": "semeru"
+      },
+      {
+        "name": "Sheveluch",
+        "country": "Russia",
+        "slug": "sheveluch"
+      },
+      {
+        "name": "Stromboli",
+        "country": "Italy",
+        "slug": "stromboli"
+      },
+      {
+        "name": "Suwanosejima",
+        "country": "Japan",
+        "slug": "suwanosejima"
+      },
+      {
+        "name": "Taal",
+        "country": "Philippines",
+        "slug": "taal"
+      },
+      {
+        "name": "Telica",
+        "country": "Nicaragua",
+        "slug": "telica"
+      },
+      {
+        "name": "Tofua",
+        "country": "Tonga",
+        "slug": "tofua"
+      },
+      {
+        "name": "Ulawun",
+        "country": "Papua New Guinea",
+        "slug": "ulawun"
+      },
+      {
+        "name": "Villarrica",
+        "country": "Chile",
+        "slug": "villarrica"
+      },
+      {
+        "name": "Whakaari/White Island",
+        "country": "New Zealand",
+        "slug": "whakaari-white-island"
+      },
+      {
+        "name": "Yasur",
+        "country": "Vanuatu",
+        "slug": "yasur"
+      }
+    ]
+  },
+  "internal_links": [
+    "<a href=\"/volcano/kilauea\">Kilauea</a>",
+    "<a href=\"/volcano/etna\">Mount Etna</a>",
+    "<a href=\"/volcano/merapi\">Mount Merapi</a>",
+    "<a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a>",
+    "<a href=\"/volcano/stromboli\">Stromboli</a>",
+    "<a href=\"/volcano/fuego\">Fuego</a>",
+    "<a href=\"/volcano/reykjanes\">Reykjanes</a>",
+    "<a href=\"/volcano/popocatepetl\">Popocatépetl</a>",
+    "<a href=\"/volcano/nyiragongo\">Nyiragongo</a>",
+    "<a href=\"/volcanoes-in-indonesia\">Indonesia</a>",
+    "<a href=\"/volcanoes-in-united-states\">United States</a>",
+    "<a href=\"/volcanoes-in-japan\">Japan</a>",
+    "<a href=\"/ring-of-fire\">Ring of Fire</a>",
+    "<a href=\"/most-active-volcanoes\">Most Active Volcanoes</a>",
+    "<a href=\"/deadliest-eruptions\">Deadliest Eruptions</a>"
+  ],
+  "external_links": [
+    "<a href=\"https://volcano.si.edu/\" target=\"_blank\" rel=\"noopener\">Smithsonian Global Volcanism Program</a>",
+    "<a href=\"https://volcano.si.edu/reports_weekly.cfm\" target=\"_blank\" rel=\"noopener\">GVP Weekly Volcanic Activity Report</a>",
+    "<a href=\"https://www.usgs.gov/volcanoes\" target=\"_blank\" rel=\"noopener\">USGS Volcano Hazards Program</a>",
+    "<a href=\"https://www.britannica.com/science/volcano\" target=\"_blank\" rel=\"noopener\">Britannica: Volcanoes</a>"
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "url": "/active-volcanoes"
+}

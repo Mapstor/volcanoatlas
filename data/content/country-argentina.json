@@ -1,0 +1,1008 @@
+{
+  "slug": "argentina",
+  "title": "Volcanoes in Argentina",
+  "meta_title": "Volcanoes in Argentina — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Argentina has 14 volcanoes plus 18 on the Chile-Argentina border, including the world's highest volcanic peak. Full list with eruption history, Andean tectonic context, and the VEI 7 Cerro Blanco event.",
+  "quick_answer": {
+    "how_many": "Argentina has 14 Holocene volcanoes solely within its borders, plus 18 additional volcanoes shared with Chile along the Andean frontier, for a total of 32 volcanic centers with Argentine territory.",
+    "how_many_active": "Only one volcano exclusively in Argentina — Tromen Volcanic Plateau — has a confirmed historical eruption (1822). Several border volcanoes shared with Chile, including Copahue (2024), Tupungatito (1987), and Llullaillaco (1877), have erupted historically.",
+    "why": "Argentina's volcanoes are products of the Nazca Plate subducting beneath the South American Plate along the Andes. The volcanic arc's position and density vary along the range due to changes in the subduction angle — flat-slab subduction beneath central Argentina creates a volcanic gap, while steeper subduction to the north and south produces active volcanic zones.",
+    "tallest": "Ojos del Salado at 6,879 m (22,569 ft) — the world's highest volcano (Chile-Argentina border); Tipas at 6,658 m (21,844 ft) is the tallest entirely within Argentina.",
+    "most_recent": "Copahue (Chile-Argentina border) — 2024"
+  },
+  "hero": {
+    "title": "Volcanoes in Argentina",
+    "subtitle": "Home to the World's Highest Volcano and the Andes' Largest Holocene Eruption",
+    "volcano_count": 32,
+    "active_count": 6,
+    "tallest": {
+      "name": "Ojos del Salado (border)",
+      "elevation_m": 6879
+    },
+    "most_recent_eruption": {
+      "volcano": "Copahue (Chile-Argentina border)",
+      "year": "2024"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "Argentina has 14 Holocene volcanoes entirely within its national borders and shares an additional 18 volcanic centers with [[country:chile|Chile]] along the crest of the Andes — giving the country a volcanic portfolio of 32 centers, including some of the highest volcanoes on Earth. The Andean volcanic chain within Argentine territory stretches from the Puna plateau in the northwest (approximately 22°S) to Patagonia in the south (approximately 52°S), spanning over 3,500 km of latitude. Argentina's volcanic landscape includes the world's highest volcano — Ojos del Salado at 6,879 m (22,569 ft) on the Chile-Argentina border — and was the site of the largest known Holocene eruption in the Central Andes: the [[special:volcanic-explosivity-index|VEI 7]] event at [[volcano:blanco-cerro|Cerro Blanco]] approximately 4,200 years ago, which ejected over 100 km³ of rhyolitic material. Despite this dramatic geological heritage, Argentina's volcanoes are among the least monitored in South America, owing to their extreme remoteness, high altitudes, and sparse surrounding populations. The most recently active centers lie along the Chile-Argentina border, where [[volcano:copahue|Copahue]] erupted in 2024, and several volcanoes in the Puna and northern Patagonia display persistent fumarolic activity. Argentina's volcanic terrain also includes back-arc volcanic fields in Mendoza and Neuquén provinces, where basaltic volcanism unrelated to the main subduction arc has occurred within the Holocene."
+    },
+    "why_argentina_has_volcanoes": {
+      "content": "Argentina's volcanic activity is fundamentally driven by the subduction of the Nazca Plate beneath the South American Plate at rates of 6–8 cm per year. However, the expression of volcanism across Argentina is far from uniform, controlled primarily by variations in the angle at which the Nazca Plate descends into the mantle — a phenomenon that creates one of the most striking volcanic patterns on Earth.\n\nIn the Puna region of northwestern Argentina (approximately 22°–27°S), the subducting slab descends at a moderate angle, producing the Central Volcanic Zone (CVZ) — a belt of towering stratovolcanoes and calderas that straddle the Chile-Argentina border at elevations often exceeding 5,000–6,000 m. This zone includes some of the highest volcanoes on the planet, such as [[volcano:llullaillaco|Llullaillaco]] (6,739 m) and [[volcano:ojos-del-salado-nevados|Ojos del Salado]] (6,879 m). The extreme elevations result from the combination of a thick continental crust (up to 70 km) and the regional uplift of the Altiplano-Puna plateau.\n\nBetween approximately 28° and 33°S lies the Pampean flat-slab segment, where the Nazca Plate subducts at an unusually shallow angle (less than 10° from horizontal), sliding nearly horizontally beneath the continent for hundreds of kilometers. This flat-slab geometry prevents the formation of a standard asthenospheric mantle wedge and effectively shuts off arc volcanism, creating a volcanic gap of over 700 km — the reason central Argentina (including Mendoza, San Juan, and San Luis) has no active volcanic arc despite sitting above a subduction zone.\n\nSouth of approximately 33°S, the slab steepens again, producing the Southern Volcanic Zone (SVZ) from the Santiago latitude southward into Patagonia. This is where the most active border volcanoes are found, including [[volcano:copahue|Copahue]], [[volcano:lanin|Lanín]], and [[volcano:tupungatito|Tupungatito]]. Additionally, intraplate basaltic volcanism occurs in the back-arc region of Mendoza (Payún Matru) and Neuquén (Tromen), driven by extension and asthenospheric upwelling behind the main arc. In southern Patagonia, the subduction of the Chile Rise spreading center creates unique thermal conditions that have produced the [[volcano:pali-aike-volcanic-field|Pali-Aike Volcanic Field]], one of the southernmost volcanic fields in South America."
+    },
+    "major_volcanoes": {
+      "content": "**Ojos del Salado** — At 6,879 m (22,569 ft), [[volcano:ojos-del-salado-nevados|Ojos del Salado]] is the highest volcano on Earth and the second highest peak in the Andes after Aconcagua (6,961 m). Straddling the Chile-Argentina border in the Atacama region, this massive stratovolcano last erupted around 750 CE. A small crater lake near its summit, at approximately 6,390 m, is considered the highest lake in the world. Despite its extreme altitude, Ojos del Salado is a popular mountaineering objective with a non-technical summit route from the Argentine side. One confirmed eruption is recorded in the Smithsonian database.\n\n**Cerro Blanco** — The 5-km-diameter [[volcano:blanco-cerro|Cerro Blanco]] (or Robledo) caldera in Catamarca Province was the site of the most powerful eruption in the Central Andes during the Holocene. Approximately 4,200 years ago, a colossal VEI 7 Plinian eruption ejected over 100 km³ of rhyolitic tephra, depositing ignimbrite sheets across northwestern Argentina and producing ashfall detected as far as southern Brazil. The caldera, at 4,670 m elevation, continues to show measurable subsidence in satellite geodetic surveys, suggesting ongoing magmatic adjustments. This eruption is comparable in scale to the eruption of [[volcano:tambora|Tambora]] in 1815 and dwarfs any other known Holocene event in the Andes.\n\n**Llullaillaco** — Rising to 6,739 m (22,110 ft), [[volcano:llullaillaco|Llullaillaco]] on the Chile-Argentina border is the world's highest historically active volcano. Its last eruption occurred in 1877, and three confirmed eruptions are in the database (maximum VEI 2). The volcano is also famous for the discovery in 1999 of three extraordinarily preserved Inca mummies near its summit — children sacrificed approximately 500 years ago in a ceremony called capacocha, preserved by the extreme cold and dry conditions.\n\n**Copahue** — The most active border volcano in the southern Andes, [[volcano:copahue|Copahue]] (2,953 m / 9,689 ft) straddles the Chile-Argentina border in Neuquén Province. With 21 confirmed eruptions and a maximum VEI of 2, Copahue erupts frequently with phreatic explosions and ash emissions from its acidic summit crater lake. The most recent eruption occurred in 2024. The surrounding area hosts the Copahue-Caviahue thermal resort, a popular Argentine tourism destination built around volcanic hot springs and fumaroles.\n\n**Tupungatito** — At 5,660 m (18,570 ft), [[volcano:tupungatito|Tupungatito]] lies on the border east of Santiago, Chile, in the northern SVZ. With 18 confirmed eruptions (the highest count of any border volcano), it has been active as recently as 1987. Its proximity to the Santiago–Mendoza transport corridor makes it a monitoring priority.\n\n**Tromen Volcanic Plateau** — The primary volcanic center entirely within Argentina to have erupted historically, [[volcano:tromen-volcanic-plateau|Tromen]] (4,114 m) is a stratovolcano in Neuquén Province surrounded by an elongated volcanic plateau. Two confirmed eruptions are recorded, including the most recent in 1822. The plateau includes multiple Holocene vents and fresh-looking lava flows, suggesting potential for future activity.\n\n**Lanín** — One of the most visually striking volcanoes in Patagonia, [[volcano:lanin|Lanín]] (3,776 m / 12,388 ft) is a glacier-clad stratovolcano straddling the Chile-Argentina border near San Martín de los Andes. Its symmetrical cone is the centerpiece of Lanín National Park and a popular mountaineering destination. Eight confirmed eruptions are in the database (the most recent around 560 CE), though all are small (maximum VEI 0).\n\n**Payun Matru** — A back-arc volcanic field in southern Mendoza Province, [[volcano:payun-matru|Payun Matru]] (3,715 m) features a 9-km-wide caldera and extensive basaltic lava fields that are among the youngest in Argentina (most recent eruption approximately 5050 BCE). The stark lava landscapes of La Payunia Provincial Reserve are sometimes compared to lunar terrain.\n\n**Tipas** — At 6,658 m (21,844 ft), Tipas is the tallest volcanic complex entirely within Argentine borders. This complex volcano in Catamarca Province has no confirmed Holocene eruptions but is classified as Holocene based on its youthful morphology."
+    },
+    "eruption_history": {
+      "content": "Argentina's eruption record is paradoxically thin for a country with such dramatic volcanic geology. Only six confirmed eruptions are recorded for volcanoes entirely within Argentina, and the country's historically observed volcanic activity consists essentially of two events at Tromen (mid-18th century and 1822). This scarcity reflects the extreme remoteness and altitude of Argentine volcanoes rather than true volcanic quiescence — many of these centers are among the most poorly monitored on Earth.\n\nThe most significant eruption in Argentine geological history was the [[special:volcanic-explosivity-index|VEI 7]] event at [[volcano:blanco-cerro|Cerro Blanco]] approximately 4,200 years before present. This catastrophic rhyolitic Plinian eruption produced ashfall covering an estimated 440,000 km² and ignimbrite deposits that traveled tens of kilometers from the caldera. Research published by Fernandez-Turiel et al. (2013) estimated the total erupted volume at over 100 km³ dense rock equivalent, making it comparable to the eruption of [[volcano:tambora|Tambora]] in 1815 and one of the largest volcanic events of the Holocene globally. Archaeological evidence suggests the eruption impacted early human populations in the Puna region.\n\nThe border volcanoes tell a more active story. [[volcano:copahue|Copahue]] has erupted 21 times in recorded history, most recently in 2024, with recurring phreatic and phreatomagmatic explosions that deposit ash across the Argentine resort town of Caviahue. [[volcano:tupungatito|Tupungatito]] has produced 18 confirmed eruptions, and [[volcano:lanin|Lanín]], [[volcano:san-jose|San José]], and [[volcano:maipo|Maipo]] have all been active in the 19th or 20th centuries. In 2011, the eruption of Puyehue-Cordón Caulle (listed under Chile) deposited heavy ashfall across Argentine Patagonia, disrupting agriculture, closing airports as far as Buenos Aires, and killing thousands of livestock — a vivid demonstration that Chilean volcanic eruptions frequently have major consequences for Argentina."
+    },
+    "volcanic_hazards": {
+      "content": "Argentina's volcanic hazard profile is shaped by two contrasting realities: the volcanoes within its borders are mostly remote and high-altitude with sparse nearby populations, but eruptions from Chilean border volcanoes regularly impact Argentine territory through ashfall carried by prevailing westerly winds. The 2011 Puyehue-Cordón Caulle eruption deposited centimeters of ash across towns in Neuquén and Río Negro provinces, closed airports including Bariloche and Buenos Aires, disrupted agriculture, and caused estimated economic losses exceeding US$300 million. Similar scenarios have occurred with eruptions of [[volcano:copahue|Copahue]], which regularly deposits ash on the Argentine resort town of Caviahue (population ~600) and surrounding areas.\n\nLahars represent a significant hazard at glacier-clad volcanoes along the border, particularly [[volcano:lanin|Lanín]], Tronador, and volcanoes in the northern SVZ where melting of summit ice during an eruption could generate debris flows into Argentine river valleys. The tourist cities of San Martín de los Andes and Villa La Angostura lie downstream of potential lahar paths. Pyroclastic flows are a threat primarily at the large stratovolcanoes of the CVZ, though the extremely low population density of the Argentine Puna mitigates this risk.\n\nVolcanic monitoring in Argentina is coordinated by SEGEMAR (Servicio Geológico Minero Argentino) and the OAVV (Observatorio Argentino de Vigilancia Volcánica), which was established in 2012 — partly in response to the 2011 Puyehue crisis. The observatory monitors 40 volcanic centers along the Argentine-Chilean border using seismic networks, satellite remote sensing, and field campaigns, but coverage remains limited compared to Chile's SERNAGEOMIN monitoring network."
+    },
+    "volcanic_zones_map": {
+      "content": "Argentina's volcanoes are distributed along the western Andean frontier in three main clusters separated by a pronounced volcanic gap. The northern cluster (approximately 22°–27°S) encompasses the Puna Volcanic Zone, including the towering stratovolcanoes of the Chilean-Argentine border (Llullaillaco, Ojos del Salado, Incahuasi) and interior calderas like [[volcano:blanco-cerro|Cerro Blanco]]. This zone features the highest-elevation volcanoes on the planet, sitting atop the Altiplano-Puna plateau at base elevations already exceeding 4,000 m.\n\nBetween approximately 28° and 33°S, the Pampean flat-slab segment creates a volcanic gap where no Holocene volcanoes exist. This region, which includes the major cities of Mendoza and San Juan, lacks volcanism despite sitting above an active subduction zone.\n\nThe southern cluster (approximately 33°–52°S) includes the border volcanoes of the Southern Volcanic Zone (Tupungatito, San José, Copahue, Lanín) and back-arc volcanic fields in Mendoza and Neuquén (Payun Matru, Tromen, Infiernillo). The southernmost Argentine volcanic feature is the [[volcano:pali-aike-volcanic-field|Pali-Aike Volcanic Field]] in Santa Cruz Province near the Strait of Magellan, which last erupted approximately 5550 BCE."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Argentina's volcanic landscapes play an increasingly important role in the country's tourism economy and cultural identity. Lanín National Park, centered on the photogenic [[volcano:lanin|Lanín]] volcano, draws hundreds of thousands of visitors annually to the Argentine Lake District, where volcanic scenery forms the backdrop to destinations like San Martín de los Andes and Junin de los Andes. The Copahue-Caviahue thermal complex in Neuquén Province has been developed as a health tourism destination, with volcanic hot springs and mineral-rich mud baths attracting visitors from across Argentina. La Payunia Provincial Reserve in southern Mendoza showcases the dramatic basaltic lava fields of [[volcano:payun-matru|Payun Matru]] and has gained recognition as one of the most striking volcanic landscapes in South America.\n\nThe archaeological significance of Argentine volcanism is highlighted by the Llullaillaco mummies — three remarkably preserved Inca children discovered near the summit of [[volcano:llullaillaco|Llullaillaco]] in 1999, sacrificed approximately 500 years ago. Now displayed at the Museum of High Altitude Archaeology (MAAM) in Salta, they are considered among the best-preserved human remains ever found and provide extraordinary insight into Inca ritual practices on volcanic summits. Geothermal energy potential exists along the Argentine Andes, though development has been limited; pilot projects at Copahue and in the Puna region aim to harness this resource."
+    },
+    "visiting_volcanoes": {
+      "content": "Argentina offers exceptional volcanic tourism ranging from accessible Patagonian hikes to extreme high-altitude mountaineering. [[volcano:lanin|Lanín]] (3,776 m) is the most popular volcanic ascent, with guided two-day climbs departing from Junin de los Andes requiring crampons and ice axes but no technical climbing experience. The views from the summit across the Argentine-Chilean Lake District are spectacular. Copahue-Caviahue offers a more relaxed volcanic experience — the thermal resort town sits at 1,600 m on the Argentine side of the border, with hot springs, volcanic mud baths, and easy hikes to volcanic craters and fumaroles. The stark lava fields of La Payunia near [[volcano:payun-matru|Payun Matru]] are accessible by 4WD from Malargüe and offer some of the most otherworldly landscapes in Argentina.\n\nFor experienced mountaineers, the high-altitude volcanoes of the Puna offer world-class challenges. [[volcano:ojos-del-salado-nevados|Ojos del Salado]] (6,879 m) is typically approached from the Argentine side via the town of Fiambalá in Catamarca, requiring acclimatization and 4WD access but no technical climbing. [[volcano:llullaillaco|Llullaillaco]] (6,739 m) is more remote and logistically demanding. The best season for high-altitude volcanism is December through February. The Museum of High Altitude Archaeology in Salta, featuring the Llullaillaco mummies, is an essential cultural complement to any volcanic itinerary in northwestern Argentina."
+    }
+  },
+  "volcano_table": {
+    "description": "Complete list of all 14 Holocene volcanoes in Argentina plus 18 Chile-Argentina border volcanoes, ranked by elevation. Border volcanoes are marked with an asterisk (*). Data from the Smithsonian Global Volcanism Program.",
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Elevation (ft)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max",
+      "Border Note"
+    ],
+    "rows": [
+      {
+        "id": 355130,
+        "name": "Ojos del Salado, Nevados",
+        "slug": "ojos-del-salado-nevados",
+        "elevation_m": 6879,
+        "elevation_ft": 22569,
+        "type": "Stratovolcano",
+        "last_eruption": "750",
+        "status": "Historically active",
+        "eruption_count": 1,
+        "vei_max": null,
+        "lat": -27.109,
+        "lon": -68.541,
+        "border_note": "Chile-Argentina border",
+        "rank": 1
+      },
+      {
+        "id": 355110,
+        "name": "Llullaillaco",
+        "slug": "llullaillaco",
+        "elevation_m": 6739,
+        "elevation_ft": 22110,
+        "type": "Stratovolcano",
+        "last_eruption": "1877",
+        "status": "Active",
+        "eruption_count": 3,
+        "vei_max": 2,
+        "lat": -24.72,
+        "lon": -68.53,
+        "border_note": "Chile-Argentina border",
+        "rank": 2
+      },
+      {
+        "id": 355220,
+        "name": "Tipas",
+        "slug": "tipas",
+        "elevation_m": 6658,
+        "elevation_ft": 21844,
+        "type": "Complex",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -27.196,
+        "lon": -68.561,
+        "border_note": null,
+        "rank": 3
+      },
+      {
+        "id": 355125,
+        "name": "Incahuasi, Nevado de",
+        "slug": "incahuasi-nevado-de",
+        "elevation_m": 6638,
+        "elevation_ft": 21778,
+        "type": "Stratovolcano(es)",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -27.033,
+        "lon": -68.296,
+        "border_note": "Chile-Argentina border",
+        "rank": 4
+      },
+      {
+        "id": 355190,
+        "name": "Condor, El",
+        "slug": "condor-el",
+        "elevation_m": 6373,
+        "elevation_ft": 20909,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -26.632,
+        "lon": -68.361,
+        "border_note": null,
+        "rank": 5
+      },
+      {
+        "id": 355131,
+        "name": "Solo, El",
+        "slug": "solo-el",
+        "elevation_m": 6205,
+        "elevation_ft": 20358,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -27.105,
+        "lon": -68.713,
+        "border_note": "Chile-Argentina border",
+        "rank": 6
+      },
+      {
+        "id": 355123,
+        "name": "Nevada, Sierra",
+        "slug": "nevada-sierra",
+        "elevation_m": 6173,
+        "elevation_ft": 20253,
+        "type": "Complex",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -26.48,
+        "lon": -68.58,
+        "border_note": "Chile-Argentina border",
+        "rank": 7
+      },
+      {
+        "id": 355160,
+        "name": "Aracar",
+        "slug": "aracar",
+        "elevation_m": 6095,
+        "elevation_ft": 19997,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -24.29,
+        "lon": -67.783,
+        "border_note": null,
+        "rank": 8
+      },
+      {
+        "id": 357020,
+        "name": "San Jose",
+        "slug": "san-jose",
+        "elevation_m": 6070,
+        "elevation_ft": 19915,
+        "type": "Stratovolcano(es)",
+        "last_eruption": "1960",
+        "status": "Active",
+        "eruption_count": 7,
+        "vei_max": 2,
+        "lat": -33.789,
+        "lon": -69.895,
+        "border_note": "Chile-Argentina border",
+        "rank": 9
+      },
+      {
+        "id": 355109,
+        "name": "Socompa",
+        "slug": "socompa",
+        "elevation_m": 6031,
+        "elevation_ft": 19787,
+        "type": "Stratovolcano",
+        "last_eruption": "5250 BCE",
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": null,
+        "lat": -24.396,
+        "lon": -68.246,
+        "border_note": "Chile-Argentina border",
+        "rank": 10
+      },
+      {
+        "id": 355124,
+        "name": "Falso Azufre",
+        "slug": "falso-azufre",
+        "elevation_m": 5906,
+        "elevation_ft": 19377,
+        "type": "Complex",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -26.8,
+        "lon": -68.37,
+        "border_note": "Chile-Argentina border",
+        "rank": 11
+      },
+      {
+        "id": 355200,
+        "name": "Peinado",
+        "slug": "peinado",
+        "elevation_m": 5741,
+        "elevation_ft": 18835,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -26.623,
+        "lon": -68.116,
+        "border_note": null,
+        "rank": 12
+      },
+      {
+        "id": 355120,
+        "name": "Lastarria",
+        "slug": "lastarria",
+        "elevation_m": 5706,
+        "elevation_ft": 18720,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -25.168,
+        "lon": -68.507,
+        "border_note": "Chile-Argentina border",
+        "rank": 13
+      },
+      {
+        "id": 357010,
+        "name": "Tupungatito",
+        "slug": "tupungatito",
+        "elevation_m": 5660,
+        "elevation_ft": 18570,
+        "type": "Stratovolcano",
+        "last_eruption": "1987",
+        "status": "Active",
+        "eruption_count": 18,
+        "vei_max": 2,
+        "lat": -33.425,
+        "lon": -69.797,
+        "border_note": "Chile-Argentina border",
+        "rank": 14
+      },
+      {
+        "id": 355121,
+        "name": "Cordon del Azufre",
+        "slug": "cordon-del-azufre",
+        "elevation_m": 5481,
+        "elevation_ft": 17982,
+        "type": "Complex",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -25.336,
+        "lon": -68.521,
+        "border_note": "Chile-Argentina border",
+        "rank": 15
+      },
+      {
+        "id": 355112,
+        "name": "Corrida de Cori Volcanic Field",
+        "slug": "corrida-de-cori-volcanic-field",
+        "elevation_m": 5451,
+        "elevation_ft": 17884,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -25.083,
+        "lon": -68.367,
+        "border_note": "Chile-Argentina border",
+        "rank": 16
+      },
+      {
+        "id": 355122,
+        "name": "Bayo Gorbea, Cerro",
+        "slug": "bayo-gorbea-cerro",
+        "elevation_m": 5413,
+        "elevation_ft": 17759,
+        "type": "Complex",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -25.414,
+        "lon": -68.588,
+        "border_note": "Chile-Argentina border",
+        "rank": 17
+      },
+      {
+        "id": 357021,
+        "name": "Maipo",
+        "slug": "maipo",
+        "elevation_m": 5323,
+        "elevation_ft": 17464,
+        "type": "Caldera",
+        "last_eruption": "1912",
+        "status": "Active",
+        "eruption_count": 4,
+        "vei_max": 2,
+        "lat": -34.164,
+        "lon": -69.832,
+        "border_note": "Chile-Argentina border",
+        "rank": 18
+      },
+      {
+        "id": 357023,
+        "name": "Atuel, Caldera del",
+        "slug": "atuel-caldera-del",
+        "elevation_m": 5189,
+        "elevation_ft": 17024,
+        "type": "Caldera",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -34.592,
+        "lon": -69.921,
+        "border_note": null,
+        "rank": 19
+      },
+      {
+        "id": 357024,
+        "name": "Risco Plateado",
+        "slug": "risco-plateado",
+        "elevation_m": 4999,
+        "elevation_ft": 16401,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -34.917,
+        "lon": -69.981,
+        "border_note": null,
+        "rank": 20
+      },
+      {
+        "id": 355210,
+        "name": "Blanco, Cerro",
+        "slug": "blanco-cerro",
+        "elevation_m": 4670,
+        "elevation_ft": 15322,
+        "type": "Caldera",
+        "last_eruption": "2300 BCE",
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": 7,
+        "lat": -26.7657,
+        "lon": -67.746,
+        "border_note": null,
+        "rank": 21
+      },
+      {
+        "id": 355161,
+        "name": "Unnamed",
+        "slug": "unnamed",
+        "elevation_m": 4652,
+        "elevation_ft": 15262,
+        "type": "Pyroclastic cone",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -25.078,
+        "lon": -68.266,
+        "border_note": null,
+        "rank": 22
+      },
+      {
+        "id": 357072,
+        "name": "Tromen Volcanic Plateau",
+        "slug": "tromen-volcanic-plateau",
+        "elevation_m": 4114,
+        "elevation_ft": 13497,
+        "type": "Stratovolcano(es)",
+        "last_eruption": "1822",
+        "status": "Active",
+        "eruption_count": 2,
+        "vei_max": 3,
+        "lat": -37.144,
+        "lon": -70.033,
+        "border_note": null,
+        "rank": 23
+      },
+      {
+        "id": 357122,
+        "name": "Lanin",
+        "slug": "lanin",
+        "elevation_m": 3776,
+        "elevation_ft": 12388,
+        "type": "Stratovolcano",
+        "last_eruption": "560",
+        "status": "Historically active",
+        "eruption_count": 8,
+        "vei_max": 0,
+        "lat": -39.637,
+        "lon": -71.502,
+        "border_note": "Chile-Argentina border",
+        "rank": 24
+      },
+      {
+        "id": 357066,
+        "name": "Payun Matru",
+        "slug": "payun-matru",
+        "elevation_m": 3715,
+        "elevation_ft": 12188,
+        "type": "Volcanic field",
+        "last_eruption": "5050 BCE",
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": 0,
+        "lat": -36.422,
+        "lon": -69.241,
+        "border_note": null,
+        "rank": 25
+      },
+      {
+        "id": 358011,
+        "name": "Tronador",
+        "slug": "tronador",
+        "elevation_m": 3478,
+        "elevation_ft": 11411,
+        "type": "Stratovolcano",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -41.157,
+        "lon": -71.885,
+        "border_note": "Chile-Argentina border",
+        "rank": 26
+      },
+      {
+        "id": 357041,
+        "name": "Infiernillo",
+        "slug": "infiernillo",
+        "elevation_m": 3007,
+        "elevation_ft": 9865,
+        "type": "Volcanic field",
+        "last_eruption": "6890 BCE",
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": null,
+        "lat": -35.123,
+        "lon": -69.9,
+        "border_note": null,
+        "rank": 27
+      },
+      {
+        "id": 357090,
+        "name": "Copahue",
+        "slug": "copahue",
+        "elevation_m": 2953,
+        "elevation_ft": 9688,
+        "type": "Stratovolcano",
+        "last_eruption": "2024",
+        "status": "Active",
+        "eruption_count": 21,
+        "vei_max": 2,
+        "lat": -37.856,
+        "lon": -71.183,
+        "border_note": "Chile-Argentina border",
+        "rank": 28
+      },
+      {
+        "id": 357123,
+        "name": "Huanquihue Group",
+        "slug": "huanquihue-group",
+        "elevation_m": 2189,
+        "elevation_ft": 7182,
+        "type": "Stratovolcano(es)",
+        "last_eruption": "1750",
+        "status": "Historically active",
+        "eruption_count": 1,
+        "vei_max": null,
+        "lat": -39.887,
+        "lon": -71.58,
+        "border_note": null,
+        "rank": 29
+      },
+      {
+        "id": 357102,
+        "name": "Blanca, Laguna",
+        "slug": "blanca-laguna",
+        "elevation_m": 1700,
+        "elevation_ft": 5577,
+        "type": "Volcanic field",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -39.02,
+        "lon": -70.37,
+        "border_note": null,
+        "rank": 30
+      },
+      {
+        "id": 358025,
+        "name": "Crater Basalt Volcanic Field",
+        "slug": "crater-basalt-volcanic-field",
+        "elevation_m": 1344,
+        "elevation_ft": 4409,
+        "type": "Volcanic field",
+        "last_eruption": "Unknown",
+        "status": "Holocene",
+        "eruption_count": 0,
+        "vei_max": null,
+        "lat": -42.018,
+        "lon": -70.194,
+        "border_note": null,
+        "rank": 31
+      },
+      {
+        "id": 358080,
+        "name": "Pali-Aike Volcanic Field",
+        "slug": "pali-aike-volcanic-field",
+        "elevation_m": 282,
+        "elevation_ft": 925,
+        "type": "Volcanic field",
+        "last_eruption": "5550 BCE",
+        "status": "Holocene",
+        "eruption_count": 1,
+        "vei_max": null,
+        "lat": -52.082,
+        "lon": -69.698,
+        "border_note": "Chile-Argentina border",
+        "rank": 32
+      }
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Ojos del Salado, Nevados",
+      "elevation": 6879,
+      "slug": "ojos-del-salado-nevados"
+    },
+    {
+      "name": "Llullaillaco",
+      "elevation": 6739,
+      "slug": "llullaillaco"
+    },
+    {
+      "name": "Tipas",
+      "elevation": 6658,
+      "slug": "tipas"
+    },
+    {
+      "name": "Incahuasi, Nevado de",
+      "elevation": 6638,
+      "slug": "incahuasi-nevado-de"
+    },
+    {
+      "name": "Condor, El",
+      "elevation": 6373,
+      "slug": "condor-el"
+    },
+    {
+      "name": "Solo, El",
+      "elevation": 6205,
+      "slug": "solo-el"
+    },
+    {
+      "name": "Nevada, Sierra",
+      "elevation": 6173,
+      "slug": "nevada-sierra"
+    },
+    {
+      "name": "Aracar",
+      "elevation": 6095,
+      "slug": "aracar"
+    },
+    {
+      "name": "San Jose",
+      "elevation": 6070,
+      "slug": "san-jose"
+    },
+    {
+      "name": "Socompa",
+      "elevation": 6031,
+      "slug": "socompa"
+    },
+    {
+      "name": "Falso Azufre",
+      "elevation": 5906,
+      "slug": "falso-azufre"
+    },
+    {
+      "name": "Peinado",
+      "elevation": 5741,
+      "slug": "peinado"
+    },
+    {
+      "name": "Lastarria",
+      "elevation": 5706,
+      "slug": "lastarria"
+    },
+    {
+      "name": "Tupungatito",
+      "elevation": 5660,
+      "slug": "tupungatito"
+    },
+    {
+      "name": "Cordon del Azufre",
+      "elevation": 5481,
+      "slug": "cordon-del-azufre"
+    },
+    {
+      "name": "Corrida de Cori Volcanic Field",
+      "elevation": 5451,
+      "slug": "corrida-de-cori-volcanic-field"
+    },
+    {
+      "name": "Bayo Gorbea, Cerro",
+      "elevation": 5413,
+      "slug": "bayo-gorbea-cerro"
+    },
+    {
+      "name": "Maipo",
+      "elevation": 5323,
+      "slug": "maipo"
+    },
+    {
+      "name": "Atuel, Caldera del",
+      "elevation": 5189,
+      "slug": "atuel-caldera-del"
+    },
+    {
+      "name": "Risco Plateado",
+      "elevation": 4999,
+      "slug": "risco-plateado"
+    },
+    {
+      "name": "Blanco, Cerro",
+      "elevation": 4670,
+      "slug": "blanco-cerro"
+    },
+    {
+      "name": "Unnamed",
+      "elevation": 4652,
+      "slug": "unnamed"
+    },
+    {
+      "name": "Tromen Volcanic Plateau",
+      "elevation": 4114,
+      "slug": "tromen-volcanic-plateau"
+    },
+    {
+      "name": "Lanin",
+      "elevation": 3776,
+      "slug": "lanin"
+    },
+    {
+      "name": "Payun Matru",
+      "elevation": 3715,
+      "slug": "payun-matru"
+    },
+    {
+      "name": "Tronador",
+      "elevation": 3478,
+      "slug": "tronador"
+    },
+    {
+      "name": "Infiernillo",
+      "elevation": 3007,
+      "slug": "infiernillo"
+    },
+    {
+      "name": "Copahue",
+      "elevation": 2953,
+      "slug": "copahue"
+    },
+    {
+      "name": "Huanquihue Group",
+      "elevation": 2189,
+      "slug": "huanquihue-group"
+    },
+    {
+      "name": "Blanca, Laguna",
+      "elevation": 1700,
+      "slug": "blanca-laguna"
+    },
+    {
+      "name": "Crater Basalt Volcanic Field",
+      "elevation": 1344,
+      "slug": "crater-basalt-volcanic-field"
+    },
+    {
+      "name": "Pali-Aike Volcanic Field",
+      "elevation": 282,
+      "slug": "pali-aike-volcanic-field"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -4200,
+      "volcano": "Cerro Blanco",
+      "vei": 7,
+      "label": "Largest Holocene eruption in the Central Andes — VEI 7, >100 km³ tephra"
+    },
+    {
+      "year": -6890,
+      "volcano": "Infiernillo",
+      "vei": null,
+      "label": "Basaltic eruption at back-arc Infiernillo volcanic field"
+    },
+    {
+      "year": -5250,
+      "volcano": "Socompa",
+      "vei": null,
+      "label": "Eruption of Socompa (Chile-Argentina border)"
+    },
+    {
+      "year": -5050,
+      "volcano": "Payun Matru",
+      "vei": 0,
+      "label": "Most recent eruption at Payun Matru back-arc field"
+    },
+    {
+      "year": 560,
+      "volcano": "Lanín",
+      "vei": 0,
+      "label": "Most recent eruption of Lanín"
+    },
+    {
+      "year": 750,
+      "volcano": "Ojos del Salado",
+      "vei": null,
+      "label": "Most recent eruption of the world's highest volcano"
+    },
+    {
+      "year": 1750,
+      "volcano": "Huanquihue Group",
+      "vei": null,
+      "label": "Eruption of Huanquihue Group in Neuquén"
+    },
+    {
+      "year": 1822,
+      "volcano": "Tromen",
+      "vei": 3,
+      "label": "Most recent confirmed eruption entirely within Argentina"
+    },
+    {
+      "year": 1877,
+      "volcano": "Llullaillaco",
+      "vei": 2,
+      "label": "Eruption of world's highest historically active volcano"
+    },
+    {
+      "year": 1912,
+      "volcano": "Maipo",
+      "vei": 2,
+      "label": "Eruption of Maipo caldera (border)"
+    },
+    {
+      "year": 1960,
+      "volcano": "San José",
+      "vei": 2,
+      "label": "Eruption of San José (border)"
+    },
+    {
+      "year": 1987,
+      "volcano": "Tupungatito",
+      "vei": 2,
+      "label": "Most recent eruption of Tupungatito (border)"
+    },
+    {
+      "year": 2024,
+      "volcano": "Copahue",
+      "vei": null,
+      "label": "Copahue eruption — most recent activity along Argentine border"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 3
+    },
+    {
+      "vei": 1,
+      "count": 6
+    },
+    {
+      "vei": 2,
+      "count": 42
+    },
+    {
+      "vei": 3,
+      "count": 1
+    },
+    {
+      "vei": 7,
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Ojos del Salado (6,879 m / 22,569 ft) on the Chile-Argentina border is the highest volcano on Earth — and the second highest peak in the Western Hemisphere after Aconcagua.",
+    "The VEI 7 eruption of Cerro Blanco approximately 4,200 years ago was the largest volcanic event in the Central Andes during the Holocene, ejecting over 100 km³ of rhyolitic material.",
+    "The summit of Ojos del Salado contains a small crater lake at approximately 6,390 m elevation — considered the highest lake in the world.",
+    "Three extraordinarily preserved Inca child mummies were discovered near the summit of Llullaillaco (6,739 m) in 1999, sacrificed approximately 500 years ago in a ceremony called capacocha.",
+    "Argentina has a 700-km volcanic gap between approximately 28°S and 33°S, caused by flat-slab subduction of the Nazca Plate that prevents magma generation.",
+    "Copahue volcano has erupted 21 times in recorded history — more than all volcanoes entirely within Argentina combined.",
+    "The 2011 eruption of Puyehue-Cordón Caulle (in Chile) deposited ash across Argentine Patagonia, closing airports as far as Buenos Aires and causing over US$300 million in losses.",
+    "Tipas (6,658 m) is the tallest volcanic complex located entirely within Argentine borders, though it has no confirmed Holocene eruptions.",
+    "The Pali-Aike Volcanic Field in Santa Cruz Province, near the Strait of Magellan, is one of the southernmost volcanic fields in South America.",
+    "Argentina's volcanic monitoring agency (OAVV) was established only in 2012, partly in response to the devastating ashfall from the 2011 Chilean eruption.",
+    "Lanín volcano (3,776 m) in Neuquén Province is one of the most climbed volcanoes in South America, with guided ascents attracting thousands of mountaineers annually.",
+    "Cerro Blanco caldera continues to show measurable subsidence in satellite geodetic surveys, indicating ongoing adjustments in the magmatic system beneath the caldera."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Argentina?",
+      "answer": "Argentina has 14 Holocene volcanoes entirely within its national borders and shares 18 additional volcanic centers with Chile along the Andean frontier, for a total of 32 volcanic centers with Argentine territory. The count varies between sources because many of the Andes' most prominent volcanoes sit directly on the international border. Argentina's volcanoes span from the Puna plateau in the northwest (approximately 22°S) to the Pali-Aike Volcanic Field near the Strait of Magellan in the south (approximately 52°S)."
+    },
+    {
+      "question": "What is the tallest volcano in Argentina?",
+      "answer": "The tallest volcano in Argentina is Ojos del Salado at 6,879 m (22,569 ft), which is also the highest volcano on Earth. It sits on the Chile-Argentina border in the Atacama region. The tallest volcanic complex entirely within Argentine borders is Tipas at 6,658 m (21,844 ft) in Catamarca Province, followed by El Condor at 6,373 m (20,909 ft). Argentina's volcanic territory includes 10 volcanic peaks exceeding 5,000 m, making it one of the highest-altitude volcanic regions on the planet."
+    },
+    {
+      "question": "Are there active volcanoes in Argentina?",
+      "answer": "Argentina has limited volcanic activity exclusively within its borders — the Tromen Volcanic Plateau in Neuquén Province last erupted in 1822, the only confirmed historical eruption entirely within Argentina. However, several volcanoes on the Chile-Argentina border are highly active: Copahue erupted most recently in 2024, Tupungatito last erupted in 1987, and Llullaillaco erupted in 1877. Argentina is also heavily affected by eruptions from Chilean volcanoes, as prevailing westerly winds carry volcanic ash eastward across the border."
+    },
+    {
+      "question": "What was Argentina's largest volcanic eruption?",
+      "answer": "The largest volcanic eruption in Argentine territory was the VEI 7 event at Cerro Blanco (Robledo) caldera approximately 4,200 years ago. This rhyolitic Plinian eruption ejected over 100 km³ of tephra, deposited ashfall across an estimated 440,000 km² of northwestern Argentina and neighboring countries, and produced extensive ignimbrite flows. The eruption is comparable in scale to the 1815 eruption of Tambora in Indonesia and represents the largest known Holocene eruption in the entire Central Andes volcanic zone."
+    },
+    {
+      "question": "Why is there a volcanic gap in central Argentina?",
+      "answer": "Central Argentina (between approximately 28°S and 33°S, covering San Juan and Mendoza provinces) has no active volcanoes despite sitting above the Nazca-South American subduction zone. This is caused by flat-slab subduction: in this segment, the Nazca Plate descends at an unusually shallow angle (less than 10°), sliding nearly horizontally for hundreds of kilometers beneath the continent instead of plunging steeply into the mantle. This prevents the formation of the hot mantle wedge needed to generate magma. North and south of this flat-slab segment, the subduction angle steepens, and volcanic activity resumes."
+    },
+    {
+      "question": "Can you climb volcanoes in Argentina?",
+      "answer": "Yes, Argentina offers excellent volcanic mountaineering. Lanín (3,776 m) is the most popular volcanic ascent — guided two-day climbs depart from Junin de los Andes in Neuquén Province. For experienced high-altitude mountaineers, Ojos del Salado (6,879 m) is typically approached from Fiambalá in Catamarca Province and requires no technical climbing, though extreme altitude acclimatization is essential. The climbing season runs from December through February. The Copahue-Caviahue area offers accessible volcanic tourism with hot springs and fumarole hikes at lower elevations."
+    },
+    {
+      "question": "What are the Llullaillaco mummies?",
+      "answer": "The Llullaillaco mummies are three extraordinarily preserved Inca child remains discovered in 1999 at approximately 6,700 m elevation near the summit of Llullaillaco volcano (6,739 m) on the Chile-Argentina border. The children — two girls and a boy, aged approximately 6 to 15 — were sacrificed roughly 500 years ago in a ritual called capacocha. The extreme cold and aridity of the summit environment preserved their bodies, clothing, and offerings in remarkable detail. They are now displayed at the Museum of High Altitude Archaeology (MAAM) in Salta, Argentina, and are considered among the best-preserved human remains ever found."
+    },
+    {
+      "question": "How does volcanic ash from Chile affect Argentina?",
+      "answer": "Volcanic ash from Chilean eruptions frequently impacts Argentina because prevailing westerly winds carry airborne tephra eastward across the Andes. The most dramatic recent example was the 2011 eruption of Puyehue-Cordón Caulle, which deposited centimeters of ash across Patagonian towns including Bariloche, killed livestock, disrupted agriculture, and forced airport closures as far as Buenos Aires. Copahue volcano regularly deposits ash on the Argentine resort town of Caviahue. This trans-border hazard is a major reason Argentina established its volcanic monitoring observatory (OAVV) in 2012."
+    }
+  ],
+  "people_also_search": [
+    "volcanoes in argentina",
+    "highest volcano in the world",
+    "ojos del salado",
+    "cerro blanco eruption",
+    "llullaillaco mummies",
+    "copahue volcano",
+    "lanin volcano climb",
+    "argentina volcanic gap"
+  ],
+  "comparison_table": {
+    "title": "Argentina Compared to Andean Volcanic Countries",
+    "description": "How does Argentina's volcanic profile compare to its Andean neighbors?",
+    "headers": [
+      "Country",
+      "Volcanoes (incl. border)",
+      "Historical Eruptions",
+      "Max VEI",
+      "Tallest Volcano",
+      "Most Active"
+    ],
+    "rows": [
+      [
+        "Argentina",
+        "32 (14 + 18 border)",
+        "~70",
+        "7 (Cerro Blanco)",
+        "Ojos del Salado 6,879 m",
+        "Copahue (21 eruptions)"
+      ],
+      [
+        "Chile",
+        "66 + 18 border",
+        "400+",
+        "6",
+        "Ojos del Salado 6,879 m",
+        "Villarrica (60+ eruptions)"
+      ],
+      [
+        "Peru",
+        "13",
+        "30+",
+        "5",
+        "Coropuna 6,377 m",
+        "Ubinas (25+ eruptions)"
+      ],
+      [
+        "Ecuador",
+        "35",
+        "150+",
+        "5",
+        "Cotopaxi 5,911 m",
+        "Sangay (80+ eruptions)"
+      ],
+      [
+        "Colombia",
+        "13",
+        "25+",
+        "4",
+        "Nevado del Ruiz 5,321 m",
+        "Galeras (20+ eruptions)"
+      ]
+    ]
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcanolist_countries.cfm?country=Argentina",
+      "text": "Smithsonian GVP: Argentina Volcanoes",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://volcano.si.edu/volcanolist_countries.cfm?country=Chile-Argentina",
+      "text": "Smithsonian GVP: Chile-Argentina Border Volcanoes",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/segemar",
+      "text": "SEGEMAR — Argentine Geological Survey",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Argentina",
+      "text": "Britannica: Argentina",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "related_countries": [
+    "chile",
+    "peru",
+    "ecuador",
+    "colombia",
+    "antarctica"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes by Country",
+      "url": "/countries"
+    },
+    {
+      "label": "Volcanoes in Argentina",
+      "url": "/volcanoes-in-argentina"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

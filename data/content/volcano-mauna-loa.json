@@ -1,0 +1,488 @@
+{
+  "slug": "mauna-loa",
+  "volcano_id": 332020,
+  "title": "Mauna Loa",
+  "meta_title": "Mauna Loa — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Mauna Loa is a 4,170 m active shield volcano in Hawaii — the world's largest. Explore its eruption history, 2022 eruption, and visitor guide.",
+  "quick_answer": {
+    "what": "Mauna Loa is an active shield volcano on the island of Hawaiʻi (Big Island), United States, rising 4,170 m (13,681 ft) above sea level and approximately 9,170 m (30,085 ft) from the ocean floor — the largest active volcano on Earth by volume and area.",
+    "status": "Active — last erupted November–December 2022. Continuously monitored by USGS Hawaiian Volcano Observatory (HVO). Future eruptions are considered certain.",
+    "famous_for": "Being the world's largest active volcano, with a volume of approximately 74,000 km³ and 111 recorded eruptions. Its 2022 eruption ended a 38-year dormancy and was globally televised.",
+    "danger_level": "Moderate — lava flows from Mauna Loa have historically threatened Hilo (population ~45,000) and other Big Island communities. The volcano's massive rift zones can produce fast-moving flows that reach the coast within hours."
+  },
+  "hero": {
+    "name": "Mauna Loa",
+    "local_name": "Mauna Loa (Hawaiian: 'Long Mountain')",
+    "subtitle": "The Largest Active Volcano on Earth",
+    "country": "United States",
+    "region": "Hawaiʻi (Big Island)",
+    "type": "Shield volcano",
+    "elevation_m": 4170,
+    "elevation_ft": 13681,
+    "status": "Active",
+    "last_eruption": "2022",
+    "coordinates": {
+      "lat": 19.475,
+      "lon": -155.608
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-03530.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "4,170 m (13,681 ft) above sea level; ~9,170 m (30,085 ft) from ocean floor",
+    "type": "Shield volcano",
+    "status": "Active",
+    "last_eruption": "November 27 – December 13, 2022",
+    "first_known_eruption": "~8050 BCE (from geological record)",
+    "total_recorded_eruptions": 111,
+    "vei_max": "2 (1852, 1868)",
+    "country": "United States",
+    "region": "Hawaiʻi — Island of Hawaiʻi (Big Island)",
+    "tectonic_setting": "Intraplate hotspot — Pacific Plate over the Hawaiian mantle plume / Oceanic crust (< 15 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "19.475°N, 155.608°W",
+    "nearest_city": "Hilo — 40 km east; Kailua-Kona — 50 km west",
+    "population_at_risk": "~200,000 on the Island of Hawaiʻi",
+    "summit_crater": "Mokuʻāweoweo Caldera — 6 × 2.5 km (3.7 × 1.5 mi), ~180 m deep",
+    "protected_status": "Hawaiʻi Volcanoes National Park (est. 1916); UNESCO World Heritage Site (1987)",
+    "monitoring_agency": "Hawaiian Volcano Observatory (HVO) — USGS",
+    "unesco_sites_nearby": "Hawaiʻi Volcanoes National Park — UNESCO World Heritage Site (1987)",
+    "smithsonian_id": "332020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=332020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mauna Loa is an active <a href=\"/types-of-volcanoes\">shield volcano</a> on the Island of Hawaiʻi (Big Island), <a href=\"/volcanoes-in-united-states\">United States</a>, rising 4,170 m (13,681 ft) above sea level and approximately 9,170 m (30,085 ft) from the ocean floor — making it the largest active volcano on Earth by both mass (~74,000 km³) and surface area (~5,271 km²). If measured from its base on the seafloor, Mauna Loa is one of the tallest mountains on the planet, exceeding Mount Everest's base-to-peak height. The volcano's Hawaiian name, meaning 'Long Mountain,' describes its gently sloping profile — a defining characteristic of <a href=\"/types-of-volcanoes\">shield volcanoes</a> built almost entirely from fluid basaltic lava flows.\n\nWith 111 recorded eruptions spanning at least 10,000 years — including 33 since the first well-documented eruption in 1843 — Mauna Loa is one of the most active volcanoes in the world, rivaling its immediate neighbor <a href=\"/volcano/kilauea\">Kīlauea</a> for activity frequency. The volcano's most recent eruption, from November 27 to December 13, 2022, ended a 38-year dormancy and produced lava flows from the summit caldera (Mokuʻāweoweo) and the Northeast Rift Zone that were visible from much of the Big Island. Mauna Loa sits above the Hawaiian hotspot — a deep mantle plume that has been generating volcanic islands for at least 80 million years as the Pacific Plate drifts northwestward. The Hawaiian Volcano Observatory (HVO), operated by the USGS and situated on neighboring Kīlauea, has monitored Mauna Loa since its founding in 1912. Almost 90% of the volcano's surface is covered by lava flows less than 4,000 years old, testimony to the extraordinarily high eruption rate that makes Mauna Loa one of the most productive volcanic factories on Earth. The volcano lies within <a href=\"https://www.nps.gov/havo/index.htm\" target=\"_blank\" rel=\"noopener\">Hawaiʻi Volcanoes National Park</a>, a UNESCO World Heritage Site since 1987."
+    },
+    "geology_and_formation": {
+      "content": "Mauna Loa is the product of the Hawaiian hotspot — a fixed mantle plume that generates magma as the Pacific Plate moves northwestward over it at approximately 7–9 cm (3–3.5 in) per year. This tectonic conveyor belt has produced the Hawaiian-Emperor seamount chain, a 6,000-km string of volcanic islands and submerged seamounts stretching from the Big Island to the Aleutian Trench, with progressively older volcanoes to the northwest. Mauna Loa is currently in its tholeiitic shield-building stage — the most voluminous phase of a Hawaiian volcano's life cycle, during which rapid effusion of fluid basaltic lava constructs the bulk of the edifice.\n\nThe volcano began growing on the ocean floor approximately 600,000–1,000,000 years ago and breached the surface roughly 400,000 years ago. Its total volume of approximately 74,000 km³ — roughly 65,000 km³ of which lies below sea level — makes it the single most massive mountain on Earth (roughly 100 times the volume of <a href=\"/volcano/st-helens\">Mount St. Helens</a>). The weight of Mauna Loa has depressed the underlying oceanic crust by approximately 8 km, meaning the volcano's true structural height from its depressed base to its summit exceeds 17 km.\n\nEruptions typically occur from three zones: the Mokuʻāweoweo summit caldera (6 × 2.5 km), the Northeast Rift Zone extending 40+ km toward Hilo, and the Southwest Rift Zone extending 60+ km toward South Point. The caldera formed through incremental collapse as magma drained from the summit reservoir during rift zone eruptions. Two of the youngest large debris avalanches documented in Hawaiʻi traveled nearly 100 km from Mauna Loa; the second Alika avalanche was emplaced about 105,000 years ago, indicating that catastrophic flank failure has been a recurring process. Mauna Loa's basaltic magma — low in silica and dissolved gases compared to subduction zone volcanoes — typically produces effusive eruptions with lava fountains and fast-moving flows rather than the explosive Plinian columns characteristic of <a href=\"/types-of-volcanoes\">stratovolcanoes</a> like <a href=\"/volcano/vesuvius\">Vesuvius</a> or <a href=\"/volcano/fujisan\">Mount Fuji</a>."
+    },
+    "eruption_history_overview": {
+      "content": "Mauna Loa's eruption record in the Smithsonian Global Volcanism Program database includes 111 eruptions — 110 confirmed and 1 uncertain — spanning from approximately 8050 BCE to 2022 CE, making it one of the most prolific volcanoes in the database. Due to the effusive nature of Hawaiian volcanism, nearly all eruptions register at VEI 0 (non-explosive), with only two events reaching VEI 2 (1852 and 1868) and seven reaching VEI 1. This low explosivity belies the enormous volumes of lava produced: a single Mauna Loa eruption can generate lava flows covering hundreds of square kilometers.\n\nThe geological record shows nearly continuous activity over the past 10,000 years: approximately 90% of the volcano's surface is covered by lava less than 4,000 years old. Beginning about 1,500 years ago, a series of voluminous overflows from a summit lava lake covered roughly 25% of the surface. Over the last 750 years — since the formation of the current Mokuʻāweoweo caldera — an additional 25% has been resurfaced. The well-documented historical period (since 1832) records 33 eruptions, averaging roughly one every 5–6 years, though the actual interval varies from less than a year to 38 years (the 1984–2022 gap). Eruptions have originated from the summit, the Northeast Rift Zone, and the Southwest Rift Zone in roughly equal proportion, with Northeast Rift eruptions posing the greatest threat to the city of Hilo."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2022 Eruption — Mauna Loa Reawakens After 38 Years",
+          "content": "On November 27, 2022, Mauna Loa erupted for the first time since 1984, ending the longest repose period in its recorded history. The eruption began at approximately 11:30 PM local time in the Mokuʻāweoweo summit caldera, with lava fountains visible from Kona and Hilo. Within hours, fissures opened on the Northeast Rift Zone at elevations of approximately 3,900–3,200 m, sending fast-moving pāhoehoe and ʻaʻā lava flows downslope toward the Saddle Road (Daniel K. Inouye Highway) — the main route connecting the east and west sides of the Big Island.\n\nAt its peak, the lava flow front advanced approximately 400 m per hour, prompting road closures and civil defense alerts. Lava came within approximately 2.8 km of Saddle Road before the eruption rate diminished and flows stagnated. The eruption produced voluminous lava — covering approximately 14 km² of land — and spectacular lava fountains visible across the island, attracting worldwide media attention. The eruption ended on December 13, 2022, after approximately 16 days. No fatalities or structural damage occurred, though air quality was degraded by volcanic fog (vog) across much of the island. The HVO had issued elevated alert levels weeks before the eruption based on increasing seismicity and ground inflation, demonstrating the effectiveness of modern monitoring."
+        },
+        {
+          "title": "The 1984 Eruption — Lava Threatens Hilo",
+          "content": "The 1984 eruption remains the most significant recent event in Mauna Loa's history due to the direct threat it posed to Hilo, the Big Island's largest city (population ~45,000). Beginning on March 25, 1984, with a brief summit eruption, activity quickly migrated to the Northeast Rift Zone, where fissures at approximately 2,900 m elevation produced lava flows that advanced steadily toward Hilo, 40 km to the northeast. Over the eruption's 22-day duration, flows descended to within approximately 6.5 km of the Hilo city limits before ceasing on April 15. The lava flow advanced an average of 1–2 km per day, and civil defense authorities prepared evacuation plans for portions of Hilo. The eruption covered approximately 48 km² with lava and demonstrated that Northeast Rift eruptions can directly threaten the island's population center."
+        },
+        {
+          "title": "The 1950 Eruption — Fastest Lava Flows in Modern Hawaiian History",
+          "content": "The June 1, 1950, eruption from the Southwest Rift Zone at approximately 2,440 m produced some of the fastest-moving lava flows ever documented on Mauna Loa. Fissures opened along a 20-km stretch of the rift zone, and lava reached the ocean — a distance of approximately 24 km — in just 3 hours, an average speed of roughly 8 km/h (5 mph). The flows destroyed buildings, severed roads, and cut through the coastal village of Hoʻōkena. The eruption lasted approximately 23 days and resurfaced substantial areas of the southwest coast. This event dramatically illustrated that Mauna Loa's lava flows can reach inhabited coastal areas far more quickly than many people assume, leaving very limited evacuation time."
+        },
+        {
+          "title": "The 1935 Eruption — First Attempted Aerial Bombing of Lava",
+          "content": "The eruption of November 21, 1935, from the Northeast Rift Zone produced flows that advanced toward Hilo. In December, with the flow front approximately 19 km from the city, Lieutenant Colonel (later General) George S. Patton and the U.S. Army Air Corps dropped 20 demolition bombs (272 kg each) on the lava tube system feeding the flow, in an attempt to disrupt the lava supply. Thomas A. Jaggar, founder of the Hawaiian Volcano Observatory, had proposed the bombing strategy. The eruption stopped shortly after the bombing, but most volcanologists attribute the cessation to natural decline in eruption rate rather than the bombing itself. The episode remains one of the most unusual human interventions against volcanic activity and has been revisited in public discussion during subsequent eruptions."
+        },
+        {
+          "title": "The 1868 Eruption and Earthquake — VEI 2",
+          "content": "The eruption of March 27, 1868, from the Southwest Rift Zone was accompanied by the most powerful earthquake in Hawaiian recorded history — a magnitude approximately 7.9 event that triggered landslides, a destructive tsunami, and extensive damage across the southern Big Island. The earthquake killed 77 people — the deadliest natural disaster in Hawaiian history at the time. Mud flows from the earthquake-triggered landslides on the flanks of Mauna Loa swept through the village of Wood Valley, killing 31 people. The eruption itself produced lava flows from vents at approximately 1,000 m elevation on the Southwest Rift Zone that reached the coast. This event demonstrated that Mauna Loa's hazards extend well beyond lava flows to include seismic and mass-wasting events."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mauna Loa is currently in a post-eruption rest phase following the 2022 eruption, with the volcanic alert level at 'Advisory' (yellow) as of late 2023, later returning to 'Normal.' The Hawaiian Volcano Observatory (HVO) — founded in 1912 by Thomas A. Jaggar and operated by the USGS — maintains one of the most comprehensive volcano monitoring networks in the world on Mauna Loa. The system includes more than 60 seismometers, continuous GPS stations measuring ground deformation, tiltmeters, gravimeters, gas emission spectrometers (measuring SO₂ and CO₂), satellite-based InSAR, and visual/infrared webcams at the summit and along the rift zones.\n\nPrior to the 2022 eruption, HVO detected increasing seismic activity, summit inflation, and elevated gas emissions beginning in mid-2022, leading to a raised alert level weeks before the eruption. This successful forecasting allowed emergency managers and residents to prepare. The volcano typically shows clear precursory signals — progressive increases in earthquake rate, ground inflation measured by GPS and tilt, and changes in summit caldera gas chemistry — weeks to months before eruptions. Mauna Loa's future eruption is considered certain by volcanologists; the only questions are when, where on the volcano (summit, NE rift, or SW rift), and how voluminous."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Mauna Loa's primary hazard is fast-moving lava flows that can reach populated coastal areas within hours to days. The volcano's three main eruption zones — the summit caldera, the Northeast Rift Zone, and the Southwest Rift Zone — each direct flows toward different communities. Northeast Rift eruptions threaten Hilo (population ~45,000, the Big Island's largest city), as demonstrated in 1984 when flows came within 6.5 km of the city limits. Southwest Rift eruptions can send flows to the Kona coast, as in 1950 when lava reached the ocean in just 3 hours. Approximately 200,000 people live on the Island of Hawaiʻi, and Mauna Loa's lava flows have historically reached every coast except the northeast (Hamakua Coast).\n\nUnlike explosive volcanoes, Mauna Loa rarely produces pyroclastic flows, ashfall, or thick tephra deposits — nearly all eruptions are VEI 0. However, the sheer volume and speed of basaltic lava flows, combined with limited road networks on the Big Island, create significant evacuation challenges. Volcanic fog (vog) — a haze of SO₂ and sulfuric acid aerosols — affects air quality across the island and leeward areas during eruptions. Coastal lava entry produces laze (lava haze) — hydrochloric acid fumes and glass particles — hazardous to anyone nearby. The USGS assigns Mauna Loa a very high threat score, ranking it among the <a href=\"/most-active-volcanoes\">most dangerous volcanoes</a> in the United States alongside <a href=\"/volcano/kilauea\">Kīlauea</a>, <a href=\"/volcano/st-helens\">Mount St. Helens</a>, and <a href=\"/volcano/rainier\">Mount Rainier</a>. Debris avalanches — massive flank collapses — have occurred in Mauna Loa's past and represent a low-probability but catastrophic tsunami-generating hazard."
+    },
+    "geography_and_physical_description": {
+      "content": "Mauna Loa dominates the Island of Hawaiʻi, comprising approximately 51% of the island's surface area (5,271 km² / 2,035 mi²). Its profile is the classic shield shape — broad, gently domed flanks with slopes averaging only 4–8° — the result of hundreds of thousands of overlapping fluid lava flows. Despite this gentle appearance, the volcano's summit stands at 4,170 m (13,681 ft) above sea level, high enough that snow regularly caps the peak in winter.\n\nThe summit is dominated by Mokuʻāweoweo Caldera, a roughly 6 × 2.5 km (3.7 × 1.5 mi) depression approximately 180 m (590 ft) deep, formed through incremental collapse during rift zone drain-out events. Within this older caldera lie several smaller pit craters, including Lua Poholo and South Pit, each the product of localized collapse. The Northeast and Southwest Rift Zones extend as elongated ridges from the summit — the NE rift running approximately 40 km toward Hilo and the SW rift extending more than 60 km toward South Point, the southernmost point in the United States.\n\nMauna Loa's base extends roughly 5,000 m below sea level, and the weight of the mountain has depressed the oceanic crust an additional ~8 km, giving it a total structural height of approximately 17 km from depressed base to summit — far exceeding Mount Everest's height above sea level. The volcano is flanked by <a href=\"/volcano/kilauea\">Kīlauea</a> to the southeast, Mauna Kea to the north (at 4,207 m, slightly taller above sea level but far smaller in volume), and Hualālai to the northwest. Together, these five volcanoes (including submerged Lōʻihi seamount to the south) form the Island of Hawaiʻi — the youngest and largest island in the chain."
+    },
+    "climate_and_global_impact": {
+      "content": "Individual Mauna Loa eruptions have negligible global climate impact due to their low explosivity — the effusive lava flows characteristic of shield volcanism do not inject significant quantities of sulfur dioxide or fine ash into the stratosphere. The highest VEI recorded for Mauna Loa is 2, far below the VEI 4–6 threshold typically needed for measurable climate effects. However, the volcano has made a different and profoundly important contribution to climate science: the Mauna Loa Observatory, situated at 3,397 m (11,145 ft) on the northern flank, has measured atmospheric CO₂ continuously since 1958. The resulting 'Keeling Curve' — named after scientist Charles David Keeling — is the most iconic dataset in climate science, documenting the rise of atmospheric CO₂ from 315 ppm in 1958 to over 425 ppm in 2024. The observatory's high-altitude, mid-Pacific location provides measurements free of local pollution influences, making it the global benchmark for atmospheric greenhouse gas monitoring.\n\nRegionally, Mauna Loa eruptions produce significant vog (volcanic fog) composed of SO₂ and sulfate aerosols that degrades air quality across the leeward side of the Big Island and can reach neighboring islands. During the prolonged Kīlauea eruption of 2008–2018, combined SO₂ emissions from both volcanoes created persistent poor air quality across the state."
+    },
+    "cultural_significance": {
+      "content": "In Native Hawaiian tradition, Mauna Loa is sacred — the mountain is intimately associated with Pele, the goddess of fire and volcanoes, who is said to reside in the summit caldera. Hawaiian oral traditions describe Pele's migration from island to island along the volcanic chain, eventually settling in the active volcanoes of the Big Island. Offerings are placed at eruption sites to honor Pele, and taking lava rock from the volcano is considered both culturally disrespectful and, in local superstition, a source of bad luck.\n\nThe summit area and rift zones hold deep cultural significance for Native Hawaiians as wahi pana (storied places). The name Mokuʻāweoweo, the summit caldera, translates approximately to 'fish section colored red,' referencing the lava's glow. Hawaiian land division systems (ahupuaʻa) radiate from the summit to the coast, reflecting the volcano's central role in organizing island life.\n\nIn modern scientific culture, Mauna Loa is synonymous with volcano monitoring — the Hawaiian Volcano Observatory, founded in 1912, pioneered many of the techniques used worldwide today. The Mauna Loa Observatory's Keeling Curve is recognized as one of the most important scientific measurements in history. Hawaiʻi Volcanoes National Park, encompassing both Mauna Loa and Kīlauea, was designated a UNESCO World Heritage Site in 1987 and an International Biosphere Reserve in 1980, recognizing its geological, ecological, and cultural importance."
+    },
+    "visiting_and_tourism": {
+      "content": "Mauna Loa lies within Hawaiʻi Volcanoes National Park (entry fee: $30 per vehicle, valid 7 days). While neighboring Kīlauea receives the majority of visitor attention due to its more accessible eruptions, Mauna Loa offers unique experiences for adventurous visitors. The Mauna Loa Trail begins at the Mauna Loa Lookout (2,030 m / 6,662 ft) on the mountain's eastern flank and ascends 31 km (19 mi) to the summit caldera. The full round trip typically takes 3–4 days with an overnight at the Red Hill cabin (3,040 m / 9,974 ft) and the Mauna Loa summit cabin (4,038 m / 13,250 ft), both maintained by the National Park Service (free permits required). The summit hike is strenuous, exposed to extreme weather, and crosses recent lava flows with no shade or water sources — it is not a casual trek.\n\nAlternatively, the Mauna Loa Observatory Road on the north flank provides vehicle access to 3,397 m, where the atmospheric observatory is located (the observatory itself is not open to the public). From this elevation, a shorter but still challenging trail leads to the summit. The summit area offers stunning views of Mokuʻāweoweo Caldera and, on clear days, panoramas spanning all five of the Big Island's volcanoes. For visitors seeking less demanding experiences, the Kīpukapuaulu trail (Bird Park) near the Mauna Loa Lookout trailhead passes through a kīpuka — an island of old-growth forest surrounded by younger lava flows — offering excellent native bird watching. The best visiting months are May through October, when weather is most stable at high elevations."
+    },
+    "nearby_volcanoes": {
+      "content": "Mauna Loa shares the Island of Hawaiʻi with four other volcanoes, forming one of the most concentrated volcanic complexes on Earth. <a href=\"/volcano/kilauea\">Kīlauea</a>, located on Mauna Loa's southeastern flank, is the most active volcano in the world by many measures, having erupted almost continuously from 1983 to 2018 and again in 2020 and 2023. Mauna Kea (4,207 m), immediately to the north, is slightly taller above sea level but dormant — its last eruption occurred approximately 4,500 years ago. Hualālai (2,523 m) on the western flank last erupted in 1801 and poses a significant hazard to the Kona coast. Submerged Lōʻihi Seamount, roughly 35 km southeast of the Big Island, is the youngest volcano in the Hawaiian chain, rising approximately 3,000 m above the seafloor but still roughly 975 m below sea level. It represents the earliest stage of the volcanic life cycle that Mauna Loa has nearly completed. Together, these volcanoes represent a complete cross-section of Hawaiian volcanic evolution — from the submarine preshield stage (Lōʻihi) through the prolific shield-building stage (Mauna Loa, Kīlauea) to the post-shield and erosional stages (Mauna Kea, Hualālai)."
+    },
+    "etymology": {
+      "content": "The name Mauna Loa is Hawaiian for 'Long Mountain,' describing the volcano's elongated shield profile when viewed from the coast. The word 'mauna' means 'mountain,' and 'loa' means 'long' or 'vast.' The summit caldera name Mokuʻāweoweo translates approximately to 'fish section colored red' — 'moku' (section/district), 'āweoweo' (a bigeye fish, Priacanthus spp., known for its red coloration) — a vivid reference to the red glow of lava that fills the caldera during eruptions."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mauna Loa Compared to the World's Largest and Most Active Shield Volcanoes",
+      "description": "How does the world's largest active volcano compare to other major shield volcanoes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation (m)",
+        "Volume (km³)",
+        "Last Eruption",
+        "Eruption Count",
+        "Tectonic Setting"
+      ],
+      "rows": [
+        [
+          "Mauna Loa",
+          "United States",
+          "4,170",
+          "~74,000",
+          "2022",
+          "111",
+          "Hotspot"
+        ],
+        [
+          "Kīlauea",
+          "United States",
+          "1,247",
+          "~19,000",
+          "2023",
+          "77",
+          "Hotspot"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632",
+          "~7,500",
+          "2024",
+          "179",
+          "Hotspot"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "3,357",
+          "~500",
+          "2025",
+          "190+",
+          "Subduction (complex)"
+        ],
+        [
+          "Sierra Negra",
+          "Ecuador (Galápagos)",
+          "1,124",
+          "~2,500",
+          "2018",
+          "13",
+          "Hotspot"
+        ]
+      ]
+    },
+    {
+      "title": "Mauna Loa vs Other Hawaiian Volcanoes",
+      "description": "Comparing the five volcanoes that form the Island of Hawaiʻi.",
+      "headers": [
+        "Volcano",
+        "Elevation (m)",
+        "Type",
+        "Volume (km³)",
+        "Last Eruption",
+        "Status",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Mauna Loa",
+          "4,170",
+          "Shield",
+          "~74,000",
+          "2022",
+          "Active",
+          "111"
+        ],
+        [
+          "Kīlauea",
+          "1,247",
+          "Shield",
+          "~19,000",
+          "2023",
+          "Active",
+          "77"
+        ],
+        [
+          "Mauna Kea",
+          "4,207",
+          "Shield",
+          "~32,000",
+          "~2460 BCE",
+          "Dormant",
+          "7"
+        ],
+        [
+          "Hualālai",
+          "2,523",
+          "Shield",
+          "~12,400",
+          "1801",
+          "Active",
+          "7"
+        ],
+        [
+          "Lōʻihi",
+          "-975 (submarine)",
+          "Seamount",
+          "~660",
+          "1996",
+          "Active",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8050,
+      "vei": 0,
+      "label": "Earliest dated eruption — NE rift zone",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2150,
+      "vei": 0,
+      "label": "Prehistoric NE rift eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1843,
+      "vei": 0,
+      "label": "First well-documented eruption — flank and summit",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1852,
+      "vei": 2,
+      "label": "NE rift eruption — one of two VEI 2 events",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1859,
+      "vei": 1,
+      "label": "North flank eruption — lava reached the coast",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1868,
+      "vei": 2,
+      "label": "SW rift eruption + M7.9 earthquake — 77 killed",
+      "deaths": "77",
+      "notable": true
+    },
+    {
+      "year": 1880,
+      "vei": 1,
+      "label": "NE rift eruption — lava advanced toward Hilo",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1935,
+      "vei": 0,
+      "label": "NE rift eruption — first attempted aerial bombing of lava",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1950,
+      "vei": 0,
+      "label": "SW rift eruption — lava reached ocean in 3 hours",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1984,
+      "vei": 0,
+      "label": "NE rift eruption — lava came within 6.5 km of Hilo",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2022,
+      "vei": 0,
+      "label": "Summit and NE rift eruption — ended 38-year dormancy",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (before 1832)",
+      "count": 78,
+      "note": "Geological record — nearly continuous resurfacing"
+    },
+    {
+      "century": "19th (1832–1899)",
+      "count": 22,
+      "note": "Extremely frequent — averaging one eruption every 3 years"
+    },
+    {
+      "century": "20th (1900–1999)",
+      "count": 10,
+      "note": "Including 1935 (bombing), 1950 (fast flows), 1984 (Hilo threat)"
+    },
+    {
+      "century": "21st (2000–present)",
+      "count": 1,
+      "note": "2022 eruption after 38-year repose"
+    }
+  ],
+  "facts": [
+    "Mauna Loa's total volume of approximately 74,000 km³ makes it roughly 100 times larger than Mount St. Helens and the single most massive mountain on Earth.",
+    "Measured from its base on the ocean floor (~5,000 m below sea level), Mauna Loa rises approximately 9,170 m — making it taller than Mount Everest measured base-to-peak.",
+    "The weight of Mauna Loa has depressed the underlying oceanic crust by approximately 8 km, meaning the volcano's true structural height from depressed base to summit exceeds 17 km.",
+    "Almost 90% of Mauna Loa's surface is covered by lava flows less than 4,000 years old — the volcano literally rebuilds its own surface faster than most geological processes can erode it.",
+    "During the 1950 eruption, lava from the Southwest Rift Zone reached the ocean — a distance of 24 km — in just 3 hours, averaging roughly 8 km/h.",
+    "In 1935, the U.S. Army Air Corps dropped 20 demolition bombs on Mauna Loa's lava tubes in the first-ever attempt to divert a volcanic eruption by aerial bombardment — proposed by HVO founder Thomas Jaggar.",
+    "The Mauna Loa Observatory, at 3,397 m on the northern flank, has produced the Keeling Curve — the continuous atmospheric CO₂ record since 1958 that is considered the most important dataset in climate science.",
+    "Mauna Loa's 2022 eruption attracted global media attention as the world's largest active volcano reawakened after 38 years of dormancy — the longest quiet interval in its recorded history.",
+    "The volcano has erupted 33 times since 1843, averaging roughly one eruption every 5–6 years, making it one of the most frequently active volcanoes in the world.",
+    "Mokuʻāweoweo, the summit caldera, is approximately 6 × 2.5 km — large enough to contain the entire city center of a mid-sized city.",
+    "Mauna Loa and neighboring Kīlauea together account for more than half of all historically documented eruptions in the United States.",
+    "Two massive debris avalanches from Mauna Loa's flanks traveled nearly 100 km across the ocean floor — the Alika 2 slide (~105,000 years ago) likely generated a massive tsunami across the Pacific."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mauna Loa the biggest volcano in the world?",
+      "answer": "Mauna Loa is the largest active volcano on Earth by volume (~74,000 km³) and surface area (~5,271 km²). However, Tamu Massif, an extinct underwater volcano in the Pacific Ocean, is larger by area (approximately 310,000 km²), though its volcanic origin is debated. Among the solar system's volcanoes, Olympus Mons on Mars dwarfs all Earth volcanoes. On Earth, Mauna Loa holds the undisputed title of largest currently active volcano. Its mass is so enormous that it has depressed the underlying oceanic crust by approximately 8 km — giving it a true structural height exceeding 17 km from depressed base to summit."
+    },
+    {
+      "question": "When did Mauna Loa last erupt?",
+      "answer": "Mauna Loa's most recent eruption occurred from November 27 to December 13, 2022, lasting approximately 16 days. The eruption began in the Mokuʻāweoweo summit caldera and quickly migrated to the Northeast Rift Zone, producing lava flows that advanced toward Saddle Road — the main highway connecting Hilo and Kona. Lava came within approximately 2.8 km of the road before the eruption ended. This was the volcano's first eruption since 1984, ending a 38-year repose that was the longest in its recorded history. No casualties or structural damage occurred."
+    },
+    {
+      "question": "Is Mauna Loa dangerous?",
+      "answer": "Yes. While Mauna Loa eruptions are typically non-explosive (VEI 0), the primary hazard — fast-moving basaltic lava flows — poses a significant threat to the approximately 200,000 people living on the Island of Hawaiʻi. Lava flows from the Northeast Rift Zone can reach Hilo (population ~45,000) within days, and Southwest Rift flows reached the coast in just 3 hours during the 1950 eruption. Additional hazards include volcanic fog (vog), lava entry into the ocean producing toxic laze, seismic activity, and the remote possibility of catastrophic flank collapse generating Pacific-wide tsunamis. The USGS ranks Mauna Loa among the highest-threat volcanoes in the United States."
+    },
+    {
+      "question": "How tall is Mauna Loa?",
+      "answer": "Mauna Loa's summit stands at 4,170 m (13,681 ft) above sea level. However, this dramatically understates the volcano's true size. Measured from its base on the ocean floor (approximately 5,000 m below sea level), the mountain rises approximately 9,170 m (30,085 ft) — exceeding Mount Everest's 8,849 m above sea level. Furthermore, the weight of the volcano has depressed the underlying oceanic crust by roughly 8 km, meaning the full structural height from the depressed base to the summit exceeds 17,000 m. Despite being slightly shorter above sea level than neighboring Mauna Kea (4,207 m), Mauna Loa is vastly larger in total volume."
+    },
+    {
+      "question": "What type of volcano is Mauna Loa?",
+      "answer": "Mauna Loa is a shield volcano — the largest type of volcano on Earth, built from thousands of overlapping layers of fluid basaltic lava flows. Shield volcanoes have gently sloping flanks (typically 4–8°), in contrast to the steep-sided profile of stratovolcanoes like Mount Fuji or Vesuvius. Mauna Loa's basaltic magma is low in silica and dissolved gases, which allows it to flow freely rather than building up explosive pressure. The name 'shield volcano' comes from the resemblance to a warrior's shield laid flat on the ground. Mauna Loa is the textbook example of this volcano type."
+    },
+    {
+      "question": "How does Mauna Loa compare to Kīlauea?",
+      "answer": "Mauna Loa and Kīlauea are neighboring shield volcanoes fed by the same Hawaiian hotspot, but they differ significantly. Mauna Loa is approximately four times larger by volume (~74,000 km³ vs ~19,000 km³), three times taller above sea level (4,170 m vs 1,247 m), and has more recorded eruptions (111 vs 77). However, Kīlauea has been more continuously active in recent decades — its 1983–2018 East Rift Zone eruption lasted 35 years, and it has erupted several times since. Mauna Loa tends to erupt less frequently but produces larger individual lava flows. Both are monitored by the Hawaiian Volcano Observatory, and both pose significant hazards to Big Island communities."
+    },
+    {
+      "question": "Can you visit Mauna Loa?",
+      "answer": "Yes, Mauna Loa is within Hawaiʻi Volcanoes National Park (entry fee: $30 per vehicle). The primary hiking route, the Mauna Loa Trail, is a 31-km (19-mi) trek from the Mauna Loa Lookout (2,030 m) to the summit caldera, typically completed over 3–4 days with stays at two backcountry cabins (free permit required). The hike is strenuous, crossing barren lava flows at high altitude with no water sources and exposure to extreme weather. A shorter approach via the Mauna Loa Observatory Road reaches 3,397 m by vehicle. For less demanding visits, the Kīpukapuaulu (Bird Park) trail offers an accessible walk through native forest on Mauna Loa's flank."
+    },
+    {
+      "question": "What is the Keeling Curve and what does it have to do with Mauna Loa?",
+      "answer": "The Keeling Curve is the continuous record of atmospheric carbon dioxide concentration measured at the Mauna Loa Observatory since 1958, created by scientist Charles David Keeling. The observatory sits at 3,397 m on Mauna Loa's northern flank — chosen because its high altitude, remote mid-Pacific location, and distance from major pollution sources make it ideal for measuring background atmospheric composition. The curve has documented the rise of CO₂ from 315 parts per million in 1958 to over 425 ppm in 2024, providing the most important direct evidence of human-caused increases in greenhouse gases. It is arguably the most significant scientific dataset produced by any volcanic site."
+    }
+  ],
+  "people_also_search": [
+    "mauna loa eruption 2022",
+    "mauna loa height",
+    "biggest volcano in the world",
+    "mauna loa vs kilauea",
+    "mauna loa last eruption",
+    "hawaii volcanoes national park",
+    "mauna loa observatory keeling curve",
+    "shield volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mauna Loa",
+    "alternateName": [
+      "Long Mountain"
+    ],
+    "description": "Active shield volcano on the Island of Hawaiʻi, United States — the largest active volcano on Earth by volume at approximately 74,000 km³",
+    "geo": {
+      "latitude": 19.475,
+      "longitude": -155.608,
+      "elevation": 4170
+    },
+    "containedInPlace": {
+      "name": "Island of Hawaiʻi",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/mauna-loa"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=332020",
+      "text": "Smithsonian GVP: Mauna Loa",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/mauna-loa",
+      "text": "USGS: Mauna Loa — Hawaiian Volcano Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mauna-Loa",
+      "text": "Britannica: Mauna Loa",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.nps.gov/havo/index.htm",
+      "text": "National Park Service: Hawaiʻi Volcanoes National Park",
+      "type": "tourism"
+    },
+    {
+      "url": "https://gml.noaa.gov/ccgg/trends/",
+      "text": "NOAA: Mauna Loa CO₂ Record (Keeling Curve)",
+      "type": "science"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "st-helens",
+      "rainier",
+      "piton-de-la-fournaise",
+      "fujisan",
+      "etna",
+      "vesuvius"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "kilauea",
+    "piton-de-la-fournaise",
+    "etna",
+    "sierra-negra",
+    "mauna-kea"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Mauna Loa",
+      "url": "/volcano/mauna-loa"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/mauna-loa"
+}

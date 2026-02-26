@@ -1,0 +1,577 @@
+{
+  "slug": "kilauea",
+  "volcano_id": 332010,
+  "title": "Kilauea",
+  "meta_title": "Kilauea Volcano — Eruptions, Lava & Facts | VolcanoAtlas",
+  "meta_description": "Kilauea is one of Earth's most active volcanoes, a 1,222 m shield volcano in Hawaii. 75 eruptions, 2018 crisis, lava lake, and guide.",
+  "quick_answer": {
+    "what": "Kilauea is an active shield volcano on the southeastern coast of the Island of Hawaii (Big Island), United States, rising to 1,222 m (4,009 ft). It is one of the most active volcanoes on Earth.",
+    "status": "Active — most recently erupted January 2025 at Halema'uma'u Crater. Has erupted 75 times in the geological record and near-continuously from 1983 to 2018.",
+    "famous_for": "The extraordinary 35-year continuous eruption (1983–2018) from the Pu'u 'Ō'ō vent on the East Rift Zone, which produced lava flows covering over 100 km², destroyed over 700 structures, and added new coastline to Hawaii.",
+    "danger_level": "Moderate — while eruptions are primarily effusive (lava flows rather than explosions), the 2018 lower East Rift Zone eruption destroyed over 700 homes in the Leilani Estates subdivision. Approximately 50,000 people live in areas potentially affected by lava flows."
+  },
+  "hero": {
+    "name": "Kilauea",
+    "local_name": "Kīlauea",
+    "subtitle": "The World's Most Active Shield Volcano",
+    "country": "United States",
+    "region": "Hawaii",
+    "type": "Shield volcano",
+    "elevation_m": 1222,
+    "elevation_ft": 4009,
+    "status": "Active — most recent eruption January 2025",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 19.421,
+      "lon": -155.287
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-03420.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,222 m (4,009 ft)",
+    "type": "Shield volcano",
+    "status": "Active — most recent eruption December 2024–January 2025",
+    "last_eruption": "December 23, 2024 – January 2025 (Halema'uma'u Crater)",
+    "first_known_eruption": "~4650 BCE (geological), ~1790 (first well-documented historical)",
+    "total_recorded_eruptions": 75,
+    "confirmed_eruptions": 75,
+    "vei_max": "4 (1790, explosive summit eruption)",
+    "country": "United States",
+    "region": "Hawaii, Big Island",
+    "tectonic_setting": "Intraplate hotspot — Hawaiian mantle plume, oceanic crust (<15 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-basalt"
+    ],
+    "coordinates": "19.421°N, 155.287°W",
+    "nearest_city": "Hilo — 45 km northeast",
+    "population_at_risk": "~50,000 in lava flow hazard zones",
+    "summit_caldera": "Kilauea Caldera — approximately 3 × 5 km",
+    "rift_zones": "East Rift Zone (~125 km) and Southwest Rift Zone (~35 km)",
+    "protected_status": "Hawai'i Volcanoes National Park (est. 1916), UNESCO World Heritage Site (1987)",
+    "monitoring_agency": "USGS Hawaiian Volcano Observatory (HVO)",
+    "smithsonian_id": "332010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=332010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Kilauea (Hawaiian: Kīlauea, 'spewing' or 'much spreading') is an active <a href=\"/types-of-volcanoes\">shield volcano</a> on the southeastern flank of the Island of Hawai'i (Big Island), the youngest and largest island in the Hawaiian archipelago. Rising to 1,222 m (4,009 ft) above sea level and extending approximately 5,000 m (16,400 ft) below sea level to the ocean floor, Kilauea is one of the most active volcanoes on Earth, with 75 recorded eruptions and a history of near-continuous activity spanning decades. Its 35-year eruption from 1983 to 2018 at the Pu'u 'Ō'ō vent was one of the longest-duration eruptions in recorded history.\n\nKilauea overlaps the eastern flank of the massive <a href=\"/volcano/mauna-loa\">Mauna Loa</a> shield volcano, and for many years was considered merely a satellite vent of its larger neighbour. Modern geological research has established Kilauea as a fully independent volcanic system with its own magma plumbing, fed directly by the Hawaiian hotspot — a deep mantle plume that has been creating the Hawaiian island chain for over 80 million years as the Pacific Plate drifts northwestward over the stationary heat source.\n\nWith about 90% of its surface formed of lava flows less than 1,100 years old and 70% younger than 600 years, Kilauea is a geologically young and dynamically reshaping landscape. The volcano produces almost exclusively basaltic lava — the most fluid magma type — resulting in typically non-explosive effusive eruptions characterised by spectacular lava fountains, lava lakes, and sinuous rivers of molten rock. However, Kilauea can produce explosive eruptions under certain conditions, as demonstrated by the VEI 4 event of 1790 and the 2018 summit collapse. The volcano lies entirely within <a href=\"https://www.nps.gov/havo/index.htm\" target=\"_blank\" rel=\"noopener\">Hawai'i Volcanoes National Park</a>, a <a href=\"https://whc.unesco.org/en/list/409\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> established in 1916 that attracts approximately 1.3 million visitors annually."
+    },
+    "geology_and_formation": {
+      "content": "Kilauea is the product of the Hawaiian hotspot, one of the most intensively studied mantle plumes on Earth. Unlike volcanoes at tectonic plate boundaries (such as <a href=\"/volcano/vesuvius\">Vesuvius</a> at a subduction zone or <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> at a mid-ocean ridge), Kilauea sits in the middle of the Pacific Plate, far from any plate boundary. The Hawaiian hotspot is a column of anomalously hot mantle rock rising from deep within the Earth — possibly from the core-mantle boundary at 2,900 km depth — that partially melts as it approaches the surface, generating prolific volumes of basaltic magma.\n\nAs the Pacific Plate moves northwestward at approximately 7–9 cm per year over the stationary hotspot, a chain of volcanic islands and seamounts has formed stretching over 6,000 km from the Big Island to Midway Atoll and beyond. Kilauea sits directly above the hotspot's current focus, along with its neighbour <a href=\"/volcano/mauna-loa\">Mauna Loa</a>, making the Big Island the youngest and most volcanically active link in this chain. Southeast of Kilauea, the submarine volcano Lō'ihi Seamount is already building the next Hawaiian island, its summit currently about 975 m below sea level.\n\nKilauea's magma is predominantly tholeiitic basalt and picro-basalt — among the most fluid magma compositions on Earth, with temperatures of 1,100–1,200°C and very low viscosity. This fluidity allows lava to flow freely rather than building explosive pressure, which is why Kilauea produces spectacular but generally non-explosive lava flows, fountains, and lakes rather than the devastating pyroclastic flows characteristic of stratovolcanoes. The volcano's internal plumbing includes a summit magma reservoir at approximately 1–3 km depth beneath the caldera, connected by conduits to two major rift zones — the East Rift Zone (extending ~125 km to the southeast, largely underwater) and the shorter Southwest Rift Zone (~35 km). Eruptions can occur at the summit, along either rift zone, or simultaneously at multiple locations.\n\nThe Kilauea caldera, measuring approximately 3 × 5 km (1.9 × 3.1 mi), formed through multiple collapse events approximately 1,500 years ago and again in the 18th century. Within the caldera, Halema'uma'u Crater — historically the home of the volcano goddess Pele in Hawaiian tradition — has been the primary summit vent and the site of recurring lava lakes throughout recorded history."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program records 75 eruptions for Kilauea, all confirmed — a remarkably complete record reflecting the volcano's accessibility and its intensive monitoring by the <a href=\"https://www.usgs.gov/observatories/hvo\" target=\"_blank\" rel=\"noopener\">USGS Hawaiian Volcano Observatory (HVO)</a>, established in 1912 by Thomas Jaggar. Kilauea's eruption record extends from approximately 4650 BCE to the present, with the vast majority of events (57 of 75) registering at VEI 0 — the lowest category, reflecting the predominantly gentle, effusive character of Hawaiian volcanism. The maximum recorded VEI is 4, achieved during the explosive summit eruption of 1790.\n\nThe prehistoric and early historical period (pre-1820) is known from geological mapping, radiocarbon dating, and Polynesian oral traditions. Eruptions are prominent in Hawaiian legends, and the volcano was central to the worship of Pele, the fire goddess. Written documentation begins with the arrival of American missionaries in the early 1820s, when Kilauea's summit caldera hosted an active lava lake that attracted some of the earliest scientific volcano observers. The period from 1823 to 1924 was dominated by nearly continuous lava lake activity at Halema'uma'u Crater, punctuated by periodic draining events and rift zone eruptions.\n\nThe modern era (1952–present) has seen an extraordinary succession of eruptions: at least 32 events in 73 years, making Kilauea the most frequently erupting volcano on Earth during this period. The defining event was the 1983–2018 East Rift Zone eruption (Pu'u 'Ō'ō), a single continuous eruption lasting 35 years and covering over 100 km² with lava. Since 2018, Kilauea has erupted four additional times (2020–2021, 2021–2023, June 2024, September 2024, and December 2024), demonstrating its ongoing vitality."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1790 Explosive Eruption — Kilauea's Deadliest Event",
+          "content": "The eruption of 1790 stands as a striking anomaly in Kilauea's predominantly effusive history. A powerful <a href=\"/volcanic-explosivity-index\">VEI 4</a> explosive eruption occurred at the summit, producing pyroclastic surges — fast-moving clouds of superheated gas, ash, and rock — that swept across the Ka'ū Desert on the volcano's southwestern flank. A party of Hawaiian warriors, estimated at 80 or more, travelling across the area during a conflict between rival chiefs, was caught in the surge and killed. Their footprints, preserved in hardened ash, can still be seen along the Footprints Trail in Hawai'i Volcanoes National Park.\n\nThe 1790 eruption produced the Keanakakoi ash deposits that blanket the summit area, and demonstrated that Kilauea is capable of generating dangerous explosive eruptions — typically when the water table intersects the summit magma system, producing phreatomagmatic blasts. This eruption significantly expanded the Kilauea caldera and served as a sobering reminder that shield volcanoes, while usually gentle, can produce lethal explosive events under specific conditions."
+        },
+        {
+          "title": "The 1823–1924 Lava Lake Era — A Century of Fire",
+          "content": "When American missionaries William Ellis and Asa Thurston first visited Kilauea's summit in August 1823, they found a vast, churning lava lake filling much of Halema'uma'u Crater — a spectacle that would persist, with interruptions, for over a century. The persistent lava lake drew scientists, artists, and adventurers from around the world and was instrumental in establishing Kilauea as one of the premier natural laboratories for volcano research. Mark Twain visited in 1866 and described the lava lake as 'a heaving sea of molten fire.' Isabella Bird visited in 1873 and wrote vivid accounts for her bestselling travelogues.\n\nThe lava lake's surface rose and fell with the volcano's magmatic cycles, occasionally overflowing the crater rim or draining abruptly during lateral eruptions along the rift zones. This period of sustained summit activity ended dramatically in May 1924, when the lava lake drained completely, the water table invaded the conduit, and a series of violent phreatic (steam-driven) explosions enlarged Halema'uma'u from approximately 400 m to 900 m in diameter over two weeks. One observer was killed by a ballistic block — the only eruption-related fatality at Kilauea in the 20th century."
+        },
+        {
+          "title": "The 1959 Kilauea Iki Eruption — Record Lava Fountains",
+          "content": "The eruption that began on November 14, 1959 in Kilauea Iki crater, adjacent to the summit caldera, produced some of the most spectacular lava fountaining ever documented. Over 17 episodes spanning about a month, lava fountains reached a maximum height of 580 m (1,900 ft) — the tallest ever recorded at a Hawaiian volcano and among the tallest anywhere on Earth. The eruption filled Kilauea Iki crater with a lava lake approximately 120 m (400 ft) deep, which took over 35 years to fully solidify and is still warm at depth. The 1959 event was a VEI 2 eruption and became a benchmark for understanding Hawaiian eruption dynamics and lava lake cooling processes."
+        },
+        {
+          "title": "The 1983–2018 Pu'u 'Ō'ō Eruption — 35 Years of Continuous Lava",
+          "content": "The eruption that began on January 3, 1983 along Kilauea's East Rift Zone became one of the longest-duration and most voluminous eruptions in recorded history. Over 35 years, the eruption produced an estimated 4.4 km³ of lava — enough to pave a two-lane road circling the Earth more than five times. The primary vent, Pu'u 'Ō'ō (a cinder and spatter cone that eventually grew to approximately 250 m tall), fed lava flows that covered over 142 km² (55 sq mi) of the volcano's southern flank.\n\nThe eruption's human toll was significant. Lava flows destroyed over 200 structures, including the entire community of Kalapana and much of the Royal Gardens subdivision, buried approximately 14 km (8.7 mi) of highway, and obliterated several ancient Hawaiian archaeological sites. The flows also added approximately 2.3 km² (570 acres) of new land to the island where lava entered the ocean, forming dramatic lava benches and spectacular 'lava hose' ocean entries that became major tourist attractions.\n\nSimultaneously with the Pu'u 'Ō'ō eruption, a new lava lake appeared in Halema'uma'u Crater in March 2008 — the first sustained summit lava lake since 1924. This glowing lake of molten basalt became one of Hawai'i Volcanoes National Park's most visited features. The Pu'u 'Ō'ō eruption was rated VEI 3, reflecting its massive cumulative volume despite its generally gentle effusive character."
+        },
+        {
+          "title": "The 2018 Lower East Rift Zone Eruption — Kilauea's Modern Crisis",
+          "content": "The dramatic finale of the Pu'u 'Ō'ō eruption began on May 3, 2018 when the Pu'u 'Ō'ō cone collapsed and magma migrated rapidly down the East Rift Zone, opening 24 fissure vents in the lower Puna district — a densely forested area with residential subdivisions built on young lava flows. The eruption centred on Fissure 8 in the Leilani Estates subdivision, which became the dominant vent and produced prodigious volumes of fast-moving, extremely fluid lava.\n\nOver the following three months, lava flows from Fissure 8 advanced northeastward to the ocean, destroying over 700 homes and structures, displacing thousands of residents, and burying entire neighbourhoods under lava up to 20 m (65 ft) thick. The flow obliterated Kapoho Bay, filling it entirely and extending the coastline approximately 1.5 km into the ocean, creating 3.5 km² (875 acres) of new land. Laze (lava haze) — a toxic mix of hydrochloric acid, steam, and fine glass particles generated where lava enters seawater — posed additional health hazards to coastal communities.\n\nMeanwhile, at the summit, the draining of the magma reservoir triggered a sequence of 62 caldera collapse events between May and August 2018, each equivalent to a magnitude 5.0+ earthquake. Halema'uma'u Crater, which had been approximately 85 m deep, dropped by over 500 m (1,640 ft), widening dramatically. The summit floor of Kilauea caldera subsided by approximately 500 m in places, fundamentally reshaping the volcano's iconic landscape. The total volume of magma erupted was approximately 0.8 km³, and the event marked the end of 35 years of continuous activity. Remarkably, no lives were lost."
+        },
+        {
+          "title": "The 2020–2025 Eruption Cycle — Kilauea Rebuilds",
+          "content": "After 27 months of quiet following the 2018 collapse, Kilauea returned to life on December 20, 2020 when lava erupted within the newly deepened Halema'uma'u Crater, forming a growing lava lake on the crater floor. This eruption continued intermittently through 2023, gradually refilling the collapse crater with fresh lava and occasionally producing spectacular lava fountains. Subsequent eruptions in June 2024 (Southwest Rift Zone), September 2024 (Napau Crater on the middle East Rift Zone), and December 2024–January 2025 (Halema'uma'u Crater) demonstrate that Kilauea's magma supply remains vigorous. The volcano is clearly in an active rebuilding phase, replenishing its summit reservoir after the massive 2018 drainage."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of early 2025, Kilauea is in an intermittently active state. The most recent eruption began on December 23, 2024 at Halema'uma'u Crater and continued into January 2025, producing lava flows within the summit crater. This was the fifth eruption since the transformative 2018 event, following eruptions in December 2020, September 2021, June 2024, and September 2024. The volcano's alert level fluctuates between ADVISORY (elevated unrest) and WARNING (eruption imminent or underway) depending on current activity.\n\nThe <a href=\"https://www.usgs.gov/observatories/hvo\" target=\"_blank\" rel=\"noopener\">USGS Hawaiian Volcano Observatory (HVO)</a>, located on the caldera rim and operational since 1912, monitors Kilauea with one of the most comprehensive instrument networks of any volcano on Earth. This includes: over 60 seismometers tracking micro-earthquakes and tremor; continuous GPS stations and tiltmeters measuring millimetre-scale ground deformation (inflation indicates magma accumulation, deflation indicates magma withdrawal); satellite-based InSAR monitoring; continuous gas emission measurements (SO₂ flux is a primary indicator of magma at shallow depths); thermal cameras and webcams; and infrasound sensors. HVO scientists publish daily updates on volcano status and issue Volcanic Activity Notices (VANs) when conditions change.\n\nThe pattern of frequent eruptions since 2020 suggests that Kilauea's magma supply from the Hawaiian hotspot remains robust, and the summit reservoir is gradually repressurising following the massive 2018 drainage. Volcanologists at HVO have noted that the current phase bears similarities to the mid-20th-century pattern of frequent, short-duration summit and rift zone eruptions that preceded the decades-long Pu'u 'Ō'ō eruption."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Kilauea's hazards are fundamentally different from those of explosive stratovolcanoes like <a href=\"/volcano/vesuvius\">Vesuvius</a> or <a href=\"/volcano/pinatubo\">Pinatubo</a>. The primary threat is lava flows — slow-moving (typically 0.1–10 km/hour) but unstoppable rivers and sheets of molten basalt that incinerate and bury everything in their path. The 2018 eruption demonstrated that fast-moving, highly fluid lava from lower rift zone fissures can advance rapidly enough to outpace evacuation in some circumstances, particularly in the Fissure 8 flows that destroyed Leilani Estates.\n\nThe USGS assigns lava flow hazard zones across the Big Island on a scale of 1 (highest, on active vents and rift zones) to 9 (lowest). Kilauea's summit, upper rift zones, and coastal areas directly downslope fall in Zones 1–2, where lava coverage is near-certain over centuries. Approximately 50,000 people live within Zones 1–3, and residential development on young Kilauea lava flows — particularly in the Puna district — has created significant vulnerability.\n\nAdditional hazards include: volcanic gas emissions (particularly SO₂, which creates 'vog' — volcanic smog — affecting air quality across the Big Island and occasionally neighbouring islands), laze (hydrochloric acid mist where lava enters the ocean), ground cracking and subsidence along active rift zones, summit collapse events (as in 2018, generating M5+ earthquakes), bench collapses (sudden failure of new lava deltas at the coastline, generating dangerous waves and debris), and the rare but real possibility of explosive phreatomagmatic eruptions at the summit (as in 1790 and 1924). Tsunami risk from large-scale flank collapse — though extremely rare — is a long-term concern."
+    },
+    "geography_and_physical_description": {
+      "content": "Kilauea is a broad, gently sloping <a href=\"/types-of-volcanoes\">shield volcano</a> whose profile is far less dramatic than the steep cones of stratovolcanoes like <a href=\"/volcano/etna\">Etna</a> or <a href=\"/volcano/fujisan\">Mount Fuji</a>. Its summit rises to only 1,222 m (4,009 ft) above sea level, but this understates its true size: the volcano extends approximately 5,000 m (16,400 ft) below sea level to the ocean floor and far beneath the weight-depressed seafloor itself, giving it a true height from base to summit of roughly 6,000+ m. Kilauea's surface area above sea level is approximately 1,430 km² (552 sq mi) — about 14% of the Big Island's total area.\n\nThe summit features the Kilauea caldera, an irregularly shaped depression approximately 3 × 5 km (1.9 × 3.1 mi) across and up to 165 m (540 ft) deep (pre-2018; significantly deeper post-collapse). Within the caldera, Halema'uma'u Crater — now dramatically enlarged and deepened by the 2018 collapse events — is the traditional home of Pele and the most recently active summit vent. A large lava lake has been intermittently present on the crater floor since December 2020.\n\nTwo rift zones radiate from the summit. The East Rift Zone extends approximately 125 km (78 mi) southeastward, continuing underwater far beyond the coastline; it has been the site of most major eruptions, including the 1983–2018 Pu'u 'Ō'ō eruption and the devastating 2018 lower East Rift Zone event. The shorter Southwest Rift Zone extends roughly 35 km (22 mi) and has been less frequently active in modern times, though it hosted an eruption in June 2024. The landscape of Kilauea is extraordinarily young: about 90% of the surface is covered by lava flows less than 1,100 years old, and vast expanses of fresh, black pāhoehoe and 'a'ā lava from recent eruptions give the terrain an otherworldly appearance that has been used as a stand-in for extraterrestrial landscapes in film and scientific simulations."
+    },
+    "climate_and_global_impact": {
+      "content": "Kilauea's eruptions, while prolific in volume, have had minimal direct impact on global climate due to the low explosivity and modest eruption column heights of typical Hawaiian volcanism. Basaltic lava flows and low-altitude lava fountains inject negligible sulphur dioxide into the stratosphere, which is the primary mechanism by which volcanic eruptions cause global cooling. Even the massive 1983–2018 eruption, which produced 4.4 km³ of lava, affected only regional air quality rather than global atmospheric chemistry.\n\nThe primary atmospheric impact of Kilauea is regional volcanic smog — called 'vog' — created when SO₂ emissions react with moisture and oxygen in the atmosphere to form sulphuric acid aerosol and sulphate particles. During the Pu'u 'Ō'ō eruption, Kilauea emitted an average of approximately 2,000 tonnes of SO₂ per day; during the 2018 Fissure 8 eruption, this surged to an estimated 50,000 tonnes per day. Vog regularly affects air quality across the Big Island (particularly on the leeward Kona coast) and occasionally reaches O'ahu and Maui, causing respiratory issues, corroding metal structures, and damaging crops. The economic cost of vog to Hawaiian agriculture, health, and tourism is estimated in the hundreds of millions of dollars over the decades of sustained activity."
+    },
+    "cultural_significance": {
+      "content": "Kilauea holds profound spiritual significance in Native Hawaiian culture. The volcano is the home of Pele, the goddess of fire, lightning, wind, and volcanoes — one of the most important deities in the Hawaiian pantheon. Pele is not merely a mythological figure but a living presence to many Hawaiians; eruptions are understood as expressions of her creative and destructive power, and the lava is treated with deep respect. It is considered culturally inappropriate (and, by Hawaiian belief, invites misfortune) to remove lava rock from the volcano — a tradition so strong that the National Park Service receives packages of returned rocks from tourists every year.\n\nHalema'uma'u Crater, the traditional home of Pele, is a particularly sacred site. Offerings of lei, food, and other gifts are regularly placed at the crater's edge. The traditional hula dance and chant repertoire includes numerous compositions honouring Pele and describing Kilauea's eruptions, representing one of the world's oldest continuous traditions of volcanic observation encoded in art.\n\nKilauea also played a foundational role in the development of modern volcanology. The establishment of the Hawaiian Volcano Observatory in 1912 by Thomas Jaggar — inspired by the 1902 eruption of <a href=\"/volcano/pelee\">Mount Pelée</a> that killed 30,000 people in Martinique — pioneered continuous volcano monitoring and made Kilauea the most studied volcano on Earth. The concept of the <a href=\"/types-of-volcanoes\">shield volcano</a> was largely defined through study of Hawaiian volcanoes, and Kilauea's accessible eruptions have trained generations of volcanologists."
+    },
+    "visiting_and_tourism": {
+      "content": "Kilauea lies entirely within <a href=\"https://www.nps.gov/havo/index.htm\" target=\"_blank\" rel=\"noopener\">Hawai'i Volcanoes National Park</a>, one of the most visited national parks in the United States, attracting approximately 1.3 million visitors annually. The park is open 24 hours a day, 365 days a year, with an entrance fee of $30 per vehicle (valid for 7 days).\n\nThe primary visitor experience centres on Crater Rim Drive, an 18 km (11 mi) road encircling the Kilauea caldera (partially closed due to 2018 damage). Key viewpoints include the Kilauea Overlook, Jaggar Museum site (the museum was damaged in 2018 but the overlook remains), Devastation Trail (a 1.6 km boardwalk through a landscape destroyed by the 1959 Kilauea Iki eruption), Thurston Lava Tube (Nāhuku, a 500-year-old lava tube walkable for 180 m), and the Kilauea Iki Trail (a spectacular 6.4 km loop descending into and crossing the solidified 1959 lava lake). Chain of Craters Road descends 1,100 m from the summit to the coast, passing numerous craters and lava flows.\n\nDuring active eruptions, viewing opportunities depend on the eruption location and safety conditions; HVO and park rangers provide current information. When the summit lava lake is active (as during several recent eruptions), the glow is visible from multiple overlook points, especially after dark. The park also preserves important cultural sites, including petroglyphs, ancient Hawaiian trails, and archaeological features. Visitors should be aware of volcanic hazards including toxic gas, unstable ground near active vents, and sudden changes in eruptive activity."
+    },
+    "nearby_volcanoes": {
+      "content": "Kilauea is one of five volcanoes that together form the Island of Hawai'i. Immediately to its west and northwest is <a href=\"/volcano/mauna-loa\">Mauna Loa</a>, the world's largest active shield volcano at 4,169 m (13,681 ft) above sea level — and a staggering ~9,170 m from its base on the ocean floor. Mauna Loa last erupted in November–December 2022, its first eruption since 1984, sending lava flows down its northeast flank toward the Saddle Road. The two volcanoes share a complex relationship: their magma systems appear to be hydraulically connected, and eruptions at one have historically correlated with changes in activity at the other.\n\nThe island's three other volcanoes are Hualalai (last erupted 1801, considered dormant but potentially dangerous given its proximity to Kona), Mauna Kea (dormant, last erupted ~4,600 years ago, and home to major astronomical observatories at 4,207 m), and Kohala (extinct, the oldest volcano on the island). Southeast of Kilauea, the submarine volcano Lō'ihi Seamount rises from the ocean floor, its summit approximately 975 m below sea level. Lō'ihi is actively erupting on the seafloor and will eventually emerge as the next Hawaiian island — in perhaps 10,000–100,000 years. Together, these volcanoes represent a complete progression of the Hawaiian volcanic life cycle, from active growth to eventual erosion and submergence."
+    },
+    "etymology": {
+      "content": "The name Kīlauea is Hawaiian and is most commonly translated as 'spewing' or 'much spreading,' derived from the Hawaiian words kī (to spew) and lauea (spreading). This vividly descriptive name reflects the volcano's characteristic behaviour of effusing broad sheets and rivers of lava across its flanks. Some linguists have alternatively proposed a derivation related to the Hawaiian word 'kila' (a type of navigational sighting stone), while others suggest a connection to 'kīlau' (a fern species common on the volcano's slopes). The name has been in use since at least the early Polynesian settlement of Hawai'i, predating European contact by centuries."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Kilauea Compared to the World's Most Active Volcanoes",
+      "description": "How does Kilauea's activity level compare to other volcanic heavyweights?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Eruptions (GVP)",
+        "Last Eruption",
+        "VEI Max"
+      ],
+      "rows": [
+        [
+          "<a href=\"/volcano/kilauea\">Kilauea</a>",
+          "USA (Hawaii)",
+          "1,222 m",
+          "Shield",
+          "75",
+          "2025",
+          "4"
+        ],
+        [
+          "<a href=\"/volcano/etna\">Etna</a>",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "170",
+          "2025",
+          "5"
+        ],
+        [
+          "<a href=\"/volcano/stromboli\">Stromboli</a>",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "100+",
+          "2025",
+          "3"
+        ],
+        [
+          "<a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a>",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "170+",
+          "2024",
+          "2"
+        ],
+        [
+          "<a href=\"/volcano/mauna-loa\">Mauna Loa</a>",
+          "USA (Hawaii)",
+          "4,169 m",
+          "Shield",
+          "33",
+          "2022",
+          "4"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "110+",
+          "2025",
+          "4"
+        ]
+      ]
+    },
+    {
+      "title": "Kilauea vs Hawaiian Shield Volcanoes",
+      "description": "The Big Island's five volcanoes represent a progression of the Hawaiian volcanic life cycle.",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Age",
+        "Status",
+        "Last Eruption",
+        "Eruptions (GVP)",
+        "Stage"
+      ],
+      "rows": [
+        [
+          "<a href=\"/volcano/kilauea\">Kilauea</a>",
+          "1,222 m",
+          "~300,000–600,000 yrs",
+          "Active",
+          "2025",
+          "75",
+          "Shield-building"
+        ],
+        [
+          "<a href=\"/volcano/mauna-loa\">Mauna Loa</a>",
+          "4,169 m",
+          "~700,000 yrs",
+          "Active",
+          "2022",
+          "33",
+          "Shield-building"
+        ],
+        [
+          "Hualalai",
+          "2,523 m",
+          "~300,000 yrs",
+          "Dormant",
+          "1801",
+          "4",
+          "Post-shield"
+        ],
+        [
+          "Mauna Kea",
+          "4,207 m",
+          "~1 million yrs",
+          "Dormant",
+          "~4600 yrs ago",
+          "7",
+          "Post-shield"
+        ],
+        [
+          "Kohala",
+          "1,670 m",
+          "~1 million yrs",
+          "Extinct",
+          "~120,000 yrs ago",
+          "0",
+          "Erosional"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -4650,
+      "vei": 0,
+      "label": "Earliest eruption in GVP record — SW rift zone",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1790,
+      "vei": 4,
+      "label": "Explosive summit eruption — killed 80+ Hawaiian warriors, footprints preserved in ash",
+      "deaths": "80+",
+      "notable": true
+    },
+    {
+      "year": 1823,
+      "vei": 1,
+      "label": "Beginning of near-continuous lava lake era at Halema'uma'u",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1924,
+      "vei": 2,
+      "label": "Phreatic explosions enlarge Halema'uma'u — 1 fatality",
+      "deaths": "1",
+      "notable": true
+    },
+    {
+      "year": 1959,
+      "vei": 2,
+      "label": "Kilauea Iki eruption — record 580 m lava fountains",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1983,
+      "vei": 3,
+      "label": "Pu'u 'Ō'ō eruption begins — will last 35 years, cover 142 km², destroy 700+ structures",
+      "deaths": "0",
+      "notable": true
+    },
+    {
+      "year": 2018,
+      "vei": 3,
+      "label": "Lower East Rift Zone eruption — 24 fissures, 716 homes destroyed, summit collapses 500 m",
+      "deaths": "0",
+      "notable": true
+    },
+    {
+      "year": 2020,
+      "vei": 0,
+      "label": "Lava lake returns to Halema'uma'u — Kilauea rebuilding begins",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2024,
+      "vei": 0,
+      "label": "Three eruptions in one year (June, September, December) — heightened activity cycle",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric (pre-1st c. AD)",
+      "count": 12,
+      "note": "Known from geological deposits; predominantly VEI 0"
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "5th",
+      "count": 2
+    },
+    {
+      "century": "6th",
+      "count": 1
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 3
+    },
+    {
+      "century": "16th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 4,
+      "note": "Includes the VEI 4 explosive event of 1790"
+    },
+    {
+      "century": "19th",
+      "count": 5
+    },
+    {
+      "century": "20th",
+      "count": 32,
+      "note": "Includes the 35-year Pu'u 'Ō'ō eruption (1983–2018)"
+    },
+    {
+      "century": "21st (to 2025)",
+      "count": 5
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 57
+    },
+    {
+      "vei": 1,
+      "count": 8
+    },
+    {
+      "vei": 2,
+      "count": 3
+    },
+    {
+      "vei": 3,
+      "count": 1
+    },
+    {
+      "vei": 4,
+      "count": 1
+    },
+    {
+      "vei": "unknown",
+      "count": 5
+    }
+  ],
+  "facts": [
+    "Kilauea's 1983–2018 Pu'u 'Ō'ō eruption lasted 35 years and produced approximately 4.4 km³ of lava — enough to pave a two-lane road encircling the Earth more than five times.",
+    "The 2018 lower East Rift Zone eruption destroyed over 700 homes and structures, making it the most destructive volcanic event in the United States since the 1980 eruption of Mount St. Helens.",
+    "During the 2018 summit collapse, Halema'uma'u Crater dropped by over 500 m (1,640 ft) through 62 collapse events, each generating a magnitude 5.0+ earthquake — fundamentally reshaping Kilauea's iconic caldera.",
+    "Approximately 90% of Kilauea's surface is covered by lava flows less than 1,100 years old, and 70% is younger than 600 years — making it one of the youngest land surfaces on Earth.",
+    "The 1959 Kilauea Iki eruption produced lava fountains reaching 580 m (1,900 ft) — the tallest ever recorded at a Hawaiian volcano and among the tallest anywhere on Earth.",
+    "Kilauea's eruptions added approximately 2.3 km² (570 acres) of new land to the Big Island during the 1983–2018 eruption alone, with an additional 3.5 km² created by the 2018 Fissure 8 flows.",
+    "The Hawaiian Volcano Observatory, established on Kilauea's rim in 1912 by Thomas Jaggar, was the first permanent volcano observatory in the United States and pioneered the continuous monitoring approach now used worldwide.",
+    "The 1790 explosive eruption killed an estimated 80+ Hawaiian warriors whose footprints were preserved in volcanic ash — footprints still visible today along the Footprints Trail in Hawai'i Volcanoes National Park.",
+    "Kilauea emitted approximately 50,000 tonnes of sulphur dioxide per day during the peak of the 2018 Fissure 8 eruption — roughly 25 times its average daily rate during the Pu'u 'Ō'ō eruption.",
+    "The lava lake that formed in Kilauea Iki crater during the 1959 eruption was approximately 120 m (400 ft) deep and took over 35 years to fully solidify.",
+    "In 2024, Kilauea erupted three separate times — in June (Southwest Rift Zone), September (Napau Crater), and December (Halema'uma'u) — its most active year since the end of the Pu'u 'Ō'ō eruption.",
+    "Hawai'i Volcanoes National Park, which encompasses Kilauea, was designated a UNESCO World Heritage Site in 1987 and attracts approximately 1.3 million visitors per year."
+  ],
+  "faqs": [
+    {
+      "question": "Is Kilauea still active?",
+      "answer": "Yes, Kilauea is one of the most active volcanoes on Earth. It has erupted 75 times in the geological record and has been in a particularly active phase since 1952, with 32+ eruptions in that period. The most recent eruption began on December 23, 2024 at Halema'uma'u Crater in the summit caldera. From 1983 to 2018, Kilauea erupted continuously for 35 years from the Pu'u 'Ō'ō vent. Since the transformative 2018 lower East Rift Zone eruption and summit collapse, the volcano has erupted five additional times (2020, 2021, June 2024, September 2024, December 2024), demonstrating that its magma supply from the Hawaiian hotspot remains vigorous. The USGS Hawaiian Volcano Observatory continuously monitors the volcano and publishes daily status updates."
+    },
+    {
+      "question": "When did Kilauea last erupt?",
+      "answer": "Kilauea's most recent eruption began on December 23, 2024 at Halema'uma'u Crater within the summit caldera, producing lava flows on the crater floor. This was the fifth eruption since the major 2018 event, following eruptions in December 2020 (summit lava lake return), September 2021–January 2023 (sustained summit lava lake), June 2024 (brief Southwest Rift Zone eruption), and September 2024 (Napau Crater, middle East Rift Zone). The frequent recurrence of eruptions in 2024 indicates heightened volcanic activity as Kilauea's summit magma reservoir repressurises following the massive drainage of 2018."
+    },
+    {
+      "question": "What type of volcano is Kilauea?",
+      "answer": "Kilauea is a shield volcano — a broad, gently sloping volcanic edifice built almost entirely from fluid basaltic lava flows. Shield volcanoes are named for their resemblance to a warrior's shield laid on the ground, with very gentle slope angles (typically 2–10°) compared to the steep-sided profiles of stratovolcanoes like Vesuvius or Etna. Kilauea's basaltic magma is extremely fluid (temperatures of 1,100–1,200°C) and low in dissolved gas, so eruptions are typically effusive — producing lava flows, lava fountains, and lava lakes rather than the explosive blasts and pyroclastic flows characteristic of more viscous magma types. However, Kilauea can produce explosive eruptions when water interacts with the magma system, as occurred in 1790 (VEI 4) and 1924."
+    },
+    {
+      "question": "How many homes were destroyed in the 2018 Kilauea eruption?",
+      "answer": "The 2018 lower East Rift Zone eruption destroyed over 700 homes and structures, primarily in the Leilani Estates and Kapoho Beach Lots subdivisions in the lower Puna district. The eruption opened 24 fissure vents beginning May 3, 2018, with Fissure 8 becoming the dominant vent, producing enormous volumes of fast-moving, highly fluid lava. Flows advanced through residential areas, burying entire neighbourhoods under lava up to 20 m thick. Kapoho Bay was entirely filled by lava. Thousands of residents were evacuated, and many have been unable to return as their properties lie beneath solidified lava. Remarkably, no one was killed, though one person was seriously injured by a lava bomb."
+    },
+    {
+      "question": "Can you visit Kilauea?",
+      "answer": "Yes, Kilauea is one of the most accessible active volcanoes in the world, lying entirely within Hawai'i Volcanoes National Park on the Big Island of Hawaii. The park is open 24/7, 365 days per year, with an entrance fee of $30 per vehicle. Highlights include Crater Rim Drive encircling the caldera, the Kilauea Iki Trail (crossing a solidified 1959 lava lake), Thurston Lava Tube, Devastation Trail, and Chain of Craters Road. During active eruptions, glow from the summit lava lake may be visible from multiple overlooks. Access to specific areas may be restricted during eruptions for safety. The park attracts approximately 1.3 million visitors annually and is a UNESCO World Heritage Site."
+    },
+    {
+      "question": "What is the difference between Kilauea and Mauna Loa?",
+      "answer": "Kilauea and Mauna Loa are both active shield volcanoes on the Big Island of Hawaii, but they differ significantly. Mauna Loa is vastly larger — the world's largest active volcano at 4,169 m (13,681 ft) elevation with a volume of approximately 75,000 km³, compared to Kilauea's 1,222 m and much smaller volume. However, Kilauea erupts far more frequently (75 recorded eruptions vs 33 for Mauna Loa) and has been the more persistently active of the two. Both are fed by the Hawaiian hotspot, and their magma systems appear to be hydraulically connected — periods of high activity at one often correlate with lower activity at the other. Kilauea was long thought to be a satellite vent of Mauna Loa but is now recognised as an independent volcanic system."
+    },
+    {
+      "question": "Why does Kilauea erupt so often?",
+      "answer": "Kilauea's extraordinary eruption frequency is driven by three factors. First, it sits directly above the Hawaiian hotspot, a deep mantle plume that supplies a large and continuous flow of magma to the volcano's shallow reservoir system. Second, its magma is extremely fluid basalt with relatively low gas content, meaning pressure builds and releases easily through frequent, relatively gentle effusive eruptions rather than accumulating to explosive levels. Third, the volcano's well-developed rift zone system — extending over 125 km along the East Rift Zone — provides abundant pathways for magma to reach the surface. The combination of robust supply, low-viscosity magma, and multiple available conduits makes Kilauea one of the most persistently active volcanoes on Earth."
+    },
+    {
+      "question": "Is Kilauea dangerous?",
+      "answer": "Kilauea poses real hazards, though different from explosive volcanoes like Vesuvius. The primary threat is lava flows, which can destroy homes and infrastructure — as demonstrated by the 2018 eruption that destroyed over 700 structures. Additional hazards include toxic volcanic gas (SO₂ creating 'vog'), laze (hydrochloric acid mist where lava enters the sea), ground cracking along rift zones, rare explosive eruptions at the summit, and unstable lava benches that can collapse without warning. Approximately 50,000 people live in lava flow hazard zones on Kilauea's flanks. However, lava flows generally advance slowly enough for evacuation, and the volcano is intensively monitored by the USGS, providing early warning of changing conditions."
+    },
+    {
+      "question": "How tall is Kilauea?",
+      "answer": "Kilauea's summit stands 1,222 m (4,009 ft) above sea level, making it relatively modest compared to neighbouring Mauna Loa (4,169 m) or Mauna Kea (4,207 m). However, the above-sea-level measurement dramatically understates Kilauea's true size. The volcano extends approximately 5,000 m (16,400 ft) below sea level to the ocean floor, and the ocean floor itself is depressed by the weight of the Hawaiian volcanic chain, giving Kilauea a true base-to-summit height exceeding 6,000 m. The summit elevation changes slightly with eruptions: the 2018 caldera collapse lowered portions of the caldera floor by over 500 m, while subsequent eruptions have been gradually refilling the crater."
+    },
+    {
+      "question": "What is vog?",
+      "answer": "Vog (volcanic smog) is a form of air pollution created when sulphur dioxide (SO₂) emitted by Kilauea reacts with oxygen and moisture in the atmosphere, forming tiny sulphuric acid droplets and sulphate particles. During active eruptions, Kilauea can emit thousands of tonnes of SO₂ daily (peaking at approximately 50,000 tonnes/day during the 2018 Fissure 8 eruption). Prevailing trade winds carry vog to the leeward (western) side of the Big Island, particularly affecting the Kona coast, and occasionally to neighbouring islands. Health effects include respiratory irritation, aggravation of asthma, and headaches. Vog also damages crops, corrodes metal, and reduces visibility. The Hawaii Department of Health monitors vog levels and issues health advisories during periods of heavy volcanic emissions."
+    }
+  ],
+  "people_also_search": [
+    "kilauea eruption 2024",
+    "kilauea eruption 2018",
+    "is kilauea erupting now",
+    "kilauea lava flow",
+    "kilauea vs mauna loa",
+    "hawaii volcanoes national park",
+    "kilauea lava lake",
+    "puu oo eruption"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Kilauea",
+    "alternateName": [
+      "Kīlauea",
+      "Kilauea Volcano"
+    ],
+    "description": "Active shield volcano on the Big Island of Hawaii, one of the most active volcanoes on Earth, within Hawai'i Volcanoes National Park",
+    "geo": {
+      "latitude": 19.421,
+      "longitude": -155.287,
+      "elevation": 1222
+    },
+    "containedInPlace": {
+      "name": "Hawaii",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/kilauea"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=332010",
+      "text": "Smithsonian GVP: Kilauea",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/observatories/hvo",
+      "text": "USGS Hawaiian Volcano Observatory (HVO)",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.nps.gov/havo/index.htm",
+      "text": "Hawai'i Volcanoes National Park (NPS)",
+      "type": "tourism"
+    },
+    {
+      "url": "https://www.britannica.com/place/Kilauea",
+      "text": "Britannica: Kilauea",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/409",
+      "text": "UNESCO: Hawai'i Volcanoes National Park",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "mauna-loa",
+      "etna",
+      "stromboli",
+      "vesuvius",
+      "pinatubo",
+      "st-helens",
+      "piton-de-la-fournaise",
+      "fujisan",
+      "eyjafjallajokull",
+      "mount-pelee"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "mauna-loa",
+    "etna",
+    "piton-de-la-fournaise",
+    "stromboli",
+    "erta-ale"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Kilauea",
+      "url": "/volcano/kilauea"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/kilauea"
+}

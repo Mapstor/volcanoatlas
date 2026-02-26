@@ -1,0 +1,302 @@
+{
+  "featured_volcanoes": [
+    {
+      "title": "Cotopaxi",
+      "url": "/volcano/cotopaxi"
+    },
+    {
+      "title": "Eyjafjallajökull",
+      "url": "/volcano/eyjafjallajokull"
+    },
+    {
+      "title": "Kilauea",
+      "url": "/volcano/kilauea"
+    },
+    {
+      "title": "Krakatau (Krakatoa)",
+      "url": "/volcano/krakatau"
+    },
+    {
+      "title": "Mauna Loa",
+      "url": "/volcano/mauna-loa"
+    },
+    {
+      "title": "Mount Erebus",
+      "url": "/volcano/erebus"
+    },
+    {
+      "title": "Mount Etna",
+      "url": "/volcano/etna"
+    },
+    {
+      "title": "Mount Fuji (Fujisan)",
+      "url": "/volcano/fujisan"
+    },
+    {
+      "title": "Mount Merapi",
+      "url": "/volcano/merapi"
+    },
+    {
+      "title": "Mount Nyiragongo",
+      "url": "/volcano/nyiragongo"
+    },
+    {
+      "title": "Mount Pinatubo",
+      "url": "/volcano/pinatubo"
+    },
+    {
+      "title": "Mount Rainier",
+      "url": "/volcano/rainier"
+    },
+    {
+      "title": "Mount St. Helens",
+      "url": "/volcano/st-helens"
+    },
+    {
+      "title": "Mount Tambora",
+      "url": "/volcano/tambora"
+    },
+    {
+      "title": "Mount Vesuvius",
+      "url": "/volcano/vesuvius"
+    },
+    {
+      "title": "Popocatépetl",
+      "url": "/volcano/popocatepetl"
+    },
+    {
+      "title": "Santorini Volcano",
+      "url": "/volcano/santorini"
+    },
+    {
+      "title": "Stromboli",
+      "url": "/volcano/stromboli"
+    },
+    {
+      "title": "Tenerife (Teide)",
+      "url": "/volcano/tenerife"
+    }
+  ],
+  "countries": [
+    {
+      "title": "Volcanoes in Algeria",
+      "url": "/volcanoes-in-algeria"
+    },
+    {
+      "title": "Volcanoes in Antarctica",
+      "url": "/volcanoes-in-antarctica"
+    },
+    {
+      "title": "Volcanoes in Argentina",
+      "url": "/volcanoes-in-argentina"
+    },
+    {
+      "title": "Volcanoes in Armenia",
+      "url": "/volcanoes-in-armenia"
+    },
+    {
+      "title": "Volcanoes in Australia",
+      "url": "/volcanoes-in-australia"
+    },
+    {
+      "title": "Volcanoes in Cameroon",
+      "url": "/volcanoes-in-cameroon"
+    },
+    {
+      "title": "Volcanoes in Canada",
+      "url": "/volcanoes-in-canada"
+    },
+    {
+      "title": "Volcanoes in Chad",
+      "url": "/volcanoes-in-chad"
+    },
+    {
+      "title": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    },
+    {
+      "title": "Volcanoes in China",
+      "url": "/volcanoes-in-china"
+    },
+    {
+      "title": "Volcanoes in Colombia",
+      "url": "/volcanoes-in-colombia"
+    },
+    {
+      "title": "Volcanoes in Costa Rica",
+      "url": "/volcanoes-in-costa-rica"
+    },
+    {
+      "title": "Volcanoes in DR Congo",
+      "url": "/volcanoes-in-dr-congo"
+    },
+    {
+      "title": "Volcanoes in Dominica",
+      "url": "/volcanoes-in-dominica"
+    },
+    {
+      "title": "Volcanoes in Ecuador",
+      "url": "/volcanoes-in-ecuador"
+    },
+    {
+      "title": "Volcanoes in El Salvador",
+      "url": "/volcanoes-in-el-salvador"
+    },
+    {
+      "title": "Volcanoes in Eritrea",
+      "url": "/volcanoes-in-eritrea"
+    },
+    {
+      "title": "Volcanoes in Ethiopia",
+      "url": "/volcanoes-in-ethiopia"
+    },
+    {
+      "title": "Volcanoes in France",
+      "url": "/volcanoes-in-france"
+    },
+    {
+      "title": "Volcanoes in Greece",
+      "url": "/volcanoes-in-greece"
+    },
+    {
+      "title": "Volcanoes in Guatemala",
+      "url": "/volcanoes-in-guatemala"
+    },
+    {
+      "title": "Volcanoes in Honduras",
+      "url": "/volcanoes-in-honduras"
+    },
+    {
+      "title": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    },
+    {
+      "title": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "title": "Volcanoes in Italy",
+      "url": "/volcanoes-in-italy"
+    },
+    {
+      "title": "Volcanoes in Japan",
+      "url": "/volcanoes-in-japan"
+    },
+    {
+      "title": "Volcanoes in Kenya",
+      "url": "/volcanoes-in-kenya"
+    },
+    {
+      "title": "Volcanoes in Mexico",
+      "url": "/volcanoes-in-mexico"
+    },
+    {
+      "title": "Volcanoes in New Zealand",
+      "url": "/volcanoes-in-new-zealand"
+    },
+    {
+      "title": "Volcanoes in Nicaragua",
+      "url": "/volcanoes-in-nicaragua"
+    },
+    {
+      "title": "Volcanoes in Papua New Guinea",
+      "url": "/volcanoes-in-papua-new-guinea"
+    },
+    {
+      "title": "Volcanoes in Peru",
+      "url": "/volcanoes-in-peru"
+    },
+    {
+      "title": "Volcanoes in Portugal",
+      "url": "/volcanoes-in-portugal"
+    },
+    {
+      "title": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "title": "Volcanoes in Saudi Arabia",
+      "url": "/volcanoes-in-saudi-arabia"
+    },
+    {
+      "title": "Volcanoes in Solomon Islands",
+      "url": "/volcanoes-in-solomon-islands"
+    },
+    {
+      "title": "Volcanoes in Spain",
+      "url": "/volcanoes-in-spain"
+    },
+    {
+      "title": "Volcanoes in Sudan",
+      "url": "/volcanoes-in-sudan"
+    },
+    {
+      "title": "Volcanoes in Tanzania",
+      "url": "/volcanoes-in-tanzania"
+    },
+    {
+      "title": "Volcanoes in Tonga",
+      "url": "/volcanoes-in-tonga"
+    },
+    {
+      "title": "Volcanoes in Türkiye",
+      "url": "/volcanoes-in-turkiye"
+    },
+    {
+      "title": "Volcanoes in Vanuatu",
+      "url": "/volcanoes-in-vanuatu"
+    },
+    {
+      "title": "Volcanoes in Yemen",
+      "url": "/volcanoes-in-yemen"
+    },
+    {
+      "title": "Volcanoes in the Philippines",
+      "url": "/volcanoes-in-philippines"
+    },
+    {
+      "title": "Volcanoes in the United Kingdom",
+      "url": "/volcanoes-in-united-kingdom"
+    },
+    {
+      "title": "Volcanoes in the United States",
+      "url": "/volcanoes-in-united-states"
+    }
+  ],
+  "special_pages": [
+    {
+      "title": "The Ring of Fire",
+      "url": "/ring-of-fire"
+    },
+    {
+      "title": "Supervolcanoes",
+      "url": "/supervolcanoes"
+    },
+    {
+      "title": "Types of Volcanoes",
+      "url": "/types-of-volcanoes"
+    },
+    {
+      "title": "Volcanic Explosivity Index (VEI)",
+      "url": "/volcanic-explosivity-index"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Active Volcanoes Around the World",
+      "url": "/active-volcanoes"
+    },
+    {
+      "title": "Deadliest Volcanic Eruptions in History",
+      "url": "/deadliest-eruptions"
+    },
+    {
+      "title": "Most Active Volcanoes in the World",
+      "url": "/most-active-volcanoes"
+    },
+    {
+      "title": "Tallest Volcanoes in the World",
+      "url": "/tallest-volcanoes"
+    }
+  ]
+}

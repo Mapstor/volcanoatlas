@@ -1,0 +1,427 @@
+{
+  "slug": "ring-of-fire",
+  "page_type": "special",
+  "title": "The Ring of Fire",
+  "meta_title": "Ring of Fire — Pacific Volcanoes, Map, Countries & Facts | VolcanoAtlas",
+  "meta_description": "The Ring of Fire is a 40,000 km horseshoe of volcanoes encircling the Pacific. Explore its 850+ volcanoes, 15+ countries, and major eruptions.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Ring of Fire",
+      "url": "/ring-of-fire"
+    }
+  ],
+  "quick_answer": {
+    "what": "The Ring of Fire is a roughly 40,000 km (25,000 mi) horseshoe-shaped belt of volcanic arcs, oceanic trenches, and seismic zones encircling the Pacific Ocean.",
+    "key_stat": "It contains approximately 850 of the world's 1,222 catalogued Holocene volcanoes — about 70% of the global total.",
+    "countries": "The Ring spans 15+ countries across four continents, including Indonesia, Japan, the Philippines, the United States, Chile, and Russia.",
+    "why_it_matters": "Roughly 90% of the world's earthquakes and 75% of its active volcanoes occur along the Ring of Fire, making it the most geologically active zone on Earth."
+  },
+  "hero": {
+    "title": "The Ring of Fire",
+    "subtitle": "Earth's Most Volcanically Active Zone",
+    "description": "A 40,000 km belt of fire encircling the Pacific — home to 850+ volcanoes, 15+ nations, and 75% of the world's volcanic eruptions."
+  },
+  "sections": {
+    "overview": {
+      "content": "The Ring of Fire (also known as the Circum-Pacific Belt) is a roughly 40,000 km (25,000 mi) horseshoe-shaped zone of intense volcanic and seismic activity that traces the margins of the Pacific Ocean. Stretching from <a href=\"/volcanoes-in-new-zealand\">New Zealand</a> northward through the island chains of the western Pacific, across <a href=\"/volcanoes-in-japan\">Japan</a> and <a href=\"/volcanoes-in-russia\">Russia's</a> Kamchatka Peninsula, down through Alaska and the western coasts of <a href=\"/volcanoes-in-canada\">Canada</a>, the <a href=\"/volcanoes-in-united-states\">United States</a>, <a href=\"/volcanoes-in-mexico\">Mexico</a>, and Central America, and terminating along the Andes of South America, the Ring of Fire encompasses more active volcanoes than any other geological feature on Earth. Of the 1,222 Holocene volcanoes catalogued in the Smithsonian Institution's Global Volcanism Program database, approximately 850 — about 70% — lie within the Ring of Fire's boundaries. This concentration is not coincidental: the Ring marks the edges of several major tectonic plates, where the dense oceanic crust of the Pacific Plate and its neighbors dive beneath lighter continental plates in a process called subduction. That subduction fuels explosive volcanism, triggers devastating earthquakes, and has shaped the geography and cultures of more than 15 nations along the Pacific rim. Every major VEI 7 eruption in recorded history — from <a href=\"/volcano/tambora\">Tambora</a> in 1815 to the Minoan eruption of <a href=\"/volcano/santorini\">Santorini</a> around 1610 BCE — occurred either within or at the immediate margins of this zone. Understanding the Ring of Fire is essential to understanding volcanic hazards on a global scale."
+    },
+    "geography_and_extent": {
+      "content": "The Ring of Fire is not a continuous ring but a series of discrete volcanic arcs, oceanic trenches, and fault systems arranged in a rough horseshoe around the Pacific basin. Its eastern arm begins at the southern tip of <a href=\"/volcanoes-in-chile\">Chile</a>, where the Nazca Plate subducts beneath the South American Plate, producing the towering stratovolcanoes of the Andes — including <a href=\"/volcano/cotopaxi\">Cotopaxi</a> at 5,911 m (19,393 ft) and <a href=\"/volcano/villarrica\">Villarrica</a>, one of the most active volcanoes in South America with 152 confirmed eruptions. The arc continues northward through <a href=\"/volcanoes-in-ecuador\">Ecuador</a>, <a href=\"/volcanoes-in-colombia\">Colombia</a>, <a href=\"/volcanoes-in-peru\">Peru</a>, Central America's volcanic backbone (from <a href=\"/volcanoes-in-costa-rica\">Costa Rica</a> through <a href=\"/volcanoes-in-guatemala\">Guatemala</a> and <a href=\"/volcanoes-in-mexico\">Mexico</a>), and up the Cascadia subduction zone of the western United States, home to <a href=\"/volcano/st-helens\">Mount St. Helens</a>, <a href=\"/volcano/rainier\">Mount Rainier</a>, and <a href=\"/volcano/crater-lake\">Crater Lake</a>.\n\nThe northern curve passes through the Aleutian Islands of Alaska — one of the densest volcanic chains on Earth — before arcing southwest along Russia's Kamchatka Peninsula, where <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> rises to 4,835 m (15,863 ft), the tallest active volcano in Eurasia. The western arm descends through the Kuril Islands, <a href=\"/volcanoes-in-japan\">Japan</a> (home to 105 catalogued volcanoes including <a href=\"/volcano/fujisan\">Mount Fuji</a>), the Ryukyu Islands, and the <a href=\"/volcanoes-in-philippines\">Philippines</a> (where <a href=\"/volcano/pinatubo\">Pinatubo's</a> 1991 VEI 6 eruption was the 20th century's second-largest). From there, the Ring extends through <a href=\"/volcanoes-in-indonesia\">Indonesia</a> — the world's most volcanically active archipelago with 101 Holocene volcanoes — and curves eastward through <a href=\"/volcanoes-in-papua-new-guinea\">Papua New Guinea</a>, the <a href=\"/volcanoes-in-solomon-islands\">Solomon Islands</a>, <a href=\"/volcanoes-in-vanuatu\">Vanuatu</a>, <a href=\"/volcanoes-in-tonga\">Tonga</a>, and <a href=\"/volcanoes-in-new-zealand\">New Zealand</a>, where the Taupo Volcanic Zone hosts Taupo, site of the most powerful eruption of the last 5,000 years.\n\nThe Pacific basin itself — the ocean floor enclosed by the Ring — is relatively devoid of subduction-driven volcanism, though hotspot volcanoes like <a href=\"/volcano/kilauea\">Kilauea</a> and <a href=\"/volcano/mauna-loa\">Mauna Loa</a> in Hawaii form through a fundamentally different mechanism: a stationary mantle plume beneath the moving Pacific Plate."
+    },
+    "tectonic_mechanism": {
+      "content": "The Ring of Fire exists because of plate tectonics — specifically, because the Pacific Ocean is surrounded by convergent plate boundaries where oceanic crust is being destroyed. The fundamental engine is subduction: the Pacific Plate and several smaller plates (the Nazca, Cocos, Juan de Fuca, and Philippine Sea plates) are denser than the continental crust at the ocean's margins, so they dive beneath the lighter continental plates at rates of 2 to 10 cm per year.\n\nAs an oceanic plate descends into the mantle, it carries water trapped in the mineral structure of the basaltic rock. At depths of 80 to 150 km (50 to 93 mi), the intense heat and pressure drive this water out of the sinking slab and into the overlying mantle wedge. Water dramatically lowers the melting point of mantle rock (peridotite), causing partial melting. The resulting magma — typically andesitic to dacitic in composition, rich in silica and dissolved gas — is more viscous and more explosive than the basaltic magma produced at mid-ocean ridges or hotspots. This is why Ring of Fire volcanoes are disproportionately represented among the world's most explosive eruptions.\n\nThe arrangement of the Ring also explains why earthquakes and volcanoes cluster together along these margins. The same subduction that generates magma also produces enormous tectonic stress, resulting in the deep ocean trenches (like the Mariana Trench at 10,994 m depth) and powerful megathrust earthquakes (like the 2011 Tōhoku earthquake in Japan, magnitude 9.1). Roughly 90% of all earthquakes worldwide occur along the Ring of Fire, and the largest recorded earthquakes — the 1960 Chilean event (magnitude 9.5) and the 2004 Sumatra quake (magnitude 9.1) — both occurred at Ring of Fire subduction zones."
+    },
+    "major_subduction_zones": {
+      "content": "The Ring of Fire comprises several distinct subduction zones, each with its own character and volcanic output:\n\n**The Andean Subduction Zone** runs approximately 7,000 km along the western coast of South America, where the Nazca Plate dives beneath the South American Plate. This zone has produced the Andes — the world's longest continental mountain range — and hosts approximately 151 Holocene volcanoes across <a href=\"/volcanoes-in-chile\">Chile</a> (66 volcanoes), <a href=\"/volcanoes-in-ecuador\">Ecuador</a> (35), <a href=\"/volcanoes-in-peru\">Peru</a> (13), and <a href=\"/volcanoes-in-colombia\">Colombia</a> (13). The subduction angle varies from steep in the south to nearly flat in central Peru, creating gaps in the volcanic arc. The zone's signature eruptions include the VEI 7 event at <a href=\"/volcano/blanco-cerro\">Cerro Blanco</a> around 2300 BCE and <a href=\"/volcano/hudson-cerro\">Cerro Hudson's</a> repeated VEI 6 events.\n\n**The Central American Volcanic Arc** extends from Mexico to Panama, where the Cocos Plate subducts beneath the Caribbean and North American plates. This 1,500 km arc contains 94 volcanoes in VolcanoAtlas's database, including the deadly <a href=\"/volcano/santa-maria\">Santa Maria</a> in <a href=\"/volcanoes-in-guatemala\">Guatemala</a> (VEI 6 in 1902), <a href=\"/volcano/popocatepetl\">Popocatépetl</a> in <a href=\"/volcanoes-in-mexico\">Mexico</a> (which threatens 25 million people in the Mexico City metropolitan area), and Ilopango in El Salvador (whose ~450 AD eruption may have contributed to global climate disruption).\n\n**The Cascadia Subduction Zone** lies off the Pacific Northwest coast of North America, where the small Juan de Fuca Plate descends beneath the North American Plate. Though less frequently eruptive than other segments, Cascadia produced the catastrophic 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a> (VEI 5) and harbors <a href=\"/volcano/rainier\">Mount Rainier</a>, widely considered the most dangerous volcano in the <a href=\"/volcanoes-in-united-states\">United States</a> due to the risk of lahars reaching the Seattle-Tacoma metropolitan area.\n\n**The Aleutian Arc** stretches 2,500 km from mainland Alaska to the Kamchatka Peninsula, containing more than 40 active volcanoes. The 1912 eruption of <a href=\"/volcano/novarupta\">Novarupta</a> (VEI 6) was the largest eruption of the 20th century, ejecting roughly 13 km³ of material.\n\n**The Kamchatka-Kuril Arc** is one of the most volcanically productive zones on Earth. Russia's Kamchatka Peninsula alone hosts 94 Holocene volcanoes, including <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (111 confirmed eruptions) and <a href=\"/volcano/sheveluch\">Sheveluch</a> (102 confirmed eruptions), making them among the most active volcanoes on the planet.\n\n**The Japanese Archipelago** sits at the junction of four tectonic plates — the Pacific, Philippine Sea, Eurasian, and North American plates — creating one of the most complex volcanic and seismic environments on Earth. Japan's 105 Holocene volcanoes include the iconic <a href=\"/volcano/fujisan\">Mount Fuji</a>, the deadly Unzen (whose 1792 collapse triggered a tsunami that killed roughly 15,000 people), and <a href=\"/volcano/aira\">Aira Caldera</a> (Kagoshima Bay), which produced a VEI 6 supereruption approximately 8050 BCE.\n\n**The Philippine-Indonesian Arc** accounts for 124 of the Ring's volcanoes. <a href=\"/volcanoes-in-indonesia\">Indonesia's</a> 101 volcanoes make it the world's third-most volcanically endowed nation, and include <a href=\"/volcano/krakatau\">Krakatau</a> (whose 1883 VEI 6 eruption killed over 36,000 people), <a href=\"/volcano/tambora\">Tambora</a> (the VEI 7 eruption of 1815 that caused the 'Year Without a Summer'), and <a href=\"/volcano/merapi\">Merapi</a> (106 confirmed eruptions). The <a href=\"/volcanoes-in-philippines\">Philippines</a> contributed <a href=\"/volcano/pinatubo\">Pinatubo's</a> 1991 VEI 6 eruption, which lowered global temperatures by approximately 0.5°C for two years.\n\n**The Southwest Pacific Arc** runs from Papua New Guinea through the Solomon Islands, Vanuatu, Tonga, and New Zealand, hosting 104 Holocene volcanoes. This segment includes <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a>, whose January 2022 eruption (VEI 5) produced the largest atmospheric explosion recorded by modern instruments, and Taupo, whose ~232 AD Hatepe eruption (VEI 7) ejected an estimated 120 km³ of material."
+    },
+    "countries_of_the_ring": {
+      "content": "The Ring of Fire touches more than 20 nations across four continents. The following table shows the countries with the highest concentration of Holocene volcanoes along the Pacific rim, based on the Smithsonian Institution's Global Volcanism Program data. Together, these nations account for over two-thirds of all catalogued volcanoes on Earth.\n\nThe distribution is far from uniform. <a href=\"/volcanoes-in-united-states\">The United States</a> leads the count largely because of Alaska's Aleutian chain and the Cascadian arc, while <a href=\"/volcanoes-in-japan\">Japan's</a> 105 volcanoes are packed onto an archipelago smaller than California. <a href=\"/volcanoes-in-indonesia\">Indonesia</a> stretches across 5,000 km of subduction zone, giving it the highest density of high-risk volcanic centers in the world. At the other extreme, <a href=\"/volcanoes-in-canada\">Canada's</a> 24 volcanoes are spread across the vast wilderness of British Columbia, far from major population centers — though the Cascadian volcanoes near the US border remain a credible threat.\n\nSeveral smaller nations punch above their weight in volcanic terms. <a href=\"/volcanoes-in-el-salvador\">El Salvador</a>, barely larger than New Jersey, contains 16 Holocene volcanoes, making it one of the most volcanically dense countries on Earth relative to its area. <a href=\"/volcanoes-in-tonga\">Tonga</a>, with just 750 km² of land, hosts 21 volcanic centers (mostly submarine), and the 2022 eruption of <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a> demonstrated that even small island nations can produce globally significant volcanic events."
+    },
+    "notable_eruptions": {
+      "content": "The Ring of Fire has produced every recorded VEI 7 eruption and the vast majority of VEI 6 events. These eruptions have reshaped landscapes, altered global climate, destroyed civilizations, and killed hundreds of thousands of people.\n\n**Tambora, 1815 (VEI 7)** — The eruption of <a href=\"/volcano/tambora\">Mount Tambora</a> on Sumbawa Island, <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, on April 10, 1815 remains the largest volcanic eruption in recorded human history. It ejected approximately 150 km³ of material, killed an estimated 71,000 people directly and through subsequent famine, and injected so much sulfur dioxide into the stratosphere that 1816 became known as the 'Year Without a Summer.' Crops failed across Europe and North America, contributing to widespread famine and social unrest.\n\n**Krakatau, 1883 (VEI 6)** — The explosive destruction of <a href=\"/volcano/krakatau\">Krakatau</a> on August 27, 1883 generated tsunamis up to 30 m high that killed over 36,000 people across the Sunda Strait. The sound of the explosion was heard nearly 5,000 km away in Rodrigues Island near Mauritius, making it one of the loudest sounds in recorded history. Global temperatures dropped by approximately 1.2°C the following year.\n\n**Novarupta, 1912 (VEI 6)** — The eruption of <a href=\"/volcano/novarupta\">Novarupta</a> in Alaska's Katmai region on June 6–8, 1912 was the 20th century's largest volcanic event. It ejected approximately 13 km³ of tephra and created the Valley of Ten Thousand Smokes, a 40 km² ash flow deposit up to 213 m deep. Its remote location meant no direct casualties, but ashfall damaged communities hundreds of kilometers away.\n\n**Pinatubo, 1991 (VEI 6)** — The climactic eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> in the <a href=\"/volcanoes-in-philippines\">Philippines</a> on June 15, 1991 ejected roughly 10 km³ of material and was the second-largest eruption of the 20th century. It killed approximately 800 people (mostly from roof collapses under heavy tephra fall, exacerbated by a passing typhoon), destroyed Clark Air Base, and lowered global temperatures by about 0.5°C for nearly two years.\n\n**Mount St. Helens, 1980 (VEI 5)** — The lateral blast of <a href=\"/volcano/st-helens\">Mount St. Helens</a> on May 18, 1980 killed 57 people and flattened 600 km² of forest in Washington State, <a href=\"/volcanoes-in-united-states\">USA</a>. It was the deadliest and most economically destructive volcanic event in United States history, causing roughly $1.1 billion in damage (1980 dollars).\n\n**Hunga Tonga-Hunga Ha'apai, 2022 (VEI 5)** — The submarine eruption of <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a> on January 15, 2022 produced an atmospheric shockwave that circled the globe multiple times and generated tsunamis across the Pacific. It injected an unprecedented volume of water vapor into the stratosphere — roughly 146 teragrams — which scientists believe may have temporarily contributed to surface warming rather than the cooling typically associated with major eruptions."
+    },
+    "volcanic_hazards": {
+      "content": "The concentration of explosive volcanism along the Ring of Fire creates a cascade of hazards for the hundreds of millions of people living along the Pacific rim. Pyroclastic flows — superheated avalanches of gas, ash, and rock fragments traveling at speeds up to 700 km/h (435 mph) and temperatures exceeding 700°C — are the primary killer in Ring of Fire eruptions. The 1902 eruption of <a href=\"/volcano/pelee\">Mount Pelée</a> in Martinique (at the margin of the Ring) killed 29,000 people in minutes through a single pyroclastic surge.\n\nLahars — volcanic mudflows generated when eruptions melt glacial ice or mobilize rain-saturated ash — pose catastrophic risk along many Ring of Fire <a href=\"/types-of-volcanoes\">stratovolcanoes</a>. The 1985 eruption of <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> in <a href=\"/volcanoes-in-colombia\">Colombia</a> (VEI 3) generated lahars that buried the town of Armero, killing approximately 23,000 people. <a href=\"/volcano/rainier\">Mount Rainier</a> in the United States carries a similar lahar risk, with ancient deposits found beneath communities now home to over 100,000 residents.\n\nTsunamis triggered by volcanic flank collapses, caldera formation, or submarine eruptions are another signature hazard of the Ring. The 1883 Krakatau eruption generated waves that devastated coastal communities across the Sunda Strait. The 2022 Hunga Tonga event sent tsunami waves across the entire Pacific basin.\n\nAshfall from major Ring of Fire eruptions can disrupt aviation, contaminate water supplies, collapse roofs, and damage crops across thousands of square kilometers. The 2010 eruption of <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> in <a href=\"/volcanoes-in-iceland\">Iceland</a> — technically outside the Ring but at a related plate boundary — demonstrated how even a moderate eruption can paralyze international air travel for weeks."
+    },
+    "ring_of_fire_by_the_numbers": {
+      "content": "The scale of the Ring of Fire is best understood through its statistics. It hosts approximately 850 of the world's 1,222 catalogued Holocene volcanoes — about 70% of the global total. Of the 8,394 eruptions with known <a href=\"/volcanic-explosivity-index\">VEI</a> ratings in the Smithsonian database, the overwhelming majority occurred at Ring of Fire volcanoes. All seven recorded VEI 7 eruptions and 46 of 52 VEI 6 eruptions took place within or at the immediate margins of the Ring.\n\nThe five most active volcanoes on Earth by confirmed eruption count are all Ring of Fire volcanoes or closely associated with Pacific plate boundaries: <a href=\"/volcano/asosan\">Aso</a> (172 eruptions), <a href=\"/volcano/villarrica\">Villarrica</a> (152), <a href=\"/volcano/etna\">Etna</a> (147, on a related Mediterranean subduction boundary), <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (111), and <a href=\"/volcano/merapi\">Merapi</a> (106).\n\nPopulation exposure is staggering. An estimated 500 million people live within direct hazard range of Ring of Fire volcanoes. Indonesia alone has more than 8.6 million people living within 10 km of an active volcanic vent. Japan's 125 million citizens share their islands with 105 Holocene volcanoes. Mexico City, with a metropolitan population exceeding 21 million, lies just 70 km from the actively erupting <a href=\"/volcano/popocatepetl\">Popocatépetl</a>."
+    },
+    "future_outlook": {
+      "content": "The Ring of Fire will remain the dominant source of volcanic hazard for centuries to come. Tectonic plates move at geological timescales — the Pacific Plate is currently migrating northwest at roughly 7–10 cm per year — and subduction will continue fueling explosive volcanism for millions of years.\n\nSeveral Ring of Fire volcanoes are currently classified as high-priority monitoring targets due to their proximity to large populations and their histories of catastrophic eruptions. <a href=\"/volcano/vesuvius\">Vesuvius</a> in <a href=\"/volcanoes-in-italy\">Italy</a> (on a related subduction boundary) threatens 3 million people. <a href=\"/volcano/popocatepetl\">Popocatépetl</a> in <a href=\"/volcanoes-in-mexico\">Mexico</a> poses risks to the 25 million inhabitants of greater Mexico City. <a href=\"/volcano/taal\">Taal</a> in the <a href=\"/volcanoes-in-philippines\">Philippines</a>, which erupted as recently as 2020, sits within a lake just 50 km from Manila's 14 million residents.\n\nAdvances in satellite monitoring, GPS deformation networks, seismographic arrays, and gas emission sensing have dramatically improved eruption forecasting along the Ring. The successful prediction and evacuation ahead of Pinatubo's 1991 eruption saved an estimated 20,000 lives and remains one of volcanology's greatest achievements. However, many Ring of Fire volcanoes in developing nations remain inadequately monitored, and growing populations continue to encroach on volcanic hazard zones. The next major Ring of Fire eruption is not a question of if, but when."
+    }
+  },
+  "countries_table": {
+    "title": "Ring of Fire Countries by Volcano Count",
+    "description": "Holocene volcanoes in each Ring of Fire nation, based on the Smithsonian Institution's Global Volcanism Program database.",
+    "headers": [
+      "Country",
+      "Volcano Count",
+      "Notable Volcanoes",
+      "Deadliest Eruption"
+    ],
+    "rows": [
+      [
+        "United States",
+        "165",
+        "Kilauea, St. Helens, Rainier, Novarupta",
+        "St. Helens 1980 (57 deaths)"
+      ],
+      [
+        "Japan",
+        "105",
+        "Fuji, Aira (Sakurajima), Unzen, Aso",
+        "Unzen 1792 (~15,000 deaths)"
+      ],
+      [
+        "Indonesia",
+        "101",
+        "Krakatau, Tambora, Merapi, Rinjani",
+        "Tambora 1815 (~71,000 deaths)"
+      ],
+      [
+        "Russia",
+        "94",
+        "Klyuchevskoy, Sheveluch, Kurile Lake",
+        "Kamchatka eruptions — remote, few casualties"
+      ],
+      [
+        "Chile",
+        "66",
+        "Villarrica, Cerro Hudson, Puyehue",
+        "Calbuco 2015 (evacuations only)"
+      ],
+      [
+        "Ecuador",
+        "35",
+        "Cotopaxi, Quilotoa, Chacana",
+        "Cotopaxi 1877 (~1,000 deaths from lahars)"
+      ],
+      [
+        "Mexico",
+        "34",
+        "Popocatépetl, Colima, El Chichón",
+        "El Chichón 1982 (~2,000 deaths)"
+      ],
+      [
+        "Papua New Guinea",
+        "39",
+        "Rabaul, Billy Mitchell, Witori",
+        "Rabaul 1937 (507 deaths)"
+      ],
+      [
+        "Canada",
+        "24",
+        "Garibaldi, Nazko, Silverthrone",
+        "No recorded fatal eruptions"
+      ],
+      [
+        "New Zealand",
+        "23",
+        "Taupo, Ruapehu, Tongariro",
+        "Tarawera 1886 (~120 deaths)"
+      ],
+      [
+        "Philippines",
+        "23",
+        "Pinatubo, Taal, Mayon",
+        "Taal 1911 (~1,300 deaths)"
+      ],
+      [
+        "Tonga",
+        "21",
+        "Hunga Tonga-Hunga Ha'apai, Tofua",
+        "Hunga Tonga 2022 (6 deaths)"
+      ],
+      [
+        "Guatemala",
+        "18",
+        "Santa Maria, Fuego, Pacaya",
+        "Santa Maria 1902 (~5,000 deaths)"
+      ],
+      [
+        "El Salvador",
+        "16",
+        "Ilopango, San Salvador, Santa Ana",
+        "Ilopango ~450 AD (tens of thousands)"
+      ],
+      [
+        "Colombia",
+        "13",
+        "Nevado del Ruiz, Galeras, Huila",
+        "Nevado del Ruiz 1985 (~23,000 deaths)"
+      ],
+      [
+        "Nicaragua",
+        "13",
+        "Masaya, San Cristóbal, Momotombo",
+        "Cosigüina 1835 (no fatalities)"
+      ],
+      [
+        "Peru",
+        "13",
+        "Ubinas, Sabancaya, Misti",
+        "Huaynaputina 1600 (~1,500 deaths)"
+      ],
+      [
+        "Vanuatu",
+        "12",
+        "Ambae, Ambrym, Kuwae",
+        "Kuwae 1452 (significant regional deaths)"
+      ],
+      [
+        "Costa Rica",
+        "10",
+        "Arenal, Poás, Rincón de la Vieja",
+        "Arenal 1968 (87 deaths)"
+      ],
+      [
+        "Solomon Islands",
+        "7",
+        "Kavachi, Tinakula, Savo",
+        "Limited records"
+      ],
+      [
+        "Samoa",
+        "2",
+        "Savai'i, Upolu",
+        "Savai'i 1905 (no deaths recorded)"
+      ],
+      [
+        "Honduras",
+        "3",
+        "Utila, Zacate Grande, Tiger Island",
+        "No recorded eruptions in modern times"
+      ]
+    ]
+  },
+  "ring_segments_chart": [
+    {
+      "segment": "North America (US & Canada)",
+      "volcano_count": 189
+    },
+    {
+      "segment": "South America (Andes)",
+      "volcano_count": 151
+    },
+    {
+      "segment": "Japan",
+      "volcano_count": 105
+    },
+    {
+      "segment": "Southwest Pacific",
+      "volcano_count": 104
+    },
+    {
+      "segment": "Indonesia",
+      "volcano_count": 101
+    },
+    {
+      "segment": "Central America",
+      "volcano_count": 94
+    },
+    {
+      "segment": "Kamchatka & Kurils (Russia)",
+      "volcano_count": 94
+    },
+    {
+      "segment": "Philippines",
+      "volcano_count": 23
+    }
+  ],
+  "comparison_table": {
+    "title": "Ring of Fire vs Other Volcanic Zones",
+    "description": "How the Ring of Fire compares to Earth's other major volcanic regions.",
+    "headers": [
+      "Zone",
+      "Length",
+      "Holocene Volcanoes",
+      "% of Global Total",
+      "Tectonic Mechanism",
+      "Notable Eruption"
+    ],
+    "rows": [
+      [
+        "Ring of Fire",
+        "~40,000 km",
+        "~850",
+        "~70%",
+        "Subduction (multiple zones)",
+        "Tambora 1815 (VEI 7)"
+      ],
+      [
+        "Mid-Atlantic Ridge",
+        "~16,000 km",
+        "~55",
+        "~4.5%",
+        "Divergent boundary",
+        "Laki 1783 (VEI 6)"
+      ],
+      [
+        "East African Rift",
+        "~6,400 km",
+        "~100",
+        "~8%",
+        "Continental rift",
+        "Erta Ale (continuous lava lake)"
+      ],
+      [
+        "Mediterranean Belt",
+        "~4,000 km",
+        "~30",
+        "~2.5%",
+        "Subduction (African/Eurasian)",
+        "Santorini ~1610 BCE (VEI 7)"
+      ],
+      [
+        "Hawaiian Hotspot",
+        "Point source",
+        "~5",
+        "<1%",
+        "Mantle plume (hotspot)",
+        "Kilauea 2018 (VEI 4)"
+      ]
+    ]
+  },
+  "facts": [
+    "The Ring of Fire contains approximately 850 of the world's 1,222 catalogued Holocene volcanoes — roughly 70% of the global total.",
+    "The Ring stretches approximately 40,000 km (25,000 miles) around the Pacific basin, roughly equal to the circumference of the Earth.",
+    "About 90% of the world's earthquakes occur along the Ring of Fire, including all three of the largest earthquakes ever recorded (Chile 1960, Alaska 1964, Sumatra 2004).",
+    "Indonesia, Japan, and the United States — the three countries with the most Holocene volcanoes — are all Ring of Fire nations, with a combined 371 volcanoes.",
+    "The Ring of Fire produced every recorded VEI 7 eruption in human history, including Tambora (1815), Rinjani/Samalas (1257), and Kikai (~4350 BCE).",
+    "An estimated 500 million people live within direct hazard range of Ring of Fire volcanoes.",
+    "The 1815 eruption of Tambora on the Ring of Fire ejected approximately 150 km³ of material and caused the 'Year Without a Summer' in 1816, leading to crop failures across the Northern Hemisphere.",
+    "The Mariana Trench, the deepest point on Earth at 10,994 m (36,070 ft), was formed by the same subduction process that drives Ring of Fire volcanism.",
+    "Klyuchevskoy volcano in Russia's Kamchatka has erupted 111 confirmed times, making it one of the three most active volcanoes in the Ring of Fire.",
+    "The 2022 eruption of Hunga Tonga-Hunga Ha'apai on the Ring of Fire produced an atmospheric shockwave that circled the globe at least six times and was detected on barometers worldwide.",
+    "The Ring of Fire's subduction zones generate magma that is typically more silica-rich and gas-laden than hotspot or rift magma, which is why Ring eruptions tend to be more explosive.",
+    "Mount Fuji, Japan's tallest peak and most iconic Ring of Fire volcano, has not erupted since 1707, but an eruption today could coat Tokyo — 100 km away — in several centimeters of ash."
+  ],
+  "faqs": [
+    {
+      "question": "What is the Ring of Fire?",
+      "answer": "The Ring of Fire, officially known as the Circum-Pacific Belt, is a roughly 40,000 km (25,000 mi) horseshoe-shaped zone of intense volcanic and seismic activity that encircles the Pacific Ocean. It runs from New Zealand through the western Pacific islands, Japan, Kamchatka (Russia), Alaska, and down the western coasts of North and South America. The Ring contains approximately 850 of the world's 1,222 catalogued Holocene volcanoes — about 70% of the global total — and experiences roughly 90% of the world's earthquakes. It exists because the Pacific Plate and several smaller oceanic plates are subducting beneath surrounding continental plates, fueling explosive volcanism and powerful earthquakes."
+    },
+    {
+      "question": "Why is it called the Ring of Fire?",
+      "answer": "The name 'Ring of Fire' refers to the near-continuous belt of volcanic activity — literally 'fire' — that encircles the Pacific Ocean in a horseshoe shape. The term gained widespread use in the mid-20th century as geologists mapped the correlation between Pacific-rim earthquakes and volcanic eruptions. Despite the name, it is not a complete ring but a series of arcs and chains. The volcanoes along this belt produce frequent eruptions, lava flows, and explosive events that collectively justify the dramatic name. In some languages, equivalent terms are used — Japanese seismologists refer to the 'Kanpei Kazanntai' (Circum-Pacific Volcanic Belt)."
+    },
+    {
+      "question": "How many volcanoes are in the Ring of Fire?",
+      "answer": "The Ring of Fire contains approximately 850 of the world's 1,222 catalogued Holocene volcanoes, according to the Smithsonian Institution's Global Volcanism Program. This represents roughly 70% of all known active or potentially active volcanoes on Earth. The exact count depends on how the Ring's boundaries are defined, as some volcanic zones at its margins (such as Iceland or the Mediterranean) are sometimes included. The countries with the most Ring of Fire volcanoes are the United States (165, mostly in Alaska), Japan (105), Indonesia (101), and Russia (94, concentrated in Kamchatka and the Kuril Islands)."
+    },
+    {
+      "question": "What countries are in the Ring of Fire?",
+      "answer": "The Ring of Fire spans more than 15 countries across four continents. Starting from the southwest Pacific and moving clockwise: New Zealand, Tonga, Samoa, Vanuatu, Solomon Islands, Papua New Guinea, Indonesia, the Philippines, Japan, Russia (Kamchatka and Kurils), the United States (Alaska, Pacific Northwest, Hawaii), Canada, Mexico, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Colombia, Ecuador, Peru, and Chile. Several smaller island nations in the Pacific (such as Fiji and the Mariana Islands) also lie along or near the Ring. Indonesia, Japan, and the United States have the highest concentrations of volcanoes."
+    },
+    {
+      "question": "Why does the Ring of Fire have so many volcanoes?",
+      "answer": "The Ring of Fire has so many volcanoes because the Pacific Ocean is encircled by subduction zones — plate boundaries where dense oceanic crust dives beneath lighter continental or oceanic crust. As the subducting plate descends into Earth's mantle, water trapped in its mineral structure is released into the overlying mantle rock, lowering its melting point and generating magma. This magma rises through the crust to form volcanic arcs. The Pacific Plate is the largest tectonic plate on Earth and is surrounded by convergent boundaries on nearly all sides, creating a near-continuous belt of volcanism spanning roughly 40,000 km."
+    },
+    {
+      "question": "Is the Ring of Fire dangerous?",
+      "answer": "The Ring of Fire is the most dangerous volcanic and seismic zone on Earth. An estimated 500 million people live within direct hazard range of its volcanoes, and the region has produced every major volcanic disaster of the past two centuries — including Tambora 1815 (over 71,000 deaths), Krakatau 1883 (over 36,000 deaths), Mount Pelée 1902 (roughly 29,000 deaths), and Nevado del Ruiz 1985 (approximately 23,000 deaths). Beyond volcanic hazards, Ring of Fire subduction zones generate the world's most powerful earthquakes and tsunamis, such as the 2011 Tōhoku earthquake and tsunami that killed nearly 20,000 people in Japan."
+    },
+    {
+      "question": "What is the most active volcano in the Ring of Fire?",
+      "answer": "Defining 'most active' depends on the metric used. By confirmed eruption count, Aso (Asosan) in Japan leads with 172 recorded eruptions, followed by Villarrica in Chile (152) and Klyuchevskoy in Russia (111). By continuous activity, Kilauea in Hawaii has been erupting almost continuously since 1983, though it is technically a hotspot volcano within the Pacific Plate rather than a subduction volcano on the Ring itself. Stromboli in Italy has been continuously active for roughly 2,000 years. Among subduction volcanoes specifically, Klyuchevskoy and Sheveluch in Kamchatka are currently among the most persistently active."
+    },
+    {
+      "question": "What was the biggest eruption in the Ring of Fire?",
+      "answer": "The largest eruption in the Ring of Fire during recorded human history was the 1815 eruption of Mount Tambora in Indonesia, rated VEI 7. It ejected approximately 150 km³ of material, produced an eruption column over 40 km high, and killed an estimated 71,000 people. Going further back in geological time, several VEI 7 eruptions were even larger: the Kurile Lake eruption in Kamchatka (~6440 BCE), the Crater Lake (Mount Mazama) eruption in Oregon (~5680 BCE), and the Kikai eruption in Japan (~4350 BCE). Some Ring of Fire calderas, including Taupo and Toba, have produced even larger VEI 8 supereruptions in the deeper geological past."
+    },
+    {
+      "question": "Could a supervolcano erupt in the Ring of Fire?",
+      "answer": "Yes. Several Ring of Fire calderas have produced supereruptions (VEI 8) in the geological past, including Toba in Indonesia (~74,000 years ago), Taupo in New Zealand (~26,500 years ago), and Aira in Japan (~29,000 years ago). While the probability of a VEI 8 eruption in any given century is extremely low — estimated at roughly 1 in 17,000 by some volcanologists — the consequences would be global, potentially causing years of volcanic winter and widespread crop failure. Currently, none of the known Ring of Fire supervolcano calderas show signs of an imminent supereruption, but they remain objects of continuous monitoring and scientific study."
+    },
+    {
+      "question": "Are there volcanoes in the middle of the Pacific Ocean?",
+      "answer": "Yes, but they form through a different mechanism than Ring of Fire volcanoes. The Hawaiian Islands, for example, sit near the center of the Pacific Plate, far from any subduction zone. They are formed by a mantle hotspot — a stationary plume of abnormally hot rock rising from deep within Earth's mantle. As the Pacific Plate moves over this hotspot, it creates a chain of volcanic islands. Kilauea and Mauna Loa on Hawaii's Big Island are the most active hotspot volcanoes on Earth. Other Pacific hotspot chains include the Galápagos Islands and the Society Islands (including Tahiti). These volcanoes are generally less explosive than Ring of Fire subduction volcanoes because they erupt basaltic magma with lower gas content."
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/",
+      "text": "Smithsonian Institution Global Volcanism Program",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/volcano-hazards",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Ring-of-Fire",
+      "text": "Britannica: Ring of Fire",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://education.nationalgeographic.org/resource/ring-fire/",
+      "text": "National Geographic: Ring of Fire",
+      "type": "educational"
+    },
+    {
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/pacific-ring-of-fire",
+      "text": "NOAA: Pacific Ring of Fire",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "tambora",
+      "krakatau",
+      "pinatubo",
+      "st-helens",
+      "kilauea",
+      "fujisan",
+      "klyuchevskoy",
+      "merapi",
+      "popocatepetl",
+      "taupo",
+      "rainier",
+      "mauna-loa",
+      "cotopaxi",
+      "etna",
+      "villarrica",
+      "sheveluch",
+      "aira",
+      "hunga-tonga-hunga-ha-apai",
+      "novarupta",
+      "ruiz-nevado-del"
+    ],
+    "country_pages": [
+      "united-states",
+      "japan",
+      "indonesia",
+      "russia",
+      "chile",
+      "ecuador",
+      "mexico",
+      "philippines",
+      "new-zealand",
+      "papua-new-guinea",
+      "guatemala",
+      "colombia",
+      "el-salvador",
+      "tonga",
+      "canada",
+      "costa-rica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ]
+  },
+  "schema_data": {
+    "type": "Article",
+    "name": "Ring of Fire",
+    "description": "The Ring of Fire is a 40,000 km horseshoe-shaped belt of volcanic arcs and seismic zones encircling the Pacific Ocean, containing about 70% of the world's active volcanoes.",
+    "url": "https://volcanoatlas.com/ring-of-fire"
+  },
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "url": "/ring-of-fire"
+}

@@ -1,0 +1,499 @@
+{
+  "slug": "pinatubo",
+  "volcano_id": 273083,
+  "title": "Mount Pinatubo",
+  "meta_title": "Mount Pinatubo — Eruption History, Height, Type & Facts | VolcanoAtlas",
+  "meta_description": "Mount Pinatubo is a 1,486 m active stratovolcano in the Philippines. Explore its 1991 VEI 6 eruption — the 20th century's largest — current status, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount Pinatubo is an active stratovolcano on the island of Luzon in the Philippines, rising to 1,486 m (4,875 ft) above sea level, approximately 100 km (62 mi) northwest of Manila.",
+    "status": "Active — last erupted 2021 (minor phreatic). The 1991 VEI 6 eruption was the largest of the 20th century. Continuously monitored by PHIVOLCS.",
+    "famous_for": "The VEI 6 eruption of June 15, 1991 — the second-largest eruption of the 20th century (after Novarupta 1912), which ejected approximately 10 km³ of material, lowered global temperatures by 0.5°C, and demonstrated the life-saving power of volcanic monitoring.",
+    "danger_level": "Very high — approximately 2 million people live within 40 km. Ongoing lahar hazard from remobilized 1991 deposits continues to threaten communities decades after the eruption."
+  },
+  "hero": {
+    "name": "Mount Pinatubo",
+    "local_name": "Bundok Pinatubo (Filipino)",
+    "subtitle": "The Eruption That Cooled the World",
+    "country": "Philippines",
+    "region": "Central Luzon, Zambales Mountains",
+    "type": "Stratovolcano",
+    "elevation_m": 1486,
+    "elevation_ft": 4875,
+    "status": "Active",
+    "last_eruption": "2021",
+    "coordinates": {
+      "lat": 15.13,
+      "lon": 120.35
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01914.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,486 m (4,875 ft) — reduced from ~1,745 m (5,725 ft) before 1991",
+    "type": "Stratovolcano (composite volcano)",
+    "status": "Active",
+    "last_eruption": "November 30, 2021 (minor phreatic activity)",
+    "first_known_eruption": "~7460 BCE (Tayawan caldera event, VEI 6)",
+    "total_recorded_eruptions": 9,
+    "vei_max": "6 (achieved four times: ~7460 BCE, ~3550 BCE, ~1050 BCE, and 1991)",
+    "country": "Philippines",
+    "region": "Central Luzon, at the intersection of Zambales, Tarlac, and Pampanga provinces",
+    "tectonic_setting": "Subduction zone — Eurasian Plate and Philippine Sea Plate interaction (continental crust >25 km)",
+    "rock_types": [
+      "Dacite"
+    ],
+    "coordinates": "15.130°N, 120.350°E",
+    "nearest_city": "Angeles City — 25 km east; Manila — 100 km southeast",
+    "population_at_risk": "~2 million within 40 km; ~21 million in greater Manila metro area within ashfall range",
+    "summit_crater": "2.5-km-wide caldera with crater lake (Lake Pinatubo), formed during 1991 eruption",
+    "indigenous_peoples": "Aeta (Negrito) people — ancestral homeland on Pinatubo's slopes, displaced by 1991 eruption",
+    "monitoring_agency": "PHIVOLCS (Philippine Institute of Volcanology and Seismology)",
+    "former_military_bases": "Clark Air Base (USAF) and Naval Station Subic Bay — both severely damaged and subsequently closed",
+    "smithsonian_id": "273083",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=273083"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Pinatubo is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> located in the Zambales Mountains of central Luzon, <a href=\"/volcanoes-in-philippines\">Philippines</a>, approximately 100 km (62 mi) northwest of the capital Manila and 25 km west of Angeles City. Prior to its devastating 1991 eruption, Pinatubo was a relatively obscure, heavily forested lava dome complex with no historically recorded eruptions — a quiet profile that belied a violent geological past including at least three previous <a href=\"/volcanic-explosivity-index\">VEI 6</a> eruptions over the past 10,000 years. The eruption of June 15, 1991 changed that obscurity forever: rated VEI 6, it was the second-largest volcanic eruption of the 20th century (after Novarupta-Katmai in 1912 by volume) and the largest to directly affect a densely populated area in modern times.\n\nThe 1991 eruption ejected approximately 10 km³ of material (5 km³ dense rock equivalent), generating pyroclastic flows that covered 400 km² of the surrounding landscape, creating a 2.5-km-wide summit caldera, and injecting approximately 17 megatons of sulfur dioxide into the stratosphere — more SO₂ than any eruption since <a href=\"/volcano/krakatau\">Krakatau</a> in 1883. The stratospheric aerosol cloud lowered global temperatures by approximately 0.5°C over the following two years, temporarily offsetting greenhouse warming and providing climate scientists with an invaluable natural experiment. Despite the eruption's enormous scale, successful monitoring and timely evacuations by the Philippine Institute of Volcanology and Seismology (PHIVOLCS) and the United States Geological Survey (USGS) are credited with saving tens of thousands of lives — making Pinatubo one of the greatest success stories in the history of volcanic hazard mitigation. The eruption's timing coincided with Typhoon Yunya, whose heavy rains mixed with falling ash to produce devastating lahars that continued to cause destruction for years afterward, reshaping river systems and burying communities across central Luzon. Pinatubo sits within the Luzon Volcanic Arc of the <a href=\"/ring-of-fire\">Ring of Fire</a>, alongside other major Philippine volcanoes including <a href=\"/volcano/mayon\">Mount Mayon</a> and <a href=\"/volcano/taal\">Taal</a>."
+    },
+    "geology_and_formation": {
+      "content": "Mount Pinatubo lies at the western edge of the Luzon Volcanic Arc, a chain of volcanoes produced by the complex tectonic interactions in the Philippine region, where the Eurasian Plate, Philippine Sea Plate, and several microplates converge. The volcano sits above a subduction zone where oceanic crust descends beneath the continental crust of Luzon at a depth sufficient to generate magma — a process typical of the volcanoes along the <a href=\"/ring-of-fire\">Ring of Fire</a>. The dominant rock type erupted by Pinatubo is dacite — a silica-rich, viscous magma that is highly prone to explosive eruptions because its high viscosity traps dissolved volcanic gases until pressures become catastrophic.\n\nPinatubo's geological history reveals a pattern of long dormancy punctuated by extremely violent eruptions. The volcano has produced at least four VEI 6 eruptions over the past ~9,500 years: the Tayawan caldera event (~7460 BCE), an eruption around 3550 BCE, another around 1050 BCE, and the 1991 eruption. This recurrence of VEI 6 events is remarkable and makes Pinatubo one of the most consistently explosive volcanoes on Earth at this scale. Between these paroxysmal events, the volcano appears to undergo long periods of quiescence lasting 500–3,000 years, during which the magma system slowly recharges. The pre-1991 edifice was a dome complex formed primarily during the most recent inter-eruption period, with dense tropical rainforest covering its slopes — a landscape that gave no visible indication of the explosive potential beneath. The 1991 eruption lowered the summit by more than 300 m, from approximately 1,745 m to 1,486 m, and created the 2.5-km-wide caldera that now contains Lake Pinatubo. The <a href=\"/types-of-volcanoes\">stratovolcano</a> structure of Pinatubo, while less symmetrical than classic examples like <a href=\"/volcano/mayon\">Mayon</a> or <a href=\"/volcano/fujisan\">Mount Fuji</a>, is typical of dacitic composite volcanoes built by dome extrusion and explosive eruption cycles."
+    },
+    "eruption_history_overview": {
+      "content": "Mount Pinatubo has a relatively sparse eruption record — just 9 documented eruptions over approximately 9,500 years — but this low frequency masks extraordinary explosive power. Four of those nine eruptions achieved VEI 6, placing Pinatubo in the rare category of volcanoes that have produced multiple eruptions of this magnitude within the Holocene. The eruption record, reconstructed primarily from geological deposits rather than historical accounts (as no eruptions were historically recorded before 1991), reveals a pattern of long repose intervals averaging 2,000–3,000 years between major events, followed by brief but cataclysmic episodes.\n\nThe earliest recorded eruption, around 7460 BCE, was a VEI 6 event associated with the formation of the Tayawan caldera. Subsequent VEI 6 eruptions occurred around 3550 BCE and 1050 BCE, each producing extensive pyroclastic flow deposits and lahars that extended far beyond the volcano's immediate flanks. A smaller eruption around 1450 CE (VEI 5) represents the only activity between the ~1050 BCE event and 1991 — a gap of approximately 2,500 years. The 1991 eruption was followed by minor events in 1992 (VEI 1, secondary explosions from the caldera) and 1993 (VEI 1), and a small phreatic event in November 2021 (VEI 1). The ongoing lahar activity from remobilized 1991 deposits — which continued to cause significant damage through the late 1990s and beyond — represents a hazard that extends the effective impact of the eruption by decades."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1991 Eruption — The Blast That Cooled the Planet",
+          "content": "The 1991 eruption of Mount Pinatubo was the largest volcanic eruption to directly affect a densely populated area in the 20th century and one of the most significant volcanic events in modern history. Precursory activity began on April 2, 1991, when local residents of the Aeta indigenous community reported steam explosions along the upper northwest flank. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) immediately deployed monitoring equipment, and the United States Geological Survey (USGS) dispatched a rapid-response team — a collaboration facilitated by the proximity of Clark Air Base, one of the largest U.S. military installations outside the continental United States, located just 25 km from the summit.\n\nOver the following weeks, escalating seismic activity, increasing SO₂ gas emissions (peaking at over 5,000 tonnes per day), and small phreatic explosions prompted PHIVOLCS and USGS scientists to issue progressively urgent warnings. On June 7, the first magmatic eruption produced an ash column several kilometers high. Alert levels were raised, and evacuations expanded to a 40-km radius — ultimately displacing approximately 200,000 people. The climactic eruption began on June 15, producing a Plinian eruption column that rose 40 km (130,000 ft) into the stratosphere and lasted approximately nine hours. Pyroclastic flows cascaded down all flanks of the volcano, reaching distances of up to 16 km and covering approximately 400 km² under deposits up to 200 m thick in valleys.\n\nThe eruption's destructive impact was dramatically amplified by the simultaneous passage of Typhoon Yunya (Diding), whose heavy rainfall saturated the enormous volumes of freshly deposited ash and pumice, triggering lahars — volcanic mudflows — that devastated communities across central Luzon. Ash-laden rainwater also caused widespread roof collapses; approximately 90% of the estimated 847 fatalities were caused by collapsing roofs rather than direct volcanic effects. The eruption destroyed or severely damaged Clark Air Base and contributed to the U.S. decision to withdraw from the Philippines entirely, ending nearly a century of American military presence. The total ejected volume was approximately 10 km³ (5 km³ DRE), and the eruption created a 2.5-km-wide summit caldera. Economic damage was estimated at $710 million, with approximately 2.1 million people directly affected.\n\nThe stratospheric impact was extraordinary: approximately 17 megatons of SO₂ formed a global sulfuric acid aerosol layer that reduced direct sunlight reaching the Earth's surface by approximately 5% and lowered average global temperatures by 0.5°C over the following two years. The aerosol cloud also contributed to significant ozone depletion, accelerating ozone loss over both poles. The successful prediction and evacuation — credited with saving an estimated 5,000–20,000 lives — established the Pinatubo monitoring effort as the gold standard for volcanic crisis management and directly influenced volcanic monitoring protocols worldwide."
+        },
+        {
+          "title": "The ~7460 BCE Tayawan Caldera Eruption — Pinatubo's Oldest Known VEI 6",
+          "content": "The earliest known eruption of Mount Pinatubo occurred approximately 9,500 years ago and was associated with the formation of the Tayawan caldera. This VEI 6 event produced extensive pyroclastic flow deposits and tephra that have been identified across the surrounding lowlands. The Tayawan caldera, partially buried and modified by subsequent volcanic activity, was one of the key features that helped geologists reconstruct Pinatubo's explosive past in the years before 1991. This ancient eruption demonstrates that the 1991 event was not anomalous but rather the latest in a recurring pattern of large-magnitude explosive eruptions at intervals of roughly 2,000–3,000 years."
+        },
+        {
+          "title": "The ~3550 BCE and ~1050 BCE Eruptions — A Pattern of Cataclysm",
+          "content": "Two additional VEI 6 eruptions, occurring around 3550 BCE and 1050 BCE, produced pyroclastic flows and lahars that were even more extensive than those of 1991 — as documented by geological mapping of the deposits surrounding the volcano. These eruptions generated thick ignimbrite sheets extending far down the major river drainages, fundamentally reshaping the landscape of central Luzon. The ~1050 BCE eruption in particular produced some of the most voluminous pyroclastic flow deposits identified around Pinatubo, suggesting it may have been the largest of the four known VEI 6 events. The discovery of these prehistoric eruptions in the late 1980s and early 1990s was crucial in establishing Pinatubo as a major volcanic hazard — knowledge that proved life-saving when activity resumed in 1991."
+        },
+        {
+          "title": "The Post-1991 Lahars — A Disaster Within a Disaster",
+          "content": "The lahars that followed the 1991 eruption constitute one of the most prolonged and devastating secondary volcanic hazards in modern history. The eruption deposited approximately 5–7 km³ of loose pyroclastic material on Pinatubo's flanks, and each subsequent rainy season — particularly during typhoons — remobilized enormous volumes of this material as lahars. These mudflows, often traveling at 20–40 km/h with the consistency of wet concrete, buried entire communities, destroyed bridges and roads, filled river channels, and created vast lahar floodplains that displaced tens of thousands of people. By some estimates, the post-eruption lahars caused more economic damage than the eruption itself, with damage continuing through the late 1990s and into the 2000s. Major engineering projects, including the Mega Dike system in Pampanga province, were constructed to channel lahar flows away from population centers. The lahar hazard from Pinatubo's 1991 deposits, while greatly diminished, has not fully subsided — heavy rainfall can still remobilize material in steep upper watersheds."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mount Pinatubo is classified as an active volcano and is continuously monitored by the Philippine Institute of Volcanology and Seismology (PHIVOLCS). The most recent volcanic activity was a minor phreatic (steam-driven) event on November 30, 2021 (VEI 1), which produced a small steam and ash emission from the caldera area. The summit caldera created by the 1991 eruption now contains Lake Pinatubo, a crater lake approximately 2.5 km in diameter and up to 100 m deep — one of the deepest and most voluminous crater lakes in the Philippines. The lake's water chemistry and temperature are monitored as indicators of underlying volcanic activity, as changes in acidity, temperature, or gas emissions from the lake could signal magmatic unrest.\n\nPHIVOLCS maintains seismic monitoring stations around the volcano and periodically conducts gas surveys, ground deformation measurements, and water sampling of the crater lake and hot springs. Seismic activity beneath Pinatubo has remained at low background levels since the mid-1990s, consistent with a post-eruptive cooling and degassing period. However, Pinatubo's geological record — four VEI 6 eruptions in ~9,500 years — confirms that future large eruptions are a certainty over geological timescales. The average repose interval between major eruptions (~2,000–3,000 years) suggests no imminent threat, but the 1991 experience demonstrated how rapidly Pinatubo can transition from apparent dormancy to catastrophic eruption — the entire precursory period lasted only about 10 weeks."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Mount Pinatubo poses multiple volcanic hazards to the approximately 2 million people living within 40 km and the over 21 million people in the greater Manila metropolitan area within potential ashfall range. The primary direct hazards include pyroclastic flows (which reached 16 km from the summit in 1991), tephra fall (ash from the 1991 eruption fell on Manila, 100 km away, at thicknesses of 2–5 cm), and volcanic gases. However, the hazard that has caused the most sustained damage is lahars — volcanic mudflows that remobilize loose pyroclastic deposits during heavy rainfall.\n\nThe lahar threat from Pinatubo's 1991 deposits persisted for over a decade and continues at reduced levels today. At their peak in the mid-1990s, lahars devastated communities across the provinces of Pampanga, Tarlac, and Zambales, burying towns, destroying infrastructure, and displacing hundreds of thousands of people. The Philippine government constructed an extensive system of lahar containment dikes and drainage channels (the Mega Dike system) at a cost of billions of pesos, though the structures have required continuous maintenance and have been breached on multiple occasions during severe typhoons. Lake Pinatubo itself poses a potential breakout flood hazard — if the caldera rim were to fail or be overtopped, the lake's approximately 70 million m³ of water could generate catastrophic flooding downstream. PHIVOLCS and the Philippine National Disaster Risk Reduction and Management Council (NDRRMC) maintain hazard maps and evacuation plans for communities in the volcano's shadow."
+    },
+    "geography_and_physical_description": {
+      "content": "Mount Pinatubo stands in the Zambales Mountains of central Luzon, at the triple junction of Zambales, Tarlac, and Pampanga provinces. Its current summit elevation of 1,486 m (4,875 ft) makes it a relatively modest peak by Philippine standards — lower than neighboring Mount Negron (1,583 m) and far shorter than <a href=\"/volcano/mayon\">Mount Mayon</a> (2,462 m) in southeastern Luzon. Before 1991, the summit reached approximately 1,745 m (5,725 ft); the eruption removed more than 300 m and replaced the summit with a 2.5-km-wide caldera. This caldera now contains Lake Pinatubo, a stunning turquoise crater lake that has become one of the most photographed natural features in the Philippines.\n\nThe volcano's flanks descend through zones of dramatically different landscape. The upper slopes within approximately 5 km of the summit remain deeply scarred by 1991 pyroclastic flow deposits — barren gullies and steep-walled lahar channels carved through thick pumice deposits. Beyond this devastation zone, secondary growth forests and grasslands have colonized the landscape, interspersed with lahar deposits that form flat, sandy plains in the major river valleys (the Sacobia, Abacan, Pasig-Potrero, Marella, and O'Donnell drainages). The Aeta (Negrito) indigenous people, who had inhabited Pinatubo's forested slopes for centuries before the eruption, were displaced from their ancestral homeland and many resettled in lowland communities. The vegetation recovery on Pinatubo's slopes has been studied extensively as an example of ecological succession following catastrophic volcanic disturbance."
+    },
+    "climate_and_global_impact": {
+      "content": "The 1991 eruption of Mount Pinatubo produced the most significant volcanic impact on global climate since <a href=\"/volcano/krakatau\">Krakatau</a> in 1883 and remains one of the most thoroughly studied volcanic climate events in history. The eruption injected approximately 17 megatons of sulfur dioxide into the stratosphere — more than any eruption in over a century — where it formed a global layer of sulfuric acid aerosols that reflected incoming solar radiation. Average global surface temperatures declined by approximately 0.5°C over the following two years, temporarily offsetting the greenhouse warming trend and providing climate scientists with a natural experiment of extraordinary value for testing climate models.\n\nThe stratospheric aerosol cloud circled the globe within three weeks and persisted for approximately two years. It reduced direct sunlight reaching the Earth's surface by 5–10%, produced vivid sunsets worldwide (though less dramatic than those following Krakatau), and contributed to enhanced ozone depletion — the largest ozone hole ever recorded up to that time was measured over Antarctica in 1992, partly attributed to Pinatubo's aerosols providing surfaces for ozone-destroying chemical reactions. The eruption also temporarily reduced the rate of global sea level rise as the ocean surface cooled. Climate models accurately predicted the magnitude and duration of Pinatubo's cooling effect, validating their ability to simulate volcanic forcing and, by extension, increasing confidence in their projections of greenhouse gas warming. By comparison, <a href=\"/volcano/st-helens\">Mount St. Helens'</a> 1980 eruption produced negligible global climate impact (only 0.5 megatons of SO₂), while <a href=\"/volcano/tambora\">Tambora's</a> 1815 eruption — with an estimated 60+ megatons of SO₂ — caused the 'Year Without a Summer' in 1816."
+    },
+    "cultural_significance": {
+      "content": "Mount Pinatubo holds profound cultural significance, particularly for the Aeta (also spelled Ayta) people, an indigenous Negrito ethnic group who had inhabited the volcano's forested slopes for centuries before the 1991 eruption. The Aeta maintained a deep spiritual connection to the mountain, which they called home and regarded as sacred. The eruption displaced approximately 20,000 Aeta from their ancestral territory, forcing them into lowland resettlement communities where they faced significant cultural dislocation, poverty, and health challenges — a human dimension of the disaster that is often overshadowed by the eruption's physical and climate impacts.\n\nIn the broader Filipino and international consciousness, the 1991 eruption marked a turning point in several ways. The destruction of Clark Air Base and the damage to Naval Station Subic Bay accelerated the end of the U.S. military presence in the Philippines — the Philippine Senate voted in September 1991 to reject a new basing treaty, ending nearly a century of American military installations in the country. Pinatubo has since become a symbol of both volcanic power and the effectiveness of scientific monitoring, widely cited in volcanology textbooks as the premier example of successful eruption prediction saving lives. The volcano's dramatic crater lake has also transformed Pinatubo into an increasingly popular hiking and tourism destination, adding an economic dimension to its cultural legacy."
+    },
+    "visiting_and_tourism": {
+      "content": "Mount Pinatubo has become one of the most popular hiking destinations in the Philippines, drawing visitors primarily to see the stunning turquoise crater lake formed after the 1991 eruption. The standard route begins from the Capas municipality in Tarlac province, where visitors are required to register and hire accredited local guides (many of whom are Aeta). A 4x4 vehicle navigates the lahar-carved landscape for approximately 30–45 minutes before reaching the trailhead, from which the hike to the crater rim takes approximately 1.5–2 hours (about 5 km one way) through a dramatic landscape of lahar canyons, river crossings, and recovering vegetation.\n\nThe hike is rated moderate in difficulty and is accessible to reasonably fit visitors. The crater rim offers spectacular views of Lake Pinatubo — a vivid turquoise lake filling the 2.5-km-wide caldera, set against a backdrop of dramatic caldera walls rising 200–300 m above the water. Swimming in the lake is sometimes permitted but conditions vary. The best time to visit is during the dry season (November–May); the trail is typically closed during the wettest months (July–September) due to lahar and flooding risks. Organized tours from Manila (approximately 3–4 hours by road to the jump-off point) are widely available and typically include 4x4 transport, guides, and permits. Visitors should be aware that the landscape continues to change as erosion reshapes the lahar deposits, and that volcanic activity, while currently at low levels, could require trail closures without notice."
+    },
+    "nearby_volcanoes": {
+      "content": "Mount Pinatubo lies within the Luzon Volcanic Arc of the <a href=\"/volcanoes-in-philippines\">Philippines</a>, a country with 23 Holocene volcanoes and one of the highest volcanic hazard exposures in the world. The most notable nearby volcanoes include <a href=\"/volcano/mayon\">Mount Mayon</a> (2,462 m) in southeastern Luzon — renowned as the world's most perfectly shaped volcanic cone and the most active volcano in the Philippines with 65 recorded eruptions. <a href=\"/volcano/taal\">Taal Volcano</a> (311 m), located in a lake just 60 km south of Manila, is another extremely dangerous volcano that erupted as recently as 2025, with a history of lethal phreatomagmatic explosions (VEI max 6). The Philippines' location along the western margin of the <a href=\"/ring-of-fire\">Ring of Fire</a>, where the Philippine Sea Plate and Eurasian Plate converge, ensures that volcanic activity will remain a persistent natural hazard for the nation's 115 million people."
+    },
+    "etymology": {
+      "content": "The name 'Pinatubo' is of uncertain origin but is generally believed to derive from the Kapampangan, Sambal, or Tagalog languages spoken by the communities surrounding the volcano. One interpretation links it to the Tagalog/Kapampangan word 'pinatubo,' meaning 'made to grow' — possibly a reference to the volcano's forested slopes or to the mountain being 'grown' or created by natural forces. The Aeta people, the indigenous inhabitants of Pinatubo's slopes, had their own names and spiritual traditions associated with the mountain, though many of these were disrupted by the displacement following the 1991 eruption."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mount Pinatubo Compared to the Philippines' Major Volcanoes",
+      "description": "How does Pinatubo compare to other dangerous volcanoes in the Philippines?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Pinatubo",
+          "Philippines",
+          "1,486 m",
+          "Stratovolcano",
+          "2021",
+          "6",
+          "9"
+        ],
+        [
+          "Mayon",
+          "Philippines",
+          "2,462 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "65"
+        ],
+        [
+          "Taal",
+          "Philippines",
+          "311 m",
+          "Caldera",
+          "2025",
+          "6",
+          "39"
+        ],
+        [
+          "Bulusan",
+          "Philippines",
+          "1,565 m",
+          "Stratovolcano",
+          "2023",
+          "3",
+          "18"
+        ],
+        [
+          "Kanlaon",
+          "Philippines",
+          "2,435 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "30"
+        ]
+      ]
+    },
+    {
+      "title": "The Largest Eruptions of the 20th Century",
+      "description": "Pinatubo 1991 in context with the century's other great eruptions.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Year",
+        "VEI",
+        "Ejecta Volume",
+        "Deaths",
+        "Global Cooling"
+      ],
+      "rows": [
+        [
+          "Novarupta (Katmai)",
+          "United States",
+          "1912",
+          "6",
+          "13 km³ DRE",
+          "2",
+          "~0.1°C"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1991",
+          "6",
+          "5 km³ DRE",
+          "847",
+          "0.5°C for 2 years"
+        ],
+        [
+          "Santa Maria",
+          "Guatemala",
+          "1902",
+          "6",
+          "8.5 km³",
+          "~5,000",
+          "Minimal"
+        ],
+        [
+          "St. Helens",
+          "United States",
+          "1980",
+          "5",
+          "1.2 km³ DRE",
+          "57",
+          "Negligible"
+        ],
+        [
+          "El Chichón",
+          "Mexico",
+          "1982",
+          "5",
+          "0.4 km³ DRE",
+          "~2,000",
+          "0.3–0.5°C"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7460,
+      "vei": 6,
+      "label": "Tayawan caldera eruption — earliest known VEI 6",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -7030,
+      "vei": null,
+      "label": "Eruption of unknown scale",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -3550,
+      "vei": 6,
+      "label": "Major VEI 6 eruption — extensive pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1050,
+      "vei": 6,
+      "label": "Possibly the largest eruption at Pinatubo — VEI 6",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1450,
+      "vei": 5,
+      "label": "VEI 5 eruption — last pre-modern activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1991,
+      "vei": 6,
+      "label": "Climactic VEI 6 eruption — 847 killed, 0.5°C global cooling, largest 20th-century eruption by impact",
+      "deaths": "847",
+      "notable": true
+    },
+    {
+      "year": 1992,
+      "vei": 1,
+      "label": "Secondary explosions from caldera",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1993,
+      "vei": 1,
+      "label": "Minor caldera floor activity",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2021,
+      "vei": 1,
+      "label": "Minor phreatic event",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Before 7000 BCE",
+      "count": 2,
+      "note": "Includes Tayawan caldera VEI 6 event (~7460 BCE)"
+    },
+    {
+      "century": "4000–3000 BCE",
+      "count": 1,
+      "note": "VEI 6 eruption (~3550 BCE)"
+    },
+    {
+      "century": "1000–1 BCE",
+      "count": 1,
+      "note": "VEI 6 eruption (~1050 BCE)"
+    },
+    {
+      "century": "1st–14th CE",
+      "count": 0,
+      "note": "Long dormancy"
+    },
+    {
+      "century": "15th CE",
+      "count": 1,
+      "note": "VEI 5 eruption (~1450 CE)"
+    },
+    {
+      "century": "16th–19th CE",
+      "count": 0,
+      "note": "No recorded activity — volcano densely forested and considered dormant"
+    },
+    {
+      "century": "20th CE",
+      "count": 3,
+      "note": "1991 VEI 6 climactic eruption plus 1992 and 1993 minor events"
+    },
+    {
+      "century": "21st CE",
+      "count": 1,
+      "note": "Minor phreatic event (2021)"
+    }
+  ],
+  "facts": [
+    "The 1991 eruption of Mount Pinatubo was the largest volcanic eruption to directly affect a densely populated area in the 20th century, ejecting approximately 10 km³ of material and creating a 2.5-km-wide summit caldera.",
+    "The eruption injected approximately 17 megatons of sulfur dioxide into the stratosphere — more than any eruption since Krakatau in 1883 — lowering global temperatures by 0.5°C for two years.",
+    "Prior to 1991, Pinatubo had no historically recorded eruptions and was so obscure that many local residents did not know they lived near an active volcano.",
+    "The successful monitoring and evacuation effort is credited with saving an estimated 5,000 to 20,000 lives, making Pinatubo the gold standard for volcanic crisis management.",
+    "Pinatubo has produced four VEI 6 eruptions in approximately 9,500 years — a recurrence rate of one mega-eruption roughly every 2,400 years, making it one of the most consistently explosive volcanoes on Earth at this scale.",
+    "The eruption coincided with Typhoon Yunya, whose heavy rains mixed with falling ash to collapse roofs and trigger lahars — approximately 90% of the 847 fatalities were caused by roof collapses rather than direct volcanic effects.",
+    "Post-eruption lahars continued to devastate communities for over a decade, arguably causing more total economic damage than the eruption itself.",
+    "The destruction of Clark Air Base and damage to Subic Bay contributed to the end of the U.S. military presence in the Philippines — the Philippine Senate voted to reject the new basing treaty just three months after the eruption.",
+    "Lake Pinatubo, the turquoise crater lake that now fills the 1991 caldera, has become one of the most popular hiking destinations in the Philippines.",
+    "The eruption displaced approximately 20,000 Aeta (Negrito) indigenous people from their ancestral homeland on Pinatubo's slopes — a cultural displacement from which the community has never fully recovered.",
+    "The stratospheric aerosol cloud from the eruption contributed to record ozone depletion — the largest ozone hole ever measured up to that time was recorded over Antarctica in 1992, partly attributed to Pinatubo's emissions.",
+    "Before the eruption, Pinatubo's summit stood at approximately 1,745 m (5,725 ft); the eruption removed more than 300 m, reducing it to the current 1,486 m (4,875 ft)."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Pinatubo still active?",
+      "answer": "Yes, Mount Pinatubo is classified as an active volcano by the Philippine Institute of Volcanology and Seismology (PHIVOLCS). The most recent volcanic activity was a minor phreatic (steam-driven) event on November 30, 2021. While the volcano has been largely quiet since the catastrophic 1991 eruption, its geological record reveals four VEI 6 eruptions over the past 9,500 years — a recurrence pattern that confirms future large eruptions are certain over geological timescales. PHIVOLCS maintains continuous monitoring of seismicity, gas emissions, and the chemistry of crater Lake Pinatubo. The average interval between major eruptions is approximately 2,000–3,000 years, but the 1991 experience showed that Pinatubo can transition from apparent dormancy to catastrophic eruption in just 10 weeks."
+    },
+    {
+      "question": "When did Mount Pinatubo erupt?",
+      "answer": "Mount Pinatubo's most famous eruption occurred on June 15, 1991, when a VEI 6 Plinian eruption — the largest to directly affect a populated area in the 20th century — ejected approximately 10 km³ of material, lowered global temperatures by 0.5°C, and killed 847 people. Precursory activity began on April 2, 1991, with the climactic eruption occurring on June 15. Smaller post-eruption events occurred in 1992, 1993, and most recently in November 2021. Before 1991, Pinatubo had no historically recorded eruptions, though geological evidence reveals VEI 6 eruptions around 7460 BCE, 3550 BCE, and 1050 BCE, plus a VEI 5 event around 1450 CE."
+    },
+    {
+      "question": "How many people died in the 1991 Pinatubo eruption?",
+      "answer": "The 1991 eruption killed 847 people. Remarkably, this number would have been vastly higher — estimated at 5,000 to 20,000 — without the successful monitoring and evacuation effort conducted by PHIVOLCS and the USGS, which relocated approximately 200,000 people from the danger zone before the climactic eruption. Approximately 90% of the fatalities were caused by roof collapses as rain-saturated volcanic ash accumulated to crushing weights on structures — a consequence of the simultaneous passage of Typhoon Yunya. Direct volcanic effects (pyroclastic flows, lahars) accounted for the remaining deaths. The eruption directly affected approximately 2.1 million people and caused an estimated $710 million in damage."
+    },
+    {
+      "question": "How did the 1991 Pinatubo eruption affect global climate?",
+      "answer": "The 1991 eruption injected approximately 17 megatons of sulfur dioxide into the stratosphere, forming a global layer of sulfuric acid aerosols that reflected solar radiation. This reduced direct sunlight reaching Earth's surface by 5–10% and lowered average global temperatures by approximately 0.5°C over the following two years — temporarily offsetting the greenhouse warming trend. The aerosol cloud also contributed to record ozone depletion: the largest ozone hole ever measured at that time was recorded over Antarctica in 1992. The cooling effect provided climate scientists with an invaluable natural experiment, and the accuracy of climate model predictions of Pinatubo's impact increased confidence in the same models' projections of future greenhouse warming."
+    },
+    {
+      "question": "How tall is Mount Pinatubo?",
+      "answer": "Mount Pinatubo currently stands at 1,486 m (4,875 ft) above sea level. Before the 1991 eruption, the summit reached approximately 1,745 m (5,725 ft). The eruption removed more than 300 m (984 ft) from the summit, replacing it with a 2.5-km-wide caldera that now contains Lake Pinatubo. By Philippine standards, Pinatubo is a relatively modest peak — lower than nearby Mount Negron (1,583 m) and far shorter than Mount Mayon (2,462 m) in southeastern Luzon or Mount Apo (2,954 m), the Philippines' highest peak. The summit reduction during the 1991 eruption is comparable to the loss of 401 m from Mount St. Helens' summit in 1980."
+    },
+    {
+      "question": "What type of volcano is Pinatubo?",
+      "answer": "Mount Pinatubo is a stratovolcano (also called a composite volcano), built from alternating layers of lava, ash, and pyroclastic deposits. Its dominant magma composition is dacite — a silica-rich, viscous magma that traps dissolved gases and produces highly explosive eruptions. This dacitic composition is very similar to that of Mount St. Helens, and both volcanoes are capable of explosive Plinian eruptions. Before 1991, Pinatubo's pre-eruption form was a dome complex covered in dense rainforest — less classically cone-shaped than typical stratovolcanoes like Mount Mayon. The 1991 eruption created the 2.5-km-wide summit caldera that now defines the volcano's appearance."
+    },
+    {
+      "question": "Can you visit Mount Pinatubo?",
+      "answer": "Yes, Mount Pinatubo is one of the most popular hiking destinations in the Philippines. The standard route starts from Capas, Tarlac, where visitors register and hire accredited Aeta guides. A 4x4 vehicle navigates through the dramatic lahar landscape before reaching the trailhead, from which the hike to the crater rim takes approximately 1.5–2 hours. The turquoise crater lake is the main attraction. The best time to visit is during the dry season (November–May). Organized tours from Manila (3–4 hours by road) are widely available. The trail may be closed during the wettest months (July–September) due to flooding risks."
+    },
+    {
+      "question": "What happened to Clark Air Base?",
+      "answer": "Clark Air Base, one of the largest United States Air Force installations outside the continental United States, was located just 25 km east of Mount Pinatubo in Angeles City, Pampanga. The base was severely damaged by ashfall and lahars during the June 1991 eruption, with roof collapses, ash deposits of up to 15 cm, and extensive damage to aircraft, buildings, and infrastructure. Over 14,500 military personnel and their dependents had been evacuated before the climactic eruption. The destruction, combined with ongoing lahar threats and broader political considerations, contributed to the U.S. decision not to seek renewal of the basing agreement. Clark was turned over to the Philippine government in November 1991 and has since been converted into Clark International Airport and the Clark Freeport Zone."
+    },
+    {
+      "question": "How was the 1991 eruption successfully predicted?",
+      "answer": "The successful prediction of the 1991 Pinatubo eruption is considered the greatest achievement in volcanic hazard mitigation. After initial steam explosions on April 2, PHIVOLCS deployed seismic instruments around the volcano and the USGS sent a rapid-response team from its Volcano Crisis Assistance Team (VCAT). Over the following weeks, scientists tracked escalating seismicity (particularly long-period earthquakes indicating magma movement), rapidly increasing SO₂ gas emissions (peaking above 5,000 tonnes/day), and small phreatic explosions. They issued progressively urgent warnings using a 5-level alert system, and authorities evacuated approximately 200,000 people from a 40-km radius before the climactic June 15 eruption. This effort is estimated to have saved 5,000 to 20,000 lives."
+    },
+    {
+      "question": "What are lahars and why were they so devastating after Pinatubo?",
+      "answer": "Lahars are fast-moving mixtures of water, volcanic debris, and sediment — essentially volcanic mudflows with the consistency of wet concrete. The 1991 eruption deposited 5–7 km³ of loose pyroclastic material on Pinatubo's flanks, and each rainy season — particularly during typhoons — remobilized enormous volumes as lahars that buried communities, destroyed bridges, and filled river channels across central Luzon. The lahars were especially destructive because the Philippines experiences regular typhoons that deliver intense rainfall to the volcano's steep, ash-covered slopes. Post-eruption lahars continued for over a decade, arguably causing more total economic damage than the eruption itself. Major engineering projects, including the Mega Dike system, were built to protect vulnerable communities."
+    }
+  ],
+  "people_also_search": [
+    "pinatubo eruption 1991",
+    "pinatubo global cooling",
+    "mount pinatubo hike",
+    "pinatubo crater lake",
+    "pinatubo vs st helens",
+    "clark air base eruption",
+    "is pinatubo still active",
+    "pinatubo death toll"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Pinatubo",
+    "alternateName": [
+      "Pinatubo",
+      "Bundok Pinatubo"
+    ],
+    "description": "Active stratovolcano in Luzon, Philippines, famous for the VEI 6 eruption of June 1991 — the largest eruption to affect a populated area in the 20th century, which lowered global temperatures by 0.5°C",
+    "geo": {
+      "latitude": 15.13,
+      "longitude": 120.35,
+      "elevation": 1486
+    },
+    "containedInPlace": {
+      "name": "Zambales Mountains, Central Luzon",
+      "country": "Philippines"
+    },
+    "url": "https://volcanoatlas.com/volcano/pinatubo"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=273083",
+      "text": "Smithsonian GVP: Pinatubo",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.phivolcs.dost.gov.ph/",
+      "text": "PHIVOLCS — Philippine Institute of Volcanology and Seismology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/mount-pinatubo",
+      "text": "USGS: Mount Pinatubo",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Pinatubo",
+      "text": "Britannica: Mount Pinatubo",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/images/1510/global-effects-of-mount-pinatubo",
+      "text": "NASA Earth Observatory: Global Effects of Mount Pinatubo",
+      "type": "research"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "krakatau",
+      "st-helens",
+      "tambora",
+      "mayon",
+      "taal",
+      "vesuvius",
+      "fujisan"
+    ],
+    "country_pages": [
+      "philippines"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "mayon",
+    "taal",
+    "krakatau",
+    "st-helens",
+    "tambora"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Philippines",
+      "url": "/volcanoes-in-philippines"
+    },
+    {
+      "label": "Mount Pinatubo",
+      "url": "/volcano/pinatubo"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/pinatubo"
+}

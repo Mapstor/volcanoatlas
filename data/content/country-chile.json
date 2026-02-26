@@ -1,0 +1,1488 @@
+{
+  "slug": "chile",
+  "title": "Volcanoes in Chile",
+  "meta_title": "Volcanoes in Chile — List, Map & Eruptions",
+  "meta_description": "Chile has 90 Holocene volcanoes spanning 4,300 km along the Andes. Full list with map, eruption timeline, VEI data, hazards, and travel guide.",
+  "quick_answer": {
+    "how_many": "Chile has 90 Holocene volcanoes in the Smithsonian Global Volcanism Program database, including 24 shared with Argentina and Bolivia along the Andean border. This makes Chile the fifth most volcanically endowed country on Earth.",
+    "how_many_active": "At least 40 Chilean volcanoes have confirmed historical eruptions. Villarrica alone has 152 recorded eruptions — one of the highest counts of any volcano on the planet.",
+    "why": "Chile sits above the Nazca Plate subduction zone, where the oceanic Nazca Plate dives beneath the South American Plate at 6–9 cm per year, generating magma that feeds the entire Andean Volcanic Belt.",
+    "tallest": "Ojos del Salado at 6,879 m (22,572 ft) — the world's tallest volcano and the highest peak in Chile",
+    "most_recent": "Villarrica and Planchón-Peteroa in 2025"
+  },
+  "hero": {
+    "title": "Volcanoes in Chile",
+    "subtitle": "90 Volcanoes Along 4,300 km of the Andean Subduction Zone",
+    "volcano_count": 90,
+    "active_count": 40,
+    "tallest": {
+      "name": "Ojos del Salado",
+      "elevation_m": 6879
+    },
+    "most_recent_eruption": {
+      "volcano": "Villarrica / Planchón-Peteroa",
+      "year": "2025"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "Chile has 90 Holocene volcanoes catalogued by the Smithsonian Global Volcanism Program, making it the fifth most volcanically active country in the world after the [[country:united-states|United States]], [[country:japan|Japan]], [[country:indonesia|Indonesia]], and [[country:russia|Russia]]. These volcanoes stretch along a remarkable 4,300-km corridor of the Andes mountains, from the arid Atacama Desert in the north to the rain-soaked fjords of Patagonia and Tierra del Fuego in the south. Chile's volcanic arc is one of the longest continuous chains on Earth, a direct product of the ongoing subduction of the Nazca Plate beneath the South American Plate at a convergence rate of approximately 6.5 cm per year. The country's volcanoes range from towering 6,000-m-plus giants in the northern altiplano — including Ojos del Salado, the world's highest volcano at 6,879 m (22,572 ft) — to low-elevation lava domes and volcanic fields near the southern tip of South America. Among these 90 volcanoes, [[volcano:villarrica|Villarrica]] stands out with 152 confirmed eruptions, making it one of the most active volcanoes in the entire Southern Hemisphere. Chile has experienced eruptions at every level of the [[special:volcanic-explosivity-index|Volcanic Explosivity Index]] from VEI 0 through VEI 6, including devastating caldera-forming events during the Holocene. The country's volcanic history includes 582 confirmed eruptions, with a combined VEI distribution that reflects the dominance of moderate Strombolian to Vulcanian activity (301 events at VEI 2) punctuated by periodic large explosive eruptions. Today, Chile operates the Red Nacional de Vigilancia Volcánica (RNVV) through SERNAGEOMIN, which actively monitors more than 45 volcanoes using seismometers, GPS stations, gas analyzers, and satellite imagery."
+    },
+    "why_chile_has_volcanoes": {
+      "content": "Chile's extraordinary volcanic density is a direct consequence of the Nazca-South American plate subduction system, one of the most tectonically active convergent boundaries on the planet. The oceanic Nazca Plate, generated at the East Pacific Rise, subducts beneath the continental South American Plate along the Peru-Chile Trench at rates between 6 and 9 cm per year. As the subducting slab descends to depths of 90–150 km, water and other volatiles are released from the oceanic crust and overlying sediments, lowering the melting point of the mantle wedge above and generating hydrous basaltic magmas. These magmas rise through the thick Andean continental crust — exceeding 70 km in thickness in central Chile — where they undergo fractional crystallization and assimilation, producing the predominantly andesitic to dacitic compositions that characterize Chilean volcanoes.\n\nChile's volcanic arc is not uniform, however. It is divided into four distinct volcanic zones separated by gaps where subduction geometry suppresses volcanism. The Central Volcanic Zone (CVZ, 14°S–28°S) encompasses the high-altitude volcanoes of northern Chile and the Atacama, where the crust is thickest and erupted magmas are typically andesitic to dacitic. The Southern Volcanic Zone (SVZ, 33°S–46°S) extends through the Chilean Lakes District and produces the country's most active volcanoes, including [[volcano:villarrica|Villarrica]], [[volcano:llaima|Llaima]], and [[volcano:puyehue-cordon-caulle|Puyehue-Cordón Caulle]], with compositions ranging from basalt to rhyolite. The Austral Volcanic Zone (AVZ, 49°S–55°S) encompasses the remote Patagonian volcanoes like [[volcano:lautaro|Lautaro]] and [[volcano:burney-monte|Monte Burney]], where the Chile Ridge triple junction creates a uniquely complex tectonic setting. Between 28°S and 33°S, a 'flat slab' segment where the Nazca Plate subducts at a shallow angle creates a volcanic gap — explaining why the Santiago region lacks active volcanoes despite sitting on a subduction zone. Unlike [[country:iceland|Iceland]], which sits on a divergent mid-ocean ridge, Chile's volcanism is entirely subduction-driven, placing it squarely within the [[special:ring-of-fire|Ring of Fire]]."
+    },
+    "major_volcanoes": {
+      "content": "**Villarrica** — [[volcano:villarrica|Villarrica]] is Chile's most active volcano by eruption count and one of the most active on Earth. This 2,847-m (9,341-ft) glacier-clad [[special:types-of-volcanoes|stratovolcano]] near the resort town of Pucón has produced 152 confirmed eruptions, including VEI 5 events. A persistent lava lake — one of only a handful worldwide — glows within its summit crater. Its most destructive historical eruptions (1964, 1971, 2015) generated dangerous lahars that swept down river valleys threatening populated areas.\n\n**Llaima** — [[volcano:llaima|Llaima]] is one of Chile's largest volcanoes by volume (400 km³) and among its most active, with 56 confirmed eruptions. This 3,125-m (10,253-ft) basaltic-to-andesitic stratovolcano has two historically active craters and last erupted in 2009 with lava fountaining and lava flows. Its VEI 5 eruption around 6880 BCE was one of the largest Holocene events in Chile.\n\n**Lascar** — [[volcano:lascar|Láscar]] is the most active volcano in the northern Chilean Andes, with 32 confirmed eruptions. Rising to 5,592 m (18,346 ft) in the Atacama, this andesitic-to-dacitic stratovolcano produced a major VEI 4 eruption in 1993 that generated a 25-km eruption column and pyroclastic flows extending 8.5 km from the summit. It remains fumarolically active and most recently erupted in 2023.\n\n**Cerro Hudson** — Rising to just 1,905 m (6,250 ft), Hudson's modest elevation belies the 10-km-wide ice-filled caldera that was not even recognized until its 1971 eruption. The southernmost volcano in the Chilean Andes related to Nazca Plate subduction, it produced two VEI 6 eruptions during the Holocene and a devastating VEI 5 eruption in 1991 that deposited ash across Patagonia and Argentina.\n\n**Calbuco** — [[volcano:calbuco|Calbuco]] erupted dramatically in April 2015, producing two powerful sub-Plinian explosions (VEI 4–5) visible from Santiago. Rising to 1,974 m (6,476 ft) above the Chilean lake district, this andesitic stratovolcano has 36 confirmed eruptions. Its 2015 event forced the evacuation of 6,500 people and deposited ash across Argentina.\n\n**Puyehue-Cordón Caulle** — This NW-SE-trending volcanic complex last erupted in 2011–2012 in a VEI 5 event that closed airports across South America and deposited significant tephra into Argentine Patagonia. The complex has produced 26 confirmed eruptions and includes 5 VEI 5 events over the Holocene, making it one of Chile's most explosively productive systems.\n\n**Nevados de Chillán** — A compound volcano with three late-Pleistocene to Holocene stratovolcanoes built within nested calderas, Chillán has 26 confirmed eruptions. Its most recent eruptive cycle (2016–2022) included lava dome growth, Vulcanian explosions, and pyroclastic flows, prompting repeated alert-level changes.\n\n**Osorno** — This 2,659-m (8,727-ft) glacier-clad stratovolcano is often called the 'Fuji of South America' for its near-perfect conical symmetry above Lake Llanquihué. With 17 confirmed eruptions and a VEI max of 4, Osorno is a major tourist icon and ski destination.\n\n**Chaitén** — This small caldera erupted unexpectedly in 2008 after more than 9,000 years of quiescence, producing rhyolitic Plinian columns and forcing the complete evacuation of the nearby town of Chaitén (population 4,600). The eruption continued through 2011, demonstrating that long-dormant volcanoes can reawaken without warning.\n\n**Planchón-Peteroa** — An elongated complex straddling the Chile-Argentina border, Planchón-Peteroa has 21 confirmed eruptions spanning the Holocene. Its most recent activity in 2025 continues a pattern of frequent phreatic and phreatomagmatic events from this complex multi-vent system.\n\n**Ojos del Salado** — At 6,879 m (22,572 ft), Ojos del Salado is the world's tallest volcano, shared between Chile and Argentina. Though it has only one confirmed eruption (around 750 CE), young sulfur flows and fumarolic deposits near the summit suggest it should not be considered extinct. It is also the second-highest peak in the Western Hemisphere after Aconcagua.\n\n**Copahue** — Straddling the Chile-Argentina border at 2,953 m (9,689 ft), Copahue has 21 confirmed eruptions and last erupted in 2024. Its acidic crater lake and persistent fumarolic activity make it one of the most consistently restless volcanoes in the southern Andes."
+    },
+    "eruption_history": {
+      "content": "Chile's volcanic eruption history spans the entire Holocene, with 582 confirmed eruptions documented across its 90 volcanoes. The country's eruption record reveals a persistent drumbeat of activity dominated by moderate explosive events (VEI 2 accounts for 301 eruptions, or 52% of events with assigned VEI values), alongside periodic catastrophic eruptions that have shaped the Andean landscape.\n\nThe largest Holocene eruptions in Chile have reached VEI 6, including massive caldera-related events at Cerro Hudson (~4750 BCE and ~1890 BCE) and Michinmahuida (~8400 BCE). These events deposited thick tephra layers detectable across Patagonia and serve as important stratigraphic markers for geologists. At VEI 5, Chile has experienced 18 events, including explosive eruptions at Puyehue-Cordón Caulle (860 CE, 2011 CE), Calbuco (~8460 BCE, ~6760 BCE), Chaitén (~3100 BCE), Villarrica (~1810 BCE), Llaima (~6880 BCE), Sollipulli (~920 CE), Monte Burney, and Cerro Azul's 1932 eruption.\n\nThe historical period (post-1550 CE) has seen frequent activity concentrated in the Southern Volcanic Zone. Villarrica has been the dominant contributor, with major eruptions in 1640, 1730, 1864, 1908, 1948–49, 1963–64, 1971, 1984–85, and 2015. The 1971 Villarrica eruption generated lahars that killed 15 people and destroyed infrastructure in nearby valleys. In the north, Láscar has been active since the 1850s, with its most significant modern eruption in April 1993 (VEI 4) producing pyroclastic flows and an eruption column reaching 25 km altitude.\n\nThe 21st century has been remarkably active for Chilean volcanism. Major events include the 2008–2011 Chaitén eruption (the first large rhyolitic eruption since Novarupta in 1912), the 2011 Puyehue-Cordón Caulle eruption (VEI 5, disrupting air travel across the Southern Hemisphere), the 2015 Calbuco eruption (two powerful sub-Plinian blasts after 43 years of quiet), and ongoing activity at Nevados de Chillán (2016–2022), Copahue (recurring since 2012), Villarrica (2015, 2025), and Planchón-Peteroa (2025). These events underscore Chile's position as one of the most volcanically dynamic countries on Earth, comparable in eruption frequency to [[country:indonesia|Indonesia]] and [[country:japan|Japan]]."
+    },
+    "volcanic_hazards": {
+      "content": "Chile faces a diverse spectrum of volcanic hazards shaped by its unique geography — long river valleys draining glacier-clad peaks, arid desert terrains in the north, and densely forested slopes in the south. Lahars (volcanic mudflows) represent the most lethal hazard, particularly for volcanoes in the Southern Volcanic Zone where glaciers and snowpack provide abundant water. Villarrica's glaciated summit has generated devastating lahars in 1964, 1971, and 2015 that swept through the Turbio, Zanjón Seco, and Voipir river valleys. Pyroclastic flows and surges are a critical threat from stratovolcanoes capable of VEI 4+ events; Lascar's 1993 pyroclastic flows traveled 8.5 km and Calbuco's 2015 eruption sent pyroclastic density currents into the Blanco Sur valley.\n\nTephra fall poses regional economic disruption across Chile's agricultural heartland and neighboring Argentina. The 2011 Puyehue-Cordón Caulle eruption deposited centimeters of ash on Bariloche, Argentina, disrupted air travel across the Southern Hemisphere for weeks, and caused estimated economic losses exceeding $120 million. Lava flows are most common at basaltic centers like Villarrica, Llaima, and Osorno, though they typically advance slowly enough for evacuation. Volcanic gas emissions — particularly SO₂ — are persistent hazards at degassing volcanoes like Láscar, Copahue, and Villarrica.\n\nSERNAGEOMIN's Red Nacional de Vigilancia Volcánica (RNVV) monitors 45 volcanoes across four alert levels (Green, Yellow, Orange, Red) and has successfully forecast several recent eruptions, including Calbuco 2015. Approximately 4.5 million Chileans live within 100 km of an active volcano, with cities like Pucón, Temuco, Puerto Montt, and Chillán particularly exposed."
+    },
+    "volcanic_zones_map": {
+      "content": "Chile's volcanoes are distributed across four distinct volcanic zones, each reflecting variations in subduction geometry and crustal structure. The Central Volcanic Zone (CVZ) extends from approximately 14°S to 28°S and encompasses the high-altitude volcanoes of the Chilean altiplano and northern Atacama, including Ojos del Salado (6,879 m), Llullaillaco (6,739 m), Parinacota (6,336 m), Guallatiri (6,071 m), and Láscar (5,592 m). These are among the highest volcanoes on Earth, many exceeding 5,500 m, sitting atop the thick continental crust of the Central Andes.\n\nBetween 28°S and 33°S lies the Pampean flat-slab segment, where the subducting Nazca Plate descends at an unusually shallow angle of approximately 5–10°, creating a volcanic gap with no Holocene volcanoes. South of this gap, the Southern Volcanic Zone (SVZ, 33°S–46°S) is Chile's most volcanically prolific region, hosting the majority of its historically active centers including Tupungatito, Planchón-Peteroa, Nevados de Chillán, Llaima, Villarrica, Osorno, Calbuco, and Puyehue-Cordón Caulle. The SVZ volcanoes erupt through thinner crust (30–40 km) and produce a wider range of compositions from basalt to rhyolite.\n\nThe Austral Volcanic Zone (AVZ, 49°S–55°S) includes the remote and largely ice-covered volcanoes of southern Patagonia — Lautaro, Aguilera, Reclus, Monte Burney — and terminates with Fueguino, the southernmost volcano in South America at 54°S. A single oceanic volcano, Rapa Nui (Easter Island), lies 3,700 km offshore in the Pacific."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism has profoundly shaped Chilean culture, economy, and landscape. The fertile volcanic soils of central and southern Chile support the country's renowned wine industry — vineyards in the Maule, Biobío, and Araucanía regions grow on andisols derived from Holocene tephra deposits. Geothermal energy potential is enormous; Chile's first geothermal power plant at Cerro Pabellón in the Atacama (opened 2017) taps volcanic heat at 4,500 m elevation, and further developments are planned near Tolhuaca and other volcanic systems.\n\nVolcanoes are central to the cultural identity of the Mapuche people, Chile's largest indigenous group. [[volcano:villarrica|Villarrica]] is known as Rukapillán ('House of the Spirits') in Mapudungun, and [[volcano:llaima|Llaima]] features prominently in Mapuche cosmology as a dwelling place of powerful spirits (pillán). The catastrophic nature of volcanic eruptions is woven into Mapuche oral tradition extending back centuries.\n\nTourism centered on volcanoes generates significant revenue for southern Chile. Pucón, at the base of Villarrica, has become Chile's adventure tourism capital, offering guided summit climbs, ski runs on volcanic slopes, and hot springs heated by volcanic activity. Volcán Osorno supports a popular ski center, while the 2008 Chaitén eruption — despite devastating the town — created a compelling geological tourism attraction. Chile's volcanic landscapes are protected within numerous national parks, including Conguillío (Llaima), Villarrica, Puyehue, and Vicente Pérez Rosales (Osorno)."
+    },
+    "visiting_volcanoes": {
+      "content": "Chile offers some of the most accessible volcano tourism in South America, concentrated in the Lakes District between Temuco and Puerto Montt. [[volcano:villarrica|Villarrica]] is the most popular volcanic summit hike in Chile — guided ascents depart daily from Pucón (weather permitting), taking 4–6 hours to reach the 2,847-m summit where climbers can peer into the glowing lava lake. The hike requires crampons, ice axes, and a certified guide; conditions are best from November through March. Volcán Osorno, accessed from the Las Cascadas road above Lake Llanquihué, offers both a ski center (June–September) and summer hiking with spectacular views of Calbuco, Tronador, and the lake district.\n\nIn the Atacama, Láscar and the surrounding high-altitude volcanoes attract experienced mountaineers. Ojos del Salado draws summit attempts year-round, though the extreme altitude (6,879 m) requires full acclimatization. The San Pedro de Atacama area provides access to Licancabur, Sairecabur, and numerous volcanic geothermal features including El Tatio geyser field. Further south, Conguillío National Park offers hiking through ancient Araucaria forests on the flanks of Llaima, while the 2011 Puyehue-Cordón Caulle lava fields are becoming an emerging trekking destination. Visitors should always check SERNAGEOMIN's volcanic alert system ([[ext:https://www.sernageomin.cl/red-nacional-de-vigilancia-volcanica/|SERNAGEOMIN RNVV]]) before approaching any active volcano."
+    }
+  },
+  "volcano_table": {
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      [
+        1,
+        "Ojos del Salado, Nevados",
+        "ojos-del-salado-nevados",
+        6879,
+        "Stratovolcano",
+        "750",
+        "Active",
+        1,
+        "1"
+      ],
+      [
+        2,
+        "Llullaillaco",
+        "llullaillaco",
+        6739,
+        "Stratovolcano",
+        "1877",
+        "Active",
+        3,
+        "2"
+      ],
+      [
+        3,
+        "Incahuasi, Nevado de",
+        "incahuasi-nevado-de",
+        6638,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        4,
+        "Parinacota",
+        "parinacota",
+        6336,
+        "Stratovolcano",
+        "290",
+        "Active",
+        6,
+        "4"
+      ],
+      [
+        5,
+        "Pular",
+        "pular",
+        6233,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "1"
+      ],
+      [
+        6,
+        "Solo, El",
+        "solo-el",
+        6205,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        7,
+        "Nevada, Sierra",
+        "nevada-sierra",
+        6173,
+        "Complex",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        8,
+        "Guallatiri",
+        "guallatiri",
+        6071,
+        "Stratovolcano",
+        "1960",
+        "Active",
+        4,
+        "2"
+      ],
+      [
+        9,
+        "San Jose",
+        "san-jose",
+        6070,
+        "Stratovolcano(es)",
+        "1960",
+        "Active",
+        7,
+        "2"
+      ],
+      [
+        10,
+        "Socompa",
+        "socompa",
+        6031,
+        "Stratovolcano",
+        "5250 BCE",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        11,
+        "Acamarachi",
+        "acamarachi",
+        6023,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        12,
+        "Sairecabur",
+        "sairecabur",
+        5961,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        13,
+        "Licancabur",
+        "licancabur",
+        5916,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        14,
+        "Miniques",
+        "miniques",
+        5910,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        15,
+        "Falso Azufre",
+        "falso-azufre",
+        5906,
+        "Complex",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        16,
+        "Putana",
+        "putana",
+        5884,
+        "Stratovolcano",
+        "1810",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        17,
+        "Taapaca",
+        "taapaca",
+        5860,
+        "Complex",
+        "320 BCE",
+        "Active",
+        8,
+        "—"
+      ],
+      [
+        18,
+        "Cordon de Puntas Negras",
+        "cordon-de-puntas-negras",
+        5852,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        19,
+        "Chiliques",
+        "chiliques",
+        5778,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        20,
+        "Lastarria",
+        "lastarria",
+        5706,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        21,
+        "Olca-Paruma",
+        "olca-paruma",
+        5705,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        22,
+        "Purico Complex",
+        "purico-complex",
+        5703,
+        "Shield(pyroclastic)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        23,
+        "Tupungatito",
+        "tupungatito",
+        5660,
+        "Stratovolcano",
+        "1987",
+        "Active",
+        18,
+        "2"
+      ],
+      [
+        24,
+        "Colachi",
+        "colachi",
+        5631,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        25,
+        "Guayaques",
+        "guayaques",
+        5598,
+        "Lava dome(s)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        26,
+        "Lascar",
+        "lascar",
+        5592,
+        "Stratovolcano(es)",
+        "2023",
+        "Active",
+        32,
+        "4"
+      ],
+      [
+        27,
+        "Isluga",
+        "isluga",
+        5550,
+        "Stratovolcano",
+        "1913",
+        "Active",
+        7,
+        "2"
+      ],
+      [
+        28,
+        "Cordon del Azufre",
+        "cordon-del-azufre",
+        5481,
+        "Complex",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        29,
+        "Corrida de Cori Volcanic Field",
+        "corrida-de-cori-volcanic-field",
+        5451,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        30,
+        "Bayo Gorbea, Cerro",
+        "bayo-gorbea-cerro",
+        5413,
+        "Complex",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        31,
+        "Maipo",
+        "maipo",
+        5323,
+        "Caldera",
+        "1912",
+        "Active",
+        4,
+        "2"
+      ],
+      [
+        32,
+        "Irruputuncu",
+        "irruputuncu",
+        5163,
+        "Stratovolcano",
+        "1995",
+        "Active",
+        1,
+        "2"
+      ],
+      [
+        33,
+        "Palomo",
+        "palomo",
+        4860,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        34,
+        "Caichinque",
+        "caichinque",
+        4458,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        35,
+        "Tinguiririca",
+        "tinguiririca",
+        4280,
+        "Stratovolcano",
+        "1917",
+        "Active",
+        1,
+        "2"
+      ],
+      [
+        36,
+        "Negrillar, La",
+        "negrillar-la",
+        4220,
+        "Pyroclastic cone(s)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        37,
+        "Planchon-Peteroa",
+        "planchon-peteroa",
+        3977,
+        "Stratovolcano(es)",
+        "2025",
+        "Active",
+        21,
+        "4"
+      ],
+      [
+        38,
+        "Descabezado Grande",
+        "descabezado-grande",
+        3953,
+        "Stratovolcano(es)",
+        "1933",
+        "Active",
+        1,
+        "3"
+      ],
+      [
+        39,
+        "Azul, Cerro",
+        "azul-cerro",
+        3788,
+        "Stratovolcano",
+        "1967",
+        "Active",
+        9,
+        "5"
+      ],
+      [
+        40,
+        "Lanin",
+        "lanin",
+        3776,
+        "Stratovolcano",
+        "560",
+        "Active",
+        8,
+        "0"
+      ],
+      [
+        41,
+        "San Pedro-Pellado",
+        "san-pedro-pellado",
+        3621,
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        42,
+        "Tujle, Cerro",
+        "tujle-cerro",
+        3550,
+        "Maar",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        43,
+        "Lautaro",
+        "lautaro",
+        3542,
+        "Stratovolcano",
+        "1979",
+        "Active",
+        9,
+        "2"
+      ],
+      [
+        44,
+        "Calabozos",
+        "calabozos",
+        3508,
+        "Caldera",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        45,
+        "Tronador",
+        "tronador",
+        3478,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        46,
+        "Chillan, Nevados de",
+        "chillan-nevados-de",
+        3180,
+        "Stratovolcano",
+        "2022",
+        "Active",
+        26,
+        "3"
+      ],
+      [
+        47,
+        "Longavi, Nevado de",
+        "longavi-nevado-de",
+        3175,
+        "Stratovolcano",
+        "4890 BCE",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        48,
+        "Callaqui",
+        "callaqui",
+        3164,
+        "Stratovolcano",
+        "1980",
+        "Active",
+        2,
+        "2"
+      ],
+      [
+        49,
+        "Llaima",
+        "llaima",
+        3125,
+        "Stratovolcano",
+        "2009",
+        "Active",
+        56,
+        "5"
+      ],
+      [
+        50,
+        "Tilocalar",
+        "tilocalar",
+        3109,
+        "Lava cone(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        51,
+        "Antuco",
+        "antuco",
+        2979,
+        "Stratovolcano",
+        "1869",
+        "Active",
+        11,
+        "3"
+      ],
+      [
+        52,
+        "Maca",
+        "maca",
+        2960,
+        "Stratovolcano",
+        "1560",
+        "Active",
+        2,
+        "—"
+      ],
+      [
+        53,
+        "Copahue",
+        "copahue",
+        2953,
+        "Stratovolcano",
+        "2024",
+        "Active",
+        21,
+        "2"
+      ],
+      [
+        54,
+        "Villarrica",
+        "villarrica",
+        2847,
+        "Stratovolcano",
+        "2025",
+        "Active",
+        152,
+        "5"
+      ],
+      [
+        55,
+        "Lonquimay",
+        "lonquimay",
+        2832,
+        "Stratovolcano",
+        "1990",
+        "Active",
+        4,
+        "3"
+      ],
+      [
+        56,
+        "Tolhuaca",
+        "tolhuaca",
+        2739,
+        "Stratovolcano",
+        "4000 BCE",
+        "Active",
+        4,
+        "3"
+      ],
+      [
+        57,
+        "Osorno",
+        "osorno",
+        2659,
+        "Stratovolcano",
+        "1869",
+        "Active",
+        17,
+        "4"
+      ],
+      [
+        58,
+        "Aguilera",
+        "aguilera",
+        2546,
+        "Stratovolcano",
+        "1253 BCE",
+        "Active",
+        2,
+        "5"
+      ],
+      [
+        59,
+        "Puntiagudo-Cordon Cenizos",
+        "puntiagudo-cordon-cenizos",
+        2493,
+        "Stratovolcano",
+        "1850",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        60,
+        "Michinmahuida",
+        "michinmahuida",
+        2452,
+        "Stratovolcano",
+        "1835",
+        "Active",
+        7,
+        "6"
+      ],
+      [
+        61,
+        "Mocho-Choshuenco",
+        "mocho-choshuenco",
+        2422,
+        "Stratovolcano(es)",
+        "1937",
+        "Active",
+        2,
+        "2"
+      ],
+      [
+        62,
+        "Melimoyu",
+        "melimoyu",
+        2400,
+        "Stratovolcano",
+        "200",
+        "Active",
+        2,
+        "—"
+      ],
+      [
+        63,
+        "Quetrupillan",
+        "quetrupillan",
+        2360,
+        "Stratovolcano",
+        "255",
+        "Active",
+        4,
+        "4"
+      ],
+      [
+        64,
+        "Sollipulli",
+        "sollipulli",
+        2282,
+        "Caldera",
+        "1240",
+        "Active",
+        2,
+        "5"
+      ],
+      [
+        65,
+        "Blancas, Lomas",
+        "blancas-lomas",
+        2268,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        66,
+        "Puyehue-Cordon Caulle",
+        "puyehue-cordon-caulle",
+        2236,
+        "Stratovolcano",
+        "2012",
+        "Active",
+        26,
+        "5"
+      ],
+      [
+        67,
+        "Yate",
+        "yate",
+        2187,
+        "Stratovolcano",
+        "1090",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        68,
+        "Maule, Laguna del",
+        "maule-laguna-del",
+        2162,
+        "Caldera",
+        "50 BCE",
+        "Active",
+        4,
+        "0"
+      ],
+      [
+        69,
+        "Cay",
+        "cay",
+        2090,
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        70,
+        "Antillanca Volcanic Complex",
+        "antillanca-volcanic-complex",
+        1979,
+        "Stratovolcano(es)",
+        "230 BCE",
+        "Active",
+        2,
+        "5"
+      ],
+      [
+        71,
+        "Calbuco",
+        "calbuco",
+        1974,
+        "Stratovolcano",
+        "2015",
+        "Active",
+        36,
+        "5"
+      ],
+      [
+        72,
+        "Hudson, Cerro",
+        "hudson-cerro",
+        1905,
+        "Stratovolcano",
+        "2011",
+        "Active",
+        15,
+        "6"
+      ],
+      [
+        73,
+        "Resago, Volcan",
+        "resago-volcan",
+        1890,
+        "Pyroclastic cone",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        74,
+        "Corcovado",
+        "corcovado",
+        1826,
+        "Stratovolcano",
+        "4920 BCE",
+        "Active",
+        3,
+        "2"
+      ],
+      [
+        75,
+        "Yanteles",
+        "yanteles",
+        1790,
+        "Stratovolcano(es)",
+        "6650 BCE",
+        "Active",
+        2,
+        "—"
+      ],
+      [
+        76,
+        "Burney, Monte",
+        "burney-monte",
+        1758,
+        "Stratovolcano",
+        "1910",
+        "Active",
+        7,
+        "5"
+      ],
+      [
+        77,
+        "Mentolat",
+        "mentolat",
+        1660,
+        "Stratovolcano",
+        "1710",
+        "Active",
+        2,
+        "—"
+      ],
+      [
+        78,
+        "Caburgua-Huelemolle",
+        "caburgua-huelemolle",
+        1652,
+        "Volcanic field",
+        "5050 BCE",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        79,
+        "Hornopiren",
+        "hornopiren",
+        1572,
+        "Stratovolcano",
+        "340",
+        "Active",
+        2,
+        "4"
+      ],
+      [
+        80,
+        "Reclus",
+        "reclus",
+        1403,
+        "Pyroclastic cone",
+        "1908",
+        "Active",
+        4,
+        "2"
+      ],
+      [
+        81,
+        "Huequi",
+        "huequi",
+        1318,
+        "Lava dome(s)",
+        "1920",
+        "Active",
+        7,
+        "3"
+      ],
+      [
+        82,
+        "Apagado",
+        "apagado",
+        1210,
+        "Pyroclastic cone",
+        "590 BCE",
+        "Active",
+        1,
+        "4"
+      ],
+      [
+        83,
+        "Chaiten",
+        "chaiten",
+        1122,
+        "Caldera",
+        "2011",
+        "Active",
+        5,
+        "5"
+      ],
+      [
+        84,
+        "Carran-Los Venados",
+        "carran-los-venados",
+        1114,
+        "Pyroclastic cone(s)",
+        "1979",
+        "Active",
+        3,
+        "4"
+      ],
+      [
+        85,
+        "Meullin",
+        "meullin",
+        1080,
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        86,
+        "Puyuhuapi",
+        "puyuhuapi",
+        524,
+        "Pyroclastic cone(s)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        87,
+        "Cayutue-La Vigueria",
+        "cayutue-la-vigueria",
+        506,
+        "Volcanic field",
+        "190 BCE",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        88,
+        "Rapa Nui",
+        "rapa-nui",
+        501,
+        "Shield(s)",
+        "Unknown",
+        "Holocene",
+        0,
+        "—"
+      ],
+      [
+        89,
+        "Pali-Aike Volcanic Field",
+        "pali-aike-volcanic-field",
+        282,
+        "Volcanic field",
+        "5550 BCE",
+        "Active",
+        1,
+        "—"
+      ],
+      [
+        90,
+        "Fueguino",
+        "fueguino",
+        157,
+        "Lava dome(s)",
+        "1820",
+        "Active",
+        1,
+        "2"
+      ]
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Ojos del Salado, Nevados",
+      "elevation": 6879,
+      "slug": "ojos-del-salado-nevados"
+    },
+    {
+      "name": "Llullaillaco",
+      "elevation": 6739,
+      "slug": "llullaillaco"
+    },
+    {
+      "name": "Incahuasi, Nevado de",
+      "elevation": 6638,
+      "slug": "incahuasi-nevado-de"
+    },
+    {
+      "name": "Parinacota",
+      "elevation": 6336,
+      "slug": "parinacota"
+    },
+    {
+      "name": "Pular",
+      "elevation": 6233,
+      "slug": "pular"
+    },
+    {
+      "name": "Solo, El",
+      "elevation": 6205,
+      "slug": "solo-el"
+    },
+    {
+      "name": "Nevada, Sierra",
+      "elevation": 6173,
+      "slug": "nevada-sierra"
+    },
+    {
+      "name": "Guallatiri",
+      "elevation": 6071,
+      "slug": "guallatiri"
+    },
+    {
+      "name": "San Jose",
+      "elevation": 6070,
+      "slug": "san-jose"
+    },
+    {
+      "name": "Socompa",
+      "elevation": 6031,
+      "slug": "socompa"
+    },
+    {
+      "name": "Acamarachi",
+      "elevation": 6023,
+      "slug": "acamarachi"
+    },
+    {
+      "name": "Sairecabur",
+      "elevation": 5961,
+      "slug": "sairecabur"
+    },
+    {
+      "name": "Licancabur",
+      "elevation": 5916,
+      "slug": "licancabur"
+    },
+    {
+      "name": "Miniques",
+      "elevation": 5910,
+      "slug": "miniques"
+    },
+    {
+      "name": "Falso Azufre",
+      "elevation": 5906,
+      "slug": "falso-azufre"
+    },
+    {
+      "name": "Putana",
+      "elevation": 5884,
+      "slug": "putana"
+    },
+    {
+      "name": "Taapaca",
+      "elevation": 5860,
+      "slug": "taapaca"
+    },
+    {
+      "name": "Cordon de Puntas Negras",
+      "elevation": 5852,
+      "slug": "cordon-de-puntas-negras"
+    },
+    {
+      "name": "Chiliques",
+      "elevation": 5778,
+      "slug": "chiliques"
+    },
+    {
+      "name": "Lastarria",
+      "elevation": 5706,
+      "slug": "lastarria"
+    },
+    {
+      "name": "Olca-Paruma",
+      "elevation": 5705,
+      "slug": "olca-paruma"
+    },
+    {
+      "name": "Purico Complex",
+      "elevation": 5703,
+      "slug": "purico-complex"
+    },
+    {
+      "name": "Tupungatito",
+      "elevation": 5660,
+      "slug": "tupungatito"
+    },
+    {
+      "name": "Colachi",
+      "elevation": 5631,
+      "slug": "colachi"
+    },
+    {
+      "name": "Guayaques",
+      "elevation": 5598,
+      "slug": "guayaques"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8400,
+      "volcano": "Michinmahuida",
+      "vei": 6,
+      "label": "Massive VEI 6 caldera eruption — largest known in Chile"
+    },
+    {
+      "year": -6880,
+      "volcano": "Llaima",
+      "vei": 5,
+      "label": "Major Plinian eruption of Llaima"
+    },
+    {
+      "year": -4750,
+      "volcano": "Cerro Hudson",
+      "vei": 6,
+      "label": "VEI 6 caldera-forming eruption, tephra across Patagonia"
+    },
+    {
+      "year": -3100,
+      "volcano": "Chaitén",
+      "vei": 5,
+      "label": "Large rhyolitic Plinian eruption"
+    },
+    {
+      "year": -1890,
+      "volcano": "Cerro Hudson",
+      "vei": 6,
+      "label": "Second VEI 6 event at Hudson"
+    },
+    {
+      "year": -1810,
+      "volcano": "Villarrica",
+      "vei": 5,
+      "label": "Major explosive eruption of Villarrica"
+    },
+    {
+      "year": 860,
+      "volcano": "Puyehue-Cordón Caulle",
+      "vei": 5,
+      "label": "Large explosive eruption"
+    },
+    {
+      "year": 1640,
+      "volcano": "Villarrica",
+      "vei": 4,
+      "label": "Major historical eruption, observed by Spanish colonists"
+    },
+    {
+      "year": 1835,
+      "volcano": "Osorno",
+      "vei": 3,
+      "label": "Eruption observed by Charles Darwin aboard the Beagle"
+    },
+    {
+      "year": 1916,
+      "volcano": "Cerro Azul",
+      "vei": 5,
+      "label": "Largest 20th-century eruption in Chile"
+    },
+    {
+      "year": 1960,
+      "volcano": "Puyehue-Cordón Caulle",
+      "vei": 3,
+      "label": "Eruption triggered 38 hours after the Great Chilean Earthquake (M9.5)"
+    },
+    {
+      "year": 1971,
+      "volcano": "Villarrica",
+      "vei": 2,
+      "label": "Lahars kill 15, destroy infrastructure"
+    },
+    {
+      "year": 1991,
+      "volcano": "Cerro Hudson",
+      "vei": 5,
+      "label": "Major eruption deposits ash across Patagonia and Argentina"
+    },
+    {
+      "year": 1993,
+      "volcano": "Láscar",
+      "vei": 4,
+      "label": "25-km eruption column, pyroclastic flows reach 8.5 km"
+    },
+    {
+      "year": 2008,
+      "volcano": "Chaitén",
+      "vei": 4,
+      "label": "First rhyolitic eruption since Novarupta 1912, town evacuated"
+    },
+    {
+      "year": 2011,
+      "volcano": "Puyehue-Cordón Caulle",
+      "vei": 5,
+      "label": "VEI 5 eruption disrupts Southern Hemisphere aviation"
+    },
+    {
+      "year": 2015,
+      "volcano": "Calbuco",
+      "vei": 4,
+      "label": "Two sub-Plinian explosions after 43 years of quiet, 6,500 evacuated"
+    },
+    {
+      "year": 2015,
+      "volcano": "Villarrica",
+      "vei": 2,
+      "label": "Lava fountaining forces Pucón area evacuations"
+    },
+    {
+      "year": 2025,
+      "volcano": "Villarrica",
+      "vei": null,
+      "label": "Ongoing unrest and eruptions at Chile's most active volcano"
+    },
+    {
+      "year": 2025,
+      "volcano": "Planchón-Peteroa",
+      "vei": null,
+      "label": "Renewed eruptive activity at border complex"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 15
+    },
+    {
+      "vei": 1,
+      "count": 65
+    },
+    {
+      "vei": 2,
+      "count": 301
+    },
+    {
+      "vei": 3,
+      "count": 42
+    },
+    {
+      "vei": 4,
+      "count": 22
+    },
+    {
+      "vei": 5,
+      "count": 18
+    },
+    {
+      "vei": 6,
+      "count": 3
+    },
+    {
+      "vei": 7,
+      "count": 0
+    }
+  ],
+  "facts": [
+    "Chile has 90 Holocene volcanoes — the fifth-highest count of any country, behind the United States (165), Japan (105), Indonesia (101), and Russia (94).",
+    "Ojos del Salado (6,879 m / 22,572 ft) on the Chile-Argentina border is the tallest volcano on Earth and the second-highest peak in the Western Hemisphere.",
+    "Villarrica has 152 confirmed eruptions — more than almost any other volcano on Earth and roughly one-quarter of all eruptions recorded in Chile.",
+    "Chile's volcanoes have produced three VEI 6 eruptions during the Holocene, at Cerro Hudson (twice) and Michinmahuida — events comparable in scale to the 1883 Krakatoa eruption.",
+    "The 2011 Puyehue-Cordón Caulle eruption disrupted air travel across the entire Southern Hemisphere and deposited ash on cities as far away as Buenos Aires, 1,500 km to the east.",
+    "The 1960 eruption at Puyehue-Cordón Caulle began just 38 hours after the Great Chilean Earthquake (M9.5), the most powerful earthquake ever recorded, suggesting a direct seismic trigger.",
+    "Chile's volcanic gap between 28°S and 33°S — caused by flat-slab subduction — means the capital Santiago sits in one of the only sections of the Andes without active volcanism.",
+    "Chaitén's 2008 eruption was the first large-volume rhyolitic eruption anywhere on Earth since Novarupta, Alaska, in 1912 — a gap of 96 years.",
+    "The Mapuche name for Villarrica is Rukapillán, meaning 'House of the Spirits,' reflecting centuries of indigenous awareness of the volcano's persistent activity.",
+    "Chile's first geothermal power plant, Cerro Pabellón (opened 2017), operates at 4,500 m elevation in the Atacama — the highest geothermal facility in the world.",
+    "Láscar volcano in the Atacama has been continuously active since the 19th century and maintains one of the highest persistent SO₂ degassing rates of any volcano in South America.",
+    "Fueguino, at latitude 54°S near Tierra del Fuego, is the southernmost Holocene volcano in South America, while Rapa Nui (Easter Island) is Chile's only oceanic volcanic island."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Chile?",
+      "answer": "Chile has 90 Holocene volcanoes listed in the Smithsonian Global Volcanism Program database. Of these, 66 are located entirely within Chilean territory, while 24 are shared with neighboring Argentina and Bolivia along the Andean border. The count includes stratovolcanoes, calderas, volcanic fields, shield volcanoes, lava domes, and pyroclastic cones. Different sources may cite different numbers because the definition of a 'separate volcano' versus a satellite vent or parasitic cone varies. Chile's 90 volcanoes make it the fifth most volcanically endowed country on Earth. Additionally, many volcanic centers in Chile contain multiple eruptive vents — Puyehue-Cordón Caulle, for example, is a single database entry but encompasses a 15-km-long fissure system."
+    },
+    {
+      "question": "What is Chile's most active volcano?",
+      "answer": "Villarrica is Chile's most active volcano, with 152 confirmed eruptions — one of the highest eruption counts of any volcano on Earth. Located near the resort town of Pucón in the Lakes District, this 2,847-m (9,341-ft) stratovolcano maintains a persistent lava lake in its summit crater and has erupted frequently throughout recorded history, with major events in 1640, 1948, 1963, 1971, 1984, 2015, and 2025. Llaima ranks second with 56 confirmed eruptions, followed by Calbuco (36), Láscar (32), and Puyehue-Cordón Caulle (26)."
+    },
+    {
+      "question": "What is the tallest volcano in Chile?",
+      "answer": "Ojos del Salado, at 6,879 m (22,572 ft), is the tallest volcano in Chile and the tallest volcano on Earth. Located on the Chile-Argentina border in the Atacama region, it is also the second-highest peak in the Western Hemisphere after Aconcagua (6,961 m). Despite its extreme altitude, Ojos del Salado is classified as a Holocene volcano with one confirmed eruption around 750 CE. Fumarolic activity and young sulfur deposits near the summit indicate it is not extinct. Other very tall Chilean volcanoes include Llullaillaco (6,739 m), Nevado de Incahuasi (6,638 m), and Parinacota (6,336 m)."
+    },
+    {
+      "question": "When was the last volcanic eruption in Chile?",
+      "answer": "Chile's most recent volcanic eruptions are at Villarrica and Planchón-Peteroa, both active in 2025. Villarrica has maintained persistent lava lake activity and periodic Strombolian eruptions, while Planchón-Peteroa has experienced renewed phreatic and phreatomagmatic explosions. Prior major eruptions include the 2016–2022 cycle at Nevados de Chillán (lava dome growth and Vulcanian explosions), the 2015 Calbuco eruption (two powerful sub-Plinian blasts), the 2015 Villarrica eruption (lava fountaining), and the 2011–2012 Puyehue-Cordón Caulle eruption (VEI 5). Chile experiences volcanic eruptions with remarkable frequency — on average, at least one volcano is in eruption at any given time."
+    },
+    {
+      "question": "Why does Chile have so many volcanoes?",
+      "answer": "Chile has so many volcanoes because the oceanic Nazca Plate subducts beneath the South American Plate along the 4,300-km-long Peru-Chile Trench. As the Nazca Plate descends at 6–9 cm per year and reaches depths of 90–150 km, water released from the subducting oceanic crust lowers the melting point of the overlying mantle, generating magma. This magma rises through the Andean continental crust to feed surface volcanoes. Chile sits along the eastern margin of the Ring of Fire, the horseshoe-shaped zone of intense seismic and volcanic activity encircling the Pacific Ocean. The sheer length of Chile's coastline — spanning 38 degrees of latitude — means its subduction zone generates one of the longest volcanic arcs on Earth."
+    },
+    {
+      "question": "Is it safe to visit volcanoes in Chile?",
+      "answer": "Chile's volcanoes are generally safe to visit when alert levels are at Green (normal), and the country has a well-developed monitoring infrastructure through SERNAGEOMIN's RNVV network. Villarrica is climbed by thousands of tourists annually via guided summit hikes from Pucón, and Osorno offers a ski center and summer trails. However, alert levels can change rapidly — Calbuco's 2015 eruption began with little warning after 43 years of quiet. Visitors should always check SERNAGEOMIN's current alert levels before approaching any volcano, hire certified guides for summit ascents, carry appropriate glacier equipment on ice-clad volcanoes, and respect exclusion zones. In the Atacama, extreme altitude (many volcanoes exceed 5,500 m) poses an additional acclimatization risk."
+    },
+    {
+      "question": "What is Chile's most dangerous volcano?",
+      "answer": "Villarrica is widely considered Chile's most dangerous volcano due to its combination of extremely high eruption frequency (152 confirmed eruptions), glacier-covered summit (enabling lahars), and proximity to the tourist town of Pucón (population ~30,000) and surrounding communities. The 1971 eruption generated lahars that killed 15 people. Calbuco is also considered highly dangerous — its 2015 eruption with minimal precursory warning demonstrated the risk of volcanoes emerging from long dormancy. In the north, Láscar's persistent explosive activity and difficult access for monitoring present significant hazards. SERNAGEOMIN currently monitors 45 volcanoes as potentially dangerous."
+    },
+    {
+      "question": "What was Chile's worst volcanic eruption?",
+      "answer": "Chile's largest Holocene eruptions in terms of magnitude were the VEI 6 events at Cerro Hudson (~4750 BCE and ~1890 BCE) and Michinmahuida (~8400 BCE), which rank among the largest volcanic events in South American history. In the historical period, the most impactful eruption was the 1991 Cerro Hudson event (VEI 5), which deposited ash across vast areas of Patagonia, killed livestock, contaminated water supplies, and caused severe economic damage. The 2011 Puyehue-Cordón Caulle eruption (VEI 5) caused the greatest international disruption, grounding flights across the Southern Hemisphere. For casualties, the 1971 Villarrica lahar killed 15 people — relatively low compared to eruptions in more densely populated volcanic countries."
+    }
+  ],
+  "comparison_table": {
+    "title": "Chile vs South America's Other Volcanic Countries",
+    "headers": [
+      "Country",
+      "Volcano Count",
+      "Most Active Volcano",
+      "Eruption Count",
+      "Tallest Volcano",
+      "Most Recent Eruption"
+    ],
+    "rows": [
+      [
+        "Chile",
+        "90",
+        "Villarrica (152 eruptions)",
+        "582",
+        "Ojos del Salado (6,879 m)",
+        "2025"
+      ],
+      [
+        "Ecuador",
+        "35",
+        "Sangay (78 eruptions)",
+        "~250",
+        "Cotopaxi (5,911 m)",
+        "2025"
+      ],
+      [
+        "Colombia",
+        "13",
+        "Galeras (29 eruptions)",
+        "~80",
+        "Nevado del Ruiz (5,321 m)",
+        "2024"
+      ],
+      [
+        "Argentina",
+        "14",
+        "Copahue (shared, 21 eruptions)",
+        "~40",
+        "Ojos del Salado (shared, 6,879 m)",
+        "2024"
+      ],
+      [
+        "Peru",
+        "13",
+        "Ubinas (24 eruptions)",
+        "~60",
+        "Coropuna (6,377 m)",
+        "2023"
+      ]
+    ]
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/",
+      "text": "Smithsonian Global Volcanism Program",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.sernageomin.cl/red-nacional-de-vigilancia-volcanica/",
+      "text": "SERNAGEOMIN — Red Nacional de Vigilancia Volcánica",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Chile",
+      "text": "Britannica: Chile",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/volcano-hazards",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/",
+      "text": "NASA Earth Observatory — Volcanic Activity",
+      "type": "satellite"
+    }
+  ],
+  "related_countries": [
+    "argentina",
+    "ecuador",
+    "colombia",
+    "peru",
+    "indonesia",
+    "japan"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Chile",
+      "url": "/volcanoes-in-chile"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

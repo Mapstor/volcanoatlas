@@ -1,0 +1,446 @@
+{
+  "slug": "eyjafjallajokull",
+  "volcano_id": 372020,
+  "title": "Eyjafjallajökull",
+  "meta_title": "Eyjafjallajökull — 2010 Eruption, Facts & History | VolcanoAtlas",
+  "meta_description": "Eyjafjallajökull is a 1,651 m ice-capped stratovolcano in southern Iceland. Explore its 2010 eruption that grounded Europe, eruption history, and more.",
+  "quick_answer": {
+    "what": "Eyjafjallajökull is an ice-capped stratovolcano in southern Iceland, rising to 1,651 m (5,417 ft) with a 2.5 km wide summit caldera buried beneath a glacier.",
+    "status": "Active — last erupted in 2010. Not currently erupting but closely monitored by the Icelandic Meteorological Office (IMO).",
+    "famous_for": "The April–May 2010 VEI 4 eruption that produced a massive ash cloud shutting down European airspace for six days, stranding approximately 10 million passengers and costing the airline industry an estimated $1.7 billion.",
+    "danger_level": "Moderate direct hazard — sparsely populated area — but eruptions pose catastrophic aviation risk and can trigger devastating jökulhlaups (glacial floods) along the Markarfljót river system. Historically linked to subsequent eruptions of neighboring Katla."
+  },
+  "hero": {
+    "name": "Eyjafjallajökull",
+    "local_name": "Eyjafjallajökull",
+    "subtitle": "The Volcano That Grounded Europe",
+    "country": "Iceland",
+    "region": "Southern Iceland",
+    "type": "Stratovolcano",
+    "elevation_m": 1651,
+    "elevation_ft": 5417,
+    "status": "Active",
+    "last_eruption": "2010",
+    "coordinates": {
+      "lat": 63.633,
+      "lon": -19.633
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-07545.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "1,651 m (5,417 ft)",
+    "type": "Stratovolcano (ice-capped)",
+    "status": "Active",
+    "last_eruption": "March 20 – October 2010",
+    "first_known_eruption": "~550 CE",
+    "total_recorded_eruptions": 5,
+    "vei_max": "4 (2010)",
+    "country": "Iceland",
+    "region": "Southern Iceland, Eastern Volcanic Zone",
+    "tectonic_setting": "Rift zone / Oceanic crust (< 15 km) — Mid-Atlantic Ridge influenced by the Iceland mantle plume",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt",
+      "Trachyandesite (during 2010 summit phase)"
+    ],
+    "coordinates": "63.633°N, 19.633°W",
+    "nearest_city": "Hvolsvöllur — approximately 30 km northwest",
+    "population_at_risk": "Low (< 1,000 in immediate vicinity), but glacial floods threaten farms and infrastructure along the Markarfljót drainage",
+    "summit_crater": "~2.5 km wide caldera beneath ~200 m of glacial ice",
+    "protected_status": "Within Þórsmörk Nature Reserve area",
+    "monitoring_agency": "Icelandic Meteorological Office (IMO) and the Institute of Earth Sciences, University of Iceland",
+    "smithsonian_id": "372020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=372020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Eyjafjallajökull (Icelandic pronunciation: [ˈeɪjaˌfjatl̥aˌjœːkʏtl̥]; meaning \"island-mountains glacier\") is an active ice-capped <a href=\"/types-of-volcanoes\">stratovolcano</a> in southern <a href=\"/volcanoes-in-iceland\">Iceland</a>, rising to 1,651 m (5,417 ft) above sea level approximately 125 km (78 mi) southeast of Reykjavík. Before 2010, it was one of Iceland's lesser-known volcanoes — overshadowed by its more active and far more dangerous neighbor, <a href=\"/volcano/katla\">Katla</a>, just 25 km (16 mi) to the east. That changed dramatically on April 14, 2010, when a summit eruption beneath the glacier produced a towering ash plume that shut down European airspace for six days, stranding roughly 10 million airline passengers and costing the global economy an estimated $5 billion.\n\nThe volcano sits at the southern end of Iceland's Eastern Volcanic Zone, where the divergent plate boundary of the Mid-Atlantic Ridge is amplified by the deep-seated Iceland mantle plume. Its elongated summit caldera, approximately 2.5 km (1.6 mi) wide and buried beneath up to 200 m (660 ft) of glacial ice, has produced only five confirmed eruptions in the historical record — making it far less prolific than Icelandic neighbors like <a href=\"/volcano/grimsvotn\">Grímsvötn</a> (85 eruptions) or <a href=\"/volcano/hekla\">Hekla</a> (65 eruptions). Yet its 2010 eruption demonstrated that even a moderately sized volcanic event can inflict global economic disruption when ash interacts with major aviation corridors. Today, Eyjafjallajökull is continuously monitored by the Icelandic Meteorological Office (IMO) and remains one of the most recognizable volcano names on Earth — even if most people outside Iceland cannot pronounce it."
+    },
+    "geology_and_formation": {
+      "content": "Eyjafjallajökull is a relatively young volcanic edifice constructed along the southern margin of Iceland's Eastern Volcanic Zone (EVZ), where the North American and Eurasian tectonic plates diverge at a rate of approximately 2 cm (0.8 in) per year. The volcano owes its existence to the intersection of this mid-ocean ridge spreading center with the deep-rooted Iceland mantle plume — a thermal anomaly in the Earth's mantle that has sustained volcanic activity on the island for at least 16 million years.\n\nThe volcanic complex consists of an elongated stratovolcano built primarily of alternating layers of basaltic lava flows and tephra deposits. Its summit hosts a caldera roughly 2.5 km (1.6 mi) in diameter, entirely concealed beneath the Eyjafjallajökull ice cap, which covers approximately 78 km² (30 sq mi) and reaches a maximum thickness of around 200 m (660 ft). Fissure-fed lava flows extend from both the eastern and western flanks, though flows on the western side are more prominent and extensive.\n\nGeologically, Eyjafjallajökull is distinct from the more easterly Katla volcanic system, though the two have shown a historical correlation: three of Eyjafjallajökull's four previous eruptions (in 920, 1612, and 1821–1823) were followed by eruptions of Katla within months to years. This relationship, possibly mediated by stress transfer through the crust or shared magma pathways at depth, prompted intense monitoring of Katla following the 2010 event — though as of early 2026, Katla has not erupted. The magma feeding Eyjafjallajökull is primarily basaltic at the flanks but can evolve to more silica-rich compositions (trachyandesite to dacite) within the summit reservoir, as demonstrated by the explosive second phase of the 2010 eruption. This compositional range is key to understanding why the volcano can produce both gentle effusive eruptions (as at Fimmvörðuháls) and violently explosive summit events. The interaction of <a href=\"/types-of-volcanoes\">silicic magma</a> with glacial meltwater — a process called phreatomagmatism — dramatically amplified the 2010 ash production, fragmenting magma into the ultrafine particles that proved so destructive to jet engines."
+    },
+    "eruption_history_overview": {
+      "content": "Eyjafjallajökull has one of the shortest historical eruption records among Iceland's active volcanoes, with only five confirmed eruptions spanning approximately 1,500 years. This low frequency stands in stark contrast to neighbors like <a href=\"/volcano/grimsvotn\">Grímsvötn</a>, which has erupted 85 times, or <a href=\"/volcano/katla\">Katla</a> with 131 recorded events. The volcano's eruption recurrence interval averages roughly 200–400 years, though the gaps are irregular — ranging from a few decades (1612 to 1821) to nearly 700 years (920 to 1612).\n\nThe earliest confirmed eruption, around 550 CE, predates Iceland's Norse settlement (874 CE) and is known only from tephra deposits. The eruptions of 920 and 1612 are historically documented but poorly characterized, with only the 920 event assigned a VEI of 3 based on tephra dispersal. The 1821–1823 eruption lasted over a year and produced intermediate-to-silicic tephra from the summit caldera, providing the closest historical analog to the 2010 event. All five eruptions were confirmed events, and all appear to have involved the summit caldera to some degree, though the 920 eruption also produced flank activity along the Skerin ridge on the northwest side. Despite its infrequent eruptions, the volcano experienced a notable intrusion episode beneath its southern flank from July to December 1999, marked by increased seismicity — a precursor that, in hindsight, foreshadowed the magmatic unrest that ultimately led to the 2010 eruption."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2010 Eruption — The Volcano That Grounded Europe",
+          "content": "The eruption of Eyjafjallajökull in 2010 unfolded in two distinct phases that together transformed an obscure Icelandic volcano into a household name — or at least a household tongue-twister.\n\nPhase one began on March 20, 2010, with a fissure eruption at Fimmvörðuháls, a mountain pass between Eyjafjallajökull and Katla glaciers on the volcano's eastern flank. This initial eruption was effusive and spectacular rather than hazardous: basaltic lava fountains reaching 150–200 m (490–660 ft) shot from a 500 m (1,640 ft) fissure, creating two small lava fields and drawing thousands of tourists who hiked to within viewing distance. The Fimmvörðuháls phase lasted until April 12, producing roughly 0.025 km³ of basaltic lava with minimal ash.\n\nPhase two was an entirely different event. On April 14, 2010, eruptive activity shifted to the ice-filled summit caldera. Magma rising through the central conduit encountered the 200 m thick glacier, and the resulting interaction between hot magma (above 1,000°C) and glacial meltwater triggered violently explosive phreatomagmatic eruptions. The eruption column rose to 9–10 km (30,000–33,000 ft), punching directly into the jet stream and the heavily trafficked North Atlantic and European flight corridors.\n\nThe ash plume was especially problematic because of the particle size. The phreatomagmatic fragmentation produced an unusually high proportion of fine ash (particles smaller than 63 micrometers), which remained suspended in the atmosphere far longer than coarser tephra and posed extreme danger to jet engines — volcanic glass can melt inside turbines at operating temperatures, coating and destroying engine components. Between April 15 and April 20, 2010, aviation authorities across Europe implemented the largest airspace closure since World War II. At its peak, the closure affected airspace across 23 countries and grounded approximately 100,000 flights. An estimated 10 million passengers were stranded, airline losses reached $1.7 billion, and total economic impact was assessed at roughly $5 billion.\n\nThe summit eruption continued intermittently until late October 2010, with a second major explosive pulse in May that again disrupted flights over the North Atlantic. Total tephra production was approximately 0.27 km³ (dense rock equivalent ~0.07 km³), earning the eruption a <a href=\"/volcanic-explosivity-index\">VEI</a> rating of 4. Jökulhlaups (glacial outburst floods) generated by the melting ice cap surged down the Markarfljót river system within hours of the summit eruption's onset, reaching peak discharge rates of 2,000–3,000 m³/s and forcing the evacuation of approximately 800 residents from farms in the flood path. Fortunately, Iceland's sophisticated early warning system and pre-positioned evacuation plans meant there were zero direct fatalities.\n\nThe 2010 eruption fundamentally changed how the aviation industry approaches volcanic ash risk, leading to the development of new concentration-based ash avoidance protocols rather than the previous zero-tolerance approach, and spurring investment in real-time ash dispersion modeling and satellite monitoring across Europe."
+        },
+        {
+          "title": "The 1821–1823 Eruption — A Year of Persistent Activity",
+          "content": "The 1821–1823 eruption of Eyjafjallajökull began on December 19, 1821, and continued intermittently for over 13 months — the longest documented eruption at this volcano. Activity was centered on the summit caldera and produced intermediate-to-silicic tephra (assigned VEI 2), along with notable fluorine-bearing ash that poisoned livestock grazing in downwind areas. Jökulhlaups accompanied the early phases of the eruption as the summit glacier melted. The 1821 event was followed within two years by an eruption of <a href=\"/volcano/katla\">Katla</a> in 1823, reinforcing the suspected coupling between the two volcanic systems. Contemporary accounts describe persistent ash fall on farmsteads in the Eyjafjöll district, crop damage, and the loss of hundreds of sheep to fluorosis — a toxic condition caused by ingesting volcanic fluorine compounds deposited on grass."
+        },
+        {
+          "title": "The 920 CE Eruption — Flank Activity in the Viking Age",
+          "content": "The 920 CE eruption, which occurred roughly 46 years after Norse settlement of Iceland, is the largest pre-modern eruption attributed to Eyjafjallajökull. Assigned a VEI of 3 based on tephra dispersal analysis, the eruption produced activity along the Skerin ridge on the volcano's northwest flank in addition to summit emissions. Tephra from this eruption has been identified in soil sections across southern Iceland and serves as a key chronological marker (tephrochronological layer) in Icelandic geological studies. The eruption was followed by a major eruption of Katla in 920–921, the earliest documented instance of the Eyjafjallajökull–Katla coupling pattern."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of early 2026, Eyjafjallajökull is not erupting and shows no signs of imminent volcanic unrest. The volcano is classified as active based on its 2010 eruption and is continuously monitored by the Icelandic Meteorological Office (IMO) and the Institute of Earth Sciences at the University of Iceland. The monitoring network includes a dense array of seismometers (part of Iceland's SIL seismic network), continuous GPS stations measuring ground deformation, and gas emission sensors.\n\nFollowing the 2010 eruption, seismic activity beneath Eyjafjallajökull returned to background levels by mid-2011. No significant inflation or gas anomalies have been reported since. However, volcanologists note that the 2010 eruption may not have fully emptied the summit magma reservoir, and post-eruption studies suggest residual melt remains at 3–5 km depth beneath the caldera. The primary monitoring concern since 2010 has been the potential for a triggered eruption at nearby <a href=\"/volcano/katla\">Katla</a>, which has historically followed Eyjafjallajökull eruptions within 0–2 years. While Katla has shown periodic seismic swarms and minor jökulhlaups (notably in 2011 and 2017), it has not erupted since 1918. Iceland's Civil Protection Department maintains active evacuation plans for the Markarfljót flood zone and the area south of Katla's Mýrdalsjökull ice cap."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Despite its remote location and sparse surrounding population, Eyjafjallajökull poses several significant hazard types. The most immediate local danger is jökulhlaups — glacial outburst floods generated when eruptions melt the summit ice cap. In 2010, meltwater floods reached discharge rates of 2,000–3,000 m³/s along the Markarfljót river, threatening farms, roads, and the critical Ring Road (Route 1) bridge crossing. Iceland's IMO can typically provide 30–60 minutes of warning before jökulhlaup arrival at inhabited areas, but the speed and volume of these floods make them life-threatening.\n\nTephra fall from summit eruptions can blanket agricultural land across southern Iceland. The 1821–1823 eruption demonstrated the risk of fluorine-bearing ash, which poisons livestock through contaminated grazing — a hazard Iceland has experienced repeatedly from other volcanoes, most catastrophically during the 1783 Laki eruption. Pyroclastic density currents are possible during energetic explosive phases but are largely channeled down the uninhabited Sciara-like slopes of the volcano.\n\nThe most globally significant hazard, as 2010 demonstrated, is aviation disruption. Eyjafjallajökull sits directly beneath the ICAO North Atlantic Organized Track System — the world's busiest oceanic flight corridor, carrying over 1,400 flights per day between North America and Europe. A sustained explosive eruption producing fine ash into the jet stream can force widespread airspace closures across Northern Europe within hours. The London Volcanic Ash Advisory Centre (VAAC) now maintains enhanced real-time ash dispersion models specifically informed by the 2010 experience. The volcano is rated as a moderate-to-high aviation hazard despite its relatively low eruption frequency."
+    },
+    "geography_and_physical_description": {
+      "content": "Eyjafjallajökull forms an elongated massif along Iceland's southern coast, stretching roughly 30 km (19 mi) from east to west between the broad Markarfljót river valley to the west and the Mýrdalsjökull ice cap (covering Katla) to the east. The mountain rises steeply from near sea level at the coastal plain to its 1,651 m (5,417 ft) summit, presenting a dramatic wall of ice-capped peaks visible from the Ring Road and the farming communities below.\n\nThe Eyjafjallajökull ice cap covers approximately 78 km² (30 sq mi) and has been retreating in recent decades, consistent with broader Icelandic glacier recession trends. The summit caldera, roughly 2.5 km (1.6 mi) in diameter, is entirely ice-filled and was the site of the explosive 2010 eruption. Several glacial outlet tongues descend from the ice cap, including Gígjökull to the north, which was partially destroyed by the 2010 jökulhlaups and has since reformed.\n\nThe Fimmvörðuháls ridge connects Eyjafjallajökull to the Mýrdalsjökull ice cap to the east. This pass, at approximately 1,000 m (3,280 ft) elevation, hosts a popular hiking trail — the Fimmvörðuháls Trail — that traverses the fresh 2010 lava fields. South of the volcano, dramatic waterfalls cascade from the glacier's edge, including the famous Seljalandsfoss (65 m / 213 ft) and Skógafoss (60 m / 197 ft), which are among Iceland's most visited natural landmarks."
+    },
+    "climate_and_global_impact": {
+      "content": "The 2010 eruption of Eyjafjallajökull, despite its dramatic societal impact, had negligible long-term climatic effects. With a total magma volume of approximately 0.07 km³ dense-rock equivalent and an eruption column that only intermittently reached the lower stratosphere (10–12 km altitude), the event injected insufficient sulfur dioxide (SO₂) into the stratosphere to produce measurable global cooling. Total SO₂ emissions were estimated at 3,000–5,000 tonnes per day during the peak phase — significant for air quality in Iceland and downwind areas, but orders of magnitude below climate-altering eruptions like <a href=\"/volcano/tambora\">Tambora</a> in 1815 (estimated 60 million tonnes SO₂) or Pinatubo in 1991 (20 million tonnes).\n\nThe eruption's true global impact was economic and logistical rather than climatic. The six-day European airspace closure in April 2010, followed by additional disruptions in May, exposed critical vulnerabilities in the global aviation system's preparedness for volcanic ash events. Prior to 2010, the prevailing policy was zero tolerance for volcanic ash in commercial airspace — a policy that the scale of the 2010 disruption forced regulators to revisit. By late 2010, the International Civil Aviation Organization (ICAO) had adopted new ash-concentration thresholds, allowing flights through zones with measured ash concentrations below 2 mg/m³. The 2010 event also spurred hundreds of scientific publications on ash–engine interactions, ash cloud remote sensing, and eruption forecasting, making Eyjafjallajökull one of the most intensively studied eruptions of the 21st century."
+    },
+    "cultural_significance": {
+      "content": "Before 2010, Eyjafjallajökull was virtually unknown outside Iceland and academic volcanology. The eruption catapulted the volcano — and its notoriously unpronounceable name — into global popular culture. News anchors worldwide stumbled over the name on live television, spawning viral compilation videos, comedy sketches, and even a marketing campaign by the Icelandic tourism board inviting visitors to \"come and say it properly.\" The phrase \"that Icelandic volcano\" became a cultural shorthand for the eruption.\n\nIn Iceland, Eyjafjallajökull and the broader Eyjafjöll mountain range have long held cultural significance. The name translates to \"island-mountains glacier\" — the \"island mountains\" being the distinctive peaks visible from the Westman Islands (Vestmannaeyjar) offshore. Local farms in the Eyjafjöll district, some continuously occupied since the Settlement Age, have coexisted with the volcano for over a millennium, adapting to periodic ashfall and glacial floods as a fact of agricultural life.\n\nThe 2010 eruption generated a surge in Icelandic volcano tourism that has not abated. Iceland's visitor numbers grew from 488,000 in 2010 to over 2 million annually by 2019, and while this growth had multiple drivers, the global publicity from the eruption played a measurable role. The Þórsmörk and Fimmvörðuháls hiking areas near the volcano are now among Iceland's premier trekking destinations, and the LAVA Centre — an interactive volcanology museum in Hvolsvöllur, the nearest town — opened in 2017 specifically to capitalize on global interest in Eyjafjallajökull and Icelandic volcanism."
+    },
+    "visiting_and_tourism": {
+      "content": "Eyjafjallajökull is accessible from Iceland's Ring Road (Route 1) in southern Iceland, approximately 120 km (75 mi) east of the town of Selfoss and 30 km (19 mi) from the village of Hvolsvöllur. The volcano itself is not a summit hike destination for casual visitors — ascending the ice cap requires glacier travel equipment and experience — but the surrounding area offers world-class sightseeing.\n\nThe Fimmvörðuháls Trail, a 22 km (14 mi) route between Skógar and Þórsmörk, crosses the pass between Eyjafjallajökull and Mýrdalsjökull and passes directly through the 2010 lava field at Fimmvörðuháls, where fresh lava formations and two new craters (Magni and Móði, named after sons of Thor) are visible. The trail is typically passable from late June through September and is considered one of Iceland's finest day hikes, though it is strenuous with 1,000 m (3,280 ft) of elevation gain.\n\nThe waterfalls Seljalandsfoss and Skógafoss, both fed by glacial meltwater from Eyjafjallajökull's slopes, are among the most visited sites in Iceland and are accessible year-round from the Ring Road. The LAVA Centre in Hvolsvöllur provides an excellent interactive introduction to Icelandic volcanism, with a dedicated exhibition on the 2010 eruption. Guided glacier walks on the Sólheimajökull outlet glacier (a tongue of nearby Mýrdalsjökull) are available from multiple operators and offer close-up views of Eyjafjallajökull's ice-capped summit across the valley."
+    },
+    "nearby_volcanoes": {
+      "content": "Eyjafjallajökull sits within one of Iceland's most volcanically active regions. Its nearest and most significant neighbor is <a href=\"/volcano/katla\">Katla</a>, located just 25 km (16 mi) to the east beneath the Mýrdalsjökull ice cap. Katla is one of Iceland's most powerful and dangerous volcanoes, with 131 recorded eruptions, a maximum VEI of 5, and the potential to generate catastrophic jökulhlaups orders of magnitude larger than those produced by Eyjafjallajökull. The historical correlation between eruptions of the two volcanoes — three of Eyjafjallajökull's four pre-2010 eruptions preceded Katla eruptions — makes this pairing of particular volcanological interest.\n\nFarther north, <a href=\"/volcano/hekla\">Hekla</a> (1,490 m / 4,892 ft) rises approximately 55 km away. Known in medieval times as the \"Gateway to Hell,\" Hekla has erupted 65 times and last erupted in 2000. To the northeast, <a href=\"/volcano/grimsvotn\">Grímsvötn</a> beneath the vast Vatnajökull ice cap is Iceland's most frequently erupting volcano, with 85 recorded events. The volcanic island of Surtsey, which emerged from the sea in a dramatic eruption from 1963 to 1967, lies approximately 30 km off the southern coast and is part of the same Vestmannaeyjar volcanic system. Together, these volcanoes form part of Iceland's Eastern Volcanic Zone, one of the most productive volcanic regions on the planet."
+    },
+    "etymology": {
+      "content": "The name Eyjafjallajökull (pronounced [ˈeɪjaˌfjatl̥aˌjœːkʏtl̥]) is a compound of three Icelandic words: eyja (genitive plural of ey, meaning \"island\"), fjalla (genitive plural of fjall, meaning \"mountain\"), and jökull (meaning \"glacier\"). The full translation is \"island-mountains glacier\" — referring to the glacier-capped mountain range visible from the Vestmannaeyjar (Westman Islands) offshore. The volcano is sometimes referred to simply as Eyjafjöll (the mountain range) without the glacier suffix. Following the 2010 eruption, the name became a global linguistic phenomenon, with pronunciation guides, phonetic breakdowns, and comedy segments devoted to helping non-Icelandic speakers master its five syllables."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Eyjafjallajökull Compared to Iceland's Major Volcanoes",
+      "description": "How does Eyjafjallajökull compare to the other volcanic systems that define Iceland's landscape?",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Ice-Capped"
+      ],
+      "rows": [
+        [
+          "Eyjafjallajökull",
+          "1,651 m",
+          "Stratovolcano",
+          "2010",
+          "4",
+          "5",
+          "Yes"
+        ],
+        [
+          "Katla",
+          "1,490 m",
+          "Fissure vent(s)",
+          "1918",
+          "5",
+          "131",
+          "Yes (Mýrdalsjökull)"
+        ],
+        [
+          "Hekla",
+          "1,490 m",
+          "Stratovolcano",
+          "2000",
+          "5",
+          "65",
+          "No"
+        ],
+        [
+          "Grímsvötn",
+          "1,719 m",
+          "Caldera",
+          "2011",
+          "6",
+          "85",
+          "Yes (Vatnajökull)"
+        ],
+        [
+          "Bárðarbunga",
+          "2,000 m",
+          "Stratovolcano",
+          "2015",
+          "6",
+          "55",
+          "Yes (Vatnajökull)"
+        ]
+      ]
+    },
+    {
+      "title": "Major Aviation-Disrupting Volcanic Eruptions in History",
+      "description": "Eyjafjallajökull 2010 in context: how volcanic eruptions have affected global aviation.",
+      "headers": [
+        "Eruption",
+        "Year",
+        "VEI",
+        "Flights Cancelled",
+        "Passengers Stranded",
+        "Economic Cost"
+      ],
+      "rows": [
+        [
+          "Eyjafjallajökull",
+          "2010",
+          "4",
+          "~100,000",
+          "~10 million",
+          "~$5 billion"
+        ],
+        [
+          "Grímsvötn",
+          "2011",
+          "4",
+          "~900",
+          "~100,000",
+          "~$10 million"
+        ],
+        [
+          "Pinatubo",
+          "1991",
+          "6",
+          "~1,000",
+          "N/A",
+          "N/A (pre-modern protocols)"
+        ],
+        [
+          "Galunggung",
+          "1982",
+          "4",
+          "N/A",
+          "N/A",
+          "Two 747 engine-out incidents"
+        ],
+        [
+          "Redoubt",
+          "1989–90",
+          "3",
+          "~100",
+          "N/A",
+          "$80 million (KLM 747 incident)"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 550,
+      "vei": null,
+      "label": "Earliest confirmed eruption — known only from tephra deposits",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 920,
+      "vei": 3,
+      "label": "Flank eruption along Skerin ridge — followed by Katla eruption in 920–921",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1612,
+      "vei": 2,
+      "label": "Summit eruption — poorly documented, followed by Katla eruption in 1625",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1821,
+      "vei": 2,
+      "label": "13-month eruption — silicic tephra, fluorine poisoning of livestock, followed by Katla 1823",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2010,
+      "vei": 4,
+      "label": "Summit eruption shut down European airspace for 6 days — 10 million passengers stranded",
+      "deaths": "0",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "6th",
+      "count": 1,
+      "note": "~550 CE eruption"
+    },
+    {
+      "century": "10th",
+      "count": 1,
+      "note": "920 CE eruption (VEI 3)"
+    },
+    {
+      "century": "17th",
+      "count": 1,
+      "note": "1612 eruption"
+    },
+    {
+      "century": "19th",
+      "count": 1,
+      "note": "1821–1823 eruption"
+    },
+    {
+      "century": "21st",
+      "count": 1,
+      "note": "2010 eruption (VEI 4)"
+    }
+  ],
+  "facts": [
+    "The 2010 eruption of Eyjafjallajökull caused the largest closure of European airspace since World War II, grounding approximately 100,000 flights over six days in April 2010.",
+    "An estimated 10 million passengers were stranded and airline industry losses reached $1.7 billion, with total global economic impact assessed at roughly $5 billion.",
+    "Eyjafjallajökull has only five confirmed eruptions in its entire recorded history — making it one of the least frequently erupting volcanoes in Iceland.",
+    "Three of Eyjafjallajökull's four pre-2010 eruptions were followed by eruptions of neighboring Katla within months to a few years, suggesting a coupling between the two volcanic systems.",
+    "The phreatomagmatic interaction between magma and glacial ice during the 2010 summit eruption produced an unusually high proportion of fine ash particles (< 63 micrometers), which remained airborne far longer than typical volcanic ash.",
+    "The Fimmvörðuháls flank eruption in March 2010 — the first phase of the event — was so accessible that thousands of tourists hiked to within viewing distance of the lava fountains.",
+    "Two new craters formed during the 2010 Fimmvörðuháls eruption were named Magni and Móði after the sons of the Norse god Thor.",
+    "The Eyjafjallajökull ice cap covers approximately 78 km² and has been retreating in recent decades, losing an estimated 10% of its volume since 1990.",
+    "Jökulhlaups (glacial floods) from the 2010 eruption reached peak discharge rates of 2,000–3,000 m³/s, flooding the Markarfljót river valley and forcing the evacuation of 800 people — with zero casualties.",
+    "Seljalandsfoss and Skógafoss, two of Iceland's most famous waterfalls, are fed by meltwater from Eyjafjallajökull's glacier.",
+    "The 2010 eruption led directly to the overhaul of international aviation ash protocols, replacing the previous zero-tolerance policy with concentration-based thresholds (allowing flight through zones with < 2 mg/m³ ash).",
+    "Eyjafjallajökull's name — meaning 'island-mountains glacier' — became a global linguistic phenomenon, with television anchors worldwide struggling to pronounce it on air."
+  ],
+  "faqs": [
+    {
+      "question": "What happened during the Eyjafjallajökull eruption in 2010?",
+      "answer": "The 2010 eruption of Eyjafjallajökull occurred in two phases. A fissure eruption at Fimmvörðuháls on the eastern flank began on March 20, producing spectacular but relatively harmless basaltic lava fountains. On April 14, activity shifted to the ice-filled summit caldera, where magma–ice interaction triggered violently explosive phreatomagmatic eruptions. The resulting ash plume rose to 9–10 km altitude, directly into European flight corridors. Aviation authorities closed airspace across 23 countries from April 15–20, grounding approximately 100,000 flights and stranding 10 million passengers. The summit eruption continued intermittently until October 2010, rated VEI 4. Total economic impact was estimated at $5 billion. There were zero direct fatalities."
+    },
+    {
+      "question": "How do you pronounce Eyjafjallajökull?",
+      "answer": "Eyjafjallajökull is pronounced approximately as AY-yah-FYAT-lah-YOE-kuutl in Icelandic (IPA: [ˈeɪjaˌfjatl̥aˌjœːkʏtl̥]). The name breaks into three parts: eyja (AY-yah, meaning 'island'), fjalla (FYAT-lah, meaning 'mountains'), and jökull (YOE-kuutl, meaning 'glacier'). The double 'l' in Icelandic is pronounced as a voiceless 'tl' sound, which is the feature most English speakers find difficult. The name became a global linguistic challenge during the 2010 eruption, with news anchors worldwide famously struggling with its pronunciation on live television."
+    },
+    {
+      "question": "Is Eyjafjallajökull still active?",
+      "answer": "Yes, Eyjafjallajökull is classified as an active volcano. Its most recent eruption occurred in 2010, and volcanologists consider it capable of erupting again. As of early 2026, the volcano is not erupting and shows no signs of imminent unrest — seismicity has been at background levels since mid-2011. However, post-eruption studies suggest residual magma remains in the summit reservoir at 3–5 km depth. The Icelandic Meteorological Office continuously monitors the volcano with seismometers, GPS stations, and gas sensors. Iceland's historical record suggests average repose intervals of 200–400 years between eruptions, but the intervals have been irregular."
+    },
+    {
+      "question": "Could Eyjafjallajökull erupt again?",
+      "answer": "Yes, Eyjafjallajökull will almost certainly erupt again, though predicting when is impossible with current science. The volcano has erupted five times in recorded history, with an average recurrence interval of roughly 200–400 years. Post-2010 research indicates that the eruption did not fully empty the magma reservoir beneath the summit. A greater concern for Icelandic authorities is whether a future Eyjafjallajökull eruption might trigger a far larger eruption of neighboring Katla, as happened after three of the four pre-2010 events. Any future summit eruption interacting with the glacier would likely produce similar aviation-disrupting ash clouds, though improved monitoring and revised ash protocols would enable a faster and more nuanced response."
+    },
+    {
+      "question": "Why did the 2010 eruption cause so much disruption to flights?",
+      "answer": "Three factors combined to make the 2010 eruption uniquely disruptive to aviation. First, the eruption of silica-rich magma through 200 m of glacial ice produced phreatomagmatic explosions that fragmented the magma into exceptionally fine ash particles — small enough to remain suspended in the atmosphere for days and travel thousands of kilometers. Second, Eyjafjallajökull sits directly beneath the North Atlantic Organized Track System, the world's busiest oceanic flight corridor carrying over 1,400 flights daily between North America and Europe. Third, prevailing northwesterly winds carried the ash plume directly over the British Isles and continental Europe. Volcanic ash is extremely dangerous to jet engines because glass particles melt at turbine operating temperatures and can cause total engine failure."
+    },
+    {
+      "question": "How tall is Eyjafjallajökull?",
+      "answer": "Eyjafjallajökull rises to 1,651 m (5,417 ft) above sea level, making it a mid-sized volcano by Icelandic standards. For comparison, Iceland's tallest volcano is Öræfajökull at 2,110 m (6,923 ft), and the nearby Bárðarbunga reaches 2,000 m (6,562 ft). The summit is entirely covered by an ice cap approximately 78 km² in area and up to 200 m thick. The true rock summit beneath the glacier may be somewhat lower than the ice surface elevation. The volcano's steep southern face rises dramatically from near sea level at the coastal plain, giving it an imposing visual presence despite its moderate absolute height."
+    },
+    {
+      "question": "Will Eyjafjallajökull trigger an eruption of Katla?",
+      "answer": "The historical record suggests a possible link: three of Eyjafjallajökull's four pre-2010 eruptions (in 920, 1612, and 1821) were followed by eruptions of Katla within months to years. This pattern may result from stress transfer through the crust or shared deep magma pathways. Following the 2010 eruption, monitoring of Katla was significantly intensified. As of early 2026, Katla has not erupted — its last eruption was in 1918 — though it has shown periodic seismic unrest and minor jökulhlaups. Volcanologists emphasize that correlation is not causation: Katla also erupts independently of Eyjafjallajökull, and the sample size of coupled events is very small."
+    },
+    {
+      "question": "Can you visit Eyjafjallajökull?",
+      "answer": "Yes, the area around Eyjafjallajökull is one of southern Iceland's premier visitor destinations, though climbing to the summit requires glacier travel equipment and guide services. The Fimmvörðuháls Trail, a spectacular 22 km day hike between Skógar and Þórsmörk, crosses the fresh 2010 lava field and is accessible from late June through September. The famous waterfalls Seljalandsfoss (65 m) and Skógafoss (60 m), fed by meltwater from Eyjafjallajökull, are accessible year-round from the Ring Road. The LAVA Centre in nearby Hvolsvöllur offers an interactive exhibition on the 2010 eruption. Guided glacier walks on nearby Sólheimajökull provide views of Eyjafjallajökull's summit."
+    },
+    {
+      "question": "What does Eyjafjallajökull mean?",
+      "answer": "Eyjafjallajökull translates from Icelandic as 'island-mountains glacier.' The name is a compound of three words: eyja (islands), fjalla (mountains), and jökull (glacier). The 'island mountains' refer to the Eyjafjöll peaks, which are prominently visible from the Vestmannaeyjar (Westman Islands), an archipelago lying approximately 20 km off Iceland's southern coast. The name describes the geography precisely: a glacier-capped mountain range that serves as a landmark for the offshore islands. Icelanders often refer to the mountain range simply as Eyjafjöll, using the full name Eyjafjallajökull only when specifically referencing the glacier or the volcanic system."
+    },
+    {
+      "question": "How many people died in the Eyjafjallajökull eruption?",
+      "answer": "Zero people died as a direct result of the 2010 Eyjafjallajökull eruption. Iceland's sophisticated monitoring system detected the onset of eruptive activity and provided early warning for jökulhlaup (glacial flood) evacuation, allowing approximately 800 residents in the Markarfljót flood zone to evacuate safely before floodwaters arrived. The low death toll reflects both the sparse population around the volcano and Iceland's world-class volcanic hazard preparedness. However, the eruption's indirect health effects included respiratory irritation from fine ash exposure in downwind communities, and agricultural losses from tephra fall damaged crops and contaminated grazing land across southern Iceland."
+    }
+  ],
+  "people_also_search": [
+    "eyjafjallajokull eruption 2010",
+    "how to pronounce eyjafjallajokull",
+    "eyjafjallajokull flights cancelled",
+    "eyjafjallajokull ash cloud",
+    "eyjafjallajokull height",
+    "eyjafjallajokull katla connection",
+    "iceland volcano 2010",
+    "eyjafjallajokull tourism"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Eyjafjallajökull",
+    "alternateName": [
+      "Eyjafjöll",
+      "Eyjafjalla"
+    ],
+    "description": "Active ice-capped stratovolcano in southern Iceland, famous for the 2010 eruption that shut down European airspace",
+    "geo": {
+      "latitude": 63.633,
+      "longitude": -19.633,
+      "elevation": 1651
+    },
+    "containedInPlace": {
+      "name": "Southern Iceland",
+      "country": "Iceland"
+    },
+    "url": "https://volcanoatlas.com/volcano/eyjafjallajokull"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=372020",
+      "text": "Smithsonian GVP: Eyjafjallajökull",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://en.vedur.is/",
+      "text": "Icelandic Meteorological Office (IMO)",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Eyjafjallajokull-volcano-Iceland",
+      "text": "Britannica: Eyjafjallajökull",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.icao.int/safety/iVAOAC/Pages/default.aspx",
+      "text": "ICAO International Volcanic Ash Advisory Centres",
+      "type": "authority"
+    },
+    {
+      "url": "https://lavacentre.is/",
+      "text": "LAVA Centre — Hvolsvöllur Volcano Exhibition",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "katla",
+      "hekla",
+      "grimsvotn",
+      "bardarbunga",
+      "pinatubo",
+      "stromboli",
+      "tambora"
+    ],
+    "country_pages": [
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "katla",
+    "hekla",
+    "grimsvotn",
+    "bardarbunga",
+    "surtsey"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    },
+    {
+      "label": "Eyjafjallajökull",
+      "url": "/volcano/eyjafjallajokull"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/eyjafjallajokull"
+}

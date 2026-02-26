@@ -1,0 +1,352 @@
+{
+  "slug": "heard",
+  "volcano_id": 234010,
+  "title": "Heard",
+  "meta_title": "Heard Island Volcano (Big Ben) — Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Heard Island's Big Ben is a 2,745 m active stratovolcano, Australia's only active volcano. Explore its remote eruptions, glaciers, and UNESCO status.",
+  "quick_answer": {
+    "what": "Heard Island (Big Ben) is an active, glacier-covered stratovolcano rising to 2,745 m (9,006 ft) in the southern Indian Ocean, the highest mountain on Australian territory outside Antarctica.",
+    "status": "Active — erupting near-continuously since 2012. Confirmed lava flows detected by satellite as recently as February 2026. Monitored remotely by satellite.",
+    "famous_for": "Being Australia's only active volcano on sovereign territory (outside Antarctica), its extreme remoteness and hostile sub-Antarctic climate, UNESCO World Heritage status, and its role in fertilizing the Southern Ocean with volcanic iron.",
+    "danger_level": "No direct human risk — Heard Island is uninhabited and one of the most remote places on Earth. However, eruptions can produce ash hazards for rare scientific expeditions and sub-Antarctic aviation routes."
+  },
+  "hero": {
+    "name": "Heard Island (Big Ben)",
+    "local_name": "Mawson Peak / Big Ben",
+    "subtitle": "Australia's Most Remote Active Volcano",
+    "country": "Australia",
+    "region": "Southern Indian Ocean, Kerguelen Plateau",
+    "type": "Stratovolcano",
+    "elevation_m": 2745,
+    "elevation_ft": 9006,
+    "status": "Active — erupting",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -53.106,
+      "lon": 73.513
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00330.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "2,745 m (9,006 ft) — possibly higher due to recent volcanic growth",
+    "type": "Stratovolcano (basaltic-to-trachytic)",
+    "status": "Active — erupting intermittently since 2012",
+    "last_eruption": "2025 (ongoing)",
+    "first_known_eruption": "1881 (uncertain; 1910 confirmed)",
+    "total_recorded_eruptions": 13,
+    "vei_max": "2 (multiple events)",
+    "country": "Australia (Heard Island and McDonald Islands territory)",
+    "region": "Southern Indian Ocean, Kerguelen Plateau",
+    "tectonic_setting": "Intraplate / Oceanic hotspot (Kerguelen hotspot) on oceanic crust (< 15 km)",
+    "rock_types": [
+      "Trachybasalt",
+      "Tephrite Basanite"
+    ],
+    "coordinates": "53.106°S, 73.513°E",
+    "nearest_inhabited_land": "Kerguelen Islands (France) — ~440 km northwest",
+    "population_at_risk": "None — uninhabited",
+    "summit_crater": "Mawson Peak — active summit cone within 5–6 km caldera breached to SW",
+    "protected_status": "UNESCO World Heritage Site (1997); IUCN Category Ia Strict Nature Reserve",
+    "monitoring_agency": "Australian Antarctic Division; satellite remote sensing (MIROVA, Sentinel-2)",
+    "smithsonian_id": "234010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=234010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Heard Island (Big Ben) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> located on the Kerguelen Plateau in the southern Indian Ocean, approximately 4,000 km southwest of Perth, <a href=\"/volcanoes-in-australia\">Australia</a>. At 2,745 m (9,006 ft), Mawson Peak — the active summit cone within a 5–6 km caldera breached to the southwest — is the highest mountain on Australian territory outside the Australian Antarctic Territory. Big Ben is Australia's only active volcano on sovereign land, and one of only two active volcanoes in the sub-Antarctic (the other being on nearby McDonald Island). The 25-km-diameter volcanic massif is heavily glaciated, with 14 major glaciers descending from the summit to the sea, covering approximately 70% of the island's 368 km² surface. Heard Island's extreme remoteness, savage weather (located in the 'Furious Fifties' latitude belt, with mean wind speeds of 26 km/h and recorded gusts to 209 km/h), and strict nature reserve status make it one of the least-visited places on Earth. Eruptions have been recorded since 1881, with near-continuous activity since 2012 detected primarily by satellite. The island is a UNESCO World Heritage Site recognized for its pristine wilderness and active volcanic processes, and its eruptions play a significant role in iron fertilization of the nutrient-depleted Southern Ocean."
+    },
+    "geology_and_formation": {
+      "content": "Heard Island owes its existence to the Kerguelen hotspot, a deep mantle plume that has been active for over 100 million years and created the vast Kerguelen Plateau — one of the largest igneous provinces on Earth. Unlike subduction-zone volcanoes, Heard's volcanism is intraplate, driven by the upwelling of deep mantle material through thin oceanic crust. The volcano's rock types — trachybasalt and tephrite basanite — reflect this hotspot origin, with the widest range of strontium, neodymium, lead, and helium isotopic compositions known from any oceanic island volcano system, providing unique insights into mantle plume composition. Big Ben began building approximately one million years ago and rises roughly 5,000 m from the seafloor. About 60,000 years ago, the southern flank collapsed catastrophically, splitting the island and depositing a massive submarine debris avalanche. The smaller Mount Dixon (706 m) on the Laurens Peninsula, connected to Big Ben by a narrow isthmus, represents a separate volcanic center. Mawson Peak, the active vent, sits within a 5–6 km caldera breached to the southwest."
+    },
+    "eruption_history_overview": {
+      "content": "Heard Island has 13 documented eruptions since 1881, though observations are severely limited by the island's remoteness and persistent cloud cover. A possible eruption in 1881 remains uncertain; the first confirmed eruption was observed in 1910. Eruptions were recorded in 1950, 1953, 1954, 1985, 1992 (twice), 1993, 2000, 2003, 2006, and from 2012 onward. All documented eruptions have been modest — VEI 0 to VEI 2 — characterized by Strombolian explosions, summit lava flows, and occasional ash plumes. The current eruption phase, beginning in September 2012, represents the longest sustained activity in Heard's recorded history, with intermittent lava flows and thermal anomalies detected by satellite through 2025 and into 2026. Given the paucity of observations before satellite monitoring became available in the 1980s, additional undetected eruptions almost certainly occurred."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Current Eruptive Phase (2012–Present) — Heard's Longest Recorded Activity",
+          "content": "Since September 2012, Heard Island has been in a sustained eruptive phase — the longest in its documented history. Satellite instruments including MODIS thermal detection (MIROVA), Sentinel-2 optical imagery, and occasional ship-based observations have tracked intermittent lava flows descending from Mawson Peak, summit thermal anomalies, and occasional ash plumes. Satellite imagery has confirmed eruption events in December 2021, March and April 2022, August 2022, February and March 2023, April 2024, April 2025, and February 2026. An eruption on February 11, 2026 produced an ash plume reaching 7.3 km (24,000 ft), reported by the Darwin Volcanic Ash Advisory Centre. The lava flows, typically 250 m to 2 km in length, flow over glacial ice, creating dramatic lava–ice interactions. This sustained activity likely reflects a steady magma supply from the Kerguelen hotspot."
+        },
+        {
+          "title": "The 2016 Expedition Observation — Rare Eyewitness of Eruption",
+          "content": "In 2016, scientists aboard the research vessel RV Investigator witnessed Heard Island erupting — one of the few times human eyes have directly observed an eruption at this remote volcano. The team observed lava flowing from Mawson Peak down the glaciated flank of Big Ben, an extraordinary sight of molten rock meeting ice. A PhD candidate studying Heard Island volcanism described the experience as 'incredible,' noting the persistent cloud cover typically conceals the summit entirely. The expedition also confirmed that volcanic emissions from Heard Island were enriching the surrounding ocean with iron, fertilizing phytoplankton blooms detectable by satellite."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Heard Island is currently in an active eruptive phase that has continued since 2012. Satellite observations in January and February 2026 detected thermal anomalies and lava flows, and an ash plume on February 11, 2026 reached 7.3 km altitude. Because of the island's extreme remoteness (no permanent human presence), monitoring relies entirely on satellite instruments: MODIS/VIIRS thermal detection, Sentinel-2 multispectral imagery, and occasional reports from passing ships or aircraft. The Australian Antarctic Division has administrative responsibility for the island. No ground-based monitoring instruments exist. Despite this, the frequent satellite revisit times provide a reasonable picture of eruptive activity, though short-lived events between satellite passes may go undetected."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Heard Island poses no direct risk to human populations — the island is uninhabited and among the most remote places on Earth. However, eruptions can produce ash clouds hazardous to sub-Antarctic aviation routes between Australia, South Africa, and Antarctica. The Darwin VAAC monitors Heard's ash emissions for aviation safety. Rare scientific expeditions to Heard Island must account for volcanic hazards, including unexpected ash emissions, lava flows, volcanic gas, and unstable terrain. The island's role in Southern Ocean iron fertilization means eruptions have broader ecological significance — volcanic iron stimulates phytoplankton growth, contributing to marine carbon sequestration."
+    },
+    "geography_and_physical_description": {
+      "content": "Heard Island covers 368 km² in the southern Indian Ocean at approximately 53°S, 73°E — closer to Antarctica than to any inhabited landmass. Big Ben dominates the island: a massive, glacier-covered stratovolcano 25 km in diameter, with 14 major glaciers flowing from its summit to the sea. The glaciers are retreating rapidly due to climate change, exposing previously ice-covered volcanic rock. Mawson Peak, the active summit cone, rises within a 5–6 km caldera breached to the southwest. The Laurens Peninsula, connected by a narrow isthmus to the northwest, hosts Mount Dixon (706 m) and smaller volcanic features. The coastline alternates between ice cliffs, rocky shores, and black-sand beaches. The island lies in the 'Furious Fifties' — one of the windiest ocean zones on Earth, with near-constant gale-force winds, frequent storms, and fog. An Australian research station operated at Atlas Cove from 1947 to 1955 but has since been abandoned."
+    },
+    "cultural_significance": {
+      "content": "Heard Island was discovered by American Captain John Heard in 1853. During the late 19th and early 20th centuries, the island was the site of sealing operations that decimated the local fur seal population (which has since recovered). An Australian research station at Atlas Cove operated from 1947 to 1955 and briefly in 1992. The island and nearby McDonald Islands were inscribed as a UNESCO World Heritage Site in 1997, recognized as 'the only volcanically active sub-Antarctic islands' and praised for their pristine ecosystem — one of the few places on Earth with no introduced species. Heard Island has also been the site of amateur radio expeditions (one of the rarest 'DXCC entities' for radio operators) and has been studied as an analogue for volcanic processes on other planets."
+    },
+    "visiting_and_tourism": {
+      "content": "Heard Island is not accessible to tourists. It is managed as a Strict Nature Reserve (IUCN Category Ia), and access requires permits from the Australian Antarctic Division, which are granted only for approved scientific research. The extreme remoteness (~4,000 km from Perth, ~1,700 km from Antarctica), violent weather, and lack of any infrastructure make the island practically impossible to visit. Occasional expedition cruise ships pass near the island but do not land. The few scientific expeditions that have reached Heard Island describe it as one of the most inhospitable yet awe-inspiring places on Earth."
+    },
+    "nearby_volcanoes": {
+      "content": "Heard Island's closest volcanic neighbor is McDonald Island, approximately 44 km to the west — another Australian territory with active volcanism. McDonald Island's volcano erupted after a 75,000-year dormancy, significantly expanding the island's size. Both are part of the Kerguelen hotspot volcanic system. The French-administered Kerguelen Islands lie approximately 440 km to the northwest; while volcanic in origin, they are not currently active. The nearest substantially active volcanoes are on the Antarctic continent (Mount Erebus, 3,794 m) and in the Indian Ocean (Piton de la Fournaise on Réunion)."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Heard Compared to Other Remote Active Volcanoes",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Location",
+        "Inhabited?"
+      ],
+      "rows": [
+        [
+          "Heard (Big Ben)",
+          "Australia",
+          "2,745 m",
+          "Stratovolcano",
+          "2025",
+          "Southern Indian Ocean",
+          "No"
+        ],
+        [
+          "Erebus",
+          "Antarctica",
+          "3,794 m",
+          "Stratovolcano",
+          "2025",
+          "Ross Island",
+          "Research station"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France",
+          "2,632 m",
+          "Shield",
+          "2025",
+          "Réunion, Indian Ocean",
+          "Yes (~850,000)"
+        ],
+        [
+          "Tristan da Cunha",
+          "UK",
+          "2,062 m",
+          "Shield",
+          "1961",
+          "South Atlantic",
+          "Yes (~250)"
+        ],
+        [
+          "Bouvet Island",
+          "Norway",
+          "780 m",
+          "Shield",
+          "Holocene?",
+          "South Atlantic",
+          "No"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1881,
+      "vei": 2,
+      "label": "Earliest reported activity (uncertain)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1910,
+      "vei": 2,
+      "label": "First confirmed eruption — Mawson Peak",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1950,
+      "vei": 2,
+      "label": "Multi-year eruption begins",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1985,
+      "vei": 2,
+      "label": "Eruption observed by French expedition",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2000,
+      "vei": 2,
+      "label": "Eruption with lava flows on upper south flank",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2012,
+      "vei": 0,
+      "label": "Current sustained eruption phase begins",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Ongoing activity — lava flows confirmed by satellite",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "19th",
+      "count": 1,
+      "note": "1881 (uncertain)"
+    },
+    {
+      "century": "20th",
+      "count": 9,
+      "note": "1910–1993"
+    },
+    {
+      "century": "21st",
+      "count": 3,
+      "note": "2000, 2003, 2006, plus 2012–ongoing phase"
+    }
+  ],
+  "facts": [
+    "Heard Island's Big Ben (Mawson Peak) at 2,745 m is the highest mountain on Australian territory outside the Australian Antarctic Territory.",
+    "Heard Island is one of only two volcanically active sub-Antarctic islands in the world (the other being nearby McDonald Island).",
+    "The island is approximately 4,000 km southwest of Perth and 1,700 km from Antarctica — one of the most remote places on Earth.",
+    "Fourteen major glaciers cover approximately 70% of Heard Island's 368 km² surface, flowing from Big Ben's summit to the sea.",
+    "Heard Island has been erupting near-continuously since 2012, with lava flows confirmed by satellite as recently as February 2026.",
+    "Wind speeds at Heard Island average 26 km/h, with recorded gusts reaching 209 km/h — placing it among the windiest inhabited (historically) locations on Earth.",
+    "Volcanic emissions from Heard Island fertilize the surrounding Southern Ocean with iron, stimulating phytoplankton blooms that contribute to marine carbon sequestration.",
+    "Heard Island and McDonald Islands were inscribed as a UNESCO World Heritage Site in 1997 as one of the world's last pristine island ecosystems with no introduced species.",
+    "Scientists have suggested Mawson Peak may have grown beyond its official 2,745 m height due to continuous volcanic material deposition, possibly exceeding 2,800 m.",
+    "The Kerguelen hotspot beneath Heard Island has been active for over 100 million years and produced one of the largest igneous provinces on Earth."
+  ],
+  "faqs": [
+    {
+      "question": "Is Heard Island an active volcano?",
+      "answer": "Yes, Heard Island's Big Ben volcano is one of the most persistently active volcanoes in the Southern Hemisphere. It has been erupting intermittently since 2012, with confirmed lava flows and ash emissions detected by satellite through February 2026. The active vent, Mawson Peak, produces Strombolian explosions and lava flows over glacial ice. Due to the island's extreme remoteness, monitoring relies entirely on satellite instruments."
+    },
+    {
+      "question": "Can you visit Heard Island?",
+      "answer": "No, Heard Island is not accessible to tourists. It is managed as a Strict Nature Reserve (IUCN Category Ia) by the Australian Antarctic Division. Access requires government permits granted only for approved scientific research. The island is approximately 4,000 km from Perth, has no infrastructure, and experiences some of the most hostile weather conditions on Earth, with near-constant gale-force winds and temperatures rarely exceeding 5°C."
+    },
+    {
+      "question": "Is Heard Island part of Australia?",
+      "answer": "Yes, Heard Island and the nearby McDonald Islands are an external territory of Australia, located approximately 4,000 km southwest of Perth in the southern Indian Ocean. They have been Australian territory since 1947 when Australia took over administration from the United Kingdom. The territory is administered by the Australian Antarctic Division. Big Ben (Mawson Peak) at 2,745 m is the highest mountain under full Australian sovereignty."
+    },
+    {
+      "question": "How remote is Heard Island?",
+      "answer": "Heard Island is one of the most remote places on Earth. It lies approximately 4,000 km southwest of Perth, 1,700 km from Antarctica, and 440 km southeast of the French Kerguelen Islands (the nearest land with any human presence). The island is uninhabited and has had no permanent human presence since a research station closed in 1955. The last extended scientific visit was in 2016."
+    },
+    {
+      "question": "Why is Heard Island important?",
+      "answer": "Heard Island has multiple scientific significance. It is Australia's only active volcano on sovereign territory, providing a window into hotspot volcanism and Kerguelen Plateau geology. Its pristine ecosystem — with no introduced species — is unique globally and is a UNESCO World Heritage Site. Its volcanic emissions fertilize the Southern Ocean with iron, stimulating phytoplankton growth that absorbs atmospheric CO₂. The island's isotopic compositions provide unparalleled data on mantle plume chemistry."
+    },
+    {
+      "question": "How tall is Heard Island?",
+      "answer": "Mawson Peak, the active summit of Big Ben volcano, officially stands at 2,745 m (9,006 ft), making it the highest point on Australian territory outside the Australian Antarctic Territory. However, continuous volcanic activity may have increased its height — some scientists estimate it could now exceed 2,800 m. The volcano rises approximately 5,000 m from the surrounding seafloor."
+    }
+  ],
+  "people_also_search": [
+    "heard island volcano",
+    "big ben volcano",
+    "australia active volcano",
+    "mawson peak",
+    "heard island eruption",
+    "kerguelen plateau"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Heard Island (Big Ben)",
+    "alternateName": [
+      "Big Ben",
+      "Mawson Peak"
+    ],
+    "description": "Active, glacier-covered stratovolcano in the southern Indian Ocean, Australia's only active volcano",
+    "geo": {
+      "latitude": -53.106,
+      "longitude": 73.513,
+      "elevation": 2745
+    },
+    "containedInPlace": {
+      "name": "Heard Island",
+      "country": "Australia"
+    },
+    "url": "https://volcanoatlas.com/volcano/heard"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=234010",
+      "text": "Smithsonian GVP: Heard",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/577/",
+      "text": "UNESCO: Heard and McDonald Islands",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.antarctica.gov.au/about-antarctica/heard-island/",
+      "text": "Australian Antarctic Division: Heard Island",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.csiro.au/",
+      "text": "CSIRO — Heard Island Research",
+      "type": "research"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "erebus",
+      "piton-de-la-fournaise"
+    ],
+    "country_pages": [
+      "australia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "erebus",
+    "piton-de-la-fournaise",
+    "mcdonald-islands",
+    "tristan-da-cunha"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Australia",
+      "url": "/volcanoes-in-australia"
+    },
+    {
+      "label": "Heard",
+      "url": "/volcano/heard"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/heard"
+}

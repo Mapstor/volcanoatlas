@@ -1,0 +1,2680 @@
+{
+  "slug": "united-states",
+  "title": "Volcanoes in the United States",
+  "meta_title": "Volcanoes in the United States \u2014 Complete List of 165 Volcanoes, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "The United States has 165 Holocene volcanoes across Alaska, the Cascades, Hawaii, and the Mariana Islands. Full list with map, eruption history, and hazard guide.",
+  "quick_answer": {
+    "how_many": "The United States has 165 Holocene volcanoes cataloged by the Smithsonian Global Volcanism Program, making it the country with the most volcanoes in the world.",
+    "how_many_active": "At least 62 U.S. volcanoes have historically observed eruptions. Twenty-five have erupted since the year 2000, and Kilauea, Great Sitkin, and Ahyi were active as recently as 2025.",
+    "why": "U.S. volcanism is driven by three distinct mechanisms: Pacific Plate subduction beneath Alaska and the Cascades, hotspot volcanism in Hawaii and Yellowstone, and oceanic subduction in the Mariana Arc.",
+    "tallest": "Mount Churchill at 5,005 m (16,421 ft) in the Wrangell Range, Alaska",
+    "most_recent": "Kilauea, Great Sitkin, Atka Volcanic Complex, and Ahyi (all active in 2025)"
+  },
+  "hero": {
+    "title": "Volcanoes in the United States",
+    "subtitle": "165 Volcanoes Spanning the Ring of Fire, Pacific Hotspots, and Continental Rifts",
+    "volcano_count": 165,
+    "active_count": 62,
+    "tallest": {
+      "name": "Mount Churchill",
+      "elevation_m": 5005
+    },
+    "most_recent_eruption": {
+      "volcano": "Kilauea",
+      "year": "2025"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "The United States has 165 Holocene volcanoes \u2014 more than any other country on Earth \u2014 spread across an extraordinary range of tectonic environments from the Aleutian Islands of Alaska to the tropical shield volcanoes of Hawaii and the submarine vents of the Mariana Arc. This vast volcanic inventory includes 89 [[special:types-of-volcanoes|stratovolcanoes]], 24 volcanic fields, 17 shield volcanoes, and 4 calderas, among other types. At least 62 of these volcanoes have produced historically observed eruptions, and 25 have erupted since the year 2000, making the United States one of the most volcanically active nations in the world.\n\nThe country's volcanic landscape is shaped by three primary tectonic mechanisms. Along the northern Pacific margin, the Pacific Plate subducts beneath the North American Plate, generating the explosive stratovolcanoes of the [[special:ring-of-fire|Ring of Fire]] that run from the Aleutian Ridge through the Alaska Peninsula and into the Cascade Range of Washington, Oregon, and California. In the central Pacific, the Hawaiian hotspot \u2014 a deep mantle plume \u2014 has built the largest shield volcanoes on Earth, including [[volcano:mauna-loa|Mauna Loa]] and [[volcano:kilauea|Kilauea]]. And across the western interior, Basin and Range extension and the Yellowstone hotspot have created volcanic fields, calderas, and fissure vents stretching from Idaho to New Mexico.\n\nThe United States Geological Survey's [[ext:https://www.usgs.gov/programs/VHP|Volcano Hazards Program]] monitors 161 potentially active U.S. volcanoes through five regional volcano observatories: the Alaska Volcano Observatory (AVO), the Cascades Volcano Observatory (CVO), the Hawaiian Volcano Observatory (HVO), the Yellowstone Volcano Observatory (YVO), and the California Volcano Observatory (CalVO). The 1980 eruption of [[volcano:st-helens|Mount St. Helens]] remains the deadliest and most economically destructive volcanic event in U.S. history, while the 1912 eruption of [[volcano:novarupta|Novarupta]] in Alaska was the largest volcanic eruption anywhere in the world during the 20th century."
+    },
+    "why_volcanoes": {
+      "content": "The United States owes its extraordinary volcanic diversity to its position at the intersection of several major tectonic processes. No other country spans as many distinct volcanic settings.\n\nThe dominant mechanism is subduction. Along the Aleutian Trench, the Pacific Plate descends beneath the North American Plate at approximately 7.5 cm per year, generating the 2,500 km arc of the Aleutian Islands \u2014 a chain of 46 stratovolcanoes that represents the densest concentration of active volcanoes in the United States. This subduction continues along the Alaska Peninsula, where 27 additional volcanoes have formed above the down-going slab. Further south, the Juan de Fuca and Gorda Plates subduct beneath the Pacific Northwest, creating the Cascade Volcanic Arc \u2014 home to iconic peaks like [[volcano:rainier|Mount Rainier]], [[volcano:st-helens|Mount St. Helens]], Mount Hood, and [[volcano:shasta|Mount Shasta]]. These Cascade volcanoes tend to produce intermediate to silicic magmas that drive highly explosive eruptions.\n\nThe second major mechanism is hotspot volcanism. The Hawaiian Islands sit above one of Earth's best-studied mantle plumes, a stationary column of hot rock rising from deep in the mantle. As the Pacific Plate moves northwest at roughly 7 cm per year over this plume, a conveyor belt of volcanic islands has formed over the past 80 million years. The currently active volcanoes \u2014 Kilauea, Mauna Loa, and the submarine Kama\u02bbehuakanaloa (formerly Loihi Seamount) \u2014 sit directly above the plume, producing basaltic eruptions that are typically effusive rather than explosive. The Yellowstone hotspot beneath the continental interior operates on a similar principle, though its interaction with thick continental crust produces far more explosive silicic volcanism.\n\nThe third mechanism involves extensional tectonics in the Basin and Range Province, where the North American Plate is being stretched thin. This rifting has generated volcanic fields across Nevada, Utah, Arizona, New Mexico, and parts of Oregon, including Craters of the Moon in Idaho and the San Francisco Volcanic Field in Arizona. Though less dramatic than subduction volcanism, these fields can produce eruptions with little warning \u2014 the most recent Basin and Range eruption, at Sunset Crater near Flagstaff, occurred around 1075 CE.\n\nFinally, the U.S. territory of the Northern Mariana Islands adds 25 volcanic centers along the Mariana Arc in the western Pacific, where the Pacific Plate subducts beneath the Philippine Sea Plate in the deepest ocean trench on Earth. Though remote and largely submarine, these volcanoes are capable of significant eruptions \u2014 [[volcano:anatahan|Anatahan]] erupted as recently as 2008, and [[volcano:ahyi|Ahyi Seamount]] showed activity in 2025."
+    },
+    "major_volcanoes": {
+      "content": "**Kilauea** \u2014 The world's most active shield volcano, [[volcano:kilauea|Kilauea]] rises to just 1,247 m (4,091 ft) on the southeastern flank of Mauna Loa on the Big Island of Hawaii. With 75 confirmed eruptions in the historical record and continuous activity between 1983 and 2018 at the Pu\u02bbu \u02bb\u014c\u02bb\u014d vent, Kilauea has produced more lava in the past 250 years than any other volcano on Earth. The dramatic 2018 lower East Rift Zone eruption destroyed over 700 homes in the Leilani Estates subdivision and drained the summit lava lake entirely. Kilauea resumed erupting in 2020 and was active again in 2025.\n\n**Mauna Loa** \u2014 Rising 4,170 m (13,681 ft) above sea level and roughly 9,170 m from its base on the ocean floor, [[volcano:mauna-loa|Mauna Loa]] is the largest active volcano on Earth by volume, containing an estimated 75,000 km\u00b3 of rock. It last erupted in November\u2013December 2022 after 38 years of quiet, sending lava flows down its Northeast Rift Zone that came within a few kilometers of the Saddle Road. With 110 confirmed eruptions, Mauna Loa is also one of the most frequently active volcanoes in the United States.\n\n**Mount St. Helens** \u2014 The most famous volcano in the contiguous United States, [[volcano:st-helens|Mount St. Helens]] in Washington State is a 2,549 m (8,363 ft) [[special:types-of-volcanoes|stratovolcano]] that produced the catastrophic eruption of May 18, 1980 \u2014 a VEI 5 event that killed 57 people, triggered the largest landslide in recorded history, and blasted 600 km\u00b2 of forest flat. With 40 confirmed eruptions and a maximum VEI of 6, St. Helens is the most explosively active Cascade volcano in the Holocene. A dome-building episode from 2004 to 2008 was its most recent activity.\n\n**Mount Rainier** \u2014 At 4,392 m (14,411 ft), [[volcano:rainier|Mount Rainier]] is the tallest volcano in the Cascade Range and is considered one of the most dangerous volcanoes in the United States. Its 26 glaciers contain more ice than all other Cascade volcanoes combined, and this ice represents a catastrophic lahar hazard: USGS modeling shows that a major lahar could reach the Puget Sound lowlands \u2014 home to over 100,000 people in former lahar inundation zones \u2014 within one to two hours. Rainier last erupted around 1450 CE, but its 20 confirmed eruptions include VEI 4 events.\n\n**Novarupta (Katmai)** \u2014 Located in Katmai National Park on the Alaska Peninsula, [[volcano:novarupta|Novarupta]] produced the largest volcanic eruption of the 20th century on June 6\u20138, 1912 \u2014 a VEI 6 event that ejected 13 km\u00b3 of tephra and created the Valley of Ten Thousand Smokes. The eruption was so powerful that it was heard 1,200 km away in Juneau, and ash fell on Kodiak Island, 160 km away, in darkness for three days. Though initially attributed to nearby Mount Katmai, the eruption actually occurred at a new vent \u2014 Novarupta \u2014 at the base of Katmai's flank.\n\n**Shishaldin** \u2014 The highest peak in the Aleutian Islands at 2,857 m (9,373 ft), Shishaldin is a strikingly symmetrical stratovolcano on Unimak Island with 40 confirmed eruptions. Its near-constant low-level steam emissions and frequent minor eruptions make it one of the most active volcanoes in North America. It erupted most recently in 2023 and has been compared to [[volcano:fujisan|Mount Fuji]] for its nearly perfect conical profile.\n\n**Pavlof** \u2014 One of the most consistently active volcanoes in the Aleutian Arc, Pavlof is a 2,493 m (8,179 ft) stratovolcano on the Alaska Peninsula with 44 confirmed eruptions \u2014 the third-highest count for any U.S. volcano. Its eruptions frequently disrupt aviation with ash plumes reaching 8\u201312 km altitude. Pavlof last erupted in 2022.\n\n**Mount Shasta** \u2014 A massive 4,317 m (14,163 ft) stratovolcano in northern California, Mount Shasta is the second-tallest volcano in the Cascades and has produced 22 confirmed eruptions, the most recent around 1250 CE. Its combination of large volume (~350 km\u00b3), active glacial system, and proximity to the city of Mount Shasta (~3,500 people) and Interstate 5 makes it a significant volcanic hazard.\n\n**Cleveland** \u2014 Mount Cleveland, at 1,730 m (5,676 ft) on Chuginadak Island in the central Aleutians, is one of the most active volcanoes in North America. It produced 22 eruptions in the historical record and is frequently at elevated alert levels. Its remote location means eruptions primarily threaten aviation, but it is capable of explosive events up to VEI 3.\n\n**Crater Lake (Mount Mazama)** \u2014 [[volcano:crater-lake|Crater Lake]] in southern Oregon is a 2,487 m (8,159 ft) caldera that formed during the cataclysmic VEI 7 eruption of Mount Mazama approximately 7,700 years ago \u2014 the only known VEI 7 event in the contiguous United States. The resulting caldera, 8 by 10 km across and 592 m deep, now holds the deepest lake in North America. Though the last eruption was around 2850 BCE, the volcanic system is not considered extinct.\n\n**Augustine** \u2014 A 1,252 m (4,108 ft) lava dome complex in Cook Inlet, Alaska, Augustine has produced 22 confirmed eruptions including VEI 4 events. Its proximity to Anchorage (~280 km) and the critical Cook Inlet shipping lanes makes it one of the most hazardous Alaskan volcanoes. Its most recent eruption was in 2006.\n\n**Redoubt** \u2014 With 97 confirmed eruptions \u2014 the second-highest count for any U.S. volcano \u2014 Redoubt is a 3,108 m (10,197 ft) stratovolcano on the western shore of Cook Inlet, Alaska. Its 1989\u201390 eruption famously caused a KLM Boeing 747 to lose all four engines after flying through an ash cloud at 7,600 m altitude; the plane descended 4,000 m before the engines were restarted. Redoubt's most recent eruption was in 2009."
+    },
+    "eruption_history": {
+      "content": "The volcanic history of the United States spans tens of thousands of years and includes some of the most powerful eruptions in the Holocene record. The country's 165 volcanoes have collectively produced over 1,281 documented eruptions, including 61 events of VEI 4 or greater.\n\nThe most cataclysmic eruption in what is now the United States occurred approximately 7,700 years ago when Mount Mazama in southern Oregon collapsed in a VEI 7 eruption \u2014 the largest magnitude eruption in the Holocene record for North America north of Mexico. The explosion ejected roughly 50 km\u00b3 of material, sent ash across eight present-day states and three Canadian provinces, and created the caldera now filled by Crater Lake. Tephra from the Mazama eruption serves as a key chronological marker across the Pacific Northwest.\n\nAlaska has dominated the U.S. eruption record in both frequency and intensity. The VEI 6 eruptions at Fisher Caldera (~7420 BCE), Aniakchak (~6300 BCE and ~1645 BCE), Black Peak (~1900 BCE), Veniaminof (~1750 BCE), and Okmok (~100 BCE) were among the largest explosive events in the Holocene. The VEI 6 eruption of Mount Churchill in the Wrangell Range around 847 CE produced the White River Ash, one of the most widely distributed tephra layers in North America, depositing recognizable ash over 540,000 km\u00b2.\n\nThe eruption of [[volcano:novarupta|Novarupta]] in June 1912 stands as the largest volcanic event of the 20th century anywhere on Earth. The three-day VEI 6 eruption produced 13\u201315 km\u00b3 of tephra \u2014 thirty times more than the 1980 eruption of St. Helens \u2014 and created the Valley of Ten Thousand Smokes, a 40 km\u00b2 pyroclastic flow deposit up to 200 m thick. Remarkably, no one was killed, thanks to the extreme remoteness of the Katmai region.\n\nThe May 18, 1980 eruption of [[volcano:st-helens|Mount St. Helens]] remains the defining volcanic disaster of American history. A magnitude 5.1 earthquake triggered the collapse of the volcano's north face \u2014 the largest landslide ever recorded \u2014 which unroofed the pressurized magma system and produced a devastating lateral blast traveling at 480 km/h. The eruption killed 57 people, destroyed 250 homes, flattened 600 km\u00b2 of forest, and caused an estimated $1.1 billion in damage (1980 dollars). The eruption column reached 24 km altitude and deposited measurable ash across 11 states. The event fundamentally transformed volcanic monitoring and hazard assessment in the United States.\n\nIn Hawaii, [[volcano:kilauea|Kilauea]] has erupted almost continuously since 1983. The prolonged Pu\u02bbu \u02bb\u014c\u02bb\u014d eruption (1983\u20132018) was one of the longest-lived rift eruptions in historical records, producing roughly 4.4 km\u00b3 of lava over 35 years. The dramatic 2018 lower East Rift Zone event destroyed over 700 homes in the Puna District and added approximately 3.5 km\u00b2 of new land to the island. [[volcano:mauna-loa|Mauna Loa's]] November 2022 eruption, after 38 years of dormancy, reminded observers that Earth's largest active volcano remains very much alive."
+    },
+    "volcanic_hazards": {
+      "content": "The volcanic hazards facing the United States are as diverse as its tectonic settings. In the Cascades, explosive stratovolcanoes like [[volcano:rainier|Rainier]], St. Helens, and Glacier Peak pose threats from pyroclastic flows, lahars, tephra fall, and lateral blasts. Mount Rainier is considered the most dangerous volcano in the Cascades \u2014 and potentially the entire country \u2014 because its extensive glacial ice cap would generate massive lahars in the event of a major eruption. USGS modeling indicates lahars could reach the densely populated Puyallup and White River valleys, home to approximately 100,000 people, within 30 to 60 minutes.\n\nAsh-fall hazards from Cascade eruptions could affect millions. The 1980 St. Helens eruption deposited significant ash across eastern Washington and beyond, disrupting transportation, agriculture, and aviation. A comparable eruption today would ground air traffic throughout the Pacific Northwest and potentially blanket cities like Portland and Seattle with centimeters of abrasive volcanic ash.\n\nIn Alaska, the primary hazard is to aviation. The North Pacific air corridor carries approximately 50,000 passengers per day on routes between North America and Asia, and many of these flight paths pass directly over or near Aleutian volcanoes. Volcanic ash clouds can damage jet engines, abrade windshields, and clog pitot tubes \u2014 as dramatically demonstrated during the 1989 Redoubt eruption when a KLM 747 temporarily lost all four engines. The Alaska Volcano Observatory issues aviation color codes and coordinates closely with the Volcanic Ash Advisory Centers.\n\nIn Hawaii, lava flows are the primary hazard. Kilauea's 2018 eruption destroyed 716 structures and displaced thousands of residents in the Puna District. [[volcano:mauna-loa|Mauna Loa]] lava flows could potentially reach the city of Hilo (population ~45,000) in as little as three hours from some vents. Volcanic gas emissions, particularly sulfur dioxide (SO\u2082), create persistent volcanic smog (vog) that affects air quality across the Hawaiian Islands.\n\nThe USGS Volcano Hazards Program operates a national volcanic threat assessment that ranks 161 U.S. volcanoes by combined hazard and exposure. The top five threats, in order, are: Kilauea, [[volcano:st-helens|Mount St. Helens]], [[volcano:rainier|Mount Rainier]], Redoubt, and Mount Shasta."
+    },
+    "volcanic_zones_map": {
+      "content": "U.S. volcanoes are concentrated in five major geographic regions, each with distinct tectonic origins and eruption characteristics.\n\nThe **Aleutian Arc** stretches approximately 2,500 km from Buldir Island in the west to the Alaska Peninsula in the east. This is the most volcanically dense region in the United States, containing 46 stratovolcanoes on the Aleutian Ridge and 27 additional volcanoes along the Alaska Peninsula. The entire arc results from the northwestward subduction of the Pacific Plate beneath the North American Plate at the Aleutian Trench. Most Aleutian volcanoes are uninhabited, but their eruptions pose severe aviation hazards.\n\nThe **Cascade Range** extends approximately 1,100 km from Lassen Peak in northern California to Mount Baker near the Canadian border. Its 19 major volcanic centers are spaced at roughly 50\u201370 km intervals along the High Cascades, fueled by the subduction of the Juan de Fuca and Gorda microplates. The Cascades include several of the most hazardous volcanoes in the nation due to their proximity to Pacific Northwest population centers.\n\nThe **Hawaiian Islands** contain 6 Holocene volcanic centers atop the Pacific Plate, above the Hawaiian hotspot. Volcanic activity is concentrated on the Big Island, where Kilauea and Mauna Loa remain active, and on the submarine Kama\u02bbehuakanaloa. Haleakal\u0101 on Maui last erupted around 1750 CE.\n\nThe **Basin and Range/Yellowstone** province spans the western interior, where extensional tectonics and the Yellowstone hotspot have generated scattered volcanic fields across Idaho, Oregon, Nevada, Utah, Arizona, Colorado, and New Mexico. Though eruption frequency is low, the Yellowstone caldera system \u2014 while not in the Smithsonian Holocene database (last eruption ~70,000 years ago) \u2014 represents a supervolcanic hazard of global significance.\n\nThe **Mariana Arc** in the western Pacific adds 25 volcanic centers to the U.S. inventory, most of them submarine. These volcanoes form along the Mariana Trench where the Pacific Plate subducts beneath the Philippine Sea Plate."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism has profoundly shaped American culture, economy, and national identity. In Hawaii, volcanoes are central to Native Hawaiian culture and spirituality \u2014 K\u012blauea is regarded as the home of Pele, the goddess of fire, and volcanic landscapes are sacred sites (wahi pana) throughout the islands. Hawaii Volcanoes National Park, established in 1916, draws over 1.3 million visitors annually and is a UNESCO World Heritage Site. The geothermal energy generated by volcanic heat provides roughly 25% of the Big Island's electricity.\n\nIn the Pacific Northwest, the 1980 eruption of Mount St. Helens transformed public awareness of volcanic hazards and led to the establishment of the Mount St. Helens National Volcanic Monument, which draws over 500,000 visitors per year. The eruption catalyzed a revolution in volcanic monitoring \u2014 the USGS Volcano Hazards Program expanded dramatically in its aftermath, and the Cascades Volcano Observatory was established at Vancouver, Washington, in 1982.\n\nMount Rainier and Crater Lake are among the most visited volcanic landscapes in the National Park system. Crater Lake National Park receives approximately 700,000 visitors annually, while Mount Rainier National Park draws over 2 million. Alaska's Katmai National Park, site of the 1912 Novarupta eruption and the Valley of Ten Thousand Smokes, combines volcanic tourism with world-famous bear viewing.\n\nVolcanic soils support agriculture across Hawaii (coffee, macadamia nuts), the Pacific Northwest (viticulture in Oregon and Washington), and the Willamette Valley. In the American Southwest, volcanic landscapes including Sunset Crater, Capulin Volcano, and Craters of the Moon are protected as National Monuments, preserving both geological heritage and the cultural histories of Indigenous peoples who witnessed and recorded eruptions."
+    },
+    "visiting_volcanoes": {
+      "content": "The United States offers some of the most accessible volcanic tourism in the world. Hawaii Volcanoes National Park on the Big Island provides the easiest opportunity to witness active volcanism \u2014 when Kilauea is erupting, visitors can often observe lava activity from designated viewpoints within the park. The park's Crater Rim Drive, Thurston Lava Tube, and Devastation Trail are open year-round. Check the [[ext:https://www.usgs.gov/volcanoes/kilauea|USGS Kilauea page]] for current eruption status before visiting.\n\nMount St. Helens National Volcanic Monument in Washington offers the Johnston Ridge Observatory, which sits just 8 km from the crater and provides sweeping views of the 1980 blast zone and the growing lava dome. The monument is typically open from May through October. Climbers can summit St. Helens with a permit (available through recreation.gov).\n\nCrater Lake National Park in Oregon showcases the stunning caldera formed by the VEI 7 Mount Mazama eruption. Rim Drive (53 km) circles the lake, and boat tours reach Wizard Island within the caldera. The park is accessible from late June through October due to heavy snowfall.\n\nIn Alaska, Katmai National Park offers flightseeing tours over the Valley of Ten Thousand Smokes and access to the volcanic landscape surrounding Novarupta. Denali flightseeing tours provide views of Mount Wrangell. The Aleutian Islands are extremely remote and generally not accessible to casual tourists.\n\nOther notable volcanic destinations include Lassen Volcanic National Park (California), Sunset Crater Volcano National Monument (Arizona), Craters of the Moon National Monument (Idaho), and Haleakal\u0101 National Park (Maui). The Yellowstone caldera and its associated geothermal features \u2014 including Old Faithful, Grand Prismatic Spring, and the Norris Geyser Basin \u2014 attract over 4 million visitors annually."
+    }
+  },
+  "volcano_table": {
+    "description": "Complete list of all 165 Holocene volcanoes in the United States as cataloged by the Smithsonian Global Volcanism Program. Sorted by elevation, descending.",
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      [
+        1,
+        "Churchill",
+        "churchill",
+        "5,005",
+        "Stratovolcano",
+        "847",
+        "Holocene",
+        2,
+        "6"
+      ],
+      [
+        2,
+        "Rainier",
+        "rainier",
+        "4,392",
+        "Stratovolcano",
+        "1450",
+        "Holocene",
+        20,
+        "4"
+      ],
+      [
+        3,
+        "Shasta",
+        "shasta",
+        "4,317",
+        "Stratovolcano",
+        "1250",
+        "Historical",
+        22,
+        "4"
+      ],
+      [
+        4,
+        "Wrangell",
+        "wrangell",
+        "4,278",
+        "Shield",
+        "1912",
+        "Historical",
+        5,
+        "4"
+      ],
+      [
+        5,
+        "Mauna Kea",
+        "mauna-kea",
+        "4,205",
+        "Shield",
+        "2460 BCE",
+        "Holocene",
+        6,
+        "\u2014"
+      ],
+      [
+        6,
+        "Mauna Loa",
+        "mauna-loa",
+        "4,170",
+        "Shield",
+        "2022",
+        "Historical",
+        110,
+        "2"
+      ],
+      [
+        7,
+        "San Francisco Volcanic Field",
+        "san-francisco-volcanic-field",
+        "3,850",
+        "Volcanic field",
+        "1075",
+        "Holocene",
+        1,
+        "4"
+      ],
+      [
+        8,
+        "Adams",
+        "adams",
+        "3,742",
+        "Stratovolcano",
+        "950",
+        "Holocene",
+        15,
+        "2"
+      ],
+      [
+        9,
+        "Hood",
+        "hood",
+        "3,426",
+        "Stratovolcano",
+        "1866",
+        "Historical",
+        5,
+        "2"
+      ],
+      [
+        10,
+        "Spurr",
+        "spurr",
+        "3,374",
+        "Stratovolcano",
+        "1992",
+        "Historical",
+        7,
+        "4"
+      ],
+      [
+        11,
+        "Mammoth Mountain",
+        "mammoth-mountain",
+        "3,369",
+        "Lava dome(s)",
+        "1260",
+        "Holocene",
+        2,
+        "2"
+      ],
+      [
+        12,
+        "Baker",
+        "baker",
+        "3,285",
+        "Stratovolcano(es)",
+        "1880",
+        "Historical",
+        11,
+        "3"
+      ],
+      [
+        13,
+        "Glacier Peak",
+        "glacier-peak",
+        "3,213",
+        "Stratovolcano",
+        "1700",
+        "Holocene",
+        6,
+        "4"
+      ],
+      [
+        14,
+        "Jefferson",
+        "jefferson",
+        "3,199",
+        "Stratovolcano",
+        "950",
+        "Holocene",
+        2,
+        "\u2014"
+      ],
+      [
+        15,
+        "Lassen Volcanic Center",
+        "lassen-volcanic-center",
+        "3,187",
+        "Stratovolcano",
+        "1917",
+        "Historical",
+        5,
+        "3"
+      ],
+      [
+        16,
+        "Three Sisters",
+        "three-sisters",
+        "3,159",
+        "Complex",
+        "439",
+        "Holocene",
+        6,
+        "4"
+      ],
+      [
+        17,
+        "Redoubt",
+        "redoubt",
+        "3,108",
+        "Stratovolcano",
+        "2009",
+        "Historical",
+        97,
+        "3"
+      ],
+      [
+        18,
+        "Iliamna",
+        "iliamna",
+        "3,053",
+        "Stratovolcano",
+        "1876",
+        "Historical",
+        7,
+        "4"
+      ],
+      [
+        19,
+        "Haleakala",
+        "haleakala",
+        "3,053",
+        "Shield",
+        "1750",
+        "Holocene",
+        40,
+        "\u2014"
+      ],
+      [
+        20,
+        "Hayes",
+        "hayes",
+        "3,034",
+        "Stratovolcano",
+        "1200",
+        "Holocene",
+        3,
+        "5"
+      ],
+      [
+        21,
+        "Shishaldin",
+        "shishaldin",
+        "2,857",
+        "Stratovolcano",
+        "2023",
+        "Historical",
+        40,
+        "3"
+      ],
+      [
+        22,
+        "Markagunt Plateau",
+        "markagunt-plateau",
+        "2,840",
+        "Volcanic field",
+        "1050",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        23,
+        "Mono-Inyo Craters",
+        "mono-inyo-craters",
+        "2,796",
+        "Lava dome(s)",
+        "1380",
+        "Holocene",
+        13,
+        "4"
+      ],
+      [
+        24,
+        "Bachelor",
+        "bachelor",
+        "2,763",
+        "Stratovolcano",
+        "5800 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        25,
+        "Zuni-Bandera",
+        "zuni-bandera",
+        "2,550",
+        "Volcanic field",
+        "1170 BCE",
+        "Holocene",
+        2,
+        "0"
+      ],
+      [
+        26,
+        "St. Helens",
+        "st-helens",
+        "2,549",
+        "Stratovolcano",
+        "2008",
+        "Historical",
+        40,
+        "6"
+      ],
+      [
+        27,
+        "Hualalai",
+        "hualalai",
+        "2,523",
+        "Shield",
+        "1801",
+        "Historical",
+        22,
+        "2"
+      ],
+      [
+        28,
+        "Veniaminof",
+        "veniaminof",
+        "2,507",
+        "Stratovolcano",
+        "2021",
+        "Historical",
+        24,
+        "6"
+      ],
+      [
+        29,
+        "Pavlof",
+        "pavlof",
+        "2,493",
+        "Stratovolcano",
+        "2022",
+        "Historical",
+        44,
+        "4"
+      ],
+      [
+        30,
+        "Crater Lake",
+        "crater-lake",
+        "2,487",
+        "Caldera",
+        "2850 BCE",
+        "Holocene",
+        5,
+        "7"
+      ],
+      [
+        31,
+        "Newberry",
+        "newberry",
+        "2,434",
+        "Shield",
+        "690",
+        "Holocene",
+        11,
+        "4"
+      ],
+      [
+        32,
+        "Medicine Lake",
+        "medicine-lake",
+        "2,412",
+        "Shield",
+        "1060",
+        "Holocene",
+        9,
+        "3"
+      ],
+      [
+        33,
+        "Griggs",
+        "griggs",
+        "2,317",
+        "Stratovolcano",
+        "1790 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        34,
+        "Red Hill-Quemado",
+        "red-hill-quemado",
+        "2,300",
+        "Volcanic field",
+        "9450 BCE",
+        "Holocene",
+        3,
+        "\u2014"
+      ],
+      [
+        35,
+        "Denison",
+        "denison",
+        "2,287",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        36,
+        "Steller",
+        "steller",
+        "2,279",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        37,
+        "Dotsero",
+        "dotsero",
+        "2,230",
+        "Maar",
+        "2200 BCE",
+        "Holocene",
+        1,
+        "2"
+      ],
+      [
+        38,
+        "Chiginagak",
+        "chiginagak",
+        "2,221",
+        "Stratovolcano",
+        "1998",
+        "Historical",
+        2,
+        "2"
+      ],
+      [
+        39,
+        "Mageik",
+        "mageik",
+        "2,165",
+        "Stratovolcano",
+        "500 BCE",
+        "Holocene",
+        8,
+        "2"
+      ],
+      [
+        40,
+        "Davis Lake",
+        "davis-lake",
+        "2,163",
+        "Volcanic field",
+        "2790 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        41,
+        "Snowy Mountain",
+        "snowy-mountain",
+        "2,162",
+        "Stratovolcano(es)",
+        "1710",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        42,
+        "Vsevidof",
+        "vsevidof",
+        "2,160",
+        "Stratovolcano",
+        "1878",
+        "Historical",
+        3,
+        "3"
+      ],
+      [
+        43,
+        "Pavlof Sister",
+        "pavlof-sister",
+        "2,142",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        44,
+        "Douglas",
+        "douglas",
+        "2,140",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        45,
+        "Mono Lake Volcanic Field",
+        "mono-lake-volcanic-field",
+        "2,121",
+        "Volcanic field",
+        "1790",
+        "Holocene",
+        4,
+        "\u2014"
+      ],
+      [
+        46,
+        "Fourpeaked",
+        "fourpeaked",
+        "2,105",
+        "Stratovolcano",
+        "2006",
+        "Historical",
+        1,
+        "2"
+      ],
+      [
+        47,
+        "Belknap",
+        "belknap",
+        "2,094",
+        "Shield(s)",
+        "475",
+        "Holocene",
+        4,
+        "2"
+      ],
+      [
+        48,
+        "Katmai",
+        "katmai",
+        "2,047",
+        "Stratovolcano",
+        "1912",
+        "Historical",
+        1,
+        "3"
+      ],
+      [
+        49,
+        "Kukak",
+        "kukak",
+        "2,043",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        50,
+        "Craters of the Moon",
+        "craters-of-the-moon",
+        "2,005",
+        "Volcanic field",
+        "130 BCE",
+        "Holocene",
+        14,
+        "0"
+      ],
+      [
+        51,
+        "Recheschnoi",
+        "recheschnoi",
+        "1,984",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        52,
+        "Cinnamon Butte",
+        "cinnamon-butte",
+        "1,958",
+        "Pyroclastic cone(s)",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        53,
+        "Kupreanof",
+        "kupreanof",
+        "1,895",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "1"
+      ],
+      [
+        54,
+        "Roundtop",
+        "roundtop",
+        "1,871",
+        "Stratovolcano",
+        "7600 BCE",
+        "Holocene",
+        1,
+        "5"
+      ],
+      [
+        55,
+        "Trident",
+        "trident",
+        "1,864",
+        "Stratovolcano",
+        "1974",
+        "Historical",
+        15,
+        "3"
+      ],
+      [
+        56,
+        "Martin",
+        "martin",
+        "1,863",
+        "Stratovolcano",
+        "1953",
+        "Holocene",
+        4,
+        "\u2014"
+      ],
+      [
+        57,
+        "Tanaga",
+        "tanaga",
+        "1,806",
+        "Stratovolcano(es)",
+        "1914",
+        "Historical",
+        6,
+        "0"
+      ],
+      [
+        58,
+        "Indian Heaven",
+        "indian-heaven",
+        "1,806",
+        "Volcanic field",
+        "6250 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        59,
+        "Makushin",
+        "makushin",
+        "1,800",
+        "Stratovolcano",
+        "1995",
+        "Historical",
+        19,
+        "5"
+      ],
+      [
+        60,
+        "Black Rock Desert",
+        "black-rock-desert",
+        "1,800",
+        "Volcanic field",
+        "1290",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        61,
+        "Great Sitkin",
+        "great-sitkin",
+        "1,740",
+        "Stratovolcano",
+        "2025",
+        "Historical",
+        9,
+        "2"
+      ],
+      [
+        62,
+        "Carrizozo",
+        "carrizozo",
+        "1,731",
+        "Pyroclastic cone(s)",
+        "3250 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        63,
+        "Cleveland",
+        "cleveland",
+        "1,730",
+        "Stratovolcano",
+        "2020",
+        "Historical",
+        22,
+        "3"
+      ],
+      [
+        64,
+        "Frosty",
+        "frosty",
+        "1,728",
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        65,
+        "Devils Garden",
+        "devils-garden",
+        "1,698",
+        "Volcanic field",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        66,
+        "Kialagvik",
+        "kialagvik",
+        "1,677",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        67,
+        "Sand Mountain Field",
+        "sand-mountain-field",
+        "1,664",
+        "Volcanic field",
+        "950 BCE",
+        "Holocene",
+        2,
+        "4"
+      ],
+      [
+        68,
+        "Stepovak Bay Group",
+        "stepovak-bay-group",
+        "1,633",
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        69,
+        "Hell's Half Acre",
+        "hell-s-half-acre",
+        "1,632",
+        "Shield",
+        "3250 BCE",
+        "Holocene",
+        1,
+        "0"
+      ],
+      [
+        70,
+        "Carlisle",
+        "carlisle",
+        "1,620",
+        "Stratovolcano",
+        "1828",
+        "Historical",
+        2,
+        "\u2014"
+      ],
+      [
+        71,
+        "Wapi Lava Field",
+        "wapi-lava-field",
+        "1,597",
+        "Shield",
+        "300 BCE",
+        "Holocene",
+        1,
+        "2"
+      ],
+      [
+        72,
+        "Gareloi",
+        "gareloi",
+        "1,573",
+        "Stratovolcano",
+        "1989",
+        "Historical",
+        12,
+        "3"
+      ],
+      [
+        73,
+        "Westdahl",
+        "westdahl",
+        "1,563",
+        "Stratovolcano?",
+        "1992",
+        "Historical",
+        7,
+        "4"
+      ],
+      [
+        74,
+        "Uinkaret Field",
+        "uinkaret-field",
+        "1,555",
+        "Volcanic field",
+        "1100",
+        "Holocene",
+        1,
+        "1"
+      ],
+      [
+        75,
+        "Emmons Lake Volcanic Center",
+        "emmons-lake-volcanic-center",
+        "1,534",
+        "Caldera",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        76,
+        "Atka Volcanic Complex",
+        "atka-volcanic-complex",
+        "1,518",
+        "Stratovolcano(es)",
+        "2025",
+        "Historical",
+        11,
+        "3"
+      ],
+      [
+        77,
+        "Black Butte Crater Lava Field",
+        "black-butte-crater-lava-field",
+        "1,478",
+        "Shield",
+        "8180 BCE",
+        "Holocene",
+        1,
+        "0"
+      ],
+      [
+        78,
+        "Ugashik-Peulik",
+        "ugashik-peulik",
+        "1,474",
+        "Stratovolcano",
+        "1814",
+        "Historical",
+        4,
+        "3"
+      ],
+      [
+        79,
+        "Jordan Craters",
+        "jordan-craters",
+        "1,473",
+        "Volcanic field",
+        "1250 BCE",
+        "Holocene",
+        1,
+        "2"
+      ],
+      [
+        80,
+        "Dutton",
+        "dutton",
+        "1,465",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        81,
+        "Takawangha",
+        "takawangha",
+        "1,449",
+        "Stratovolcano",
+        "1550",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        82,
+        "Clear Lake Volcanic Field",
+        "clear-lake-volcanic-field",
+        "1,439",
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        83,
+        "Diamond Craters",
+        "diamond-craters",
+        "1,435",
+        "Volcanic field",
+        "5610 BCE",
+        "Holocene",
+        1,
+        "4"
+      ],
+      [
+        84,
+        "Dana",
+        "dana",
+        "1,354",
+        "Stratovolcano",
+        "1890 BCE",
+        "Holocene",
+        1,
+        "5"
+      ],
+      [
+        85,
+        "Yantarni",
+        "yantarni",
+        "1,345",
+        "Stratovolcano",
+        "800 BCE",
+        "Holocene",
+        1,
+        "5"
+      ],
+      [
+        86,
+        "Aniakchak",
+        "aniakchak",
+        "1,341",
+        "Caldera",
+        "1931",
+        "Historical",
+        16,
+        "6"
+      ],
+      [
+        87,
+        "West Crater",
+        "west-crater",
+        "1,329",
+        "Volcanic field",
+        "5750 BCE",
+        "Holocene",
+        2,
+        "2"
+      ],
+      [
+        88,
+        "Kanaga",
+        "kanaga",
+        "1,307",
+        "Stratovolcano",
+        "2023",
+        "Historical",
+        18,
+        "2"
+      ],
+      [
+        89,
+        "Akutan",
+        "akutan",
+        "1,303",
+        "Stratovolcano",
+        "1992",
+        "Historical",
+        40,
+        "5"
+      ],
+      [
+        90,
+        "Herbert",
+        "herbert",
+        "1,280",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        91,
+        "Soda Lakes",
+        "soda-lakes",
+        "1,251",
+        "Maar(s)",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        92,
+        "Kilauea",
+        "kilauea",
+        "1,222",
+        "Shield",
+        "2025",
+        "Historical",
+        75,
+        "4"
+      ],
+      [
+        93,
+        "Semisopochnoi",
+        "semisopochnoi",
+        "1,221",
+        "Stratovolcano",
+        "2023",
+        "Historical",
+        6,
+        "2"
+      ],
+      [
+        94,
+        "Kiska",
+        "kiska",
+        "1,220",
+        "Stratovolcano",
+        "1990",
+        "Historical",
+        4,
+        "3"
+      ],
+      [
+        95,
+        "Augustine",
+        "augustine",
+        "1,218",
+        "Lava dome(s)",
+        "2006",
+        "Historical",
+        22,
+        "4"
+      ],
+      [
+        96,
+        "Moffett",
+        "moffett",
+        "1,196",
+        "Stratovolcano",
+        "1600 BCE",
+        "Holocene",
+        3,
+        "\u2014"
+      ],
+      [
+        97,
+        "Little Sitkin",
+        "little-sitkin",
+        "1,174",
+        "Stratovolcano",
+        "1830",
+        "Historical",
+        2,
+        "1"
+      ],
+      [
+        98,
+        "Tana",
+        "tana",
+        "1,170",
+        "Stratovolcano(es)",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        99,
+        "Segula",
+        "segula",
+        "1,160",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        100,
+        "Blue Lake Crater",
+        "blue-lake-crater",
+        "1,136",
+        "Maar",
+        "680",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        101,
+        "Fisher",
+        "fisher",
+        "1,112",
+        "Stratovolcano",
+        "1830",
+        "Historical",
+        6,
+        "6"
+      ],
+      [
+        102,
+        "Okmok",
+        "okmok",
+        "1,073",
+        "Shield",
+        "2008",
+        "Historical",
+        18,
+        "6"
+      ],
+      [
+        103,
+        "Amukta",
+        "amukta",
+        "1,066",
+        "Stratovolcano",
+        "1996",
+        "Historical",
+        5,
+        "3"
+      ],
+      [
+        104,
+        "Seguam",
+        "seguam",
+        "1,054",
+        "Stratovolcano(es)",
+        "1993",
+        "Historical",
+        11,
+        "5"
+      ],
+      [
+        105,
+        "Black Peak",
+        "black-peak",
+        "1,032",
+        "Stratovolcano",
+        "1900 BCE",
+        "Holocene",
+        1,
+        "6"
+      ],
+      [
+        106,
+        "Chagulak",
+        "chagulak",
+        "1,028",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        107,
+        "Edgecumbe",
+        "edgecumbe",
+        "970",
+        "Volcanic field",
+        "2080 BCE",
+        "Holocene",
+        4,
+        "\u2014"
+      ],
+      [
+        108,
+        "Agrigan",
+        "agrigan",
+        "965",
+        "Stratovolcano",
+        "1917",
+        "Historical",
+        1,
+        "4"
+      ],
+      [
+        109,
+        "Ta'u",
+        "ta-u",
+        "931",
+        "Shield",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        110,
+        "Kaguyak",
+        "kaguyak",
+        "901",
+        "Lava dome(s)",
+        "3850 BCE",
+        "Holocene",
+        2,
+        "5"
+      ],
+      [
+        111,
+        "Kagamil",
+        "kagamil",
+        "893",
+        "Stratovolcano",
+        "1929",
+        "Historical",
+        1,
+        "\u2014"
+      ],
+      [
+        112,
+        "Uliaga",
+        "uliaga",
+        "888",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        113,
+        "Asuncion",
+        "asuncion",
+        "857",
+        "Stratovolcano",
+        "1906",
+        "Historical",
+        1,
+        "2"
+      ],
+      [
+        114,
+        "Novarupta",
+        "novarupta",
+        "841",
+        "Caldera",
+        "1912",
+        "Historical",
+        1,
+        "6"
+      ],
+      [
+        115,
+        "Buzzard Creek",
+        "buzzard-creek",
+        "830",
+        "Tuff ring(s)",
+        "1050 BCE",
+        "Holocene",
+        1,
+        "2"
+      ],
+      [
+        116,
+        "Anatahan",
+        "anatahan",
+        "790",
+        "Stratovolcano",
+        "2008",
+        "Historical",
+        4,
+        "3"
+      ],
+      [
+        117,
+        "Ubehebe Craters",
+        "ubehebe-craters",
+        "752",
+        "Maar(s)",
+        "150 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        118,
+        "Alamagan",
+        "alamagan",
+        "744",
+        "Stratovolcano",
+        "870",
+        "Holocene",
+        2,
+        "4"
+      ],
+      [
+        119,
+        "Bobrof",
+        "bobrof",
+        "738",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        120,
+        "St. Michael",
+        "st-michael",
+        "715",
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        121,
+        "Buldir",
+        "buldir",
+        "656",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        122,
+        "Tutuila",
+        "tutuila",
+        "653",
+        "Tuff cone(s)",
+        "440",
+        "Holocene",
+        1,
+        "3"
+      ],
+      [
+        123,
+        "Ofu-Olosega",
+        "ofu-olosega",
+        "639",
+        "Shield(s)",
+        "1866",
+        "Historical",
+        1,
+        "2"
+      ],
+      [
+        124,
+        "Imuruk Lake",
+        "imuruk-lake",
+        "610",
+        "Volcanic field",
+        "300",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        125,
+        "Pagan",
+        "pagan",
+        "570",
+        "Stratovolcano(es)",
+        "2021",
+        "Historical",
+        21,
+        "4"
+      ],
+      [
+        126,
+        "Yunaska",
+        "yunaska",
+        "550",
+        "Shield",
+        "1937",
+        "Historical",
+        3,
+        "3"
+      ],
+      [
+        127,
+        "Amak",
+        "amak",
+        "547",
+        "Stratovolcano",
+        "1796",
+        "Historical",
+        3,
+        "\u2014"
+      ],
+      [
+        128,
+        "Behm Canal-Rudyerd Bay",
+        "behm-canal-rudyerd-bay",
+        "500",
+        "Volcanic field",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        129,
+        "Sarigan",
+        "sarigan",
+        "494",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        130,
+        "Unnamed",
+        "unnamed",
+        "402",
+        "Lava dome",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        131,
+        "Farallon de Pajaros",
+        "farallon-de-pajaros",
+        "337",
+        "Stratovolcano",
+        "1953",
+        "Historical",
+        14,
+        "2"
+      ],
+      [
+        132,
+        "Davidof",
+        "davidof",
+        "328",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        133,
+        "Kasatochi",
+        "kasatochi",
+        "314",
+        "Stratovolcano",
+        "2008",
+        "Historical",
+        2,
+        "4"
+      ],
+      [
+        134,
+        "Koniuji",
+        "koniuji",
+        "273",
+        "Stratovolcano",
+        "1150 BCE",
+        "Holocene",
+        3,
+        "\u2014"
+      ],
+      [
+        135,
+        "Guguan",
+        "guguan",
+        "232",
+        "Stratovolcano",
+        "1883",
+        "Historical",
+        1,
+        "2"
+      ],
+      [
+        136,
+        "Maug Islands",
+        "maug-islands",
+        "227",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        137,
+        "St. Paul Island",
+        "st-paul-island",
+        "203",
+        "Shield",
+        "1280 BCE",
+        "Holocene",
+        1,
+        "\u2014"
+      ],
+      [
+        138,
+        "Ingakslugwat Hills",
+        "ingakslugwat-hills",
+        "190",
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        139,
+        "Bogoslof",
+        "bogoslof",
+        "150",
+        "Stratovolcano",
+        "2017",
+        "Historical",
+        9,
+        "3"
+      ],
+      [
+        140,
+        "Ukinrek Maars",
+        "ukinrek-maars",
+        "91",
+        "Maar(s)",
+        "1977",
+        "Historical",
+        2,
+        "3"
+      ],
+      [
+        141,
+        "Tlevak Strait-Suemez Island",
+        "tlevak-strait-suemez-island",
+        "50",
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        142,
+        "Duncan Canal",
+        "duncan-canal",
+        "15",
+        "Volcanic field",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        143,
+        "Supply Reef",
+        "supply-reef",
+        "-8",
+        "Stratovolcano",
+        "Unknown",
+        "Evidence Uncertain",
+        0,
+        "\u2014"
+      ],
+      [
+        144,
+        "Salton Buttes",
+        "salton-buttes",
+        "-40",
+        "Lava dome(s)",
+        "210",
+        "Holocene",
+        3,
+        "\u2014"
+      ],
+      [
+        145,
+        "Ahyi",
+        "ahyi",
+        "-50",
+        "Stratovolcano",
+        "2025",
+        "Holocene",
+        12,
+        "2"
+      ],
+      [
+        146,
+        "Esmeralda Bank",
+        "esmeralda-bank",
+        "-74",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "2"
+      ],
+      [
+        147,
+        "East Diamante",
+        "east-diamante",
+        "-127",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        148,
+        "Malumalu",
+        "malumalu",
+        "-145",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        149,
+        "Ruby",
+        "ruby",
+        "-174",
+        "Stratovolcano",
+        "2023",
+        "Historical",
+        3,
+        "1"
+      ],
+      [
+        150,
+        "South Sarigan Seamount",
+        "south-sarigan-seamount",
+        "-184",
+        "Stratovolcano",
+        "2010",
+        "Historical",
+        1,
+        "3"
+      ],
+      [
+        151,
+        "Fukujin",
+        "fukujin",
+        "-217",
+        "Stratovolcano",
+        "1974",
+        "Historical",
+        3,
+        "1"
+      ],
+      [
+        152,
+        "Kasuga 2",
+        "kasuga-2",
+        "-274",
+        "Stratovolcano",
+        "Unknown",
+        "Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        153,
+        "Daikoku",
+        "daikoku",
+        "-323",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        154,
+        "NW Rota-1",
+        "nw-rota-1",
+        "-455",
+        "Stratovolcano",
+        "2010",
+        "Historical",
+        1,
+        "0"
+      ],
+      [
+        155,
+        "Vailulu'u",
+        "vailulu-u",
+        "-592",
+        "Shield",
+        "2003",
+        "Historical",
+        3,
+        "0"
+      ],
+      [
+        156,
+        "Kasuga 1",
+        "kasuga-1",
+        "-598",
+        "Stratovolcano",
+        "1959",
+        "Historical",
+        1,
+        "0"
+      ],
+      [
+        157,
+        "Kama'ehuakanaloa",
+        "kama-ehuakanaloa",
+        "-975",
+        "Shield",
+        "1996",
+        "Historical",
+        4,
+        "0"
+      ],
+      [
+        158,
+        "Seamount X",
+        "seamount-x",
+        "-1,230",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        159,
+        "Forecast Seamount",
+        "forecast-seamount",
+        "-1,456",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        160,
+        "NW Eifuku",
+        "nw-eifuku",
+        "-1,535",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        161,
+        "Escanaba Segment",
+        "escanaba-segment",
+        "-1,700",
+        "Fissure vent(s)",
+        "2260 BCE",
+        "Holocene",
+        1,
+        "0"
+      ],
+      [
+        162,
+        "North Gorda Ridge Segment",
+        "north-gorda-ridge-segment",
+        "-3,000",
+        "Fissure vent(s)",
+        "1996",
+        "Historical",
+        3,
+        "0"
+      ],
+      [
+        163,
+        "Jackson Segment",
+        "jackson-segment",
+        "-3,100",
+        "Fissure vent(s)",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ],
+      [
+        164,
+        "Mariana Back-Arc Segment at 15.5\u00b0N",
+        "mariana-back-arc-segment-at-15-5-n",
+        "-4,100",
+        "Fissure vent",
+        "2015",
+        "Holocene",
+        1,
+        "0"
+      ],
+      [
+        165,
+        "Zealandia Bank",
+        "zealandia-bank",
+        "Submarine",
+        "Stratovolcano",
+        "Unknown",
+        "Unrest / Holocene",
+        0,
+        "\u2014"
+      ]
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Churchill",
+      "elevation": 5005,
+      "slug": "churchill"
+    },
+    {
+      "name": "Rainier",
+      "elevation": 4392,
+      "slug": "rainier"
+    },
+    {
+      "name": "Shasta",
+      "elevation": 4317,
+      "slug": "shasta"
+    },
+    {
+      "name": "Wrangell",
+      "elevation": 4278,
+      "slug": "wrangell"
+    },
+    {
+      "name": "Mauna Kea",
+      "elevation": 4205,
+      "slug": "mauna-kea"
+    },
+    {
+      "name": "Mauna Loa",
+      "elevation": 4170,
+      "slug": "mauna-loa"
+    },
+    {
+      "name": "San Francisco Volcanic Field",
+      "elevation": 3850,
+      "slug": "san-francisco-volcanic-field"
+    },
+    {
+      "name": "Adams",
+      "elevation": 3742,
+      "slug": "adams"
+    },
+    {
+      "name": "Hood",
+      "elevation": 3426,
+      "slug": "hood"
+    },
+    {
+      "name": "Spurr",
+      "elevation": 3374,
+      "slug": "spurr"
+    },
+    {
+      "name": "Mammoth Mountain",
+      "elevation": 3369,
+      "slug": "mammoth-mountain"
+    },
+    {
+      "name": "Baker",
+      "elevation": 3285,
+      "slug": "baker"
+    },
+    {
+      "name": "Glacier Peak",
+      "elevation": 3213,
+      "slug": "glacier-peak"
+    },
+    {
+      "name": "Jefferson",
+      "elevation": 3199,
+      "slug": "jefferson"
+    },
+    {
+      "name": "Lassen Volcanic Center",
+      "elevation": 3187,
+      "slug": "lassen-volcanic-center"
+    },
+    {
+      "name": "Three Sisters",
+      "elevation": 3159,
+      "slug": "three-sisters"
+    },
+    {
+      "name": "Redoubt",
+      "elevation": 3108,
+      "slug": "redoubt"
+    },
+    {
+      "name": "Iliamna",
+      "elevation": 3053,
+      "slug": "iliamna"
+    },
+    {
+      "name": "Haleakala",
+      "elevation": 3053,
+      "slug": "haleakala"
+    },
+    {
+      "name": "Hayes",
+      "elevation": 3034,
+      "slug": "hayes"
+    },
+    {
+      "name": "Shishaldin",
+      "elevation": 2857,
+      "slug": "shishaldin"
+    },
+    {
+      "name": "Markagunt Plateau",
+      "elevation": 2840,
+      "slug": "markagunt-plateau"
+    },
+    {
+      "name": "Mono-Inyo Craters",
+      "elevation": 2796,
+      "slug": "mono-inyo-craters"
+    },
+    {
+      "name": "Bachelor",
+      "elevation": 2763,
+      "slug": "bachelor"
+    },
+    {
+      "name": "Zuni-Bandera",
+      "elevation": 2550,
+      "slug": "zuni-bandera"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7650,
+      "volcano": "Shasta",
+      "volcano_slug": "shasta",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -7600,
+      "volcano": "Roundtop",
+      "volcano_slug": "roundtop",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -7420,
+      "volcano": "Fisher",
+      "volcano_slug": "fisher",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -7300,
+      "volcano": "Seguam",
+      "volcano_slug": "seguam",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -6310,
+      "volcano": "Okmok",
+      "volcano_slug": "okmok",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -6300,
+      "volcano": "Aniakchak",
+      "volcano_slug": "aniakchak",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -6100,
+      "volcano": "Makushin",
+      "volcano_slug": "makushin",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -5900,
+      "volcano": "Crater Lake",
+      "volcano_slug": "crater-lake",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -5680,
+      "volcano": "Crater Lake",
+      "volcano_slug": "crater-lake",
+      "vei": 7,
+      "label": "Climactic eruption of Mount Mazama \u2014 formed Crater Lake",
+      "notable": true
+    },
+    {
+      "year": -5610,
+      "volcano": "Diamond Craters",
+      "volcano_slug": "diamond-craters",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -5050,
+      "volcano": "Iliamna",
+      "volcano_slug": "iliamna",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -3850,
+      "volcano": "Kaguyak",
+      "volcano_slug": "kaguyak",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -3650,
+      "volcano": "Makushin",
+      "volcano_slug": "makushin",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -3170,
+      "volcano": "Fisher",
+      "volcano_slug": "fisher",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -2340,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -2050,
+      "volcano": "Iliamna",
+      "volcano_slug": "iliamna",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -1900,
+      "volcano": "Black Peak",
+      "volcano_slug": "black-peak",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -1890,
+      "volcano": "Dana",
+      "volcano_slug": "dana",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -1860,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -1770,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -1750,
+      "volcano": "Veniaminof",
+      "volcano_slug": "veniaminof",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -1645,
+      "volcano": "Aniakchak",
+      "volcano_slug": "aniakchak",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": -1550,
+      "volcano": "Hayes",
+      "volcano_slug": "hayes",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -950,
+      "volcano": "Sand Mountain Field",
+      "volcano_slug": "sand-mountain-field",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -800,
+      "volcano": "Yantarni",
+      "volcano_slug": "yantarni",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -530,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": -350,
+      "volcano": "Three Sisters",
+      "volcano_slug": "three-sisters",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -250,
+      "volcano": "Rainier",
+      "volcano_slug": "rainier",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": -100,
+      "volcano": "Okmok",
+      "volcano_slug": "okmok",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": 63,
+      "volcano": "Churchill",
+      "volcano_slug": "churchill",
+      "vei": 6,
+      "label": ""
+    },
+    {
+      "year": 190,
+      "volcano": "Wrangell",
+      "volcano_slug": "wrangell",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 200,
+      "volcano": "Glacier Peak",
+      "volcano_slug": "glacier-peak",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 340,
+      "volcano": "Akutan",
+      "volcano_slug": "akutan",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": 490,
+      "volcano": "Newberry",
+      "volcano_slug": "newberry",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 620,
+      "volcano": "Mono-Inyo Craters",
+      "volcano_slug": "mono-inyo-craters",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 690,
+      "volcano": "Newberry",
+      "volcano_slug": "newberry",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 847,
+      "volcano": "Churchill",
+      "volcano_slug": "churchill",
+      "vei": 6,
+      "label": "White River Ash eruption \u2014 one of the largest Holocene eruptions in North America",
+      "notable": true
+    },
+    {
+      "year": 870,
+      "volcano": "Alamagan",
+      "volcano_slug": "alamagan",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1075,
+      "volcano": "San Francisco Volcanic Field",
+      "volcano_slug": "san-francisco-volcanic-field",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1350,
+      "volcano": "Mono-Inyo Craters",
+      "volcano_slug": "mono-inyo-craters",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1380,
+      "volcano": "Mono-Inyo Craters",
+      "volcano_slug": "mono-inyo-craters",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1480,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": 1482,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": 1540,
+      "volcano": "Aniakchak",
+      "volcano_slug": "aniakchak",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1540,
+      "volcano": "Augustine",
+      "volcano_slug": "augustine",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1762,
+      "volcano": "Pavlof",
+      "volcano_slug": "pavlof",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1790,
+      "volcano": "Kilauea",
+      "volcano_slug": "kilauea",
+      "vei": 4,
+      "label": "Explosive summit eruption \u2014 killed Hawaiian warriors",
+      "notable": true
+    },
+    {
+      "year": 1795,
+      "volcano": "Westdahl",
+      "volcano_slug": "westdahl",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1800,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": ""
+    },
+    {
+      "year": 1883,
+      "volcano": "Augustine",
+      "volcano_slug": "augustine",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1912,
+      "volcano": "Novarupta",
+      "volcano_slug": "novarupta",
+      "vei": 6,
+      "label": "Largest eruption of the 20th century \u2014 13 km\u00b3 of tephra",
+      "notable": true
+    },
+    {
+      "year": 1917,
+      "volcano": "Agrigan",
+      "volcano_slug": "agrigan",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1931,
+      "volcano": "Aniakchak",
+      "volcano_slug": "aniakchak",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1953,
+      "volcano": "Spurr",
+      "volcano_slug": "spurr",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1976,
+      "volcano": "Augustine",
+      "volcano_slug": "augustine",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1980,
+      "volcano": "St. Helens",
+      "volcano_slug": "st-helens",
+      "vei": 5,
+      "label": "Catastrophic lateral blast \u2014 57 killed, 600 km\u00b2 devastated",
+      "notable": true
+    },
+    {
+      "year": 1981,
+      "volcano": "Pagan",
+      "volcano_slug": "pagan",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1986,
+      "volcano": "Augustine",
+      "volcano_slug": "augustine",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 1992,
+      "volcano": "Spurr",
+      "volcano_slug": "spurr",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 2008,
+      "volcano": "Kasatochi",
+      "volcano_slug": "kasatochi",
+      "vei": 4,
+      "label": ""
+    },
+    {
+      "year": 2008,
+      "volcano": "Okmok",
+      "volcano_slug": "okmok",
+      "vei": 4,
+      "label": ""
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 268
+    },
+    {
+      "vei": 1,
+      "count": 110
+    },
+    {
+      "vei": 2,
+      "count": 255
+    },
+    {
+      "vei": 3,
+      "count": 106
+    },
+    {
+      "vei": 4,
+      "count": 33
+    },
+    {
+      "vei": 5,
+      "count": 16
+    },
+    {
+      "vei": 6,
+      "count": 11
+    },
+    {
+      "vei": 7,
+      "count": 1
+    }
+  ],
+  "facts": [
+    "The United States has 165 Holocene volcanoes \u2014 more than any other country on Earth, ahead of Japan (105) and Indonesia (101).",
+    "The 1912 eruption of Novarupta in Alaska was the largest volcanic eruption of the 20th century anywhere in the world, ejecting 13\u201315 km\u00b3 of tephra \u2014 thirty times the volume of the 1980 Mount St. Helens eruption.",
+    "Mauna Loa on Hawaii is the largest active volcano on Earth by volume, containing an estimated 75,000 km\u00b3 of rock and rising roughly 9,170 m from its base on the ocean floor to its 4,170 m summit.",
+    "The VEI 7 eruption of Mount Mazama approximately 7,700 years ago created Crater Lake, Oregon \u2014 the deepest lake in North America at 592 m (1,943 ft).",
+    "Mount Rainier's 26 glaciers contain more ice than all other Cascade volcanoes combined, and a major lahar could reach populated lowlands within 30\u201360 minutes of an eruption.",
+    "Kilauea's Pu\u02bbu \u02bb\u014c\u02bb\u014d eruption (1983\u20132018) lasted 35 continuous years and produced approximately 4.4 km\u00b3 of lava, making it one of the longest-lived rift eruptions in recorded history.",
+    "In 1989, a KLM Boeing 747 flying over Alaska's Redoubt volcano lost all four engines after encountering a volcanic ash cloud at 7,600 m altitude, falling 4,000 m before the engines restarted.",
+    "The White River Ash eruption from Mount Churchill around 847 CE deposited recognizable volcanic ash across 540,000 km\u00b2 of northwestern North America \u2014 an area larger than Spain.",
+    "Approximately 50,000 airline passengers per day fly North Pacific routes that pass near or over active Aleutian volcanoes, making volcanic ash monitoring a critical aviation safety concern.",
+    "The 1980 Mount St. Helens lateral blast traveled at 480 km/h and flattened 600 km\u00b2 of old-growth forest \u2014 an area equivalent to 230 square miles.",
+    "Sunset Crater near Flagstaff, Arizona, erupted around 1075 CE and was likely witnessed by the Sinagua people, who adapted to the volcanic ashfall by developing new dry-farming techniques.",
+    "The USGS ranks Kilauea, Mount St. Helens, Mount Rainier, Redoubt, and Mount Shasta as the five highest-threat volcanoes in the United States."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in the United States?",
+      "answer": "The United States has 165 Holocene volcanoes cataloged by the Smithsonian Global Volcanism Program \u2014 more than any other country in the world. These 165 volcanoes span six U.S. states and two territories: Alaska (approximately 80 volcanoes along the Aleutian Arc and Alaska Peninsula), Washington, Oregon, and California (the Cascade Range, with about 19 major volcanic centers), Hawaii (6 volcanic centers including Kilauea and Mauna Loa), and the Northern Mariana Islands (25 volcanoes in the western Pacific). Additional volcanic features exist across the interior West, from Idaho's Craters of the Moon to New Mexico's Zuni-Bandera field. The actual number of volcanic features is far higher \u2014 Alaska alone has over 130 named volcanic vents \u2014 but the Smithsonian database counts distinct volcanic systems with Holocene (last 11,700 years) activity."
+    },
+    {
+      "question": "How many active volcanoes does the United States have?",
+      "answer": "The United States has at least 62 volcanoes with historically observed eruptions, and the USGS monitors 161 volcanoes it considers potentially active. The definition of 'active' is debated in volcanology \u2014 the Smithsonian classifies any volcano with a Holocene eruption as potentially active, while the USGS uses a threat-based ranking system that considers eruption history, current unrest, and population exposure. Twenty-five U.S. volcanoes have erupted since the year 2000, including Kilauea (erupting as recently as 2025), Mauna Loa (2022), Pavlof (2022), Shishaldin (2023), and several Aleutian volcanoes. Alaska accounts for the majority of recently active U.S. volcanoes due to the highly productive Aleutian subduction zone."
+    },
+    {
+      "question": "What is the tallest volcano in the United States?",
+      "answer": "Mount Churchill in the Wrangell Range of Alaska is the tallest Holocene volcano in the United States at 5,005 m (16,421 ft). However, if measured by prominence and fame, Mount Rainier at 4,392 m (14,411 ft) is the tallest volcano in the Cascade Range and the tallest in the contiguous United States. In Hawaii, Mauna Kea reaches 4,205 m (13,796 ft) above sea level but extends approximately 10,210 m from its base on the ocean floor, making it the tallest mountain on Earth when measured from base to summit. Nearby Mauna Loa, at 4,170 m (13,681 ft) above sea level, is the largest volcano on Earth by volume."
+    },
+    {
+      "question": "When was the last volcanic eruption in the United States?",
+      "answer": "As of 2025, the most recent volcanic eruptions in the United States include ongoing or recent activity at Kilauea (Hawaii), Great Sitkin (Aleutian Islands), Atka Volcanic Complex (Aleutian Islands), and Ahyi Seamount (Mariana Arc). Kilauea, the most active volcano in the world, has erupted repeatedly since 2020 following its dramatic 2018 lower East Rift Zone eruption. In Alaska, Shishaldin erupted in 2023, Mauna Loa erupted in November\u2013December 2022 after 38 years of quiet, and Pavlof erupted in 2022. The United States experiences volcanic eruptions nearly every year, though most occur at remote Aleutian or Hawaiian volcanoes with minimal impact on populated areas."
+    },
+    {
+      "question": "Why does the United States have so many volcanoes?",
+      "answer": "The United States has more volcanoes than any other country because it spans three distinct tectonic mechanisms that generate volcanism. First, Pacific Plate subduction beneath Alaska creates the Aleutian Arc \u2014 a 2,500 km chain of over 70 volcanoes, the densest volcanic concentration in the country. The Juan de Fuca Plate subducts beneath the Pacific Northwest to form the Cascade Range. Second, the Hawaiian hotspot \u2014 a mantle plume \u2014 generates the world's largest shield volcanoes as the Pacific Plate moves over it. Third, extensional tectonics across the Basin and Range Province create volcanic fields from Idaho to New Mexico. The Mariana Arc in the western Pacific adds 25 more submarine and island volcanoes. No other country on Earth has this combination of subduction zones, hotspots, and rift volcanism."
+    },
+    {
+      "question": "What is the most dangerous volcano in the United States?",
+      "answer": "The USGS National Volcanic Threat Assessment ranks Kilauea as the highest overall volcanic threat in the United States, followed by Mount St. Helens, Mount Rainier, Redoubt, and Mount Shasta. However, Mount Rainier is widely considered the most dangerous in terms of catastrophic potential: its 26 glaciers and steep, hydrothermally weakened slopes create a severe lahar hazard to the densely populated Puyallup River valley. A major lahar could reach communities like Orting, Washington (population ~8,000) within 30 minutes, with little time for evacuation. Mount Rainier last erupted around 1450 CE and is not considered overdue, but even a moderate eruption or large-scale slope failure could trigger devastating lahars without a magmatic eruption."
+    },
+    {
+      "question": "Could Yellowstone erupt again?",
+      "answer": "Yes, the Yellowstone volcanic system is still active, though the probability of a catastrophic supereruption is extremely low. The last three caldera-forming eruptions occurred 2.1 million, 1.3 million, and 640,000 years ago. The USGS estimates the annual probability of a supereruption at approximately 1 in 730,000. More likely scenarios include smaller hydrothermal explosions or lava flows similar to those that occurred 70,000 years ago. The Yellowstone Volcano Observatory continuously monitors the caldera using seismographs, GPS stations, and satellite imagery. Current monitoring shows no signs of impending eruption. Yellowstone is not in the Smithsonian Holocene volcano database because its last lava eruption occurred approximately 70,000 years ago, but it remains one of the most closely watched volcanic systems in the world."
+    },
+    {
+      "question": "What was the worst volcanic eruption in U.S. history?",
+      "answer": "The deadliest volcanic eruption in U.S. history was the May 18, 1980 eruption of Mount St. Helens in Washington State, which killed 57 people. A magnitude 5.1 earthquake triggered the collapse of the volcano's north face, releasing a lateral blast that traveled at up to 480 km/h, flattening 600 km\u00b2 of forest. The eruption column rose to 24 km altitude, and ash fell across 11 states. Economic damage was estimated at $1.1 billion (1980 dollars). The largest eruption by magnitude was the VEI 6 eruption of Novarupta in Alaska in 1912, which ejected 13\u201315 km\u00b3 of tephra \u2014 the largest eruption of the 20th century worldwide \u2014 but killed no one due to the region's extreme remoteness."
+    },
+    {
+      "question": "Is it safe to visit volcanoes in the United States?",
+      "answer": "Yes, visiting U.S. volcanoes is generally safe, particularly at the many volcanoes protected within National Parks and Monuments. Hawaii Volcanoes National Park, Mount Rainier National Park, Crater Lake National Park, and Lassen Volcanic National Park all have established visitor infrastructure and ranger programs. When Kilauea is actively erupting, the National Park Service provides safe viewing areas. Mount St. Helens can be summited with a climbing permit. The USGS issues volcanic alert levels (Normal, Advisory, Watch, Warning) and aviation color codes for all monitored U.S. volcanoes. Visitors should always check current conditions at the USGS Volcano Hazards Program website before visiting active volcanic areas, carry appropriate gear, and follow all posted warnings and closures."
+    },
+    {
+      "question": "How often do volcanoes erupt in the United States?",
+      "answer": "The United States experiences volcanic eruptions almost every year. Alaska alone averages two to three eruptions per year, primarily from remote Aleutian volcanoes that threaten aviation but not populated areas. Kilauea in Hawaii has been in a state of near-continuous eruption since 1983, with only brief pauses. In the past decade, notable U.S. eruptions include Kilauea (2018, 2020, 2023, 2025), Mauna Loa (2022), Shishaldin (2023), Pavlof (2022), Bogoslof (2017), and Cleveland (2020). Cascade Range eruptions are less frequent \u2014 the last was the 2004\u20132008 dome-building episode at Mount St. Helens \u2014 but tend to be larger and more impactful when they occur. On average, a Cascade volcano produces a significant eruption roughly every 100\u2013200 years."
+    }
+  ],
+  "people_also_search": [
+    "how many volcanoes in the united states",
+    "active volcanoes in the US",
+    "list of volcanoes in the US",
+    "most dangerous volcano in America",
+    "yellowstone supervolcano",
+    "mount st helens eruption",
+    "kilauea eruption",
+    "volcanoes in alaska",
+    "volcanoes in hawaii",
+    "cascade range volcanoes"
+  ],
+  "comparison_table": {
+    "title": "United States Compared to the World's Most Volcanic Countries",
+    "description": "How does the United States compare to other nations with the most volcanoes?",
+    "headers": [
+      "Country",
+      "Holocene Volcanoes",
+      "Recently Active (since 2000)",
+      "Tallest Volcano",
+      "Most Active Volcano",
+      "Largest Historical Eruption"
+    ],
+    "rows": [
+      [
+        "United States",
+        "165",
+        "25",
+        "Churchill (5,005 m)",
+        "Kilauea (75 eruptions)",
+        "Novarupta 1912 (VEI 6)"
+      ],
+      [
+        "Japan",
+        "105",
+        "21",
+        "Fujisan (3,776 m)",
+        "Asosan (172 eruptions)",
+        "Kikai ~4350 BCE (VEI 7)"
+      ],
+      [
+        "Indonesia",
+        "101",
+        "~30",
+        "Kerinci (3,800 m)",
+        "Merapi (68 eruptions)",
+        "Tambora 1815 (VEI 7)"
+      ],
+      [
+        "Russia",
+        "94",
+        "~15",
+        "Klyuchevskoy (4,835 m)",
+        "Klyuchevskoy (83 eruptions)",
+        "Ksudach ~240 CE (VEI 6)"
+      ],
+      [
+        "Chile",
+        "66",
+        "~8",
+        "Llullaillaco (6,739 m)",
+        "Villarrica (47 eruptions)",
+        "Cerro Hudson 1991 (VEI 5)"
+      ]
+    ]
+  },
+  "external_links": [
+    {
+      "url": "https://www.usgs.gov/programs/VHP",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://volcano.si.edu/search_volcano_results.cfm",
+      "text": "Smithsonian Global Volcanism Program \u2014 Volcano Search",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://avo.alaska.edu/",
+      "text": "Alaska Volcano Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/observatories/hvo",
+      "text": "Hawaiian Volcano Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/observatories/cvo",
+      "text": "Cascades Volcano Observatory",
+      "type": "monitoring"
+    }
+  ],
+  "related_countries": [
+    "japan",
+    "indonesia",
+    "russia",
+    "chile",
+    "canada",
+    "mexico"
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "mauna-loa",
+      "st-helens",
+      "rainier",
+      "novarupta",
+      "crater-lake",
+      "shasta",
+      "fujisan",
+      "anatahan",
+      "ahyi"
+    ],
+    "country_pages": [
+      "japan",
+      "indonesia",
+      "russia",
+      "chile",
+      "canada"
+    ],
+    "special_pages": [
+      "ring-of-fire",
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "tallest-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in the United States",
+      "url": "/volcanoes-in-united-states"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

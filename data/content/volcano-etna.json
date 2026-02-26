@@ -1,0 +1,632 @@
+{
+  "slug": "etna",
+  "volcano_id": 211060,
+  "title": "Mount Etna",
+  "meta_title": "Mount Etna — Eruptions, Height & Facts | VolcanoAtlas",
+  "meta_description": "Mount Etna is a 3,357 m active stratovolcano in Sicily — Europe's tallest and most active. 170 eruptions, visitor guide, and key facts.",
+  "quick_answer": {
+    "what": "Mount Etna is an active stratovolcano on the east coast of Sicily, Italy, rising to 3,357 m (11,014 ft) — the tallest active volcano in Europe and the highest peak in Italy south of the Alps.",
+    "status": "Actively erupting — has been in near-continuous eruption since 2013. Etna is Europe's most active volcano, with 170 recorded eruptions spanning over 8,000 years.",
+    "famous_for": "Being the most volcanically active mountain in Europe, with an eruption record stretching back to 1500 BCE and near-continuous activity in the modern era. It is a UNESCO World Heritage Site.",
+    "danger_level": "Moderate to high — approximately 1 million people live on or near its flanks, including the city of Catania (population ~300,000). Lava flows periodically threaten towns, though explosive hazards are generally lower than at Vesuvius."
+  },
+  "hero": {
+    "name": "Mount Etna",
+    "local_name": "Etna / Mungibeddu (Sicilian)",
+    "subtitle": "Europe's Tallest and Most Active Volcano",
+    "country": "Italy",
+    "region": "Sicily",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 3357,
+    "elevation_ft": 11014,
+    "status": "Active — currently erupting",
+    "last_eruption": "2022–2025 (ongoing)",
+    "coordinates": {
+      "lat": 37.748,
+      "lon": 14.999
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01552.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,357 m (11,014 ft) — variable due to ongoing eruptions",
+    "type": "Stratovolcano(es) / Complex",
+    "status": "Active — currently erupting (2022–2025)",
+    "last_eruption": "2022–present (ongoing)",
+    "first_known_eruption": "~6190 BCE (geological), ~1500 BCE (historical, VEI 5)",
+    "total_recorded_eruptions": 170,
+    "confirmed_eruptions": 147,
+    "vei_max": "5 (~1500 BCE and ~122 BCE)",
+    "country": "Italy",
+    "region": "Sicily, eastern coast",
+    "tectonic_setting": "Subduction zone — African Plate beneath Eurasian Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Trachybasalt",
+      "Tephrite Basanite"
+    ],
+    "coordinates": "37.748°N, 14.999°E",
+    "nearest_city": "Catania — 30 km south",
+    "population_at_risk": "~1 million (Catania metropolitan area and flank towns)",
+    "summit_craters": "Four: Voragine, Bocca Nuova, Northeast Crater, Southeast Crater",
+    "protected_status": "Etna Regional Park (est. 1987), UNESCO World Heritage Site (2013)",
+    "monitoring_agency": "INGV — Osservatorio Etneo, Catania",
+    "basal_circumference": "~140 km (87 mi)",
+    "volume": "~350 km³",
+    "smithsonian_id": "211060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=211060"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Etna (Italian: Etna; Sicilian: Mungibeddu or Mongibello) is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> on the east coast of Sicily, <a href=\"/volcanoes-in-italy\">Italy</a>, towering 3,357 m (11,014 ft) above the city of Catania and the Ionian Sea. It is the tallest active volcano in Europe, the highest peak in Italy south of the Alps, and — with 170 recorded eruptions spanning over 8,000 years — the most volcanically active mountain on the European continent. Its eruptive record is one of the longest documented anywhere in the world, extending back to approximately 1500 BCE in historical accounts.\n\nEtna is a massive edifice. Its base covers approximately 1,190 km² (460 sq mi) with a circumference of roughly 140 km (87 mi), and its total volume is estimated at 350 km³ — making it by far the most voluminous volcano in Italy and one of the largest in the world. The summit hosts four active craters: the Voragine (formed 1945), Bocca Nuova (formed 1968), the Northeast Crater (formed 1911), and the Southeast Crater (formed 1971), the last of which has been the most productive vent of the 21st century. Etna exhibits two characteristic eruption styles, often simultaneously: persistent explosive activity (Strombolian bursts and ash emissions) at the summit craters, and less frequent but more voluminous flank eruptions where fissures open on the slopes and feed lava flows that can reach populated areas at lower elevations.\n\nDesignated a <a href=\"https://whc.unesco.org/en/list/1427\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> in 2013, Etna supports a unique ecosystem ranging from Mediterranean agriculture at its base (including citrus orchards, vineyards, and pistachio groves of Bronte) through chestnut and birch forests to barren lava fields at the summit. Approximately 1 million people live on or around its flanks, including the city of Catania (population ~300,000), making Etna a volcano of significant hazard as well as cultural and scientific importance. Compared to its Italian counterpart <a href=\"/volcano/vesuvius\">Mount Vesuvius</a>, Etna erupts far more frequently but generally produces less explosive, more effusive eruptions — a difference rooted in their contrasting magma compositions."
+    },
+    "geology_and_formation": {
+      "content": "Etna's geological history spans approximately 500,000 years and records a dramatic evolution in eruption style and edifice structure. The volcano formed in a complex tectonic setting at the intersection of the African-Eurasian plate subduction zone and a major regional fault system along Sicily's Ionian coast. Early volcanic activity (~500,000–200,000 years ago) was submarine and produced pillow lavas and hyaloclastites on the floor of a marine basin. As volcanic output increased, the edifice emerged above sea level, transitioning to a shield volcano phase characterised by broad, gentle flows of tholeiitic basalt.\n\nThe modern Mongibello <a href=\"/types-of-volcanoes\">stratovolcano</a> began constructing approximately 35,000 years ago atop the remnants of these older shield structures. Mongibello's lavas shifted from tholeiitic to alkaline compositions — primarily trachybasalt and tephrite basanite — reflecting changes in magma source and plumbing. The most prominent morphological feature is the Valle del Bove, a massive horseshoe-shaped depression on the eastern flank measuring approximately 5 × 10 km (3 × 6 mi). This dramatic caldera formed approximately 10,000–8,000 years ago through a combination of sector collapse and erosion, and has since been partially filled by lava flows from summit and upper-flank vents.\n\nUnlike <a href=\"/volcano/vesuvius\">Vesuvius</a>, whose gas-rich, silica-rich magma produces violently explosive Plinian eruptions, Etna's predominantly basaltic magma is relatively fluid and gas-poor, favouring effusive lava flows and moderate Strombolian explosions rather than cataclysmic blasts. However, Etna is capable of larger explosive events: the VEI 5 eruptions of approximately 1500 BCE and 122 BCE produced widespread tephra deposits and formed the Cratere del Piano caldera at the summit. The volcano's complex internal plumbing system, which includes multiple magma reservoirs at depths of 1–10 km, allows it to sustain simultaneous summit and flank eruptions — a behaviour that makes monitoring and hazard prediction particularly challenging."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program catalogues 170 eruptions for Etna, of which 147 are confirmed — making it one of the most prolifically active volcanoes on Earth. The eruptive record extends from approximately 6190 BCE (geological evidence) through to the current eruption (2022–present, VEI 2, Southeast Crater). Etna's VEI maximum is 5, achieved during the eruptions of approximately 1500 BCE and 122 BCE, though such explosive events are rare; the vast majority of eruptions register at VEI 1–2.\n\nEtna's eruption history can be divided into three broad phases. The prehistoric period (pre-700 BCE) is known primarily from geological deposits and includes the two VEI 5 events. The ancient and medieval period (700 BCE–1600 AD) includes approximately 50 documented eruptions, with increasing detail as written records improved — Diodorus Siculus, Thucydides, and other classical authors recorded eruptions witnessed in antiquity. The modern period (1600–present) accounts for the overwhelming majority of recorded events, with eruption frequency increasing dramatically from the 17th century onward: the 19th century alone saw 30 eruptions, and the 20th century 33. This apparent acceleration likely reflects improving observation rather than genuine increase in volcanic output. The 21st century has already recorded 10 eruptions, with Etna in near-continuous activity since 2013."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 122 BCE Eruption — Formation of the Cratere del Piano",
+          "content": "The eruption of approximately 122 BCE was the most explosive historical event at Etna, rated <a href=\"/volcanic-explosivity-index\">VEI 5</a> — a magnitude typically associated with Plinian columns and widespread ashfall. This eruption originated from the summit and southern flank, producing massive tephra deposits that blanketed Catania (then the Greek colony of Katane) so heavily that residents were reportedly exempted from paying taxes to Rome for a decade to aid recovery. The eruption formed the Cratere del Piano caldera at the summit, a broad depression whose outline is still discernible beneath later lava flows. This event demonstrates that while Etna is primarily an effusive volcano, it possesses the capability for rare but devastating explosive eruptions."
+        },
+        {
+          "title": "The 1669 Eruption — Lava Reaches the Sea at Catania",
+          "content": "The eruption of March 11, 1669 remains the most destructive flank eruption in Etna's recorded history and one of the most significant in European volcanology. A fissure opened on the south flank at approximately 950 m elevation near the town of Nicolosi, building the prominent twin cinder cones of Monti Rossi (Red Mountains) that remain a landmark today. Over the following four months, an estimated 950 million m³ of lava was erupted — a volume comparable to a cube 980 m on each side. The lava flow advanced downslope at speeds varying from several hundred metres per hour to walking pace, destroying at least 10 villages in its path.\n\nWhen the flow reached the walls of Catania, the city's fortifications diverted lava around the western perimeter for weeks. Eventually, lava overtopped and breached a section of the city wall, destroying homes in the western quarter and continuing into the harbour, where it advanced roughly 700 m out to sea. An estimated 15,000–20,000 people were displaced, and at least 10 villages were wholly or partly destroyed. The 1669 eruption prompted one of the earliest known attempts at lava diversion: residents of Catania attempted to breach the lava flow's natural levees upstream using iron tools, but were driven off by armed residents of Paternò who feared the redirected lava would threaten their own town — a conflict that established early legal precedent on the right to deflect natural flows."
+        },
+        {
+          "title": "The 1787 Eruption — Etna's Spectacular Fire Fountain",
+          "content": "The eruption of June 4, 1787 was a remarkable VEI 4 event — the most explosive eruption at Etna in modern recorded history. It produced towering fire fountains and a massive eruption column from the Central Crater. The event was extensively documented by contemporary observers, including several European naturalists visiting Sicily during the Grand Tour era. Heavy ashfall affected eastern Sicily and damage was reported in the Catania region, though the eruption was primarily summit-confined rather than producing destructive flank flows."
+        },
+        {
+          "title": "The 1928 Eruption — Destruction of Mascali",
+          "content": "The eruption of November 1928 is notable as the only event in the 20th century to destroy a populated centre. A flank fissure opened on the northeastern slope, and lava flows advanced rapidly downhill toward the town of Mascali. Despite efforts to divert the flow, lava entered and destroyed most of the town, leaving only the church and a few structures standing. The event occurred during Mussolini's fascist government, which rebuilt Mascali at a new site — rechristened briefly as 'Mascali Nuova' — as a propaganda exercise in state efficiency. The original town site remains buried under solidified lava."
+        },
+        {
+          "title": "The 1991–1993 Eruption — The Battle to Save Zafferana",
+          "content": "One of Etna's most significant modern eruptions began on December 14, 1991 when a fissure opened in the western wall of the Valle del Bove at approximately 2,200 m elevation. Over the following 473 days, lava flowed east through the Valle del Bove toward the town of Zafferana Etnea (population ~9,000). As flows approached within 1 km of the town, Italian authorities launched an unprecedented lava diversion effort: helicopters dropped concrete blocks into the lava tube feeding the advancing front, while earthen barriers were constructed to redirect flow. A controlled explosion was used to breach the lava tube roof at a higher elevation, creating a new outlet that slowed the advance. The operation, though controversial, is widely credited with saving Zafferana and remains the most successful large-scale lava diversion in history."
+        },
+        {
+          "title": "The 2013–Present Eruption Cycle — The New Southeast Crater Era",
+          "content": "Since September 2013, Etna has been in a state of near-continuous eruption centred on the New Southeast Crater (NSEC), a vent that emerged in 2007 and has since become the volcano's most productive summit feature. This ongoing eruptive phase has included dozens of paroxysmal episodes — intense bursts of lava fountaining, Strombolian explosions, and lava flows that typically last hours to days. Particularly vigorous paroxysms in February–April 2021 produced lava fountains exceeding 1,000 m in height and ash columns reaching 10–11 km altitude, causing repeated closures of Catania's Fontanarossa Airport. The eruption transitioned to the Southeast Crater from November 2022 and continues through 2025 with VEI 2 activity. This sustained period of activity, while spectacular, has primarily affected the uninhabited summit zone and Valle del Bove, with only occasional ashfall reaching populated areas."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "As of early 2025, Etna remains in active eruption. Activity at the Southeast Crater has been ongoing since November 2022 (VEI 2), producing intermittent Strombolian explosions, lava flows, and ash emissions. This follows a highly active period at the New Southeast Crater from 2013 to 2022 (VEI 3) that included dozens of spectacular paroxysms. Etna is, by any measure, currently one of the most active volcanoes on the planet.\n\nThe INGV Osservatorio Etneo in Catania operates one of the world's most advanced volcano monitoring systems. The network includes over 40 broadband seismometers, continuous GPS stations measuring ground deformation across the entire edifice, satellite-based InSAR monitoring (measuring millimetre-scale ground movement from orbit), a dense array of tiltmeters and strainmeters, continuous monitoring of SO₂ and CO₂ flux from summit craters and flank fumaroles, infrasound sensors detecting explosive activity, and a network of video cameras providing real-time visual surveillance. Catania's Fontanarossa Airport, one of Italy's busiest, has volcanic ash response protocols in place that have been activated dozens of times in recent years. The aviation colour code for Etna fluctuates frequently between green, yellow, orange, and red depending on eruptive intensity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Etna's hazard profile is fundamentally different from that of <a href=\"/volcano/vesuvius\">Vesuvius</a>. Its predominantly basaltic, relatively fluid magma means that lava flows — rather than explosive pyroclastic flows — are the primary threat. Lava flows advance slowly enough for evacuation (typically metres to tens of metres per hour on gentle slopes, though rates can exceed 100 m/hour on steep upper flanks), but they are essentially unstoppable and destroy everything in their path through incineration and burial.\n\nThe principal hazards include: effusive flank eruptions producing lava flows that can reach populated areas at lower elevations (as in 1669, 1928, and the 1991–93 threat to Zafferana Etnea); tephra fall and ballistic projectiles near active vents; volcanic ash clouds disrupting aviation at Catania Fontanarossa Airport and across the central Mediterranean; and volcanic gas emissions (SO₂ and HF) that can affect air quality downwind. The rare VEI 4–5 explosive eruptions, while infrequent, pose significantly greater risk through heavy tephra fall on Catania and surrounding towns.\n\nApproximately 1 million people live within 30 km of the summit, with the densely populated Catania metropolitan area (~300,000) positioned just 30 km south. Towns on the lower flanks — including Nicolosi, Zafferana Etnea, Bronte, Randazzo, and Linguaglossa — face the most direct risk from lava flows. Unlike Vesuvius, where a single catastrophic eruption could affect millions simultaneously, Etna's hazards tend to be geographically focused and evolve over days to weeks, allowing iterative evacuation — but the economic damage from prolonged eruptions can be enormous."
+    },
+    "geography_and_physical_description": {
+      "content": "Etna is a mountain of extraordinary scale. Its base covers approximately 1,190 km² (460 sq mi) — equivalent to the area of metropolitan Los Angeles — and its total volume of roughly 350 km³ makes it the most massive volcano in Italy and one of the largest in Europe. The summit rises 3,357 m (11,014 ft) above sea level, though this figure fluctuates with eruptions: constructive eruptions can add tens of metres, while explosive events or collapse can reduce it. The volcano is roughly elliptical in plan, measuring approximately 40 km (25 mi) north-south by 35 km (22 mi) east-west, with a basal circumference of roughly 140 km (87 mi).\n\nThe summit area hosts four active craters: the Voragine (literally 'abyss,' formed 1945) and Bocca Nuova ('new mouth,' formed 1968), which occupy the Central Crater; the Northeast Crater (formed 1911 and long Etna's highest point); and the Southeast Crater (formed 1971), whose subsidiary New Southeast Crater (active since 2007) has been the dominant vent of the 21st century. The most dramatic topographic feature is the Valle del Bove, a massive 5 × 10 km horseshoe-shaped depression on the eastern flank whose 1,000 m-high cliffs expose a cross-section of Etna's geological history. The Valle del Bove serves as a natural catch basin for lava flows from summit and upper-flank eruptions, channelling them away from populated areas to the east.\n\nEtna's slopes descend through a series of distinct ecological zones: barren lava fields and snow above approximately 2,900 m; scattered Astragalus shrubs and sparse grasses from 2,000–2,900 m; Etna birch (Betula aetnensis) and Corsican pine forests from 1,500–2,000 m; chestnut forests and Mediterranean scrub from 500–1,500 m; and intensively cultivated agricultural land below 500 m, where volcanic soils produce renowned wines (Etna DOC), pistachios (particularly the prized Bronte variety), citrus fruits, and olive oil."
+    },
+    "climate_and_global_impact": {
+      "content": "Etna's predominantly effusive eruption style means that its global climatic impact has been modest compared to major explosive volcanoes. Even the VEI 5 eruption of 122 BCE, while devastating locally, did not inject sufficient sulphur dioxide into the stratosphere to produce measurable hemispheric cooling. Modern eruptions at Etna release significant quantities of SO₂ — INGV measurements regularly record daily fluxes of 2,000–5,000 tonnes during active phases, making Etna one of the world's largest persistent volcanic SO₂ sources — but these emissions remain largely tropospheric, affecting regional air quality rather than the global radiation budget.\n\nThe primary extra-local impact of modern Etna eruptions is on aviation. Ash plumes from paroxysmal eruptions at the summit craters regularly reach altitudes of 8–12 km, well within commercial flight paths. Catania Fontanarossa Airport, handling approximately 10 million passengers annually, has been forced to close repeatedly during active phases — closures during the intense 2021 paroxysm series disrupted travel across southern Italy and the central Mediterranean. The 2002–2003 eruption, which produced sustained ash emissions for months, demonstrated the potential for extended economic disruption to Sicilian tourism and agriculture."
+    },
+    "cultural_significance": {
+      "content": "Etna has been a towering presence in Mediterranean culture for over three millennia. In Greek mythology, it was the prison of the giant Typhon (or Enceladus), trapped beneath the mountain by Zeus; the volcano's eruptions were said to be the monster's fiery breath. The forge of Hephaestus (Vulcan), god of fire and metalworking, was traditionally located beneath Etna or the nearby Aeolian Islands — a mythology that gave the English language the very word 'volcano.' The Cyclops' workshop in Homer's Odyssey was also placed in Etna's caverns.\n\nClassical authors including Thucydides, Pindar, Diodorus Siculus, and Virgil all described Etna's eruptions, making it one of the earliest volcanoes documented in Western literature. During the Enlightenment and Romantic periods, Etna was a compulsory stop on the Grand Tour and attracted scientists and artists alike. The volcano's eruptions were painted by numerous artists and described by Goethe, Dumas, and D.H. Lawrence.\n\nToday, Etna is central to Sicilian identity and economy. The Etna DOC wine appellation, one of Italy's fastest-growing, produces acclaimed wines from vineyards at 400–1,100 m elevation on volcanic soils. The Bronte pistachio, grown exclusively on Etna's western flank, commands premium prices as a DOP-protected product. Etna's designation as a <a href=\"https://whc.unesco.org/en/list/1427\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> in 2013 recognised its scientific importance, its extraordinarily long eruptive record, and its role in shaping Mediterranean mythology and the history of volcanology."
+    },
+    "visiting_and_tourism": {
+      "content": "Etna is one of the world's most accessible and visitor-friendly active volcanoes, attracting approximately 1 million visitors per year. The primary access route from the south is via the town of Nicolosi to the Rifugio Sapienza at 1,910 m (6,266 ft), where the Funivia dell'Etna cable car ascends to approximately 2,500 m. From there, authorised 4×4 vehicles and guides take visitors to approximately 2,900 m, within sight of the active summit craters. On the north side, Piano Provenzana (1,800 m) offers an alternative approach through the forests destroyed and regrown after the 2002 eruption.\n\nAccess to the summit zone (above 2,900 m) requires an authorised alpine guide when the volcano is active — a regulation enforced by the INGV and local authorities for safety. The cost for a guided summit excursion (cable car + 4×4 + guide) is typically €90–120. Independent hiking is permitted up to 2,900 m on the south side and 2,400 m on the north. The best seasons for visiting are late spring (May–June) and early autumn (September–October), when weather is mild and snow cover minimal.\n\nEtna Regional Park, established in 1987, protects 590 km² of the volcano and offers extensive trail networks through lava fields, birch forests, and centuries-old lava caves (including the Grotta del Gelo, one of the southernmost ice caves in Europe). In winter, the Etna Nord and Etna Sud ski areas operate on the upper slopes — making Etna the rare volcano where visitors can ski in the morning and swim in the Mediterranean in the afternoon."
+    },
+    "nearby_volcanoes": {
+      "content": "Etna stands as the dominant volcanic feature of Sicily, but it is part of a broader chain of volcanic activity in the central Mediterranean. To the north, the Aeolian Islands archipelago — a UNESCO World Heritage Site — includes the persistently active <a href=\"/volcano/stromboli\">Stromboli</a> (924 m, erupting near-continuously for at least 2,000 years) and the historically significant Vulcano (last erupted 1888–1890), the island that gave volcanology its name. Lipari, Salina, and Panarea are also volcanic islands in the chain.\n\nOn the Italian mainland, <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> (1,281 m) and <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> dominate the Campanian volcanic zone roughly 500 km to the north. <a href=\"/volcano/stromboli\">Stromboli</a> lies approximately 150 km to the northeast across the Tyrrhenian Sea. The submarine volcano Marsili, located in the deep Tyrrhenian Sea between Sicily and Campania, is one of Europe's largest underwater volcanoes and a focus of ongoing research.\n\nSicily's volcanic activity is driven by the complex interaction of the African and Eurasian plates, with Etna sitting at a unique intersection of subduction-related and rift-related tectonic forces — a combination that helps explain both its enormous size and its unusually persistent activity."
+    },
+    "etymology": {
+      "content": "The name 'Etna' derives most likely from the Greek Aitne (Αἴτνη), which may itself come from the Phoenician word 'attuna' meaning 'furnace' or 'chimney.' The Greek colony of Aitne was founded on the volcano's slopes in 476 BCE by Hieron I of Syracuse. In Sicilian dialect, the mountain is called Mungibeddu, a corruption of the Italian Mongibello, which combines the Latin 'mons' (mountain) with the Arabic 'jabal' (also mountain) — making the vernacular name literally 'Mountain Mountain,' a tautological legacy of the island's layered linguistic history under Greek, Roman, Arab, and Norman rule."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Etna Compared to the World's Most Active Stratovolcanoes",
+      "description": "How does Etna's eruption frequency and scale compare to other highly active volcanic mountains?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Eruption Count",
+        "VEI Max"
+      ],
+      "rows": [
+        [
+          "<a href=\"/volcano/etna\">Etna</a>",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "2025",
+          "170",
+          "5"
+        ],
+        [
+          "<a href=\"/volcano/stromboli\">Stromboli</a>",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "2025",
+          "100+",
+          "3"
+        ],
+        [
+          "<a href=\"/volcano/kilauea\">Kilauea</a>",
+          "USA",
+          "1,222 m",
+          "Shield",
+          "2025",
+          "75",
+          "4"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "2025",
+          "110+",
+          "4"
+        ],
+        [
+          "<a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a>",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2024",
+          "170+",
+          "2"
+        ],
+        [
+          "Sakurajima",
+          "Japan",
+          "1,117 m",
+          "Stratovolcano",
+          "2024",
+          "100+",
+          "4"
+        ]
+      ]
+    },
+    {
+      "title": "Etna vs Italy's Other Active Volcanoes",
+      "description": "Italy has more active volcanoes than any other European country. Here's how they compare.",
+      "headers": [
+        "Volcano",
+        "Region",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "Primary Hazard",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "<a href=\"/volcano/etna\">Etna</a>",
+          "Sicily",
+          "3,357 m",
+          "Stratovolcano",
+          "2025",
+          "Lava flows, ashfall",
+          "~1 million"
+        ],
+        [
+          "<a href=\"/volcano/vesuvius\">Vesuvius</a>",
+          "Campania",
+          "1,281 m",
+          "Stratovolcano",
+          "1944",
+          "Pyroclastic flows",
+          "~3 million"
+        ],
+        [
+          "<a href=\"/volcano/stromboli\">Stromboli</a>",
+          "Aeolian Islands",
+          "924 m",
+          "Stratovolcano",
+          "2025",
+          "Explosions, tsunamis",
+          "<1,000"
+        ],
+        [
+          "<a href=\"/volcano/campi-flegrei\">Campi Flegrei</a>",
+          "Campania",
+          "458 m",
+          "Caldera",
+          "1538",
+          "Caldera unrest, pyroclastic flows",
+          "~1.5 million"
+        ],
+        [
+          "Vulcano",
+          "Aeolian Islands",
+          "500 m",
+          "Stratovolcano",
+          "1890",
+          "Phreatic explosions, gas",
+          "~700"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6190,
+      "vei": null,
+      "label": "Earliest eruption in geological record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1500,
+      "vei": 5,
+      "label": "Major Plinian eruption — widespread tephra deposits",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -122,
+      "vei": 5,
+      "label": "Explosive eruption — Cratere del Piano caldera formed, Catania damaged",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -44,
+      "vei": 3,
+      "label": "Eruption the year of Julius Caesar's assassination",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 252,
+      "vei": 3,
+      "label": "Eruption during martyrdom of Saint Agatha — patron of Catania",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1329,
+      "vei": 3,
+      "label": "Major flank eruption on southeast slope",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1536,
+      "vei": 3,
+      "label": "Multi-flank eruption affecting summit and south, north, and west slopes",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1669,
+      "vei": 3,
+      "label": "Most destructive historical eruption — lava reached Catania and the sea, 10+ villages destroyed",
+      "deaths": "unknown",
+      "notable": true
+    },
+    {
+      "year": 1787,
+      "vei": 4,
+      "label": "Most explosive modern eruption — powerful fire fountains and eruption column",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1928,
+      "vei": 1,
+      "label": "Destruction of Mascali — only 20th-century town destroyed",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1991,
+      "vei": 2,
+      "label": "473-day eruption — successful lava diversion saved Zafferana Etnea",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2001,
+      "vei": 3,
+      "label": "Complex multi-vent eruption threatening Nicolosi and Rifugio Sapienza",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2013,
+      "vei": 3,
+      "label": "Beginning of sustained New Southeast Crater paroxysm series",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": 3,
+      "label": "Intense paroxysm series — lava fountains exceeding 1,000 m, repeated airport closures",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2022,
+      "vei": 2,
+      "label": "Current eruption at Southeast Crater (ongoing 2025)",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric (pre-7th c. BCE)",
+      "count": 28,
+      "note": "Known primarily from geological deposits; includes VEI 5 events"
+    },
+    {
+      "century": "1st BCE–1st CE",
+      "count": 3
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "3rd",
+      "count": 1
+    },
+    {
+      "century": "5th",
+      "count": 1
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 3
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 3
+    },
+    {
+      "century": "12th",
+      "count": 5
+    },
+    {
+      "century": "13th",
+      "count": 3
+    },
+    {
+      "century": "14th",
+      "count": 4
+    },
+    {
+      "century": "15th",
+      "count": 5
+    },
+    {
+      "century": "16th",
+      "count": 8
+    },
+    {
+      "century": "17th",
+      "count": 16
+    },
+    {
+      "century": "18th",
+      "count": 14
+    },
+    {
+      "century": "19th",
+      "count": 30
+    },
+    {
+      "century": "20th",
+      "count": 33
+    },
+    {
+      "century": "21st (to 2025)",
+      "count": 10
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 2
+    },
+    {
+      "vei": 1,
+      "count": 31
+    },
+    {
+      "vei": 2,
+      "count": 68
+    },
+    {
+      "vei": 3,
+      "count": 18
+    },
+    {
+      "vei": 4,
+      "count": 1
+    },
+    {
+      "vei": 5,
+      "count": 2
+    },
+    {
+      "vei": "unknown",
+      "count": 48
+    }
+  ],
+  "facts": [
+    "Etna's 170 recorded eruptions make it the most active stratovolcano in Europe and one of the top three most active volcanoes in the world, rivalled only by Kilauea and Piton de la Fournaise.",
+    "The volcano's name in Sicilian dialect — Mungibeddu — literally means 'Mountain Mountain,' combining Latin 'mons' with Arabic 'jabal,' a tautology reflecting Sicily's layered linguistic history.",
+    "Etna's base covers approximately 1,190 km² (460 sq mi) with a volume of 350 km³ — making it the most massive volcano in Italy and roughly 2.5 times the volume of Mount Fuji.",
+    "The 1669 eruption produced approximately 950 million m³ of lava — enough to fill approximately 380,000 Olympic swimming pools — and sent flows 15 km downhill to breach Catania's city walls and enter the sea.",
+    "Etna emits 2,000–5,000 tonnes of sulphur dioxide per day during active phases, making it one of the largest persistent volcanic SO₂ sources on Earth.",
+    "The 1991–93 eruption prompted the most successful large-scale lava diversion in history, using helicopter-dropped concrete blocks and controlled explosions to save the town of Zafferana Etnea.",
+    "Etna is one of the few volcanoes in the world where you can ski in winter — the Etna Nord and Etna Sud ski areas operate on the upper slopes at 1,800–2,600 m elevation.",
+    "The Bronte pistachio, grown exclusively on Etna's western flank and protected by DOP status, is considered the finest pistachio in the world and commands prices 3–5 times those of ordinary pistachios.",
+    "Etna's summit height changes measurably with eruptions: summit-building eruptions can add tens of metres, while collapses can remove them. The current official height of 3,357 m is approximate and subject to revision.",
+    "During intense paroxysms in 2021, lava fountains from the New Southeast Crater exceeded 1,000 m (3,300 ft) in height — higher than the Burj Khalifa — and were visible from across eastern Sicily.",
+    "The Valle del Bove, a 5 × 10 km horseshoe-shaped depression on Etna's eastern flank, has cliffs up to 1,000 m high and serves as a natural catch basin protecting eastern-flank towns from many summit lava flows.",
+    "Etna was designated a UNESCO World Heritage Site in 2013, recognising its role in shaping Mediterranean mythology, its extraordinarily long eruptive record, and its importance to the history of volcanology.",
+    "The Greek word 'volcano' itself traces its origins to the Mediterranean volcanic islands near Etna: 'Vulcano' in the Aeolian Islands was named for Vulcan, the Roman god of fire."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Etna still active?",
+      "answer": "Mount Etna is not merely active — it is currently erupting. As of early 2025, eruptive activity at the Southeast Crater has been ongoing since November 2022, and the volcano has been in a state of near-continuous eruption since 2013. Etna is the most active volcano in Europe by every measure: it has 170 recorded eruptions spanning over 8,000 years, and has erupted in some capacity in nearly every decade of the past four centuries. The INGV Osservatorio Etneo in Catania continuously monitors the volcano using seismometers, GPS, gas sensors, and video cameras. Between eruptions, the volcano typically continues to exhibit fumarolic activity, low-level seismicity, and degassing from its four summit craters."
+    },
+    {
+      "question": "When did Etna last erupt?",
+      "answer": "Etna's most recent eruptive phase began in November 2022 at the Southeast Crater and continues through 2025, rated VEI 2 by the Smithsonian Global Volcanism Program. This activity followed a particularly vigorous period of paroxysmal eruptions at the New Southeast Crater from September 2013 to 2022 (VEI 3), which included dozens of episodes of spectacular lava fountaining, Strombolian explosions, and lava flows. In practical terms, Etna rarely 'stops' erupting for long — the question is not whether it is erupting, but which crater is active and at what intensity. The most recent highly impactful activity was the paroxysm series of February–April 2021, which produced lava fountains exceeding 1,000 m and caused repeated closures of Catania Airport."
+    },
+    {
+      "question": "How tall is Mount Etna?",
+      "answer": "Mount Etna's summit stands at approximately 3,357 m (11,014 ft) above sea level, making it the tallest active volcano in Europe and the highest peak in Italy south of the Alps. However, Etna's height is not fixed: it changes measurably with eruptions. Summit-building eruptions add material through lava flows and tephra accumulation, while explosive events and collapses can remove tens of metres. The Northeast Crater was long Etna's highest point, but the rapidly growing New Southeast Crater has at times rivalled it in elevation. For comparison, Etna towers over every other active European volcano: Vesuvius reaches only 1,281 m, Stromboli 924 m, and Iceland's tallest volcano, Öræfajökull, 2,110 m."
+    },
+    {
+      "question": "What type of volcano is Etna?",
+      "answer": "Etna is classified as a stratovolcano (composite volcano), though the Smithsonian GVP lists it as 'Stratovolcano(es)' — the plural reflecting its complex multi-vent structure. A stratovolcano is built from alternating layers of lava flows and pyroclastic deposits, creating a steep-sided conical profile. However, Etna is unusual among stratovolcanoes: its magma is predominantly basaltic (specifically trachybasalt and tephrite basanite), which is more typical of shield volcanoes. This basaltic composition means Etna's eruptions are generally more effusive and less explosively violent than those of classic andesitic-dacitic stratovolcanoes like Vesuvius or Mount St. Helens, though Etna has produced rare VEI 5 explosive eruptions. The volcano's underlying structure includes an older shield volcano phase, with the modern Mongibello stratovolcano built atop it."
+    },
+    {
+      "question": "Is Etna dangerous?",
+      "answer": "Etna poses a moderate to high level of danger. Approximately 1 million people live on or near its flanks, including the city of Catania (population ~300,000) just 30 km to the south. The primary hazard is lava flows from flank eruptions, which have historically destroyed villages (most recently Mascali in 1928) and threatened towns (Zafferana Etnea in 1991–93). Tephra fall can damage crops, collapse roofs, and disrupt aviation — Catania Airport has been closed repeatedly during active phases. However, Etna's basaltic lava flows generally advance slowly enough for evacuation, making fatalities rare in modern times. The volcano is far less explosively dangerous than Vesuvius, whose pyroclastic flows can kill without warning. The most significant modern risk is economic: prolonged eruptions can devastate agriculture, tourism, and infrastructure across eastern Sicily."
+    },
+    {
+      "question": "Can you visit Mount Etna?",
+      "answer": "Yes, Etna is one of the world's most accessible active volcanoes, welcoming approximately 1 million visitors per year. From the south side, the Funivia dell'Etna cable car ascends from Rifugio Sapienza (1,910 m) to approximately 2,500 m. From there, authorised 4×4 vehicles and certified alpine guides lead excursions to approximately 2,900 m — within sight of the active summit craters. Independent hiking is permitted up to 2,900 m on the south and 2,400 m on the north (Piano Provenzana approach). Access to the summit zone above 2,900 m requires a guide during active periods. The cost for a guided summit excursion is typically €90–120. Best visiting seasons are May–June and September–October. Etna Regional Park also offers extensive lower-elevation trails through lava caves, birch forests, and historic lava flows."
+    },
+    {
+      "question": "How often does Etna erupt?",
+      "answer": "Etna erupts more frequently than any other volcano in Europe. Since the 17th century, the average interval between eruptions has been approximately 1–3 years, and in the 20th and 21st centuries, Etna has been in eruption more often than not. The 19th century saw 30 eruptions, and the 20th century 33. Since 2013, the volcano has been in essentially continuous eruption. Summit eruptions (Strombolian explosions and lava flows from the four summit craters) are far more frequent than flank eruptions, which occur roughly every 5–15 years and typically pose a greater threat to populated areas. The volcano's 170 total recorded eruptions across approximately 8,000 years represent one of the longest and most complete eruption records of any volcano on Earth."
+    },
+    {
+      "question": "What is the biggest eruption of Etna?",
+      "answer": "Etna's largest known eruptions were two VEI 5 events: one approximately 1500 BCE and another in approximately 122 BCE. The 122 BCE eruption is the best-documented, producing a powerful explosive eruption column from the summit and southern flank that generated massive tephra deposits. Ashfall buried the Greek colonial city of Catania (Katane) so heavily that residents were reportedly exempted from Roman taxes for a decade. The eruption formed the Cratere del Piano summit caldera. In terms of lava volume, the 1669 eruption was the most productive in historical times, ejecting approximately 950 million m³ of lava that flowed 15 km to breach Catania's walls and enter the sea. The most explosive modern eruption was the VEI 4 event of 1787."
+    },
+    {
+      "question": "Is Etna bigger than Vesuvius?",
+      "answer": "Yes, dramatically so. Etna is far larger than Vesuvius by every physical measure. Etna rises to 3,357 m (11,014 ft) — nearly three times Vesuvius's 1,281 m (4,203 ft). Etna's base covers approximately 1,190 km² compared to Vesuvius's roughly 480 km², and Etna's estimated volume of 350 km³ dwarfs Vesuvius. Etna also erupts far more frequently (170 recorded eruptions vs 61). However, Vesuvius is considered more dangerous because its magma is more gas-rich and silica-rich, producing far more explosive eruptions (Plinian events with pyroclastic flows), and it sits closer to a much larger population — 3 million people are within Vesuvius's hazard zone compared to approximately 1 million for Etna. The two volcanoes represent fundamentally different eruption styles despite both being Italian stratovolcanoes."
+    },
+    {
+      "question": "Why is Etna a UNESCO World Heritage Site?",
+      "answer": "Etna was inscribed as a UNESCO World Heritage Site in 2013 under natural criteria, recognising it as one of the most iconic and scientifically important volcanoes on Earth. UNESCO cited Etna's nearly 3,000-year documented eruption history — one of the longest in the world — its role in shaping Mediterranean mythology and the development of volcanology, and its outstanding geological and ecological value. The inscription covers a core area of 19,237 hectares on the upper slopes, within the larger Etna Regional Park (59,000 hectares). Etna's eruptions have influenced human thought about volcanoes since antiquity: Greek myths of Typhon and Hephaestus' forge were inspired by its activity, and it was among the first volcanoes to be scientifically studied during the Enlightenment."
+    }
+  ],
+  "people_also_search": [
+    "etna eruption today",
+    "is etna erupting now",
+    "etna vs vesuvius",
+    "etna height",
+    "etna lava flow",
+    "visit mount etna",
+    "etna sicily",
+    "biggest etna eruption",
+    "etna eruption 2025",
+    "catania volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Etna",
+    "alternateName": [
+      "Etna",
+      "Mongibello",
+      "Mungibeddu"
+    ],
+    "description": "Europe's tallest and most active stratovolcano, located on the east coast of Sicily, Italy, with 170 recorded eruptions and UNESCO World Heritage status",
+    "geo": {
+      "latitude": 37.748,
+      "longitude": 14.999,
+      "elevation": 3357
+    },
+    "containedInPlace": {
+      "name": "Sicily",
+      "country": "Italy"
+    },
+    "url": "https://volcanoatlas.com/volcano/etna"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=211060",
+      "text": "Smithsonian GVP: Etna",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ingv.it/en/",
+      "text": "INGV — Italian National Volcanology Institute",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.ct.ingv.it/",
+      "text": "INGV Osservatorio Etneo — Catania",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1427",
+      "text": "UNESCO: Mount Etna World Heritage Site",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Etna",
+      "text": "Britannica: Mount Etna",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "stromboli",
+      "campi-flegrei",
+      "kilauea",
+      "piton-de-la-fournaise",
+      "st-helens",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "italy"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "vesuvius",
+    "stromboli",
+    "campi-flegrei",
+    "kilauea",
+    "piton-de-la-fournaise"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Italy",
+      "url": "/volcanoes-in-italy"
+    },
+    {
+      "label": "Mount Etna",
+      "url": "/volcano/etna"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/etna"
+}

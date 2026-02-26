@@ -1,0 +1,387 @@
+{
+  "slug": "raung",
+  "volcano_id": 263340,
+  "title": "Raung",
+  "meta_title": "Raung Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "Raung is a 3,260 m active stratovolcano in eastern Java, Indonesia, with 76 eruptions and a dramatic 2-km-wide summit caldera. Full eruption history and facts.",
+  "quick_answer": {
+    "what": "Raung is a massive active stratovolcano in easternmost Java, Indonesia, rising to 3,260 m (10,696 ft) and crowned by a dramatic steep-walled, 2-km-wide summit caldera.",
+    "status": "Active — last erupted in March 2025. One of Java's most frequently erupting volcanoes, with 76 recorded eruptions. Monitored by Indonesia's Center for Volcanology and Geological Hazard Mitigation (CVGHM).",
+    "famous_for": "Its massive size and striking 2-km-wide summit caldera, a prehistoric flank collapse that sent a debris avalanche 79 km to the Indian Ocean coast, and the powerful VEI 5 eruption of 1593.",
+    "danger_level": "Moderate — surrounding agricultural communities are at risk from ashfall and lahars. The volcano's remote summit limits direct exposure, but eruptions regularly disrupt aviation at Bali and East Java airports."
+  },
+  "hero": {
+    "name": "Raung",
+    "local_name": "Gunung Raung",
+    "subtitle": "Java's Towering Eastern Sentinel",
+    "country": "Indonesia",
+    "region": "East Java, Sunda Volcanic Arc",
+    "type": "Stratovolcano",
+    "elevation_m": 3260,
+    "elevation_ft": 10696,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": -8.119,
+      "lon": 114.056
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01143.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "3,260 m (10,696 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "March 13, 2025",
+    "first_known_eruption": "1586 CE (historical record)",
+    "total_recorded_eruptions": 76,
+    "vei_max": "5 (1593 CE)",
+    "country": "Indonesia",
+    "region": "East Java, Sunda Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Eurasian Plate (continental crust > 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "8.119°S, 114.056°E",
+    "nearest_city": "Banyuwangi — 30 km southeast; Jember — 60 km west",
+    "population_at_risk": "~500,000 within 30 km radius (agricultural communities)",
+    "summit_crater": "2-km-wide steep-walled caldera; unvegetated summit",
+    "protected_status": "Part of Meru Betiri National Park area",
+    "monitoring_agency": "CVGHM — Center for Volcanology and Geological Hazard Mitigation",
+    "smithsonian_id": "263340",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=263340"
+  },
+  "sections": {
+    "overview": {
+      "content": "Raung (Gunung Raung) is one of the largest and most active <a href=\"/types-of-volcanoes\">stratovolcanoes</a> in <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, dominating the landscape of easternmost Java with its massive edifice rising to 3,260 m (10,696 ft) above sea level. With 76 recorded eruptions dating back to 1586 CE and a maximum <a href=\"/volcanic-explosivity-index\">VEI</a> of 5 — achieved during a devastating eruption in 1593 — Raung is among the most powerful volcanoes in Java's volcanic arc. The volcano is constructed southwest of the rim of Ijen caldera and together with its neighbors forms one of the most volcanically complex regions on the island.\n\nRaung's most striking feature is its summit: a dramatic, steep-walled caldera approximately 2 km wide, largely unvegetated, that has been the site of frequent historical eruptions. The volcano contains several centers constructed along a NE-SW line, including the Gunung Suket and Gunung Gadung satellite stratovolcanoes to the northeast and west respectively. A prehistoric collapse of Gunung Gadung on the western flank produced one of the longest debris avalanches known from any Indonesian volcano — traveling an astonishing 79 km to reach nearly to the Indian Ocean coast. Today, Raung continues to erupt frequently, with activity recorded in 2020, 2021, 2022, 2024, and most recently March 2025. Its eruptions regularly disrupt aviation at Bali's Ngurah Rai International Airport, one of Indonesia's busiest, lying approximately 100 km to the east."
+    },
+    "geology_and_formation": {
+      "content": "Raung is part of the Sunda volcanic arc, a chain of volcanoes stretching from Sumatra through Java to Bali, powered by the northward subduction of the Indo-Australian Plate beneath the Eurasian Plate at a rate of approximately 6-7 cm per year. The volcano's andesitic to basaltic andesitic composition is typical of this tectonic setting, producing magmas that are sufficiently viscous and gas-rich to generate explosive eruptions while also capable of effusive lava flows.\n\nThe volcanic complex is built upon thick continental crust exceeding 25 km, and the regional geology includes multiple overlapping volcanic edifices. Raung itself contains several eruptive centers aligned along a NE-SW structural trend, reflecting the influence of regional tectonic stresses on magma transport. The 2-km-wide summit caldera formed through repeated collapse and explosive excavation rather than a single catastrophic event. The most dramatic geological feature associated with Raung is the Gunung Gadung debris avalanche — a massive sector collapse of the western flank that sent a debris flow 79 km westward, nearly reaching the Indian Ocean. This avalanche deposit, covering hundreds of square kilometers, is one of the largest volcanic mass-wasting events documented in Java and serves as a reminder of the catastrophic potential of large stratovolcanoes. The debris avalanche predates historical records but is clearly identifiable in the landscape as a vast field of hummocky terrain."
+    },
+    "eruption_history_overview": {
+      "content": "Raung's 76 recorded eruptions form an entirely historical record — unlike many volcanoes, all known eruptions date from 1586 CE onward, though the volcano is certainly far older. This reflects the lack of detailed geological studies of the volcano's prehistoric deposits rather than a genuinely young onset of activity. The historical record reveals a remarkably active volcano: Raung has erupted in at least 76 documented episodes over approximately 440 years, averaging one eruption every 5-6 years.\n\nThe most powerful known eruption occurred in 1593, rated VEI 5 — an event comparable in scale to the 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a>. Two VEI 4 eruptions followed in 1638 and 1817, demonstrating the volcano's capacity for large explosive events. The 20th and 21st centuries have been characterized by more frequent but generally smaller eruptions, typically VEI 1-3, with activity recorded in nearly every decade. The most active period in recent history has been 2012-2025, with eruptions in 2012, 2013, 2014-2015, 2020, 2021, 2022, 2024, and 2025. Of the 76 total eruptions, 70 are classified as confirmed."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1593 Eruption — Raung's Paroxysm (VEI 5)",
+          "content": "The most powerful eruption in Raung's recorded history occurred in 1593, producing a VEI 5 event that was among the largest eruptions in Java during the 16th century. While detailed historical documentation from this period in eastern Java is limited, the geological evidence indicates a massive explosive eruption that generated extensive tephra deposits across the surrounding region. A VEI 5 eruption involves the ejection of more than 1 km³ of material, with eruption columns potentially reaching 25 km or more into the atmosphere. The 1593 event places Raung among a select group of Indonesian volcanoes capable of highly explosive eruptions, alongside <a href=\"/volcano/krakatau\">Krakatau</a>, <a href=\"/volcano/tambora\">Tambora</a>, and <a href=\"/volcano/merapi\">Merapi</a>. This eruption remains the benchmark for hazard planning — a repeat event would have severe consequences for the densely populated agricultural communities surrounding the volcano and would likely ground flights at multiple regional airports."
+        },
+        {
+          "title": "The 2014-2015 Eruption — Aviation Disruption",
+          "content": "Beginning in November 2014 and continuing through the first half of 2015, Raung produced its most consequential recent eruption in terms of economic impact. Sustained explosive activity from the summit caldera generated ash plumes that repeatedly reached altitudes of 3-6 km, forcing the temporary closure of Bali's Ngurah Rai International Airport — a major international gateway handling over 20 million passengers annually — as well as airports in East Java. The eruption highlighted the vulnerability of regional aviation to Raung's activity, as prevailing wind patterns frequently carry ash eastward toward Bali. Lava was observed filling parts of the summit caldera, and incandescence was visible from surrounding areas at night. The eruption was rated VEI 2 but its duration and strategic location made it disproportionately impactful."
+        },
+        {
+          "title": "The 1638 and 1817 Eruptions — VEI 4 Events",
+          "content": "Raung produced two VEI 4 eruptions during the historical period: one in 1638 and another beginning January 16, 1817. The 1817 eruption is the better documented of the two, occurring during the period of Dutch colonial record-keeping in Java. Both eruptions likely produced large eruption columns, extensive ashfall across eastern Java, and potentially pyroclastic flows on the upper flanks. These events demonstrate that while Raung's recent activity has been moderate (VEI 1-3), the volcano maintains the capacity for significantly larger eruptions at intervals of centuries."
+        },
+        {
+          "title": "The 1953 and 1956 Eruptions — Mid-Century Explosions",
+          "content": "The VEI 3 eruptions of January 1953 and February 1956 were the largest events of the 20th century at Raung. Both produced significant explosive activity from the summit caldera, with ashfall affecting agricultural communities on the volcano's flanks. These eruptions are notable for establishing the VEI 2-3 range as the typical magnitude of Raung's 20th-century activity, a pattern that has continued into the 21st century."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Raung's most recent eruption occurred on March 13, 2025, following an eruption in December 2024. This near-continuous activity in recent years — with eruptions in 2020, 2021, 2022, 2024, and 2025 — suggests the volcano is in a particularly active phase. Indonesia's Center for Volcanology and Geological Hazard Mitigation (CVGHM) monitors Raung through a network of seismometers and visual observations, supplemented by satellite remote sensing including thermal anomaly detection and ash cloud tracking.\n\nThe alert level for Raung fluctuates between levels II (Waspada/Advisory) and III (Siaga/Watch) depending on current activity. The primary monitoring challenge is the volcano's remote and rugged terrain, which limits the density of ground-based instruments compared to more accessible Indonesian volcanoes. Satellite-based monitoring has proven particularly valuable for tracking Raung's frequent but often moderate eruptions, especially for detecting ash clouds that threaten aviation."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Raung's hazard profile combines the threats typical of a large andesitic stratovolcano with the specific risks created by its geography and human context. The summit caldera is the source of most eruptions, and the steep terrain channels pyroclastic flows and lahars down multiple drainage systems on the volcano's flanks. Approximately 500,000 people live within 30 km of the summit, primarily in agricultural communities growing coffee, rubber, and rice on the fertile volcanic slopes.\n\nAshfall is the most frequently experienced hazard, affecting agriculture, water supplies, and daily life in surrounding communities during even moderate eruptions. The most far-reaching hazard is aviation disruption — Raung lies approximately 100 km west of Bali's Ngurah Rai Airport, and prevailing winds frequently carry ash toward this critical international hub. A repeat of the VEI 5 eruption of 1593 would pose catastrophic risks including large-scale pyroclastic flows, heavy ashfall across much of eastern Java, and potential for lahars reaching populated lowlands. The prehistoric Gunung Gadung debris avalanche, which traveled 79 km, illustrates the maximum possible scale of mass-wasting at this volcanic complex."
+    },
+    "geography_and_physical_description": {
+      "content": "Raung is one of the most imposing volcanoes in Java, its broad, massive edifice visible from great distances across the eastern end of the island. The summit at 3,260 m makes it the second-tallest active volcano in Java (after <a href=\"/volcano/semeru\">Semeru</a> at 3,676 m). The steep-walled, 2-km-wide summit caldera is largely unvegetated, a stark contrast to the dense tropical forests that blanket the lower slopes. The caldera floor is the site of frequent eruptions, with intra-caldera cones and lava flows building and modifying the terrain with each eruptive episode.\n\nThe volcano's flanks descend steeply to the surrounding lowlands, cut by deep ravines and river valleys that channel rainwater and, during eruptions, lahars toward agricultural areas. Coffee plantations, a signature crop of the region, extend high up the fertile volcanic slopes. To the northeast, Raung abuts the Ijen caldera complex, which includes the famous turquoise acid crater lake and sulfur mining operation of Kawah Ijen. The proximity of these two volcanic systems — Raung and Ijen — makes this corner of Java one of the most volcanically concentrated landscapes in Indonesia."
+    },
+    "climate_and_global_impact": {
+      "content": "Raung's VEI 5 eruption of 1593 likely had measurable regional climatic effects, including temporary cooling across Southeast Asia from stratospheric aerosol injection, though precise documentation from this period is lacking. Modern eruptions at VEI 1-3 have been too small to produce global climate effects. The volcano's primary broader impact has been through aviation disruption, particularly at Bali's internationally significant airport. The 2014-2015 eruption alone caused millions of dollars in economic losses through flight cancellations and rerouting."
+    },
+    "cultural_significance": {
+      "content": "Raung figures prominently in the cultural landscape of eastern Java, where it is one of the most visually dominant natural features. The volcano's name is believed to derive from a Javanese word referring to its rumbling activity. Local Javanese and Madurese communities have long maintained a respectful relationship with the volcano, incorporating it into agricultural calendars and spiritual practices. The fertile volcanic soils support some of Java's finest arabica coffee, and 'Java Raung' coffee has become a recognized specialty among international coffee enthusiasts. The broader Ijen-Raung volcanic complex attracts increasing tourism, with Kawah Ijen's blue sulfuric flames and acid lake drawing international visitors who also view Raung's imposing profile."
+    },
+    "visiting_and_tourism": {
+      "content": "Raung is one of Java's most challenging volcano treks, attracting experienced hikers and mountaineers seeking an adventurous multi-day climb. The most common route starts from Kalibaru or Sumber Waringin on the southern flanks and requires 2-3 days for the round trip, with camping on the mountain. The trail passes through dense tropical forest before emerging onto the barren upper slopes and the spectacular caldera rim, which offers vertiginous views into the 2-km-wide crater. No permits are technically required, but local guides are strongly recommended — the route is poorly marked and the terrain is demanding.\n\nClimbers should be aware that summit access is closed during periods of elevated volcanic activity, which has been frequent in recent years. The nearby Ijen caldera, with its famous blue flames and sulfur mining, is far more accessible and is often combined with views of Raung from a distance. The region around Banyuwangi is developing as an ecotourism destination, with Raung and Ijen as anchor attractions."
+    },
+    "nearby_volcanoes": {
+      "content": "Raung anchors the eastern end of Java's volcanic spine and is closely associated with several other major volcanoes. The Ijen caldera complex lies immediately to the northeast, sharing geological connections through the regional tectonic framework. <a href=\"/volcano/semeru\">Semeru</a>, Java's tallest and one of its most active volcanoes, lies approximately 70 km to the west. <a href=\"/volcano/tengger-caldera\">Tengger Caldera</a>, home to the famous Bromo cone, is approximately 90 km to the northwest. Together, these volcanoes form the eastern segment of a chain of more than 40 active volcanoes stretching the length of Java — one of the densest concentrations of volcanic activity on Earth."
+    },
+    "etymology": {
+      "content": "The name 'Raung' is derived from Javanese and is traditionally associated with the rumbling or roaring sound of the volcano's frequent eruptions. Local communities have long referred to the mountain by this onomatopoeic name, reflecting the intimate and continuous relationship between the population of eastern Java and their most prominent volcanic neighbor."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Raung Compared to Other Major Stratovolcanoes of Java",
+      "description": "How does Raung compare to the other large active volcanoes along Java's volcanic arc?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Raung",
+          "Indonesia",
+          "3,260 m",
+          "Stratovolcano",
+          "2025",
+          "5",
+          "76"
+        ],
+        [
+          "Semeru",
+          "Indonesia",
+          "3,676 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "83"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,968 m",
+          "Stratovolcano",
+          "2024",
+          "4",
+          "83"
+        ],
+        [
+          "Tengger Caldera (Bromo)",
+          "Indonesia",
+          "2,329 m",
+          "Stratovolcano(es)",
+          "2023",
+          "4",
+          "72"
+        ],
+        [
+          "Kelud",
+          "Indonesia",
+          "1,731 m",
+          "Stratovolcano",
+          "2014",
+          "5",
+          "38"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1593,
+      "vei": 5,
+      "label": "Largest known eruption — VEI 5 paroxysm",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1638,
+      "vei": 4,
+      "label": "Major explosive eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1817,
+      "vei": 4,
+      "label": "Second VEI 4 eruption in historical record",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1953,
+      "vei": 3,
+      "label": "Largest 20th-century eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2014,
+      "vei": 2,
+      "label": "Eruption closes Bali airport (2014-2015)",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Most recent eruption",
+      "deaths": 0,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "16th",
+      "count": 4
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 3
+    },
+    {
+      "century": "19th",
+      "count": 15
+    },
+    {
+      "century": "20th",
+      "count": 36
+    },
+    {
+      "century": "21st",
+      "count": 16
+    }
+  ],
+  "facts": [
+    "A prehistoric collapse of Gunung Gadung on Raung's western flank produced a debris avalanche that traveled 79 km — nearly reaching the Indian Ocean — one of the longest volcanic debris avalanches documented in Indonesia.",
+    "Raung's 1593 eruption was rated VEI 5, placing it among the most powerful eruptions in Java's history and comparable to the 1980 Mount St. Helens eruption.",
+    "The 2-km-wide summit caldera, with its steep, unvegetated walls, is one of the most visually dramatic volcanic features in the Indonesian archipelago.",
+    "Raung has erupted 76 times in approximately 440 years of historical records — an average of one eruption every 5-6 years.",
+    "The volcano lies just 100 km from Bali's Ngurah Rai International Airport, and its eruptions frequently disrupt flights to one of Southeast Asia's busiest tourist destinations.",
+    "At 3,260 m, Raung is the second-tallest active volcano in Java, surpassed only by Semeru at 3,676 m.",
+    "The fertile volcanic soils on Raung's slopes support arabica coffee plantations that produce 'Java Raung' — a specialty coffee recognized by international enthusiasts.",
+    "Raung erupted 5 times between 2020 and 2025, making it one of the most frequently active volcanoes in Indonesia during this period.",
+    "The volcano contains multiple eruptive centers aligned along a NE-SW trend, including the satellite stratovolcanoes Gunung Suket and Gunung Gadung.",
+    "Raung and the adjacent Ijen caldera complex form one of the most volcanically concentrated landscapes in Java, drawing increasing numbers of international tourists.",
+    "Climbing Raung requires a demanding 2-3 day trek through dense tropical forest to reach the barren caldera rim at over 3,200 m.",
+    "Approximately 500,000 people live within 30 km of Raung's summit, primarily in agricultural communities on its fertile lower slopes."
+  ],
+  "faqs": [
+    {
+      "question": "Is Raung still active?",
+      "answer": "Yes, Raung is one of Java's most active volcanoes. It erupted most recently on March 13, 2025, and has produced eruptions in 2020, 2021, 2022, 2024, and 2025. The volcano has 76 recorded eruptions over approximately 440 years, averaging one eruption every 5-6 years. Indonesia's CVGHM maintains monitoring of the volcano, and alert levels fluctuate between Advisory and Watch depending on current activity. Raung is considered a persistently active volcano with no indication of diminishing activity."
+    },
+    {
+      "question": "How tall is Raung?",
+      "answer": "Raung's summit reaches 3,260 m (10,696 ft) above sea level, making it the second-tallest active volcano in Java after Semeru at 3,676 m. The summit is crowned by a steep-walled caldera approximately 2 km wide. The total volcanic edifice extends from sea level to the summit, and when the height of the lower submarine foundations is included, the total structure is even more impressive. The upper slopes above approximately 2,500 m are largely barren and unvegetated, while dense tropical forest covers the lower flanks."
+    },
+    {
+      "question": "Can you climb Raung volcano?",
+      "answer": "Yes, but Raung is one of Java's most challenging volcano treks, requiring 2-3 days for the round trip with camping on the mountain. Routes start from Kalibaru or Sumber Waringin on the southern flanks. The trail passes through dense tropical forest before reaching the barren upper slopes and the spectacular caldera rim. Local guides are strongly recommended as the route is poorly marked. Summit access is closed during periods of elevated volcanic activity, which has been frequent in recent years. Check CVGHM alert levels before attempting the climb."
+    },
+    {
+      "question": "Does Raung affect flights to Bali?",
+      "answer": "Yes, Raung's eruptions regularly disrupt flights at Bali's Ngurah Rai International Airport, which lies approximately 100 km to the east. Prevailing wind patterns frequently carry volcanic ash from Raung toward Bali. The 2014-2015 eruption caused repeated temporary airport closures, affecting millions of passengers at one of Southeast Asia's busiest tourist gateways. Even moderate VEI 1-2 eruptions can produce ash plumes sufficient to trigger flight cancellations. Aviation authorities use satellite ash tracking and Volcanic Ash Advisory Centers to manage the risk."
+    },
+    {
+      "question": "What was Raung's biggest eruption?",
+      "answer": "Raung's largest known eruption occurred in 1593 and was rated VEI 5 on the Volcanic Explosivity Index. A VEI 5 eruption involves the ejection of more than 1 cubic kilometer of material and produces eruption columns potentially reaching 25+ km into the atmosphere. This event was among the largest eruptions in Java's recorded history. Two additional large eruptions at VEI 4 occurred in 1638 and 1817. The 1593 VEI 5 event is the benchmark for worst-case hazard planning at the volcano."
+    },
+    {
+      "question": "What is the debris avalanche at Raung?",
+      "answer": "A prehistoric collapse of Gunung Gadung, a satellite stratovolcano on Raung's western flank, produced one of the longest volcanic debris avalanches documented in Indonesia. The collapsed material traveled approximately 79 km westward, nearly reaching the Indian Ocean coast. The avalanche deposit covers hundreds of square kilometers and is recognizable in the landscape as a vast field of hummocky terrain. This event predates historical records but demonstrates the extreme catastrophic potential of sector collapse at large stratovolcanoes. A similar event today would be devastating for communities across eastern Java."
+    },
+    {
+      "question": "How does Raung compare to Merapi?",
+      "answer": "Raung and Merapi are both major active stratovolcanoes in Java, Indonesia, but they differ significantly. Raung is taller (3,260 m vs 2,968 m) and has produced a larger maximum eruption (VEI 5 vs VEI 4). Merapi is generally considered more dangerous because it is surrounded by a much denser population — the city of Yogyakarta (population ~3.7 million metro) lies just 25 km south. Merapi's eruptions also tend to produce more pyroclastic flows due to dome collapse. Both volcanoes erupt frequently: Raung averages one eruption every 5-6 years, while Merapi averages approximately one every 4-5 years."
+    },
+    {
+      "question": "What coffee comes from Raung?",
+      "answer": "The fertile volcanic soils on Raung's slopes, particularly on the southern and eastern flanks in the Banyuwangi and Jember regencies, support arabica coffee plantations that produce specialty coffee sometimes marketed as 'Java Raung' or included in the broader 'Java' coffee origin category. The volcanic soil is rich in minerals that contribute to the coffee's distinctive flavor profile. Coffee cultivation extends up to approximately 1,500 m on the volcano's flanks, taking advantage of the altitude, rainfall, and volcanic soil fertility that characterize the region."
+    }
+  ],
+  "people_also_search": [
+    "raung volcano eruption",
+    "raung volcano bali flights",
+    "climb raung volcano java",
+    "raung eruption 2024",
+    "most active volcanoes java",
+    "raung vs semeru",
+    "ijen raung volcanic complex",
+    "raung volcano height"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Raung",
+    "alternateName": [
+      "Gunung Raung",
+      "Mount Raung"
+    ],
+    "description": "Massive active stratovolcano in eastern Java, Indonesia, with a dramatic 2-km-wide summit caldera and 76 recorded eruptions",
+    "geo": {
+      "latitude": -8.119,
+      "longitude": 114.056,
+      "elevation": 3260
+    },
+    "containedInPlace": {
+      "name": "East Java",
+      "country": "Indonesia"
+    },
+    "url": "https://volcanoatlas.com/volcano/raung"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=263340",
+      "text": "Smithsonian GVP: Raung",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://magma.esdm.go.id/",
+      "text": "CVGHM MAGMA Indonesia — Volcanic Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Java-island-Indonesia",
+      "text": "Britannica: Java",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "semeru",
+      "merapi",
+      "krakatau",
+      "tengger-caldera",
+      "tambora",
+      "st-helens"
+    ],
+    "country_pages": [
+      "indonesia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "semeru",
+    "merapi",
+    "tengger-caldera",
+    "krakatau",
+    "tambora"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "label": "Raung",
+      "url": "/volcano/raung"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/raung"
+}

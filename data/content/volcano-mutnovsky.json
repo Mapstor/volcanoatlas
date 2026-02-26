@@ -1,0 +1,411 @@
+{
+  "slug": "mutnovsky",
+  "volcano_id": 300060,
+  "title": "Mutnovsky",
+  "meta_title": "Mutnovsky Volcano — Eruption History, Geothermal Power & Facts | VolcanoAtlas",
+  "meta_description": "Mutnovsky is a 2,288 m complex volcano in southern Kamchatka, Russia. One of the most active volcanoes in the region with fumaroles, geothermal power. Full profile.",
+  "quick_answer": {
+    "what": "Mutnovsky is a massive complex volcano composed of four coalescing stratovolcanoes, rising to 2,288 m (7,507 ft) in southern Kamchatka, Russia, approximately 80 km south of Petropavlovsk-Kamchatsky.",
+    "status": "Active — last erupted in 2000. Intense fumarolic and geothermal activity continues in the summit craters. One of the most geothermally active volcanoes on Earth.",
+    "famous_for": "Its spectacular active fumarole fields, multi-crater summit complex, and the Mutnovsky Geothermal Power Plant — one of Russia's largest geothermal energy facilities, which harnesses the volcano's heat to generate electricity.",
+    "danger_level": "Moderate — remote location reduces population risk, but phreatic explosions, toxic gas emissions, and the potential for larger magmatic eruptions pose hazards to visitors and geothermal workers."
+  },
+  "hero": {
+    "name": "Mutnovsky",
+    "local_name": "Мутновский (Mutnovskiy)",
+    "subtitle": "Kamchatka's Geothermal Powerhouse",
+    "country": "Russia",
+    "region": "Kamchatka Peninsula",
+    "type": "Complex volcano",
+    "elevation_m": 2288,
+    "elevation_ft": 7507,
+    "status": "Active",
+    "last_eruption": "2000",
+    "coordinates": {
+      "lat": 52.449,
+      "lon": 158.196
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02294.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,288 m (7,507 ft)",
+    "type": "Complex volcano (four coalescing stratovolcanoes)",
+    "status": "Active — intense fumarolic activity; last magmatic eruption 2000",
+    "last_eruption": "March-June 2000",
+    "first_known_eruption": "~7550 BCE",
+    "total_recorded_eruptions": 45,
+    "vei_max": "3 (~2150 BCE, ~5050 BCE, 750, 1848, 1917)",
+    "country": "Russia",
+    "region": "Southern Kamchatka Peninsula",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath North American/Okhotsk Plate (Kuril-Kamchatka Arc)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "52.449°N, 158.196°E",
+    "nearest_city": "Petropavlovsk-Kamchatsky — ~80 km north",
+    "population_at_risk": "Low — remote location; nearest settlements 40+ km away",
+    "summit_craters": "Multiple overlapping craters; active fumarole field in northern crater",
+    "geothermal_facility": "Mutnovsky Geothermal Power Plant (50+ MW capacity)",
+    "protected_status": "Part of Volcanoes of Kamchatka UNESCO World Heritage Site",
+    "monitoring_agency": "Institute of Volcanology and Seismology (IVS FEB RAS), KVERT",
+    "smithsonian_id": "300060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=300060"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mutnovsky is a massive <a href=\"/types-of-volcanoes\">complex volcano</a> in southern Kamchatka, <a href=\"/volcanoes-in-russia\">Russia</a>, formed by four coalescing stratovolcanoes of predominantly basaltic composition, rising to 2,288 m (7,507 ft) approximately 80 km south of the regional capital Petropavlovsk-Kamchatsky. It is one of the most active and geothermally productive volcanoes on the Kamchatka Peninsula, with 45 recorded eruptions spanning from approximately 7550 BCE to 2000 CE. While Mutnovsky is less famous internationally than Kamchatkan giants like <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> or Shiveluch, it is volcanologically remarkable for the intensity of its fumarolic and hydrothermal activity — the summit craters host one of the most powerful fumarole fields on Earth, with temperatures exceeding 600°C and acid crater lakes. This geothermal energy is harnessed by the Mutnovsky Geothermal Power Plant at the volcano's base, one of Russia's largest geothermal facilities, which converts volcanic heat into electricity for the Kamchatka grid. Mutnovsky sits along the Kuril-Kamchatka volcanic arc, where the Pacific Plate subducts beneath the North American (Okhotsk) Plate, and forms part of the Volcanoes of Kamchatka UNESCO World Heritage Site. Despite its remote location, Mutnovsky is increasingly popular with adventure tourists drawn to its accessible crater with roaring fumaroles, ice caves carved by volcanic heat, and wild Kamchatkan scenery."
+    },
+    "geology_and_formation": {
+      "content": "Mutnovsky's geological complexity reflects its construction from four distinct but overlapping volcanic centers, designated Mutnovsky I through IV. The oldest components date to the Pleistocene, while Mutnovsky IV, the youngest cone, began growing in the early Holocene. The volcano sits along the southern segment of the Kuril-Kamchatka volcanic arc, one of the most volcanically active subduction zones on Earth, where the Pacific Plate descends beneath the North American (or Okhotsk) Plate at rates of approximately 7-8 cm per year.\n\nThe summit area hosts multiple overlapping craters, the most active being the northern crater, which contains a powerful fumarole field and periodic acid crater lake. An intracrater cone was built along the northern wall of the 1.3-km-wide summit crater during Holocene eruptions. Abundant flank cinder cones, concentrated on the southwest side, indicate that magma frequently reaches the surface along radial fractures. The dominant rock type is basalt to picro-basalt — among the most primitive and fluid magma types found at subduction-zone volcanoes — which produces relatively low-viscosity lavas and moderately explosive eruptions. The 1904 eruption, the only historical event to produce lava flows, confirms this effusive capability. Mutnovsky's intense geothermal activity results from shallow magmatic heat sources interacting with abundant groundwater in the porous volcanic edifice, creating a vigorous hydrothermal system of steam vents, hot springs, and acid lakes."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian GVP records 45 eruptions for Mutnovsky, spanning from approximately 7550 BCE to 2000 CE. The vast majority of these are prehistoric Holocene eruptions identified from tephra deposits, with most rated VEI 2. Five eruptions reached VEI 3, the highest recorded magnitude at Mutnovsky, occurring approximately 5050 BCE, 2150 BCE, 750 CE, 1848, and 1917. Historical eruptions (post-1848) have been predominantly phreatic and phreatomagmatic — steam-driven explosions caused by the interaction of magmatic heat with the extensive groundwater system. The 1904 eruption was exceptional in producing lava flows, the only confirmed historical lava effusion at Mutnovsky. A notable cluster of activity occurred in the early 20th century (1898-1929), including six eruptions in three decades. The most recent eruption in 2000 consisted of two phreatic explosions from the north crater in March and June."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "Holocene Eruptions and VEI 3 Events",
+          "content": "Mutnovsky's Holocene eruption record, reconstructed from tephra stratigraphy, reveals a long history of moderately explosive activity. Five eruptions reached VEI 3: approximately 5050 BCE, 2150 BCE, 750 CE, 1848, and 1917. These events produced eruption columns likely reaching 3-15 km altitude and significant tephra deposits across the surrounding landscape. The long record of 45 eruptions over roughly 10,000 years gives an average recurrence interval of approximately 200 years, though historical activity has been more frequent — suggesting either observational bias in the prehistoric record or genuine variations in eruption rate."
+        },
+        {
+          "title": "The 1848 Eruption (VEI 3)",
+          "content": "The first well-documented historical eruption at Mutnovsky occurred in 1848, rated VEI 3. Explosive activity from the summit crater produced significant ash columns and tephra deposits. This eruption established Mutnovsky as an active volcanic threat in the consciousness of Russian administrators and scientists studying Kamchatka's geology."
+        },
+        {
+          "title": "The 1904 Eruption — Mutnovsky's Only Historical Lava Flows",
+          "content": "An eruption in April 1904 is notable as the only historical event at Mutnovsky to produce lava flows, rated VEI 2. Basaltic lava erupted from the summit area and flowed down the flanks, a departure from the predominantly phreatic character of other historical eruptions. The 1904 event demonstrated that Mutnovsky's magmatic system can supply fresh magma to the surface, not merely drive steam explosions through its hydrothermal system."
+        },
+        {
+          "title": "The 1917 Eruption (VEI 3)",
+          "content": "In July 1917, Mutnovsky produced its strongest 20th-century eruption, rated VEI 3. The explosive eruption from the summit craters generated ash columns and tephra fall across the sparsely populated surrounding area. This was the last VEI 3 event at Mutnovsky and the most energetic eruption in over a century."
+        },
+        {
+          "title": "The 2000 Eruption — Most Recent Activity",
+          "content": "The most recent eruption at Mutnovsky occurred in 2000, with two phreatic explosive events — one in March (VEI 2) from the north crater and a second in June (VEI 1). These steam-driven explosions ejected rock fragments, mud, and volcanic gas but did not involve fresh magma reaching the surface. The 2000 eruption was significant primarily for its proximity to the newly constructed Mutnovsky Geothermal Power Plant, raising questions about the compatibility of industrial infrastructure with active volcanic systems. The eruptions caused no damage to the plant."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Mutnovsky is monitored by the Institute of Volcanology and Seismology (IVS) of the Russian Academy of Sciences' Far East Branch, based in Petropavlovsk-Kamchatsky, and by the Kamchatka Volcanic Eruption Response Team (KVERT), which issues aviation color codes and eruption alerts. The monitoring network includes seismic stations, gas measurement campaigns, and satellite thermal monitoring.\n\nAs of the mid-2020s, Mutnovsky continues to exhibit intense fumarolic activity in the summit crater area, with temperatures regularly exceeding 300-600°C at the most active vents. The acid crater lake fluctuates in size and chemistry depending on rainfall and geothermal input. No magmatic eruption has occurred since 2000, but the vigorous hydrothermal system means phreatic explosions remain a persistent hazard. KVERT typically maintains a green or yellow aviation color code for Mutnovsky, upgrading to orange when elevated gas or thermal anomalies are detected."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Mutnovsky's remote location in southern Kamchatka means that population exposure is low compared to volcanoes near major cities. The nearest significant settlement is Thermalny, approximately 40 km to the north. However, several categories of people are at risk: workers at the Mutnovsky Geothermal Power Plant, which operates year-round at the volcano's base; scientific researchers conducting fieldwork on the summit; and the growing number of adventure tourists who visit the crater area during the summer months.\n\nThe primary near-field hazards are phreatic explosions — sudden steam blasts that can eject rock fragments with lethal velocity — and toxic volcanic gas emissions, particularly hydrogen sulfide (H₂S) and sulfur dioxide (SO₂), which can accumulate to dangerous concentrations in enclosed areas of the crater. In a larger eruption scenario, ashfall could affect aviation in the busy North Pacific flight corridor between North America and Asia, as Mutnovsky lies beneath major air routes. The Mutnovsky Geothermal Power Plant, while designed with volcanic hazards in mind, would face potential damage from lahars, heavy ashfall, or pyroclastic flows in a significant eruption."
+    },
+    "geography_and_physical_description": {
+      "content": "Mutnovsky is a broad, imposing massif with four overlapping summit peaks and a complex crater area approximately 1.5-2 km across. The summit region features a dramatic landscape: steep inner crater walls expose layered volcanic stratigraphy, while the active fumarole field fills the northern crater with billowing steam plumes, yellow sulfur deposits, and the acrid smell of volcanic gases. An acid crater lake occupies part of the crater floor, its color varying from turquoise to muddy gray depending on chemical conditions. Glacial ice and seasonal snowpack persist on the upper slopes, and volcanic heat creates dramatic ice caves where geothermal steam melts tunnels through the glacier. The southwest flanks are dotted with parasitic cinder cones. The surrounding landscape is classic Kamchatkan wilderness: treeless alpine tundra, dense alder thickets, river valleys populated by brown bears and salmon, and distant views of neighboring volcanoes. The Mutnovsky Geothermal Power Plant occupies a site on the volcano's northeastern flank at approximately 800 m elevation."
+    },
+    "climate_and_global_impact": {
+      "content": "Mutnovsky's eruptions have been predominantly moderate (VEI 2-3) and have not produced significant global climate effects. The volcano's contribution to atmospheric chemistry is primarily through its persistent fumarolic degassing, which releases sulfur dioxide, hydrogen sulfide, carbon dioxide, and water vapor continuously. These emissions contribute to the regional atmospheric sulfur budget but are small compared to the output of major eruptions. The Kamchatka Peninsula as a whole, however, is one of Earth's most volcanically active regions, and the cumulative emissions from Kamchatka's 30+ active volcanoes represent a significant fraction of the global volcanic gas budget."
+    },
+    "cultural_significance": {
+      "content": "Mutnovsky's cultural significance lies primarily in its role in Russia's geothermal energy development and in the broader identity of Kamchatka as one of the world's great volcanic wildernesses. The Mutnovsky Geothermal Power Plant, commissioned in stages from 1999 onward with capacity exceeding 50 MW, represents one of the most ambitious efforts to harness volcanic energy in Russia and demonstrates the potential of volcanic geothermal resources worldwide. The Volcanoes of Kamchatka UNESCO World Heritage Site, which includes Mutnovsky, was designated in 1996 in recognition of the peninsula's outstanding volcanic landscapes and biodiversity. For the indigenous Itelmen and Koryak peoples of Kamchatka, the volcanoes have deep spiritual significance, though specific traditions regarding Mutnovsky are less widely documented than those for more prominent peaks like Klyuchevskoy."
+    },
+    "visiting_and_tourism": {
+      "content": "Mutnovsky has become one of the most popular volcano trekking destinations in Kamchatka, despite its remoteness. The standard approach is from Petropavlovsk-Kamchatsky via a rough dirt track accessible only in summer (typically July-September) by 4WD or specialized tour vehicles. The trek into the active crater takes approximately 3-5 hours from the base camp area and rewards visitors with one of the most dramatic volcanic landscapes on Earth: roaring fumaroles, vibrantly colored mineral deposits, ice caves carved by volcanic heat, and views into the steaming acid lake. Tour operators based in Petropavlovsk offer multi-day excursions that typically combine Mutnovsky with a visit to the nearby Gorely volcano and hot springs. Safety precautions are essential: visitors must be aware of toxic gas accumulation zones, unstable ground near fumaroles, and the risk of sudden phreatic explosions. The best time to visit is July through early September, when snow conditions permit access."
+    },
+    "nearby_volcanoes": {
+      "content": "Mutnovsky is flanked by Gorely volcano (1,829 m), a large caldera complex approximately 15 km to the north that also attracts trekkers to its acid crater lakes, and which last erupted in 2010. Together, Mutnovsky and Gorely form a popular paired volcanic excursion from Petropavlovsk-Kamchatsky. To the north, Avachinsky (2,741 m) and Koryaksky (3,456 m) volcanoes provide a dramatic backdrop to Petropavlovsk and are among Kamchatka's most iconic peaks. Further north along the peninsula, <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a> (4,754 m), the tallest active volcano in Eurasia, and Shiveluch, one of the most explosively active volcanoes in the world, represent the full spectrum of Kamchatkan volcanism. Kamchatka hosts over 30 active volcanoes, making it one of the densest concentrations of active volcanism on the planet."
+    },
+    "etymology": {
+      "content": "The name 'Mutnovsky' (Мутновский) derives from the Russian word 'mutny' (мутный), meaning 'turbid' or 'murky,' likely referencing the milky, sediment-laden rivers that drain the volcano's hydrothermal areas. The streams flowing from Mutnovsky's active crater carry dissolved minerals and fine volcanic sediment that give them a characteristic opaque, milky appearance."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Mutnovsky Compared to Other Major Kamchatkan Volcanoes",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "VEI Max",
+        "Last Eruption",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Mutnovsky",
+          "Russia",
+          "2,288 m",
+          "Complex",
+          "3",
+          "2000",
+          "45"
+        ],
+        [
+          "Klyuchevskoy",
+          "Russia",
+          "4,754 m",
+          "Stratovolcano",
+          "4",
+          "2025",
+          "120+"
+        ],
+        [
+          "Shiveluch",
+          "Russia",
+          "3,283 m",
+          "Stratovolcano",
+          "5",
+          "2025",
+          "65+"
+        ],
+        [
+          "Gorely",
+          "Russia",
+          "1,829 m",
+          "Caldera",
+          "3",
+          "2010",
+          "13"
+        ],
+        [
+          "Avachinsky",
+          "Russia",
+          "2,741 m",
+          "Stratovolcano",
+          "4",
+          "2001",
+          "25"
+        ],
+        [
+          "Bezymianny",
+          "Russia",
+          "2,882 m",
+          "Stratovolcano",
+          "5",
+          "2024",
+          "62"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7550,
+      "vei": 2,
+      "label": "Earliest recorded Holocene eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5050,
+      "vei": 3,
+      "label": "VEI 3 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2150,
+      "vei": 3,
+      "label": "VEI 3 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 750,
+      "vei": 3,
+      "label": "VEI 3 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1848,
+      "vei": 3,
+      "label": "First well-documented historical eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1904,
+      "vei": 2,
+      "label": "Only historical eruption with lava flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1917,
+      "vei": 3,
+      "label": "Strongest 20th-century eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2000,
+      "vei": 2,
+      "label": "Most recent eruption — phreatic explosions near new geothermal plant",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric (pre-1000 BCE)",
+      "count": 25,
+      "note": "Long Holocene record from tephra studies"
+    },
+    {
+      "century": "1st BCE-10th CE",
+      "count": 4
+    },
+    {
+      "century": "11th-17th CE",
+      "count": 2
+    },
+    {
+      "century": "18th-19th CE",
+      "count": 5
+    },
+    {
+      "century": "20th CE",
+      "count": 9,
+      "note": "Active cluster 1898-1945; last eruption 2000"
+    }
+  ],
+  "facts": [
+    "Mutnovsky is composed of four coalescing stratovolcanoes (Mutnovsky I-IV), with the youngest cone beginning growth in the early Holocene.",
+    "The Mutnovsky Geothermal Power Plant harnesses the volcano's heat to generate over 50 MW of electricity for Kamchatka's power grid.",
+    "Fumarole temperatures in Mutnovsky's active crater regularly exceed 600°C, among the hottest surface volcanic temperatures measured anywhere on Earth.",
+    "The 1904 eruption is the only historical event at Mutnovsky to have produced lava flows; all other recent eruptions have been phreatic (steam-driven).",
+    "Mutnovsky is part of the Volcanoes of Kamchatka UNESCO World Heritage Site, designated in 1996.",
+    "The name 'Mutnovsky' comes from the Russian word for 'murky,' referencing the turbid, mineral-laden streams that drain the volcano's hydrothermal areas.",
+    "Ice caves formed by volcanic heat melting through glacial ice on the crater walls are one of Mutnovsky's most spectacular features for visitors.",
+    "The Smithsonian GVP records 45 eruptions for Mutnovsky, making it one of the most frequently active volcanoes in southern Kamchatka.",
+    "Mutnovsky lies beneath major North Pacific aviation routes between North America and Asia, making its eruptions a potential aviation hazard.",
+    "The acid crater lake in the active northern crater changes color from turquoise to muddy gray depending on geochemical conditions.",
+    "Kamchatka hosts over 30 active volcanoes, and Mutnovsky's accessible crater provides one of the best opportunities to experience active volcanism up close.",
+    "The 2000 eruption occurred just after the Mutnovsky Geothermal Power Plant was commissioned, raising questions about co-locating infrastructure with active volcanoes."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mutnovsky volcano still active?",
+      "answer": "Yes, Mutnovsky is classified as an active volcano. While the last eruption (phreatic explosions) occurred in March-June 2000, the volcano maintains intense fumarolic activity with temperatures exceeding 600°C, an acid crater lake, and continuous volcanic gas emissions. These indicators confirm an active magmatic heat source beneath the summit. The Kamchatka Volcanic Eruption Response Team (KVERT) monitors Mutnovsky continuously and issues aviation color codes when activity changes. The volcano has produced 45 recorded eruptions over the past ~10,000 years, and future eruptions are considered certain."
+    },
+    {
+      "question": "Can you visit Mutnovsky volcano?",
+      "answer": "Yes, Mutnovsky is one of the most popular volcano trekking destinations in Kamchatka, accessible during the summer months (July-September). The standard approach from Petropavlovsk-Kamchatsky involves a rough 4WD track to a base camp area, followed by a 3-5 hour hike into the active crater. Visitors can experience roaring fumaroles, sulfur deposits, ice caves, and views of the acid crater lake. Tour operators in Petropavlovsk offer organized multi-day excursions, often combined with nearby Gorely volcano. Safety precautions are essential due to toxic gas zones and unstable ground. Independent travel requires experience and preparation."
+    },
+    {
+      "question": "What is the Mutnovsky Geothermal Power Plant?",
+      "answer": "The Mutnovsky Geothermal Power Plant is one of Russia's largest geothermal energy facilities, located on the northeastern flank of the volcano at approximately 800 m elevation. Commissioned in stages from 1999 onward, the plant has a generating capacity exceeding 50 MW, supplying electricity to Petropavlovsk-Kamchatsky and surrounding areas by converting volcanic geothermal heat into electricity. The plant taps steam and hot water from wells drilled into the volcano's hydrothermal system. The co-location of an industrial facility with an active volcano has been the subject of scientific discussion, particularly after the 2000 phreatic eruption."
+    },
+    {
+      "question": "How tall is Mutnovsky?",
+      "answer": "Mutnovsky's highest point reaches 2,288 m (7,507 ft) above sea level. The volcanic massif is broad and imposing rather than a single sharp peak, as it is composed of four coalescing stratovolcanoes (Mutnovsky I-IV) that together form a complex summit area approximately 1.5-2 km across. For comparison, nearby Gorely stands at 1,829 m, while Kamchatka's tallest active volcano, Klyuchevskoy, reaches 4,754 m."
+    },
+    {
+      "question": "What type of volcano is Mutnovsky?",
+      "answer": "Mutnovsky is classified as a complex volcano, meaning it consists of multiple overlapping volcanic centers rather than a single cone. Specifically, four coalescing stratovolcanoes (Mutnovsky I through IV) have been built at this location over time. The dominant rock type is basalt to picro-basalt, which is unusually primitive for a subduction-zone volcano. The summit area hosts multiple craters, an active fumarole field, and an acid lake. Abundant flank cinder cones, concentrated on the southwest side, indicate frequent magma migration along radial fractures."
+    },
+    {
+      "question": "Why is Mutnovsky so geothermally active?",
+      "answer": "Mutnovsky's intense geothermal activity results from a shallow magmatic heat source interacting with abundant groundwater in the porous volcanic edifice. The subduction of the Pacific Plate beneath Kamchatka provides a sustained supply of heat from below, while snowmelt, rainfall, and glacier melt supply water from above. This combination creates a vigorous hydrothermal system where water is heated to extreme temperatures (fumaroles exceeding 600°C) and rises through fractures to the surface as steam vents, hot springs, and acid lakes. This same geothermal energy is harnessed by the Mutnovsky Geothermal Power Plant."
+    },
+    {
+      "question": "When did Mutnovsky last erupt?",
+      "answer": "Mutnovsky last erupted in 2000, with two phreatic (steam-driven) explosive events in March (VEI 2) and June (VEI 1). These eruptions ejected rock fragments, mud, and volcanic gas from the north crater but did not involve fresh magma reaching the surface. Prior to 2000, the volcano experienced eruptions in 1945 (VEI 2), 1939 (VEI 2), and a cluster of activity in the early 20th century. The most recent eruption coincided with the early operational phase of the geothermal power plant, prompting review of volcanic hazard assessments for the facility."
+    },
+    {
+      "question": "Is Mutnovsky part of the Ring of Fire?",
+      "answer": "Yes, Mutnovsky is part of the Pacific Ring of Fire, specifically located along the Kuril-Kamchatka volcanic arc on the western margin of the Pacific Ocean. This arc is generated by the subduction of the Pacific Plate beneath the North American (or Okhotsk) Plate at rates of approximately 7-8 cm per year. Kamchatka contains one of the densest concentrations of active volcanoes on Earth, with over 30 active volcanoes along the peninsula. Mutnovsky sits on the southern segment of this arc, alongside neighbors Gorely, Avachinsky, and Koryaksky."
+    }
+  ],
+  "people_also_search": [
+    "mutnovsky volcano kamchatka",
+    "mutnovsky geothermal plant",
+    "kamchatka volcano trekking",
+    "mutnovsky fumaroles",
+    "mutnovsky ice caves",
+    "russia active volcanoes",
+    "kamchatka UNESCO volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mutnovsky",
+    "alternateName": [
+      "Мутновский",
+      "Mutnovskiy",
+      "Mutnovskaya Sopka"
+    ],
+    "description": "A 2,288 m complex volcano in southern Kamchatka, Russia, notable for intense geothermal activity and one of Russia's largest geothermal power plants",
+    "geo": {
+      "latitude": 52.449,
+      "longitude": 158.196,
+      "elevation": 2288
+    },
+    "containedInPlace": {
+      "name": "Kamchatka Peninsula",
+      "country": "Russia"
+    },
+    "url": "https://volcanoatlas.com/volcano/mutnovsky"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=300060",
+      "text": "Smithsonian GVP: Mutnovsky",
+      "type": "primary_source"
+    },
+    {
+      "url": "http://www.kscnet.ru/ivs/eng/",
+      "text": "Institute of Volcanology and Seismology (IVS FEB RAS)",
+      "type": "monitoring"
+    },
+    {
+      "url": "http://www.kscnet.ru/ivs/kvert/index_eng.php",
+      "text": "KVERT — Kamchatka Volcanic Eruption Response Team",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "klyuchevskoy",
+      "shiveluch",
+      "gorely",
+      "avachinsky",
+      "bezymianny"
+    ],
+    "country_pages": [
+      "russia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "gorely",
+    "klyuchevskoy",
+    "shiveluch",
+    "avachinsky",
+    "bezymianny"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Russia",
+      "url": "/volcanoes-in-russia"
+    },
+    {
+      "label": "Mutnovsky",
+      "url": "/volcano/mutnovsky"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/mutnovsky"
+}

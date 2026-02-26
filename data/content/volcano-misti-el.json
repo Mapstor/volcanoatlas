@@ -1,0 +1,396 @@
+{
+  "slug": "misti-el",
+  "volcano_id": 354010,
+  "title": "El Misti",
+  "meta_title": "El Misti Volcano — Eruption History, Height & Facts | VolcanoAtlas",
+  "meta_description": "El Misti is a 5,793 m active stratovolcano looming over Arequipa, Peru. Explore its 22 eruptions, Inca history, lahar hazards, and climbing guide.",
+  "quick_answer": {
+    "what": "El Misti is a symmetrical active stratovolcano rising to 5,793 m (19,101 ft) immediately northeast of the city of Arequipa, Peru's second-largest city with over 1 million inhabitants.",
+    "status": "Active — last erupted in 1985 (minor, VEI 1). Fumarolic activity continues at the summit. Considered a high-risk volcano due to proximity to Arequipa.",
+    "famous_for": "Its dramatic position looming directly over Arequipa, Inca-era summit offerings including the famous 'Juanita' mummy found on nearby Ampato, and the extreme lahar threat to a major city.",
+    "danger_level": "Very high — Arequipa (population ~1.1 million) lies only 17 km from the summit. A moderate eruption could generate lahars that would reach the city within 20 minutes."
+  },
+  "hero": {
+    "name": "El Misti",
+    "local_name": "Putina",
+    "subtitle": "The Guardian Volcano of Arequipa",
+    "country": "Peru",
+    "region": "Arequipa Region, Central Andes",
+    "type": "Stratovolcano",
+    "elevation_m": 5793,
+    "elevation_ft": 19101,
+    "status": "Active",
+    "last_eruption": "1985",
+    "coordinates": {
+      "lat": -16.2991,
+      "lon": -71.4056
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04787.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "5,793 m (19,101 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "July 1985 (VEI 1)",
+    "first_known_eruption": "~7190 BCE",
+    "total_recorded_eruptions": 22,
+    "vei_max": "4 (~80 BCE)",
+    "country": "Peru",
+    "region": "Arequipa Region, Central Andean Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "16.299°S, 71.406°W",
+    "nearest_city": "Arequipa — 17 km southwest (population ~1.1 million)",
+    "population_at_risk": "~1.1 million (Arequipa metropolitan area)",
+    "summit_crater": "830 m wide outer crater with nested inner craters; fumarolic activity",
+    "caldera": "1.5 × 2 km summit caldera formed ~50,000 years ago",
+    "monitoring_agency": "IGP (Instituto Geofísico del Perú) / INGEMMET (OVI)",
+    "smithsonian_id": "354010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=354010"
+  },
+  "sections": {
+    "overview": {
+      "content": "El Misti is a symmetrical andesitic <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 5,793 m (19,101 ft) in the Central Andes of southern <a href=\"/volcanoes-in-peru\">Peru</a>, immediately northeast of the city of Arequipa — the country's second-largest city with a population exceeding 1.1 million. The volcano's snow-dusted, near-perfect cone dominates the Arequipa skyline and is one of the most iconic volcanic silhouettes in South America. El Misti is also one of the most dangerous volcanoes on the continent, as a moderate eruption could send lahars racing down the steep drainages into the heart of the city within minutes.\n\nEl Misti has 22 recorded eruptions spanning approximately 9,000 years, including a significant VEI 4 event around 80 BCE and a pyroclastic flow that traveled 12 km southward approximately 2,000 years ago. The most recent activity was a minor eruption (VEI 1) in July 1985. The volcano sits along the Central Andean Volcanic Arc, driven by the subduction of the Nazca Plate beneath the South American Plate. Nested summit craters, active fumaroles, and a history of Inca-era offerings on the summit all testify to the volcano's spiritual and geological significance. El Misti is monitored by Peru's Instituto Geofísico del Perú (IGP) and INGEMMET's Observatorio Vulcanológico, though many scientists have warned that the monitoring and emergency preparedness infrastructure remains inadequate given the extreme risk posed to Arequipa."
+    },
+    "geology_and_formation": {
+      "content": "El Misti's modern cone began building approximately 13,700 to 11,300 years ago within a 1.5 × 2 km caldera that formed through collapse approximately 50,000 years ago. The volcano is part of the Central Andean Volcanic Arc — a chain of volcanoes extending along the western margin of South America from southern Peru through Bolivia into Chile and Argentina, driven by the subduction of the Nazca Plate beneath the South American Plate at a rate of approximately 65 mm per year.\n\nThe dominant rock type is andesite to basaltic andesite — intermediate compositions typical of continental-arc volcanism. A large scoria cone has grown within the 830-m-wide outer summit crater, and nested inner craters contain active fumarolic vents. At least 20 tephra-fall deposits and numerous pyroclastic-flow deposits have been documented during the past 50,000 years. A particularly significant pyroclastic flow traveled 12 km south approximately 2,000 years ago — a distance that, if repeated today, would reach the northern suburbs of Arequipa. Strong prevailing winds have formed a distinctive parabolic dune field of volcanic ash extending up to 20 km downwind from the summit, a dramatic geomorphological feature visible in satellite imagery."
+    },
+    "eruption_history_overview": {
+      "content": "El Misti's eruption record spans approximately 9,000 years with 22 documented events. The earliest known eruption dates to roughly 7190 BCE, with additional prehistoric events around 5390, 4020, 3510, and 2230 BCE. A significant VEI 4 eruption around 80 BCE produced extensive pyroclastic deposits, and a pyroclastic flow approximately 2,000 years ago reached 12 km from the summit. Historical eruptions include events in the 15th century (notably a 1454 eruption, <a href=\"/volcanic-explosivity-index\">VEI</a> 2, which may have affected nearby Inca populations), several uncertain eruptions reported in the 16th–19th centuries, and confirmed eruptions in 1677 (VEI 2), 1784 (VEI 2), and 1787 (VEI 1). The 19th century saw multiple uncertain reports of activity in the 1820s–1870s. The most recent confirmed eruption was a minor event in July 1985 (VEI 1). Many reported eruptions may actually represent episodes of increased fumarolic activity rather than true magmatic eruptions."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~80 BCE Eruption — El Misti's Largest Known Event (VEI 4)",
+          "content": "The most powerful eruption in El Misti's record occurred approximately 2,100 years ago (around 80 BCE), rated VEI 4. This major explosive event produced voluminous pyroclastic deposits and likely generated pyroclastic flows that traveled considerable distances down the flanks. The eruption predates the expansion of the Inca Empire into the Arequipa region, so human impacts were limited. However, a VEI 4 eruption today would be catastrophic for Arequipa — producing heavy ashfall across the city, pyroclastic flows descending drainages toward populated areas, and devastating lahars generated by the interaction of hot pyroclastic material with snow and ice on the upper cone."
+        },
+        {
+          "title": "The ~2,000 Years Ago Pyroclastic Flow — A Warning for Arequipa",
+          "content": "Approximately 2,000 years ago, a pyroclastic flow from El Misti traveled 12 km south from the summit — a distance that, if repeated in a future eruption, would penetrate the northern districts of Arequipa. This event has been identified through geological mapping of pyroclastic flow deposits and serves as perhaps the most sobering indicator of the volcano's threat to the modern city. The flow followed natural drainages — the same channels (quebradas) that now carry seasonal rivers through Arequipa's urban fabric."
+        },
+        {
+          "title": "The 15th-Century Eruption and the Inca Connection",
+          "content": "An eruption in 1454 (VEI 2) coincided with the Inca presence in the Arequipa valley. The Inca venerated El Misti as a sacred mountain (apu) and conducted ritual offerings on high Andean peaks to appease volcanic and seismic forces. While the famous 'Juanita' mummy was found on nearby Mount Ampato (not El Misti), Inca-era artifacts have been recovered from El Misti's summit, including offerings deposited in recognition of the volcano's spiritual power. This eruption may have intensified ritual activity on the peak."
+        },
+        {
+          "title": "The 1985 Eruption — The Most Recent Activity",
+          "content": "El Misti's most recent confirmed eruption occurred in July 1985, rated VEI 1. This was a minor event involving increased fumarolic emissions and possible phreatic activity at the summit. While the eruption caused no damage, it served as a reminder that the volcano remains active. Some eruptions reported in the 19th century (1826, 1830, 1831, 1869, 1870) are classified as uncertain and may represent episodes of enhanced fumarolic activity rather than true eruptions."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "El Misti is currently in a dormant state with active fumarolic emissions from the summit craters. The volcano is monitored by Peru's Instituto Geofísico del Perú (IGP) and INGEMMET's Observatorio Vulcanológico del INGEMMET (OVI), which operate seismic stations and conduct periodic summit surveys. However, volcanologists have repeatedly warned that the monitoring network for El Misti remains insufficient given the extreme risk to Arequipa. The volcano's current repose period — approximately 40 years since the minor 1985 eruption and over 200 years since the last significant eruption (1787) — is not abnormal in its historical context. Scientists stress that El Misti should be considered capable of erupting with limited precursory warning, and that emergency preparedness in Arequipa requires significant improvement."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "El Misti is widely regarded as one of the most dangerous volcanoes in South America, primarily because of Arequipa's extreme proximity. The city center lies only 17 km (10.5 mi) from the summit, and northern suburbs extend to within 9 km of the crater. The primary hazards are lahars, pyroclastic flows, and ashfall. Lahars are the most immediate threat: steep drainages (quebradas) descend directly from El Misti's flanks into the urban core of Arequipa, and modeling studies indicate that lahars could reach the city within 15–20 minutes of initiation. A VEI 3–4 eruption would generate pyroclastic flows capable of reaching the city's northern districts, as demonstrated by the ~2,000-year-old pyroclastic flow deposit extending 12 km from the summit. Heavy ashfall would paralyze the city and airport. The population at risk exceeds 1.1 million, making El Misti comparable to <a href=\"/volcano/vesuvius\">Vesuvius</a> in terms of the scale of threatened population. Unlike Vesuvius, however, Arequipa lacks a comprehensive, tested evacuation plan for a volcanic crisis."
+    },
+    "geography_and_physical_description": {
+      "content": "El Misti rises as a beautifully symmetrical cone from the arid Andean plateau near Arequipa, flanked by two other major volcanoes: Chachani (6,057 m) to the northwest and Pichu Pichu (5,664 m) to the southeast. The summit hosts nested craters — an outer crater approximately 830 m wide, within which a younger crater and scoria cone have developed. Active fumaroles emit sulfurous gases within the inner crater. The upper slopes above approximately 4,800 m are sometimes dusted with seasonal snow, though El Misti does not carry permanent glaciers. The terrain is strikingly arid, with sparse vegetation on the lower flanks. Deep quebradas (ravines) radiate from the cone, channeling seasonal rainfall toward Arequipa. A distinctive parabolic dune field of volcanic ash extends up to 20 km downwind from the summit, sculpted by the strong prevailing winds."
+    },
+    "visiting_and_tourism": {
+      "content": "El Misti is one of Peru's most popular mountaineering objectives, attracting climbers seeking a high-altitude Andean summit without technical ice climbing. The standard route ascends from the south (Arequipa side), typically requiring two days with an overnight camp at approximately 4,500 m. The climb reaches 5,793 m — demanding proper acclimatization (climbers typically acclimatize in Arequipa at 2,335 m and in the Colca Canyon area). No technical equipment is usually needed, though conditions can be harsh with strong winds, extreme cold, and altitude effects. The summit offers spectacular views of Arequipa, the surrounding desert, and neighboring volcanoes Chachani and Pichu Pichu. Guided tours are available from numerous agencies in Arequipa. Climbers should be aware that El Misti is an active volcano with fumarolic emissions at the summit."
+    },
+    "cultural_significance": {
+      "content": "El Misti holds profound cultural significance for the people of Arequipa and Peru. The Inca considered it a sacred mountain (apu) and deposited ritual offerings on the summit to appease its volcanic spirits. The city of Arequipa, founded by the Spanish in 1540, has been shaped by the volcano — much of the historic city center, a UNESCO World Heritage Site, is built from sillar, a white volcanic tuff (ignimbrite) quarried from deposits associated with the broader volcanic system. Arequipa is known as the 'White City' (La Ciudad Blanca) largely because of this volcanic building stone. The volcano is the definitive symbol of Arequipa's identity, appearing on the city's coat of arms and in countless artistic depictions. In Quechua tradition, the name may derive from 'Putina,' meaning 'the one that smokes.'"
+    },
+    "nearby_volcanoes": {
+      "content": "El Misti is flanked by two other major volcanoes visible from Arequipa: Chachani (6,057 m), a dormant volcanic complex to the northwest, and Pichu Pichu (5,664 m), an eroded extinct volcano to the southeast. Together, the three peaks form the dramatic backdrop of the Arequipa skyline. Further along the Central Andean Volcanic Arc, <a href=\"/volcano/ubinas\">Ubinas</a> — Peru's most active volcano — lies approximately 70 km to the east and has erupted multiple times in recent years. <a href=\"/volcanoes-in-peru\">Peru</a> hosts 13 Holocene volcanoes, concentrated along the southern Andean arc."
+    },
+    "etymology": {
+      "content": "The name 'El Misti' may derive from the Quechua word 'misti,' which in regional usage refers to a mestizo person or, more broadly, something mixed or composite. An alternative interpretation links it to the Spanish term 'misterioso' (mysterious). The volcano's Quechua name 'Putina' means 'the one that smokes,' referencing the fumarolic emissions at the summit. In Arequipa, the volcano is simply referred to as 'El Misti,' and it is so central to the city's identity that it functions as a de facto symbol of the entire Arequipa region."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "El Misti Compared to Other Volcanoes Threatening Major Cities",
+      "description": "How does the threat posed by El Misti to Arequipa compare to other volcanoes near large population centers?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Nearest Major City",
+        "Distance",
+        "Population at Risk",
+        "Last Eruption"
+      ],
+      "rows": [
+        [
+          "El Misti",
+          "Peru",
+          "5,793 m",
+          "Arequipa",
+          "17 km",
+          "~1.1 million",
+          "1985"
+        ],
+        [
+          "Vesuvius",
+          "Italy",
+          "1,281 m",
+          "Naples",
+          "9 km",
+          "~3 million",
+          "1944"
+        ],
+        [
+          "Popocatépetl",
+          "Mexico",
+          "5,426 m",
+          "Puebla/Mexico City",
+          "45/70 km",
+          "~25 million",
+          "2025"
+        ],
+        [
+          "Rainier",
+          "USA",
+          "4,392 m",
+          "Tacoma/Seattle",
+          "60/87 km",
+          "~3.5 million",
+          "~1450"
+        ],
+        [
+          "Merapi",
+          "Indonesia",
+          "2,968 m",
+          "Yogyakarta",
+          "30 km",
+          "~4 million",
+          "2023"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7190,
+      "vei": null,
+      "label": "Earliest recorded eruption",
+      "notable": false
+    },
+    {
+      "year": -5390,
+      "vei": null,
+      "label": "Prehistoric eruption",
+      "notable": false
+    },
+    {
+      "year": -80,
+      "vei": 4,
+      "label": "Largest known eruption (VEI 4)",
+      "notable": true
+    },
+    {
+      "year": 90,
+      "vei": null,
+      "label": "Eruption ~2,000 years ago; pyroclastic flow reached 12 km",
+      "notable": true
+    },
+    {
+      "year": 1454,
+      "vei": 2,
+      "label": "Inca-period eruption",
+      "notable": true
+    },
+    {
+      "year": 1677,
+      "vei": 2,
+      "label": "Colonial-era eruption",
+      "notable": false
+    },
+    {
+      "year": 1784,
+      "vei": 2,
+      "label": "Explosive eruption",
+      "notable": false
+    },
+    {
+      "year": 1985,
+      "vei": 1,
+      "label": "Most recent eruption",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 10,
+      "note": "~7190 BCE to ~310 BCE, includes VEI 4 event"
+    },
+    {
+      "century": "1st",
+      "count": 1
+    },
+    {
+      "century": "8th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 2
+    },
+    {
+      "century": "19th",
+      "count": 5,
+      "note": "Mostly uncertain eruptions"
+    },
+    {
+      "century": "20th",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "Arequipa, Peru's second-largest city with 1.1 million people, lies only 17 km from El Misti's summit — and northern suburbs are as close as 9 km from the crater.",
+    "A pyroclastic flow approximately 2,000 years ago traveled 12 km from the summit — a distance that would reach Arequipa's northern districts if repeated today.",
+    "Lahars generated during an eruption could reach central Arequipa within 15–20 minutes, flowing down the same quebradas (ravines) that cross the city.",
+    "At 5,793 m (19,101 ft), El Misti is one of the highest active volcanoes in Peru and among the tallest in the world that directly threatens a major city.",
+    "Arequipa is known as the 'White City' because its historic buildings are constructed from sillar — white volcanic tuff quarried from deposits associated with the regional volcanic system.",
+    "The Inca venerated El Misti as a sacred mountain (apu) and deposited ritual offerings on the summit to appease the volcano's spirits.",
+    "Strong prevailing winds have sculpted a parabolic dune field of volcanic ash extending up to 20 km downwind from the summit.",
+    "El Misti's summit hosts nested craters — an outer crater 830 m wide containing a younger scoria cone and active fumaroles.",
+    "The volcano is flanked by Chachani (6,057 m) and Pichu Pichu (5,664 m), forming a dramatic triple-volcano skyline above Arequipa.",
+    "Despite the extreme risk to 1.1 million people, Arequipa currently lacks a comprehensive, fully tested volcanic evacuation plan."
+  ],
+  "faqs": [
+    {
+      "question": "Is El Misti an active volcano?",
+      "answer": "Yes, El Misti is classified as an active volcano. It last erupted in July 1985 with a minor VEI 1 event, and active fumaroles at the summit indicate ongoing heat from a magmatic source at depth. The volcano has 22 recorded eruptions spanning approximately 9,000 years, including a VEI 4 event around 80 BCE. The current dormancy period is not unusually long by the volcano's historical standards. Peru's IGP and INGEMMET monitor the volcano, though experts have called for enhanced monitoring given the extreme risk to Arequipa."
+    },
+    {
+      "question": "Could El Misti erupt and destroy Arequipa?",
+      "answer": "A major eruption of El Misti would pose catastrophic risk to Arequipa, though outright destruction of the entire city is unlikely for eruptions within the historical range. The most immediate danger is from lahars — volcanic mudflows that could travel down the quebradas into the city center within 15–20 minutes. A VEI 3–4 eruption could generate pyroclastic flows reaching the northern suburbs, as demonstrated by a 2,000-year-old deposit extending 12 km from the summit. Heavy ashfall would paralyze the city. The scenario is comparable to the risk Vesuvius poses to Naples, though El Misti sits further from the city center."
+    },
+    {
+      "question": "Can you climb El Misti?",
+      "answer": "Yes, El Misti is one of Peru's most popular mountaineering objectives. The standard route from the south typically takes two days with an overnight camp at around 4,500 m. The climb reaches 5,793 m and requires proper acclimatization, warm gear, and good fitness, but usually no technical equipment. Guided tours are widely available from Arequipa. Climbers should be aware that the summit has active fumarolic emissions and that altitude effects are significant above 5,000 m. The best season is May through November (dry season)."
+    },
+    {
+      "question": "How far is El Misti from Arequipa?",
+      "answer": "El Misti's summit crater is approximately 17 km (10.5 miles) northeast of Arequipa's city center. However, the volcano's lower flanks extend much closer — the northernmost suburbs of the city are only about 9 km from the crater. This proximity makes Arequipa one of the most volcanically exposed major cities in the world. For comparison, Naples is about 9 km from Vesuvius's summit, and Yogyakarta is about 30 km from Merapi."
+    },
+    {
+      "question": "What is sillar and how is it connected to El Misti?",
+      "answer": "Sillar is a white volcanic tuff (ignimbrite) — a rock formed from consolidated volcanic ash and pumice deposits from ancient explosive eruptions in the Arequipa volcanic region. It is the signature building material of Arequipa's UNESCO-designated historic center, giving the city its nickname 'La Ciudad Blanca' (The White City). While sillar deposits are associated with the broader volcanic system rather than specifically with El Misti's recent eruptions, they are a direct product of the same Central Andean volcanism that created El Misti and its neighboring peaks."
+    },
+    {
+      "question": "When did El Misti last erupt?",
+      "answer": "El Misti's most recent confirmed eruption occurred in July 1985, rated VEI 1. This was a minor event involving increased fumarolic emissions and possible phreatic activity. Before that, confirmed eruptions occurred in 1787 (VEI 1) and 1784 (VEI 2). Several eruptions reported in the 19th century are classified as uncertain and may represent episodes of enhanced fumarolic activity. The most significant eruption was a VEI 4 event around 80 BCE, approximately 2,100 years ago."
+    }
+  ],
+  "people_also_search": [
+    "el misti volcano arequipa",
+    "climb el misti",
+    "arequipa volcano danger",
+    "peru volcanoes",
+    "el misti eruption",
+    "el misti height",
+    "sillar arequipa volcanic stone"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "El Misti",
+    "alternateName": [
+      "Misti",
+      "Putina",
+      "Volcán Misti"
+    ],
+    "description": "Active symmetrical stratovolcano in Peru rising to 5,793 m directly above the city of Arequipa, one of the most dangerous volcanoes in South America",
+    "geo": {
+      "latitude": -16.2991,
+      "longitude": -71.4056,
+      "elevation": 5793
+    },
+    "containedInPlace": {
+      "name": "Arequipa Region",
+      "country": "Peru"
+    },
+    "url": "https://volcanoatlas.com/volcano/misti-el"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=354010",
+      "text": "Smithsonian GVP: El Misti",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.igp.gob.pe/",
+      "text": "IGP — Instituto Geofísico del Perú",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Misti-Volcano",
+      "text": "Britannica: El Misti",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1016",
+      "text": "UNESCO: Historic Centre of Arequipa",
+      "type": "heritage"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "ubinas",
+      "cotopaxi",
+      "popocatepetl"
+    ],
+    "country_pages": [
+      "peru"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "ubinas",
+    "sabancaya",
+    "vesuvius",
+    "cotopaxi",
+    "popocatepetl"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Peru",
+      "url": "/volcanoes-in-peru"
+    },
+    {
+      "label": "El Misti",
+      "url": "/volcano/misti-el"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/misti-el"
+}

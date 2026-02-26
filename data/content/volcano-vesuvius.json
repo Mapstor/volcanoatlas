@@ -1,0 +1,646 @@
+{
+  "slug": "vesuvius",
+  "volcano_id": 211020,
+  "title": "Mount Vesuvius",
+  "meta_title": "Mount Vesuvius — Eruptions, Height & Facts | VolcanoAtlas",
+  "meta_description": "Mount Vesuvius is a 1,281 m active stratovolcano in Italy. Explore its full eruption history from 79 AD to 1944, current status, hazard map, and visitor guide.",
+  "quick_answer": {
+    "what": "Mount Vesuvius is an active somma-stratovolcano in Campania, southern Italy, rising 1,281 m (4,203 ft) above the Bay of Naples.",
+    "status": "Active — last erupted March 1944. Continuously monitored by the Osservatorio Vesuviano (INGV). Another eruption is considered inevitable by volcanologists.",
+    "famous_for": "The catastrophic VEI 5 eruption in 79 AD that buried the Roman cities of Pompeii and Herculaneum under metres of ash and pumice, killing an estimated 2,000–16,000 people.",
+    "danger_level": "One of the world's most dangerous volcanoes — approximately 3 million people live within its hazard zone, making it the most densely populated volcanic region on Earth."
+  },
+  "hero": {
+    "name": "Mount Vesuvius",
+    "local_name": "Vesuvio",
+    "subtitle": "The Most Dangerous Volcano in Europe",
+    "country": "Italy",
+    "region": "Campania",
+    "type": "Somma-stratovolcano",
+    "elevation_m": 1281,
+    "elevation_ft": 4203,
+    "status": "Active",
+    "last_eruption": "1944",
+    "coordinates": {
+      "lat": 40.821,
+      "lon": 14.426
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01531.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,281 m (4,203 ft)",
+    "type": "Somma-stratovolcano",
+    "status": "Active",
+    "last_eruption": "March 18–23, 1944",
+    "first_known_eruption": "~6940 BCE (geological), 79 AD (historical)",
+    "total_recorded_eruptions": 61,
+    "confirmed_eruptions": 54,
+    "vei_max": "5 (6940 BCE, 2420 BCE, 79 AD, 472 AD, 1631 AD)",
+    "country": "Italy",
+    "region": "Campania, Gulf of Naples",
+    "tectonic_setting": "Subduction zone — African Plate beneath Eurasian Plate, continental crust (>25 km)",
+    "rock_types": [
+      "Phono-tephrite",
+      "Tephri-phonolite"
+    ],
+    "coordinates": "40.821°N, 14.426°E",
+    "nearest_city": "Naples — 9 km west",
+    "population_at_risk": "~3 million (Naples metropolitan area)",
+    "summit_crater": "~300 m deep, ~600 m wide",
+    "protected_status": "Vesuvius National Park (est. 1995)",
+    "monitoring_agency": "Osservatorio Vesuviano — INGV",
+    "unesco_sites_nearby": "Archaeological Areas of Pompeii, Herculaneum, and Torre Annunziata (UNESCO, 1997)",
+    "smithsonian_id": "211020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=211020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Mount Vesuvius (Italian: Vesuvio) is an active <a href=\"/types-of-volcanoes\">somma-stratovolcano</a> rising to 1,281 m (4,203 ft) on the Gulf of Naples in Campania, southern <a href=\"/volcanoes-in-italy\">Italy</a>, approximately 9 km (5.6 mi) east of the city of Naples. It is the only active volcano on the European mainland and one of the most dangerous volcanoes in the world, with approximately 3 million people living within its potential hazard zone — the highest population density of any volcanic region on Earth. Vesuvius is best known for the catastrophic <a href=\"/volcanic-explosivity-index\">VEI</a> 5 eruption of 79 AD, which buried the Roman cities of Pompeii and Herculaneum under metres of volcanic ash and pyroclastic deposits, preserving them in extraordinary archaeological detail for nearly two millennia.\n\nThe volcano sits within the Campanian volcanic arc, formed by the subduction of the African Plate beneath the Eurasian Plate. Its structure is distinctive: a younger active cone, Gran Cono, has grown inside the remnant caldera of the older Monte Somma edifice, creating the characteristic 'somma' profile from which the volcanological term derives. With 61 recorded eruptions spanning nearly 9,000 years and a VEI maximum of 5 reached on at least five occasions, Vesuvius ranks among the most prolific and explosive volcanoes in Europe. Its 170 recorded eruptions make <a href=\"/volcano/etna\">Mount Etna</a> more frequently active, but Vesuvius poses a far greater human risk due to sheer proximity to Naples. The volcano last erupted in March 1944 during World War II, and volcanologists regard a future eruption as inevitable. It is continuously monitored by the Osservatorio Vesuviano, the oldest volcanological observatory in the world, founded in 1841."
+    },
+    "geology_and_formation": {
+      "content": "The Vesuvius volcanic complex has a history stretching back approximately 400,000 years, though the present edifice is considerably younger. The older Monte Somma volcano began forming roughly 25,000 years ago, building a large cone that likely exceeded 2,000 m (6,600 ft) in elevation before a series of caldera-forming eruptions collapsed its summit. The current Somma caldera rim, reaching 1,132 m (3,714 ft) at Punta Nasone, is the remnant of this ancient structure.\n\nVesuvius owes its existence to the subduction of the African tectonic plate beneath the Eurasian Plate along the Campanian margin. As the dense oceanic crust of the African Plate descends into the mantle, it releases volatiles — primarily water — into the overlying mantle wedge, lowering the melting point of the rock and generating magma. This magma is characteristically rich in dissolved gases and silica, which explains why Vesuvian eruptions tend to be explosively violent rather than gently effusive. The dominant rock types are phono-tephrite and tephri-phonolite, alkaline compositions that reflect the unusual geochemistry of the Campanian subduction zone. These magmas are notably more alkaline than typical subduction zone products, a feature shared with neighbouring <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> and the volcanic islands of Ischia and Procida.\n\nThe Monte Somma caldera formed incrementally through at least three major Plinian eruptions: the Codola eruption (~33,000 years ago), the Sarno eruption (~22,000 years ago), and the Ottaviano eruption (~8,000 years ago). Each produced catastrophic pyroclastic flows that reshaped the surrounding landscape. The younger Gran Cono cone began growing inside this caldera after the Ottaviano event, and has been the primary vent for all historical eruptions. The distinctive Valle del Gigante — the valley between the old Somma rim and the new Vesuvius cone — channels volcanic material primarily southward and westward, directing hazards toward the most densely populated flanks. This geological architecture is a textbook example of a <a href=\"/types-of-volcanoes\">stratovolcano</a> nested within a caldera, a structure now formally called a 'somma volcano' in honour of this very mountain."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program catalogues 61 eruptions for Vesuvius, of which 54 are confirmed. The eruptive record spans from a major VEI 5 Plinian event around 6940 BCE through to the last eruption in March 1944 — a period of nearly 9,000 years. The volcano's maximum recorded VEI is 5, a level reached on five separate occasions: approximately 6940 BCE, 2420 BCE, 79 AD, 472 AD, and 1631 AD.\n\nVesuvius's eruption history falls into three broad phases. The prehistoric period (pre-79 AD) includes eight major Plinian or sub-Plinian events separated by centuries to millennia of quiet, during which thick soils developed on the volcano's flanks — the very soils that attracted dense Roman settlement. The post-79 AD medieval period saw sporadic eruptions of moderate size, including the powerful VEI 5 event of 472 AD, whose ash reportedly reached as far as Constantinople. Following a long dormant interval of approximately five centuries, the devastating VEI 5 eruption of December 1631 inaugurated a third phase of nearly continuous activity: between 1631 and 1944, Vesuvius erupted at least 27 times, rarely resting for more than a decade. This persistent, semi-continuous behaviour ended abruptly in 1944, and the volcano has now been quiet for over 80 years — the longest repose since the dormancy preceding the 1631 catastrophe, a parallel that deeply concerns volcanologists."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Eruption of 79 AD — Destruction of Pompeii and Herculaneum",
+          "content": "On October 24, 79 AD — a date now favoured over the traditional August 24 by recent archaeological evidence including autumn fruit and heating braziers found at Pompeii — Vesuvius erupted in a cataclysmic Plinian event that would become the most famous volcanic eruption in human history. The eruption was a <a href=\"/volcanic-explosivity-index\">VEI 5</a> event, ejecting an estimated 3.3 km³ of magma and sending a towering eruption column approximately 33 km (21 mi) into the stratosphere.\n\nThe eruption unfolded in two devastating phases. During the first approximately 18 hours, a sustained Plinian column rained pumice and ash across the region. At Pompeii, 8 km (5 mi) to the southeast, pumice accumulated at a rate of roughly 15 cm per hour, eventually reaching a depth of 2.8 m (9.2 ft) on rooftops. Many residents fled during this initial phase, but those who remained — estimated at 10–25% of the population — faced far worse. In the second phase, beginning in the early morning of October 25, the eruption column repeatedly collapsed, generating a succession of pyroclastic flows and surges that swept down the volcano's flanks at speeds exceeding 100 km/h (62 mph) and temperatures of 300–700°C. The first of these surges struck Herculaneum, 7 km to the west, killing inhabitants instantly by thermal shock; their skeletons have been found huddled in boat sheds along the former waterfront. Subsequent, more powerful surges reached Pompeii itself, killing everyone still within the city.\n\nThe eruption was witnessed and meticulously described by Pliny the Younger from across the Bay of Naples at Misenum, roughly 35 km away. His two letters to the historian Tacitus constitute the first detailed written account of a volcanic eruption in Western literature, and the explosive eruption style he described is now known worldwide as 'Plinian.' His uncle, Pliny the Elder — the famed naturalist and admiral of the Roman fleet — sailed toward the eruption to rescue stranded residents and died on the beach at Stabiae, likely from cardiac arrest triggered by volcanic gases. Death toll estimates for the 79 AD eruption range widely from 2,000 to 16,000, reflecting the difficulty of estimating the population that remained.\n\nThe cities lay buried and forgotten for over 1,500 years until their accidental rediscovery in 1748 (Pompeii) and 1738 (Herculaneum). The extraordinary preservation of buildings, frescoes, food, and human forms in volcanic ash has made Pompeii the world's most important archaeological site for understanding daily Roman life, and a <a href=\"https://whc.unesco.org/en/list/829\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> since 1997."
+        },
+        {
+          "title": "The 472 AD Eruption — Ash Reaches Constantinople",
+          "content": "The eruption of November 5, 472 AD was another VEI 5 Plinian event — comparable in explosive power to the 79 AD disaster, though far less remembered. The eruption produced extensive pyroclastic flows and generated an enormous ash column. Contemporary accounts report that volcanic ash from this eruption fell as far as Constantinople (modern Istanbul), over 1,200 km (750 mi) to the east — a testament to the eruption's stratospheric reach and the prevailing wind patterns. The 472 eruption significantly reshaped the summit crater and deposited thick layers of tephra across the Campanian plain, layers that are now key stratigraphic markers for archaeologists studying late Roman settlement patterns in the region."
+        },
+        {
+          "title": "The 1631 Eruption — Vesuvius Reawakens",
+          "content": "After approximately five centuries of quiet — a dormant period so long that dense vegetation covered the crater and residents had largely forgotten the volcano's lethal potential — Vesuvius erupted catastrophically on December 16, 1631. This VEI 5 event was the most powerful eruption since 79 AD and proved devastatingly lethal. The eruption produced massive pyroclastic flows that raced down the southern and southwestern flanks, reaching the coast within minutes. Lava flows, mudflows (lahars), and torrential ashfall destroyed or severely damaged fifteen towns. Contemporary records estimate the death toll at between 3,000 and 6,000 people, with thousands more displaced.\n\nThe 1631 eruption inaugurated a new eruptive cycle. For the next 313 years, Vesuvius remained in an almost continuously active state, erupting at least 27 times between 1631 and 1944. This sustained activity included persistent summit lava lakes, Strombolian explosions, and periodic larger eruptions with lava flows and pyroclastic events. The 1631 disaster also prompted the Spanish viceroy to issue one of history's earliest volcanic hazard warnings, ordering communities to relocate — an order that was, predictably, largely ignored."
+        },
+        {
+          "title": "The 1906 Eruption — The Deadliest of the Modern Era",
+          "content": "The eruption cycle that began on December 18, 1875 culminated in a major VEI 4 eruption in April 1906. Lava fountains surged from the summit crater and fissures on the upper flanks. Heavy ashfall collapsed rooftops in the town of Ottaviano, east of the volcano, killing over 100 people. The 1906 eruption ejected an estimated 0.2 km³ of material, collapsed the upper portion of the cone by approximately 220 m (720 ft), and generated a wide caldera at the summit. Total casualties reached approximately 227 — the highest death toll of any Vesuvian eruption in the modern recorded era. The eruption also disrupted preparations for the 1908 Olympic Games, initially planned for Rome, contributing to the relocation of some events."
+        },
+        {
+          "title": "The 1944 Eruption — Vesuvius in World War II",
+          "content": "The most recent eruption of Vesuvius began on March 18, 1944, during the Allied occupation of southern Italy. Lava flows advanced down the western flank, engulfing the villages of San Sebastiano al Vesuvio and Massa di Somma within days. The eruption reached its climax between March 21 and 23, producing lava fountains exceeding 600 m (2,000 ft) in height and pyroclastic flows on the northern and eastern flanks. Ashfall blanketed Naples and damaged military installations.\n\nAt the nearby Pompeii Airfield (Terzigno), the United States Army Air Forces' 340th Bombardment Group lost an estimated 78–88 B-25 Mitchell bombers to accumulated volcanic ash, making it one of the most unusual military losses of the war. Allied soldiers and war correspondents documented the eruption extensively in photographs and film, producing the most detailed visual record of any Vesuvian eruption. Twenty-six civilians were killed, primarily by roof collapses under the weight of tephra. The eruption reshaped the summit crater to approximately its present dimensions — 300 m (1,000 ft) deep and 600 m (2,000 ft) across — and has been followed by over 80 years of dormancy, the longest quiet period since before 1631."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Vesuvius has been in a state of repose since March 1944, making the current dormant interval over 80 years — the longest since the approximately 500-year quiet period that preceded the catastrophic 1631 eruption. The volcano remains classified as active by the Smithsonian Global Volcanism Program and every major volcanological authority.\n\nThe Osservatorio Vesuviano, a branch of Italy's Istituto Nazionale di Geofisica e Vulcanologia (<a href=\"https://www.ingv.it/en/\" target=\"_blank\" rel=\"noopener\">INGV</a>), operates one of the world's most comprehensive volcano monitoring networks at Vesuvius. The system includes over 30 seismometers detecting micro-earthquakes beneath the cone, GPS stations tracking ground deformation at sub-millimetre precision, tiltmeters measuring subtle changes in slope angle, gravimeters detecting underground magma movement, and geochemical stations analysing the composition and flux of fumarolic gases — particularly SO₂ and CO₂ — from the summit crater and flank vents. Low-level seismicity (typically 200–400 micro-earthquakes per year) and mild fumarolic activity within the crater are ongoing, indicating that the magmatic system remains active at depth.\n\nVolcanologists universally agree that Vesuvius will erupt again; the only uncertainty is when and how powerfully. The current repose period has allowed magma to accumulate in a reservoir estimated at 4–8 km depth. Longer rest periods between Vesuvian eruptions have historically correlated with more explosive subsequent events — the five-century dormancy before 1631 produced a VEI 5 blast. Italian authorities maintain a national emergency plan (Piano Nazionale di Emergenza) for a reference eruption scenario of sub-Plinian intensity, which would require the evacuation of approximately 600,000 people from the zona rossa (red zone) within 72 hours of an escalating warning."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Vesuvius presents a uniquely dangerous combination: an explosively erupting <a href=\"/types-of-volcanoes\">stratovolcano</a> situated within one of the most densely populated metropolitan areas on Earth. The primary hazards include pyroclastic flows (the deadliest threat, capable of reaching populated areas within 5–15 minutes of column collapse), tephra fall (ashfall that can collapse structures, contaminate water, and disrupt aviation across southern Europe), lava flows (slower-moving but destructive, particularly on the southern and western flanks), lahars (volcanic mudflows triggered by rainfall mixing with fresh ash deposits), and volcanic gases (CO₂ and SO₂ emissions that can accumulate in low-lying areas).\n\nItaly's civil protection authority, the Dipartimento della Protezione Civile, has delineated the Vesuvius hazard zone into two principal areas. The zona rossa (red zone) encompasses 25 municipalities and approximately 600,000 residents directly at risk from pyroclastic flows and surge. The zona gialla (yellow zone) extends farther, encompassing an additional 1.1 million people at risk from heavy ashfall, roof collapse, and lahars. In some municipalities on the volcano's flanks, population density reaches an astonishing 20,000–30,000 people per square kilometre — among the highest densities of any volcanic hazard zone worldwide.\n\nThe Piano Nazionale di Emergenza envisions a phased evacuation triggered by escalating alert levels (green → yellow → orange → red). Critics have questioned whether the plan's 72-hour evacuation timeline is realistic given the region's notoriously congested road network, the psychological challenge of persuading millions to leave their homes, and the possibility that a rapidly escalating eruption might compress warning time. Compared to other high-risk volcanoes globally, Vesuvius sits alongside <a href=\"/volcano/merapi\">Mount Merapi</a> in Java and <a href=\"/volcano/popocatepetl\">Popocatépetl</a> near Mexico City as the volcanoes posing the greatest risk to human life in the 21st century."
+    },
+    "geography_and_physical_description": {
+      "content": "Vesuvius dominates the eastern skyline of the Bay of Naples, its distinctive profile instantly recognisable from virtually anywhere in the metropolitan area. The volcano comprises two peaks: the older Monte Somma to the north, whose highest point on the caldera rim (Punta Nasone) reaches 1,132 m (3,714 ft), and the younger, active Gran Cono to the south-southeast, reaching the summit elevation of 1,281 m (4,203 ft). The two are separated by the Valle del Gigante (Valley of the Giant), a dramatic depression that includes the Atrio di Cavallo — a 5 km-long valley that has historically channelled pyroclastic flows and lava toward the south and west.\n\nThe summit crater of Gran Cono measures approximately 600 m (2,000 ft) in diameter and 300 m (1,000 ft) in depth, its present form shaped by the 1944 eruption. Mild fumarolic activity is visible along the crater walls and floor. The volcano's flanks descend steeply through several vegetation zones: vineyards and orchards at lower elevations (including the famous Lacryma Christi grape terraces), chestnut and oak forests at mid-elevations, Mediterranean scrub and broom at higher altitudes, and barren lava and tephra near the summit. The entire edifice, covering approximately 480 km², has a base circumference of roughly 50 km (31 mi). Vesuvius National Park, established in 1995 and covering 135 km², protects the upper slopes and includes 54 km (34 mi) of hiking trails."
+    },
+    "climate_and_global_impact": {
+      "content": "Unlike some of the world's largest eruptions — such as <a href=\"/volcano/tambora\">Tambora's</a> VEI 7 event in 1815, which triggered the 'Year Without a Summer,' or <a href=\"/volcano/pinatubo\">Pinatubo's</a> 1991 eruption, which cooled global temperatures by 0.5°C — Vesuvius's eruptions have generally had localised rather than global climatic effects. The 79 AD eruption, while devastating regionally, ejected an estimated 3.3 km³ of magma — large by most standards but far less than the 100+ km³ ejected by Tambora. The stratospheric sulphur dioxide injection was insufficient to produce measurable hemispheric cooling.\n\nThe 472 AD eruption likely had the greatest atmospheric reach of any Vesuvian event, with ash confirmed as far as Constantinople and possible stratospheric veil effects recorded in European tree-ring records, though these remain debated. The 1631 eruption may have contributed to short-term regional cooling in the central Mediterranean, coinciding with a particularly cold phase of the Little Ice Age, but disentangling its signal from background climate variability and contemporaneous eruptions elsewhere is difficult. Were a major Plinian eruption (VEI 5+) to occur today, atmospheric modelling suggests significant regional impacts on European air quality and agriculture, but a global volcanic winter would require a far larger event than anything in Vesuvius's historical repertoire."
+    },
+    "cultural_significance": {
+      "content": "Vesuvius occupies a singular place in Western culture. The 79 AD eruption and its preservation of Pompeii and Herculaneum essentially gave birth to the science of archaeology and profoundly influenced Enlightenment thought when systematic excavations began in the mid-18th century. Pliny the Younger's detailed letters to the historian Tacitus describing the eruption's progression and his uncle Pliny the Elder's death constitute the first scientific account of a volcanic eruption, and gave volcanology the term 'Plinian eruption' for explosive columnar events.\n\nDuring the 18th and 19th centuries, Vesuvius became an essential stop on the Grand Tour, attracting artists, scientists, and aristocrats from across Europe. Painters including J.M.W. Turner, Joseph Wright of Derby, and Pierre-Jacques Volaire produced dramatic canvases of the volcano in eruption, works that helped shape the Romantic concept of the 'sublime.' The volcano features prominently in literature from Virgil and Martial through Shelley, Dickens, and Mark Twain.\n\nVesuvius's volcanic soil produces some of Italy's most distinctive wines, most famously Lacryma Christi del Vesuvio ('Tears of Christ'), cultivated on the slopes since Roman times. The region also produces prized San Marzano tomatoes, whose flavour is attributed to the mineral-rich volcanic terrain. The volcano is deeply embedded in Neapolitan identity; it appears on the city's coat of arms and in countless proverbs, songs, and cultural references. The UNESCO-listed archaeological sites of <a href=\"https://whc.unesco.org/en/list/829\" target=\"_blank\" rel=\"noopener\">Pompeii, Herculaneum, and Torre Annunziata</a> draw over 4 million visitors annually, making them among the most visited heritage sites in the world."
+    },
+    "visiting_and_tourism": {
+      "content": "Vesuvius is one of the most accessible active volcanoes on Earth, welcoming approximately 800,000 visitors per year to its summit. The standard route follows Sentiero n. 5 (Path No. 5), a well-maintained gravel path that ascends from the car park at approximately 1,000 m elevation to the crater rim at 1,281 m — a walk of roughly 1.5 km (0.9 mi) taking 25–40 minutes depending on fitness. Visitors are rewarded with panoramic views into the 300 m-deep crater (where fumarolic gases are often visible) and across the Bay of Naples, Capri, the Sorrentine Peninsula, and on clear days, as far as the Amalfi Coast.\n\nThe national park (<a href=\"https://www.parconazionaledelvesuvio.it/en/\" target=\"_blank\" rel=\"noopener\">Vesuvius National Park</a>) is open year-round, though hours vary seasonally (typically 9:00–17:00 in summer, shorter in winter; closed during severe weather). Entry fees are approximately €10 for adults. Most visitors combine a Vesuvius hike with a visit to the Pompeii or Herculaneum archaeological sites, located at the volcano's base. Transportation options from Naples include the Circumvesuviana railway to Ercolano Scavi station, followed by bus shuttle services to the car park. Guided tours add geological context that significantly enriches the experience. The park's 54 km of trails extend well beyond the summit path, offering routes through lava fields, Mediterranean forest, and the Valle del Gigante."
+    },
+    "nearby_volcanoes": {
+      "content": "Vesuvius is far from an isolated volcanic feature. It sits within the Campanian volcanic arc, a region of extraordinary volcanic density in southern <a href=\"/volcanoes-in-italy\">Italy</a>. Just 15 km (9 mi) to the west lies <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> (Phlegraean Fields), a massive caldera complex classified as a <a href=\"/supervolcanoes\">supervolcano</a>, which has been experiencing increasing seismic unrest and ground uplift (bradyseism) since the 2000s. Campi Flegrei last erupted in 1538 (Monte Nuovo) and has a VEI maximum of 7 — far exceeding Vesuvius's explosive potential.\n\nFarther south, the volcanic island of Ischia lies in the Bay of Naples, while 200 km to the south, <a href=\"/volcano/stromboli\">Stromboli</a> — the 'Lighthouse of the Mediterranean' — maintains near-continuous Strombolian eruptions in the Aeolian Islands. <a href=\"/volcano/etna\">Mount Etna</a>, Europe's tallest and most active volcano at 3,357 m (11,014 ft), dominates eastern Sicily approximately 500 km to the south. Together, these Italian volcanoes represent some of the most closely monitored and actively dangerous volcanic systems in Europe, all driven by the complex collision between the African and Eurasian plates."
+    },
+    "etymology": {
+      "content": "The origin of the name 'Vesuvius' is disputed and has intrigued scholars for centuries. The most widely cited hypothesis traces it to the Oscan word 'fesf,' meaning 'smoke' or 'steam,' reflecting the volcano's fumarolic activity as observed by pre-Roman Italic peoples. Other proposed etymologies include derivation from the Greek 'hestia' (hearth, fireplace), from the Indo-European root *ves- (to shine or burn), or from the legendary hero Hercules via the town of Herculaneum. In ancient Roman texts, the mountain appears in several variant forms: Vesaevus (Virgil), Vesevus (Strabo), and Vesbius (Vitruvius), suggesting that even classical authors were uncertain of the name's correct form."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Vesuvius Compared to Europe's Other Active Volcanoes",
+      "description": "How does Vesuvius stack up against the continent's other major volcanic threats?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "<a href=\"/volcano/vesuvius\">Vesuvius</a>",
+          "Italy",
+          "1,281 m",
+          "Stratovolcano",
+          "1944",
+          "5",
+          "61",
+          "~3 million"
+        ],
+        [
+          "<a href=\"/volcano/etna\">Etna</a>",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano(es)",
+          "2025",
+          "5",
+          "170",
+          "~1 million"
+        ],
+        [
+          "<a href=\"/volcano/campi-flegrei\">Campi Flegrei</a>",
+          "Italy",
+          "458 m",
+          "Caldera",
+          "1538",
+          "7",
+          "47",
+          "~1.5 million"
+        ],
+        [
+          "<a href=\"/volcano/stromboli\">Stromboli</a>",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "100+",
+          "<1,000"
+        ],
+        [
+          "<a href=\"/volcano/santorini\">Santorini</a>",
+          "Greece",
+          "367 m",
+          "Shield/Caldera",
+          "1950",
+          "7",
+          "11",
+          "~15,000"
+        ]
+      ]
+    },
+    {
+      "title": "Vesuvius vs the World's Most Dangerous Volcanoes",
+      "description": "A global comparison of volcanoes that pose the greatest threat to nearby populations.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Population at Risk",
+        "VEI Max",
+        "Last Eruption",
+        "Monitoring Level"
+      ],
+      "rows": [
+        [
+          "<a href=\"/volcano/vesuvius\">Vesuvius</a>",
+          "Italy",
+          "Stratovolcano",
+          "~3 million",
+          "5",
+          "1944",
+          "Comprehensive (INGV)"
+        ],
+        [
+          "<a href=\"/volcano/merapi\">Merapi</a>",
+          "Indonesia",
+          "Stratovolcano",
+          "~3 million",
+          "4",
+          "2021",
+          "Comprehensive (BPPTKG)"
+        ],
+        [
+          "<a href=\"/volcano/popocatepetl\">Popocatépetl</a>",
+          "Mexico",
+          "Stratovolcano",
+          "~25 million",
+          "5",
+          "2023",
+          "Comprehensive (CENAPRED)"
+        ],
+        [
+          "<a href=\"/volcano/rainier\">Mount Rainier</a>",
+          "USA",
+          "Stratovolcano",
+          "~2 million",
+          "5",
+          "1894",
+          "Comprehensive (USGS)"
+        ],
+        [
+          "Sakurajima",
+          "Japan",
+          "Stratovolcano",
+          "~600,000",
+          "4",
+          "2024",
+          "Comprehensive (JMA)"
+        ],
+        [
+          "<a href=\"/volcano/pinatubo\">Pinatubo</a>",
+          "Philippines",
+          "Stratovolcano",
+          "~1 million",
+          "6",
+          "1991",
+          "Well-monitored (PHIVOLCS)"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6940,
+      "vei": 5,
+      "label": "Major Plinian eruption — oldest in GVP record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2420,
+      "vei": 5,
+      "label": "Avellino eruption — buried Bronze Age settlements",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1550,
+      "vei": 4,
+      "label": "Sub-Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1430,
+      "vei": 4,
+      "label": "Sub-Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -880,
+      "vei": 4,
+      "label": "Sub-Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 79,
+      "vei": 5,
+      "label": "Destruction of Pompeii and Herculaneum",
+      "deaths": "2000-16000",
+      "notable": true
+    },
+    {
+      "year": 203,
+      "vei": 4,
+      "label": "Major eruption during Roman Empire",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 472,
+      "vei": 5,
+      "label": "Plinian eruption — ash reached Constantinople",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 512,
+      "vei": 4,
+      "label": "Sub-Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 685,
+      "vei": 4,
+      "label": "Major eruption during Early Middle Ages",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 968,
+      "vei": 4,
+      "label": "Sub-Plinian eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1631,
+      "vei": 5,
+      "label": "Devastating eruption after ~500-year dormancy — 3,000–6,000 killed",
+      "deaths": "3000-6000",
+      "notable": true
+    },
+    {
+      "year": 1875,
+      "vei": 4,
+      "label": "Major eruption cycle beginning — culminated in 1906 disaster",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1906,
+      "vei": 4,
+      "label": "Major eruption — 227 killed, summit collapsed 220 m",
+      "deaths": "227",
+      "notable": true
+    },
+    {
+      "year": 1944,
+      "vei": 3,
+      "label": "Last eruption — destroyed San Sebastiano during WWII, 78+ B-25 bombers lost",
+      "deaths": "26",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric (pre-1 AD)",
+      "count": 7,
+      "note": "Major Plinian events over ~7,000 years; VEI 4–5 events separated by centuries"
+    },
+    {
+      "century": "1st",
+      "count": 1
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "3rd",
+      "count": 2
+    },
+    {
+      "century": "4th",
+      "count": 2
+    },
+    {
+      "century": "5th",
+      "count": 1
+    },
+    {
+      "century": "6th",
+      "count": 3
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "8th",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 4
+    },
+    {
+      "century": "11th",
+      "count": 4
+    },
+    {
+      "century": "12th",
+      "count": 2
+    },
+    {
+      "century": "13th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 0,
+      "note": "Part of ~500-year dormancy (1139–1631)"
+    },
+    {
+      "century": "16th",
+      "count": 2
+    },
+    {
+      "century": "17th",
+      "count": 7
+    },
+    {
+      "century": "18th",
+      "count": 10
+    },
+    {
+      "century": "19th",
+      "count": 9
+    },
+    {
+      "century": "20th",
+      "count": 1,
+      "note": "Eruption cycle from 1913 through 1944 counted as single event"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 2
+    },
+    {
+      "vei": 1,
+      "count": 4
+    },
+    {
+      "vei": 2,
+      "count": 11
+    },
+    {
+      "vei": 3,
+      "count": 30
+    },
+    {
+      "vei": 4,
+      "count": 8
+    },
+    {
+      "vei": 5,
+      "count": 5
+    }
+  ],
+  "facts": [
+    "The 79 AD eruption released thermal energy roughly 100,000 times that of the Hiroshima atomic bomb, ejecting approximately 3.3 km³ of magma in less than 24 hours.",
+    "Vesuvius is the only volcano on the European mainland to have erupted in the last 100 years — every other historically active European volcano is on an island.",
+    "The term 'Plinian eruption' — used worldwide to describe explosive volcanic columns reaching the stratosphere — is named after Pliny the Younger, who described Vesuvius's 79 AD eruption in letters that became foundational texts of volcanology.",
+    "Population density in some high-risk municipalities on Vesuvius's flanks reaches 30,000 people per square kilometre, making it the most densely populated volcanic hazard zone on the planet.",
+    "The 472 AD eruption was so powerful that ash reportedly reached as far as Constantinople (modern Istanbul), over 1,200 km (750 mi) away.",
+    "Grapes grown on Vesuvius's slopes produce the wine 'Lacryma Christi del Vesuvio' (Tears of Christ), cultivated on the same volcanic soil since Roman times and recognised with DOC status.",
+    "The volcano's current summit crater is approximately 300 m deep and 600 m across — a void formed during the 1944 eruption that effectively ended over three centuries of near-continuous activity.",
+    "Vesuvius has an unusual 'somma' structure — a younger cone (Gran Cono) growing inside the collapsed caldera of an older, taller volcano (Monte Somma) — and is in fact the type locality for which all 'somma volcanoes' worldwide are named.",
+    "The Osservatorio Vesuviano, established in 1841 on the volcano's western flank, is the oldest volcanological observatory in the world and now operates over 30 seismometers monitoring the volcano.",
+    "During the 1944 eruption, the US Army Air Forces' 340th Bombardment Group lost 78–88 B-25 Mitchell bombers at the nearby Pompeii Airfield — destroyed not by enemy fire but by accumulated volcanic ash and cinder.",
+    "The current dormant period of over 80 years is the longest since the ~500-year quiet interval that preceded the devastating VEI 5 eruption of 1631 — a parallel that deeply concerns modern volcanologists.",
+    "Vesuvius National Park, established in 1995, protects 135 km² of the volcano and includes 54 km of hiking trails through lava fields, Mediterranean scrub, and the historic Valle del Gigante."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Vesuvius still active?",
+      "answer": "Yes, Mount Vesuvius is classified as an active volcano by the Smithsonian Global Volcanism Program and every major volcanological authority. In volcanological terms, an 'active' volcano is one that has erupted within the Holocene epoch (last 11,700 years) and shows evidence of ongoing magmatic activity. Vesuvius meets both criteria: it has erupted 61 times in the last 9,000 years, most recently in March 1944, and continues to exhibit low-level seismicity (200–400 micro-earthquakes per year) and fumarolic gas emissions from its summit crater. The Osservatorio Vesuviano, part of Italy's INGV, operates a comprehensive monitoring network of seismometers, GPS stations, and gas sensors. Volcanologists universally agree that a future eruption is not merely possible but inevitable."
+    },
+    {
+      "question": "When did Vesuvius last erupt?",
+      "answer": "Vesuvius last erupted between March 18 and March 23, 1944, during the Allied occupation of southern Italy in World War II. The eruption produced lava flows that destroyed the villages of San Sebastiano al Vesuvio and Massa di Somma, lava fountains exceeding 600 m (2,000 ft) in height, and pyroclastic flows on the northern and eastern flanks. Twenty-six civilians were killed, and the US Army Air Forces lost 78–88 B-25 bombers at the nearby Pompeii Airfield. The eruption, rated VEI 3, reshaped the summit crater to its current 300 m-deep, 600 m-wide form. The volcano has been in a state of repose ever since — over 80 years, the longest quiet period since the dormancy preceding the catastrophic 1631 eruption."
+    },
+    {
+      "question": "Could Vesuvius erupt again?",
+      "answer": "Yes, volcanologists consider a future eruption of Vesuvius to be inevitable. The volcano has averaged approximately one eruption per decade over the past two millennia, and the current dormant interval of over 80 years is exceptionally long by post-1631 standards. Historically, longer repose periods at Vesuvius have correlated with more explosive subsequent eruptions — the ~500-year dormancy before 1631 produced a VEI 5 blast. Italian authorities plan for a reference scenario of a sub-Plinian eruption (VEI 4), which would require evacuating approximately 600,000 people from the zona rossa within 72 hours. The precise timing cannot be predicted, but the monitoring network operated by the Osservatorio Vesuviano is designed to detect escalating precursory signals weeks to months before an eruption."
+    },
+    {
+      "question": "How many people died in the 79 AD eruption?",
+      "answer": "Death toll estimates for the 79 AD eruption range from approximately 2,000 to 16,000 people, with the wide range reflecting uncertainty about the populations of Pompeii, Herculaneum, Stabiae, and Oplontis at the time, and how many residents successfully fled during the eruption's initial pumice-fall phase. Archaeological excavations have recovered approximately 1,150 bodies at Pompeii and over 300 at Herculaneum, but many more remain unexcavated or were never buried in identifiable form. The primary causes of death were pyroclastic surges (superheated gas-and-ash clouds travelling at over 100 km/h at temperatures of 300–700°C), building collapse under accumulated pumice, and asphyxiation. The most prominent casualty was Pliny the Elder, the Roman naturalist and fleet commander, who died at Stabiae while attempting a rescue mission."
+    },
+    {
+      "question": "How tall is Mount Vesuvius?",
+      "answer": "Mount Vesuvius stands at 1,281 m (4,203 ft) above sea level, measured to the summit of the younger Gran Cono. However, the volcano's height has changed significantly with successive eruptions. Before the 79 AD eruption, Vesuvius was likely a single peak approximately 2,000 m (6,600 ft) tall; the Plinian eruption destroyed the upper portion and created a caldera. The adjacent Monte Somma caldera rim, the remnant of the older edifice, reaches 1,132 m (3,714 ft) at Punta Nasone. For comparison, Vesuvius is considerably smaller than its Sicilian counterpart <a href=\"/volcano/etna\">Mount Etna</a>, which rises to 3,357 m (11,014 ft) — nearly three times the height. The 1906 eruption alone reduced Vesuvius's summit by approximately 220 m."
+    },
+    {
+      "question": "What type of volcano is Vesuvius?",
+      "answer": "Vesuvius is classified as a somma-stratovolcano, a specific type of <a href=\"/types-of-volcanoes\">composite volcano</a>. A stratovolcano (or composite volcano) is built from alternating layers of lava flows, volcanic ash, and other pyroclastic material, producing a steep-sided conical profile. What makes Vesuvius a 'somma' stratovolcano is its distinctive dual structure: the active cone (Gran Cono) has grown inside the caldera of an older, partially collapsed volcano (Monte Somma). This structural type is named after Vesuvius's Monte Somma itself, making Vesuvius the type locality for all 'somma volcanoes' worldwide. Stratovolcanoes as a group produce the most explosive and dangerous eruptions on Earth, driven by gas-rich, viscous magma — and Vesuvius is an archetypal example."
+    },
+    {
+      "question": "Can you visit Mount Vesuvius?",
+      "answer": "Yes, Vesuvius is open to visitors year-round through Vesuvius National Park. The standard route is Sentiero n. 5 (Path No. 5), a well-maintained 1.5 km gravel path from the car park at ~1,000 m to the crater rim at 1,281 m, taking approximately 25–40 minutes to walk. At the summit, visitors can peer into the 300 m-deep crater, often observing fumarolic steam vents, and enjoy panoramic views of the Bay of Naples, Capri, and Pompeii below. Entry fees are approximately €10 for adults, and hours vary seasonally (typically 9:00–17:00 in summer). Most visitors reach the car park via shuttle bus from Ercolano Scavi station on the Circumvesuviana railway from Naples. Combining a Vesuvius summit hike with a visit to Pompeii or Herculaneum at the base is the classic day trip from Naples."
+    },
+    {
+      "question": "What would happen if Vesuvius erupted today?",
+      "answer": "Italian authorities plan for a reference scenario of a sub-Plinian eruption (VEI 4), comparable to the 1631 event. In such a scenario, pyroclastic flows could reach populated areas within 5–15 minutes of eruption column collapse, necessitating the emergency evacuation of approximately 600,000 people from the 25 municipalities in the zona rossa (red zone). Ashfall would blanket Naples and the surrounding Campania region, potentially collapsing older roofs, disrupting water supplies, and shutting down transportation. European airspace across the central Mediterranean would likely be closed. A larger Plinian eruption (VEI 5, comparable to 79 AD) would extend the danger zone significantly. The Piano Nazionale di Emergenza provides for a 72-hour evacuation window triggered by escalating seismic and geochemical precursors, though critics question the feasibility of evacuating this many people through the region's congested infrastructure."
+    },
+    {
+      "question": "How far is Vesuvius from Naples?",
+      "answer": "Mount Vesuvius is approximately 9 km (5.6 mi) east of the centre of Naples, making it visible from virtually every point in the city. The municipalities directly on the volcano's flanks — including Torre del Greco, Ercolano (the site of ancient Herculaneum), and Torre Annunziata — have populations exceeding 50,000 each, and the archaeological site of Pompeii lies at the southeastern base. The entire zona rossa hazard zone, encompassing areas within direct reach of pyroclastic flows, extends approximately 7–10 km from the summit in all directions."
+    },
+    {
+      "question": "Why is Vesuvius so dangerous?",
+      "answer": "Vesuvius is considered one of the world's most dangerous volcanoes due to a convergence of factors. First, its magma is gas-rich and viscous (phono-tephrite and tephri-phonolite compositions), favouring explosive eruptions that produce deadly pyroclastic flows rather than slow-moving lava. Second, approximately 3 million people live within its hazard zone, with population densities in some flank municipalities reaching 30,000 per km² — the highest of any volcanic area on Earth. Third, its eruption history demonstrates capability for VEI 5 events with devastating pyroclastic flows reaching the coast. Fourth, the current dormancy of 80+ years suggests substantial magma accumulation, and longer rest periods at Vesuvius have historically preceded more violent eruptions. Fifth, the region's dense urban development and congested infrastructure pose enormous challenges for emergency evacuation."
+    }
+  ],
+  "people_also_search": [
+    "vesuvius eruption 79 ad",
+    "is vesuvius going to erupt",
+    "vesuvius vs etna",
+    "pompeii volcano",
+    "most dangerous volcano in the world",
+    "vesuvius national park",
+    "vesuvius height",
+    "vesuvius eruption 1944"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Mount Vesuvius",
+    "alternateName": [
+      "Vesuvio",
+      "Monte Vesuvio",
+      "Monte Vesuvius"
+    ],
+    "description": "Active somma-stratovolcano in Campania, Italy, famous for the 79 AD eruption that destroyed Pompeii and Herculaneum",
+    "geo": {
+      "latitude": 40.821,
+      "longitude": 14.426,
+      "elevation": 1281
+    },
+    "containedInPlace": {
+      "name": "Campania",
+      "country": "Italy"
+    },
+    "url": "https://volcanoatlas.com/volcano/vesuvius"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=211020",
+      "text": "Smithsonian GVP: Vesuvius",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ingv.it/en/",
+      "text": "INGV — Italian National Volcanology Institute",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Vesuvius",
+      "text": "Britannica: Mount Vesuvius",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/829",
+      "text": "UNESCO: Archaeological Areas of Pompeii, Herculaneum and Torre Annunziata",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.parconazionaledelvesuvio.it/en/",
+      "text": "Vesuvius National Park (Official)",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "etna",
+      "stromboli",
+      "campi-flegrei",
+      "pinatubo",
+      "st-helens",
+      "krakatau",
+      "tambora",
+      "merapi",
+      "popocatepetl",
+      "rainier",
+      "santorini"
+    ],
+    "country_pages": [
+      "italy"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "etna",
+    "stromboli",
+    "campi-flegrei",
+    "santorini",
+    "pinatubo"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Italy",
+      "url": "/volcanoes-in-italy"
+    },
+    {
+      "label": "Mount Vesuvius",
+      "url": "/volcano/vesuvius"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/vesuvius"
+}

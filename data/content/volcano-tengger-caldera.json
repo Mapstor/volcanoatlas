@@ -1,0 +1,401 @@
+{
+  "slug": "tengger-caldera",
+  "volcano_id": 263310,
+  "title": "Tengger Caldera",
+  "meta_title": "Tengger Caldera (Mount Bromo) — Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Tengger Caldera is a 16-km-wide volcanic complex in East Java, Indonesia, home to Mount Bromo — one of Java's most active and most visited volcanoes. 72 eruptions.",
+  "quick_answer": {
+    "what": "Tengger Caldera is a 16-km-wide volcanic complex in East Java, Indonesia, containing multiple overlapping stratovolcanoes and post-caldera cones, the youngest and most famous of which is Mount Bromo (2,329 m / 7,641 ft at the caldera rim).",
+    "status": "Active — last erupted December 2023. Bromo, the youngest cone within the caldera, has erupted frequently throughout the 19th, 20th, and 21st centuries. Monitored by CVGHM.",
+    "famous_for": "Its otherworldly landscape of volcanic cones rising from a vast 'Sea of Sand' (Lautan Pasir) caldera floor, making it one of Indonesia's most iconic and most-photographed volcanic destinations. Bromo is also the site of the annual Kasada ceremony, a Tenggerese Hindu tradition of offering sacrifices into the active crater.",
+    "danger_level": "Moderate — eruptions at Bromo are typically small (VEI 1–2) but occur frequently. Hundreds of thousands of tourists visit the caldera annually, and surrounding communities are at risk from ashfall and lahars."
+  },
+  "hero": {
+    "name": "Tengger Caldera",
+    "local_name": "Kaldera Tengger / Gunung Bromo",
+    "subtitle": "Java's Otherworldly Sea of Sand",
+    "country": "Indonesia",
+    "region": "East Java, Sunda Volcanic Arc",
+    "type": "Stratovolcano(es) / Caldera complex",
+    "elevation_m": 2329,
+    "elevation_ft": 7641,
+    "status": "Active",
+    "last_eruption": "2023",
+    "coordinates": {
+      "lat": -7.942,
+      "lon": 112.95
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01127.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,329 m (7,641 ft) at caldera rim (Bromo cone: ~2,329 m)",
+    "type": "Stratovolcano complex with nested calderas",
+    "status": "Active",
+    "last_eruption": "December 13, 2023",
+    "first_known_eruption": "~5260 BCE (geological); 1804 CE (historical)",
+    "total_recorded_eruptions": 72,
+    "vei_max": "4 (~830 BCE, Sandsea caldera formation)",
+    "country": "Indonesia",
+    "region": "East Java, Sunda Volcanic Arc",
+    "tectonic_setting": "Subduction zone — Indo-Australian Plate beneath Eurasian Plate (continental crust > 25 km)",
+    "rock_types": [
+      "Trachyandesite",
+      "Basaltic Trachyandesite"
+    ],
+    "coordinates": "7.942°S, 112.950°E",
+    "nearest_city": "Probolinggo — 30 km north; Malang — 50 km west",
+    "population_at_risk": "~800,000 within 30 km radius",
+    "caldera_dimensions": "Outer Tengger caldera: 16 km wide; inner Sandsea caldera: 9 × 10 km",
+    "protected_status": "Bromo Tengger Semeru National Park",
+    "monitoring_agency": "CVGHM — Center for Volcanology and Geological Hazard Mitigation",
+    "unesco_sites_nearby": "Bromo Tengger Semeru National Park (tentative UNESCO list)",
+    "smithsonian_id": "263310",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=263310"
+  },
+  "sections": {
+    "overview": {
+      "content": "Tengger Caldera is one of the most visually spectacular and scientifically fascinating volcanic complexes in <a href=\"/volcanoes-in-indonesia\">Indonesia</a>, comprising a massive 16-km-wide caldera containing multiple overlapping <a href=\"/types-of-volcanoes\">stratovolcanoes</a> and a cluster of post-caldera cones that rise from a vast, flat expanse of volcanic sand known as the Lautan Pasir or 'Sea of Sand.' The complex is located in East Java at the northern end of a volcanic massif that extends southward to <a href=\"/volcano/semeru\">Semeru</a>, Java's tallest and most active volcano. With 72 recorded eruptions spanning more than 7,000 years, Tengger Caldera ranks among the most persistently active volcanic systems in the Sunda arc.\n\nThe youngest and most active cone within the caldera is Bromo (Gunung Bromo), whose smoking crater has become one of the most iconic images of Indonesian volcanism and one of the most visited volcanic sites in Southeast Asia. Bromo's frequent but typically small eruptions (mostly VEI 1–2) make it accessible enough for tourism while remaining a genuine active volcano — a combination that draws hundreds of thousands of visitors annually to watch sunrise over the caldera from the Penanjakan viewpoint. The complex owes its existence to the subduction of the Indo-Australian Plate beneath the Eurasian Plate along the Sunda arc, the same tectonic engine that powers Java's chain of more than 40 active volcanoes. The Tenggerese people, a Hindu minority on predominantly Muslim Java, have maintained a centuries-old spiritual relationship with Bromo, performing the annual Kasada ceremony in which offerings are thrown into the active crater — a living tradition that connects volcanic hazard with cultural identity."
+    },
+    "geology_and_formation": {
+      "content": "The Tengger volcanic complex has a geological history extending back approximately 820,000 years, encompassing five overlapping stratovolcanoes, each truncated by its own caldera. The complex sits on thick continental crust (> 25 km) and erupts trachyandesitic to basaltic trachyandesitic magma — a slightly more alkaline composition than the typical andesite of most Javanese volcanoes, which influences both the eruption style and the distinctive mineral assemblage of the volcanic deposits.\n\nThe oldest caldera in the complex is the Ngadisari caldera at the northeastern end, formed approximately 150,000 years ago and now drained through the Sapikerep valley. The most recent and prominent is the Sandsea caldera (Lautan Pasir), measuring 9 × 10 km, which formed incrementally during the late Pleistocene and early Holocene through a series of collapse events rather than a single catastrophic eruption. A VEI 4 eruption approximately 830 BCE is associated with a major phase of caldera formation. Within the Sandsea caldera, an overlapping cluster of post-caldera cones was constructed over the past several thousand years. These include Bromo (the youngest and most active), Batok (a photogenic but extinct cone), Kursi, and Widodaren. The flat, sandy caldera floor — the famous Sea of Sand — is composed of volcanic ash and sand eroded from the caldera walls and cones, creating a surreal desert-like landscape at 2,100 m elevation in the middle of tropical Java."
+    },
+    "eruption_history_overview": {
+      "content": "Tengger Caldera's 72 recorded eruptions document a long history of activity across multiple vents. The earliest recognized eruption dates to approximately 5260 BCE and is associated with the formation of the Sandsea caldera. A VEI 4 event at approximately 830 BCE represents the largest known eruption, also linked to caldera processes. Eruptions at other post-caldera cones include a VEI 3 event at Segorowedi around 330 CE and VEI 2 activity at Widodaren around 190 CE.\n\nHistorical eruptions, documented since 1804 CE, have been almost exclusively from the Bromo cone. The 19th century was remarkably active, with eruptions recorded in virtually every decade from the 1800s through the 1890s. The 20th century continued this pattern, with significant activity in the 1900s–1910s, 1928–1930, 1935–1950, and 1972–1984. The 21st century has seen eruptions in 2000–2001, 2004, 2010–2011, 2015–2016, 2019, 2020, 2021, and 2023, confirming Bromo as one of Java's most reliably active volcanic vents. Most eruptions are small — VEI 1–2 — involving phreatic (steam-driven) or phreatomagmatic explosions that produce ash plumes and minor tephra fall. The notable exceptions include VEI 3 events in 330 CE, 1915–1916, 1948, and 2010–2011, which produced more significant explosive activity and ashfall."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2010–2011 Eruption — Bromo Reawakens",
+          "content": "Beginning on November 26, 2010, Mount Bromo entered its most significant eruptive episode in decades, producing a VEI 3 eruption that lasted into 2011. The eruption generated ash columns reaching 2–3 km above the crater, depositing significant ashfall across surrounding communities and agricultural land. Volcanic bombs and ballistic blocks were ejected from the crater, and the eruption forced the closure of the Bromo Tengger Semeru National Park to visitors for months — a significant economic blow to the local tourism industry.\n\nThe eruption also triggered mudflows during the rainy season as rainfall mobilized the thick ashfall deposits on the caldera walls and surrounding slopes. Several communities on the northern and eastern flanks experienced damage from lahars. The event was a reminder that even a volcano known primarily for small, photogenic eruptions can escalate to more dangerous levels. The 2010–2011 eruption prompted a reassessment of hazard zones and evacuation procedures for both the tourist infrastructure and surrounding settlements."
+        },
+        {
+          "title": "The 1948 Eruption — The Largest Modern Event",
+          "content": "The VEI 3 eruption of February 15, 1948, was the most powerful eruption at Bromo during the 20th century. The eruption produced a sustained explosive event with significant ashfall across a wide area of eastern Java. The 1948 event demonstrated that Bromo, while typically producing small eruptions, maintains the capacity for more substantial explosive activity. This eruption serves as the primary reference point for hazard planning related to larger-than-typical events at the Bromo vent."
+        },
+        {
+          "title": "The ~830 BCE Eruption — Caldera-Forming Event (VEI 4)",
+          "content": "The largest known eruption associated with the Tengger complex occurred approximately 830 BCE, during a major phase of the Sandsea caldera's formation. This VEI 4 event produced extensive pyroclastic deposits and contributed to the enlargement of the caldera to its present 9 × 10 km dimensions. The eruption demonstrates that the Tengger system is capable of producing explosions far larger than the typical Bromo eruptions that characterize modern activity. A repeat of this caldera-associated eruption would have devastating consequences for the surrounding region."
+        },
+        {
+          "title": "The 2015–2016 Eruption — Tourism and Hazard",
+          "content": "The November 2015 to 2016 eruption of Bromo (VEI 2) highlighted the ongoing tension between volcanic hazard and the economic importance of tourism at the caldera. Ash emissions forced repeated closures of the national park, stranding tourists and affecting the livelihoods of local guides, jeep operators, and hotel owners who depend on Bromo tourism. The eruption also deposited ash on the caldera floor, temporarily altering the iconic Sea of Sand landscape. This event contributed to the development of improved real-time monitoring and alert systems specifically designed to manage tourist safety during eruptions."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Tengger Caldera's most recent eruption occurred on December 13, 2023, when Bromo produced a brief explosive event. Indonesia's CVGHM maintains a monitoring network including seismometers, visual observation posts, and satellite-based ash detection systems. The alert level for Bromo fluctuates between Level I (Normal) and Level II (Advisory), with periodic escalation to Level III (Watch) during eruptive episodes.\n\nBromo's eruption frequency — averaging roughly one event every 2–4 years in recent decades — means that the monitoring system must be perpetually vigilant. The primary challenge is managing the large volume of tourists who visit the caldera daily (sometimes exceeding 5,000 visitors per day during peak season), many of whom approach the active crater rim. CVGHM maintains an exclusion zone around the Bromo crater during elevated activity, but enforcement in the vast caldera landscape is difficult. Real-time seismic data and webcam feeds are used to provide early warning of changes in volcanic activity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The primary hazards at Tengger Caldera differ depending on eruption scale. During typical small eruptions (VEI 1–2), the main hazards are ashfall on surrounding communities and agricultural land, volcanic gas emissions (particularly SO₂) near the crater, and ballistic projectiles within 1–2 km of the vent. These hazards primarily affect tourists on the caldera floor and nearby communities.\n\nFor larger potential eruptions (VEI 3–4), the hazard zone expands dramatically. Pyroclastic flows could sweep across the caldera floor, which is regularly occupied by hundreds of tourists, and potentially overtop the caldera rim onto the surrounding slopes. Lahars, generated when heavy rainfall mobilizes thick ash deposits during the wet season, represent a significant secondary hazard for communities on the lower slopes. Approximately 800,000 people live within 30 km of the caldera, and the dense agricultural communities on the northern and eastern flanks would be most vulnerable to ashfall and lahars. A caldera-forming event comparable to ~830 BCE, while low-probability, would be catastrophic for the entire region."
+    },
+    "geography_and_physical_description": {
+      "content": "The Tengger complex is one of Java's most dramatic landscapes. The outer Tengger caldera, approximately 16 km wide, is surrounded by steep walls rising 200–600 m above the caldera floor. Within this, the inner Sandsea caldera measures 9 × 10 km and contains the famous Lautan Pasir (Sea of Sand) — a vast, flat expanse of grey volcanic sand at approximately 2,100 m elevation that creates an eerily desert-like landscape unique in tropical Java.\n\nRising from this sand sea are the post-caldera cones: Bromo (the active, smoking cone with its wide crater), Batok (a symmetrical, vegetated extinct cone), Kursi, and Widodaren. The photogenic juxtaposition of these cones against the vast caldera floor and the distant backdrop of <a href=\"/volcano/semeru\">Semeru's</a> smoking summit has made this landscape one of the most photographed in Indonesia. The caldera rim is accessible from several directions, with the Penanjakan viewpoint (2,770 m) on the northwestern rim offering the iconic sunrise panorama. The Sea of Sand can be crossed on foot, horseback, or by jeep to reach the foot of Bromo, from where a concrete stairway of 253 steps leads to the crater rim."
+    },
+    "climate_and_global_impact": {
+      "content": "Tengger Caldera's eruptions have been exclusively local to regional in climatic impact. The typically small eruptions at Bromo (VEI 1–2) inject minimal material into the atmosphere. Even the largest known event (VEI 4 at ~830 BCE) would not have been sufficient to cause global climate perturbation comparable to eruptions at <a href=\"/volcano/tambora\">Tambora</a> or <a href=\"/volcano/pinatubo\">Pinatubo</a>. The primary broader impact of Tengger Caldera's activity is economic, through disruption to the regional tourism industry and agriculture during eruptions."
+    },
+    "cultural_significance": {
+      "content": "Tengger Caldera holds extraordinary cultural significance as the spiritual heartland of the Tenggerese people, a Hindu minority of approximately 100,000 who live in communities on the caldera rim and surrounding slopes. The Tenggerese trace their lineage to the Majapahit kingdom and have maintained Hindu traditions since before the Islamization of Java. Their most important ritual, the annual Kasada ceremony (Yadnya Kasada), takes place at Bromo's crater, where offerings of rice, vegetables, livestock, and money are thrown into the smoking vent to appease the gods and ensure agricultural prosperity.\n\nThe ceremony draws thousands of participants and spectators, including Tenggerese who descend into the crater to catch offerings thrown by others (a practice both spiritually and physically hazardous). The name 'Tengger' is traditionally derived from the legendary figures Roro Anteng and Joko Seger, whose combined names form 'Tengger.' Bromo itself is named after Brahma, the Hindu god of creation. This living spiritual relationship between an active volcano and a devoted human community makes Tengger Caldera one of the most culturally significant volcanic landscapes in the world — comparable to the relationship between the Balinese and Mount Agung."
+    },
+    "visiting_and_tourism": {
+      "content": "Tengger Caldera is one of Indonesia's top tourist destinations and the most-visited volcanic landscape in Java. The primary experience is the sunrise viewpoint at Penanjakan (2,770 m) on the caldera's northwestern rim, where visitors gather before dawn to watch the sun illuminate the caldera, the post-caldera cones, and the distant summit of Semeru — a spectacle consistently ranked among the world's greatest natural panoramas. After sunrise, visitors descend to the Sea of Sand (by jeep, horseback, or on foot) and climb the 253 concrete steps to Bromo's crater rim, where they can peer into the smoking vent.\n\nThe main access point is the town of Cemoro Lawang on the caldera rim, reached from Probolinggo (30 km north, with train connections to Surabaya) or from the southern approach via Malang. Accommodations range from budget guesthouses in Cemoro Lawang to hotels in Probolinggo and Malang. Visit timing is crucial: the dry season (April–October) offers the best visibility, while the wet season brings fog and rain. During periods of elevated volcanic activity, the national park closes the approach to Bromo's crater, though the caldera floor and viewpoints may remain accessible. An entry fee to Bromo Tengger Semeru National Park is required."
+    },
+    "nearby_volcanoes": {
+      "content": "Tengger Caldera sits at the northern end of a volcanic massif that extends southward to <a href=\"/volcano/semeru\">Semeru</a> (3,676 m), Java's tallest volcano and one of its most continuously active, which produces near-daily ash emissions visible from the Tengger caldera rim. To the east, <a href=\"/volcano/raung\">Raung</a> (3,260 m) is another massive and frequently erupting stratovolcano. Further east, the Ijen caldera complex includes the famous acid lake and sulfur mining operation of Kawah Ijen. Together, these eastern Javanese volcanoes form one of the most volcanically concentrated and visually dramatic regions in <a href=\"/volcanoes-in-indonesia\">Indonesia</a> and are increasingly marketed as a multi-day volcanic tourism circuit."
+    },
+    "etymology": {
+      "content": "The name 'Tengger' is traditionally derived from the legendary Tenggerese ancestors Roro Anteng and Joko Seger, whose combined names form 'Teng-ger.' The caldera and surrounding region take their name from the Tenggerese people who have inhabited the area for centuries. 'Bromo' is derived from 'Brahma,' the Hindu god of creation in the Tenggerese tradition. The Lautan Pasir ('Sea of Sand') takes its descriptive name from the vast, flat, sandy caldera floor that resembles a desert landscape."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Tengger Caldera Compared to Other Major Calderas in Indonesia",
+      "description": "How does Tengger Caldera compare to Indonesia's other prominent caldera systems?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Tengger Caldera",
+          "Indonesia",
+          "2,329 m",
+          "Caldera complex",
+          "2023",
+          "4",
+          "72"
+        ],
+        [
+          "Krakatau",
+          "Indonesia",
+          "155 m",
+          "Caldera",
+          "2023",
+          "6",
+          "28"
+        ],
+        [
+          "Toba",
+          "Indonesia",
+          "2,157 m",
+          "Caldera",
+          "~69,000 BCE",
+          "8",
+          "4"
+        ],
+        [
+          "Batur",
+          "Indonesia",
+          "1,717 m",
+          "Caldera",
+          "2000",
+          "4",
+          "28"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "2,850 m",
+          "Stratovolcano",
+          "1967",
+          "7",
+          "8"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -5260,
+      "vei": null,
+      "label": "Earliest known eruption — Sandsea caldera formation phase",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -830,
+      "vei": 4,
+      "label": "Major caldera-forming eruption (VEI 4)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 330,
+      "vei": 3,
+      "label": "VEI 3 eruption at Segorowedi cone",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1804,
+      "vei": 2,
+      "label": "First historically documented eruption at Bromo",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1915,
+      "vei": 3,
+      "label": "Significant explosive eruption at Bromo (1915–1916)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1948,
+      "vei": 3,
+      "label": "Largest 20th-century eruption at Bromo",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2010,
+      "vei": 3,
+      "label": "Major eruption — park closure, lahars, ashfall (2010–2011)",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 1,
+      "label": "Most recent eruption",
+      "deaths": 0,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric (before 1590 CE)",
+      "count": 5
+    },
+    {
+      "century": "17th–18th",
+      "count": 3,
+      "note": "Limited records; activity likely underreported"
+    },
+    {
+      "century": "19th",
+      "count": 28,
+      "note": "Intense activity at Bromo, eruptions nearly every decade"
+    },
+    {
+      "century": "20th",
+      "count": 24
+    },
+    {
+      "century": "21st (2000–2023)",
+      "count": 12
+    }
+  ],
+  "facts": [
+    "Tengger Caldera's 'Sea of Sand' (Lautan Pasir) is a 9 × 10 km desert-like expanse of volcanic sand at 2,100 m elevation — one of the most surreal landscapes in tropical Indonesia.",
+    "Mount Bromo is named after Brahma, the Hindu god of creation, reflecting the centuries-old Hindu traditions of the Tenggerese people.",
+    "The annual Kasada ceremony involves Tenggerese Hindus throwing offerings of rice, livestock, and money into Bromo's active crater to appease the gods.",
+    "The massive Tengger volcanic complex dates back approximately 820,000 years and includes five overlapping stratovolcanoes, each truncated by its own caldera.",
+    "Bromo has erupted 72 times in recorded history, with activity in virtually every decade since 1804.",
+    "The Penanjakan sunrise viewpoint (2,770 m) on the caldera rim offers one of the most iconic volcanic panoramas in the world, overlooking the caldera, cones, and distant Semeru.",
+    "More than 500,000 tourists visit Tengger Caldera annually, making it one of Indonesia's most popular natural attractions.",
+    "The ~830 BCE VEI 4 eruption was associated with a major phase of caldera formation, demonstrating the system's capacity for eruptions far larger than Bromo's typical activity.",
+    "A concrete stairway of 253 steps leads from the Sea of Sand to Bromo's crater rim, allowing visitors to peer into the smoking vent.",
+    "The Tenggerese are a Hindu minority of approximately 100,000 people living on the caldera rim, maintaining traditions predating the Islamization of Java.",
+    "Bromo's eruptions are typically small (VEI 1–2) phreatic or phreatomagmatic events, producing ash plumes and steam rather than lava flows.",
+    "Approximately 800,000 people live within 30 km of the caldera, primarily in agricultural communities growing vegetables and flowers on the fertile volcanic slopes."
+  ],
+  "faqs": [
+    {
+      "question": "Is Mount Bromo still active?",
+      "answer": "Yes, Mount Bromo is one of the most active volcanic vents in Java. It last erupted on December 13, 2023, and has produced eruptions in 2019, 2020, 2021, and 2023 in recent years alone. The volcano averages roughly one eruption every 2–4 years, though these are typically small (VEI 1–2) phreatic or phreatomagmatic events. Bromo's crater continuously emits sulfurous gases and steam, and the volcano is monitored by CVGHM with seismometers and webcams. Larger VEI 3 eruptions occur less frequently but have been documented in 1915, 1948, and 2010–2011."
+    },
+    {
+      "question": "What is Tengger Caldera?",
+      "answer": "Tengger Caldera is a massive 16-km-wide volcanic complex in East Java, Indonesia, containing multiple nested calderas and post-caldera volcanic cones. The most famous feature is the inner Sandsea caldera (9 × 10 km), a flat expanse of volcanic sand called the 'Sea of Sand' from which several cones rise, including the active Bromo and the extinct Batok. The complex dates back approximately 820,000 years and includes five overlapping stratovolcanoes. Bromo, the youngest cone, has been the focus of nearly all historical eruptions. The entire complex lies within Bromo Tengger Semeru National Park."
+    },
+    {
+      "question": "Can you visit Mount Bromo?",
+      "answer": "Yes, Mount Bromo is one of Indonesia's most visited volcanoes and a major tourist destination. The classic experience involves watching sunrise from the Penanjakan viewpoint (2,770 m) on the caldera rim, then descending to cross the Sea of Sand and climbing 253 steps to Bromo's crater rim. The main access point is Cemoro Lawang, reached from Probolinggo (30 km) or Malang (50 km). The dry season (April–October) offers the best conditions. During volcanic eruptions, the approach to the crater may be closed while the wider caldera area remains accessible. National park entry fees apply."
+    },
+    {
+      "question": "What is the Kasada ceremony at Bromo?",
+      "answer": "The Kasada ceremony (Yadnya Kasada) is an annual Hindu ritual performed by the Tenggerese people at Bromo's active crater. Held on the 14th day of the Kasada month in the Tenggerese calendar (typically around June–July), participants climb to the crater rim and throw offerings of rice, vegetables, flowers, livestock, and money into the smoking vent to honor the gods and ensure agricultural prosperity. The ceremony draws thousands of participants and spectators. Some participants descend into the crater to catch offerings thrown by others — a practice that is both spiritually significant and physically hazardous given the volcanic gases and unstable terrain."
+    },
+    {
+      "question": "How big is Tengger Caldera?",
+      "answer": "The outer Tengger caldera is approximately 16 km wide, making it one of the larger calderas in Java. Within this, the inner Sandsea caldera (Lautan Pasir) measures 9 × 10 km and contains the post-caldera cones including Bromo and Batok. The caldera walls rise 200–600 m above the caldera floor, which sits at approximately 2,100 m elevation. The caldera rim reaches 2,329 m at its highest point. For comparison, this makes the Sandsea caldera roughly similar in size to Crater Lake in Oregon (8 × 10 km), though far more accessible."
+    },
+    {
+      "question": "Is Bromo dangerous?",
+      "answer": "Mount Bromo presents a moderate volcanic hazard. Its frequent eruptions are typically small (VEI 1–2), producing ash plumes and steam, but larger VEI 3 events have occurred (most recently in 2010–2011). The primary risks to visitors include volcanic gas emissions (SO₂) near the crater, ballistic projectiles during eruptions, and the unstable terrain of the crater rim. The larger risk is to surrounding communities from ashfall and lahars during the rainy season. Approximately 800,000 people live within 30 km. A repeat of the ~830 BCE VEI 4 caldera-related eruption, while unlikely, would be catastrophic."
+    },
+    {
+      "question": "What is the Sea of Sand at Bromo?",
+      "answer": "The Sea of Sand (Lautan Pasir) is a vast, flat expanse of grey volcanic sand and ash covering the floor of the Sandsea caldera within the Tengger complex. Measuring approximately 9 × 10 km, it creates a surreal desert-like landscape at 2,100 m elevation — an otherworldly environment in the middle of tropical, humid Java. The sand sea is composed of eroded volcanic deposits from the caldera walls and cones. Visitors cross it on foot, horseback, or by jeep to reach the base of Mount Bromo. The contrast between the barren sand sea and the surrounding tropical forests is one of Java's most striking natural spectacles."
+    },
+    {
+      "question": "When is the best time to visit Bromo?",
+      "answer": "The best time to visit Bromo is during the dry season, from April to October, when clear skies maximize the chance of witnessing the iconic sunrise over the caldera. June through August offers the driest and clearest conditions. The wet season (November–March) brings frequent fog, rain, and reduced visibility, though the landscape can be dramatic in misty conditions. The Kasada ceremony (usually June–July) offers a unique cultural experience but draws large crowds. Weekends and Indonesian holidays are extremely busy. Always check CVGHM volcanic alert levels before visiting, as crater access closes during eruptions."
+    }
+  ],
+  "people_also_search": [
+    "mount bromo sunrise",
+    "bromo tengger semeru national park",
+    "mount bromo eruption",
+    "bromo caldera indonesia",
+    "kasada ceremony bromo",
+    "how to get to mount bromo",
+    "sea of sand bromo",
+    "mount bromo vs semeru"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Tengger Caldera",
+    "alternateName": [
+      "Mount Bromo",
+      "Gunung Bromo",
+      "Kaldera Tengger",
+      "Bromo-Tengger"
+    ],
+    "description": "16-km-wide volcanic caldera complex in East Java, Indonesia, containing Mount Bromo — one of Java's most active and most visited volcanoes",
+    "geo": {
+      "latitude": -7.942,
+      "longitude": 112.95,
+      "elevation": 2329
+    },
+    "containedInPlace": {
+      "name": "East Java",
+      "country": "Indonesia"
+    },
+    "url": "https://volcanoatlas.com/volcano/tengger-caldera"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=263310",
+      "text": "Smithsonian GVP: Tengger Caldera",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://magma.esdm.go.id/",
+      "text": "CVGHM MAGMA Indonesia — Volcanic Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Bromo",
+      "text": "Britannica: Mount Bromo",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.indonesia.travel/gb/en/destinations/java/mount-bromo",
+      "text": "Indonesia Tourism: Mount Bromo",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "semeru",
+      "raung",
+      "krakatau",
+      "merapi",
+      "tambora"
+    ],
+    "country_pages": [
+      "indonesia"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "semeru",
+    "raung",
+    "merapi",
+    "krakatau",
+    "tambora"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Indonesia",
+      "url": "/volcanoes-in-indonesia"
+    },
+    {
+      "label": "Tengger Caldera",
+      "url": "/volcano/tengger-caldera"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tengger-caldera"
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "honduras",
+  "title": "Volcanoes in Honduras",
+  "meta_title": "Volcanoes in Honduras \u2014 Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Honduras has 3 Holocene volcanoes along the Central America Volcanic Arc. Explore Isla del Tigre, Zacate Grande, and the Lago Yojoa volcanic field.",
+  "quick_answer": {
+    "how_many": "Honduras has 3 Holocene volcanoes recognized by the Smithsonian Global Volcanism Program: Isla del Tigre, Isla Zacate Grande, and the Lago Yojoa volcanic field.",
+    "how_many_active": "None of Honduras's volcanoes are considered currently active. No historically observed eruptions have been recorded at any Honduran volcano.",
+    "why": "Honduras's volcanism is related to the Central America Volcanic Arc, where the Cocos Plate subducts beneath the Caribbean Plate. However, Honduras lies behind the main arc front, resulting in less frequent volcanic activity than its neighbors.",
+    "tallest": "Lago Yojoa volcanic field at 1,060 m (3,478 ft)",
+    "most_recent": "Lago Yojoa \u2014 confirmed eruption dated to approximately 7638 BCE"
+  },
+  "hero": {
+    "title": "Volcanoes in Honduras",
+    "subtitle": "Behind the Central America Volcanic Arc",
+    "volcano_count": 3,
+    "active_count": 0,
+    "tallest": {
+      "name": "Lago Yojoa volcanic field",
+      "elevation_m": 1060
+    },
+    "most_recent_eruption": {
+      "volcano": "Lago Yojoa",
+      "year": "~7638 BCE"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "Honduras has 3 Holocene volcanoes cataloged by the Smithsonian Global Volcanism Program, all situated within the Central America Volcanic Arc region. This modest count places Honduras among the least volcanically active countries in Central America \u2014 a striking contrast to its neighbors [[country:guatemala|Guatemala]] (18 Holocene volcanoes), [[country:el-salvador|El Salvador]] (16), and [[country:nicaragua|Nicaragua]] (13), which lie directly along the volcanic arc front. Honduras's volcanic quiet is a consequence of its position: the country sits behind (northeast of) the main line of subduction-zone volcanoes, in a region where the subducting Cocos Plate is deeper and produces less surface volcanic activity. The three Honduran volcanoes are geographically separated: [[volcano:tigre-isla-del|Isla del Tigre]] and [[volcano:zacate-grande-isla|Isla Zacate Grande]] are island stratovolcanoes in the Gulf of Fonseca at the country's southern tip, while the [[volcano:yojoa-lago|Lago Yojoa]] volcanic field is an inland cluster of scoria cones in the western highlands. None of Honduras's volcanoes have erupted in historical times; the most recent confirmed eruption dates to approximately 7638 BCE at the Lago Yojoa field. Honduras's volcanic heritage is thus entirely prehistoric, though the country's position within a tectonically active region means future activity cannot be completely excluded."
+    },
+    "why_honduras_has_volcanoes": {
+      "content": "Honduras's volcanism is genetically related to the Central America Volcanic Arc (CAVA), one of the most active volcanic belts in the world, formed by the subduction of the Cocos Plate beneath the Caribbean Plate along the Middle America Trench. However, Honduras occupies a unique position within this arc: rather than sitting directly above the subduction zone (as Guatemala, El Salvador, and Nicaragua do), Honduras lies to the northeast, in the back-arc region where the subducting slab is deeper and volcanic activity is correspondingly less intense. The subduction zone produces magma at greater depth beneath Honduras, and the thicker continental crust (greater than 25 km) further inhibits magma reaching the surface. This tectonic geometry explains why Honduras has only 3 Holocene volcanoes while neighboring El Salvador, a much smaller country, has 16. The Gulf of Fonseca volcanoes (Isla del Tigre and Zacate Grande) lie at the southern tip of Honduras where the country's Pacific coastline approaches the volcanic arc front most closely. The Lago Yojoa volcanic field, further inland, represents back-arc volcanism where localized tectonic extension has allowed magma to reach the surface. Honduras is part of the broader [[special:ring-of-fire|Ring of Fire]] system, though its volcanic expression is the most subdued of any Central American country on the Pacific side."
+    },
+    "major_volcanoes": {
+      "content": "**Isla del Tigre** \u2014 [[volcano:tigre-isla-del|Isla del Tigre]] is a small, conical basaltic [[special:types-of-volcanoes|stratovolcano]] forming a 5 km wide island in the Gulf of Fonseca, connected by a narrow 2 km strait to Isla Zacate Grande. At 774 m (2,539 ft), it is the southernmost volcano in Honduras. The island is less erosionally dissected than its neighbor, suggesting it is the younger of the two Gulf of Fonseca volcanoes. No eruptions have been documented in the Smithsonian database, and the volcano is classified with 'Evidence Credible' for Holocene activity based on its youthful morphology. The island supports a small fishing community and the historic port town of Amapala, which briefly served as Honduras's primary Pacific port.\n\n**Isla Zacate Grande** \u2014 [[volcano:zacate-grande-isla|Isla Zacate Grande]] is a low, broad stratovolcano forming an island approximately 7 x 10 km wide, connected to the mainland by a narrow isthmus surrounded by the Gulf of Fonseca. It reaches 640 m (2,100 ft) and features at least seven satellitic cones, some of which form small offshore islands. The volcano is more deeply eroded than Isla del Tigre, suggesting an older age for its main edifice. No eruptions are recorded. The island's basaltic composition (picro-basalt) is consistent with subduction-related arc volcanism.\n\n**Lago Yojoa Volcanic Field** \u2014 The [[volcano:yojoa-lago|Lago Yojoa]] volcanic field consists of a group of Pleistocene-to-Holocene scoria cones and collapse pits in western Honduras, north of Lake Yojoa \u2014 the country's largest natural lake. The field reaches 1,060 m (3,478 ft) at Cerro Babilonia, the principal NE-trending chain of cones. The volcanic rocks are trachybasaltic to basanitic in composition. The Smithsonian database records 2 confirmed eruptions: one dated to approximately 11073 BCE and the most recent to approximately 7638 BCE, making it the only Honduran volcanic system with dated Holocene eruptions. The field's scoria cones and associated lava flows are now surrounded by Honduras's most important freshwater ecosystem."
+    },
+    "eruption_history": {
+      "content": "Honduras has no historically observed volcanic eruptions. Its entire eruption record is known only through geological dating and morphological evidence. The Smithsonian database records just 2 eruption events, both at the Lago Yojoa volcanic field: one dated to approximately 11073 BCE and one to approximately 7638 BCE. Neither has an assigned [[special:volcanic-explosivity-index|VEI]] value, reflecting limited study of these prehistoric events. The Gulf of Fonseca volcanoes (Isla del Tigre and Zacate Grande) have no recorded eruptions at all, though their Holocene classification is based on credible morphological evidence of geologically recent activity. The absence of historical eruptions in Honduras contrasts sharply with its Central American neighbors: [[country:guatemala|Guatemala]] has experienced devastating eruptions within living memory (Fuego 2018, killing 190+), [[country:el-salvador|El Salvador]]'s Ilamatepec erupted in 2005, and [[country:nicaragua|Nicaragua]]'s Telica and San Crist\u00f3bal erupt regularly. Honduras's volcanic quiet is consistent with its back-arc tectonic position. However, the 9,600-year gap since the last known eruption does not preclude future activity \u2014 similar back-arc volcanic fields elsewhere have reactivated after comparable dormancy periods."
+    },
+    "volcanic_hazards": {
+      "content": "The volcanic hazard level in Honduras is assessed as low, significantly lower than any of its Central American neighbors. The absence of historical eruptions, the small number of volcanic systems, and the back-arc tectonic position all contribute to this assessment. The Gulf of Fonseca island volcanoes pose the greatest theoretical concern, as they support small permanent populations and a reactivation would give limited evacuation options due to the island setting. The Lago Yojoa volcanic field, while on the mainland, lies near Honduras's most important freshwater lake; an eruption could potentially affect water quality and the lake's ecosystem. Honduras does not operate a dedicated volcano monitoring network, though seismic monitoring for earthquake hazards provides some relevant data. The country's primary natural hazard concerns are hurricanes, flooding, and earthquakes rather than volcanic eruptions."
+    },
+    "volcanic_zones_map": {
+      "content": "Honduras's three volcanoes are distributed across two distinct geographic zones. The Gulf of Fonseca volcanoes \u2014 Isla del Tigre and Isla Zacate Grande \u2014 are located at the extreme southern tip of Honduras at approximately 13.3\u00b0N latitude. These island volcanoes are the closest Honduran volcanic features to the main Central America Volcanic Arc front. The Lago Yojoa volcanic field lies approximately 200 km to the north-northwest, in the western highlands at approximately 15.0\u00b0N latitude, north of the country's largest natural lake. This inland position reflects back-arc tectonic extension."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Honduras's volcanic features, while modest in scale, contribute to the country's natural heritage and economy. Lake Yojoa, surrounded by the volcanic field of the same name, is Honduras's largest natural lake and one of its most important ecological sites, supporting over 480 bird species and a significant freshwater fishery. Isla del Tigre in the Gulf of Fonseca holds historical significance: the town of Amapala served as Honduras's main Pacific port in the 19th century and played a role in Central American political history. The Gulf of Fonseca's volcanic islands support artisanal fishing communities."
+    },
+    "visiting_volcanoes": {
+      "content": "Honduras's volcanic sites are accessible but relatively little developed for tourism. Isla del Tigre is reachable by boat from the mainland, and the island offers hiking to the 774 m summit with panoramic views of the Gulf of Fonseca. Isla Zacate Grande is accessible by road via a narrow isthmus. Lake Yojoa is one of Honduras's premier ecotourism destinations, easily accessible from the main highway between San Pedro Sula and Tegucigalpa. The lake area offers birdwatching (480+ species), fishing, and visits to the nearby Pulhapanzak waterfall and the pre-Columbian site of Los Naranjos. For active volcanic experiences, the nearby volcanoes of [[country:el-salvador|El Salvador]] and [[country:guatemala|Guatemala]] offer more dramatic options within easy travel distance."
+    }
+  },
+  "volcano_table": {
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      [
+        1,
+        "Lago Yojoa",
+        "yojoa-lago",
+        1060,
+        "Volcanic field",
+        "~7638 BCE",
+        "Dormant",
+        2,
+        null
+      ],
+      [
+        2,
+        "Isla del Tigre",
+        "tigre-isla-del",
+        774,
+        "Stratovolcano",
+        "Unknown (Holocene)",
+        "Dormant",
+        0,
+        null
+      ],
+      [
+        3,
+        "Isla Zacate Grande",
+        "zacate-grande-isla",
+        640,
+        "Stratovolcano",
+        "Unknown (Holocene)",
+        "Dormant",
+        0,
+        null
+      ]
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Lago Yojoa",
+      "elevation": 1060,
+      "slug": "yojoa-lago"
+    },
+    {
+      "name": "Isla del Tigre",
+      "elevation": 774,
+      "slug": "tigre-isla-del"
+    },
+    {
+      "name": "Isla Zacate Grande",
+      "elevation": 640,
+      "slug": "zacate-grande-isla"
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -11073,
+      "volcano": "Lago Yojoa",
+      "vei": null,
+      "label": "Oldest dated eruption in Honduras"
+    },
+    {
+      "year": -7638,
+      "volcano": "Lago Yojoa",
+      "vei": null,
+      "label": "Most recent confirmed eruption in Honduras"
+    }
+  ],
+  "vei_distribution": [],
+  "facts": [
+    "Honduras has no historically observed volcanic eruptions \u2014 the only Central American Pacific-coast country with a completely blank historical eruption record.",
+    "The most recent confirmed eruption in Honduras occurred approximately 9,600 years ago at the Lago Yojoa volcanic field.",
+    "Honduras has only 3 Holocene volcanoes compared to 18 in Guatemala and 16 in El Salvador, reflecting its back-arc tectonic position.",
+    "Isla del Tigre's town of Amapala served as Honduras's main Pacific port in the 19th century.",
+    "Lake Yojoa, Honduras's largest natural lake, is surrounded by volcanic scoria cones and lava flows.",
+    "The Lago Yojoa area supports over 480 bird species, making the volcanic landscape one of Central America's premier birdwatching sites.",
+    "Honduras's Gulf of Fonseca island volcanoes are two of only a handful of island stratovolcanoes in Central American Pacific waters.",
+    "None of Honduras's three volcanoes has an assigned VEI value for any eruption.",
+    "The Lago Yojoa volcanic field produces trachybasaltic to basanitic lavas, distinct from typical calc-alkaline arc volcanoes of neighboring countries.",
+    "Honduras lies behind the main Central America Volcanic Arc front \u2014 the subducting Cocos Plate is deeper beneath Honduras, reducing volcanic activity."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Honduras?",
+      "answer": "Honduras has 3 Holocene volcanoes recognized by the Smithsonian Global Volcanism Program: the Lago Yojoa volcanic field (1,060 m) in the western highlands, Isla del Tigre (774 m) in the Gulf of Fonseca, and Isla Zacate Grande (640 m) also in the Gulf of Fonseca. This is the lowest count of any Central American country on the Pacific side, reflecting Honduras's position behind the main volcanic arc front."
+    },
+    {
+      "question": "Does Honduras have active volcanoes?",
+      "answer": "No, Honduras does not have any currently active volcanoes. None of its three Holocene volcanic systems have erupted in historical times. The most recent confirmed eruption occurred approximately 9,600 years ago at the Lago Yojoa volcanic field. While future eruptions cannot be completely ruled out, Honduras is the least volcanically active country in Pacific Central America."
+    },
+    {
+      "question": "When was the last volcanic eruption in Honduras?",
+      "answer": "The last confirmed volcanic eruption in Honduras occurred at the Lago Yojoa volcanic field approximately 9,600 years ago (roughly 7638 BCE). This is known from geological dating rather than historical observation. Honduras has no historical eruption record."
+    },
+    {
+      "question": "Why does Honduras have so few volcanoes?",
+      "answer": "Honduras has few volcanoes because it lies behind (northeast of) the main Central America Volcanic Arc front. While the Cocos Plate subducts beneath the Caribbean Plate along the Middle America Trench, the zone of intense volcanism passes through Guatemala, El Salvador, and Nicaragua rather than Honduras. Beneath Honduras, the subducting slab is deeper and the continental crust is thicker, both reducing volcanic activity at the surface."
+    },
+    {
+      "question": "Is Isla del Tigre a volcano?",
+      "answer": "Yes, Isla del Tigre is a small basaltic stratovolcano forming a 5 km wide island in the Gulf of Fonseca at Honduras's southern tip. The conical island rises to 774 m (2,539 ft) and shows a relatively young morphology. No eruptions have been historically documented, but it is classified as Holocene-age. The island supports a fishing community and the historic town of Amapala."
+    },
+    {
+      "question": "Can you visit volcanoes in Honduras?",
+      "answer": "Yes, Honduras's volcanic sites are accessible. Isla del Tigre is reachable by boat and offers summit hiking with Gulf of Fonseca views. Lake Yojoa, surrounded by the Lago Yojoa volcanic field, is one of Honduras's top ecotourism destinations with 480+ bird species and fishing opportunities. For active volcanic experiences, nearby Guatemala and El Salvador offer more dramatic options."
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=343150",
+      "text": "Smithsonian GVP: Lago Yojoa",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=343130",
+      "text": "Smithsonian GVP: Isla del Tigre",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=343140",
+      "text": "Smithsonian GVP: Isla Zacate Grande",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Honduras",
+      "text": "Britannica: Honduras",
+      "type": "encyclopedia"
+    }
+  ],
+  "related_countries": [
+    "guatemala",
+    "el-salvador",
+    "nicaragua",
+    "costa-rica"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Honduras",
+      "url": "/volcanoes-in-honduras"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

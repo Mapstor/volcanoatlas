@@ -1,0 +1,174 @@
+{
+  "slug": "turkiye",
+  "title": "Volcanoes in Türkiye",
+  "meta_title": "Volcanoes in Türkiye — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Türkiye has 7 Holocene volcanoes including Mount Ararat (5,165 m). Full list with map, eruption history, tectonic context, and geological guide.",
+
+  "quick_answer": {
+    "how_many": "Türkiye has 7 Holocene volcanoes, ranging from Mount Ararat (5,165 m) in the far east to the Kula volcanic field in western Anatolia.",
+    "how_many_active": "Three Turkish volcanoes have confirmed historical eruptions: Ararat (last 1840), Tendürük Dağı (last 1855), and Nemrut Dağı (last 1650). All activity in the last 400 years has been in eastern Anatolia.",
+    "why": "Türkiye's volcanism results from the complex collision between the Arabian, African, and Eurasian plates, generating intraplate magmatism across Anatolia rather than a conventional subduction arc.",
+    "tallest": "Mount Ararat (Ağrı Dağı) at 5,165 m (16,946 ft) — the tallest peak in Türkiye",
+    "most_recent": "Tendürük Dağı in 1855"
+  },
+
+  "hero": {
+    "title": "Volcanoes in Türkiye",
+    "subtitle": "7 Holocene Volcanoes Across Anatolia's Collision Zone",
+    "volcano_count": 7,
+    "active_count": 3,
+    "tallest": {"name": "Ararat", "elevation_m": 5165},
+    "most_recent_eruption": {"volcano": "Tendürük Dağı", "year": "1855"}
+  },
+
+  "sections": {
+    "overview": {
+      "content": "Türkiye has 7 Holocene volcanoes scattered across the Anatolian landmass, a geologically complex collision zone where the Arabian, African, and Eurasian plates converge. The country's tallest and most iconic volcanic peak is [[volcano:ararat|Mount Ararat]] (Ağrı Dağı) at 5,165 m (16,946 ft) — the highest point in Türkiye and one of the most culturally significant mountains in the world, traditionally identified as the resting place of Noah's Ark. Eastern Anatolia hosts the most volcanically active centers: Ararat last erupted in 1840, Tendürük Dağı in 1855, and Nemrut Dağı (not to be confused with the archaeological site Nemrut Dağ in southeastern Türkiye) around 1650. Central Anatolia contains two massive volcanic complexes — Erciyes Dağı (3,864 m) near Kayseri and the Hasandağ-Keçiboyduran complex (3,253 m), both of which shaped the extraordinary landscape of Cappadocia through millions of years of pyroclastic deposition and erosion. Western Anatolia's Kula volcanic field rounds out the country's volcanic inventory. Compared to [[country:italy|Italy]] (13 volcanoes) or [[country:greece|Greece]] (5 volcanoes) in the same broader Mediterranean tectonic zone, Türkiye's volcanism is less frequent but produces some of the region's tallest volcanic edifices. The Kandilli Observatory and Earthquake Research Institute (KOERI) and the General Directorate of Mineral Research and Exploration (MTA) monitor seismic and volcanic activity."
+    },
+
+    "tectonic_setting": {
+      "content": "Türkiye's volcanism is rooted in one of Earth's most tectonically complex regions. The Arabian Plate converges northward into the Eurasian Plate at approximately 20 mm per year along the Bitlis–Zagros suture, while the African Plate subducts northward beneath Anatolia along the Hellenic and Cyprus arcs. This three-plate collision has produced the Anatolian microplate — a tectonic block being squeezed westward along the North Anatolian and East Anatolian fault zones at roughly 20–25 mm per year. Türkiye's volcanism is classified as intraplate on continental crust exceeding 25 km, but the driving mechanisms vary regionally. In eastern Anatolia, collision-related volcanism produces the large volcanic edifices of Ararat, Tendürük Dağı, Nemrut Dağı, and Karaca Dağ. The thickened lithosphere has been partially removed or delaminated by the collision, allowing hot asthenospheric mantle to rise and generate magma. Ararat produces andesitic to basaltic-andesitic magmas, while Nemrut Dağı is notably evolved, erupting compositions from basalt to rhyolite, including distinctive obsidian flows that were traded across the ancient Near East. In central Anatolia, the Erciyes and Hasandağ complexes lie at the northern end of the Sultansazlığı Basin and are associated with extension and mantle upwelling in the Cappadocian volcanic province. The Kula volcanic field in western Anatolia represents decompression melting along extensional structures as the Anatolian plate moves westward and stretches toward the Aegean."
+    },
+
+    "major_volcanoes": {
+      "content": "**Mount Ararat (Ağrı Dağı)** — [[volcano:ararat|Mount Ararat]] (5,165 m / 16,946 ft) is Türkiye's tallest peak and largest-volume volcano, with an overall massif extending approximately 25 km northwest–southeast. The summit is permanently glaciated. Lesser Ararat (Küçük Ağrı Dağı, 3,896 m) rises 11 km to the southeast. Ararat has 3 confirmed eruptions, with a VEI maximum of 3. The 1840 eruption — Ararat's most recent — was triggered by a major earthquake that caused a massive debris avalanche and lahar, destroying the village of Ahora and killing up to 10,000 people (most deaths were earthquake-related). Ararat is a popular mountaineering destination, though it requires a climbing permit and authorized guide.\n\n**Nemrut Dağı** — [[volcano:nemrut-dagi|Nemrut Dağı]] (2,948 m / 9,672 ft) in eastern Anatolia near Lake Van is the only Turkish volcano with a well-documented historical eruption record, with 26 confirmed eruptions stretching back approximately 7,600 years. It features a 9 × 5 km summit caldera partially filled by a crater lake. Post-caldera volcanism ranges from basaltic to rhyolitic, including extensive obsidian flows. The most recent eruption occurred around 1650. Nemrut Dağı's obsidian was an important trade commodity in ancient Mesopotamia and Anatolia.\n\n**Tendürük Dağı** — Tendürük Dağı (3,514 m / 11,529 ft) is a broad shield volcano in the Ağrı Province of far eastern Türkiye, near the Iranian border. It has 2 confirmed eruptions; the most recent in 1855 produced lava flows. The volcano's low profile and basaltic composition make it less visually dramatic than Ararat, but it remains one of Türkiye's three historically active volcanoes.\n\n**Erciyes Volcanic Complex** — The Erciyes Volcanic Complex (3,864 m / 12,677 ft) dominates the skyline of Kayseri, one of Türkiye's largest cities (population ~1.4 million). It is a massive, heavily eroded stratovolcano at the center of a radial field containing over 100 lava domes and 40 scoria cones spanning 32 km in diameter. Erciyes has not erupted in historical times — its most recent confirmed eruption dates to approximately 6880 BCE — but an uncertain eruption in 253 CE is noted. A ski resort operates on its flanks, and the city of Kayseri lies directly in its shadow.\n\n**Hasandağ-Keçiboyduran Volcanic Complex** — This stratovolcano complex (3,253 m / 10,673 ft) in central Anatolia contributed heavily to the pyroclastic deposits that form the Cappadocia landscape. Two uncertain eruptions are recorded (~7550 and ~6750 BCE). It has not erupted in historical times. A Neolithic wall painting at Çatalhöyük (~6600 BCE) has been interpreted by some archaeologists as depicting an eruption of Hasandağ — potentially the oldest known depiction of a volcanic eruption.\n\n**Karaca Dağ** — Karaca Dağ (1,957 m / 6,421 ft) is a broad basaltic shield volcano in southeastern Türkiye near Diyarbakır. It has no confirmed Holocene eruptions but is notable as a candidate location for the early domestication of einkorn wheat.\n\n**Kula** — The Kula volcanic field (750 m / 2,461 ft) in western Anatolia (Manisa Province) contains basaltic cinder cones and lava flows. Known in antiquity as the 'Burnt Land' (Katakekaumene), it was described by the Greek geographer Strabo. It has no confirmed Holocene eruptions and is the westernmost volcanic center in Türkiye."
+    },
+
+    "eruption_history": {
+      "content": "Türkiye's volcanic eruption record is comparatively sparse, reflecting both the moderate activity levels and the limited historical documentation of eastern Anatolian volcanism. The database records approximately 36 eruptions across all seven volcanoes, with the majority concentrated at Nemrut Dağı (26 confirmed eruptions spanning 7,600 years). Nemrut Dağı is by far the most prolific, though none of its eruptions have been assigned VEI values in the database — they are predominantly effusive, producing lava flows and obsidian domes within the caldera. Ararat's eruption record includes 3 confirmed events, with the most catastrophic being the 1840 event, which combined a large earthquake with a debris avalanche that destroyed the village and monastery of Ahora, killing thousands. The 1840 event was assigned VEI 3 and is the only eruption in Türkiye with a confirmed VEI above 2. Tendürük Dağı's 1855 eruption was the last volcanic event in Türkiye. In central Anatolia, the Cappadocian volcanic province produced massive pyroclastic eruptions during the Pleistocene that deposited the tuff layers now carved into Cappadocia's famous fairy chimneys and cave cities, but Holocene activity has been minimal. The Erciyes complex has an uncertain eruption in 253 CE reported by Roman sources, and Hasandağ may have erupted during the Neolithic, though evidence remains debated. Türkiye has not experienced a confirmed volcanic eruption in over 170 years."
+    },
+
+    "volcanic_hazards": {
+      "content": "Türkiye's volcanic hazard profile is moderate compared to its seismic hazard (the country experiences devastating earthquakes regularly), but several genuine volcanic risks exist. Mount Ararat's primary hazards are debris avalanches and lahars — the 1840 event demonstrated that earthquake-triggered flank collapse can be catastrophic even without a magmatic eruption, killing thousands and destroying settlements in the Ahora Gorge. Nemrut Dağı's caldera lake poses a potential lahar hazard if an eruption melts snow or interacts with lake water, and communities around Lake Van (population ~400,000 in the surrounding province) could be affected by ashfall. Erciyes Volcanic Complex presents a longer-term concern due to the proximity of Kayseri (population ~1.4 million) — though Holocene activity is minimal, the massive monogenetic field surrounding the volcano indicates ongoing magma supply over geological timescales. Türkiye's volcanic monitoring capabilities are less developed than its seismic networks. KOERI (Kandilli Observatory) and MTA (General Directorate of Mineral Research and Exploration) maintain some monitoring at key volcanoes, but dedicated volcanic observatories comparable to those in [[country:italy|Italy]] or [[country:japan|Japan]] do not exist. The 2023 Kahramanmaraş earthquake sequence demonstrated the devastating impact of geological hazards in eastern Türkiye and renewed attention to multi-hazard preparedness."
+    },
+
+    "volcanic_zones_map": {
+      "content": "Türkiye's 7 Holocene volcanoes span approximately 1,600 km from west to east across the Anatolian landmass, grouped into three zones. The eastern Anatolian cluster — the most volcanically active — contains four volcanoes in a 200-km radius near the Armenian and Iranian borders: Mount Ararat (5,165 m) near Doğubayazıt, Tendürük Dağı (3,514 m) to its west, Nemrut Dağı (2,948 m) near Lake Van, and Karaca Dağ (1,957 m) near Diyarbakır. The central Anatolian cluster contains the Erciyes Volcanic Complex (3,864 m) near Kayseri and the Hasandağ-Keçiboyduran complex (3,253 m) further south — both within the Cappadocian volcanic province. The western outlier, the Kula volcanic field (750 m), sits in the Aegean extension zone near Manisa. Elevation decreases dramatically from east to west: the five tallest Turkish volcanoes are all in the east, reflecting thicker collision-zone crust and greater magma supply."
+    },
+
+    "impact_on_culture_and_economy": {
+      "content": "Türkiye's volcanoes have shaped human civilization for millennia. The Cappadocia region of central Anatolia — built from pyroclastic deposits of the Erciyes and Hasandağ complexes — is a UNESCO World Heritage Site famous for its fairy chimneys, cave dwellings, and underground cities carved from volcanic tuff. This extraordinary landscape draws over 3 million tourists annually and is one of Türkiye's most important cultural and economic assets. Mount Ararat holds profound religious significance as the traditional landing place of Noah's Ark in Genesis, making it a pilgrimage and mountaineering destination. Nemrut Dağı's obsidian deposits were among the most valued trade materials in the ancient Near East, distributed across Mesopotamian and Anatolian archaeological sites from the Neolithic onward — obsidian sourcing studies have been instrumental in understanding ancient trade networks. The Kula volcanic field was described by the Greek geographer Strabo around 24 BCE as 'Katakekaumene' (Burnt Land), making it one of the earliest documented volcanic landscapes in Western literature. Erciyes Dağı above Kayseri hosts a modern ski resort, and the potential Neolithic painting of Hasandağ at Çatalhöyük (~6600 BCE) may represent humanity's oldest depiction of a volcanic eruption."
+    },
+
+    "visiting_volcanoes": {
+      "content": "Several of Türkiye's volcanic landmarks are major tourism destinations. Cappadocia — the volcanic landscape formed by the Erciyes and Hasandağ complexes — is the standout, offering hot-air balloon rides over fairy chimneys, cave hotel stays in Göreme, and underground city tours at Derinkuyu and Kaymaklı. Mount Ararat requires a climbing permit (obtained through licensed agencies) and a multi-day expedition, typically 4–5 days round trip; the climbing season runs June–September. The Nemrut Dağı caldera near Lake Van is accessible by 4WD vehicle and offers a stunning crater lake, though tourism infrastructure is limited. Erciyes Ski Resort near Kayseri is one of Türkiye's premier winter sports destinations, with ski lifts reaching 3,400 m. The Kula Volcanic Geopark in western Anatolia has been submitted for UNESCO Global Geopark designation and offers walking trails through well-preserved lava flows and cinder cones. Lake Van itself — not volcanic but formed in part by volcanic damming — is the largest lake in Türkiye and a popular tourist destination."
+    }
+  },
+
+  "volcano_table": {
+    "columns": ["Name", "Slug", "Elevation (m)", "Type", "Last Eruption", "Status", "Eruption Count", "VEI Max"],
+    "rows": [
+      {"name": "Ararat", "slug": "ararat", "elevation_m": 5165, "type": "Stratovolcano", "last_eruption": "1840", "status": "Active", "eruption_count": 3, "vei_max": 3},
+      {"name": "Erciyes Volcanic Complex", "slug": "erciyes-volcanic-complex", "elevation_m": 3864, "type": "Stratovolcano", "last_eruption": "6880 BCE", "status": "Holocene", "eruption_count": 1, "vei_max": null},
+      {"name": "Tendürük Dağı", "slug": "tenduruk-dagi", "elevation_m": 3514, "type": "Shield", "last_eruption": "1855", "status": "Active", "eruption_count": 2, "vei_max": null},
+      {"name": "Hasandağ-Keçiboyduran", "slug": "hasandag-keciboyduran-volcanic-complex", "elevation_m": 3253, "type": "Stratovolcano", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Nemrut Dağı", "slug": "nemrut-dagi", "elevation_m": 2948, "type": "Stratovolcano", "last_eruption": "1650", "status": "Active", "eruption_count": 26, "vei_max": null},
+      {"name": "Karaca Dağ", "slug": "karaca-dag", "elevation_m": 1957, "type": "Shield", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Kula", "slug": "kula", "elevation_m": 750, "type": "Volcanic field", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null}
+    ]
+  },
+
+  "elevation_chart": [
+    {"name": "Ararat", "elevation": 5165, "slug": "ararat"},
+    {"name": "Erciyes Volcanic Complex", "elevation": 3864, "slug": "erciyes-volcanic-complex"},
+    {"name": "Tendürük Dağı", "elevation": 3514, "slug": "tenduruk-dagi"},
+    {"name": "Hasandağ-Keçiboyduran", "elevation": 3253, "slug": "hasandag-keciboyduran-volcanic-complex"},
+    {"name": "Nemrut Dağı", "elevation": 2948, "slug": "nemrut-dagi"},
+    {"name": "Karaca Dağ", "elevation": 1957, "slug": "karaca-dag"},
+    {"name": "Kula", "elevation": 750, "slug": "kula"}
+  ],
+
+  "eruption_timeline": [
+    {"year": -7579, "volcano": "Nemrut Dağı", "vei": null, "label": "Earliest documented Nemrut Dağı eruption"},
+    {"year": -6880, "volcano": "Erciyes", "vei": null, "label": "Most recent confirmed eruption of Erciyes"},
+    {"year": 253, "volcano": "Erciyes", "vei": null, "label": "Uncertain eruption reported by Roman sources"},
+    {"year": 1597, "volcano": "Nemrut Dağı", "vei": null, "label": "Late historical eruption at Nemrut Dağı caldera"},
+    {"year": 1650, "volcano": "Nemrut Dağı", "vei": null, "label": "Most recent eruption at Nemrut Dağı"},
+    {"year": 1783, "volcano": "Ararat", "vei": null, "label": "Uncertain eruption at Mount Ararat"},
+    {"year": 1840, "volcano": "Ararat", "vei": 3, "label": "Earthquake triggers debris avalanche — village of Ahora destroyed, thousands killed"},
+    {"year": 1855, "volcano": "Tendürük Dağı", "vei": null, "label": "Most recent volcanic eruption in Türkiye — lava flows from shield volcano"}
+  ],
+
+  "vei_distribution": [
+    {"vei": 3, "count": 1}
+  ],
+
+  "facts": [
+    "Mount Ararat at 5,165 m (16,946 ft) is the tallest peak in Türkiye and the tallest volcano in the Middle East–Anatolian region.",
+    "Cappadocia's famous fairy chimneys and cave cities are carved from pyroclastic deposits of the Erciyes and Hasandağ volcanic complexes.",
+    "A Neolithic wall painting at Çatalhöyük (~6600 BCE) may depict an eruption of Hasandağ — potentially the oldest volcanic artwork in human history.",
+    "Nemrut Dağı has 26 confirmed eruptions, more than all other Turkish volcanoes combined, and produced obsidian traded across the ancient Near East.",
+    "The 1840 Ararat event killed up to 10,000 people, though most deaths resulted from the accompanying earthquake rather than volcanic activity.",
+    "Türkiye has not experienced a confirmed volcanic eruption in over 170 years — the longest volcanic quiet period of any country with historically active volcanoes in the Mediterranean.",
+    "The Erciyes Volcanic Complex includes over 100 lava domes and 40 scoria cones spread across a 32-km-diameter field — one of the largest monogenetic fields in the Mediterranean.",
+    "Strabo described the Kula volcanic field around 24 BCE as 'Katakekaumene' (Burnt Land), making it one of the earliest scientific descriptions of a volcanic landscape.",
+    "Mount Ararat is traditionally identified as the resting place of Noah's Ark, making it one of the most culturally significant volcanic mountains on Earth.",
+    "Nemrut Dağı's summit caldera (9 × 5 km) contains a lake and hot springs, with post-caldera eruptions ranging from basalt to rhyolite — an unusually complete compositional spectrum.",
+    "Erciyes Dağı looms directly over Kayseri, a city of ~1.4 million people — making it one of the largest cities in the world at the foot of a Holocene volcano.",
+    "Türkiye's volcanism spans three tectonic plates (Arabian, African, Eurasian), making it one of the most tectonically complex volcanic settings on Earth."
+  ],
+
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Türkiye?",
+      "answer": "Türkiye has 7 Holocene volcanoes in the Smithsonian Global Volcanism Program database: Mount Ararat, Nemrut Dağı, Tendürük Dağı, Erciyes Volcanic Complex, Hasandağ-Keçiboyduran, Karaca Dağ, and the Kula volcanic field. Three have confirmed historical eruptions (Ararat, Tendürük, Nemrut). If broader geological features are included, Türkiye has dozens of additional Pleistocene volcanic centers, particularly across the Cappadocian and eastern Anatolian volcanic provinces."
+    },
+    {
+      "question": "Is Mount Ararat still active?",
+      "answer": "Mount Ararat is classified as a historically active volcano, with its most recent confirmed eruption in 1840. However, that event was primarily an earthquake-triggered debris avalanche rather than a conventional magmatic eruption. Ararat has shown no significant signs of renewed volcanic unrest in recent decades. Scientists consider a future eruption possible but unlikely on short timescales. The volcano is glaciated year-round above approximately 4,200 m, and any future eruption could potentially trigger lahars from snowmelt."
+    },
+    {
+      "question": "When was the last volcanic eruption in Türkiye?",
+      "answer": "Türkiye's most recent confirmed volcanic eruption was at Tendürük Dağı in 1855, a basaltic lava flow from the broad shield volcano in the country's far east near the Iranian border. Before that, Ararat's 1840 eruption and Nemrut Dağı's ~1650 eruption are the most recent events. Türkiye has not experienced a volcanic eruption in over 170 years, making it one of the longest quiet periods among historically volcanic countries."
+    },
+    {
+      "question": "What is the tallest volcano in Türkiye?",
+      "answer": "Mount Ararat (Ağrı Dağı) at 5,165 m (16,946 ft) is the tallest volcano and the highest peak in all of Türkiye. It is a large stratovolcano with a massif extending roughly 25 km, accompanied by Lesser Ararat (3,896 m) to its southeast. The Erciyes Volcanic Complex near Kayseri is the second tallest at 3,864 m (12,677 ft), and Tendürük Dağı is third at 3,514 m (11,529 ft)."
+    },
+    {
+      "question": "Are the Cappadocia fairy chimneys volcanic?",
+      "answer": "Yes, Cappadocia's famous fairy chimneys, cave dwellings, and underground cities are entirely volcanic in origin. They are carved from thick layers of pyroclastic tuff — volcanic ash and pumice — deposited by massive eruptions of the Erciyes and Hasandağ volcanic complexes during the Pliocene and Pleistocene (millions to hundreds of thousands of years ago). Differential erosion of harder basalt caps over softer tuff created the distinctive cone-shaped pillars. The soft volcanic rock was easily carved by ancient civilizations, creating cave churches, monasteries, and multi-level underground cities like Derinkuyu."
+    },
+    {
+      "question": "Why does Türkiye have volcanoes?",
+      "answer": "Türkiye's volcanism results from the collision of three tectonic plates: the Arabian Plate pushing northward into Eurasia, the African Plate subducting beneath the Mediterranean, and the resulting westward escape of the Anatolian microplate. This complex collision thickened and then delaminated the lithosphere in eastern Anatolia, allowing hot mantle material to rise and produce magma. In central Anatolia, extension and mantle upwelling generated the Cappadocian volcanic province. In western Anatolia, stretching toward the Aegean Sea produced the Kula volcanic field."
+    },
+    {
+      "question": "Can you climb Mount Ararat?",
+      "answer": "Yes, Mount Ararat is open to climbing with a government-issued permit obtained through licensed Turkish mountaineering agencies. The standard south-side route is a non-technical but physically demanding high-altitude trek, typically requiring 4–5 days round trip with camps at approximately 3,200 m and 4,200 m. The climbing season runs from June to September. Climbers must be accompanied by an authorized guide. The summit at 5,165 m involves traversing permanent glaciers, and altitude sickness is a common challenge."
+    },
+    {
+      "question": "Is Nemrut Dağı the same as the Nemrut archaeological site?",
+      "answer": "No, these are two different locations with confusingly similar names. Nemrut Dağı volcano (2,948 m) is a stratovolcano with a summit caldera near Lake Van in eastern Türkiye — an active volcano with 26 confirmed eruptions. The Nemrut Dağ archaeological site (Mount Nemrut, 2,134 m) is a non-volcanic mountain approximately 200 km to the southwest, famous for the massive stone heads of the 1st-century BCE Commagene Kingdom. Both are UNESCO-significant sites but geologically unrelated."
+    }
+  ],
+
+  "comparison_table": {
+    "title": "Türkiye Compared to Other Mediterranean Volcanic Countries",
+    "headers": ["Country", "Holocene Volcanoes", "Historically Active", "Tallest Volcano", "Most Recent Eruption"],
+    "rows": [
+      ["Türkiye", "7", "3", "Ararat (5,165 m)", "Tendürük Dağı (1855)"],
+      ["Italy", "13", "8", "Etna (3,357 m)", "Etna/Stromboli (2025)"],
+      ["Greece", "5", "3", "Santorini (367 m)", "Santorini (1950)"],
+      ["Spain", "8", "4", "Tenerife (3,715 m)", "La Palma (2021)"],
+      ["Georgia", "2", "0", "Kazbek (5,047 m)", "~750 BCE"]
+    ]
+  },
+
+  "external_links": [
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=213040", "text": "Smithsonian GVP: Ararat", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=213020", "text": "Smithsonian GVP: Nemrut Dağı", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=213010", "text": "Smithsonian GVP: Erciyes Volcanic Complex", "type": "primary_source"},
+    {"url": "https://www.koeri.boun.edu.tr/", "text": "KOERI — Kandilli Observatory and Earthquake Research Institute", "type": "monitoring"},
+    {"url": "https://www.britannica.com/place/Mount-Ararat", "text": "Britannica: Mount Ararat", "type": "encyclopedia"}
+  ],
+
+  "related_countries": ["greece", "italy", "georgia", "armenia", "iran"],
+
+  "breadcrumb": [
+    {"label": "Home", "url": "/"},
+    {"label": "Volcanoes in Türkiye", "url": "/volcanoes-in-turkiye"}
+  ],
+
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

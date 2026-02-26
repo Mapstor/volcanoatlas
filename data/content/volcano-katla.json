@@ -1,0 +1,596 @@
+{
+  "slug": "katla",
+  "volcano_id": 372030,
+  "title": "Katla Volcano",
+  "meta_title": "Katla — Eruption History, Jökulhlaups & Facts | VolcanoAtlas",
+  "meta_description": "Katla is a powerful subglacial volcano beneath Iceland's Mýrdalsjökull ice cap with 131 eruptions. Full eruption history, hazards, and status.",
+  "quick_answer": {
+    "what": "Katla is a large subglacial basaltic-to-rhyolitic volcano hidden beneath the Mýrdalsjökull ice cap in southern Iceland, with a 10 × 14 km caldera reaching 1,490 m (4,888 ft) in elevation.",
+    "status": "Active — last confirmed eruption in 1918. Overdue by historical standards. Continuously monitored by the Icelandic Meteorological Office.",
+    "famous_for": "Its catastrophic jökulhlaups (glacier-outburst floods), the massive ~934 CE Eldgjá fissure eruption that produced ~18 km³ of lava, and its historical association with eruptions of neighboring Eyjafjallajökull.",
+    "danger_level": "One of Iceland's most hazardous volcanoes — a major eruption would trigger massive jökulhlaups down the Mýrdalssandur outwash plain, threatening infrastructure and closing transatlantic air routes."
+  },
+  "hero": {
+    "name": "Katla",
+    "local_name": "Katla",
+    "subtitle": "Iceland's Most Feared Subglacial Volcano",
+    "country": "Iceland",
+    "region": "Southern Iceland",
+    "type": "Subglacial volcano (fissure vents)",
+    "elevation_m": 1490,
+    "elevation_ft": 4888,
+    "status": "Active",
+    "last_eruption": "1918",
+    "coordinates": {
+      "lat": 63.633,
+      "lon": -19.083
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-07542.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,490 m (4,888 ft)",
+    "type": "Subglacial volcano with fissure vents",
+    "status": "Active",
+    "last_eruption": "October 12, 1918",
+    "first_known_eruption": "~6380 BCE (tephrochronology)",
+    "total_recorded_eruptions": 131,
+    "vei_max": "5 (1262, 1625, 1721, 1755 CE)",
+    "country": "Iceland",
+    "region": "Southern Iceland, Eastern Volcanic Zone",
+    "tectonic_setting": "Rift zone — divergent plate boundary on oceanic crust (< 15 km thick)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt",
+      "Dacite",
+      "Rhyolite"
+    ],
+    "coordinates": "63.633°N, 19.083°W",
+    "nearest_city": "Vík í Mýrdal — ~25 km south",
+    "population_at_risk": "~600 residents in immediate flood zone; infrastructure including Route 1 ring road",
+    "caldera_dimensions": "10 × 14 km, up to 750 m deep",
+    "ice_cap": "Mýrdalsjökull — ~590 km², up to 700 m thick",
+    "monitoring_agency": "Icelandic Meteorological Office (IMO) / University of Iceland",
+    "associated_fissure": "Eldgjá fissure system — extends ~60 km to the NE",
+    "smithsonian_id": "372030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=372030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Katla is a large, highly active subglacial volcano in southern <a href=\"/volcanoes-in-iceland\">Iceland</a>, concealed beneath the Mýrdalsjökull ice cap approximately 25 km (16 mi) north of the village of Vík í Mýrdal. With 131 recorded eruptions spanning more than 8,000 years, Katla ranks among the most prolific and powerful volcanoes in Iceland and in all of Europe. The volcano's 10 × 14 km caldera — one of the largest in Iceland — lies buried under ice up to 700 m (2,300 ft) thick, and it is this combination of intense volcanic heat and massive glacial ice that makes Katla so dangerous: subglacial eruptions generate catastrophic jökulhlaups (glacier-outburst floods) that can discharge water at rates exceeding 100,000–300,000 m³ per second, rivaling the flow of the Amazon River. Katla sits along Iceland's Eastern Volcanic Zone, where the North American and Eurasian plates diverge at approximately 19 mm per year, fueling a magmatic system capable of producing eruptions ranging from basaltic fissure events to explosive rhyolitic paroxysms reaching <a href=\"/volcanic-explosivity-index\">VEI 5</a>. The volcano's most extraordinary eruption occurred around 934 CE along the Eldgjá fissure system, producing approximately 18 km³ of lava — one of the largest known Holocene lava flows on Earth. Katla has not erupted since 1918, making the current 107-year repose period the longest in its recorded history, and Icelandic scientists consider another eruption overdue. The volcano is frequently compared with its smaller neighbor <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a>, whose 2010 eruption disrupted global aviation; historically, Eyjafjallajökull eruptions have preceded larger Katla eruptions three out of four times."
+    },
+    "geology_and_formation": {
+      "content": "Katla occupies a tectonically complex position near the southern terminus of Iceland's Eastern Volcanic Zone (EVZ), where the divergent plate boundary between the North American and Eurasian plates interacts with the deep Icelandic mantle plume that has sustained volcanism on the island for at least 16 million years. The volcanic system extends well beyond the caldera itself, encompassing the Eldgjá fissure system that runs approximately 60 km to the northeast toward <a href=\"/volcano/grimsvotn\">Grímsvötn</a> volcano. Katla's caldera formed through repeated collapse events associated with large explosive eruptions, and its elongated NW–SE orientation reflects the dominant tectonic grain of the rift zone. Unlike Iceland's predominantly tholeiitic basalt-producing rift volcanoes, Katla generates a wide compositional range from picro-basalt through basalt, andesite, and dacite to rhyolite, reflecting complex magma differentiation processes within a well-developed crustal magma chamber. The Mýrdalsjökull ice cap, which blankets the caldera and surrounding highlands across approximately 590 km², acts as both a lid that increases explosive potential through magma-water interaction (phreatomagmatic eruptions) and a reservoir of meltwater that feeds the devastating jökulhlaups. Three major outlet glaciers — Kötlujökull, Sólheimajökull, and Entujökull — have breached the caldera rim and serve as channels for floodwater during eruptions. The underlying bedrock records a volcanic history extending well into the Pleistocene, with the present caldera system probably forming during the last glacial period. Katla's magma supply rate is estimated at 0.01–0.05 km³ per year, making it one of the most productive volcanic systems in <a href=\"/volcanoes-in-iceland\">Iceland</a> alongside <a href=\"/volcano/grimsvotn\">Grímsvötn</a> and <a href=\"/volcano/bardarbunga\">Bárðarbunga</a>. The volcano's position as a <a href=\"/types-of-volcanoes\">fissure vent system</a> rather than a classic central-vent <a href=\"/types-of-volcanoes\">stratovolcano</a> means eruptions can occur at multiple points along the fissure swarm, greatly expanding the potential hazard area."
+    },
+    "eruption_history_overview": {
+      "content": "Katla's eruption record spans more than 8,300 years, with 131 eruptions documented through a combination of tephrochronology (identification of ash layers in soil profiles and ice cores), historical annals dating back to Iceland's settlement around 874 CE, and modern instrumental monitoring. Of these 131 eruptions, 128 are classified as confirmed. Prior to human settlement, Katla produced dozens of eruptions detectable in the geological record, many during the mid-Holocene (roughly 6000–3000 BCE) when eruption frequency appears to have been particularly high. Since settlement, Katla has erupted approximately 20–25 times at intervals averaging 40–80 years, though the spacing has been irregular — sometimes erupting twice within a decade, other times remaining quiet for over a century. The volcano has produced four VEI 5 eruptions in the historical period (1262, 1625, 1721, and 1755), seventeen VEI 4 events, and numerous smaller eruptions. Katla's most voluminous eruption by far was the ~934 CE Eldgjá event, a massive fissure eruption that produced one of Earth's largest known Holocene lava flows. The most recent confirmed eruption occurred in October 1918, making the current repose period of over a century the longest in Katla's documented history."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Eldgjá Eruption (~934–940 CE) — One of Earth's Greatest Holocene Lava Floods",
+          "content": "The Eldgjá eruption, attributed to the Katla volcanic system's northeastern fissure extension, stands as one of the most extraordinary volcanic events of the Holocene epoch. Beginning around 934 CE and continuing intermittently until approximately 940 CE, this colossal fissure eruption produced roughly 18 km³ of basaltic lava — enough to bury the entirety of greater London under a layer 12 m thick — along with an estimated 1.3 km³ of tephra. The Eldgjá fissure system extends approximately 75 km from the Mýrdalsjökull ice cap toward Grímsvötn, and lava erupted along its full length. The eruption's VEI 4 rating understates its environmental impact: sulfur dioxide emissions may have reached 219 million tonnes, among the highest of any historical eruption. Recent research published in the journal Climatic Change has linked the Eldgjá eruption to significant Northern Hemisphere cooling of approximately 0.7–1.0°C, crop failures across Europe, and what may have been a contributing factor to the Christianization of Iceland, as the eruption's devastation was interpreted by some settlers as divine punishment. Volcanic aerosols from Eldgjá have been identified in Greenland ice cores, confirming the eruption's global atmospheric reach. The lava field produced by Eldgjá, called Eldhraun, remains one of Iceland's most striking geological features — a vast expanse of moss-covered lava covering approximately 780 km²."
+        },
+        {
+          "title": "The 1262 Eruption — Katla's Largest Explosive Event",
+          "content": "The 1262 eruption was Katla's largest confirmed explosive event, rated <a href=\"/volcanic-explosivity-index\">VEI 5</a>, and produced massive volumes of tephra that blanketed southern Iceland. The eruption generated catastrophic jökulhlaups that devastated the Mýrdalssandur outwash plain. Icelandic annals record the destruction of farms and the loss of livestock across a wide area. The 1262 tephra layer serves as an important chronological marker in Icelandic soil stratigraphy and has been identified across much of southern and eastern Iceland. The eruption's explosive intensity was comparable to the 1991 eruption of Mount Pinatubo, though its impact was largely confined to Iceland due to the island's sparse medieval population."
+        },
+        {
+          "title": "The 1625 Eruption — Devastation in Early Modern Iceland",
+          "content": "Beginning on September 2, 1625, this VEI 5 eruption was one of the most violent events in Katla's historical record. The eruption melted vast quantities of Mýrdalsjökull's ice, sending enormous jökulhlaups across the coastal lowlands. Contemporary accounts describe floods carrying icebergs the size of houses and depositing vast quantities of volcanic sediment across the Mýrdalssandur plain. The tephra fall from this eruption was particularly rich in fluorine — a characteristic of Katla's eruptive products — poisoning livestock and contaminating pastureland across southern Iceland. Combined with the harsh climate of the Little Ice Age, the 1625 eruption contributed to severe hardship for Icelandic farming communities."
+        },
+        {
+          "title": "The 1721 Eruption — Massive Jökulhlaups Reshape the Coastline",
+          "content": "The eruption of May 11, 1721, rated VEI 5, produced some of the most dramatic jökulhlaups in Katla's history. Floodwaters burst through the Kötlujökull outlet glacier carrying enormous volumes of ice, rock, and volcanic debris onto the Mýrdalssandur plain. The floods were so voluminous that they temporarily extended Iceland's southern coastline seaward, depositing enough sediment to create new land. The eruption lasted several weeks and deposited thick tephra layers across eastern Iceland. The 1721 event is one of the best-documented early modern eruptions of Katla, with several contemporary Icelandic accounts describing the sequence of events."
+        },
+        {
+          "title": "The 1755 Eruption — Katla's Last VEI 5 Event",
+          "content": "Beginning on October 17, 1755, this VEI 5 eruption originated from an east-west fissure in the center of the caldera and continued into 1756. It produced enormous jökulhlaups estimated to have discharged up to 200,000–300,000 m³ of water per second at peak flow — comparable to the discharge of the Amazon River. The floods devastated the Mýrdalssandur area and carried icebergs far onto the outwash plain. The eruption produced voluminous tephra that fell across a wide swath of Iceland and reached European shores, contributing to the fluorine poisoning of livestock on farms downwind. This was the last of Katla's major explosive paroxysms, though the volcano continued to erupt at VEI 3–4 levels in 1823, 1860, and 1918."
+        },
+        {
+          "title": "The 1918 Eruption — Katla's Most Recent Confirmed Event",
+          "content": "The most recent confirmed eruption of Katla began on October 12, 1918, originating from the south side of the caldera. Rated VEI 4, the eruption produced a powerful subglacial explosion that generated massive jökulhlaups within an hour of onset — floodwaters reached the coast approximately 30 minutes after the eruption began, carrying blocks of glacier ice weighing thousands of tonnes. The floods extended the Mýrdalssandur coastline by up to 5 km, depositing an estimated 0.7 km³ of sediment. The eruption column reached approximately 14 km altitude and deposited tephra across southeastern Iceland. The 1918 eruption lasted approximately three weeks and was the last major eruption in the Mýrdalsjökull area. Over 107 years have now passed since this event — the longest quiescent interval in Katla's recorded history — leading volcanologists to classify the volcano as overdue for its next eruption."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Katla is continuously monitored by the Icelandic Meteorological Office (IMO) and the University of Iceland's Institute of Earth Sciences using an extensive network of seismometers, GPS stations, InSAR satellite measurements, geochemical sensors, and hydrological gauges on the glacier's outlet rivers. Seismic activity beneath Katla has been persistently elevated since the late 20th century, with periodic earthquake swarms — including notable unrest episodes in 1999, 2011, and 2017 — that have raised concern about an impending eruption. The July 1999 and July 2011 events included small subglacial eruptions or hydrothermal episodes that generated minor jökulhlaups from the Kötlujökull outlet glacier, though neither progressed to a full magmatic eruption. Geochemical monitoring of gases released through the ice cap shows elevated levels of sulfur dioxide and carbon dioxide, consistent with an active magmatic system. GPS measurements indicate ongoing inflation of the caldera floor, suggesting magma accumulation at depth. Glaciological surveys reveal several geothermally active cauldrons (depressions) on the Mýrdalsjökull surface where subglacial heat melts ice from below. The Icelandic Civil Protection Authority maintains detailed evacuation plans for communities in the Katla hazard zone, and automated flood-warning systems on the Múlakvísl and other rivers provide early detection of jökulhlaups. Scientists emphasize that the current repose period — now exceeding 107 years — is anomalously long by historical standards, and the probability of a Katla eruption in coming decades is considered high."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Katla's primary hazard is jökulhlaups — catastrophic glacier-outburst floods triggered when subglacial eruptions rapidly melt hundreds of millions of cubic meters of ice. Historical jökulhlaups from Katla have reached peak discharges of 100,000–300,000 m³/s, inundating the Mýrdalssandur and Sólheimasandur outwash plains with floodwaters, icebergs, and volcanic debris. A major eruption could destroy bridges on Iceland's Route 1 ring road — the country's primary transportation artery — isolating communities in eastern Iceland. Tephra fall represents a secondary but significant hazard: Katla's tephra is characteristically rich in fluorine, making it highly toxic to grazing livestock. The 1783 Laki eruption (a related system) killed an estimated 50% of Iceland's livestock through fluorine poisoning, and a major Katla eruption could produce similar effects. Ashfall from a large eruption would also disrupt transatlantic aviation, potentially on a scale comparable to or exceeding the 2010 <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> disruption. Pyroclastic density currents are possible during explosive phases, though the ice cap somewhat constrains their runout. The village of Vík í Mýrdal, with approximately 600 residents, lies within the potential flood path, and evacuation planning is a critical component of Iceland's civil protection strategy. Katla's hazard profile makes it one of the most closely monitored volcanoes in the world and arguably the single greatest natural hazard facing <a href=\"/volcanoes-in-iceland\">Iceland</a>."
+    },
+    "geography_and_physical_description": {
+      "content": "Katla's caldera, measuring approximately 10 × 14 km with its long axis oriented NW–SE, is entirely concealed beneath the Mýrdalsjökull ice cap — Iceland's fourth-largest glacier, covering roughly 590 km² with ice up to 700 m (2,300 ft) thick. The caldera floor lies at approximately 700–800 m elevation, with the caldera rim reaching up to 1,380 m; the ice cap's highest point atop the volcano reaches 1,490 m (4,888 ft). Three major outlet glaciers have carved breaches in the caldera rim: Kötlujökull to the southeast, Sólheimajökull to the southwest, and Entujökull to the north. These glacial outlets serve as drainage channels for jökulhlaups during eruptions. The Eldgjá fissure system extends approximately 60 km from the northeastern caldera rim toward Grímsvötn volcano, forming one of Iceland's longest volcanic fissure systems. The Mýrdalssandur outwash plain to the south of the volcano — a vast, barren expanse of black volcanic sand and gravel — has been built up over millennia by successive jökulhlaup deposits. Several ice cauldrons (circular depressions 1–3 km in diameter) on the Mýrdalsjökull surface mark areas of intense subglacial geothermal activity. The surrounding landscape transitions from the glacier's icy expanse through moss-covered lava fields to the fertile lowlands near the coast."
+    },
+    "climate_and_global_impact": {
+      "content": "Katla's volcanic system has produced eruptions with significant global climatic consequences. The ~934 CE Eldgjá eruption injected an estimated 219 million tonnes of sulfur dioxide into the atmosphere, making it one of the highest sulfur-loading volcanic events of the Common Era. Research using Greenland ice core data and European climate proxies suggests the Eldgjá aerosol veil caused Northern Hemisphere cooling of approximately 0.7–1.0°C, with effects persisting for several years. Tree-ring records from Europe show reduced growth in the years following 934 CE, consistent with diminished solar radiation. The eruption has been linked to crop failures and famine across parts of northern Europe. Katla's VEI 5 explosive eruptions, while smaller in volume than Eldgjá, also injected significant tephra and sulfur into the upper troposphere and lower stratosphere, with localized climatic effects across the North Atlantic. For comparison, the climatically significant 1991 eruption of <a href=\"/volcano/pinatubo\">Pinatubo</a> (VEI 6) caused global cooling of approximately 0.5°C — indicating that the cumulative sulfur output from Eldgjá may have produced comparable or greater climatic forcing despite the eruption's lower VEI rating. In a modern context, a major Katla eruption would pose severe risks to North Atlantic aviation, agricultural production across Iceland and northern Europe, and could contribute measurable short-term cooling."
+    },
+    "cultural_significance": {
+      "content": "Katla occupies a central place in Icelandic folklore, history, and national consciousness. The volcano's name likely derives from an old Icelandic personal name, and medieval legends associate it with a female troll or sorceress named Katla who was said to own a pair of magical breeches that allowed the wearer to run without tiring. According to the Saga tradition, when a shepherd stole the breeches, Katla drowned herself in the glacier — and the volcano erupted in her fury. This legend reflects the deep cultural awareness of Katla's destructive potential that has persisted since Iceland's settlement. The Eldgjá eruption of ~934 CE is referenced in the medieval poem Völuspá (the 'Prophecy of the Seeress'), part of the Poetic Edda, where descriptions of fire and darkness may echo witnesses' experiences of the eruption. Some scholars have argued that the catastrophic Eldgjá event may have accelerated Iceland's conversion to Christianity around 999–1000 CE, as settlers interpreted the volcanic devastation as a divine message. Katla eruptions are meticulously recorded in Icelandic annals dating back to the 12th century, providing one of the longest continuous records of volcanic activity anywhere in the world. Today, Katla remains a powerful symbol of Iceland's relationship with its volatile geology — the village of Vík conducts regular evacuation drills, and the volcano features prominently in Icelandic media, tourism marketing, and scientific outreach."
+    },
+    "visiting_and_tourism": {
+      "content": "While the Katla caldera itself is inaccessible beneath hundreds of meters of glacial ice, the surrounding area offers some of Iceland's most dramatic volcanic landscapes. The Sólheimajökull outlet glacier, approximately 160 km from Reykjavík on Route 1, provides an accessible glacier hiking and ice climbing destination where visitors can witness the direct effects of Katla's geothermal heat on the retreating ice. The Mýrdalssandur outwash plain offers stark evidence of past jökulhlaups — vast black sand flats littered with remnant icebergs from historical floods. The village of Vík í Mýrdal, one of Iceland's most photographed locations with its black sand beach and Reynisdrangar sea stacks, serves as the nearest settlement. The Katla UNESCO Global Geopark, established in 2011, encompasses the volcano and surrounding region, offering interpretive trails and educational exhibits about the area's volcanic geology. Ice cave tours within Mýrdalsjökull's outlet glaciers operate seasonally, and snowmobile excursions on the ice cap provide views of the cauldrons that mark Katla's subglacial activity. The Katla Exhibition Center in Vík features interactive displays about the volcano, its eruption history, and evacuation procedures. Visitors should be aware that Katla could erupt with limited warning, and familiarize themselves with evacuation routes posted along Route 1."
+    },
+    "nearby_volcanoes": {
+      "content": "Katla sits within one of the most volcanically dense regions on Earth. Its nearest neighbor, <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> (1,651 m), lies just 25 km to the northwest beneath its own ice cap, and the two volcanoes share a documented sympathetic relationship: three of the four historical eruptions of Eyjafjallajökull (in 920, 1612, and 2010) were followed by eruptions of Katla within months to years. The Eldgjá fissure system physically connects Katla to the <a href=\"/volcano/grimsvotn\">Grímsvötn</a> volcanic system approximately 60 km to the northeast — Iceland's most frequently erupting volcano. Other notable volcanoes in southern Iceland include <a href=\"/volcano/hekla\">Hekla</a> (1,491 m), located approximately 60 km to the north, one of Iceland's most active and historically famous volcanoes. Further northeast, <a href=\"/volcano/bardarbunga\">Bárðarbunga</a> produced a major fissure eruption at Holuhraun in 2014–2015. Together, these volcanic systems form the backbone of Iceland's Eastern Volcanic Zone, one of the most productive volcanic provinces on the planet."
+    },
+    "etymology": {
+      "content": "The name Katla derives from an Old Norse/Icelandic personal name, itself likely related to the word 'ketill' (kettle or cauldron) — an apt description given the volcano's ice-filled caldera. Icelandic folklore attributes the name to a legendary woman named Katla who lived at the nearby farm of Þykkvabæjarklaustur and was said to possess magical powers. The name Mýrdalsjökull, the ice cap covering Katla, translates to 'mire valley glacier,' while Mýrdalssandur means 'mire valley sands' — referring to the vast outwash plain built by the volcano's floods."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Katla Compared to Iceland's Other Major Subglacial Volcanoes",
+      "description": "How does Katla compare to Iceland's other ice-capped volcanic giants?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Ice Cap"
+      ],
+      "rows": [
+        [
+          "Katla",
+          "Iceland",
+          "1,490 m",
+          "Subglacial / Fissure vents",
+          "1918",
+          "5",
+          "131",
+          "Mýrdalsjökull (590 km²)"
+        ],
+        [
+          "Grímsvötn",
+          "Iceland",
+          "1,725 m",
+          "Subglacial caldera",
+          "2011",
+          "4",
+          "105+",
+          "Vatnajökull (7,700 km²)"
+        ],
+        [
+          "Bárðarbunga",
+          "Iceland",
+          "2,009 m",
+          "Subglacial stratovolcano",
+          "2015",
+          "6",
+          "26",
+          "Vatnajökull (7,700 km²)"
+        ],
+        [
+          "Eyjafjallajökull",
+          "Iceland",
+          "1,651 m",
+          "Stratovolcano",
+          "2010",
+          "4",
+          "8",
+          "Eyjafjallajökull (78 km²)"
+        ],
+        [
+          "Öræfajökull",
+          "Iceland",
+          "2,110 m",
+          "Stratovolcano",
+          "1727",
+          "5",
+          "3",
+          "Vatnajökull (7,700 km²)"
+        ]
+      ]
+    },
+    {
+      "title": "Katla vs the World's Most Dangerous Subglacial Volcanoes",
+      "description": "A global comparison of volcanoes that combine glacial ice with explosive potential.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Ice Volume",
+        "VEI Max",
+        "Last Eruption",
+        "Primary Hazard"
+      ],
+      "rows": [
+        [
+          "Katla",
+          "Iceland",
+          "Subglacial fissure",
+          "~50 km³",
+          "5",
+          "1918",
+          "Jökulhlaups"
+        ],
+        [
+          "Grímsvötn",
+          "Iceland",
+          "Subglacial caldera",
+          "~150 km³",
+          "4",
+          "2011",
+          "Jökulhlaups / ashfall"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "Stratovolcano",
+          "~0.6 km³",
+          "3",
+          "2024",
+          "Lahars"
+        ],
+        [
+          "Mount Rainier",
+          "USA",
+          "Stratovolcano",
+          "~4.4 km³",
+          "5+",
+          "~1450",
+          "Lahars"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "Stratovolcano",
+          "~0.7 km³",
+          "4",
+          "2023",
+          "Lahars"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6380,
+      "vei": null,
+      "label": "Earliest known eruption (tephrochronology)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 934,
+      "vei": 4,
+      "label": "Eldgjá fissure eruption — ~18 km³ lava, one of Earth's largest Holocene flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1262,
+      "vei": 5,
+      "label": "Largest explosive eruption — massive jökulhlaups and tephra fall",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1357,
+      "vei": 4,
+      "label": "Major eruption SW of Kötlugja",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1416,
+      "vei": 4,
+      "label": "VEI 4 explosive eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1500,
+      "vei": 4,
+      "label": "VEI 4 eruption with significant tephra",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1580,
+      "vei": 4,
+      "label": "August eruption, catastrophic jökulhlaups",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1612,
+      "vei": 4,
+      "label": "October eruption — followed Eyjafjallajökull eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1625,
+      "vei": 5,
+      "label": "VEI 5 paroxysm — devastating floods and fluorine-rich tephra",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1660,
+      "vei": 4,
+      "label": "Multi-month eruption November 1660–1661",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1721,
+      "vei": 5,
+      "label": "VEI 5 — massive jökulhlaups extended Iceland's coastline",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1755,
+      "vei": 5,
+      "label": "Last VEI 5 event — peak flood discharge ~300,000 m³/s",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1823,
+      "vei": 3,
+      "label": "Moderate eruption from arcuate fissure in south caldera",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1860,
+      "vei": 4,
+      "label": "VEI 4 eruption with significant jökulhlaups",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1918,
+      "vei": 4,
+      "label": "Most recent confirmed eruption — coastline extended 5 km by flood deposits",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 89,
+      "note": "Eruptions from ~6380 BCE to ~80 BCE identified via tephrochronology"
+    },
+    {
+      "century": "1st",
+      "count": 2
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "3rd",
+      "count": 3
+    },
+    {
+      "century": "4th",
+      "count": 0
+    },
+    {
+      "century": "5th",
+      "count": 1
+    },
+    {
+      "century": "6th",
+      "count": 2
+    },
+    {
+      "century": "7th",
+      "count": 2
+    },
+    {
+      "century": "8th",
+      "count": 2
+    },
+    {
+      "century": "9th",
+      "count": 2
+    },
+    {
+      "century": "10th",
+      "count": 4,
+      "note": "Includes Eldgjá ~934 CE"
+    },
+    {
+      "century": "11th",
+      "count": 0
+    },
+    {
+      "century": "12th",
+      "count": 2
+    },
+    {
+      "century": "13th",
+      "count": 3,
+      "note": "Includes VEI 5 eruption of 1262"
+    },
+    {
+      "century": "14th",
+      "count": 2
+    },
+    {
+      "century": "15th",
+      "count": 3
+    },
+    {
+      "century": "16th",
+      "count": 3
+    },
+    {
+      "century": "17th",
+      "count": 4,
+      "note": "Includes VEI 5 events of 1625 and 1660 VEI 4"
+    },
+    {
+      "century": "18th",
+      "count": 2,
+      "note": "Two VEI 5 events: 1721 and 1755"
+    },
+    {
+      "century": "19th",
+      "count": 2
+    },
+    {
+      "century": "20th",
+      "count": 3,
+      "note": "Includes 1918 eruption plus two uncertain events (1955, 1999)"
+    }
+  ],
+  "facts": [
+    "Katla's ~934 CE Eldgjá eruption produced approximately 18 km³ of basaltic lava — enough to cover the entire city of London to a depth of 12 meters and one of the largest lava flows in recorded human history.",
+    "The current repose period of over 107 years since Katla's last eruption in 1918 is the longest in the volcano's documented history, leading Icelandic scientists to classify it as statistically overdue.",
+    "During major eruptions, Katla's jökulhlaups can discharge water at 100,000–300,000 m³ per second — temporarily matching or exceeding the flow rate of the Amazon River.",
+    "The 1918 eruption of Katla extended Iceland's southern coastline by up to 5 km in a single event, depositing an estimated 0.7 km³ of sediment on the Mýrdalssandur outwash plain.",
+    "Three out of four historical eruptions of neighboring Eyjafjallajökull have been followed by eruptions of Katla, establishing a documented sympathetic volcanic relationship.",
+    "Katla's tephra is characteristically rich in fluorine, making it highly toxic to grazing livestock — a property shared with the catastrophic 1783 Laki eruption that killed 50% of Iceland's livestock.",
+    "The Mýrdalsjökull ice cap concealing Katla covers approximately 590 km² — roughly the size of the city of Chicago — and is up to 700 m (2,300 ft) thick.",
+    "Katla's caldera measures 10 × 14 km and is up to 750 m deep, making it one of the largest calderas in Iceland, entirely hidden beneath glacial ice.",
+    "The Eldgjá fissure system connected to Katla extends approximately 60 km to the northeast — longer than the distance from central London to Brighton.",
+    "The Eldgjá eruption's sulfur dioxide emissions of an estimated 219 million tonnes may have contributed to the Christianization of Iceland by reinforcing apocalyptic interpretations of the cataclysm.",
+    "Descriptions of fire and darkness in the medieval Icelandic poem Völuspá, part of the Poetic Edda, may record eyewitness observations of the ~934 CE Eldgjá eruption.",
+    "The village of Vík í Mýrdal, Iceland's southernmost settlement with ~600 residents, conducts regular evacuation drills in preparation for the next Katla eruption, with warning time estimated at as little as 15–30 minutes."
+  ],
+  "faqs": [
+    {
+      "question": "Is Katla volcano going to erupt?",
+      "answer": "Katla is considered very likely to erupt again, and Icelandic volcanologists regard it as statistically overdue. The volcano has erupted approximately 20–25 times since Iceland's settlement around 874 CE, at average intervals of 40–80 years. The current repose period of over 107 years since the 1918 eruption is the longest in documented history. The Icelandic Meteorological Office continuously monitors Katla using seismometers, GPS, satellite data, and river gauges. Periodic earthquake swarms and minor subglacial events (notably in 1999 and 2011) indicate an active magmatic system. While the exact timing cannot be predicted, scientists consider another eruption within coming decades a high probability."
+    },
+    {
+      "question": "When did Katla last erupt?",
+      "answer": "Katla's last confirmed eruption began on October 12, 1918, from the south side of its subglacial caldera. Rated VEI 4, the eruption lasted approximately three weeks and generated massive jökulhlaups (glacier-outburst floods) that reached the coast within 30 minutes, carrying blocks of glacier ice weighing thousands of tonnes. The floods deposited an estimated 0.7 km³ of sediment, extending Iceland's southern coastline by up to 5 km. Minor subglacial events in 1955 and 1999 are classified as uncertain eruptions, possibly involving small magma-ice interactions that did not break through the ice cap surface."
+    },
+    {
+      "question": "What would happen if Katla erupted today?",
+      "answer": "A major Katla eruption today would trigger catastrophic jökulhlaups with peak water discharge potentially exceeding 100,000 m³ per second, inundating the Mýrdalssandur and Sólheimasandur outwash plains. Bridges on Iceland's Route 1 ring road would likely be destroyed, temporarily severing the country's primary transportation link. The village of Vík í Mýrdal (~600 residents) would need to evacuate to higher ground with as little as 15–30 minutes' warning. Fluorine-rich tephra could poison livestock across southern Iceland. Volcanic ash in the atmosphere would likely disrupt transatlantic aviation, potentially on a scale comparable to or exceeding the 2010 Eyjafjallajökull crisis. Iceland's civil protection authorities maintain detailed contingency plans for this scenario."
+    },
+    {
+      "question": "What is a jökulhlaup?",
+      "answer": "A jökulhlaup (Icelandic for 'glacier run') is a catastrophic outburst flood caused when volcanic heat rapidly melts glacial ice. Katla is one of the world's most prolific producers of jökulhlaups due to the combination of its powerful subglacial eruptions and the vast Mýrdalsjökull ice cap above. During a major eruption, volcanic heat melts hundreds of millions of cubic meters of ice within hours. The resulting meltwater, mixed with volcanic debris and blocks of ice, bursts through the glacier's outlet glaciers and cascades across the outwash plains at enormous speed. Historical Katla jökulhlaups have reached peak flows of 100,000–300,000 m³/s — rivaling the world's largest rivers."
+    },
+    {
+      "question": "Is Katla connected to Eyjafjallajökull?",
+      "answer": "Katla and Eyjafjallajökull are neighboring volcanoes separated by approximately 25 km, and historical evidence suggests a sympathetic relationship between the two systems. Three of Eyjafjallajökull's four known historical eruptions (920, 1612, and 2010 CE) were followed by eruptions of Katla within months to years. Following the 2010 Eyjafjallajökull eruption that disrupted global aviation, there was significant concern that Katla might follow suit, though it has not erupted as of 2025. The two volcanoes are separate systems with distinct magma chambers, but they likely share deep crustal plumbing connections influenced by the same tectonic stresses."
+    },
+    {
+      "question": "How big was the Eldgjá eruption?",
+      "answer": "The Eldgjá eruption of approximately 934–940 CE was one of the largest volcanic events in recorded human history. Originating from Katla's northeastern fissure system, it produced roughly 18 km³ of basaltic lava and approximately 1.3 km³ of tephra along a fissure extending up to 75 km. The eruption's sulfur dioxide emissions — estimated at 219 million tonnes — rank among the highest of any historical eruption and caused measurable Northern Hemisphere cooling of approximately 0.7–1.0°C. The resulting Eldhraun lava field covers approximately 780 km² and remains one of Iceland's most striking geological features."
+    },
+    {
+      "question": "Can you visit Katla volcano?",
+      "answer": "The Katla caldera itself is inaccessible beneath hundreds of meters of glacial ice, but the surrounding region offers exceptional volcanic tourism. The Sólheimajökull outlet glacier, about 160 km from Reykjavík, provides guided glacier hikes and ice climbing experiences. Ice cave tours operate seasonally within Mýrdalsjökull's outlet glaciers. The Katla UNESCO Global Geopark encompasses the volcano and surrounding area. The Katla Exhibition Center in the village of Vík features interactive displays about the volcano's history and hazards. The Mýrdalssandur outwash plain and nearby Reynisfjara black sand beach showcase the dramatic volcanic landscape. Visitors should note that Katla could erupt with limited warning."
+    },
+    {
+      "question": "How does Katla compare to other Icelandic volcanoes?",
+      "answer": "Katla is one of Iceland's three most powerful volcanic systems alongside Grímsvötn and Bárðarbunga. With 131 documented eruptions, Katla has the second-highest eruption count in Iceland after Grímsvötn. Its VEI 5 capability exceeds that of most Icelandic volcanoes — only Öræfajökull (VEI 5) and Bárðarbunga (VEI 6) match or exceed it in maximum explosivity. Katla's Eldgjá fissure produced one of the largest known Holocene lava flows globally. Among Icelandic volcanoes, Katla poses the greatest jökulhlaup hazard due to the combination of its explosive power and the thick Mýrdalsjökull ice cap."
+    }
+  ],
+  "people_also_search": [
+    "katla volcano eruption",
+    "is katla going to erupt",
+    "katla vs eyjafjallajökull",
+    "katla jökulhlaup",
+    "katla volcano iceland status",
+    "eldgjá eruption",
+    "katla ice cave",
+    "mýrdalsjökull glacier"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Katla",
+    "alternateName": [
+      "Katla volcano"
+    ],
+    "description": "Active subglacial volcano beneath Mýrdalsjökull ice cap in southern Iceland, known for catastrophic jökulhlaups and the massive Eldgjá fissure eruption of ~934 CE",
+    "geo": {
+      "latitude": 63.633,
+      "longitude": -19.083,
+      "elevation": 1490
+    },
+    "containedInPlace": {
+      "name": "Southern Iceland",
+      "country": "Iceland"
+    },
+    "url": "https://volcanoatlas.com/volcano/katla"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=372030",
+      "text": "Smithsonian GVP: Katla",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://en.vedur.is/earthquakes-and-volcanism/volcanic-eruptions/katla/",
+      "text": "Icelandic Met Office: Katla Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Katla-volcano",
+      "text": "Britannica: Katla Volcano",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://katlageopark.is/",
+      "text": "Katla UNESCO Global Geopark",
+      "type": "tourism"
+    },
+    {
+      "url": "https://icelandicvolcanoes.is/?volcano=KAT",
+      "text": "Catalogue of Icelandic Volcanoes: Katla",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "eyjafjallajokull",
+      "grimsvotn",
+      "hekla",
+      "bardarbunga",
+      "pinatubo"
+    ],
+    "country_pages": [
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "eyjafjallajokull",
+    "grimsvotn",
+    "hekla",
+    "bardarbunga",
+    "oraefajokull"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    },
+    {
+      "label": "Katla",
+      "url": "/volcano/katla"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/katla"
+}

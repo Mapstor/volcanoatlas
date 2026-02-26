@@ -1,0 +1,341 @@
+{
+  "slug": "hunga-tonga-hunga-ha-apai",
+  "volcano_id": 243040,
+  "title": "Hunga Tonga-Hunga Ha'apai",
+  "meta_title": "Hunga Tonga-Hunga Ha'apai — 2022 Eruption, Tsunami & Facts | VolcanoAtlas",
+  "meta_description": "Hunga Tonga-Hunga Ha'apai is a submarine caldera in Tonga. Explore the massive VEI 5 eruption of January 2022, its global shockwave, tsunami, and aftermath.",
+  "quick_answer": {
+    "what": "Hunga Tonga-Hunga Ha'apai is a largely submarine caldera volcano in the Kingdom of Tonga, located approximately 65 km (40 mi) north of Tongatapu, the nation's main island.",
+    "status": "Active — the cataclysmic VEI 5+ eruption of January 15, 2022 destroyed most of the islands above water and left only small remnants above sea level. The caldera rim lies mostly underwater at approximately 6 km diameter.",
+    "famous_for": "The January 15, 2022 eruption — one of the most powerful volcanic explosions in recorded history, which sent an eruption plume into the mesosphere, generated a tsunami across the Pacific Ocean, and produced atmospheric shockwaves that circled the globe multiple times.",
+    "danger_level": "Extreme — the 2022 eruption caused 6 deaths in Tonga and tsunami fatalities in Peru, severed Tonga's undersea communications cable, and demonstrated that submarine caldera eruptions can generate hazards at truly global scale."
+  },
+  "hero": {
+    "name": "Hunga Tonga-Hunga Ha'apai",
+    "local_name": "Hunga Tonga-Hunga Ha'apai",
+    "subtitle": "The Eruption That Shook the World",
+    "country": "Tonga",
+    "region": "Tofua Volcanic Arc",
+    "type": "Caldera",
+    "elevation_m": 114,
+    "elevation_ft": 374,
+    "status": "Active",
+    "last_eruption": "2022",
+    "coordinates": {
+      "lat": -20.5532,
+      "lon": -175.3841
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10791.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "114 m (374 ft) pre-eruption; mostly submarine post-2022",
+    "type": "Caldera",
+    "status": "Active",
+    "last_eruption": "January 15, 2022",
+    "first_known_eruption": "~1100 CE (caldera-forming eruption, 14C dated 1040–1180 CE)",
+    "total_recorded_eruptions": 7,
+    "vei_max": "5+ (January 2022)",
+    "country": "Tonga",
+    "region": "Tofua Volcanic Arc, Tonga-Kermadec region",
+    "tectonic_setting": "Subduction zone — Pacific Plate beneath Indo-Australian Plate, oceanic crust (< 15 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "20.553°S, 175.384°W",
+    "nearest_populated_area": "Tongatapu — 65 km south (pop. ~75,000)",
+    "caldera_diameter": "~6 km",
+    "monitoring_agency": "Tonga Geological Services; supported by GeoNet (New Zealand) and international partners",
+    "smithsonian_id": "243040",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=243040"
+  },
+  "sections": {
+    "overview": {
+      "content": "Hunga Tonga-Hunga Ha'apai is a largely submarine <a href=\"/types-of-volcanoes\">caldera</a> volcano in the Kingdom of <a href=\"/volcanoes-in-tonga\">Tonga</a>, located approximately 65 km (40 mi) north of Tongatapu in the southwestern Pacific Ocean. On January 15, 2022, it produced one of the most powerful volcanic eruptions in recorded history — a cataclysmic explosion rated at least <a href=\"/volcanic-explosivity-index\">VEI</a> 5 that sent an eruption plume to approximately 57 km (187,000 ft) altitude, penetrating the mesosphere and becoming the highest volcanic plume ever measured by satellite. The eruption generated atmospheric pressure waves that circled the globe at least six times, a tsunami that caused fatalities in Tonga and as far away as Peru, and a sonic boom audible thousands of kilometers from the source. Prior to the 2022 eruption, the volcano consisted of two small islands — Hunga Tonga and Hunga Ha'apai — representing the western and northern remnants of the caldera rim, which had been connected into a single island by a smaller eruption in 2014–2015. The January 2022 explosion obliterated most of this combined island, leaving only small remnants above the ocean surface. The eruption's scale was compared to the 1883 eruption of <a href=\"/volcano/krakatau\">Krakatoa</a> and established Hunga Tonga-Hunga Ha'apai as one of the most significant volcanic events of the 21st century. The volcano lies along the Tofua Volcanic Arc, part of the <a href=\"/ring-of-fire\">Ring of Fire</a>, where the Pacific Plate subducts beneath the Indo-Australian Plate."
+    },
+    "geology_and_formation": {
+      "content": "Hunga Tonga-Hunga Ha'apai is an andesitic submarine caldera approximately 6 km in diameter, situated on the Tofua Volcanic Arc where the Pacific Plate subducts westward beneath the Indo-Australian Plate. The caldera rim lies mostly below sea level, with the two islands (prior to 2022) representing only the highest portions of the northwestern rim. Geological investigations of the island remnants, particularly by Cronin et al. (2017) and Brenna et al. (2022), revealed a stratigraphic sequence of welded and unwelded ignimbrite units from a major caldera-forming eruption radiocarbon-dated to approximately 1040–1180 CE. Below this, at least two additional welded pumice-rich ignimbrite units separated by paleosols indicate that very large eruptions — potentially caldera-forming events — occurred multiple times in the volcano's history. This pattern of repeated caldera collapse and rebuilding is characteristic of submarine caldera volcanoes in oceanic arc settings, where thin oceanic crust (< 15 km) and water interaction amplify explosive potential. The magmatic system produces andesitic to basaltic-andesitic compositions typical of island-arc volcanism, with sufficient silica content and volatile loading to drive violently explosive eruptions. The interaction between magma and seawater — a phreatomagmatic mechanism — dramatically amplified the 2022 eruption's explosive energy, as the caldera floor likely allowed massive seawater ingress into the erupting vent."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program records seven eruptions at Hunga Tonga-Hunga Ha'apai, though the geological record of ignimbrite deposits on the former islands indicates a much longer and more violent history. The earliest confirmed eruption, a caldera-forming event dated to approximately 1100 CE, deposited the thick ignimbrite sequences studied by researchers. The first historically recorded eruption occurred in April 1912, followed by submarine activity in 1937 and a small eruption south of the islands in 1988. The 2009 eruption added new land to Hunga Ha'apai, while the 2014–2015 eruption created a new volcanic island between the two existing islands, connecting them into a single landmass. The December 2021–January 2022 eruption sequence began with moderate explosive activity in late December before escalating catastrophically on January 15, 2022."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The January 15, 2022 Eruption — A 21st-Century Krakatoa",
+          "content": "The eruption sequence began on December 20, 2021, with moderate explosive activity that reshaped the central part of the combined island. Activity fluctuated through early January 2022, with stronger explosions on January 13 and 14 sending ash plumes to 17–20 km altitude. Then, at approximately 04:15 UTC on January 15, 2022, the volcano detonated in one of the most violent explosive events witnessed in the satellite era. The eruption column punched through the troposphere and stratosphere, reaching an estimated 57 km (187,000 ft) altitude — the highest volcanic plume ever measured by satellite instrumentation, penetrating into the mesosphere. The explosion generated atmospheric pressure waves (Lamb waves) that were detected by barometers on every continent and circled the globe at least six times over the following days. The sonic boom was audible in New Zealand (2,000 km away) and reportedly as far as Alaska (9,000 km). The eruption triggered a destructive tsunami that struck Tonga's coastline within minutes, with wave heights reaching 15–20 m on some nearby islands and causing widespread damage across Tongatapu. Tsunami waves propagated across the entire Pacific basin and even into the Atlantic and Mediterranean, killing four people in Peru — over 10,000 km from the eruption. The total death toll reached at least six. The eruption severed Tonga's single undersea fiber-optic communications cable, cutting the island nation off from the outside world for weeks. An estimated 10 km³ of material was erupted, and approximately 146 teragrams of water vapor was injected into the stratosphere — an unprecedented amount that temporarily increased global stratospheric water vapor by roughly 10% and may influence climate for several years. Most of the combined island was destroyed, leaving only small remnants of the original Hunga Tonga and Hunga Ha'apai above sea level."
+        },
+        {
+          "title": "The 2014–2015 Eruption — Birth of a New Island",
+          "content": "Beginning on December 19, 2014, an eruption from a vent located between the two existing islands built a new volcanic island through Surtseyan-style explosive activity — the interaction of erupting magma with shallow seawater producing distinctive jets of ash-laden steam. Over the course of several weeks, the new island grew to connect Hunga Tonga and Hunga Ha'apai into a single combined landmass, creating one of the few new volcanic islands formed in the 21st century. The new island attracted scientific interest as a natural laboratory for studying primary ecological succession — how life colonizes barren volcanic land. NASA researchers studied the island using satellite imagery to understand the erosional and biological processes of new land formation. The eruption was rated VEI 2."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Following the catastrophic January 2022 eruption, the Hunga Tonga-Hunga Ha'apai caldera remains in a state of post-eruption quiescence. Bathymetric surveys conducted in 2022 and 2023 revealed that the eruption significantly deepened the caldera floor and modified the submarine topography. Only small remnants of the original islands remain above sea level. Monitoring capabilities were severely impacted by the eruption itself and the destruction of nearby infrastructure, but international partners — including New Zealand's GeoNet, Australia's Geoscience Australia, and various satellite monitoring systems — continue to track seismic activity and ocean-surface anomalies in the area. The injection of 146 teragrams of water vapor into the stratosphere continues to be studied for its potential climatic effects. Scientists note that the geological record indicates the volcano has produced multiple caldera-forming eruptions, raising the possibility of future large-scale events on timescales of centuries to millennia."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The 2022 eruption demonstrated that submarine caldera volcanoes can generate hazards at truly global scale. The primary hazards include explosive eruptions producing high-altitude ash plumes affecting aviation, tsunamis generated by submarine explosions and caldera collapse, atmospheric shockwaves, and volcanic ashfall. Tonga's population of approximately 100,000 people, concentrated on Tongatapu 65 km to the south, is within the direct hazard zone for tsunami, ashfall, and acid rain. The 2022 tsunami reached 15–20 m on some nearby islands and caused significant damage across Tonga, while also reaching coastlines across the Pacific and Atlantic. The severing of the undersea communications cable highlighted the vulnerability of Pacific island nations to volcanic disruption of critical infrastructure. The enormous water vapor injection into the stratosphere represents a previously underappreciated form of volcanic climate forcing."
+    },
+    "geography_and_physical_description": {
+      "content": "Prior to the 2022 eruption, the volcano consisted of two small islands — Hunga Tonga to the west and Hunga Ha'apai to the north — each approximately 2 km long, with inward-facing sea cliffs exposing lava and tephra layers dipping gently away from the caldera center. The 2014–2015 eruption connected these into a single island. After January 15, 2022, most of the combined island was destroyed, and only small, low-lying remnants of the original rim remain above sea level. The caldera itself is approximately 6 km in diameter, with the caldera floor now largely below 200 m water depth following the 2022 eruption. The volcano is located on the Tofua Volcanic Arc, approximately 30 km south-southeast of Falcon Island (another submarine volcanic feature)."
+    },
+    "climate_and_global_impact": {
+      "content": "The January 2022 eruption of Hunga Tonga-Hunga Ha'apai had unprecedented atmospheric effects. The eruption injected approximately 146 teragrams (146 million metric tons) of water vapor into the stratosphere, increasing global stratospheric moisture content by approximately 10%. This water vapor injection was without precedent in the modern observational record and represents a fundamentally different climate-forcing mechanism than the sulfate aerosol cooling typically associated with large eruptions like <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991) or <a href=\"/volcano/tambora\">Tambora</a> (1815). While sulfate aerosols cool the planet by reflecting sunlight, stratospheric water vapor acts as a greenhouse gas, potentially producing a slight warming effect. Research published in 2022–2024 suggested this water vapor could persist in the stratosphere for 5–10 years. The eruption also injected sulfur dioxide, but in smaller quantities than Pinatubo, so the net climate effect is still being studied. The atmospheric shockwave — one of the most powerful ever recorded — disrupted weather patterns regionally and was detected as barometric pressure oscillations worldwide."
+    },
+    "cultural_significance": {
+      "content": "The 2022 eruption profoundly impacted Tonga, a Polynesian island kingdom deeply connected to its volcanic landscape. The eruption destroyed agricultural land on several northern islands under thick ashfall, contaminated freshwater supplies with volcanic ash and salt, and cut the nation's only international communications link for over a month. The humanitarian response drew international attention and aid. For volcanologists, Hunga Tonga-Hunga Ha'apai became one of the most intensively studied eruptions of the 21st century, yielding insights into submarine caldera dynamics, tsunami generation from volcanic explosions, atmospheric wave propagation, and the climate effects of stratospheric water vapor. The event fundamentally changed scientific understanding of the hazard potential of submarine volcanoes and has been widely compared to the 1883 eruption of <a href=\"/volcano/krakatau\">Krakatoa</a> in terms of its global atmospheric effects."
+    },
+    "nearby_volcanoes": {
+      "content": "Hunga Tonga-Hunga Ha'apai lies within the Tofua Volcanic Arc in <a href=\"/volcanoes-in-tonga\">Tonga</a>, one of the most volcanically active submarine regions on Earth. Neighboring volcanoes include Tofua (a caldera with confirmed eruptions as recently as 2025), Home Reef (a submarine volcano that created ephemeral islands in 2006 and erupted again in 2025), Lateiki (which formed a temporary new island in 2019), and Fonuafo'ou (Falcon Island, a repeatedly appearing and disappearing submarine volcanic island). The arc extends northward to Fonualei, Niuafo'ou, and the deep submarine volcanoes Tafu-Maka and West Mata."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Hunga Tonga-Hunga Ha'apai Compared to History's Great Explosive Eruptions",
+      "description": "How does the 2022 eruption compare to other catastrophic volcanic explosions?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Year",
+        "VEI",
+        "Plume Height",
+        "Key Impact"
+      ],
+      "rows": [
+        [
+          "Hunga Tonga-Hunga Ha'apai",
+          "Tonga",
+          "2022",
+          "5+",
+          "57 km",
+          "Global shockwave, Pacific tsunami, 146 Tg water vapor"
+        ],
+        [
+          "Pinatubo",
+          "Philippines",
+          "1991",
+          "6",
+          "35 km",
+          "20 Mt SO2, 0.5°C global cooling for 2 years"
+        ],
+        [
+          "Krakatoa",
+          "Indonesia",
+          "1883",
+          "6",
+          "~36 km",
+          "Global shockwaves, 36,000+ deaths, tsunamis"
+        ],
+        [
+          "Tambora",
+          "Indonesia",
+          "1815",
+          "7",
+          "~43 km",
+          "Year Without a Summer, 92,000+ deaths"
+        ],
+        [
+          "St. Helens",
+          "USA",
+          "1980",
+          "5",
+          "24 km",
+          "Lateral blast, 57 deaths, $1.1 billion damage"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1100,
+      "vei": null,
+      "label": "Major caldera-forming eruption (14C dated 1040–1180 CE)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1912,
+      "vei": 2,
+      "label": "First historically recorded eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1937,
+      "vei": 2,
+      "label": "Submarine eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2009,
+      "vei": 2,
+      "label": "Eruption adds land to Hunga Ha'apai",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2014,
+      "vei": 2,
+      "label": "New island forms, connecting the two islands",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2022,
+      "vei": 5,
+      "label": "Cataclysmic eruption — 57 km plume, global tsunami, 6+ deaths",
+      "deaths": "6+",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "12th",
+      "count": 1,
+      "note": "Caldera-forming eruption ~1100 CE"
+    },
+    {
+      "century": "20th",
+      "count": 3,
+      "note": "1912, 1937, 1988"
+    },
+    {
+      "century": "21st",
+      "count": 3,
+      "note": "2009, 2014–2015, 2021–2022"
+    }
+  ],
+  "facts": [
+    "The January 15, 2022 eruption produced the highest volcanic plume ever measured by satellite — approximately 57 km (187,000 ft), reaching the mesosphere.",
+    "The atmospheric shockwave from the eruption circled the globe at least six times and was detected by barometers on every continent.",
+    "The sonic boom was reportedly audible in New Zealand, 2,000 km away, and possibly as far as Alaska, over 9,000 km distant.",
+    "The eruption injected approximately 146 teragrams (146 million metric tons) of water vapor into the stratosphere — increasing global stratospheric moisture by roughly 10%.",
+    "The tsunami generated by the eruption killed people in Peru, more than 10,000 km from the source.",
+    "The eruption severed Tonga's single undersea fiber-optic communications cable, leaving the island nation without international communications for over a month.",
+    "The 2014–2015 eruption created one of the few new volcanic islands formed in the 21st century, studied by NASA as an analog for volcanic processes on Mars.",
+    "Geological research revealed at least three previous caldera-forming eruptions in the volcano's history, suggesting a cycle of catastrophic collapse and rebuilding.",
+    "The 2022 eruption is widely compared to the 1883 eruption of Krakatoa in terms of explosive violence, atmospheric effects, and tsunami generation.",
+    "Unlike most large eruptions that cool the climate via sulfate aerosols, the Hunga Tonga eruption's massive water vapor injection may have produced a slight warming effect.",
+    "Wave heights of 15–20 m were recorded on some islands near the volcano during the 2022 tsunami.",
+    "The eruption destroyed most of the combined island that had formed during the 2014–2015 eruption, leaving only small remnants above sea level."
+  ],
+  "faqs": [
+    {
+      "question": "How powerful was the 2022 Hunga Tonga eruption?",
+      "answer": "The January 15, 2022 eruption of Hunga Tonga-Hunga Ha'apai was one of the most powerful volcanic explosions in recorded history, rated at least VEI 5. The eruption plume reached approximately 57 km altitude — the highest ever measured by satellite — penetrating the mesosphere. It generated atmospheric shockwaves that circled the globe multiple times, a Pacific-wide tsunami, and injected 146 teragrams of water vapor into the stratosphere. The explosion has been widely compared to the 1883 eruption of Krakatoa."
+    },
+    {
+      "question": "How many people died in the Hunga Tonga eruption?",
+      "answer": "The 2022 eruption caused at least 6 deaths — 4 in Tonga from the tsunami and volcanic effects, and 2 in Peru from tsunami waves that traveled over 10,000 km across the Pacific. Given the eruption's extreme violence, the relatively low death toll reflects the volcano's remote submarine location, 65 km from Tongatapu. However, the eruption caused extensive damage to Tongan infrastructure, agriculture, and communications, affecting the entire nation of approximately 100,000 people."
+    },
+    {
+      "question": "Did the Hunga Tonga eruption affect global climate?",
+      "answer": "The eruption injected approximately 146 teragrams of water vapor into the stratosphere, increasing global stratospheric moisture by roughly 10% — an unprecedented event. Unlike sulfate aerosol injections from eruptions like Pinatubo (1991), which cool the planet, stratospheric water vapor acts as a greenhouse gas and may produce slight warming. Research suggests this water vapor could persist for 5–10 years. The eruption also injected sulfur dioxide, but in smaller quantities than the largest climate-altering eruptions."
+    },
+    {
+      "question": "Where is Hunga Tonga-Hunga Ha'apai located?",
+      "answer": "Hunga Tonga-Hunga Ha'apai is a submarine caldera volcano in the Kingdom of Tonga, at approximately 20.55°S, 175.38°W in the southwestern Pacific Ocean, about 65 km north of Tongatapu, Tonga's main island. It lies along the Tofua Volcanic Arc, formed by the subduction of the Pacific Plate beneath the Indo-Australian Plate. The caldera is approximately 6 km in diameter, with most of its rim below sea level."
+    },
+    {
+      "question": "Could Hunga Tonga erupt again?",
+      "answer": "Yes. Geological evidence reveals at least three previous caldera-forming eruptions in the volcano's history, including a major event dated to approximately 1040–1180 CE. This indicates a pattern of repeated large-scale eruptions. While another eruption of the 2022 scale is unlikely in the near term — the volcano likely exhausted a significant portion of its immediately available magma — future submarine eruptions and island-building events are considered probable on geological timescales."
+    },
+    {
+      "question": "What happened to the islands after the 2022 eruption?",
+      "answer": "The January 15, 2022 explosion destroyed most of the combined island that had formed when the 2014–2015 eruption connected Hunga Tonga and Hunga Ha'apai. Only small, low-lying remnants of the original caldera rim remain above sea level. Bathymetric surveys showed the caldera floor was significantly deepened. The 2014–2015 island — which had been studied as a natural laboratory for ecological succession — was almost entirely obliterated."
+    }
+  ],
+  "people_also_search": [
+    "hunga tonga eruption 2022",
+    "tonga volcano explosion",
+    "hunga tonga tsunami",
+    "biggest volcanic eruption 21st century",
+    "hunga tonga shockwave",
+    "tonga underwater volcano",
+    "hunga tonga climate impact"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Hunga Tonga-Hunga Ha'apai",
+    "alternateName": [
+      "Hunga Tonga",
+      "HTHH"
+    ],
+    "description": "Submarine caldera volcano in Tonga that produced one of the most powerful eruptions in recorded history on January 15, 2022",
+    "geo": {
+      "latitude": -20.5532,
+      "longitude": -175.3841,
+      "elevation": 114
+    },
+    "containedInPlace": {
+      "name": "Tofua Volcanic Arc",
+      "country": "Tonga"
+    },
+    "url": "https://volcanoatlas.com/volcano/hunga-tonga-hunga-ha-apai"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=243040",
+      "text": "Smithsonian GVP: Hunga Tonga-Hunga Ha'apai",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.geonet.org.nz/",
+      "text": "GeoNet — New Zealand Geological Hazard Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://earthobservatory.nasa.gov/",
+      "text": "NASA Earth Observatory",
+      "type": "satellite"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "krakatau",
+      "pinatubo",
+      "tambora"
+    ],
+    "country_pages": [
+      "tonga"
+    ],
+    "special_pages": [
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "krakatau",
+    "pinatubo",
+    "tambora",
+    "tofua"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Tonga",
+      "url": "/volcanoes-in-tonga"
+    },
+    {
+      "label": "Hunga Tonga–Hunga Haʻapai",
+      "url": "/volcano/hunga-tonga-hunga-ha-apai"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/hunga-tonga-hunga-ha-apai"
+}

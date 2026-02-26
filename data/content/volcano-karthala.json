@@ -1,0 +1,380 @@
+{
+  "slug": "karthala",
+  "volcano_id": 233010,
+  "title": "Karthala",
+  "meta_title": "Karthala Volcano — Eruption History, Facts & Hazards | VolcanoAtlas",
+  "meta_description": "Karthala is a 2,350 m active shield volcano on Grand Comore Island. Explore its 35 eruptions, summit calderas, lava flows, and the risks to 400,000 residents.",
+  "quick_answer": {
+    "what": "Karthala is an active shield volcano rising to 2,350 m (7,710 ft) on Grand Comore (Ngazidja) Island in the Comoros archipelago, western Indian Ocean.",
+    "status": "Active — last erupted in January 2007. One of Africa's most active volcanoes with 35 recorded eruptions since ~1050 CE.",
+    "famous_for": "Repeated summit eruptions that have displaced tens of thousands of residents and contaminated the island's water supply, most notably in 2005.",
+    "danger_level": "High — approximately 400,000 people live on Grand Comore Island with no alternative water source if caldera eruptions contaminate groundwater."
+  },
+  "hero": {
+    "name": "Karthala",
+    "local_name": "Kartala",
+    "subtitle": "Africa's Most Active Shield Volcano",
+    "country": "Union of the Comoros",
+    "region": "Indian Ocean",
+    "type": "Shield volcano",
+    "elevation_m": 2350,
+    "elevation_ft": 7710,
+    "status": "Active",
+    "last_eruption": "2007",
+    "coordinates": {
+      "lat": -11.7658,
+      "lon": 43.3639
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11589.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,350 m (7,710 ft)",
+    "type": "Shield volcano",
+    "status": "Active",
+    "last_eruption": "January 2007",
+    "first_known_eruption": "~1050 CE",
+    "total_recorded_eruptions": 35,
+    "vei_max": "3 (1918, 2005)",
+    "country": "Union of the Comoros",
+    "region": "Indian Ocean, Mozambique Channel",
+    "tectonic_setting": "Intraplate / Oceanic crust (< 15 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "11.766°S, 43.364°E",
+    "nearest_city": "Moroni — 12 km NW (capital, population ~55,000)",
+    "population_at_risk": "~400,000 (Grand Comore Island total)",
+    "summit_crater": "Two overlapping calderas, 3–4 km across",
+    "smithsonian_id": "233010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=233010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Karthala is an active <a href=\"/types-of-volcanoes\">shield volcano</a> forming the southern two-thirds of Grand Comore Island (Ngazidja), the largest island in the Comoros archipelago in the western Indian Ocean. Rising to 2,350 m (7,710 ft) above sea level, it is the tallest and most voluminous volcano in the Comoros and one of the most active volcanoes on the African continent, with 35 confirmed eruptions since approximately 1050 CE. The basaltic shield is capped by two overlapping summit calderas measuring 3–4 km across, formed by repeated collapses, and its flanks are cut by elongated rift zones extending to the northwest and southeast. Karthala's eruptions have historically alternated between summit caldera events — which produce phreatic and phreatomagmatic explosions, ashfall, and occasionally devastating water contamination — and flank eruptions that send lava flows down to the coast. The volcano's most consequential eruptions in recent decades occurred in 2005, when two eruptions within seven months displaced over 40,000 people and contaminated the island's sole freshwater sources. With approximately 400,000 people living on Grand Comore and no alternative water infrastructure, Karthala represents a uniquely concentrated volcanic risk. The volcano sits in an intraplate oceanic setting, driven by a hotspot beneath thin oceanic crust less than 15 km thick, making it geologically comparable to <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a> on Réunion, although Karthala's eruptions tend to be more explosive due to interaction between magma and the caldera lake and groundwater system."
+    },
+    "geology_and_formation": {
+      "content": "Karthala sits on oceanic crust in the Mozambique Channel between Madagascar and the East African coast. The Comoros archipelago is thought to have formed through hotspot volcanism as the Somali Plate moved over a deep mantle plume, creating a chain of progressively older volcanic islands stretching from the youngest in the east (Mayotte) to the oldest in the west (Grand Comore), although the exact tectonic mechanism remains debated — some researchers have linked the volcanism to extensional rifting rather than a classical hotspot. The shield volcano is constructed almost entirely of basaltic and picro-basaltic lavas, typical of oceanic intraplate volcanism, and its asymmetric profile — steeper on the southern flank — reflects the dominant rift zone orientations. The two overlapping summit calderas were formed by repeated roof collapse events, most likely triggered by lateral magma drainage along the NNW and SE rift zones. The lower southeastern rift zone forms the Massif du Badjini peninsula at the island's southeastern tip. Grand Comore Island itself is geologically young, less than 500,000 years old, and Karthala has been built on top of the older and now-dormant La Grille <a href=\"/types-of-volcanoes\">shield volcano</a> that forms the northern third of the island. Unlike <a href=\"/types-of-volcanoes\">stratovolcanoes</a> at subduction zones, Karthala's basaltic magma is relatively fluid and low in silica, which typically produces effusive rather than explosive eruptions — though the interaction of rising magma with the caldera water system has repeatedly generated violent phreatomagmatic explosions."
+    },
+    "eruption_history_overview": {
+      "content": "Karthala has produced 35 confirmed eruptions since approximately 1050 CE, making it one of the most frequently active volcanoes in the African-Indian Ocean region. The historical eruption record becomes detailed only from 1808 onward, when European colonial observers began documenting activity. The 19th century was a period of remarkable activity, with at least 18 eruptions recorded between 1808 and 1904 — an average of roughly one eruption every five to six years. Activity originated from both the summit caldera system (particularly the Chahalé and Changomeni craters) and from fissure vents on the flanks, with multiple lava flows reaching the sea on both the western and eastern coasts. The 20th century saw less frequent but occasionally significant eruptions, including the VEI 3 eruption of 1918 and summit events in 1948, 1952, 1956, 1965, 1972, 1977, and 1991. The 21st century brought renewed crisis activity with four eruptions in rapid succession between 2005 and 2007, two of which reached <a href=\"/volcanic-explosivity-index\">VEI</a> 3 and caused severe humanitarian impacts."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1860 Eruption — Lava Threatens Moroni",
+          "content": "One of Karthala's most consequential 19th-century eruptions occurred in December 1860, when a fissure eruption on the southeastern flank of the Badjini Massif produced a substantial lava flow. However, it was an earlier eruption from the summit caldera in the same decade — recorded in historical accounts — that generated a lava flow extending approximately 13 km to the northwest, reaching the western coast just north of the capital city of Moroni. This flow demonstrated that effusive eruptions from Karthala's summit or upper flanks could directly threaten the island's most populated area. The 1860 event was part of an extraordinarily active period: between 1848 and 1883, Karthala erupted at least 14 times from various summit and flank vents, producing flows on both coasts and building the Diboini Plateau on the northwest flank through fissure-fed eruptions."
+        },
+        {
+          "title": "The 1918 Eruption — Karthala's Largest Modern Event",
+          "content": "On August 11, 1918, Karthala produced its most powerful eruption in the modern record, reaching <a href=\"/volcanic-explosivity-index\">VEI</a> 3. The eruption originated from vents on the northeast flank at Changomeni, with activity extending toward the northeast Chahalé area. This event generated significant ashfall across the northern part of Grand Comore and produced lava flows that extended down the flanks. The 1918 eruption marked a shift in Karthala's behavior: after nearly a century of remarkably frequent activity (roughly one eruption every five years between 1808 and 1910), the volcano entered a period of longer repose intervals, with the next confirmed eruption not occurring until 1928. This VEI 3 event remains tied with the November 2005 eruption as the most explosive activity recorded at Karthala."
+        },
+        {
+          "title": "The April 2005 Eruption — Water Crisis and Mass Displacement",
+          "content": "On April 16, 2005, Karthala erupted from the Chahalé crater within the summit caldera, producing a phreatomagmatic explosion that sent an ash plume several kilometers into the atmosphere. The eruption deposited volcanic ash and acidic material across large areas of Grand Comore, critically contaminating the island's open-air water collection systems and shallow groundwater. Because the Comoros lacks rivers and reservoirs — the population relies almost entirely on rainwater cisterns and shallow wells — the ashfall created an immediate humanitarian emergency. Over 40,000 people were displaced, and international aid organizations including the Red Cross mobilized emergency water supplies. The VEI 2 eruption was not large by global standards, but its disproportionate impact on the island's fragile water infrastructure highlighted the extreme vulnerability of the Comorian population to even moderate volcanic events."
+        },
+        {
+          "title": "The November 2005 Eruption — A Second Crisis in Seven Months",
+          "content": "Just seven months after the April crisis, Karthala erupted again on November 24, 2005, this time reaching <a href=\"/volcanic-explosivity-index\">VEI</a> 3 — the joint-strongest eruption recorded at the volcano alongside the 1918 event. The eruption again originated from the Chahalé crater, producing a substantial eruption column, heavy ashfall, and renewed contamination of the water supply. The rapid succession of two significant eruptions within the same year overwhelmed the island's limited disaster response capacity and drew international attention to the volcanic risk facing the Comoros. Satellite imagery captured the ash plume extending hundreds of kilometers across the Indian Ocean. The eruption further deepened the water crisis that had begun in April, as freshly contaminated cisterns that had only recently been cleaned were again rendered unusable."
+        },
+        {
+          "title": "The 2007 Eruption — Lava Lake Formation",
+          "content": "Karthala's most recent eruption began on January 12, 2007, when renewed activity at the Chahalé crater produced explosive eruptions and, notably, formed a small lava lake within the caldera. Reaching VEI 2, this eruption was the fourth event in less than three years and continued the pattern of summit caldera eruptions that had dominated Karthala's activity since 2005. The lava lake persisted for a brief period before cooling. Although less impactful than the 2005 eruptions in terms of humanitarian consequences, the 2007 event demonstrated that Karthala's magma supply system remained highly active and capable of rapidly recharging between eruptions."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Karthala has been quiet since the January 2007 eruption, representing one of its longer repose periods in the modern record, although periods of fumarolic activity and minor seismicity have been reported. Monitoring infrastructure on the volcano remains limited compared to volcanoes in wealthier nations, though efforts by the Karthala Volcano Observatory (OVK) and international partners, including French volcanological institutions given the proximity to Réunion and its well-equipped Piton de la Fournaise observatory, have improved surveillance. Seismic monitoring stations have been installed on the volcano's flanks, and satellite-based thermal monitoring through programs such as MODIS provides remote detection capability. Given Karthala's historical eruption frequency of approximately one event every five to ten years since 1808, and with nearly two decades having elapsed since the last eruption, volcanologists consider a future eruption likely. The primary concern remains the vulnerability of the island's water supply to even moderate phreatomagmatic eruptions from the summit caldera."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Karthala's hazard profile is shaped by two distinct eruption styles. Flank eruptions along the NNW and SE rift zones produce basaltic lava flows that can travel 10–15 km to reach the coast, threatening coastal villages and infrastructure. The 1860 lava flow that approached Moroni demonstrated that the capital itself lies within the potential flow path. Summit caldera eruptions — the dominant style in the 21st century — pose a different but equally dangerous threat through ashfall, volcanic gas emissions, and water contamination. The island's approximately 400,000 residents depend almost entirely on rainwater harvesting and shallow wells, with no significant surface water bodies. Even a moderate phreatomagmatic eruption contaminating these sources creates an immediate public health emergency, as demonstrated twice in 2005. Pyroclastic flows are possible from larger explosive events, though Karthala's basaltic composition makes these less frequent than at subduction zone volcanoes. Lahars are a secondary concern during heavy rainfall following ashfall. The absence of comprehensive evacuation routes — Grand Comore has limited road infrastructure — compounds the risk. Compared to other high-risk volcanoes, Karthala's danger lies not in eruption magnitude but in the extreme vulnerability of the population and the absence of alternative resources."
+    },
+    "geography_and_physical_description": {
+      "content": "Karthala dominates the landscape of Grand Comore, occupying the southern two-thirds of the island and rising as a broad, gently sloping shield from sea level to 2,350 m (7,710 ft). The shield's profile is asymmetrical, steeper on the southern side and more gently inclined to the north where it merges with the older La Grille shield volcano. The summit is crowned by two overlapping calderas measuring approximately 3–4 km in combined diameter, with steep inner walls dropping to a floor that periodically hosts crater lakes and fumarolic vents. The principal active craters within the caldera — Chahalé and Changomeni — have been the source of most historical summit eruptions. Elongated rift zones extending NNW and SSE from the summit are marked by lines of cinder cones, fissure vents, and lava flow fields. The southeastern rift zone forms the Massif du Badjini, a broad peninsula at the island's southeastern tip covered in historically recent lava flows. Dense tropical vegetation covers the lower slopes, transitioning to montane forest and scrub at higher elevations. Lava flows from historical eruptions have created barren dark tongues of rock extending to both coasts, several of which have built new coastal land where they entered the Indian Ocean."
+    },
+    "climate_and_global_impact": {
+      "content": "Karthala's eruptions have been too small to produce significant global climate effects. Even the largest recorded events at VEI 3 injected insufficient sulfur dioxide into the stratosphere to measurably affect global temperatures. The volcano's impact has been overwhelmingly regional and local, with ash plumes from the 2005 eruptions tracked by satellites extending across portions of the western Indian Ocean but dissipating rapidly. In the context of volcanic climate forcing, Karthala is comparable to other frequently active but moderately sized shield volcanoes like <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a>, whose eruptions influence local air quality and ecosystems but do not reach the stratospheric injection threshold required for hemispheric or global cooling."
+    },
+    "cultural_significance": {
+      "content": "Karthala holds deep cultural significance for the people of Grand Comore. The volcano's name is derived from local Comorian language, and the mountain is central to the island's identity, visible from virtually every settlement. Traditional Comorian oral histories include accounts of eruptions and the movement of lava flows that shaped the coastline. The volcano's fertile lower slopes support agriculture, including the cultivation of ylang-ylang, vanilla, and cloves — crops that form the backbone of the Comorian economy and have earned the archipelago its historical nickname, the \"Perfume Islands.\" The volcanic soil is among the most productive in the Indian Ocean region. The 2005 eruptions brought Karthala to international attention and highlighted the intersection of volcanic hazard, poverty, and climate vulnerability in small island developing states, making it a case study in disaster risk reduction literature."
+    },
+    "visiting_and_tourism": {
+      "content": "Karthala can be climbed by adventurous trekkers, with the standard route ascending from the village of M'vouni on the western flank to the summit caldera, a hike typically completed in 6–8 hours ascending and 4–5 hours descending. The trail passes through tropical forest, montane scrub, and eventually barren volcanic terrain near the summit. Guides are strongly recommended and locally available; the route is not well-marked, and weather conditions can change rapidly at altitude. The summit caldera offers dramatic views of the crater floor, fumarolic vents, and on clear days, panoramic views across the Indian Ocean toward Mohéli and Anjouan islands. Tourism infrastructure on Grand Comore is minimal — there are no mountain huts, and trekkers must carry all supplies. The Comoros is served by international flights to Prince Said Ibrahim International Airport near Moroni. Visitors should check volcanic activity status before attempting the climb, as the summit area may be restricted during periods of elevated unrest."
+    },
+    "nearby_volcanoes": {
+      "content": "Grand Comore Island also hosts La Grille, a dormant shield volcano forming the island's northern third. Across the Comoros archipelago, the island of Mayotte experienced a remarkable submarine volcanic eruption beginning in 2018, when the newly discovered Fani Maoré seamount produced the largest underwater eruption ever documented, extruding approximately 5 cubic kilometers of lava onto the seafloor and causing the island to subside measurably. In the broader western Indian Ocean volcanic region, <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a> on Réunion Island — located approximately 2,800 km to the southeast — is the most comparable active shield volcano and one of the most frequently erupting volcanoes on Earth."
+    },
+    "etymology": {
+      "content": "The name Karthala (also written Kartala) derives from the Comorian language, spoken on Grand Comore. Some sources suggest the name relates to local words for the mountain or its smoking summit, though the precise etymology is not well documented in Western volcanological literature. The island itself is known both as Grand Comore (the French colonial name) and Ngazidja in Comorian."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Karthala Compared to Other Indian Ocean and African Volcanoes",
+      "description": "How does Karthala compare to the most active volcanoes in the Indian Ocean and East Africa?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Karthala",
+          "Comoros",
+          "2,350 m",
+          "Shield",
+          "2007",
+          "3",
+          "35"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2024",
+          "4",
+          "170+"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2021",
+          "1",
+          "12"
+        ],
+        [
+          "Erta Ale",
+          "Ethiopia",
+          "613 m",
+          "Shield",
+          "2024",
+          "0",
+          "8"
+        ],
+        [
+          "Ol Doinyo Lengai",
+          "Tanzania",
+          "2,962 m",
+          "Stratovolcano",
+          "2013",
+          "3",
+          "14"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1050,
+      "vei": null,
+      "label": "Earliest confirmed eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1860,
+      "vei": 0,
+      "label": "Lava flow extended ~13 km toward Moroni",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1918,
+      "vei": 3,
+      "label": "Largest modern eruption from NE flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1991,
+      "vei": 2,
+      "label": "Summit caldera eruption at Choungou-Chahalé",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2005,
+      "vei": 2,
+      "label": "April — Ashfall contaminates water supply, 40,000+ displaced",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2005,
+      "vei": 3,
+      "label": "November — Second major eruption in 7 months",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2007,
+      "vei": 2,
+      "label": "Most recent eruption — lava lake in Chahalé crater",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "11th",
+      "count": 1,
+      "note": "Earliest confirmed eruption ~1050 CE"
+    },
+    {
+      "century": "19th",
+      "count": 21,
+      "note": "Extraordinary activity, avg. one eruption every 5 years"
+    },
+    {
+      "century": "20th",
+      "count": 9,
+      "note": "Less frequent but VEI 3 event in 1918"
+    },
+    {
+      "century": "21st",
+      "count": 4,
+      "note": "Cluster of eruptions 2005–2007"
+    }
+  ],
+  "facts": [
+    "Karthala has erupted 35 times since approximately 1050 CE, making it one of Africa's most active volcanoes.",
+    "The volcano forms the southern two-thirds of Grand Comore Island, making it one of the largest volcanic edifices in the Indian Ocean by land area.",
+    "Grand Comore has no rivers or reservoirs — the island's 400,000 residents rely entirely on rainwater cisterns and shallow wells that are highly vulnerable to volcanic ashfall contamination.",
+    "In 2005, two eruptions within seven months displaced over 40,000 people and created a humanitarian water crisis requiring international aid.",
+    "An 1860 lava flow from the summit caldera traveled approximately 13 km to the northwest, reaching the coast just north of the capital city of Moroni.",
+    "Between 1848 and 1883, Karthala erupted at least 14 times — an average of roughly one eruption every 2.5 years.",
+    "Karthala's two overlapping summit calderas measure 3–4 km across and were formed by repeated roof collapses when magma drained through lateral rift zones.",
+    "The Comoros archipelago is known as the 'Perfume Islands' because the volcanic soil supports prolific growth of ylang-ylang, vanilla, and cloves.",
+    "The submarine eruption of Fani Maoré off Mayotte in 2018–2021 was the largest underwater eruption ever documented, occurring in the same volcanic province as Karthala.",
+    "Karthala's basaltic lavas are so fluid that historical flows have extended to both coasts of Grand Comore, building new land where they entered the Indian Ocean."
+  ],
+  "faqs": [
+    {
+      "question": "Is Karthala an active volcano?",
+      "answer": "Yes, Karthala is classified as an active volcano. It has erupted 35 times since approximately 1050 CE, with the most recent eruption occurring in January 2007. The volcano is one of the most active in the African-Indian Ocean region, having produced four eruptions between 2005 and 2007 alone. Karthala is continuously monitored by the Karthala Volcano Observatory, and volcanologists consider a future eruption likely given its historical eruption frequency of roughly one event every five to ten years."
+    },
+    {
+      "question": "When did Karthala last erupt?",
+      "answer": "Karthala last erupted on January 12, 2007, when activity at the Chahalé crater within the summit caldera produced explosive eruptions and briefly formed a small lava lake. This VEI 2 event was the fourth eruption in less than three years, following two damaging eruptions in 2005 (April and November) and a minor event in May 2006. The volcano has been quiet since 2007, though fumarolic activity continues at the summit."
+    },
+    {
+      "question": "How tall is Karthala?",
+      "answer": "Karthala stands 2,350 m (7,710 ft) above sea level, making it the tallest point in the Comoros archipelago and one of the highest volcanoes in the western Indian Ocean. The shield volcano rises from the seafloor, so its total height from base to summit is considerably greater — estimated at over 4,000 m. By comparison, Piton de la Fournaise on Réunion stands at 2,632 m, while Mount Kilimanjaro in Tanzania, Africa's tallest peak, reaches 5,895 m."
+    },
+    {
+      "question": "What type of volcano is Karthala?",
+      "answer": "Karthala is a shield volcano, characterized by broad, gently sloping flanks built up by successive flows of fluid basaltic lava. Shield volcanoes are typically associated with effusive eruptions rather than explosive ones. However, Karthala is unusual among shield volcanoes because its summit caldera system, which periodically fills with water, generates phreatomagmatic explosions when rising magma encounters groundwater — producing ash plumes and explosive activity more commonly associated with stratovolcanoes."
+    },
+    {
+      "question": "Why is Karthala dangerous?",
+      "answer": "Karthala poses an unusually concentrated risk because approximately 400,000 people live on Grand Comore Island with virtually no alternative water sources. The island has no rivers, lakes, or reservoirs — residents depend on rainwater cisterns and shallow wells. Even a moderate eruption from the summit caldera can contaminate these water sources with volcanic ash and acid, creating an immediate humanitarian crisis, as occurred twice in 2005. Additionally, lava flows from flank eruptions can reach the coast within hours, threatening villages and infrastructure including the capital city of Moroni."
+    },
+    {
+      "question": "Can you hike Karthala?",
+      "answer": "Yes, Karthala can be climbed, typically starting from the village of M'vouni on the western flank. The ascent takes 6–8 hours through tropical forest, montane scrub, and barren volcanic terrain, with the descent requiring 4–5 hours. Local guides are strongly recommended as the trail is not well-marked. The summit caldera offers dramatic views of active fumaroles and the crater floor. There are no mountain huts, so trekkers must carry all supplies. Climbers should check volcanic activity status beforehand, as access may be restricted during unrest periods."
+    },
+    {
+      "question": "Where is Karthala located?",
+      "answer": "Karthala is located on Grand Comore Island (also called Ngazidja), the largest and westernmost island in the Comoros archipelago, in the Mozambique Channel of the western Indian Ocean. The volcano lies approximately 300 km northwest of Madagascar and 300 km east of the Mozambique coast of East Africa. The summit coordinates are 11.766°S, 43.364°E. The Comorian capital, Moroni, sits on the island's western coast approximately 12 km from the summit."
+    },
+    {
+      "question": "How often does Karthala erupt?",
+      "answer": "Karthala erupts frequently by global standards. Over the past two centuries, it has averaged roughly one eruption every six to eight years, though activity is highly clustered — the 19th century saw 21 eruptions (about one every five years), while the period from 1928 to 1948 was comparatively quiet. The most recent cluster of four eruptions occurred between April 2005 and January 2007. The current repose period since 2007 is approaching two decades, which is among the volcano's longer quiet intervals in the historical record."
+    }
+  ],
+  "people_also_search": [
+    "karthala volcano eruption",
+    "comoros volcano",
+    "karthala last eruption",
+    "grand comore volcano",
+    "most active african volcanoes",
+    "karthala eruption 2005",
+    "comoros islands volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Karthala",
+    "alternateName": [
+      "Kartala",
+      "Mount Karthala"
+    ],
+    "description": "Active shield volcano on Grand Comore Island, one of Africa's most active volcanoes with 35 recorded eruptions",
+    "geo": {
+      "latitude": -11.7658,
+      "longitude": 43.3639,
+      "elevation": 2350
+    },
+    "containedInPlace": {
+      "name": "Grand Comore (Ngazidja)",
+      "country": "Union of the Comoros"
+    },
+    "url": "https://volcanoatlas.com/volcano/karthala"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=233010",
+      "text": "Smithsonian GVP: Karthala",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.britannica.com/place/Mount-Karthala",
+      "text": "Britannica: Mount Karthala",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "piton-de-la-fournaise",
+      "nyiragongo",
+      "erta-ale",
+      "ol-doinyo-lengai"
+    ],
+    "country_pages": [
+      "comoros"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "piton-de-la-fournaise",
+    "nyiragongo",
+    "erta-ale",
+    "ol-doinyo-lengai"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Comoros",
+      "url": "/volcanoes-in-comoros"
+    },
+    {
+      "label": "Karthala",
+      "url": "/volcano/karthala"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/karthala"
+}

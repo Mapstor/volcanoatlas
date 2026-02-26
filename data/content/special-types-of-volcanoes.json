@@ -1,0 +1,367 @@
+{
+  "slug": "types-of-volcanoes",
+  "page_type": "special",
+  "title": "Types of Volcanoes",
+  "meta_title": "Types of Volcanoes — Shield, Stratovolcano, Caldera & More | VolcanoAtlas",
+  "meta_description": "Learn about every volcano type: shield, stratovolcano, caldera, cinder cone, lava dome, fissure vent, and more. Examples and comparisons.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Types of Volcanoes",
+      "url": "/types-of-volcanoes"
+    }
+  ],
+  "quick_answer": {
+    "what": "Volcanoes are classified by their shape, structure, and eruption behavior into several major types: shield volcanoes, stratovolcanoes (composite volcanoes), calderas, cinder cones, lava domes, fissure vents, volcanic fields, and complex volcanoes.",
+    "most_common": "Stratovolcanoes are the most common type, accounting for 661 (54%) of the 1,222 Holocene volcanoes in the Smithsonian database. They are also the most dangerous, responsible for the majority of volcanic fatalities in recorded history.",
+    "key_difference": "The primary differences between volcano types are magma composition and eruption style. Low-silica basaltic magma produces gentle shield volcanoes; high-silica magma produces explosive stratovolcanoes and lava domes."
+  },
+  "hero": {
+    "title": "Types of Volcanoes",
+    "subtitle": "A Complete Guide to Every Volcanic Landform on Earth",
+    "description": "From gentle Hawaiian shield volcanoes to explosive Andean stratovolcanoes — how magma chemistry, tectonic setting, and eruption dynamics shape the volcanic landscape."
+  },
+  "sections": {
+    "overview": {
+      "content": "Volcanoes come in a remarkable variety of shapes and sizes, from the broad, gently sloping shields of Hawaii to the steep, symmetrical cones of the <a href=\"/ring-of-fire\">Ring of Fire</a> to the vast, basin-like calderas left behind by <a href=\"/supervolcanoes\">supereruptions</a>. These differences are not cosmetic — they reflect fundamental differences in magma chemistry, eruption dynamics, and tectonic setting that determine how a volcano behaves and how dangerous it is. The Smithsonian Institution's Global Volcanism Program catalogues 1,222 Holocene volcanoes worldwide, classifying them into several morphological types. Stratovolcanoes (composite volcanoes) dominate the global count with 661 entries (54% of all catalogued volcanoes), followed by volcanic fields (139, or 11%), shield volcanoes (111, or 9%), calderas (85, or 7%), complex volcanoes (55, or 4.5%), and various other forms including cinder cones, lava domes, fissure vents, and submarine volcanoes. Understanding these types is essential for assessing volcanic hazards, interpreting eruption histories, and predicting future behavior. A shield volcano and a stratovolcano sitting in the same region may pose completely different risks to nearby populations — the shield producing relatively gentle lava flows that allow evacuation, the stratovolcano capable of sudden, devastating pyroclastic flows."
+    },
+    "stratovolcano": {
+      "content": "**Stratovolcanoes** (also called composite volcanoes) are the iconic, steep-sided, conical mountains that most people picture when they think of a volcano. They are built by alternating layers of lava flows, tephra (volcanic debris), and ash, accumulated over thousands to hundreds of thousands of years. The name 'strato' comes from the Latin word for 'layer.'\n\nStratovolcanoes are the most common and most dangerous type of volcano on Earth. The Smithsonian database lists 661 stratovolcanoes (including multi-centered stratovolcano complexes), accounting for approximately 54% of all catalogued Holocene volcanoes. They form primarily at convergent plate boundaries — subduction zones where oceanic crust dives beneath continental or other oceanic crust — which is why the <a href=\"/ring-of-fire\">Ring of Fire</a> is densely populated with them.\n\nThe magma feeding stratovolcanoes is typically intermediate to high in silica content (andesitic to dacitic), making it viscous and gas-rich. This combination produces explosive eruptions: the thick magma traps dissolved gases until pressure builds to a critical point, then releases them violently. Eruption styles range from moderate Strombolian and Vulcanian explosions to catastrophic Plinian events that send eruption columns 30+ km into the stratosphere.\n\nStratovolcanoes have been responsible for the majority of volcanic fatalities in recorded history. Notable examples include <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> (<a href=\"/volcanoes-in-italy\">Italy</a>), whose 79 AD eruption (VEI 5) buried Pompeii; <a href=\"/volcano/st-helens\">Mount St. Helens</a> (<a href=\"/volcanoes-in-united-states\">United States</a>), whose 1980 lateral blast killed 57 people; <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> (<a href=\"/volcanoes-in-philippines\">Philippines</a>), whose 1991 VEI 6 eruption was the second-largest of the 20th century; <a href=\"/volcano/fujisan\">Mount Fuji</a> (<a href=\"/volcanoes-in-japan\">Japan</a>), the world's most iconic stratovolcano; <a href=\"/volcano/cotopaxi\">Cotopaxi</a> (<a href=\"/volcanoes-in-ecuador\">Ecuador</a>), one of the highest active volcanoes in the world at 5,911 m (19,393 ft); and <a href=\"/volcano/merapi\">Mount Merapi</a> (<a href=\"/volcanoes-in-indonesia\">Indonesia</a>), with 106 confirmed eruptions.\n\nTypical characteristics: elevation 1,000–6,000 m, slope angles of 25–35 degrees, summit craters, and a history of alternating explosive and effusive eruptions. Stratovolcanoes can remain dormant for centuries before reawakening violently, as <a href=\"/volcano/pinatubo\">Pinatubo</a> demonstrated in 1991 after roughly 500 years of quiet."
+    },
+    "shield_volcano": {
+      "content": "**Shield volcanoes** are broad, gently sloping volcanic edifices built almost entirely by fluid basaltic lava flows. Their low-angle profiles (typically 2–10 degree slopes) resemble a warrior's shield laid on the ground, giving them their name. They are the largest volcanoes on Earth by volume, though they lack the dramatic height-to-width ratio of stratovolcanoes.\n\nThe Smithsonian database lists 111 shield volcanoes, accounting for approximately 9% of Holocene volcanoes. They form primarily at hotspots (like Hawaii) and along rift zones (like <a href=\"/volcanoes-in-iceland\">Iceland</a> and the East African Rift), where low-silica basaltic magma rises from the mantle with relatively little interaction with continental crust.\n\nBecause basaltic magma has low viscosity and low gas content, shield volcano eruptions are typically effusive rather than explosive. Lava emerges in rivers and fountains rather than violent blasts, and flows can travel tens of kilometers before solidifying. This makes shield eruptions spectacular but generally less immediately deadly than stratovolcano eruptions — though lava flows can destroy communities and infrastructure in their path, as demonstrated by <a href=\"/volcano/kilauea\">Kilauea's</a> 2018 eruption, which destroyed over 700 structures in Hawaii.\n\n<a href=\"/volcano/mauna-loa\">Mauna Loa</a> in Hawaii is the world's largest active volcano by volume, rising approximately 4,170 m (13,681 ft) above sea level but extending another 5,000 m below the ocean surface — its total height from base to summit exceeds 9,000 m, making it taller than Mount Everest measured from base to peak. <a href=\"/volcano/kilauea\">Kilauea</a>, adjacent to Mauna Loa, is one of the most active volcanoes on Earth, with near-continuous eruption since 1983. <a href=\"/volcano/piton-de-la-fournaise\">Piton de la Fournaise</a> on Reunion Island (<a href=\"/volcanoes-in-france\">France</a>) holds the record for the most confirmed eruptions of any volcano in the database at 197. Other notable shield volcanoes include <a href=\"/volcano/erebus\">Mount Erebus</a> in <a href=\"/volcanoes-in-antarctica\">Antarctica</a> (the southernmost active volcano on Earth)."
+    },
+    "caldera": {
+      "content": "**Calderas** are large, basin-shaped depressions formed when a volcanic edifice collapses into a partially emptied magma chamber, typically during or after a massive eruption. The term comes from the Spanish word for 'cauldron.' Calderas range from a few kilometers to over 100 km in diameter and are often so large that they are not immediately recognizable as volcanic features from the ground.\n\nThe Smithsonian database lists 85 calderas, representing about 7% of Holocene volcanoes. Calderas are particularly important because they include Earth's most powerful volcanic systems — the <a href=\"/supervolcanoes\">supervolcanoes</a>. Several calderas in the database have produced VEI 7 or VEI 8 eruptions: Taupo (<a href=\"/volcanoes-in-new-zealand\">New Zealand</a>) produced a VEI 8 event roughly 26,500 years ago; <a href=\"/volcano/aira\">Aira</a> (<a href=\"/volcanoes-in-japan\">Japan</a>) produced a VEI 7–8 event roughly 29,000 years ago; <a href=\"/volcano/crater-lake\">Crater Lake</a> (<a href=\"/volcanoes-in-united-states\">United States</a>) formed in a VEI 7 eruption around 5680 BCE.\n\nCalderas form through several mechanisms. The most dramatic is explosive caldera collapse, where a massive eruption evacuates enough magma that the overlying rock can no longer support itself and drops into the void, sometimes accompanied by ring-fault eruptions. Other calderas form more gradually through summit collapse during sustained lava drainage, as at <a href=\"/volcano/kilauea\">Kilauea's</a> Halema'uma'u crater.\n\nMany calderas remain actively dangerous. <a href=\"/volcano/campi-flegrei\">Campi Flegrei</a> (<a href=\"/volcanoes-in-italy\">Italy</a>) is experiencing ongoing unrest with measurable ground uplift and increasing seismicity, with 1.5 million people living within the caldera. <a href=\"/volcano/taal\">Taal</a> (<a href=\"/volcanoes-in-philippines\">Philippines</a>) last erupted in 2020 and sits just 50 km from Manila. <a href=\"/volcano/krakatau\">Krakatau</a> (<a href=\"/volcanoes-in-indonesia\">Indonesia</a>) generated one of the deadliest eruptions in recorded history in 1883 (over 36,000 dead) and its child volcano, Anak Krakatau, caused a deadly tsunami in 2018."
+    },
+    "cinder_cone": {
+      "content": "**Cinder cones** (also called scoria cones or pyroclastic cones) are the smallest and most common type of volcanic landform, though many are too small or short-lived to appear in the Smithsonian's Holocene database of major volcanoes. The database lists 39 pyroclastic cone entries. They are steep-sided (30–40 degree slopes), typically 30 to 300 m tall, and built by the accumulation of loose volcanic fragments (cinders, scoria, and bombs) ejected from a single vent during Strombolian-style eruptions.\n\nCinder cones form rapidly — often within days to months — and are frequently found on the flanks or in the vicinity of larger volcanoes. Paricutin in <a href=\"/volcanoes-in-mexico\">Mexico</a> is the most famous cinder cone in history: it emerged in a cornfield on February 20, 1943 and grew to 424 m over nine years of continuous eruption, burying two villages in lava. Sunset Crater in Arizona (USA) erupted around 1085 AD and is one of the youngest volcanic features in the contiguous United States.\n\nBecause they are built of loose, unconsolidated material, cinder cones erode quickly and have relatively short geological lifespans compared to shield volcanoes or stratovolcanoes. They rarely produce highly dangerous eruptions, though lava flows from their bases can damage property, and their explosive phases can generate hazardous tephra fall within several kilometers."
+    },
+    "lava_dome": {
+      "content": "**Lava domes** are mound-shaped volcanic features formed by the slow extrusion of highly viscous, silica-rich magma (typically dacitic or rhyolitic) that piles up around and over the vent rather than flowing away. The Smithsonian database lists 32 lava dome volcanoes. They are typically 100 to 1,000 m in diameter and grow over months to decades.\n\nLava domes are among the most hazardous volcanic features because they are prone to sudden, unpredictable collapse. When a growing dome becomes gravitationally unstable or is disrupted by internal gas pressure, parts of it can collapse catastrophically, generating pyroclastic density currents — fast-moving avalanches of superheated rock fragments and gas — that can travel at speeds exceeding 100 km/h and temperatures above 300 degrees C.\n\nThe deadliest lava dome collapse in modern history occurred at <a href=\"/volcano/pelee\">Mount Pelee</a> in Martinique (<a href=\"/volcanoes-in-france\">France</a>) on May 8, 1902, when a pyroclastic surge from a collapsing dome destroyed the city of Saint-Pierre and killed approximately 29,000 people in minutes. Unzen in <a href=\"/volcanoes-in-japan\">Japan</a> experienced a devastating dome collapse on June 3, 1991, killing 43 people including the noted volcanologists Katia and Maurice Krafft. The ongoing dome growth at <a href=\"/volcano/st-helens\">Mount St. Helens</a> (2004–2008) and at <a href=\"/volcano/sheveluch\">Sheveluch</a> in <a href=\"/volcanoes-in-russia\">Russia</a> illustrate the persistent hazard these features pose."
+    },
+    "fissure_vent": {
+      "content": "**Fissure vents** (also called fissure eruptions) are linear volcanic vents through which lava erupts along a crack in the Earth's surface rather than from a central cone. The Smithsonian database lists 53 fissure vents. They are most common along divergent plate boundaries and rift zones, particularly in <a href=\"/volcanoes-in-iceland\">Iceland</a> and the East African Rift.\n\nFissure eruptions can produce enormous volumes of lava. The 1783–1784 Laki eruption in <a href=\"/volcanoes-in-iceland\">Iceland</a> — technically a fissure eruption along a 27 km crack system — produced approximately 14.7 km3 of basaltic lava over eight months, one of the largest lava eruptions in recorded history. The sulfuric aerosol haze it generated caused crop failures and estimated death tolls of 9,000 in Iceland (roughly 25% of the population) and contributed to an estimated 23,000 excess deaths in England from air pollution. The ongoing eruptions on the Reykjanes Peninsula in Iceland since 2021 are fissure-style events.\n\nOn a much grander scale, fissure eruptions produced the enormous continental flood basalt provinces found in the geological record — the Deccan Traps of India, the Siberian Traps of Russia, and the Columbia River Basalt Group of the northwestern United States. These events, each involving thousands of cubic kilometers of lava over millions of years, are associated with mass extinction events in Earth's history."
+    },
+    "volcanic_field": {
+      "content": "**Volcanic fields** are areas containing clusters of small volcanic vents — typically cinder cones, maars, and small shield volcanoes — distributed across a broad region rather than concentrated at a single central edifice. The Smithsonian database lists 139 volcanic fields, making them the second most common volcano type at approximately 11% of the total.\n\nVolcanic fields form in a variety of tectonic settings, including continental rift zones, back-arc basins, and intraplate settings where magma exploits pre-existing weaknesses in the crust. Individual vents within a field are typically monogenetic — each erupts once and then becomes extinct — but the field as a whole may remain active for hundreds of thousands of years as new vents open.\n\nNotable volcanic fields include the Auckland Volcanic Field in <a href=\"/volcanoes-in-new-zealand\">New Zealand</a>, which contains approximately 53 volcanic centers beneath a city of 1.7 million people; the Michoacan-Guanajuato Volcanic Field in <a href=\"/volcanoes-in-mexico\">Mexico</a>, which includes Paricutin and contains over 1,000 individual vents; and the Eifel Volcanic Field in Germany, which includes the Laacher See caldera that last erupted approximately 12,900 years ago."
+    },
+    "complex_and_compound": {
+      "content": "**Complex volcanoes** are volcanic centers that do not fit neatly into a single morphological category. They may combine characteristics of stratovolcanoes, calderas, shield volcanoes, and lava domes in a single edifice, often reflecting a long and varied eruptive history. The Smithsonian database lists 55 complex volcanoes and 12 compound volcanoes.\n\nA complex volcano may have begun as a shield volcano, built a stratovolcanic cone, then collapsed into a caldera, and subsequently grown lava domes within the caldera — all within a single volcanic center. <a href=\"/volcano/galeras\">Galeras</a> in <a href=\"/volcanoes-in-colombia\">Colombia</a> is classified as a complex volcano, as is Unzen in <a href=\"/volcanoes-in-japan\">Japan</a>.\n\n**Compound volcanoes** are closely spaced volcanic vents that overlap to form a single, multi-summit edifice. They are distinguished from volcanic fields by the close proximity and structural interconnection of their vents. <a href=\"/volcano/colima\">Colima</a> in <a href=\"/volcanoes-in-mexico\">Mexico</a>, with its paired Nevado de Colima and Volcan de Fuego summits, is a classic compound volcano."
+    },
+    "submarine_volcanoes": {
+      "content": "**Submarine volcanoes** erupt beneath the ocean surface and are among the least studied volcanic features because of their inaccessibility. They include underwater seamounts, mid-ocean ridge volcanic centers, and shallow submarine vents that occasionally breach the surface to form new islands.\n\nThe 2022 eruption of <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a> (<a href=\"/volcanoes-in-tonga\">Tonga</a>) — a submarine caldera volcano — demonstrated that underwater volcanoes can produce globally significant eruptions. Its VEI 5 explosion generated an atmospheric shockwave that circled the globe multiple times and injected roughly 146 teragrams of water vapor into the stratosphere. Kavachi in the <a href=\"/volcanoes-in-solomon-islands\">Solomon Islands</a> is one of the most active submarine volcanoes in the Pacific, repeatedly building and destroying temporary islands.\n\nAn estimated 75% of all volcanic eruptions on Earth occur along mid-ocean ridges beneath the sea, but the vast majority go undetected. The Smithsonian database lists only a fraction of known submarine volcanic centers because most lack sufficient evidence of Holocene activity."
+    },
+    "magma_chemistry_connection": {
+      "content": "The type of volcano that forms at any given location is primarily determined by magma chemistry, which in turn is controlled by tectonic setting. This connection between chemistry, eruption style, and landform is the central organizing principle of volcanology.\n\n**Basaltic magma** (low silica, approximately 45–52% SiO2) is hot (roughly 1,100–1,250 degrees C), fluid, and gas-poor. It flows easily, producing effusive eruptions, lava rivers, and lava fountains. Over time, these flows build shield volcanoes and flood basalt plains. Basaltic magma dominates at hotspots (Hawaii), divergent boundaries (Iceland, mid-ocean ridges), and some rift zones.\n\n**Andesitic magma** (intermediate silica, approximately 52–63% SiO2) is cooler, more viscous, and more gas-rich. It produces moderately explosive eruptions (Strombolian to Vulcanian) and builds the classic layered cone of a stratovolcano. Andesitic magma is the hallmark of subduction zone volcanism.\n\n**Dacitic and rhyolitic magma** (high silica, above 63% SiO2) is the most viscous and gas-charged. It produces catastrophically explosive Plinian eruptions, lava domes, ignimbrite flows, and caldera collapses. The most devastating eruptions in history — <a href=\"/volcano/tambora\">Tambora</a>, <a href=\"/volcano/krakatau\">Krakatau</a>, <a href=\"/volcano/pinatubo\">Pinatubo</a> — involved dacitic or rhyolitic magma. <a href=\"/supervolcanoes\">Supervolcanic systems</a> like Yellowstone and Toba are fueled primarily by rhyolitic magma."
+    }
+  },
+  "comparison_table": {
+    "title": "Volcano Types Compared",
+    "description": "A comprehensive comparison of the major volcano types, their characteristics, and examples from the VolcanoAtlas database.",
+    "headers": [
+      "Type",
+      "Count in Database",
+      "Typical Shape",
+      "Typical Height",
+      "Eruption Style",
+      "Magma Type",
+      "Danger Level",
+      "Famous Example"
+    ],
+    "rows": [
+      [
+        "Stratovolcano",
+        "661 (54%)",
+        "Steep cone",
+        "1,000–6,000 m",
+        "Explosive (Plinian, Vulcanian)",
+        "Andesitic to dacitic",
+        "Very High",
+        "Vesuvius, Fuji, Pinatubo"
+      ],
+      [
+        "Volcanic Field",
+        "139 (11%)",
+        "Cluster of small vents",
+        "Varies",
+        "Strombolian, phreatic",
+        "Basaltic to andesitic",
+        "Low to Moderate",
+        "Auckland, Michoacan"
+      ],
+      [
+        "Shield",
+        "111 (9%)",
+        "Broad, gentle slope",
+        "500–4,170 m",
+        "Effusive (lava flows)",
+        "Basaltic",
+        "Moderate",
+        "Kilauea, Mauna Loa, Piton de la Fournaise"
+      ],
+      [
+        "Caldera",
+        "85 (7%)",
+        "Wide depression",
+        "Variable (collapse)",
+        "Explosive to cataclysmic",
+        "Varies (often rhyolitic)",
+        "Extreme",
+        "Taupo, Krakatau, Campi Flegrei"
+      ],
+      [
+        "Complex",
+        "55 (4.5%)",
+        "Mixed/irregular",
+        "Varies",
+        "Mixed",
+        "Varies",
+        "High",
+        "Galeras, Unzen"
+      ],
+      [
+        "Fissure Vent",
+        "53 (4.3%)",
+        "Linear crack",
+        "Low relief",
+        "Effusive (curtain of fire)",
+        "Basaltic",
+        "Moderate",
+        "Laki, Reykjanes"
+      ],
+      [
+        "Pyroclastic Cone",
+        "39 (3.2%)",
+        "Steep, small cone",
+        "30–300 m",
+        "Strombolian",
+        "Basaltic to andesitic",
+        "Low",
+        "Paricutin, Sunset Crater"
+      ],
+      [
+        "Lava Dome",
+        "32 (2.6%)",
+        "Rounded mound",
+        "100–1,000 m dia.",
+        "Extrusive + collapse",
+        "Dacitic to rhyolitic",
+        "High",
+        "Pelee, St. Helens dome"
+      ],
+      [
+        "Compound",
+        "12 (1%)",
+        "Multi-summit",
+        "Varies",
+        "Mixed",
+        "Varies",
+        "High",
+        "Colima"
+      ],
+      [
+        "Maar",
+        "10 (0.8%)",
+        "Shallow crater",
+        "Below ground level",
+        "Phreatomagmatic",
+        "Varies",
+        "Low",
+        "Eifel maars, Ukinrek"
+      ]
+    ]
+  },
+  "type_distribution_chart": [
+    {
+      "type": "Stratovolcano",
+      "count": 661
+    },
+    {
+      "type": "Volcanic Field",
+      "count": 139
+    },
+    {
+      "type": "Shield",
+      "count": 111
+    },
+    {
+      "type": "Caldera",
+      "count": 85
+    },
+    {
+      "type": "Complex",
+      "count": 55
+    },
+    {
+      "type": "Fissure Vent",
+      "count": 53
+    },
+    {
+      "type": "Pyroclastic Cone",
+      "count": 39
+    },
+    {
+      "type": "Lava Dome",
+      "count": 32
+    },
+    {
+      "type": "Compound",
+      "count": 12
+    },
+    {
+      "type": "Maar",
+      "count": 10
+    },
+    {
+      "type": "Other",
+      "count": 25
+    }
+  ],
+  "facts": [
+    "Stratovolcanoes account for 661 (54%) of the 1,222 Holocene volcanoes in the Smithsonian database, making them the most common and most deadly volcano type on Earth.",
+    "Mauna Loa, a shield volcano in Hawaii, is the largest active volcano by volume on Earth — its base-to-summit height exceeds 9,000 m, taller than Mount Everest measured from its base.",
+    "Piton de la Fournaise, a shield volcano on Reunion Island, holds the record for the most confirmed eruptions of any volcano in the database at 197.",
+    "Cinder cones are the smallest volcanic landform but the most numerous on Earth — Mexico's Michoacan-Guanajuato Volcanic Field alone contains more than 1,000 individual cinder cone vents.",
+    "The lava dome collapse at Mount Pelee in 1902 killed approximately 29,000 people in minutes — making lava dome collapse one of the most lethal volcanic phenomena despite the dome type's relatively small size.",
+    "Calderas can be so large they are invisible from the ground: Yellowstone's caldera (72 x 55 km) was not recognized as a volcanic feature until satellite imagery and geological mapping revealed its boundaries.",
+    "The 1783 Laki fissure eruption in Iceland produced 14.7 km3 of lava along a 27 km crack, generated a toxic haze that killed roughly 25% of Iceland's population, and caused crop failures across Europe.",
+    "Volcanic fields like Auckland, New Zealand contain dozens of vents beneath a modern city of 1.7 million people — each vent erupted only once, but the next eruption could open anywhere within the field.",
+    "The magma chemistry connection is direct: low-silica basaltic magma produces gentle shield volcanoes, while high-silica rhyolitic magma produces explosive stratovolcanoes and catastrophic caldera collapses.",
+    "Roughly 75% of all volcanic eruptions on Earth occur at submarine volcanoes along mid-ocean ridges, but the vast majority go entirely undetected by human observation.",
+    "The term 'stratovolcano' comes from the Latin 'stratum' meaning 'layer,' reflecting the alternating layers of lava and ash that build these classic volcanic cones over thousands of years.",
+    "Complex volcanoes like Galeras in Colombia defy simple classification — they may combine shield, stratovolcanic, caldera, and lava dome features in a single edifice reflecting millions of years of varied activity."
+  ],
+  "faqs": [
+    {
+      "question": "What are the main types of volcanoes?",
+      "answer": "The main types of volcanoes are stratovolcanoes (composite volcanoes), shield volcanoes, calderas, cinder cones (pyroclastic cones), lava domes, fissure vents, and volcanic fields. Stratovolcanoes are the most common, accounting for about 54% of Holocene volcanoes — they are steep-sided cones built by alternating layers of lava and ash and are responsible for most volcanic fatalities. Shield volcanoes are broad, gently sloping structures built by fluid basaltic lava flows. Calderas are large collapse depressions formed when a magma chamber empties during a massive eruption. Each type reflects different magma chemistry, tectonic setting, and eruption dynamics."
+    },
+    {
+      "question": "What is the most dangerous type of volcano?",
+      "answer": "Stratovolcanoes and calderas are the most dangerous types. Stratovolcanoes produce explosive eruptions with pyroclastic flows, tephra fall, and lahars — they are responsible for the vast majority of volcanic deaths in recorded history, including the eruptions of Vesuvius (79 AD), Krakatau (1883), Pelee (1902), and Pinatubo (1991). Calderas are capable of even larger eruptions, including supereruptions rated VEI 7 to 8, but these are much rarer. Lava domes are also disproportionately deadly relative to their size because they are prone to sudden, catastrophic collapses that generate fast-moving pyroclastic density currents."
+    },
+    {
+      "question": "What is the difference between a shield volcano and a stratovolcano?",
+      "answer": "The primary difference is magma chemistry, which determines eruption style and shape. Shield volcanoes are built by low-viscosity basaltic magma that flows easily, producing gentle slopes of 2 to 10 degrees and broad profiles — like Kilauea and Mauna Loa in Hawaii. Stratovolcanoes are built by more viscous, gas-rich andesitic to dacitic magma that erupts explosively, producing steep-sided cones of 25 to 35 degrees layered with alternating lava and ash — like Mount Fuji and Mount Vesuvius. Shield eruptions are typically effusive (lava flows), while stratovolcano eruptions are typically explosive (pyroclastic events). Shield volcanoes are generally less immediately dangerous to people, though their lava flows can destroy property."
+    },
+    {
+      "question": "What type of volcano is Mount Fuji?",
+      "answer": "Mount Fuji is a stratovolcano (composite volcano). It displays the classic stratovolcanic profile: a steep, symmetrical cone built by alternating layers of lava flows and tephra (volcanic ash and rock fragments) over approximately 100,000 years of activity. Fuji rises to 3,776 m (12,389 ft), making it Japan's tallest peak. It last erupted in 1707 (the Hoei eruption, VEI 5), which deposited ash on Edo (modern Tokyo), roughly 100 km to the northeast. As a stratovolcano fed by intermediate-composition magma at a subduction zone, Fuji is capable of both effusive lava flows and explosive eruptions."
+    },
+    {
+      "question": "What is a caldera volcano?",
+      "answer": "A caldera is a large, basin-shaped depression formed when the ground collapses into a partially or fully emptied magma chamber, typically during or after a massive eruption. The term comes from the Spanish word for 'cauldron.' Calderas range from a few kilometers to over 100 km in diameter — Yellowstone's caldera measures 72 by 55 km. They include some of Earth's most powerful volcanic systems: Taupo in New Zealand produced a VEI 8 supereruption approximately 26,500 years ago. Unlike stratovolcanoes that build mountains, calderas destroy them — the ground literally drops into the void left by evacuated magma. The Smithsonian database lists 85 caldera-type volcanoes."
+    },
+    {
+      "question": "What is a cinder cone volcano?",
+      "answer": "A cinder cone (also called a scoria cone or pyroclastic cone) is the smallest and simplest type of volcano. It is a steep-sided hill, typically 30 to 300 m tall, built by loose fragments of lava (cinders, scoria, and bombs) ejected during Strombolian-style eruptions from a single vent. Cinder cones form rapidly — sometimes within days or weeks — and are often found on the flanks of larger volcanoes or within volcanic fields. The most famous cinder cone is Paricutin in Mexico, which emerged in a cornfield in 1943 and grew to 424 m over nine years. They erode quickly due to their loose construction and rarely produce dangerous eruptions."
+    },
+    {
+      "question": "How does magma composition affect volcano type?",
+      "answer": "Magma composition is the primary factor determining what type of volcano forms. Low-silica basaltic magma (about 45 to 52% SiO2) is hot, fluid, and gas-poor, producing gentle effusive eruptions that build broad shield volcanoes — like those in Hawaii and Iceland. Intermediate andesitic magma (about 52 to 63% SiO2) is more viscous and gas-rich, producing the alternating explosive and effusive eruptions that build steep stratovolcanoes — the dominant type along the Ring of Fire. High-silica dacitic and rhyolitic magma (above 63% SiO2) is extremely viscous and gas-laden, producing catastrophic explosive eruptions, lava domes, and caldera collapses. Tectonic setting controls magma composition: subduction zones produce silica-rich explosive magma, while hotspots and rifts produce basaltic effusive magma."
+    },
+    {
+      "question": "What is a lava dome and why is it dangerous?",
+      "answer": "A lava dome is a mound-shaped volcanic feature formed when highly viscous, silica-rich magma (typically dacitic or rhyolitic) is extruded so slowly that it piles up around the vent rather than flowing away. Domes typically measure 100 to 1,000 m in diameter and grow over months to decades. They are dangerous because they are prone to sudden, catastrophic collapse: when the dome becomes unstable, portions can break away and disintegrate into pyroclastic density currents — superheated avalanches of gas, ash, and rock fragments traveling at over 100 km/h. The collapse of a lava dome at Mount Pelee in 1902 destroyed the city of Saint-Pierre, killing approximately 29,000 people."
+    },
+    {
+      "question": "How many types of volcanoes are there?",
+      "answer": "The Smithsonian Institution's Global Volcanism Program classifies Holocene volcanoes into approximately 10 morphological types: stratovolcano, shield volcano, caldera, pyroclastic cone (cinder cone), lava dome, fissure vent, volcanic field, complex volcano, compound volcano, and maar. Some classifications further subdivide these categories or add types like submarine volcanoes, tuff cones, and somma volcanoes (a caldera with a newer cone inside). The boundaries between types are not always sharp — many volcanoes exhibit characteristics of multiple types, which is why the 'complex' category exists for volcanoes that defy simple classification."
+    },
+    {
+      "question": "Can a volcano change type over time?",
+      "answer": "Yes. Volcanoes can evolve from one type to another over their lifetimes, which may span hundreds of thousands of years. A volcanic center might begin as a fissure vent, build a shield-like base, then shift to more explosive activity and construct a stratovolcanic cone on top, and eventually collapse into a caldera during a massive eruption. After caldera formation, new lava domes or small cones may grow within the caldera. Mount Vesuvius, for example, is a somma-stratovolcano: a younger cone (Gran Cono) growing inside the collapsed caldera of an older volcano (Monte Somma). This evolutionary complexity is why the Smithsonian database includes the 'complex' category for volcanoes that exhibit multiple morphological stages."
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/",
+      "text": "Smithsonian Institution Global Volcanism Program",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/volcano-hazards",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/science/volcano",
+      "text": "Britannica: Volcano",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://education.nationalgeographic.org/resource/volcano/",
+      "text": "National Geographic: Volcanoes",
+      "type": "educational"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/volcano-hazards/types-volcanoes",
+      "text": "USGS: Types of Volcanoes",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "st-helens",
+      "pinatubo",
+      "fujisan",
+      "cotopaxi",
+      "merapi",
+      "kilauea",
+      "mauna-loa",
+      "fournaise-piton-de-la",
+      "erebus",
+      "taupo",
+      "aira",
+      "crater-lake",
+      "campi-flegrei",
+      "taal",
+      "krakatau",
+      "pelee",
+      "unzendake",
+      "sheveluch",
+      "galeras",
+      "colima",
+      "hunga-tonga-hunga-ha-apai",
+      "tambora",
+      "etna",
+      "stromboli",
+      "eyjafjallajokull"
+    ],
+    "country_pages": [
+      "italy",
+      "united-states",
+      "japan",
+      "philippines",
+      "ecuador",
+      "indonesia",
+      "france",
+      "iceland",
+      "mexico",
+      "new-zealand",
+      "colombia",
+      "russia",
+      "tonga",
+      "solomon-islands",
+      "antarctica"
+    ],
+    "special_pages": [
+      "ring-of-fire",
+      "supervolcanoes",
+      "volcanic-explosivity-index"
+    ]
+  },
+  "schema_data": {
+    "type": "Article",
+    "name": "Types of Volcanoes",
+    "description": "A comprehensive guide to every type of volcano — stratovolcano, shield, caldera, cinder cone, lava dome, fissure vent, volcanic field, and more — with examples, eruption styles, and comparisons.",
+    "url": "https://volcanoatlas.com/types-of-volcanoes"
+  },
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "url": "/types-of-volcanoes"
+}

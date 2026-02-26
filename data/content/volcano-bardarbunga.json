@@ -1,0 +1,505 @@
+{
+  "slug": "bardarbunga",
+  "volcano_id": 373030,
+  "title": "Bárðarbunga",
+  "meta_title": "Bárðarbunga Volcano — Eruption History, Holuhraun & Facts | VolcanoAtlas",
+  "meta_description": "Bárðarbunga is a 2,000 m subglacial stratovolcano under Vatnajökull, Iceland. Explore the 2014 Holuhraun eruption, its VEI 6 history, and fissure systems.",
+  "quick_answer": {
+    "what": "Bárðarbunga is a large subglacial stratovolcano rising to 2,000 m (6,562 ft) beneath the northwestern part of the Vatnajökull ice cap in central Iceland, containing a 700 m deep caldera buried under glacial ice.",
+    "status": "Active — last erupted 2014–2015 at the Holuhraun fissure vent, 45 km northeast of the caldera. The caldera floor subsided ~65 m during this eruption. Seismic activity remains elevated.",
+    "famous_for": "The 2014–2015 Holuhraun eruption — the largest eruption in Iceland in over 200 years, producing 1.6 km³ of basaltic lava over 6 months — and the 1477 VEI 6 Veidivötn eruption, one of Iceland's most powerful historical volcanic events.",
+    "danger_level": "Significant — Bárðarbunga's fissure systems extend 100+ km across Iceland. Eruptions can produce massive lava flows, jökulhlaups (glacial outburst floods) in all directions, and volcanic gas pollution affecting European airspace."
+  },
+  "hero": {
+    "name": "Bárðarbunga",
+    "local_name": "Bárðarbunga",
+    "subtitle": "Iceland's Subglacial Giant — Home to the Largest Holocene Lava Flow on Earth",
+    "country": "Iceland",
+    "region": "Central Highlands, Vatnajökull",
+    "type": "Stratovolcano (subglacial)",
+    "elevation_m": 2000,
+    "elevation_ft": 6562,
+    "status": "Active",
+    "last_eruption": "2014–2015",
+    "coordinates": {
+      "lat": 64.633,
+      "lon": -17.516
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05174.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,000 m (6,562 ft) — second highest point in Iceland (beneath ice)",
+    "type": "Stratovolcano with subglacial caldera and extensive fissure systems",
+    "status": "Active — last erupted 2014–2015",
+    "last_eruption": "2014–2015 (Holuhraun fissure eruption)",
+    "first_known_eruption": "~7100 BCE (Tröllakyngja fissure)",
+    "total_recorded_eruptions": 55,
+    "vei_max": "6 (1477, Veidivötn fissure eruption)",
+    "country": "Iceland",
+    "region": "Central Highlands, beneath Vatnajökull ice cap",
+    "tectonic_setting": "Rift zone / Oceanic crust (< 15 km) — Mid-Atlantic Ridge and Iceland mantle plume",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "64.633°N, 17.516°W",
+    "nearest_city": "Akureyri — ~130 km north; Höfn — ~100 km southeast",
+    "population_at_risk": "Sparse highland population; jökulhlaup hazard threatens farms and infrastructure in multiple drainages",
+    "caldera_dimensions": "Approximately 10 × 12 km, 700 m deep, entirely subglacial",
+    "fissure_systems": "Veidivötn (~100 km SW to Torfajökull); Trollagigar (~50 km NE to Askja)",
+    "associated_systems": "Loki-Fögrufjöll (subglacial ridges to SW)",
+    "monitoring_agency": "Icelandic Meteorological Office (IMO) and University of Iceland Institute of Earth Sciences",
+    "smithsonian_id": "373030",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=373030"
+  },
+  "sections": {
+    "overview": {
+      "content": "Bárðarbunga is one of the largest and most powerful volcanic systems in <a href=\"/volcanoes-in-iceland\">Iceland</a>, a massive subglacial <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 2,000 m (6,562 ft) beneath the northwestern part of the Vatnajökull ice cap — Europe's largest glacier. The volcano contains a 700 m deep subglacial caldera measuring approximately 10 × 12 km, one of the largest active calderas in Iceland, entirely concealed beneath hundreds of meters of glacial ice. Bárðarbunga's volcanic system extends far beyond its central caldera: the Veidivötn fissure system stretches approximately 100 km to the southwest toward the Torfajökull volcanic center, while the Trollagigar fissure system extends roughly 50 km to the northeast toward Askja. Together, these fissure systems traverse a significant portion of Iceland's volcanic interior. The volcano is responsible for some of the most voluminous eruptions in Icelandic and indeed global Holocene history: the Þjórsárhraun lava flow, produced from the Veidivötn fissure system approximately 8,600 years ago, is the largest known Holocene lava flow on Earth, with a volume exceeding 21 km³. Bárðarbunga most recently erupted in 2014–2015, when a lateral dike propagation from beneath the caldera produced the Holuhraun fissure eruption 45 km to the northeast — the largest eruption in Iceland since the Laki fissure eruption of 1783–1784. The eruption produced approximately 1.6 km³ of basaltic lava over six months and caused significant volcanic gas pollution across Iceland and northern Europe. Bárðarbunga sits at the intersection of the Mid-Atlantic Ridge rift system and the Iceland mantle plume (hotspot), giving it access to prodigious volumes of basaltic magma. With 55 recorded eruptions spanning over 9,000 years, including a VEI 6 event in 1477, Bárðarbunga is recognized as one of the most hazardous volcanic systems in the North Atlantic, with the potential to produce eruptions that disrupt European aviation, alter regional climate, and generate catastrophic jökulhlaups (glacial outburst floods) across Iceland's highland river systems. The volcano is part of a chain of major subglacial volcanic centers beneath Vatnajökull that includes neighboring <a href=\"/volcano/grimsvotn\">Grímsvötn</a>, Iceland's most frequently erupting volcano."
+    },
+    "geology_and_formation": {
+      "content": "Bárðarbunga occupies a unique position in Iceland's volcanic architecture, sitting at the intersection of two fundamental geological features: the neovolcanic rift zone of the Mid-Atlantic Ridge, where the North American and Eurasian tectonic plates diverge at approximately 18–20 mm per year, and the Iceland mantle plume — a deep-rooted thermal anomaly that provides the excess heat and magma production responsible for Iceland's existence above sea level. This dual tectonic-hotspot setting gives Bárðarbunga access to an exceptionally large and frequently replenished magma supply, resulting in eruption volumes that dwarf most other Icelandic volcanoes. The central volcano is classified as a stratovolcano, though its entirely subglacial setting means it has never been directly observed — its structure is known primarily from radio-echo sounding, gravity surveys, and seismic imaging. The subglacial caldera, measuring approximately 10 × 12 km with a depth of approximately 700 m below the surrounding ice surface, is one of the largest active calderas in Iceland. The caldera is thought to have formed through repeated subsidence events associated with large fissure eruptions that drain magma from beneath the central volcano. During the 2014–2015 Holuhraun eruption, the caldera floor subsided approximately 65 m, demonstrating that caldera formation is an ongoing, incremental process. Bárðarbunga's magma is predominantly basaltic to picro-basaltic — among the most primitive (least evolved) lavas in Iceland — reflecting the deep mantle plume source. The volcano's fissure systems are its most distinctive geological feature. The Veidivötn fissure system extends approximately 100 km to the southwest, following the rift zone toward the Torfajökull volcanic center, where it interacts with the more evolved (silicic) magmas of that system. The Trollagigar fissure system extends approximately 50 km to the northeast toward Askja. These fissure swarms are capable of erupting simultaneously across their entire length, producing the voluminous flood basalt eruptions for which Iceland is famous. The Þjórsárhraun lava flow, erupted from the Veidivötn system around 6650 BCE, produced more than 21 km³ of basalt — the largest known Holocene lava flow on Earth — covering over 950 km² of southern Iceland. The associated Loki-Fögrufjöll volcanic system, extending to the southwest from the caldera, includes two subglacial ridges and the Hamarinn central volcano. Geothermal activity along these ridges produces periodic jökulhlaups from subglacial cauldrons. The relationship between Bárðarbunga and neighboring <a href=\"/volcano/grimsvotn\">Grímsvötn</a> is a subject of ongoing research, as both volcanic systems share the subglacial environment beneath Vatnajökull and their fissure systems interact in complex ways."
+    },
+    "eruption_history_overview": {
+      "content": "Bárðarbunga has produced 55 recorded eruptions in the Smithsonian Global Volcanism Program database, spanning from approximately 7100 BCE to the 2014–2015 Holuhraun eruption. This represents one of the most prolific eruption histories of any volcanic system in Iceland. The eruption record is dominated by fissure eruptions along the Veidivötn and Trollagigar systems, with activity at the central caldera itself being relatively less frequent but often larger in magnitude. Prehistoric activity (before Iceland's settlement around 874 AD) is recorded through extensive lava flow and tephra deposits, including the enormous Þjórsárhraun flow (~6650 BCE, >21 km³). Historical activity since settlement includes the VEI 4 Vatnaöldur eruption of ~870 AD (which deposited a widely used tephra marker layer), the VEI 6 Veidivötn eruption of 1477, and numerous smaller events in the 17th through 19th centuries. The 18th century was notably active, with 15 recorded eruptions — the most of any century. Many of these are attributed to the Bárðarbunga system with varying degrees of certainty, as subglacial eruptions beneath Vatnajökull are difficult to assign definitively to specific volcanic centers. The Loki-Fögrufjöll subglacial system has produced numerous uncertain eruptions detected only through jökulhlaup events and ice cauldron formation, particularly from the 1980s through 2000s. The <a href=\"/volcanic-explosivity-index\">VEI</a> distribution is dominated by VEI 0–2 events (the majority of recorded eruptions), but the system is capable of dramatically larger events: the 1477 Veidivötn eruption reached VEI 6, making it one of the most powerful eruptions in Iceland's recorded history and among the largest in the world during the 15th century."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Þjórsárhraun Eruption (~6650 BCE) — The Largest Holocene Lava Flow on Earth",
+          "content": "The single most voluminous eruption in the Bárðarbunga system — and indeed the largest known lava flow of the Holocene epoch — occurred approximately 8,600 years ago from the Veidivötn fissure system. The Þjórsárhraun (Thjórsá lava) eruption produced more than 21 km³ of basaltic lava that flowed down the Þjórsá river valley and across the lowlands of southern Iceland, covering an estimated 950 km² — an area roughly equivalent to a square 31 km on each side. The lava flow traveled over 130 km from its source vents to the coast, making it one of the longest lava flows in the geological record. For comparison, the entire 2014–2015 Holuhraun eruption produced approximately 1.6 km³ of lava — less than 8% of the Þjórsárhraun volume. This eruption demonstrates the extraordinary lava production capacity of the Bárðarbunga volcanic system when large-scale fissure eruptions tap the deep basaltic magma reservoir. The Þjórsárhraun lava field remains one of Iceland's most prominent geological features, forming the bedrock beneath some of the country's most productive agricultural land in the southern lowlands."
+        },
+        {
+          "title": "The Vatnaöldur Eruption (~870 AD) — The Settlement Layer (VEI 4)",
+          "content": "Around 870 AD — coinciding closely with the Norse settlement of Iceland — the Vatnaöldur section of the Veidivötn fissure system erupted in a VEI 4 event that deposited a distinctive tephra layer across much of Iceland. This tephra layer, known as the Landnám (Settlement) layer, has become one of the most important chronological markers in Icelandic geology and archaeology, helping to precisely date early Norse settlement sites across the country. The eruption produced both explosive tephra fall and lava flows along the fissure, and its timing — within years of the first permanent Norse settlers arriving in Iceland — means it was likely witnessed by some of the earliest inhabitants. The Vatnaöldur eruption serves as a reminder that Bárðarbunga's fissure systems were highly active during the very period when Iceland was first being colonized."
+        },
+        {
+          "title": "The 1477 Veidivötn Eruption — A VEI 6 Catastrophe",
+          "content": "In February 1477, the Veidivötn fissure system erupted in what was one of the most powerful volcanic events in Iceland's recorded history and one of the largest eruptions globally during the 15th century. This VEI 6 event — comparable in explosivity to the 1991 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> — produced the Veidivatnahraun lava flow and deposited large volumes of tephra across eastern and northeastern Iceland. The eruption opened a series of craters along the Veidivötn fissure, many of which are now occupied by a chain of small lakes that give the area its name (Veidivötn means 'fishing lakes'). The 1477 event was an explosive eruption occurring partly beneath the Vatnajökull ice cap and partly in the ice-free highland interior, with the subglacial portion generating massive jökulhlaups that devastated river valleys to the south and north. Tephra fall from the eruption caused significant agricultural damage across eastern Iceland, killing livestock and rendering pastures unusable. The eruption's atmospheric effects likely contributed to regional climate anomalies in the late 15th century. The 1477 Veidivötn eruption remains the benchmark event for hazard assessment of the Bárðarbunga system — a reminder that this volcanic system is capable of producing eruptions of truly devastating scale."
+        },
+        {
+          "title": "The 2014–2015 Holuhraun Eruption — Iceland's Largest Eruption in 230 Years",
+          "content": "On August 29, 2014, after two weeks of intense seismic activity beneath the Bárðarbunga caldera and a lateral dike propagation tracked in real-time by the Icelandic Meteorological Office, a fissure eruption broke through the surface at Holuhraun, a lava field 45 km northeast of the caldera. This eruption became the most significant volcanic event in Iceland since the devastating Laki fissure eruption of 1783–1784. Over the following six months — the eruption officially ended on February 27, 2015 — the Holuhraun fissure produced approximately 1.6 km³ of basaltic lava, covering 85 km² of the highland interior and creating a new lava field that buried the existing Holuhraun landscape. At its peak, lava effusion rates exceeded 300 m³ per second, and lava fountains reached heights of 50–100 m. The eruption was fed by magma draining laterally from beneath the Bárðarbunga caldera through a ~45 km long dike, and as magma was withdrawn, the caldera floor subsided approximately 65 m over the course of the eruption — one of the most dramatic episodes of caldera deflation ever observed in real time using modern instrumentation. The volcanic gas output was enormous: the eruption emitted an estimated 11 million tonnes of sulfur dioxide (SO₂) over its duration — more SO₂ than all of Europe's industrial sources combined during the same period. Gas pollution from Holuhraun caused repeated air quality warnings across Iceland, with SO₂ concentrations exceeding health limits in Reykjavik, over 200 km away. Volcanic fog (vog) from the eruption was detected across Scandinavia and as far south as continental Europe. Despite the eruption's scale, no lives were lost and minimal property damage occurred — the eruption site was in Iceland's uninhabited highland interior. However, the eruption demonstrated several critical hazard scenarios: the potential for rapid lateral dike propagation (the dike advanced at up to 4 km per day), the risk of subglacial eruption triggering jökulhlaups, and the continental-scale impact of volcanic gas pollution from Icelandic eruptions. The 2014–2015 eruption was one of the most extensively monitored volcanic events in history, with real-time seismic, GPS, InSAR, gas, and satellite data streaming to scientists worldwide."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Bárðarbunga remains in a state of elevated unrest following the 2014–2015 Holuhraun eruption. The Icelandic Meteorological Office (IMO) and the University of Iceland Institute of Earth Sciences maintain continuous monitoring of the volcanic system using a dense network of seismometers, GPS stations, InSAR (satellite radar interferometry), gas sensors, and hydrological gauges on rivers draining from Vatnajökull. Seismic activity beneath the Bárðarbunga caldera has remained above background levels since the Holuhraun eruption ended, with periodic earthquake swarms indicating ongoing magmatic processes. The caldera floor, which subsided approximately 65 m during the 2014–2015 eruption, has shown signs of partial re-inflation — consistent with magma recharge from the deep mantle plume source. Scientists at the University of Iceland have noted that the post-eruption recovery of the magma system is proceeding more rapidly than expected, suggesting that the deep magma supply rate is high. The aviation alert color code for Bárðarbunga has fluctuated between green (normal) and yellow (elevated unrest) in the years since 2015. The primary monitoring challenges are the subglacial setting — the caldera and much of the fissure system lie beneath hundreds of meters of ice, limiting direct observation — and the potential for rapid lateral dike propagation that can move eruption sites tens of kilometers from the central volcano in a matter of days, as demonstrated in 2014. The IMO maintains detailed response plans for Bárðarbunga eruption scenarios, including protocols for jökulhlaup warnings, aviation ash advisories, and gas pollution alerts."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The Bárðarbunga volcanic system presents a broad spectrum of volcanic hazards, many of which can affect areas far from the central caldera. The most immediate hazard from subglacial eruptions is jökulhlaups — catastrophic glacial outburst floods generated when volcanic heat rapidly melts large volumes of ice beneath Vatnajökull. Depending on the eruption location, jökulhlaups from Bárðarbunga can potentially affect river systems draining in all directions from the ice cap: north to the Jökulsá á Fjöllum, south to the Skeiðará and other rivers on the Skeiðarársandur outwash plain, and east toward the Jökulsá á Brú. The 1996 Gjálp eruption (at neighboring Grímsvötn) produced a jökulhlaup with a peak discharge of approximately 50,000 m³/s — comparable to the flow rate of the Congo River — demonstrating the scale of flooding these subglacial systems can generate. Fissure eruptions along the Veidivötn and Trollagigar systems can produce massive lava flows (the Þjórsárhraun exceeded 21 km³) that could devastate highland infrastructure including roads, power lines, and hydroelectric installations. Explosive eruptions, particularly those involving magma-water interaction beneath the ice cap, can generate volcanic ash clouds that threaten European aviation — a scenario demonstrated by the 2010 <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a> eruption, though Bárðarbunga's eruptions tend to be less explosively fragmented due to the basaltic magma composition. Volcanic gas pollution is a major hazard: the 2014–2015 Holuhraun eruption emitted approximately 11 million tonnes of SO₂, causing air quality exceedances across Iceland and detectable gas pollution across Scandinavia. A Veidivötn-scale fissure eruption (VEI 6) would have far greater atmospheric impacts. Tephra fall from explosive phases can damage agriculture and infrastructure across large areas of Iceland. Bárðarbunga's hazard profile is perhaps best understood as 'low probability, very high consequence' for its largest events, combined with 'moderate probability, significant consequence' for fissure eruptions of the Holuhraun type."
+    },
+    "geography_and_physical_description": {
+      "content": "Bárðarbunga is almost entirely concealed beneath the Vatnajökull ice cap, Europe's largest glacier, which covers approximately 7,700 km² of central Iceland with ice up to 1,000 m thick. The volcano's summit, at 2,000 m elevation, represents the second-highest point in Iceland (after the Vatnajökull ice surface over Öræfajökull at 2,110 m), though the summit itself is an ice-covered ridge rather than an exposed peak. The subglacial caldera measures approximately 10 × 12 km and has a depth of roughly 700 m below the surrounding ice surface — it manifests on the glacier surface as a broad, subtle depression detectable by satellite altimetry and radar. The Veidivötn fissure system extends approximately 100 km to the southwest, emerging from beneath the ice cap into the highland interior where it forms a chain of explosion craters and small lakes — one of Iceland's most striking volcanic terrains. The Trollagigar fissure system extends roughly 50 km to the northeast, also emerging from beneath the ice and continuing toward the Askja volcanic system. The 2014–2015 Holuhraun lava field lies along this northeastern fissure system, covering 85 km² of previously barren highland terrain with fresh, dark basaltic lava. The Loki-Fögrufjöll subglacial system extends to the southwest, visible on the ice surface as two lines of ice cauldrons — circular depressions formed by geothermal heating beneath the glacier. The surrounding landscape is Iceland's highland interior: uninhabited, treeless terrain of lava fields, glacial rivers, and moss-covered hillocks, accessible only via highland tracks (F-roads) that are open only during the summer months."
+    },
+    "climate_and_global_impact": {
+      "content": "Bárðarbunga's eruptions have the potential for significant atmospheric and climate impacts, though the scale depends dramatically on eruption style and magnitude. The 2014–2015 Holuhraun eruption emitted approximately 11 million tonnes of sulfur dioxide over its six-month duration — one of the largest volcanic SO₂ emissions of the 21st century. Despite this enormous gas output, the eruption's climate impact was minimal because the effusive (lava-producing) eruption style injected most gases into the lower troposphere rather than the stratosphere. Nonetheless, the gas pollution had significant regional impacts: SO₂ concentrations exceeded European health limits across Iceland on multiple occasions, volcanic fog (vog) was detected across Scandinavia, and satellite measurements showed enhanced sulfate aerosol levels across the North Atlantic. A VEI 6 eruption of the Veidivötn type (comparable to the 1477 event) would have substantially greater atmospheric impact, potentially injecting sulfate aerosols into the stratosphere and producing measurable hemispheric cooling. For context, Iceland's historical eruptions have produced some of the most significant climate events of the last millennium: the 1783–1784 Laki eruption (from a fissure system similar to Bárðarbunga's) produced an estimated 120 million tonnes of SO₂, causing a 'dry fog' across Europe, crop failures, and an estimated 20,000–30,000 excess deaths in England and France. A Laki-scale eruption from the Bárðarbunga system is well within the realm of geological possibility."
+    },
+    "cultural_significance": {
+      "content": "Bárðarbunga's name derives from Gnúpur Bárðarson, an early Norse settler who is said to have crossed the Vatnajökull ice cap during Iceland's settlement period in the late 9th century. The name literally means 'Bárður's bulge' or 'Bárður's bump,' referencing the subtle rise in the glacier surface over the volcanic center. The volcano and its fissure systems are deeply embedded in the geological narrative of Iceland: the Vatnaöldur tephra layer from the ~870 AD eruption serves as the 'Settlement Layer' (Landnámslag) in Icelandic archaeology, precisely dating the earliest Norse farms. The 1477 Veidivötn eruption is recorded in Icelandic annals and had lasting impacts on highland land use. In modern times, the 2014–2015 Holuhraun eruption captivated Iceland and the international scientific community, producing dramatic footage of lava fountains and flows in the stark highland landscape. The eruption became a major news story globally and drew thousands of visitors to view the lava from safe observation points established by Icelandic authorities. The Holuhraun lava field has since become a destination for hiking and off-road driving tours. Bárðarbunga's eruptions are part of Iceland's living volcanic culture — a nation that derives over 90% of its heating from geothermal energy, has built its tourism brand around the 'Land of Fire and Ice' concept, and maintains one of the world's most sophisticated volcano monitoring systems precisely because volcanic eruptions are not abstract risks but recurring realities."
+    },
+    "visiting_and_tourism": {
+      "content": "Bárðarbunga itself is not directly accessible to tourists — the central volcano lies beneath hundreds of meters of glacial ice in one of Iceland's most remote highland areas. However, several features of the Bárðarbunga volcanic system are significant tourism destinations. The 2014–2015 Holuhraun lava field, accessible via the highland F-road system (typically open July–September), has become a popular destination for 4×4 tours and hardy hikers — the vast expanse of fresh, dark basaltic lava set against the Vatnajökull ice cap backdrop is one of Iceland's most dramatic landscapes. The Veidivötn area, reachable by highland track, features a chain of volcanic crater lakes that offer outstanding fishing, hiking, and photography in a starkly beautiful volcanic landscape. Landmannalaugar, at the southwestern end of the Veidivötn fissure system near Torfajökull, is one of Iceland's most popular hiking destinations, famous for its colorful rhyolite mountains and natural hot springs. Glacier tours on Vatnajökull, operated from the south coast or from the Highlands, pass over or near the Bárðarbunga system. All highland travel in Iceland requires careful preparation: F-roads require high-clearance 4×4 vehicles, weather can change rapidly, river crossings can be dangerous, and there is no mobile phone coverage in most highland areas."
+    },
+    "nearby_volcanoes": {
+      "content": "Bárðarbunga is one of several major volcanic systems buried beneath or adjacent to the Vatnajökull ice cap. Its closest neighbor is <a href=\"/volcano/grimsvotn\">Grímsvötn</a>, Iceland's most frequently erupting volcano, located approximately 30 km to the southeast beneath the same ice cap. Grímsvötn has produced 85 recorded eruptions and last erupted in 2011 in an event that briefly disrupted European aviation. The Askja volcanic system lies approximately 50 km to the northeast, at the far end of Bárðarbunga's Trollagigar fissure system. Torfajökull, a large rhyolitic volcanic center, sits at the southwestern terminus of the Veidivötn fissure system, approximately 100 km from the Bárðarbunga caldera. <a href=\"/volcano/hekla\">Hekla</a>, one of Iceland's most famous volcanoes, lies approximately 80 km to the southwest. <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a>, whose 2010 eruption disrupted European aviation, is located approximately 150 km to the southwest on the coast. <a href=\"/volcano/katla\">Katla</a>, another major subglacial volcano, lies beneath the Mýrdalsjökull ice cap roughly 130 km to the south-southwest. Together, these volcanic systems make central Iceland one of the most volcanically productive regions on Earth."
+    },
+    "etymology": {
+      "content": "The name Bárðarbunga (pronounced approximately BOWR-thar-BUNG-ah) derives from the Old Norse personal name Bárður (Gnúpur Bárðarson, an early settler) and bunga, meaning a bulge or rounded rise. The name thus translates roughly to 'Bárður's bulge' — referencing the subtle rise in the Vatnajökull glacier surface that marks the location of the subglacial volcano. The Icelandic character ð (eth) represents a voiced dental fricative sound similar to the 'th' in English 'the.' In international media, the name is often simplified to Bardarbunga."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Bárðarbunga Compared to Iceland's Other Major Volcanic Systems",
+      "description": "How does Bárðarbunga compare to the other large volcanic systems in Iceland?",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Notable Feature"
+      ],
+      "rows": [
+        [
+          "Bárðarbunga",
+          "2,000 m",
+          "Stratovolcano (subglacial)",
+          "2014–2015",
+          "6",
+          "55",
+          "Largest Holocene lava flow (21+ km³)"
+        ],
+        [
+          "Grímsvötn",
+          "1,719 m",
+          "Caldera (subglacial)",
+          "2011",
+          "6",
+          "85",
+          "Most frequently erupting in Iceland"
+        ],
+        [
+          "Hekla",
+          "1,490 m",
+          "Stratovolcano",
+          "2000",
+          "5",
+          "65",
+          "Most famous Icelandic volcano"
+        ],
+        [
+          "Katla",
+          "1,490 m",
+          "Fissure vent(s)",
+          "1918",
+          "5",
+          "22",
+          "Overdue for eruption; jökulhlaup risk"
+        ],
+        [
+          "Eyjafjallajökull",
+          "1,651 m",
+          "Stratovolcano",
+          "2010",
+          "4",
+          "5",
+          "2010 aviation disruption"
+        ]
+      ]
+    },
+    {
+      "title": "Bárðarbunga vs the World's Largest Fissure/Flood Basalt Systems",
+      "description": "Bárðarbunga's fissure eruptions in a global context of voluminous effusive volcanism.",
+      "headers": [
+        "Volcanic System",
+        "Country",
+        "Largest Known Flow",
+        "Volume",
+        "Year",
+        "VEI Max"
+      ],
+      "rows": [
+        [
+          "Bárðarbunga (Þjórsárhraun)",
+          "Iceland",
+          "Þjórsárhraun",
+          "~21 km³",
+          "~6650 BCE",
+          "6"
+        ],
+        [
+          "Laki/Grímsvötn",
+          "Iceland",
+          "Laki Fissure",
+          "~14.7 km³",
+          "1783–1784",
+          "6"
+        ],
+        [
+          "Eldgjá/Katla",
+          "Iceland",
+          "Eldgjá",
+          "~19.6 km³",
+          "934 AD",
+          "6"
+        ],
+        [
+          "Kilauea",
+          "USA",
+          "Pu'u Ō'ō",
+          "~4.4 km³",
+          "1983–2018",
+          "4"
+        ],
+        [
+          "Piton de la Fournaise",
+          "France",
+          "Grand Brûlé flows",
+          "<1 km³",
+          "2025",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6650,
+      "vei": null,
+      "label": "Þjórsárhraun eruption — largest Holocene lava flow on Earth (>21 km³)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 870,
+      "vei": 4,
+      "label": "Vatnaöldur eruption — produces the Settlement Layer tephra marker",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1477,
+      "vei": 6,
+      "label": "Veidivötn eruption — one of Iceland's largest historical eruptions",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1697,
+      "vei": 2,
+      "label": "Confirmed eruption — start of active 18th century period",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1717,
+      "vei": 3,
+      "label": "Explosive eruption — largest VEI event of the 18th century cluster",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1862,
+      "vei": 2,
+      "label": "Trollagigar fissure eruption (1862–1864)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1902,
+      "vei": 2,
+      "label": "Probable eruption at Dyngjuhals area",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2014,
+      "vei": 0,
+      "label": "Holuhraun fissure eruption — 1.6 km³ lava, largest in Iceland since 1783. 65 m caldera subsidence.",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 10,
+      "note": "Includes the Þjórsárhraun (~6650 BCE), the largest Holocene lava flow on Earth"
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "9th",
+      "count": 2,
+      "note": "Includes the Vatnaöldur Settlement Layer eruption (~870 AD)"
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "11th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "13th",
+      "count": 4
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 2,
+      "note": "Includes the VEI 6 Veidivötn eruption of 1477"
+    },
+    {
+      "century": "17th",
+      "count": 1
+    },
+    {
+      "century": "18th",
+      "count": 15,
+      "note": "Most active recorded century — many events attributed with varying certainty"
+    },
+    {
+      "century": "19th",
+      "count": 3
+    },
+    {
+      "century": "20th",
+      "count": 7,
+      "note": "Mostly uncertain subglacial events at Loki-Fögrufjöll cauldrons"
+    },
+    {
+      "century": "21st",
+      "count": 6,
+      "note": "Includes Holuhraun 2014–2015 and several uncertain Loki-Fögrufjöll events"
+    }
+  ],
+  "facts": [
+    "The Þjórsárhraun lava flow, erupted from Bárðarbunga's Veidivötn fissure system around 6650 BCE, is the largest known lava flow of the entire Holocene epoch, with a volume exceeding 21 km³ — enough to bury the entire city of London under 13 m of basalt.",
+    "Bárðarbunga's subglacial caldera is approximately 700 m deep and 10 × 12 km across, yet it has never been directly observed by human eyes — it lies entirely beneath the Vatnajökull ice cap.",
+    "During the 2014–2015 Holuhraun eruption, the caldera floor subsided approximately 65 m in six months — one of the most dramatic episodes of caldera deflation ever observed with modern instruments.",
+    "The 2014–2015 Holuhraun eruption emitted approximately 11 million tonnes of sulfur dioxide — more than all of Europe's industrial sources combined during the same period.",
+    "Bárðarbunga's fissure systems extend over 150 km across Iceland — from Torfajökull in the southwest to near Askja in the northeast — making it one of the longest volcanic fissure systems on Earth.",
+    "The 1477 Veidivötn eruption (VEI 6) was comparable in explosivity to the 1991 eruption of Mount Pinatubo and is one of the largest volcanic events in the North Atlantic in the last 1,000 years.",
+    "The Vatnaöldur eruption of ~870 AD produced the 'Settlement Layer' tephra — the most important chronological marker in Icelandic archaeology, used to date hundreds of Viking-age sites across the country.",
+    "At 2,000 m elevation, Bárðarbunga is the second-highest point in Iceland — though the summit has never been climbed because it lies beneath the ice surface of the Vatnajökull glacier.",
+    "During the 2014 eruption, scientists tracked a lateral magma dike propagating 45 km from beneath the caldera to the Holuhraun eruption site in real time using seismic data — advancing at rates of up to 4 km per day.",
+    "Jökulhlaups (glacial outburst floods) from Bárðarbunga eruptions can potentially affect river drainages in all directions from the Vatnajökull ice cap, threatening bridges, roads, and farmland across a wide area.",
+    "The Holuhraun lava field covers 85 km² — roughly the area of Manhattan — and was still steaming and too hot to walk on months after the eruption ended.",
+    "Bárðarbunga has produced 55 recorded eruptions over 9,000+ years, but many more are likely unrecorded — subglacial eruptions can occur and end without any surface expression beyond subtle ice cauldron formation."
+  ],
+  "faqs": [
+    {
+      "question": "Is Bárðarbunga still active?",
+      "answer": "Yes, Bárðarbunga is an active volcanic system that last erupted in 2014–2015 at the Holuhraun fissure vent. Seismic monitoring by the Icelandic Meteorological Office shows continued elevated earthquake activity beneath the caldera, indicating ongoing magmatic processes. The caldera floor, which subsided 65 m during the 2014–2015 eruption, has shown signs of partial re-inflation, suggesting magma recharge from depth. Scientists consider future eruptions from the Bárðarbunga system to be a certainty — the only questions are when, where along the 150+ km fissure system, and how large."
+    },
+    {
+      "question": "What happened during the 2014 Bárðarbunga eruption?",
+      "answer": "In August 2014, intense seismic activity beneath Bárðarbunga's caldera indicated a magmatic intrusion. Over two weeks, a lateral dike propagated 45 km northeast, and on August 29, 2014, a fissure eruption broke through the surface at Holuhraun. The eruption lasted six months, producing approximately 1.6 km³ of basaltic lava covering 85 km². Lava fountains reached 50–100 m, and the eruption emitted roughly 11 million tonnes of sulfur dioxide, causing air quality alerts across Iceland. Meanwhile, the Bárðarbunga caldera floor subsided approximately 65 m as magma drained laterally. The eruption was the largest in Iceland since the Laki fissure eruption of 1783–1784."
+    },
+    {
+      "question": "Could Bárðarbunga erupt again?",
+      "answer": "Future eruptions from the Bárðarbunga system are considered inevitable by Icelandic volcanologists. The volcano sits atop the Iceland mantle plume, which provides a continuous supply of basaltic magma, and the post-2015 seismic record indicates ongoing magma recharge. The most likely scenario is another fissure eruption along the Veidivötn or Trollagigar systems, potentially similar in scale to Holuhraun (1.6 km³). However, the 1477 VEI 6 eruption demonstrates that much larger events are also possible. The primary concerns for a future eruption include jökulhlaups (if the eruption occurs beneath the ice cap), lava flows threatening highland infrastructure, volcanic gas pollution, and potential aviation disruption."
+    },
+    {
+      "question": "What is the largest lava flow from Bárðarbunga?",
+      "answer": "The Þjórsárhraun (Thjórsá lava) eruption, produced from Bárðarbunga's Veidivötn fissure system approximately 8,600 years ago (~6650 BCE), is the largest known lava flow of the entire Holocene epoch — the geological period spanning the last 11,700 years. The eruption produced more than 21 km³ of basaltic lava that flowed over 130 km from its source to the coast, covering approximately 950 km² of southern Iceland. For comparison, the 2014–2015 Holuhraun eruption produced approximately 1.6 km³ — less than 8% of the Þjórsárhraun volume."
+    },
+    {
+      "question": "Where is Bárðarbunga located?",
+      "answer": "Bárðarbunga is located in central Iceland, beneath the northwestern part of the Vatnajökull ice cap — Europe's largest glacier. Its caldera lies at approximately 64.6°N, 17.5°W, in the uninhabited Icelandic highlands. The nearest significant settlement is Akureyri, approximately 130 km to the north. The volcano is not visible from the surface because it is entirely subglacial, though the depression of the ice surface over the caldera can be detected by satellite. The associated fissure systems extend far beyond the ice cap into the highland interior."
+    },
+    {
+      "question": "How tall is Bárðarbunga?",
+      "answer": "Bárðarbunga's summit reaches 2,000 m (6,562 ft) above sea level, making it the second-highest point in Iceland after the ice-covered summit of Öræfajökull (2,110 m), which also lies beneath Vatnajökull. However, Bárðarbunga's summit is entirely covered by glacial ice and has never been directly observed as a topographic peak. The subglacial caldera, with a depth of approximately 700 m, means the actual bedrock summit of the volcano rim is considerably higher than the ice-depressed caldera floor."
+    },
+    {
+      "question": "What is a jökulhlaup?",
+      "answer": "A jökulhlaup (Icelandic for 'glacier run') is a catastrophic glacial outburst flood caused by the sudden release of meltwater from beneath or within a glacier. In the context of Bárðarbunga, volcanic eruptions beneath the Vatnajökull ice cap can rapidly melt enormous volumes of ice, creating subglacial lakes that eventually breach the ice dam and release devastating floods. The 1996 Gjálp eruption (at nearby Grímsvötn) produced a jökulhlaup with a peak discharge of approximately 50,000 m³/s — comparable to the flow rate of the Congo River — that destroyed a major bridge on Iceland's Ring Road. Jökulhlaups are among the most dangerous hazards associated with Bárðarbunga."
+    },
+    {
+      "question": "How does Bárðarbunga compare to Eyjafjallajökull?",
+      "answer": "Bárðarbunga is a far more powerful volcanic system than Eyjafjallajökull. Bárðarbunga has produced 55 recorded eruptions (vs. 5 for Eyjafjallajökull), has reached VEI 6 (vs. VEI 4 for Eyjafjallajökull), and its fissure systems span over 150 km (vs. Eyjafjallajökull's localized system). The 2014–2015 Holuhraun eruption alone produced approximately 1.6 km³ of lava — roughly 20 times the volume of Eyjafjallajökull's 2010 eruption. However, Eyjafjallajökull's 2010 eruption had a greater immediate impact on European aviation because its more silicic, explosive magma produced fine ash that was carried toward continental Europe by prevailing winds."
+    },
+    {
+      "question": "Can you visit the Holuhraun lava field?",
+      "answer": "Yes, the 2014–2015 Holuhraun lava field can be visited during the Icelandic summer (typically July–September), though access requires a high-clearance 4×4 vehicle capable of river crossings. The lava field is located in Iceland's remote highland interior, accessible via F-roads (mountain tracks) from the north or east. Several tour operators in Akureyri and Mývatn offer guided super-jeep tours to Holuhraun. The fresh basaltic lava field covering 85 km² is a dramatic and otherworldly landscape. Visitors should register their travel plans at safetravel.is, carry emergency supplies, and be prepared for rapidly changing weather conditions in the highlands."
+    },
+    {
+      "question": "What is the Veidivötn fissure system?",
+      "answer": "The Veidivötn fissure system is one of Bárðarbunga's two major fissure swarms — a zone of volcanic fissures, craters, and vents extending approximately 100 km southwest from the Bárðarbunga caldera toward the Torfajökull volcanic center. The name Veidivötn means 'fishing lakes,' referencing the chain of small crater lakes that formed along the fissure during past eruptions. The system has produced some of the largest eruptions in Icelandic history, including the Þjórsárhraun (~6650 BCE, >21 km³ of lava — the largest Holocene flow on Earth) and the 1477 VEI 6 eruption. It is considered one of the most hazardous volcanic features in Iceland."
+    }
+  ],
+  "people_also_search": [
+    "bardarbunga eruption 2014",
+    "holuhraun eruption",
+    "bardarbunga eruption 2024",
+    "iceland volcano under glacier",
+    "vatnajokull volcano",
+    "bardarbunga caldera",
+    "veidivötn fissure",
+    "largest lava flow holocene"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Bárðarbunga",
+    "alternateName": [
+      "Bardarbunga",
+      "Bárðarbunga volcanic system"
+    ],
+    "description": "Large subglacial stratovolcano beneath Iceland's Vatnajökull ice cap, home to the largest Holocene lava flow on Earth",
+    "geo": {
+      "latitude": 64.633,
+      "longitude": -17.516,
+      "elevation": 2000
+    },
+    "containedInPlace": {
+      "name": "Central Highlands",
+      "country": "Iceland"
+    },
+    "url": "https://volcanoatlas.com/volcano/bardarbunga"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=373030",
+      "text": "Smithsonian GVP: Bárðarbunga",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://en.vedur.is/earthquakes-and-volcanism/volcanic-eruptions/bardarbunga-2014/",
+      "text": "IMO: Bárðarbunga-Holuhraun 2014–2015 Eruption",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Bardarbunga",
+      "text": "Britannica: Bárðarbunga",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://earthice.hi.is/bardarbunga_702",
+      "text": "University of Iceland: Bárðarbunga Volcanic System",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "grimsvotn",
+      "hekla",
+      "katla",
+      "eyjafjallajokull",
+      "pinatubo",
+      "tambora",
+      "kilauea"
+    ],
+    "country_pages": [
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "deadliest-eruptions",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "grimsvotn",
+    "hekla",
+    "katla",
+    "eyjafjallajokull",
+    "askja"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    },
+    {
+      "label": "Bárðarbunga",
+      "url": "/volcano/bardarbunga"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/bardarbunga"
+}

@@ -1,0 +1,455 @@
+{
+  "slug": "crater-lake",
+  "volcano_id": 322160,
+  "title": "Crater Lake (Mount Mazama)",
+  "meta_title": "Crater Lake (Mazama) — Eruption, Depth & Facts | VolcanoAtlas",
+  "meta_description": "Crater Lake formed by the VEI 7 collapse of Mount Mazama ~7,700 years ago. Explore its eruption history, 594 m depth, geology, and visitor guide.",
+  "quick_answer": {
+    "what": "Crater Lake is a 8 × 10 km volcanic caldera in the southern Cascade Range of Oregon, United States, formed approximately 7,700 years ago by the catastrophic collapse of Mount Mazama during a VEI 7 eruption — one of the largest Holocene eruptions on Earth.",
+    "status": "Dormant — last erupted approximately 4,800 years ago (subaqueous lava dome). The magmatic system is considered still capable of future eruptions.",
+    "famous_for": "North America's deepest lake (594 m / 1,949 ft), its extraordinarily clear and deep blue water, and the cataclysmic VEI 7 eruption that destroyed Mount Mazama and created the caldera.",
+    "danger_level": "Low immediate risk — Crater Lake National Park receives ~700,000 visitors annually, and the nearest city (Klamath Falls) is 95 km southeast. Any future eruption would likely be preceded by detectable precursors."
+  },
+  "hero": {
+    "name": "Crater Lake",
+    "local_name": "Giiwas (Klamath name)",
+    "subtitle": "North America's Deepest Lake, Born from a Cataclysmic Eruption",
+    "country": "United States",
+    "region": "Southern Oregon, Cascade Range",
+    "type": "Caldera",
+    "elevation_m": 2487,
+    "elevation_ft": 8159,
+    "status": "Dormant",
+    "last_eruption": "~2850 BCE",
+    "coordinates": {
+      "lat": 42.942,
+      "lon": -122.107
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-03189.jpg",
+    "photo_credit": "Smithsonian Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,487 m (8,159 ft) — caldera rim high point",
+    "type": "Caldera",
+    "status": "Dormant",
+    "last_eruption": "~2850 BCE (subaqueous rhyodacitic lava dome)",
+    "first_known_eruption": "~5900 BCE (Llao Rock eruption)",
+    "total_recorded_eruptions": 5,
+    "vei_max": "7 (~5680 BCE — climactic eruption of Mount Mazama)",
+    "country": "United States",
+    "region": "Southern Oregon, High Cascades",
+    "tectonic_setting": "Subduction zone — Juan de Fuca Plate beneath North American Plate",
+    "rock_types": [
+      "Dacite",
+      "Rhyodacite",
+      "Andesite"
+    ],
+    "coordinates": "42.942°N, 122.107°W",
+    "nearest_city": "Klamath Falls — 95 km SE",
+    "population_at_risk": "Low — ~22,000 in Klamath Falls; ~700,000 annual park visitors",
+    "caldera_dimensions": "8 × 10 km, ~600 m deep (lake surface to rim)",
+    "lake_depth": "594 m (1,949 ft) — deepest lake in the United States, second deepest in North America",
+    "lake_surface_area": "53.2 km²",
+    "protected_status": "Crater Lake National Park (est. 1902)",
+    "monitoring_agency": "USGS Cascades Volcano Observatory (CVO)",
+    "smithsonian_id": "322160",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=322160"
+  },
+  "sections": {
+    "overview": {
+      "content": "Crater Lake is a volcanic caldera and the deepest lake in the <a href=\"/volcanoes-in-united-states\">United States</a>, reaching 594 m (1,949 ft) in depth, located in the southern Cascade Range of Oregon approximately 95 km (59 mi) northwest of Klamath Falls. It occupies the collapsed remnant of Mount Mazama, a complex of overlapping stratovolcanoes and shield volcanoes that was destroyed approximately 7,700 years ago in a VEI 7 eruption — one of the largest volcanic events in the Holocene epoch and the most powerful eruption in the history of the Cascade Range.\n\nThe climactic eruption ejected roughly 50 km³ of magma, distributed tephra as far as central Canada (over 1,500 km away), and generated pyroclastic flows that traveled up to 40 km from the summit. The resulting caldera, 8 × 10 km across and up to 1,200 m deep, gradually filled with rainwater and snowmelt over the following centuries — there are no inlet or outlet streams — to form the strikingly clear, deep blue lake that draws approximately 700,000 visitors to <a href=\"https://www.nps.gov/crla/index.htm\" target=\"_blank\" rel=\"noopener\">Crater Lake National Park</a> each year. The lake's exceptional clarity (Secchi disk readings exceeding 30 m) results from its isolation from sediment-bearing streams and its enormous depth.\n\nMount Mazama's eruption is one of the best-documented prehistoric eruptions in the world, preserved in the geological record, in oral traditions of the <a href=\"https://klamathtribes.org/\" target=\"_blank\" rel=\"noopener\">Klamath Tribes</a> (who witnessed the eruption and passed down accounts for nearly 8,000 years), and in a thick, widespread tephra layer used as a stratigraphic marker across the Pacific Northwest. Post-caldera volcanism continued for several centuries, building Wizard Island (a cinder cone protruding above the lake surface) and the submerged Merriam Cone, with the most recent eruption forming a small rhyodacitic lava dome beneath the lake surface approximately 4,800 years ago."
+    },
+    "geology_and_formation": {
+      "content": "Mount Mazama was not a single volcano but a complex of at least five overlapping andesitic and dacitic stratovolcanoes and shield volcanoes that grew over a period from approximately 420,000 to 40,000 years ago. The volcanic center sits above the Cascadia subduction zone, where the Juan de Fuca Plate descends beneath the North American Plate at approximately 3–4 cm per year. This subduction generates the magmas that feed the entire Cascade volcanic arc, from Lassen Peak in northern California to Mount Baker near the Canadian border.\n\nThe oldest components of the Mazama complex are andesitic shield volcanoes and <a href=\"/types-of-volcanoes\">stratovolcanoes</a> that formed the broad, glaciated base of the mountain. Between about 30,000 and 7,700 years ago, volcanism shifted toward more silicic compositions (rhyodacite and dacite), producing a series of lava domes, thick lava flows, and associated pyroclastic deposits on the flanks and summit of the growing edifice. The Llao Rock flow, erupted approximately 7,900 years ago (VEI 6), was one of the largest of these pre-climactic eruptions and is now exposed as a prominent cliff on the caldera's northern rim. The Cleetwood flow, erupted shortly before the climactic event, forms the northeastern rim.\n\nAt its maximum height, Mount Mazama is estimated to have reached approximately 3,400 m (11,200 ft) — comparable to the modern heights of <a href=\"/volcano/rainier\">Mount Rainier</a> or Mount Shasta. The mountain was heavily glaciated, with valley glaciers extending 15–20 km down its flanks. The volcanic complex sat atop continental crust exceeding 25 km in thickness, and the evolving magma compositions reflect progressive fractional crystallization and crustal assimilation processes typical of subduction-related arc volcanism.\n\nThe 5-km-wide ring fracture zone that marks the original collapse diameter is visible in the caldera walls today. These walls expose a cross-section through the volcanic complex, revealing alternating lava flows, pyroclastic deposits, and glacial tills that document the mountain's construction over hundreds of thousands of years — a geological record of exceptional educational value."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program records five eruptions for Crater Lake/Mount Mazama, spanning from approximately 7,900 BCE to approximately 2,850 BCE. This record captures only the terminal phase of a volcanic center that was active for over 400,000 years. The eruption history is dominated by the climactic VEI 7 event of approximately 5,680 BCE (calibrated ~7,700 years before present), but the pre-climactic and post-climactic phases are equally important for understanding the volcano's behavior.\n\nThe two pre-climactic eruptions — the Llao Rock event (~5,900 BCE, VEI 6) and the climactic eruption itself — represent an escalating sequence. Llao Rock produced a thick rhyodacitic lava flow that partially filled a glaciated valley on the north flank, accompanied by significant tephra fall. This eruption is interpreted as a precursor to the main event, likely tapping the same evolving magma body that would ultimately power the caldera-forming eruption centuries later.\n\nThe three post-caldera eruptions occurred within a few hundred years of the collapse, as residual magma from the deep reservoir continued to erupt onto the caldera floor. These built Wizard Island (a cinder cone), Merriam Cone (a submerged volcanic cone), the Central Platform, and the final subaqueous lava dome east of Wizard Island (~2,850 BCE). No eruptions have occurred in the approximately 4,800 years since, though the magmatic system is not considered extinct."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Climactic Eruption of Mount Mazama (~5680 BCE / ~7,700 Years Ago) — A VEI 7 Cataclysm",
+          "content": "Approximately 7,700 years ago, Mount Mazama erupted in one of the most powerful volcanic events of the Holocene epoch, rated <a href=\"/volcanic-explosivity-index\">VEI 7</a> — the same magnitude as the 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> that caused the 'Year Without a Summer.' The eruption ejected roughly 50 km³ of magma (approximately 150 km³ of tephra), making it one of only a handful of VEI 7 eruptions in the last 10,000 years.\n\nThe eruption began with the opening of a ring-fracture vent system on the mountain's northern flank, producing a towering Plinian column that rose an estimated 30–50 km into the stratosphere. This column deposited a thick blanket of pumiceous tephra across the Pacific Northwest and beyond — the Mazama ash layer has been identified in geological deposits as far as central Saskatchewan, Canada, over 1,500 km to the northeast. The tephra layer is so widespread and distinctive that it serves as a key stratigraphic marker (chronostratigraphic datum) used by geologists and archaeologists across western North America to date deposits and archaeological sites.\n\nAs the eruption intensified, the column repeatedly collapsed, generating catastrophic pyroclastic flows that raced down all flanks of the mountain at speeds exceeding 100 km/h. These flows traveled up to 40 km from the summit, incinerating everything in their path and depositing thick sheets of welded and unwelded tuff in surrounding valleys. The combined volume of pyroclastic flow deposits is enormous, filling valleys to depths of tens of meters.\n\nThe evacuation of approximately 50 km³ of magma from the subsurface reservoir left the mountain's summit unsupported. In the eruption's final phase, the entire summit area collapsed along ring fractures, dropping as much as 1,200 m to form the 8 × 10 km caldera that exists today. The collapse was catastrophic and rapid — geological evidence suggests it occurred over hours to days, not gradually. The resulting caldera was roughly twice the depth of the current lake, as subsequent sedimentation and post-caldera volcanic deposits have partially filled the basin.\n\nThe eruption would have been witnessed by the indigenous peoples of the region. Oral traditions of the Klamath Tribes preserve accounts of a great battle between Llao (the spirit of the underworld, dwelling in the mountain) and Skell (the spirit of the sky), culminating in the mountain's destruction. These oral histories, transmitted over nearly 8,000 years, represent one of the oldest known cases of geological events preserved in indigenous oral tradition and were later validated by geological research."
+        },
+        {
+          "title": "The Llao Rock Eruption (~5900 BCE, VEI 6) — Precursor to Catastrophe",
+          "content": "Approximately 200 years before the climactic eruption, Mount Mazama produced a major explosive event that deposited the Llao Rock rhyodacitic lava flow on the volcano's northern flank. This eruption, rated VEI 6, generated significant tephra fall and a thick, viscous lava flow that partially filled a glacial valley. The Llao Rock flow is now spectacularly exposed as a prominent 350-m cliff in the caldera wall — one of the most photographed features of Crater Lake's rim.\n\nThe Llao Rock eruption is interpreted as tapping the upper portions of the same silicic magma body that would power the climactic eruption. Its occurrence signals that by ~5,900 BCE, a large, evolved magma reservoir had accumulated beneath Mazama and was beginning to destabilize. The eruption's relatively modest size (compared to what followed) suggests that only a portion of the reservoir was mobilized, with the bulk remaining primed for the catastrophic event to come."
+        },
+        {
+          "title": "Post-Caldera Eruptions — Building Wizard Island (~5550–2850 BCE)",
+          "content": "Within centuries of the caldera collapse, volcanic activity resumed on the caldera floor as residual magma continued to rise. Three post-caldera eruptions are recorded in the Smithsonian database. The earliest built the Central Platform, a broad volcanic construct on the caldera floor now submerged beneath the lake. Subsequently, eruptions built Wizard Island — a symmetrical cinder cone rising 230 m (755 ft) above the lake surface (and approximately 500 m above the caldera floor) — and the entirely submerged Merriam Cone, which rises 400 m from the lake bottom but remains 30 m below the surface.\n\nThe most recent eruption, approximately 4,800 years ago (~2,850 BCE), produced a small rhyodacitic lava dome on the caldera floor east-northeast of Wizard Island. This dome is entirely submerged and was discovered during bathymetric surveys of the lake. Its rhyodacitic composition indicates that silicic magma was still available in the residual reservoir at that time. No eruptions have occurred since, but the USGS Cascades Volcano Observatory considers the system dormant rather than extinct."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Crater Lake is monitored by the <a href=\"https://www.usgs.gov/observatories/cascades-volcano-observatory\" target=\"_blank\" rel=\"noopener\">USGS Cascades Volcano Observatory (CVO)</a>, which oversees all Cascade Range volcanoes. The volcano is classified as dormant — not extinct — because the magmatic system that produced the post-caldera eruptions approximately 4,800 years ago is not considered fully spent. Thermal springs on the caldera floor (detected during submersible dives in the 1980s and 1990s) confirm that a heat source persists at depth, and minor hydrothermal circulation is ongoing.\n\nThe monitoring network includes seismometers that detect earthquakes beneath and around the caldera. Background seismicity is low, with occasional small earthquakes (magnitude < 2) occurring in the region. No deformation consistent with magma intrusion has been detected by GPS or InSAR surveys. The USGS assigns Crater Lake a Moderate threat level in its National Volcanic Threat Assessment — lower than actively erupting Cascade volcanoes like <a href=\"/volcano/st-helens\">Mount St. Helens</a> but reflecting the system's demonstrated capacity for large eruptions and the presence of park infrastructure and visitors within the caldera rim.\n\nA future eruption at Crater Lake would most likely resemble the post-caldera events — small-volume lava dome extrusion or phreatic (steam-driven) explosions caused by magma interacting with the lake water. Such an event would be preceded by weeks to months of detectable seismic unrest, ground deformation, and changes in hydrothermal activity, providing time for evacuation of the park."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "While Crater Lake does not pose the same immediate threat as population-adjacent volcanoes like <a href=\"/volcano/rainier\">Mount Rainier</a> or <a href=\"/volcano/popocatepetl\">Popocatépetl</a>, several hazard scenarios merit consideration. The most likely future eruption would involve interaction between ascending magma and the approximately 18.7 km³ of water filling the caldera. Such a phreatomagmatic eruption could generate violent steam explosions, base surges (ground-hugging pyroclastic density currents), and displacement waves that could overtop the caldera rim — a process potentially threatening visitors on Rim Drive and at lakeside facilities.\n\nLahar risk is moderate. Although Crater Lake has no outlet stream, catastrophic failure of the caldera wall — whether triggered by eruption, earthquake, or massive landslide — could release enormous volumes of water into surrounding drainages. The caldera walls are steep (up to 600 m) and composed of variably consolidated volcanic deposits prone to rockfall and landsliding. Historical rockfalls have occurred, though none have been large enough to generate displacement waves.\n\nTephra fall from a renewed eruption, even a modest one, could deposit ash across populated areas of southern Oregon and northern California. The 7,700-year-old Mazama ash layer demonstrates that a large eruption can deposit centimeters of ash across hundreds of thousands of square kilometers. However, a repeat of the climactic VEI 7 eruption is considered extremely unlikely in any human-relevant timeframe — the magma reservoir has not had sufficient time to regenerate the enormous volume (50 km³) required for such an event.\n\nApproximately 700,000 people visit Crater Lake National Park annually, with peak visitation in July and August. The park's emergency plan includes volcanic contingency procedures developed in coordination with the USGS CVO."
+    },
+    "geography_and_physical_description": {
+      "content": "Crater Lake occupies an 8 × 10 km caldera in the southern Cascade Range at approximately 42.9°N latitude, straddling the Klamath County line in Oregon. The caldera rim reaches its highest point of 2,487 m (8,159 ft) at the summit of the unnamed point known as the Rim, on the southern edge. The lowest point on the rim is approximately 1,882 m (6,173 ft) on the north side, giving the caldera walls a vertical relief of 150–600 m above the lake surface.\n\nThe lake itself is remarkable by any measure. At 594 m (1,949 ft), it is the deepest lake in the United States and the ninth deepest in the world. Its surface area is 53.2 km² and its volume is approximately 18.7 km³. The water is among the clearest of any lake on Earth — Secchi disk transparency measurements have exceeded 40 m, though typical readings range from 25–35 m. The deep, pure blue color that makes Crater Lake iconic results from the water's depth and clarity: the lake absorbs all wavelengths of light except blue, which is scattered back to the observer's eye.\n\nWizard Island, a symmetrical cinder cone, rises 230 m (755 ft) above the lake surface near the western shore. It is topped by a 90-m-wide crater and is accessible to visitors via a steep 2.7 km trail from the boat landing at Cleetwood Cove. Phantom Ship, a jagged rock formation rising 50 m above the lake near the southern shore, is an erosional remnant of an ancient andesitic dike — not a post-caldera volcanic feature — and represents some of the oldest rocks (approximately 400,000 years old) exposed in the caldera.\n\nRim Drive, a 53-km (33-mi) scenic road encircling the caldera, provides over 30 viewpoints along the rim. The surrounding landscape is a montane forest of mountain hemlock, Shasta red fir, and whitebark pine, with alpine meadows at higher elevations."
+    },
+    "climate_and_global_impact": {
+      "content": "The climactic eruption of Mount Mazama approximately 7,700 years ago was a VEI 7 event — among the most powerful volcanic explosions of the entire Holocene epoch. An eruption of this magnitude would have injected massive quantities of sulfur dioxide and fine ash into the stratosphere, likely causing significant hemispheric or global cooling lasting one to several years. However, because the eruption predates written records and instrumental climate monitoring, its precise climatic impact is difficult to quantify.\n\nPaleoclimate proxy records (ice cores, tree rings, lake sediments) from the period around 5,680 BCE do show evidence of climatic disturbance, but attributing specific signals to the Mazama eruption is complicated by other concurrent climatic drivers during the early to mid-Holocene. The eruption was comparable in magnitude to <a href=\"/volcano/tambora\">Tambora</a>'s 1815 event, which caused approximately 3°C of summer cooling across the Northern Hemisphere and triggered the 'Year Without a Summer.' It is reasonable to infer that the Mazama eruption caused similar or greater climatic effects, particularly in western North America, though the lower sulfur content of Mazama's dacitic magma compared to some eruptions may have moderated the atmospheric impact.\n\nThe widespread Mazama tephra layer itself has had an outsized scientific impact: it is one of the most important chronostratigraphic markers in western North American geology and archaeology, used to date and correlate deposits across an area exceeding 2 million km²."
+    },
+    "cultural_significance": {
+      "content": "Crater Lake holds profound cultural significance for the Klamath Tribes (Klamath, Modoc, and Yahooskin peoples), who have inhabited the region for over 10,000 years — meaning their ancestors directly witnessed the eruption that created the caldera. The Klamath name for the lake is Giiwas, and oral traditions describe a cosmic battle between Llao (chief of the underworld, residing within the mountain) and Skell (chief of the sky world). The battle culminated in the mountain's destruction and the creation of the lake. These oral histories, transmitted across nearly 8,000 years and approximately 300 generations, are among the oldest verified geological oral traditions in the world.\n\nThe lake was long considered a sacred site by the Klamath Tribes, and its existence was not widely known to Euro-Americans until gold prospectors stumbled upon it in 1853. John Wesley Hillman is traditionally credited as the first non-indigenous person to see the lake, and early names included 'Deep Blue Lake' and 'Lake Majesty.' The name 'Crater Lake' was adopted in 1869.\n\nWilliam Gladstone Steel became the lake's most passionate advocate, campaigning for 17 years to secure its protection. His efforts led to the establishment of Crater Lake National Park on May 22, 1902 — the fifth oldest national park in the United States and the only national park in Oregon. The park was designated a National Natural Landmark in 1974, and Crater Lake appears on the Oregon state quarter (2005).\n\nThe lake has inspired artists, writers, and scientists for over a century. Its impossibly blue water, the stark geometry of the caldera, and the volcanic island within have made it one of the most photographed natural features in the American West."
+    },
+    "visiting_and_tourism": {
+      "content": "Crater Lake National Park receives approximately 700,000 visitors annually, with peak season from late June through September (the only period when the full Rim Drive is open, as heavy snowfall — averaging 13 m / 43 ft annually — closes much of the park in winter). The park is accessible by car from Klamath Falls (95 km southeast) or Medford (130 km southwest) via Oregon Highways 62 and 138.\n\nRim Drive, the 53-km scenic loop road encircling the caldera, offers over 30 designated viewpoints. Key stops include Discovery Point (where Hillman first saw the lake), Watchman Overlook (panoramic view with Wizard Island), and Cloudcap Overlook (highest accessible point on the rim at 2,427 m). The Cleetwood Cove Trail (3.3 km round trip, 210 m elevation change) is the only legal access to the lakeshore and provides boat tour access. Ranger-led boat tours to Wizard Island operate from late June through mid-September.\n\nBackcountry hiking options include the Garfield Peak Trail (5.4 km round trip, 330 m gain) for the best rim panorama, the Mount Scott Trail (6.4 km round trip, 383 m gain) to the park's highest point at 2,721 m, and the Pacific Crest Trail, which passes through the park for approximately 53 km. Winter activities include snowshoeing and cross-country skiing along the rim. Crater Lake Lodge (open late May through mid-October) and Mazama Village provide lodging within the park."
+    },
+    "nearby_volcanoes": {
+      "content": "Crater Lake sits within the High Cascades volcanic arc, surrounded by numerous other volcanic features. Newberry Volcano (2,434 m), a massive shield volcano with its own caldera and obsidian flows, lies approximately 100 km to the north-northeast. <a href=\"/volcano/st-helens\">Mount St. Helens</a> and <a href=\"/volcano/rainier\">Mount Rainier</a> anchor the northern end of the Cascade chain in Washington, while Mount Shasta (4,322 m) — California's largest stratovolcano — rises 170 km to the south.\n\nCloser to Crater Lake, Mount McLoughlin (2,894 m) stands 50 km to the south, and Mount Thielsen (2,799 m) — an extinct, heavily eroded stratovolcano known as the 'Lightning Rod of the Cascades' — is visible 18 km to the north. The broader Cascade arc extends from Lassen Peak in California to Mount Baker near the Canadian border, comprising over 20 major volcanic centers fed by the ongoing subduction of the Juan de Fuca Plate. Crater Lake's VEI 7 eruption was by far the largest event in the Cascade Range's postglacial history, demonstrating that this arc is capable of producing eruptions far more powerful than the 1980 <a href=\"/volcano/st-helens\">Mount St. Helens</a> event."
+    },
+    "etymology": {
+      "content": "The name 'Crater Lake' was adopted in 1869, though the feature is technically a caldera (formed by collapse) rather than a crater (formed by explosion or impact). Earlier Euro-American names included 'Deep Blue Lake' and 'Lake Majesty.' The pre-existing indigenous name 'Giiwas' (Klamath) had been used by the Klamath Tribes for millennia. 'Mount Mazama' was coined by the Mazamas mountaineering club of Portland, Oregon, in 1896, and is now the standard geological name for the destroyed volcanic complex."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Crater Lake Compared to the World's Most Notable Volcanic Calderas",
+      "description": "How does Crater Lake compare to other famous calderas around the world?",
+      "headers": [
+        "Volcano/Caldera",
+        "Country",
+        "Caldera Size",
+        "Eruption VEI",
+        "Year",
+        "Lake Depth",
+        "Status"
+      ],
+      "rows": [
+        [
+          "Crater Lake (Mazama)",
+          "United States",
+          "8 × 10 km",
+          "7",
+          "~5680 BCE",
+          "594 m",
+          "Dormant"
+        ],
+        [
+          "Santorini",
+          "Greece",
+          "7 × 12 km",
+          "7",
+          "~1600 BCE",
+          "~390 m",
+          "Active"
+        ],
+        [
+          "Toba",
+          "Indonesia",
+          "30 × 100 km",
+          "8",
+          "~74,000 BP",
+          "505 m",
+          "Dormant"
+        ],
+        [
+          "Taupo",
+          "New Zealand",
+          "35 × 15 km",
+          "7",
+          "232 CE",
+          "186 m",
+          "Active"
+        ],
+        [
+          "Campi Flegrei",
+          "Italy",
+          "13 km",
+          "7",
+          "~37,000 BP",
+          "N/A",
+          "Active — unrest"
+        ]
+      ]
+    },
+    {
+      "title": "Crater Lake Among the Cascade Volcanic Arc",
+      "description": "Major volcanoes of the Cascade Range compared.",
+      "headers": [
+        "Volcano",
+        "State",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Rainier",
+          "Washington",
+          "4,392 m",
+          "Stratovolcano",
+          "1450 CE",
+          "4",
+          "27"
+        ],
+        [
+          "St. Helens",
+          "Washington",
+          "2,549 m",
+          "Stratovolcano",
+          "2008",
+          "6",
+          "44"
+        ],
+        [
+          "Crater Lake",
+          "Oregon",
+          "2,487 m",
+          "Caldera",
+          "~2850 BCE",
+          "7",
+          "5"
+        ],
+        [
+          "Shasta",
+          "California",
+          "4,322 m",
+          "Stratovolcano",
+          "~1250 CE",
+          "4",
+          "18"
+        ],
+        [
+          "Newberry",
+          "Oregon",
+          "2,434 m",
+          "Shield",
+          "~690 CE",
+          "5",
+          "16"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -5900,
+      "vei": 6,
+      "label": "Llao Rock eruption — major precursor lava flow and tephra on north flank",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -5680,
+      "vei": 7,
+      "label": "Climactic eruption of Mount Mazama — 50 km³ of magma, caldera collapse, one of largest Holocene eruptions on Earth",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -5550,
+      "vei": 0,
+      "label": "Post-caldera eruption — Central Platform built on caldera floor",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5250,
+      "vei": null,
+      "label": "Wizard Island cinder cone and Merriam Cone built on caldera floor",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -2850,
+      "vei": null,
+      "label": "Most recent eruption — subaqueous rhyodacitic lava dome east of Wizard Island",
+      "deaths": null,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history (420–40 ka)",
+      "count": null,
+      "note": "Hundreds of eruptions built the Mount Mazama volcanic complex over 400,000 years"
+    },
+    {
+      "century": "~5900 BCE",
+      "count": 1,
+      "note": "Llao Rock precursor eruption (VEI 6)"
+    },
+    {
+      "century": "~5680 BCE",
+      "count": 1,
+      "note": "Climactic caldera-forming eruption (VEI 7)"
+    },
+    {
+      "century": "~5550–5250 BCE",
+      "count": 2,
+      "note": "Post-caldera eruptions building Wizard Island and Merriam Cone"
+    },
+    {
+      "century": "~2850 BCE",
+      "count": 1,
+      "note": "Final known eruption — subaqueous lava dome"
+    }
+  ],
+  "facts": [
+    "Crater Lake is the deepest lake in the United States at 594 m (1,949 ft) and the ninth deepest in the world.",
+    "The climactic eruption of Mount Mazama approximately 7,700 years ago ejected roughly 50 km³ of magma — making it one of the five largest eruptions in the last 10,000 years.",
+    "The Mazama ash layer has been found in geological deposits over 1,500 km from Crater Lake and serves as a key stratigraphic marker across western North America.",
+    "Crater Lake has no inlet or outlet streams — its water comes entirely from rain and snowfall, which is balanced by evaporation and seepage.",
+    "The Klamath Tribes' oral tradition of the lake's creation, involving a battle between the spirits Llao and Skell, has been transmitted for nearly 8,000 years — one of the world's oldest verified geological oral histories.",
+    "Crater Lake National Park, established in 1902, is the fifth oldest national park in the United States and the only one in Oregon.",
+    "The lake's extraordinary blue color results from its extreme depth and clarity — water absorbs all visible wavelengths except blue, which scatters back to the observer.",
+    "Secchi disk transparency measurements in Crater Lake have exceeded 40 m, making it one of the clearest lakes on Earth.",
+    "Before its destruction, Mount Mazama is estimated to have stood approximately 3,400 m (11,200 ft) tall — comparable to modern Mount Rainier.",
+    "The park receives an average of 13 m (43 ft) of snowfall annually, making it one of the snowiest inhabited locations in North America.",
+    "Wizard Island, the cinder cone protruding above the lake surface, rises approximately 230 m above the waterline but extends roughly 500 m from its base on the caldera floor.",
+    "Thermal springs discovered on the caldera floor during submersible dives in the 1980s confirm that a heat source persists beneath Crater Lake — the volcano is dormant, not extinct."
+  ],
+  "faqs": [
+    {
+      "question": "How deep is Crater Lake?",
+      "answer": "Crater Lake reaches a maximum depth of 594 m (1,949 ft), making it the deepest lake in the United States and the ninth deepest in the world. The average depth is approximately 350 m (1,148 ft), and the lake's surface sits at 1,883 m (6,178 ft) elevation while the caldera rim rises to 2,487 m (8,159 ft) at its highest point. The lake contains approximately 18.7 km³ of water. Detailed bathymetric mapping was completed in 2000 using multibeam sonar, confirming the depth measurements first established by a team led by Major Clarence Dutton in 1886, who used a weighted piano wire lowered from a boat."
+    },
+    {
+      "question": "How was Crater Lake formed?",
+      "answer": "Crater Lake was formed by the catastrophic collapse of Mount Mazama during a VEI 7 eruption approximately 7,700 years ago. The eruption ejected roughly 50 km³ of magma, emptying the subsurface reservoir and causing the unsupported summit to collapse along ring fractures, creating an 8 × 10 km caldera up to 1,200 m deep. Over the following centuries, the caldera filled with rainwater and snowmelt — there are no inlet or outlet streams — to form the lake. Post-caldera eruptions within a few hundred years of the collapse built Wizard Island and other volcanic features on the caldera floor. The most recent eruption occurred approximately 4,800 years ago."
+    },
+    {
+      "question": "Is Crater Lake a volcano?",
+      "answer": "Yes, Crater Lake is a volcanic caldera — a large depression formed by the collapse of a volcano after a massive eruption. The lake occupies the remnant of Mount Mazama, a complex of overlapping stratovolcanoes that was destroyed approximately 7,700 years ago. The Smithsonian Global Volcanism Program classifies it as an active volcanic system, and the USGS considers it dormant rather than extinct. Thermal springs on the lake floor confirm ongoing hydrothermal activity. Post-caldera eruptions occurred as recently as approximately 4,800 years ago, building features like Wizard Island. A future eruption is possible, though it would likely be small and preceded by detectable warning signs."
+    },
+    {
+      "question": "Why is Crater Lake so blue?",
+      "answer": "Crater Lake's intense, deep blue color results from two factors: its extreme depth (594 m) and its exceptional water clarity. Because the lake has no inlet streams, it receives almost no sediment, dissolved minerals, or organic matter — only clean rainwater and snowmelt. This means there is very little in the water to scatter or absorb light. Sunlight penetrating the lake is progressively absorbed by wavelength: red, orange, yellow, and green light are absorbed at increasing depths, while blue light penetrates deepest and is scattered back toward the surface. The result is the pure, vivid blue color for which the lake is famous, with Secchi disk transparency readings regularly exceeding 30 m."
+    },
+    {
+      "question": "Can you swim in Crater Lake?",
+      "answer": "Swimming is permitted at Crater Lake, but only at the designated area at the base of the Cleetwood Cove Trail — the only legal access point to the lakeshore. The water is extremely cold: summer surface temperatures typically reach only 13–17°C (55–63°F), while deeper water remains near 3°C (38°F) year-round. The steep, 3.3 km (round trip) trail descends 210 m to the shoreline. There are no lifeguards, and the extreme depth means the water drops off sharply. Visitors should exercise caution, particularly given the cold water temperatures that can cause rapid hypothermia."
+    },
+    {
+      "question": "When was the last eruption at Crater Lake?",
+      "answer": "The most recent eruption at Crater Lake occurred approximately 4,800 years ago (~2,850 BCE), when a small rhyodacitic lava dome was extruded on the caldera floor east-northeast of Wizard Island. This dome is entirely submerged beneath the lake surface and was discovered during bathymetric surveys. Earlier post-caldera eruptions built Wizard Island and Merriam Cone within a few centuries of the caldera-forming event (~7,700 years ago). The 4,800-year dormancy period is long relative to many Cascade volcanoes but short in geological terms. The USGS classifies the system as dormant with potential for future activity, though any eruption would likely be preceded by weeks to months of seismic and deformation warning signs."
+    },
+    {
+      "question": "Could Crater Lake erupt again?",
+      "answer": "Yes, Crater Lake could erupt again. The USGS and Smithsonian classify the volcanic system as dormant rather than extinct. Thermal springs on the caldera floor, detected during 1980s submersible dives, confirm that a heat source persists at depth. A future eruption would most likely involve small-volume lava dome extrusion on the caldera floor or phreatomagmatic explosions caused by magma interacting with lake water. Such an event would likely produce steam explosions, displacement waves within the caldera, and modest tephra fall. A repeat of the catastrophic VEI 7 eruption is considered extremely unlikely in any human-relevant timeframe, as the magma reservoir has not had time to regenerate the enormous volume of magma required."
+    },
+    {
+      "question": "How big was the Mount Mazama eruption?",
+      "answer": "The climactic eruption of Mount Mazama approximately 7,700 years ago was a VEI 7 event — one of the largest volcanic eruptions in the last 10,000 years. It ejected roughly 50 km³ of magma (approximately 150 km³ of tephra), comparable to the 1815 Tambora eruption. Pyroclastic flows traveled up to 40 km from the vent, and tephra was deposited over 1,500 km away in central Canada. The eruption was approximately 50 times larger than the 1980 Mount St. Helens event and roughly three times the volume of the 1912 Novarupta eruption. The resulting caldera is 8 × 10 km across and was originally up to 1,200 m deep."
+    },
+    {
+      "question": "What is Wizard Island?",
+      "answer": "Wizard Island is a symmetrical cinder cone that rises 230 m (755 ft) above the surface of Crater Lake near its western shore. It was built by volcanic eruptions on the caldera floor within a few centuries of the caldera-forming collapse approximately 7,700 years ago. The cone is topped by a 90-m-wide crater and has a base that extends roughly 500 m below the lake surface to the caldera floor. Wizard Island is accessible to visitors via ranger-led boat tours from Cleetwood Cove (operating late June through mid-September). A steep 2.7 km trail climbs from the island's boat landing to the summit crater. The island was named in 1885 for its resemblance to a sorcerer's pointed hat."
+    },
+    {
+      "question": "How tall was Mount Mazama before it erupted?",
+      "answer": "Before its catastrophic eruption approximately 7,700 years ago, Mount Mazama is estimated to have stood approximately 3,400 m (11,200 ft) tall — comparable to the modern height of Mount Rainier (4,392 m) or Mount Shasta (4,322 m), though somewhat shorter. The mountain was a complex of at least five overlapping stratovolcanoes and shield volcanoes that grew over a period from approximately 420,000 to 40,000 years ago. It was heavily glaciated, with valley glaciers extending 15–20 km down its flanks. The eruption removed the entire upper portion of the mountain, and the caldera rim's highest point today stands at only 2,487 m."
+    }
+  ],
+  "people_also_search": [
+    "how deep is crater lake",
+    "crater lake formation",
+    "mount mazama eruption",
+    "wizard island crater lake",
+    "why is crater lake so blue",
+    "crater lake volcano active",
+    "crater lake national park",
+    "deepest lakes in the world"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Crater Lake",
+    "alternateName": [
+      "Mount Mazama",
+      "Giiwas"
+    ],
+    "description": "Volcanic caldera in Oregon containing the deepest lake in the United States, formed by the VEI 7 collapse of Mount Mazama ~7,700 years ago",
+    "geo": {
+      "latitude": 42.942,
+      "longitude": -122.107,
+      "elevation": 2487
+    },
+    "containedInPlace": {
+      "name": "Southern Oregon, Cascade Range",
+      "country": "United States"
+    },
+    "url": "https://volcanoatlas.com/volcano/crater-lake"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=322160",
+      "text": "Smithsonian GVP: Crater Lake",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes/crater-lake",
+      "text": "USGS Cascades Volcano Observatory: Crater Lake",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.nps.gov/crla/index.htm",
+      "text": "Crater Lake National Park (NPS)",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Crater-Lake",
+      "text": "Britannica: Crater Lake",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://klamathtribes.org/",
+      "text": "The Klamath Tribes",
+      "type": "cultural"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "st-helens",
+      "rainier",
+      "tambora",
+      "santorini",
+      "newberry",
+      "novarupta",
+      "shasta"
+    ],
+    "country_pages": [
+      "united-states"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "tallest-volcanoes",
+      "deadliest-eruptions"
+    ]
+  },
+  "related_volcanoes": [
+    "st-helens",
+    "rainier",
+    "newberry",
+    "santorini",
+    "tambora"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in United States",
+      "url": "/volcanoes-in-united-states"
+    },
+    {
+      "label": "Crater Lake",
+      "url": "/volcano/crater-lake"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/crater-lake"
+}

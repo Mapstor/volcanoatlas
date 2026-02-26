@@ -1,0 +1,1493 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "contentLength": 282240,
+    "textContentLength": 6995,
+    "title": "VolcanoAtlas — Every Volcano on Earth"
+  },
+  {
+    "route": "/contact",
+    "status": 200,
+    "contentLength": 101377,
+    "textContentLength": 3066,
+    "title": "Contact Us | VolcanoAtlas"
+  },
+  {
+    "route": "/privacy",
+    "status": 200,
+    "contentLength": 103838,
+    "textContentLength": 5277,
+    "title": "Privacy Policy | VolcanoAtlas"
+  },
+  {
+    "route": "/terms",
+    "status": 200,
+    "contentLength": 92262,
+    "textContentLength": 4495,
+    "title": "Terms of Use | VolcanoAtlas"
+  },
+  {
+    "route": "/about",
+    "status": 200,
+    "contentLength": 107288,
+    "textContentLength": 6146,
+    "title": "About Us | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes",
+    "status": 200,
+    "contentLength": 279099,
+    "textContentLength": 19698,
+    "title": "All Volcanoes — Complete List of 150+ Volcanoes | VolcanoAtlas"
+  },
+  {
+    "route": "/map",
+    "status": 200,
+    "contentLength": 139994,
+    "textContentLength": 3127,
+    "title": "Interactive Volcano Map — Global Volcano Locations | VolcanoAtlas"
+  },
+  {
+    "route": "/latest-eruptions",
+    "status": 200,
+    "contentLength": 273589,
+    "textContentLength": 9664,
+    "title": "Latest Volcanic Eruptions &amp; Activity | Real-Time Updates"
+  },
+  {
+    "route": "/countries",
+    "status": 200,
+    "contentLength": 193811,
+    "textContentLength": 10313,
+    "title": "Countries with Volcanoes — Browse by Country | VolcanoAtlas"
+  },
+  {
+    "route": "/ring-of-fire",
+    "status": 200,
+    "contentLength": 213507,
+    "textContentLength": 25590,
+    "title": "Ring of Fire — Pacific Volcanoes, Map, Countries &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/supervolcanoes",
+    "status": 200,
+    "contentLength": 198538,
+    "textContentLength": 23566,
+    "title": "Supervolcanoes — What They Are, Where They Are &amp; Could One Erupt? | VolcanoAtlas"
+  },
+  {
+    "route": "/types-of-volcanoes",
+    "status": 200,
+    "contentLength": 212017,
+    "textContentLength": 24687,
+    "title": "Types of Volcanoes — Shield, Stratovolcano, Caldera &amp; More | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanic-explosivity-index",
+    "status": 200,
+    "contentLength": 195131,
+    "textContentLength": 21134,
+    "title": "Volcanic Explosivity Index (VEI) — Scale, Levels 0–8 &amp; Examples | VolcanoAtlas"
+  },
+  {
+    "route": "/active-volcanoes",
+    "status": 200,
+    "contentLength": 357064,
+    "textContentLength": 25001,
+    "title": "Active Volcanoes Around the World — 117 Currently Active in 2025 | VolcanoAtlas"
+  },
+  {
+    "route": "/deadliest-eruptions",
+    "status": 200,
+    "contentLength": 210410,
+    "textContentLength": 19334,
+    "title": "25 Deadliest Volcanic Eruptions in History — Death Tolls &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/most-active-volcanoes",
+    "status": 200,
+    "contentLength": 207638,
+    "textContentLength": 16825,
+    "title": "25 Most Active Volcanoes in the World — Ranked by Eruption Count | VolcanoAtlas"
+  },
+  {
+    "route": "/tallest-volcanoes",
+    "status": 200,
+    "contentLength": 225072,
+    "textContentLength": 19044,
+    "title": "50 Tallest Volcanoes in the World — Ranked by Elevation | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/agua-de-pau",
+    "status": 200,
+    "contentLength": 212717,
+    "textContentLength": 7484,
+    "title": "Agua de Pau Volcano — Eruption History, Lagoa do Fogo &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/aira",
+    "status": 200,
+    "contentLength": 259314,
+    "textContentLength": 12121,
+    "title": "Sakurajima Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/akutan",
+    "status": 200,
+    "contentLength": 217068,
+    "textContentLength": 6654,
+    "title": "Akutan Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/ambae",
+    "status": 200,
+    "contentLength": 214147,
+    "textContentLength": 7675,
+    "title": "Ambae Volcano — Eruption History, Crater Lakes &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/ambrym",
+    "status": 200,
+    "contentLength": 231276,
+    "textContentLength": 10409,
+    "title": "Ambrym Volcano — Eruption History, Lava Lakes, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/arenal",
+    "status": 200,
+    "contentLength": 256051,
+    "textContentLength": 12129,
+    "title": "Arenal Volcano — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/asamayama",
+    "status": 200,
+    "contentLength": 244450,
+    "textContentLength": 10833,
+    "title": "Asamayama (Mount Asama) — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/asosan",
+    "status": 200,
+    "contentLength": 248636,
+    "textContentLength": 12028,
+    "title": "Mount Aso (Asosan) — Eruption History, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/avachinsky",
+    "status": 200,
+    "contentLength": 236809,
+    "textContentLength": 9380,
+    "title": "Avachinsky — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/azul-cerro",
+    "status": 200,
+    "contentLength": 216421,
+    "textContentLength": 6895,
+    "title": "Cerro Azul (Quizapu) — 1932 Eruption, History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/bagana",
+    "status": 200,
+    "contentLength": 214265,
+    "textContentLength": 7583,
+    "title": "Bagana Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/bardarbunga",
+    "status": 200,
+    "contentLength": 255085,
+    "textContentLength": 11849,
+    "title": "Bárðarbunga Volcano — Eruption History, Holuhraun &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/barren-island",
+    "status": 200,
+    "contentLength": 221480,
+    "textContentLength": 8228,
+    "title": "Barren Island — India&#x27;s Only Active Volcano | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/bezymianny",
+    "status": 200,
+    "contentLength": 229275,
+    "textContentLength": 9141,
+    "title": "Bezymianny Volcano — Eruption History, 1956 Blast &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/blanco-cerro",
+    "status": 200,
+    "contentLength": 203734,
+    "textContentLength": 6348,
+    "title": "Cerro Blanco Volcano — VEI 7 Eruption, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/bulusan",
+    "status": 200,
+    "contentLength": 214006,
+    "textContentLength": 7151,
+    "title": "Bulusan Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/calbuco",
+    "status": 200,
+    "contentLength": 228002,
+    "textContentLength": 8539,
+    "title": "Calbuco Volcano — 2015 Eruption, History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/campi-flegrei",
+    "status": 200,
+    "contentLength": 233835,
+    "textContentLength": 10695,
+    "title": "Campi Flegrei — Eruption History, Supervolcano Risk &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/chaiten",
+    "status": 200,
+    "contentLength": 226194,
+    "textContentLength": 8628,
+    "title": "Chaitén Volcano — 2008 Eruption, History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/changbaishan",
+    "status": 200,
+    "contentLength": 220995,
+    "textContentLength": 9130,
+    "title": "Changbaishan (Paektu) — Millennium Eruption, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/chichon-el",
+    "status": 200,
+    "contentLength": 227341,
+    "textContentLength": 8656,
+    "title": "El Chichón — 1982 Eruption, Climate Impact &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/chikurachki",
+    "status": 200,
+    "contentLength": 225178,
+    "textContentLength": 8670,
+    "title": "Chikurachki Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/chillan-nevados-de",
+    "status": 200,
+    "contentLength": 219179,
+    "textContentLength": 7765,
+    "title": "Nevados de Chillán — Eruption History, Ski Resort &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/colima",
+    "status": 200,
+    "contentLength": 242825,
+    "textContentLength": 9387,
+    "title": "Volcán de Colima — Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/concepcion",
+    "status": 200,
+    "contentLength": 218138,
+    "textContentLength": 5752,
+    "title": "Concepción Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/copahue",
+    "status": 200,
+    "contentLength": 223269,
+    "textContentLength": 7156,
+    "title": "Copahue Volcano — Eruption History, Crater Lake &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/cotopaxi",
+    "status": 200,
+    "contentLength": 255455,
+    "textContentLength": 12052,
+    "title": "Cotopaxi — Eruption History, Height, Lahar Risk &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/crater-lake",
+    "status": 200,
+    "contentLength": 258662,
+    "textContentLength": 11738,
+    "title": "Crater Lake (Mazama) — Eruption, Depth &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/deception-island",
+    "status": 200,
+    "contentLength": 225721,
+    "textContentLength": 10168,
+    "title": "Deception Island — Eruption History, Facts &amp; Visitor Guide | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/east-epi",
+    "status": 200,
+    "contentLength": 215884,
+    "textContentLength": 6588,
+    "title": "East Epi Submarine Volcano — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/erebus",
+    "status": 200,
+    "contentLength": 235615,
+    "textContentLength": 11005,
+    "title": "Mount Erebus — Lava Lake, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/erta-ale",
+    "status": 200,
+    "contentLength": 220512,
+    "textContentLength": 9371,
+    "title": "Erta Ale — Lava Lake, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/etna",
+    "status": 200,
+    "contentLength": 261092,
+    "textContentLength": 13503,
+    "title": "Mount Etna — Eruptions, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/eyjafjallajokull",
+    "status": 200,
+    "contentLength": 221749,
+    "textContentLength": 12050,
+    "title": "Eyjafjallajökull — 2010 Eruption, Facts &amp; History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/fernandina",
+    "status": 200,
+    "contentLength": 226653,
+    "textContentLength": 8354,
+    "title": "Fernandina — Galápagos Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/fonualei",
+    "status": 200,
+    "contentLength": 229150,
+    "textContentLength": 10025,
+    "title": "Fonualei Volcano — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/fuego",
+    "status": 200,
+    "contentLength": 232459,
+    "textContentLength": 9699,
+    "title": "Volcán de Fuego — Eruptions, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/fujisan",
+    "status": 200,
+    "contentLength": 249905,
+    "textContentLength": 10582,
+    "title": "Mount Fuji (Fujisan) — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/furnas",
+    "status": 200,
+    "contentLength": 213918,
+    "textContentLength": 5439,
+    "title": "Furnas Volcano — Eruption History, Hot Springs &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/galeras",
+    "status": 200,
+    "contentLength": 228388,
+    "textContentLength": 9957,
+    "title": "Galeras Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/gamalama",
+    "status": 200,
+    "contentLength": 231505,
+    "textContentLength": 10214,
+    "title": "Gamalama Volcano — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/gaua",
+    "status": 200,
+    "contentLength": 217645,
+    "textContentLength": 7495,
+    "title": "Gaua (Santa Maria) — Eruption History, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/gorely",
+    "status": 200,
+    "contentLength": 243558,
+    "textContentLength": 10048,
+    "title": "Gorely Volcano — Eruption History, Acid Lakes &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/grimsvotn",
+    "status": 200,
+    "contentLength": 242588,
+    "textContentLength": 11806,
+    "title": "Grímsvötn — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/guagua-pichincha",
+    "status": 200,
+    "contentLength": 254361,
+    "textContentLength": 11442,
+    "title": "Guagua Pichincha — Eruption History, Quito Threat &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/heard",
+    "status": 200,
+    "contentLength": 217758,
+    "textContentLength": 6892,
+    "title": "Heard Island Volcano (Big Ben) — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/hekla",
+    "status": 200,
+    "contentLength": 231063,
+    "textContentLength": 10039,
+    "title": "Hekla — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/home-reef",
+    "status": 200,
+    "contentLength": 224996,
+    "textContentLength": 7395,
+    "title": "Home Reef Volcano — Eruption History, Island Formation &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/hudson-cerro",
+    "status": 200,
+    "contentLength": 230572,
+    "textContentLength": 9195,
+    "title": "Cerro Hudson Volcano — Eruption History, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/hunga-tonga-hunga-ha-apai",
+    "status": 200,
+    "contentLength": 215705,
+    "textContentLength": 7477,
+    "title": "Hunga Tonga-Hunga Ha&#x27;apai — 2022 Eruption, Tsunami &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/irazu",
+    "status": 200,
+    "contentLength": 222841,
+    "textContentLength": 7663,
+    "title": "Irazú Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/izalco",
+    "status": 200,
+    "contentLength": 237957,
+    "textContentLength": 9502,
+    "title": "Izalco Volcano — The Lighthouse of the Pacific | Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/izu-oshima",
+    "status": 200,
+    "contentLength": 235622,
+    "textContentLength": 9512,
+    "title": "Izu-Oshima Volcano — Eruption History, Facts &amp; Visitor Guide | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/jan-mayen",
+    "status": 200,
+    "contentLength": 222152,
+    "textContentLength": 9776,
+    "title": "Jan Mayen / Beerenberg — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/kanlaon",
+    "status": 200,
+    "contentLength": 218398,
+    "textContentLength": 7321,
+    "title": "Kanlaon Volcano — Eruption History, 2024 Eruption &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/karangetang",
+    "status": 200,
+    "contentLength": 218287,
+    "textContentLength": 7347,
+    "title": "Karangetang Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/karthala",
+    "status": 200,
+    "contentLength": 213838,
+    "textContentLength": 8205,
+    "title": "Karthala Volcano — Eruption History, Facts &amp; Hazards | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/karymsky",
+    "status": 200,
+    "contentLength": 226384,
+    "textContentLength": 9271,
+    "title": "Karymsky — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/katla",
+    "status": 200,
+    "contentLength": 231378,
+    "textContentLength": 10491,
+    "title": "Katla — Eruption History, Jökulhlaups &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/kavachi",
+    "status": 200,
+    "contentLength": 223192,
+    "textContentLength": 8927,
+    "title": "Kavachi Volcano — Eruption History, Submarine Activity &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/kelud",
+    "status": 200,
+    "contentLength": 218507,
+    "textContentLength": 7471,
+    "title": "Kelud Volcano — Eruption History, Crater Lake &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/kikai",
+    "status": 200,
+    "contentLength": 237545,
+    "textContentLength": 10464,
+    "title": "Kikai Caldera — Eruption History, Supervolcano Status &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/kilauea",
+    "status": 200,
+    "contentLength": 228651,
+    "textContentLength": 12679,
+    "title": "Kilauea Volcano — Eruptions, Lava &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/kirishimayama",
+    "status": 200,
+    "contentLength": 235511,
+    "textContentLength": 9679,
+    "title": "Kirishimayama — Eruption History, Facts &amp; Visitor Guide | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/klyuchevskoy",
+    "status": 200,
+    "contentLength": 230013,
+    "textContentLength": 9452,
+    "title": "Klyuchevskoy — Eruptions, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/krakatau",
+    "status": 200,
+    "contentLength": 243718,
+    "textContentLength": 12246,
+    "title": "Krakatau (Krakatoa) — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/krasheninnikov",
+    "status": 200,
+    "contentLength": 216108,
+    "textContentLength": 6851,
+    "title": "Krasheninnikov Volcano — Eruption History, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/la-palma",
+    "status": 200,
+    "contentLength": 214857,
+    "textContentLength": 8404,
+    "title": "La Palma Volcano — 2021 Eruption, History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/lascar",
+    "status": 200,
+    "contentLength": 229115,
+    "textContentLength": 9685,
+    "title": "Láscar Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/lengai-ol-doinyo",
+    "status": 200,
+    "contentLength": 219745,
+    "textContentLength": 9335,
+    "title": "Ol Doinyo Lengai — The Mountain of God, Carbonatite Volcano | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/llaima",
+    "status": 200,
+    "contentLength": 242591,
+    "textContentLength": 11727,
+    "title": "Llaima Volcano — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/lopevi",
+    "status": 200,
+    "contentLength": 213853,
+    "textContentLength": 7075,
+    "title": "Lopevi Volcano — Eruption History, Facts &amp; Hazards | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/manam",
+    "status": 200,
+    "contentLength": 230277,
+    "textContentLength": 9603,
+    "title": "Manam Volcano — PNG&#x27;s Most Active, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/marapi",
+    "status": 200,
+    "contentLength": 227827,
+    "textContentLength": 9219,
+    "title": "Marapi (Sumatra) — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/masaya",
+    "status": 200,
+    "contentLength": 243175,
+    "textContentLength": 12007,
+    "title": "Masaya Volcano — Lava Lake, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/mauna-loa",
+    "status": 200,
+    "contentLength": 234804,
+    "textContentLength": 10165,
+    "title": "Mauna Loa — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/mayon",
+    "status": 200,
+    "contentLength": 230885,
+    "textContentLength": 9954,
+    "title": "Mayon Volcano — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/merapi",
+    "status": 200,
+    "contentLength": 243014,
+    "textContentLength": 12005,
+    "title": "Mount Merapi — Eruptions, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/michoacan-guanajuato",
+    "status": 200,
+    "contentLength": 215275,
+    "textContentLength": 7931,
+    "title": "Michoacán-Guanajuato — Parícutin, Jorullo &amp; 1,400+ Vents | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/misti-el",
+    "status": 200,
+    "contentLength": 210670,
+    "textContentLength": 7352,
+    "title": "El Misti Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/miyakejima",
+    "status": 200,
+    "contentLength": 198291,
+    "textContentLength": 7222,
+    "title": "Miyakejima Volcano — Eruption History, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/momotombo",
+    "status": 200,
+    "contentLength": 214434,
+    "textContentLength": 7334,
+    "title": "Momotombo Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/mount-cameroon",
+    "status": 200,
+    "contentLength": 220823,
+    "textContentLength": 9122,
+    "title": "Mount Cameroon — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/mutnovsky",
+    "status": 200,
+    "contentLength": 228613,
+    "textContentLength": 9186,
+    "title": "Mutnovsky Volcano — Eruption History, Geothermal Power &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/niuafo-ou",
+    "status": 200,
+    "contentLength": 212484,
+    "textContentLength": 7665,
+    "title": "Niuafo&#x27;ou (Tin Can Island) — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/novarupta",
+    "status": 200,
+    "contentLength": 236123,
+    "textContentLength": 10497,
+    "title": "Novarupta — 1912 Eruption, Katmai &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/nyamulagira",
+    "status": 200,
+    "contentLength": 224784,
+    "textContentLength": 10051,
+    "title": "Nyamulagira — Africa&#x27;s Most Active Volcano | Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/nyiragongo",
+    "status": 200,
+    "contentLength": 239151,
+    "textContentLength": 12727,
+    "title": "Nyiragongo — Lava Lake, Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/okataina",
+    "status": 200,
+    "contentLength": 213808,
+    "textContentLength": 6948,
+    "title": "Okataina Volcanic Centre — Tarawera, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/orizaba-pico-de",
+    "status": 200,
+    "contentLength": 214368,
+    "textContentLength": 7266,
+    "title": "Pico de Orizaba — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/pacaya",
+    "status": 200,
+    "contentLength": 222224,
+    "textContentLength": 7989,
+    "title": "Pacaya Volcano — Eruptions &amp; Hiking Guide | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/pavlof",
+    "status": 200,
+    "contentLength": 245114,
+    "textContentLength": 10957,
+    "title": "Pavlof Volcano — Alaska&#x27;s Most Active, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/pelee",
+    "status": 200,
+    "contentLength": 234589,
+    "textContentLength": 11842,
+    "title": "Mount Pelée — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/pinatubo",
+    "status": 200,
+    "contentLength": 244554,
+    "textContentLength": 12637,
+    "title": "Mount Pinatubo — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/piton-de-la-fournaise",
+    "status": 200,
+    "contentLength": 221201,
+    "textContentLength": 9529,
+    "title": "Piton de la Fournaise — Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/planchon-peteroa",
+    "status": 200,
+    "contentLength": 228591,
+    "textContentLength": 8772,
+    "title": "Planchón-Peteroa Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/poas",
+    "status": 200,
+    "contentLength": 240700,
+    "textContentLength": 10809,
+    "title": "Poás Volcano — Eruption History, Crater Lake, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/popocatepetl",
+    "status": 200,
+    "contentLength": 243182,
+    "textContentLength": 11893,
+    "title": "Popocatépetl — Eruption History, Height, Hazards &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/purace",
+    "status": 200,
+    "contentLength": 225543,
+    "textContentLength": 8227,
+    "title": "Puracé Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/puyehue-cordon-caulle",
+    "status": 200,
+    "contentLength": 227883,
+    "textContentLength": 8461,
+    "title": "Puyehue-Cordón Caulle — Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/rabaul",
+    "status": 200,
+    "contentLength": 219282,
+    "textContentLength": 7750,
+    "title": "Rabaul Caldera — Eruption History, 1994 Eruption &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/rainier",
+    "status": 200,
+    "contentLength": 246293,
+    "textContentLength": 11398,
+    "title": "Mount Rainier — Eruption History, Lahar Risk, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/raung",
+    "status": 200,
+    "contentLength": 229174,
+    "textContentLength": 9099,
+    "title": "Raung Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/redoubt",
+    "status": 200,
+    "contentLength": 234475,
+    "textContentLength": 9659,
+    "title": "Redoubt Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/reventador",
+    "status": 200,
+    "contentLength": 214950,
+    "textContentLength": 7561,
+    "title": "Reventador Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/reykjanes",
+    "status": 200,
+    "contentLength": 229375,
+    "textContentLength": 9363,
+    "title": "Reykjanes Volcanic System — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/rincon-de-la-vieja",
+    "status": 200,
+    "contentLength": 228326,
+    "textContentLength": 9016,
+    "title": "Rincón de la Vieja — Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/ruapehu",
+    "status": 200,
+    "contentLength": 230535,
+    "textContentLength": 9770,
+    "title": "Mount Ruapehu — Eruptions, Lake &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/ruiz-nevado-del",
+    "status": 200,
+    "contentLength": 227943,
+    "textContentLength": 9343,
+    "title": "Nevado del Ruiz — 1985 Disaster &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/sabancaya",
+    "status": 200,
+    "contentLength": 217529,
+    "textContentLength": 8748,
+    "title": "Sabancaya Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/san-cristobal",
+    "status": 200,
+    "contentLength": 226989,
+    "textContentLength": 8069,
+    "title": "San Cristóbal — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/san-miguel",
+    "status": 200,
+    "contentLength": 226074,
+    "textContentLength": 9289,
+    "title": "San Miguel Volcano — Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/santa-ana",
+    "status": 200,
+    "contentLength": 219419,
+    "textContentLength": 8071,
+    "title": "Santa Ana Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/santa-maria",
+    "status": 200,
+    "contentLength": 225423,
+    "textContentLength": 9063,
+    "title": "Santa María Volcano — 1902 Eruption, Santiaguito &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/santorini",
+    "status": 200,
+    "contentLength": 236338,
+    "textContentLength": 12715,
+    "title": "Santorini Volcano — Eruption History, Minoan Eruption &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/semeru",
+    "status": 200,
+    "contentLength": 242798,
+    "textContentLength": 11805,
+    "title": "Mount Semeru — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/sete-cidades",
+    "status": 200,
+    "contentLength": 218234,
+    "textContentLength": 8070,
+    "title": "Sete Cidades Volcano — Eruption History, Caldera &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/sheveluch",
+    "status": 200,
+    "contentLength": 240209,
+    "textContentLength": 10506,
+    "title": "Sheveluch — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/shikotsu",
+    "status": 200,
+    "contentLength": 219180,
+    "textContentLength": 7011,
+    "title": "Shikotsu Caldera — Eruption History, Lake Shikotsu &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/shishaldin",
+    "status": 200,
+    "contentLength": 223275,
+    "textContentLength": 7645,
+    "title": "Shishaldin Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/soufriere-guadeloupe",
+    "status": 200,
+    "contentLength": 222668,
+    "textContentLength": 9918,
+    "title": "Soufrière Guadeloupe — Eruption History, Status &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/soufriere-hills",
+    "status": 200,
+    "contentLength": 207486,
+    "textContentLength": 7854,
+    "title": "Soufrière Hills Volcano — Montserrat Eruption, Plymouth &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/soufriere-st-vincent",
+    "status": 200,
+    "contentLength": 223827,
+    "textContentLength": 10427,
+    "title": "Soufrière St. Vincent — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/st-helens",
+    "status": 200,
+    "contentLength": 250177,
+    "textContentLength": 13307,
+    "title": "Mount St. Helens — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/stromboli",
+    "status": 200,
+    "contentLength": 243367,
+    "textContentLength": 11259,
+    "title": "Stromboli — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/taal",
+    "status": 200,
+    "contentLength": 244071,
+    "textContentLength": 12405,
+    "title": "Taal Volcano — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tacana",
+    "status": 200,
+    "contentLength": 205969,
+    "textContentLength": 7261,
+    "title": "Tacaná Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tambora",
+    "status": 200,
+    "contentLength": 239732,
+    "textContentLength": 10262,
+    "title": "Mount Tambora — 1815 Eruption, Year Without a Summer &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/taranaki",
+    "status": 200,
+    "contentLength": 230406,
+    "textContentLength": 9684,
+    "title": "Taranaki — Eruption History, Hazards &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/taveuni",
+    "status": 200,
+    "contentLength": 207666,
+    "textContentLength": 7121,
+    "title": "Taveuni Volcano — Eruption History, Garden Island &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/telica",
+    "status": 200,
+    "contentLength": 222723,
+    "textContentLength": 8620,
+    "title": "Telica — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tenerife",
+    "status": 200,
+    "contentLength": 238073,
+    "textContentLength": 10925,
+    "title": "Tenerife / Mount Teide — Eruption History, Height, Facts &amp; Tourism | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tengger-caldera",
+    "status": 200,
+    "contentLength": 233100,
+    "textContentLength": 9625,
+    "title": "Tengger Caldera (Mount Bromo) — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/terceira",
+    "status": 200,
+    "contentLength": 213187,
+    "textContentLength": 7664,
+    "title": "Terceira Volcano — Eruption History, Geology &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tinakula",
+    "status": 200,
+    "contentLength": 224717,
+    "textContentLength": 9651,
+    "title": "Tinakula Volcano — Eruption History, Facts &amp; Location | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tolbachik",
+    "status": 200,
+    "contentLength": 228352,
+    "textContentLength": 9352,
+    "title": "Tolbachik — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tolima-nevado-del",
+    "status": 200,
+    "contentLength": 215615,
+    "textContentLength": 7239,
+    "title": "Nevado del Tolima — Eruption History, Glaciers &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tongariro",
+    "status": 200,
+    "contentLength": 243069,
+    "textContentLength": 11921,
+    "title": "Tongariro — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tungurahua",
+    "status": 200,
+    "contentLength": 230128,
+    "textContentLength": 9513,
+    "title": "Tungurahua Volcano — Eruption History, Hazards &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/tupungatito",
+    "status": 200,
+    "contentLength": 208662,
+    "textContentLength": 7196,
+    "title": "Tupungatito Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/turrialba",
+    "status": 200,
+    "contentLength": 228888,
+    "textContentLength": 8972,
+    "title": "Turrialba Volcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/ubinas",
+    "status": 200,
+    "contentLength": 222818,
+    "textContentLength": 7928,
+    "title": "Ubinas — Peru&#x27;s Most Active Volcano | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/ulawun",
+    "status": 200,
+    "contentLength": 227430,
+    "textContentLength": 9033,
+    "title": "Ulawun — Eruption History, Height, Type &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/vesuvius",
+    "status": 200,
+    "contentLength": 247165,
+    "textContentLength": 13128,
+    "title": "Mount Vesuvius — Eruptions, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/villarrica",
+    "status": 200,
+    "contentLength": 230401,
+    "textContentLength": 9640,
+    "title": "Villarrica Volcano — Eruptions &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/vulcano",
+    "status": 200,
+    "contentLength": 231421,
+    "textContentLength": 9455,
+    "title": "Vulcano — Eruption History, Height &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/whakaari-white-island",
+    "status": 200,
+    "contentLength": 242507,
+    "textContentLength": 11564,
+    "title": "Whakaari/White Island — Eruption History, 2019 Disaster &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/witori",
+    "status": 200,
+    "contentLength": 219299,
+    "textContentLength": 7852,
+    "title": "Witori Volcano (Pago) — Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/yellowstone",
+    "status": 200,
+    "contentLength": 236180,
+    "textContentLength": 10320,
+    "title": "Yellowstone Caldera — Supervolcano Facts &amp; Risk | VolcanoAtlas"
+  },
+  {
+    "route": "/volcano/zaozan-zaosan",
+    "status": 200,
+    "contentLength": 236773,
+    "textContentLength": 10386,
+    "title": "Zaozan Volcano — Okama Crater Lake, Eruption History &amp; Facts | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-algeria",
+    "status": 200,
+    "contentLength": 209359,
+    "textContentLength": 17272,
+    "title": "Volcanoes in Algeria — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-antarctica",
+    "status": 200,
+    "contentLength": 256325,
+    "textContentLength": 27184,
+    "title": "Volcanoes in Antarctica — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-argentina",
+    "status": 500,
+    "contentLength": 190900,
+    "textContentLength": 81,
+    "title": "Volcanoes in Argentina — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-armenia",
+    "status": 200,
+    "contentLength": 214878,
+    "textContentLength": 19291,
+    "title": "Volcanoes in Armenia — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-australia",
+    "status": 200,
+    "contentLength": 234061,
+    "textContentLength": 24198,
+    "title": "Volcanoes in Australia — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-cameroon",
+    "status": 200,
+    "contentLength": 214423,
+    "textContentLength": 19210,
+    "title": "Volcanoes in Cameroon — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-canada",
+    "status": 500,
+    "contentLength": 188252,
+    "textContentLength": 78,
+    "title": "Volcanoes in Canada — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-chad",
+    "status": 200,
+    "contentLength": 215618,
+    "textContentLength": 19783,
+    "title": "Volcanoes in Chad — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-chile",
+    "status": 200,
+    "contentLength": 323485,
+    "textContentLength": 32919,
+    "title": "Volcanoes in Chile — List, Map &amp; Eruptions"
+  },
+  {
+    "route": "/volcanoes-in-china",
+    "status": 500,
+    "contentLength": 177605,
+    "textContentLength": 77,
+    "title": "Volcanoes in China — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-colombia",
+    "status": 200,
+    "contentLength": 235640,
+    "textContentLength": 19860,
+    "title": "Volcanoes in Colombia — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-costa-rica",
+    "status": 500,
+    "contentLength": 178048,
+    "textContentLength": 82,
+    "title": "Volcanoes in Costa Rica — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-dominica",
+    "status": 200,
+    "contentLength": 218857,
+    "textContentLength": 19718,
+    "title": "Volcanoes in Dominica — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-dr-congo",
+    "status": 200,
+    "contentLength": 216329,
+    "textContentLength": 17949,
+    "title": "Volcanoes in DR Congo — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-ecuador",
+    "status": 200,
+    "contentLength": 291146,
+    "textContentLength": 32560,
+    "title": "Volcanoes in Ecuador — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-el-salvador",
+    "status": 500,
+    "contentLength": 184417,
+    "textContentLength": 83,
+    "title": "Volcanoes in El Salvador — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-eritrea",
+    "status": 200,
+    "contentLength": 216107,
+    "textContentLength": 19703,
+    "title": "Volcanoes in Eritrea — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-ethiopia",
+    "status": 200,
+    "contentLength": 296568,
+    "textContentLength": 30301,
+    "title": "Volcanoes in Ethiopia — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-france",
+    "status": 200,
+    "contentLength": 257575,
+    "textContentLength": 28248,
+    "title": "Volcanoes in France — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-greece",
+    "status": 200,
+    "contentLength": 237380,
+    "textContentLength": 24710,
+    "title": "Volcanoes in Greece — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-guatemala",
+    "status": 200,
+    "contentLength": 257968,
+    "textContentLength": 28477,
+    "title": "Volcanoes in Guatemala — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-honduras",
+    "status": 200,
+    "contentLength": 205859,
+    "textContentLength": 15684,
+    "title": "Volcanoes in Honduras — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-iceland",
+    "status": 200,
+    "contentLength": 294806,
+    "textContentLength": 33966,
+    "title": "Volcanoes in Iceland — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-indonesia",
+    "status": 200,
+    "contentLength": 352407,
+    "textContentLength": 36837,
+    "title": "Volcanoes in Indonesia — Complete List of 101 Volcanoes, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-italy",
+    "status": 500,
+    "contentLength": 185600,
+    "textContentLength": 77,
+    "title": "Volcanoes in Italy — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-japan",
+    "status": 200,
+    "contentLength": 364651,
+    "textContentLength": 40210,
+    "title": "Volcanoes in Japan — Complete List of 105 Volcanoes, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-kenya",
+    "status": 500,
+    "contentLength": 184810,
+    "textContentLength": 77,
+    "title": "Volcanoes in Kenya — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-mexico",
+    "status": 200,
+    "contentLength": 287943,
+    "textContentLength": 31808,
+    "title": "Volcanoes in Mexico — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-new-zealand",
+    "status": 500,
+    "contentLength": 185354,
+    "textContentLength": 83,
+    "title": "Volcanoes in New Zealand — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-nicaragua",
+    "status": 200,
+    "contentLength": 250894,
+    "textContentLength": 26814,
+    "title": "Volcanoes in Nicaragua — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-papua-new-guinea",
+    "status": 200,
+    "contentLength": 269533,
+    "textContentLength": 23454,
+    "title": "Volcanoes in Papua New Guinea — List &amp; Eruptions"
+  },
+  {
+    "route": "/volcanoes-in-peru",
+    "status": 200,
+    "contentLength": 229297,
+    "textContentLength": 17072,
+    "title": "Volcanoes in Peru — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-philippines",
+    "status": 500,
+    "contentLength": 184509,
+    "textContentLength": 87,
+    "title": "Volcanoes in the Philippines — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-portugal",
+    "status": 200,
+    "contentLength": 227761,
+    "textContentLength": 16232,
+    "title": "Volcanoes in Portugal — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-russia",
+    "status": 200,
+    "contentLength": 344387,
+    "textContentLength": 35684,
+    "title": "Volcanoes in Russia — Complete List of 94 Volcanoes, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-saudi-arabia",
+    "status": 500,
+    "contentLength": 174631,
+    "textContentLength": 84,
+    "title": "Volcanoes in Saudi Arabia — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-solomon-islands",
+    "status": 500,
+    "contentLength": 173380,
+    "textContentLength": 87,
+    "title": "Volcanoes in Solomon Islands — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-spain",
+    "status": 500,
+    "contentLength": 174212,
+    "textContentLength": 77,
+    "title": "Volcanoes in Spain — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-sudan",
+    "status": 200,
+    "contentLength": 213683,
+    "textContentLength": 19007,
+    "title": "Volcanoes in Sudan — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-tanzania",
+    "status": 200,
+    "contentLength": 235694,
+    "textContentLength": 23859,
+    "title": "Volcanoes in Tanzania — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-tonga",
+    "status": 200,
+    "contentLength": 256921,
+    "textContentLength": 27010,
+    "title": "Volcanoes in Tonga — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-turkiye",
+    "status": 500,
+    "contentLength": 171087,
+    "textContentLength": 79,
+    "title": "Volcanoes in Türkiye — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-united-kingdom",
+    "status": 500,
+    "contentLength": 184536,
+    "textContentLength": 90,
+    "title": "Volcanoes in the United Kingdom — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-united-states",
+    "status": 200,
+    "contentLength": 426820,
+    "textContentLength": 44652,
+    "title": "Volcanoes in the United States — Complete List of 165 Volcanoes, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-vanuatu",
+    "status": 200,
+    "contentLength": 235133,
+    "textContentLength": 20037,
+    "title": "Volcanoes in Vanuatu — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  },
+  {
+    "route": "/volcanoes-in-yemen",
+    "status": 200,
+    "contentLength": 232827,
+    "textContentLength": 19619,
+    "title": "Volcanoes in Yemen — Complete List, Map &amp; Eruption History | VolcanoAtlas"
+  }
+]

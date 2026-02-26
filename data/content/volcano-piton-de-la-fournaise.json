@@ -1,0 +1,524 @@
+{
+  "slug": "piton-de-la-fournaise",
+  "volcano_id": 233020,
+  "title": "Piton de la Fournaise",
+  "meta_title": "Piton de la Fournaise — Eruptions & Facts | VolcanoAtlas",
+  "meta_description": "Piton de la Fournaise is a 2,632 m active shield volcano on Réunion Island, France. Explore its 200+ eruptions, current status, lava flows, and visitor guide.",
+  "quick_answer": {
+    "what": "Piton de la Fournaise is a massive active shield volcano rising to 2,632 m (8,635 ft) on the French island of Réunion in the western Indian Ocean.",
+    "status": "Active — last erupted July 2023. One of the most frequently erupting volcanoes on Earth, averaging one eruption every 8–9 months since the 1990s.",
+    "famous_for": "Its extraordinary eruption frequency, with more than 200 recorded eruptions since the 17th century, making it one of the world's most active volcanoes alongside Kīlauea and Stromboli.",
+    "danger_level": "Moderate — most eruptions are confined within the uninhabited Enclos Fouqué caldera, though rare flank eruptions outside the scarp have reached populated areas, most recently in 1977 and 1986."
+  },
+  "hero": {
+    "name": "Piton de la Fournaise",
+    "local_name": "Piton de la Fournaise (French: 'Peak of the Furnace')",
+    "subtitle": "One of the Most Active Volcanoes on Earth",
+    "country": "France",
+    "region": "Réunion Island, Indian Ocean",
+    "type": "Shield volcano",
+    "elevation_m": 2632,
+    "elevation_ft": 8635,
+    "status": "Active",
+    "last_eruption": "2023",
+    "coordinates": {
+      "lat": -21.244,
+      "lon": 55.708
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-00308.jpg",
+    "photo_credit": "Smithsonian Institution / Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "2,632 m (8,635 ft)",
+    "type": "Shield volcano",
+    "status": "Active",
+    "last_eruption": "July 2, 2023",
+    "first_known_eruption": "~2795 BCE (geological record); 1640 CE (historical record)",
+    "total_recorded_eruptions": 203,
+    "vei_max": "5 (~2765 BCE)",
+    "country": "France (overseas department)",
+    "region": "Réunion Island, western Indian Ocean",
+    "tectonic_setting": "Intraplate hotspot — Réunion hotspot over oceanic crust (<15 km thick)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "21.244°S, 55.708°E",
+    "nearest_city": "Saint-Pierre — 35 km southwest",
+    "population_at_risk": "~860,000 (Réunion total); <5,000 in direct hazard zones",
+    "summit_crater": "Dolomieu Crater — ~1,100 m long, ~700 m wide, ~340 m deep (after 2007 collapse)",
+    "protected_status": "Réunion National Park (est. 2007), UNESCO World Heritage Site (Pitons, cirques and remparts of Réunion, 2010)",
+    "monitoring_agency": "Observatoire Volcanologique du Piton de la Fournaise (OVPF) — IPGP",
+    "smithsonian_id": "233020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=233020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Piton de la Fournaise (French for 'Peak of the Furnace') is a massive active <a href=\"/types-of-volcanoes\">shield volcano</a> rising to 2,632 m (8,635 ft) on the southeastern side of the French island of Réunion in the western Indian Ocean, approximately 700 km (435 mi) east of Madagascar. It is one of the most frequently erupting volcanoes on the planet, with more than 200 recorded eruptions since the 17th century and an average recurrence interval of roughly 8–9 months in recent decades — a rate that places it alongside <a href=\"/volcano/kilauea\">Kīlauea</a> in Hawai'i and <a href=\"/volcano/stromboli\">Stromboli</a> in Italy as among the world's most persistently active volcanic systems.\n\nThe volcano sits atop thin oceanic crust over the Réunion hotspot, the same deep-mantle plume responsible for the Deccan Traps of India approximately 66 million years ago. Its eruptions are overwhelmingly effusive, producing fluid basaltic lava flows rather than the explosive blasts typical of <a href=\"/types-of-volcanoes\">stratovolcanoes</a>. The vast majority of historical activity has been confined within the Enclos Fouqué caldera, a horseshoe-shaped collapse scarp roughly 9 km (5.6 mi) wide that opens eastward toward the Indian Ocean, keeping most eruptions safely away from inhabited areas. Only six eruptions since 1708 have breached the caldera walls and reached the populated flanks — most recently in 1977, when lava flows destroyed several houses in the village of Piton Sainte-Rose, and in 1986, when flows reached the southeast coast.\n\nDespite its remote Indian Ocean location, Piton de la Fournaise is one of the best-monitored and most scientifically studied volcanoes in the world. The Observatoire Volcanologique du Piton de la Fournaise (OVPF), a division of the Institut de Physique du Globe de Paris (IPGP), operates a dense network of seismometers, GPS stations, tiltmeters, and gas sensors that typically detect precursory signals days to weeks before each eruption. The volcano and its surrounding landscapes form part of the Réunion National Park and were inscribed as a <a href=\"https://whc.unesco.org/en/list/1317\" target=\"_blank\" rel=\"noopener\">UNESCO World Heritage Site</a> in 2010 under the designation 'Pitons, cirques and remparts of Réunion.'"
+    },
+    "geology_and_formation": {
+      "content": "Piton de la Fournaise owes its existence to the Réunion hotspot, a deep-mantle plume that has been volcanically active for at least 66 million years. As the Indo-Australian tectonic plate drifted northeastward over this stationary plume, it left a chain of volcanic islands and seamounts stretching from the Deccan Traps in western India, through the Maldives and the Chagos Archipelago, to the Mascarene Islands. Réunion, the youngest and most volcanically active island in this chain, emerged from the ocean floor roughly 5 million years ago.\n\nThe island is built from two major shield volcanoes. The older Piton des Neiges (3,069 m / 10,069 ft), now deeply eroded and dormant for approximately 22,000 years, dominates the northwestern two-thirds of the island. Piton de la Fournaise, whose eruptive history spans more than 530,000 years, occupies the southeastern third. The two volcanic edifices partly overlap, sharing a common base on the ocean floor that extends roughly 4,000 m (13,000 ft) below sea level.\n\nPiton de la Fournaise's structure has been shaped by three major eastward-directed flank collapses at approximately 250,000, 65,000, and less than 5,000 years ago. Each collapse left a progressively smaller caldera-like embayment opening toward the east and southeast. The innermost and youngest of these, the Enclos Fouqué caldera, is the amphitheatre-shaped depression approximately 9 km (5.6 mi) wide and 13 km (8 mi) from its western wall to the ocean where nearly all modern eruptions occur. Within this caldera, the 400-m-high Dolomieu lava shield — named after the French geologist Déodat de Dolomieu — represents the currently active summit cone.\n\nThe volcano's magma is overwhelmingly basaltic, with compositions ranging from olivine-rich picrite basalt to transitional basalt. This low-viscosity, low-silica magma explains the effusive character of most eruptions: lava flows emerge from fissures on the summit or flanks of Dolomieu and flow down the steep Grandes Pentes ('Great Slopes') toward the sea, occasionally entering the ocean in spectacular littoral explosions. Magma is stored at relatively shallow depths, typically 2–3 km beneath the summit, and is fed by a complex network of dikes and sills radiating from a central conduit."
+    },
+    "eruption_history_overview": {
+      "content": "Piton de la Fournaise has one of the most prolific eruption records of any volcano on Earth, with 203 eruptions documented in the Smithsonian Global Volcanism Program database spanning from approximately 2795 BCE to 2023 CE. Of these, 197 are classified as confirmed eruptions. The vast majority have been low-intensity effusive events producing basaltic lava flows within the Enclos Fouqué caldera, with <a href=\"/volcanic-explosivity-index\">VEI</a> values of 0–2.\n\nThe geological record reveals a single VEI 5 event around 2765 BCE, the most powerful known eruption of this volcano, though details are sparse. Historical records, beginning with the French colonization of Réunion in the mid-17th century, document an extraordinary frequency of activity: the volcano has erupted at least 180 times since 1640, with particularly intense periods in the 18th century (28 eruptions), the 19th century (53 eruptions), and the 20th century (72 eruptions). The 21st century has already seen 29 eruptions through 2023, maintaining the pace of roughly one eruption every 8–9 months.\n\nNotably, the volcano experienced a rare 5.5-year period of quiescence between April 1992 and March 1998, the longest dormancy in its recorded history. The subsequent 'reawakening' has been among the most active periods ever documented, including the dramatic 2007 caldera collapse of Dolomieu crater."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 1977 Eruption — Lava in the Village",
+          "content": "On March 24, 1977, Piton de la Fournaise produced one of its rare and dangerous eruptions outside the confines of the Enclos Fouqué caldera. Fissures opened on the northeast and southeast flanks of the Dolomieu cone and extended down the northeast rift zone beyond the caldera rim, sending fast-moving basaltic lava flows toward the village of Piton Sainte-Rose on the northeast coast. The lava flows, fed by eruption rates estimated at over 100 cubic meters per second in the early phases, advanced rapidly through agricultural land and reached the village within hours. Several houses were destroyed and the main coastal road (Route Nationale 2) was severed, though all residents were successfully evacuated with no fatalities. A local church, Notre-Dame des Laves, was famously encircled but spared by the lava flows, which split around the building and rejoined downslope — an event that locals have since interpreted as miraculous. The 1977 eruption was a stark reminder that while most activity at Piton de la Fournaise is safely contained within the caldera, eruptions outside the scarp pose a direct threat to the island's 860,000 residents."
+        },
+        {
+          "title": "The 1986 Eruption — Lava Reaches the Southeast Coast",
+          "content": "Beginning on November 12, 1986, a prolonged eruption sent lava flows from fissures within the Enclos Fouqué caldera down the southeast flank toward the coast. Unlike most eruptions that remain high on the slopes of Dolomieu, this event produced sustained effusion that fed flows down the Grandes Pentes and into the Grand Brûlé coastal plain. On March 19, 1986, a separate eruption had already opened fissures outside the caldera on the southeast rift zone near Piton Takamaka — the last extra-caldera eruption to date. The combined 1986 events added measurable new land to Réunion's southeastern coastline where lava entered the Indian Ocean, extending the island's area by several hectares."
+        },
+        {
+          "title": "The April 2007 Eruption and Dolomieu Crater Collapse",
+          "content": "The 2007 eruption of Piton de la Fournaise was the largest and most scientifically significant event at the volcano in over a century. Beginning on April 2, 2007, following a brief eruption inside Dolomieu crater, a major fissure opened at low elevation on the southeast flank at approximately 590 m (1,935 ft) above sea level — the lowest-altitude eruption since 1986. Over the following month, prodigious volumes of lava poured down the Grandes Pentes at peak effusion rates exceeding 200 cubic meters per second, making it the most voluminous eruption at Piton de la Fournaise since at least 1931. The total volume of lava erupted was estimated at approximately 150–200 million cubic meters.\n\nAs magma drained rapidly from the shallow reservoir beneath the summit, the floor of Dolomieu crater underwent catastrophic collapse. On April 5–6, 2007, the crater floor dropped approximately 340 m (1,115 ft), transforming the previously shallow summit depression into a deep, steep-walled pit roughly 1,100 m (3,600 ft) long and 700 m (2,300 ft) wide — one of the most dramatic caldera-collapse events ever observed and monitored in real time. The collapse generated a massive dust plume visible from across Réunion and was recorded by the OVPF seismic network as a series of dozens of discrete collapse events over approximately 30 hours. Lava flows reached the ocean on April 2, producing spectacular littoral explosions and extending the coastline by over 30 hectares of new land. The eruption continued until May 1, 2007. No fatalities or injuries occurred, though the Route Nationale was once again cut by lava flows."
+        },
+        {
+          "title": "The 2018–2023 Eruptions — Sustained High Activity",
+          "content": "The period from 2018 to 2023 exemplified Piton de la Fournaise's extraordinary eruption frequency, with 12 eruptions in six years. The April 2018 eruption opened fissures on the north side of the Enclos Fouqué, while subsequent eruptions in February 2019, June 2019, February 2020, December 2020, April 2021, December 2021–January 2022, September 2022, and July 2023 occurred at various locations on and around the Dolomieu cone. All were relatively short-lived effusive events, typically lasting days to weeks, with VEI 0 ratings. This cluster of activity reinforced Piton de la Fournaise's status as one of Earth's most reliably erupting volcanoes and provided volcanologists with an unparalleled dataset for studying the dynamics of basaltic magma storage and transport."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Piton de la Fournaise is classified as actively erupting by the Smithsonian Global Volcanism Program, with its most recent confirmed eruption beginning on July 2, 2023. The volcano is continuously monitored by the Observatoire Volcanologique du Piton de la Fournaise (OVPF), a field station of the Institut de Physique du Globe de Paris (IPGP), which operates one of the densest volcano monitoring networks in the world. The system includes over 70 permanent seismic stations, continuous GPS and InSAR ground deformation measurements, gas flux monitoring (SO₂ and CO₂), and real-time cameras providing visual surveillance of the summit and main eruption zones.\n\nThe OVPF has demonstrated a strong track record of eruption forecasting: seismic swarms and measurable inflation of the summit typically precede eruptions by hours to weeks, allowing authorities to issue warnings and close access to the Enclos Fouqué caldera well before lava appears. The Préfecture de La Réunion operates a four-level alert system (Vigilance, Alert 1, Alert 2, Eruption) that restricts public access to the caldera based on the current volcanic threat level. Given the volcano's pattern of roughly one eruption per year, another eruption is considered highly probable within the coming years."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The primary hazard from Piton de la Fournaise is basaltic lava flows, which can advance rapidly down the steep Grandes Pentes at speeds of 10–60 km/h (6–37 mph) depending on eruption rate and topography. The vast majority of eruptions are confined within the uninhabited Enclos Fouqué caldera and its eastern extension, the Grand Brûlé coastal plain, posing minimal direct risk to human life. However, lava flows routinely cut the Route Nationale 2, the only coastal road connecting the communities of Sainte-Rose and Saint-Philippe, isolating thousands of residents for days to weeks.\n\nThe most dangerous scenario is an eruption outside the Enclos Fouqué caldera — an event that has occurred only six times since 1708 (in 1708, 1774, 1776, 1800, 1977, and 1986) but one that directly threatens populated areas on the volcano's flanks. The 1977 eruption demonstrated that extra-caldera lava flows can reach coastal villages within hours. Approximately 5,000 people live in areas that could be affected by such eruptions. Additional hazards include volcanic gas emissions (SO₂ and HCl), which can cause respiratory problems downwind during sustained eruptions, and 'laze' (lava haze) — toxic plumes of hydrochloric acid and glass particles generated when lava enters the ocean. Ashfall is rare but can occur during more explosive phases. Landslide risk is also monitored, given the volcano's history of massive eastward flank collapses, though such events occur on timescales of tens of thousands of years."
+    },
+    "geography_and_physical_description": {
+      "content": "Piton de la Fournaise dominates the southeastern third of Réunion, a roughly circular volcanic island measuring 63 km (39 mi) by 45 km (28 mi) in the western Indian Ocean. The visible portion of the volcano rises from sea level to 2,632 m (8,635 ft) at the summit, but the full edifice extends approximately 4,000 m (13,000 ft) below sea level to the ocean floor, making the total height from base to summit roughly 6,600 m (21,650 ft) — comparable in scale to <a href=\"/volcano/mauna-loa\">Mauna Loa</a> in Hawai'i.\n\nThe volcano's surface is structured by three nested collapse scarps. The outermost, the Rivière des Remparts scarp, dates to approximately 250,000 years ago. Within it lies the Plaine des Sables, a stark, flat, desert-like plateau at approximately 2,350 m (7,710 ft) elevation that resembles a Martian landscape — so much so that it has been used as an analogue site for planetary research. Inside this lies the Enclos Fouqué caldera, whose steep western wall (the Rempart de Bellecombe) rises 100–200 m above the caldera floor and provides the primary viewing platform for visitors.\n\nThe summit of Piton de la Fournaise features two craters: the smaller Bory Crater to the west (named after the naturalist Jean-Baptiste Bory de Saint-Vincent, who explored the volcano in 1801) and the much larger Dolomieu Crater to the east. Since the dramatic collapse of April 2007, Dolomieu measures approximately 1,100 m (3,600 ft) in length, 700 m (2,300 ft) in width, and 340 m (1,115 ft) in depth. The eastern flanks descend steeply through the Grandes Pentes to the Grand Brûlé, a broad coastal fan built entirely from accumulated lava flows that regularly enters the sea."
+    },
+    "climate_and_global_impact": {
+      "content": "Piton de la Fournaise's eruptions have had negligible global climatic impact in recorded history. As a shield volcano producing fluid basaltic lava with low gas content relative to explosive arc volcanoes, its eruptions inject far less sulfur dioxide into the stratosphere than the climate-altering eruptions of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> (1991, VEI 6) or <a href=\"/volcano/tambora\">Tambora</a> (1815, VEI 7). The sole VEI 5 event, around 2765 BCE, may have had regional atmospheric effects, but no proxy records have been identified.\n\nLocally, however, the volcano significantly affects Réunion's air quality during eruptions. Prevailing trade winds from the east can carry volcanic fog ('vog') containing sulfur dioxide and fine particulate matter over populated areas in the southwest of the island, occasionally prompting public health advisories. The SO₂ emissions during the intense April 2007 eruption were detected by satellite instruments across the Indian Ocean basin."
+    },
+    "cultural_significance": {
+      "content": "Piton de la Fournaise holds deep cultural significance for the people of Réunion, a French overseas department whose identity is closely tied to its volcanic landscape. The volcano features prominently in local folklore, tourism marketing, and everyday life — eruptions are widely followed events, often greeted with a mixture of excitement and reverence rather than fear, thanks to the relative safety afforded by the Enclos Fouqué caldera.\n\nIn Réunionese Creole culture, the volcano is sometimes personified as 'the Furnace' or simply referred to with affectionate familiarity. The church of Notre-Dame des Laves in Piton Sainte-Rose, encircled but unharmed by the 1977 lava flow, has become a pilgrimage site and one of the most photographed landmarks on the island. The UNESCO World Heritage inscription of 2010 — 'Pitons, cirques and remparts of Réunion' — recognized the extraordinary geological and scenic value of the volcanic landscapes shared by Piton de la Fournaise and the older Piton des Neiges.\n\nScientifically, Piton de la Fournaise is considered one of the world's premier natural laboratories for studying basaltic volcanism. Its high eruption frequency, excellent monitoring infrastructure, and accessibility have made it a benchmark volcano for research into magma transport, lava flow dynamics, caldera formation, and volcanic gas geochemistry. The Réunion hotspot's connection to the Deccan Traps — one of the largest igneous provinces on Earth, whose eruption approximately 66 million years ago coincided with the end-Cretaceous mass extinction — gives the volcano added scientific significance as a window into deep-mantle processes."
+    },
+    "visiting_and_tourism": {
+      "content": "Piton de la Fournaise is the most-visited natural attraction on Réunion, drawing approximately 400,000 visitors per year to its summit area. The standard approach begins at the Pas de Bellecombe viewpoint (2,311 m / 7,582 ft), reached by a paved road from the town of Bourg-Murat. From there, a well-marked trail descends into the Enclos Fouqué caldera and ascends to the rim of Dolomieu Crater — a round trip of approximately 5 hours covering 11 km (6.8 mi) with 500 m (1,640 ft) of elevation gain. The trail offers dramatic views of recent lava flows, cinder cones, and the gaping Dolomieu pit.\n\nAccess to the caldera is controlled by the Préfecture de La Réunion and is closed during volcanic alert phases and eruptions. When eruptions occur within the caldera, authorized viewing points along the caldera rim (particularly at Piton de Bert) allow visitors to witness active lava flows from a safe distance — an experience that makes Piton de la Fournaise one of the few places on Earth where volcanic eruptions can be observed relatively safely and accessibly. The Cité du Volcan, a modern interactive museum and visitor center in Bourg-Murat, provides excellent educational exhibits on the volcano's geology, eruption history, and monitoring systems. Réunion is served by Roland Garros International Airport in the north of the island, with regular flights from Paris, Mauritius, and Madagascar."
+    },
+    "nearby_volcanoes": {
+      "content": "Réunion Island hosts one other major volcanic edifice: Piton des Neiges, the extinct shield volcano that rises to 3,069 m (10,069 ft) and forms the older, northwestern two-thirds of the island. Piton des Neiges last erupted approximately 22,000 years ago and is now deeply eroded into a spectacular landscape of three large cirques (Cilaos, Mafate, and Salazie) that are part of the same UNESCO World Heritage Site as Piton de la Fournaise. In the broader Indian Ocean context, the nearest active volcanic islands are in the <a href=\"/volcanoes-in-france\">French Southern Territories</a> — Île Amsterdam, approximately 3,000 km to the southeast. The Réunion hotspot is part of a global network of intraplate volcanic systems that also includes <a href=\"/volcano/kilauea\">Kīlauea</a> (Hawai'i hotspot) and the Galápagos Islands, each driven by deep-mantle plumes that produce prolific basaltic volcanism over oceanic crust."
+    },
+    "etymology": {
+      "content": "The name 'Piton de la Fournaise' is French for 'Peak of the Furnace,' a vivid reference to the volcano's constant fiery activity. 'Piton' is a French geographical term for a steep, pointed peak, widely used in the Mascarene Islands. The twin summit craters are named after French scientists: Bory Crater for the naturalist Jean-Baptiste Bory de Saint-Vincent, who made the first scientific ascent in 1801, and Dolomieu Crater for the geologist Déodat de Dolomieu, a pioneer in the study of volcanic rocks after whom the mineral dolomite is also named."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Piton de la Fournaise Compared to the World's Most Active Shield Volcanoes",
+      "description": "How does Piton de la Fournaise compare to other highly active basaltic shield volcanoes worldwide?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Tectonic Setting"
+      ],
+      "rows": [
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "2,632 m",
+          "Shield",
+          "2023",
+          "5",
+          "203",
+          "Hotspot"
+        ],
+        [
+          "Kīlauea",
+          "United States (Hawai'i)",
+          "1,222 m",
+          "Shield",
+          "2023",
+          "4",
+          "200+",
+          "Hotspot"
+        ],
+        [
+          "Mauna Loa",
+          "United States (Hawai'i)",
+          "4,170 m",
+          "Shield",
+          "2022",
+          "4",
+          "33",
+          "Hotspot"
+        ],
+        [
+          "Etna",
+          "Italy",
+          "3,357 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "190+",
+          "Subduction zone"
+        ],
+        [
+          "Stromboli",
+          "Italy",
+          "924 m",
+          "Stratovolcano",
+          "2025",
+          "3",
+          "100+",
+          "Subduction zone"
+        ],
+        [
+          "Nyiragongo",
+          "DR Congo",
+          "3,470 m",
+          "Stratovolcano",
+          "2021",
+          "1",
+          "17",
+          "Rift zone"
+        ]
+      ]
+    },
+    {
+      "title": "Piton de la Fournaise vs Other Hotspot Volcanoes",
+      "description": "Comparing the world's major intraplate hotspot volcanoes and their activity levels.",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Type",
+        "Eruption Frequency",
+        "VEI Max",
+        "Last Eruption",
+        "Monitoring Level"
+      ],
+      "rows": [
+        [
+          "Piton de la Fournaise",
+          "France (Réunion)",
+          "Shield",
+          "Every 8–9 months",
+          "5",
+          "2023",
+          "Excellent (OVPF)"
+        ],
+        [
+          "Kīlauea",
+          "United States",
+          "Shield",
+          "Near-continuous (1983–2018)",
+          "4",
+          "2023",
+          "Excellent (HVO)"
+        ],
+        [
+          "Mauna Loa",
+          "United States",
+          "Shield",
+          "Every 5–10 years",
+          "4",
+          "2022",
+          "Excellent (HVO)"
+        ],
+        [
+          "Fernandina",
+          "Ecuador (Galápagos)",
+          "Shield",
+          "Every 3–5 years",
+          "4",
+          "2024",
+          "Moderate"
+        ],
+        [
+          "Wolf",
+          "Ecuador (Galápagos)",
+          "Shield",
+          "Every 5–10 years",
+          "4",
+          "2022",
+          "Moderate"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -2795,
+      "vei": null,
+      "label": "Earliest confirmed eruption in geological record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2765,
+      "vei": 5,
+      "label": "Largest known eruption — VEI 5",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1640,
+      "vei": 0,
+      "label": "First historically recorded eruption after French colonization",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1708,
+      "vei": 0,
+      "label": "First recorded eruption outside the Enclos Fouqué caldera (NE rift zone)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1800,
+      "vei": 0,
+      "label": "Extra-caldera eruption on SE rift zone",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1977,
+      "vei": 0,
+      "label": "Lava reaches Piton Sainte-Rose, destroys houses, encircles church",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 1986,
+      "vei": 1,
+      "label": "Last extra-caldera eruption; lava reaches the southeast coast",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 1998,
+      "vei": 1,
+      "label": "Reawakening after longest historical dormancy (1992–1998)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2007,
+      "vei": 1,
+      "label": "Largest eruption in a century; Dolomieu crater collapses 340 m",
+      "deaths": 0,
+      "notable": true
+    },
+    {
+      "year": 2023,
+      "vei": 0,
+      "label": "Most recent eruption (July 2, 2023)",
+      "deaths": 0,
+      "notable": false
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric",
+      "count": 3,
+      "note": "Geological record only; earliest ~2795 BCE"
+    },
+    {
+      "century": "2nd",
+      "count": 1
+    },
+    {
+      "century": "5th",
+      "count": 1
+    },
+    {
+      "century": "7th",
+      "count": 1
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "14th",
+      "count": 1
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 6
+    },
+    {
+      "century": "18th",
+      "count": 28
+    },
+    {
+      "century": "19th",
+      "count": 53
+    },
+    {
+      "century": "20th",
+      "count": 72
+    },
+    {
+      "century": "21st",
+      "count": 29,
+      "note": "Through 2023"
+    }
+  ],
+  "facts": [
+    "Piton de la Fournaise has erupted 203 times in recorded history, making it one of the three most frequently erupting volcanoes on Earth alongside Kīlauea and Stromboli.",
+    "The volcano's Dolomieu Crater collapsed approximately 340 m (1,115 ft) during the April 2007 eruption — one of the most dramatic caldera-collapse events ever observed and monitored in real time.",
+    "The church of Notre-Dame des Laves in Piton Sainte-Rose was encircled but completely spared by the 1977 lava flow, which split around the building and rejoined downslope.",
+    "Piton de la Fournaise is the surface expression of the same deep-mantle hotspot that produced the Deccan Traps of India 66 million years ago, coinciding with the extinction of the dinosaurs.",
+    "The full height of the volcanic edifice from the ocean floor to the summit is approximately 6,600 m (21,650 ft), making it comparable in total size to Mauna Loa.",
+    "Between 1998 and 2023, the volcano erupted 40 times — an average of roughly one eruption every 7.5 months.",
+    "The Plaine des Sables, a desolate lava plateau on the western approach to the volcano, has been used as a Mars analogue site for planetary science research due to its barren, extraterrestrial appearance.",
+    "Only 6 of the volcano's 200+ historical eruptions have occurred outside the Enclos Fouqué caldera — yet these rare events pose the greatest risk to Réunion's 860,000 inhabitants.",
+    "During the April 2007 eruption, lava entering the Indian Ocean extended Réunion's coastline by over 30 hectares (74 acres) of new land.",
+    "The OVPF monitoring network includes over 70 permanent seismic stations, giving Piton de la Fournaise one of the densest monitoring arrays per unit area of any volcano on Earth.",
+    "The longest eruption-free interval in recorded history was 5.5 years (April 1992 to March 1998), an anomaly for a volcano that typically erupts at least once a year.",
+    "The mineral dolomite and the Dolomite mountains of Italy are named after Déodat de Dolomieu — the same scientist after whom the volcano's main crater is named."
+  ],
+  "faqs": [
+    {
+      "question": "Is Piton de la Fournaise still active?",
+      "answer": "Yes, Piton de la Fournaise is one of the most active volcanoes on Earth. It last erupted on July 2, 2023, and has averaged roughly one eruption every 8–9 months over the past three decades. The Smithsonian Global Volcanism Program classifies it as actively erupting. The volcano is continuously monitored by the OVPF observatory, which operates a dense network of seismometers, GPS stations, and gas sensors. Volcanologists consider another eruption highly probable within the near future, consistent with its centuries-long pattern of frequent effusive activity."
+    },
+    {
+      "question": "When did Piton de la Fournaise last erupt?",
+      "answer": "The most recent eruption began on July 2, 2023, from fissures north of Piton Vouvoul on the floor of the Enclos Fouqué caldera. Like most eruptions at this volcano, it was an effusive event producing basaltic lava flows and was rated VEI 0 on the Volcanic Explosivity Index. The eruption was preceded by seismic swarms and inflation detected by the OVPF monitoring network. Access to the caldera was closed before the eruption began, and no injuries or significant property damage occurred."
+    },
+    {
+      "question": "Is Piton de la Fournaise dangerous?",
+      "answer": "Piton de la Fournaise poses a relatively low risk compared to many active volcanoes, primarily because the vast majority of its eruptions are confined within the uninhabited Enclos Fouqué caldera. However, the volcano is not without danger. Rare eruptions outside the caldera — the most recent in 1977 and 1986 — have destroyed buildings and severed roads, directly threatening populated areas. Approximately 5,000 people live in potential hazard zones on the volcano's flanks. Additional risks include toxic volcanic gas, lava haze when flows enter the sea, and road closures isolating communities. The OVPF provides excellent early warning, significantly reducing the risk to life."
+    },
+    {
+      "question": "How many times has Piton de la Fournaise erupted?",
+      "answer": "The Smithsonian Global Volcanism Program records 203 eruptions of Piton de la Fournaise, of which 197 are confirmed. Historical records begin with French colonization in the mid-17th century. The geological record extends to approximately 2795 BCE. Since 1640, the volcano has averaged roughly one eruption every two years, though the pace has accelerated in recent decades to approximately one eruption every 8–9 months. This makes it one of the three most frequently erupting volcanoes on the planet, alongside Kīlauea in Hawai'i and Stromboli in Italy."
+    },
+    {
+      "question": "What type of volcano is Piton de la Fournaise?",
+      "answer": "Piton de la Fournaise is a basaltic shield volcano — a broad, gently sloping volcanic structure built primarily from fluid lava flows rather than explosive debris. It is similar in type to Kīlauea and Mauna Loa in Hawai'i. Shield volcanoes form over hotspots or at divergent plate boundaries where low-viscosity basaltic magma erupts effusively. Piton de la Fournaise sits over the Réunion hotspot, a deep-mantle plume that has been active for 66 million years. Its eruptions typically produce fast-flowing lava rivers and lava fountains rather than the explosive ash columns characteristic of stratovolcanoes."
+    },
+    {
+      "question": "Can you visit Piton de la Fournaise?",
+      "answer": "Yes, Piton de la Fournaise is the most popular natural attraction on Réunion Island, visited by approximately 400,000 people annually. The standard hiking trail starts at the Pas de Bellecombe viewpoint (2,311 m), accessible by paved road from Bourg-Murat. The round-trip hike to the rim of Dolomieu Crater takes about 5 hours and covers 11 km. Access is free but regulated — the caldera is closed during eruptions and elevated alert levels. The Cité du Volcan museum in Bourg-Murat provides an excellent introduction to the volcano's geology. Réunion is reached by air from Paris, Mauritius, or Madagascar."
+    },
+    {
+      "question": "How tall is Piton de la Fournaise?",
+      "answer": "Piton de la Fournaise rises to 2,632 m (8,635 ft) above sea level at its highest point on the rim of the summit craters. However, the visible cone represents only part of the volcanic edifice: the base of the shield extends approximately 4,000 m (13,000 ft) below sea level to the ocean floor, giving a total height from base to summit of roughly 6,600 m (21,650 ft). This makes it comparable in total size to Mauna Loa in Hawai'i. Piton de la Fournaise is the second-highest point on Réunion Island, after the neighboring Piton des Neiges at 3,069 m (10,069 ft)."
+    },
+    {
+      "question": "What happened during the 2007 eruption of Piton de la Fournaise?",
+      "answer": "The April 2007 eruption was the most significant event at Piton de la Fournaise in over a century. A large fissure opened at unusually low elevation (590 m) on the southeast flank, producing massive lava flows that reached the Indian Ocean and extended the coastline by over 30 hectares. As magma drained from beneath the summit, the floor of Dolomieu Crater collapsed approximately 340 m, creating a deep pit about 1,100 m long and 700 m wide. The total lava volume erupted was estimated at 150–200 million cubic meters. No fatalities occurred thanks to effective monitoring and evacuation."
+    }
+  ],
+  "people_also_search": [
+    "piton de la fournaise eruption",
+    "piton de la fournaise reunion island",
+    "most active volcanoes in the world",
+    "reunion island volcano",
+    "piton de la fournaise 2007 eruption",
+    "piton de la fournaise hike",
+    "shield volcano examples",
+    "piton de la fournaise vs kilauea"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Piton de la Fournaise",
+    "alternateName": [
+      "Peak of the Furnace",
+      "Le Volcan",
+      "La Fournaise"
+    ],
+    "description": "Massive active shield volcano on Réunion Island, France, one of the most frequently erupting volcanoes on Earth",
+    "geo": {
+      "latitude": -21.244,
+      "longitude": 55.708,
+      "elevation": 2632
+    },
+    "containedInPlace": {
+      "name": "Réunion Island",
+      "country": "France"
+    },
+    "url": "https://volcanoatlas.com/volcano/piton-de-la-fournaise"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=233020",
+      "text": "Smithsonian GVP: Piton de la Fournaise",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ipgp.fr/en/ovpf/piton-de-la-fournaise-volcanological-observatory",
+      "text": "OVPF — Piton de la Fournaise Volcanological Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Piton-de-la-Fournaise",
+      "text": "Britannica: Piton de la Fournaise",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1317",
+      "text": "UNESCO: Pitons, cirques and remparts of Réunion",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.reunion-national-park.com/",
+      "text": "Réunion National Park (Official)",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "stromboli",
+      "etna",
+      "mauna-loa",
+      "nyiragongo",
+      "pinatubo",
+      "tambora"
+    ],
+    "country_pages": [
+      "france"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "kilauea",
+    "mauna-loa",
+    "stromboli",
+    "etna",
+    "nyiragongo"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in France",
+      "url": "/volcanoes-in-france"
+    },
+    {
+      "label": "Piton de la Fournaise",
+      "url": "/volcano/piton-de-la-fournaise"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/piton-de-la-fournaise"
+}

@@ -1,0 +1,381 @@
+{
+  "slug": "soufriere-guadeloupe",
+  "volcano_id": 360060,
+  "title": "Soufrière Guadeloupe",
+  "meta_title": "Soufrière Guadeloupe — Eruption History, Status & Facts | VolcanoAtlas",
+  "meta_description": "La Soufrière de la Guadeloupe is a 1,467 m active stratovolcano on Basse-Terre. Explore its phreatic eruptions, the 1976 evacuation crisis, and current monitoring.",
+  "quick_answer": {
+    "what": "La Soufrière de la Guadeloupe is an active stratovolcano rising to 1,467 m (4,813 ft) at the southern end of Basse-Terre, the western island of the French overseas department of Guadeloupe in the Lesser Antilles.",
+    "status": "Active — last erupted 1976–1977 (phreatic). Persistent fumarolic activity with increasing gas flux since 2018.",
+    "famous_for": "The 1976–1977 phreatic eruption crisis that triggered the evacuation of 73,600 residents — one of the most controversial volcanic evacuations of the 20th century.",
+    "danger_level": "High — Basse-Terre (population ~15,000) sits directly below the volcano, and over 70,000 people live within the broader hazard zone."
+  },
+  "hero": {
+    "name": "Soufrière Guadeloupe",
+    "local_name": "La Soufrière de la Guadeloupe",
+    "subtitle": "The Caribbean's Most Controversial Volcanic Crisis",
+    "country": "France (Guadeloupe)",
+    "region": "Basse-Terre, Lesser Antilles",
+    "type": "Stratovolcano",
+    "elevation_m": 1467,
+    "elevation_ft": 4813,
+    "status": "Active",
+    "last_eruption": "1977",
+    "coordinates": {
+      "lat": 16.044,
+      "lon": -61.664
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04982.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "1,467 m (4,813 ft)",
+    "type": "Stratovolcano with summit lava dome",
+    "status": "Active — persistent fumarolic activity",
+    "last_eruption": "July 1976 – March 1977 (phreatic)",
+    "first_known_eruption": "~7490 BCE (geological); ~1530 CE (major magmatic); 1690 CE (first observed)",
+    "total_recorded_eruptions": 19,
+    "vei_max": "4 (~1530 CE)",
+    "country": "France (Guadeloupe)",
+    "region": "Lesser Antilles, Basse-Terre",
+    "tectonic_setting": "Subduction zone — North American Plate beneath Caribbean Plate",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "16.044°N, 61.664°W",
+    "nearest_city": "Basse-Terre — directly below the volcano (~3.5 km)",
+    "population_at_risk": "~70,000+ in southern Basse-Terre",
+    "summit_crater": "Flat-topped lava dome with radial fractures",
+    "protected_status": "Guadeloupe National Park",
+    "monitoring_agency": "Observatoire Volcanologique et Sismologique de Guadeloupe (OVSG-IPGP)",
+    "smithsonian_id": "360060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=360060"
+  },
+  "sections": {
+    "overview": {
+      "content": "La Soufrière de la Guadeloupe is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 1,467 m (4,813 ft) at the southern tip of Basse-Terre, the western half of the French Caribbean island of Guadeloupe in the Lesser Antilles volcanic arc. It is the highest point in the Lesser Antilles and one of the most closely monitored volcanoes in the Caribbean, watched over by the Observatoire Volcanologique et Sismologique de Guadeloupe (OVSG), a branch of the Institut de Physique du Globe de Paris (IPGP). The volcano is best known internationally for the controversial 1976–1977 crisis, when a phreatic eruption prompted the evacuation of 73,600 people from Basse-Terre and surrounding communities. Scientists divided sharply over whether a catastrophic magmatic eruption was imminent, and the absence of such an eruption fueled decades of debate about precautionary principles in volcanology. The volcano sits above the subduction zone where the North American Plate descends beneath the Caribbean Plate, part of the same tectonic system that feeds <a href=\"/volcano/pelee\">Mount Pelée</a> on Martinique (170 km south), whose 1902 eruption killed approximately 29,000 people. The geological record shows Soufrière Guadeloupe is capable of VEI 4 magmatic eruptions producing pyroclastic flows — the last such event occurred around 1530 CE — and increasing fumarolic activity since 2018 is being closely scrutinized for signs of renewed magmatic input."
+    },
+    "geology_and_formation": {
+      "content": "La Soufrière de la Guadeloupe is the youngest volcanic center on Basse-Terre island, itself built by successive eruptions over the past 3 million years. Construction of the Grand Découverte volcano began approximately 200,000 years ago, followed by a Plinian eruption and caldera formation about 100,000 years later. The Carmichaël volcano then grew within this caldera before two catastrophic flank collapses produced large debris avalanches approximately 11,500 and 3,100 years ago, forming the Carmichaël and Amic craters respectively. The present-day La Soufrière grew within the Amic crater, building a flat-topped andesitic lava dome surrounded by satellite domes on the southern flanks. The summit dome is cross-cut by radial fractures opened during repeated phreatic explosions — these serve as conduits for fumarolic emissions. The andesitic-to-basaltic andesitic composition reflects the subduction zone setting where hydrated oceanic crust melts as it descends beneath the Caribbean Plate."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian GVP records 19 eruptions spanning from approximately 7490 BCE to 1977 CE. The prehistoric record includes several magmatic eruptions with VEI up to 4, while all historical eruptions since 1690 CE have been phreatic — steam-driven events opening fractures across the summit dome without erupting fresh lava. The most significant prehistoric eruption around 1530 CE (VEI 4) produced pyroclastic flows and was the most recent event involving substantial magmatic material. The six observed phreatic eruptions since 1690 follow a consistent pattern: explosive steam emissions, fracturing of the summit dome, ejection of old rock, and enhanced fumarolic activity lasting months to years. This phreatic-dominant pattern distinguishes Soufrière Guadeloupe from most other Caribbean volcanoes and has significant implications for eruption forecasting."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~1530 CE Eruption — The Last Major Magmatic Event",
+          "content": "The most significant eruption at Soufrière Guadeloupe in recent millennia occurred around 1530 CE, prior to substantial European colonization. This VEI 4 event involved fresh magmatic material, producing pyroclastic flows that descended the flanks. It may have been associated with partial dome collapse. This eruption serves as the benchmark for current hazard planning — a repeat would have devastating consequences for Basse-Terre and surrounding communities, with pyroclastic flows potentially reaching the coast in minutes."
+        },
+        {
+          "title": "The 1976–1977 Crisis — Evacuation Without Eruption",
+          "content": "On July 8, 1976, Soufrière Guadeloupe began a phreatic eruption that would become one of the most controversial volcanic events of the 20th century. The eruption opened new fractures across the summit dome, ejecting steam, ash, and old rock fragments to heights of several kilometers, accompanied by strong earthquakes and increased fumarolic emissions. French volcanologists split into opposing camps: one group argued the eruption was purely phreatic and would subside; the other warned of potential catastrophic magmatic eruption similar to <a href=\"/volcano/pelee\">Mount Pelée's</a> 1902 disaster. On August 15, 1976, the prefect ordered the evacuation of Basse-Terre and surrounding zones — displacing 73,600 people for up to several months. The feared magmatic eruption never materialized; phreatic activity waned by March 1977. The aftermath sparked bitter debates about risk communication, the precautionary principle, and economic costs of evacuations. The crisis remains a foundational case study in volcanic crisis management."
+        },
+        {
+          "title": "Earlier Phreatic Eruptions (1690–1956)",
+          "content": "All observed eruptions since European colonization have been phreatic. The first documented event (April 5, 1690) opened fissures at Gouffre Dupuy and Gouffre Tarissan on the summit. Subsequent eruptions in 1797–1798, 1812, and 1836–1837 each involved steam explosions, ash ejection, and enhanced fumarolic activity. A small phreatic event at the Napoléon Crater was recorded in 1956. The consistency of this pattern has led some volcanologists to suggest the hydrothermal system acts as a pressure-relief mechanism, though others warn a sufficiently large magmatic intrusion could overwhelm it."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Soufrière Guadeloupe is continuously monitored by the OVSG with broadband seismometers, GPS and tiltmeters, MultiGAS instruments for real-time volcanic gas measurement (SO₂, H₂S, CO₂), thermal cameras, and gravity surveys. Since approximately 2018, the observatory has recorded a notable increase in fumarolic activity — elevated gas temperatures, increased chlorine and sulfur flux, and emergence of new fumarolic vents near the summit. Seismicity remains at low to moderate levels but includes periodic volcano-tectonic earthquake swarms. The volcanic alert level has remained at Green (Vigilance), though scientists emphasize upward trends in degassing merit close attention. The monitoring data do not indicate imminent eruption, but the system's demonstrated capacity for rapid escalation requires constant surveillance."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "La Soufrière poses significant hazards to approximately 70,000 people in southern Basse-Terre. The capital city sits just 3.5 km from the summit. Hazards include phreatic explosions (ballistic projectiles, ash), pyroclastic flows (in a magmatic scenario), lahars from tropical rainstorm mobilization of deposits, flank collapse and debris avalanches (two in the past 12,000 years), tephra fall, and volcanic gas emissions. The most dangerous scenario would be a 1530-type VEI 4 eruption — pyroclastic flows could reach Basse-Terre in minutes. French civil protection maintains updated evacuation plans, and the OVSG's monitoring is among the most advanced in the Caribbean. However, narrow roads and limited island land area present significant logistical evacuation challenges."
+    },
+    "geography_and_physical_description": {
+      "content": "The summit is a flat-topped andesitic lava dome rising above densely forested slopes of southern Basse-Terre. The summit area features pit craters (Gouffre Tarissan, Gouffre Dupuy, Napoléon Crater) and prominent fumarolic zones where sulfurous gases vent through fractures. The most active fumarolic area is Cratère Sud, where temperatures exceed 110°C. Several satellite lava domes occupy the southern flanks. Below the summit, tropical montane rainforest — part of Guadeloupe National Park — cloaks the slopes, grading into lowland forest near the coast. The volcano's steep western flank drops dramatically toward the Caribbean Sea, while the gentler eastern slopes descend toward the banana and sugarcane plantations of the Basse-Terre interior."
+    },
+    "cultural_significance": {
+      "content": "Soufrière Guadeloupe has shaped Guadeloupe's identity and history. The 1976 evacuation remains a defining event in the island's collective memory — it disrupted the economy, displaced a fifth of the population, and generated lasting distrust of both scientific institutions and government authorities. The word 'soufrière' (from the French soufre, meaning 'sulfur') recurs throughout the Caribbean volcanic islands, reflecting the widespread association of volcanic fumaroles with sulfur mining. The summit hike is a popular recreational activity for both locals and tourists, and the volcano features prominently in Guadeloupean art and literature. Guadeloupe National Park, which encompasses the volcano and surrounding forests, is one of the most visited national parks in the French overseas territories."
+    },
+    "visiting_and_tourism": {
+      "content": "The summit of Soufrière Guadeloupe is accessible via a well-maintained hiking trail from the Bains Jaunes parking area (approximately 1,100 m elevation). The ascent takes roughly 2–3 hours through dense tropical montane forest before emerging onto the barren summit dome, where fumarolic vents, sulfur deposits, and panoramic views of the Caribbean Sea, Basse-Terre, and neighboring islands reward hikers. The trail passes the historic Bains Jaunes (Yellow Baths) — natural hot springs warmed by volcanic heat — which are a popular stop. Conditions can change rapidly due to cloud cover, rain, and volcanic gas emissions; hikers should check with the national park and OVSG for current conditions and alert status. The nearby Carbet Falls, one of the highest waterfalls in the Caribbean, is another popular excursion in the national park."
+    },
+    "nearby_volcanoes": {
+      "content": "Soufrière Guadeloupe is part of the Lesser Antilles volcanic arc, one of the most volcanically active island chains in the Americas. Immediately to the south, <a href=\"/volcanoes-in-dominica\">Dominica</a> hosts several active volcanic centers including Morne Diablotins and the Valley of Desolation. <a href=\"/volcano/pelee\">Mount Pelée</a> on Martinique, 170 km to the south, is infamous for its catastrophic 1902 eruption. Further south, the Soufrière of St. Vincent erupted explosively in 2021, forcing the evacuation of approximately 20,000 people — a modern reminder of the ongoing volcanic threat across the Lesser Antilles. The chain also includes Soufrière Hills on Montserrat, which has been in a state of intermittent eruption since 1995."
+    },
+    "etymology": {
+      "content": "The name 'Soufrière' derives from the French word soufre, meaning 'sulfur,' and refers to the prominent sulfurous fumarolic activity on the summit. The name is shared by several other Caribbean volcanoes (Soufrière Hills in Montserrat, La Soufrière in St. Vincent), reflecting the common occurrence of sulfurous vents across the Lesser Antilles arc. The full name 'La Soufrière de la Guadeloupe' distinguishes it from these namesakes."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Soufrière Guadeloupe Compared to Other Lesser Antilles Volcanoes",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Soufrière Guadeloupe",
+          "France (Guadeloupe)",
+          "1,467 m",
+          "Stratovolcano",
+          "1977",
+          "4",
+          "19"
+        ],
+        [
+          "Mount Pelée",
+          "France (Martinique)",
+          "1,372 m",
+          "Stratovolcano",
+          "1932",
+          "4",
+          "54"
+        ],
+        [
+          "Soufrière St. Vincent",
+          "St. Vincent",
+          "1,220 m",
+          "Stratovolcano",
+          "2021",
+          "4",
+          "12"
+        ],
+        [
+          "Soufrière Hills",
+          "UK (Montserrat)",
+          "915 m",
+          "Stratovolcano",
+          "2013",
+          "3",
+          "6"
+        ],
+        [
+          "Morne Diablotins",
+          "Dominica",
+          "1,430 m",
+          "Stratovolcano",
+          "~500 CE",
+          "—",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7490,
+      "vei": null,
+      "label": "Earliest dated eruption in geological record",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1530,
+      "vei": 4,
+      "label": "Last major magmatic eruption — pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1690,
+      "vei": 1,
+      "label": "First historically observed phreatic eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1797,
+      "vei": 2,
+      "label": "Phreatic eruption — NNW summit dome",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1836,
+      "vei": 2,
+      "label": "Phreatic eruption — summit fractures",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1976,
+      "vei": 2,
+      "label": "Phreatic crisis — 73,600 evacuated from Basse-Terre",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-Holocene",
+      "count": 3
+    },
+    {
+      "century": "4th–1st millennium BCE",
+      "count": 5
+    },
+    {
+      "century": "1st millennium CE",
+      "count": 1
+    },
+    {
+      "century": "16th CE",
+      "count": 1,
+      "note": "VEI 4 magmatic"
+    },
+    {
+      "century": "17th CE",
+      "count": 2
+    },
+    {
+      "century": "18th CE",
+      "count": 1
+    },
+    {
+      "century": "19th CE",
+      "count": 2
+    },
+    {
+      "century": "20th CE",
+      "count": 2
+    }
+  ],
+  "facts": [
+    "The 1976 evacuation displaced 73,600 people — approximately one-fifth of Guadeloupe's population — for up to several months, making it one of the largest volcanic evacuations in Caribbean history.",
+    "At 1,467 m (4,813 ft), Soufrière Guadeloupe is the highest point in the Lesser Antilles island chain.",
+    "All six historically observed eruptions (since 1690) have been phreatic — steam explosions without fresh magma reaching the surface — but the geological record proves the system is capable of VEI 4 magmatic eruptions.",
+    "The city of Basse-Terre, the administrative capital of Guadeloupe, sits just 3.5 km from the summit, making it one of the most volcanically exposed capital cities in the world.",
+    "The 1976 crisis divided the French scientific community so bitterly that the debate between volcanologists Claude Allègre and Haroun Tazieff became a public scandal covered in the national press.",
+    "Since 2018, monitoring stations have recorded increasing fumarolic temperatures, gas flux, and the emergence of new vents near the summit — trends being closely watched by the OVSG.",
+    "The word 'soufrière' (from French soufre, 'sulfur') is used to name at least four different Caribbean volcanoes, reflecting the ubiquity of sulfurous fumaroles across the Lesser Antilles arc.",
+    "Two catastrophic flank collapses in the past 12,000 years generated debris avalanches that swept down to the coast, fundamentally reshaping the volcano's structure.",
+    "The geological record reveals that the most recent VEI 4 magmatic eruption (~1530 CE) occurred just 160 years before the first European observation of the volcano in 1690.",
+    "Guadeloupe National Park, which protects the volcano and its surrounding tropical montane forest, is one of the most visited national parks in France's overseas territories.",
+    "Soufrière Guadeloupe sits 170 km north of Mount Pelée on Martinique, whose 1902 eruption killed approximately 29,000 people — a catastrophe that weighs heavily on Caribbean volcanic risk planning.",
+    "The natural hot springs at Bains Jaunes ('Yellow Baths'), on the hiking trail to the summit, have been used for bathing since the colonial era and remain a popular stop for visitors."
+  ],
+  "faqs": [
+    {
+      "question": "Is Soufrière Guadeloupe still active?",
+      "answer": "Yes, La Soufrière de la Guadeloupe is classified as an active volcano. Although the most recent eruption (phreatic) occurred in 1976–1977, the volcano exhibits persistent fumarolic activity, periodic seismic swarms, and — since 2018 — increasing gas temperatures and flux from summit vents. These signs confirm the underlying hydrothermal and magmatic system remains active. The volcano is continuously monitored by the Observatoire Volcanologique et Sismologique de Guadeloupe (OVSG), and the volcanic alert level is at Green (Vigilance). Scientists consider future eruptions possible and maintain updated hazard assessments."
+    },
+    {
+      "question": "What happened in 1976 at Soufrière Guadeloupe?",
+      "answer": "On July 8, 1976, Soufrière Guadeloupe began a phreatic eruption — steam-driven explosions that ejected ash and old rock fragments but no fresh magma. Accompanied by strong earthquakes and increased gas emissions, the eruption triggered a heated scientific debate: some volcanologists warned of an imminent catastrophic magmatic eruption (like Mount Pelée in 1902), while others argued the activity was purely phreatic and manageable. On August 15, 1976, authorities ordered the evacuation of 73,600 people from Basse-Terre and surrounding areas. The feared magmatic eruption never occurred, and activity ceased by March 1977. The event remains a landmark case study in volcanic crisis management."
+    },
+    {
+      "question": "Could Soufrière Guadeloupe produce a dangerous eruption?",
+      "answer": "Yes. While all historically observed eruptions have been phreatic (steam-driven), the geological record demonstrates the volcano is capable of VEI 4 magmatic eruptions producing pyroclastic flows — the last such event occurred around 1530 CE. Additionally, the volcano has experienced two catastrophic flank collapses in the past 12,000 years. A magmatic eruption would pose extreme danger to Basse-Terre (population ~15,000), located just 3.5 km from the summit. Current increases in fumarolic activity are being monitored for signs of fresh magmatic input."
+    },
+    {
+      "question": "How tall is Soufrière Guadeloupe?",
+      "answer": "La Soufrière de la Guadeloupe stands 1,467 m (4,813 ft) above sea level, making it the highest point in the Lesser Antilles island chain and the highest peak in Guadeloupe. The summit is a flat-topped andesitic lava dome, cross-cut by fractures from repeated phreatic explosions. The volcano rises steeply from near sea level on the western coast of Basse-Terre, providing dramatic visual prominence relative to its moderate absolute elevation."
+    },
+    {
+      "question": "Can you hike Soufrière Guadeloupe?",
+      "answer": "Yes, the summit hike is one of the most popular outdoor activities in Guadeloupe. The trail begins at the Bains Jaunes parking area (approximately 1,100 m elevation) and ascends through tropical montane rainforest before reaching the barren summit dome in roughly 2–3 hours. At the summit, hikers encounter active fumarolic vents, sulfur deposits, and panoramic Caribbean views. The Bains Jaunes hot springs are a popular stop on the trail. Conditions can change rapidly due to weather and volcanic gas; visitors should check current conditions with the national park and OVSG before hiking."
+    },
+    {
+      "question": "What is the difference between Soufrière Guadeloupe and other Soufrière volcanoes?",
+      "answer": "The name 'Soufrière' (from French soufre, 'sulfur') is shared by multiple Caribbean volcanoes, which can cause confusion. Soufrière Guadeloupe (1,467 m) is on Basse-Terre in Guadeloupe and last erupted in 1977. Soufrière Hills (915 m) is on Montserrat and has been intermittently erupting since 1995, destroying the capital Plymouth. La Soufrière of St. Vincent (1,220 m) erupted explosively in 2021. All three are stratovolcanoes in the Lesser Antilles volcanic arc, and all share the common feature of sulfurous fumarolic activity that inspired their shared name."
+    },
+    {
+      "question": "Why was the 1976 evacuation controversial?",
+      "answer": "The evacuation of 73,600 people from Basse-Terre in August 1976 became controversial because the feared catastrophic magmatic eruption never materialized. The phreatic activity that triggered the evacuation waned and ceased by 1977 without fresh magma reaching the surface. Critics, including volcanologist Claude Allègre, argued the evacuation was unnecessary and economically devastating. Defenders, led by Haroun Tazieff, countered that the precautionary principle justified action given the potential for a Mount Pelée-type catastrophe (29,000 dead in 1902). The debate shaped how volcanic crises are managed worldwide and highlighted the challenge of communicating scientific uncertainty to the public."
+    },
+    {
+      "question": "Is Basse-Terre safe from volcanic eruption?",
+      "answer": "Basse-Terre, the administrative capital of Guadeloupe, is situated approximately 3.5 km from the summit of La Soufrière and lies within the volcano's high-risk hazard zone. In the event of a magmatic eruption producing pyroclastic flows — as occurred around 1530 CE — the city could be directly threatened. French civil protection authorities maintain evacuation plans for this scenario, and the OVSG provides continuous monitoring. While the current alert level is Green (Vigilance), the proximity of 15,000 residents to an active volcano represents one of the highest volcanic exposure levels of any capital city in the Caribbean."
+    }
+  ],
+  "people_also_search": [
+    "soufriere guadeloupe eruption",
+    "soufriere guadeloupe 1976",
+    "guadeloupe volcano hike",
+    "la soufriere volcano active",
+    "soufriere guadeloupe vs soufriere st vincent",
+    "basse terre volcano",
+    "guadeloupe volcano status",
+    "lesser antilles volcanoes"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Soufrière Guadeloupe",
+    "alternateName": [
+      "La Soufrière de la Guadeloupe"
+    ],
+    "description": "Active stratovolcano in Guadeloupe, French Caribbean, famous for the controversial 1976 evacuation crisis",
+    "geo": {
+      "latitude": 16.044,
+      "longitude": -61.664,
+      "elevation": 1467
+    },
+    "containedInPlace": {
+      "name": "Basse-Terre",
+      "country": "France (Guadeloupe)"
+    },
+    "url": "https://volcanoatlas.com/volcano/soufriere-guadeloupe"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=360060",
+      "text": "Smithsonian GVP: Soufrière Guadeloupe",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ipgp.fr/en/ovsg/observatoire-volcanologique-sismologique-guadeloupe",
+      "text": "OVSG-IPGP: Guadeloupe Volcano Observatory",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Basse-Terre-island-Guadeloupe",
+      "text": "Britannica: Basse-Terre",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "http://www.guadeloupe-parcnational.fr/",
+      "text": "Guadeloupe National Park (Official)",
+      "type": "tourism"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "pelee",
+      "soufriere-hills"
+    ],
+    "country_pages": [
+      "france",
+      "dominica"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "pelee",
+    "soufriere-st-vincent",
+    "soufriere-hills"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in France",
+      "url": "/volcanoes-in-france"
+    },
+    {
+      "label": "Soufrière Guadeloupe",
+      "url": "/volcano/soufriere-guadeloupe"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/soufriere-guadeloupe"
+}

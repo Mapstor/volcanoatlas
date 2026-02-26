@@ -1,0 +1,426 @@
+{
+  "slug": "portugal",
+  "title": "Volcanoes in Portugal",
+  "meta_title": "Volcanoes in Portugal — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Portugal has 13 Holocene volcanoes across the Azores and Madeira archipelagos. Full list with map, eruption history, VEI data, and travel guide.",
+  "quick_answer": {
+    "how_many": "Portugal has 13 Holocene volcanoes, virtually all located in the Azores archipelago, with one on Madeira Island.",
+    "how_many_active": "At least 10 have erupted during the Holocene. The most recent confirmed eruption was submarine near Terceira in 2000.",
+    "why": "The Azores sit at the triple junction of the North American, Eurasian, and African plates near the Mid-Atlantic Ridge.",
+    "tallest": "Pico at 2,351 m (7,713 ft) — the highest point in all of Portugal",
+    "most_recent": "Terceira (submarine, 2000) and Capelinhos/Fayal (1957–1958)"
+  },
+  "hero": {
+    "title": "Volcanoes in Portugal",
+    "subtitle": "13 Atlantic Volcanoes on the Azores–Mid-Atlantic Ridge",
+    "volcano_count": 13,
+    "active_count": 10,
+    "tallest": {
+      "name": "Pico",
+      "elevation_m": 2351
+    },
+    "most_recent_eruption": {
+      "volcano": "Terceira (submarine)",
+      "year": "2000"
+    }
+  },
+  "sections": {
+    "overview": {
+      "content": "Portugal has 13 Holocene volcanoes, nearly all in the Azores archipelago — a chain of nine volcanic islands in the central North Atlantic, approximately 1,500 km west of mainland Portugal. The Azores represent one of the most volcanically active regions in the Atlantic Ocean, with a history of explosive eruptions, destructive earthquakes, and island-building submarine volcanism spanning over 5,000 years. One additional system — [[volcano:madeira|Madeira]] — lies further south but has not erupted in ~6,500 years.\n\nThe Azores owe their existence to a complex tectonic setting at the triple junction of the North American, Eurasian, and African plates, where the Mid-Atlantic Ridge intersects with the Azores-Gibraltar Fracture Zone. This is not a [[special:ring-of-fire|Ring of Fire]] setting — the Azores are a rare example of oceanic rift volcanism combined with possible hotspot influence. The islands span the plate boundary, with Flores and Corvo on the North American Plate and the remaining seven on the Eurasian/African boundary.\n\nPortugal's volcanic record includes 79 confirmed eruptions, with VEI values reaching 5 at both [[volcano:agua-de-pau|Água de Pau]] (1563) and [[volcano:furnas|Furnas]] (1630) on São Miguel — the most powerful eruptions in the modern history of the Atlantic islands. [[volcano:pico|Pico]], at 2,351 m (7,713 ft), is the highest point in all of Portugal. The 1957–1958 Capelinhos eruption on [[volcano:fayal|Fayal]] and a submarine eruption near [[volcano:terceira|Terceira]] in 2000 demonstrate that the Azores remain volcanically alive. Monitoring is led by CIVISA and IVAR at the University of the Azores."
+    },
+    "why_volcanoes": {
+      "content": "The Azores occupy one of the most tectonically complex locations on Earth: the triple junction where the North American, Eurasian, and African plates meet in the central Atlantic. The Mid-Atlantic Ridge passes through the western Azores, while the Terceira Rift extends eastward accommodating Eurasian-African plate motion.\n\nThis combination of divergent and transform tectonics creates crustal thinning and magma generation sustaining volcanism across nine islands spanning 600 km. Some researchers propose an Azores hotspot providing additional deep heat, though this remains debated. Volcanic rocks range from basaltic (Pico, São Jorge) to evolved trachytic/rhyolitic (São Miguel's three caldera systems), explaining the range from effusive lava flows to violent Plinian explosions.\n\nMadeira sits on a separate intraplate hotspot track ~1,000 km southeast. It is a massive shield volcano rising ~6 km from the Atlantic floor, with its most recent eruption ~6,500 years ago."
+    },
+    "major_volcanoes": {
+      "content": "**Sete Cidades** — [[volcano:sete-cidades|Sete Cidades]] crowns western São Miguel with a 5-km-wide caldera containing famous twin lakes (one green, one blue). With 16 confirmed eruptions and VEI max of 4, it last erupted in 1880.\n\n**Água de Pau (Fogo)** — [[volcano:agua-de-pau|Água de Pau]] dominates central São Miguel, rising to 947 m with a 4 × 7 km caldera. Its VEI 5 eruption in 1563 was among the most powerful in Azorean history. The caldera lake Lagoa do Fogo is a nature reserve. 10 confirmed eruptions.\n\n**Furnas** — [[volcano:furnas|Furnas]] at eastern São Miguel is famous for hydrothermal activity, boiling mud pots, and the tradition of cooking 'cozido das Furnas' using volcanic heat. A devastating VEI 5 eruption in 1630 killed ~200 people. 9 confirmed eruptions.\n\n**Pico** — [[volcano:pico|Pico]] is Portugal's tallest point at 2,351 m (7,713 ft). This stratovolcano forms western Pico Island and last erupted in 1720 with basaltic lava flows. The surrounding UNESCO vineyards in lava-rock enclosures produce distinctive wines.\n\n**São Jorge** — [[volcano:sao-jorge|São Jorge]] is a 55-km-long island formed by fissure eruptions, one of the most elongated volcanic islands in the Atlantic. 10 confirmed eruptions, last in 1902. A 2022 seismic crisis raised concerns about potential renewed activity.\n\n**Terceira** — [[volcano:terceira|Terceira]] has 15 confirmed eruptions — the most of any Portuguese system — including a submarine eruption in 2000. Multiple stratovolcanoes are built along ESE-WNW fissure zones.\n\n**Fayal (Capelinhos)** — [[volcano:fayal|Fayal]]'s 1957–1958 Capelinhos eruption built a new volcanic peninsula over 13 months. The Surtseyan event destroyed villages and triggered mass Azorean emigration to the United States. The Capelinhos Interpretation Centre is now a premier tourist attraction.\n\n**Don João de Castro Bank** — This submarine volcano rises to within 13 m of the surface between Terceira and São Miguel. Its 1720 eruption temporarily created a small island."
+    },
+    "eruption_history": {
+      "content": "Portugal's 79 confirmed eruptions are concentrated in the Azores. The most powerful events occurred on São Miguel: Água de Pau's VEI 5 eruption (1563) and Furnas' VEI 5 event (1630, ~200 deaths). Sete Cidades has produced multiple VEI 4 eruptions, and its caldera formation deposited ignimbrites across western São Miguel.\n\nThe 1957–1958 Capelinhos eruption on Fayal is the most iconic modern event — a Surtseyan eruption that built a volcanic cone above sea level over 13 months, adding new land to the island. It was extensively photographed, becoming one of the best-documented eruptions of the 20th century. The devastation triggered a wave of Azorean emigration to the United States.\n\nThe VEI distribution shows 4 eruptions at VEI 5, 8 at VEI 4, and 7 at VEI 3 — demonstrating significant explosive capability despite the mid-ocean location. The 2000 submarine eruption near Terceira and the 2022 São Jorge seismic crisis confirm continued volcanic potential."
+    },
+    "volcanic_hazards": {
+      "content": "The Azores face combined volcanic and seismic hazards from their triple-junction setting. Explosive eruptions from São Miguel's evolved magma systems (Sete Cidades, Água de Pau, Furnas) pose the greatest volcanic threat — a repeat of the 1630 VEI 5 eruption could devastate eastern São Miguel. Submarine eruptions can generate tsunamis and Surtseyan explosions. Volcanic CO₂ emissions at Furnas are a chronic hazard.\n\nDestructive earthquakes are closely linked to volcanism: the 1980 Terceira quake (M 7.2, 73 deaths) and 1998 Fayal quake (M 6.2, 8 deaths) caused significant damage. CIVISA and IVAR monitor volcanic and seismic activity across the archipelago."
+    },
+    "volcanic_zones_map": {
+      "content": "Portugal's volcanoes span over 1,500 km of the Atlantic, from Flores (39.5°N, 31.2°W) to Madeira (32.7°N, 17.0°W). The Azores extend ~600 km WNW-ESE. The western group (Flores, Corvo) lies on the North American Plate west of the Mid-Atlantic Ridge. The central group (Fayal, Pico, São Jorge, Terceira, Graciosa) straddles the Terceira Rift. The eastern group on São Miguel contains the most explosively active systems. Madeira is a separate intraplate system."
+    },
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism is foundational to Azorean identity. The dramatic landscapes — caldera lakes, hot springs, lava fields — drive growing tourism. Furnas' cozido (volcanic stew) is an iconic culinary tradition. Pico's UNESCO wine culture in lava-rock enclosures reflects volcanic geology. Geothermal energy from São Miguel's Ribeira Grande plant provides renewable electricity. The Capelinhos centre tells the story of the 1957–1958 eruption and the emigration wave it triggered — reshaping the Portuguese-American diaspora."
+    },
+    "visiting_volcanoes": {
+      "content": "The Azores offer exceptional volcanic tourism in a temperate Atlantic setting. On São Miguel, visitors can explore [[volcano:sete-cidades|Sete Cidades]]' twin-lake caldera, hike to Lagoa do Fogo at Água de Pau, and experience Furnas' hot springs and volcanic stew tradition. The ascent of [[volcano:pico|Pico]] (2,351 m, 6–8 hours round trip) is the Azores' premier hiking challenge. On Fayal, the Capelinhos Volcano Interpretation Centre offers a world-class museum experience beside the lunar landscape of the 1957–1958 eruption site. São Jorge offers dramatic fajã coastal platforms formed by volcanic landslides. Spring and summer (May–September) provide the best weather. The Azores are well-served by direct flights from Lisbon, mainland Europe, and North America."
+    }
+  },
+  "volcano_table": {
+    "description": "Complete table of all 13 Holocene volcanoes in Portugal, sorted by elevation.",
+    "columns": [
+      "Rank",
+      "Name",
+      "Slug",
+      "Elevation (m)",
+      "Type",
+      "Last Eruption",
+      "Status",
+      "Eruption Count",
+      "VEI Max"
+    ],
+    "rows": [
+      [
+        1,
+        "Pico",
+        "pico",
+        2351,
+        "Stratovolcano",
+        1720,
+        "Holocene",
+        3,
+        2
+      ],
+      [
+        2,
+        "Madeira",
+        "madeira",
+        1862,
+        "Shield",
+        -4500,
+        "Holocene",
+        1,
+        null
+      ],
+      [
+        3,
+        "Sao Jorge",
+        "sao-jorge",
+        1053,
+        "Fissure vent",
+        1902,
+        "Active (historical)",
+        10,
+        3
+      ],
+      [
+        4,
+        "Fayal",
+        "fayal",
+        1041,
+        "Stratovolcano",
+        1958,
+        "Active (historical)",
+        2,
+        2
+      ],
+      [
+        5,
+        "Terceira",
+        "terceira",
+        1023,
+        "Stratovolcano(es)",
+        2000,
+        "Active (recent)",
+        15,
+        3
+      ],
+      [
+        6,
+        "Agua de Pau",
+        "agua-de-pau",
+        947,
+        "Stratovolcano",
+        1564,
+        "Holocene",
+        10,
+        5
+      ],
+      [
+        7,
+        "Flores",
+        "flores",
+        914,
+        "Stratovolcano(es)",
+        -950,
+        "Holocene",
+        2,
+        null
+      ],
+      [
+        8,
+        "Sete Cidades",
+        "sete-cidades",
+        842,
+        "Stratovolcano",
+        1880,
+        "Active (historical)",
+        16,
+        4
+      ],
+      [
+        9,
+        "Furnas",
+        "furnas",
+        805,
+        "Stratovolcano",
+        1630,
+        "Holocene",
+        9,
+        5
+      ],
+      [
+        10,
+        "Graciosa",
+        "graciosa",
+        402,
+        "Stratovolcano",
+        -1950,
+        "Holocene",
+        1,
+        null
+      ],
+      [
+        11,
+        "Picos Fissural Volcanic System",
+        "picos-fissural-volcanic-system",
+        350,
+        "Fissure vent",
+        1652,
+        "Holocene",
+        7,
+        2
+      ],
+      [
+        12,
+        "Don Joao de Castro Bank",
+        "don-joao-de-castro-bank",
+        -13,
+        "Shield",
+        1720,
+        "Holocene",
+        1,
+        3
+      ],
+      [
+        13,
+        "Monaco Bank",
+        "monaco-bank",
+        -197,
+        "Fissure vent",
+        1911,
+        "Active (historical)",
+        2,
+        1
+      ]
+    ]
+  },
+  "elevation_chart": [
+    {
+      "name": "Pico",
+      "elevation": 2351,
+      "slug": "pico"
+    },
+    {
+      "name": "Madeira",
+      "elevation": 1862,
+      "slug": "madeira"
+    },
+    {
+      "name": "Sao Jorge",
+      "elevation": 1053,
+      "slug": "sao-jorge"
+    },
+    {
+      "name": "Fayal",
+      "elevation": 1041,
+      "slug": "fayal"
+    },
+    {
+      "name": "Terceira",
+      "elevation": 1023,
+      "slug": "terceira"
+    },
+    {
+      "name": "Agua de Pau",
+      "elevation": 947,
+      "slug": "agua-de-pau"
+    },
+    {
+      "name": "Flores",
+      "elevation": 914,
+      "slug": "flores"
+    },
+    {
+      "name": "Sete Cidades",
+      "elevation": 842,
+      "slug": "sete-cidades"
+    },
+    {
+      "name": "Furnas",
+      "elevation": 805,
+      "slug": "furnas"
+    },
+    {
+      "name": "Graciosa",
+      "elevation": 402,
+      "slug": "graciosa"
+    },
+    {
+      "name": "Picos Fissural Volcanic System",
+      "elevation": 350,
+      "slug": "picos-fissural-volcanic-system"
+    }
+  ],
+  "vei_distribution": [
+    {
+      "vei": 0,
+      "count": 7
+    },
+    {
+      "vei": 1,
+      "count": 2
+    },
+    {
+      "vei": 2,
+      "count": 15
+    },
+    {
+      "vei": 3,
+      "count": 7
+    },
+    {
+      "vei": 4,
+      "count": 8
+    },
+    {
+      "vei": 5,
+      "count": 4
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": 1444,
+      "volcano": "Sete Cidades",
+      "vei": 4,
+      "label": "Major explosive eruption on São Miguel"
+    },
+    {
+      "year": 1563,
+      "volcano": "Água de Pau",
+      "vei": 5,
+      "label": "One of the most powerful eruptions in Azorean history"
+    },
+    {
+      "year": 1630,
+      "volcano": "Furnas",
+      "vei": 5,
+      "label": "Devastating eruption killed ~200 people on São Miguel"
+    },
+    {
+      "year": 1720,
+      "volcano": "Pico",
+      "vei": 2,
+      "label": "Lava flows reach the sea on Portugal's tallest volcano"
+    },
+    {
+      "year": 1880,
+      "volcano": "Sete Cidades",
+      "vei": 1,
+      "label": "Most recent eruption at Sete Cidades"
+    },
+    {
+      "year": 1958,
+      "volcano": "Fayal (Capelinhos)",
+      "vei": 2,
+      "label": "Surtseyan eruption builds new land — triggers Azorean emigration"
+    },
+    {
+      "year": 2000,
+      "volcano": "Terceira",
+      "vei": 0,
+      "label": "Submarine eruption — most recent volcanic activity in Portugal"
+    }
+  ],
+  "facts": [
+    "Pico volcano at 2,351 m is the highest point in all of Portugal — taller than any mountain on the European mainland of the country.",
+    "The Azores sit at the only triple junction on Earth where three major tectonic plates meet above the ocean surface.",
+    "Furnas' 1630 eruption killed approximately 200 people — the deadliest volcanic event in Portuguese history.",
+    "The 1957–1958 Capelinhos eruption on Fayal triggered a wave of Azorean emigration to the United States; the U.S. Azorean Refugee Act of 1958 was passed specifically to accommodate these refugees.",
+    "Sete Cidades' caldera contains twin lakes — one green and one blue — that are among the most photographed landscapes in the Atlantic.",
+    "Locals at Furnas cook 'cozido das Furnas,' a traditional stew, by burying pots in volcanically heated ground for 6–7 hours.",
+    "Portugal has 4 eruptions at VEI 5 — more than many countries with larger volcanic systems — concentrated at the evolved magma systems of São Miguel.",
+    "Pico Island's UNESCO-listed vineyards are cultivated in lava-rock-walled enclosures (currais), a unique viticultural tradition born from volcanic geology.",
+    "Don João de Castro Bank, a submarine volcano, temporarily created a new island during its 1720 eruption before waves eroded it away.",
+    "The Azores experience a volcanic eruption approximately every 50–100 years, but destructive earthquakes occur much more frequently.",
+    "São Jorge Island is one of the most elongated volcanic islands in the Atlantic — 55 km long but only 6.5 km wide — formed entirely by fissure eruptions.",
+    "Terceira has the most confirmed eruptions (15) of any Portuguese volcanic system and hosts one of Europe's best-preserved volcanic calderas."
+  ],
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Portugal?",
+      "answer": "Portugal has 13 Holocene volcanoes in the Smithsonian database. Twelve are in the Azores archipelago in the mid-Atlantic, and one (Madeira) lies further south. The Azores are among the most volcanically active islands in the Atlantic Ocean. Different sources may cite different numbers depending on whether they count individual islands, calderas, or fissure systems separately."
+    },
+    {
+      "question": "Does mainland Portugal have volcanoes?",
+      "answer": "No, mainland Portugal has no active volcanoes. All of Portugal's Holocene volcanism is located in its Atlantic island territories — the Azores and Madeira. The Portuguese mainland is situated on stable continental crust. The nearest volcanic activity to the mainland is in the Azores, approximately 1,500 km to the west."
+    },
+    {
+      "question": "When was the last volcanic eruption in Portugal?",
+      "answer": "The most recent confirmed volcanic eruption in Portugal was a submarine event near Terceira Island in the Azores in 2000 (VEI 0). The most recent significant eruption was the Capelinhos event on Fayal Island in 1957–1958, which built a new volcanic peninsula over 13 months and triggered mass emigration."
+    },
+    {
+      "question": "What is the tallest volcano in Portugal?",
+      "answer": "Pico is Portugal's tallest volcano and the highest point in the entire country at 2,351 m (7,713 ft). It is a basaltic stratovolcano forming the western end of Pico Island in the central Azores. Pico last erupted in 1720 with lava flows that reached the sea."
+    },
+    {
+      "question": "Are the Azores volcanoes dangerous?",
+      "answer": "Yes. The Azores have produced eruptions up to VEI 5, including the 1630 Furnas eruption that killed approximately 200 people. São Miguel's three caldera systems (Sete Cidades, Água de Pau, Furnas) are capable of significant explosive eruptions. Seismic hazards are also high — destructive earthquakes struck Terceira in 1980 (73 deaths) and Fayal in 1998 (8 deaths). CIVISA and IVAR provide continuous monitoring."
+    },
+    {
+      "question": "Can you visit volcanoes in the Azores?",
+      "answer": "Yes, the Azores are one of Europe's best volcanic tourism destinations. Visitors can explore Sete Cidades' twin-lake caldera, bathe in Furnas' hot springs, climb Pico (6–8 hour hike), and visit the Capelinhos Interpretation Centre on Fayal. The islands are accessible via direct flights from Lisbon, mainland Europe, and North America. Spring through fall (May–September) offers the best weather."
+    },
+    {
+      "question": "Why do the Azores have volcanoes?",
+      "answer": "The Azores sit at the triple junction where the North American, Eurasian, and African tectonic plates meet in the mid-Atlantic, near the Mid-Atlantic Ridge. This complex tectonic setting — combining divergent spreading, transform faulting, and possibly a mantle hotspot — creates the conditions for sustained volcanism. The islands literally straddle the boundary between tectonic plates."
+    },
+    {
+      "question": "What is the Capelinhos eruption?",
+      "answer": "The Capelinhos eruption (1957–1958) was a Surtseyan volcanic event off the western tip of Fayal Island that built a new volcanic peninsula over 13 months. It destroyed nearby villages with ash, triggered the emigration of thousands of Azoreans to the United States, and prompted the U.S. Azorean Refugee Act of 1958. The eruption site and interpretation centre are now one of the Azores' top tourist attractions."
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/search_volcano.cfm",
+      "text": "Smithsonian GVP: Global Volcano Database",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.civisa.azores.gov.pt/",
+      "text": "CIVISA — Azores Seismo-Volcanic Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Azores",
+      "text": "Britannica: Azores",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "related_countries": [
+    "spain",
+    "iceland",
+    "italy",
+    "greece"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Portugal",
+      "url": "/volcanoes-in-portugal"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

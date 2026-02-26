@@ -1,0 +1,345 @@
+{
+  "slug": "michoacan-guanajuato",
+  "volcano_id": 341060,
+  "title": "Michoacán-Guanajuato Volcanic Field",
+  "meta_title": "Michoacán-Guanajuato — Parícutin, Jorullo & 1,400+ Vents | VolcanoAtlas",
+  "meta_description": "The Michoacán-Guanajuato volcanic field spans 200x250 km in Mexico with 1,400+ vents including Parícutin and Jorullo. Full eruption history and guide.",
+  "quick_answer": {
+    "what": "The Michoacán-Guanajuato volcanic field is a vast monogenetic volcanic field spanning approximately 200 x 250 km in west-central Mexico, containing over 1,400 vents — predominantly cinder cones — including the famous historically active volcanoes Parícutin and Jorullo.",
+    "status": "Active — last erupted 1943-1952 (Parícutin). With over 1,400 vents, future eruptions are considered likely but could emerge from any point within the field.",
+    "famous_for": "Parícutin, which grew from a cornfield in 1943 and is the only volcano whose entire life cycle was witnessed by scientists. Also home to Jorullo, which erupted from 1759-1774.",
+    "danger_level": "Moderate to high — millions of people live within and around the volcanic field. A new eruption could emerge anywhere within the 50,000 km² field with limited precursory time."
+  },
+  "hero": {
+    "name": "Michoacán-Guanajuato Volcanic Field",
+    "local_name": "Campo Volcánico Michoacán-Guanajuato",
+    "subtitle": "The Birthplace of Parícutin — 1,400 Volcanoes in One Field",
+    "country": "Mexico",
+    "region": "Michoacán-Guanajuato",
+    "type": "Volcanic field",
+    "elevation_m": 3860,
+    "elevation_ft": 12664,
+    "status": "Active",
+    "last_eruption": "1943-1952 (Parícutin)",
+    "coordinates": {
+      "lat": 19.85,
+      "lon": -101.75
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05804.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "3,860 m (12,664 ft) — highest point in the field",
+    "type": "Volcanic field (monogenetic)",
+    "status": "Active",
+    "last_eruption": "1943-1952 (Parícutin cinder cone)",
+    "first_known_eruption": "~7350 BCE",
+    "total_recorded_eruptions": 11,
+    "vei_max": "4 (Jorullo 1759-1774; Parícutin 1943-1952)",
+    "country": "Mexico",
+    "region": "Michoacán and Guanajuato states, Trans-Mexican Volcanic Belt",
+    "tectonic_setting": "Subduction zone — Cocos Plate beneath North American Plate, continental crust (> 25 km)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "19.85°N, 101.75°W",
+    "field_dimensions": "200 x 250 km (~50,000 km²)",
+    "number_of_vents": "Over 1,400",
+    "monitoring_agency": "UNAM / CENAPRED",
+    "smithsonian_id": "341060",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=341060"
+  },
+  "sections": {
+    "overview": {
+      "content": "The Michoacán-Guanajuato volcanic field is one of the most extensive monogenetic <a href=\"/types-of-volcanoes\">volcanic fields</a> on Earth, spanning approximately 200 x 250 km (50,000 km²) across the states of Michoacán and Guanajuato in west-central <a href=\"/volcanoes-in-mexico\">Mexico</a>. It contains over 1,400 individual volcanic vents — predominantly cinder cones, but also small shield volcanoes, lava domes, maars, tuff rings, and coneless lava flows. The field lies within the Trans-Mexican Volcanic Belt, a 1,200-km-long chain of volcanoes driven by the subduction of the Cocos Plate beneath the North American Plate. The field is most famous for two extraordinary historical eruptions: Jorullo (1759-1774), one of the first volcanic eruptions in the Americas to be scientifically documented, visited by Alexander von Humboldt in 1803; and Parícutin (1943-1952), the cinder cone that grew from a farmer's cornfield and is the only volcano in recorded history whose entire life cycle — from birth to extinction — was observed by scientists. Both historical eruptions reached <a href=\"/volcanic-explosivity-index\">VEI</a> 4. The defining characteristic of monogenetic volcanic fields is that each eruption typically creates a new vent rather than reusing an existing one, meaning the next eruption could theoretically emerge from any location within the field."
+    },
+    "geology_and_formation": {
+      "content": "The Michoacán-Guanajuato volcanic field exists because of the subduction of the Cocos Plate beneath the North American Plate at the Middle America Trench. The field sits within the Trans-Mexican Volcanic Belt (TMVB), an unusual volcanic arc that runs east-west rather than parallel to the trench — a geometry attributed to the oblique and variable geometry of the subducting Cocos slab. The thick continental crust (> 25 km) beneath the field influences magma composition, producing predominantly andesitic to basaltic-andesitic lavas. The field is classified as monogenetic, meaning each eruption tends to produce a new volcanic vent rather than building upon an existing one. This contrasts with polygenetic volcanoes like nearby <a href=\"/volcano/colima\">Volcán de Colima</a> or <a href=\"/volcano/popocatepetl\">Popocatépetl</a>, which erupt repeatedly from the same vent. Cinder cones are the dominant volcanic landform, typically 100-400 m tall, built by Strombolian eruptions. Small shield volcanoes, mostly Pleistocene in age, have higher slope angles and smaller basal diameters than classic Hawaiian shields. The Valle de Santiago area contains maars and tuff rings — explosion craters formed by magma-water interaction."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian GVP database records 11 eruptions for the Michoacán-Guanajuato field, spanning from approximately 7350 BCE to 1952 CE. Prehistoric eruptions are identified through geological mapping and radiocarbon dating. The oldest dated events include eruptions at Hoyo el Huanillo (~7350 BCE, VEI 3), Cerro la Taza (~6480 BCE, VEI 3), and several subsequent events at various named cones through the Holocene. The two historical eruptions — Jorullo (1759-1774) and Parícutin (1943-1952) — are among the best-documented volcanic events in Mexican history. Both reached VEI 4. The field has been quiet since Parícutin ceased erupting in 1952, a period of over 70 years, but the vast number of vents and the field's long geological history make future eruptions a certainty on geological timescales."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "Parícutin (1943-1952) — The Volcano Born in a Cornfield",
+          "content": "On February 20, 1943, farmer Dionisio Pulido witnessed the ground cracking open in his cornfield near the Purépecha village of Parícutin in Michoacán state. Within hours, a volcanic fissure was ejecting lava and ash. Within a week, a cinder cone had risen 50 m. Parícutin grew rapidly, reaching approximately 336 m above the original field level by 1952, when the eruption ended. Over its nine-year life, the volcano produced both explosive Strombolian-to-Vulcanian activity (building the cinder cone) and effusive lava flows that covered approximately 25 km² of surrounding land. The eruption was classified at VEI 4. The lava flows completely buried the villages of Parícutin and San Juan Parangaricutiro — today, only the church tower of San Juan's Templo de San Juan Parangaricutiro protrudes above the solidified lava, creating one of Mexico's most iconic and haunting images. Three people were killed by lightning associated with the eruption's ash plume. More than 4,000 residents were displaced. The eruption drew scientists from around the world and produced one of the most comprehensive observational records in volcanology. Parícutin is frequently listed as one of the Seven Natural Wonders of the World and remains the only volcano in human history whose complete lifespan has been documented from birth to cessation."
+        },
+        {
+          "title": "Jorullo (1759-1774) — Humboldt's Volcano",
+          "content": "On September 29, 1759, a new volcano began erupting from agricultural land near the hacienda of Jorullo in southern Michoacán. The eruption lasted 15 years, building a cinder cone rising approximately 250 m above the surrounding terrain and producing extensive lava flows. Classified at VEI 4, Jorullo was one of the most significant volcanic events in colonial-era Mexico. The eruption was documented by eyewitnesses and later studied in detail by the famous naturalist Alexander von Humboldt, who visited the still-steaming volcano in 1803 during his scientific expedition across Latin America. Humboldt's detailed observations and illustrations brought Jorullo international scientific attention and contributed to early understanding of volcanic processes. The eruption displaced local communities and buried productive agricultural land under lava and tephra."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "The Michoacán-Guanajuato volcanic field has been quiet since Parícutin's eruption ended in 1952 — a period exceeding 70 years. However, the field is not considered dormant. With over 1,400 vents built over thousands of years, and two major eruptions in the last 265 years, the probability of a future eruption within the field is significant. CENAPRED (Centro Nacional de Prevención de Desastres) and UNAM (Universidad Nacional Autónoma de México) conduct research and monitoring across the Trans-Mexican Volcanic Belt, though continuous surveillance of a 50,000 km² volcanic field is inherently challenging. The fundamental difficulty with monogenetic fields is that the next eruption will likely create a new vent at a previously non-volcanic location, potentially with only days to weeks of precursory seismicity."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The Michoacán-Guanajuato field presents unique hazard challenges. Unlike a single stratovolcano with a defined summit and established hazard zones, a monogenetic field can produce a new eruption at any point within its 50,000 km² extent. This makes hazard mapping extremely difficult. The primary hazards include lava flows (which buried two villages during the Parícutin eruption), tephra fall, ballistic projectiles near the vent, and volcanic gases. Millions of people live in the cities and towns of Michoacán and Guanajuato, including the state capitals of Morelia (population ~900,000) and Guanajuato city. Smaller towns and farming communities are distributed throughout the field. The Parícutin eruption demonstrated that a new cinder cone eruption can produce lava flows extending several kilometers from the vent, potentially threatening any community within range. Agricultural disruption is also a major concern — ashfall and lava flows would destroy crops and grazing land in one of Mexico's important farming regions."
+    },
+    "geography_and_physical_description": {
+      "content": "The Michoacán-Guanajuato volcanic field covers approximately 50,000 km² across west-central Mexico, spanning parts of the states of Michoacán and Guanajuato. The field's highest point reaches 3,860 m (12,664 ft). The landscape is a rolling volcanic terrain studded with over 1,400 cinder cones, lava flows, small shield volcanoes, and explosion craters. The cones range from a few tens of meters to over 300 m in height. The Valle de Santiago in the northeastern part of the field contains a dramatic cluster of maars — nearly circular explosion craters, several of which are filled with lakes that have become local landmarks and ecological reserves. The climate varies with elevation from warm temperate in the lower valleys to cool in the highlands. Much of the field is agricultural land, producing avocados (Michoacán is the world's largest avocado-producing region), berries, grain, and livestock. Pine-oak forests cover the higher elevations."
+    },
+    "cultural_significance": {
+      "content": "Parícutin holds an iconic place in Mexican culture and global geological heritage. The half-buried church of San Juan Parangaricutiro — its tower rising from a field of black lava — is one of Mexico's most photographed landmarks and a powerful symbol of nature's destructive force. The Purépecha indigenous communities displaced by the eruption resettled in nearby areas, and their descendants maintain strong cultural ties to the volcanic landscape. Parícutin has been listed among the Seven Natural Wonders of the World in various compilations and is a pilgrimage site for geology students worldwide. Jorullo, visited by Humboldt, holds a place in the history of science as one of the sites that helped early naturalists understand volcanism. The broader volcanic field is integral to the identity of rural Michoacán, where the cinder cone landscape shapes agriculture, water resources, and community life. The fertile volcanic soils are partly responsible for the region's agricultural productivity."
+    },
+    "visiting_and_tourism": {
+      "content": "Parícutin is the primary tourist destination within the volcanic field, accessible from the town of Angahuan, approximately 30 km west of Uruapan, Michoacán. Visitors can hike or ride horseback (approximately 2 hours each way) across the lava field to the buried church of San Juan Parangaricutiro, and more ambitious hikers can ascend Parícutin's cinder cone summit for panoramic views. Local Purépecha guides offer tours from Angahuan. The Valle de Santiago maars are another attraction, with the crater lakes accessible by car from the city of Valle de Santiago. The broader region offers cultural tourism including the colonial city of Pátzcuaro, the Purépecha craft traditions of the Lake Pátzcuaro area, and the state capital of Morelia, a UNESCO World Heritage Site. The best visiting conditions are during the dry season (November-April)."
+    },
+    "nearby_volcanoes": {
+      "content": "The Michoacán-Guanajuato field sits within the Trans-Mexican Volcanic Belt alongside several major polygenetic volcanoes. <a href=\"/volcano/colima\">Volcán de Colima</a>, Mexico's most active stratovolcano, lies to the southwest. <a href=\"/volcano/popocatepetl\">Popocatépetl</a>, the massive active stratovolcano visible from Mexico City, is to the east. <a href=\"/volcano/tacana\">Tacaná</a>, on the Mexico-Guatemala border, marks the southeastern extent of Mexican volcanism. The Trans-Mexican Volcanic Belt also includes Nevado de Toluca, Pico de Orizaba (Mexico's highest peak), and the Chichinautzin volcanic field near Mexico City."
+    },
+    "etymology": {
+      "content": "The field takes its name from the two Mexican states it spans: Michoacán (from Purépecha 'Michamacuan,' meaning 'place of fishermen') and Guanajuato (from Purépecha 'Kuanasi-uato,' meaning 'hilly place of frogs'). Parícutin is named after the Purépecha village near which it erupted. Jorullo takes its name from the hacienda 'Xorullo' on whose land the volcano emerged in 1759."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Michoacán-Guanajuato Compared to Other Major Volcanic Fields",
+      "description": "How does this volcanic field compare to other large monogenetic fields worldwide?",
+      "headers": [
+        "Volcanic Field",
+        "Country",
+        "Area",
+        "Vent Count",
+        "Last Eruption",
+        "VEI Max"
+      ],
+      "rows": [
+        [
+          "Michoacán-Guanajuato",
+          "Mexico",
+          "~50,000 km²",
+          "1,400+",
+          "1943-1952",
+          "4"
+        ],
+        [
+          "Auckland Volcanic Field",
+          "New Zealand",
+          "~360 km²",
+          "~53",
+          "~1450 CE",
+          "4"
+        ],
+        [
+          "Chichinautzin",
+          "Mexico",
+          "~2,500 km²",
+          "~220",
+          "~280 BCE",
+          "4"
+        ],
+        [
+          "Eifel Volcanic Field",
+          "Germany",
+          "~600 km²",
+          "~240",
+          "~8530 BCE",
+          "5"
+        ],
+        [
+          "Harrat Rahat",
+          "Saudi Arabia",
+          "~20,000 km²",
+          "~700",
+          "1256 CE",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7350,
+      "vei": 3,
+      "label": "Hoyo el Huanillo eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -6480,
+      "vei": 3,
+      "label": "Cerro la Taza eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2750,
+      "vei": 3,
+      "label": "Cerro el Metate eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1880,
+      "vei": 3,
+      "label": "Cerro el Jabalí eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1759,
+      "vei": 4,
+      "label": "Jorullo — 15-year eruption; later visited by Humboldt",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1943,
+      "vei": 4,
+      "label": "Parícutin — born in a cornfield; 9-year eruption buries two villages",
+      "deaths": "3",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 9,
+      "note": "Multiple cones and maars from ~7350 BCE onward"
+    },
+    {
+      "century": "18th",
+      "count": 1,
+      "note": "Jorullo (1759-1774)"
+    },
+    {
+      "century": "20th",
+      "count": 1,
+      "note": "Parícutin (1943-1952)"
+    }
+  ],
+  "facts": [
+    "Parícutin is the only volcano in recorded history whose entire life cycle — from birth in a cornfield on February 20, 1943, to cessation in 1952 — was observed and documented by scientists.",
+    "The Michoacán-Guanajuato volcanic field contains over 1,400 individual volcanic vents spread across approximately 50,000 km² — one of the densest concentrations of monogenetic volcanoes on Earth.",
+    "The half-buried church tower of San Juan Parangaricutiro, protruding from Parícutin's lava field, is one of Mexico's most iconic images and a symbol of volcanic destruction.",
+    "Alexander von Humboldt visited Jorullo in 1803 during his famous scientific expedition, making it one of the first volcanoes in the Americas to receive detailed scientific documentation.",
+    "Parícutin grew from flat ground to 336 m tall in just nine years, producing lava flows that covered approximately 25 km² and buried two villages completely.",
+    "Both Jorullo (1759) and Parícutin (1943) reached VEI 4, making them among the most powerful monogenetic eruptions recorded anywhere in the world.",
+    "The Valle de Santiago area in the northeastern part of the field contains spectacular maars — nearly circular explosion craters, several now filled with lakes.",
+    "Three people died during the Parícutin eruption, all killed by lightning generated within the volcanic ash plume rather than by lava or tephra.",
+    "Michoacán is the world's largest avocado-producing region — the fertile volcanic soils of the field contribute to the area's extraordinary agricultural productivity.",
+    "The next eruption in the field could emerge from any point within 50,000 km², making hazard prediction uniquely challenging compared to single-vent volcanoes."
+  ],
+  "faqs": [
+    {
+      "question": "Could a new volcano appear in the Michoacán-Guanajuato field?",
+      "answer": "Yes, a new volcanic eruption within the field is considered very likely on geological timescales. Monogenetic volcanic fields produce new vents with each eruption rather than reusing existing ones. With over 1,400 vents built over thousands of years and two major eruptions in the last 265 years (Jorullo in 1759 and Parícutin in 1943), the field is clearly active. The next eruption could emerge at any location within the approximately 50,000 km² field. Precursory seismicity would likely provide days to weeks of warning, but predicting the exact location in advance is currently impossible."
+    },
+    {
+      "question": "What happened at Parícutin?",
+      "answer": "On February 20, 1943, farmer Dionisio Pulido watched a fissure open in his cornfield near the village of Parícutin in Michoacán, Mexico. Within hours, lava and ash were erupting. The new cinder cone grew rapidly — 50 m in the first week, eventually reaching 336 m. Over nine years of continuous eruption (ending in 1952), lava flows buried two villages including San Juan Parangaricutiro, whose church tower still protrudes above the lava. Approximately 4,000 people were displaced. Three people died from lightning strikes in the eruption plume. The eruption was classified at VEI 4."
+    },
+    {
+      "question": "Can you visit Parícutin volcano?",
+      "answer": "Yes, Parícutin is a popular tourist and geological destination. Visitors typically start from the town of Angahuan, about 30 km west of Uruapan, Michoacán. From Angahuan, a 2-hour hike or horseback ride across the lava field leads to the buried church of San Juan Parangaricutiro. More adventurous visitors can climb Parícutin's cinder cone summit for panoramic views of the lava field and surrounding volcanic landscape. Local Purépecha guides offer tours. The best visiting season is November through April (the dry season)."
+    },
+    {
+      "question": "What is a monogenetic volcanic field?",
+      "answer": "A monogenetic volcanic field is a type of volcanic system where each eruption typically creates a new vent at a different location rather than erupting repeatedly from the same crater. This produces a landscape scattered with many small volcanic features — cinder cones, maars, lava flows, and small shields — rather than a single large volcano. The Michoacán-Guanajuato field, with over 1,400 vents, is one of the world's largest examples. This contrasts with polygenetic volcanoes like Mount Etna or Popocatépetl, which build up over thousands of eruptions from the same vent."
+    },
+    {
+      "question": "How big is the Michoacán-Guanajuato volcanic field?",
+      "answer": "The field covers approximately 200 x 250 km (50,000 km²) across the states of Michoacán and Guanajuato in west-central Mexico, making it one of the largest monogenetic volcanic fields on Earth. For comparison, this is roughly the size of Costa Rica. Within this vast area, over 1,400 individual volcanic vents have been identified. The highest point in the field reaches 3,860 m (12,664 ft). The field encompasses cities, towns, agricultural land, and forests."
+    },
+    {
+      "question": "What was the Jorullo eruption?",
+      "answer": "Jorullo was a cinder cone volcano that erupted from September 29, 1759, through 1774 — a 15-year eruption that was one of the most significant volcanic events in colonial-era Mexico. The eruption built a cone approximately 250 m tall and produced extensive lava flows from agricultural land. It was classified at VEI 4. The famous naturalist Alexander von Humboldt visited the still-steaming volcano in 1803 and published detailed observations, bringing Jorullo to international scientific attention and contributing to early understanding of volcanic processes."
+    }
+  ],
+  "people_also_search": [
+    "paricutin volcano",
+    "volcano born in cornfield",
+    "jorullo volcano",
+    "michoacan volcanoes mexico",
+    "san juan parangaricutiro church",
+    "paricutin eruption 1943",
+    "monogenetic volcanic field"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Michoacán-Guanajuato Volcanic Field",
+    "alternateName": [
+      "Campo Volcánico Michoacán-Guanajuato",
+      "Parícutin Volcanic Field"
+    ],
+    "description": "Vast monogenetic volcanic field in Mexico with over 1,400 vents including the famous Parícutin and Jorullo cinder cones",
+    "geo": {
+      "latitude": 19.85,
+      "longitude": -101.75,
+      "elevation": 3860
+    },
+    "containedInPlace": {
+      "name": "Michoacán-Guanajuato",
+      "country": "Mexico"
+    },
+    "url": "https://volcanoatlas.com/volcano/michoacan-guanajuato"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=341060",
+      "text": "Smithsonian GVP: Michoacán-Guanajuato",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.gob.mx/cenapred",
+      "text": "CENAPRED — Mexico National Disaster Prevention Center",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Paricutin",
+      "text": "Britannica: Parícutin",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "colima",
+      "popocatepetl",
+      "tacana"
+    ],
+    "country_pages": [
+      "mexico"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "colima",
+    "popocatepetl",
+    "tacana",
+    "chichinautzin",
+    "nevado-de-toluca"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Mexico",
+      "url": "/volcanoes-in-mexico"
+    },
+    {
+      "label": "Michoacán-Guanajuato",
+      "url": "/volcano/michoacan-guanajuato"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/michoacan-guanajuato"
+}

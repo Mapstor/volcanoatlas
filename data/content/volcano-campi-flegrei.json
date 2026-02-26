@@ -1,0 +1,428 @@
+{
+  "slug": "campi-flegrei",
+  "volcano_id": 211010,
+  "title": "Campi Flegrei",
+  "meta_title": "Campi Flegrei — Eruption History, Supervolcano Risk & Facts | VolcanoAtlas",
+  "meta_description": "Campi Flegrei is a 13-km-wide active caldera supervolcano near Naples, Italy. Explore its eruption history, current bradyseism crisis, and why 1.5 million people live in its hazard zone.",
+  "quick_answer": {
+    "what": "Campi Flegrei (Phlegraean Fields) is a 13-km-wide active caldera system in Campania, southern Italy, partially underlying the western suburbs of Naples and extending beneath the Gulf of Pozzuoli.",
+    "status": "Active — last erupted in 1538 (Monte Nuovo). Currently experiencing an ongoing bradyseismic crisis with significant ground uplift and increased seismicity since 2005.",
+    "famous_for": "Two of the largest explosive eruptions in European history: the Campanian Ignimbrite (~36,000 BP, VEI 7) and the Neapolitan Yellow Tuff (~15,000 BP). Classified as a supervolcano capable of VEI 7+ events.",
+    "danger_level": "Extremely high — approximately 1.5 million people live within the caldera and its immediate surroundings, making it one of the most dangerous volcanic systems on Earth."
+  },
+  "hero": {
+    "name": "Campi Flegrei",
+    "local_name": "Campi Flegrei (Phlegraean Fields)",
+    "subtitle": "Europe's Supervolcano Beneath Naples",
+    "country": "Italy",
+    "region": "Campania",
+    "type": "Caldera",
+    "elevation_m": 458,
+    "elevation_ft": 1503,
+    "status": "Active",
+    "last_eruption": "1538",
+    "coordinates": {
+      "lat": 40.827,
+      "lon": 14.139
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01511.jpg",
+    "photo_credit": "Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "458 m (1,503 ft) at Monte Nuovo — highest point of recent activity",
+    "type": "Caldera (supervolcano)",
+    "status": "Active — ongoing bradyseismic unrest",
+    "last_eruption": "September 29 – October 6, 1538 (Monte Nuovo)",
+    "first_known_eruption": "~47,000 BP (earliest known products); ~36,000 BP (Campanian Ignimbrite)",
+    "total_recorded_eruptions": 20,
+    "vei_max": "5 (Agnano Monte Spina, ~2150 BCE); caldera-forming events estimated at VEI 7",
+    "country": "Italy",
+    "region": "Campania, Gulf of Naples / Gulf of Pozzuoli",
+    "tectonic_setting": "Subduction zone — African Plate beneath Eurasian Plate / continental crust",
+    "rock_types": [
+      "Trachyte",
+      "Trachydacite"
+    ],
+    "coordinates": "40.827°N, 14.139°E",
+    "nearest_city": "Naples — partially within the caldera; Pozzuoli at its center",
+    "population_at_risk": "~1.5 million within the caldera and immediate hazard zone; ~3 million in the broader Naples metro",
+    "summit_crater": "No single summit — caldera is 13 km wide with 24+ eruptive centers",
+    "protected_status": "Campi Flegrei Regional Park",
+    "monitoring_agency": "Osservatorio Vesuviano — INGV (Istituto Nazionale di Geofisica e Vulcanologia)",
+    "smithsonian_id": "211010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=211010"
+  },
+  "sections": {
+    "overview": {
+      "content": "Campi Flegrei (Italian for 'Burning Fields,' from the Greek Phlegra) is a 13-km-wide active caldera system in Campania, southern <a href=\"/volcanoes-in-italy\">Italy</a>, centered on the city of Pozzuoli and extending westward from the suburbs of Naples beneath the Gulf of Pozzuoli. It is one of the most dangerous volcanic systems on Earth, with approximately 1.5 million people living directly within its caldera boundaries and another 1.5 million in the broader Naples metropolitan area. Unlike a single cone-shaped volcano such as nearby <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> — just 15 km (9 mi) to the east — Campi Flegrei is a sprawling volcanic field containing at least 24 craters, monogenetic vents, and thermal areas distributed across a landscape so flat that many residents are unaware they live inside a <a href=\"/types-of-volcanoes\">caldera</a>. The system has produced two of the largest explosive eruptions in European history: the Campanian Ignimbrite approximately 36,000 years ago (estimated VEI 7, one of the largest eruptions of the past 200,000 years) and the Neapolitan Yellow Tuff about 15,000 years ago. Since 2005, Campi Flegrei has experienced an accelerating bradyseismic crisis — episodic ground uplift driven by magmatic and hydrothermal processes — that has raised the center of Pozzuoli by more than 1.1 m, triggered thousands of earthquakes, and prompted Italian civil protection authorities to raise the alert level to Yellow (Attention) in 2012. The system is continuously monitored by the Osservatorio Vesuviano, one of the world's oldest volcanological observatories, and is frequently cited alongside <a href=\"/supervolcanoes\">Yellowstone</a> as one of the world's most concerning supervolcanic systems."
+    },
+    "geology_and_formation": {
+      "content": "Campi Flegrei sits within the Campanian volcanic arc, a chain of volcanic centers generated by the subduction of the African Plate beneath the Eurasian Plate along the Tyrrhenian Sea margin. The caldera's geological history spans at least 47,000 years, beginning with early trachytic eruptions that built up volcanic deposits across the region. The first caldera-forming event — the Campanian Ignimbrite eruption approximately 36,000 years ago — was catastrophic on a continental scale. This VEI 7 event ejected an estimated 200–300 km³ of material, depositing thick ignimbrite sheets across an area of more than 30,000 km² and producing ash that has been identified in sediment cores from the eastern Mediterranean to Russia. It is among the most powerful volcanic eruptions in Europe during the Quaternary period. The second major caldera collapse occurred approximately 15,000 years ago with the eruption of the Neapolitan Yellow Tuff (NYT), which ejected over 40 km³ of material and created much of the present caldera structure. Following the NYT eruption, volcanism continued from dozens of scattered vents within and around the caldera during three main eruptive periods: 15,000–9,500 BP, 8,600–8,200 BP, and 4,800–3,800 BP. The magmatic system is characterized by trachytic to phonolitic compositions, gas-rich and viscous — a combination that favors explosive eruptions. Geophysical surveys reveal a large, partially molten magma body at depths of 7–8 km, with a shallower hydrothermal system at 2–3 km that drives the ongoing bradyseismic unrest."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program records 20 eruptions for Campi Flegrei, spanning from approximately 8480 BCE to 1538 CE. This record dramatically understates the system's true eruptive frequency, as the two caldera-forming super-eruptions (~36,000 BP and ~15,000 BP) predate the Holocene database, and dozens of smaller eruptions during the three major eruptive periods have been identified through geological mapping but are grouped in the record. The most intense period of post-NYT activity occurred between roughly 4,800 and 3,800 BP (the 'Third Epoch'), which produced the most powerful Holocene eruption at Campi Flegrei — the Agnano Monte Spina event (~2150 BCE, <a href=\"/volcanic-explosivity-index\">VEI</a> 5). After approximately 1,650 BCE, the caldera entered a prolonged dormancy broken only by two eruptions in historical times: a small event at Solfatara around 1198 CE and the formation of Monte Nuovo in 1538. The current repose period of nearly 500 years is the longest in the caldera's post-NYT history, raising scientific concern about the potential for a future eruption of significant magnitude."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Campanian Ignimbrite (~36,000 BP) — Europe's Largest Known Eruption",
+          "content": "The Campanian Ignimbrite eruption, approximately 36,000 years ago, was the most powerful volcanic event in Europe during the late Quaternary and one of the largest eruptions globally in the past 200,000 years. Estimated at VEI 7, it ejected 200–300 km³ of material — pyroclastic flows traveled up to 80 km from the vent, and ash deposits have been identified across the entire Mediterranean basin, in Russian lake sediments, and in Greenland ice cores. The eruption caused the initial caldera collapse at Campi Flegrei. Some researchers have hypothesized that the resulting 'volcanic winter' — a period of reduced global temperatures due to stratospheric sulfate aerosols — may have contributed to the final decline of Neanderthal populations in Europe, though this theory remains debated. The Campanian Ignimbrite remains a key stratigraphic marker for Mediterranean geology and is used to correlate archaeological and geological records across southern Europe."
+        },
+        {
+          "title": "The Neapolitan Yellow Tuff (~15,000 BP) — The Second Caldera Collapse",
+          "content": "Approximately 15,000 years ago, Campi Flegrei experienced its second major caldera-forming eruption, producing the Neapolitan Yellow Tuff (NYT). This event ejected over 40 km³ of trachytic material, generating massive pyroclastic flows and reshaping the caldera to roughly its present-day dimensions. The distinctive yellow tuff deposits from this eruption form the bedrock beneath much of Naples and Pozzuoli — indeed, many of the city's historic buildings and catacombs are carved into this soft volcanic rock. The NYT eruption established the 13-km-wide caldera that would host all subsequent volcanic activity and, eventually, one of Europe's most densely populated metropolitan areas."
+        },
+        {
+          "title": "The Agnano Monte Spina Eruption (~2150 BCE) — Holocene Maximum",
+          "content": "The largest eruption at Campi Flegrei during the Holocene epoch, the Agnano Monte Spina event around 2150 BCE, reached VEI 5 — comparable in scale to the famous 79 AD eruption of Vesuvius. This sub-Plinian explosion generated pyroclastic flows that extended several kilometers from the vent in the eastern part of the caldera, depositing thick layers of pumice and ash. The eruption is significant for hazard assessment because it demonstrates that Campi Flegrei is capable of highly destructive eruptions from vents that could open anywhere within the caldera — including areas now densely populated."
+        },
+        {
+          "title": "The 1538 Eruption of Monte Nuovo — The Most Recent Event",
+          "content": "The most recent eruption at Campi Flegrei began on September 29, 1538, after a period of notable precursory uplift that had raised the land around Pozzuoli by several meters over the preceding decades. The week-long VEI 3 eruption opened a new vent on the western shore of the former Lake Avernus (the lake mythologized in Virgil's Aeneid as the entrance to the underworld), building the 130-m-tall Monte Nuovo cinder cone — 'New Mountain' — in just eight days. It was a relatively small eruption by Campi Flegrei's standards, but it killed approximately 24 people (including observers who ventured too close) and destroyed the village of Tripergole. Monte Nuovo was the first eruption witnessed and documented at Campi Flegrei in the modern era, and its formation was preceded by ground deformation patterns remarkably similar to what is being observed in the current bradyseismic crisis."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Campi Flegrei is currently experiencing a protracted bradyseismic crisis — a phenomenon of ground uplift driven by pressure changes in the shallow hydrothermal and magmatic system beneath the caldera. Since 2005, the center of Pozzuoli has risen by more than 1.1 m (3.6 ft), with uplift accelerating in 2023–2024 to rates exceeding 15 mm per month. This ongoing deformation is accompanied by thousands of small earthquakes, the strongest of which — a magnitude 4.2 event on September 27, 2023, and a magnitude 4.4 on May 20, 2024 — were the most powerful recorded at Campi Flegrei in over 40 years. The Italian civil protection agency (Dipartimento della Protezione Civile) raised the volcanic alert level from Green (Base) to Yellow (Attention) in December 2012, where it remains. The Osservatorio Vesuviano, a branch of INGV, monitors the caldera with an extensive network of seismometers, GPS stations, tiltmeters, gravimeters, gas sampling stations (measuring CO₂ and H₂S flux at Solfatara), and satellite InSAR imagery. Scientific opinion is divided on whether the current unrest will culminate in an eruption: some models suggest magma is intruding at shallow depths (~3 km), while others attribute the uplift primarily to heating and pressurization of the hydrothermal system. Italian authorities have updated emergency evacuation plans for the 'zona rossa' (red zone), which encompasses approximately 500,000 residents in Pozzuoli, Bacoli, Monte di Procida, and parts of Naples."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Campi Flegrei presents one of the highest volcanic risks of any location on Earth due to the combination of its explosive potential and the extreme population density within and around the caldera. The primary hazards include pyroclastic flows and surges (which could reach densely populated areas within minutes of eruption onset), tephra fall (which could blanket Naples in ash depending on wind direction), volcanic gas emissions (CO₂ already poses localized hazards at Solfatara, where a family of three died from gas inhalation in 2017), ground deformation causing structural damage to buildings and infrastructure, and potential tsunamis in the Gulf of Pozzuoli from caldera floor displacement. A VEI 4–5 eruption — well within the system's demonstrated capability — would likely require the evacuation of 500,000 or more people from the red zone, with potential disruption to the entire Naples metropolitan area of 3 million. The Italian government's Piano Nazionale di Emergenza includes phased evacuation plans, designated assembly points, and pre-assigned destinations in other Italian regions for evacuees. However, exercises and simulations have revealed significant logistical challenges, particularly regarding road capacity, public awareness, and the time required for mass evacuation. Campi Flegrei is ranked alongside <a href=\"/volcano/vesuvius\">Vesuvius</a>, <a href=\"/volcano/merapi\">Merapi</a>, and <a href=\"/volcano/popocatepetl\">Popocatépetl</a> among the world's highest-risk volcanic systems."
+    },
+    "geography_and_physical_description": {
+      "content": "Campi Flegrei's 13-km-wide caldera is a remarkably subtle topographic feature — unlike the dramatic cones of Vesuvius or Etna, the caldera rim barely rises above the surrounding terrain, and much of it has been obscured by urban development. The caldera's eastern boundary runs through the western suburbs of Naples, its southern edge lies beneath the Gulf of Pozzuoli, and its western margin extends past Cape Miseno to the islands of Procida and Ischia. Within the caldera, at least 24 monogenetic craters and domes are distributed across a landscape of low hills, lakes, and fumarolic fields. The most notable features include the Solfatara crater (a shallow maar with vigorous fumarolic activity and boiling mud pools), Lake Avernus (a flooded maar crater associated with Virgil's entrance to the underworld), Monte Nuovo (the cinder cone formed in 1538), the Astroni crater (now a nature reserve), and the Pisciarelli area (where fumarolic temperatures have risen sharply in recent years). The highest point within the caldera is the rim of the Camaldoli hill at 458 m (1,503 ft)."
+    },
+    "climate_and_global_impact": {
+      "content": "The Campanian Ignimbrite eruption of ~36,000 BP had significant global climatic consequences, injecting massive quantities of sulfur dioxide into the stratosphere and contributing to a pronounced cooling period recorded in ice core and paleoclimate records. Some researchers have argued that this 'volcanic winter' lasted several years and may have played a role in the decline of Neanderthal populations across Europe, though competing hypotheses (climate change, competition with anatomically modern humans) are also well supported. If Campi Flegrei were to produce another VEI 6–7 eruption, the climatic impact would be comparable to or exceeding that of the 1815 eruption of <a href=\"/volcano/tambora\">Tambora</a> (which caused the 'Year Without a Summer'), representing a significant global hazard. Even a more modest VEI 4–5 eruption would have severe regional impacts on European aviation, agriculture, and air quality."
+    },
+    "cultural_significance": {
+      "content": "Campi Flegrei has been central to human culture for millennia. The ancient Greeks established their first colony on the Italian mainland at Cumae, on the caldera's western rim, around 750 BCE. The Romans developed the area extensively — Puteoli (modern Pozzuoli) became one of the empire's busiest ports, and the region's thermal springs supported luxury bathhouses. Lake Avernus, a flooded maar crater, was identified by Virgil in the Aeneid as the entrance to the underworld — a literary association that has endured for over two millennia. The Solfatara crater, with its sulfurous fumes and bubbling mud, was long associated with the entrance to Hell and was a required stop on the Grand Tour of Europe in the 18th and 19th centuries. The phenomenon of bradyseism has been recognized since Roman times: the columns of the so-called 'Temple of Serapis' (actually the Macellum of Pozzuoli, a Roman marketplace) bear marine bivalve boreholes up to 7 m above their bases, providing a dramatic visual record of centuries of land uplift and subsidence. Today, Campi Flegrei Regional Park protects many of the caldera's most significant geological and archaeological sites."
+    },
+    "visiting_and_tourism": {
+      "content": "Campi Flegrei is easily accessible from Naples, with local Cumana railway and metro connections to Pozzuoli, Baia, and other towns within the caldera. Key visitor sites include the Solfatara crater (currently closed to visitors since the 2017 fatalities, with reopening plans under discussion), the archaeological park of Baia (with submerged Roman ruins visible by glass-bottom boat), the Flavian Amphitheatre in Pozzuoli (the third-largest in the Roman world), the Sibyl's Cave at Cumae, and Monte Nuovo nature reserve. The Macellum of Pozzuoli, with its famous bradyseism-marked columns, is another highlight. Unlike Vesuvius, Campi Flegrei is not a single summit to climb but a sprawling landscape to explore — visitors should plan a full day or more to appreciate the caldera's geological and cultural richness. The best time to visit is spring (April–June) or autumn (September–October), when temperatures are mild and tourist crowds are lighter."
+    },
+    "nearby_volcanoes": {
+      "content": "Campi Flegrei is part of the densely volcanic Campanian arc, which includes <a href=\"/volcano/vesuvius\">Mount Vesuvius</a> just 15 km to the east — the only active volcano on the European mainland — and the volcanic island of Ischia, 30 km to the west, which last erupted in 1302. Together, these three systems make the Bay of Naples region one of the most volcanically hazardous areas in the world, with the combined threat zone encompassing over 3 million people. Further south, <a href=\"/volcano/stromboli\">Stromboli</a> and <a href=\"/volcano/etna\">Mount Etna</a> in Sicily complete Italy's roster of highly active volcanoes. The proximity of Campi Flegrei and Vesuvius — two independently dangerous systems monitored by the same observatory — creates a compound risk scenario that is unique in European volcanology."
+    },
+    "etymology": {
+      "content": "The name 'Campi Flegrei' derives from the Italian for 'Burning Fields,' itself a translation of the Greek Phlegraean Fields (Φλεγραῖα πεδία, Phlegra pedía), from the verb phlégō (φλέγω), meaning 'to burn' or 'to blaze.' The ancient Greeks applied this name to the fumarolic landscape they encountered when colonizing the region, where sulfurous steam vented from the earth in a manner they associated with the mythological battlefield of the Gigantomachy — the war between the Olympian gods and the Giants."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Campi Flegrei Compared to the World's Major Caldera/Supervolcanic Systems",
+      "description": "How does Campi Flegrei compare with other large caldera systems that pose significant risk?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Caldera Width",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Population at Risk"
+      ],
+      "rows": [
+        [
+          "Campi Flegrei",
+          "Italy",
+          "13 km",
+          "Caldera",
+          "1538",
+          "7*",
+          "~1.5 million"
+        ],
+        [
+          "Yellowstone",
+          "USA",
+          "72 × 55 km",
+          "Caldera",
+          "~70,000 BP",
+          "8",
+          "~10,000 (local)"
+        ],
+        [
+          "Taupo",
+          "New Zealand",
+          "35 km",
+          "Caldera",
+          "232 CE",
+          "7",
+          "~40,000"
+        ],
+        [
+          "Aira (Sakurajima)",
+          "Japan",
+          "23 × 17 km",
+          "Caldera",
+          "2025",
+          "6",
+          "~600,000"
+        ],
+        [
+          "Santorini",
+          "Greece",
+          "11 × 7 km",
+          "Shield/Caldera",
+          "1950",
+          "7",
+          "~15,000"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -36000,
+      "vei": 7,
+      "label": "Campanian Ignimbrite — largest eruption in European history (200–300 km³)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -15000,
+      "vei": 6,
+      "label": "Neapolitan Yellow Tuff — second caldera collapse (40+ km³)",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -8480,
+      "vei": 4,
+      "label": "First Epoch eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -6650,
+      "vei": 4,
+      "label": "Fondi di Baia eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2500,
+      "vei": 4,
+      "label": "Cigliano eruption — Third Epoch",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2150,
+      "vei": 5,
+      "label": "Agnano Monte Spina — largest Holocene eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -2000,
+      "vei": 4,
+      "label": "Averno eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1870,
+      "vei": 4,
+      "label": "Astroni eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1650,
+      "vei": 4,
+      "label": "Fossa Lupara — last eruption of Third Epoch",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1198,
+      "vei": 1,
+      "label": "Solfatara eruption — minor historical event",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1538,
+      "vei": 3,
+      "label": "Monte Nuovo formation — most recent eruption, ~24 killed",
+      "deaths": "24",
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-Holocene",
+      "count": 2,
+      "note": "Two caldera-forming super-eruptions (~36,000 and ~15,000 BP)"
+    },
+    {
+      "century": "9000–8000 BCE",
+      "count": 3
+    },
+    {
+      "century": "7000–6000 BCE",
+      "count": 3
+    },
+    {
+      "century": "3000–2000 BCE",
+      "count": 5
+    },
+    {
+      "century": "2000–1000 BCE",
+      "count": 5
+    },
+    {
+      "century": "12th CE",
+      "count": 1
+    },
+    {
+      "century": "16th CE",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "The Campanian Ignimbrite eruption (~36,000 BP) ejected an estimated 200–300 km³ of material, making it the largest volcanic eruption in Europe during the past 200,000 years.",
+    "Approximately 1.5 million people live directly within the Campi Flegrei caldera — most are unaware they inhabit an active volcanic system because the caldera has no prominent cone.",
+    "The so-called 'Temple of Serapis' in Pozzuoli (actually a Roman marketplace) has columns bored by marine bivalves up to 7 m above their bases, providing a 2,000-year record of bradyseismic uplift and subsidence.",
+    "Monte Nuovo, formed during the 1538 eruption, is the newest mountain in Europe — it grew to 130 m in just eight days.",
+    "Since 2005, the center of Pozzuoli has risen by more than 1.1 m due to bradyseismic uplift, with acceleration to over 15 mm per month in 2023–2024.",
+    "Lake Avernus, a flooded maar crater within the caldera, was identified by Virgil in the Aeneid as the entrance to the underworld — its name derives from the Greek áornos ('without birds'), supposedly because volcanic fumes killed birds flying over it.",
+    "The Flavian Amphitheatre in Pozzuoli is the third-largest Roman amphitheatre ever built (after the Colosseum and Capua), and its underground chambers are among the best-preserved of any ancient arena.",
+    "A magnitude 4.4 earthquake struck Campi Flegrei on May 20, 2024 — the strongest seismic event recorded at the caldera in more than 40 years.",
+    "The Campanian Ignimbrite eruption has been hypothesized as a contributing factor in the extinction of Neanderthals in Europe, though this remains scientifically debated.",
+    "Campi Flegrei and Vesuvius are just 15 km apart and monitored by the same observatory — together they create one of the most volcanically hazardous regions on Earth, threatening over 3 million people.",
+    "In 2017, three members of a family (including an 11-year-old boy) died from volcanic gas inhalation after falling into a fumarolic pit at the Solfatara crater, leading to the closure of the site to tourists.",
+    "Some of the submerged Roman ruins at Baia — including mosaics, statues, and villa foundations — lie 5–15 m below current sea level due to centuries of bradyseismic subsidence, creating an underwater archaeological park."
+  ],
+  "faqs": [
+    {
+      "question": "Is Campi Flegrei a supervolcano?",
+      "answer": "Campi Flegrei is widely classified as a supervolcano based on its demonstrated ability to produce VEI 7 eruptions. The Campanian Ignimbrite eruption approximately 36,000 years ago ejected 200–300 km³ of material — meeting or exceeding the threshold (>450 km³ of deposits) commonly used to define 'super-eruptions.' The Neapolitan Yellow Tuff eruption ~15,000 years ago ejected over 40 km³. While the term 'supervolcano' is not a formal geological classification, Campi Flegrei is regularly listed alongside Yellowstone, Toba, and Taupo among the world's most significant caldera systems capable of producing civilization-threatening eruptions."
+    },
+    {
+      "question": "Is Campi Flegrei going to erupt?",
+      "answer": "Campi Flegrei is currently experiencing significant volcanic unrest — ground uplift exceeding 1.1 m since 2005, accelerating seismicity (including a magnitude 4.4 earthquake in May 2024), and rising temperatures in fumarolic fields. However, scientists emphasize that unrest does not necessarily lead to eruption. The caldera has experienced similar bradyseismic episodes in the past (notably 1969–1972 and 1982–1984) that subsided without eruption. Current monitoring data is being closely analyzed by INGV (Italy's National Institute of Geophysics and Volcanology), and the alert level stands at Yellow (Attention). The probability of eruption cannot be precisely quantified, but Italian authorities have updated evacuation plans as a precaution."
+    },
+    {
+      "question": "What is bradyseism at Campi Flegrei?",
+      "answer": "Bradyseism (from the Greek bradys, meaning 'slow,' and seismos, meaning 'movement') is the gradual uplift or subsidence of the ground surface caused by changes in pressure within a volcanic system's shallow magma chamber or hydrothermal reservoir. At Campi Flegrei, bradyseism has been occurring for millennia — Roman-era structures show evidence of both submersion and re-emergence. The modern bradyseismic crisis began in 2005, with the center of Pozzuoli rising over 1.1 m. The uplift is accompanied by earthquakes, increased fumarolic gas output, and structural damage to buildings. Whether the current episode is driven by fresh magma intrusion or heating of the hydrothermal system remains an active area of scientific research."
+    },
+    {
+      "question": "When did Campi Flegrei last erupt?",
+      "answer": "Campi Flegrei last erupted from September 29 to approximately October 6, 1538, in a VEI 3 event that created Monte Nuovo — a 130-m-tall cinder cone on the western shore of Lake Avernus. The eruption destroyed the village of Tripergole and killed approximately 24 people. It was preceded by years of notable ground uplift. The current repose period of nearly 500 years is the longest in Campi Flegrei's post-caldera history, which has led some volcanologists to suggest that the next eruption, when it comes, could involve a significant volume of accumulated magma."
+    },
+    {
+      "question": "How many people live on Campi Flegrei?",
+      "answer": "Approximately 1.5 million people live within the Campi Flegrei caldera and its immediate surroundings, including the cities of Pozzuoli (approximately 80,000), parts of western Naples, and the municipalities of Bacoli, Monte di Procida, Quarto, and Marano di Napoli. The 'zona rossa' (red zone) — the area at highest risk from pyroclastic flows in the event of an eruption — encompasses roughly 500,000 residents. The broader Naples metropolitan area, which could be affected by tephra fall and ashfall, is home to approximately 3 million people, making the Campi Flegrei–Vesuvius complex the most volcanically exposed urban region in Europe."
+    },
+    {
+      "question": "What would happen if Campi Flegrei erupted?",
+      "answer": "The impact would depend on the eruption's magnitude. A small eruption (VEI 2–3, similar to Monte Nuovo in 1538) would likely be localized, requiring evacuation of nearby communities and potentially affecting Pozzuoli. A moderate eruption (VEI 4–5, comparable to the Agnano Monte Spina event) could generate pyroclastic flows reaching densely populated areas within minutes, require evacuation of 500,000+ people from the red zone, and deposit ash across Naples. A worst-case VEI 7 super-eruption (like the Campanian Ignimbrite) would be a global catastrophe — devastating hundreds of square kilometers, collapsing European aviation, and inducing years of climate cooling. Current evacuation plans focus on VEI 4–5 scenarios as the most plausible high-impact outcome."
+    },
+    {
+      "question": "Can you visit Campi Flegrei?",
+      "answer": "Yes, Campi Flegrei is a fascinating destination accessible from Naples via the Cumana railway line or the Naples Metro Line 2. Notable sites include the Flavian Amphitheatre and Macellum (Temple of Serapis) in Pozzuoli, the volcanic crater lakes of Avernus and Agnano, the archaeological parks of Baia and Cumae, the Astroni nature reserve (inside a volcanic crater), and Monte Nuovo. The Solfatara crater, historically the most popular volcanic tourism site, has been closed since 2017 following fatal gas inhalation incidents, with reopening plans under discussion. The submerged Roman ruins at Baia can be viewed by glass-bottom boat or snorkeling tour. Spring and autumn offer the best visiting conditions."
+    },
+    {
+      "question": "Is Campi Flegrei more dangerous than Vesuvius?",
+      "answer": "Many volcanologists consider Campi Flegrei a greater long-term threat than Vesuvius because of its far larger caldera system, demonstrated capacity for VEI 7 super-eruptions, and the fact that more people live within its caldera boundaries. Vesuvius is capable of VEI 5 eruptions (like the one that destroyed Pompeii in 79 AD) but has never produced the continent-scale events recorded at Campi Flegrei. Additionally, because Campi Flegrei's vents can open at unpredictable locations across a 13-km-wide area, evacuation planning is more complex than for Vesuvius, which has a single well-defined cone. Both systems are monitored by the Osservatorio Vesuviano, and both pose extreme risk to the Naples region."
+    }
+  ],
+  "people_also_search": [
+    "campi flegrei eruption risk",
+    "is campi flegrei going to erupt",
+    "campi flegrei supervolcano",
+    "campi flegrei bradyseism",
+    "campi flegrei vs vesuvius",
+    "pozzuoli volcano",
+    "campi flegrei earthquake today",
+    "phlegraean fields naples"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Campi Flegrei",
+    "alternateName": [
+      "Phlegraean Fields",
+      "Burning Fields"
+    ],
+    "description": "13-km-wide active caldera supervolcano near Naples, Italy, currently experiencing ongoing bradyseismic unrest",
+    "geo": {
+      "latitude": 40.827,
+      "longitude": 14.139,
+      "elevation": 458
+    },
+    "containedInPlace": {
+      "name": "Campania",
+      "country": "Italy"
+    },
+    "url": "https://volcanoatlas.com/volcano/campi-flegrei"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=211010",
+      "text": "Smithsonian GVP: Campi Flegrei",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.ingv.it/en/",
+      "text": "INGV — Italian National Institute of Geophysics and Volcanology",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Phlegraean-Fields",
+      "text": "Britannica: Phlegraean Fields",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.protezionecivile.gov.it/en/",
+      "text": "Italian Civil Protection Department",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "vesuvius",
+      "etna",
+      "stromboli",
+      "santorini",
+      "tambora",
+      "merapi",
+      "popocatepetl"
+    ],
+    "country_pages": [
+      "italy"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "supervolcanoes"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "vesuvius",
+    "santorini",
+    "aira",
+    "taupo",
+    "yellowstone"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Italy",
+      "url": "/volcanoes-in-italy"
+    },
+    {
+      "label": "Campi Flegrei",
+      "url": "/volcano/campi-flegrei"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/campi-flegrei"
+}

@@ -1,0 +1,430 @@
+{
+  "slug": "reykjanes",
+  "volcano_id": 371020,
+  "title": "Reykjanes",
+  "meta_title": "Reykjanes Volcanic System — Eruption History & Facts | VolcanoAtlas",
+  "meta_description": "Reykjanes is an active volcanic system at the SW tip of Iceland's Reykjanes Peninsula. Explore the 2023-2025 eruption series, history, and visitor guide.",
+  "quick_answer": {
+    "what": "Reykjanes is an active volcanic system of basaltic crater rows and small shield volcanoes at the southwestern tip of Iceland's Reykjanes Peninsula, where the Mid-Atlantic Ridge rises above sea level.",
+    "status": "Active — has erupted repeatedly in 2023, 2024, and 2025 from the Sundhnúkagígar fissure system near Svartsengi, part of a major new eruptive cycle that has threatened the town of Grindavík.",
+    "famous_for": "The dramatic 2023-2025 eruption series on the Reykjanes Peninsula, which has produced multiple fissure eruptions near the Blue Lagoon and Grindavík, marking the first volcanic activity in this system in approximately 800 years.",
+    "danger_level": "High — the ongoing eruptions directly threaten the town of Grindavík (population ~3,800), the Svartsengi geothermal power plant, and the internationally famous Blue Lagoon resort."
+  },
+  "hero": {
+    "name": "Reykjanes",
+    "local_name": "Reykjaneseldar",
+    "subtitle": "Iceland's Reawakened Volcanic Frontier",
+    "country": "Iceland",
+    "region": "Reykjanes Peninsula, Southwestern Iceland",
+    "type": "Crater rows / Fissure system",
+    "elevation_m": 140,
+    "elevation_ft": 459,
+    "status": "Active",
+    "last_eruption": "2025",
+    "coordinates": {
+      "lat": 63.817,
+      "lon": -22.717
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-07548.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "140 m (459 ft) — low-lying fissure system",
+    "type": "Crater rows / Fissure volcanic system",
+    "status": "Active — ongoing eruption series",
+    "last_eruption": "July 2025 (eruption series ongoing)",
+    "first_known_eruption": "~8000 BCE",
+    "total_recorded_eruptions": 24,
+    "vei_max": "4 (1226-1227)",
+    "country": "Iceland",
+    "region": "Reykjanes Peninsula, Southwestern Iceland",
+    "tectonic_setting": "Rift zone — Mid-Atlantic Ridge / Oceanic crust (< 15 km)",
+    "rock_types": [
+      "Basalt",
+      "Picro-Basalt"
+    ],
+    "coordinates": "63.817°N, 22.717°W",
+    "nearest_town": "Grindavík — directly adjacent (~3,800 residents)",
+    "population_at_risk": "~3,800 (Grindavík) + regional infrastructure",
+    "key_infrastructure": "Svartsengi geothermal power plant, Blue Lagoon, Keflavík International Airport (~20 km north)",
+    "monitoring_agency": "IMO (Icelandic Meteorological Office / Veðurstofa Íslands)",
+    "smithsonian_id": "371020",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=371020"
+  },
+  "sections": {
+    "overview": {
+      "content": "Reykjanes is an active volcanic system at the southwestern tip of <a href=\"/volcanoes-in-iceland\">Iceland's</a> Reykjanes Peninsula, where the Mid-Atlantic Ridge rises above sea level in one of Earth's most geologically dramatic settings. Rather than a single volcanic cone, Reykjanes comprises a broad area of postglacial basaltic crater rows, fissure systems, and small shield volcanoes — the westernmost of four closely-spaced en-echelon fissure systems extending diagonally across the peninsula. The system has been thrust into global headlines since December 2023, when a series of fissure eruptions began along the Sundhnúkagígar fissure swarm near Svartsengi, directly threatening the fishing town of Grindavík (population ~3,800), the Svartsengi geothermal power plant, and the internationally famous Blue Lagoon resort. These eruptions represent the first volcanic activity on the Reykjanes system in approximately 800 years — the previous eruptive period occurred during the 13th century — and mark a seismic shift in Iceland's volcanic landscape. The eruptions were preceded by the Fagradalsfjall eruptions of 2021–2023 on a neighboring fissure system, which together signal the beginning of a new volcanic cycle on the Reykjanes Peninsula that scientists believe could last decades to centuries, based on the historical pattern of medieval eruption episodes. With 24 recorded eruptions spanning 10,000 years and a <a href=\"/volcanic-explosivity-index\">VEI</a> 4 event in its history, the Reykjanes system is now the most closely watched volcanic zone in Europe. The submarine Reykjaneshryggur system, contiguous with the onshore Reykjanes system, extends southwest along the Mid-Atlantic Ridge and has produced numerous historical submarine eruptions, some forming ephemeral islands. Iceland's Keflavík International Airport — the country's main air gateway — lies only about 20 km to the north, adding aviation vulnerability to the hazard profile."
+    },
+    "geology_and_formation": {
+      "content": "The Reykjanes volcanic system exists because of a globally unique geological setting: the only place on Earth where the Mid-Atlantic Ridge, a divergent tectonic boundary separating the North American and Eurasian plates, rises above sea level. The plates are diverging at approximately 2 cm per year, creating extensional stress that allows basaltic magma from the upper mantle to reach the surface through fissures and fractures. The Reykjanes Peninsula sits at the southwestern end of Iceland's neovolcanic zone, where the Mid-Atlantic Ridge transitions from its submarine expression (the Reykjanes Ridge) to the onshore rift zones that cross Iceland. The system is distinct from the nearby Iceland hotspot (mantle plume) that drives volcanism further north at sites like <a href=\"/volcano/grimsvotn\">Grímsvötn</a> and <a href=\"/volcano/bardarbunga\">Bárðarbunga</a> — Reykjanes volcanism is primarily rift-driven rather than plume-driven, producing tholeiitic basalt and picro-basalt with relatively low viscosity. This means eruptions are predominantly effusive, generating lava flows rather than explosive columns, though phreatomagmatic interactions with groundwater or seawater can produce more explosive Surtseyan activity. The system is organized as a series of northeast-southwest trending fissure swarms, including the Sundhnúkagígar, Svartsengi, and Reykjanes segments. Most of the subaerial portion is covered by Holocene lavas, reflecting the high productivity of this rift segment. The 2023–2025 eruptions have occurred along the Sundhnúkagígar fissure swarm, where a sill-like magma intrusion at approximately 4–5 km depth has been feeding repeated dike injections to the surface."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian Global Volcanism Program records 24 eruptions for the Reykjanes system spanning from approximately 8000 BCE to 2025. The prehistoric record includes shield-building eruptions at Þráinskjöldur (~8000 BCE), Hopsnes (~5040 BCE), and Sandfellshæð (~4000 BCE), which produced broad lava fields. The most significant historical eruptive period was the Reykjanes Fires of the 13th century, a sustained episode that included eruptions in 1179, 1210, 1211, 1223, 1226–1227 (VEI 4), 1231, 1238, and 1240. This medieval cluster of eruptions over approximately 60 years transformed the peninsula's landscape with extensive lava fields. After the 13th-century fires, onshore activity ceased, though submarine eruptions continued along the Reykjaneshryggur in 1583, 1783, and 1830–1831, with uncertain submarine events in 1966 and 1970. The peninsula then remained volcanically quiet for nearly 800 years — until the Fagradalsfjall eruptions (2021–2023, on an adjacent system) and the Sundhnúkagígar eruptions beginning December 2023 initiated what scientists believe is a new volcanic cycle. The 2023–2025 eruptions have included confirmed events in December 2023–early 2024, April 2025, and July 2025, with activity from the Svartsengi fissure swarm."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Reykjanes Fires (1210–1240) — Medieval Volcanic Episode",
+          "content": "The most significant historical eruptive period at Reykjanes was the so-called 'Reykjanes Fires,' a sustained volcanic episode spanning approximately 60 years during the 13th century. Beginning around 1210 at Vatnsfellsgígur (VEI 3), the episode included eruptions in 1211 (Stampar, Karlsgígur), 1223 (Reykjaneshryggur, VEI 3), and culminated in the largest event — a VEI 4 eruption beginning July 15, 1226, that continued into 1227 from the Reykjaneshryggur submarine segment. Further eruptions followed in 1231 (VEI 3), 1238, and 1240. This cluster of eruptions produced extensive lava fields across the peninsula and submarine eruptions that may have built temporary islands offshore. The Reykjanes Fires are critically important for understanding the current eruption series, because they demonstrate that once the Reykjanes system activates, it tends to produce clusters of eruptions over decades — a pattern that scientists believe is now repeating in the 2020s. The medieval annals (Icelandic sagas and church records) provide valuable accounts of these eruptions, though the remote and sparsely populated nature of the peninsula at that time limited detailed observation."
+        },
+        {
+          "title": "The 1783 Submarine Eruption — Nyey Island",
+          "content": "On May 1, 1783, a VEI 3 submarine eruption along the Reykjaneshryggur produced the ephemeral island of Nyey ('New Island') off the southwestern tip of the Reykjanes Peninsula. The island reportedly reached sufficient size to be claimed for Danish sovereignty before wave erosion destroyed it within months. This event coincided with the onset of the catastrophic Laki eruption in eastern Iceland — one of the most devastating volcanic events in Icelandic and European history — creating a year of extraordinary volcanic activity across Iceland. The Nyey eruption illustrated the capacity of the Reykjanes submarine system to produce island-forming events, similar to the better-known Surtsey eruption of 1963–1967 further to the east."
+        },
+        {
+          "title": "The 2023–2025 Sundhnúkagígar Eruptions — Grindavík Under Threat",
+          "content": "The most consequential volcanic events at Reykjanes in modern history began on December 18, 2023, when a fissure eruption opened along the Sundhnúkagígar crater row near Svartsengi, approximately 3 km north of the town of Grindavík. This eruption was preceded by weeks of intense seismic activity and ground deformation that indicated a shallow magma sill was inflating beneath the surface, and the town of Grindavík (population ~3,800) was preemptively evacuated in November 2023. The initial December 2023 eruption produced a curtain of lava fountains along a roughly 4 km fissure, with lava flows advancing southward toward Grindavík. Subsequent eruptions followed in early 2024, continuing the pattern of repeated dike injections from the shallow sill to the surface. Lava from one eruption entered the outskirts of Grindavík, destroying several buildings. Massive earth and lava defense barriers were constructed to protect the Svartsengi geothermal power plant — which supplies hot water and electricity to the broader Reykjanes region — and the Blue Lagoon resort, one of Iceland's most visited tourist attractions. The eruptions continued in April and July 2025, confirming the ongoing nature of this volcanic cycle. Scientists at the Icelandic Meteorological Office (IMO) have emphasized that the current activity likely represents the early stages of a new eruptive episode on the Reykjanes Peninsula that could continue for years to decades, based on comparison with the 13th-century Reykjanes Fires. The eruptions have attracted intense global media attention and scientific interest, becoming one of the most closely monitored volcanic crises in European history."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Reykjanes is in an active eruption series as of 2025, with confirmed eruptions in April and July 2025 from the Sundhnúkagígar fissure swarm. The Icelandic Meteorological Office (IMO / Veðurstofa Íslands) operates one of the world's most advanced volcanic monitoring networks on the Reykjanes Peninsula, including dense arrays of broadband seismometers, continuous GPS deformation stations, InSAR satellite monitoring, SO₂ and CO₂ gas spectrometers, webcams, drone surveillance, and ground-based and satellite-based thermal imaging. The monitoring data has revealed a persistent magma sill at approximately 4–5 km depth beneath Svartsengi that periodically reinflates between eruptions, feeding dike injections that reach the surface as fissure eruptions. Each cycle of inflation, seismicity, and eruption has been tracked in near-real-time, making the Reykjanes eruptions among the best-monitored volcanic events in history. The town of Grindavík remains under evacuation advisories during active eruption periods, and defensive barriers continue to be reinforced. IMO and the University of Iceland volcanology team have stated that the current volcanic episode is likely to persist for years to decades, with periodic eruptions separated by months of quiet reinflation."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "The Reykjanes eruption series poses an unusual hazard profile for Iceland: rather than threatening remote highland glaciers, these eruptions are occurring adjacent to critical infrastructure and a populated town. The primary hazard is lava inundation — basaltic lava flows from the Sundhnúkagígar fissures can advance toward Grindavík to the south and toward the Svartsengi geothermal power plant and Blue Lagoon to the north. Lava has already entered the outskirts of Grindavík, destroying buildings. The Svartsengi power plant is a critical piece of regional infrastructure, supplying hot water for heating and electricity to communities across the Reykjanes Peninsula; its loss would cause severe disruption. Volcanic gas emissions, particularly SO₂, pose health hazards downwind and have occasionally affected air quality in the greater Reykjavík area, approximately 50 km to the north. Ashfall is less of a concern given the basaltic, effusive eruption style, but phreatomagmatic explosions could occur if fissures interact with groundwater. Ground subsidence and fissuring associated with dike intrusions have damaged infrastructure in Grindavík independently of the lava flows themselves. Keflavík International Airport, Iceland's main international gateway, lies approximately 20 km to the north; while eruptions have not directly disrupted flights, the proximity is a concern. Longer-term, the expectation of continued eruptions over decades raises questions about the viability of rebuilding Grindavík and the long-term security of the Svartsengi power infrastructure."
+    },
+    "geography_and_physical_description": {
+      "content": "The Reykjanes volcanic system occupies the southwestern tip of Iceland's Reykjanes Peninsula, a low-lying, wind-swept landscape of basaltic lava fields, moss-covered terrain, and geothermal areas. The highest point on the system is only 140 m (459 ft) above sea level — in stark contrast to Iceland's towering ice-capped stratovolcanoes further inland. The system extends northeast-southwest, aligned with the fissure swarms that parallel the Mid-Atlantic Ridge. The Sundhnúkagígar crater row, the focus of current eruptions, stretches in a northeast-southwest line between the Svartsengi geothermal field and the town of Grindavík. The submarine Reykjaneshryggur system extends southwest from the peninsula tip along the Mid-Atlantic Ridge beneath the Atlantic Ocean. The peninsula is characterized by young volcanic terrain — most of the surface is covered by Holocene lavas, some from the 13th-century Reykjanes Fires. The Blue Lagoon, a geothermal spa built in a lava field adjacent to the Svartsengi power plant, has become one of Iceland's most iconic tourist attractions and now sits within a few kilometers of active volcanic fissures. Reykjavík, the capital, lies approximately 50 km to the northeast."
+    },
+    "climate_and_global_impact": {
+      "content": "The Reykjanes eruptions have been predominantly effusive, producing basaltic lava flows rather than explosive columns, and their climate impact has been negligible on a global scale. SO₂ emissions from the lava flows have contributed to local and regional air quality issues, with volcanic smog (vog) occasionally reaching the greater Reykjavík area. The VEI 4 eruption of 1226–1227 would have had limited climate impact compared to Iceland's larger explosive events at subglacial volcanoes. The primary significance of the current eruption series is not atmospheric but societal — it represents one of the most closely watched lava flow crises in modern history, with lessons for how developed nations manage volcanic threats to critical infrastructure."
+    },
+    "cultural_significance": {
+      "content": "The Reykjanes Peninsula holds a special place in Icelandic culture as the point where the Mid-Atlantic Ridge emerges from the ocean — the place where Europe and North America are literally pulling apart. The Bridge Between Continents, a pedestrian bridge spanning a fissure at Sandvík, has become an iconic symbol of Iceland's geological dynamism. Grindavík, the fishing town threatened by the current eruptions, has been a center of Icelandic fishing culture for centuries. The evacuation of its 3,800 residents in November 2023 was a traumatic event that has become a defining moment in modern Icelandic history, raising difficult questions about whether the town can ever be safely reoccupied. The Blue Lagoon, built in the 1990s using waste water from the Svartsengi geothermal plant, has become Iceland's most visited tourist attraction and a global symbol of geothermal recreation — its proximity to active volcanic fissures has added a dramatic edge to its appeal. The eruptions have attracted hundreds of thousands of spectators, with viewing areas established at safe distances, making the Reykjanes eruptions one of the most publicly witnessed volcanic events in history."
+    },
+    "visiting_and_tourism": {
+      "content": "The Reykjanes Peninsula is one of the most accessible volcanic regions in the world, located just minutes from Keflavík International Airport and approximately 50 minutes from Reykjavík. During active eruption periods, authorized viewing areas have been established at safe distances from the fissures, and tens of thousands of visitors have hiked to vantage points to witness the lava flows — making these some of the most-visited active eruptions in history. Between eruptions, the peninsula offers a wealth of volcanic landscapes: the Bridge Between Continents at Sandvík, geothermal hot springs, lava fields, and the famous Blue Lagoon (check current access status, as it has been periodically closed during eruptions). Visitors should always check current conditions with IMO and follow all official safety guidance — volcanic fissures can open without warning, gas concentrations can be hazardous, and ground stability near active lava is unpredictable. The nearby town of Keflavík provides accommodation and services."
+    },
+    "nearby_volcanoes": {
+      "content": "Reykjanes is the westernmost of four en-echelon fissure systems crossing the Reykjanes Peninsula. Immediately adjacent is the Svartsengi/Fagradalsfjall system, which hosted the eruptions of 2021–2023 that preceded the current Sundhnúkagígar activity. Further east along the peninsula lie the Krýsuvík and Brennisteinsfjöll systems. Northeast of the peninsula, <a href=\"/volcanoes-in-iceland\">Iceland's</a> volcanic zones continue with systems like <a href=\"/volcano/hekla\">Hekla</a>, <a href=\"/volcano/katla\">Katla</a>, <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajökull</a>, <a href=\"/volcano/grimsvotn\">Grímsvötn</a>, and <a href=\"/volcano/bardarbunga\">Bárðarbunga</a>, which are driven by the combination of the Mid-Atlantic Ridge and the Iceland mantle plume."
+    },
+    "etymology": {
+      "content": "The name Reykjanes translates from Icelandic as 'Smoky Peninsula' — 'reykja' meaning smoke or steam, and 'nes' meaning headland or peninsula. The name reflects the persistent geothermal steam rising from hot springs and fumaroles across the landscape. The Sundhnúkagígar fissure system, the focus of the current eruptions, takes its name from Icelandic words meaning roughly 'narrow passage craters.' The Reykjaneshryggur, the submarine extension, means 'Reykjanes Ridge.'"
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Reykjanes Compared to Iceland's Other Active Volcanic Systems",
+      "description": "How does the Reykjanes system compare to Iceland's other major volcanic centers?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Reykjanes",
+          "Iceland",
+          "140 m",
+          "Crater rows",
+          "2025",
+          "4",
+          "24"
+        ],
+        [
+          "Grímsvötn",
+          "Iceland",
+          "1,725 m",
+          "Caldera (subglacial)",
+          "2011",
+          "4",
+          "65"
+        ],
+        [
+          "Hekla",
+          "Iceland",
+          "1,491 m",
+          "Stratovolcano",
+          "2000",
+          "5",
+          "23"
+        ],
+        [
+          "Katla",
+          "Iceland",
+          "1,512 m",
+          "Caldera (subglacial)",
+          "1918",
+          "5",
+          "21"
+        ],
+        [
+          "Bárðarbunga",
+          "Iceland",
+          "2,009 m",
+          "Caldera (subglacial)",
+          "2015",
+          "6",
+          "23"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -8000,
+      "vei": 0,
+      "label": "Shield-building eruption at Þráinskjöldur",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -5040,
+      "vei": 0,
+      "label": "Shield-building eruption at Hopsnes",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -400,
+      "vei": 2,
+      "label": "Eruption at Sundhnúkar",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1210,
+      "vei": 3,
+      "label": "Start of medieval Reykjanes Fires",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1226,
+      "vei": 4,
+      "label": "Largest eruption — VEI 4 from Reykjaneshryggur",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1240,
+      "vei": 1,
+      "label": "Final eruption of medieval Reykjanes Fires",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1783,
+      "vei": 3,
+      "label": "Submarine eruption — ephemeral island Nyey formed",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1830,
+      "vei": 3,
+      "label": "Submarine eruption at Eldeyjarbóði",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 2023,
+      "vei": 1,
+      "label": "Start of 2023-2025 eruption series at Sundhnúkagígar",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2025,
+      "vei": null,
+      "label": "Ongoing eruptions — April and July 2025",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 8,
+      "note": "8000 BCE to 200 BCE, including shield-building eruptions"
+    },
+    {
+      "century": "10th",
+      "count": 1
+    },
+    {
+      "century": "12th",
+      "count": 1
+    },
+    {
+      "century": "13th",
+      "count": 7,
+      "note": "Medieval Reykjanes Fires — 1210 to 1240"
+    },
+    {
+      "century": "16th",
+      "count": 1,
+      "note": "1583, submarine"
+    },
+    {
+      "century": "18th",
+      "count": 1,
+      "note": "1783, submarine — Nyey island"
+    },
+    {
+      "century": "19th",
+      "count": 1,
+      "note": "1830-1831, submarine"
+    },
+    {
+      "century": "21st",
+      "count": 3,
+      "note": "2023-2024, April 2025, July 2025 — ongoing series"
+    }
+  ],
+  "facts": [
+    "The 2023-2025 Sundhnúkagígar eruptions represent the first volcanic activity on the Reykjanes system in approximately 800 years — the last onshore eruptions were in the 1240s.",
+    "The town of Grindavík (population ~3,800) was evacuated in November 2023 ahead of the eruption series, in one of Iceland's most dramatic modern civil protection operations.",
+    "Lava from the eruptions has entered the outskirts of Grindavík, destroying buildings and raising questions about whether the town can be safely reoccupied.",
+    "The Svartsengi geothermal power plant, which supplies heating and electricity to the entire Reykjanes region, sits within a few kilometers of the active fissures.",
+    "The Blue Lagoon, Iceland's most-visited tourist attraction with over 700,000 annual visitors, has been periodically closed due to its proximity to the eruptions.",
+    "Scientists at IMO believe the current eruption series may continue for years to decades, based on comparison with the 13th-century Reykjanes Fires that lasted approximately 60 years.",
+    "Keflavík International Airport — Iceland's main air gateway — lies only about 20 km north of the active volcanic zone.",
+    "The 1783 submarine eruption produced the ephemeral island of Nyey, which was briefly claimed for Danish sovereignty before wave erosion destroyed it.",
+    "Reykjanes is the only place on Earth where the Mid-Atlantic Ridge — the boundary between the North American and Eurasian tectonic plates — is accessible on land.",
+    "The VEI 4 eruption of 1226-1227 was the largest historically recorded event on the Reykjanes system.",
+    "A persistent magma sill at approximately 4-5 km depth beneath Svartsengi has been feeding repeated dike injections to the surface during the current eruption series.",
+    "Defensive earth and lava barriers have been constructed to protect the Svartsengi power plant and Blue Lagoon — one of the first uses of engineered lava flow diversion in Iceland since the 1973 Heimaey eruption."
+  ],
+  "faqs": [
+    {
+      "question": "Is the Reykjanes volcanic system still erupting?",
+      "answer": "As of 2025, the Reykjanes volcanic system is in an active eruption series. Confirmed eruptions occurred in December 2023 through early 2024, April 2025, and July 2025, all from the Sundhnúkagígar fissure swarm near Svartsengi. Between eruptions, a magma sill at approximately 4-5 km depth reinflates, building toward the next dike injection and fissure eruption. The Icelandic Meteorological Office (IMO) considers this an ongoing volcanic episode that could continue for years to decades, based on the pattern of the 13th-century Reykjanes Fires."
+    },
+    {
+      "question": "Is Grindavík safe?",
+      "answer": "Grindavík, a fishing town of approximately 3,800 residents, has been under evacuation advisories during active eruption periods since November 2023. Lava flows from the Sundhnúkagígar fissures have entered the outskirts of the town, destroying several buildings. Ground subsidence and fissuring from dike intrusions have also damaged infrastructure. During quiet periods between eruptions, limited access has been permitted for residents to retrieve belongings, but the long-term viability of the town remains uncertain as scientists expect continued eruptive activity for years to decades."
+    },
+    {
+      "question": "Will the eruptions affect flights to Iceland?",
+      "answer": "The Reykjanes eruptions have not caused significant flight disruptions at Keflavík International Airport, which lies approximately 20 km north of the active fissures. The eruptions have been predominantly effusive (lava flows) rather than explosive, producing relatively little ash. This is fundamentally different from the explosive 2010 Eyjafjallajökull eruption that shut down European airspace. However, IMO monitors the situation continuously, and the possibility of more explosive phreatomagmatic activity — if fissures interact with groundwater — cannot be excluded."
+    },
+    {
+      "question": "Is the Blue Lagoon still open during the eruptions?",
+      "answer": "The Blue Lagoon has been periodically closed and reopened during the eruption series due to its proximity to the active volcanic fissures and the Svartsengi geothermal field. Access depends on the current eruption status and volcanic gas conditions. Visitors should check the Blue Lagoon's official website and IMO volcanic alerts for the latest access information before planning a visit. Defensive barriers have been constructed to help protect the facility from lava inundation."
+    },
+    {
+      "question": "How long will the Reykjanes eruptions last?",
+      "answer": "Scientists at IMO and the University of Iceland believe the current volcanic episode on the Reykjanes Peninsula could continue for years to decades. This assessment is based on comparison with the 13th-century Reykjanes Fires, when the system produced at least eight eruptions over approximately 60 years (1179-1240). The current pattern — repeated inflation of a shallow magma sill followed by fissure eruptions every few months — is consistent with a sustained volcanic episode rather than a single isolated event."
+    },
+    {
+      "question": "What type of volcano is Reykjanes?",
+      "answer": "Reykjanes is not a single volcanic cone but rather a fissure volcanic system — a broad area of crater rows, fissures, and small shield volcanoes aligned along the Mid-Atlantic Ridge. This type of volcanism produces basaltic lava flows through linear fissures rather than from a central summit crater. The eruption style is predominantly effusive, with lava fountains and flowing lava rather than explosive ash columns. This makes Reykjanes fundamentally different from Iceland's stratovolcanoes like Hekla or subglacial calderas like Grímsvötn."
+    },
+    {
+      "question": "Can you see the Reykjanes eruptions?",
+      "answer": "During active eruption phases, authorized viewing areas have been established at safe distances from the fissures, and tens of thousands of visitors have hiked to vantage points to witness the lava fountains and flows — making these some of the most publicly witnessed eruptions in volcanic history. However, access is strictly controlled by Icelandic authorities and can change rapidly. Visitors should follow all official guidance, as volcanic fissures can open without warning, gas concentrations can be lethal, and ground stability near active lava is unpredictable."
+    },
+    {
+      "question": "Why is the Reykjanes Peninsula erupting now?",
+      "answer": "The Reykjanes Peninsula eruptions are driven by the divergence of the North American and Eurasian tectonic plates along the Mid-Atlantic Ridge, which runs directly through the area. The current activity appears to represent the start of a new volcanic cycle after approximately 800 years of quiet. Geological evidence shows that the Reykjanes systems tend to activate in multi-decade episodes — like the Reykjanes Fires of 1179-1240 — separated by centuries of dormancy. A magma sill has been detected at approximately 4-5 km depth beneath Svartsengi, and it periodically feeds dike intrusions that reach the surface as fissure eruptions."
+    }
+  ],
+  "people_also_search": [
+    "reykjanes eruption 2025",
+    "iceland volcano eruption",
+    "grindavik volcano",
+    "blue lagoon eruption",
+    "sundhnukagigur eruption",
+    "iceland volcano near airport",
+    "reykjanes peninsula volcano",
+    "iceland mid-atlantic ridge"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Reykjanes",
+    "alternateName": [
+      "Reykjanes Volcanic System",
+      "Sundhnúkagígar",
+      "Svartsengi"
+    ],
+    "description": "Active fissure volcanic system on Iceland's Reykjanes Peninsula, the site of the dramatic 2023-2025 eruption series threatening Grindavík",
+    "geo": {
+      "latitude": 63.817,
+      "longitude": -22.717,
+      "elevation": 140
+    },
+    "containedInPlace": {
+      "name": "Reykjanes Peninsula",
+      "country": "Iceland"
+    },
+    "url": "https://volcanoatlas.com/volcano/reykjanes"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=371020",
+      "text": "Smithsonian GVP: Reykjanes",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://en.vedur.is/",
+      "text": "IMO — Icelandic Meteorological Office",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/place/Iceland",
+      "text": "Britannica: Iceland",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://jardvis.hi.is/en",
+      "text": "University of Iceland Institute of Earth Sciences",
+      "type": "research"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "eyjafjallajokull",
+      "hekla",
+      "katla",
+      "grimsvotn",
+      "bardarbunga",
+      "surtsey"
+    ],
+    "country_pages": [
+      "iceland"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "most-active-volcanoes",
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "eyjafjallajokull",
+    "hekla",
+    "katla",
+    "grimsvotn",
+    "surtsey"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Iceland",
+      "url": "/volcanoes-in-iceland"
+    },
+    {
+      "label": "Reykjanes",
+      "url": "/volcano/reykjanes"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/reykjanes"
+}

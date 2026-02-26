@@ -1,0 +1,181 @@
+{
+  "slug": "spain",
+  "title": "Volcanoes in Spain",
+  "meta_title": "Volcanoes in Spain — Complete List, Map & Eruption History | VolcanoAtlas",
+  "meta_description": "Spain has 8 Holocene volcanoes including the Canary Islands' Tenerife and La Palma. Full list with map, eruption history, hazards, and travel guide.",
+
+  "quick_answer": {
+    "how_many": "Spain has 8 Holocene volcanoes: 6 in the Canary Islands (Tenerife, La Palma, Hierro, Gran Canaria, Lanzarote, Fuerteventura) and 2 on the Iberian Peninsula mainland (Olot and Calatrava volcanic fields).",
+    "how_many_active": "Four Spanish volcanoes have confirmed historical eruptions. La Palma erupted in 2021, Hierro had a submarine eruption in 2011–2012, Tenerife last erupted in 1909, and Lanzarote in 1824.",
+    "why": "The Canary Islands are hotspot volcanoes formed by a mantle plume beneath the oceanic African Plate. The Iberian mainland volcanic fields are related to intraplate continental rifting.",
+    "tallest": "Tenerife (Teide) at 3,715 m (12,188 ft) — the tallest peak in Spain and the tallest volcano in the Atlantic Ocean",
+    "most_recent": "La Palma (Cumbre Vieja / Tajogaite) in September–December 2021"
+  },
+
+  "hero": {
+    "title": "Volcanoes in Spain",
+    "subtitle": "8 Holocene Volcanoes from the Canary Islands to the Iberian Peninsula",
+    "volcano_count": 8,
+    "active_count": 4,
+    "tallest": {"name": "Tenerife (Teide)", "elevation_m": 3715},
+    "most_recent_eruption": {"volcano": "La Palma", "year": "2021"}
+  },
+
+  "sections": {
+    "overview": {
+      "content": "Spain has 8 Holocene volcanoes divided between two geologically distinct provinces: the Canary Islands in the eastern Atlantic Ocean and the Iberian Peninsula mainland. The Canary Islands — a chain of seven major islands off the coast of Morocco — host six of Spain's eight volcanic centers, including [[volcano:tenerife|Tenerife]], whose Teide summit at 3,715 m (12,188 ft) is the tallest peak in all of Spain and the tallest volcano in the Atlantic Ocean. Spain's most recent eruption occurred at [[volcano:la-palma|La Palma]] in September–December 2021, when the Tajogaite eruption (VEI 3) destroyed over 1,600 buildings and displaced thousands — the most destructive volcanic event in Spain in centuries. The Canary Islands collectively record 42 confirmed eruptions at Tenerife alone, plus 14 at La Palma, making the archipelago one of the most volcanically active regions in the eastern Atlantic. On the Iberian mainland, two volcanic fields — Olot in Catalonia and Calatrava in Castilla–La Mancha — represent intraplate volcanism, though neither has erupted in historical times. Approximately 2.2 million people live across the Canary Islands, directly on active volcanic systems. The Instituto Geográfico Nacional (IGN) and INVOLCAN monitor the archipelago's volcanic activity."
+    },
+
+    "tectonic_setting": {
+      "content": "Spain's volcanic systems arise from two fundamentally different tectonic mechanisms. The Canary Islands are classic hotspot volcanoes formed by the African Plate's slow eastward drift (~19 mm/year) over a deep mantle plume. This creates a chain of progressively older islands from east to west: Fuerteventura and Lanzarote (~20 million years old) to La Palma and Hierro (<2 million years). The islands sit on oceanic crust less than 15 km thick (western islands) to intermediate-thickness crust (eastern islands). Magma compositions range from basaltic in the younger islands to phonolitic at Tenerife's evolved Teide complex. The Iberian mainland fields — Olot in Catalonia and Calatrava in central Spain — occupy continental crust exceeding 25 km, generating tephrite-basanite and basalt magmas through deep-mantle upwelling likely related to far-field stresses from the Africa–Eurasia convergence. Neither the Canary Islands nor the mainland fields are on the [[special:ring-of-fire|Ring of Fire]]; all are driven by intraplate or hotspot processes entirely independent of subduction."
+    },
+
+    "major_volcanoes": {
+      "content": "**Tenerife (Teide)** — [[volcano:tenerife|Tenerife]] is the largest and highest of the Canary Islands, dominated by the Teide–Pico Viejo complex at 3,715 m (12,188 ft) within the 10 × 17 km Las Cañadas caldera. With 42 confirmed eruptions and a maximum VEI of 4, it is Spain's most prolific volcano. The 1909 Chinyero eruption was its most recent. Teide National Park is a UNESCO World Heritage Site receiving ~4 million visitors annually — Spain's most-visited national park.\n\n**La Palma** — [[volcano:la-palma|La Palma]] (2,426 m / 7,959 ft) made global headlines in 2021 when the Tajogaite eruption on the Cumbre Vieja ridge produced lava flows that destroyed over 1,600 buildings and displaced ~7,000 people over 85 days. With 14 confirmed eruptions and a VEI max of 3, Cumbre Vieja is one of the most active volcanic ridges in the Atlantic. The island also features the Caldera de Taburiente, a massive collapse scar.\n\n**Lanzarote** — [[volcano:lanzarote|Lanzarote]] (670 m / 2,198 ft) produced the largest historical eruption in the Canary Islands during 1730–1736, when six years of continuous fissure eruptions (VEI 3) created over 30 new volcanic cones and buried one-third of the island's arable land under lava. The Timanfaya eruption, as it is known, is one of the longest-duration historical eruptions on Earth. A smaller eruption followed in 1824. The Timanfaya National Park preserves the stark volcanic landscape.\n\n**Hierro** — [[volcano:hierro|El Hierro]] (1,500 m / 4,921 ft), the smallest and youngest major Canary Island, experienced a submarine eruption off its southern coast from October 2011 to March 2012 (VEI 2). The eruption produced discolored water, floating volcanic debris, and dead fish, prompting the evacuation of the coastal village of La Restinga. It was the first volcanic eruption in the Canary Islands since Teneguía on La Palma in 1971.\n\n**Gran Canaria** — [[volcano:gran-canaria|Gran Canaria]] (1,950 m / 6,398 ft) is the third-largest Canary Island by area and has 11 confirmed Holocene eruptions, though none in historical times (the most recent dated to approximately 40 CE). Its extensive volcanic history makes it geologically important, though current hazard levels are lower than western islands.\n\n**Olot Volcanic Field** — The Olot (Garrotxa) Volcanic Field in Catalonia, northeastern Spain, contains approximately 40 monogenetic cones and is the most significant volcanic field on the Iberian Peninsula. Its most recent eruption is undated but clearly Holocene. The Santa Margarida cone, with a chapel inside its crater, is a popular tourist attraction.\n\n**Calatrava Volcanic Field** — The Campo de Calatrava in Castilla–La Mancha, central Spain, contains numerous maar craters, cinder cones, and lava flows. Its most recent eruption is dated to approximately 3600 BCE. The field is associated with CO₂-rich mineral springs that have been commercially exploited for centuries."
+    },
+
+    "eruption_history": {
+      "content": "Spain's eruption history is concentrated in the Canary Islands, with approximately 75 confirmed eruptions across the archipelago spanning the Holocene. Tenerife dominates the record with 42 confirmed eruptions, followed by La Palma (14), Gran Canaria (11), Hierro (4), and Lanzarote (4). The most consequential eruption in Spanish history was Lanzarote's Timanfaya eruption of 1730–1736, which lasted six years and buried approximately one-third of the island's agricultural land under basaltic lava — an economic catastrophe that triggered mass emigration. The most recent and globally visible eruption was La Palma's Tajogaite event in 2021, which ran from September 19 to December 13 (85 days), producing ~200 million m³ of lava, destroying 1,676 buildings, burying banana plantations, and creating over 40 hectares of new land as lava flows reached the sea. No fatalities occurred, credited to effective monitoring and evacuation. On Tenerife, the largest Holocene eruption was a VEI 4 event in prehistoric times; historical eruptions have been smaller, with the 1706 eruption of Montaña Negra destroying the port of Garachico (then Tenerife's main harbor) and the 1909 Chinyero eruption being the most recent. On the Iberian mainland, the Calatrava field's last eruption (~3600 BCE) and the undated Olot eruptions are prehistoric, and no mainland Spanish eruption has occurred in recorded history."
+    },
+
+    "volcanic_hazards": {
+      "content": "The Canary Islands face significant volcanic hazards due to the combination of active volcanism and a resident population of approximately 2.2 million, supplemented by over 15 million annual tourists. The 2021 La Palma eruption demonstrated the primary hazard: lava flows that, while slow-moving and non-lethal, destroy everything in their path and are impossible to stop or divert. Over 1,600 buildings and 370 hectares of land were lost. Ashfall disrupted La Palma's airport and affected agriculture across the island. Volcanic gas emissions — particularly sulfur dioxide — required intermittent lockdowns in downwind communities. On Tenerife, the potential hazards are more varied and potentially more severe. The Teide–Pico Viejo complex has produced pyroclastic flows, phonolitic lava domes, and large explosive eruptions in the prehistoric past. A major eruption near the densely populated southern coast (home to most of Tenerife's 950,000 residents and tourist infrastructure) would pose extreme challenges. Flank collapses are an additional concern: the Canary Islands have experienced massive lateral collapses in their geological past, generating enormous submarine landslides. While the probability of such an event is very low on human timescales, it has been the subject of scientific debate regarding potential Atlantic-wide tsunami generation. The IGN operates a seismic monitoring network across the Canary Islands, and INVOLCAN conducts gas monitoring, deformation measurements, and gravity surveys."
+    },
+
+    "volcanic_zones_map": {
+      "content": "Spain's 8 Holocene volcanoes occupy two widely separated geographic zones. The Canary Islands arc stretches approximately 500 km from east to west in the eastern Atlantic Ocean, between 27°N and 29°N latitude, roughly 100 km off the coast of Morocco and Western Sahara. From east to west: Lanzarote (670 m) and Fuerteventura (529 m) are the oldest and lowest; Gran Canaria (1,950 m) and Tenerife (3,715 m) are the central and most massive; and La Palma (2,426 m) and Hierro (1,500 m) are the youngest and most volcanically active. On the Iberian Peninsula, over 2,000 km to the northeast, the Olot Volcanic Field sits in the Garrotxa region of Catalonia (42°N, near the Pyrenees), while the Calatrava Volcanic Field lies in central Spain (38.9°N, in Castilla–La Mancha). These mainland fields are separated from each other by approximately 500 km and have no geological connection to the Canary Islands."
+    },
+
+    "impact_on_culture_and_economy": {
+      "content": "Volcanism is foundational to the Canary Islands' identity, economy, and global appeal. Teide National Park on Tenerife — centered on the Teide–Pico Viejo complex — is Spain's most visited national park (approximately 4 million visitors per year) and a UNESCO World Heritage Site recognized for its outstanding geological values. Lanzarote's Timanfaya National Park, preserving the 1730–1736 eruption landscape, is the island's premier attraction, with restaurants cooking over residual volcanic heat. Lanzarote's volcanic aesthetic was championed by artist-architect César Manrique, whose integration of volcanic landforms into art and architecture defined the island's cultural identity. La Palma's 2021 eruption has itself become a draw, with the 'new volcano' attracting visitors to the Tajogaite cone and lava fields. On the Iberian mainland, the Olot Volcanic Field's Garrotxa Natural Park is a popular hiking and cultural destination in Catalonia, centered on its forested volcanic cones. Economically, volcanic soils support wine production — Lanzarote's distinctive 'La Geria' wine-growing technique, with vines planted in volcanic ash hollows, is internationally celebrated. The Canary Islands' entire wine, banana, and agricultural sectors depend on volcanic soil fertility."
+    },
+
+    "visiting_volcanoes": {
+      "content": "Spain offers exceptional volcanic tourism across the Canary Islands. [[volcano:tenerife|Teide National Park]] on Tenerife is accessible by cable car to 3,555 m, with a permit-only final ascent to the 3,715-m summit; the caldera floor can be explored by car and foot. Timanfaya National Park on [[volcano:lanzarote|Lanzarote]] offers bus tours through the 1730–1736 lava fields, geothermal demonstrations, and the iconic El Diablo restaurant. On [[volcano:la-palma|La Palma]], the new Tajogaite volcanic cone from the 2021 eruption is developing visitor infrastructure, and the older Teneguía volcano (1971 eruption) has established trails. La Palma's Caldera de Taburiente National Park provides spectacular rim hiking above the massive collapse crater. [[volcano:hierro|El Hierro]], the smallest island, offers diving at the 2011–2012 submarine eruption site and pristine volcanic coastlines. On the mainland, the Garrotxa Volcanic Zone Natural Park near Olot features 40 volcanic cones with well-maintained hiking trails through beech and oak forests. The Canary Islands enjoy year-round mild weather (18–28°C) ideal for volcano tourism. Entry to national parks is free (Teide summit permit excepted)."
+    }
+  },
+
+  "volcano_table": {
+    "columns": ["Name", "Slug", "Elevation (m)", "Type", "Last Eruption", "Status", "Eruption Count", "VEI Max"],
+    "rows": [
+      {"name": "Tenerife", "slug": "tenerife", "elevation_m": 3715, "type": "Stratovolcano", "last_eruption": "1909", "status": "Active", "eruption_count": 42, "vei_max": 4},
+      {"name": "La Palma", "slug": "la-palma", "elevation_m": 2426, "type": "Stratovolcano(es)", "last_eruption": "2021", "status": "Active", "eruption_count": 14, "vei_max": 3},
+      {"name": "Gran Canaria", "slug": "gran-canaria", "elevation_m": 1950, "type": "Fissure vent(s)", "last_eruption": "40 CE", "status": "Holocene", "eruption_count": 11, "vei_max": null},
+      {"name": "Hierro", "slug": "hierro", "elevation_m": 1500, "type": "Shield", "last_eruption": "2012", "status": "Active", "eruption_count": 4, "vei_max": 2},
+      {"name": "Calatrava Volcanic Field", "slug": "calatrava-volcanic-field", "elevation_m": 1117, "type": "Volcanic field", "last_eruption": "3600 BCE", "status": "Holocene", "eruption_count": 1, "vei_max": null},
+      {"name": "Olot Volcanic Field", "slug": "olot-volcanic-field", "elevation_m": 893, "type": "Volcanic field", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null},
+      {"name": "Lanzarote", "slug": "lanzarote", "elevation_m": 670, "type": "Fissure vent(s)", "last_eruption": "1824", "status": "Active", "eruption_count": 4, "vei_max": 3},
+      {"name": "Fuerteventura", "slug": "fuerteventura", "elevation_m": 529, "type": "Fissure vent(s)", "last_eruption": "Unknown", "status": "Holocene", "eruption_count": 0, "vei_max": null}
+    ]
+  },
+
+  "elevation_chart": [
+    {"name": "Tenerife", "elevation": 3715, "slug": "tenerife"},
+    {"name": "La Palma", "elevation": 2426, "slug": "la-palma"},
+    {"name": "Gran Canaria", "elevation": 1950, "slug": "gran-canaria"},
+    {"name": "Hierro", "elevation": 1500, "slug": "hierro"},
+    {"name": "Calatrava Volcanic Field", "elevation": 1117, "slug": "calatrava-volcanic-field"},
+    {"name": "Olot Volcanic Field", "elevation": 893, "slug": "olot-volcanic-field"},
+    {"name": "Lanzarote", "elevation": 670, "slug": "lanzarote"},
+    {"name": "Fuerteventura", "elevation": 529, "slug": "fuerteventura"}
+  ],
+
+  "eruption_timeline": [
+    {"year": -3600, "volcano": "Calatrava", "vei": null, "label": "Most recent eruption on the Iberian Peninsula mainland"},
+    {"year": 40, "volcano": "Gran Canaria", "vei": null, "label": "Most recent eruption on Gran Canaria"},
+    {"year": 1706, "volcano": "Tenerife", "vei": null, "label": "Montaña Negra eruption destroys port of Garachico"},
+    {"year": 1730, "volcano": "Lanzarote", "vei": 3, "label": "Timanfaya eruption begins — 6 years of continuous activity buries 1/3 of island's farmland"},
+    {"year": 1824, "volcano": "Lanzarote", "vei": 2, "label": "Most recent eruption on Lanzarote"},
+    {"year": 1909, "volcano": "Tenerife", "vei": null, "label": "Chinyero eruption — most recent on Tenerife"},
+    {"year": 1949, "volcano": "La Palma", "vei": 2, "label": "San Juan eruption on Cumbre Vieja"},
+    {"year": 1971, "volcano": "La Palma", "vei": 2, "label": "Teneguía eruption — southernmost historical eruption in Canaries"},
+    {"year": 2011, "volcano": "Hierro", "vei": 2, "label": "Submarine eruption off El Hierro coast — first Canary eruption since 1971"},
+    {"year": 2021, "volcano": "La Palma", "vei": 3, "label": "Tajogaite eruption destroys 1,676 buildings over 85 days — most destructive in centuries"}
+  ],
+
+  "vei_distribution": [
+    {"vei": 0, "count": 2},
+    {"vei": 2, "count": 12},
+    {"vei": 3, "count": 3},
+    {"vei": 4, "count": 1}
+  ],
+
+  "facts": [
+    "Tenerife's Teide at 3,715 m (12,188 ft) is the tallest peak in Spain and the tallest volcano in the Atlantic Ocean.",
+    "Lanzarote's Timanfaya eruption of 1730–1736 lasted approximately six years — one of the longest-duration historical eruptions on Earth.",
+    "La Palma's 2021 Tajogaite eruption destroyed 1,676 buildings and created over 40 hectares of new land where lava entered the ocean.",
+    "Teide National Park on Tenerife receives approximately 4 million visitors per year — making it Spain's most-visited national park.",
+    "The Canary Islands have experienced massive flank collapses creating submarine landslides up to 40 km long — among the largest mass movements on Earth.",
+    "El Hierro's 2011–2012 submarine eruption was detected by instruments before any surface manifestation, marking a triumph of modern monitoring.",
+    "The Timanfaya eruption buried approximately one-third of Lanzarote's arable land, forcing mass emigration from the island in the 18th century.",
+    "Tenerife has 42 confirmed Holocene eruptions — more than all other Spanish volcanoes combined.",
+    "Lanzarote's La Geria wine region uses a distinctive technique of planting vines in volcanic ash hollows (hoyos) protected by semicircular stone walls.",
+    "The Olot Volcanic Field in Catalonia contains ~40 volcanic cones, including Santa Margarida with a Romanesque chapel built inside its crater.",
+    "No fatalities occurred during La Palma's 2021 eruption despite 85 days of activity, credited to effective early-warning systems and organized evacuation.",
+    "Spain's Canary Islands host approximately 2.2 million permanent residents and receive over 15 million tourists annually — all living on active volcanic terrain."
+  ],
+
+  "faqs": [
+    {
+      "question": "How many volcanoes are in Spain?",
+      "answer": "Spain has 8 Holocene volcanoes recognized by the Smithsonian Global Volcanism Program: six in the Canary Islands (Tenerife, La Palma, Hierro, Gran Canaria, Lanzarote, and Fuerteventura) and two on the Iberian Peninsula mainland (the Olot Volcanic Field in Catalonia and the Calatrava Volcanic Field in Castilla–La Mancha). The Canary Islands are far more volcanically active, with 4 historically active volcanoes, while neither mainland field has erupted in recorded history."
+    },
+    {
+      "question": "When was the last volcanic eruption in Spain?",
+      "answer": "Spain's most recent volcanic eruption was the Tajogaite eruption on the Canary Island of La Palma, which lasted from September 19 to December 13, 2021 (85 days). The eruption produced ~200 million m³ of lava, destroyed 1,676 buildings, and displaced approximately 7,000 people. It was assigned a VEI of 3. Before that, Spain's previous eruption was the 2011–2012 submarine eruption off the coast of El Hierro, and before that, Teneguía on La Palma in 1971."
+    },
+    {
+      "question": "What is the tallest volcano in Spain?",
+      "answer": "Tenerife's Teide at 3,715 m (12,188 ft) is the tallest volcano in Spain and the tallest peak in the entire country. Measured from the ocean floor, Teide rises approximately 7,500 m, making it the third-tallest volcanic structure on Earth after Mauna Kea and Mauna Loa in Hawaii. Teide is a stratovolcano sitting inside the massive Las Cañadas caldera (10 × 17 km) and is topped by a phonolitic lava dome. A cable car carries visitors to 3,555 m, with the final ascent requiring a permit."
+    },
+    {
+      "question": "Are the Canary Islands volcanic?",
+      "answer": "Yes, the Canary Islands are entirely volcanic in origin. All seven major islands were built by volcanic activity over the past 20 million years as the African tectonic plate drifted eastward over a hotspot (mantle plume). The islands range from geologically old (Fuerteventura, ~20 million years) to very young (El Hierro, <2 million years). Four Canary Island volcanoes have erupted in historical times, and the archipelago averages one eruption roughly every 30–40 years."
+    },
+    {
+      "question": "Could Tenerife (Teide) erupt again?",
+      "answer": "Yes, Tenerife is considered an active volcano and will almost certainly erupt again. Teide has 42 confirmed Holocene eruptions, with the most recent in 1909. Historical eruptions on Tenerife have occurred roughly every 50–100 years since the 15th century. The IGN and INVOLCAN monitor Tenerife continuously with seismometers, GPS stations, and gas measurements. Future eruptions could range from small basaltic flank eruptions (like 1909) to potentially larger phonolitic eruptions from the summit complex, though the latter are less likely on short timescales."
+    },
+    {
+      "question": "What happened during the La Palma 2021 eruption?",
+      "answer": "The La Palma eruption of 2021 (Tajogaite eruption) began on September 19 when a fissure opened on the western flank of the Cumbre Vieja ridge following an intense seismic swarm. Over 85 days, lava flows advanced westward toward the coast, destroying 1,676 buildings, burying banana plantations and farmland, and creating over 40 hectares of new coastal land (lava deltas). Approximately 7,000 people were evacuated. Sulfur dioxide emissions and ashfall disrupted La Palma's airport repeatedly. The eruption ended on December 13, 2021. No fatalities occurred."
+    },
+    {
+      "question": "Is it safe to visit volcanoes in Spain?",
+      "answer": "Yes, Spain's volcanic sites are among the safest and most tourist-friendly in the world. Teide National Park on Tenerife and Timanfaya National Park on Lanzarote are fully developed tourism destinations with roads, cable cars, and visitor centers. The Canary Islands have not experienced eruption-related fatalities in the modern era, and the IGN/INVOLCAN monitoring network provides early warning. During active eruptions (such as La Palma 2021), authorities establish exclusion zones and organized evacuations. The mainland Olot volcanic field is dormant and poses no current risk."
+    },
+    {
+      "question": "Does mainland Spain have volcanoes?",
+      "answer": "Yes, mainland Spain has two Holocene volcanic fields: the Olot (Garrotxa) Volcanic Field in Catalonia, containing approximately 40 cinder cones, and the Calatrava Volcanic Field in Castilla–La Mancha, with numerous maar craters and cones. However, neither has erupted in recorded history — Calatrava's last eruption was approximately 3600 BCE. The mainland volcanic fields are intraplate features related to continental rifting, geologically unrelated to the Canary Islands' hotspot volcanism."
+    }
+  ],
+
+  "comparison_table": {
+    "title": "Spain Compared to Other Atlantic Volcanic Regions",
+    "headers": ["Region/Country", "Holocene Volcanoes", "Tallest Volcano", "Most Recent Eruption", "Tectonic Setting"],
+    "rows": [
+      ["Spain (Canaries)", "6", "Tenerife (3,715 m)", "La Palma (2021)", "Hotspot / Intraplate"],
+      ["Portugal (Azores)", "13", "Pico (2,351 m)", "Capelinhos (1958)", "Mid-Atlantic Ridge"],
+      ["Iceland", "35", "Öræfajökull (2,110 m)", "Sundhnúkur (2024)", "Mid-Atlantic Ridge + Hotspot"],
+      ["Cabo Verde", "1", "Fogo (2,829 m)", "Fogo (2014)", "Hotspot / Intraplate"],
+      ["France (Réunion)", "1", "Piton de la Fournaise (2,632 m)", "Piton (2024)", "Hotspot / Intraplate"]
+    ]
+  },
+
+  "external_links": [
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=383030", "text": "Smithsonian GVP: Tenerife", "type": "primary_source"},
+    {"url": "https://volcano.si.edu/volcano.cfm?vn=383010", "text": "Smithsonian GVP: La Palma", "type": "primary_source"},
+    {"url": "https://www.ign.es/web/ign/portal/vlc-area-volcanologia", "text": "IGN — Instituto Geográfico Nacional (Volcanology)", "type": "monitoring"},
+    {"url": "https://www.involcan.org/", "text": "INVOLCAN — Instituto Volcanológico de Canarias", "type": "monitoring"},
+    {"url": "https://www.britannica.com/place/Canary-Islands", "text": "Britannica: Canary Islands", "type": "encyclopedia"}
+  ],
+
+  "related_countries": ["portugal", "iceland", "france", "italy", "greece"],
+
+  "breadcrumb": [
+    {"label": "Home", "url": "/"},
+    {"label": "Volcanoes in Spain", "url": "/volcanoes-in-spain"}
+  ],
+
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3"
+}

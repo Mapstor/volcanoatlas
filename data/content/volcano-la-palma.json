@@ -1,0 +1,409 @@
+{
+  "slug": "la-palma",
+  "volcano_id": 383010,
+  "title": "La Palma",
+  "meta_title": "La Palma Volcano — 2021 Eruption, History & Facts | VolcanoAtlas",
+  "meta_description": "La Palma is a 2,426 m volcanic island in Spain's Canary Islands. The 2021 Tajogaite eruption destroyed 3,000+ buildings. Full eruption history and guide.",
+  "quick_answer": {
+    "what": "La Palma is a volcanic island in the northwestern Canary Islands, Spain, composed of two major volcanic centers — the older Caldera de Taburiente in the north and the younger, highly active Cumbre Vieja in the south, rising to 2,426 m (7,959 ft).",
+    "status": "Active — last erupted September-December 2021 (Tajogaite eruption on Cumbre Vieja). One of the most active volcanic islands in the Canary archipelago.",
+    "famous_for": "The 2021 Tajogaite eruption (VEI 3), which destroyed over 3,000 buildings, displaced thousands, and produced lava flows that reached the Atlantic Ocean, generating dramatic footage broadcast worldwide for 85 days.",
+    "danger_level": "Significant — approximately 83,000 people live on La Palma. The Cumbre Vieja rift zone has erupted seven times since 1585, with lava flows repeatedly reaching populated coastal areas."
+  },
+  "hero": {
+    "name": "La Palma",
+    "local_name": "La Palma / Cumbre Vieja",
+    "subtitle": "The Canary Island That Erupted Live on Global Television",
+    "country": "Spain",
+    "region": "Canary Islands",
+    "type": "Stratovolcano(es)",
+    "elevation_m": 2426,
+    "elevation_ft": 7959,
+    "status": "Active",
+    "last_eruption": "2021 (Tajogaite)",
+    "coordinates": {
+      "lat": 28.57,
+      "lon": -17.83
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-08752.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "2,426 m (7,959 ft)",
+    "type": "Stratovolcano(es) / Volcanic island with rift zone",
+    "status": "Active",
+    "last_eruption": "September 19 - December 13, 2021 (Tajogaite)",
+    "first_known_eruption": "~6050 BCE",
+    "total_recorded_eruptions": 14,
+    "vei_max": "3 (2021 Tajogaite)",
+    "country": "Spain",
+    "region": "Canary Islands, Atlantic Ocean",
+    "tectonic_setting": "Intraplate / Oceanic hotspot — oceanic crust (< 15 km)",
+    "rock_types": [
+      "Trachybasalt",
+      "Tephrite",
+      "Basanite"
+    ],
+    "coordinates": "28.57 N, 17.83 W",
+    "nearest_city": "Los Llanos de Aridane (population ~20,000) — on the western coast",
+    "population_at_risk": "~83,000 (entire island population)",
+    "island_dimensions": "47 km long, up to 28 km wide",
+    "monitoring_agency": "INVOLCAN (Instituto Volcanologico de Canarias) and IGN (Instituto Geografico Nacional)",
+    "smithsonian_id": "383010",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=383010"
+  },
+  "sections": {
+    "overview": {
+      "content": "La Palma is a volcanically active island in the northwestern Canary Islands, <a href=\"/volcanoes-in-spain\">Spain</a>, located in the eastern Atlantic Ocean approximately 400 km west of the African coast. The 47-km-long, wedge-shaped island is composed of two major volcanic centers: the older northern complex, truncated by the steep-walled Caldera de Taburiente (one of several massive collapse scarps produced by flank failure), and the younger Cumbre Vieja volcano on the southern half, which is one of the most active volcanic systems in the entire Canary archipelago. Cumbre Vieja's elongated N-S rift zone, dating back approximately 125,000 years, has produced 14 recorded eruptions, including seven since the 15th century — lava flows reached the sea in 1585, 1646, 1712, 1949, 1971, and most dramatically in 2021. The Tajogaite eruption of September-December 2021, classified at <a href=\"/volcanic-explosivity-index\">VEI</a> 3, was one of the most destructive volcanic events in recent European history, destroying over 3,000 buildings, burying agricultural land under lava, displacing approximately 7,000 people, and generating global media coverage over its 85-day duration. La Palma's volcanism is driven not by subduction but by an intraplate oceanic hotspot, similar to <a href=\"/volcano/kilauea\">Kilauea</a> in Hawaii, producing predominantly basanitic and trachybasaltic lavas that erupt along the Cumbre Vieja rift."
+    },
+    "geology_and_formation": {
+      "content": "La Palma is a volcanic ocean island built on oceanic crust less than 15 km thick, driven by intraplate magmatism associated with the Canary Islands hotspot. Unlike volcanoes on the <a href=\"/ring-of-fire\">Ring of Fire</a>, La Palma does not sit above a subduction zone — its magma originates from a deep mantle source (hotspot or mantle plume) that has fueled volcanic activity across the Canary archipelago for tens of millions of years, progressing generally from east to west. The island's geological history spans over 3 million years. The northern shield volcano, now deeply eroded and exposed in the Caldera de Taburiente, represents the older constructional phase. The 'caldera' is actually a massive erosional and gravitational collapse feature rather than a volcanic caldera in the traditional sense — multiple massive landslides have carved away the northern edifice over time. Cumbre Vieja, the southern volcanic center, is geologically young (~125,000 years) and highly active. Its elongated N-S rift zone is the dominant structural control on eruptions, with fissures opening and building cinder cones and lava flows along the ridge axis. The predominantly alkaline basaltic magma — trachybasalt, tephrite, and basanite — reflects the deep mantle source and the oceanic setting."
+    },
+    "eruption_history_overview": {
+      "content": "La Palma's eruptive record includes 14 confirmed eruptions spanning from approximately 6050 BCE to 2021 CE. Prehistoric eruptions include events around 6050, 4900, 4050, 1320 BCE, and 360 BCE, identified through geological mapping and radiocarbon dating. The historical record begins with an eruption in 1481 at Tacande (Montanana Quemada), shortly after Spanish colonization. Since then, Cumbre Vieja has erupted with remarkable regularity: 1585 (Tahuya), 1646 (Tigalate), 1677-1678 (Fuencaliente), 1712 (El Charco), 1949 (San Juan), 1971 (Teneguia), and 2021 (Tajogaite). This gives an average historical recurrence interval of approximately 77 years. Most eruptions have been fissure-fed, producing cinder cone complexes and basaltic lava flows that descend the steep flanks to the coast. Lava reached the Atlantic Ocean in at least seven of these historical eruptions. VEI values have been moderate, predominantly VEI 2, with the 2021 event reaching VEI 3."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The 2021 Tajogaite Eruption — La Palma's Costliest Volcanic Disaster",
+          "content": "On September 19, 2021, after a week of escalating seismic swarms, a fissure opened on the western flank of Cumbre Vieja in the Cabeza de Vaca area, above the village of El Paso. The eruption, later named Tajogaite (after the historical local name for the area), rapidly developed multiple vents that fed spectacular lava fountains and fast-moving lava flows toward the coast. The lava advanced down the steep western slopes, destroying everything in its path. Over the course of the 85-day eruption (the longest in La Palma's historical record), lava flows buried over 1,200 hectares of land, destroyed more than 3,000 buildings including homes, schools, and churches, and obliterated banana plantations that were the economic backbone of the affected communities. Approximately 7,000 people were evacuated. The lava reached the Atlantic Ocean, creating new land (lava deltas) that extended the island's coastline. The eruption produced continuous Strombolian-to-violent-Strombolian explosions from the main vent complex, with ash plumes reaching 5-8 km altitude and intermittently disrupting air traffic at La Palma's airport and across the Canary Islands. The eruption was classified at VEI 3 and produced approximately 200 million m3 of lava. Remarkably, no direct fatalities were attributed to the eruption — a testament to effective monitoring by INVOLCAN and IGN, timely evacuations, and exclusion zones. The economic damage, however, was estimated at over 840 million euros, making it the costliest volcanic event in modern Spanish history. The eruption was declared officially over on December 25, 2021."
+        },
+        {
+          "title": "The 1971 Teneguia Eruption — La Palma's Previous Modern Event",
+          "content": "The Teneguia eruption began on October 26, 1971, near the southern tip of the island at the Fuencaliente area. This relatively small VEI 2 eruption lasted about three weeks, producing lava flows that reached the sea and building the Teneguia cinder cone. No significant damage to populated areas occurred, and the eruption became a tourist attraction. The 50-year interval between Teneguia and Tajogaite was within the island's historical average recurrence period."
+        },
+        {
+          "title": "The 1677-1678 Eruption — Fuencaliente and the Southern Tip",
+          "content": "Beginning on November 17, 1677, eruptions from the north and south flanks of San Antonio cone near the island's southern tip produced lava flows that reached the sea and created the broad lava field still visible around Fuencaliente. This VEI 2 eruption, lasting into 1678, significantly modified the island's southern coastline and is commemorated in the local place name Fuencaliente ('Hot Spring'), referring to thermal springs created by the eruption that have since disappeared."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Since the end of the 2021 Tajogaite eruption, La Palma has returned to a state of post-eruptive unrest with gradually declining seismicity. INVOLCAN (Instituto Volcanologico de Canarias) and IGN (Instituto Geografico Nacional) operate an extensive monitoring network including seismometers, GPS stations, gas monitors (especially CO2 and SO2), gravimeters, and satellite InSAR analysis. Post-eruption degassing from the Tajogaite lava field continues, with CO2 emissions from ground cracks posing localized hazards in low-lying areas near the eruption site. Surface temperatures on the lava field remain elevated. The volcanic alert level was lowered to green (normal background) in 2022, though scientists emphasize that Cumbre Vieja's historical pattern of eruptions every 50-80 years means the island will certainly erupt again. Future eruptions are most likely to occur along the N-S rift zone of Cumbre Vieja."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "La Palma's primary hazards are lava flows, ashfall, volcanic gas emissions, and ground deformation. Lava flows are the most destructive — Cumbre Vieja's steep western and eastern flanks accelerate lava descent toward populated coastal areas, as demonstrated catastrophically in 2021. The 2021 lava flows destroyed over 3,000 buildings in communities including Todoque, which was essentially obliterated. Ashfall disrupts agriculture, aviation, and daily life across wide areas. Volcanic gases, particularly SO2 and CO2, pose health risks in downwind areas and in low-lying zones where dense CO2 can accumulate. A separate but related hazard is the possibility of a catastrophic flank collapse of Cumbre Vieja, which some researchers have hypothesized could generate a trans-Atlantic tsunami. While this scenario has received significant media attention, most volcanologists consider a sudden, wholesale flank collapse extremely unlikely — such events typically occur incrementally over many eruptions. Nevertheless, La Palma's steep flanks and historical evidence of past mass-wasting events mean that landslide hazards cannot be entirely dismissed."
+    },
+    "geography_and_physical_description": {
+      "content": "La Palma is the northwesternmost island of the Canary Islands, measuring 47 km long and up to 28 km wide, with an area of approximately 708 km2. The island's highest point is Roque de los Muchachos at 2,426 m (7,959 ft), on the northern rim of the Caldera de Taburiente. This massive erosional amphitheater, approximately 10 km in diameter and 1,500 m deep, exposes the ancient volcanic core of the island and is now a national park. The southern half of the island is dominated by the Cumbre Vieja ridge, a volcanic rift zone rising to about 1,950 m, lined with over 120 visible cinder cones and craters. The western flanks drop steeply to the Atlantic, while the eastern slopes are somewhat gentler. La Palma's climate is subtropical oceanic, with a distinctive temperature inversion that supports cloud forests (laurisilva) on the windward northeastern slopes. The island's steep terrain concentrates settlements along the coast and in valley floors — areas directly in the path of potential lava flows."
+    },
+    "climate_and_global_impact": {
+      "content": "La Palma's historical eruptions have been primarily local in impact, producing too little sulfur dioxide and tephra to affect global climate significantly. The 2021 Tajogaite eruption's SO2 emissions were tracked by satellite (TROPOMI) and were substantial regionally but did not inject significant material into the stratosphere. The eruption's laze (lava-seawater interaction plumes) created localized marine pollution and air quality hazards along the coast. Compared with climate-altering eruptions like <a href=\"/volcano/tambora\">Tambora</a> (1815) or <a href=\"/volcano/pinatubo\">Pinatubo</a> (1991), La Palma's eruptions are modest in atmospheric terms. The island's primary impact is socioeconomic rather than climatic."
+    },
+    "cultural_significance": {
+      "content": "La Palma, known as 'La Isla Bonita' (The Beautiful Island), has deep cultural significance within the Canary Islands. The island's pre-Spanish indigenous inhabitants, the Benahoaritas (Auaritas), were Berber-descended people who left rock inscriptions and lived with the island's volcanic activity before Spanish conquest in 1493. The Caldera de Taburiente was a final refuge for indigenous resistance. La Palma's modern culture is deeply tied to its agricultural landscape — banana plantations, vineyards producing the celebrated Malvasia wine, and almond orchards. The 2021 eruption had an immense cultural impact, destroying historic churches, family homes passed down for generations, and the community fabric of villages like Todoque and La Laguna. The eruption became a defining event in Canarian identity, with widespread solidarity campaigns across Spain. The Roque de los Muchachos Observatory, one of the world's premier astronomical facilities, sits atop the Caldera de Taburiente rim, taking advantage of La Palma's clear skies and strict light pollution controls."
+    },
+    "visiting_and_tourism": {
+      "content": "La Palma is a UNESCO Biosphere Reserve and Starlight Reserve, attracting tourists for its dramatic volcanic landscapes, laurel forests, and pristine night skies. Key volcanic attractions include the Caldera de Taburiente National Park, the Cumbre Vieja hiking route along the volcanic ridge, and the Teneguia cinder cone and lava fields at the southern tip. Since the 2021 eruption, the Tajogaite lava field and new coastline have become significant points of interest, with viewpoints established at safe distances. The Fuencaliente area offers volcanic wine tours on the lava-soil vineyards. The island is accessible via La Palma Airport (SPC), with regular flights from mainland Spain and inter-island connections. Visitors can also arrive by ferry from Tenerife. The best hiking conditions are typically spring and autumn."
+    },
+    "nearby_volcanoes": {
+      "content": "La Palma is part of the Canary Islands volcanic archipelago. <a href=\"/volcano/tenerife\">Teide on Tenerife</a> (3,715 m), the tallest peak in the Atlantic, lies approximately 140 km to the east. El Hierro, the smallest Canary Island, experienced a submarine eruption in 2011-2012. Lanzarote's Timanfaya National Park preserves the dramatic landscape created by eruptions in 1730-1736, one of the longest historical eruptions in the Canaries. Fuerteventura and Gran Canaria represent older, more eroded volcanic islands. To the north, the Azores — including <a href=\"/volcano/terceira\">Terceira</a> and São Miguel — represent another major Atlantic volcanic archipelago, though on a different tectonic setting (rift zone vs. hotspot)."
+    },
+    "etymology": {
+      "content": "The name 'La Palma' (The Palm) derives from the Spanish colonial era and the palm trees that characterize the island. The indigenous Benahoaritas called the island 'Benahoare,' meaning 'my land' in their Berber-influenced language. The Cumbre Vieja ('Old Summit') name is somewhat misleading, as it is geologically much younger than the Caldera de Taburiente complex in the north. The 2021 eruption site was officially named 'Tajogaite' after the pre-colonial indigenous place name for the area."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "La Palma Compared to Other Atlantic Volcanic Islands",
+      "description": "How does La Palma compare to other volcanic islands in the Atlantic?",
+      "headers": [
+        "Volcano/Island",
+        "Country",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "La Palma",
+          "Spain",
+          "2,426 m",
+          "Stratovolcano(es)",
+          "2021",
+          "3",
+          "14"
+        ],
+        [
+          "Tenerife (Teide)",
+          "Spain",
+          "3,715 m",
+          "Stratovolcano",
+          "1909",
+          "4",
+          "7"
+        ],
+        [
+          "El Hierro",
+          "Spain",
+          "1,501 m",
+          "Shield",
+          "2011-2012",
+          "2",
+          "3"
+        ],
+        [
+          "Terceira",
+          "Portugal",
+          "1,023 m",
+          "Stratovolcano(es)",
+          "1998-2000",
+          "3",
+          "15"
+        ],
+        [
+          "Fogo",
+          "Cape Verde",
+          "2,829 m",
+          "Stratovolcano",
+          "2014",
+          "3",
+          "27"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6050,
+      "vei": null,
+      "label": "Earliest known eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -4050,
+      "vei": null,
+      "label": "Eruption at L'Amendrita/Birigoyo",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1481,
+      "vei": 2,
+      "label": "First historical eruption — Tacande",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1585,
+      "vei": 2,
+      "label": "Tahuya eruption — lava reaches sea",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1646,
+      "vei": 2,
+      "label": "Tigalate eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1677,
+      "vei": 2,
+      "label": "Fuencaliente — broad lava field created",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1712,
+      "vei": 2,
+      "label": "El Charco eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1949,
+      "vei": 2,
+      "label": "San Juan eruption — multiple vents",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1971,
+      "vei": 2,
+      "label": "Teneguia — tourist attraction eruption",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 2021,
+      "vei": 3,
+      "label": "Tajogaite — 85-day eruption destroys 3,000+ buildings",
+      "deaths": 0,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 6,
+      "note": "From ~6050 BCE to ~900 CE"
+    },
+    {
+      "century": "15th",
+      "count": 1
+    },
+    {
+      "century": "16th",
+      "count": 1
+    },
+    {
+      "century": "17th",
+      "count": 2
+    },
+    {
+      "century": "18th",
+      "count": 1
+    },
+    {
+      "century": "20th",
+      "count": 2
+    },
+    {
+      "century": "21st",
+      "count": 1
+    }
+  ],
+  "facts": [
+    "The 2021 Tajogaite eruption lasted 85 days, the longest historically recorded eruption on La Palma, destroying over 3,000 buildings and displacing approximately 7,000 people.",
+    "La Palma has erupted seven times since 1585, giving it an average recurrence interval of approximately 77 years — one of the most predictable eruption patterns among Atlantic volcanic islands.",
+    "Lava flows reached the Atlantic Ocean during at least seven of La Palma's historical eruptions (1585, 1646, 1712, 1949, 1971, and 2021), creating new coastal land each time.",
+    "The Roque de los Muchachos Observatory on La Palma's summit ridge is one of the world's premier astronomical facilities, located at 2,426 m elevation with some of the clearest skies in the Northern Hemisphere.",
+    "The economic damage from the 2021 eruption exceeded 840 million euros, making it the costliest volcanic event in modern Spanish history.",
+    "No direct fatalities occurred during the 2021 eruption despite its severity, thanks to effective monitoring and timely evacuation — a model for volcanic risk management.",
+    "The Caldera de Taburiente, approximately 10 km in diameter and 1,500 m deep, is not a volcanic caldera but a massive erosional and gravitational collapse feature.",
+    "La Palma's Cumbre Vieja rift zone contains over 120 visible cinder cones and craters, lined along a prominent N-S axis.",
+    "Obsidian and volcanic rock from La Palma were used by the indigenous Benahoaritas for tools before Spanish colonization in 1493.",
+    "The 2021 Tajogaite eruption produced approximately 200 million cubic meters of lava, enough to fill 80,000 Olympic swimming pools."
+  ],
+  "faqs": [
+    {
+      "question": "Is La Palma still volcanically active?",
+      "answer": "Yes, La Palma is one of the most active volcanic islands in the Canary archipelago. The Cumbre Vieja rift zone on the southern half of the island has erupted seven times since 1585, most recently during the Tajogaite eruption of September-December 2021. While the island is currently in a post-eruptive quiescent phase with gradually declining seismicity, scientists consider future eruptions on Cumbre Vieja to be certain — the historical record suggests eruptions approximately every 50-80 years. INVOLCAN and IGN maintain extensive monitoring networks on the island."
+    },
+    {
+      "question": "What happened during the 2021 La Palma eruption?",
+      "answer": "The Tajogaite eruption began on September 19, 2021, when a fissure opened on Cumbre Vieja's western flank. Over 85 days, lava flows destroyed more than 3,000 buildings, buried over 1,200 hectares of land — including banana plantations — and displaced approximately 7,000 people. Lava reached the Atlantic Ocean, creating new coastal land. Explosive activity from the main vent complex sent ash plumes up to 8 km high. The eruption ended on December 13, 2021, and was classified at VEI 3. Despite the destruction, no direct fatalities occurred thanks to effective monitoring and evacuation."
+    },
+    {
+      "question": "Could La Palma cause a mega-tsunami?",
+      "answer": "The idea that a Cumbre Vieja flank collapse could generate a devastating trans-Atlantic tsunami was proposed in a 2001 scientific paper and has received extensive media coverage. However, most volcanologists consider a sudden, catastrophic flank collapse extremely unlikely. Large volcanic landslides typically occur incrementally over many events rather than as a single catastrophic failure. While La Palma's steep flanks and historical evidence of past mass-wasting events mean landslide hazards cannot be entirely dismissed, the extreme mega-tsunami scenario is considered by the scientific consensus to be highly improbable. Lava flows and ashfall remain the primary realistic hazards."
+    },
+    {
+      "question": "How many times has La Palma erupted?",
+      "answer": "The Smithsonian Global Volcanism Program records 14 eruptions at La Palma, spanning from approximately 6050 BCE to the 2021 Tajogaite eruption. Seven of these have occurred during the historical period since 1481: Tacande (1481), Tahuya (1585), Tigalate (1646), Fuencaliente (1677-1678), El Charco (1712), San Juan (1949), Teneguia (1971), and Tajogaite (2021). All historical eruptions have been fissure-fed events on the Cumbre Vieja rift zone, producing cinder cones and lava flows."
+    },
+    {
+      "question": "Can you visit the 2021 eruption site on La Palma?",
+      "answer": "Yes, the 2021 Tajogaite lava field and eruption site have become significant visitor attractions on La Palma. Viewpoints have been established at safe distances around the lava field perimeter, offering views of the new volcanic cone, the solidified lava rivers, and the new coastline created where lava entered the sea. Some areas remain restricted due to ongoing gas emissions (particularly CO2) and unstable ground. The island also offers numerous other volcanic attractions including the Caldera de Taburiente National Park, the Cumbre Vieja ridge trail, and the Teneguia volcanic area at the southern tip."
+    },
+    {
+      "question": "What type of volcano is La Palma?",
+      "answer": "La Palma is an oceanic volcanic island built by intraplate (hotspot) volcanism, similar in tectonic origin to Hawaii though different in composition. The active Cumbre Vieja system is a volcanic rift zone — an elongated N-S ridge along which fissure eruptions produce cinder cones and basaltic lava flows. The predominant rock types are trachybasalt, tephrite, and basanite — alkaline basaltic compositions reflecting the deep mantle hotspot source. The eruption style is typically Strombolian to violent Strombolian, with lava fountains, cinder cone building, and fluid lava flows."
+    },
+    {
+      "question": "How tall is La Palma?",
+      "answer": "La Palma's highest point is Roque de los Muchachos at 2,426 m (7,959 ft), on the northern rim of the Caldera de Taburiente. This makes La Palma one of the tallest Atlantic volcanic islands. The active Cumbre Vieja ridge reaches approximately 1,950 m. However, the island rises from ocean depths of over 4,000 m, meaning La Palma's total volcanic edifice is over 6,500 m from seafloor to summit — comparable to many major continental volcanoes."
+    }
+  ],
+  "people_also_search": [
+    "la palma eruption 2021",
+    "la palma volcano current status",
+    "la palma tsunami risk",
+    "tajogaite eruption",
+    "cumbre vieja",
+    "la palma canary islands",
+    "la palma volcano lava flow"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "La Palma",
+    "alternateName": [
+      "Cumbre Vieja",
+      "Isla de La Palma"
+    ],
+    "description": "Active volcanic island in the Canary Islands, Spain, famous for the 2021 Tajogaite eruption that destroyed over 3,000 buildings",
+    "geo": {
+      "latitude": 28.57,
+      "longitude": -17.83,
+      "elevation": 2426
+    },
+    "containedInPlace": {
+      "name": "Canary Islands",
+      "country": "Spain"
+    },
+    "url": "https://volcanoatlas.com/volcano/la-palma"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=383010",
+      "text": "Smithsonian GVP: La Palma",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.involcan.org/",
+      "text": "INVOLCAN — Canary Islands Volcanology Institute",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.ign.es/web/ign/portal/vlc-area-702volcanoactividad",
+      "text": "IGN — Spain National Geographic Institute Volcanic Monitoring",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Canary-Islands",
+      "text": "Britannica: Canary Islands",
+      "type": "encyclopedia"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "tenerife",
+      "terceira",
+      "kilauea",
+      "pinatubo",
+      "tambora"
+    ],
+    "country_pages": [
+      "spain",
+      "portugal"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "active-volcanoes",
+      "most-active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "tenerife",
+    "el-hierro",
+    "terceira",
+    "fogo",
+    "lanzarote"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Spain",
+      "url": "/volcanoes-in-spain"
+    },
+    {
+      "label": "La Palma",
+      "url": "/volcano/la-palma"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/la-palma"
+}

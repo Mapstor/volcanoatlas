@@ -1,0 +1,436 @@
+{
+  "slug": "tungurahua",
+  "volcano_id": 352080,
+  "title": "Tungurahua",
+  "meta_title": "Tungurahua Volcano — Eruption History, Hazards & Facts | VolcanoAtlas",
+  "meta_description": "Tungurahua is a 5,023 m active stratovolcano in Ecuador. Its 1999-2016 eruption forced evacuation of Banos. Complete eruption history, hazards, and visitor guide.",
+  "quick_answer": {
+    "what": "Tungurahua is a steep-sided andesitic stratovolcano rising to 5,023 m (16,480 ft) in the Eastern Cordillera of the Ecuadorian Andes, towering more than 3 km above the city of Banos at its northern base.",
+    "status": "Active — the most recent major eruption lasted from 1999 to 2016, one of Ecuador's longest historical eruptions. Currently in repose but closely monitored.",
+    "famous_for": "The dramatic 1999-2016 eruption that forced the evacuation of the tourist city of Banos (population ~20,000) and produced repeated pyroclastic flows, heavy ashfall, and lahars over 17 years.",
+    "danger_level": "High — approximately 32,000 people live within the immediate hazard zone. Pyroclastic flows from moderate eruptions can reach populated areas within minutes."
+  },
+  "hero": {
+    "name": "Tungurahua",
+    "local_name": "Tungurahua",
+    "subtitle": "The Black Giant of the Eastern Andes",
+    "country": "Ecuador",
+    "region": "Eastern Cordillera, Andes",
+    "type": "Stratovolcano",
+    "elevation_m": 5023,
+    "elevation_ft": 16480,
+    "status": "Active",
+    "last_eruption": "2016",
+    "coordinates": {
+      "lat": -1.467,
+      "lon": -78.442
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04478.jpg",
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+  },
+  "key_facts_box": {
+    "elevation": "5,023 m (16,480 ft)",
+    "type": "Stratovolcano",
+    "status": "Active",
+    "last_eruption": "2012-2016 (most recent intense phase)",
+    "first_known_eruption": "~7750 BCE",
+    "total_recorded_eruptions": 37,
+    "vei_max": "5 (~1010 BCE), 4 (730 CE, 1886, 1916-1925)",
+    "country": "Ecuador",
+    "region": "Tungurahua Province, Eastern Cordillera",
+    "tectonic_setting": "Subduction zone — Nazca Plate beneath South American Plate (Northern Andean Volcanic Arc)",
+    "rock_types": [
+      "Andesite",
+      "Basaltic Andesite"
+    ],
+    "coordinates": "1.467S, 78.442W",
+    "nearest_city": "Banos de Agua Santa — at the volcano's northern base",
+    "population_at_risk": "~32,000 in immediate hazard zone; ~300,000 in broader ashfall zone",
+    "summit_crater": "Open to the west, ~400 m wide",
+    "edifice_collapse_history": "Two major collapses: Tungurahua II (~14,000 years ago) and Tungurahua III (~3,000 years ago)",
+    "monitoring_agency": "Instituto Geofisico, Escuela Politecnica Nacional (IG-EPN)",
+    "smithsonian_id": "352080",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=352080"
+  },
+  "sections": {
+    "overview": {
+      "content": "Tungurahua is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> rising to 5,023 m (16,480 ft) in the Eastern Cordillera of the Ecuadorian Andes, approximately 140 km south of Quito. Its steep-sided cone towers more than 3,000 m above the city of Banos de Agua Santa, a popular tourist destination of approximately 20,000 residents that sits at the volcano's northern base at an elevation of roughly 1,820 m. Tungurahua is one of <a href=\"/volcanoes-in-ecuador\">Ecuador's</a> most active volcanoes, with 37 recorded eruptions spanning from approximately 7750 BCE to 2016. The volcano achieved international prominence during its prolonged eruption from 1999 to 2016, which forced the evacuation of Banos on multiple occasions, produced devastating pyroclastic flows and lahars, and became one of the best-monitored volcanic crises in South American history. Three successive volcanic edifices have been constructed at this site: the original Tungurahua I, Tungurahua II (built within the past 14,000 years after the collapse of the first edifice), and the modern glacier-capped Tungurahua III, built within the landslide scarp of Tungurahua II which collapsed approximately 3,000 years ago. The volcano sits along the Northern Andean Volcanic Arc, where the Nazca Plate subducts beneath the South American Plate, and its andesitic magma produces eruptions ranging from moderate Strombolian activity to violent sub-Plinian and Plinian events that have historically reached <a href=\"/volcanic-explosivity-index\">VEI 5</a>."
+    },
+    "geology_and_formation": {
+      "content": "Tungurahua's geological history is one of repeated construction and catastrophic collapse. Three major edifices have been built at this location since the mid-Pleistocene, each rising to impressive heights before experiencing sector collapse. The original edifice (Tungurahua I) was constructed over basement metamorphic rocks. Tungurahua II was built within approximately the past 14,000 years following the collapse of the initial cone. This second edifice itself collapsed approximately 3,000 years ago, producing a massive debris-avalanche deposit that traveled westward down the Rio Pastaza valley. The modern volcano — Tungurahua III — has been constructed within the horseshoe-shaped amphitheater left by this collapse.\n\nThe volcano owes its existence to the subduction of the Nazca Plate beneath the South American Plate at the Peru-Chile Trench, with the subducting slab reaching depths of approximately 150 km beneath the Eastern Cordillera. The resulting magma is predominantly andesitic (57-63% SiO2), producing eruptions that range from Strombolian lava fountaining to violent Vulcanian and sub-Plinian explosions. The high elevation of Tungurahua's summit (5,023 m) means it carries glacial ice, though these glaciers have been retreating significantly due to both climate change and volcanic heating. The interaction of hot volcanic material with glacial ice and snow creates a particular lahar (volcanic mudflow) hazard, as meltwater mixes with volcanic debris to form fast-moving flows that can descend the volcano's steep drainages with devastating force."
+    },
+    "eruption_history_overview": {
+      "content": "The Smithsonian GVP records 37 eruptions for Tungurahua, spanning from approximately 7750 BCE to 2016 CE. The eruption record reveals a volcano capable of both prolonged moderate activity and catastrophic paroxysmal events. The most powerful known eruption, approximately 1010 BCE, reached VEI 5 — a Plinian event that produced widespread pyroclastic flows and thick tephra deposits. Two additional VEI 4 eruptions occurred around 730 CE and during the 1886 and 1916-1925 historical eruptions. The most significant modern event was the 1999-2016 eruption (peaking at VEI 3), which lasted 17 years and involved repeated phases of heightened explosive activity, pyroclastic flows, and heavy ashfall. Historical eruptions have all originated from the summit crater. The pattern shows Tungurahua alternating between extended periods of quiescence (decades to centuries) and episodes of sustained, sometimes years-long activity."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The ~1010 BCE Eruption (VEI 5) — Tungurahua's Largest Known Event",
+          "content": "The most powerful eruption in Tungurahua's recorded geological history occurred approximately 3,000 years ago (recorded in the database as ~1010 BCE). This VEI 5 Plinian eruption produced a massive eruption column, widespread pyroclastic flows, and heavy tephra fallout across the central Ecuadorian highlands. The eruption is closely associated with the collapse of the Tungurahua II edifice, which generated a catastrophic debris avalanche that swept down the Rio Pastaza valley. The combined volcanic and collapse event devastated the surrounding landscape and initiated the construction of the modern Tungurahua III edifice within the resulting collapse scar. This eruption demonstrates that Tungurahua is capable of violence far exceeding anything witnessed in historical times."
+        },
+        {
+          "title": "The 1886-1888 Eruption (VEI 4)",
+          "content": "Beginning on January 11, 1886, Tungurahua experienced one of its most significant historical eruptions, rated VEI 4. Strong Vulcanian to sub-Plinian explosions produced eruption columns that rose several kilometers above the summit, raining ash across the central highlands. Pyroclastic flows descended multiple drainages on the volcano's flanks, and lahars swept down river valleys. The eruption continued intermittently until 1888, with periodic peaks of explosive activity. This event served as a stark reminder to the communities at Tungurahua's base of the volcano's destructive potential and established a template for the type of hazards that would recur during the 1999-2016 eruption."
+        },
+        {
+          "title": "The 1916-1925 Eruption (VEI 4) — Nine Years of Intermittent Activity",
+          "content": "Beginning in March 1916, Tungurahua entered a prolonged eruptive period that continued, with fluctuations, until 1925. The eruption reached VEI 4 during its most intense phases, producing significant ashfall across the Tungurahua and Chimborazo provinces. Pyroclastic flows and lahars affected the Rio Pastaza drainage and surrounding areas. This eruption was the last major activity before the volcano fell quiet for over seven decades — a period of calm that allowed Banos to grow into a thriving town at the volcano's base, a development that would have profound consequences when activity resumed in 1999."
+        },
+        {
+          "title": "The 1999-2016 Eruption (VEI 3) — 17 Years of Crisis",
+          "content": "Tungurahua's defining modern eruption began on October 5, 1999, after a precursory period of increasing seismicity and fumarolic activity. The initial explosive phase prompted the Ecuadorian government to order the evacuation of Banos and surrounding communities — approximately 25,000 people were displaced. The eruption would continue, with varying intensity, for an extraordinary 17 years until 2016.\n\nThe crisis was marked by repeated cycles of heightened activity. Particularly intense phases occurred in 2006, when powerful Vulcanian explosions on August 16-17 produced pyroclastic flows that descended all flanks of the volcano, killing at least 5 people in the community of Palictahua and destroying crops and infrastructure. Additional intense phases in 2008, 2010, 2012, and 2014 produced further pyroclastic flows, heavy ashfall, and lahars. The eruption became a case study in long-duration volcanic crisis management, with Ecuador's Instituto Geofisico maintaining continuous monitoring using seismometers, infrasound sensors, gas analyzers, lahar detection systems, and satellite remote sensing.\n\nThe social impact was profound. The 1999 evacuation of Banos — initially voluntary, then mandatory — sparked controversy when residents, frustrated by economic losses, forced their way past military blockades to return to the town in January 2000 despite ongoing eruptions. This tension between volcanic risk and livelihood became one of the most studied social science aspects of the eruption. The city of Banos ultimately coexisted with the erupting volcano for over 15 years, developing alert systems and evacuation protocols that allowed the community to function while maintaining awareness of volcanic hazard."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Since the end of the 1999-2016 eruption, Tungurahua has been in a period of relative quiescence, though it remains classified as active and is closely monitored. The Instituto Geofisico of the Escuela Politecnica Nacional (IG-EPN) operates one of South America's most comprehensive volcano monitoring networks at Tungurahua, including broadband seismometers, infrasound detectors, ground-deformation GPS receivers, SO2 gas flux measurement systems (DOAS), rain gauges linked to lahar-detection acoustic flow monitors in river valleys, and multiple webcams. This network was developed and refined during the 1999-2016 crisis with international support.\n\nBackground seismicity and minor fumarolic emissions from the summit crater continue, indicating that the magmatic system remains thermally active. Scientists at IG-EPN maintain alert levels and evacuation plans, recognizing that the historical pattern at Tungurahua — decades of quiet followed by years-long eruptions — suggests that future activity is a matter of when, not if."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Tungurahua presents one of the most acute volcanic risks in South America due to the combination of its explosive capability, steep slopes, glacier cap, and the proximity of populated areas. The city of Banos de Agua Santa (~20,000 people) sits directly at the volcano's northern base, and an estimated 32,000 people live within the immediate hazard zone. The primary hazards include pyroclastic flows, which can descend the steep flanks at speeds exceeding 100 km/h and reach inhabited areas within minutes; tephra fall, which can blanket agricultural land and damage infrastructure across the broader region; lahars, generated by rainfall on fresh ash deposits or the interaction of volcanic material with glacial meltwater, which can travel rapidly down the Rio Pastaza and other drainages; and volcanic gases, particularly SO2.\n\nThe precedent of the 1999-2016 eruption demonstrated these hazards in practice: pyroclastic flows killed people at distances of several kilometers from the summit, ashfall damaged crops and caused respiratory issues across the province, and lahars repeatedly disrupted road and bridge infrastructure. The historical record shows Tungurahua is capable of VEI 5 eruptions (the ~1010 BCE event), which would be catastrophic for the entire region. Evacuation planning for Banos and surrounding communities is maintained by Ecuadorian civil defense authorities."
+    },
+    "geography_and_physical_description": {
+      "content": "Tungurahua is a strikingly steep-sided stratovolcano whose near-perfect conical profile rises dramatically above the deep valley of the Rio Pastaza. From the city of Banos at its northern base (elevation ~1,820 m), the summit towers more than 3,200 m overhead — one of the most dramatic relief differences between any volcano and an adjacent city. The summit is truncated by a crater approximately 400 m wide that opens to the west. The upper slopes above approximately 4,500 m carry glacial ice, though these glaciers have retreated significantly in recent decades. The lower slopes are densely vegetated with cloud forest and agricultural land, grading into paramo grassland at higher elevations. The western flank bears the horseshoe-shaped scar of the Tungurahua II collapse approximately 3,000 years ago, partially infilled by the modern cone. The Rio Pastaza, which drains the volcano's northern and western slopes, has carved a deep gorge and is one of the primary lahar pathways."
+    },
+    "climate_and_global_impact": {
+      "content": "Tungurahua's eruptions have had primarily regional rather than global climatic impacts. The 1999-2016 eruption (VEI 3) injected sulfur dioxide and ash into the upper troposphere but not into the stratosphere at levels sufficient to affect global temperatures. The VEI 4 eruptions of 1886 and 1916 similarly had regional effects — significant ashfall across central Ecuador — but no documented global climate signal. The VEI 5 eruption approximately 3,000 years ago would have had a larger atmospheric signature, but predates written records. For context, neighboring <a href=\"/volcano/cotopaxi\">Cotopaxi</a> (VEI 4 in 1877) and more distant Andean volcanoes like <a href=\"/volcano/tambora\">Tambora</a> (VEI 7, 1815) serve as examples of the spectrum of volcanic climate forcing in the region."
+    },
+    "cultural_significance": {
+      "content": "In Kichwa (the indigenous Quechua language of Ecuador), 'Tungurahua' is often translated as 'Throat of Fire' (from tunguri, throat, and rauray, to burn), an apt description for a volcano whose summit crater has produced dramatic fire fountains and eruption columns throughout recorded history. The volcano is central to the cultural identity of Banos de Agua Santa, a town whose very name ('Baths of Holy Water') reflects the thermal hot springs generated by volcanic heat. Banos has developed a unique cultural relationship with its volcano — living in Tungurahua's shadow for centuries, the community has alternated between periods of fear during eruptions and appreciation for the thermal springs, fertile volcanic soils, and dramatic scenery that draw tourists and sustain livelihoods. The 1999-2016 eruption profoundly shaped the community's identity, as the forced evacuation and controversial return became defining events in local memory."
+    },
+    "visiting_and_tourism": {
+      "content": "Banos de Agua Santa, at Tungurahua's base, is one of Ecuador's most popular tourist destinations, renowned for its hot springs, adventure sports (including bridge swinging, white-water rafting, and zip-lining), and proximity to both the Andes and the Amazon basin. The town offers excellent views of Tungurahua from multiple vantage points, with the Casa del Arbol (Tree House) swing on the Beltavista ridge being one of the most iconic viewpoints. During the 1999-2016 eruption, volcano watching became an unusual tourist attraction, with nighttime eruptions visible from Banos drawing visitors rather than deterring them. Hiking on Tungurahua's upper slopes is possible during quiescent periods but may be restricted by volcanic alert levels. The thermal baths (Termas de la Virgen, El Salado, Piscinas de la Virgen) are heated by volcanic geothermal activity and are the town's primary tourist attraction. The best time to visit for volcano views is during the dry months (June-September and December-February), though Banos's location at the transition between Andes and Amazon means cloud cover is common."
+    },
+    "nearby_volcanoes": {
+      "content": "Tungurahua is part of the Northern Andean Volcanic Arc, which hosts some of the world's most dramatic and dangerous volcanoes. Approximately 150 km to the north lies <a href=\"/volcano/cotopaxi\">Cotopaxi</a>, one of the world's highest active stratovolcanoes at 5,897 m and one of Ecuador's most hazardous volcanoes. Further north, the Antisana and Cayambe volcanoes rise along the arc. To the south, Sangay (5,230 m) is one of the most continuously active volcanoes in the Andes. The massive Chimborazo (6,263 m), Earth's highest point measured from the center of the planet, lies approximately 80 km to the southwest — technically a dormant volcano. <a href=\"/volcanoes-in-ecuador\">Ecuador's</a> compact geography means that multiple major volcanoes are visible from Banos on clear days."
+    },
+    "etymology": {
+      "content": "The name 'Tungurahua' derives from the Kichwa (Quechua) language and is commonly translated as 'Throat of Fire.' The etymological components are tunguri (throat or gullet) and rauray (to burn or blaze). This vivid name captures the volcano's most characteristic behavior: explosive eruptions from the summit crater that produce incandescent columns of ash and gas resembling fire erupting from a giant throat. The name has been in use since pre-Columbian times, indicating that indigenous communities were well aware of the volcano's eruptive nature long before European contact."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Tungurahua Compared to Other Major Andean Stratovolcanoes",
+      "description": "How does Tungurahua compare to other significant volcanoes in the Northern Andes?",
+      "headers": [
+        "Volcano",
+        "Country",
+        "Elevation",
+        "Type",
+        "VEI Max",
+        "Last Eruption",
+        "Eruption Count"
+      ],
+      "rows": [
+        [
+          "Tungurahua",
+          "Ecuador",
+          "5,023 m",
+          "Stratovolcano",
+          "5",
+          "2016",
+          "37"
+        ],
+        [
+          "Cotopaxi",
+          "Ecuador",
+          "5,897 m",
+          "Stratovolcano",
+          "4",
+          "2023",
+          "72"
+        ],
+        [
+          "Sangay",
+          "Ecuador",
+          "5,230 m",
+          "Stratovolcano",
+          "3",
+          "2025",
+          "76"
+        ],
+        [
+          "Nevado del Ruiz",
+          "Colombia",
+          "5,321 m",
+          "Stratovolcano",
+          "4",
+          "2024",
+          "22"
+        ],
+        [
+          "Villarrica",
+          "Chile",
+          "2,847 m",
+          "Stratovolcano",
+          "3",
+          "2024",
+          "87"
+        ],
+        [
+          "Reventador",
+          "Ecuador",
+          "3,562 m",
+          "Stratovolcano",
+          "4",
+          "2024",
+          "26"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -7750,
+      "vei": 4,
+      "label": "Major prehistoric eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1010,
+      "vei": 5,
+      "label": "Largest known eruption — associated with Tungurahua II collapse",
+      "deaths": "Unknown",
+      "notable": true
+    },
+    {
+      "year": 730,
+      "vei": 4,
+      "label": "Major VEI 4 eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1886,
+      "vei": 4,
+      "label": "Significant historical eruption with pyroclastic flows",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1916,
+      "vei": 4,
+      "label": "Nine-year eruption begins",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 1999,
+      "vei": 3,
+      "label": "17-year eruption begins — Banos evacuated",
+      "deaths": "5+",
+      "notable": true
+    },
+    {
+      "year": 2006,
+      "vei": null,
+      "label": "Intense phase — pyroclastic flows kill at least 5 at Palictahua",
+      "deaths": "5+",
+      "notable": true
+    },
+    {
+      "year": 2016,
+      "vei": 3,
+      "label": "Eruption ends after 17 years",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Prehistoric (pre-500 BCE)",
+      "count": 5,
+      "note": "Includes VEI 5 event ~1010 BCE"
+    },
+    {
+      "century": "5th BCE-1st BCE",
+      "count": 3
+    },
+    {
+      "century": "1st-5th CE",
+      "count": 3
+    },
+    {
+      "century": "6th-10th CE",
+      "count": 3
+    },
+    {
+      "century": "11th-13th CE",
+      "count": 2
+    },
+    {
+      "century": "14th CE",
+      "count": 1
+    },
+    {
+      "century": "15th-16th CE",
+      "count": 1
+    },
+    {
+      "century": "17th CE",
+      "count": 2
+    },
+    {
+      "century": "18th CE",
+      "count": 4
+    },
+    {
+      "century": "19th CE",
+      "count": 4
+    },
+    {
+      "century": "20th CE",
+      "count": 5,
+      "note": "Includes start of 1999-2016 eruption"
+    },
+    {
+      "century": "21st CE",
+      "count": 4,
+      "note": "Continuation and end of 1999-2016 eruption"
+    }
+  ],
+  "facts": [
+    "Tungurahua towers more than 3,200 m above the city of Banos at its base — one of the most dramatic volcano-to-city elevation differences on Earth.",
+    "The name 'Tungurahua' means 'Throat of Fire' in Kichwa (Quechua), a name given by indigenous communities who witnessed its eruptions centuries before European contact.",
+    "The 1999-2016 eruption lasted 17 years, making it one of the longest continuous volcanic crises in South American history.",
+    "Approximately 25,000 people were evacuated from Banos in 1999, but frustrated residents forced their way past military blockades to return in January 2000 while the volcano was still erupting.",
+    "Tungurahua has experienced two catastrophic edifice collapses: Tungurahua II collapsed ~3,000 years ago, producing a debris avalanche that traveled down the Rio Pastaza valley.",
+    "The volcano's maximum known eruption intensity is VEI 5 (~1010 BCE), far larger than anything witnessed in historical times.",
+    "The famous 'Casa del Arbol' swing at Banos overlooks Tungurahua and became one of the most photographed locations in South America.",
+    "Banos de Agua Santa ('Baths of Holy Water') takes its name from the volcanic hot springs heated by Tungurahua's geothermal system.",
+    "During the 2006 eruption phase, pyroclastic flows traveled several kilometers down the flanks, killing at least 5 people in the community of Palictahua.",
+    "Tungurahua's monitoring network is one of the most comprehensive in South America, including seismometers, infrasound sensors, SO2 analyzers, GPS, lahar detectors, and webcams.",
+    "Three successive volcanic edifices — Tungurahua I, II, and III — have been built at this site since the mid-Pleistocene, with each predecessor collapsing catastrophically.",
+    "The volcano's glacier cap has been retreating rapidly, both from climate change and volcanic heating, increasing the lahar risk from rainfall on exposed ash deposits."
+  ],
+  "faqs": [
+    {
+      "question": "Is Tungurahua still active?",
+      "answer": "Yes, Tungurahua is classified as an active volcano. Its most recent major eruption lasted from 1999 to 2016, one of the longest volcanic crises in South American history. Since 2016, the volcano has been in a period of relative quiescence, but background seismicity and fumarolic emissions from the summit crater continue, indicating the magmatic system remains thermally active. Ecuador's Instituto Geofisico maintains continuous monitoring with seismometers, gas sensors, and other instruments. The historical pattern of Tungurahua — decades of quiet followed by years-long eruptions — means scientists consider future eruptions a certainty, though the timing cannot be predicted."
+    },
+    {
+      "question": "What does Tungurahua mean?",
+      "answer": "Tungurahua means 'Throat of Fire' in the Kichwa (Quechua) language, derived from tunguri (throat or gullet) and rauray (to burn). The name vividly describes the volcano's characteristic eruption style, in which explosive bursts from the summit crater produce incandescent columns of ash, rock, and gas. The name was given by indigenous communities who inhabited the region long before European colonization, indicating that Tungurahua's eruptive nature has been known for centuries. The Kichwa language remains widely spoken in the Ecuadorian highlands."
+    },
+    {
+      "question": "When did Tungurahua last erupt?",
+      "answer": "Tungurahua's most recent eruption lasted from October 5, 1999, to 2016, a continuous eruptive period spanning 17 years with varying intensity. The most intense phases occurred in 2006, 2008, 2010, 2012, and 2014, with the 2012-2016 period rated VEI 3. Since 2016, the volcano has been relatively quiet but remains active. Prior to the 1999-2016 eruption, the last major activity occurred during a VEI 4 eruption from 1916 to 1925, followed by minor activity in 1944."
+    },
+    {
+      "question": "How tall is Tungurahua?",
+      "answer": "Tungurahua stands at 5,023 m (16,480 ft) above sea level, making it one of the tallest active volcanoes in Ecuador, though it is surpassed by Cotopaxi (5,897 m) and Sangay (5,230 m). What makes Tungurahua's height particularly dramatic is the enormous vertical relief between its summit and the city of Banos at its base — more than 3,200 m (10,500 ft) of elevation difference over a horizontal distance of just a few kilometers, creating one of the steepest and most imposing volcano-to-city relationships on Earth."
+    },
+    {
+      "question": "Is Banos safe from Tungurahua?",
+      "answer": "Banos de Agua Santa sits within Tungurahua's hazard zone, and the city was evacuated during the 1999-2016 eruption. However, Banos has coexisted with its volcano for centuries, and the Ecuadorian authorities maintain alert systems and evacuation plans to manage the risk. The city has early-warning sirens, designated evacuation routes, and regular drills. During the 1999-2016 eruption, the most destructive pyroclastic flows affected areas south and west of the summit rather than directly striking Banos. The risk is real but managed, and hundreds of thousands of tourists visit Banos annually. Visitors should always check current volcanic alert levels."
+    },
+    {
+      "question": "What type of volcano is Tungurahua?",
+      "answer": "Tungurahua is classified as a stratovolcano (composite volcano), built from alternating layers of andesitic lava flows, tephra (volcanic fragments), and pyroclastic deposits. The dominant rock type is andesite to basaltic andesite (57-63% SiO2), which produces eruptions ranging from moderate Strombolian lava fountaining to violent Vulcanian and sub-Plinian explosions. The volcano's steep-sided cone reflects its explosive eruption style. Three successive edifices (Tungurahua I, II, and III) have been built at this location, with each predecessor collapsing catastrophically before being rebuilt."
+    },
+    {
+      "question": "Can you visit Tungurahua volcano?",
+      "answer": "Banos de Agua Santa at Tungurahua's base is one of Ecuador's most popular tourist destinations, offering hot springs, adventure sports, and spectacular volcano views. The Casa del Arbol (Tree House) swing on the Beltavista ridge provides one of the most iconic viewpoints. Hiking on Tungurahua's upper slopes is possible during quiescent periods but may be restricted depending on the current volcanic alert level set by Ecuador's Instituto Geofisico. The thermal baths (Termas de la Virgen, El Salado) are heated by volcanic geothermal activity and are open year-round. The best time for volcano views is during dry months (June-September, December-February)."
+    },
+    {
+      "question": "How many people died in Tungurahua eruptions?",
+      "answer": "During the 1999-2016 eruption, at least 5 people were killed by pyroclastic flows in the community of Palictahua during the intense August 2006 eruptive phase. Additional fatalities may have occurred in other phases but are not well-documented. Historical eruptions in the 19th and early 20th centuries likely caused casualties as well, though precise records are incomplete. The 1999 evacuation of Banos — displacing approximately 25,000 people — prevented what could have been a much larger death toll. The volcano's VEI 5 eruption approximately 3,000 years ago would have been catastrophic for any inhabitants at the time."
+    }
+  ],
+  "people_also_search": [
+    "tungurahua eruption",
+    "banos ecuador volcano",
+    "tungurahua last eruption",
+    "tungurahua meaning",
+    "casa del arbol swing",
+    "ecuador active volcanoes",
+    "tungurahua height",
+    "throat of fire volcano"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Tungurahua",
+    "alternateName": [
+      "Throat of Fire"
+    ],
+    "description": "A 5,023 m active stratovolcano in Ecuador known for its 17-year eruption from 1999-2016 and proximity to the tourist city of Banos",
+    "geo": {
+      "latitude": -1.467,
+      "longitude": -78.442,
+      "elevation": 5023
+    },
+    "containedInPlace": {
+      "name": "Tungurahua Province",
+      "country": "Ecuador"
+    },
+    "url": "https://volcanoatlas.com/volcano/tungurahua"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=352080",
+      "text": "Smithsonian GVP: Tungurahua",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.igepn.edu.ec/",
+      "text": "Instituto Geofisico, Escuela Politecnica Nacional (IG-EPN)",
+      "type": "monitoring"
+    },
+    {
+      "url": "https://www.britannica.com/place/Tungurahua",
+      "text": "Britannica: Tungurahua",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.usgs.gov/volcanoes",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "cotopaxi",
+      "nevado-del-ruiz",
+      "sangay",
+      "villarrica",
+      "tambora"
+    ],
+    "country_pages": [
+      "ecuador"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index",
+      "ring-of-fire"
+    ],
+    "rankings": [
+      "deadliest-eruptions",
+      "most-active-volcanoes",
+      "tallest-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "cotopaxi",
+    "sangay",
+    "nevado-del-ruiz",
+    "villarrica",
+    "reventador"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Ecuador",
+      "url": "/volcanoes-in-ecuador"
+    },
+    {
+      "label": "Tungurahua",
+      "url": "/volcano/tungurahua"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/tungurahua"
+}

@@ -1,0 +1,369 @@
+{
+  "slug": "volcanic-explosivity-index",
+  "page_type": "special",
+  "title": "Volcanic Explosivity Index (VEI)",
+  "meta_title": "Volcanic Explosivity Index (VEI) — Scale, Levels 0–8 & Examples | VolcanoAtlas",
+  "meta_description": "The VEI rates eruptions from 0 to 8 by volume and intensity. Explore every level with real examples, eruption counts, and comparison charts.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanic Explosivity Index",
+      "url": "/volcanic-explosivity-index"
+    }
+  ],
+  "quick_answer": {
+    "what": "The Volcanic Explosivity Index (VEI) is a logarithmic scale from 0 to 8 used to measure the explosiveness of volcanic eruptions based on the volume of material ejected and the height of the eruption column.",
+    "key_stat": "Of the 11,079 eruptions in the Smithsonian database, 8,394 have assigned VEI ratings. VEI 2 eruptions are the most commonly recorded (4,020 events), while only 7 VEI 7 eruptions and zero confirmed VEI 8 eruptions have occurred in the Holocene.",
+    "scale_range": "VEI 0 describes gentle effusive eruptions producing less than 10,000 m3 of tephra. VEI 8 describes supereruptions ejecting more than 1,000 km3 — a volume increase of 100 billion times from VEI 0."
+  },
+  "hero": {
+    "title": "Volcanic Explosivity Index (VEI)",
+    "subtitle": "How Scientists Measure the Power of Eruptions",
+    "description": "A logarithmic scale from gentle lava flows (VEI 0) to civilization-altering supereruptions (VEI 8) — with real examples at every level."
+  },
+  "sections": {
+    "overview": {
+      "content": "The Volcanic Explosivity Index (VEI) is the standard scale used by volcanologists worldwide to classify the explosive magnitude of volcanic eruptions. Developed in 1982 by Chris Newhall of the United States Geological Survey and Stephen Self of the University of Hawaii, the VEI assigns a number from 0 to 8 based primarily on the total volume of tephra (fragmented rock, ash, and pumice) ejected during an eruption, along with secondary criteria including eruption column height, eruption duration, and qualitative descriptors. The scale is logarithmic above VEI 2: each whole-number increase represents a tenfold increase in ejected volume. A VEI 5 eruption ejects roughly 1 km3 of material; a VEI 6 ejects 10 km3; a VEI 7 ejects 100 km3; and a VEI 8 — a <a href=\"/supervolcanoes\">supereruption</a> — ejects more than 1,000 km3. The Smithsonian Institution's Global Volcanism Program has assigned VEI ratings to 8,394 of the 11,079 eruptions in its database (the remaining 2,685 lack sufficient data for classification). The VEI has become the universal language for comparing volcanic eruptions across time and geography, and understanding the scale is essential for interpreting volcanic hazards, historical records, and the geological past."
+    },
+    "how_vei_works": {
+      "content": "The VEI is determined primarily by the volume of pyroclastic material (tephra) ejected during an eruption. For eruptions above VEI 2, each step up the scale represents a tenfold increase in volume — making the scale logarithmic, similar to the Richter scale for earthquakes or the decibel scale for sound.\n\nFor VEI levels 0 through 2, the scale is not strictly logarithmic. VEI 0 eruptions produce less than 10,000 m3 of tephra (0.00001 km3), VEI 1 produces 10,000 to 1,000,000 m3 (0.00001 to 0.001 km3), and VEI 2 produces 1,000,000 to 10,000,000 m3 (0.001 to 0.01 km3). Above VEI 2, each level spans exactly one order of magnitude in volume.\n\nSecondary classification criteria include eruption column height (VEI 0–1 eruptions typically produce columns under 1 km, while VEI 5+ events produce columns exceeding 25 km into the stratosphere), eruption style descriptors (Hawaiian, Strombolian, Vulcanian, Plinian, Ultra-Plinian), and qualitative terms (gentle, explosive, cataclysmic, mega-colossal).\n\nImportantly, VEI measures explosiveness, not total energy released or lava volume. Large effusive eruptions — like Hawaii's <a href=\"/volcano/kilauea\">Kilauea</a>, which can erupt enormous volumes of lava — may receive low VEI ratings because the lava flows gently rather than being explosively fragmented. Conversely, a relatively small but extremely explosive eruption can receive a higher VEI than a larger but less explosive one. This is one of the scale's noted limitations: it does not fully capture the impact or hazard of all eruption types."
+    },
+    "vei_levels_detailed": {
+      "content": "**VEI 0 — Non-explosive (1,016 recorded eruptions)**\nDescriptor: Hawaiian / Gentle. Volume: less than 10,000 m3. Column height: under 100 m. VEI 0 eruptions are effusive, producing lava flows, lava lakes, and gentle fountaining rather than explosive fragmentation. They are characteristic of <a href=\"/types-of-volcanoes\">shield volcanoes</a> like <a href=\"/volcano/kilauea\">Kilauea</a> and <a href=\"/volcano/mauna-loa\">Mauna Loa</a>. Though low on the explosivity scale, VEI 0 eruptions can still be destructive: Kilauea's 2018 lower East Rift Zone eruption destroyed over 700 structures despite being classified as VEI 0. Recent example: Kilauea, Hawaii (2024).\n\n**VEI 1 — Small (1,438 recorded eruptions)**\nDescriptor: Strombolian / Mild. Volume: 10,000 to 1,000,000 m3. Column height: 100 m to 1 km. VEI 1 eruptions produce small explosive bursts, incandescent lava fragments, and modest ash emissions. They are common at persistently active volcanoes like <a href=\"/volcano/stromboli\">Stromboli</a> in <a href=\"/volcanoes-in-italy\">Italy</a> (which has been erupting near-continuously for roughly 2,000 years) and at many <a href=\"/ring-of-fire\">Ring of Fire</a> volcanoes during routine activity. Recent example: <a href=\"/volcano/kikai\">Kikai</a>, <a href=\"/volcanoes-in-japan\">Japan</a> (2025).\n\n**VEI 2 — Moderate (4,020 recorded eruptions)**\nDescriptor: Strombolian to Vulcanian / Explosive. Volume: 0.001 to 0.01 km3. Column height: 1 to 5 km. VEI 2 is the most commonly recorded eruption level in the Smithsonian database, accounting for nearly half of all VEI-rated eruptions. These events produce significant ash clouds, lava flows, and localized tephra fall but are generally not catastrophic. They are routine events at many of the world's most active volcanoes. Recent example: <a href=\"/volcano/cotopaxi\">Cotopaxi</a>, <a href=\"/volcanoes-in-ecuador\">Ecuador</a> (2023).\n\n**VEI 3 — Moderate-large (1,166 recorded eruptions)**\nDescriptor: Vulcanian to sub-Plinian / Severe. Volume: 0.01 to 0.1 km3. Column height: 3 to 15 km. VEI 3 eruptions can cause significant damage within 10 to 20 km of the vent and disrupt regional aviation. The 1985 eruption of <a href=\"/volcano/ruiz-nevado-del\">Nevado del Ruiz</a> in <a href=\"/volcanoes-in-colombia\">Colombia</a> was only VEI 3, yet it generated lahars that killed approximately 23,000 people — demonstrating that even moderate eruptions can be catastrophic when secondary hazards (mudflows, tsunamis) are triggered. Recent example: <a href=\"/volcano/klyuchevskoy\">Klyuchevskoy</a>, <a href=\"/volcanoes-in-russia\">Russia</a> (2023).\n\n**VEI 4 — Large (514 recorded eruptions)**\nDescriptor: Plinian / Cataclysmic. Volume: 0.1 to 1 km3. Column height: 10 to 25 km. VEI 4 eruptions are major explosive events capable of devastating areas within 25 km and producing ashfall across hundreds of kilometers. The 2010 eruption of <a href=\"/volcano/eyjafjallajokull\">Eyjafjallajokull</a> in <a href=\"/volcanoes-in-iceland\">Iceland</a> was VEI 4 and caused widespread disruption to European air travel for weeks. The 1944 eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a> — the most recent activity from Europe's most dangerous volcano — was also VEI 4. Recent example: Ruang, <a href=\"/volcanoes-in-indonesia\">Indonesia</a> (2024).\n\n**VEI 5 — Very large (181 recorded eruptions)**\nDescriptor: Plinian / Paroxysmal. Volume: 1 to 10 km3. Column height: over 25 km. VEI 5 eruptions are major events with regional to global impact. The 1980 eruption of <a href=\"/volcano/st-helens\">Mount St. Helens</a> (VEI 5) killed 57 people and flattened 600 km2 of forest. The 79 AD eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a> that buried Pompeii was VEI 5. The 2022 eruption of <a href=\"/volcano/hunga-tonga-hunga-ha-apai\">Hunga Tonga-Hunga Ha'apai</a> (VEI 5) produced an atmospheric shockwave detected worldwide. VEI 5 events occur roughly once per decade. Most recent example: Hunga Tonga-Hunga Ha'apai, <a href=\"/volcanoes-in-tonga\">Tonga</a> (2022).\n\n**VEI 6 — Huge (52 recorded eruptions)**\nDescriptor: Plinian to Ultra-Plinian / Colossal. Volume: 10 to 100 km3. Column height: over 25 km. VEI 6 eruptions are catastrophic events with global climatic impact. The 1991 eruption of <a href=\"/volcano/pinatubo\">Mount Pinatubo</a> (VEI 6) lowered global temperatures by approximately 0.5 degrees C for two years. The 1883 eruption of <a href=\"/volcano/krakatau\">Krakatau</a> (VEI 6) killed over 36,000 people and produced the loudest sound in recorded history. The 1912 eruption of <a href=\"/volcano/novarupta\">Novarupta</a> (VEI 6) was the 20th century's largest. VEI 6 events occur roughly once every 100 years. Most recent: Pinatubo, <a href=\"/volcanoes-in-philippines\">Philippines</a> (1991).\n\n**VEI 7 — Very huge (7 recorded eruptions in Holocene)**\nDescriptor: Ultra-Plinian / Super-colossal. Volume: 100 to 1,000 km3. Column height: over 40 km. VEI 7 eruptions are civilization-altering events. The 1815 eruption of <a href=\"/volcano/tambora\">Mount Tambora</a> (VEI 7) was the largest in recorded history, killing approximately 71,000 people and causing the 'Year Without a Summer' in 1816. The Holocene record includes seven VEI 7 events, roughly one every 1,000 to 2,000 years. Other examples: <a href=\"/volcano/santorini\">Santorini</a> (~1610 BCE), <a href=\"/volcano/crater-lake\">Crater Lake</a> (~5680 BCE), <a href=\"/volcano/kikai\">Kikai</a> (~4350 BCE). Most recent: Tambora, <a href=\"/volcanoes-in-indonesia\">Indonesia</a> (1815).\n\n**VEI 8 — Largest (0 in Holocene; several in Quaternary)**\nDescriptor: Ultra-Plinian / Mega-colossal. Volume: over 1,000 km3. Column height: over 50 km. VEI 8 events are <a href=\"/supervolcanoes\">supereruptions</a> — the most powerful explosive events on Earth. No VEI 8 eruption has occurred in the Holocene (last 11,700 years). The most recent was the Oruanui eruption at Taupo, New Zealand, approximately 26,500 years ago (roughly 1,170 km3). The largest Quaternary supereruption was Toba in Indonesia (~74,000 years ago, approximately 2,800 km3). The estimated recurrence interval is roughly 100,000 years."
+    },
+    "vei_distribution_analysis": {
+      "content": "The distribution of eruptions across VEI levels in the Smithsonian database reveals important patterns about volcanic activity on Earth. Of the 8,394 eruptions with assigned VEI ratings (out of 11,079 total), the distribution is heavily skewed toward lower magnitudes — as expected for a logarithmic natural phenomenon.\n\nVEI 2 dominates the record with 4,020 entries (47.9% of all rated eruptions), reflecting both the genuine frequency of moderate explosive events and a detection bias: VEI 2 eruptions are large enough to be noticed and recorded, but small enough to occur frequently. VEI 0 and VEI 1 eruptions are undoubtedly far more numerous in reality, but many go unrecorded because they occur at remote volcanoes, beneath the ocean, or without significant impact on human populations.\n\nAt the upper end of the scale, the numbers drop precipitously: 514 events at VEI 4, 181 at VEI 5, 52 at VEI 6, and just 7 at VEI 7. No confirmed VEI 8 eruption has occurred during the Holocene epoch. This exponential decline is consistent with the fundamental physics of magma accumulation: the larger the eruption, the more magma must accumulate and the longer the recharge period.\n\nThe 2,685 eruptions without VEI assignments (24.2% of the total) are predominantly older events for which insufficient evidence survives to estimate eruption volume. This data gap is particularly acute for pre-historical eruptions, submarine eruptions, and eruptions in regions with limited geological investigation."
+    },
+    "comparison_with_other_scales": {
+      "content": "The VEI is sometimes compared to other scales of energy and destruction to convey the power of volcanic eruptions in more familiar terms.\n\n**TNT equivalent and nuclear weapons** — The thermal energy released by volcanic eruptions can be compared to nuclear weapons, though the comparison is imperfect because volcanic energy is released over hours to days rather than microseconds. The Hiroshima atomic bomb released approximately 63 terajoules (TJ) of energy. The 79 AD eruption of <a href=\"/volcano/vesuvius\">Vesuvius</a> (VEI 5) released energy estimated at roughly 100,000 times the Hiroshima bomb. The 1883 eruption of <a href=\"/volcano/krakatau\">Krakatau</a> (VEI 6) released approximately 840 petajoules — roughly equivalent to 200 megatons of TNT, or about four times the energy of the largest nuclear weapon ever detonated (the Tsar Bomba, 50 megatons). A VEI 8 supereruption would release energy equivalent to roughly 10,000 to 100,000 megatons of TNT.\n\n**Earthquake comparison** — The moment magnitude scale for earthquakes is also logarithmic, but measures different phenomena (seismic energy vs. ejected volume). Major volcanic eruptions are typically accompanied by earthquakes of magnitude 4 to 6, though the relationship is not direct. The 1815 Tambora eruption (VEI 7) was accompanied by earthquakes felt hundreds of kilometers away.\n\n**Richter context** — While both VEI and the Richter/moment magnitude scales are logarithmic, they are not interchangeable. A VEI 6 eruption does not correspond to a magnitude 6 earthquake. The scales measure fundamentally different processes, and comparing them requires converting between tephra volume and energy release — a calculation with large uncertainties."
+    },
+    "limitations_of_vei": {
+      "content": "Despite its widespread use, the VEI has several recognized limitations that volcanologists keep in mind when interpreting the scale.\n\nFirst, VEI measures only explosive tephra volume, not total eruption energy or impact. Large effusive eruptions — like the 1783 Laki fissure eruption in <a href=\"/volcanoes-in-iceland\">Iceland</a>, which produced 14.7 km3 of lava and killed roughly 9,000 Icelanders — receive relatively low VEI ratings (VEI 6, based on the tephra component alone) despite being among the most impactful eruptions in recorded history. Similarly, the 2018 <a href=\"/volcano/kilauea\">Kilauea</a> eruption destroyed over 700 homes but was classified as VEI 0 because it was entirely effusive.\n\nSecond, VEI does not account for eruption duration. A VEI 4 eruption lasting several months may produce the same total tephra volume as a VEI 4 eruption lasting hours, but their instantaneous hazards are very different.\n\nThird, VEI does not capture secondary hazards such as lahars, tsunamis, gas emissions, or famine — which are often the primary causes of death in volcanic disasters. The 1985 Nevado del Ruiz eruption (VEI 3) killed approximately 23,000 people through lahars, far more than many higher-VEI events.\n\nFourth, the scale has a significant historical bias. Pre-modern eruptions are often assigned VEI ratings based on incomplete tephra deposits, leading to systematic uncertainty. Many Holocene eruptions, particularly in poorly studied regions, lack VEI assignments entirely.\n\nVolcanologists have proposed alternative scales — such as the magnitude scale (M) based on erupted mass and the intensity scale (I) based on mass discharge rate — but the VEI remains the most widely used and publicly recognized metric."
+    }
+  },
+  "vei_scale_table": {
+    "title": "The Complete VEI Scale",
+    "description": "Volcanic Explosivity Index levels 0 through 8, with volume, eruption frequency, and examples from the Smithsonian database.",
+    "headers": [
+      "VEI",
+      "Descriptor",
+      "Tephra Volume",
+      "Column Height",
+      "Eruptions in Database",
+      "Approx. Frequency",
+      "Example"
+    ],
+    "rows": [
+      [
+        "0",
+        "Non-explosive",
+        "< 10,000 m3",
+        "< 100 m",
+        "1,016",
+        "Continuous at some vents",
+        "Kilauea 2024"
+      ],
+      [
+        "1",
+        "Small",
+        "10,000–1M m3",
+        "100 m – 1 km",
+        "1,438",
+        "Daily (globally)",
+        "Kikai 2025, Stromboli"
+      ],
+      [
+        "2",
+        "Moderate",
+        "0.001–0.01 km3",
+        "1–5 km",
+        "4,020",
+        "Weekly (globally)",
+        "Cotopaxi 2023"
+      ],
+      [
+        "3",
+        "Moderate-large",
+        "0.01–0.1 km3",
+        "3–15 km",
+        "1,166",
+        "Yearly",
+        "Klyuchevskoy 2023"
+      ],
+      [
+        "4",
+        "Large",
+        "0.1–1 km3",
+        "10–25 km",
+        "514",
+        "~Every 1–2 years",
+        "Ruang 2024, Eyjafjallajokull 2010"
+      ],
+      [
+        "5",
+        "Very large",
+        "1–10 km3",
+        "> 25 km",
+        "181",
+        "~Every decade",
+        "St. Helens 1980, Hunga Tonga 2022"
+      ],
+      [
+        "6",
+        "Huge",
+        "10–100 km3",
+        "> 25 km",
+        "52",
+        "~Every century",
+        "Pinatubo 1991, Krakatau 1883"
+      ],
+      [
+        "7",
+        "Very huge",
+        "100–1,000 km3",
+        "> 40 km",
+        "7",
+        "~Every 1,000 yrs",
+        "Tambora 1815, Santorini ~1610 BCE"
+      ],
+      [
+        "8",
+        "Mega-colossal",
+        "> 1,000 km3",
+        "> 50 km",
+        "0 (Holocene)",
+        "~Every 100,000 yrs",
+        "Taupo ~26.5 Ka, Toba ~74 Ka"
+      ]
+    ]
+  },
+  "vei_distribution_chart": [
+    {
+      "vei": 0,
+      "count": 1016
+    },
+    {
+      "vei": 1,
+      "count": 1438
+    },
+    {
+      "vei": 2,
+      "count": 4020
+    },
+    {
+      "vei": 3,
+      "count": 1166
+    },
+    {
+      "vei": 4,
+      "count": 514
+    },
+    {
+      "vei": 5,
+      "count": 181
+    },
+    {
+      "vei": 6,
+      "count": 52
+    },
+    {
+      "vei": 7,
+      "count": 7
+    },
+    {
+      "vei": "Unknown",
+      "count": 2685
+    }
+  ],
+  "comparison_table": {
+    "title": "VEI Compared to Other Energy Scales",
+    "description": "Approximate energy equivalents for volcanic eruptions at different VEI levels.",
+    "headers": [
+      "VEI Level",
+      "Tephra Volume",
+      "TNT Equivalent (approx.)",
+      "Nuclear Weapon Comparison",
+      "Climate Impact"
+    ],
+    "rows": [
+      [
+        "VEI 2",
+        "0.001–0.01 km3",
+        "~1 kiloton",
+        "Small tactical weapon",
+        "None"
+      ],
+      [
+        "VEI 4",
+        "0.1–1 km3",
+        "~1 megaton",
+        "Large hydrogen bomb",
+        "Minor, local"
+      ],
+      [
+        "VEI 5",
+        "1–10 km3",
+        "~10–100 megatons",
+        "Several Tsar Bombas",
+        "Measurable (months)"
+      ],
+      [
+        "VEI 6",
+        "10–100 km3",
+        "~200 megatons",
+        "~4x Tsar Bomba",
+        "Global cooling 0.5–1.2C (1–2 years)"
+      ],
+      [
+        "VEI 7",
+        "100–1,000 km3",
+        "~2,000 megatons",
+        "~40x Tsar Bomba",
+        "Global cooling 0.5–1.0C (2–3 years)"
+      ],
+      [
+        "VEI 8",
+        "> 1,000 km3",
+        "~10,000+ megatons",
+        "~200x Tsar Bomba",
+        "Volcanic winter 5–10C (5–10 years)"
+      ]
+    ]
+  },
+  "facts": [
+    "The VEI scale was created in 1982 by volcanologists Chris Newhall (USGS) and Stephen Self (University of Hawaii) and has become the standard metric for comparing volcanic eruptions worldwide.",
+    "VEI 2 eruptions account for 4,020 of the 8,394 VEI-rated eruptions in the Smithsonian database — nearly half of all classified events — making them the most commonly recorded eruption magnitude.",
+    "The VEI scale is logarithmic above level 2: each step up represents a tenfold increase in ejected volume. A VEI 8 eruption ejects at least 10,000 times more material than a VEI 4 event.",
+    "Only 7 eruptions in the Holocene (last 11,700 years) have reached VEI 7, and zero have reached VEI 8 — the last VEI 8 supereruption occurred approximately 26,500 years ago at Taupo in New Zealand.",
+    "The 2,685 eruptions without VEI ratings in the Smithsonian database (24.2% of the total) lack sufficient geological evidence to estimate their explosive magnitude.",
+    "The energy released by the 1883 Krakatau eruption (VEI 6) was approximately equivalent to 200 megatons of TNT — roughly four times the energy of the largest nuclear weapon ever detonated.",
+    "VEI does not measure lava volume, which is why Kilauea's 2018 eruption — which destroyed over 700 structures — was classified as VEI 0 because the eruption was entirely effusive.",
+    "The 1985 Nevado del Ruiz eruption was only VEI 3 but killed approximately 23,000 people through lahars, illustrating VEI's limitation in capturing secondary hazard lethality.",
+    "VEI 5 eruptions occur roughly once per decade on average. The most recent was the 2022 eruption of Hunga Tonga-Hunga Ha'apai in Tonga, which generated a shockwave detectable on barometers worldwide.",
+    "The 1815 eruption of Tambora (VEI 7) ejected approximately 150 km3 of material — about 150 billion cubic meters — enough to bury the entire island of Manhattan under 2.5 km of debris.",
+    "VEI 6 eruptions have measurable global climate impact: Pinatubo's 1991 VEI 6 event lowered global temperatures by approximately 0.5 degrees C for two years and temporarily reduced global ozone levels.",
+    "The qualitative descriptors for VEI levels progress from 'gentle' (VEI 0) through 'explosive' (VEI 2), 'cataclysmic' (VEI 4), 'colossal' (VEI 6), to 'mega-colossal' (VEI 8)."
+  ],
+  "faqs": [
+    {
+      "question": "What is the Volcanic Explosivity Index?",
+      "answer": "The Volcanic Explosivity Index (VEI) is a logarithmic scale from 0 to 8 used by volcanologists to classify the explosive magnitude of volcanic eruptions. It was developed in 1982 by Chris Newhall and Stephen Self. The primary criterion is the volume of tephra (fragmented rock and ash) ejected during an eruption, with secondary factors including eruption column height and eruption style. Above VEI 2, each step up the scale represents a tenfold increase in ejected volume. VEI 0 describes gentle effusive eruptions, while VEI 8 describes supereruptions ejecting more than 1,000 cubic kilometers of material. The VEI is the most widely used metric for comparing volcanic eruptions globally."
+    },
+    {
+      "question": "What was the highest VEI eruption in recorded history?",
+      "answer": "The highest VEI eruption in recorded human history was the 1815 eruption of Mount Tambora in Indonesia, rated VEI 7. It ejected approximately 150 cubic kilometers of material, killed roughly 71,000 people directly and through famine, and caused the 'Year Without a Summer' in 1816. No VEI 8 eruption has occurred during the Holocene (the last 11,700 years). The most recent VEI 8 supereruption was the Oruanui eruption at Taupo, New Zealand, approximately 26,500 years ago. The most recent VEI 6 was Pinatubo in 1991, and the most recent VEI 5 was Hunga Tonga-Hunga Ha'apai in 2022."
+    },
+    {
+      "question": "How is VEI measured?",
+      "answer": "VEI is determined primarily by measuring the total volume of tephra (fragmented volcanic material including ash, pumice, and rock) ejected during an eruption. For recent eruptions, scientists measure tephra deposits on the ground, estimate the volume of pyroclastic flows, and analyze satellite data of eruption columns. For historical and prehistoric eruptions, geologists map and measure the thickness of tephra layers preserved in the geological record. Column height is a secondary criterion: higher columns generally indicate more explosive events. Because tephra deposits erode and compact over time, VEI estimates for older eruptions carry greater uncertainty."
+    },
+    {
+      "question": "What is VEI 8?",
+      "answer": "VEI 8 is the highest level on the Volcanic Explosivity Index, describing a supereruption that ejects more than 1,000 cubic kilometers of pyroclastic material. No VEI 8 eruption has occurred in the Holocene epoch (the last 11,700 years). The most recent was the Oruanui eruption at Taupo, New Zealand, approximately 26,500 years ago, which ejected about 1,170 cubic kilometers. The largest known VEI 8 event in the Quaternary was the Toba supereruption in Indonesia approximately 74,000 years ago, ejecting roughly 2,800 cubic kilometers. The estimated recurrence interval for VEI 8 events is approximately one every 100,000 years."
+    },
+    {
+      "question": "How often do VEI 6 eruptions happen?",
+      "answer": "VEI 6 eruptions occur approximately once every 100 years on average, though the interval is irregular. The Smithsonian database records 52 VEI 6 eruptions in the Holocene. The three most recent VEI 6 events are Pinatubo in the Philippines (1991), Novarupta in Alaska (1912), and Santa Maria in Guatemala (1902). Before that, the 1883 eruption of Krakatau was VEI 6. The roughly century-long average recurrence interval means that a VEI 6 eruption is statistically overdue — the current gap since Pinatubo (1991) is approaching 35 years, well short of the average but a reminder that such events can occur at any time."
+    },
+    {
+      "question": "What is the difference between VEI and the Richter scale?",
+      "answer": "The VEI and the Richter (moment magnitude) scale both use logarithmic progression, but they measure fundamentally different phenomena. VEI measures the volume of tephra ejected by a volcanic eruption and the height of the eruption column — it quantifies volcanic explosiveness. The moment magnitude scale measures the seismic energy released by an earthquake — it quantifies ground shaking. A VEI 6 eruption is not equivalent to a magnitude 6 earthquake. Major volcanic eruptions are typically accompanied by earthquakes (magnitude 4 to 6), but the relationship is indirect. The two scales should not be used interchangeably."
+    },
+    {
+      "question": "Why do some eruptions not have a VEI rating?",
+      "answer": "Of the 11,079 eruptions in the Smithsonian Institution's database, 2,685 (approximately 24%) lack VEI assignments. This occurs for several reasons: prehistoric eruptions may lack preserved tephra deposits sufficient for volume estimation; submarine eruptions often go unobserved and leave no measurable surface deposits; eruptions in remote or poorly studied regions may not have been investigated in sufficient detail; and some very old eruptions are known only from indirect evidence (such as ice-core sulfate spikes or tree-ring anomalies) without associated tephra measurements. The absence of a VEI rating does not mean an eruption was small — it means there is insufficient evidence to classify it."
+    },
+    {
+      "question": "Can VEI predict how dangerous an eruption will be?",
+      "answer": "VEI provides a useful but incomplete measure of eruption danger. Higher VEI generally correlates with greater destruction — VEI 6 and 7 eruptions have caused the most deaths and property damage historically. However, VEI has important blind spots. It does not account for secondary hazards like lahars (volcanic mudflows), tsunamis, or toxic gas emissions, which are often the primary killers. The 1985 eruption of Nevado del Ruiz (VEI 3) killed approximately 23,000 people through lahars — far more than many VEI 5 eruptions. VEI also does not factor in proximity to populations: a VEI 4 eruption near a major city may be far more dangerous than a VEI 6 eruption in a remote wilderness."
+    },
+    {
+      "question": "What was the VEI of the Pompeii eruption?",
+      "answer": "The 79 AD eruption of Mount Vesuvius that destroyed the Roman cities of Pompeii and Herculaneum is estimated at VEI 5. It ejected approximately 3 to 4 cubic kilometers of tephra and produced an eruption column roughly 33 km high. The eruption proceeded through two main phases: an initial Plinian phase that deposited pumice and ash on Pompeii over roughly 18 hours, followed by pyroclastic surges and flows that killed the remaining inhabitants and buried Herculaneum under up to 20 meters of volcanic material. Despite being 'only' VEI 5, the eruption's devastating impact on nearby populations made it one of the most consequential volcanic events in human history."
+    },
+    {
+      "question": "What is the most common VEI level?",
+      "answer": "VEI 2 is the most commonly recorded eruption level in the Smithsonian database, with 4,020 entries accounting for approximately 48% of all VEI-rated eruptions. However, this reflects a detection bias: VEI 0 and VEI 1 eruptions are almost certainly far more frequent in nature but are less likely to be noticed and recorded, especially at remote or submarine volcanoes. VEI 2 hits a sweet spot — large enough to be observed and documented, but common enough to dominate the historical record. The true frequency of VEI 0 eruptions worldwide may be several orders of magnitude higher than the 1,016 events recorded in the database."
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/",
+      "text": "Smithsonian Institution Global Volcanism Program",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.usgs.gov/programs/volcano-hazards",
+      "text": "USGS Volcano Hazards Program",
+      "type": "authority"
+    },
+    {
+      "url": "https://www.britannica.com/science/Volcanic-Explosivity-Index",
+      "text": "Britannica: Volcanic Explosivity Index",
+      "type": "encyclopedia"
+    },
+    {
+      "url": "https://www.gvp.si.edu/how-to-use-the-vei",
+      "text": "Smithsonian GVP: How to Use the VEI",
+      "type": "educational"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "kilauea",
+      "mauna-loa",
+      "stromboli",
+      "etna",
+      "vesuvius",
+      "eyjafjallajokull",
+      "st-helens",
+      "pinatubo",
+      "krakatau",
+      "novarupta",
+      "tambora",
+      "taupo",
+      "santorini",
+      "crater-lake",
+      "kikai",
+      "kurile-lake",
+      "blanco-cerro",
+      "rinjani",
+      "cotopaxi",
+      "klyuchevskoy",
+      "ruiz-nevado-del",
+      "hunga-tonga-hunga-ha-apai",
+      "ruang",
+      "santa-maria",
+      "campi-flegrei"
+    ],
+    "country_pages": [
+      "united-states",
+      "italy",
+      "japan",
+      "indonesia",
+      "philippines",
+      "iceland",
+      "colombia",
+      "tonga",
+      "russia",
+      "ecuador",
+      "guatemala"
+    ],
+    "special_pages": [
+      "ring-of-fire",
+      "supervolcanoes",
+      "types-of-volcanoes"
+    ]
+  },
+  "schema_data": {
+    "type": "Article",
+    "name": "Volcanic Explosivity Index (VEI)",
+    "description": "A comprehensive guide to the Volcanic Explosivity Index — the logarithmic scale from 0 to 8 used to measure the explosive magnitude of volcanic eruptions, with examples and eruption counts at every level.",
+    "url": "https://volcanoatlas.com/volcanic-explosivity-index"
+  },
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "url": "/volcanic-explosivity-index"
+}

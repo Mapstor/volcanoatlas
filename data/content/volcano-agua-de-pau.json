@@ -1,0 +1,348 @@
+{
+  "slug": "agua-de-pau",
+  "volcano_id": 382090,
+  "title": "Agua de Pau",
+  "meta_title": "Agua de Pau Volcano — Eruption History, Lagoa do Fogo & Facts | VolcanoAtlas",
+  "meta_description": "Agua de Pau is a 947 m active stratovolcano on São Miguel, Azores, home to Lagoa do Fogo. Explore its VEI 5 eruptions and caldera lake.",
+  "quick_answer": {
+    "what": "Agua de Pau is an active stratovolcano in central São Miguel Island, Azores, Portugal, rising to 947 m (3,107 ft) and crowned by a double caldera containing the pristine Lagoa do Fogo crater lake.",
+    "status": "Active — last erupted 1563–1564 (VEI 5 Plinian event). Monitored by CIVISA.",
+    "famous_for": "The catastrophic 1563 eruption — one of the largest in Azorean history (VEI 5) — and the stunningly beautiful Lagoa do Fogo (Lake of Fire) caldera lake.",
+    "danger_level": "High risk — has produced two VEI 5 eruptions in the Holocene; approximately 30,000 people live within its primary hazard zone."
+  },
+  "hero": {
+    "name": "Agua de Pau",
+    "local_name": "Agua de Pau",
+    "subtitle": "The Lake of Fire Volcano",
+    "country": "Portugal",
+    "region": "Azores, São Miguel Island",
+    "type": "Stratovolcano",
+    "elevation_m": 947,
+    "elevation_ft": 3107,
+    "status": "Active",
+    "last_eruption": "1564",
+    "coordinates": {
+      "lat": 37.77,
+      "lon": -25.47
+    },
+    "photo_url": "https://volcano.si.edu/gallery/photos/GVP-06110.jpg",
+    "photo_credit": "Smithsonian GVP"
+  },
+  "key_facts_box": {
+    "elevation": "947 m (3,107 ft)",
+    "type": "Stratovolcano (with double caldera)",
+    "status": "Active",
+    "last_eruption": "1563–1564",
+    "first_known_eruption": "~6750 BCE",
+    "total_recorded_eruptions": 10,
+    "vei_max": "5 (~2990 BCE and 1563 CE)",
+    "country": "Portugal",
+    "region": "Azores, São Miguel Island (central)",
+    "tectonic_setting": "Rift zone — Terceira Rift on oceanic crust (< 15 km)",
+    "rock_types": [
+      "Trachyte",
+      "Trachydacite"
+    ],
+    "coordinates": "37.77°N, 25.47°W",
+    "nearest_city": "Ribeira Grande — 8 km north",
+    "population_at_risk": "~30,000 (São Miguel central isthmus)",
+    "summit_crater": "Outer caldera 4 × 7 km; inner caldera 2.5 × 3 km with Lagoa do Fogo",
+    "protected_status": "Lagoa do Fogo Natural Reserve; Azores UNESCO Global Geopark",
+    "monitoring_agency": "CIVISA",
+    "smithsonian_id": "382090",
+    "gvp_url": "https://volcano.si.edu/volcano.cfm?vn=382090"
+  },
+  "sections": {
+    "overview": {
+      "content": "Agua de Pau is an active <a href=\"/types-of-volcanoes\">stratovolcano</a> dominating the center of São Miguel Island in the <a href=\"/volcanoes-in-portugal\">Azores</a> archipelago, rising to 947 m (3,107 ft) — the highest point on the island. It is defined by a remarkable double caldera system: an outer 4 × 7 km caldera formed between 30,000 and 45,000 years ago, and a younger inner 2.5 × 3 km caldera created approximately 15,000 years ago. The inner caldera hosts Lagoa do Fogo (Lake of Fire), one of the most pristine volcanic crater lakes in Europe. With two confirmed <a href=\"/volcanic-explosivity-index\">VEI 5</a> eruptions — the Fogo-A Plinian event around 2990 BCE and the devastating 1563 eruption — Agua de Pau is the most explosively powerful of São Miguel's three active volcanic centers. The 1563 eruption was one of the largest in the Azores' recorded history, producing a Plinian column, extensive trachytic pumice falls, and pyroclastic flows that caused significant destruction on the central isthmus of São Miguel. Flanked by <a href=\"/volcano/sete-cidades\">Sete Cidades</a> to the west and <a href=\"/volcano/furnas\">Furnas</a> to the east, Agua de Pau occupies the narrowest part of São Miguel, where the island pinches to just 8 km across — a geography that places substantial populations on both the north and south coasts within the volcano's hazard zone."
+    },
+    "geology_and_formation": {
+      "content": "Agua de Pau's geological history spans at least 100,000 years of eruptive activity along the Terceira Rift, the tectonic spreading zone that generates volcanism across the Azores. The double caldera structure records two major collapse episodes. The older outer caldera (4 × 7 km) formed between 30,000 and 45,000 years ago during a massive eruption that excavated the summit. The younger inner caldera (2.5 × 3 km) was created approximately 15,000 years ago and now partially fills with the waters of Lagoa do Fogo. After the younger caldera formed, volcanic activity did not resume within it for roughly 10,000 years. Around 5,000 years ago, activity restarted with the massive Fogo-A eruption, which deposited approximately 3 km³ of trachytic pumice — one of the largest Holocene eruptions in the Azores. Post-caldera lava domes were emplaced on the northern and western flanks, and numerous flank cinder cones mark radial and concentric fissures. Like <a href=\"/volcano/sete-cidades\">Sete Cidades</a>, Agua de Pau erupts primarily trachytic to trachydacitic magma, compositions that favor explosive behavior due to their higher silica content and gas retention."
+    },
+    "eruption_history_overview": {
+      "content": "Agua de Pau has produced 10 documented eruptions spanning roughly 8,750 years, though the true total is almost certainly higher given the volcano's age. The eruption record divides naturally into two phases: an early period of flank and dome-building eruptions (6750 BCE to roughly 2210 BCE), and a later phase of major caldera and flank explosive events. The Fogo-A eruption around 2990 BCE was a pivotal moment — a VEI 5 Plinian event that produced ~3 km³ of pumice fallout and marks the resumption of activity within the inner caldera after a long dormancy. Subsequent eruptions at roughly 500–800 year intervals include VEI 3 and VEI 4 events, culminating in the devastating 1563 eruption. The historical record consists of only two events: the 1563 VEI 5 eruption and a smaller VEI 2 follow-up in 1564. The 460+ years since 1564 represent the longest documented repose at Agua de Pau, and hydrothermal activity (hot springs on the northwest flank) confirms that the magmatic system remains active."
+    },
+    "notable_eruptions": {
+      "subsections": [
+        {
+          "title": "The Fogo-A Eruption (~2990 BCE) — The Caldera Reawakens",
+          "content": "Approximately 5,000 years ago, Agua de Pau erupted in a massive VEI 5 Plinian event known as the Fogo-A eruption. This event deposited roughly 3 km³ of trachytic pumice across central and eastern São Miguel, making it one of the largest Holocene volcanic events in the Azores and among the most powerful eruptions in the mid-Atlantic during the past 10,000 years. The Fogo-A deposit is a critical stratigraphic marker used by geologists throughout the island to date other volcanic and sedimentary sequences. The eruption marked the resumption of activity within the inner caldera after approximately 10,000 years of quiescence — a reminder that very long dormancy periods do not signify extinction."
+        },
+        {
+          "title": "The 1563 Eruption — São Miguel's Worst Volcanic Disaster",
+          "content": "The 1563 eruption was the most destructive volcanic event in São Miguel's recorded history. It began in late June 1563 with a VEI 5 Plinian explosive phase from the caldera, generating a towering eruption column and depositing thick trachytic pumice falls across central São Miguel. Pyroclastic flows swept down the flanks, and the eruption was accompanied by vigorous activity at Cerro Queimado (Burnt Hill) on the northwest flank, where a lava dome was extruded. Contemporary Portuguese accounts describe devastating ashfall on the towns of Ribeira Grande (north coast) and Vila Franca do Campo (south coast), destruction of agricultural land, and casualties — though precise death tolls are uncertain. The eruption produced one of the thickest and most widespread pumice deposits in the Azorean geological record. A smaller VEI 2 eruption followed in 1564, likely from residual activity within the caldera at Lagoa do Fogo. Together, the 1563–1564 events demonstrated Agua de Pau's capacity for catastrophic Plinian eruptions."
+        }
+      ]
+    },
+    "current_status_and_monitoring": {
+      "content": "Agua de Pau has been in repose since 1564 — over 460 years — the longest dormancy in its documented record. Despite this, the volcano is unambiguously active. Prominent hot springs on the northwest flank, including those at Caldeira Velha, discharge geothermally heated water at temperatures exceeding 90°C, confirming ongoing magmatic heat input. CIVISA maintains seismic and geodetic monitoring stations around the volcano, and diffuse CO₂ degassing is measured regularly. Low-magnitude seismic swarms are occasionally detected beneath the edifice. The long repose is actually consistent with Agua de Pau's eruption frequency — its 10 known eruptions over ~8,750 years suggest an average recurrence of roughly 875 years, though the two VEI 5 events occurred approximately 4,500 years apart. Scientists consider a future eruption certain on geological timescales, with the key uncertainty being when and at what scale."
+    },
+    "hazards_and_risk_assessment": {
+      "content": "Agua de Pau is arguably the most hazardous volcano in the Azores due to its demonstrated capacity for VEI 5 Plinian eruptions and its position on São Miguel's narrowest isthmus. The primary hazards include Plinian pumice falls (capable of depositing meters of tephra across the central island), pyroclastic density currents channeled down valleys toward both the north and south coasts, and lahars generated by the interaction of hot erupted material with Lagoa do Fogo's lake water. Approximately 30,000 people live on the central isthmus, with the towns of Ribeira Grande (north) and Vila Franca do Campo (south) directly exposed. Both communities were severely impacted in 1563 and would face similar or greater risks today given increased population density. A Plinian eruption would disrupt air traffic across the entire eastern Atlantic and could deposit ash on the Azores' main international airport at Ponta Delgada."
+    },
+    "geography_and_physical_description": {
+      "content": "Agua de Pau forms a broad volcanic massif across São Miguel's central section, where the island narrows to just 8 km from coast to coast. The double caldera is the dominant topographic feature: the outer caldera's steep, forested walls frame the inner caldera containing Lagoa do Fogo, a lake roughly 1.4 km long and 500 m wide. The lake sits at approximately 575 m elevation and is surrounded by near-vertical inner caldera walls rising 200–300 m above the water. Dense native vegetation, including remnants of the Azorean laurel forest (Laurissilva), cloaks the caldera interior, making Lagoa do Fogo one of the most ecologically intact volcanic landscapes in Macaronesia. Outside the caldera, the flanks are dissected by deeply incised valleys (ribeiras) and dotted with parasitic cinder cones and lava domes. The northwest flank features the Caldeira Velha hot springs, a popular geothermal swimming site set in a lush tropical-feeling forest."
+    },
+    "visiting_and_tourism": {
+      "content": "Lagoa do Fogo is one of São Miguel's premier natural attractions, accessible via a well-maintained trail descending from the EN5-2A road on the caldera rim (approximately 45 minutes downhill to the lakeshore, moderate difficulty). The lake's white sandy beach, emerald water, and towering caldera walls create a dramatic, almost primeval atmosphere. Swimming is permitted but the water is cold year-round. The Caldeira Velha natural hot springs, a short drive to the northwest, offer warm geothermal pools in a ferny forest setting (admission charged). The caldera rim road provides multiple scenic viewpoints. The area falls within the Lagoa do Fogo Natural Reserve, and visitors should stay on marked trails to protect the fragile endemic vegetation."
+    },
+    "nearby_volcanoes": {
+      "content": "Agua de Pau is the middle member of São Miguel's three-volcano alignment. To the west lies <a href=\"/volcano/sete-cidades\">Sete Cidades</a> (842 m), whose twin-lake caldera is the island's most iconic image. To the east, <a href=\"/volcano/furnas\">Furnas</a> (805 m) is famous for its active hydrothermal area and the 1630 VEI 5 eruption. Between Sete Cidades and Agua de Pau, the Picos Fissure Zone features basaltic cinder cones and lava fields. All three volcanoes sit on the Terceira Rift and share the same tectonic driver. São Miguel is one of only a handful of islands worldwide with three independently active polygenetic volcanoes in such close proximity."
+    },
+    "etymology": {
+      "content": "The name 'Agua de Pau' (Portuguese for 'Water of Pau' or 'Water from the stick/tree') is believed to reference the abundant freshwater springs that issue from the volcano's heavily vegetated flanks, which historically supplied surrounding communities. The caldera lake's name — Lagoa do Fogo, 'Lake of Fire' — evokes the volcano's fiery origins, though the serene turquoise waters visible today belie the explosive violence that created them."
+    }
+  },
+  "comparison_tables": [
+    {
+      "title": "Agua de Pau Compared to Other São Miguel Volcanoes",
+      "description": "How does Agua de Pau compare to its neighboring volcanoes on São Miguel Island?",
+      "headers": [
+        "Volcano",
+        "Elevation",
+        "Type",
+        "Last Eruption",
+        "VEI Max",
+        "Eruption Count",
+        "Caldera Lake"
+      ],
+      "rows": [
+        [
+          "Agua de Pau",
+          "947 m",
+          "Stratovolcano",
+          "1564",
+          "5",
+          "10",
+          "Lagoa do Fogo"
+        ],
+        [
+          "Sete Cidades",
+          "842 m",
+          "Stratovolcano",
+          "1880",
+          "4",
+          "16",
+          "Lagoa Azul/Verde"
+        ],
+        [
+          "Furnas",
+          "805 m",
+          "Stratovolcano",
+          "1630",
+          "5",
+          "9",
+          "Lagoa das Furnas"
+        ],
+        [
+          "Picos Fissure Zone",
+          "~800 m",
+          "Fissure vents",
+          "~1652",
+          "2",
+          "2",
+          "None"
+        ],
+        [
+          "Nordeste",
+          "1,103 m",
+          "Shield volcano",
+          "Pleistocene",
+          "N/A",
+          "0",
+          "Povoação caldera"
+        ]
+      ]
+    }
+  ],
+  "eruption_timeline": [
+    {
+      "year": -6750,
+      "vei": null,
+      "label": "Earliest known eruption — west flank lava dome",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -2990,
+      "vei": 5,
+      "label": "Fogo-A Plinian eruption — ~3 km³ pumice",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": -1850,
+      "vei": 3,
+      "label": "VEI 3 eruption at Lagoa do Congro (east flank)",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": -1290,
+      "vei": 4,
+      "label": "VEI 4 caldera eruption at Lagoa do Fogo",
+      "deaths": null,
+      "notable": true
+    },
+    {
+      "year": 700,
+      "vei": null,
+      "label": "WNW flank eruption",
+      "deaths": null,
+      "notable": false
+    },
+    {
+      "year": 1563,
+      "vei": 5,
+      "label": "VEI 5 Plinian eruption — worst disaster on São Miguel",
+      "deaths": "Unknown",
+      "notable": true
+    },
+    {
+      "year": 1564,
+      "vei": 2,
+      "label": "Follow-up eruption within Lagoa do Fogo caldera",
+      "deaths": null,
+      "notable": true
+    }
+  ],
+  "eruptions_per_century": [
+    {
+      "century": "Pre-history",
+      "count": 7,
+      "note": "~6750 BCE to ~700 CE"
+    },
+    {
+      "century": "16th",
+      "count": 2,
+      "note": "1563 (VEI 5) and 1564 (VEI 2)"
+    },
+    {
+      "century": "17th-present",
+      "count": 0,
+      "note": "460+ years of repose"
+    }
+  ],
+  "facts": [
+    "Agua de Pau is the tallest point on São Miguel Island at 947 m (3,107 ft), towering above both Sete Cidades (842 m) and Furnas (805 m).",
+    "The Fogo-A eruption around 2990 BCE deposited approximately 3 km³ of trachytic pumice, making it one of the largest Holocene eruptions in the entire Azores archipelago.",
+    "Agua de Pau has a double caldera — an outer one 4 × 7 km formed 30,000–45,000 years ago, and an inner one 2.5 × 3 km created about 15,000 years ago.",
+    "Lagoa do Fogo ('Lake of Fire') fills the inner caldera and is one of the most pristine volcanic crater lakes in Europe, protected as a nature reserve since 1974.",
+    "The 1563 eruption was the most devastating volcanic event in São Miguel's recorded history, producing a Plinian column, pyroclastic flows, and thick pumice falls that buried central São Miguel.",
+    "Hot springs at Caldeira Velha on the northwest flank discharge water at temperatures exceeding 90°C, confirming ongoing magmatic heat input beneath the volcano.",
+    "Agua de Pau sits on the narrowest section of São Miguel, where the island is only 8 km wide, placing populations on both coasts within direct hazard range.",
+    "The 460-year repose since 1564 is the longest gap in Agua de Pau's documented eruption history, but consistent with an average recurrence interval of roughly 875 years.",
+    "Two of Agua de Pau's 10 recorded eruptions reached VEI 5 — the same explosive magnitude as Mount Vesuvius's legendary 79 AD eruption.",
+    "The Lagoa do Fogo crater lake's water volume represents a significant secondary hazard: interaction between erupting magma and lake water could generate violent phreatomagmatic explosions and lahars."
+  ],
+  "faqs": [
+    {
+      "question": "Is Agua de Pau still active?",
+      "answer": "Yes, Agua de Pau is classified as an active volcano despite not having erupted since 1564. The 460-year repose is consistent with its historical eruption frequency (average interval of roughly 875 years between events). Active hydrothermal features, including the Caldeira Velha hot springs on the northwest flank and diffuse CO₂ degassing from the caldera, confirm an active magmatic system. CIVISA monitors the volcano continuously. Volcanologists consider a future eruption certain on geological timescales."
+    },
+    {
+      "question": "What happened during the 1563 eruption?",
+      "answer": "The 1563 eruption was a VEI 5 Plinian event — the most destructive volcanic disaster in São Miguel's recorded history. It began in late June with a massive explosive phase from the caldera, generating a towering eruption column and depositing thick trachytic pumice across central São Miguel. Pyroclastic flows swept down the flanks, and a lava dome was extruded at Cerro Queimado on the northwest flank. Towns on both the north and south coasts suffered severe ashfall, agricultural devastation, and casualties. A smaller VEI 2 eruption followed in 1564."
+    },
+    {
+      "question": "Can you visit Lagoa do Fogo?",
+      "answer": "Yes, Lagoa do Fogo is one of São Miguel's top natural attractions. The lake is accessible via a well-maintained hiking trail from the EN5-2A road on the caldera rim, taking approximately 45 minutes to descend to the lakeshore. The trail is of moderate difficulty. Swimming is permitted but the water is cold year-round. The caldera rim road offers several scenic viewpoints even without hiking. The nearby Caldeira Velha hot springs provide a warm geothermal bathing experience in a lush forest setting."
+    },
+    {
+      "question": "How does Agua de Pau compare to Sete Cidades?",
+      "answer": "Both are active stratovolcanoes with calderas on São Miguel Island, but they differ significantly. Agua de Pau is taller (947 m vs 842 m), has produced larger eruptions (VEI 5 vs VEI 4 maximum), and has a double caldera system. Sete Cidades has more total recorded eruptions (16 vs 10) and erupted more recently (1880 vs 1564). Sete Cidades is best known for its twin-colored lakes, while Agua de Pau is known for the pristine Lagoa do Fogo. Both volcanoes are monitored by CIVISA and are considered potentially dangerous."
+    },
+    {
+      "question": "How tall is Agua de Pau?",
+      "answer": "Agua de Pau reaches 947 m (3,107 ft) above sea level, making it the highest point on São Miguel Island. The inner caldera containing Lagoa do Fogo sits at approximately 575 m elevation. For comparison, the other two major volcanoes on São Miguel — Sete Cidades and Furnas — reach 842 m and 805 m respectively. Agua de Pau's elevation, combined with its position on the island's central spine, makes it a dominant topographic feature visible from both the north and south coasts."
+    },
+    {
+      "question": "What is the danger of Agua de Pau erupting?",
+      "answer": "Agua de Pau is considered the most hazardous volcano in the Azores due to its proven capacity for VEI 5 Plinian eruptions and its position on São Miguel's narrowest isthmus (only 8 km wide). A major eruption could produce pyroclastic flows reaching both coasts, thick pumice falls collapsing buildings, and lahars from interaction with Lagoa do Fogo's water. Approximately 30,000 people live within the primary hazard zone. Ashfall could disrupt Atlantic air traffic and affect all of São Miguel's 140,000 residents."
+    }
+  ],
+  "people_also_search": [
+    "agua de pau volcano",
+    "lagoa do fogo azores",
+    "são miguel volcanoes",
+    "azores volcanic eruptions",
+    "caldeira velha hot springs"
+  ],
+  "schema_data": {
+    "type": "Volcano",
+    "name": "Agua de Pau",
+    "alternateName": [
+      "Fogo Volcano",
+      "Pico da Barrosa"
+    ],
+    "description": "Active stratovolcano with double caldera and Lagoa do Fogo crater lake on São Miguel Island, Azores, Portugal",
+    "geo": {
+      "latitude": 37.77,
+      "longitude": -25.47,
+      "elevation": 947
+    },
+    "containedInPlace": {
+      "name": "São Miguel Island, Azores",
+      "country": "Portugal"
+    },
+    "url": "https://volcanoatlas.com/volcano/agua-de-pau"
+  },
+  "external_links": [
+    {
+      "url": "https://volcano.si.edu/volcano.cfm?vn=382090",
+      "text": "Smithsonian GVP: Agua de Pau",
+      "type": "primary_source"
+    },
+    {
+      "url": "https://www.azoresgeopark.com/",
+      "text": "Azores UNESCO Global Geopark",
+      "type": "heritage"
+    },
+    {
+      "url": "https://www.civisa.azores.gov.pt/",
+      "text": "CIVISA — Azores Volcanological Monitoring",
+      "type": "monitoring"
+    }
+  ],
+  "internal_links_target": {
+    "volcano_profiles": [
+      "sete-cidades",
+      "furnas",
+      "vesuvius"
+    ],
+    "country_pages": [
+      "portugal"
+    ],
+    "special_pages": [
+      "types-of-volcanoes",
+      "volcanic-explosivity-index"
+    ],
+    "rankings": [
+      "active-volcanoes"
+    ]
+  },
+  "related_volcanoes": [
+    "sete-cidades",
+    "furnas",
+    "pico",
+    "teide",
+    "vesuvius"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Volcanoes in Portugal",
+      "url": "/volcanoes-in-portugal"
+    },
+    {
+      "label": "Agua de Pau",
+      "url": "/volcano/agua-de-pau"
+    }
+  ],
+  "source_citation": "Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.4; 30 Dec 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3",
+  "page_type": "volcano",
+  "url": "/volcano/agua-de-pau"
+}
