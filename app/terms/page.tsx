@@ -119,7 +119,7 @@ export default function TermsPage() {
               If you have any questions about these Terms of Use, please contact us at:
             </p>
             <p className="mb-4">
-              Email: <a href="mailto:info@volcanoatlas.com" className="text-lava hover:text-lava-dark">info@volcanoatlas.com</a>
+              Email: <a href="mailto:info@volcanosatlas.com" className="text-lava hover:text-lava-dark">info@volcanosatlas.com</a>
             </p>
           </div>
         </div>

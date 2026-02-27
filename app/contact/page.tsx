@@ -49,9 +49,9 @@ export default function ContactPage() {
                 <p className="text-volcanic-300 mb-4">
                   For general inquiries, feedback, or support:
                 </p>
-                <a href="mailto:info@volcanoatlas.com" 
+                <a href="mailto:info@volcanosatlas.com" 
                    className="text-lava hover:text-lava-dark font-semibold text-lg transition-colors">
-                  info@volcanoatlas.com
+                  info@volcanosatlas.com
                 </a>
               </div>
 
@@ -66,9 +66,9 @@ export default function ContactPage() {
                 <p className="text-volcanic-300 mb-4">
                   For educational partnerships and resources:
                 </p>
-                <a href="mailto:education@volcanoatlas.com" 
+                <a href="mailto:education@volcanosatlas.com" 
                    className="text-lava hover:text-lava-dark font-semibold text-lg transition-colors">
-                  education@volcanoatlas.com
+                  education@volcanosatlas.com
                 </a>
               </div>
             </div>

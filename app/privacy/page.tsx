@@ -158,11 +158,11 @@ export default function PrivacyPage() {
             <div className="bg-volcanic-900 p-6 rounded-xl">
               <p className="mb-2">
                 <strong className="text-white">Email:</strong>{' '}
-                <a href="mailto:info@volcanoatlas.com" className="text-lava hover:text-lava-dark">info@volcanoatlas.com</a>
+                <a href="mailto:info@volcanosatlas.com" className="text-lava hover:text-lava-dark">info@volcanosatlas.com</a>
               </p>
               <p className="mb-2">
                 <strong className="text-white">Website:</strong>{' '}
-                <Link href="/" className="text-lava hover:text-lava-dark">www.volcanoatlas.com</Link>
+                <Link href="/" className="text-lava hover:text-lava-dark">www.volcanosatlas.com</Link>
               </p>
             </div>
 

@@ -209,7 +209,7 @@ Features:
 ```
 Finalize SEO and performance for VolcanoAtlas:
 
-1. next-sitemap config: Generate sitemap.xml from /data/volcanoatlas-sitemap.json. Base URL: https://volcanoatlas.com
+1. next-sitemap config: Generate sitemap.xml from /data/volcanoatlas-sitemap.json. Base URL: https://volcanosatlas.com
 
 2. robots.txt: Allow all, reference sitemap
 

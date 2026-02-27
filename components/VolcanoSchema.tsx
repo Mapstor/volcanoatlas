@@ -20,7 +20,7 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Place',
-    '@id': `https://volcanoatlas.com/volcano/${volcano.slug}`,
+    '@id': `https://volcanosatlas.com/volcano/${volcano.slug}`,
     name: `${volcano.name} Volcano`,
     description: volcano.description,
     geo: {
@@ -53,17 +53,17 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
     ],
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://volcanoatlas.com/volcano/${volcano.slug}`
+      '@id': `https://volcanosatlas.com/volcano/${volcano.slug}`
     },
     image: [
-      `https://volcanoatlas.com/images/${volcano.slug}-1.jpg`,
-      `https://volcanoatlas.com/images/${volcano.slug}-2.jpg`,
-      `https://volcanoatlas.com/images/${volcano.slug}-3.jpg`
+      `https://volcanosatlas.com/images/${volcano.slug}-1.jpg`,
+      `https://volcanosatlas.com/images/${volcano.slug}-2.jpg`,
+      `https://volcanosatlas.com/images/${volcano.slug}-3.jpg`
     ],
     isPartOf: {
       '@type': 'WebSite',
       name: 'VolcanoAtlas',
-      url: 'https://volcanoatlas.com'
+      url: 'https://volcanosatlas.com'
     }
   };
 
@@ -75,25 +75,25 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://volcanoatlas.com'
+        item: 'https://volcanosatlas.com'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Countries',
-        item: 'https://volcanoatlas.com/countries'
+        item: 'https://volcanosatlas.com/countries'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: volcano.country,
-        item: `https://volcanoatlas.com/volcanoes-in-${volcano.country.toLowerCase().replace(/\s+/g, '-')}`
+        item: `https://volcanosatlas.com/volcanoes-in-${volcano.country.toLowerCase().replace(/\s+/g, '-')}`
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: volcano.name,
-        item: `https://volcanoatlas.com/volcano/${volcano.slug}`
+        item: `https://volcanosatlas.com/volcano/${volcano.slug}`
       }
     ]
   };
