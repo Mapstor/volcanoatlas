@@ -89,7 +89,7 @@ export default async function RootLayout({
                 c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
                 t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
                 y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-            })(window, document, "clarity", "script", "57C407E8336C4915E2D28EEA649C8078");
+            })(window, document, "clarity", "script", "57c407e8336c4915e2d28eea649c8078");
           `}
         </Script>
         
