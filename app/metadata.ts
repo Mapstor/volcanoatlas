@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://volcanoatlas.com';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://volcanoatlas.vercel.app';
 
 export const defaultMetadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -27,7 +27,7 @@ export const defaultMetadata: Metadata = {
     description: "Comprehensive encyclopedia of Earth's volcanoes. Explore detailed profiles of 150+ volcanoes across 46 countries.",
     images: [
       {
-        url: '/og-image.jpg',
+        url: `${siteUrl}/og-image.jpg`,
         width: 1200,
         height: 630,
         alt: 'VolcanoAtlas - Explore Earth\'s Volcanoes',
@@ -38,7 +38,7 @@ export const defaultMetadata: Metadata = {
     card: 'summary_large_image',
     title: 'VolcanoAtlas — Every Volcano on Earth',
     description: "Comprehensive encyclopedia of Earth's volcanoes. Explore detailed profiles of 150+ volcanoes.",
-    images: ['/og-image.jpg'],
+    images: [`${siteUrl}/og-image.jpg`],
     creator: '@volcanoatlas',
   },
   robots: {
@@ -54,7 +54,8 @@ export const defaultMetadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/favicon.ico', sizes: '32x32' },
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
       { url: '/favicon-16x16.png', type: 'image/png', sizes: '16x16' },
       { url: '/favicon-32x32.png', type: 'image/png', sizes: '32x32' },
     ],
@@ -64,8 +65,8 @@ export const defaultMetadata: Metadata = {
     other: [
       {
         rel: 'mask-icon',
-        url: '/safari-pinned-tab.svg',
-        color: '#ea580c',
+        url: '/favicon.svg',
+        color: '#FF6B35',
       },
     ],
   },
