@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { formatElevation } from '@/lib/volcanoDynamicData';
+import { formatElevation, computeYearsAgo, formatYearsAgo } from '@/lib/volcanoDynamicData';
 import VolcanoLocationMap from '@/components/VolcanoLocationMap';
 import { fetchVolcanoPhotos } from '@/lib/unsplash';
 import EruptionTimeline from '@/components/EruptionTimeline';
@@ -342,22 +342,25 @@ export default function DynamicVolcanoPage({ volcanoData, stats, photos }: Dynam
                          'Local impact potential'}
                       </td>
                     </tr>
-                    <tr>
-                      <td className="py-3 text-gray-300">Recent Activity</td>
-                      <td className="py-3 text-white font-semibold">
-                        {props.Last_Eruption_Year ? `${new Date().getFullYear() - props.Last_Eruption_Year} years ago` : 'Unknown'}
-                      </td>
-                      <td className="py-3 text-gray-300">
-                        {props.Last_Eruption_Year && new Date().getFullYear() - props.Last_Eruption_Year < 10 ? 'Very Recent' :
-                         props.Last_Eruption_Year && new Date().getFullYear() - props.Last_Eruption_Year < 50 ? 'Recent' :
-                         'Historical'}
-                      </td>
-                      <td className="py-3 text-gray-300">
-                        {props.Last_Eruption_Year && new Date().getFullYear() - props.Last_Eruption_Year < 10 ? 'Currently active' :
-                         props.Last_Eruption_Year && new Date().getFullYear() - props.Last_Eruption_Year < 100 ? 'Recently active' :
-                         'Historically active'}
-                      </td>
-                    </tr>
+                    {(() => {
+                      const yearsAgo = computeYearsAgo(props.Last_Eruption_Year);
+                      if (yearsAgo === null) return null;
+                      
+                      return (
+                        <tr>
+                          <td className="py-3 text-gray-300">Recent Activity</td>
+                          <td className="py-3 text-white font-semibold">
+                            {formatYearsAgo(props.Last_Eruption_Year)}
+                          </td>
+                          <td className="py-3 text-gray-300">
+                            {yearsAgo < 10 ? 'Very Recent' : yearsAgo < 50 ? 'Recent' : 'Historical'}
+                          </td>
+                          <td className="py-3 text-gray-300">
+                            {yearsAgo < 10 ? 'Currently active' : yearsAgo < 100 ? 'Recently active' : 'Historically active'}
+                          </td>
+                        </tr>
+                      );
+                    })()}
                   </tbody>
                 </table>
               </div>

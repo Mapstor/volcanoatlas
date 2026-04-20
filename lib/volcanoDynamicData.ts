@@ -94,3 +94,64 @@ export function formatElevation(meters: number): string {
   const feet = Math.round(meters * 3.28084);
   return `${meters.toLocaleString()} m (${feet.toLocaleString()} ft)`;
 }
+
+/**
+ * Computes the raw number of years between the eruption year and current year
+ * @param lastEruptionYear - The year of last eruption (positive=CE, negative=BCE, null=unknown)
+ * @param currentYear - The current year (defaults to now, parameterized for testing)
+ * @returns Number of years ago, or null if data is invalid/missing
+ */
+export function computeYearsAgo(
+  lastEruptionYear: number | null,
+  currentYear: number = new Date().getFullYear()
+): number | null {
+  // Return null for unknown/missing data
+  if (lastEruptionYear === null) {
+    return null;
+  }
+  
+  // Check for invalid future years
+  if (lastEruptionYear > currentYear) {
+    if (process.env.NODE_ENV === 'development') {
+      console.warn(`Invalid future eruption year: ${lastEruptionYear} (current year: ${currentYear})`);
+    }
+    return null;
+  }
+  
+  return currentYear - lastEruptionYear;
+}
+
+/**
+ * Formats Last_Eruption_Year into user-friendly "X years ago" text
+ * @param lastEruptionYear - The year of last eruption (positive=CE, negative=BCE, null=unknown)
+ * @param currentYear - The current year (defaults to now, parameterized for testing)
+ * @returns Formatted string or null if data is null/invalid
+ */
+export function formatYearsAgo(
+  lastEruptionYear: number | null,
+  currentYear: number = new Date().getFullYear()
+): string | null {
+  const yearsAgo = computeYearsAgo(lastEruptionYear, currentYear);
+  
+  if (yearsAgo === null) {
+    return null;
+  }
+  
+  // Handle current year
+  if (yearsAgo === 0) {
+    return 'This year';
+  }
+  
+  // Handle singular year
+  if (yearsAgo === 1) {
+    return '1 year ago';
+  }
+  
+  // Handle all other cases with thousands separator for readability
+  if (yearsAgo >= 1000) {
+    return `${yearsAgo.toLocaleString('en-US')} years ago`;
+  }
+  
+  // Regular years (2-999)
+  return `${yearsAgo} years ago`;
+}

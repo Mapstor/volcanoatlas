@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { computeYearsAgo, formatYearsAgo } from '@/lib/volcanoDynamicData';
 
 interface VolcanoDataSectionsProps {
   volcanoData: {
@@ -210,22 +211,25 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
                    'Local impact potential'}
                 </td>
               </tr>
-              <tr>
-                <td className="py-3 text-gray-300">Recent Activity</td>
-                <td className="py-3 text-white font-semibold">
-                  {volcanoData.lastEruption ? `${currentYear - volcanoData.lastEruption} years ago` : 'Unknown'}
-                </td>
-                <td className="py-3 text-gray-300">
-                  {volcanoData.lastEruption && currentYear - volcanoData.lastEruption < 10 ? 'Very Recent' :
-                   volcanoData.lastEruption && currentYear - volcanoData.lastEruption < 50 ? 'Recent' :
-                   'Historical'}
-                </td>
-                <td className="py-3 text-gray-300">
-                  {volcanoData.lastEruption && currentYear - volcanoData.lastEruption < 10 ? 'Currently active' :
-                   volcanoData.lastEruption && currentYear - volcanoData.lastEruption < 100 ? 'Recently active' :
-                   'Historically active'}
-                </td>
-              </tr>
+              {(() => {
+                const yearsAgo = computeYearsAgo(volcanoData.lastEruption || null, currentYear);
+                if (yearsAgo === null) return null;
+                
+                return (
+                  <tr>
+                    <td className="py-3 text-gray-300">Recent Activity</td>
+                    <td className="py-3 text-white font-semibold">
+                      {formatYearsAgo(volcanoData.lastEruption || null, currentYear)}
+                    </td>
+                    <td className="py-3 text-gray-300">
+                      {yearsAgo < 10 ? 'Very Recent' : yearsAgo < 50 ? 'Recent' : 'Historical'}
+                    </td>
+                    <td className="py-3 text-gray-300">
+                      {yearsAgo < 10 ? 'Currently active' : yearsAgo < 100 ? 'Recently active' : 'Historically active'}
+                    </td>
+                  </tr>
+                );
+              })()}
             </tbody>
           </table>
         </div>
