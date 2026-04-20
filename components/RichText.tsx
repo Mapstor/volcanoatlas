@@ -1,4 +1,4 @@
-import { processWikiLinks } from '@/lib/textUtils';
+import { processContent } from '@/lib/textUtils';
 
 interface RichTextProps {
   html: string;
@@ -6,6 +6,6 @@ interface RichTextProps {
 }
 
 export function RichText({ html, className }: RichTextProps) {
-  const processed = processWikiLinks(html);
+  const processed = processContent(html);
   return <div className={className} dangerouslySetInnerHTML={{ __html: processed }} />;
 }

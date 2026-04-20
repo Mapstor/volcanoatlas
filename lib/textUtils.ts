@@ -1,4 +1,37 @@
 /**
+ * Processes markdown bold syntax and converts to HTML strong tags
+ * Converts **text** to <strong>text</strong>
+ * Only matches non-empty content that doesn't span multiple paragraphs
+ */
+export function processMarkdownBold(text: string): string {
+  if (!text) return '';
+  
+  // Convert **text** to <strong>text</strong>
+  // [^*\n\s] ensures we don't match empty content, spaces only, or across newlines
+  // The + quantifier prevents matching empty ** or ****
+  text = text.replace(/\*\*([^*\n]*[^*\n\s][^*\n]*)\*\*/g, '<strong>$1</strong>');
+  
+  return text;
+}
+
+/**
+ * Orchestrates all content processing in the correct order
+ * 1. Process markdown bold first (in case wiki-link display text contains bold)
+ * 2. Process wiki-links second
+ */
+export function processContent(text: string): string {
+  if (!text) return '';
+  
+  // Process markdown bold first
+  let processed = processMarkdownBold(text);
+  
+  // Then process wiki-links
+  processed = processWikiLinks(processed);
+  
+  return processed;
+}
+
+/**
  * Processes wiki-style links and converts them to HTML anchor tags
  * Handles patterns like:
  * - [[volcano:slug|Display Text]] → <a href="/volcano/slug">Display Text</a>
@@ -66,8 +99,8 @@ export function processWikiLinks(text: string): string {
 export function breakUpLongParagraphs(html: string, maxSentences: number = 3): string {
   if (!html) return '';
   
-  // Process wiki-links first
-  html = processWikiLinks(html);
+  // Process all content first
+  html = processContent(html);
 
   // Helper function to split text into sentences
   const splitIntoSentences = (text: string): string[] => {
