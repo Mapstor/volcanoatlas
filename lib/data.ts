@@ -28,6 +28,7 @@ export interface VolcanoData {
     elevation_ft: number;
     status: string;
     last_eruption: string;
+    last_eruption_year?: number | null;
     coordinates: {
       lat: number;
       lon: number;

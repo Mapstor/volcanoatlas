@@ -26,7 +26,8 @@
       "lon": 177.18
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01614.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 2025
   },
   "key_facts_box": {
     "elevation": "294 m (965 ft) above sea level; the summit of a submarine volcano reaching ~1,600 m from the seafloor",

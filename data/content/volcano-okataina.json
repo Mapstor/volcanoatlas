@@ -26,7 +26,8 @@
       "lon": 176.507
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01616.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 1981
   },
   "key_facts_box": {
     "elevation": "1,111 m (3,645 ft) — Haroharo dome complex",

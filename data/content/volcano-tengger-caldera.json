@@ -26,7 +26,8 @@
       "lon": 112.95
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01127.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 2023
   },
   "key_facts_box": {
     "elevation": "2,329 m (7,641 ft) at caldera rim (Bromo cone: ~2,329 m)",

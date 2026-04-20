@@ -26,7 +26,8 @@
       "lon": -174.775
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11956.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 2025
   },
   "key_facts_box": {
     "elevation": "-10 m (-33 ft) below sea level (summit depth variable — emerges during eruptions)",

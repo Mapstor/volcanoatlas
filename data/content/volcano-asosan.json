@@ -26,7 +26,8 @@
       "lon": 131.085
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01998.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 2021
   },
   "key_facts_box": {
     "elevation": "1,592 m (5,223 ft) — Takadake, highest central cone",

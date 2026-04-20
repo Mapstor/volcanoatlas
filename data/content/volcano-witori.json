@@ -26,7 +26,8 @@
       "lon": 150.5161
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10612.jpg",
-    "photo_credit": "Global Volcanism Program"
+    "photo_credit": "Global Volcanism Program",
+    "last_eruption_year": 2012
   },
   "key_facts_box": {
     "elevation": "724 m (2,375 ft) — caldera rim; Pago cone rises above the rim",

@@ -26,7 +26,8 @@
       "lon": -161.894
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05365.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 2022
   },
   "key_facts_box": {
     "elevation": "2,493 m (8,179 ft)",

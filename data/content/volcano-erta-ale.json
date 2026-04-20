@@ -26,7 +26,8 @@
       "lon": 40.666
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-09909.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 2026
   },
   "key_facts_box": {
     "elevation": "585 m (1,919 ft) above sea level; edifice rises ~600 m above Danakil Depression floor (below sea level)",

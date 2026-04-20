@@ -26,7 +26,8 @@
       "lon": -61.664
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04982.jpg",
-    "photo_credit": "Global Volcanism Program"
+    "photo_credit": "Global Volcanism Program",
+    "last_eruption_year": 1977
   },
   "key_facts_box": {
     "elevation": "1,467 m (4,813 ft)",

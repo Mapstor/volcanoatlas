@@ -26,7 +26,8 @@
       "lon": 110.446
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01722.jpg",
-    "photo_credit": "Smithsonian Global Volcanism Program"
+    "photo_credit": "Smithsonian Global Volcanism Program",
+    "last_eruption_year": 2026
   },
   "key_facts_box": {
     "elevation": "2,910 m (9,551 ft)",

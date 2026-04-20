@@ -26,7 +26,8 @@
       "lon": -121.76
     },
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mount_Rainier_from_west.jpg",
-    "photo_credit": "USGS / Public Domain"
+    "photo_credit": "USGS / Public Domain",
+    "last_eruption_year": 1450
   },
   "key_facts_box": {
     "elevation": "4,392 m (14,411 ft)",

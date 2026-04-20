@@ -26,7 +26,8 @@
       "lon": -174.317
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-10790.jpg",
-    "photo_credit": "Paul Taylor (published in Taylor and Ewart, 1997)"
+    "photo_credit": "Paul Taylor (published in Taylor and Ewart, 1997)",
+    "last_eruption_year": 1957
   },
   "key_facts_box": {
     "elevation": "188 m (617 ft)",

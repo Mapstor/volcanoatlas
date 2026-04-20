@@ -26,7 +26,8 @@
       "lon": -101.75
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05804.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 1952
   },
   "key_facts_box": {
     "elevation": "3,860 m (12,664 ft) — highest point in the field",

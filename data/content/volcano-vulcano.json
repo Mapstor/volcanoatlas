@@ -24,7 +24,8 @@
     "coordinates": {
       "lat": 38.404,
       "lon": 14.962
-    }
+    },
+    "last_eruption_year": 1890
   },
   "key_facts_box": {
     "elevation": "500 m (1,640 ft)",

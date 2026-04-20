@@ -24,7 +24,8 @@
     "coordinates": {
       "lat": 11.538,
       "lon": -85.622
-    }
+    },
+    "last_eruption_year": 2024
   },
   "key_facts_box": {
     "elevation": "1,700 m (5,577 ft)",

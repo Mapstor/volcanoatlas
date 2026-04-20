@@ -212,7 +212,7 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
                   epoch: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('epoch'))?.value || 'Unknown',
                   evidence: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('evidence'))?.value || 'Unknown',
                   elevation: volcano.hero?.elevation_m || 0,
-                  lastEruption: volcano.hero?.last_eruption ? parseInt(volcano.hero.last_eruption.replace(/[^\d]/g, '')) : undefined,
+                  lastEruption: volcano.hero?.last_eruption_year || undefined,
                   volcanoNumber: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('number'))?.value
                 }}
                 stats={{

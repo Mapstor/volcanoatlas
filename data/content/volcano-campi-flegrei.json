@@ -26,7 +26,8 @@
       "lon": 14.139
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01511.jpg",
-    "photo_credit": "Global Volcanism Program"
+    "photo_credit": "Global Volcanism Program",
+    "last_eruption_year": 1538
   },
   "key_facts_box": {
     "elevation": "458 m (1,503 ft) at Monte Nuovo — highest point of recent activity",

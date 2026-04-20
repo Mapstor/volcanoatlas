@@ -26,7 +26,8 @@
       "lon": -17.516
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-05174.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 2015
   },
   "key_facts_box": {
     "elevation": "2,000 m (6,562 ft) — second highest point in Iceland (beneath ice)",

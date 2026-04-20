@@ -26,7 +26,8 @@
       "lon": 160.595
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02445.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 2025
   },
   "key_facts_box": {
     "elevation": "2,882 m (9,455 ft) — reduced from ~3,100 m before 1956 collapse",

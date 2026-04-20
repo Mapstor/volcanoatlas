@@ -26,7 +26,8 @@
       "lon": 175.632
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-01621.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 2012
   },
   "key_facts_box": {
     "elevation": "1,978 m (6,490 ft) — at Ngauruhoe cone",

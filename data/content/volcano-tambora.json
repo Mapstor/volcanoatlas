@@ -26,7 +26,8 @@
       "lon": 118
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11509.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 1967
   },
   "key_facts_box": {
     "elevation": "2,850 m (9,350 ft) — reduced from ~4,300 m before the 1815 eruption",

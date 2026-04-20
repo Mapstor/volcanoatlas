@@ -26,7 +26,8 @@
       "lon": 167.17
     },
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mount_Erebus_from_Scott_Base.jpg",
-    "photo_credit": "US Antarctic Program / Public Domain"
+    "photo_credit": "US Antarctic Program / Public Domain",
+    "last_eruption_year": 2025
   },
   "key_facts_box": {
     "elevation": "3,794 m (12,448 ft)",

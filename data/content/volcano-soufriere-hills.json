@@ -26,7 +26,8 @@
       "lon": -62.18
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-04966.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 2013
   },
   "key_facts_box": {
     "elevation": "915 m (3,002 ft) — pre-1995 summit; lava dome has exceeded 1,050 m at times",

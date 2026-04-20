@@ -26,7 +26,8 @@
       "lon": 139.526
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-08937.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 2010
   },
   "key_facts_box": {
     "elevation": "775 m (2,543 ft)",

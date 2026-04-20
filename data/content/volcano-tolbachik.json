@@ -26,7 +26,8 @@
       "lon": 160.326
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02397.jpg",
-    "photo_credit": "Smithsonian Institution, Global Volcanism Program"
+    "photo_credit": "Smithsonian Institution, Global Volcanism Program",
+    "last_eruption_year": 2013
   },
   "key_facts_box": {
     "elevation": "3,611 m (11,847 ft) — Ostry Tolbachik summit; Plosky Tolbachik at ~3,085 m",

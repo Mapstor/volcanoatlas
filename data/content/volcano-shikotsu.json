@@ -26,7 +26,8 @@
       "lon": 141.38
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-02225.jpg",
-    "photo_credit": "Smithsonian GVP"
+    "photo_credit": "Smithsonian GVP",
+    "last_eruption_year": 1981
   },
   "key_facts_box": {
     "elevation": "1,320 m (4,331 ft) — Tarumaesan summit",
