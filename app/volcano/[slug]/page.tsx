@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     
     if (geoData) {
       return {
-        title: `${geoData.properties.Volcano_Name} Volcano, ${geoData.properties.Country} | VolcanoAtlas`,
+        title: `${geoData.properties.Volcano_Name} Volcano, ${geoData.properties.Country}`,
         description: `${geoData.properties.Primary_Volcano_Type} volcano in ${geoData.properties.Country}. Elevation: ${geoData.properties.Elevation}m. ${geoData.properties.Geological_Summary.substring(0, 150)}...`
       };
     }

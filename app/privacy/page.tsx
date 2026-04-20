@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Privacy Policy | VolcanoAtlas',
+  title: 'Privacy Policy',
   description: 'Privacy policy for VolcanoAtlas - How we collect, use, and protect your information.',
 };
 

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'About Us | VolcanoAtlas',
+  title: 'About Us',
   description: 'Learn about VolcanoAtlas - Our mission to make volcanic science accessible through comprehensive education and exploration.',
 };
 

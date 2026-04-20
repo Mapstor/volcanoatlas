@@ -2,7 +2,7 @@ import { getMapMarkers } from '@/lib/data';
 import MapSection from '@/components/MapSection';
 
 export const metadata = {
-  title: 'Interactive Volcano Map — Global Volcano Locations | VolcanoAtlas',
+  title: 'Interactive Volcano Map — Global Volcano Locations',
   description: 'Explore 150+ volcanoes on our interactive map. Filter by country, type, eruption status, and more. Click any volcano for detailed information.',
 };
 

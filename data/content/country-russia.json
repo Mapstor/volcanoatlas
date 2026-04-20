@@ -1,7 +1,7 @@
 {
   "slug": "russia",
   "title": "Volcanoes in Russia",
-  "meta_title": "Volcanoes in Russia — Complete List of 94 Volcanoes, Map & Eruption History | VolcanoAtlas",
+  "meta_title": "Volcanoes in Russia — Complete List of 94 Volcanoes, Map & Eruption History",
   "meta_description": "Russia has 94 Holocene volcanoes concentrated on the Kamchatka Peninsula and Kuril Islands. Full list, eruption timeline, hazards, and travel guide.",
   "quick_answer": {
     "how_many": "Russia has 94 Holocene volcanoes catalogued by the Smithsonian Global Volcanism Program, of which 41 have historically observed eruptions. Russia ranks fourth globally for total volcano count.",
@@ -1420,8 +1420,8 @@
     "name": "Volcanoes in Russia",
     "description": "Russia has 94 Holocene volcanoes concentrated on the Kamchatka Peninsula and Kuril Islands, forming the northern segment of the Pacific Ring of Fire.",
     "geo": {
-      "latitude": 56.0,
-      "longitude": 160.0
+      "latitude": 56,
+      "longitude": 160
     },
     "containedInPlace": {
       "name": "North Asia / Far East Russia",

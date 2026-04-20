@@ -2,7 +2,7 @@
   "slug": "tambora",
   "volcano_id": 264040,
   "title": "Mount Tambora",
-  "meta_title": "Mount Tambora — 1815 Eruption, Year Without a Summer & Facts | VolcanoAtlas",
+  "meta_title": "Mount Tambora — 1815 Eruption, Year Without a Summer & Facts",
   "meta_description": "Mount Tambora is a 2,850 m stratovolcano in Indonesia. The 1815 VEI 7 eruption was the largest in recorded history, killing 60,000+ and causing the Year Without a Summer.",
   "quick_answer": {
     "what": "Mount Tambora is an active stratovolcano on Sumbawa Island in Indonesia, rising to 2,850 m (9,350 ft). It forms the entire 60-km-wide Sanggar Peninsula.",
@@ -23,7 +23,7 @@
     "last_eruption": "1967",
     "coordinates": {
       "lat": -8.25,
-      "lon": 118.0
+      "lon": 118
     },
     "photo_url": "https://volcano.si.edu/gallery/photos/GVP-11509.jpg",
     "photo_credit": "Smithsonian Institution, Global Volcanism Program"
@@ -373,7 +373,7 @@
     "description": "Active stratovolcano on Sumbawa Island, Indonesia; site of the largest eruption in recorded history (VEI 7, April 1815)",
     "geo": {
       "latitude": -8.25,
-      "longitude": 118.0,
+      "longitude": 118,
       "elevation": 2850
     },
     "containedInPlace": {

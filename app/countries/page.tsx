@@ -3,7 +3,7 @@ import Link from 'next/link';
 import CountriesListClient from '@/components/CountriesListClient';
 
 export const metadata = {
-  title: 'Countries with Volcanoes — Browse by Country | VolcanoAtlas',
+  title: 'Countries with Volcanoes — Browse by Country',
   description: 'Explore volcanoes by country. Browse 40+ countries with active and dormant volcanoes. Find detailed volcanic information for each nation.',
 };
 

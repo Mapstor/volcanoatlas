@@ -1,7 +1,7 @@
 {
   "slug": "indonesia",
   "title": "Volcanoes in Indonesia",
-  "meta_title": "Volcanoes in Indonesia — Complete List of 101 Volcanoes, Map & Eruption History | VolcanoAtlas",
+  "meta_title": "Volcanoes in Indonesia — Complete List of 101 Volcanoes, Map & Eruption History",
   "meta_description": "Indonesia has 101 Holocene volcanoes and 73 historically active volcanoes — more than any other country. Full list, eruption timeline, hazards, and travel guide.",
   "quick_answer": {
     "how_many": "Indonesia has 101 Holocene volcanoes catalogued by the Smithsonian Global Volcanism Program, of which 73 have observed historical eruptions — more historically active volcanoes than any other nation on Earth.",
@@ -1522,7 +1522,7 @@
     "description": "Indonesia has 101 Holocene volcanoes and 73 historically active volcanoes, more than any other country. Located on the Ring of Fire at the convergence of three tectonic plates.",
     "geo": {
       "latitude": -2.5,
-      "longitude": 118.0
+      "longitude": 118
     },
     "containedInPlace": {
       "name": "Southeast Asia",

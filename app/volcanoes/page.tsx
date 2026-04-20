@@ -2,7 +2,7 @@ import { getAllVolcanoes } from '@/lib/data';
 import VolcanoesListClient from '@/components/VolcanoesListClient';
 
 export const metadata = {
-  title: 'All Volcanoes — Complete List of 150+ Volcanoes | VolcanoAtlas',
+  title: 'All Volcanoes — Complete List of 150+ Volcanoes',
   description: 'Browse our complete database of 150+ volcanoes worldwide. Filter by country, type, elevation, and eruption status. Find detailed information on every volcano.',
 };
 

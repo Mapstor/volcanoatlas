@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Contact Us | VolcanoAtlas',
+  title: 'Contact Us',
   description: 'Get in touch with VolcanoAtlas - Contact us for questions, feedback, or educational collaborations.',
 };
 
