@@ -1,4 +1,63 @@
 /**
+ * Processes wiki-style links and converts them to HTML anchor tags
+ * Handles patterns like:
+ * - [[volcano:slug|Display Text]] → <a href="/volcano/slug">Display Text</a>
+ * - [[country:slug|Display Text]] → <a href="/volcanoes-in-slug">Display Text</a>
+ * - [[special:slug|Display Text]] → <a href="/slug">Display Text</a>
+ * - [[ranking:slug|Display Text]] → <a href="/slug">Display Text</a>
+ * - [[ext:url|Display Text]] → <a href="url" target="_blank" rel="noopener noreferrer">Display Text</a>
+ */
+export function processWikiLinks(text: string): string {
+  if (!text) return '';
+
+  // Process volcano links: [[volcano:slug|Display Text]]
+  text = text.replace(/\[\[volcano:([^|\]]+)\|([^\]]+)\]\]/g, 
+    '<a href="/volcano/$1" class="wiki-link-internal">$2</a>');
+  
+  // Process volcano links without display text: [[volcano:slug]]
+  text = text.replace(/\[\[volcano:([^|\]]+)\]\]/g, 
+    '<a href="/volcano/$1" class="wiki-link-internal">$1</a>');
+
+  // Process country links: [[country:slug|Display Text]]
+  text = text.replace(/\[\[country:([^|\]]+)\|([^\]]+)\]\]/g,
+    '<a href="/volcanoes-in-$1" class="wiki-link-internal">$2</a>');
+  
+  // Process country links without display text: [[country:slug]]
+  text = text.replace(/\[\[country:([^|\]]+)\]\]/g,
+    '<a href="/volcanoes-in-$1" class="wiki-link-internal">$1</a>');
+
+  // Process special links: [[special:slug|Display Text]]
+  text = text.replace(/\[\[special:([^|\]]+)\|([^\]]+)\]\]/g,
+    '<a href="/$1" class="wiki-link-internal">$2</a>');
+  
+  // Process special links without display text: [[special:slug]]
+  text = text.replace(/\[\[special:([^|\]]+)\]\]/g,
+    '<a href="/$1" class="wiki-link-internal">$1</a>');
+
+  // Process ranking links: [[ranking:slug|Display Text]]
+  text = text.replace(/\[\[ranking:([^|\]]+)\|([^\]]+)\]\]/g,
+    '<a href="/$1" class="wiki-link-internal">$2</a>');
+  
+  // Process ranking links without display text: [[ranking:slug]]
+  text = text.replace(/\[\[ranking:([^|\]]+)\]\]/g,
+    '<a href="/$1" class="wiki-link-internal">$1</a>');
+
+  // Process external links: [[ext:url|Display Text]]
+  text = text.replace(/\[\[ext:([^|\]]+)\|([^\]]+)\]\]/g,
+    '<a href="$1" target="_blank" rel="noopener noreferrer" class="wiki-link-external">$2</a>');
+
+  // Dev warning for unprocessed wiki-links (namespace patterns only)
+  if (process.env.NODE_ENV === 'development' && text.includes('[[')) {
+    const unprocessed = text.match(/\[\[\w+:[^\]]+\]\]/g);
+    if (unprocessed) {
+      console.warn('Unprocessed wiki-links found:', unprocessed);
+    }
+  }
+
+  return text;
+}
+
+/**
  * Breaks up long paragraphs in HTML content into smaller, more readable chunks
  * @param html - The HTML content to process
  * @param maxSentences - Maximum number of sentences per paragraph (default: 3)
@@ -6,6 +65,9 @@
  */
 export function breakUpLongParagraphs(html: string, maxSentences: number = 3): string {
   if (!html) return '';
+  
+  // Process wiki-links first
+  html = processWikiLinks(html);
 
   // Helper function to split text into sentences
   const splitIntoSentences = (text: string): string[] => {

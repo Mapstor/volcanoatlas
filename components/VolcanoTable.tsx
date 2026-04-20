@@ -142,8 +142,8 @@ export default function VolcanoTable({ description, columns, rows }: VolcanoTabl
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-800">
-            {sortedData.map((row) => (
-              <tr key={row.slug} className="hover:bg-[#252525] transition-colors">
+            {sortedData.map((row, index) => (
+              <tr key={row.slug || `row-${index}`} className="hover:bg-[#252525] transition-colors">
                 <td className="px-4 py-3 text-sm text-gray-300">
                   {row.rank}
                 </td>

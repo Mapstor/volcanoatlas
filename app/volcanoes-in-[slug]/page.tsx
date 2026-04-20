@@ -6,6 +6,7 @@ import VolcanoTable from '@/components/VolcanoTable';
 import { breakUpLongParagraphs } from '@/lib/textUtils';
 import MapSection from '@/components/MapSection';
 import { getVolcanoesGeoData } from '@/lib/volcanoDynamicData';
+import { RichText } from '@/components/RichText';
 
 export async function generateStaticParams() {
   const countries = await getAllCountries();
@@ -169,9 +170,9 @@ export default async function CountryPage({ params }: { params: Promise<{ slug: 
                   <span className="w-1 h-8 bg-amber-500 mr-3"></span>
                   {section.title || title}
                 </h2>
-                <div 
-                  className="text-gray-300 leading-relaxed"
-                  dangerouslySetInnerHTML={{ __html: breakUpLongParagraphs(section.content, 3) }}
+                <RichText 
+                  html={breakUpLongParagraphs(section.content, 3)}
+                  className="text-gray-300 leading-relaxed space-y-4"
                 />
               </div>
             );

@@ -8,6 +8,7 @@ import VolcanoTable from '@/components/VolcanoTable';
 import MapSection from '@/components/MapSection';
 import { breakUpLongParagraphs } from '@/lib/textUtils';
 import { getCountryVolcanoesWithPages } from '@/lib/volcanoData';
+import { RichText } from '@/components/RichText';
 
 export async function generateStaticParams() {
   const pages = await getAllSpecialPages();
@@ -189,9 +190,9 @@ export default async function SpecialPage({ params }: { params: Promise<{ slug: 
           {/* Introduction */}
           {page.introduction && (
             <div className="prose prose-lg prose-invert max-w-none mb-12">
-              <div 
-                className="text-gray-300 leading-relaxed"
-                dangerouslySetInnerHTML={{ __html: breakUpLongParagraphs(page.introduction, 3) }}
+              <RichText 
+                html={breakUpLongParagraphs(page.introduction, 3)}
+                className="text-gray-300 leading-relaxed space-y-4"
               />
             </div>
           )}
@@ -331,9 +332,9 @@ export default async function SpecialPage({ params }: { params: Promise<{ slug: 
                       </svg>
                     </summary>
                     <div className="px-6 pb-4">
-                      <div 
-                        className="text-gray-300 leading-relaxed"
-                        dangerouslySetInnerHTML={{ __html: faq.answer }}
+                      <RichText 
+                        html={faq.answer}
+                        className="text-gray-300"
                       />
                     </div>
                   </details>
@@ -495,9 +496,9 @@ function CountryPageContent({ country, volcanoes }: { country: any; volcanoes: a
                   <span className="w-1 h-8 bg-amber-500 mr-3"></span>
                   {section.title || title}
                 </h2>
-                <div 
-                  className="text-gray-300 leading-relaxed"
-                  dangerouslySetInnerHTML={{ __html: breakUpLongParagraphs(section.content, 3) }}
+                <RichText 
+                  html={breakUpLongParagraphs(section.content, 3)}
+                  className="text-gray-300 leading-relaxed space-y-4"
                 />
               </div>
             );

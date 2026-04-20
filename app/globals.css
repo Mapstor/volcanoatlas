@@ -49,6 +49,26 @@
     transform: translateY(0);
   }
   
+  /* Wiki-link styles */
+  .wiki-link-internal {
+    color: #fbbf24; /* amber-400 */
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.2s;
+  }
+  .wiki-link-internal:hover {
+    color: #f59e0b; /* amber-500 */
+  }
+  .wiki-link-external {
+    color: #fbbf24; /* amber-400 */
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.2s;
+  }
+  .wiki-link-external:hover {
+    color: #f59e0b; /* amber-500 */
+  }
+  
   .volcano-card:hover {
     border-color: rgba(245, 158, 11, 0.4);
     transform: translateY(-2px);

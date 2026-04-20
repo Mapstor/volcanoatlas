@@ -1,3 +1,5 @@
+import { RichText } from '@/components/RichText';
+
 interface ComparisonTableProps {
   title?: string;
   description?: string;
@@ -53,8 +55,9 @@ export default function ComparisonTable({ title, description, headers, rows, dat
                         ? 'font-semibold text-white' 
                         : 'text-gray-300'
                     }`}
-                    dangerouslySetInnerHTML={{ __html: cell }}
-                  />
+                  >
+                    <RichText html={cell} />
+                  </td>
                 ))}
               </tr>
             ))}

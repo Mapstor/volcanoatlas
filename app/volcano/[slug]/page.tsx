@@ -4,6 +4,7 @@ import { getVolcanoBySlug, getAllVolcanoes } from '@/lib/data';
 import MapSection from '@/components/MapSection';
 import { breakUpLongParagraphs } from '@/lib/textUtils';
 import { fetchVolcanoPhotos } from '@/lib/unsplash';
+import { RichText } from '@/components/RichText';
 import VolcanoPhotoGallery from '@/components/VolcanoPhotoGallery';
 import VolcanoLocationMap from '@/components/VolcanoLocationMap';
 import VolcanoDataSections from '@/components/VolcanoDataSections';
@@ -161,10 +162,7 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
               {(volcano.quick_answer as any)?.question && (volcano.quick_answer as any)?.answer && (
                 <div className="bg-orange-500/10 border-l-4 border-orange-500 p-6 rounded-lg">
                   <h2 className="text-2xl font-bold text-white mb-4">{(volcano.quick_answer as any).question}</h2>
-                  <div 
-                    className="text-gray-300 prose prose-invert max-w-none"
-                    dangerouslySetInnerHTML={{ __html: (volcano.quick_answer as any).answer }}
-                  />
+                  <RichText html={(volcano.quick_answer as any).answer} className="text-gray-300" />
                 </div>
               )}
 
@@ -195,9 +193,9 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
               {volcano.sections && Array.isArray(volcano.sections) && volcano.sections.map((section: any, index: number) => (
                 <div key={index}>
                   <h2 className="text-3xl font-bold text-white mb-6">{section.title}</h2>
-                  <div 
-                    className="text-gray-300 prose prose-invert max-w-none"
-                    dangerouslySetInnerHTML={{ __html: breakUpLongParagraphs(section?.content || '', 3) }}
+                  <RichText 
+                    html={breakUpLongParagraphs(section?.content || '', 3)} 
+                    className="text-gray-300 leading-relaxed space-y-4"
                   />
                 </div>
               ))}
@@ -299,10 +297,7 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
                       </svg>
                     </summary>
                     <div className="px-6 pb-6 pt-0">
-                      <div 
-                        className="text-gray-300"
-                        dangerouslySetInnerHTML={{ __html: faq?.answer || '' }}
-                      />
+                      <RichText html={faq?.answer || ''} className="text-gray-300" />
                     </div>
                   </details>
                 ))}

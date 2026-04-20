@@ -1,4 +1,5 @@
 import { breakUpLongParagraphs } from '@/lib/textUtils';
+import { RichText } from '@/components/RichText';
 
 interface ContentSectionsProps {
   sections: {
@@ -26,9 +27,9 @@ export default function ContentSections({ sections }: ContentSectionsProps) {
             <span className="w-1 h-8 bg-amber-500 mr-3"></span>
             {section.title || formatTitle(key)}
           </h2>
-          <div 
+          <RichText 
+            html={breakUpLongParagraphs(section.content, 3)}
             className="text-gray-300 leading-relaxed space-y-4"
-            dangerouslySetInnerHTML={{ __html: breakUpLongParagraphs(section.content, 3) }}
           />
         </div>
       ))}
