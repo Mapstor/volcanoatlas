@@ -91,7 +91,7 @@ export default function DynamicVolcanoPage({ volcanoData, stats, photos }: Dynam
                 {stats?.maxVEI && (
                   <div>
                     <p className="text-gray-400 text-sm">Max VEI</p>
-                    <p className="text-white font-semibold">VEI {stats.maxVEI}</p>
+                    <p className="text-white font-semibold">VEI {stats.maxVEI.display || stats.maxVEI.number || 'Unknown'}</p>
                   </div>
                 )}
                 <div>
@@ -330,15 +330,15 @@ export default function DynamicVolcanoPage({ volcanoData, stats, photos }: Dynam
                     </tr>
                     <tr>
                       <td className="py-3 text-gray-300">Maximum VEI</td>
-                      <td className="py-3 text-white font-semibold">VEI {stats?.maxVEI || 'Unknown'}</td>
+                      <td className="py-3 text-white font-semibold">VEI {stats?.maxVEI?.display || stats?.maxVEI?.number || 'Unknown'}</td>
                       <td className="py-3 text-gray-300">
-                        {stats?.maxVEI >= 6 ? 'Catastrophic' :
-                         stats?.maxVEI >= 4 ? 'Major' :
-                         stats?.maxVEI >= 3 ? 'Moderate' : 'Minor'}
+                        {stats?.maxVEI?.number >= 6 ? 'Catastrophic' :
+                         stats?.maxVEI?.number >= 4 ? 'Major' :
+                         stats?.maxVEI?.number >= 3 ? 'Moderate' : 'Minor'}
                       </td>
                       <td className="py-3 text-gray-300">
-                        {stats?.maxVEI >= 6 ? 'Global climate impact potential' :
-                         stats?.maxVEI >= 4 ? 'Regional impact potential' :
+                        {stats?.maxVEI?.number >= 6 ? 'Global climate impact potential' :
+                         stats?.maxVEI?.number >= 4 ? 'Regional impact potential' :
                          'Local impact potential'}
                       </td>
                     </tr>
