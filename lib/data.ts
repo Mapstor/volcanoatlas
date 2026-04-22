@@ -51,6 +51,7 @@ export interface VolcanoData {
     rock_types?: string[];
     monitoring_agency?: string;
     monitoring_agency_url?: string;
+    smithsonian_id?: string;
     gvp_url?: string;
   };
   sections: Record<string, any>;

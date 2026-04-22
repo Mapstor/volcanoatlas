@@ -192,3 +192,49 @@ export function breakUpLongParagraphs(html: string, maxSentences: number = 3): s
   
   return result;
 }
+
+/**
+ * Check if a value contains meaningful data (not empty, null, or placeholder)
+ */
+export function isPopulated(value: unknown): boolean {
+  if (value === null || value === undefined) return false;
+  if (Array.isArray(value)) return value.length > 0;
+  if (typeof value !== 'string' && typeof value !== 'number') return Boolean(value);
+  if (typeof value === 'number') return true; // zero is valid data
+  
+  const trimmed = value.trim();
+  if (!trimmed) return false;
+  
+  // Handle "Unknown ..." variations
+  if (trimmed.toLowerCase().startsWith('unknown')) return false;
+  
+  const placeholders = [
+    'vei unknown',
+    'varied composition', 
+    'n/a',
+    'tbd',
+    'tba',
+    'not available',
+    'not known',
+    'unclear',
+  ];
+  return !placeholders.includes(trimmed.toLowerCase());
+}
+
+/**
+ * Parse VEI max string to extract numeric value and display context
+ */
+export function parseMaxVEI(raw: string | undefined): { number: number | null; display: string | null } {
+  if (!raw) return { number: null, display: null };
+  
+  // Extract leading number for logic
+  const numberMatch = raw.match(/^(\d+)/);
+  
+  // Extract first VEI entry with context for display
+  const firstEntryMatch = raw.match(/^(\d+\s*\([^)]+\))/);
+  
+  return {
+    number: numberMatch ? parseInt(numberMatch[1]) : null,
+    display: firstEntryMatch ? firstEntryMatch[1] : numberMatch?.[0] ?? null,
+  };
+}

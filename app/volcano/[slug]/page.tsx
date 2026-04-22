@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getVolcanoBySlug, getAllVolcanoes } from '@/lib/data';
 import MapSection from '@/components/MapSection';
-import { breakUpLongParagraphs } from '@/lib/textUtils';
+import { breakUpLongParagraphs, parseMaxVEI } from '@/lib/textUtils';
 import { fetchVolcanoPhotos } from '@/lib/unsplash';
 import { RichText } from '@/components/RichText';
 import VolcanoPhotoGallery from '@/components/VolcanoPhotoGallery';
@@ -134,7 +134,7 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
                 <span className="text-gray-400 text-xs">Elevation</span>
                 <p className="text-lg font-bold">
                   {volcano.hero?.elevation_m ? `${volcano.hero.elevation_m.toLocaleString()} m` : 
-                    (volcano.key_facts_box as any)?.elevation || 'Unknown'}
+                    volcano.key_facts_box?.elevation}
                 </p>
               </div>
               <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
@@ -173,15 +173,15 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
                   <div className="h-[400px] rounded-lg overflow-hidden">
                     <VolcanoLocationMap 
                       volcano={{
-                        name: volcano.hero?.name || 'Unknown Volcano',
+                        name: volcano.hero?.name,
                         coordinates: { 
                           lat: volcano.hero?.coordinates?.lat || 0, 
                           lon: volcano.hero?.coordinates?.lon || 0 
                         },
                         elevation_m: volcano.hero?.elevation_m || 0,
-                        type: volcano.hero?.type || 'Unknown',
-                        country: volcano.hero?.country || 'Unknown',
-                        region: volcano.hero?.region || 'Unknown',
+                        type: volcano.hero?.type,
+                        country: volcano.hero?.country,
+                        region: volcano.hero?.region,
                         status: volcano.hero?.last_eruption ? `Last eruption: ${volcano.hero.last_eruption}` : 'Unknown'
                       }}
                     />
@@ -203,27 +203,31 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
               {/* Comprehensive Volcano Data Sections */}
               <VolcanoDataSections 
                 volcanoData={{
-                  name: volcano.hero?.name || 'Unknown Volcano',
-                  country: volcano.hero?.country || 'Unknown',
-                  region: volcano.hero?.region || 'Unknown',
-                  type: volcano.hero?.type || 'Unknown',
-                  rockType: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('rock'))?.value || 'Unknown',
-                  tectonicSetting: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('tectonic'))?.value || 'Unknown',
-                  epoch: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('epoch'))?.value || 'Unknown',
-                  evidence: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('evidence'))?.value || 'Unknown',
+                  name: volcano.hero?.name,
+                  country: volcano.hero?.country,
+                  region: volcano.hero?.region,
+                  type: volcano.hero?.type,
+                  rockType: volcano.key_facts_box?.rock_types?.join(', '),
+                  tectonicSetting: volcano.key_facts_box?.tectonic_setting,
+                  epoch: null, // Field doesn't exist in content
+                  evidence: null, // Field doesn't exist in content
                   elevation: volcano.hero?.elevation_m || 0,
                   lastEruption: volcano.hero?.last_eruption_year || undefined,
-                  volcanoNumber: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('number'))?.value
+                  volcanoNumber: volcano.key_facts_box?.smithsonian_id
                 }}
                 stats={{
-                  totalEruptions: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('eruption'))?.value ? parseInt((volcano.key_facts_box as any).facts.find((f: any) => f.label.toLowerCase().includes('eruption')).value) : undefined,
-                  maxVEI: (volcano.key_facts_box as any)?.facts?.find((f: any) => f.label?.toLowerCase().includes('vei'))?.value ? parseInt((volcano.key_facts_box as any).facts.find((f: any) => f.label.toLowerCase().includes('vei')).value) : undefined
+                  totalEruptions: typeof volcano.key_facts_box?.total_recorded_eruptions === 'number' 
+                    ? volcano.key_facts_box.total_recorded_eruptions 
+                    : typeof volcano.key_facts_box?.total_recorded_eruptions === 'string'
+                    ? parseInt(volcano.key_facts_box.total_recorded_eruptions)
+                    : undefined,
+                  maxVEI: parseMaxVEI(volcano.key_facts_box?.vei_max)
                 }}
               />
 
               {/* Photo Gallery */}
               {photos && photos.length > 0 && (
-                <VolcanoPhotoGallery photos={photos} volcanoName={volcano.hero?.name || 'Unknown'} />
+                <VolcanoPhotoGallery photos={photos} volcanoName={volcano.hero?.name} />
               )}
             </div>
 
@@ -248,7 +252,7 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
               {relatedVolcanoes.length > 0 && (
                 <div className="bg-gray-800 rounded-lg p-6">
                   <h3 className="text-xl font-bold text-white mb-4">
-                    Other Volcanoes in {volcano.hero?.country || 'Unknown'}
+                    Other Volcanoes in {volcano.hero?.country}
                   </h3>
                   <ul className="space-y-3">
                     {relatedVolcanoes.map((related) => (

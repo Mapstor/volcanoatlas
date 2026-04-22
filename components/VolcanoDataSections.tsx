@@ -1,23 +1,24 @@
 import Link from 'next/link';
 import { computeYearsAgo, formatYearsAgo } from '@/lib/volcanoDynamicData';
+import { isPopulated } from '@/lib/textUtils';
 
 interface VolcanoDataSectionsProps {
   volcanoData: {
-    name: string;
-    country: string;
-    region: string;
-    type: string;
-    rockType: string;
-    tectonicSetting: string;
-    epoch: string;
-    evidence: string;
-    elevation: number;
-    lastEruption?: number;
-    volcanoNumber?: number | string;
+    name?: string | null;
+    country?: string | null;
+    region?: string | null;
+    type?: string | null;
+    rockType?: string | null;
+    tectonicSetting?: string | null;
+    epoch?: string | null;
+    evidence?: string | null;
+    elevation?: number | null;
+    lastEruption?: number | null;
+    volcanoNumber?: number | string | null;
   };
   stats?: {
-    totalEruptions?: number;
-    maxVEI?: number;
+    totalEruptions?: number | null;
+    maxVEI?: { number: number | null; display: string | null } | null;
   };
 }
 
@@ -33,7 +34,7 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
           <div>
             <h3 className="text-lg font-semibold text-orange-400 mb-3">Primary Hazards</h3>
             <ul className="space-y-2 text-gray-300">
-              {volcanoData.type.toLowerCase().includes('caldera') && (
+              {volcanoData.type?.toLowerCase().includes('caldera') && (
                 <>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-red-500 rounded-full"></span>
@@ -53,7 +54,7 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
                   </li>
                 </>
               )}
-              {volcanoData.type.toLowerCase().includes('stratovolcano') && (
+              {volcanoData.type?.toLowerCase().includes('stratovolcano') && (
                 <>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-red-500 rounded-full"></span>
@@ -73,8 +74,8 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
                   </li>
                 </>
               )}
-              {!volcanoData.type.toLowerCase().includes('caldera') && 
-               !volcanoData.type.toLowerCase().includes('stratovolcano') && (
+              {!volcanoData.type?.toLowerCase().includes('caldera') && 
+               !volcanoData.type?.toLowerCase().includes('stratovolcano') && (
                 <>
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-orange-500 rounded-full"></span>
@@ -98,8 +99,8 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
               <div className="flex items-center justify-between p-3 bg-gray-700/50 rounded-lg">
                 <span className="text-gray-300">Population at Risk</span>
                 <span className="font-semibold text-white">
-                  {['Japan', 'Indonesia', 'Philippines', 'Italy', 'Iceland'].includes(volcanoData.country) ? 'High' : 
-                   ['United States', 'Chile', 'Mexico', 'New Zealand'].includes(volcanoData.country) ? 'Moderate' : 'Low'}
+                  {(volcanoData.country && ['Japan', 'Indonesia', 'Philippines', 'Italy', 'Iceland'].includes(volcanoData.country)) ? 'High' : 
+                   (volcanoData.country && ['United States', 'Chile', 'Mexico', 'New Zealand'].includes(volcanoData.country)) ? 'Moderate' : 'Low'}
                 </span>
               </div>
               <div className="flex items-center justify-between p-3 bg-gray-700/50 rounded-lg">
@@ -117,57 +118,57 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
         </div>
       </div>
 
-      {/* Geological Composition & Structure */}
-      <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700">
-        <h2 className="text-2xl font-bold text-white mb-4">Geological Composition & Structure</h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <div>
-            <h3 className="text-lg font-semibold text-orange-400 mb-3">Rock Types</h3>
-            <div className="space-y-2">
-              <div className="p-3 bg-gray-700/50 rounded-lg">
-                <div className="font-semibold text-white">Primary</div>
-                <div className="text-gray-300 text-sm">{volcanoData.rockType}</div>
-              </div>
-              <div className="p-3 bg-gray-700/50 rounded-lg">
-                <div className="font-semibold text-white">Silica Content</div>
-                <div className="text-gray-300 text-sm">
-                  {volcanoData.rockType.includes('Andesite') ? 'Intermediate (57-63% SiO₂)' :
-                   volcanoData.rockType.includes('Basalt') ? 'Low (45-52% SiO₂)' :
-                   volcanoData.rockType.includes('Rhyolite') ? 'High (>68% SiO₂)' :
-                   volcanoData.rockType.includes('Dacite') ? 'High (63-68% SiO₂)' :
-                   'Varied composition'}
+      {/* Geological Composition & Structure - Only show if we have data */}
+      {(isPopulated(volcanoData.rockType) || isPopulated(volcanoData.tectonicSetting)) && (
+        <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700">
+          <h2 className="text-2xl font-bold text-white mb-4">Geological Composition & Structure</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Rock Types - only show if populated */}
+            {isPopulated(volcanoData.rockType) && (
+              <div>
+                <h3 className="text-lg font-semibold text-orange-400 mb-3">Rock Types</h3>
+                <div className="p-3 bg-gray-700/50 rounded-lg">
+                  <div className="text-gray-300">{volcanoData.rockType}</div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div>
-            <h3 className="text-lg font-semibold text-orange-400 mb-3">Tectonic Setting</h3>
-            <div className="p-3 bg-gray-700/50 rounded-lg">
-              <div className="font-semibold text-white mb-2">{volcanoData.tectonicSetting.split('/')[0].trim()}</div>
-              <div className="text-gray-300 text-sm">
-                {volcanoData.tectonicSetting.includes('Subduction') ? 
-                  'Formed by oceanic plate subduction, typically producing explosive eruptions due to water-rich magmas.' :
-                  volcanoData.tectonicSetting.includes('Rift') ?
-                  'Continental rift setting with varied eruptive styles and extensional tectonics.' :
-                  'Intraplate setting with hotspot or regional volcanic activity.'}
+            )}
+            {/* Tectonic Setting - only show if populated */}
+            {isPopulated(volcanoData.tectonicSetting) && (
+              <div>
+                <h3 className="text-lg font-semibold text-orange-400 mb-3">Tectonic Setting</h3>
+                <div className="p-3 bg-gray-700/50 rounded-lg">
+                  <div className="font-semibold text-white mb-2">{volcanoData.tectonicSetting?.split('/')[0].trim()}</div>
+                  <div className="text-gray-300 text-sm">
+                    {volcanoData.tectonicSetting?.includes('Subduction') ? 
+                      'Formed by oceanic plate subduction, typically producing explosive eruptions due to water-rich magmas.' :
+                      volcanoData.tectonicSetting?.includes('Rift') ?
+                      'Continental rift setting with varied eruptive styles and extensional tectonics.' :
+                      'Intraplate setting with hotspot or regional volcanic activity.'}
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div>
-            <h3 className="text-lg font-semibold text-orange-400 mb-3">Age & Formation</h3>
-            <div className="space-y-2">
-              <div className="p-3 bg-gray-700/50 rounded-lg">
-                <div className="font-semibold text-white">Epoch</div>
-                <div className="text-gray-300 text-sm">{volcanoData.epoch}</div>
-              </div>
-              <div className="p-3 bg-gray-700/50 rounded-lg">
-                <div className="font-semibold text-white">Evidence</div>
-                <div className="text-gray-300 text-sm">{volcanoData.evidence}</div>
-              </div>
-            </div>
+            )}
           </div>
         </div>
-      </div>
+      )}
+
+      {/* Age & Formation - Show Smithsonian placeholder since epoch/evidence don't exist */}
+      {volcanoData.volcanoNumber && (
+        <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700">
+          <h2 className="text-2xl font-bold text-white mb-4">Age & Formation</h2>
+          <div className="p-3 bg-gray-700/50 rounded-lg text-center">
+            <div className="text-gray-400 text-sm mb-2">Geological age and formation data</div>
+            <a 
+              href={`https://volcano.si.edu/volcano.cfm?vn=${volcanoData.volcanoNumber}`}
+              className="text-orange-500 hover:text-orange-400 text-sm"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View detailed geological information →
+            </a>
+          </div>
+        </div>
+      )}
 
       {/* Eruption Statistics Table */}
       <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700">
@@ -183,34 +184,40 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-600">
-              <tr>
-                <td className="py-3 text-gray-300">Total Recorded Eruptions</td>
-                <td className="py-3 text-white font-semibold">{stats?.totalEruptions || 'Unknown'}</td>
-                <td className="py-3 text-gray-300">
-                  {stats?.totalEruptions && stats.totalEruptions > 50 ? 'Very High' :
-                   stats?.totalEruptions && stats.totalEruptions > 20 ? 'High' :
-                   stats?.totalEruptions && stats.totalEruptions > 10 ? 'Moderate' : 'Low'}
-                </td>
-                <td className="py-3 text-gray-300">
-                  {stats?.totalEruptions && stats.totalEruptions > 50 ? 'Extremely active volcano' :
-                   stats?.totalEruptions && stats.totalEruptions > 20 ? 'Highly active volcano' :
-                   'Moderately active volcano'}
-                </td>
-              </tr>
-              <tr>
-                <td className="py-3 text-gray-300">Maximum VEI</td>
-                <td className="py-3 text-white font-semibold">VEI {stats?.maxVEI || 'Unknown'}</td>
-                <td className="py-3 text-gray-300">
-                  {stats?.maxVEI && stats.maxVEI >= 6 ? 'Catastrophic' :
-                   stats?.maxVEI && stats.maxVEI >= 4 ? 'Major' :
-                   stats?.maxVEI && stats.maxVEI >= 3 ? 'Moderate' : 'Minor'}
-                </td>
-                <td className="py-3 text-gray-300">
-                  {stats?.maxVEI && stats.maxVEI >= 6 ? 'Global climate impact potential' :
-                   stats?.maxVEI && stats.maxVEI >= 4 ? 'Regional impact potential' :
-                   'Local impact potential'}
-                </td>
-              </tr>
+              {/* Total Eruptions - only show row if populated */}
+              {isPopulated(stats?.totalEruptions) && (
+                <tr>
+                  <td className="py-3 text-gray-300">Total Recorded Eruptions</td>
+                  <td className="py-3 text-white font-semibold">{stats?.totalEruptions}</td>
+                  <td className="py-3 text-gray-300">
+                    {stats?.totalEruptions && stats.totalEruptions > 50 ? 'Very High' :
+                     stats?.totalEruptions && stats.totalEruptions > 20 ? 'High' :
+                     stats?.totalEruptions && stats.totalEruptions > 10 ? 'Moderate' : 'Low'}
+                  </td>
+                  <td className="py-3 text-gray-300">
+                    {stats?.totalEruptions && stats.totalEruptions > 50 ? 'Extremely active volcano' :
+                     stats?.totalEruptions && stats.totalEruptions > 20 ? 'Highly active volcano' :
+                     'Moderately active volcano'}
+                  </td>
+                </tr>
+              )}
+              {/* Maximum VEI - only show row if populated, with context */}
+              {isPopulated(stats?.maxVEI?.display) && (
+                <tr>
+                  <td className="py-3 text-gray-300">Maximum VEI</td>
+                  <td className="py-3 text-white font-semibold">{stats?.maxVEI?.display}</td>
+                  <td className="py-3 text-gray-300">
+                    {stats?.maxVEI?.number && stats.maxVEI.number >= 6 ? 'Catastrophic' :
+                     stats?.maxVEI?.number && stats.maxVEI.number >= 4 ? 'Major' :
+                     stats?.maxVEI?.number && stats.maxVEI.number >= 3 ? 'Moderate' : 'Minor'}
+                  </td>
+                  <td className="py-3 text-gray-300">
+                    {stats?.maxVEI?.number && stats.maxVEI.number >= 6 ? 'Global climate impact potential' :
+                     stats?.maxVEI?.number && stats.maxVEI.number >= 4 ? 'Regional impact potential' :
+                     'Local impact potential'}
+                  </td>
+                </tr>
+              )}
               {(() => {
                 const yearsAgo = computeYearsAgo(volcanoData.lastEruption || null, currentYear);
                 if (yearsAgo === null) return null;
@@ -372,7 +379,7 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
         <h3 className="text-lg font-bold text-white mb-3">Related Volcanoes</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
           <Link 
-            href={`/volcanoes-in-${volcanoData.country.toLowerCase().replace(/\s+/g, '-')}`}
+            href={`/volcanoes-in-${volcanoData.country?.toLowerCase().replace(/\s+/g, '-')}`}
             className="block p-3 bg-amber-500/10 border border-amber-500/30 rounded-lg hover:bg-amber-500/20 transition-colors"
           >
             <div className="text-sm font-semibold text-amber-400">All {volcanoData.country} Volcanoes</div>
@@ -380,7 +387,7 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
           </Link>
           
           <Link 
-            href={`/volcano-types/${volcanoData.type.toLowerCase().replace(/\s+/g, '-')}`}
+            href={`/volcano-types/${volcanoData.type?.toLowerCase().replace(/\s+/g, '-')}`}
             className="block p-3 bg-blue-500/10 border border-blue-500/30 rounded-lg hover:bg-blue-500/20 transition-colors"
           >
             <div className="text-sm font-semibold text-blue-400">{volcanoData.type} Volcanoes</div>
@@ -388,7 +395,7 @@ export default function VolcanoDataSections({ volcanoData, stats }: VolcanoDataS
           </Link>
           
           <Link 
-            href={`/region/${volcanoData.region.toLowerCase().replace(/\s+/g, '-')}`}
+            href={`/region/${volcanoData.region?.toLowerCase().replace(/\s+/g, '-')}`}
             className="block p-3 bg-green-500/10 border border-green-500/30 rounded-lg hover:bg-green-500/20 transition-colors"
           >
             <div className="text-sm font-semibold text-green-400">{volcanoData.region}</div>
