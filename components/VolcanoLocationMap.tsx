@@ -113,7 +113,7 @@ export default function VolcanoLocationMap({ volcano, lat, lon, volcanoName, zoo
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         
-        {/* Main volcano marker with pulsing effect */}
+        {/* Main volcano marker */}
         <CircleMarker
           center={position}
           radius={15}
@@ -154,7 +154,7 @@ export default function VolcanoLocationMap({ volcano, lat, lon, volcanoName, zoo
           }}
         />
         
-        {/* Inner pulsing ring */}
+        {/* Inner ring */}
         <CircleMarker
           center={position}
           radius={8}
@@ -174,37 +174,6 @@ export default function VolcanoLocationMap({ volcano, lat, lon, volcanoName, zoo
       </div>
 
       <style jsx global>{`
-        
-        /* Pulsing animation for the volcano marker */
-        .leaflet-pane .leaflet-overlay-pane svg path:first-child {
-          animation: volcanoGlow 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-        }
-        
-        @keyframes volcanoGlow {
-          0%, 100% {
-            opacity: 0.9;
-            transform: scale(1);
-          }
-          50% {
-            opacity: 0.6;
-            transform: scale(1.1);
-          }
-        }
-        
-        /* Enhanced pulsing for outer ring */
-        .leaflet-pane .leaflet-overlay-pane svg path:nth-child(2) {
-          animation: outerPulse 3s ease-in-out infinite;
-        }
-        
-        @keyframes outerPulse {
-          0%, 100% {
-            opacity: 0.15;
-          }
-          50% {
-            opacity: 0.3;
-          }
-        }
-
         /* Style the zoom controls */
         .leaflet-control-zoom {
           border: 1px solid rgba(255, 107, 53, 0.3) !important;
