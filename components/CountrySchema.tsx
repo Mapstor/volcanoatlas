@@ -1,4 +1,5 @@
 import Script from 'next/script';
+import { getSafeImageUrl } from '@/lib/imageUtils';
 
 interface CountrySchemaProps {
   country: {
@@ -32,7 +33,7 @@ export default function CountrySchema({ country }: CountrySchemaProps) {
         name: country.name,
         description: country.description || `Comprehensive guide to all ${country.volcanoCount} volcanoes in ${country.name}, including active and dormant volcanic systems, eruption history, and geological information.`,
         url: `${baseUrl}/volcanoes-in-${country.slug}`,
-        image: country.imageUrl || `${baseUrl}/images/countries/${country.slug}.jpg`,
+        image: getSafeImageUrl(country.imageUrl, 'country'),
         containsPlace: {
           '@type': 'Place',
           name: `Volcanic regions of ${country.name}`,
@@ -125,7 +126,7 @@ export default function CountrySchema({ country }: CountrySchemaProps) {
         primaryImageOfPage: {
           '@type': 'ImageObject',
           '@id': `${baseUrl}/volcanoes-in-${country.slug}#primaryimage`,
-          url: country.imageUrl || `${baseUrl}/images/countries/${country.slug}.jpg`,
+          url: getSafeImageUrl(country.imageUrl, 'country'),
           caption: `Volcanoes of ${country.name}`
         },
         breadcrumb: {

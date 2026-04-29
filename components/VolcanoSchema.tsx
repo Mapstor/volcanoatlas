@@ -1,4 +1,5 @@
 import Script from 'next/script';
+import { getSchemaImages } from '@/lib/imageUtils';
 
 interface VolcanoSchemaProps {
   volcano: {
@@ -55,11 +56,7 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
       '@type': 'WebPage',
       '@id': `https://volcanosatlas.com/volcano/${volcano.slug}`
     },
-    image: [
-      `https://volcanosatlas.com/images/${volcano.slug}-1.jpg`,
-      `https://volcanosatlas.com/images/${volcano.slug}-2.jpg`,
-      `https://volcanosatlas.com/images/${volcano.slug}-3.jpg`
-    ],
+    image: getSchemaImages(volcano.slug, 'volcano'),
     isPartOf: {
       '@type': 'WebSite',
       name: 'VolcanoAtlas',

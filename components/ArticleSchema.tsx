@@ -1,4 +1,5 @@
 import Script from 'next/script';
+import { getSafeImageUrl } from '@/lib/imageUtils';
 
 interface ArticleSchemaProps {
   title: string;
@@ -64,7 +65,7 @@ export default function ArticleSchema({
             height: 512
           }
         },
-        image: imageUrl || `${baseUrl}/images/volcano-default.jpg`,
+        image: getSafeImageUrl(imageUrl, 'general'),
         keywords: keywords.join(', '),
         ...(wordCount && { wordCount }),
         inLanguage: 'en-US',
@@ -128,7 +129,7 @@ export default function ArticleSchema({
         },
         primaryImageOfPage: {
           '@type': 'ImageObject',
-          url: imageUrl || `${baseUrl}/images/volcano-default.jpg`
+          url: getSafeImageUrl(imageUrl, 'general')
         },
         datePublished: datePublished,
         dateModified: dateModified || datePublished,

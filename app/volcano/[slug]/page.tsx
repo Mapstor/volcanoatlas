@@ -12,6 +12,9 @@ import { getVolcanoGeoDataByName, getVolcanoStats } from '@/lib/volcanoDynamicDa
 import DynamicVolcanoPage from './DynamicVolcanoPage';
 import VolcanoSchema from '@/components/VolcanoSchema';
 import FAQSchema from '@/components/FAQSchema';
+import DatasetSchema from '@/components/DatasetSchema';
+import ImageObjectSchema from '@/components/ImageObjectSchema';
+import HowToSchema, { generateVolcanoVisitHowTo } from '@/components/HowToSchema';
 import { Metadata } from 'next';
 
 export async function generateStaticParams() {
@@ -91,6 +94,44 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
           pageName={volcano.hero.name}
         />
       )}
+      {photos && photos.length > 0 && (
+        <ImageObjectSchema
+          images={photos.map(photo => ({
+            url: photo.url,
+            caption: photo.alt,
+            photographer: photo.attribution?.photographer,
+            source: photo.attribution?.source
+          }))}
+          pageTitle={volcano.hero.name}
+          pageUrl={`/volcano/${volcano.slug}`}
+        />
+      )}
+      <HowToSchema
+        {...generateVolcanoVisitHowTo(
+          volcano.hero.name,
+          volcano.hero.country,
+          volcano.hero.elevation_m
+        )}
+        pageUrl={`/volcano/${volcano.slug}`}
+      />
+      <DatasetSchema
+        title={`${volcano.hero.name} Volcano Data`}
+        description={`Scientific data and statistics for ${volcano.hero.name} volcano in ${volcano.hero.country}, including elevation, eruption history, and geological information`}
+        url={`/volcano/${volcano.slug}`}
+        dataType="volcano"
+        keywords={[
+          volcano.hero.name,
+          volcano.hero.country,
+          volcano.hero.type,
+          'volcano data',
+          'eruption history',
+          'geological data'
+        ]}
+        coverage={{
+          spatial: `${volcano.hero.country}, ${volcano.hero.region}`,
+          temporal: volcano.hero.last_eruption_year ? `Up to ${volcano.hero.last_eruption_year}` : undefined
+        }}
+      />
       <VolcanoSchema 
         volcano={{
           name: volcano.hero.name,
