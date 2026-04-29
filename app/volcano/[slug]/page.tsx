@@ -11,6 +11,7 @@ import VolcanoDataSections from '@/components/VolcanoDataSections';
 import { getVolcanoGeoDataByName, getVolcanoStats } from '@/lib/volcanoDynamicData';
 import DynamicVolcanoPage from './DynamicVolcanoPage';
 import VolcanoSchema from '@/components/VolcanoSchema';
+import FAQSchema from '@/components/FAQSchema';
 import { Metadata } from 'next';
 
 export async function generateStaticParams() {
@@ -83,6 +84,13 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
 
   return (
     <>
+      {volcano.faqs && volcano.faqs.length > 0 && (
+        <FAQSchema 
+          faqs={volcano.faqs}
+          pageUrl={`/volcano/${volcano.slug}`}
+          pageName={volcano.hero.name}
+        />
+      )}
       <VolcanoSchema 
         volcano={{
           name: volcano.hero.name,

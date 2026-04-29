@@ -9,6 +9,8 @@ import MapSection from '@/components/MapSection';
 import { breakUpLongParagraphs } from '@/lib/textUtils';
 import { getCountryVolcanoesWithPages } from '@/lib/volcanoData';
 import { RichText } from '@/components/RichText';
+import ArticleSchema from '@/components/ArticleSchema';
+import FAQSchema from '@/components/FAQSchema';
 
 export async function generateStaticParams() {
   const pages = await getAllSpecialPages();
@@ -138,6 +140,27 @@ export default async function SpecialPage({ params }: { params: Promise<{ slug: 
   }
 
   return (
+    <>
+      <ArticleSchema 
+        title={page.hero.title}
+        description={page.meta_description}
+        url={`/${slug}`}
+        articleType={isRankingPage ? 'Article' : 'ScholarlyArticle'}
+        keywords={[
+          'volcanoes',
+          'volcanic activity',
+          'geology',
+          ...(page.hero.title.toLowerCase().split(' '))
+        ]}
+        isEducational={true}
+      />
+      {page.faqs && page.faqs.length > 0 && (
+        <FAQSchema 
+          faqs={page.faqs}
+          pageUrl={`/${slug}`}
+          pageName={page.hero.title}
+        />
+      )}
     <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-b from-[#1a1a1a] to-[#0f0f0f] py-20 px-6 lg:px-8">
@@ -382,6 +405,7 @@ export default async function SpecialPage({ params }: { params: Promise<{ slug: 
         </div>
       </section>
     </div>
+    </>
   );
 }
 

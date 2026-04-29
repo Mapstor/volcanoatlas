@@ -7,6 +7,8 @@ import { breakUpLongParagraphs } from '@/lib/textUtils';
 import MapSection from '@/components/MapSection';
 import { getVolcanoesGeoData } from '@/lib/volcanoDynamicData';
 import { RichText } from '@/components/RichText';
+import CountrySchema from '@/components/CountrySchema';
+import FAQSchema from '@/components/FAQSchema';
 
 export async function generateStaticParams() {
   const countries = await getAllCountries();
@@ -84,6 +86,25 @@ export default async function CountryPage({ params }: { params: Promise<{ slug: 
   ].filter(m => m.lat && m.lon);
 
   return (
+    <>
+      <CountrySchema 
+        country={{
+          name: countryName,
+          slug: slug,
+          volcanoCount: country.hero.volcano_count,
+          activeCount: country.hero.active_count,
+          tallestVolcano: country.hero.tallest,
+          mostRecentEruption: country.hero.most_recent_eruption,
+          description: country.meta_description
+        }}
+      />
+      {country.faqs && country.faqs.length > 0 && (
+        <FAQSchema 
+          faqs={country.faqs}
+          pageUrl={`/volcanoes-in-${slug}`}
+          pageName={`Volcanoes in ${countryName}`}
+        />
+      )}
     <div className="min-h-screen bg-[#0f0f0f]">
       {/* Ultra Compact Header */}
       <div className="bg-[#1a1a1a] border-b border-gray-800">
@@ -300,5 +321,6 @@ export default async function CountryPage({ params }: { params: Promise<{ slug: 
           </div>
         </div>
       </div>
+    </>
   );
 }

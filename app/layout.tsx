@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 import { getNavData } from "@/lib/data";
 import { defaultMetadata } from "./metadata";
 import Script from 'next/script';
+import OrganizationSchema from '@/components/OrganizationSchema';
 
 const playfairDisplay = Playfair_Display({
   subsets: ['latin'],
@@ -100,6 +101,7 @@ export default async function RootLayout({
         />
       </head>
       <body className="bg-volcanic-950 text-white min-h-screen">
+        <OrganizationSchema />
         <HeaderWrapper navData={navData} />
         <main>
           {children}
