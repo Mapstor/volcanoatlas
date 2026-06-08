@@ -21,7 +21,7 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Place',
-    '@id': `https://volcanosatlas.com/volcano/${volcano.slug}`,
+    '@id': `https://www.volcanosatlas.com/volcano/${volcano.slug}`,
     name: `${volcano.name} Volcano`,
     description: volcano.description,
     geo: {
@@ -54,13 +54,13 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
     ],
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://volcanosatlas.com/volcano/${volcano.slug}`
+      '@id': `https://www.volcanosatlas.com/volcano/${volcano.slug}`
     },
     image: getSchemaImages(volcano.slug, 'volcano'),
     isPartOf: {
       '@type': 'WebSite',
       name: 'VolcanoAtlas',
-      url: 'https://volcanosatlas.com'
+      url: 'https://www.volcanosatlas.com'
     }
   };
 
@@ -72,25 +72,25 @@ export default function VolcanoSchema({ volcano }: VolcanoSchemaProps) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://volcanosatlas.com'
+        item: 'https://www.volcanosatlas.com'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Countries',
-        item: 'https://volcanosatlas.com/countries'
+        item: 'https://www.volcanosatlas.com/countries'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: volcano.country,
-        item: `https://volcanosatlas.com/volcanoes-in-${volcano.country.toLowerCase().replace(/\s+/g, '-')}`
+        item: `https://www.volcanosatlas.com/volcanoes-in-${volcano.country.toLowerCase().replace(/\s+/g, '-')}`
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: volcano.name,
-        item: `https://volcanosatlas.com/volcano/${volcano.slug}`
+        item: `https://www.volcanosatlas.com/volcano/${volcano.slug}`
       }
     ]
   };

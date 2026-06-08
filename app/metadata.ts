@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://volcanoatlas.vercel.app';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.volcanosatlas.com';
 
 export const defaultMetadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -39,7 +39,7 @@ export const defaultMetadata: Metadata = {
     title: 'VolcanoAtlas — Every Volcano on Earth',
     description: "Comprehensive encyclopedia of Earth's volcanoes. Explore detailed profiles of 150+ volcanoes.",
     images: [`${siteUrl}/og-image.jpg`],
-    creator: '@volcanoatlas',
+    creator: '@volcanosatlas',
   },
   robots: {
     index: true,

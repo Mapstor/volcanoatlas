@@ -43,12 +43,12 @@ export default async function RootLayout({
     '@type': 'WebSite',
     name: 'VolcanoAtlas',
     description: "Comprehensive encyclopedia of Earth's volcanoes",
-    url: 'https://volcanosatlas.com',
+    url: 'https://www.volcanosatlas.com',
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: 'https://volcanosatlas.com/search?q={search_term_string}'
+        urlTemplate: 'https://www.volcanosatlas.com/search?q={search_term_string}'
       },
       'query-input': 'required name=search_term_string'
     },
@@ -57,7 +57,7 @@ export default async function RootLayout({
       name: 'VolcanoAtlas',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://volcanosatlas.com/logo.png'
+        url: 'https://www.volcanosatlas.com/logo.png'
       }
     }
   };
