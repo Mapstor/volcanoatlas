@@ -1,18 +1,19 @@
 import { Metadata } from 'next';
+import { OG_IMAGE, SITE_NAME, SITE_URL } from '@/lib/site';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.volcanosatlas.com';
-
+/**
+ * Site-wide defaults only. Canonical URL, Open Graph and Twitter tags are set
+ * per page with pageMeta() in lib/site.ts. A canonical must never live here:
+ * pages that do not override it would all point at the homepage.
+ */
 export const defaultMetadata: Metadata = {
-  metadataBase: new URL(siteUrl),
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: 'VolcanoAtlas — Every Volcano on Earth',
-    template: '%s | VolcanoAtlas'
+    default: `${SITE_NAME} — Every Volcano on Earth`,
+    template: `%s | ${SITE_NAME}`,
   },
-  description: "Comprehensive encyclopedia of Earth's volcanoes. Explore detailed profiles of 150+ volcanoes across 46 countries with eruption histories, maps, and facts.",
-  keywords: ['volcanoes', 'volcanic eruptions', 'geology', 'earth science', 'lava', 'magma', 'tectonic plates', 'ring of fire', 'stratovolcano', 'shield volcano'],
-  authors: [{ name: 'VolcanoAtlas' }],
-  creator: 'VolcanoAtlas',
-  publisher: 'VolcanoAtlas',
+  description:
+    'Volcano profiles, country lists and maps built on the Smithsonian Global Volcanism Program database.',
   formatDetection: {
     email: false,
     address: false,
@@ -21,25 +22,12 @@ export const defaultMetadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: siteUrl,
-    siteName: 'VolcanoAtlas',
-    title: 'VolcanoAtlas — Every Volcano on Earth',
-    description: "Comprehensive encyclopedia of Earth's volcanoes. Explore detailed profiles of 150+ volcanoes across 46 countries.",
-    images: [
-      {
-        url: `${siteUrl}/og-image.jpg`,
-        width: 1200,
-        height: 630,
-        alt: 'VolcanoAtlas - Explore Earth\'s Volcanoes',
-      }
-    ],
+    siteName: SITE_NAME,
+    images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: SITE_NAME }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'VolcanoAtlas — Every Volcano on Earth',
-    description: "Comprehensive encyclopedia of Earth's volcanoes. Explore detailed profiles of 150+ volcanoes.",
-    images: [`${siteUrl}/og-image.jpg`],
-    creator: '@volcanosatlas',
+    images: [OG_IMAGE],
   },
   robots: {
     index: true,
@@ -59,85 +47,7 @@ export const defaultMetadata: Metadata = {
       { url: '/favicon-16x16.png', type: 'image/png', sizes: '16x16' },
       { url: '/favicon-32x32.png', type: 'image/png', sizes: '32x32' },
     ],
-    apple: [
-      { url: '/apple-touch-icon.png', sizes: '180x180' },
-    ],
-    other: [
-      {
-        rel: 'mask-icon',
-        url: '/favicon.svg',
-        color: '#FF6B35',
-      },
-    ],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180' }],
   },
   manifest: '/site.webmanifest',
-  alternates: {
-    canonical: siteUrl,
-  },
 };
-
-export function generateVolcanoMetadata(volcano: any): Metadata {
-  const title = `${volcano.hero.name} Volcano — Eruptions, Lava & Facts`;
-  const description = volcano.meta_description || 
-    `${volcano.hero.name} is a ${volcano.hero.type} in ${volcano.hero.country}. ${volcano.hero.subtitle}`;
-  
-  return {
-    title,
-    description,
-    openGraph: {
-      title,
-      description,
-      type: 'article',
-      images: [
-        {
-          url: `/og-volcano-${volcano.slug}.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `${volcano.hero.name} Volcano`,
-        }
-      ],
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: [`/og-volcano-${volcano.slug}.jpg`],
-    },
-    alternates: {
-      canonical: `${siteUrl}/volcano/${volcano.slug}`,
-    },
-  };
-}
-
-export function generateCountryMetadata(country: any): Metadata {
-  const countryName = country.title.replace('Volcanoes in ', '');
-  const title = `Volcanoes in ${countryName} — ${country.hero.volcano_count} Volcanic Peaks`;
-  const description = country.meta_description || country.hero.subtitle;
-  
-  return {
-    title,
-    description,
-    openGraph: {
-      title,
-      description,
-      type: 'article',
-      images: [
-        {
-          url: `/og-country-${country.slug}.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `Volcanoes in ${countryName}`,
-        }
-      ],
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: [`/og-country-${country.slug}.jpg`],
-    },
-    alternates: {
-      canonical: `${siteUrl}/volcanoes-in-${country.slug}`,
-    },
-  };
-}

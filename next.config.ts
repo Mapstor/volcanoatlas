@@ -8,11 +8,6 @@ const nextConfig: NextConfig = {
         hostname: 'volcano.si.edu',
         pathname: '/**',
       },
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
-        pathname: '/**',
-      },
     ],
     // Image optimization
     formats: ['image/avif', 'image/webp'],

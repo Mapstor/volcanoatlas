@@ -93,16 +93,16 @@ export default function CountriesListClient({ countries }: CountriesListClientPr
 
           {/* Controls Row */}
           <div className="flex flex-wrap gap-4 items-center justify-between">
-            <div className="flex gap-4 items-center">
+            <div className="flex flex-wrap gap-3 items-center">
               {/* Sort Dropdown */}
               <select
                 value={sortBy}
                 onChange={(e) => setSortBy(e.target.value as any)}
                 className="px-4 py-2 bg-[#0f0f0f] border border-gray-700 rounded-lg text-white focus:outline-none focus:border-amber-500"
               >
-                <option value="count">Sort by Volcano Count</option>
-                <option value="active">Sort by Active Count</option>
-                <option value="name">Sort by Name</option>
+                <option value="count">Sort by volcano count</option>
+                <option value="active">Sort by historically active</option>
+                <option value="name">Sort by name</option>
               </select>
 
               {/* Sort Order Button */}
@@ -122,7 +122,7 @@ export default function CountriesListClient({ countries }: CountriesListClientPr
                     : 'bg-[#252525] text-white hover:bg-[#2a2a2a] border border-gray-700'
                 }`}
               >
-                Active Volcanoes Only
+                With historical eruptions
               </button>
 
               {/* Clear Button */}
@@ -193,13 +193,13 @@ export default function CountriesListClient({ countries }: CountriesListClientPr
                       <div className="text-2xl font-bold text-amber-500">
                         {country.volcano_count}
                       </div>
-                      <div className="text-xs text-gray-400">Total Volcanoes</div>
+                      <div className="text-xs text-gray-400">Holocene volcanoes</div>
                     </div>
                     <div>
                       <div className="text-2xl font-bold text-amber-500">
                         {country.active_count || 0}
                       </div>
-                      <div className="text-xs text-gray-400">Active</div>
+                      <div className="text-xs text-gray-400">Historically active</div>
                     </div>
                   </div>
 
@@ -240,7 +240,7 @@ export default function CountriesListClient({ countries }: CountriesListClientPr
           ))}
         </div>
       ) : (
-        <div className="bg-[#1a1a1a] rounded-lg overflow-hidden border border-gray-800">
+        <div className="bg-[#1a1a1a] rounded-lg overflow-x-auto border border-gray-800">
           <table className="w-full">
             <thead className="bg-[#252525] border-b border-gray-700">
               <tr>
@@ -248,10 +248,10 @@ export default function CountriesListClient({ countries }: CountriesListClientPr
                   Country
                 </th>
                 <th className="px-6 py-3 text-center text-xs font-medium text-gray-400 uppercase tracking-wider">
-                  Total Volcanoes
+                  Holocene volcanoes
                 </th>
                 <th className="px-6 py-3 text-center text-xs font-medium text-gray-400 uppercase tracking-wider">
-                  Active
+                  Historically active
                 </th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">
                   Tallest Volcano

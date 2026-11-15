@@ -131,7 +131,7 @@ export default function VolcanoesListClient({
               onChange={(e) => setSelectedStatus(e.target.value)}
               className="px-4 py-2 bg-[#0f0f0f] border border-gray-700 rounded-lg text-white focus:outline-none focus:border-amber-500"
             >
-              <option value="">All Status</option>
+              <option value="">Any last eruption</option>
               {statuses.map(status => (
                 <option key={status} value={status}>{status}</option>
               ))}
@@ -147,7 +147,7 @@ export default function VolcanoesListClient({
 
           {/* Sort and View Controls */}
           <div className="flex flex-wrap gap-4 items-center justify-between">
-            <div className="flex gap-4 items-center">
+            <div className="flex flex-wrap gap-3 items-center">
               <select
                 value={sortBy}
                 onChange={(e) => setSortBy(e.target.value as any)}
@@ -229,15 +229,15 @@ export default function VolcanoesListClient({
                   <div className="flex justify-between">
                     <span className="text-gray-400">Elevation:</span>
                     <span className="text-gray-300">
-                      {volcano.elevation_m?.toLocaleString()} m
+                      {volcano.elevation_m?.toLocaleString('en-US')} m
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-gray-400">Status:</span>
+                    <span className="text-gray-400">Group:</span>
                     <span className={`px-2 py-1 rounded text-xs font-medium ${
-                      volcano.status.toLowerCase().includes('active') 
+                      volcano.status.includes('since 2000') 
                         ? 'bg-red-500/20 text-red-400' 
-                        : volcano.status.toLowerCase().includes('dormant')
+                        : volcano.status.includes('Before 1900')
                         ? 'bg-gray-500/20 text-gray-400'
                         : 'bg-orange-500/20 text-orange-400'
                     }`}>
@@ -254,7 +254,7 @@ export default function VolcanoesListClient({
           ))}
         </div>
       ) : (
-        <div className="bg-[#1a1a1a] rounded-lg overflow-hidden border border-gray-800">
+        <div className="bg-[#1a1a1a] rounded-lg overflow-x-auto border border-gray-800">
           <table className="w-full">
             <thead className="bg-[#252525] border-b border-gray-700">
               <tr>
@@ -271,7 +271,7 @@ export default function VolcanoesListClient({
                   Elevation
                 </th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">
-                  Status
+                  Group
                 </th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">
                   Last Eruption
@@ -299,13 +299,13 @@ export default function VolcanoesListClient({
                     {volcano.type}
                   </td>
                   <td className="px-6 py-4 whitespace-nowrap text-gray-300">
-                    {volcano.elevation_m?.toLocaleString()} m
+                    {volcano.elevation_m?.toLocaleString('en-US')} m
                   </td>
                   <td className="px-6 py-4 whitespace-nowrap">
                     <span className={`px-2 py-1 rounded text-xs font-medium ${
-                      volcano.status.toLowerCase().includes('active') 
+                      volcano.status.includes('since 2000') 
                         ? 'bg-red-500/20 text-red-400' 
-                        : volcano.status.toLowerCase().includes('dormant')
+                        : volcano.status.includes('Before 1900')
                         ? 'bg-gray-500/20 text-gray-400'
                         : 'bg-orange-500/20 text-orange-400'
                     }`}>

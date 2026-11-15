@@ -1,9 +1,11 @@
 import Link from 'next/link';
+import { pageMeta } from '@/lib/site';
 
-export const metadata = {
+export const metadata = pageMeta({
   title: 'Terms of Use',
-  description: 'Terms of use for VolcanoAtlas - The comprehensive encyclopedia of Earth\'s volcanoes.',
-};
+  description: 'Terms of use for the VolcanoAtlas website.',
+  path: '/terms',
+});
 
 export default function TermsPage() {
   return (
@@ -21,7 +23,7 @@ export default function TermsPage() {
             Terms of Use
           </h1>
           <p className="text-xl text-volcanic-400">
-            Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+            Last updated: November 15, 2026
           </p>
         </div>
       </section>
@@ -74,8 +76,8 @@ export default function TermsPage() {
               VolcanoAtlas may contain links to third-party websites and content from external sources including:
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4 mb-4">
-              <li>Images from Unsplash and other photo services</li>
-              <li>Scientific data from research institutions</li>
+              <li>Map images from OpenStreetMap</li>
+              <li>Scientific data and report excerpts from the Smithsonian Institution and the USGS</li>
               <li>Links to external educational resources</li>
             </ul>
             <p className="mb-4 leading-relaxed">

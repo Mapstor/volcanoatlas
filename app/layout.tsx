@@ -6,7 +6,8 @@ import Footer from "@/components/Footer";
 import { getNavData } from "@/lib/data";
 import { defaultMetadata } from "./metadata";
 import Script from 'next/script';
-import OrganizationSchema from '@/components/OrganizationSchema';
+import JsonLd from '@/components/JsonLd';
+import { SITE_NAME, SITE_URL } from '@/lib/site';
 
 const playfairDisplay = Playfair_Display({
   subsets: ['latin'],
@@ -31,44 +32,36 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = defaultMetadata;
 
+// Only facts that are true and visible on the site. No awards, parent company,
+// social profiles or policies that do not exist.
+const siteLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE_URL}/#website`,
+    name: SITE_NAME,
+    url: SITE_URL,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${SITE_URL}/#organization`,
+    name: SITE_NAME,
+    url: SITE_URL,
+    logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 512, height: 512 },
+  },
+];
+
 export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   const navData = await getNavData();
-  
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    name: 'VolcanoAtlas',
-    description: "Comprehensive encyclopedia of Earth's volcanoes",
-    url: 'https://www.volcanosatlas.com',
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: {
-        '@type': 'EntryPoint',
-        urlTemplate: 'https://www.volcanosatlas.com/search?q={search_term_string}'
-      },
-      'query-input': 'required name=search_term_string'
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'VolcanoAtlas',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://www.volcanosatlas.com/logo.png'
-      }
-    }
-  };
 
   return (
     <html lang="en" className={`${playfairDisplay.variable} ${sourceSans3.variable} ${jetbrainsMono.variable}`}>
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-        
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-M577GLBCD1"
@@ -82,7 +75,7 @@ export default async function RootLayout({
             gtag('config', 'G-M577GLBCD1');
           `}
         </Script>
-        
+
         {/* Microsoft Clarity */}
         <Script id="clarity-analytics" strategy="afterInteractive">
           {`
@@ -93,15 +86,9 @@ export default async function RootLayout({
             })(window, document, "clarity", "script", "57c407e8336c4915e2d28eea649c8078");
           `}
         </Script>
-        
-        <Script
-          id="json-ld"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
       </head>
       <body className="bg-volcanic-950 text-white min-h-screen">
-        <OrganizationSchema />
+        <JsonLd data={siteLd} />
         <HeaderWrapper navData={navData} />
         <main>
           {children}
