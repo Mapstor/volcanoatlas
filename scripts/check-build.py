@@ -38,7 +38,9 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
         return None
 
 
-opener = urllib.request.build_opener(NoRedirect, urllib.request.ProxyHandler({}))
+# A local build is fetched directly; a remote one goes through whatever proxy the environment sets.
+_local = urlparse(base).hostname in ("localhost", "127.0.0.1", "::1")
+opener = urllib.request.build_opener(NoRedirect, urllib.request.ProxyHandler({})) if _local else urllib.request.build_opener(NoRedirect)
 
 
 class P(HTMLParser):
