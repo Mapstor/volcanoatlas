@@ -3,8 +3,8 @@
 
 ## §0 Resume here
 _last update: 2026-11-15 · VOL-002_
-- Phase: audit finished; fix waves running. Wave 1 of 7 done.
-- Last confirmed: VOL-002 WAVE1 — plumbing fixed, made-up content removed — done (472c7f5); merge and production check are recorded in the next §6 entry
+- Phase: audit finished; fix waves running. Wave 1 of 7 is live.
+- Last confirmed: VOL-002 WAVE1 — plumbing fixed, made-up content removed — live (merge commit 35cc4b0, production checked 2026-11-15)
 - In flight (handed, NOT confirmed): none
 - Next action: Wave 2 — fact-check the profile for Stromboli against its Smithsonian record, run the prose pass, render its article sections; then the next profiles by search traffic (VOL-003)
 - Waiting on owner:
@@ -94,6 +94,14 @@ _last update: 2026-11-15 · VOL-002_
 - Unverified: hover and keyboard behaviour of the desktop dropdowns; real-phone test (owner).
 - Commit: 472c7f5 (pushed: work branch only)
 - Notes: scores after — sourcing 4.5, prose 2, design 4, Raptive 3.5. `tsc` clean outside the old test file.
+
+### 2026-11-15 · VOL-002 WAVE1 · chat · live
+- What: pull request #1 merged with a merge commit; Vercel production build for that commit finished READY.
+- Files: none beyond the merge; `scripts/check-build.py` now also crawls a remote site through the environment's proxy.
+- Verified: preview looked at in the owner's Chrome before the merge (home, Stromboli, Italy, Agung, /countries, /latest-eruptions, /about, a 404, desktop dropdown; four pages in 386 px frames: menu opens with 8 links, no sideways scroll, map tiles load). After the deploy, `scripts/check-build.py https://www.volcanosatlas.com`: 1,212 pages all 200, 0 broken links, canonical = own URL on every page, 213 indexable = 213 sitemap URLs, no invalid JSON-LD. Live pages opened in the owner's Chrome: home (150 markers, tiles load), Stromboli, United States (165 markers, 165 linked rows), /latest-eruptions (stale-feed notice shown).
+- Unverified: a real phone (the Chrome window could not be resized, so the phone check ran in narrow frames); desktop keyboard navigation.
+- Commit: 35cc4b0 (merged to main)
+- Notes: next is VOL-003, Wave 2, starting with the Stromboli profile.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
