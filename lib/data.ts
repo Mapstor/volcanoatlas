@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { eruptionGroup } from './gvp';
 
 const dataDirectory = path.join(process.cwd(), 'data');
 const contentDirectory = path.join(dataDirectory, 'content');
@@ -70,6 +71,7 @@ export interface VolcanoData {
     answer: string;
   }>;
   schema_data?: any;
+  source_citation?: string;
   page_type: string;
   url: string;
 }
@@ -108,6 +110,7 @@ export interface CountryData {
   }>;
   facts?: string[];
   schema_data?: any;
+  source_citation?: string;
 }
 
 export interface SpecialPageData {
@@ -118,7 +121,9 @@ export interface SpecialPageData {
   meta_description: string;
   breadcrumbs?: Array<{
     label: string;
-    path: string;
+    /** The content files use either key. */
+    path?: string;
+    url?: string;
   }>;
   hero: {
     title: string;
@@ -259,6 +264,9 @@ export async function getAllCountries(): Promise<CountryData[]> {
 export async function getCountryBySlug(slug: string): Promise<CountryData | null> {
   try {
     const filePath = path.join(contentDirectory, `country-${slug}.json`);
+    if (!fs.existsSync(filePath)) {
+      return null;
+    }
     const fileContent = fs.readFileSync(filePath, 'utf8');
     return JSON.parse(fileContent) as CountryData;
   } catch (error) {
@@ -347,8 +355,10 @@ export async function getMapMarkers(): Promise<MapMarker[]> {
       elevation: `${volcano.hero.elevation_m?.toLocaleString()} m`,
       country: volcano.hero.country,
       last_eruption: volcano.hero.last_eruption,
-      status: volcano.hero.status,
-    }));
+      // Grouped only by the year of the last known eruption; no "active/dormant" labels.
+      status: eruptionGroup(volcano.hero.last_eruption_year),
+    }))
+    .sort((a, b) => a.title.localeCompare(b.title));
 }
 
 export interface MapMarker {
@@ -361,4 +371,6 @@ export interface MapMarker {
   country: string;
   last_eruption: string;
   status?: string;
+  /** Optional marker colour; when missing the colour follows the eruption group in status. */
+  color?: string;
 }

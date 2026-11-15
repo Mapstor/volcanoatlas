@@ -1,9 +1,11 @@
 import Link from 'next/link';
+import { pageMeta } from '@/lib/site';
 
-export const metadata = {
+export const metadata = pageMeta({
   title: 'Privacy Policy',
-  description: 'Privacy policy for VolcanoAtlas - How we collect, use, and protect your information.',
-};
+  description: 'What data VolcanoAtlas collects, which services process it and how to contact us about it.',
+  path: '/privacy',
+});
 
 export default function PrivacyPage() {
   return (
@@ -21,7 +23,7 @@ export default function PrivacyPage() {
             Privacy Policy
           </h1>
           <p className="text-xl text-volcanic-400">
-            Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+            Last updated: November 15, 2026
           </p>
         </div>
       </section>
@@ -78,7 +80,7 @@ export default function PrivacyPage() {
 
             <h2 className="font-display text-2xl font-bold text-white mb-4 mt-8">3. Analytics and Cookies</h2>
             <p className="mb-4 leading-relaxed">
-              VolcanoAtlas may use analytics services to understand how visitors use our website. These services may use cookies and similar technologies to collect and analyze information such as:
+              VolcanoAtlas uses Google Analytics 4 and Microsoft Clarity to understand how visitors use the website. Google Analytics counts visits and page views. Microsoft Clarity records how pages are used, including clicks, scrolling and mouse movement, and can replay a visit. Both services set cookies and collect information such as:
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4 mb-4">
               <li>Pages viewed and navigation patterns</li>
@@ -95,9 +97,11 @@ export default function PrivacyPage() {
               VolcanoAtlas integrates with third-party services that may collect information:
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4 mb-4">
-              <li><strong>Unsplash API:</strong> For volcano images (does not collect personal data)</li>
-              <li><strong>OpenStreetMap:</strong> For interactive maps (may log IP addresses)</li>
-              <li><strong>External Links:</strong> Links to scientific sources and references</li>
+              <li><strong>Google Analytics 4 (Google):</strong> visit statistics, using cookies</li>
+              <li><strong>Microsoft Clarity (Microsoft):</strong> usage recordings and heatmaps, using cookies</li>
+              <li><strong>OpenStreetMap:</strong> map images are loaded from OpenStreetMap servers, which receive your IP address</li>
+              <li><strong>Vercel:</strong> hosts the website and keeps standard server logs</li>
+              <li><strong>External links:</strong> links to scientific sources such as the Smithsonian Institution and the USGS</li>
             </ul>
             <p className="mb-4 leading-relaxed">
               These third-party services have their own privacy policies, and we encourage you to review them.
@@ -113,7 +117,7 @@ export default function PrivacyPage() {
             <h2 className="font-display text-2xl font-bold text-white mb-4 mt-8">6. Data Retention</h2>
             <p className="mb-4 leading-relaxed">
               We retain collected information for as long as necessary to fulfill the purposes outlined in this privacy policy, 
-              unless a longer retention period is required by law. Analytics data is typically retained for 26 months.
+              unless a longer retention period is required by law.
             </p>
 
             <h2 className="font-display text-2xl font-bold text-white mb-4 mt-8">7. Children's Privacy</h2>

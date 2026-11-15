@@ -1,187 +1,224 @@
+import Link from 'next/link';
 import { getAllRecentActivity, getAlertColorClass, getAlertLevelDescription } from '@/lib/volcanoAPIs';
-import { getVolcanoCoordinatesByNames } from '@/lib/volcanoData';
 import LatestEruptionsMap from '@/components/LatestEruptionsMap';
+import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
+import { getGvpByName } from '@/lib/gvp';
+import { volcanoHref } from '@/lib/routes';
+import { pageMeta } from '@/lib/site';
 
-export const metadata = {
-  title: 'Latest Volcanic Eruptions & Activity | Real-Time Updates',
-  description: 'Live updates on volcanic eruptions and activity worldwide from USGS and Smithsonian Institution. Current alerts, warnings, and weekly reports.',
-};
+// Rebuilt at most once an hour from the two feeds below.
+export const revalidate = 3600;
+
+export const metadata = pageMeta({
+  title: 'Latest Volcanic Eruptions & Activity: Weekly Reports',
+  description:
+    'The latest Smithsonian / USGS Weekly Volcanic Activity Report, volcano by volcano, plus current USGS alert levels for US volcanoes.',
+  path: '/latest-eruptions',
+});
+
+function utc(date: string | number | Date, withTime = true) {
+  // USGS sends "YYYY-MM-DD HH:MM:SS" in UTC without a zone marker.
+  const value = typeof date === 'string' && /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(date) ? `${date.replace(' ', 'T')}Z` : date;
+  const d = new Date(value);
+  if (Number.isNaN(d.getTime())) return '';
+  const day = d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+  if (!withTime) return day;
+  const time = d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'UTC' });
+  return `${day}, ${time} UTC`;
+}
+
+// A weekly report older than this is called out on the page instead of being passed off as current.
+const STALE_AFTER_DAYS = 10;
 
 export default async function LatestEruptionsPage() {
   const { usVolcanoes, globalReports, lastUpdated } = await getAllRecentActivity();
-  
-  // Get coordinates for USGS volcanoes
-  const usVolcanoNames = usVolcanoes.map(v => v.volcano_name);
-  const usCoords = getVolcanoCoordinatesByNames(usVolcanoNames);
-  
-  // Combine all volcano locations for the map
+
+  // The period and publication date come from the feed itself, never from today's date.
+  const periodCounts = new Map<string, number>();
+  for (const report of globalReports) {
+    if (report.date_range) periodCounts.set(report.date_range, (periodCounts.get(report.date_range) ?? 0) + 1);
+  }
+  const reportPeriod = [...periodCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0]?.replace(/\s*-\s*/g, '–') ?? '';
+  const publishedTimes = globalReports.map((report) => new Date(report.pubDate).getTime()).filter((time) => Number.isFinite(time));
+  const lastPublished = publishedTimes.length > 0 ? Math.max(...publishedTimes) : null;
+  const reportAgeDays = lastPublished !== null ? (new Date(lastUpdated).getTime() - lastPublished) / 86_400_000 : null;
+  const reportIsStale = reportAgeDays !== null && reportAgeDays > STALE_AFTER_DAYS;
+
   const mapMarkers = [
-    // USGS elevated volcanoes with alert status
     ...usVolcanoes
-      .map(volcano => {
-        const coords = usCoords.get(volcano.volcano_name);
-        if (!coords) return null;
+      .map((volcano) => {
+        const gvp = getGvpByName(volcano.volcano_name);
+        if (!gvp) return null;
         return {
           title: volcano.volcano_name,
-          slug: `/volcano/${volcano.volcano_name.toLowerCase().replace(/\s+/g, '-')}`,
-          lat: coords.lat,
-          lon: coords.lon,
+          slug: volcanoHref(volcano.volcano_name) || '',
+          lat: gvp.Latitude,
+          lon: gvp.Longitude,
           country: 'United States',
-          elevation: '0m',
-          type: `Alert: ${volcano.color_code}`,
-          last_eruption: 'Unknown',
-          status: volcano.color_code
+          elevation: '',
+          type: `USGS alert level ${volcano.alert_level}`,
+          last_eruption: '',
+          color: '#f59e0b',
         };
       })
       .filter((marker): marker is NonNullable<typeof marker> => marker !== null),
-    // Smithsonian weekly reports
-    ...globalReports.filter(report => report.lat && report.lon).map(report => ({
-      title: report.volcano_name,
-      slug: `/volcano/${report.volcano_name.toLowerCase().replace(/\s+/g, '-')}`,
-      lat: report.lat!,
-      lon: report.lon!,
-      country: report.country,
-      elevation: '0m',
-      type: 'Recent Activity',
-      last_eruption: 'Recent',
-      status: 'Recent Activity'
-    }))
+    ...globalReports
+      .filter((report) => typeof report.lat === 'number' && typeof report.lon === 'number')
+      .map((report) => ({
+        title: report.volcano_name,
+        slug: volcanoHref(report.volcano_name) || '',
+        lat: report.lat!,
+        lon: report.lon!,
+        country: report.country,
+        elevation: '',
+        type: `Weekly report, ${report.date_range}`,
+        last_eruption: '',
+        color: '#ef4444',
+      })),
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900">
-      <div className="container mx-auto px-4 py-12">
-        <div className="mb-12">
-          <h1 className="text-5xl md:text-6xl font-bold text-center bg-gradient-to-r from-orange-400 to-red-600 bg-clip-text text-transparent mb-4">
-            Latest Volcanic Activity
-          </h1>
-          <p className="text-xl text-gray-300 text-center max-w-3xl mx-auto">
-            Real-time updates on volcanic eruptions and activity worldwide from USGS and Smithsonian Institution
+    <div className="min-h-screen bg-gray-900">
+      <JsonLd data={breadcrumbLd([{ name: 'Home', path: '/' }, { name: 'Latest eruptions', path: '/latest-eruptions' }])} />
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="mb-10 max-w-3xl">
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Latest Volcanic Activity</h1>
+          <p className="text-xl text-gray-300">
+            {globalReports.length > 0
+              ? `${globalReports.length} volcanoes are in the latest Smithsonian / USGS Weekly Volcanic Activity Report${reportPeriod ? `, which covers ${reportPeriod}` : ''}.`
+              : 'The Smithsonian / USGS Weekly Volcanic Activity Report could not be loaded right now.'}{' '}
+            {usVolcanoes.length > 0 ? `${usVolcanoes.length} US volcanoes are above the normal alert level.` : ''}
           </p>
-          <p className="text-sm text-gray-500 text-center mt-2">
-            Last updated: {new Date(lastUpdated).toLocaleString()}
+          {reportIsStale && lastPublished !== null && (
+            <p className="mt-4 border-l-4 border-amber-500 bg-amber-500/10 text-amber-100 px-4 py-3 rounded-r">
+              The Smithsonian&apos;s weekly report feed was last updated on {utc(lastPublished, false)}. The reports below are the
+              most recent ones in that feed, not this week&apos;s.
+            </p>
+          )}
+          <p className="text-sm text-gray-400 mt-3">
+            Page refreshed {utc(lastUpdated)}. It re-checks both sources at least once an hour.
           </p>
         </div>
 
-        {/* Global Activity Map */}
-        {mapMarkers.length > 0 && (
-          <div className="mb-12">
-            <h2 className="text-2xl font-bold text-white mb-4">Current Activity Map</h2>
-            <LatestEruptionsMap volcanoMarkers={mapMarkers} />
-          </div>
-        )}
+        <div className="mb-12">
+          <h2 className="text-2xl font-bold text-white mb-4">Map of the latest reports</h2>
+          <LatestEruptionsMap volcanoMarkers={mapMarkers} />
+          <p className="text-sm text-gray-400 mt-2">
+            Red markers: volcanoes in the weekly report. Amber markers: US volcanoes with a raised USGS alert level.
+          </p>
+        </div>
 
-        {/* USGS Elevated Volcanoes */}
         {usVolcanoes.length > 0 && (
-          <div className="mb-12 bg-gray-800/50 backdrop-blur-sm rounded-xl p-8 border border-gray-700">
-            <h2 className="text-3xl font-bold text-white mb-6 flex items-center">
-              <span className="inline-block w-3 h-3 bg-red-500 rounded-full mr-3 animate-pulse"></span>
-              US Volcanoes - Current Alerts
-            </h2>
+          <section className="mb-12 bg-gray-800/50 rounded-xl p-6 md:p-8 border border-gray-700">
+            <h2 className="text-3xl font-bold text-white mb-2">US volcanoes above normal alert level</h2>
+            <p className="text-gray-400 mb-6">
+              Source:{' '}
+              <a href="https://www.usgs.gov/programs/VHP/volcano-updates" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 underline">
+                USGS Volcano Hazards Program
+              </a>
+              , volcano notification service.
+            </p>
             <div className="grid gap-6 md:grid-cols-2">
-              {usVolcanoes.map((volcano, index) => (
-                <div key={index} className="bg-gray-900/50 rounded-lg p-6 border border-gray-700">
-                  <div className="flex justify-between items-start mb-4">
-                    <div>
-                      <h3 className="text-xl font-bold text-white">{volcano.volcano_name}</h3>
-                      <p className="text-gray-400">{volcano.obs_fullname}</p>
+              {usVolcanoes.map((volcano, index) => {
+                const href = volcanoHref(volcano.volcano_name);
+                return (
+                  <div key={index} className="bg-gray-900/50 rounded-lg p-6 border border-gray-700">
+                    <div className="flex justify-between items-start gap-3 mb-4">
+                      <div>
+                        <h3 className="text-xl font-bold text-white">
+                          {href ? (
+                            <Link href={href} className="hover:text-orange-300 underline decoration-gray-600">{volcano.volcano_name}</Link>
+                          ) : (
+                            volcano.volcano_name
+                          )}
+                        </h3>
+                        <p className="text-gray-400">{volcano.obs_fullname}</p>
+                      </div>
+                      <div className={`px-3 py-1 rounded-lg text-sm font-bold border ${getAlertColorClass(volcano.color_code)}`}>
+                        {volcano.color_code}
+                      </div>
                     </div>
-                    <div className={`px-3 py-1 rounded-lg text-sm font-bold border ${getAlertColorClass(volcano.color_code)}`}>
-                      {volcano.color_code}
+
+                    <p className="text-sm font-semibold text-gray-300 mb-1">Alert level: {volcano.alert_level}</p>
+                    <p className="text-sm text-gray-400 mb-4">{getAlertLevelDescription(volcano.alert_level, volcano.color_code)}</p>
+
+                    <div className="flex flex-wrap justify-between items-center gap-2 text-xs text-gray-400">
+                      <span>Notice sent {utc(volcano.sent_utc)}</span>
+                      {volcano.notice_url && (
+                        <a href={volcano.notice_url} target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 underline">
+                          Read the USGS notice
+                        </a>
+                      )}
                     </div>
                   </div>
-                  
-                  <div className="mb-4">
-                    <p className="text-sm font-semibold text-gray-300 mb-1">Alert Level: {volcano.alert_level}</p>
-                    <p className="text-sm text-gray-400">
-                      {getAlertLevelDescription(volcano.alert_level, volcano.color_code)}
-                    </p>
-                  </div>
-                  
-                  <div className="flex justify-between items-center text-xs text-gray-500">
-                    <span>Updated: {new Date(volcano.sent_utc).toLocaleString()}</span>
-                    {volcano.notice_url && (
-                      <a 
-                        href={volcano.notice_url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-orange-400 hover:text-orange-300 transition-colors"
-                      >
-                        Full Report →
-                      </a>
-                    )}
-                  </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
-          </div>
+          </section>
         )}
 
-        {/* Smithsonian Weekly Reports */}
         {globalReports.length > 0 && (
-          <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-8 border border-gray-700">
-            <h2 className="text-3xl font-bold text-white mb-6">
-              Weekly Volcanic Activity Reports
-            </h2>
+          <section className="bg-gray-800/50 rounded-xl p-6 md:p-8 border border-gray-700">
+            <h2 className="text-3xl font-bold text-white mb-2">Weekly volcanic activity reports</h2>
             <p className="text-gray-400 mb-6">
-              From Smithsonian Institution / USGS Weekly Volcanic Activity Report
+              Source:{' '}
+              <a href="https://volcano.si.edu/reports_weekly.cfm" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 underline">
+                Smithsonian / USGS Weekly Volcanic Activity Report
+              </a>
+              , Global Volcanism Program. Each entry below opens with the first lines of that volcano&apos;s report.
             </p>
-            
+
             <div className="space-y-6">
-              {globalReports.map((report, index) => (
-                <div key={`report-${index}`} className="bg-gray-900/50 rounded-lg p-6 border border-gray-700">
-                  <div className="mb-4">
-                    <div className="flex items-start justify-between mb-2">
+              {globalReports.map((report, index) => {
+                const href = volcanoHref(report.volcano_name);
+                return (
+                  <article key={`report-${index}`} className="bg-gray-900/50 rounded-lg p-6 border border-gray-700">
+                    <div className="flex flex-wrap items-start justify-between gap-2 mb-2">
                       <h3 className="text-xl font-bold text-white">
-                        <span>{report.volcano_name}</span>
+                        {href ? (
+                          <Link href={href} className="hover:text-orange-300 underline decoration-gray-600">{report.volcano_name}</Link>
+                        ) : (
+                          report.volcano_name
+                        )}
                         <span className="text-gray-400 font-normal ml-2">({report.country})</span>
                       </h3>
-                      {report.lat && report.lon && (
-                        <span className="text-xs text-gray-500">
+                      {typeof report.lat === 'number' && typeof report.lon === 'number' && (
+                        <span className="text-xs text-gray-400">
                           {report.lat.toFixed(3)}°, {report.lon.toFixed(3)}°
                         </span>
                       )}
                     </div>
-                    <p className="text-sm text-orange-400 font-semibold mb-3">
-                      Activity Period: {report.date_range}
+                    <p className="text-sm text-orange-400 font-semibold mb-3">Report period: {report.date_range}</p>
+
+                    <p className="text-gray-300 mb-4 leading-relaxed">
+                      {report.description.length > 300 ? report.description.substring(0, 300) + '…' : report.description}
                     </p>
-                  </div>
-                  
-                  <p className="text-gray-300 mb-4 leading-relaxed">
-                    {report.description.length > 300 
-                      ? report.description.substring(0, 300) + '...' 
-                      : report.description}
-                  </p>
-                  
-                  <div className="flex justify-between items-center">
-                    <span className="text-xs text-gray-500">
-                      Published: {new Date(report.pubDate).toLocaleDateString()}
-                    </span>
-                    {report.link && (
-                      <a 
-                        href={report.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-orange-400 hover:text-orange-300 transition-colors text-sm"
-                      >
-                        Read Full Report →
-                      </a>
-                    )}
-                  </div>
-                </div>
-              ))}
+
+                    <div className="flex flex-wrap justify-between items-center gap-2">
+                      <span className="text-xs text-gray-400">Published {utc(report.pubDate, false)}</span>
+                      {report.link && (
+                        <a href={report.link} target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 underline text-sm">
+                          Read the full report at the Smithsonian
+                        </a>
+                      )}
+                    </div>
+                  </article>
+                );
+              })}
             </div>
-          </div>
+          </section>
         )}
 
-        {/* No Data Message */}
         {usVolcanoes.length === 0 && globalReports.length === 0 && (
           <div className="text-center py-12">
-            <p className="text-gray-400 text-lg">
-              No current volcanic activity alerts or reports available.
-            </p>
-            <p className="text-gray-500 mt-2">
-              Check back later for updates.
+            <p className="text-gray-300 text-lg">The activity feeds could not be read just now.</p>
+            <p className="text-gray-400 mt-2">
+              The reports are published at{' '}
+              <a href="https://volcano.si.edu/reports_weekly.cfm" className="text-orange-400 underline" target="_blank" rel="noopener noreferrer">
+                volcano.si.edu
+              </a>
+              .
             </p>
           </div>
         )}

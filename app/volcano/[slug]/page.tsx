@@ -1,21 +1,15 @@
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import Link from 'next/link';
+import type { Metadata } from 'next';
 import { getVolcanoBySlug, getAllVolcanoes } from '@/lib/data';
-import MapSection from '@/components/MapSection';
-import { breakUpLongParagraphs, parseMaxVEI } from '@/lib/textUtils';
-import { fetchVolcanoPhotos } from '@/lib/unsplash';
 import { RichText } from '@/components/RichText';
-import VolcanoPhotoGallery from '@/components/VolcanoPhotoGallery';
 import VolcanoLocationMap from '@/components/VolcanoLocationMap';
-import VolcanoDataSections from '@/components/VolcanoDataSections';
-import { getVolcanoGeoDataByName, getVolcanoStats } from '@/lib/volcanoDynamicData';
-import DynamicVolcanoPage from './DynamicVolcanoPage';
-import VolcanoSchema from '@/components/VolcanoSchema';
-import FAQSchema from '@/components/FAQSchema';
-import DatasetSchema from '@/components/DatasetSchema';
-import ImageObjectSchema from '@/components/ImageObjectSchema';
-import HowToSchema, { generateVolcanoVisitHowTo } from '@/components/HowToSchema';
-import { Metadata } from 'next';
+import JsonLd, { breadcrumbLd, faqLd } from '@/components/JsonLd';
+import BasicVolcanoPage from './BasicVolcanoPage';
+import { getGvpByLegacySlug, getGvpBySlug } from '@/lib/gvp';
+import { basicPageSlug, countryHref, profileSlugForNumber, volcanoHrefByNumber } from '@/lib/routes';
+import { SITE_URL, gvpVolcanoUrl, pageMeta } from '@/lib/site';
+import { parseMaxVEI } from '@/lib/textUtils';
 
 export async function generateStaticParams() {
   const volcanoes = await getAllVolcanoes();
@@ -24,342 +18,311 @@ export async function generateStaticParams() {
   }));
 }
 
+function cleanType(type: string | null | undefined) {
+  return (type || 'Volcano').replace(/\((es|s)\)/g, '').trim();
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const volcano = await getVolcanoBySlug(slug);
-  
-  if (!volcano) {
-    // Try to get dynamic data
-    const volcanoName = slug.replace(/-/g, ' ');
-    const geoData = getVolcanoGeoDataByName(volcanoName);
-    
-    if (geoData) {
-      return {
-        title: `${geoData.properties.Volcano_Name} Volcano, ${geoData.properties.Country}`,
-        description: `${geoData.properties.Primary_Volcano_Type} volcano in ${geoData.properties.Country}. Elevation: ${geoData.properties.Elevation}m. ${geoData.properties.Geological_Summary.substring(0, 150)}...`
-      };
-    }
-    
-    return {
-      title: 'Volcano Not Found',
-      description: 'The requested volcano page could not be found.'
-    };
+
+  if (volcano) {
+    return pageMeta({
+      title: volcano.meta_title,
+      description: volcano.meta_description,
+      path: `/volcano/${volcano.slug}`,
+      type: 'article',
+    });
   }
 
-  return {
-    title: volcano.meta_title,
-    description: volcano.meta_description,
-  };
+  const gvp = getGvpBySlug(slug);
+  if (gvp && !profileSlugForNumber(gvp.Volcano_Number) && basicPageSlug(gvp) === slug) {
+    const elevation = gvp.Elevation !== null && gvp.Elevation !== undefined ? ` Elevation ${gvp.Elevation.toLocaleString('en-US')} m.` : '';
+    return pageMeta({
+      // Nine records are simply called "Unnamed"; the record number tells them apart.
+      title: `${gvp.Volcano_Name === 'Unnamed' ? `Unnamed volcano ${gvp.Volcano_Number}` : gvp.Volcano_Name}: ${cleanType(gvp.Primary_Volcano_Type).toLowerCase()} in ${gvp.Country}`,
+      description: `Basic data for ${gvp.Volcano_Name}, a ${cleanType(gvp.Primary_Volcano_Type).toLowerCase()} in ${gvp.Country}.${elevation} Location map and the Smithsonian Global Volcanism Program record.`,
+      path: `/volcano/${slug}`,
+      // Database-only pages stay out of the index until they carry content of their own.
+      noindex: true,
+    });
+  }
+
+  return { title: 'Volcano not found', robots: { index: false, follow: true } };
 }
 
 export default async function VolcanoPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const volcano = await getVolcanoBySlug(slug);
-  
-  // If we don't have a full content file, try to create a dynamic page
-  if (!volcano) {
-    const volcanoName = slug.replace(/-/g, ' ');
-    const geoData = getVolcanoGeoDataByName(volcanoName);
-    
-    if (!geoData) {
-      notFound();
-    }
-    
-    // Get additional data for dynamic page
-    const [stats, photos] = await Promise.all([
-      getVolcanoStats(volcanoName),
-      fetchVolcanoPhotos(volcanoName, 6)
-    ]);
-    
-    return <DynamicVolcanoPage volcanoData={geoData} stats={stats} photos={photos} />;
-  }
-  
-  // We have a full content file, render the normal page
-  const [allVolcanoes, photos] = await Promise.all([
-    getAllVolcanoes(),
-    fetchVolcanoPhotos(volcano.hero.name, 6)
-  ]);
 
-  // Get related volcanoes from same country
+  // No written profile: show the database record, or send old URLs to the right place.
+  if (!volcano) {
+    const gvp = getGvpBySlug(slug);
+    if (gvp) {
+      const profile = profileSlugForNumber(gvp.Volcano_Number);
+      if (profile) permanentRedirect(`/volcano/${profile}`);
+      const canonicalSlug = basicPageSlug(gvp);
+      if (canonicalSlug !== slug) permanentRedirect(`/volcano/${canonicalSlug}`);
+      return <BasicVolcanoPage volcano={gvp} slug={slug} />;
+    }
+
+    const legacy = getGvpByLegacySlug(slug);
+    const legacyHref = legacy ? volcanoHrefByNumber(legacy.Volcano_Number) : null;
+    if (legacyHref && legacyHref !== `/volcano/${slug}`) permanentRedirect(legacyHref);
+
+    notFound();
+  }
+
+  const allVolcanoes = await getAllVolcanoes();
   const relatedVolcanoes = allVolcanoes
-    .filter(v => v.hero.country === volcano.hero.country && v.slug !== volcano.slug)
-    .slice(0, 4);
+    .filter((v) => v.hero.country === volcano.hero.country && v.slug !== volcano.slug)
+    .sort((a, b) => a.hero.name.localeCompare(b.hero.name))
+    .slice(0, 8);
+
+  const facts = volcano.key_facts_box || {};
+  const countryLink = countryHref(volcano.hero.country);
+  // One profile (Yellowstone) is not in the Smithsonian Holocene export and has no record number.
+  const rawNumber = String(facts.smithsonian_id ?? volcano.volcano_id ?? '').trim();
+  const volcanoNumber = /^\d{5,7}$/.test(rawNumber) ? rawNumber : null;
+  const gvpUrl = volcanoNumber ? gvpVolcanoUrl(volcanoNumber) : null;
+  const coords = volcano.hero?.coordinates;
+  const hasCoords = typeof coords?.lat === 'number' && typeof coords?.lon === 'number';
+
+  const keyFacts: Array<{ label: string; value: string }> = [];
+  const push = (label: string, value: unknown) => {
+    if (value === null || value === undefined) return;
+    const text = Array.isArray(value) ? value.join(', ') : String(value).trim();
+    if (text && !/^unknown/i.test(text)) keyFacts.push({ label, value: text });
+  };
+  // Only values that were already published and trace to the Smithsonian record.
+  const eruptionCount =
+    typeof facts.total_recorded_eruptions === 'number'
+      ? facts.total_recorded_eruptions
+      : Number.parseInt(String(facts.total_recorded_eruptions ?? ''), 10);
+  push('Type', volcano.hero.type);
+  push(
+    'Elevation',
+    volcano.hero.elevation_m
+      ? `${volcano.hero.elevation_m.toLocaleString('en-US')} m${volcano.hero.elevation_ft ? ` (${volcano.hero.elevation_ft.toLocaleString('en-US')} ft)` : ''}`
+      : null
+  );
+  push('Last known eruption', volcano.hero.last_eruption);
+  push('Recorded eruptions', Number.isFinite(eruptionCount) ? eruptionCount : null);
+  push('Largest known eruption (VEI)', parseMaxVEI(facts.vei_max).display);
+  push('Tectonic setting', facts.tectonic_setting?.split('/')[0].trim());
+  push('Rock types', facts.rock_types);
+  if (hasCoords) push('Coordinates', `${coords.lat.toFixed(3)}°, ${coords.lon.toFixed(3)}°`);
+  push('Smithsonian volcano number', volcanoNumber);
+
+  const crumbs = [
+    { name: 'Home', path: '/' },
+    { name: 'Countries', path: '/countries' },
+    ...(countryLink ? [{ name: volcano.hero.country, path: countryLink }] : []),
+    { name: volcano.hero.name, path: `/volcano/${volcano.slug}` },
+  ];
+
+  const placeLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Place',
+    '@id': `${SITE_URL}/volcano/${volcano.slug}#place`,
+    name: volcano.hero.name,
+    description: volcano.meta_description,
+    url: `${SITE_URL}/volcano/${volcano.slug}`,
+    additionalType: 'https://schema.org/Volcano',
+    ...(hasCoords
+      ? {
+          geo: {
+            '@type': 'GeoCoordinates',
+            latitude: coords.lat,
+            longitude: coords.lon,
+            ...(volcano.hero.elevation_m ? { elevation: volcano.hero.elevation_m } : {}),
+          },
+        }
+      : {}),
+    containedInPlace: { '@type': 'Country', name: volcano.hero.country },
+    ...(gvpUrl ? { sameAs: [gvpUrl] } : {}),
+  };
 
   return (
     <>
-      {volcano.faqs && volcano.faqs.length > 0 && (
-        <FAQSchema 
-          faqs={volcano.faqs}
-          pageUrl={`/volcano/${volcano.slug}`}
-          pageName={volcano.hero.name}
-        />
-      )}
-      {photos && photos.length > 0 && (
-        <ImageObjectSchema
-          images={photos.map(photo => ({
-            url: photo.url,
-            caption: photo.alt,
-            photographer: photo.attribution?.photographer,
-            source: photo.attribution?.source
-          }))}
-          pageTitle={volcano.hero.name}
-          pageUrl={`/volcano/${volcano.slug}`}
-        />
-      )}
-      <HowToSchema
-        {...generateVolcanoVisitHowTo(
-          volcano.hero.name,
-          volcano.hero.country,
-          volcano.hero.elevation_m
-        )}
-        pageUrl={`/volcano/${volcano.slug}`}
-      />
-      <DatasetSchema
-        title={`${volcano.hero.name} Volcano Data`}
-        description={`Scientific data and statistics for ${volcano.hero.name} volcano in ${volcano.hero.country}, including elevation, eruption history, and geological information`}
-        url={`/volcano/${volcano.slug}`}
-        dataType="volcano"
-        keywords={[
-          volcano.hero.name,
-          volcano.hero.country,
-          volcano.hero.type,
-          'volcano data',
-          'eruption history',
-          'geological data'
-        ]}
-        coverage={{
-          spatial: `${volcano.hero.country}, ${volcano.hero.region}`,
-          temporal: volcano.hero.last_eruption_year ? `Up to ${volcano.hero.last_eruption_year}` : undefined
-        }}
-      />
-      <VolcanoSchema 
-        volcano={{
-          name: volcano.hero.name,
-          country: volcano.hero.country,
-          type: volcano.hero.type,
-          elevation: volcano.hero?.elevation_m || 0,
-          latitude: volcano.hero?.coordinates?.lat || 0,
-          longitude: volcano.hero?.coordinates?.lon || 0,
-          lastEruption: volcano.hero.last_eruption,
-          description: volcano.hero.subtitle,
-          slug: volcano.slug,
-          status: volcano.hero.status,
-          region: volcano.hero.region
-        }}
-      />
+      <JsonLd data={placeLd} />
+      <JsonLd data={breadcrumbLd(crumbs)} />
+      {volcano.faqs && volcano.faqs.length > 0 && <JsonLd data={faqLd(volcano.faqs)} />}
+
       <div className="min-h-screen bg-gray-900">
-        {/* Compact Header Section */}
+        {/* Header */}
         <section className="bg-gradient-to-b from-gray-800 to-gray-900 py-8">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <nav className="text-sm mb-4">
-              <ol className="flex items-center space-x-2 text-gray-400">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <nav className="text-sm mb-4" aria-label="Breadcrumb">
+              <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-gray-400">
                 <li><Link href="/" className="hover:text-orange-500">Home</Link></li>
-                <li className="text-gray-600">/</li>
+                <li className="text-gray-600" aria-hidden="true">/</li>
                 <li><Link href="/countries" className="hover:text-orange-500">Countries</Link></li>
-                <li className="text-gray-600">/</li>
+                <li className="text-gray-600" aria-hidden="true">/</li>
                 <li>
-                  <Link 
-                    href={`/volcanoes-in-${volcano.hero.country.toLowerCase().replace(/\s+/g, '-')}`}
-                    className="hover:text-orange-500"
-                  >
-                    {volcano.hero.country}
-                  </Link>
+                  {countryLink ? (
+                    <Link href={countryLink} className="hover:text-orange-500">{volcano.hero.country}</Link>
+                  ) : (
+                    <span>{volcano.hero.country}</span>
+                  )}
                 </li>
-                <li className="text-gray-600">/</li>
-                <li className="text-white">{volcano.hero.name}</li>
+                <li className="text-gray-600" aria-hidden="true">/</li>
+                <li className="text-white" aria-current="page">{volcano.hero.name}</li>
               </ol>
             </nav>
-            
-            <h1 className="text-3xl md:text-5xl font-bold text-white mb-3">
-              {volcano.hero.name}
-            </h1>
-            <p className="text-lg text-gray-300 mb-4">
-              {volcano.hero.subtitle}
-            </p>
-            
-            {/* Quick Stats */}
-            <div className="flex flex-wrap gap-4 text-white mt-4">
-              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
-                <span className="text-gray-400 text-xs">Elevation</span>
-                <p className="text-lg font-bold">
-                  {volcano.hero?.elevation_m ? `${volcano.hero.elevation_m.toLocaleString()} m` : 
-                    volcano.key_facts_box?.elevation}
-                </p>
-              </div>
-              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
-                <span className="text-gray-400 text-xs">Last Eruption</span>
-                <p className="text-lg font-bold">{volcano.hero.last_eruption}</p>
-              </div>
-              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
-                <span className="text-gray-400 text-xs">Type</span>
-                <p className="text-lg font-bold">{volcano.hero.type}</p>
-              </div>
-              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
-                <span className="text-gray-400 text-xs">Country</span>
-                <p className="text-lg font-bold">{volcano.hero.country}</p>
-              </div>
-            </div>
-        </div>
-      </section>
 
-      <section className="py-8 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto">
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            {/* Main Content */}
-            <div className="lg:col-span-2 space-y-8">
-              {/* Quick Answer */}
-              {(volcano.quick_answer as any)?.question && (volcano.quick_answer as any)?.answer && (
-                <div className="bg-orange-500/10 border-l-4 border-orange-500 p-6 rounded-lg">
-                  <h2 className="text-2xl font-bold text-white mb-4">{(volcano.quick_answer as any).question}</h2>
-                  <RichText html={(volcano.quick_answer as any).answer} className="text-gray-300" />
-                </div>
-              )}
+            <h1 className="text-3xl md:text-5xl font-bold text-white mb-3">{volcano.hero.name}</h1>
+            <p className="text-lg text-gray-300 mb-4">{volcano.hero.subtitle}</p>
 
-              {/* Location Map */}
-              {volcano.hero?.coordinates?.lat && volcano.hero?.coordinates?.lon && (
-                <div>
-                  <h2 className="text-3xl font-bold text-white mb-6">Location</h2>
-                  <div className="h-[400px] rounded-lg overflow-hidden">
-                    <VolcanoLocationMap 
-                      volcano={{
-                        name: volcano.hero?.name,
-                        coordinates: { 
-                          lat: volcano.hero?.coordinates?.lat || 0, 
-                          lon: volcano.hero?.coordinates?.lon || 0 
-                        },
-                        elevation_m: volcano.hero?.elevation_m || 0,
-                        type: volcano.hero?.type,
-                        country: volcano.hero?.country,
-                        region: volcano.hero?.region,
-                        status: volcano.hero?.last_eruption ? `Last eruption: ${volcano.hero.last_eruption}` : 'Unknown'
-                      }}
-                    />
+            <dl className="flex flex-wrap gap-4 text-white mt-4">
+              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
+                <dt className="text-gray-400 text-xs">Elevation</dt>
+                <dd className="text-lg font-bold">
+                  {volcano.hero?.elevation_m ? `${volcano.hero.elevation_m.toLocaleString('en-US')} m` : facts.elevation}
+                </dd>
+              </div>
+              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
+                <dt className="text-gray-400 text-xs">Last eruption</dt>
+                <dd className="text-lg font-bold">{volcano.hero.last_eruption}</dd>
+              </div>
+              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
+                <dt className="text-gray-400 text-xs">Type</dt>
+                <dd className="text-lg font-bold">{volcano.hero.type}</dd>
+              </div>
+              <div className="bg-gray-800/50 px-4 py-2 rounded-lg">
+                <dt className="text-gray-400 text-xs">Country</dt>
+                <dd className="text-lg font-bold">{volcano.hero.country}</dd>
+              </div>
+            </dl>
+          </div>
+        </section>
+
+        <section className="py-8 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-7xl mx-auto">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+              {/* Main column */}
+              <div className="lg:col-span-2 space-y-10">
+                {hasCoords && (
+                  <div>
+                    <h2 className="text-3xl font-bold text-white mb-6">Where {volcano.hero.name} is</h2>
+                    <div className="h-[400px] rounded-lg overflow-hidden relative z-0">
+                      <VolcanoLocationMap
+                        volcano={{
+                          name: volcano.hero.name,
+                          coordinates: { lat: coords.lat, lon: coords.lon },
+                          elevation_m: volcano.hero?.elevation_m || 0,
+                          type: volcano.hero?.type,
+                          country: volcano.hero?.country,
+                          region: volcano.hero?.region,
+                          status: volcano.hero?.last_eruption ? `Last eruption: ${volcano.hero.last_eruption}` : 'Unknown',
+                        }}
+                      />
+                    </div>
                   </div>
-                </div>
-              )}
+                )}
 
-              {/* Main Sections */}
-              {volcano.sections && Array.isArray(volcano.sections) && volcano.sections.map((section: any, index: number) => (
-                <div key={index}>
-                  <h2 className="text-3xl font-bold text-white mb-6">{section.title}</h2>
-                  <RichText 
-                    html={breakUpLongParagraphs(section?.content || '', 3)} 
-                    className="text-gray-300 leading-relaxed space-y-4"
-                  />
-                </div>
-              ))}
+                {gvpUrl && keyFacts.length > 0 && (
+                  <div>
+                    <h2 className="text-3xl font-bold text-white mb-6">{volcano.hero.name} key facts</h2>
+                    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 bg-gray-800 rounded-lg p-6">
+                      {keyFacts.map((fact) => (
+                        <div key={fact.label}>
+                          <dt className="text-gray-400 text-sm">{fact.label}</dt>
+                          <dd className="text-white font-semibold">{fact.value}</dd>
+                        </div>
+                      ))}
+                    </dl>
+                    <p className="text-sm text-gray-400 mt-3">
+                      Source:{' '}
+                      <a href={gvpUrl} target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 underline">
+                        Global Volcanism Program, Smithsonian Institution
+                      </a>
+                      {volcano.source_citation ? `. ${volcano.source_citation}` : ''}
+                    </p>
+                  </div>
+                )}
 
-              {/* Comprehensive Volcano Data Sections */}
-              <VolcanoDataSections 
-                volcanoData={{
-                  name: volcano.hero?.name,
-                  country: volcano.hero?.country,
-                  region: volcano.hero?.region,
-                  type: volcano.hero?.type,
-                  rockType: volcano.key_facts_box?.rock_types?.join(', '),
-                  tectonicSetting: volcano.key_facts_box?.tectonic_setting,
-                  epoch: null, // Field doesn't exist in content
-                  evidence: null, // Field doesn't exist in content
-                  elevation: volcano.hero?.elevation_m || 0,
-                  lastEruption: volcano.hero?.last_eruption_year || undefined,
-                  volcanoNumber: volcano.key_facts_box?.smithsonian_id
-                }}
-                stats={{
-                  totalEruptions: typeof volcano.key_facts_box?.total_recorded_eruptions === 'number' 
-                    ? volcano.key_facts_box.total_recorded_eruptions 
-                    : typeof volcano.key_facts_box?.total_recorded_eruptions === 'string'
-                    ? parseInt(volcano.key_facts_box.total_recorded_eruptions)
-                    : undefined,
-                  maxVEI: parseMaxVEI(volcano.key_facts_box?.vei_max)
-                }}
-              />
+                {volcano.facts && Array.isArray(volcano.facts) && volcano.facts.length > 0 && (
+                  <div>
+                    <h2 className="text-3xl font-bold text-white mb-6">Facts about {volcano.hero.name}</h2>
+                    <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                      {volcano.facts.map((fact: string, index: number) => (
+                        <li key={index} className="bg-gray-800 rounded-lg p-4 text-gray-300">
+                          {fact}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
 
-              {/* Photo Gallery */}
-              {photos && photos.length > 0 && (
-                <VolcanoPhotoGallery photos={photos} volcanoName={volcano.hero?.name} />
-              )}
-            </div>
+                {volcano.faqs && Array.isArray(volcano.faqs) && volcano.faqs.length > 0 && (
+                  <div>
+                    <h2 className="text-3xl font-bold text-white mb-6">{volcano.hero.name} questions and answers</h2>
+                    <div className="space-y-4">
+                      {volcano.faqs.map((faq: any, index: number) => (
+                        <details key={index} className="bg-gray-800 rounded-lg overflow-hidden group">
+                          <summary className="p-6 cursor-pointer flex justify-between items-center hover:bg-gray-700 transition-colors">
+                            <span className="text-white font-semibold">{faq.question}</span>
+                            <svg className="w-5 h-5 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0 ml-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                            </svg>
+                          </summary>
+                          <div className="px-6 pb-6 pt-0">
+                            <RichText html={faq?.answer || ''} className="text-gray-300" />
+                          </div>
+                        </details>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
 
-            {/* Sidebar */}
-            <div className="space-y-8">
-              {/* Key Facts Box */}
-              {(volcano.key_facts_box as any)?.facts && Array.isArray((volcano.key_facts_box as any).facts) && (
+              {/* Sidebar */}
+              <aside className="space-y-8">
+                {relatedVolcanoes.length > 0 && (
+                  <div className="bg-gray-800 rounded-lg p-6">
+                    <h2 className="text-xl font-bold text-white mb-4">Other volcanoes in {volcano.hero?.country}</h2>
+                    <ul className="space-y-3">
+                      {relatedVolcanoes.map((related) => (
+                        <li key={related.slug}>
+                          <Link href={`/volcano/${related.slug}`} className="text-orange-400 hover:text-orange-300 transition-colors">
+                            {related.hero.name}
+                          </Link>
+                          <p className="text-gray-400 text-sm">{related.hero.type}</p>
+                        </li>
+                      ))}
+                    </ul>
+                    {countryLink && (
+                      <Link href={countryLink} className="inline-block mt-4 text-sm text-orange-400 hover:text-orange-300 underline">
+                        All volcanoes in {volcano.hero.country}
+                      </Link>
+                    )}
+                  </div>
+                )}
+
                 <div className="bg-gray-800 rounded-lg p-6">
-                  <h3 className="text-xl font-bold text-white mb-4">Key Facts</h3>
-                  <dl className="space-y-3">
-                    {(volcano.key_facts_box as any).facts.map((fact: any, index: number) => (
-                      <div key={index}>
-                        <dt className="text-gray-400 text-sm">{fact.label}</dt>
-                        <dd className="text-white font-semibold">{fact.value}</dd>
-                      </div>
-                    ))}
-                  </dl>
-                </div>
-              )}
-
-              {/* Related Volcanoes */}
-              {relatedVolcanoes.length > 0 && (
-                <div className="bg-gray-800 rounded-lg p-6">
-                  <h3 className="text-xl font-bold text-white mb-4">
-                    Other Volcanoes in {volcano.hero?.country}
-                  </h3>
-                  <ul className="space-y-3">
-                    {relatedVolcanoes.map((related) => (
-                      <li key={related.slug}>
-                        <Link 
-                          href={`/volcano/${related.slug}`}
-                          className="text-orange-500 hover:text-orange-400 transition-colors"
-                        >
-                          {related.hero.name}
-                        </Link>
-                        <p className="text-gray-400 text-sm">{related.hero.type}</p>
+                  <h2 className="text-xl font-bold text-white mb-4">Explore</h2>
+                  <ul className="space-y-3 text-sm">
+                    {countryLink && relatedVolcanoes.length === 0 && (
+                      <li><Link href={countryLink} className="text-orange-400 hover:text-orange-300 underline">Volcanoes in {volcano.hero.country}</Link></li>
+                    )}
+                    <li><Link href="/map" className="text-orange-400 hover:text-orange-300 underline">World volcano map</Link></li>
+                    <li><Link href="/latest-eruptions" className="text-orange-400 hover:text-orange-300 underline">Latest eruption reports</Link></li>
+                    <li><Link href="/volcanic-explosivity-index" className="text-orange-400 hover:text-orange-300 underline">What VEI numbers mean</Link></li>
+                    {gvpUrl && (
+                      <li>
+                        <a href={gvpUrl} target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 underline">
+                          {volcano.hero.name} at the Global Volcanism Program
+                        </a>
                       </li>
-                    ))}
+                    )}
                   </ul>
                 </div>
-              )}
+              </aside>
             </div>
           </div>
-
-          {/* Facts Section */}
-          {volcano.facts && Array.isArray(volcano.facts) && volcano.facts.length > 0 && (
-            <div className="mt-16">
-              <h2 className="text-3xl font-bold text-white mb-6">Interesting Facts</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {volcano.facts.map((fact: string, index: number) => (
-                  <div key={index} className="bg-gray-800 rounded-lg p-4 flex items-start">
-                    <span className="text-orange-500 text-2xl mr-3">🌋</span>
-                    <p className="text-gray-300">{fact}</p>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* FAQs */}
-          {volcano.faqs && Array.isArray(volcano.faqs) && volcano.faqs.length > 0 && (
-            <div className="mt-16">
-              <h2 className="text-3xl font-bold text-white mb-6">Frequently Asked Questions</h2>
-              <div className="space-y-4">
-                {volcano.faqs.map((faq: any, index: number) => (
-                  <details key={index} className="bg-gray-800 rounded-lg overflow-hidden group">
-                    <summary className="p-6 cursor-pointer flex justify-between items-center hover:bg-gray-700 transition-colors">
-                      <span className="text-white font-semibold">{faq.question}</span>
-                      <svg className="w-5 h-5 text-gray-400 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                      </svg>
-                    </summary>
-                    <div className="px-6 pb-6 pt-0">
-                      <RichText html={faq?.answer || ''} className="text-gray-300" />
-                    </div>
-                  </details>
-                ))}
-              </div>
-            </div>
-          )}
-        </div>
-      </section>
-    </div>
+        </section>
+      </div>
     </>
   );
 }
