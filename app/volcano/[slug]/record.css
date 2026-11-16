@@ -759,6 +759,8 @@ body:has(.va-page) > footer {
   }
   .va-sec-small {
     display: block;
+    max-width: 420px;
+    margin: 0 auto;
   }
   .va-fig {
     padding: 8px;
