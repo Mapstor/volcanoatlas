@@ -1,0 +1,105 @@
+# DESIGN.md — volcanosatlas.com
+
+The look of the site. The owner picks looks from pictures; this file records what he picked and the rules that follow
+from it. A page that breaks a rule here is not finished. `DESIGN-SPEC.md` is an older draft and is not in force.
+
+## The pick
+
+- 16 Nov 2026, Stromboli volcano page: **look A, "the record strip", with the animated cut-open volcano from look B.**
+- The three looks are on the design canvas "volcanosatlas.com: three looks":
+  https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Not taken: B's atlas-plate page (serif type, plates with figure numbers) and C "the lighthouse" (dusk poster, condensed
+  capitals). Don't bring them back as whole looks.
+
+## The idea
+
+A volcano observatory keeps its record on paper: a pen draws a line on a moving strip, and someone marks it up in red
+pencil. The page is that strip. The volcano's own record is the picture, the answer to the reader's question is the
+biggest thing on the screen, and the red pencil points at what matters.
+
+## Where it applies
+
+- Rebuilt volcano profiles ("record pages"): `app/volcano/[slug]/RecordPage.tsx`, `app/volcano/[slug]/record.css`,
+  drawings in `components/record/figures.tsx`.
+- Pages that are not rebuilt yet keep the old dark template until their turn. Other page types (country pages, hubs,
+  the map) get their own three looks; they share this file's colours, type and never-list.
+- On a record page the site header and footer turn to the page's ink colour (done in `record.css`). They get the full
+  look when the last pages move over.
+
+## Colours
+
+| Name | Value | Used for |
+| --- | --- | --- |
+| Page | `#f3f6f1` | background |
+| Paper | `#fbfcf9` | the strip, boxes, tables, figures |
+| Ink | `#17212b` | text, rules, the drawn line, header and footer |
+| Muted | `#4d5d58` | captions, source lines, table headings |
+| Rule | `#b9cbbd` and `#dfe8df` | borders, table lines |
+| Grid | `#c4d8c9` | grid of the strip chart |
+| Eruption red | `#d9482b` | time in eruption, lava, the two callout numbers. Large shapes and large numbers only |
+| Red pencil | `#c21f1f` | handwritten notes and the ring around the main number. Nothing else |
+| Sea | `#cfe3e6`, label `#2d5560` | water in the section drawing |
+| Rock | `#8a8f8c` | the volcano in the section drawing |
+
+Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil on page 5.5). Eruption red on paper is
+4.1, so it is never used for small text. Links are ink with an underline.
+
+## Type
+
+- **Archivo** (variable, weights 400 to 800) for everything. Hosted in `public/fonts/`, with a size-matched Arial
+  fallback so text does not jump while the font loads. Numbers in tables and callouts use tabular figures.
+- **Caveat 700** for red pencil notes only: a few words each, never a sentence the reader needs.
+- No third family. The site-wide Playfair and Source Sans stay on old pages only.
+- Sizes on a record page: h1 76 px (46 on phones), main number 148 px (104), h2 34 px (27), text 18 px, answer
+  paragraph 21 px (19), captions and source lines 14 to 15 px.
+
+## Layout
+
+- Text column 720 px, page width 1140 px. The strip runs edge to edge.
+- Order on a wide screen: title, main number beside the answer paragraph, strip, caption, then the report box and key
+  facts beside the cut-open volcano, then the sections.
+- Order on a phone (980 px and below): title, main number, strip, caption, answer paragraph, cut-open volcano, report
+  box, key facts, sections. The strip sits right under the number so its line is on screen while it draws.
+- Side notes (callouts, pencil note) float right of a section on wide screens and follow the section on small ones.
+- Wide tables scroll inside their own box. The page never scrolls sideways.
+
+## The parts of a record page
+
+1. **Main number.** The page's answer in one line and one number ("Erupting since February 2, 1934", "92 years").
+2. **Pencil ring and note.** A red ring is drawn around the number, then a handwritten note appears.
+3. **The record strip.** Paper strip with sprocket holes. The line is high while the Smithsonian lists an eruption in
+   progress and flat during a pause; a red band under it marks time in eruption. Pauses are labelled in red pencil.
+4. **The cut-open volcano.** Section drawing with heights to scale. Gas bubbles rise in the conduit and burst at the vent.
+5. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link.
+6. **Key facts.** Plain two-column list on paper.
+7. **Sections.** One question per h2, answer first, table where there is a record to show.
+8. **Callouts.** At most two, ink border, the number in eruption red, source line under it.
+9. **Questions and answers, sources, more volcanoes.** Two columns on wide screens.
+
+Every label and position in a drawing comes from the source data (`lib/recordProfile.ts`). A caption says what the
+drawing is made from and what is schematic ("heights are to scale; the shape is not surveyed").
+
+## Movement
+
+- One moment: the pen draws the record across the strip (4.2 s, starts 0.3 s after load). Then the red ring is drawn
+  around the number (1.1 s, from 4.4 s) and the note appears (5.3 s).
+- Quiet background: the pen keeps trembling; bubbles rise and burst in the section drawing (6 s and 1.5 s loops).
+- CSS and SVG only. No animation library, no script, nothing that moves the layout or delays the main number.
+- With "reduce motion" set, everything is shown finished and still.
+- Nothing else moves. No fade-in on sections, no hover effects on boxes.
+
+## Never
+
+- Cream page with a serif headline and terracotta accent; near-black with one neon colour; rows of identical rounded
+  cards with soft shadows; colour-gradient backgrounds; small capital-letter labels above headings; one coloured word
+  in a headline; emoji; arrows after link text.
+- Drawn ad spaces or a reserved ad column. Raptive places every ad itself. The text column must stay able to take
+  in-text ads.
+- Stock photos, or photos without a licence and a credit.
+- A drawing, number or label that is not from the page's sources.
+- Text under 4.5:1, links without underlines, a main drawing that falls apart at phone width.
+
+## The owner's taste
+
+- Wants: beautiful, memorable, moving pages. Not plain "data utility" pages, and nothing that looks generated.
+- Picks by pointing: a letter plus parts of the others.

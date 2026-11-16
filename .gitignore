@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw downloads from scripts/fetch-sources.py (the slimmed files in data/sources/ are committed)
+/data/sources-raw/

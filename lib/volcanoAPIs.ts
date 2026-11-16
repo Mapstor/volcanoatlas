@@ -20,6 +20,12 @@ export interface SmithsonianReport {
   lat?: number;
   lon?: number;
   pubDate: string;
+  /** Smithsonian volcano number, read from the entry's permalink (…#vn_211040). */
+  volcano_number?: number;
+  /** The report's own heading for the entry, e.g. "Continuing Eruptive Activity". */
+  section?: string;
+  /** Permalink of the entry on the Smithsonian's weekly report page. */
+  permalink?: string;
 }
 
 // Fetch currently elevated US volcanoes from USGS
@@ -65,10 +71,17 @@ export async function getSmithsonianWeeklyActivity(): Promise<SmithsonianReport[
         const title = titleMatch ? titleMatch[1] : '';
         
         // Extract volcano name and country from title
-        const titleParts = title.match(/^(.+?) \((.+?)\) - Report for (.+?) - /);
+        const titleParts = title.match(/^(.+?) \((.+?)\) - Report for (.+?) - (.*)$/);
         const volcano_name = titleParts ? titleParts[1] : '';
         const country = titleParts ? titleParts[2] : '';
         const date_range = titleParts ? titleParts[3] : '';
+        const section = titleParts ? titleParts[4].trim() : '';
+
+        // Permalink of the entry; its anchor carries the Smithsonian volcano number
+        const guidMatch = item.match(/<guid[^>]*>(.+?)<\/guid>/);
+        const permalink = guidMatch ? guidMatch[1].trim() : '';
+        const numberMatch = permalink.match(/#vn_(\d+)$/);
+        const volcano_number = numberMatch ? Number(numberMatch[1]) : undefined;
         
         // Extract description (remove CDATA and HTML)
         const descMatch = item.match(/<description>\s*([\s\S]*?)\s*<\/description>/);
@@ -103,7 +116,10 @@ export async function getSmithsonianWeeklyActivity(): Promise<SmithsonianReport[
             link,
             lat,
             lon,
-            pubDate
+            pubDate,
+            volcano_number,
+            section: section || undefined,
+            permalink: permalink || undefined
           });
         }
       } catch (err) {

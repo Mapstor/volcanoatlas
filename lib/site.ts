@@ -8,6 +8,13 @@ export const OG_IMAGE = '/og-image.jpg';
 export const GVP_EXPORT_DATE = '11 Feb 2026';
 export const GVP_HOME = 'https://volcano.si.edu/';
 
+/** The person who reviews the rebuilt pages. Shown on a page only after he has read it (see DEVLOG.md). */
+export const AUTHOR = {
+  name: 'Marko Visic',
+  credential: 'BSc Physics, University of Ljubljana',
+  page: '/about',
+};
+
 export function gvpVolcanoUrl(volcanoNumber: number | string) {
   return `https://volcano.si.edu/volcano.cfm?vn=${volcanoNumber}`;
 }
