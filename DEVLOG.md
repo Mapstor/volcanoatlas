@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-018_
+_last update: 2026-11-17 · VOL-019_
 - Step: all pages — the ten-page step is complete; 15 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal, Mount Pelee, Mount Asama (/volcano/asamayama), Kanlaon, Bulusan and Ambae without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 15 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 13 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama, Kanlaon, Bulusan, Ambae).
-- Last confirmed: VOL-018 AMBAE — live (40061be): Ambae as a record page (see §6).
-- In flight (handed, NOT confirmed): none
-- Next action: the next volcano pages by search demand among those whose observatory can be read and whose shape an existing drawing fits: Ambrym (Vanuatu, same sources as Ambae; its caldera may need thought for the drawing), Nyiragongo, Colima, Galeras and Nevado del Ruiz (Colombia's survey), Momotombo and Masaya (Nicaragua), then on down the list. Deferred, each with its reason in §5: Krakatau, Novarupta, Rabaul, Villarrica; Grimsvotn, Kikai and Campi Flegrei need a drawing of their own too (ice-covered or sea-flooded calderas). Research notes of a volcano go into a notes file as each source is read. Each page: data sheet from the site's own files, observatory read incl. its current statement, profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged only on a green status, production checked.
+- Last confirmed: VOL-019 NYIRAGONGO — done (this commit): Nyiragongo as a record page, with two template fixes (a stale weekly feed is no longer called the latest; an uncertain start date says so in the headline). Before it: VOL-018 AMBAE — live (40061be).
+- In flight (handed, NOT confirmed): none (the Nyiragongo pull request is this session's own: preview look, merge on a green status and the live check follow in the next entry)
+- Next action: the next volcano pages by search demand among those whose observatory can be read and whose shape an existing drawing fits: Colima, Galeras and Nevado del Ruiz (Colombia's survey), Momotombo, then on down the list. Deferred, each with its reason in §5: Krakatau, Novarupta, Rabaul, Villarrica, Ambrym and Masaya (the last two wait for a caldera drawing); Grimsvotn, Kikai and Campi Flegrei need a drawing of their own too. Research notes of a volcano go into a notes file as each source is read, and every source link is fetched and read with pointed questions before the page is written (§4). Each page: data sheet from the site's own files, observatory read incl. its current statement, profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged only on a green status, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama, Kanlaon, Bulusan and Ambae are new since then. On 2026-11-17 20:18 he wrote "font ok, lets just continue": fonts answered (VOL-015), no pages named, so still no new bylines.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -87,6 +87,9 @@ _last update: 2026-11-17 · VOL-018_
 
 - D-48 · 2026-11-17 · The typefaces of the site's frame (Playfair Display, Source Sans 3, JetBrains Mono) ship with the site: `next/font/local`, files in `app/fonts`, licences in `public/fonts`; Tailwind's font families point at the CSS variables — preview builds failed at random on the download from Google (pull requests 17 and 20), and `next/font/local` gives the families names of its own, so the literal Google names in Tailwind would have fallen back to Georgia without any error. Owner's yes: "font ok" (2026-11-17).
 
+- D-50 · 2026-11-17 · A weekly-report entry from a feed that has stopped is not called the latest: the status box says "Weekly report of <week>", names the day the feed was last updated and says the Smithsonian's site may have later ones; the headline note falls back to the plain note — the Smithsonian's feed stopped on 15 Oct 2026 while its site carried reports to 5–11 Nov 2026, and live pages called a five-week-old entry the latest.
+- D-51 · 2026-11-17 · A current eruption whose start day the Smithsonian marks with a question mark prints "(date uncertain)" after the date wherever `cur_since` is used (headline, key facts, text) — Nyiragongo's "2002 May 17 (?)" would otherwise read as an exact date in the largest type on the page.
+
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
 - 2026-11-15 · Keeping database-only pages indexable — see D-01.
@@ -161,6 +164,12 @@ _last update: 2026-11-17 · VOL-018_
 - Chile's SERNAGEOMIN (both of its sites) refuses the fetch tool. Do not go around a refusal with another tool. A Chilean volcano needs another readable source with a current date (the Smithsonian's weekly reports relay the agency), or it waits.
 - The fetch tool's copy of a Smithsonian volcano page can be older than the site's data file and carries no Geological Summary. The data file is the record; take a summary sentence only from text that was actually read (a report page or search-result text), and say in the log how it was read.
 
+- Search-result text is a lead, not a reading. Fetch every source link with pointed questions before the page is written: on Nyiragongo the second reading changed four facts (the 1977 lava did not reach Goma; the Smithsonian's own bulletin counts about 100 dead for 2002; the homeless figures differ between sources; two Smithsonian reports put the airport on different sides of the city, so the page prints no side). A link the reader cannot open is not cited when a page that was read carries the fact.
+- Smithsonian addresses the fetch tool can read: `showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN…` (a bulletin; it also carries the Geological Summary: ask for it by name), `reports_weekly.cfm?weekstart=YYYYMMDD` (one week's report), `volcano.cfm?vn=<number>` (weekly and bulletin reports; the tool reads the first 100,000 characters and its copy can end months before today) and `gvp_currenteruptions.cfm`. These returned an error on 2026-11-17: `ShowReport.cfm?doi=10.5479/si.GVP.WVAR…`, `showreport.cfm?wvar=…` and `volcanolist_countries.cfm`.
+- The Smithsonian's RSS feed of the weekly report (what the site reads) has not changed since 15 Oct 2026; its site has later reports (checked 2026-11-17). Pages say so (D-50). Nothing on a page may lean on the feed being current.
+- Nyiragongo carries dated statements that go stale (`data/profiles/nyiragongo.json`): the Goma observatory's, as relayed by the Smithsonian (February 2023, March 2024), a satellite image of 5 Jul 2024, and the sentence "This page has no later report from the crater". At each data refresh read the Smithsonian's page for newer weekly reports. The observatory has no site the tool can read.
+- Land drawing: on a volcano that is erupting and stands on a cut band of land (D-47), the red conduit ends at the ground line; it used to run 18 px into the band and through the land label (Nyiragongo, both widths).
+
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
 - [P0] Krakatau: needs a way to show activity newer than the Smithsonian's list (hero line and strip) from PVMBG's own bulletins (MAGMA Indonesia; its aviation notices are in English), and a decision on the summit height (list 285 m, PVMBG 157 m). Sources found: doi.org/10.1038/s41467-019-12284-5 (2018 collapse: island from 320 m to 120 m, over 430 deaths per BNPB, landslide at 13:55:49 UTC on 22 Dec 2018).
@@ -168,7 +177,7 @@ _last update: 2026-11-17 · VOL-018_
 - [P1] Kilauea upkeep: at every data refresh re-read USGS's Eruption Information page and update the episode sentence, the lava level and the tallest fountain in `data/profiles/kilauea.json`.
 - [P0] Sources already found for the next pages (read them before writing; none is used yet): Sakurajima — data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/090_sakurajima.pdf (JMA catalogue, English). Eyjafjallajokull — en.vedur.is/volcanoes/about-volcanoes/eyjafjallajokull/ (1,666 m, ice-filled caldera 2.5 km wide; the 2010 details need a second Icelandic Met Office page). Cotopaxi — the IG-EPN teachers' guide of 2024 on igepn.edu.ec (Spanish). Krakatau — doi.org/10.1038/s41467-019-12284-5 (2018 collapse; the heights before and after still need the Indonesian agency's own statement).
 - [P0] Refresh `volcanoes.json` and the old profile headers to v. 5.4.0 with redirects for renamed records (own change); known header mismatches: Jan Mayen elevation, Kavachi and Fuji last eruption, the forced 2026 years.
-- [P0] Then the remaining 139 profiles.
+- [P0] Then the remaining 134 profiles (150 less the 16 rebuilt, Nyiragongo included).
 - [P1] `/latest-eruptions` still prints the full text of the Smithsonian's weekly reports. Cut it to facts and links when that page is rebuilt (D-18, D-22).
 - [P1] Country pages (46): counts and tables from the refreshed list with one rule for shared-border volcanoes; their own three looks.
 - [P1] Hubs: `/countries` as a data page; `/active-volcanoes` from the Smithsonian's continuing-eruptions flag; `/deadliest-eruptions` from NOAA's records; `/map` with all records; titles over 60 characters.
@@ -183,168 +192,14 @@ _last update: 2026-11-17 · VOL-018_
 - [P0] Villarrica: SERNAGEOMIN cannot be read (§4), the newest readable relay is the Smithsonian's report for 3–9 Sep 2026 (alert raised from Green to Yellow on 4 Sep 2026: more earthquakes, small explosions, a rising lava lake), and the Smithsonian's list (7 Aug 2026) predates that unrest. A page built now would print a ten-week-old status for a volcano on Yellow alert. Rebuild when the list is refreshed or a current relay can be read (try SENAPRED).
 - [P2] The street map prints place names in the local script (Japanese around Sakurajima), which a US reader cannot read. Look for a map layer with English labels whose terms allow use on a site with ads; until then the text says where the nearest city is.
 
-- [P2] All three frame typefaces are preloaded on every page, as before VOL-015. The mono face is used in a handful of places (the 404 page among them): check whether it earns its preload, and move Archivo and Caveat into `next/font/local` when the last page has the look (D-24).
+- [P2] All three frame typefaces are preloaded on every page, as before VOL-015. The mono face is used in a handful of places (the 404 page among them): check whether it earns its preload, and move Archivo and Caveat into `next/font/l- [P0] A general caldera drawing (rim, floor, the cones inside, sea where there is one) unlocks Ambrym (a 12-km caldera with two active cones, Benbow and Marum; same Vanuatu sources as Ambae), Rabaul, Masaya, Campi Flegrei and Kikai. The Kilauea drawing is specific to Kilauea.
+- [P1] Read the weekly report from the Smithsonian's site (`reports_weekly.cfm`) if its feed stays dead: `lib/weekly.ts` and `/latest-eruptions` read only the feed (§4).
+- [P2] Say on every page of an erupting volcano how the Smithsonian decides that an eruption is continuing (no break of three months or more, from its Current Eruptions page); only Nyiragongo's page says it so far.
+- [P2] Ambae: a shield drawing once a sourced height above the sea floor exists (the page says the outline is simplified).
+
+ocal` when the last page has the look (D-24).
 
 ## §6 Log (append-only, newest at bottom)
-### 2026-11-15 · VOL-001 AUDIT · chat · done
-- What: full site audit (production = main at e8bca73) and devlog bootstrap from repo evidence.
-- Files: `docs/audit-2026-11-15.md`, `DEVLOG.md`, `CLAUDE.md`
-- Verified: 1,289 production addresses fetched (399 → 404, 22 → 500); 380 pages parsed, all with the homepage canonical; 150 profiles compared with `volcanoes.json` (148 of 149 match on elevation, type, coordinates); render checks in headless Chrome at 1440 and 390 px.
-- Commit: 472c7f5 (audit doc, CLAUDE.md) + this commit (pushed: work branch only)
-- Notes: scores before fixes — sourcing 3, prose 2, design 3, Raptive 1 (of 10). Pages finished on all four: 0 of 213.
-
-### 2026-11-15 · VOL-002 WAVE1 · chat · done
-- What: per-page canonicals and Open Graph; server-rendered structured data; link resolver; database-only pages (noindex); made-up boxes, schema and stock photos removed; working maps and phone menu; normalized country tables; real counts; sitemap from routes; 404 page; icons; honest About / Contact / Privacy / Terms; /latest-eruptions dated from its feed.
-- Files: `app/**`, `components/**`, `lib/{site,gvp,routes,countryTable,data}.ts`, `public/` icons, `scripts/check-*.py`; 18 dead files deleted
-- Verified: `npx next build` exit 0 (218 static pages); `scripts/check-build.py` on the local build: 1,212 pages all 200, 0 broken links, 0 redirecting links, canonical = own URL on all, 213 indexable = 213 in sitemap, 999 noindex none in sitemap, one h1 each, no duplicate titles, no invalid JSON-LD, no forbidden strings; every address that answered 200 in production still does (870 checked), 153 former 404/500 now work; `scripts/check-render.py`: map markers = published count on 46 of 46 country pages, no blank rows or raw markup, 18 page types at 390 px with zero sideways scroll, map tiles loaded, menu opens with 8 links.
-- Unverified: hover and keyboard behaviour of the desktop dropdowns; real-phone test (owner).
-- Commit: 472c7f5 (pushed: work branch only)
-- Notes: scores after — sourcing 4.5, prose 2, design 4, Raptive 3.5. `tsc` clean outside the old test file.
-
-### 2026-11-15 · VOL-002 WAVE1 · chat · live
-- What: pull request #1 merged with a merge commit; Vercel production build for that commit finished READY.
-- Files: none beyond the merge; `scripts/check-build.py` now also crawls a remote site through the environment's proxy.
-- Verified: preview looked at in the owner's Chrome before the merge (home, Stromboli, Italy, Agung, /countries, /latest-eruptions, /about, a 404, desktop dropdown; four pages in 386 px frames: menu opens with 8 links, no sideways scroll, map tiles load). After the deploy, `scripts/check-build.py https://www.volcanosatlas.com`: 1,212 pages all 200, 0 broken links, canonical = own URL on every page, 213 indexable = 213 sitemap URLs, no invalid JSON-LD. Live pages opened in the owner's Chrome: home (150 markers, tiles load), Stromboli, United States (165 markers, 165 linked rows), /latest-eruptions (stale-feed notice shown).
-- Unverified: a real phone (the Chrome window could not be resized, so the phone check ran in narrow frames); desktop keyboard navigation.
-- Commit: 35cc4b0 (merged to main)
-- Notes: next is VOL-003, Wave 2, starting with the Stromboli profile.
-
-### 2026-11-15 · VOL-003 PILOT · chat · done
-- What: primary data pulled and checked (Smithsonian volcano and eruption layers, NOAA significant events), source registry and page map written, Stromboli copy written from verified sources only, three looks of that page drawn on the design canvas. No page of the site changed.
-- Files: `research/data-sources.csv`, `research/page-map.csv`, `research/pilots/stromboli.md`, `scripts/fetch-sources.py`
-- Verified: data-sourcing check on the registry and page map: RESULT OK, 7 verified, 0 warnings; fetch script ran (1,214 volcanoes, 11,089 eruptions, 903 NOAA events); six source links answered 200 and NOAA's page for the 1930 event shows the quoted figures; copy check: 0 machine-writing tells in 1,308 words, no paragraph over four sentences; looks rendered with their real fonts at 390, 1280 and 1700 px without sideways scroll; each look played full screen in the owner's Chrome and moved.
-- Unverified: the search-results page for "stromboli volcano" was not checked; in the owner's Chrome the looks were seen only at his 614 px window width.
-- Commit: this commit (pushed: work branch)
-- Notes: for the pilot copy, sourcing and prose pass; design waits for the pick; Raptive waits for the author's read and the Smithsonian's permission.
-
-### 2026-11-16 · VOL-004 RECORDPAGE · chat · done
-- What: the owner's pick built as the real Stromboli page: slim data files from the Smithsonian and NOAA, a text file with tokens, the strip chart and the animated section drawing drawn from the data, weekly-report box, map that loads on scroll. `DESIGN.md` and `PRODUCT.md` written. Also: host redirect for volcanoatlas.vercel.app, header menu breakpoint moved to 1024 px, owner's decision on the Smithsonian permission recorded.
-- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css,page.tsx}`, `components/record/`, `lib/{eruptions,recordProfile,weekly,volcanoAPIs,site}.ts`, `data/sources/`, `data/profiles/stromboli.json`, `public/fonts/`, `scripts/{build-data,fetch-sources}.py`, `next.config.ts`, `components/Header.tsx`, `DESIGN.md`, `PRODUCT.md`, `research/*.csv`
-- Verified: `npx tsc --noEmit` clean outside the old test file; `rm -rf .next && npx next build` exit 0 (218 static pages; /volcano/stromboli set to refresh hourly, other profiles static; data files present in the server function's file list); `scripts/check-build.py` on the local build: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, one h1 each, no invalid JSON-LD; `scripts/check-render.py`: Stromboli at 390 px without sideways scroll, map tiles load after scrolling, menu opens; page text carries the same figures as the checked pilot copy (92 years, 4th of 41 continuing eruptions, 6.5 of almost 169 years paused, 96%, 15 NOAA events, 13 deaths); NOAA's definition of a significant eruption re-read; pictures at 390, 768, 1024, 1280 and 1700 px looked at; animation frames at 1.5, 3.2 and 6.5 s show the line drawing, then the ring and the note, and the bubbles rising and bursting; registry check RESULT OK.
-- Unverified: the vercel.app redirect (takes effect only after the merge); a real phone; the search-results page for "stromboli volcano".
-- Commit: this commit (pushed: work branch)
-- Notes: for this page sourcing, prose and design pass on the checks above; Raptive waits for the author's read and the trust frame. Pages finished: still 0 of 213 until it is live.
-
-### 2026-11-16 · VOL-004 RECORDPAGE · chat · done (preview checked)
-- What: the preview of pull request #4 looked at in the owner's Chrome; the phone-size section drawing capped at 420 px wide so it fits one screen on mid-width windows.
-- Files: `app/volcano/[slug]/record.css`
-- Verified: in the owner's Chrome (window 586 px wide) on the preview: two pictures one second apart show the line drawing, and the bubbles moving in the section drawing; the map loads its tiles when scrolled to; the report box is filled from the feed on Vercel's servers; all 31 source marks point at an entry in the source list; no sideways scroll; an old profile (Etna) and a country page (Italy) look as before and load none of the new fonts. Rebuilt locally after the CSS change (build passes).
-- Unverified: desktop width in the owner's Chrome (his window could not be resized; desktop was checked in headless Chrome at 1024 to 1700 px); the full crawl was not repeated for the one-rule CSS change.
-- Commit: this commit (pushed: work branch)
-- Notes: the pull request stays open until the owner has seen the page.
-
-### 2026-11-17 · VOL-004 RECORDPAGE · chat · done (owner's change)
-- What: the owner looked at the preview ("look good but map should be higher up so user sees it quite quickly"). Map and its "Where is Stromboli?" section moved to the first place under the strip, beside the cut-open volcano; new map component in the page's look; report box and key facts form the next row. His name and the review day are on the page; /about names him (with Person markup); the page carries Article markup.
-- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `components/record/{RecordMap,LazyMap}.tsx`, `data/profiles/stromboli.json`, `lib/{site,recordProfile}.ts`, `app/about/page.tsx`, `DESIGN.md`
-- Verified: `npx tsc --noEmit` clean outside the old test file; `rm -rf .next && npx next build` exit 0; `scripts/check-build.py` on the local build: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, one h1 each, no invalid JSON-LD (Person on 1 page, Article on 1); `scripts/check-render.py`: Stromboli at 390 px without sideways scroll, map 298 px high with 6 of 6 tiles, menu opens, /about clean; pictures with real map tiles at 1280 and 390 px: map top at 856 px on desktop and 1,219 px on the phone; dragging is off under a touch pointer and on with a mouse; the strip's line is on the first screen at 390×664 while it draws.
-- Unverified: the preview and the live page in the owner's Chrome (logged in the next entry); the larger-map link target.
-- Commit: this commit (pushed: work branch)
-- Notes: section order on the page is now where, last, often, what, type, tall, old, danger, record.
-
-### 2026-11-17 · VOL-004 RECORDPAGE · chat · live
-- What: pull request #4 merged (merge commit 8c55406). The rebuilt Stromboli page is the live page; the Vercel project address now redirects to the www domain.
-- Files: none beyond the merge; this entry and the page map note
-- Verified: before the merge, the preview in the owner's Chrome at desktop width (1456 px): map with its tiles first under the strip beside the section drawing, author line, line drawing itself (two pictures a second apart), /about with the reviewer block; the larger-map link opens OpenStreetMap on the volcano. After the merge: Vercel production build of 8c55406 READY; https://www.volcanosatlas.com/volcano/stromboli answers 200 with its own canonical, index/follow and the author line; in the owner's Chrome on the live address the line draws, the map loads 6 tiles, both fonts load, no sideways scroll, all source marks resolve; volcanoatlas.vercel.app answers 308 to the same path on www (root and a deep page); the apex domain answers 308; /about, /, /volcano/etna and /sitemap.xml answer 200; the font file is served with a one-year immutable cache header.
-- Unverified: a real phone; how the page shows in search results (Search Console work waits for the finish line).
-- Commit: this commit (pushed: work branch)
-- Notes: pages finished 1 of 213.
-
-### 2026-11-17 · VOL-005 MAUNALOA · chat · done
-- What: scaled-content check written; template extended for a volcano that is not erupting (main number, strip of separate eruptions, shield drawing with three heights, USGS alert level, observatory summit height, exact lengths of time); Mauna Loa written from USGS, National Park Service, Smithsonian and NOAA sources. Stromboli's fixed texts moved into its profile file.
-- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `components/record/figures.tsx`, `lib/{eruptions,recordProfile,usgs}.ts`, `data/profiles/{mauna-loa,stromboli}.json`, `docs/preflight-record-pages.md`, `research/*.csv`, `scripts/check-render.py`, `DESIGN.md`, `PRODUCT.md`, `CLAUDE.md`
-- Verified: `npx tsc --noEmit` clean outside the old test file; eslint clean on the changed files; `rm -rf .next && npx next build` exit 0 (218 static pages; both record pages refresh hourly; both profiles and the three data files in the server function's file list); `scripts/check-build.py` on the local build: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, one h1 each, no invalid JSON-LD; `scripts/check-render.py`: Mauna Loa at 390 px without sideways scroll, map 298 px high with 6 of 6 tiles, menu opens; registry check RESULT OK (9 verified, 0 warnings); Stromboli against the live page: text differs only in two table cells and the NOAA deaths column (D-35, D-36), its four drawings are the same apart from their description text and a paper edge on year labels; every cited address answers 200 (volcano.si.edu answers 403 to curl, see §4); Mauna Loa prose: 1,449 words, 0 machine-writing tells, no paragraph over four sentences, 56 source marks all pointing at one of 11 entries; pictures at 390, 586 and 1456 px looked at, map with real tiles at both widths; frames show the line drawing, then the ring and note; the sea floor in the drawing is fully down when the whole drawing is on screen (measured at 1456×825 and 390×700).
-- Unverified: the preview in the owner's Chrome (next entry); a real phone; a browser without scroll-linked animation; the page while the USGS service is down (the box is then left out by code).
-- Commit: this commit (pushed: work branch)
-- Notes: not counted as finished until the owner has seen it: pages finished 1 of 213. Sourcing, prose and design pass on the checks above; Raptive waits for his read.
-
-### 2026-11-17 · VOL-005 MAUNALOA · chat · done (preview checked)
-- What: the preview of pull request #6 looked at in the owner's Chrome; a 23-hour share link made for him.
-- Files: this entry
-- Verified: Vercel preview build of 78f2fe2 READY. In the owner's Chrome (window 1512 px wide) on the preview: Mauna Loa shows the main number, then the red ring and note a second later; the strip is drawn; the map loads 6 tiles with the island in frame; the sea floor in the drawing is part-way down at one scroll position and fully down at the next; the waves moved between two readings a second apart; the USGS alert box is filled on Vercel's servers (NORMAL, GREEN, notice of November 6, 2026); 57 source marks all point at one of 11 entries; both fonts load; no sideways scroll. Stromboli on the same preview looks as it does live, with the two exact table cells and "Deaths recorded".
-- Unverified: phone width in his Chrome (checked in headless Chrome at 390 and 586 px); a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: the pull request stays open until the owner has seen the page. Pages finished 1 of 213.
-
-### 2026-11-17 · VOL-005 MAUNALOA · chat · done (owner approved)
-- What: the owner looked at the Mauna Loa preview and approved it ("superb", 2026-11-17 13:37 his time). His name and that day are on the page (`"reviewed": "2026-11-17"`), with Article markup pointing at /about#author.
-- Files: `data/profiles/mauna-loa.json`, this file
-- Verified: `npx tsc --noEmit` clean outside the old test file; `rm -rf .next && npx next build` exit 0 on the second run (the first stopped on a dropped font download, see §4); `scripts/check-build.py`: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, Article markup on 2 pages; byline row looked at in pictures at 390 and 1456 px.
-- Unverified: the byline on the preview in the owner's Chrome and the live page (next entry).
-- Commit: this commit (pushed: work branch)
-- Notes: pages finished 2 of 213 once it is live.
-
-### 2026-11-17 · VOL-005 MAUNALOA · chat · live
-- What: pull request #6 merged (35246c8) after the byline was looked at on the preview in the owner's Chrome.
-- Files: this entry
-- Verified: Vercel production build of 35246c8 READY. https://www.volcanosatlas.com/volcano/mauna-loa answers 200 with its own canonical, index/follow, Article markup and the byline, and is in the sitemap. In the owner's Chrome on www: main number, ring and note; strip drawn; map with 6 tiles; sea floor in the drawing fully down after scrolling to it; USGS alert box filled; no source mark without an entry; no sideways scroll. Stromboli on www looks as before.
-- Unverified: a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: pages finished 2 of 213.
-
-### 2026-11-17 · VOL-006 BATCH2 · chat · done
-- What: second batch after the owner's "do all pages like this". New drawing for a volcano on land (two heights to scale, crater, lava dome, earlier summit, lava only while erupting); land height around 148 volcanoes worked out from NOAA's ETOPO 2022 grid; dates and lengths of time printed no more exactly than the Smithsonian gives them (D-38, changes table cells on the two live pages); plain labels for every dating method; Mount St. Helens written from three USGS publications and Mount Erebus from NASA Earth Observatory, both with the Smithsonian's record and NOAA.
-- Files: `components/record/{figures,RecordMap,LazyMap}.tsx`, `app/volcano/[slug]/RecordPage.tsx`, `lib/{eruptions,recordProfile}.ts`, `scripts/{build-data,fetch-ground,check-render}.py`, `data/sources/{gvp-eruptions,etopo-ground}.json`, `data/profiles/{st-helens,erebus,stromboli}.json`, `research/*.csv`, `DESIGN.md`, `PRODUCT.md`, `CLAUDE.md`
-- Verified: `npx tsc --noEmit` clean outside the old test file; eslint clean on the changed files; `rm -rf .next && npx next build` exit 0; `scripts/check-build.py`: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, one h1 each, no invalid JSON-LD; `scripts/check-render.py`: both new pages at 390 px without sideways scroll, map tiles load (St. Helens 9 of 9, Erebus 6 of 6), menu opens; registry check RESULT OK (11 verified); Stromboli and Mauna Loa compared with the live pages: only the date cells, the "about" wording and two captions differ, strip lines and drawings unchanged; every cited address answers 200; both new pages read top to bottom and looked at in pictures at 390 and 1456 px, maps with real tiles.
-- Unverified: the preview in the owner's Chrome and the live pages (next entry); a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: for the owner to read, then his name goes on: /volcano/st-helens, /volcano/erebus. USGS counts 57 deaths for May 18, 1980, NOAA lists 61; the page prints both.
-
-### 2026-11-17 · VOL-006 BATCH2 preview · chat · done
-- What: looked at the preview of pull request 8 in the owner's Chrome before merging and fixed what it showed. The eruptions table hid its last column on a desktop (cells could not wrap); the area under the strip left a 300 px hole on Mount Erebus (D-41); the handwritten map name sat on the street map's "Ross Island" label (and Stromboli's on "Catanzaro": it now sits over the marker, in open sea); on a phone the lava burst ran into the summit label. Also: short tables now fit a phone without sideways scroll, and the "within ten days" sentence on Mount St. Helens is tied to the data by an `expect` line.
-- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `components/record/{figures,RecordMap}.tsx`, `lib/{eruptions,recordProfile}.ts`, `data/profiles/{erebus,st-helens}.json`, `scripts/check-render.py`, `DESIGN.md`
-- Verified: tsc and eslint clean; `rm -rf .next && npx next build` exit 0; crawl and render check re-run on that build (results in the pull request); every table measured at 1456 and 390 px on the four rebuilt pages: none scrolls sideways on a desktop, the NOAA tables fit a phone; pictures of the four pages at both widths looked at, Erebus map with real tiles.
-- Unverified: the second preview in the owner's Chrome and the live pages (next entry); a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: none
-
-### 2026-11-17 · VOL-006 BATCH2 · chat · live
-- What: pull request 8 merged (merge commit 9e8f4d3) after four previews; Mount St. Helens and Mount Erebus are live, and the date-precision, table and column changes are live on Stromboli and Mauna Loa.
-- Files: none beyond the pull request
-- Verified: every gate on the final commit (tsc, clean build, crawl 1,212 pages all 200 with 0 broken links and 213 indexable = sitemap, render check incl. the new desktop table check, registry OK); the four pages looked at on the previews in the owner's Chrome (maps with tiles, drawings, tables, columns); Vercel production build of 9e8f4d3 READY; on www.volcanosatlas.com in the owner's Chrome: all four pages 200, canonical on themselves, index/follow, map tiles load (9/9, 6/6, 6/6, 6/6), no table scrolls sideways at 1512 px, no raw markup, byline present on Stromboli and Mauna Loa and absent on the two new pages, USGS alert box shows on Mount St. Helens and Mauna Loa.
-- Unverified: a real phone (phone width checked in headless Chrome only).
-- Commit: 9e8f4d3 (merged)
-- Notes: four previews were needed because the first local checks ran at phone width only; the render check now covers desktop tables. Owner to read /volcano/st-helens and /volcano/erebus.
-
-### 2026-11-17 · VOL-007 KILAUEA · chat · done
-- What: Kilauea as a record page. New caldera drawing (summit cut across Halemaʻumaʻu: rim, caldera floor, the 2018 collapse pit, the lava that has refilled it, the tallest fountain to scale and moving). Text from nine USGS pages, the National Park Service, the Smithsonian's record and NOAA; every figure that changes is dated. New tokens: time in eruption to today (D-42), the eruption before the current one, the two longest eruptions, eruptions seen against eruptions dated afterwards, the caldera levels. Timeline label of a current eruption flips left when it would run off the strip; the status box spaces its two paragraphs; large death counts print with a comma.
-- Files: `data/profiles/kilauea.json`, `components/record/figures.tsx`, `lib/recordProfile.ts`, `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `scripts/check-render.py`, `research/*.csv`, `DESIGN.md`, `PRODUCT.md`
-- Verified: tsc and eslint clean; `rm -rf .next && npx next build` exit 0; crawl: 1,212 pages all 200, 0 broken links, canonical on themselves, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: five rebuilt pages at 1440 px with no table scrolling sideways, phone pages without sideways scroll, map tiles load; registry check OK; every cited address was fetched and read on 2026-11-17; drawing looked at in pictures at both widths, fountain seen at three heights a moment apart; map with real tiles at both widths (name over the marker, clear of the town label "Volcano"); the page read top to bottom at 1456 and 390 px.
-- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: for the owner to read, then his name goes on: /volcano/kilauea. USGS disagrees with itself in four places (summit against the rim overlook, crater fill, buildings lost in 2018, "most recent eruption" in its facts box); the registry notes say which figure the page prints.
-
-### 2026-11-17 · VOL-007 KILAUEA · chat · live
-- What: pull request 10 merged (merge commit 8fd3556) after two previews; Kilauea is live as a record page.
-- Files: none beyond the pull request
-- Verified: every gate on the final commit (tsc, eslint, clean build, crawl 1,212 pages all 200 with 0 broken links and 213 indexable = sitemap, render check on five rebuilt pages, registry OK); previews looked at in the owner's Chrome (hero, strip, map, drawing with the fountain at two heights, eruptions table, 2018 section with its callouts; Erebus strip label back in its place after the first preview moved it); Vercel production build of 8fd3556 READY; on www.volcanosatlas.com/volcano/kilauea in the owner's Chrome: 200, canonical on itself, index/follow, map tiles 6/6, fountain animation running, no table scrolling sideways at 1512 px, no raw markup, USGS alert box showing, no byline (by design).
-- Unverified: a real phone (phone width checked in headless Chrome only).
-- Commit: 8fd3556 (merged)
-- Notes: owner to read /volcano/kilauea, /volcano/st-helens and /volcano/erebus. Krakatau was started and stopped: see the new §4 line.
-
-### 2026-11-17 · VOL-008 EYJA · chat · done
-- What: Eyjafjallajokull as a record page, from the Icelandic Meteorological Office's page and the Icelandic authorities' 2012 report to ICAO, NASA JPL (pronunciation), Britannica (meaning of the name), the Smithsonian's record and NOAA. Template: `since_check` required for every volcano not listed as erupting and shown in the status box (D-45), added to Mauna Loa and Mount St. Helens; ice cap drawn as a pale wash with its name on the ice; caldera label's pointer follows the label's length; phone timeline thins its grid for records over 260 years and keeps year labels readable under a date tick; tokens for the eruption before the last one and NOAA's count in words.
-- Files: `data/profiles/{eyjafjallajokull,mauna-loa,st-helens}.json`, `components/record/figures.tsx`, `lib/recordProfile.ts`, `app/volcano/[slug]/RecordPage.tsx`, `research/*.csv`, `DESIGN.md`, `PRODUCT.md`, `CLAUDE.md`
-- Verified: see the pull request for the gate results of the final commit; drawing looked at in pictures at both widths; Mount St. Helens' drawing compared and unchanged; phone timelines of three pages looked at; the page read top to bottom at 1456 px.
-- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: for the owner to read: /volcano/eyjafjallajokull. IMO's overview page gives 1,666 m, its report and the Smithsonian 1,651 m; the page prints 1,651 m and says so.
-
-### 2026-11-17 · VOL-008 EYJA · chat · live
-- What: pull request 12 merged (merge commit 490ec5a) after one preview; Eyjafjallajokull is live as a record page and the dated observatory check is live on Mauna Loa and Mount St. Helens.
-- Files: none beyond the pull request
-- Verified: every gate on the final commit (tsc, eslint, clean build, crawl 1,212 pages all 200 with 0 broken links and 213 indexable = sitemap, render check on six rebuilt pages, registry OK with 12 verified); preview looked at in the owner's Chrome (hero, strip, map with tiles, drawing with the ice cap, status box, 2010 section and callouts) and the other five rebuilt pages fetched on it (200, no raw markup, notes and boxes as intended); Vercel production build of 490ec5a READY; on www.volcanosatlas.com/volcano/eyjafjallajokull in the owner's Chrome: 200, canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box showing the observatory check, no byline (by design).
-- Unverified: a real phone (phone width checked in headless Chrome only).
-- Commit: 490ec5a (merged)
-- Notes: pubs.usgs.gov did not answer two fetches of the Pinatubo fact sheet on 2026-11-17 (site error); try again before choosing another volcano.
-
-### 2026-11-17 · VOL-009 PINATUBO · chat · done
-- What: Mount Pinatubo as a record page, from USGS Fact Sheet 113-97, three chapters of Fire and Mud (1996), USGS's 2016 feature, the Smithsonian's record and reports, NOAA, and PHIVOLCS's monitoring page (Alert Level 0 on the day it was read). Template: D-46 (`last_span`, `table.last_length`, no rounding up of a time "so far"); `map_label: "left"`; `crater_depth_text` for a depth the source gives as a bound; the phone drawing drops the summit label's third line when it would touch the earlier-summit outline (this also changes Mount St. Helens' phone drawing); "In the Philippines" / "In the United States" in the related links.
-- Files: `data/profiles/pinatubo.json`, `components/record/{figures,RecordMap}.tsx`, `lib/{recordProfile,eruptions}.ts`, `app/volcano/[slug]/RecordPage.tsx`, `scripts/check-render.py`, `research/*.csv`, `DESIGN.md`
-- Verified: on the final code: tsc and eslint on the changed files clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 7 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (12 verified). Pictures looked at: the page at 1440 and 390 px, the drawing at both widths (and Mount St. Helens' phone drawing), the map with real tiles at both widths.
-- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
-- Commit: this commit (pushed: work branch)
-- Notes: for the owner to read: /volcano/pinatubo. Sources disagree and the page says so: deaths (USGS in 2016 more than 840, NOAA 800; the 1996 overview has 200 to 300 during the eruption itself), the height of the ash cloud and the SO2 mass (details in the registry notes). The summit loss of 259 m is calculated from USGS's old height and the Smithsonian's current one.
-
 ### 2026-11-17 · VOL-009 PINATUBO · chat · live
 - What: pull request 14 merged (merge commit e82ed84) after one preview; Mount Pinatubo is live as a record page, with the template changes of D-46.
 - Files: none beyond the pull request
@@ -497,8 +352,17 @@ _last update: 2026-11-17 · VOL-018_
 - Commit: 40061be (merged)
 - Notes: correction to the entry above: Vanuatu does have a country page (/volcanoes-in-vanuatu) and the Ambae page links it; the note saying otherwise came from a faulty local check. §6 now has 39 entries: the next entry triggers the move of the oldest 20 to DEVLOG-ARCHIVE.md.
 
+### 2026-11-17 · VOL-019 NYIRAGONGO · chat · done
+- What: Nyiragongo as a record page (erupting since May 17, 2002, date uncertain, by the Smithsonian's list), from two Smithsonian bulletins, its page for the volcano with the weekly reports, its Current Eruptions page, three USGS Volcano Watch articles, a study in the USGS catalog and NOAA. Template: a stale weekly feed is no longer called the latest (D-50); an uncertain start date says so in the headline (D-51); the conduit in the land drawing stops at the ground line on a cut band (§4). The 20 oldest entries of this log moved to DEVLOG-ARCHIVE.md.
+- Files: `data/profiles/nyiragongo.json`, `app/volcano/[slug]/RecordPage.tsx`, `lib/recordProfile.ts`, `components/record/figures.tsx`, `scripts/check-render.py`, `research/*.csv`, `DEVLOG-ARCHIVE.md`
+- Verified: on the final code: tsc clean; eslint clean on the three changed code files; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 16 rebuilt pages ok at 1440 px, phone pages without sideways scroll, map tiles 6/6 on Nyiragongo; registry check OK. Pictures looked at: the page's top and middle at 1440 px, the phone page down to the 2002 section, the drawing at both widths (and Kanlaon's, unchanged), the map with real tiles and the name on four sides. The nine report and article links on the page were fetched and read on 2026-11-17; Kanlaon's status box read on the build ("Weekly report of October 8–14, 2026 … not been updated since October 15, 2026").
+- Unverified: the preview and the live page in the owner's Chrome (next entry); a real phone; the lower third of the page (type, frequency, danger, record) checked as text only. The Goma observatory's own pages were not read: its statements come through the Smithsonian's reports, and the newest report read is for July 3–9, 2024 (the reader's copy of the Smithsonian's page may end before its newest report; the page says it has no later report from the crater).
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/nyiragongo. Ambrym was looked at first and deferred: it needs a caldera drawing (§5).
+
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
 - 2026-03 · ads.txt added (03-16)
 - 2026-04 · "A1–A5" rendering fixes: wiki links, bold markup, title suffixes, recent-activity dates, key-facts accessors (04-20 to 04-22); schema components and `SEO-AUDIT-REPORT.md` (04-29)
 - 2026-06 · root canonical moved from the vercel.app address to the www homepage — still one canonical for every page; OG image replaced (06-08)
+- 2026-11-17 · VOL-001…VOL-009 (20 entries, 2026-11-15 to 2026-11-17) → DEVLOG-ARCHIVE.md · the audit, the first fix wave, the pilot, the record page and its look (Stromboli), Mauna Loa, batch 2 (Mount St. Helens, Mount Erebus), Kilauea, Eyjafjallajokull and the build of Mount Pinatubo

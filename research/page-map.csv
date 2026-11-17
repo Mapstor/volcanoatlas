@@ -145,7 +145,7 @@ volcano/mutnovsky,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pe
 volcano/niuafo-ou,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/novarupta,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/nyamulagira,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/nyiragongo,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/nyiragongo,volcanoes,data,informational,"the three flank eruptions since 1977 (1977, 2002, 2021; the last two reached Goma), each with its numbers and where they come from, including where the sources disagree (the dead of 1977 and 2002, the homeless of 2002); the Smithsonian’s single continuing eruption since 2002 with its uncertain start date said plainly and its rule for “continuing”; the Geological Survey’s note, three weeks before May 2021, that the lava lake stood as high as before 1977 and 2002",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 14); also uses noaa-ncei-volcano, gvp-weekly, observatory-pages, observatory-usgs and noaa-etopo; every source link was fetched and read on 2026-11-17; the observatory was read only through the Smithsonian's relays; waits for the owner's read before his name goes on"
 volcano/okataina,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/orizaba-pico-de,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/pacaya,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

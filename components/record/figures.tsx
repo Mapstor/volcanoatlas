@@ -417,7 +417,8 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
           <path d={teeth} fill="none" stroke={PAL.ink} strokeWidth={0.8} strokeLinejoin="round" />
         </>
       )}
-      {active && <path d={`M${f(cx + 3)} ${f(groundY + (onWater ? 0 : Math.min(18, seaY - groundY)))} C${f(cx + 4)} ${f(groundY - H * 0.3)} ${f(cx - 3)} ${f(ventY + H * 0.35)} ${f(cx)} ${f(ventY + 2)}`} fill="none" stroke={PAL.lava} strokeWidth={compact ? 5 : 6} strokeLinecap="round" />}
+      {/* the conduit stops at the ground line when the land label sits inside the band, so it never runs through the label */}
+      {active && <path d={`M${f(cx + 3)} ${f(groundY + (onWater ? 0 : tall ? 4 : Math.min(18, seaY - groundY)))} C${f(cx + 4)} ${f(groundY - H * 0.3)} ${f(cx - 3)} ${f(ventY + H * 0.35)} ${f(cx)} ${f(ventY + 2)}`} fill="none" stroke={PAL.lava} strokeWidth={compact ? 5 : 6} strokeLinecap="round" />}
       <path d={outline} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
       {active && (
         <>

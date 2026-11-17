@@ -83,7 +83,7 @@ export interface RecordProfile {
     ground?: 'etopo' | number;
     ground_source?: string;
   };
-  /** note_weekly replaces note while the volcano is in the newest weekly report; it may use {period}. */
+  /** note_weekly replaces note while the volcano is in the newest weekly report and the feed is fresh; it may use {period}. */
   big: { line: string; number: string; unit: string; note: string; note_weekly?: string };
   lede: string;
   answer: string;
@@ -256,10 +256,14 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   }
   // current eruption and its place among continuing ones
   if (stats.currentStart && stats.currentLast) {
-    // the start is written no more exactly than the record gives it; "at least" when the record only has an upper limit
+    // the start is written no more exactly than the record gives it: "at least" when the record only has an upper
+    // limit, "(date uncertain)" when the record puts a question mark on the day
     const startPrecision = precisionOf(stats.current?.sdunc);
     set('cur_start', dateText(stats.currentStart, startPrecision, true));
-    set('cur_since', `${stats.current?.sdmod === '<' ? 'at least ' : ''}${dateText(stats.currentStart, startPrecision, true)}`);
+    set(
+      'cur_since',
+      `${stats.current?.sdmod === '<' ? 'at least ' : ''}${dateText(stats.currentStart, startPrecision, true)}${stats.current?.sdmod === '?' ? ' (date uncertain)' : ''}`,
+    );
     set('cur_start_year', stats.currentStart[0]);
     set('cur_last', longDate(stats.currentLast));
     set('cur_years', stats.currentYears);
