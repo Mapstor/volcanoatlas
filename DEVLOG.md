@@ -2,10 +2,10 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-016_
+_last update: 2026-11-17 · VOL-017_
 - Step: all pages — the ten-page step is complete; 13 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal, Mount Pelee, Mount Asama (/volcano/asamayama) and Kanlaon without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 13 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 11 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama, Kanlaon).
-- Last confirmed: VOL-016 KANLAON — live (8f54de0): Kanlaon as a record page and the alert level on Sakurajima's page (see §6). VOL-015 FONTS — live (c911be5).
+- Last confirmed: VOL-016 KANLAON — live (8f54de0). VOL-017 BULUSAN — done (pushed on its work branch): Bulusan as a record page; times that run to today now count whole months only; preview look, merge and live check follow.
 - In flight (handed, NOT confirmed): none
 - Next action: the next volcano pages by search demand among those whose observatory can be read and whose shape an existing drawing fits: Bulusan (PHIVOLCS, same sources as Kanlaon), Ambae and Ambrym (Vanuatu), Nyiragongo, Colima, Galeras and Nevado del Ruiz (Colombia's survey), Momotombo and Masaya (Nicaragua), then on down the list. Deferred, each with its reason in §5: Krakatau, Novarupta, Rabaul, Villarrica; Grimsvotn, Kikai and Campi Flegrei need a drawing of their own too (ice-covered or sea-flooded calderas). Research notes of a volcano go into a notes file as each source is read. Each page: data sheet from the site's own files, observatory read incl. its current statement, profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged only on a green status, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama and Kanlaon are new since then. On 2026-11-17 20:18 he wrote "font ok, lets just continue": fonts answered (VOL-015), no pages named, so still no new bylines.
@@ -82,6 +82,7 @@ _last update: 2026-11-17 · VOL-016_
 
 - D-46 · 2026-11-17 · Lengths of time agree with each other on a page: a time that runs to today is never rounded up into a year that has not passed (the table's "so far" and the big number say the same), an eruption that began and ended on one day prints as one date, and a length a report gives more exactly than the dates do may replace the calculated one for the newest eruption (`table.last_length`, with the source named under the table) — a table said "5 years so far" beside a headline "4 years ago", and "1 day" beside a text that said four minutes.
 
+- D-49 · 2026-11-17 · A length of time that runs to today ("so far", "ago") counts whole months only and is never rounded up — on Bulusan the table said "19 months so far" beside a headline of 18 months; D-46 had only stopped the rounding at a year's end.
 - D-47 · 2026-11-17 · A volcano on a high plateau gets the band of land under it cut short with a break mark in the drawing (when the land is higher above the sea than 1.2 times the volcano's height above the land); everything above the land stays to scale and the caption says the band is cut — at one scale Cotopaxi's 3,750 m of land made a grey block twice as tall as the cone.
 
 - D-48 · 2026-11-17 · The typefaces of the site's frame (Playfair Display, Source Sans 3, JetBrains Mono) ship with the site: `next/font/local`, files in `app/fonts`, licences in `public/fonts`; Tailwind's font families point at the CSS variables — preview builds failed at random on the download from Google (pull requests 17 and 20), and `next/font/local` gives the families names of its own, so the literal Google names in Tailwind would have fallen back to Georgia without any error. Owner's yes: "font ok" (2026-11-17).
@@ -462,6 +463,14 @@ _last update: 2026-11-17 · VOL-016_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: 8f54de0 (merged)
 - Notes: the Smithsonian's weekly feed has not been updated since October 15, 2026; the pages say so in the status box.
+
+### 2026-11-17 · VOL-017 BULUSAN · chat · done
+- What: Bulusan as a record page (last eruption April 28–29, 2025; Alert Level 1 read 2026-11-17, raised on March 22, 2026), from the Philippine agency's alert-status page, five of its bulletins and its eruption-history table, the Smithsonian's weekly reports and 2006 bulletin, and NOAA. Template: a time that runs to today counts whole months only (D-49), which changes the last table row on the quiet volcanoes' pages by at most one month.
+- Files: `data/profiles/bulusan.json`, `lib/eruptions.ts`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean, eslint clean on the changed file; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 14 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Table and headline compared on eight quiet-volcano pages after the change (they agree). Pictures looked at: page top and middle at 1440 px, the phone page, the drawing at both widths, the map with real tiles and the name on four sides.
+- Unverified: the preview and the live page in the owner's Chrome (next entry); a real phone. The PHIVOLCS bulletins and the Smithsonian's report of May 2026 were read as search-result text; the fetched copy of the Smithsonian's page ends in January 2024.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/bulusan. The page gives no date for the return from Level 1 to Level 0 between April 2025 and March 2026 (not found).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)

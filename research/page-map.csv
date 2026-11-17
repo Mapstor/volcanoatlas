@@ -73,7 +73,7 @@ volcano/bardarbunga,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild 
 volcano/barren-island,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/bezymianny,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/blanco-cerro,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/bulusan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/bulusan,volcanoes,data,informational,"the alert level and what set it off, with dates (475 earthquakes in a week in March 2026); the two steam explosions of April 2025 by the clock from the agency’s bulletins; how earthquake swarms have come before its explosions",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 12); also uses noaa-ncei-volcano, gvp-weekly, observatory-pages and noaa-etopo; carries dated observatory figures to refresh; waits for the owner's read before his name goes on"
 volcano/calbuco,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/campi-flegrei,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/chaiten,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
