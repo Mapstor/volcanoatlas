@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-006_
-- Step: ten pages — 5 of the ten built: Stromboli and Mauna Loa live with the owner's review; Mount St. Helens and Mount Erebus live since 2026-11-17 without his name; Kilauea built 2026-11-17 (pull request open at the time of writing). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt: 5 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 3 (Mount St. Helens, Mount Erebus, Kilauea).
-- Last confirmed: VOL-007 KILAUEA — Kilauea as a record page with a caldera drawing (see §6).
+_last update: 2026-11-17 · VOL-007_
+- Step: ten pages — 5 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus and Kilauea live since 2026-11-17 without his name until he has read them. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 5 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 3 (Mount St. Helens, Mount Erebus, Kilauea).
+- Last confirmed: VOL-007 KILAUEA — live (8fd3556): Kilauea as a record page with a caldera drawing (see §6).
 - In flight (handed, NOT confirmed): none
-- Next action: Krakatau, then Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, Rabaul, Pinatubo, Arenal and the rest by search demand. Source addresses already found are in §5. Each page: data sheet from the site's own files, observatory pages read, profile written, checks (crawl, render check with the desktop table check), map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: Krakatau, then Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, Rabaul, Pinatubo, Arenal and the rest by search demand. Krakatau first needs a rule for a volcano that is erupting while the Smithsonian's list still ends in 2024 (see §4). Source addresses already found are in §5. Each page: data sheet from the site's own files, observatory pages read, profile written, checks (crawl, render check with the desktop table check), map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: reading Mount St. Helens, Mount Erebus and Kilauea; his name and the date go on after he says so.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -133,6 +133,7 @@ _last update: 2026-11-17 · VOL-006_
 - `research/*.csv` are edited as text or written back with their own line ending and quoting: a plain `csv.DictWriter` pass rewrote every line of the page map. In the page map `data_source` is one registry name; other sources go in `notes`.
 - The development server (`next dev`) can start with the same dropped font download as the build and then answers 500 forever: stop it, `rm -rf .next`, start again.
 - Kilauea carries dated statements that go stale: the episode count (56 on 5 Nov 2026), the lava level (30 Jun 2026) and the tallest fountain. They sit in `data/profiles/kilauea.json` (text and `section.cut`) and come from USGS's Eruption Information page.
+- The Smithsonian's eruption list can lag the volcano by months. Krakatau, read 2026-11-17: the list's last eruption ends February 20, 2024, while Indonesia's volcano agency (PVMBG, through MAGMA Indonesia) reported eruptions through 2026 at alert level III; news reports of September 2026 quote its bulletins. A page must not print "last erupted" from the list alone when the observatory says otherwise: read the observatory's current bulletin before writing any page, and give such a page a sourced, dated activity line. The list also gives Krakatau's summit as 285 m while PVMBG's 2026 bulletins imply 157 m (ash 250 m above the peak = 407 m above sea level).
 
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
@@ -277,6 +278,14 @@ _last update: 2026-11-17 · VOL-006_
 - Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read, then his name goes on: /volcano/kilauea. USGS disagrees with itself in four places (summit against the rim overlook, crater fill, buildings lost in 2018, "most recent eruption" in its facts box); the registry notes say which figure the page prints.
+
+### 2026-11-17 · VOL-007 KILAUEA · chat · live
+- What: pull request 10 merged (merge commit 8fd3556) after two previews; Kilauea is live as a record page.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (tsc, eslint, clean build, crawl 1,212 pages all 200 with 0 broken links and 213 indexable = sitemap, render check on five rebuilt pages, registry OK); previews looked at in the owner's Chrome (hero, strip, map, drawing with the fountain at two heights, eruptions table, 2018 section with its callouts; Erebus strip label back in its place after the first preview moved it); Vercel production build of 8fd3556 READY; on www.volcanosatlas.com/volcano/kilauea in the owner's Chrome: 200, canonical on itself, index/follow, map tiles 6/6, fountain animation running, no table scrolling sideways at 1512 px, no raw markup, USGS alert box showing, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 8fd3556 (merged)
+- Notes: owner to read /volcano/kilauea, /volcano/st-helens and /volcano/erebus. Krakatau was started and stopped: see the new §4 line.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
