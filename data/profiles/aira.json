@@ -1,0 +1,231 @@
+{
+ "slug": "aira",
+ "volcano_number": 282080,
+ "name": "Sakurajima",
+ "country": "Japan",
+ "title": "Sakurajima Volcano: Current Eruption, Height & Facts",
+ "description": "Sakurajima has been erupting since 2017 by the Smithsonian’s list. Its height, the 1914 eruption that joined the island to the mainland, and every eruption on record.",
+ "h1": "Sakurajima Volcano",
+ "facts": {
+  "count_from": 1779
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "at the Minamidake summit crater",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Sakurajima was an island until January 1914, when lava filled the strait between it and the Osumi Peninsula. By the Smithsonian’s list it has been erupting for nearly all of the time since 1955, across the bay from Kagoshima, a city of about 600,000 people. Below: what it is doing now, how tall it is, what happened in 1914, and every eruption on record.",
+ "answer": "**Sakurajima is erupting.** The Smithsonian lists an eruption at its Minamidake summit crater that began on {cur_since} and was continuing at the list’s last update.[[gvp]] It is a **composite volcano** (a stratovolcano) in Kagoshima Bay, Japan, **{summit_ft} ft ({summit_m} m)** high.[[jma]] The Smithsonian files it under the name of the caldera it stands on, Aira.[[gvp]]",
+ "timeline": {
+  "from": 1770,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1779.85,
+    "label": "1779"
+   },
+   {
+    "year": 1914.03,
+    "label": "1914"
+   },
+   {
+    "year": 1955.78,
+    "label": "1955"
+   },
+   {
+    "year": 2017.23,
+    "label": "2017"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The long raised stretch from 1955 is a single eruption on the list; the one still going began after a short break in 2017. The spike at 1914 is the eruption that joined the island to the Osumi Peninsula.[[jma]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "an island until 1914",
+  "caption": "Sakurajima as a simple outline rising from Kagoshima Bay. Only the summit height is to scale.[[jma]] The real mountain has two main peaks: Kitadake, the highest, and Minamidake, 3,478 ft (1,060 m), where the active crater is.[[jma]]"
+ },
+ "map_zoom": 9,
+ "table": {
+  "rows": 6,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Sakurajima?",
+   "map": true,
+   "paras": [
+    "Sakurajima stands in Kagoshima Bay, Japan, at {coords}.[[gvp]] It sits on the southern rim of the Aira caldera, a basin 11 miles (17 km) from north to south and 14 miles (23 km) from east to west.[[jma]] The city of Kagoshima is across the water to the west: the weather agency’s observatory there is about 7 miles (11 km) from the summit crater.[[jma]] Sakurajima is one of {n_country} volcanoes in [Japan](/volcanoes-in-japan) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Sakurajima erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. An eruption at the Minamidake summit crater began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]]",
+    "It followed a much longer one, which the list runs from {prev_start} to {prev_end}.[[gvp]]",
+    "Japan’s weather agency counted the explosions of those decades year by year: 474 at the summit crater in 1985, fewer than 20 a year from 2003, and then 994 in 2011 at the Showa crater, which had come back to life in 2006 after 58 years.[[jma]]"
+   ]
+  },
+  {
+   "id": "1914",
+   "h": "What happened in the 1914 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "Until 1914 Sakurajima was an island.[[jma]] On the morning of **January 12, 1914**, hot water surged from the ground at about 8:30, and at about 10:00 an eruption broke out on the west flank. At 6:29 that evening a magnitude 7.1 earthquake struck.[[jma]]",
+    "Lava began to flow at 8 p.m. on January 13. The flow on the southeast side reached the Seto strait and closed it on January 29, joining the island to the Osumi Peninsula. A second flow, on the west side, reached the sea and kept moving for about two weeks.[[jma]]",
+    "The eruption put out about 0.4 cubic miles (1.58 cubic km) of magma, and its ash fell as far away as Sendai.[[jma]]",
+    "The eruption and the earthquake together killed 58 people and injured 112, by the weather agency’s catalogue. About 2,140 buildings were buried or burned, and the earthquake brought down about 120 more.[[jma]] NOAA’s database gives a slightly higher death count, shown in the table further down.[[noaa]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Sakurajima?",
+   "paras": [
+    "Sakurajima’s highest point is Kitadake, also called Ontake, at **{summit_ft} ft ({summit_m} m)**.[[jma]][[gvp]] The active crater is on Minamidake, a second peak that reaches 3,478 ft (1,060 m).[[jma]]",
+    "The peninsula as a whole measures 7.6 miles (12.2 km) from east to west and 5.9 miles (9.5 km) from north to south, and is 32 miles (52 km) around.[[jma]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Sakurajima?",
+   "paras": [
+    "Sakurajima is a **composite volcano**, the kind also called a [stratovolcano](/types-of-volcanoes), built of andesite and dacite.[[jma]] It grew on the southern rim of the Aira caldera. That is why the Smithsonian lists it under the name Aira and gives its type as a caldera.[[jma]][[gvp]]",
+    "It is two volcanoes in one. Kitadake came first, in one phase about 26,000 to 24,000 years ago and a second from 13,000 to about 5,000 years ago. Then the main vent moved south and built Minamidake.[[jma]] The eruptions of historical time have come from Minamidake’s summit crater or from the flanks.[[jma]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Sakurajima erupt?",
+   "paras": [
+    "Almost constantly on a small scale, and rarely on a large one. The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}.[[gvp]]",
+    "Four times in recorded history it has had a far larger eruption from its flanks: in 764, from 1471 to 1476, from 1779 to 1782, and in 1914. Each began as a plinian eruption and went on to pour out a large volume of lava.[[jma]]",
+    "The eruption that began on November 8, 1779 was the largest of the four by volume, about 0.45 cubic miles (1.86 cubic km) of magma. It came with eruptions under the sea and tsunamis, and it killed more than 150 people.[[jma]] In 1946 lava flowed once more, from the Showa crater.[[jma]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Sakurajima dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings in Japan, use the Japan Meteorological Agency.[[jmawarn]]",
+   "paras": [
+    "People live close to it. In 2011 the Sakurajima area had 5,262 residents, and the city of Kagoshima, across the bay, had 608,219.[[jma]]",
+    "Japan’s weather agency monitors the volcano continuously and has set alert levels for it since December 1, 2007. Level 3 means do not approach the volcano, and at Levels 1 to 3 nobody may go within 1.2 miles (2 km) of the Minamidake or Showa craters.[[jma]] The level in force today is on the agency’s warnings page.[[jmawarn]]",
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for the volcano. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Sakurajima’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record, kept under the name Aira, has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "January 1914",
+ "callouts": [
+  {
+   "number": "58",
+   "unit": "deaths",
+   "text": "People killed by the eruption and the magnitude 7.1 earthquake that came with it. Another 112 were injured.",
+   "source": "Source: Japan Meteorological Agency.[[jma]]"
+  },
+  {
+   "number": "2,140",
+   "unit": "buildings",
+   "text": "Buried or burned, in round numbers. The earthquake brought down about 120 more.",
+   "source": "Source: Japan Meteorological Agency.[[jma]]"
+  }
+ ],
+ "faq_h": "Sakurajima questions and answers",
+ "faq": [
+  [
+   "Is Sakurajima erupting now?",
+   "By the Smithsonian’s list, yes. The current eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}."
+  ],
+  [
+   "Where is Sakurajima?",
+   "In Kagoshima Bay, Japan, across the water from the city of Kagoshima."
+  ],
+  [
+   "How tall is Sakurajima?",
+   "{summit_ft} ft ({summit_m} m) at Kitadake, its highest peak. Minamidake, where the active crater is, reaches 3,478 ft (1,060 m)."
+  ],
+  [
+   "Is Sakurajima an island?",
+   "Not since 1914. Lava from that year’s eruption filled the Seto strait and joined it to the Osumi Peninsula."
+  ],
+  [
+   "What type of volcano is Sakurajima?",
+   "A composite volcano, also called a stratovolcano, on the southern rim of the Aira caldera."
+  ],
+  [
+   "When was Sakurajima’s last big eruption?",
+   "In January 1914. It killed 58 people, by the count of Japan’s weather agency, and put out about 0.4 cubic miles (1.58 cubic km) of magma."
+  ],
+  [
+   "Why does the Smithsonian call it Aira?",
+   "Aira is the caldera, 11 by 14 miles across, on whose southern rim Sakurajima stands. The Smithsonian’s list files the volcano under the caldera’s name."
+  ],
+  [
+   "How many people live near Sakurajima?",
+   "In 2011 the Sakurajima area had 5,262 residents and the city of Kagoshima had 608,219, by the weather agency’s catalogue."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Aira record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=282080"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jma",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 90. Sakurajima",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/090_sakurajima.pdf"
+  },
+  {
+   "id": "jmawarn",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic Warnings (map of warnings and alert levels in force)",
+   "url": "https://www.jma.go.jp/bosai/map.html#8/33.402/131.759/&contents=volcano&lang=en"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "Feet and miles are converted from the metric figures in the sources and rounded.",
+  "This page uses the name Sakurajima. The Smithsonian’s list files the volcano under Aira, the caldera it stands on."
+ ],
+ "expect": {
+  "cur_since": "March 25, 2017",
+  "prev_start": "October 13, 1955",
+  "prev_end": "August 22, 2016",
+  "summit_m": "1,117",
+  "n_all": "48",
+  "noaa_n": "15",
+  "worst_deaths": "153",
+  "worst_date": "November 8, 1779"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null
+}

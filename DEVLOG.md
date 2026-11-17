@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-010_
+_last update: 2026-11-17 · VOL-011_
 - Step: ten pages — 8 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo and Cotopaxi live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 8 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 6 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi).
-- Last confirmed: VOL-010 COTOPAXI — live (54df3cc): Cotopaxi as a record page (see §6).
+- Last confirmed: VOL-011 SAKURAJIMA — done: Sakurajima (the Smithsonian's Aira) as a record page (see §6). Before it: VOL-010 COTOPAXI live (54df3cc).
 - In flight (handed, NOT confirmed): none
-- Next action: Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: merge and check Sakurajima live if its pull request is still open; then Arenal, Rabaul and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo and Cotopaxi are new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -145,6 +145,9 @@ _last update: 2026-11-17 · VOL-010_
 
 - A web address that was only named in a fetched page's summary cannot be fetched without the owner's approval (Instituto Geofísico's home page, 2026-11-17). Search with the site's domain as the only allowed domain: its pages then come back as results and can be read.
 
+- A pull request is merged only when its commit status reads success. On 2026-11-17 a notebook-only pull request (17) was merged although its preview build had failed, because the shell loop that waited for the status did not stop the chain; the production build of the same commit passed and the site was not affected. Check the status in the same command that merges, and stop on anything but success.
+- Japan's weather agency shows the warnings in force on a map that needs JavaScript; it cannot be read by a plain fetch. A page links it for the level in force and states no current level.
+
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
 - [P0] Krakatau: needs a way to show activity newer than the Smithsonian's list (hero line and strip) from PVMBG's own bulletins (MAGMA Indonesia; its aviation notices are in English), and a decision on the summit height (list 285 m, PVMBG 157 m). Sources found: doi.org/10.1038/s41467-019-12284-5 (2018 collapse: island from 320 m to 120 m, over 430 deaths per BNPB, landslide at 13:55:49 UTC on 22 Dec 2018).
@@ -162,6 +165,8 @@ _last update: 2026-11-17 · VOL-010_
 - [P2] Licensed imagery; final map tiles.
 - [P2] Raptive readiness pass, logged human review of the top 30 pages, freeze for three months.
 - [P2] Clean-up: 66 lint findings; old helper scripts in `scripts/*.js`; stray audit files at the repo root; unused `next-sitemap` dependency; unused `UNSPLASH_ACCESS_KEY` variable in Vercel.
+
+- [P2] The street map prints place names in the local script (Japanese around Sakurajima), which a US reader cannot read. Look for a map layer with English labels whose terms allow use on a site with ads; until then the text says where the nearest city is.
 
 ## §6 Log (append-only, newest at bottom)
 ### 2026-11-15 · VOL-001 AUDIT · chat · done
@@ -346,6 +351,14 @@ _last update: 2026-11-17 · VOL-010_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: 54df3cc (merged)
 - Notes: research notes for the next volcanoes go to a notes file in the session as each source is read (started with Cotopaxi).
+
+### 2026-11-17 · VOL-011 SAKURAJIMA · chat · done
+- What: Sakurajima as a record page at /volcano/aira (the Smithsonian files it under Aira; the page says so once), from the Japan Meteorological Agency's catalogue chapter, the Smithsonian's record and NOAA. No template change. §4 gained the rule that a merge waits for a green status.
+- Files: `data/profiles/aira.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 9 rebuilt pages ok at 1440 px, phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the page at 1440 px, the drawing at phone width, the map with real tiles at both widths.
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone. The Smithsonian's own page for Aira was not read in this session; the record comes from the site's copy of its list.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/aira. The agency's warnings map could not be read, so the page links it and states no current alert level. Deaths in 1914: the agency's 58 in the text, NOAA's higher count in its table. Map labels around the volcano are in Japanese (backlog).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
