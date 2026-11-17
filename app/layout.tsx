@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Playfair_Display, Source_Sans_3, JetBrains_Mono } from 'next/font/google';
+import localFont from 'next/font/local';
 import "./globals.css";
 import HeaderWrapper from "@/components/HeaderWrapper";
 import Footer from "@/components/Footer";
@@ -9,25 +9,33 @@ import Script from 'next/script';
 import JsonLd from '@/components/JsonLd';
 import { SITE_NAME, SITE_URL } from '@/lib/site';
 
-const playfairDisplay = Playfair_Display({
-  subsets: ['latin'],
-  weight: ['400', '700', '900'],
+// The three typefaces of the site's frame ship with the site: variable fonts, Latin subset, in app/fonts
+// (licences in public/fonts). A build never waits on a download from Google.
+const playfairDisplay = localFont({
+  src: './fonts/playfair-display-latin-wght-normal.woff2',
+  weight: '400 900',
+  style: 'normal',
   variable: '--font-display',
   display: 'swap',
+  adjustFontFallback: 'Times New Roman',
 });
 
-const sourceSans3 = Source_Sans_3({
-  subsets: ['latin'],
-  weight: ['300', '400', '500', '600', '700'],
+const sourceSans3 = localFont({
+  src: './fonts/source-sans-3-latin-wght-normal.woff2',
+  weight: '200 900',
+  style: 'normal',
   variable: '--font-sans',
   display: 'swap',
+  adjustFontFallback: 'Arial',
 });
 
-const jetbrainsMono = JetBrains_Mono({
-  subsets: ['latin'],
-  weight: ['300', '400', '500', '600', '700'],
+const jetbrainsMono = localFont({
+  src: './fonts/jetbrains-mono-latin-wght-normal.woff2',
+  weight: '100 800',
+  style: 'normal',
   variable: '--font-mono',
   display: 'swap',
+  adjustFontFallback: 'Arial',
 });
 
 export const metadata: Metadata = defaultMetadata;

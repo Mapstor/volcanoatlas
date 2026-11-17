@@ -2,13 +2,13 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-014_
+_last update: 2026-11-17 · VOL-015_
 - Step: all pages — the ten-page step is complete; 12 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal, Mount Pelee and Mount Asama (/volcano/asamayama) without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 12 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 10 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama).
-- Last confirmed: VOL-014 ASAMA — live (b522b62): Mount Asama as a record page at /volcano/asamayama (see §6).
+- Last confirmed: VOL-014 ASAMA — live (b522b62): Mount Asama as a record page at /volcano/asamayama (see §6). VOL-015 FONTS — done (pushed on its work branch): the frame's three typefaces ship with the site; preview look, merge and live check follow.
 - In flight (handed, NOT confirmed): none
 - Next action: Rabaul (252140), Villarrica (357120) and the rest by search demand. Pelee was taken first because its observatory's reports were readable; for these two the current statement of the observatory still has to be found (Rabaul's observatory has no site of its own). Japan's volcanoes are easier than they looked: the weather agency has a plain status page for each (§4). Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
-- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee and Mount Asama are new since then.
+- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee and Mount Asama are new since then. On 2026-11-17 20:18 he wrote "font ok, lets just continue": fonts answered (VOL-015), no pages named, so still no new bylines.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -84,6 +84,8 @@ _last update: 2026-11-17 · VOL-014_
 
 - D-47 · 2026-11-17 · A volcano on a high plateau gets the band of land under it cut short with a break mark in the drawing (when the land is higher above the sea than 1.2 times the volcano's height above the land); everything above the land stays to scale and the caption says the band is cut — at one scale Cotopaxi's 3,750 m of land made a grey block twice as tall as the cone.
 
+- D-48 · 2026-11-17 · The typefaces of the site's frame (Playfair Display, Source Sans 3, JetBrains Mono) ship with the site: `next/font/local`, files in `app/fonts`, licences in `public/fonts`; Tailwind's font families point at the CSS variables — preview builds failed at random on the download from Google (pull requests 17 and 20), and `next/font/local` gives the families names of its own, so the literal Google names in Tailwind would have fallen back to Georgia without any error. Owner's yes: "font ok" (2026-11-17).
+
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
 - 2026-11-15 · Keeping database-only pages indexable — see D-01.
@@ -127,7 +129,7 @@ _last update: 2026-11-17 · VOL-014_
 - USGS's Mauna Loa pages disagree with each other in three places (summit 4,169 m or about 4,170 m; "seven" flows that threatened Hilo above a list of eight; three distances for the 1984 flow). What the page prints and why is in the registry row `observatory-usgs`.
 - The sea floor in a shield drawing moves with scrolling (`animation-timeline: view()`). A full-page picture shows it at its start unless reduced motion is on, and a tool that steps through `document.getAnimations()` must leave animations that are not on the document timeline alone.
 - A sentence in a profile that leans on a data value needs a line in its `expect` block; the build stops when the data no longer matches.
-- A build can stop with "next/font/google queries have exactly one entry" when a Google font download drops (the old pages still load three Google fonts at build time). Nothing is wrong with the code: run the build again.
+- Since VOL-015 no build downloads fonts. A preview build that fails now has a real cause: read its build log on Vercel first. Never merge on a failed status.
 - The Smithsonian's eruption rows have a day modifier and a day uncertainty besides the year ones (`sdmod`, `sdunc`, `edmod`, `edunc` in `gvp-eruptions.json`). A day of 16 or a date of July 2 is usually a placeholder for "month only" or "year only". Never print a date or a gap from `sy/sm/sd` directly.
 - NOAA's elevation grid is read in small windows from its THREDDS server as OPeNDAP ASCII (`…_surface.nc.ascii?z[i0:1:i1][j0:1:j1]`); tiles are 15° wide and named after their north-west corner. Asking for the same variable twice in one request fails.
 - NASA Earth Observatory addresses moved: `earthobservatory.nasa.gov/images/<id>/…` now redirects to a general page. The live copies are under `science.nasa.gov/earth/earth-observatory/`.
@@ -136,7 +138,7 @@ _last update: 2026-11-17 · VOL-014_
 - In the phone drawing of an erupting volcano the lava burst needs the room of the summit label's third line; `LandDrawing` drops "above sea level" there. Look at the phone drawing of every erupting volcano.
 - The site scrolls smoothly (`scroll-behavior`), so in Chrome `scrollIntoView` followed by another scroll lands nowhere: scroll with `window.scrollTo({top, behavior: 'instant'})`.
 - `research/*.csv` are edited as text or written back with their own line ending and quoting: a plain `csv.DictWriter` pass rewrote every line of the page map. In the page map `data_source` is one registry name; other sources go in `notes`.
-- The development server (`next dev`) can start with the same dropped font download as the build and then answers 500 forever: stop it, `rm -rf .next`, start again.
+- A development server (`next dev`) that answers 500 on every page after a bad start: stop it, `rm -rf .next`, start again.
 - Kilauea carries dated statements that go stale: the episode count (56 on 5 Nov 2026), the lava level (30 Jun 2026) and the tallest fountain. They sit in `data/profiles/kilauea.json` (text and `section.cut`) and come from USGS's Eruption Information page.
 - The Smithsonian's eruption list can lag the volcano by months. Krakatau, read 2026-11-17: the list's last eruption ends February 20, 2024, while Indonesia's volcano agency (PVMBG, through MAGMA Indonesia) reported eruptions through 2026 at alert level III; news reports of September 2026 quote its bulletins. A page must not print "last erupted" from the list alone when the observatory says otherwise: read the observatory's current bulletin before writing any page, and give such a page a sourced, dated activity line. The list also gives Krakatau's summit as 285 m while PVMBG's 2026 bulletins imply 157 m (ash 250 m above the peak = 407 m above sea level).
 
@@ -174,7 +176,7 @@ _last update: 2026-11-17 · VOL-014_
 - [P1] Sakurajima: read the weather agency's status page for the volcano (§4) and put the alert level in force, with its date, on /volcano/aira. The page now links the JavaScript map and states no level.
 - [P2] The street map prints place names in the local script (Japanese around Sakurajima), which a US reader cannot read. Look for a map layer with English labels whose terms allow use on a site with ads; until then the text says where the nearest city is.
 
-- [P1] The build downloads its fonts from Google every time, and the download drops now and then: two preview builds failed that way on 2026-11-17 (pull requests 17 and 20), each time with nothing wrong in the code. Ship the font files with the site (`next/font/local`) so a build never depends on that download. Until then: an empty commit on the work branch starts a fresh build.
+- [P2] All three frame typefaces are preloaded on every page, as before VOL-015. The mono face is used in a handful of places (the 404 page among them): check whether it earns its preload, and move Archivo and Caveat into `next/font/local` when the last page has the look (D-24).
 
 ## §6 Log (append-only, newest at bottom)
 ### 2026-11-15 · VOL-001 AUDIT · chat · done
@@ -423,6 +425,14 @@ _last update: 2026-11-17 · VOL-014_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: b522b62 (merged)
 - Notes: the Japan country page still lists the volcano as Asamayama (country pages are not rebuilt yet).
+
+### 2026-11-17 · VOL-015 FONTS · chat · done
+- What: the three typefaces of the site's frame (Playfair Display, Source Sans 3, JetBrains Mono) ship with the site instead of being downloaded from Google at every build (owner: "font ok", 2026-11-17 20:18). Variable fonts, Latin subset, from the @fontsource-variable packages (OFL 1.1). `app/layout.tsx` loads them with `next/font/local` under the same three CSS variables; `tailwind.config.ts` names the families through those variables (D-48).
+- Files: `app/layout.tsx`, `tailwind.config.ts`, `app/fonts/*`, `public/fonts/OFL-{PlayfairDisplay,SourceSans3,JetBrainsMono}.txt`
+- Verified: tsc clean; clean build with no request to Google (build log, built CSS, and a headless run of 5 pages at 1440 and 390 px: the fonts loaded are the three shipped ones, plus Archivo and Caveat on record pages; logo, headings and footer render in them); crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap; render check identical line by line to the run before the change; the Mount Asama page is as tall as before at both widths (8,469 and 14,611 px); home page looked at at both widths.
+- Unverified: the preview and the live site in the owner's Chrome (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: while fonts load, the frame's headings now fall back to a size-matched Times New Roman instead of Georgia (less jump). Preload unchanged: three files on every page (§5).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
