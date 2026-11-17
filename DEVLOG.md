@@ -3,11 +3,11 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-004_
-- Step: one page — look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). The owner saw the Stromboli preview on 2026-11-17: "look good", with one change (map higher up), now made. Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Pages finished: 0 of 213 until Stromboli is live; then 1.
-- Last confirmed: VOL-004 RECORDPAGE — Stromboli rebuilt in the picked look, map moved under the strip, author line on — done on the work branch (see §6)
-- In flight (handed, NOT confirmed): pull request #4 (branch `claude/stromboli-record-page`): merge, production build and live check are the next step and are logged in their own entry.
-- Next action: merge pull request #4, confirm the production build, check the live page in the owner's Chrome and that volcanoatlas.vercel.app redirects. Then VOL-005: the scaled-content pre-flight (six questions), refresh of `volcanoes.json` to v. 5.4.0, and the next ten profiles in tier order, shown to the owner on a preview.
+- Step: one page — done and live. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B); the owner saw the Stromboli page on 2026-11-17 ("look good", map moved up at his word). Next step: ten pages. Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Pages finished: 1 of 213 (Stromboli).
+- Last confirmed: VOL-004 RECORDPAGE — Stromboli rebuilt in the picked look, reviewed by the owner — live (merge 8c55406, see §6)
+- In flight (handed, NOT confirmed): none
+- Next action: VOL-005, the ten-page step: (1) write down the scaled-content pre-flight (six questions); (2) refresh `volcanoes.json` and the old profile headers to v. 5.4.0; (3) rebuild the next ten profiles in tier order as record pages, each with its observatory page read, and show them to the owner on a preview before they go live. A volcano that is not erupting needs its own main number and strip.
 - Waiting on owner: none
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -102,13 +102,12 @@ _last update: 2026-11-17 · VOL-004_
 - Two country tables (Armenia, DR Congo) list shared-border volcanoes as extra unranked rows; row count there is higher than the headline count on purpose.
 
 ## §5 Backlog (priority order)
-- [P0] Owner's OK on the Stromboli preview, then byline, merge and live check (see §0).
 - [P0] VOL-005: scaled-content pre-flight (six questions, answered in writing) before the template is used for more than five pages; refresh `volcanoes.json` and the old profile headers to v. 5.4.0 with redirects for renamed records; the next ten profiles in tier order as rebuilt pages. Each needs its observatory page read; known header mismatches to clear on the way: Jan Mayen elevation, Kavachi and Fuji last eruption, the forced 2026 years.
 - [P0] Then the remaining 139 profiles. A volcano that is not erupting needs its own main number and strip (last eruption, years since); the template takes both from the profile file.
 - [P1] `/latest-eruptions` still prints the full text of the Smithsonian's weekly reports. Cut it to facts and links when that page is rebuilt (D-18, D-22).
 - [P1] Country pages (46): counts and tables from the refreshed list with one rule for shared-border volcanoes; their own three looks.
 - [P1] Hubs: `/countries` as a data page; `/active-volcanoes` from the Smithsonian's continuing-eruptions flag; `/deadliest-eruptions` from NOAA's records; `/map` with all records; titles over 60 characters.
-- [P1] Trust frame: Person markup and the About page for the byline, methodology and sources page from the registry, final "how this site is made" text, a contact route that works, consent mechanism decision.
+- [P1] Trust frame: methodology and sources page from the registry, final "how this site is made" text, a contact route that works, consent mechanism decision.
 - [P1] Rebuilt pages: own share image per page; Article and Dataset markup once the byline is on (D-04).
 - [P1] Database-only pages (about 1,070): with eruption tables they gain real data; decide page by page which earn indexing.
 - [P2] Licensed imagery; final map tiles.
@@ -170,6 +169,14 @@ _last update: 2026-11-17 · VOL-004_
 - Unverified: the preview and the live page in the owner's Chrome (logged in the next entry); the larger-map link target.
 - Commit: this commit (pushed: work branch)
 - Notes: section order on the page is now where, last, often, what, type, tall, old, danger, record.
+
+### 2026-11-17 · VOL-004 RECORDPAGE · chat · live
+- What: pull request #4 merged (merge commit 8c55406). The rebuilt Stromboli page is the live page; the Vercel project address now redirects to the www domain.
+- Files: none beyond the merge; this entry and the page map note
+- Verified: before the merge, the preview in the owner's Chrome at desktop width (1456 px): map with its tiles first under the strip beside the section drawing, author line, line drawing itself (two pictures a second apart), /about with the reviewer block; the larger-map link opens OpenStreetMap on the volcano. After the merge: Vercel production build of 8c55406 READY; https://www.volcanosatlas.com/volcano/stromboli answers 200 with its own canonical, index/follow and the author line; in the owner's Chrome on the live address the line draws, the map loads 6 tiles, both fonts load, no sideways scroll, all source marks resolve; volcanoatlas.vercel.app answers 308 to the same path on www (root and a deep page); the apex domain answers 308; /about, /, /volcano/etna and /sitemap.xml answer 200; the font file is served with a one-year immutable cache header.
+- Unverified: a real phone; how the page shows in search results (Search Console work waits for the finish line).
+- Commit: this commit (pushed: work branch)
+- Notes: pages finished 1 of 213.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
