@@ -63,7 +63,7 @@ volcano/aira,volcanoes,data,informational,the island that became a peninsula: th
 volcano/akutan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/ambae,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/ambrym,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/arenal,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/arenal,volcanoes,data,informational,"a 42-year eruption on one strip; the summit that grew during it (two heights, and why they differ); what Costa Rica’s own network says about the rest since 2011",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 8); also uses noaa-ncei-volcano, noaa-etopo and observatory-pages; waits for the owner's read before his name goes on"
 volcano/asamayama,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/asosan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/avachinsky,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

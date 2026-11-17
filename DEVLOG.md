@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-011_
+_last update: 2026-11-17 · VOL-012_
 - Step: ten pages — 9 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi and Sakurajima (/volcano/aira) live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 9 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 7 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima).
-- Last confirmed: VOL-011 SAKURAJIMA — live (529a34f): Sakurajima (the Smithsonian's Aira) as a record page (see §6).
+- Last confirmed: VOL-012 ARENAL — done: Arenal as a record page, the tenth (see §6). Before it: VOL-011 SAKURAJIMA live (529a34f).
 - In flight (handed, NOT confirmed): none
-- Next action: Arenal (345033), Rabaul (252140), then Asamayama, Villarrica, Pelée and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: merge and check Arenal live if its pull request is still open; then Rabaul (252140), Asamayama, Villarrica, Pelée and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi and Sakurajima are new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -147,6 +147,8 @@ _last update: 2026-11-17 · VOL-011_
 
 - A pull request is merged only when its commit status reads success. On 2026-11-17 a notebook-only pull request (17) was merged although its preview build had failed, because the shell loop that waited for the status did not stop the chain; the production build of the same commit passed and the site was not affected. Check the status in the same command that merges, and stop on anything but success.
 - Japan's weather agency shows the warnings in force on a map that needs JavaScript; it cannot be read by a plain fetch. A page links it for the level in force and states no current level.
+
+- Two uncertain dates in one row ("Oct 5, 1922 (uncertain)") pushed the eruption table past the text column on a desktop (Arenal, caught by the 1440 px check). A date now keeps to one line and its "(uncertain)" marker may wrap under it (`dateCell`, `.va-when`).
 
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
@@ -367,6 +369,14 @@ _last update: 2026-11-17 · VOL-011_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: 529a34f (merged)
 - Notes: none.
+
+### 2026-11-17 · VOL-012 ARENAL · chat · done
+- What: Arenal as a record page, from the Red Sismológica Nacional's profile and its paper on the 42 years of eruption, an OVSICORI weekly bulletin (height, activity level), a dissertation in OVSICORI's library (the villages of 1968), the Smithsonian's record and NOAA. Template: an "(uncertain)" marker may wrap under its date in the eruption table.
+- Files: `data/profiles/arenal.json`, `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc and eslint on the changed file clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 10 rebuilt pages ok at 1440 px (the first run failed Arenal's table, fixed), phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the top of the page at 1440 px, the drawing at phone width, the map with real tiles at both widths, the eruption table.
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/arenal. The page prints the observatory's 1,755 m and says why the Smithsonian's 1,670 m differs (the summit grew during the eruption). The newest OVSICORI bulletin that could be read is of 18 Oct 2024; the page gives it with its date and takes the observatory check from the seismological network's profile.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)

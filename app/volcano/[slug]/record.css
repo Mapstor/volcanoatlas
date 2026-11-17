@@ -552,6 +552,11 @@ body:has(.va-page) > footer {
   text-wrap: balance;
   min-width: 132px;
 }
+/* a date keeps to one line (its spaces are non-breaking); "(uncertain)" after it may wrap, so two uncertain
+   dates in one row do not push the table past the text column */
+.va-table .va-when {
+  white-space: normal;
+}
 .va-srcline {
   font-size: 14px;
   color: #4d5d58;
