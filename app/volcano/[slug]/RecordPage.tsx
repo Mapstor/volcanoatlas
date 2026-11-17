@@ -22,6 +22,13 @@ const WEEKLY_HOME = 'https://volcano.si.edu/reports_weekly.cfm';
 /** Where a USGS alert level stands among the four the agency uses. */
 const USGS_RANK: Record<string, string> = { NORMAL: 'the lowest', ADVISORY: 'the second', WATCH: 'the third', WARNING: 'the highest' };
 
+/** A length of time in a table cell breaks between its parts, never inside one: "3 years | 11 months | so far". */
+const tie = (text: string) =>
+  text
+    .replace(/\bat least\b/g, 'at\u00a0least')
+    .replace(/\b(about|least|so) (?=\S)/g, '$1\u00a0')
+    .replace(/(\d) (years?|months?|days?)\b/g, '$1\u00a0$2');
+
 function Html({ html, as: Tag = 'p', className }: { html: string; as?: 'p' | 'span' | 'li' | 'figcaption'; className?: string }) {
   return <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
 }
@@ -171,11 +178,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               <tr key={row.eruption.n}>
                 <td>{row.startText}</td>
                 <td>{row.endText}</td>
-                <td className="va-dur">{row.length}</td>
+                <td className="va-dur">{tie(row.length)}</td>
                 <td className="va-dur">
                   {row.continuing
                     ? ''
-                    : (row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
+                    : tie(row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
                 </td>
                 <td className="va-num">{row.eruption.vei ?? 'not given'}</td>
               </tr>
