@@ -1,0 +1,277 @@
+{
+ "slug": "kanlaon",
+ "volcano_number": 272020,
+ "name": "Kanlaon",
+ "country": "Philippines",
+ "title": "Kanlaon Volcano: Eruption Now, Alert Level, Height & Facts",
+ "description": "Kanlaon, the highest point on Negros in the Philippines, is listed as erupting since October 2024. Its alert level, the 2024 explosions, the 1996 deaths, height and record.",
+ "h1": "Kanlaon Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1866
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "short explosions at the summit crater",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Kanlaon is the most active volcano of the central Philippines and the highest point on the island of Negros. In June 2024 an explosion sent ash 3 miles above it, and by the Smithsonian’s list it has been erupting since October of that year. Below: its state now, what happened in 2024, the 1996 explosion that killed three climbers, its height, and every eruption on record.",
+ "answer": "**Kanlaon is erupting, by the Smithsonian’s list.** The eruption began on {cur_since} and was continuing at the list’s last update.[[gvp]] The Philippine volcano agency, PHIVOLCS, had the volcano at **Alert Level 2**, on a scale from 0 to 5, when its page was read on {read_date}.[[phivolcs]][[gvp24]] Kanlaon is **{summit_ft} ft ({summit_m} m)** high, the highest point on the island of Negros.[[gvp]]",
+ "timeline": {
+  "from": 1860,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1866.5,
+    "label": "1866"
+   },
+   {
+    "year": 1996.61,
+    "label": "1996"
+   },
+   {
+    "year": 2024.42,
+    "label": "2024"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The raised stretch at the right edge is the eruption the list has as continuing since {cur_since}."
+ },
+ "section": {
+  "kind": "land",
+  "note": "the explosions come from here",
+  "crater": "Lugud crater",
+  "crater_share": 0.06,
+  "caption": "Kanlaon cut open. The summit height and the land around the volcano are to scale; the outline and the crater are schematic.[[gvp]][[etopo]]"
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Kanlaon?",
+   "map": true,
+   "paras": [
+    "Kanlaon is on Negros, an island in the central Philippines, at {coords}.[[gvp]] It stands in the provinces of Negros Occidental and Negros Oriental.[[day0227]] Canlaon City is on its southeastern flank,[[bul0710]] and Bago City is about 12 miles (20 km) to the northwest.[[gvp24]] It is one of {n_country} volcanoes in the [Philippines](/volcanoes-in-philippines) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Kanlaon erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. An eruption began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]]",
+    "PHIVOLCS had the volcano at **Alert Level 2** on {read_date}. Its scale runs from 0 to 5,[[gvp24]] and it describes Level 2 as a sign that magma is probably moving in at depth, which may or may not end in a magmatic eruption.[[phivolcs]] Nobody is allowed inside the permanent danger zone, which has a radius of 2.5 miles (4 km).[[day0227]]",
+    "The agency’s bulletins describe short explosions at the summit crater. One on October 24, 2025 lasted three minutes and sent a plume 6,600 ft (2,000 m) above the vent.[[bul1025]] One on February 26, 2026 lasted two minutes.[[bul0227]] One on July 9, 2026 lasted three minutes, and reports the agency collected from social media put rock fragments as large as 12 inches (30 cm) across in Canlaon City, within 3 miles (5 km) of the crater.[[bul0710]]",
+    "Since the unrest began on June 3, 2024, the volcano has released sulfur dioxide at an average of about 2,800 tonnes a day. The agency has also measured the mountain swelling slowly since 2022, which it puts down to magma moving in far below.[[bul0227]]"
+   ]
+  },
+  {
+   "id": "2024",
+   "h": "What happened at Kanlaon in 2024?",
+   "aside": "callouts",
+   "paras": [
+    "On **June 3, 2024**, at 6:51 p.m., an explosion lasting about six minutes sent an ash plume 3 miles (5 km) above the vent. Pyroclastic density currents, fast avalanches of hot ash and gas, ran 1.2 to 1.9 miles (2 to 3 km) down the south and southeast flanks. PHIVOLCS raised the alert from Level 1 to Level 2 that evening.[[gvp24]]",
+    "In the months that followed the volcano let out more gas than had ever been measured there: 11,556 tonnes of sulfur dioxide on September 11, a record at the time. On September 9 and 10 the agency counted 288 earthquakes in under 15 hours, and Canlaon City ordered everyone out of the danger zone.[[gvp24]]",
+    "On October 19 three bursts of ash, each two to six minutes long, rose 1,600 ft (500 m).[[gvp24]] The Smithsonian’s list starts the eruption it still has as continuing on that day.[[gvp]]",
+    "On **December 9, 2024**, at 3:03 p.m., a second explosion lasted just under four minutes. Its plume rose 2.5 miles (4 km) above the crater rim, and pyroclastic flows ran as far as 2.1 miles (3.4 km) down the southeast flank. PHIVOLCS raised the alert to Level 3, and local governments advised people within 3.7 miles (6 km) to leave. By the next day 12,172 people had been evacuated, by a Philippine government count.[[gvp24]]"
+   ]
+  },
+  {
+   "id": "1996",
+   "h": "What happened on Kanlaon in 1996?",
+   "paras": [
+    "On **August 10, 1996**, at 2:31 p.m., a sudden phreatic explosion, one driven by steam, threw ash from the summit crater for about 24 minutes. The plume of steam and ash rose 4,900 ft (1,500 m).[[gvp1996]]",
+    "Two groups of climbers were at the summit: ten students from a Belgian university with seven Filipino guides, and two British visitors with two local guides. Three people were killed, one British and two Filipino.[[gvp1996]] With {worst_deaths} deaths it is the deadliest of Kanlaon’s entries in NOAA’s database.[[noaa]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Kanlaon?",
+   "paras": [
+    "Kanlaon is **{summit_ft} ft ({summit_m} m)** high, the highest point on the island of Negros.[[gvp]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Kanlaon?",
+   "paras": [
+    "The Smithsonian classes Kanlaon as a **[stratovolcano](/types-of-volcanoes)** and calls it the most active volcano of the central Philippines.[[gvp]] Its recorded eruptions have typically been phreatic explosions of small to moderate size that drop a little ash nearby.[[gvp1996]]",
+    "The explosions of 2024 were larger: both sent pyroclastic flows down the mountain.[[gvp24]] The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Kanlaon erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, all known from written reports, the first in 1866.[[gvp]]",
+    "It rates {n_vei3} of them VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index), the highest on Kanlaon’s record: the explosion of {prev_end} and the eruption that began on {cur_since}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Kanlaon dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the alert level in force and the danger zone, use PHIVOLCS.[[phivolcs]]",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Kanlaon. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]",
+    "The danger reaches past the summit. In 2024 pyroclastic flows ran up to 2.1 miles (3.4 km) from the crater,[[gvp24]] and in July 2026 rock fragments were reported as far as 3 miles (5 km) away, beyond the permanent danger zone.[[bul0710]] Rain on fresh ash set off lahars, flows of mud and debris, on June 6 and 7, 2024.[[gvp24]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Kanlaon’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Kanlaon has **{n_all} confirmed eruptions**, all {n_observed} known from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2024",
+ "callouts": [
+  {
+   "number": "12,172",
+   "unit": "people",
+   "text": "Evacuated by December 10, 2024, the day after the second explosion, by a Philippine government count.",
+   "source": "Source: Smithsonian weekly report, relaying the government’s figures.[[gvp24]]"
+  },
+  {
+   "number": "11,556",
+   "unit": "tonnes",
+   "text": "Sulfur dioxide released on September 11, 2024, a record for Kanlaon at the time.",
+   "source": "Source: Smithsonian weekly report, relaying PHIVOLCS.[[gvp24]]"
+  }
+ ],
+ "faq_h": "Kanlaon questions and answers",
+ "faq": [
+  [
+   "Is Kanlaon erupting now?",
+   "By the Smithsonian’s list, yes: the eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}. PHIVOLCS had the volcano at Alert Level 2 on {read_date}."
+  ],
+  [
+   "What is Kanlaon’s alert level?",
+   "Alert Level 2, on a scale from 0 to 5, when PHIVOLCS’s page was read on {read_date}. The level can change at any time; the agency’s page has the one in force."
+  ],
+  [
+   "Where is Kanlaon?",
+   "On the island of Negros in the central Philippines, in the provinces of Negros Occidental and Negros Oriental."
+  ],
+  [
+   "How tall is Kanlaon?",
+   "{summit_ft} ft ({summit_m} m), the highest point on Negros."
+  ],
+  [
+   "When did Kanlaon erupt in 2024?",
+   "On June 3 and on December 9, 2024, with explosions that sent ash 3 miles (5 km) and 2.5 miles (4 km) high. The Smithsonian’s list starts the eruption it has as continuing on October 19, 2024."
+  ],
+  [
+   "How many people died on Kanlaon in 1996?",
+   "Three climbers, one British and two Filipino, on August 10, 1996."
+  ],
+  [
+   "What type of volcano is Kanlaon?",
+   "A stratovolcano, by the Smithsonian’s classification."
+  ],
+  [
+   "Is it Kanlaon or Canlaon?",
+   "The Smithsonian and the Philippine volcano agency write Kanlaon. The city on its southeastern flank is Canlaon City."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Kanlaon record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=272020"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "gvp24",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Weekly reports on Kanlaon, June to December 2024, relaying PHIVOLCS and Philippine government counts (on the volcano’s page)",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=272020"
+  },
+  {
+   "id": "phivolcs",
+   "publisher": "DOST-PHIVOLCS, GeoRisk Philippines",
+   "title": "HazardHunterPH: volcano monitoring, alert levels",
+   "url": "https://hazardhunter.georisk.gov.ph/monitoring/volcano"
+  },
+  {
+   "id": "bul1025",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Kanlaon Volcano Eruption Bulletin, 25 October 2025, 2:40 AM",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/bulletin/activity-kvo?bid=12564"
+  },
+  {
+   "id": "bul0227",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Kanlaon Volcano Eruption Bulletin, 27 February 2026, 2:00 PM",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/bulletin/activity-kvo?bid=13631"
+  },
+  {
+   "id": "day0227",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Kanlaon Volcano: summary of 24-hour observation, 27 February 2026",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/bulletin/activity-kvo?bid=13629&lang=en"
+  },
+  {
+   "id": "bul0710",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Kanlaon Volcano Eruption Bulletin, 10 July 2026, 5:15 PM",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/bulletin/activity-kvo?bid=14612&lang=en"
+  },
+  {
+   "id": "gvp1996",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 21:07 (July 1996): Kanlaon, sudden phreatic explosion kills three people",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN199607-272020"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and inches are converted from the metric figures in the sources and rounded.",
+  "Times of day are local, as the sources give them."
+ ],
+ "expect": {
+  "cur_since": "October 19, 2024",
+  "prev_end": "June 3, 2024",
+  "summit_m": "2,422",
+  "n_all": "31",
+  "n_observed": "31",
+  "n_vei3": "2",
+  "max_vei": "3",
+  "oldest": "1866 CE",
+  "noaa_n": "3",
+  "worst_deaths": "3",
+  "worst_date": "August 10, 1996"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**Alert Level 2.** PHIVOLCS’s monitoring page, read on {read_date}, showed Kanlaon at Alert Level 2, with entry into the permanent danger zone prohibited.[[phivolcs]]",
+ "reviewed": null
+}
