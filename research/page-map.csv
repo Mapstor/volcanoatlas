@@ -120,7 +120,7 @@ volcano/katla,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendin
 volcano/kavachi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/kelud,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/kikai,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/kilauea,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/kilauea,volcanoes,data,informational,"The 2018 collapse pit and the lava that has refilled it, drawn to scale with the tallest fountain, from USGS levels",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 3); also uses noaa-ncei-volcano, usgs-hans, gvp-weekly, observatory-usgs and nps-park-history; waits for the owner's read before his name goes on"
 volcano/kirishimayama,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/klyuchevskoy,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/krakatau,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

@@ -218,16 +218,22 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             {s.label}
           </text>
         ))}
-      {startX !== null && stats.currentStart && (
-        <>
-          <line x1={startX} y1={yb + 22} x2={startX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
-          <text x={small ? w / 2 : startX + 6} y={yb + (small ? 66 : 74)} textAnchor={small ? 'middle' : 'start'} fontSize={fs + 1} fontWeight={700} fill={PAL.ink}>
-            {stats.current?.sdmod === '<'
-              ? `by ${dateText(stats.currentStart, precisionOf(stats.current.sdunc))}: current eruption under way`
-              : `${dateText(stats.currentStart, precisionOf(stats.current?.sdunc))}: current eruption begins`}
-          </text>
-        </>
-      )}
+      {startX !== null && stats.currentStart && (() => {
+        const text =
+          stats.current?.sdmod === '<'
+            ? `by ${dateText(stats.currentStart, precisionOf(stats.current.sdunc))}: current eruption under way`
+            : `${dateText(stats.currentStart, precisionOf(stats.current?.sdunc))}: current eruption begins`;
+        // the label goes left of its tick when it would run off the right end of the strip
+        const flip = !small && startX + 6 + text.length * (fs + 1) * 0.56 > w - 8;
+        return (
+          <>
+            <line x1={startX} y1={yb + 22} x2={startX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
+            <text x={small ? w / 2 : flip ? startX - 6 : startX + 6} y={yb + (small ? 66 : 74)} textAnchor={small ? 'middle' : flip ? 'end' : 'start'} fontSize={fs + 1} fontWeight={700} fill={PAL.ink}>
+              {text}
+            </text>
+          </>
+        );
+      })()}
       {lastX !== null && stats.lastEnd && (
         <>
           <line x1={lastX} y1={yb + 22} x2={lastX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
@@ -252,11 +258,12 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   );
 }
 
-/** The cut-open drawing that fits the profile: an island cone, a shield pressed into the sea floor, or a volcano on land. */
+/** The cut-open drawing that fits the profile: an island cone, a shield pressed into the sea floor, a volcano on land, or a summit caldera. */
 export function SectionDrawing({ data, compact = false }: { data: RecordData; compact?: boolean }) {
   const kind = data.profile.section.kind;
   if (kind === 'shield') return <ShieldDrawing data={data} compact={compact} />;
   if (kind === 'land') return <LandDrawing data={data} compact={compact} />;
+  if (kind === 'caldera') return <CalderaDrawing data={data} compact={compact} />;
   return <ConeDrawing data={data} compact={compact} />;
 }
 
@@ -484,6 +491,196 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
           <text className="va-hand" x={cx + 100} y={(former && formerY !== null ? formerY : summitY - 12) - 28} fontSize={23} fill={PAL.pencil}>{sec.note}</text>
         </>
       )}
+    </svg>
+  );
+}
+
+/** Pushes label baselines apart so each keeps `gap` from the one above, then lifts the stack if it runs past `max`. */
+function spread(wanted: number[], gap: number, max: number): number[] {
+  const down = wanted.reduce<number[]>((out, y, i) => [...out, i === 0 ? y : Math.max(y, out[i - 1] + gap)], []);
+  const over = down.length ? Math.max(0, down[down.length - 1] - max) : 0;
+  if (!over) return down;
+  // lift from the bottom: the last label goes to `max`, the ones above keep their gap
+  return down.reduceRight<number[]>((out, y, i) => [i === down.length - 1 ? max : Math.min(y, out[0] - gap), ...out], []);
+}
+
+/**
+ * The summit of a caldera volcano cut open. Every labelled height is to one scale: the rim, the caldera floor, the
+ * bottom of the collapse pit, the lava layers that have refilled it and the tallest lava fountain. Widths and wall
+ * shapes are schematic. The fountain plays only while the Smithsonian lists the eruption as continuing.
+ */
+function CalderaDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
+  const { profile, stats } = data;
+  const sec = profile.section;
+  const cut = sec.cut;
+  if (!cut) throw new Error(`record profile ${profile.slug}: a caldera drawing needs section.cut`);
+  const active = Boolean(stats.current);
+  const w = compact ? 340 : 560;
+  const sx = w / 560;
+  const fs = compact ? 12.5 : 14;
+  const bold = fs + (compact ? 1.5 : 2);
+  const line = fs + 3;
+  const top = compact ? 30 : 40;
+  const surface = cut.fills[cut.fills.length - 1];
+  const fountainTop = cut.fountain ? cut.fountain.vent_m + cut.fountain.m : cut.rim.m + 60;
+  const zTop = Math.max(fountainTop, cut.rim.m + 60);
+  const zBot = cut.pit.m - (compact ? 95 : 75);
+  const k = (compact ? 330 : 400) / (zTop - zBot);
+  const Y = (m: number) => top + (zTop - m) * k;
+  const h = Math.round(Y(zBot) + 2);
+  const rimY = Y(cut.rim.m);
+  const floorY = Y(cut.floor.m);
+  const pitY = Y(cut.pit.m);
+  // schematic plan: outer slope, rim, caldera floor, the pit, the far rim, outer slope
+  const xRim = 64 * sx;
+  const xFloor0 = 84 * sx;
+  const xFloor1 = (compact ? 150 : 176) * sx;
+  const xPit0 = (compact ? 214 : 236) * sx;
+  const xPit1 = (compact ? 278 : 300) * sx;
+  const xFar = (compact ? 352 : 372) * sx;
+  const farM = cut.fountain ? cut.fountain.vent_m + 65 : cut.floor.m + 65;
+  const farY = Y(farM);
+  const leftX = (y: number) => xFloor1 + ((y - floorY) / (pitY - floorY)) * (xPit0 - xFloor1);
+  const rightX = (y: number) => xPit1 + ((pitY - y) / (pitY - farY)) * (xFar - xPit1);
+  const ground =
+    `M0 ${f(Y(cut.rim.m - 70))} L${f(xRim)} ${f(rimY)} L${f(xFloor0)} ${f(floorY)} L${f(xFloor1)} ${f(floorY)} L${f(xPit0)} ${f(pitY)} ` +
+    `L${f(xPit1)} ${f(pitY)} L${f(xFar)} ${f(farY)} L${w} ${f(Y(farM - 55))}`;
+  // lava layers, oldest at the bottom
+  const tones = [PAL.rock, PAL.root];
+  const layers = cut.fills.map((l, i) => {
+    const y = Y(l.m);
+    const below = i === 0 ? pitY : Y(cut.fills[i - 1].m);
+    const d = `M${f(leftX(below))} ${f(below)} L${f(rightX(below))} ${f(below)} L${f(rightX(y))} ${f(y)} L${f(leftX(y))} ${f(y)} Z`;
+    return { d, y, level: l, tone: tones[Math.min(i, tones.length - 1)] };
+  });
+  const surfaceY = surface ? Y(surface.m) : pitY;
+  const beforeY = cut.before ? Y(cut.before.m) : null;
+  const ventY = cut.fountain ? Y(cut.fountain.vent_m) : floorY;
+  const ventX = rightX(ventY);
+  const jetTop = cut.fountain ? Y(fountainTop) : ventY;
+  const jetH = ventY - jetTop;
+  const jetW = compact ? 8 : 11;
+  // how far the spray reaches sideways, and where the fountain's height bracket stands clear of it
+  const reach = compact ? 0.62 : 1;
+  const fx = ventX + jetW * 2.75 * reach + 6;
+  const lx = xFar + (compact ? 12 : 18);
+  const ft = (l: { m: number; ft: number }) => (compact ? `${fmt(l.ft)} ft` : `${fmt(l.ft)} ft (${fmt(l.m)} m)`);
+  const words = (l: { label: string; short?: string }) => (compact ? (l.short ?? l.label) : l.label);
+  const label =
+    `Section drawing of the summit of ${profile.name}: the caldera rim is at ${fmt(cut.rim.m)} m above sea level and the caldera floor at ${fmt(cut.floor.m)} m. ` +
+    `The collapse pit reached down to ${fmt(cut.pit.m)} m` +
+    (surface ? ` and lava has refilled it to ${fmt(surface.m)} m` : '') +
+    (cut.fountain ? `. The tallest lava fountain on record rose ${fmt(cut.fountain.m)} m above its vent` : '') +
+    '.';
+  // labels on the far side of the pit, one per level, pushed apart so they never touch
+  const sideLabels: { y: number; level: { m: number; ft: number; label: string; short?: string }; from: [number, number] }[] = [];
+  if (surface) sideLabels.push({ y: surfaceY, level: surface, from: [rightX(surfaceY), surfaceY] });
+  if (!compact) cut.fills.slice(0, -1).forEach((l) => sideLabels.push({ y: Y(l.m), level: l, from: [rightX(Y(l.m)), Y(l.m)] }));
+  sideLabels.push({ y: pitY, level: cut.pit, from: [xPit1, pitY] });
+  sideLabels.sort((a, b) => a.y - b.y);
+  // a label sits just under its own level, on the rock
+  const tys = spread(sideLabels.map((l) => l.y + bold + 2), line * 2 + 6, h - line - 4);
+  const placed = sideLabels.map((l, i) => ({ ...l, ty: tys[i] }));
+
+  return (
+    <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
+      <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
+      <path d={`${ground} V${h} H0 Z`} fill={PAL.crust} />
+      {layers.map((l, i) => (
+        <path key={i} d={l.d} fill={l.tone} />
+      ))}
+      {layers.slice(0, -1).map((l, i) => (
+        <line key={i} x1={leftX(l.y)} y1={l.y} x2={rightX(l.y)} y2={l.y} stroke={PAL.paper} strokeWidth={1} opacity={0.6} />
+      ))}
+      <path d={ground} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      {surface && <line x1={leftX(surfaceY)} y1={surfaceY} x2={rightX(surfaceY)} y2={surfaceY} stroke={active ? PAL.lava : PAL.ink} strokeWidth={active ? 2.6 : 1.2} />}
+      {beforeY !== null && (
+        <line x1={leftX(beforeY) - 2} y1={beforeY} x2={rightX(beforeY) + 2} y2={beforeY} stroke={PAL.pencil} strokeWidth={1.3} strokeDasharray="6 5" />
+      )}
+
+      {/* the tallest fountain on record, to the same scale as the pit */}
+      {cut.fountain && (
+        <>
+          {active ? (
+            <g className="va-jet">
+              {/* a jet that swells toward the top, with spray falling back on both sides */}
+              <path
+                d={
+                  `M${f(ventX - 3.5)} ${f(ventY)} C${f(ventX - 4)} ${f(ventY - jetH * 0.45)} ${f(ventX - jetW)} ${f(ventY - jetH * 0.6)} ${f(ventX - jetW * 0.7)} ${f(ventY - jetH * 0.8)} ` +
+                  `C${f(ventX - jetW * 0.45)} ${f(ventY - jetH * 0.93)} ${f(ventX - 1.5)} ${f(ventY - jetH * 0.97)} ${f(ventX)} ${f(jetTop)} ` +
+                  `C${f(ventX + 1.5)} ${f(ventY - jetH * 0.97)} ${f(ventX + jetW * 0.45)} ${f(ventY - jetH * 0.93)} ${f(ventX + jetW * 0.7)} ${f(ventY - jetH * 0.8)} ` +
+                  `C${f(ventX + jetW)} ${f(ventY - jetH * 0.6)} ${f(ventX + 4)} ${f(ventY - jetH * 0.45)} ${f(ventX + 3.5)} ${f(ventY)} Z`
+                }
+                fill={PAL.lava}
+              />
+              <g fill="none" stroke={PAL.lava} strokeWidth={1.6} strokeLinecap="round">
+                {[1, -1].map((side) => (
+                  <g key={side}>
+                    <path d={`M${f(ventX + side * jetW * 0.5)} ${f(ventY - jetH * 0.9)} q${f(side * jetW * 1.5 * reach)} ${f(jetH * 0.04)} ${f(side * jetW * 1.9 * reach)} ${f(jetH * 0.42)}`} />
+                    <path d={`M${f(ventX + side * jetW * 0.8)} ${f(ventY - jetH * 0.74)} q${f(side * jetW * 0.9 * reach)} ${f(jetH * 0.06)} ${f(side * jetW * 1.1 * reach)} ${f(jetH * 0.36)}`} />
+                    <circle cx={ventX + side * (jetW * 0.5 + jetW * 2.05 * reach)} cy={ventY - jetH * 0.42} r={1.6} fill={PAL.lava} stroke="none" />
+                    <circle cx={ventX + side * (jetW * 0.8 + jetW * 1.25 * reach)} cy={ventY - jetH * 0.32} r={1.3} fill={PAL.lava} stroke="none" />
+                  </g>
+                ))}
+              </g>
+            </g>
+          ) : (
+            <line x1={ventX} y1={ventY} x2={ventX} y2={jetTop} stroke={PAL.pencil} strokeWidth={1.3} strokeDasharray="6 5" />
+          )}
+          <path d={`M${f(fx)} ${f(jetTop)} V${f(ventY)} M${f(fx - 5)} ${f(jetTop)} h10 M${f(fx - 5)} ${f(ventY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+          <text x={fx + 9} y={(jetTop + ventY) / 2 - line + 2} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(cut.fountain)}</text>
+          <text x={fx + 9} y={(jetTop + ventY) / 2 + 3} fontSize={compact ? fs - 0.5 : fs} fill={PAL.ink}>{words(cut.fountain)}</text>
+          {cut.fountain.when && <text x={fx + 9} y={(jetTop + ventY) / 2 + 3 + line} fontSize={fs - 1} fill={PAL.mute}>{cut.fountain.when}</text>}
+        </>
+      )}
+
+      {/* rim and caldera floor */}
+      <line x1={xRim} y1={rimY - 3} x2={xRim} y2={rimY - (compact ? 16 : 22)} stroke={PAL.ink} strokeWidth={0.8} />
+      <text x={compact ? 6 : 10} y={rimY - (compact ? 22 : 28) - line} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(cut.rim)}</text>
+      <text x={compact ? 6 : 10} y={rimY - (compact ? 22 : 28)} fontSize={fs} fill={PAL.ink}>{words(cut.rim)}</text>
+      {!compact && (
+        <>
+          <text x={(xFloor0 + xFloor1) / 2} y={floorY - 9 - line} textAnchor="middle" fontSize={fs - 1} fontWeight={700} fill={PAL.ink}>{fmt(cut.floor.ft)} ft</text>
+          <text x={(xFloor0 + xFloor1) / 2} y={floorY - 9} textAnchor="middle" fontSize={fs - 1} fill={PAL.ink}>{cut.floor.label}</text>
+        </>
+      )}
+
+      {/* the pit's levels, written on the rock beside it */}
+      {placed.map((l, i) => (
+        <g key={i}>
+          <path d={`M${f(l.from[0] + 2)} ${f(l.from[1])} H${f(lx - 4)} ${Math.abs(l.ty - bold - l.from[1]) > 6 ? `L${f(lx + 2)} ${f(l.ty - bold * 0.35)}` : ''}`} fill="none" stroke={PAL.ink} strokeWidth={0.8} />
+          <text x={lx + 6} y={l.ty} fontSize={bold - 1} fontWeight={700} fill={PAL.ink}>{ft(l.level)}</text>
+          <text x={lx + 6} y={l.ty + line - 1} fontSize={fs - 0.5} fill={PAL.ink}>{words(l.level)}</text>
+        </g>
+      ))}
+      {cut.before && beforeY !== null && !compact && (
+        <>
+          <path d={`M${f(leftX(beforeY) - 4)} ${f(beforeY)} L${f(xFloor0 + 62)} ${f(beforeY + 24)}`} fill="none" stroke={PAL.ink} strokeWidth={0.8} />
+          <text x={10} y={beforeY + 30} fontSize={fs - 0.5} fontWeight={700} fill={PAL.ink}>{ft(cut.before)}</text>
+          <text x={10} y={beforeY + 30 + line - 1} fontSize={fs - 1} fill={PAL.ink}>{cut.before.label}</text>
+        </>
+      )}
+      {!compact && sec.note && (() => {
+        // the pencil note, on two lines so it stays clear of the pit
+        const words = fill(sec.note, data.ctx).split(' ');
+        // break before the number, so a figure stays with its unit; otherwise in the middle
+        const digit = words.findIndex((word) => /\d/.test(word));
+        const half = digit > 0 ? digit : Math.ceil(words.length / 2);
+        const lines = [words.slice(0, half).join(' '), words.slice(half).join(' ')];
+        return (
+          <>
+            <path
+              d={`M${f(xPit0 - 84)} ${f(pitY - 20)} C${f(xPit0 - 62)} ${f(pitY - 4)} ${f(xPit0 - 32)} ${f(pitY)} ${f(xPit0 - 5)} ${f(pitY - 3)}`}
+              fill="none"
+              stroke={PAL.pencil}
+              strokeWidth={1.4}
+              strokeLinecap="round"
+            />
+            <text className="va-hand" x={10} y={pitY - 54} fontSize={23} fill={PAL.pencil}>{lines[0]}</text>
+            <text className="va-hand" x={10} y={pitY - 30} fontSize={23} fill={PAL.pencil}>{lines[1]}</text>
+          </>
+        );
+      })()}
     </svg>
   );
 }

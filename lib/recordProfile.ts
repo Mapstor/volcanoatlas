@@ -39,6 +39,15 @@ export interface RecordSection {
   map?: boolean;
 }
 
+/** A height the source gives: meters, the feet it prints, and the words drawn beside it. */
+export interface Level {
+  m: number;
+  ft: number;
+  label: string;
+  /** shorter words for the phone drawing */
+  short?: string;
+}
+
 export interface RecordProfile {
   slug: string;
   volcano_number: number;
@@ -96,10 +105,24 @@ export interface RecordProfile {
   map_label?: 'below' | 'above';
   /**
    * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
-   * sea floor) or "land" (a volcano standing on land or rising straight from the sea surface).
+   * sea floor), "land" (a volcano standing on land or rising straight from the sea surface) or "caldera" (the summit
+   * cut open: rim, caldera floor, a collapse pit and the lava that has refilled it).
    */
   section: {
-    kind?: 'cone' | 'shield' | 'land';
+    kind?: 'cone' | 'shield' | 'land' | 'caldera';
+    /**
+     * Caldera: heights above sea level in meters with the feet the source prints, each with the words drawn beside
+     * it. `fills` are the tops of the lava layers that refilled the pit, oldest first; the last one is the surface.
+     * `fountain` is the tallest lava fountain on record, drawn from its vent only while the eruption continues.
+     */
+    cut?: {
+      rim: Level;
+      floor: Level;
+      pit: Level;
+      before?: Level;
+      fills: Level[];
+      fountain?: Level & { vent_m: number; when?: string };
+    };
     /** Red pencil note in the drawing. */
     note: string;
     caption: string;
@@ -222,6 +245,26 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('cur_start_year', stats.currentStart[0]);
     set('cur_last', longDate(stats.currentLast));
     set('cur_years', stats.currentYears);
+    // time in eruption up to the day the page is rendered, while the Smithsonian lists the eruption as continuing:
+    // months until two years have passed, years after that (the same rule as the time since a last eruption)
+    {
+      const now = new Date();
+      const days = daysBetween(stats.currentStart, [now.getUTCFullYear(), now.getUTCMonth() + 1, now.getUTCDate()]);
+      const years = Math.floor(days / 365.2425);
+      const months = Math.max(1, Math.floor(days / 30.44));
+      set('cur_number', years >= 2 ? years : months);
+      set('cur_unit', years >= 2 ? 'years' : months === 1 ? 'month' : 'months');
+    }
+    // the eruption before the current one
+    const before = stats.periods.filter((row) => !row.continuing && row.eruption.ey);
+    const prev = before[before.length - 1];
+    if (prev) {
+      const e = prev.eruption;
+      // "September 15 to September 20, 2024": the year is said once when both dates are exact and in the same year
+      const sameYear = e.sy === e.ey && prev.startPrecision === 'day' && prev.endPrecision === 'day';
+      set('prev_start', sameYear ? `${MONTHS[e.sm]} ${e.sd}` : dateText([e.sy, e.sm, e.sd], prev.startPrecision, true));
+      set('prev_end', dateText([e.ey as number, e.em, e.ed], prev.endPrecision, true));
+    }
     set('n_cont', stats.continuingCount);
     set('older_count_word', word(stats.olderContinuing.length));
     set(
@@ -314,6 +357,35 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('ring_km', 15);
     set('ring_mi', 9);
   }
+  // a caldera drawing's levels, so the text prints the same numbers as the drawing
+  const cut = profile.section.cut;
+  if (cut) {
+    const level = (key: string, l: { m: number; ft: number }) => {
+      set(`${key}_m`, fmt(l.m));
+      set(`${key}_ft`, fmt(l.ft));
+    };
+    const surface = cut.fills[cut.fills.length - 1];
+    level('rim', cut.rim);
+    level('cfloor', cut.floor);
+    level('pit', cut.pit);
+    if (cut.before) level('before', cut.before);
+    cut.fills.forEach((l, i) => level(`fill${i + 1}`, l));
+    if (surface) {
+      level('surface', surface);
+      // differences are taken in each unit from the source's own figures
+      set('refill_m', fmt(surface.m - cut.pit.m));
+      set('refill_ft', fmt(surface.ft - cut.pit.ft));
+      if (cut.before) {
+        set('short_m', fmt(cut.before.m - surface.m));
+        set('short_ft', fmt(cut.before.ft - surface.ft));
+      }
+    }
+    if (cut.before) {
+      set('drop_m', fmt(cut.before.m - cut.pit.m));
+      set('drop_ft', fmt(cut.before.ft - cut.pit.ft));
+    }
+    if (cut.fountain) level('fountain', cut.fountain);
+  }
   if (profile.section.former) {
     set('former_m', fmt(profile.section.former.m));
     set('former_ft', fmt(profile.section.former.ft));
@@ -352,6 +424,16 @@ export function buildRecordData(profile: RecordProfile): RecordData {
 
   // the eruption record
   set('n_all', stats.all.length);
+  // the two longest eruptions in the record that have both dates, as "1823 to 1894" and whole years
+  const longOnes = stats.spans
+    .filter((span) => !span.continuing && !span.openStart && span.eruption.ey)
+    .map((span) => ({ span, days: daysBetween(span.start, span.end) }))
+    .sort((a, b) => b.days - a.days)
+    .slice(0, 2);
+  longOnes.forEach(({ span, days }, i) => {
+    set(`long${i + 1}_span`, `${span.start[0]} to ${span.end[0]}`);
+    set(`long${i + 1}_years`, Math.floor(days / 365.2425));
+  });
   if (stats.all.length) set('oldest', stats.all[0].sy < 0 ? `${-stats.all[0].sy} BCE` : `${stats.all[0].sy} CE`);
   set('n_mag', stats.methods['Correlation: Magnetism'] ?? 0);
   const radiocarbon = (stats.methods['Isotopic: 14C (uncalibrated)'] ?? 0) + (stats.methods['Isotopic: 14C (calibrated)'] ?? 0);
@@ -359,6 +441,10 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   set('n_rc_word', word(radiocarbon));
   set('n_vei0', stats.all.filter((e) => e.vei === 0).length);
   set('n_written', stats.methods['Observations: Reported'] ?? 0);
+  // eruptions someone saw (reports, photos, instruments) against those dated from the rocks afterwards
+  const observed = Object.entries(stats.methods).reduce((sum, [method, n]) => sum + (method.startsWith('Observations:') ? n : 0), 0);
+  set('n_observed', observed);
+  set('n_dated', stats.all.length - observed);
   set('max_vei', stats.maxVei);
   if (stats.maxVei !== null && stats.maxVei !== undefined) {
     // the largest eruptions in the list: how many reach the top size, and the year of the newest of them
@@ -394,7 +480,7 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     if (fatal.length) {
       const worst = fatal.reduce((a, b) => (b.deaths > a.deaths ? b : a));
       set('worst_date', noaaDate(worst, true));
-      set('worst_deaths', worst.deaths);
+      set('worst_deaths', fmt(worst.deaths));
       set('worst_injuries', worst.injuries);
       set('last_death_date', noaaDate(fatal[fatal.length - 1], true));
     }
