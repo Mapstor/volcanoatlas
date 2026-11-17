@@ -1,0 +1,268 @@
+{
+ "slug": "cotopaxi",
+ "volcano_number": 352050,
+ "name": "Cotopaxi",
+ "country": "Ecuador",
+ "title": "Cotopaxi Volcano: Last Eruption, Height, Location & Facts",
+ "description": "Cotopaxi last erupted in 2022 and 2023. Its height by two counts, where it is, the 1877 eruption whose mudflows reached a town in half an hour, and every eruption on record.",
+ "h1": "Cotopaxi Volcano",
+ "facts": {
+  "summit_m": 5897,
+  "summit_ft": 19347,
+  "summit_source": "igepn",
+  "summit_source_name": "Instituto Geofísico",
+  "ground": "etopo",
+  "count_from": 1532
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Cotopaxi is a symmetric cone with a glacier on top, 28 miles from Quito, and the ice is what makes it dangerous. In 1877 an eruption melted part of the glacier, and the flood of mud reached the town of Latacunga, 22 miles away, in a little over half an hour. Below: what happened then, what the volcano has done since, how tall it is, and every eruption on record.",
+ "answer": "**Cotopaxi last erupted from {last_start} to {last_end}**, with small emissions of gas and ash.[[gvp]][[igepn]] It is a **stratovolcano** in Ecuador, 28 miles (45 km) southeast of Quito, **{summit_ft} ft ({summit_m} m)** high by the figure of Ecuador’s Instituto Geofísico.[[igepn]] Its last major eruption was on **June 26, 1877**.[[ig1877]]",
+ "timeline": {
+  "from": 1520,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 2,
+  "marks": [
+   {
+    "year": 1534.5,
+    "label": "1534"
+   },
+   {
+    "year": 1768.26,
+    "label": "1768"
+   },
+   {
+    "year": 1877.48,
+    "label": "1877"
+   },
+   {
+    "year": 2015.62,
+    "label": "2015"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike or raised stretch is an eruption; many are known only by their year. The crowded stretch runs from the 1840s to 1940, and the flat stretch after it is the quiet that ended in August 2015.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "the ice feeds the mudflows",
+  "crater": "crater, 2,600 ft across",
+  "crater_share": 0.05,
+  "ice_from_m": 4900,
+  "ice_label": "glacier",
+  "caption": "Cotopaxi cut open. The summit height, the lower edge of the glacier and the land around the volcano are to scale; the outline is schematic.[[igepn]][[redi]][[etopo]] The glacier is drawn over the top 3,300 ft (1,000 m), as a 2013 study described it.[[redi]] The slab of land under the volcano is cut short at the break mark."
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Cotopaxi?",
+   "map": true,
+   "paras": [
+    "Cotopaxi is in the Andes of Ecuador, on the range called the Eastern Cordillera, at {coords}.[[gvp]][[igepn]] Quito is 28 miles (45 km) to the northwest, and the town of Latacunga is 22 miles (35 km) to the southwest.[[igepn]] It is one of {n_country} volcanoes in [Ecuador](/volcanoes-in-ecuador) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Cotopaxi last erupt?",
+   "table": "periods",
+   "paras": [
+    "Cotopaxi’s last eruption ran from **{last_start} to {last_end}** in the Smithsonian’s record.[[gvp]] It began with an earthquake under the volcano at 7:44 p.m. The first cloud of gas and ash rose 5,600 to 7,500 ft (1.7 to 2.3 km) above the summit and dusted the climbers’ refuge on the north flank.[[gvp]]",
+    "The emissions stayed small over the months that followed. The highest plumes reached nearly 2 miles (3 km) above the summit, and ash fell on nearby towns, Machachi and Mulaló among them, and at times in the Quito area.[[gvp]] The Instituto Geofísico says the eruption lasted longer than the one of 2015 but put out about half as much ash.[[igepn]]",
+    "The institute’s newest Cotopaxi report, dated October 21, 2026, rates the volcano’s internal and surface activity as low and unchanged. A report of August 2026 says the volcano has had no ash emissions since July 2023.[[igtag]]"
+   ]
+  },
+  {
+   "id": "1877",
+   "h": "What happened in the 1877 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "It was Cotopaxi’s last major eruption. Ash emissions and small to moderate explosions began early in 1877 and had grown much stronger by June.[[ig1877]]",
+    "On **June 26, 1877**, avalanches of hot ash and gas poured over the crater rim. By the account of the naturalist Teodoro Wolf, who wrote about the eruption the following year, they came out over 15 to 30 minutes and quickly covered the whole cone. Chroniclers of the day called them lava.[[ig1877]]",
+    "The heat melted part of the glacier. Floods of mud and debris, called lahars, ran down the Pita, Cutuchi and Tamboyaku rivers, and most of them spilled out of the river channels.[[ig1877]]",
+    "By Wolf’s account the lahars reached Latacunga in a little over 30 minutes and the Chillos Valley in a little under an hour. They reached the mouth of the Esmeraldas River, on the Pacific, in about 18 hours.[[ig1877]]",
+    "Ash fell mainly to the west and northwest: nearly an inch (2 cm) at Machachi and a quarter of an inch (6 mm) in Quito.[[ig1877]] NOAA’s database lists {worst_deaths} deaths for the eruption.[[noaa]] The Instituto Geofísico’s account gives no count."
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Cotopaxi?",
+   "paras": [
+    "Cotopaxi is **{summit_ft} ft ({summit_m} m)** high, the figure Ecuador’s Instituto Geofísico uses.[[igepn]] The Smithsonian’s list gives {gvp_summit_m} m.[[gvp]]",
+    "The land around it is already high. Measured against the ground {ring_mi} miles from the summit, the cone stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "The cone is symmetric, with slopes of up to 35 degrees and a base about 12 miles (20 km) across. The crater at the top measures about 2,600 ft (800 m) from north to south and 2,100 ft (650 m) from east to west.[[igepn]]",
+    "A glacier caps the cone. A 2013 study described it as covering the top 3,300 ft (1,000 m).[[redi]] Measurements cited by the Instituto Geofísico put its loss at just over half its area between 1970 and 2017.[[igtag]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Cotopaxi?",
+   "paras": [
+    "Cotopaxi is a **[stratovolcano](/types-of-volcanoes)**.[[gvp]][[igepn]] The Smithsonian lists its main rock as {rock}.[[gvp]]",
+    "Its eruptions are explosive. They produce ash, avalanches of hot ash and gas, and lahars fed by the melting glacier.[[gvp]][[igepn]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Cotopaxi erupt?",
+   "paras": [
+    "Often. The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}.[[gvp]]",
+    "The Instituto Geofísico groups the large ones into five periods since the Spanish conquest: 1532–1534, 1742–1744, 1766–1768, 1853–1854 and 1877–1880.[[igepn]] The Smithsonian rates {n_vei4} of the eruptions in its list VEI 4 and {n_vei5} VEI 5 on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]]",
+    "After 1940 the volcano was mostly quiet for about 70 years.[[gvp]] That ended on August 14, 2015, with two steam-driven explosions at 4:02 and 4:07 a.m. A larger explosion later that morning sent ash to 58,700 ft (17.9 km) above sea level.[[gvp]] Ash fell mainly to the west, and the eruption went on until late November.[[igepn]] The Smithsonian’s record puts the last ash emission on January 24, 2016.[[gvp]]"
+   ]
+  },
+  {
+   "id": "active",
+   "h": "Is Cotopaxi still active?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts in Ecuador, use the Instituto Geofísico.[[igtag]]",
+   "paras": [
+    "Yes. It erupted in 2022 and 2023, and the Instituto Geofísico describes it as active, with fumaroles.[[igepn]]",
+    "The institute has had instruments on Cotopaxi since 1976, when it installed what it calls the first permanent seismic station dedicated to a volcano in South America. It estimates that more than 300,000 people live where lahars could reach in an eruption like those of the 18th and 19th centuries.[[igepn]]",
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for Cotopaxi. Only one records deaths: the 1877 eruption, which NOAA dates {worst_date}, with {worst_deaths} deaths.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Cotopaxi’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Cotopaxi has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from ash layers and other deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "June 26, 1877",
+ "callouts": [
+  {
+   "number": "30",
+   "unit": "minutes",
+   "text": "A little more than this: the time the lahars took to reach Latacunga, 22 miles (35 km) from the volcano.",
+   "source": "Source: Instituto Geofísico, from Teodoro Wolf’s account of 1878.[[ig1877]]"
+  },
+  {
+   "number": "18",
+   "unit": "hours",
+   "text": "About the time the flood took to reach the mouth of the Esmeraldas River on the Pacific.",
+   "source": "Source: Instituto Geofísico, from Teodoro Wolf’s account of 1878.[[ig1877]]"
+  }
+ ],
+ "faq_h": "Cotopaxi questions and answers",
+ "faq": [
+  [
+   "When did Cotopaxi last erupt?",
+   "From {last_start} to {last_end}, with small emissions of gas and ash."
+  ],
+  [
+   "Where is Cotopaxi?",
+   "In the Andes of Ecuador, 28 miles (45 km) southeast of Quito."
+  ],
+  [
+   "How tall is Cotopaxi?",
+   "{summit_ft} ft ({summit_m} m), by the figure of Ecuador’s Instituto Geofísico. The Smithsonian’s list gives {gvp_summit_m} m."
+  ],
+  [
+   "Is Cotopaxi still active?",
+   "Yes. It last erupted in 2022 and 2023, and Ecuador’s Instituto Geofísico monitors it."
+  ],
+  [
+   "When was Cotopaxi’s last major eruption?",
+   "On June 26, 1877. Lahars from the melting glacier reached the town of Latacunga in a little over 30 minutes."
+  ],
+  [
+   "Why is Cotopaxi dangerous?",
+   "An eruption can melt part of its glacier and send lahars down river valleys where, by the Instituto Geofísico’s estimate, more than 300,000 people live."
+  ],
+  [
+   "What type of volcano is Cotopaxi?",
+   "A stratovolcano: a symmetric cone with a glacier on its upper slopes."
+  ],
+  [
+   "How many times has Cotopaxi erupted?",
+   "The Smithsonian’s list has {n_all} confirmed eruptions, {n_since} of them since {since_year}."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Cotopaxi record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=352050"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "igepn",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Cotopaxi (volcano profile, in Spanish)",
+   "url": "https://igepn.edu.ec/cotopaxi?print=1&tmpl=component"
+  },
+  {
+   "id": "igtag",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Reports and articles on Cotopaxi (in Spanish)",
+   "url": "https://www.igepn.edu.ec/interactuamos-con-usted/tag/cotopaxi"
+  },
+  {
+   "id": "ig1877",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Un día como hoy hace 146 años ocurrió la última erupción importante del volcán Cotopaxi (June 26, 2023, in Spanish)",
+   "url": "https://www.igepn.edu.ec/interactuamos-con-usted/2051-un-dia-como-hoy-hace-146-anos-ocurrio-la-ultima-erupcion-importante-del-volcan-cotopaxi"
+  },
+  {
+   "id": "redi",
+   "publisher": "REDI, Ecuador’s research repository (CEDIA)",
+   "title": "Evidence for lahar-triggering mechanisms in complex stratigraphic sequences: the post-twelfth century eruptive activity of Cotopaxi Volcano, Ecuador (2013), abstract",
+   "url": "https://redi.cedia.edu.ec/document/237446"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**{summit_ft} ft ({summit_m} m):** the summit height the Instituto Geofísico gives. The Smithsonian’s list gives {gvp_summit_m} m.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and inches are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_start": "October 21, 2022",
+  "last_end": "July 6, 2023",
+  "summit_m": "5,897",
+  "gvp_summit_m": "5,911",
+  "n_all": "85",
+  "n_since": "60",
+  "max_vei": "5",
+  "n_vei4": "14",
+  "n_vei5": "7",
+  "noaa_n": "6",
+  "noaa_n_word": "six",
+  "worst_deaths": "340",
+  "worst_date": "June 25, 1877"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since 2023 on record.** The Instituto Geofísico’s newest Cotopaxi report, dated October 21, 2026 and read on {read_date}, rates internal and surface activity as low and unchanged.[[igtag]]",
+ "reviewed": null
+}

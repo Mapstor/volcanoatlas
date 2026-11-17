@@ -99,7 +99,10 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
    collapse pit: rim, caldera floor, the pit's bottom, the lava layers that have refilled it and the tallest lava
    fountain, all to one scale, with the pit's levels written on the rock beside it; the fountain climbs and sinks
    from its vent. An ice cap is a pale wash of the water colour over the cone, from the height the source gives, and
-   carries its name on the ice when it is big enough. Nothing erupts in the drawing of a volcano that is not erupting.
+   carries its name on the ice when it is big enough. A volcano on a high plateau (Cotopaxi, on land 12,300 ft up)
+   has the band of land under it cut short with a zigzag break mark, because at one scale the band would be taller
+   than the volcano; everything above the land stays to scale, and the caption says the band is cut. Nothing erupts
+   in the drawing of a volcano that is not erupting.
 6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link. For a
    volcano in the United States it also gives the USGS alert level and aviation color code with the notice's date and
    link, read from the USGS service when the page is rendered.
