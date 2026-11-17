@@ -65,6 +65,11 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 - The map is the first thing under the strip (owner, 17 Nov 2026: the reader should see the map quickly). Its section
   ("Where is …?") sits with it, ahead of the other sections.
 - Side notes (callouts, pencil note) float right of a section on wide screens and follow the section on small ones.
+- The status box (left column, under "Where is …?") answers "what is it doing now" from a source with a date: the
+  USGS alert level read live for a US volcano; otherwise what the volcano's own observatory showed on the day its page
+  was read; plus the weekly report when the volcano is in it.
+- On a phone a record of more than 260 years gets a grid line every 50 years and a year every 100. Year labels are
+  drawn last, on a paper edge, so a red date tick passes behind them.
 - No table scrolls sideways on a desktop: a hidden column reads as a broken page. Cells with a length of time or a
   phrase may break onto a second line (`va-dur`); dates and numbers stay on one line. On a phone a table that still
   does not fit scrolls inside its own box. The page never scrolls sideways.
@@ -92,7 +97,8 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
    cone grow taller than half its base. Summit caldera (Kilauea): the top of the volcano only, cut across the
    collapse pit: rim, caldera floor, the pit's bottom, the lava layers that have refilled it and the tallest lava
    fountain, all to one scale, with the pit's levels written on the rock beside it; the fountain climbs and sinks
-   from its vent. Nothing erupts in the drawing of a volcano that is not erupting.
+   from its vent. An ice cap is a pale wash of the water colour over the cone, from the height the source gives, and
+   carries its name on the ice when it is big enough. Nothing erupts in the drawing of a volcano that is not erupting.
 6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link. For a
    volcano in the United States it also gives the USGS alert level and aviation color code with the notice's date and
    link, read from the USGS service when the page is rendered.

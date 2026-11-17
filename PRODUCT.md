@@ -63,6 +63,11 @@ The site is finished when every page is. Then it is frozen for three months and 
   Smithsonian's last update, and for a US volcano the USGS alert box says what the volcano is doing now.
 - A figure that changes every few weeks (the number of lava-fountain episodes, a lava level) is printed with the date
   it was true and its source, never as a bare "now".
+- "Last erupted" is never printed from the Smithsonian's list alone. The list can run months behind a volcano, so
+  every page of a volcano that is not listed as erupting states what its own observatory showed, with the date it was
+  read (`since_check`): in the status box, or in the notes when a live USGS level already fills that box.
+- Volcano names follow the Smithsonian's list in titles, headings and text (Kilauea, Eyjafjallajokull), because that
+  is what people type; the spelling in the local language is given once near the top and in the notes.
 - Not a monitoring agency. Alert levels and safety decisions belong to the observatories, and pages link to them. A
   page may repeat an observatory's current alert level, word for word, with the notice's date and link; it never works
   one out.
