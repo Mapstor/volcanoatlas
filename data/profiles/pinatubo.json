@@ -1,0 +1,299 @@
+{
+ "slug": "pinatubo",
+ "volcano_number": 273083,
+ "name": "Mount Pinatubo",
+ "country": "Philippines",
+ "title": "Mount Pinatubo: 1991 Eruption, Location, Height & Facts",
+ "description": "Mount Pinatubo’s 1991 eruption was the second largest of the 20th century. What happened, how it cooled the planet, how tall the volcano is now and its last eruption.",
+ "h1": "Mount Pinatubo",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1400
+ },
+ "big": {
+  "line": "Last eruption: {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "a four-minute steam explosion",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "On June 15, 1991 this volcano blew out more than a cubic mile of material, in the second-largest volcanic eruption of the 20th century. Below: what happened, how the eruption cooled the planet, how much shorter the mountain is now, and every eruption on record.",
+ "answer": "**Mount Pinatubo erupted on June 15, 1991**, in the second-largest volcanic eruption of the 20th century.[[fs113]] It is a **stratovolcano** on the island of Luzon in the Philippines, **{summit_ft} ft ({summit_m} m)** high, about {lost_ft} ft lower than before that eruption.[[gvp]][[usgshist]] Its most recent eruption was a small steam explosion on **{last_end}**.[[gvp]]",
+ "timeline": {
+  "from": 1400,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1450,
+    "label": "about 1450"
+   },
+   {
+    "year": 1991.45,
+    "label": "1991"
+   },
+   {
+    "year": 2021.91,
+    "label": "2021"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The first spike is an eruption dated from its deposits to about 1450, give or take 50 years. The group at 1991 is the great eruption and two small ones in 1992 and 1993, and the last spike is the steam explosion of 2021.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "the top fell in on June 15, 1991",
+  "crater": "1991 caldera",
+  "crater_depth_m": 650,
+  "crater_depth_text": "over 2,100 ft deep",
+  "crater_share": 0.22,
+  "former": {
+   "m": 1745,
+   "ft": 5725,
+   "label": "5,725 ft until June 1991"
+  },
+  "caption": "Mount Pinatubo cut open. The summit height, the earlier summit, the depth of the caldera and the land around the volcano are to scale; the outline is schematic.[[gvp]][[usgshist]][[fm5]][[etopo]] A lake covers the caldera floor and is not drawn.[[gvp]]"
+ },
+ "map_zoom": 6,
+ "map_label": "left",
+ "table": {
+  "gap_label": "Quiet time that followed",
+  "last_length": "about 4 minutes",
+  "calc_note": "Lengths and gaps are calculated from its dates; the four minutes of 2021 are from the Smithsonian’s report."
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Pinatubo?",
+   "map": true,
+   "paras": [
+    "Mount Pinatubo is on the island of Luzon in the Philippines, about 60 miles (100 km) northwest of Manila, at {coords}.[[gvp]] The former Clark Air Base lies east of the volcano, within 16 miles (25 km) of the summit, and Subic Bay is about 25 miles (40 km) to the southwest.[[overview]] It is one of {n_country} volcanoes in the [Philippines](/volcanoes-in-philippines) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1991",
+   "h": "What happened in the 1991 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The volcano had been quiet for about 500 years.[[fs113]] On **April 2, 1991**, steam explosions broke out along a fissure high on its north flank. The first evacuation followed that month: about 5,000 people living within 6 miles (10 km) of the summit.[[overview]]",
+    "From June 7 the first magma to reach the surface built a lava dome.[[fs113]] On **June 12** more gas-rich magma arrived and exploded, and the ash column rose at least 12 miles (19 km).[[fs113]][[overview]] That day the evacuation zone was widened to 19 miles (30 km) from the summit, and at least 58,000 people had left. About 14,500 U.S. military personnel and dependents had left Clark Air Base two days earlier.[[overview]]",
+    "The climactic eruption began at 1:42 p.m. on **June 15, 1991** and lasted about nine hours.[[overview]] It threw out more than 1 cubic mile (5 cubic km) of material, and its ash cloud rose 22 miles (35 km).[[fs113]] Avalanches of hot ash and gas ran 7 to 10 miles (12 to 16 km) from the vent and left deposits as much as 660 ft (200 m) thick in the valleys.[[fs113]][[overview]]",
+    "With that much magma gone from beneath it, the summit collapsed into a caldera 1.6 miles (2.5 km) across.[[fs113]]",
+    "Typhoon Yunya came ashore the same morning and, weakened to a tropical storm, passed about 47 miles (75 km) northeast of the volcano. Its rain soaked the falling ash, and thousands of roofs gave way under the weight.[[fs113]][[overview]]",
+    "More than 840 people died, most of them under collapsed roofs, by a USGS count published in 2016.[[usgs25]] NOAA’s database lists {worst_deaths} deaths for the eruption.[[noaa]] Scientists from USGS and the Philippine Institute of Volcanology and Seismology (PHIVOLCS) had forecast it, and USGS credits the forecast with saving at least 5,000 lives and at least $250 million in property.[[fs113]]"
+   ]
+  },
+  {
+   "id": "climate",
+   "h": "How did Mount Pinatubo affect the climate?",
+   "paras": [
+    "The eruption put nearly 20 million tons of sulfur dioxide into the stratosphere. The gas cloud spread around the world, and from 1991 through 1993 global temperatures dropped by about 1°F (0.5°C).[[fs113]]",
+    "Fine ash fell as far away as the Indian Ocean, and satellites tracked the ash cloud several times around the globe.[[fs113]] At least 17 commercial jets flew through it, at a cost of about $100 million in damage.[[usgs25]]"
+   ]
+  },
+  {
+   "id": "after",
+   "h": "What happened after the eruption?",
+   "paras": [
+    "The eruption left the slopes buried in loose ash and pumice, and rain turned it into mudflows called lahars. They began on June 15 in every major river valley that drains the volcano. By the end of October 1991 they had buried lowland ground under about 0.2 cubic miles (0.9 cubic km) of new deposits.[[overview]]",
+    "USGS wrote in 1997 that the lahars had caused more destruction than the eruption itself. About 20,000 Aeta people who had lived on the volcano’s slopes were displaced, and about 200,000 people from the lowlands had returned to homes that lahars still threatened.[[fs113]]",
+    "Weaker ash eruptions went on until early September 1991.[[fs113]] From July to October 1992 a lava dome grew inside the new caldera, 1,150 to 1,500 ft (350 to 450 m) across and about 500 ft (150 m) high.[[overview]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mount Pinatubo last erupt?",
+   "table": "periods",
+   "paras": [
+    "Mount Pinatubo last erupted on **{last_end}**. It was a weak steam-driven explosion that lasted about four minutes, from 12:09 to 12:13 p.m. local time. The plume, mostly steam, rose to about 44,000 ft (13.4 km).[[gvp]]",
+    "Earlier that year the volcano had two swarms of small earthquakes, and on March 4, 2021 PHIVOLCS raised its alert level from 0 to 1 on a scale that runs to 5.[[gvp]] When PHIVOLCS’s monitoring page was read on {read_date}, the level was back at 0.[[phivolcs]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Pinatubo?",
+   "paras": [
+    "Mount Pinatubo is **{summit_ft} ft ({summit_m} m)** high on the Smithsonian’s list.[[gvp]] Until June 1991 it stood {former_ft} ft ({former_m} m), so the eruption took about {lost_ft} ft ({lost_m} m) off the top.[[usgshist]]",
+    "Even before 1991 it did not stand out. USGS geologists describe the old summit as only about 2,000 ft (600 m) above the sloping ground around it and about 650 ft (200 m) above neighboring mountains, which mostly hid it from view.[[usgshist]] Measured against the land {ring_mi} miles from the summit, today’s peak stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "The caldera that replaced the summit is 1.6 miles (2.5 km) across and more than 2,100 ft (650 m) deep.[[fm5]] A lake covers its floor.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount Pinatubo?",
+   "paras": [
+    "Mount Pinatubo is a **[stratovolcano](/types-of-volcanoes)** above a subduction zone.[[gvp]] Before 1991 its top was a cluster of lava domes with no crater.[[gvp]][[usgshist]] Today the top is the caldera of 1991.",
+    "The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount Pinatubo erupt?",
+   "paras": [
+    "Rarely, and in bursts. The Smithsonian’s list has **{n_all} confirmed eruptions**, the oldest from around {oldest}. It rates {n_vei6} of them VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index), 1991 among them.[[gvp]]",
+    "USGS and PHIVOLCS geologists who mapped the volcano’s deposits found six earlier eruptive periods, the first more than 35,000 years ago. Quiet spells of centuries to thousands of years separate them, and the 500 years of quiet before 1991 was a short one for Pinatubo.[[usgshist]]",
+    "By their reckoning 1991 was one of the smallest eruptions in that record. The first and largest was about five times its size.[[usgshist]]"
+   ]
+  },
+  {
+   "id": "active",
+   "h": "Is Mount Pinatubo still active?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts in the Philippines, use PHIVOLCS.[[phivolcs]]",
+   "paras": [
+    "Yes. It erupted in 2021, and PHIVOLCS monitors it.[[gvp]] On {read_date} PHIVOLCS’s monitoring page showed Pinatubo at Alert Level 0, the lowest, with the words “No eruption in foreseeable future.”[[phivolcs]]",
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for Pinatubo. The deadliest is {worst_date}, with {worst_deaths} deaths, and three later entries in 1992 and 1993 also record deaths.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Pinatubo’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mount Pinatubo has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from their deposits by radiocarbon.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "June 15, 1991",
+ "callouts": [
+  {
+   "number": "22",
+   "unit": "miles",
+   "text": "Height the ash cloud reached in the climactic eruption (35 km).",
+   "source": "Source: U.S. Geological Survey.[[fs113]]"
+  },
+  {
+   "number": "5,000",
+   "unit": "lives",
+   "text": "Lives saved by the forecast of the eruption, at least, by USGS’s estimate.",
+   "source": "Source: U.S. Geological Survey.[[fs113]]"
+  }
+ ],
+ "faq_h": "Mount Pinatubo questions and answers",
+ "faq": [
+  [
+   "When did Mount Pinatubo erupt?",
+   "Its great eruption was on June 15, 1991. Its most recent eruption was a small steam explosion on {last_end}."
+  ],
+  [
+   "Where is Mount Pinatubo?",
+   "On the island of Luzon in the Philippines, about 60 miles (100 km) northwest of Manila."
+  ],
+  [
+   "How many people died in the 1991 eruption?",
+   "More than 840, by a USGS count published in 2016, most of them under roofs that collapsed under wet ash. NOAA’s database lists {worst_deaths}."
+  ],
+  [
+   "How big was the 1991 eruption?",
+   "It threw out more than 1 cubic mile (5 cubic km) of material and is rated VEI {max_vei}. USGS calls it the second-largest volcanic eruption of the 20th century."
+  ],
+  [
+   "How did the eruption affect the climate?",
+   "It put nearly 20 million tons of sulfur dioxide into the stratosphere, and global temperatures dropped by about 1°F (0.5°C) from 1991 through 1993."
+  ],
+  [
+   "How tall is Mount Pinatubo?",
+   "{summit_ft} ft ({summit_m} m). Before the 1991 eruption it was {former_ft} ft ({former_m} m)."
+  ],
+  [
+   "What type of volcano is Mount Pinatubo?",
+   "A stratovolcano. Its summit is a caldera 1.6 miles (2.5 km) across, formed in 1991, with a lake on its floor."
+  ],
+  [
+   "Is Mount Pinatubo still active?",
+   "Yes. It last erupted in 2021 and PHIVOLCS monitors it."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Pinatubo record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=273083"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "fs113",
+   "publisher": "U.S. Geological Survey",
+   "title": "The Cataclysmic 1991 Eruption of Mount Pinatubo, Philippines: Fact Sheet 113-97 (1997)",
+   "url": "https://pubs.usgs.gov/fs/old.1997/fs113-97/fs113-97.pdf"
+  },
+  {
+   "id": "overview",
+   "publisher": "U.S. Geological Survey and PHIVOLCS",
+   "title": "Wolfe and Hoblitt, Overview of the Eruptions, in Fire and Mud: Eruptions and Lahars of Mount Pinatubo, Philippines (1996)",
+   "url": "https://pubs.usgs.gov/pinatubo/wolfe/index.html"
+  },
+  {
+   "id": "usgshist",
+   "publisher": "U.S. Geological Survey and PHIVOLCS",
+   "title": "Newhall and others, Eruptive History of Mount Pinatubo, in Fire and Mud (1996)",
+   "url": "https://pubs.usgs.gov/pinatubo/newhall/"
+  },
+  {
+   "id": "fm5",
+   "publisher": "U.S. Geological Survey and PHIVOLCS",
+   "title": "Fire and Mud: Observations and Reconstructions, the 1991–92 Eruptions (1996)",
+   "url": "https://pubs.usgs.gov/pinatubo/section5.html"
+  },
+  {
+   "id": "usgs25",
+   "publisher": "U.S. Geological Survey",
+   "title": "Remembering Mount Pinatubo 25 Years Ago: Mitigating a Crisis (June 13, 2016)",
+   "url": "https://www.usgs.gov/news/remembering-mount-pinatubo-25-years-ago-mitigating-crisis"
+  },
+  {
+   "id": "phivolcs",
+   "publisher": "DOST-PHIVOLCS, GeoRisk Philippines",
+   "title": "HazardHunterPH: volcano monitoring, alert levels",
+   "url": "https://hazardhunter.georisk.gov.ph/monitoring/volcano"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the last eruption in the Smithsonian’s record, to today.",
+  "**about {lost_ft} ft ({lost_m} m):** {former_m} m before June 1991, from USGS, minus {summit_m} m today, from the Smithsonian.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet and miles are converted from the metric figures in the sources and rounded, except where a source prints both."
+ ],
+ "expect": {
+  "last_end": "November 30, 2021",
+  "summit_m": "1,486",
+  "summit_ft": "4,875",
+  "lost_ft": "850",
+  "lost_m": "259",
+  "n_all": "9",
+  "n_since": "5",
+  "max_vei": "6",
+  "largest_year": "1991",
+  "n_vei6": "4",
+  "noaa_n": "6",
+  "noaa_n_word": "six",
+  "worst_deaths": "800",
+  "worst_date": "June 15, 1991",
+  "n_observed": "4",
+  "n_dated": "5",
+  "oldest": "7460 BCE"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since 2021 on record.** PHIVOLCS’s monitoring page, read on {read_date}, showed Pinatubo at Alert Level 0, the lowest level.[[phivolcs]]",
+ "reviewed": null
+}

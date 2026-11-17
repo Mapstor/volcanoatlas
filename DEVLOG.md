@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-008_
-- Step: ten pages — 6 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull live since 2026-11-17 without his name until he has read them. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+_last update: 2026-11-17 · VOL-009_
+- Step: ten pages — 6 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull live since 2026-11-17 without his name until he has read them. Mount Pinatubo built 2026-11-17 as the seventh (pull request open at the time of writing). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 6 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 4 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull).
-- Last confirmed: VOL-008 EYJA — live (490ec5a): Eyjafjallajokull as a record page; every non-erupting volcano's page now carries a dated check of its observatory (see §6).
+- Last confirmed: VOL-009 PINATUBO — done: Mount Pinatubo as a record page (see §6). Before it: VOL-008 EYJA live (490ec5a).
 - In flight (handed, NOT confirmed): none
-- Next action: Pinatubo (USGS Fact Sheet 113-97 and PHIVOLCS; fits the land drawing with an earlier summit and a crater), then Cotopaxi, Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: merge and check Mount Pinatubo live if the pull request is still open; then Cotopaxi (the Instituto Geofísico's own pages and its newest report for `since_check`; the Smithsonian lists 5,911 m, Ecuadorian sources 5,897 m), Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: reading Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull; his name and the date go on after he says so.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -80,6 +80,8 @@ _last update: 2026-11-17 · VOL-008_
 - D-44 · 2026-11-17 · Volcano names follow the Smithsonian's list in titles, headings and text ("Kilauea", "Eyjafjallajokull"), with the local spelling given once ("Kīlauea", "Eyjafjallajökull"); other place names keep their marks, as the observatories write them. The title has to match what people type.
 - D-45 · 2026-11-17 · Every page of a volcano the Smithsonian does not list as erupting carries `since_check`: what its own observatory showed on the day it was read, with the source. The build stops without it. It shows in the status box at the top; a US volcano's box holds the live USGS level, so there it goes into the notes. Reason: the list ended Krakatau's last eruption in February 2024 while Indonesia's agency reported eruptions through 2026. An automatic check against the Smithsonian's weekly-report archive was not possible on 2026-11-17: its volcano pages answered "temporarily unavailable" to the workspace and the map service has no weekly-report layer.
 
+- D-46 · 2026-11-17 · Lengths of time agree with each other on a page: a time that runs to today is never rounded up into a year that has not passed (the table's "so far" and the big number say the same), an eruption that began and ended on one day prints as one date, and a length a report gives more exactly than the dates do may replace the calculated one for the newest eruption (`table.last_length`, with the source named under the table) — a table said "5 years so far" beside a headline "4 years ago", and "1 day" beside a text that said four minutes.
+
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
 - 2026-11-15 · Keeping database-only pages indexable — see D-01.
@@ -135,6 +137,9 @@ _last update: 2026-11-17 · VOL-008_
 - The development server (`next dev`) can start with the same dropped font download as the build and then answers 500 forever: stop it, `rm -rf .next`, start again.
 - Kilauea carries dated statements that go stale: the episode count (56 on 5 Nov 2026), the lava level (30 Jun 2026) and the tallest fountain. They sit in `data/profiles/kilauea.json` (text and `section.cut`) and come from USGS's Eruption Information page.
 - The Smithsonian's eruption list can lag the volcano by months. Krakatau, read 2026-11-17: the list's last eruption ends February 20, 2024, while Indonesia's volcano agency (PVMBG, through MAGMA Indonesia) reported eruptions through 2026 at alert level III; news reports of September 2026 quote its bulletins. A page must not print "last erupted" from the list alone when the observatory says otherwise: read the observatory's current bulletin before writing any page, and give such a page a sourced, dated activity line. The list also gives Krakatau's summit as 285 m while PVMBG's 2026 bulletins imply 157 m (ash 250 m above the peak = 407 m above sea level).
+
+- USGS fact sheets of 1997: the web pages under `pubs.usgs.gov/fs/1997/…` did not answer on 2026-11-17, while the PDFs under `pubs.usgs.gov/fs/old.1997/…` did. Search for the PDF address and link that.
+- A profile's JSON is kept in memory by the production server; the dev server reads it again on every request. A changed profile that does not show locally means the server was started in production mode.
 
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
@@ -305,6 +310,14 @@ _last update: 2026-11-17 · VOL-008_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: 490ec5a (merged)
 - Notes: pubs.usgs.gov did not answer two fetches of the Pinatubo fact sheet on 2026-11-17 (site error); try again before choosing another volcano.
+
+### 2026-11-17 · VOL-009 PINATUBO · chat · done
+- What: Mount Pinatubo as a record page, from USGS Fact Sheet 113-97, three chapters of Fire and Mud (1996), USGS's 2016 feature, the Smithsonian's record and reports, NOAA, and PHIVOLCS's monitoring page (Alert Level 0 on the day it was read). Template: D-46 (`last_span`, `table.last_length`, no rounding up of a time "so far"); `map_label: "left"`; `crater_depth_text` for a depth the source gives as a bound; the phone drawing drops the summit label's third line when it would touch the earlier-summit outline (this also changes Mount St. Helens' phone drawing); "In the Philippines" / "In the United States" in the related links.
+- Files: `data/profiles/pinatubo.json`, `components/record/{figures,RecordMap}.tsx`, `lib/{recordProfile,eruptions}.ts`, `app/volcano/[slug]/RecordPage.tsx`, `scripts/check-render.py`, `research/*.csv`, `DESIGN.md`
+- Verified: on the final code: tsc and eslint on the changed files clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 7 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (12 verified). Pictures looked at: the page at 1440 and 390 px, the drawing at both widths (and Mount St. Helens' phone drawing), the map with real tiles at both widths.
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/pinatubo. Sources disagree and the page says so: deaths (USGS in 2016 more than 840, NOAA 800; the 1996 overview has 200 to 300 during the eruption itself), the height of the ash cloud and the SO2 mass (details in the registry notes). The summit loss of 259 m is calculated from USGS's old height and the Smithsonian's current one.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
