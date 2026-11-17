@@ -200,6 +200,14 @@ _last update: 2026-11-17 · VOL-005_
 - Commit: this commit (pushed: work branch)
 - Notes: not counted as finished until the owner has seen it: pages finished 1 of 213. Sourcing, prose and design pass on the checks above; Raptive waits for his read.
 
+### 2026-11-17 · VOL-005 MAUNALOA · chat · done (preview checked)
+- What: the preview of pull request #6 looked at in the owner's Chrome; a 23-hour share link made for him.
+- Files: this entry
+- Verified: Vercel preview build of 78f2fe2 READY. In the owner's Chrome (window 1512 px wide) on the preview: Mauna Loa shows the main number, then the red ring and note a second later; the strip is drawn; the map loads 6 tiles with the island in frame; the sea floor in the drawing is part-way down at one scroll position and fully down at the next; the waves moved between two readings a second apart; the USGS alert box is filled on Vercel's servers (NORMAL, GREEN, notice of November 6, 2026); 57 source marks all point at one of 11 entries; both fonts load; no sideways scroll. Stromboli on the same preview looks as it does live, with the two exact table cells and "Deaths recorded".
+- Unverified: phone width in his Chrome (checked in headless Chrome at 390 and 586 px); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: the pull request stays open until the owner has seen the page. Pages finished 1 of 213.
+
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
 - 2026-03 · ads.txt added (03-16)
