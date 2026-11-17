@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-015_
+_last update: 2026-11-17 · VOL-016_
 - Step: all pages — the ten-page step is complete; 12 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal, Mount Pelee and Mount Asama (/volcano/asamayama) without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 12 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 10 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama).
-- Last confirmed: VOL-014 ASAMA — live (b522b62): Mount Asama as a record page at /volcano/asamayama (see §6). VOL-015 FONTS — done (pushed on its work branch): the frame's three typefaces ship with the site; preview look, merge and live check follow.
+- Last confirmed: VOL-015 FONTS — live (c911be5): the frame's typefaces ship with the site. VOL-016 KANLAON — done (pushed on its work branch): Kanlaon as a record page and the alert level on Sakurajima's page; preview look, merge and live check follow.
 - In flight (handed, NOT confirmed): none
-- Next action: Rabaul (252140), Villarrica (357120) and the rest by search demand. Pelee was taken first because its observatory's reports were readable; for these two the current statement of the observatory still has to be found (Rabaul's observatory has no site of its own). Japan's volcanoes are easier than they looked: the weather agency has a plain status page for each (§4). Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: the next volcano pages by search demand among those whose observatory can be read and whose shape an existing drawing fits: Bulusan (PHIVOLCS, same sources as Kanlaon), Ambae and Ambrym (Vanuatu), Nyiragongo, Colima, Galeras and Nevado del Ruiz (Colombia's survey), Momotombo and Masaya (Nicaragua), then on down the list. Deferred, each with its reason in §5: Krakatau, Novarupta, Rabaul, Villarrica; Grimsvotn, Kikai and Campi Flegrei need a drawing of their own too (ice-covered or sea-flooded calderas). Research notes of a volcano go into a notes file as each source is read. Each page: data sheet from the site's own files, observatory read incl. its current statement, profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged only on a green status, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee and Mount Asama are new since then. On 2026-11-17 20:18 he wrote "font ok, lets just continue": fonts answered (VOL-015), no pages named, so still no new bylines.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -154,6 +154,10 @@ _last update: 2026-11-17 · VOL-015_
 
 - Mount Pelee carries dated statements from its observatory that go stale: the earthquake count (September 2026), the swelling of the summit and the alert level (yellow, weekly report of 13 Nov 2026). They sit in `data/profiles/pelee.json` and come from the OVSM-IPGP bulletins listed at ipgp.fr/en/observatory-releases-and-bulletins/. Read the newest bulletin at each data refresh.
 - Mount Asama carries dated statements from the agency's status page that go stale: Level 1 (lowered from 2 on 22 May 2026) and the commentary of 13 Nov 2026 (36 volcanic earthquakes a day). They sit in `data/profiles/asamayama.json`. Read the status page at each data refresh.
+- Sakurajima and Kanlaon carry dated statements too: Sakurajima's alert level (3; warning of 27 Jul 2022; commentary of 16 Nov 2026) in `data/profiles/aira.json`, Kanlaon's alert level (2, read 17 Nov 2026), its explosions of 2025–2026 and its gas average in `data/profiles/kanlaon.json`. Read the agencies' pages at each data refresh.
+- PHIVOLCS: the alert levels are on hazardhunter.georisk.gov.ph/monitoring/volcano (a plain fetch reads it). When several volcanoes show the same "since" date there, it is a system date, not the start of the level: print none. The bulletins at wovodat.phivolcs.dost.gov.ph load their text with JavaScript: a fetch returns header and footer only, so read them as search-result text (search restricted to phivolcs.dost.gov.ph).
+- Chile's SERNAGEOMIN (both of its sites) refuses the fetch tool. Do not go around a refusal with another tool. A Chilean volcano needs another readable source with a current date (the Smithsonian's weekly reports relay the agency), or it waits.
+- The fetch tool's copy of a Smithsonian volcano page can be older than the site's data file and carries no Geological Summary. The data file is the record; take a summary sentence only from text that was actually read (a report page or search-result text), and say in the log how it was read.
 
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
@@ -168,12 +172,13 @@ _last update: 2026-11-17 · VOL-015_
 - [P1] Hubs: `/countries` as a data page; `/active-volcanoes` from the Smithsonian's continuing-eruptions flag; `/deadliest-eruptions` from NOAA's records; `/map` with all records; titles over 60 characters.
 - [P1] Trust frame: methodology and sources page from the registry, final "how this site is made" text, a contact route that works, consent mechanism decision.
 - [P1] Rebuilt pages: own share image per page; Article and Dataset markup once the byline is on (D-04).
-- [P1] Database-only pages (about 1,070): with eruption tables they gain real data; decide page by page which earn indexing.
+- [P1] Database-only pages (about 1,070): with eruption tables they gain real data; decide page by page which earn indexing. Nine of them showed search demand in the owner's export and are the first candidates if he wants pages beyond the 213: Langila, Chimborazo, Lautaro, Bamus, Pagan, Blup Blup, Pululahua, Nabro, Suwanosejima (his decision; not started).
 - [P2] Licensed imagery; final map tiles.
 - [P2] Raptive readiness pass, logged human review of the top 30 pages, freeze for three months.
 - [P2] Clean-up: 66 lint findings; old helper scripts in `scripts/*.js`; stray audit files at the repo root; unused `next-sitemap` dependency; unused `UNSPLASH_ACCESS_KEY` variable in Vercel.
 
-- [P1] Sakurajima: read the weather agency's status page for the volcano (§4) and put the alert level in force, with its date, on /volcano/aira. The page now links the JavaScript map and states no level.
+- [P0] Rabaul: a sea-flooded caldera whose listed summit (688 m) is a point on the rim while the active cones, Tavurvur and Vulcan, are low: the land drawing would lie. It needs its own drawing (rim, bay, the two cones), and its observatory has no site of its own (use the Smithsonian's newest report, found by search, and say so).
+- [P0] Villarrica: SERNAGEOMIN cannot be read (§4), the newest readable relay is the Smithsonian's report for 3–9 Sep 2026 (alert raised from Green to Yellow on 4 Sep 2026: more earthquakes, small explosions, a rising lava lake), and the Smithsonian's list (7 Aug 2026) predates that unrest. A page built now would print a ten-week-old status for a volcano on Yellow alert. Rebuild when the list is refreshed or a current relay can be read (try SENAPRED).
 - [P2] The street map prints place names in the local script (Japanese around Sakurajima), which a US reader cannot read. Look for a map layer with English labels whose terms allow use on a site with ads; until then the text says where the nearest city is.
 
 - [P2] All three frame typefaces are preloaded on every page, as before VOL-015. The mono face is used in a handful of places (the 404 page among them): check whether it earns its preload, and move Archivo and Caveat into `next/font/local` when the last page has the look (D-24).
@@ -433,6 +438,22 @@ _last update: 2026-11-17 · VOL-015_
 - Unverified: the preview and the live site in the owner's Chrome (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: while fonts load, the frame's headings now fall back to a size-matched Times New Roman instead of Georgia (less jump). Preload unchanged: three files on every page (§5).
+
+### 2026-11-17 · VOL-015 FONTS · chat · live
+- What: pull request 26 merged (merge commit c911be5) on a green status; the site's frame loads its three typefaces from the site itself.
+- Files: none beyond the pull request
+- Verified: in the owner's Chrome at 1512 px, the preview against the live site before the merge: page height and the boxes of logo, headline, footer and navigation identical on the home page, the Japan page, an old profile, a hub and Stromboli (3,257 / 13,848 / 3,803 / 6,320 / 8,201 px tall). After the merge: production build of c911be5 green; the live home page gives the same numbers, loads three font files from the site and makes no request to Google; the 404 page shows the mono face.
+- Unverified: a real phone.
+- Commit: c911be5 (merged)
+- Notes: recorded with batch 11 instead of a notebook-only pull request.
+
+### 2026-11-17 · VOL-016 KANLAON · chat · done
+- What: Kanlaon as a record page (erupting since October 19, 2024 by the Smithsonian's list), from the Philippine agency's alert-status page (Level 2, read 2026-11-17), four of its bulletins of 2025–2026, the Smithsonian's weekly reports of 2024 and its bulletin on the 1996 deaths, and NOAA. Sakurajima's page gains the alert level in force (Level 3; warning of 27 Jul 2022; commentary of 16 Nov 2026) from the weather agency's status page. No template change. Rabaul and Villarrica deferred with reasons (§5).
+- Files: `data/profiles/{kanlaon,aira}.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build at the first try; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 13 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: Kanlaon's page top and middle at 1440 px, the phone page, the drawing at both widths, the map with real tiles at two zooms and four name positions.
+- Unverified: the preview and the live pages in the owner's Chrome (next entry); a real phone. The PHIVOLCS bulletins and the Smithsonian's 1996 bulletin were read as search-result text (their pages could not be fetched); the Japanese status page through a summarising translation.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/kanlaon; /volcano/aira changed (status box, answer, "erupting now"). Kanlaon's page gives no date for the return from Level 3 to Level 2 (not found).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
