@@ -67,6 +67,12 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Coordinates', ctx.coords);
   fact('Smithsonian no.', String(profile.volcano_number));
 
+  // The "where" section (the one with the map) sits right under the strip; the rest follow in the profile's order.
+  const where = profile.sections.find((section) => section.map);
+  const sections = profile.sections.filter((section) => section !== where);
+  const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
+  const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
+
   const others = (await getAllVolcanoes())
     .filter((v) => v.hero.country === volcano.country && v.slug !== profile.slug)
     .sort((a, b) => a.hero.name.localeCompare(b.hero.name));
@@ -96,6 +102,18 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
     containedInPlace: { '@type': 'Country', name: volcano.country },
     sameAs: [gvpUrl],
   };
+  const articleLd = profile.reviewed
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: plain(profile.title, ctx),
+        description: plain(profile.description, ctx),
+        mainEntityOfPage: `${SITE_URL}${path}`,
+        dateModified: profile.reviewed,
+        author: { '@type': 'Person', '@id': `${SITE_URL}${AUTHOR.page}#author`, name: AUTHOR.name, url: `${SITE_URL}${AUTHOR.page}` },
+        about: { '@id': `${SITE_URL}${path}#place` },
+      }
+    : null;
   const faqLd = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -239,6 +257,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
       <JsonLd data={placeLd} />
       <JsonLd data={breadcrumbLd(crumbs)} />
       <JsonLd data={faqLd} />
+      {articleLd && <JsonLd data={articleLd} />}
 
       <article className="va-page">
         <header className="va-hero">
@@ -255,7 +274,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           <p className="va-dataline">
             {profile.reviewed && (
               <>
-                By <Link href={AUTHOR.page}>{AUTHOR.name}</Link>, {AUTHOR.credential}
+                By <Link href={`${AUTHOR.page}#author`}>{AUTHOR.name}</Link>, {AUTHOR.credential}
                 <span className="va-dot"> · </span>Reviewed {longDate(isoToYmd(profile.reviewed))}
                 <span className="va-dot"> · </span>
               </>
@@ -301,6 +320,28 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
         </header>
 
         <div className="va-band">
+          {where && (
+            <section className="va-where" id={`va-${where.id}`} aria-labelledby="va-where-h">
+              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} />
+              <h2 id="va-where-h">{where.h}</h2>
+              {where.paras.map((para, i) => (
+                <Html key={i} html={r(para)} />
+              ))}
+              <p className="va-srcline">
+                <a href={bigMap} rel="noopener">
+                  Larger map on OpenStreetMap
+                </a>
+              </p>
+            </section>
+          )}
+          <figure className="va-fig va-bandfig">
+            <SectionDrawing data={data} />
+            <SectionDrawing data={data} compact />
+            <Html as="figcaption" html={r(profile.section.caption)} />
+          </figure>
+        </div>
+
+        <div className="va-band va-band2">
           <div className="va-bandtext">
             {weekly && (
               <div className="va-weekly">
@@ -319,28 +360,23 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               </div>
             )}
             <Html className="va-lede" html={r(profile.lede)} />
-            <section className="va-factbox" aria-labelledby="va-facts-h">
-              <h2 id="va-facts-h">{name} key facts</h2>
-              <dl className="va-facts">
-                {keyFacts.map(([label, value]) => (
-                  <div key={label}>
-                    <dt>{label}</dt>
-                    <dd>{value}</dd>
-                  </div>
-                ))}
-              </dl>
-              <Html className="va-csrc" html={`Sources: Smithsonian Global Volcanism Program;${ref('gvp')} INGV for the base.${ref('ingv')}`} />
-            </section>
           </div>
-          <figure className="va-fig va-bandfig">
-            <SectionDrawing data={data} />
-            <SectionDrawing data={data} compact />
-            <Html as="figcaption" html={r(profile.section.caption)} />
-          </figure>
+          <section className="va-factbox" aria-labelledby="va-facts-h">
+            <h2 id="va-facts-h">{name} key facts</h2>
+            <dl className="va-facts">
+              {keyFacts.map(([label, value]) => (
+                <div key={label}>
+                  <dt>{label}</dt>
+                  <dd>{value}</dd>
+                </div>
+              ))}
+            </dl>
+            <Html className="va-csrc" html={`Sources: Smithsonian Global Volcanism Program;${ref('gvp')} INGV for the base.${ref('ingv')}`} />
+          </section>
         </div>
 
         <div className="va-main">
-          {profile.sections.map((section) => (
+          {sections.map((section) => (
             <section className="va-sec-block" id={`va-${section.id}`} key={section.id}>
               {section.aside === 'callouts' && callouts}
               <div className="va-col">
@@ -350,18 +386,6 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 ))}
                 {section.table && tables[section.table]}
                 {section.note && <Html className="va-note" html={r(section.note)} />}
-                {section.map && (
-                  <LazyMap
-                    name={name}
-                    lat={volcano.lat}
-                    lon={volcano.lon}
-                    elevation={volcano.elevation ?? 0}
-                    type={ctx.type ?? 'Volcano'}
-                    country={volcano.country}
-                    region={volcano.region ?? ''}
-                    status={ctx.cur_start ? `Erupting since ${ctx.cur_start}` : 'See the record on this page'}
-                  />
-                )}
               </div>
             </section>
           ))}

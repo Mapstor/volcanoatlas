@@ -56,10 +56,12 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 ## Layout
 
 - Text column 720 px, page width 1140 px. The strip runs edge to edge.
-- Order on a wide screen: title, main number beside the answer paragraph, strip, caption, then the report box and key
-  facts beside the cut-open volcano, then the sections.
-- Order on a phone (980 px and below): title, main number, strip, caption, answer paragraph, cut-open volcano, report
+- Order on a wide screen: title and author line, main number beside the answer paragraph, strip, caption, then the map
+  beside the cut-open volcano, then the report box beside the key facts, then the sections.
+- Order on a phone: title, main number, strip, caption, author line, answer paragraph, map, cut-open volcano, report
   box, key facts, sections. The strip sits right under the number so its line is on screen while it draws.
+- The map is the first thing under the strip (owner, 17 Nov 2026: the reader should see the map quickly). Its section
+  ("Where is …?") sits with it, ahead of the other sections.
 - Side notes (callouts, pencil note) float right of a section on wide screens and follow the section on small ones.
 - Wide tables scroll inside their own box. The page never scrolls sideways.
 
@@ -69,12 +71,15 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 2. **Pencil ring and note.** A red ring is drawn around the number, then a handwritten note appears.
 3. **The record strip.** Paper strip with sprocket holes. The line is high while the Smithsonian lists an eruption in
    progress and flat during a pause; a red band under it marks time in eruption. Pauses are labelled in red pencil.
-4. **The cut-open volcano.** Section drawing with heights to scale. Gas bubbles rise in the conduit and burst at the vent.
-5. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link.
-6. **Key facts.** Plain two-column list on paper.
-7. **Sections.** One question per h2, answer first, table where there is a record to show.
-8. **Callouts.** At most two, ink border, the number in eruption red, source line under it.
-9. **Questions and answers, sources, more volcanoes.** Two columns on wide screens.
+4. **The map.** A street map toned down to grey, so the red pencil leads: a red ring around the volcano and its name in
+   handwriting. No scroll-wheel zoom. On a touch screen one finger scrolls the page, not the map; the map zooms by its
+   buttons or a pinch. A link under it opens a larger map.
+5. **The cut-open volcano.** Section drawing with heights to scale. Gas bubbles rise in the conduit and burst at the vent.
+6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link.
+7. **Key facts.** Plain two-column list on paper.
+8. **Sections.** One question per h2, answer first, table where there is a record to show.
+9. **Callouts.** At most two, ink border, the number in eruption red, source line under it.
+10. **Questions and answers, sources, more volcanoes.** Two columns on wide screens.
 
 Every label and position in a drawing comes from the source data (`lib/recordProfile.ts`). A caption says what the
 drawing is made from and what is schematic ("heights are to scale; the shape is not surveyed").

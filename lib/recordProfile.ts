@@ -47,6 +47,8 @@ export interface RecordProfile {
   lede: string;
   answer: string;
   timeline: { from: number; to: number; marks: { year: number; label: string }[]; caption: string };
+  /** Zoom of the locator map; 7 (a region a few hundred miles across) when left out. */
+  map_zoom?: number;
   section: { note: string; caption: string };
   sections: RecordSection[];
   callouts: { number: string; unit: string; text: string }[];

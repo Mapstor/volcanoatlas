@@ -1,11 +1,12 @@
 import Link from 'next/link';
 import { getAllCountries, getAllVolcanoes } from '@/lib/data';
 import { getAllGvp } from '@/lib/gvp';
-import { GVP_EXPORT_DATE, GVP_HOME, pageMeta } from '@/lib/site';
+import JsonLd from '@/components/JsonLd';
+import { AUTHOR, GVP_EXPORT_DATE, GVP_HOME, SITE_URL, pageMeta } from '@/lib/site';
 
 export const metadata = pageMeta({
   title: 'About VolcanoAtlas',
-  description: 'What VolcanoAtlas is, where its volcano data comes from and how to report a mistake.',
+  description: 'What VolcanoAtlas is, who reviews its pages, where its volcano data comes from and how to report a mistake.',
   path: '/about',
 });
 
@@ -15,8 +16,21 @@ export default async function AboutPage() {
   const [volcanoes, countries] = await Promise.all([getAllVolcanoes(), getAllCountries()]);
   const gvpCount = getAllGvp().length.toLocaleString('en-US');
 
+  // Describes only what this page shows: the reviewer's name, degrees and public profile.
+  const authorLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    '@id': `${SITE_URL}${AUTHOR.page}#author`,
+    name: AUTHOR.name,
+    url: `${SITE_URL}${AUTHOR.page}`,
+    alumniOf: { '@type': 'CollegeOrUniversity', name: AUTHOR.university },
+    hasCredential: AUTHOR.degrees.map((degree) => ({ '@type': 'EducationalOccupationalCredential', credentialCategory: 'degree', name: degree })),
+    sameAs: [AUTHOR.profile],
+  };
+
   return (
     <div className="min-h-screen bg-volcanic-950">
+      <JsonLd data={authorLd} />
       <section className="bg-gradient-to-b from-volcanic-900 to-volcanic-950 py-16 px-6 lg:px-8">
         <div className="max-w-3xl mx-auto">
           <nav aria-label="Breadcrumb" className="text-sm text-volcanic-400 mb-6">
@@ -60,6 +74,11 @@ export default async function AboutPage() {
               </a>{' '}
               (version 5.3.4, exported on {GVP_EXPORT_DATE}). Volcano pages link to the matching Smithsonian record where there is one.
             </p>
+            <p className="mb-4">
+              Pages that have been rebuilt use version 5.4.0 of that database together with NOAA&apos;s database of significant
+              eruptions and the observatory that monitors the volcano. They list their sources, and how each calculated number
+              was worked out, at the end of the page.
+            </p>
             <p>
               The latest eruptions page reads two public feeds: the{' '}
               <a href="https://volcano.si.edu/reports_weekly.cfm" target="_blank" rel="noopener noreferrer" className={linkClass}>
@@ -68,6 +87,18 @@ export default async function AboutPage() {
               and the{' '}
               <a href="https://www.usgs.gov/programs/VHP/volcano-updates" target="_blank" rel="noopener noreferrer" className={linkClass}>
                 USGS volcano updates
+              </a>
+              .
+            </p>
+          </div>
+
+          <div id="author">
+            <h2 className="font-display text-2xl md:text-3xl font-bold text-white mb-4">Who reviews the pages</h2>
+            <p>
+              VolcanoAtlas is run by {AUTHOR.name}. He holds a {AUTHOR.degrees[0]}, and a {AUTHOR.degrees[1]}, both at the{' '}
+              {AUTHOR.university}, Slovenia. A page carries his name and a review date only after he has read it.{' '}
+              <a href={AUTHOR.profile} target="_blank" rel="me noopener noreferrer" className={linkClass}>
+                {AUTHOR.name} on LinkedIn
               </a>
               .
             </p>

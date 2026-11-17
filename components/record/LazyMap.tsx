@@ -2,22 +2,12 @@
 
 import dynamic from 'next/dynamic';
 import { useEffect, useRef, useState } from 'react';
+import type { RecordMapProps } from './RecordMap';
 
-// The map library is only downloaded when the reader scrolls near the map.
-const VolcanoLocationMap = dynamic(() => import('@/components/VolcanoLocationMap'), { ssr: false });
+// The map library is downloaded only when the reader is about to reach the map.
+const RecordMap = dynamic(() => import('./RecordMap'), { ssr: false });
 
-interface LazyMapProps {
-  name: string;
-  lat: number;
-  lon: number;
-  elevation: number;
-  type: string;
-  country: string;
-  region: string;
-  status: string;
-}
-
-export default function LazyMap({ name, lat, lon, elevation, type, country, region, status }: LazyMapProps) {
+export default function LazyMap(props: RecordMapProps) {
   const box = useRef<HTMLDivElement>(null);
   const [show, setShow] = useState(false);
 
@@ -31,19 +21,19 @@ export default function LazyMap({ name, lat, lon, elevation, type, country, regi
           observer.disconnect();
         }
       },
-      { rootMargin: '600px 0px' },
+      { rootMargin: '400px 0px' },
     );
     observer.observe(node);
     return () => observer.disconnect();
   }, [show]);
 
   return (
-    <div ref={box} className="va-map">
+    <div ref={box} className="va-map" role="region" aria-label={`Map showing where ${props.name} is`}>
       {show ? (
-        <VolcanoLocationMap volcano={{ name, coordinates: { lat, lon }, elevation_m: elevation, type, country, region, status }} />
+        <RecordMap {...props} />
       ) : (
         <p className="va-mapwait">
-          Map of {name}’s location: {lat}°, {lon}°
+          Map of {props.name}’s location: {props.detail}
         </p>
       )}
     </div>

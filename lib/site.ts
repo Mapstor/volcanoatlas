@@ -12,6 +12,9 @@ export const GVP_HOME = 'https://volcano.si.edu/';
 export const AUTHOR = {
   name: 'Marko Visic',
   credential: 'BSc Physics, University of Ljubljana',
+  degrees: ['BSc in Physics, Faculty of Mathematics and Physics', 'Master of Pharmacy (MPharm), Faculty of Pharmacy'],
+  university: 'University of Ljubljana',
+  profile: 'https://www.linkedin.com/in/marko-visic/',
   page: '/about',
 };
 

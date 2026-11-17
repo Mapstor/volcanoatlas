@@ -2,14 +2,13 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-16 · VOL-004_
-- Step: one page — look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Stromboli is built on a preview and waits for the owner's OK. Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Pages finished: 0 of 213. Stromboli passes sourcing, prose and design on the preview; it counts once the owner has read it and it is live.
-- Last confirmed: VOL-004 RECORDPAGE — data layer, new profile template, Stromboli rebuilt in the picked look — done on the work branch (see §6)
-- In flight (handed, NOT confirmed): the pull request from branch `claude/stromboli-record-page` is open and not merged. It waits for the owner's OK on the preview.
-- Next action: on the owner's OK (plus his changes, if any): set `"reviewed"` in `data/profiles/stromboli.json` to that day (this puts his byline on the page), merge, confirm the production build, check the live page and that volcanoatlas.vercel.app now redirects. Then VOL-005: the scaled-content pre-flight (six questions), refresh of `volcanoes.json` to v. 5.4.0, and the next ten profiles in tier order.
-- Waiting on owner:
-  - Look at the Stromboli preview and say OK or what to change
+_last update: 2026-11-17 · VOL-004_
+- Step: one page — look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). The owner saw the Stromboli preview on 2026-11-17: "look good", with one change (map higher up), now made. Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Pages finished: 0 of 213 until Stromboli is live; then 1.
+- Last confirmed: VOL-004 RECORDPAGE — Stromboli rebuilt in the picked look, map moved under the strip, author line on — done on the work branch (see §6)
+- In flight (handed, NOT confirmed): pull request #4 (branch `claude/stromboli-record-page`): merge, production build and live check are the next step and are logged in their own entry.
+- Next action: merge pull request #4, confirm the production build, check the live page in the owner's Chrome and that volcanoatlas.vercel.app redirects. Then VOL-005: the scaled-content pre-flight (six questions), refresh of `volcanoes.json` to v. 5.4.0, and the next ten profiles in tier order, shown to the owner on a preview.
+- Waiting on owner: none
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -61,6 +60,9 @@ _last update: 2026-11-16 · VOL-004_
 - D-24 · 2026-11-16 · The look's fonts are hosted in `public/fonts/` and preloaded by rebuilt pages only — `next/font` would preload them on every volcano page, and about 1,200 of those don't use them yet. Move to `next/font` in the root layout when the last page has the look.
 - D-25 · 2026-11-16 · The strip sits right under the main number: its line must be on screen at load on a phone and on common laptop heights — the drawing is the look's one moment and runs once.
 - D-26 · 2026-11-16 · `volcanoatlas.vercel.app` is redirected to the www domain by a host rule in `next.config.ts` — it served a second public copy of the site.
+- D-27 · 2026-11-17 · On a rebuilt profile the map is the first thing under the strip, with its "Where is …?" section, ahead of the demand-ordered sections — the owner: the reader should see the map quickly. This overrides D-16 for that one section.
+- D-28 · 2026-11-17 · The owner's "look good" on the Stromboli preview counts as his review: his name and that day go on the page, as he was told beforehand. /about names him with both degrees and his public profile (Person markup); a reviewed page carries Article markup with him as author and the review day as its date. Dataset markup stays out (D-18).
+- D-29 · 2026-11-17 · The map on a rebuilt page is its own component in the page's look (`components/record/RecordMap.tsx`): no scroll-wheel zoom, no one-finger dragging on touch screens (the page must scroll), map library loaded only when the reader is within 400 px of it. The old `VolcanoLocationMap` stays for pages that are not rebuilt.
 
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
@@ -93,6 +95,8 @@ _last update: 2026-11-16 · VOL-004_
 - A rebuilt page re-renders on the server once an hour (the weekly-feed fetch sets that). Its data files reach the server function through `outputFileTracingIncludes` in `next.config.ts`: a new data folder must be added there, or the hourly refresh fails silently and the page goes stale.
 - `record.css` loads its fonts from `/fonts/…`; the two `preload()` calls in `RecordPage.tsx` must name the same files.
 - Pictures of a built page with its animation: seek `document.getAnimations()` and capture the viewport with `captureBeyondViewport: false`. A full-page capture restarts CSS animations and shows the start state.
+- The map library's default credit line carries a flag badge; `RecordMap.tsx` switches that prefix off and keeps the OpenStreetMap credit, which is required.
+- On phones the author line sits under the strip (grid row in `record.css`), not under the title: three lines of byline above the strip pushed its drawing off the first screen.
 - The header's desktop menu starts at 1024 px. At 768 px the logo and the menu ran into each other.
 - The local production server runs as a process named `next-server`. If one is left running across a rebuild it serves the new pages with 404s for the new script files, and `scripts/check-render.py` then reports script errors on every page. Make sure the port is free before `npx next start`.
 - Two country tables (Armenia, DR Congo) list shared-border volcanoes as extra unranked rows; row count there is higher than the headline count on purpose.
@@ -158,6 +162,14 @@ _last update: 2026-11-16 · VOL-004_
 - Unverified: desktop width in the owner's Chrome (his window could not be resized; desktop was checked in headless Chrome at 1024 to 1700 px); the full crawl was not repeated for the one-rule CSS change.
 - Commit: this commit (pushed: work branch)
 - Notes: the pull request stays open until the owner has seen the page.
+
+### 2026-11-17 · VOL-004 RECORDPAGE · chat · done (owner's change)
+- What: the owner looked at the preview ("look good but map should be higher up so user sees it quite quickly"). Map and its "Where is Stromboli?" section moved to the first place under the strip, beside the cut-open volcano; new map component in the page's look; report box and key facts form the next row. His name and the review day are on the page; /about names him (with Person markup); the page carries Article markup.
+- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `components/record/{RecordMap,LazyMap}.tsx`, `data/profiles/stromboli.json`, `lib/{site,recordProfile}.ts`, `app/about/page.tsx`, `DESIGN.md`
+- Verified: `npx tsc --noEmit` clean outside the old test file; `rm -rf .next && npx next build` exit 0; `scripts/check-build.py` on the local build: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, one h1 each, no invalid JSON-LD (Person on 1 page, Article on 1); `scripts/check-render.py`: Stromboli at 390 px without sideways scroll, map 298 px high with 6 of 6 tiles, menu opens, /about clean; pictures with real map tiles at 1280 and 390 px: map top at 856 px on desktop and 1,219 px on the phone; dragging is off under a touch pointer and on with a mouse; the strip's line is on the first screen at 390×664 while it draws.
+- Unverified: the preview and the live page in the owner's Chrome (logged in the next entry); the larger-map link target.
+- Commit: this commit (pushed: work branch)
+- Notes: section order on the page is now where, last, often, what, type, tall, old, danger, record.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)

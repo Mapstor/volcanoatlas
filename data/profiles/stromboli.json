@@ -51,6 +51,14 @@
  },
  "sections": [
   {
+   "id": "where",
+   "h": "Where is Stromboli?",
+   "map": true,
+   "paras": [
+    "Stromboli is the northeasternmost of Italy’s Aeolian Islands, in the Tyrrhenian Sea, at {coords}.[[gvp]] It is one of {n_country} volcanoes in [Italy](/volcanoes-in-italy) on the Smithsonian’s Holocene list."
+   ]
+  },
+  {
    "id": "last",
    "h": "When did Stromboli last erupt?",
    "aside": "callouts",
@@ -110,14 +118,6 @@
     "People have died there, though rarely. NOAA’s database of significant eruptions lists **{noaa_n} events at Stromboli since {noaa_first}**.[[noaa]] {noaa_fatal_word} were fatal, with **{noaa_deaths} deaths in total**.",
     "The deadliest was on {worst_date}: {worst_deaths} deaths and {worst_injuries} injuries. The most recent death was on {last_death_date}.",
     "The sea is the other hazard. NOAA links a tsunami record to **{noaa_tsu} of the {noaa_n} events**, the latest on {last_tsu_date}."
-   ]
-  },
-  {
-   "id": "where",
-   "h": "Where is Stromboli?",
-   "map": true,
-   "paras": [
-    "Stromboli is the northeasternmost of Italy’s Aeolian Islands, in the Tyrrhenian Sea, at {coords}.[[gvp]] It is one of {n_country} volcanoes in [Italy](/volcanoes-in-italy) on the Smithsonian’s Holocene list."
    ]
   },
   {
@@ -232,5 +232,5 @@
   "Feet are converted from meters and rounded."
  ],
  "observatory_read": "2026-11-15",
- "reviewed": null
+ "reviewed": "2026-11-17"
 }
