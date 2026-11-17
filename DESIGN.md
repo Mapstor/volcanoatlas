@@ -40,6 +40,7 @@ biggest thing on the screen, and the red pencil points at what matters.
 | Red pencil | `#c21f1f` | handwritten notes and the ring around the main number. Nothing else |
 | Sea | `#cfe3e6`, label `#2d5560` | water in the section drawing |
 | Rock | `#8a8f8c` | the volcano in the section drawing |
+| Sea floor | `#c9cfca`, pressed part `#777d7a` | the ground under the sea in a shield drawing, and the part of the volcano pressed into it |
 
 Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil on page 5.5). Eruption red on paper is
 4.1, so it is never used for small text. Links are ink with an underline.
@@ -67,15 +68,23 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 
 ## The parts of a record page
 
-1. **Main number.** The page's answer in one line and one number ("Erupting since February 2, 1934", "92 years").
+1. **Main number.** The page's answer in one line and one number. Erupting: "Erupting since February 2, 1934",
+   "92 years". Not erupting: "Last eruption ended December 10, 2022", "3 years ago".
 2. **Pencil ring and note.** A red ring is drawn around the number, then a handwritten note appears.
 3. **The record strip.** Paper strip with sprocket holes. The line is high while the Smithsonian lists an eruption in
-   progress and flat during a pause; a red band under it marks time in eruption. Pauses are labelled in red pencil.
+   progress and flat in between; a red band under it marks time in eruption. A long eruption is a high stretch with its
+   pauses labelled in red pencil. Short eruptions are spikes, the longest quiet gaps carry the label, and the line ends
+   flat on the day the data was retrieved.
 4. **The map.** A street map toned down to grey, so the red pencil leads: a red ring around the volcano and its name in
    handwriting. No scroll-wheel zoom. On a touch screen one finger scrolls the page, not the map; the map zooms by its
    buttons or a pinch. A link under it opens a larger map.
-5. **The cut-open volcano.** Section drawing with heights to scale. Gas bubbles rise in the conduit and burst at the vent.
-6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link.
+5. **The cut-open volcano.** Section drawing with heights to scale, in the shape that fits the volcano. Island cone
+   (Stromboli): gas bubbles rise in the conduit and burst at the vent, only while the Smithsonian lists the eruption as
+   continuing. Shield (Mauna Loa): three heights in one picture, above the sea, under water and pressed into the sea
+   floor. Nothing erupts in the drawing of a volcano that is not erupting.
+6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link. For a
+   volcano in the United States it also gives the USGS alert level and aviation color code with the notice's date and
+   link, read from the USGS service when the page is rendered.
 7. **Key facts.** Plain two-column list on paper.
 8. **Sections.** One question per h2, answer first, table where there is a record to show.
 9. **Callouts.** At most two, ink border, the number in eruption red, source line under it.
@@ -89,6 +98,9 @@ drawing is made from and what is schematic ("heights are to scale; the shape is 
 - One moment: the pen draws the record across the strip (4.2 s, starts 0.3 s after load). Then the red ring is drawn
   around the number (1.1 s, from 4.4 s) and the note appears (5.3 s).
 - Quiet background: the pen keeps trembling; bubbles rise and burst in the section drawing (6 s and 1.5 s loops).
+- Shield drawing: small waves slide under the sea surface (5 s and 9 s loops), and the sea floor gives way under the
+  volcano as the drawing scrolls into view (in browsers without scroll-linked animation it happens once, 0.9 s after
+  load).
 - CSS and SVG only. No animation library, no script, nothing that moves the layout or delays the main number.
 - With "reduce motion" set, everything is shown finished and still.
 - Nothing else moves. No fade-in on sections, no hover effects on boxes.

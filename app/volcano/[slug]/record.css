@@ -149,6 +149,7 @@ body:has(.va-page) > footer {
   font-weight: 600;
   line-height: 1.2;
   margin: 0;
+  text-wrap: balance;
 }
 .va-years {
   font-size: 54px;
@@ -385,6 +386,28 @@ body:has(.va-page) > footer {
   transform-box: fill-box;
   transform-origin: 50% 100%;
   animation: va-burst 1.5s ease-out infinite;
+}
+/* a shield drawing: the sea moves, and the sea floor gives way under the volcano as the drawing scrolls into view */
+.va-wave {
+  animation: va-wave 5s linear infinite;
+}
+.va-wave2 {
+  animation-duration: 9s;
+  animation-direction: reverse;
+  --va-wavelength: -52px;
+}
+.va-press {
+  transform-box: fill-box;
+  transform-origin: 50% 0;
+  animation: va-press 2.6s cubic-bezier(0.2, 0.7, 0.2, 1) 0.9s both;
+}
+@supports (animation-timeline: view()) {
+  .va-press {
+    animation: va-press linear both;
+    animation-timeline: view();
+    /* measured: the sea floor has fully given way when the whole drawing is on screen (825 px and 700 px tall windows) */
+    animation-range: entry 40% cover 48%;
+  }
 }
 
 /* ---------- the article ---------- */
@@ -696,6 +719,19 @@ body:has(.va-page) > footer {
     transform: translateY(1.6px);
   }
 }
+@keyframes va-wave {
+  to {
+    transform: translateX(var(--va-wavelength, -36px));
+  }
+}
+@keyframes va-press {
+  from {
+    transform: scaleY(0.03);
+  }
+  to {
+    transform: scaleY(1);
+  }
+}
 @keyframes va-rise {
   0% {
     transform: translateY(130px) scale(0.5);
@@ -887,6 +923,10 @@ body:has(.va-page) > footer {
   .va-bub {
     animation: none;
     opacity: 0;
+  }
+  .va-wave,
+  .va-press {
+    animation: none;
   }
   .va-burst {
     animation: none;

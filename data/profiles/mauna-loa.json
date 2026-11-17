@@ -1,0 +1,308 @@
+{
+ "slug": "mauna-loa",
+ "volcano_number": 332020,
+ "name": "Mauna Loa",
+ "country": "United States",
+ "title": "Mauna Loa Volcano: Type, Height, Last Eruption & Facts",
+ "description": "Mauna Loa is a shield volcano and the largest active volcano on Earth. Its height measured three ways ({summit_ft} ft above the sea), its age and every eruption, with sources.",
+ "h1": "Mauna Loa Volcano",
+ "facts": {
+  "summit_m": 4169,
+  "summit_ft": 13679,
+  "summit_source": "usgs",
+  "summit_source_name": "USGS",
+  "base_m": 5000,
+  "base_source": "usgsfaq",
+  "base_source_name": "USGS",
+  "count_from": 1843
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Ask how tall Mauna Loa is and you can get three different answers, all of them correct. It depends on where you start measuring. All three are below, along with the volcano’s type, its age and every eruption on record.",
+ "answer": "**Mauna Loa is a shield volcano**, the largest active volcano on Earth. Its summit is **{summit_ft} ft ({summit_m} m)** above sea level,[[usgs]] and its flanks run about another {base_ft} ft ({base_m} m) down to the sea floor.[[usgsfaq]] It last erupted from **{last_start} to {last_end}**.[[gvp]]",
+ "timeline": {
+  "from": 1840,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 2,
+  "marks": [
+   {
+    "year": 1868.25,
+    "label": "1868"
+   },
+   {
+    "year": 1950.42,
+    "label": "1950"
+   },
+   {
+    "year": 1984.23,
+    "label": "1984"
+   },
+   {
+    "year": 2022.9,
+    "label": "2022"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike is an eruption and the flat stretches are quiet years. The {longest_gap_years} years from {longest_gap_from_year} to {longest_gap_to_year} were the longest quiet period on record.[[usgsfaq]]"
+ },
+ "section": {
+  "kind": "shield",
+  "note": "the part you can see",
+  "sea": "Pacific Ocean",
+  "root_m": 8000,
+  "caldera": "Mokuʻāweoweo",
+  "caldera_depth_m": 180,
+  "caption": "Mauna Loa cut open, with its three heights to scale: {summit_ft} ft above the sea, about {base_ft} ft of flank under water, and about {root_ft} ft that its weight has pressed into the sea floor.[[usgs]][[usgsfaq]][[usgshigh]] The drawing is squeezed sideways and its shapes are schematic; a shield volcano’s real slopes are only a few percent.[[nps]]"
+ },
+ "table": {
+  "rows": 10,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mauna Loa?",
+   "map": true,
+   "paras": [
+    "Mauna Loa is on the Island of Hawaiʻi, at {coords}.[[gvp]] It covers just over half of the island.[[usgsgeo]] Hilo, Waikōloa and Captain Cook are among the towns USGS lists near it.[[usgs]] It is one of {n_country} volcanoes in the [United States](/volcanoes-in-united-states) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mauna Loa?",
+   "paras": [
+    "Mauna Loa is a **[shield volcano](/types-of-volcanoes)**: a broad, gently sloping volcano built mostly of fluid basalt lava flows.[[usgsgloss]] The Smithsonian lists its main rock as {rock}.[[gvp]]",
+    "It is still being built. USGS places Mauna Loa in the shield-building stage, when a Hawaiian volcano grows fastest and adds as much as 95 percent of its final volume. About 90 percent of its surface is covered by lava that erupted within the past 4,000 years.[[usgsgeo]]",
+    "At the summit is Mokuʻāweoweo, a caldera about 3 by 2 miles (5 by 3.2 km).[[usgsgeo]] Two rift zones run from it, one to the northeast and one to the southwest. By USGS’s count all 34 eruptions since 1843 began inside the caldera, and nearly half then moved down one of the rift zones.[[usgsfaq]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mauna Loa?",
+   "aside": "callouts",
+   "paras": [
+    "Mauna Loa’s summit is **{summit_ft} ft ({summit_m} m) above sea level**.[[usgs]] Its flanks keep going under water for about another {base_ft} ft ({base_m} m), so from the sea floor to the summit it stands roughly **{total_ft} ft ({total_m} m)**.[[usgsfaq]]",
+    "There is a third answer. The volcano’s weight has pressed the sea floor down by about another {root_ft} ft ({root_m} m), and USGS counts that too: from its base to its summit, Mauna Loa is **more than 56,000 ft (17,000 m)** high.[[usgsfaq]]",
+    "It is big sideways as well. Mauna Loa covers about 1,900 square miles (5,100 km²), just over half of the Island of Hawaiʻi, and holds at least 18,000 cubic miles (75,000 km³) of rock.[[usgsgeo]] Its name means “Long Mountain” in Hawaiian.[[usgsfaq]]"
+   ]
+  },
+  {
+   "id": "old",
+   "h": "How old is Mauna Loa?",
+   "paras": [
+    "Mauna Loa’s first lava erupted onto the sea floor **between about 600,000 and 1 million years ago**. The volcano likely rose above sea level about 300,000 years ago.[[usgsgeo]]",
+    "Its dated record is far shorter. The oldest of the {n_all} eruptions in the Smithsonian’s list is from around {oldest}. The list dates {n_rc} of them by radiocarbon, and the other {n_written} come from written reports.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mauna Loa last erupt?",
+   "table": "periods",
+   "paras": [
+    "Mauna Loa last erupted from **{last_start} to {last_end}**.[[gvp]] Lava broke out inside the summit caldera at about 11:30 p.m. on November 27, the volcano’s first eruption in 38 years.[[usgs2022]]",
+    "The eruption then moved to the Northeast Rift Zone.[[usgsfaq]] Its flows ran 12 miles (19 km) and stopped 1.7 miles (2.8 km) short of the Daniel K. Inouye Highway (Saddle Road).[[usgs2022]]",
+    "No eruption since then is in the Smithsonian’s record.[[gvp]] USGS says Mauna Loa is active and will erupt again.[[usgsfaq]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mauna Loa erupt?",
+   "paras": [
+    "USGS counts **34 eruptions since 1843**. Most came before 1950, about 3.5 years apart on average.[[usgsfaq]] The Smithsonian’s list has {n_since} entries for the same years.[[gvp]]",
+    "Since 1950 it has erupted only three times: in 1975, 1984 and 2022. The {longest_gap_years} years between the last two were the longest quiet period on record.[[usgsfaq]]",
+    "Taken over the past 3,000 years, Mauna Loa has erupted lava flows about every 6 years on average.[[usgsfaq]]"
+   ]
+  },
+  {
+   "id": "kind",
+   "h": "What kind of eruptions does Mauna Loa have?",
+   "paras": [
+    "Mauna Loa’s eruptions send out **large, fast-moving flows of basalt lava**.[[usgsfaq]] The lava comes at a very high rate: by USGS’s comparison, in 1984 Mauna Loa produced as much in 20 minutes as its neighbor Kīlauea was erupting in a day in 2015.[[usgsfaq]]",
+    "On the [Volcanic Explosivity Index](/volcanic-explosivity-index), Mauna Loa sits at the bottom: of the {n_all} eruptions in the Smithsonian’s list, {n_vei0} are rated VEI 0, the lowest step, and none is above VEI {max_vei}.[[gvp]]",
+    "It has exploded before, though. USGS has found debris from three explosive eruptions at the summit that happened between about 1,000 and 300 years ago. None is known since 1843.[[usgsgeo]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Mauna Loa dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts, use the USGS Hawaiian Volcano Observatory’s Mauna Loa page.[[usgs]]",
+   "paras": [
+    "The danger is how fast its lava travels. In 1950, flows from the Southwest Rift Zone reached the ocean in as little as three hours.[[usgsfaq]] USGS counts eight times since 1868 that its flows have reached the sea, and rates the volcano’s threat as very high.[[usgs]]",
+    "Hilo, the largest town on the island,[[usgs]] has been threatened several times: USGS lists Mauna Loa flows that headed for it from 1852 to 2022. The 1880–81 flow came closest, reaching what is now the intersection of Mohouli and Popolo Streets in Hilo. The 1984 flow stopped 9.5 miles (15.3 km) short of today’s Komohana Street.[[usgsfaq]]",
+    "NOAA’s database of significant eruptions lists **{noaa_n} events at Mauna Loa**, each with a tsunami on record.[[noaa]] One has deaths on record: {worst_deaths}, on {worst_date}. The National Park Service says they died in the tsunami and landslides that came with that eruption and its magnitude 7.9 earthquake.[[nps1868]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mauna Loa’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mauna Loa has **{n_all} confirmed eruptions**: {n_rc} dated by radiocarbon and {n_written} taken from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "two more ways to measure it",
+ "callouts": [
+  {
+   "number": "{total_ft}",
+   "unit": "ft",
+   "text": "From the sea floor to the summit: {summit_ft} ft above the sea plus about {base_ft} ft below it.",
+   "source": "Source: U.S. Geological Survey.[[usgs]][[usgsfaq]] Calculated."
+  },
+  {
+   "number": "56,000",
+   "unit": "ft",
+   "text": "Or more, measured from its base. USGS’s figure also counts the part pressed into the sea floor (more than 17,000 m in all).",
+   "source": "Source: U.S. Geological Survey.[[usgsfaq]]"
+  }
+ ],
+ "faq_h": "Mauna Loa questions and answers",
+ "faq": [
+  [
+   "What type of volcano is Mauna Loa?",
+   "Mauna Loa is a shield volcano: a broad, gently sloping volcano built mostly of fluid basalt lava flows. USGS places it in the shield-building stage, when a Hawaiian volcano grows fastest."
+  ],
+  [
+   "How tall is Mauna Loa?",
+   "Its summit is {summit_ft} ft ({summit_m} m) above sea level. Its flanks continue about {base_ft} ft ({base_m} m) down to the sea floor, so it stands roughly {total_ft} ft ({total_m} m) from sea floor to summit."
+  ],
+  [
+   "How tall is Mauna Loa from base to peak?",
+   "More than 56,000 ft (17,000 m) by USGS’s measure. That counts the {summit_ft} ft above the sea, about {base_ft} ft under water, and about {root_ft} ft that the volcano’s weight has pressed into the sea floor."
+  ],
+  [
+   "When did Mauna Loa last erupt?",
+   "From {last_start} to {last_end}. It was the volcano’s first eruption in 38 years."
+  ],
+  [
+   "How often does Mauna Loa erupt?",
+   "USGS counts 34 eruptions since 1843. Most came before 1950, about 3.5 years apart on average; only three have happened since, in 1975, 1984 and 2022."
+  ],
+  [
+   "How old is Mauna Loa?",
+   "Its first lava erupted onto the sea floor between about 600,000 and 1 million years ago, and the volcano likely rose above sea level about 300,000 years ago, according to USGS."
+  ],
+  [
+   "Is Mauna Loa active?",
+   "Yes. USGS says Mauna Loa is active and will erupt again. Its most recent eruption ended on {last_end}."
+  ],
+  [
+   "Is Mauna Loa the largest volcano in the world?",
+   "USGS calls it the largest active volcano on Earth. It covers just over half of the Island of Hawaiʻi and holds at least 18,000 cubic miles (75,000 km³) of rock."
+  ],
+  [
+   "What does the name Mauna Loa mean?",
+   "“Long Mountain” in Hawaiian."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Mauna Loa record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=332020"
+  },
+  {
+   "id": "hans",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Notification Service",
+   "url": "https://volcanoes.usgs.gov/hans-public/"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "usgs",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Mauna Loa",
+   "url": "https://www.usgs.gov/volcanoes/mauna-loa"
+  },
+  {
+   "id": "usgsfaq",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Frequently Asked Questions about Mauna Loa Volcano",
+   "url": "https://www.usgs.gov/volcanoes/mauna-loa/frequently-asked-questions-about-mauna-loa-volcano"
+  },
+  {
+   "id": "usgsgeo",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Geology and History of Mauna Loa",
+   "url": "https://www.usgs.gov/volcanoes/mauna-loa/science/geology-and-history-mauna-loa"
+  },
+  {
+   "id": "usgs2022",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "November 27–December 10, 2022, eruption of Mauna Loa",
+   "url": "https://www.usgs.gov/volcanoes/mauna-loa/science/november-27-december-10-2022-eruption-mauna-loa"
+  },
+  {
+   "id": "usgshigh",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: How high is Mauna Loa? (August 20, 1998)",
+   "url": "https://www.usgs.gov/news/volcano-watch-how-high-mauna-loa"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "usgsgloss",
+   "publisher": "U.S. Geological Survey",
+   "title": "Open-File Report 96-24, glossary",
+   "url": "https://pubs.usgs.gov/of/1996/0024/glossary.html"
+  },
+  {
+   "id": "nps1868",
+   "publisher": "U.S. National Park Service, Hawaiʻi Volcanoes National Park",
+   "title": "1868 Eruption of Mauna Loa",
+   "url": "https://www.nps.gov/havo/learn/nature/mauna-loa-1868.htm"
+  },
+  {
+   "id": "nps",
+   "publisher": "U.S. National Park Service",
+   "title": "Shield Volcanoes",
+   "url": "https://www.nps.gov/articles/000/shield-volcanoes.htm"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**{summit_ft} ft ({summit_m} m):** the summit height on USGS’s Mauna Loa page. The Smithsonian’s list gives {gvp_summit_m} m.",
+  "**{total_ft} ft ({total_m} m):** {summit_m} m above sea level plus about {base_m} m below it is {total_exact_m} m, rounded.",
+  "**{n_since} and 34:** the Smithsonian’s list has {n_since} entries from {since_year} on; USGS counts 34 eruptions for the same years.",
+  "**{longest_gap_years} years:** from the end of the {longest_gap_from_year} eruption to the start of the {longest_gap_to_year} one, in the Smithsonian’s dates.",
+  "Feet for the base and the totals are converted from meters and rounded."
+ ],
+ "expect": {
+  "n_since": "38",
+  "noaa_n": "3",
+  "noaa_tsu": "3",
+  "noaa_fatal_count": "1",
+  "max_vei": "2",
+  "last_year": "2022",
+  "longest_gap_years": "38",
+  "longest_gap_from_year": "1984",
+  "longest_gap_to_year": "2022",
+  "n_all": "110",
+  "worst_deaths": "77",
+  "gvp_summit_m": "4,170",
+  "total_ft": "30,100",
+  "root_ft": "26,250",
+  "last_length": "13 days"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": "2026-11-17",
+ "map_zoom": 8
+}

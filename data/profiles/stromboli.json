@@ -12,13 +12,16 @@
    700,
    750
   ],
-  "alt_top_m": 926
+  "alt_top_m": 926,
+  "base_source": "ingv",
+  "base_source_name": "INGV"
  },
  "big": {
   "line": "Erupting since {cur_start}",
   "number": "{cur_years}",
   "unit": "years",
-  "note": "still going at the last update"
+  "note": "still going at the last update",
+  "note_weekly": "still going in the {period} report"
  },
  "lede": "Most volcano pages can give you the date of the last eruption. Stromboli’s can’t, because the eruption hasn’t ended. Below is the record the Smithsonian keeps for it, the numbers behind its height and age, and what its bigger blasts have cost.",
  "answer": "**Stromboli is erupting now.** Its current eruption began on **{cur_start}**, and it was still going at the Smithsonian’s last update of ongoing eruptions on {cur_last}. Stromboli is a **stratovolcano** in Italy’s Aeolian Islands. Its summit stands **{summit_ft} ft ({summit_m} m)** above the Tyrrhenian Sea.",
@@ -43,11 +46,16 @@
     "label": "2019"
    }
   ],
-  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The line is high while an eruption is in progress and flat during the {n_pauses_word} pauses. The peaks mark the strongest blasts of the last 100 years named by INGV.[[ingv]]"
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The line is high while an eruption is in progress and flat during the {n_pauses_word} pauses. The peaks mark the strongest blasts of the last 100 years named by INGV.[[ingv]]",
+  "note": "{n_pauses_word} pauses, {pause_years} years in all",
+  "note_at": 0.775
  },
  "section": {
   "note": "gas bubbles burst here",
-  "caption": "Stromboli cut open, from its base on the sea floor to its summit. Gas bubbles that form in the lava burst at the vent: that is a Strombolian eruption.[[nps]] Heights are to scale; the shape is not surveyed.[[gvp]][[ingv]]"
+  "caption": "Stromboli cut open, from its base on the sea floor to its summit. Gas bubbles that form in the lava burst at the vent: that is a Strombolian eruption.[[nps]] Heights are to scale; the shape is not surveyed.[[gvp]][[ingv]]",
+  "kind": "cone",
+  "sea": "Tyrrhenian Sea",
+  "flank_label": "Sciara del Fuoco"
  },
  "sections": [
   {
@@ -133,12 +141,14 @@
   {
    "number": "{cur_years}",
    "unit": "years",
-   "text": "Length of Stromboli’s current eruption, from {cur_start} to the Smithsonian’s last update on {cur_last}."
+   "text": "Length of Stromboli’s current eruption, from {cur_start} to the Smithsonian’s last update on {cur_last}.",
+   "source": "Source: Global Volcanism Program, Smithsonian Institution.[[gvp]] Calculated."
   },
   {
    "number": "{share}%",
    "unit": "of the time",
-   "text": "Share of days since {counted_from} that fall inside an eruption in the Smithsonian’s record."
+   "text": "Share of days since {counted_from} that fall inside an eruption in the Smithsonian’s record.",
+   "source": "Source: Global Volcanism Program, Smithsonian Institution.[[gvp]] Calculated."
   }
  ],
  "faq_h": "Stromboli questions and answers",
@@ -232,5 +242,19 @@
   "Feet are converted from meters and rounded."
  ],
  "observatory_read": "2026-11-15",
- "reviewed": "2026-11-17"
+ "reviewed": "2026-11-17",
+ "callout_note": "{n_pauses_word} pauses in {span_years} years",
+ "expect": {
+  "n_all": "22",
+  "n_cont": "41",
+  "older_count_word": "three",
+  "n_pauses_word": "four",
+  "noaa_n": "15",
+  "noaa_fatal_count": "5",
+  "noaa_deaths": "13",
+  "max_vei": "3"
+ },
+ "table": {
+  "calc_note": "Lengths, pauses and the {share}% figure are calculated from its dates."
+ }
 }
