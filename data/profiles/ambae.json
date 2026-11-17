@@ -1,0 +1,254 @@
+{
+ "slug": "ambae",
+ "volcano_number": 257030,
+ "name": "Ambae",
+ "country": "Vanuatu",
+ "title": "Ambae Volcano: Eruption Now, Alert Level, Height & Facts",
+ "description": "Ambae, a shield volcano that forms a whole island of Vanuatu, is listed as erupting since November 2025. Its alert level, the 2018 eruption that emptied the island, height and record.",
+ "h1": "Ambae Volcano",
+ "facts": {
+  "count_from": 1870
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "from a vent in a crater lake",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Ambae is an island of Vanuatu, and the whole island is one volcano: a broad basaltic shield whose active vent sits in Lake Voui, a crater lake at the summit. In 2018 its ash drove every one of the island’s roughly 10,000 residents away. Below: its state now, the eruption of 2017 and 2018, its height, and every eruption on record.",
+ "answer": "**Ambae is erupting, by the Smithsonian’s list.** The eruption began on {cur_since} and was continuing at the list’s last update.[[gvp]] Vanuatu’s geohazards department raised the alert to **Level 3, “minor eruption”**, on February 23, 2026, and its page still showed that level on {read_date}.[[vmgdwarn]][[vmgd]] Ambae is a shield volcano, **{summit_ft} ft ({summit_m} m)** high.[[gvp]][[vmgd]]",
+ "timeline": {
+  "from": 1860,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1870.5,
+    "label": "1870"
+   },
+   {
+    "year": 2017.68,
+    "label": "2017"
+   },
+   {
+    "year": 2025.9,
+    "label": "2025"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The raised stretch at the right edge is the eruption the list has as continuing since {cur_since}."
+ },
+ "section": {
+  "kind": "land",
+  "note": "the vent is in a crater lake",
+  "crater": "Lake Voui",
+  "crater_share": 0.1,
+  "caption": "Ambae as a simple outline rising from the sea. Only the summit height is to scale.[[gvp]] The real volcano is a shield, far broader than this sketch, with two nested calderas and three lakes at its summit.[[vmgd]]"
+ },
+ "map_zoom": 8,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Ambae?",
+   "map": true,
+   "paras": [
+    "Ambae is an island of Vanuatu in the southwest Pacific, at {coords}.[[gvp]] The island of Espiritu Santo lies to its west and Maewo to its northeast.[[gvp]] Vanuatu’s geohazards department lists the volcano under the name of its summit, Manaro Voui.[[vmgd]] It is one of {n_country} volcanoes in [Vanuatu](/volcanoes-in-vanuatu) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Ambae erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. An eruption began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]]",
+    "Vanuatu’s geohazards department raised the alert to **Level 3**, which it calls a minor eruption, on February 23, 2026. Its page for the volcano still showed Level 3 on {read_date}.[[vmgdwarn]][[vmgd]] The scale runs from 0 to 5.[[gvp]]",
+    "The department says the activity is confined to Lake Voui. It keeps people out of Danger Zone B, about 1.9 miles (3 km) around the active vent in the lake.[[vmgdwarn]]",
+    "Before that the volcano had stood at Level 2, “major unrest”, since December 27, 2021. The department’s bulletin of October 31, 2024 still gave that level, with a danger zone of about 1.2 miles (2 km) around the vents of 2017 and 2018.[[vmgd24]]"
+   ]
+  },
+  {
+   "id": "2018",
+   "h": "What happened in the eruption of 2017 and 2018?",
+   "aside": "callouts",
+   "paras": [
+    "The eruption began in early September 2017, when explosions started to build a new cone in Lake Voui. Lava was first seen at the cone’s summit on September 22. By late that month about 8,000 people had been moved from the north and south of the island to its east and west, by a news report the Smithsonian relayed.[[bgvn1802]]",
+    "The largest explosions came in March and April 2018. An ash plume on March 31 was measured at an altitude of 8.5 miles (13.7 km), and roofs gave way under the weight of ash.[[bgvn1807]] On April 6 satellites recorded the largest release of sulfur dioxide from any volcano since 2015.[[gvpw0404]] By then the growing cone had cut Lake Voui in two.[[bgvn1807]]",
+    "More ash and lahars, flows of mud and debris, followed in July.[[bgvn1902]] In early August the government ordered everyone off the island, and by August 14 all of its roughly 10,000 residents had been taken to Espiritu Santo and Maewo, by news reports the Smithsonian relayed.[[gvp]]",
+    "On September 21, 2018 the department reported only steam at Lake Voui and lowered the alert to Level 2.[[gvp]] It calls the eruption the largest and most damaging at Ambae in recent history: thick ash harmed food and water supplies, shelter and people’s health.[[vmgd]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Ambae?",
+   "paras": [
+    "Ambae is **{summit_ft} ft ({summit_m} m)** high.[[gvp]][[vmgd]]",
+    "Its summit holds two nested calderas. The larger is about 3.7 miles (6 km) across, and the smaller contains three lakes: Manaro Ngoru, Manaro Lakwa and Lake Voui, where the active vent is.[[vmgd]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Ambae?",
+   "paras": [
+    "The Smithsonian classes Ambae as a **[shield volcano](/types-of-volcanoes)**.[[gvp]] Vanuatu’s geohazards department calls it the most voluminous active shield volcano of the Vanuatu arc, and lists a caldera, scoria cones, maars and a tuff ring among its features.[[vmgd]]",
+    "The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Ambae erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}.[[gvp]]",
+    "The department’s own page lists a large dark ash plume in 1995, a major phreatic, or steam-driven, eruption in 2005, and a minor one in the crater lake in 2011, before the eruption of 2017 and 2018.[[vmgd]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Ambae dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the alert level in force and the danger zones, use Vanuatu’s geohazards department.[[vmgdwarn]]",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Ambae. The highest toll it lists is {worst_deaths} deaths.[[noaa]]",
+    "In 2017 and 2018 the harm came from ash, acid rain and lahars, and it reached the whole island.[[vmgd]][[bgvn1902]] The department’s bulletin of October 2024 warned that eruptions can come with little or no warning, and that heavy rain can still carry ash from 2017 and 2018 down the creeks.[[vmgd24]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Ambae’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Ambae has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated by other evidence.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2018",
+ "callouts": [
+  {
+   "number": "10,000",
+   "unit": "residents",
+   "text": "The whole population of the island, evacuated to Espiritu Santo and Maewo by August 14, 2018.",
+   "source": "Source: Smithsonian weekly report, relaying Radio New Zealand.[[gvp]]"
+  },
+  {
+   "number": "8.5",
+   "unit": "miles",
+   "text": "Altitude of the ash plume of March 31, 2018 (13.7 km).",
+   "source": "Source: Bulletin of the Global Volcanism Network, July 2018.[[bgvn1807]]"
+  }
+ ],
+ "faq_h": "Ambae questions and answers",
+ "faq": [
+  [
+   "Is Ambae erupting now?",
+   "By the Smithsonian’s list, yes: the eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}. Vanuatu’s geohazards department had the volcano at Alert Level 3, “minor eruption”, on {read_date}."
+  ],
+  [
+   "What is Ambae’s alert level?",
+   "Level 3, on a scale from 0 to 5, raised on February 23, 2026 and still shown on {read_date}. The department’s page has the level in force."
+  ],
+  [
+   "Where is Ambae?",
+   "It is an island of Vanuatu in the southwest Pacific, between Espiritu Santo to the west and Maewo to the northeast."
+  ],
+  [
+   "How tall is Ambae?",
+   "{summit_ft} ft ({summit_m} m)."
+  ],
+  [
+   "Why was Ambae evacuated in 2018?",
+   "Heavy ashfall from the eruption at Lake Voui. The government ordered everyone off the island in early August 2018, and by August 14 all of its roughly 10,000 residents had left."
+  ],
+  [
+   "What type of volcano is Ambae?",
+   "A shield volcano, by the Smithsonian’s classification: the most voluminous active one of the Vanuatu arc, by the country’s geohazards department."
+  ],
+  [
+   "What is Manaro Voui?",
+   "The name Vanuatu’s geohazards department uses for the volcano, after its summit. Lake Voui, where the active vent is, is one of three lakes there."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Ambae record, eruption list and weekly reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=257030"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "vmgd",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Manaro Voui (Ambae): current alert level, description and past eruptions",
+   "url": "https://www.vmgd.gov.vu/geohazards/volcanoes/manaro-voui"
+  },
+  {
+   "id": "vmgdwarn",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Volcano warnings: Minor eruption at Ambae volcano, issued February 23, 2026",
+   "url": "https://www.vmgd.gov.vu/warnings/volcano"
+  },
+  {
+   "id": "vmgd24",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Vanuatu Volcano Alert Bulletin No. 10, Ambae activity, October 31, 2024",
+   "url": "https://vmgd.gov.vu/vmgd/index.php/geohazards/volcano/volcano-info/current-volcanic-activity"
+  },
+  {
+   "id": "bgvn1802",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 43:02 (February 2018): Ambae, new eruption begins in early September 2017",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479/si.GVP.BGVN201802-257030"
+  },
+  {
+   "id": "bgvn1807",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 43:07 (July 2018): Ambae, major explosions during March and April 2018",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201807-257030"
+  },
+  {
+   "id": "gvpw0404",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Report on Ambae (Vanuatu), Weekly Volcanic Activity Report, 4–10 April 2018",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=GVP.WVAR20180404-257030"
+  },
+  {
+   "id": "bgvn1902",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 44:02 (February 2019): Ambae, ash plumes and lahars in July 2018 cause evacuation of the island",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479/si.GVP.BGVN201902-257030"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "Feet and miles are converted from the metric figures in the sources and rounded.",
+  "This page uses the name Ambae, as the Smithsonian’s list does. Vanuatu’s geohazards department files the volcano under Manaro Voui."
+ ],
+ "expect": {
+  "cur_since": "November 24, 2025",
+  "summit_m": "1,496",
+  "n_all": "12",
+  "n_since": "10",
+  "noaa_n": "5",
+  "worst_deaths": "100"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**Alert Level 3, “minor eruption”.** The page of Vanuatu’s geohazards department for the volcano, read on {read_date}, showed Level 3; its warning of February 23, 2026 says the activity is confined to Lake Voui.[[vmgd]][[vmgdwarn]]",
+ "reviewed": null
+}
