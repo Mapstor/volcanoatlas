@@ -10,20 +10,21 @@ export interface RecordMapProps {
   zoom: number;
   /** One line for the marker's popup, built from the page's own data. */
   detail: string;
-  /** Put the name under the marker at every width, when the street map prints its own label beside it. */
-  labelBelow?: boolean;
+  /** Put the name under or over the marker at every width, when the street map prints its own label beside it. */
+  label?: 'below' | 'above';
 }
 
 /**
  * Locator map of a rebuilt volcano page, in the page's look (styles in record.css).
  * It is loaded by LazyMap only, in the browser, so it can read the window.
  */
-export default function RecordMap({ name, lat, lon, zoom, detail, labelBelow }: RecordMapProps) {
+export default function RecordMap({ name, lat, lon, zoom, detail, label }: RecordMapProps) {
   // On a touch screen one finger scrolls the page, not the map; the map zooms by its buttons or a pinch.
   const touch = typeof window !== 'undefined' && window.matchMedia('(pointer: coarse)').matches;
   const position: [number, number] = [lat, lon];
   // A long name does not fit beside the marker on a phone-width map: it goes underneath.
-  const below = labelBelow || (typeof window !== 'undefined' && window.innerWidth < 520 && name.length > 12);
+  const below = label === 'below' || (!label && typeof window !== 'undefined' && window.innerWidth < 520 && name.length > 12);
+  const above = label === 'above';
 
   return (
     <MapContainer
@@ -45,7 +46,7 @@ export default function RecordMap({ name, lat, lon, zoom, detail, labelBelow }: 
       />
       <CircleMarker center={position} radius={21} pathOptions={{ color: '#c21f1f', weight: 2.5, fill: false, className: 'va-mapring' }} interactive={false} />
       <CircleMarker center={position} radius={6} pathOptions={{ color: '#17212b', weight: 1.5, fillColor: '#d9482b', fillOpacity: 1 }}>
-        <Tooltip permanent direction={below ? 'bottom' : 'right'} offset={below ? [0, 22] : [24, -2]} className="va-maplabel">
+        <Tooltip permanent direction={above ? 'top' : below ? 'bottom' : 'right'} offset={above ? [0, -22] : below ? [0, 22] : [24, -2]} className="va-maplabel">
           {name}
         </Tooltip>
         <Popup>

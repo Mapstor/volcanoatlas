@@ -256,5 +256,6 @@
  },
  "table": {
   "calc_note": "Lengths, pauses and the {share}% figure are calculated from its dates."
- }
+ },
+ "map_label": "above"
 }

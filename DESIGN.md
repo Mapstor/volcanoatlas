@@ -81,7 +81,8 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 4. **The map.** A street map toned down to grey, so the red pencil leads: a red ring around the volcano and its name in
    handwriting. No scroll-wheel zoom. On a touch screen one finger scrolls the page, not the map; the map zooms by its
    buttons or a pinch. A link under it opens a larger map. Where the street map prints a label of its own beside the
-   marker (Ross Island at Mount Erebus), the name goes under the marker (`map_label: "below"` in the profile).
+   marker (Ross Island at Mount Erebus, Catanzaro at Stromboli), the name goes under or over the marker
+   (`map_label: "below"` or `"above"` in the profile).
 5. **The cut-open volcano.** Section drawing with heights to scale, in the shape that fits the volcano. Island cone
    (Stromboli): gas bubbles rise in the conduit and burst at the vent, only while the Smithsonian lists the eruption as
    continuing. Shield (Mauna Loa): three heights in one picture, above the sea, under water and pressed into the sea

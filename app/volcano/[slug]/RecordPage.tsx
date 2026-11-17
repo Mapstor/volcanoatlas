@@ -353,7 +353,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           <div className="va-flowcol">
           {where && (
             <section className="va-where" id={`va-${where.id}`} aria-labelledby="va-where-h">
-              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} labelBelow={profile.map_label === 'below'} />
+              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} label={profile.map_label} />
               <h2 id="va-where-h">{where.h}</h2>
               {where.paras.map((para, i) => (
                 <Html key={i} html={r(para)} />

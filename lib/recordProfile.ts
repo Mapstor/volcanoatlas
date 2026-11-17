@@ -92,8 +92,8 @@ export interface RecordProfile {
   };
   /** Zoom of the locator map; 7 (a region a few hundred miles across) when left out. */
   map_zoom?: number;
-  /** 'below' puts the name under the map marker, for a map whose own labels sit beside the marker */
-  map_label?: 'below';
+  /** puts the name under or over the map marker, for a map whose own labels sit beside the marker */
+  map_label?: 'below' | 'above';
   /**
    * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
    * sea floor) or "land" (a volcano standing on land or rising straight from the sea surface).
