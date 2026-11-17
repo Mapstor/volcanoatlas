@@ -305,10 +305,21 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
   // One scale for every height. It fills the drawing unless that would make the volcano taller than half its drawn
   // base is wide; then the drawing is made shorter instead.
   const highest = Math.max(summit, former?.m ?? 0);
-  const k = Math.min(((compact ? 420 : 520) - (compact ? 34 : 40) - topY) / highest, W / (highest - ground));
-  const seaY = topY + highest * k;
+  // A volcano on a high plateau (Cotopaxi stands on land 3,750 m up): at one scale the slab of land under it would be
+  // taller than the volcano. The slab is then cut short with a break mark, and heights are to scale above the land only.
+  const cut = !onWater && ground > (highest - ground) * 1.2;
+  const slab = compact ? 58 : 66;
+  const room = (compact ? 420 : 520) - (compact ? 34 : 40) - topY;
+  const k = cut ? Math.min((room - slab) / (highest - ground), W / (highest - ground)) : Math.min(room / highest, W / (highest - ground));
+  const seaY = cut ? topY + (highest - ground) * k + slab : topY + highest * k;
   const h = Math.round(seaY + (compact ? 34 : 40));
-  const Y = (m: number) => seaY - m * k;
+  const Y = (m: number) => (cut ? seaY - slab - (m - ground) * k : seaY - m * k);
+  const breakY = seaY - slab * 0.47;
+  const zigzag = (y: number) => {
+    let d = `M0 ${f(y)}`;
+    for (let x = 7, up = true; x <= w + 14; x += 14, up = !up) d += ` L${x} ${f(y + (up ? -4 : 4))}`;
+    return d;
+  };
   const summitY = Y(summit);
   const groundY = Y(ground);
   const H = groundY - summitY;
@@ -368,6 +379,7 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
     `Section drawing of ${profile.name}: the summit is ${fmt(summit)} m above sea level` +
     (data.ground ? `, and the land around the volcano is at about ${fmt(ground)} m, so it stands about ${riseM} m above its surroundings` : '') +
     (former ? `. A dashed outline shows the earlier summit at ${fmt(former.m)} m` : '') +
+    (cut ? '. The land under the volcano is cut short in the drawing' : '') +
     '.';
 
   return (
@@ -438,6 +450,14 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
       {/* summit above sea level */}
       <line x1={xa} y1={summitY} x2={cx - notch - 5} y2={summitY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
       <path d={`M${xa} ${f(summitY)} V${f(seaY)} M${xa - 5} ${f(summitY)} h10 M${xa - 5} ${f(seaY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      {/* the break mark of a slab that is cut short; it also interrupts the bracket that runs down to sea level */}
+      {cut && (
+        <g aria-hidden="true">
+          <path d={zigzag(breakY)} fill="none" stroke={PAL.paper} strokeWidth={6} />
+          <path d={zigzag(breakY - 3)} fill="none" stroke={PAL.ink} strokeWidth={0.8} />
+          <path d={zigzag(breakY + 3)} fill="none" stroke={PAL.ink} strokeWidth={0.8} />
+        </g>
+      )}
       {/* on a phone the lava burst of an erupting volcano needs the room of the third line, and so does the dashed
           outline of an earlier summit when the line would run into it; the bracket down to the baseline and its
           label say what the height is measured from */}
@@ -484,8 +504,8 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
         </>
       )}
       {iceY !== null && sec.ice_label && iceY - summitY > (compact ? 40 : 70) && (
-        // a big ice cap carries its name on the ice
-        <text className="va-it" x={cx} y={(iceY + summitY) / 2 + 14} textAnchor="middle" fontSize={fs} fill={PAL.seaInk}>{sec.ice_label}</text>
+        // a big ice cap carries its name on the ice; on a pointed cone the name sits low, where the ice is widest
+        <text className="va-it" x={cx} y={(sec.crater_share ?? 0) < 0.1 ? iceY - 9 : (iceY + summitY) / 2 + 14} textAnchor="middle" fontSize={fs} fill={PAL.seaInk}>{sec.ice_label}</text>
       )}
       {iceY !== null && sec.ice_label && iceY - summitY <= (compact ? 40 : 70) && (
         <>

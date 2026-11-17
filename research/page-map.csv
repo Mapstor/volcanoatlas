@@ -84,7 +84,7 @@ volcano/chillan-nevados-de,volcanoes,data,informational,,gvp-eruptions,T2,live,r
 volcano/colima,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/concepcion,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/copahue,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/cotopaxi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/cotopaxi,volcanoes,data,informational,"the 1877 lahars by the clock (Latacunga in half an hour, the Pacific in 18 hours) from Ecuador’s own institute; the cone on its high plateau drawn to scale with the glacier; the institute’s newest report with its date",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 6); also uses noaa-ncei-volcano, noaa-etopo, observatory-pages and paper-abstracts; waits for the owner's read before his name goes on"
 volcano/crater-lake,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/deception-island,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/east-epi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

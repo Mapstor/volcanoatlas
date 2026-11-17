@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-009_
-- Step: ten pages — 7 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull and Mount Pinatubo live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+_last update: 2026-11-17 · VOL-010_
+- Step: ten pages — 7 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull and Mount Pinatubo live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Cotopaxi built 2026-11-17 as the eighth (pull request open at the time of writing). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 7 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 5 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo).
-- Last confirmed: VOL-009 PINATUBO — live (e82ed84): Mount Pinatubo as a record page (see §6).
+- Last confirmed: VOL-010 COTOPAXI — done: Cotopaxi as a record page (see §6). Before it: VOL-009 PINATUBO live (e82ed84).
 - In flight (handed, NOT confirmed): none
-- Next action: Cotopaxi (the Instituto Geofísico's own pages and its newest report for `since_check`; the Smithsonian lists 5,911 m, Ecuadorian sources 5,897 m), Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: merge and check Cotopaxi live if its pull request is still open; then Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo is new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -82,6 +82,8 @@ _last update: 2026-11-17 · VOL-009_
 
 - D-46 · 2026-11-17 · Lengths of time agree with each other on a page: a time that runs to today is never rounded up into a year that has not passed (the table's "so far" and the big number say the same), an eruption that began and ended on one day prints as one date, and a length a report gives more exactly than the dates do may replace the calculated one for the newest eruption (`table.last_length`, with the source named under the table) — a table said "5 years so far" beside a headline "4 years ago", and "1 day" beside a text that said four minutes.
 
+- D-47 · 2026-11-17 · A volcano on a high plateau gets the band of land under it cut short with a break mark in the drawing (when the land is higher above the sea than 1.2 times the volcano's height above the land); everything above the land stays to scale and the caption says the band is cut — at one scale Cotopaxi's 3,750 m of land made a grey block twice as tall as the cone.
+
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
 - 2026-11-15 · Keeping database-only pages indexable — see D-01.
@@ -140,6 +142,8 @@ _last update: 2026-11-17 · VOL-009_
 
 - USGS fact sheets of 1997: the web pages under `pubs.usgs.gov/fs/1997/…` did not answer on 2026-11-17, while the PDFs under `pubs.usgs.gov/fs/old.1997/…` did. Search for the PDF address and link that.
 - A profile's JSON is kept in memory by the production server; the dev server reads it again on every request. A changed profile that does not show locally means the server was started in production mode.
+
+- A web address that was only named in a fetched page's summary cannot be fetched without the owner's approval (Instituto Geofísico's home page, 2026-11-17). Search with the site's domain as the only allowed domain: its pages then come back as results and can be read.
 
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
@@ -326,6 +330,14 @@ _last update: 2026-11-17 · VOL-009_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: e82ed84 (merged)
 - Notes: the owner wrote "looks nice, go" at 17:34 while this batch was being merged: carry on with all pages. Which pages he read is not known yet (asked).
+
+### 2026-11-17 · VOL-010 COTOPAXI · chat · done
+- What: Cotopaxi as a record page, from the Instituto Geofísico's profile, its reports list (newest report 21 Oct 2026: activity low and unchanged) and its 2023 article on the eruption of 1877, the Smithsonian's record and reports, NOAA, and one paper abstract for the glacier. Template: D-47 (band of land cut short with a break mark); the glacier's name sits low on a pointed cone, where the ice is widest.
+- Files: `data/profiles/cotopaxi.json`, `components/record/figures.tsx`, `scripts/check-render.py`, `research/*.csv` (new row `paper-abstracts`, tier B), `DESIGN.md`
+- Verified: on the final code: tsc and eslint on the changed files clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 8 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the page at 1440 and 390 px, the drawing at both widths, the map with real tiles at both widths, Eyjafjallajokull's drawing (unchanged).
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/cotopaxi. The page prints the institute's 5,897 m and mentions the Smithsonian's 5,911 m. NOAA dates the 1877 eruption a day earlier than the institute and lists 340 deaths; the institute's account gives no count. The institute's home page could not be read without the owner's approval; its Cotopaxi pages were reached through search.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
