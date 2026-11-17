@@ -181,7 +181,7 @@ export function durationText(days: number): string {
  * Time from one date to another, counted on the calendar to the nearest month: days under two months, months under two
  * years, then years and months. A gap of 38 years 7 months is never printed as "39 years".
  */
-export function spanText(from: Ymd, to: Ymd, capYear = false): string {
+export function spanText(from: Ymd, to: Ymd, toToday = false): string {
   const days = daysBetween(from, to);
   if (days <= 1) return '1 day';
   if (days < 60) return `${days} days`;
@@ -191,9 +191,9 @@ export function spanText(from: Ymd, to: Ymd, capYear = false): string {
     months -= 1;
     rest += 30;
   }
-  // capYear: a span that runs to today is not rounded up into a year that has not passed yet, so a table never
-  // says "5 years so far" while the page's main number still says 4
-  if (rest >= 16 && !(capYear && (months + 1) % 12 === 0)) months += 1;
+  // toToday: a span that runs to today counts whole months only and is never rounded up, so a table never says
+  // "19 months so far" or "5 years so far" while the page's main number still says 18 months or 4 years
+  if (rest >= 16 && !toToday) months += 1;
   if (months === 12) return '1 year';
   if (months < 24) return `${months} months`;
   const years = Math.floor(months / 12);
@@ -202,7 +202,7 @@ export function spanText(from: Ymd, to: Ymd, capYear = false): string {
 }
 
 /** Time between two dates, no more exact than the less exact of them. `approx` is set when either date is not known to the day. */
-export function spanBetween(from: Ymd, fromPrecision: Precision, to: Ymd, toPrecision: Precision, capYear = false): { text: string; approx: boolean } {
+export function spanBetween(from: Ymd, fromPrecision: Precision, to: Ymd, toPrecision: Precision, toToday = false): { text: string; approx: boolean } {
   if (fromPrecision === 'year' || toPrecision === 'year') {
     const years = to[0] - from[0];
     return { text: years <= 0 ? 'less than a year' : years === 1 ? '1 year' : `${years} years`, approx: true };
@@ -213,7 +213,7 @@ export function spanBetween(from: Ymd, fromPrecision: Precision, to: Ymd, toPrec
     const months = Math.max(1, Math.round(days / 30.44));
     return { text: `${months} month${months === 1 ? '' : 's'}`, approx: true };
   }
-  return { text: spanText(from, to, capYear), approx: fromPrecision !== 'day' || toPrecision !== 'day' };
+  return { text: spanText(from, to, toToday), approx: fromPrecision !== 'day' || toPrecision !== 'day' };
 }
 
 export interface PeriodRow {

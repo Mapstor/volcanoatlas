@@ -1,0 +1,277 @@
+{
+ "slug": "bulusan",
+ "volcano_number": 273010,
+ "name": "Bulusan",
+ "country": "Philippines",
+ "title": "Bulusan Volcano: Last Eruption, Alert Level, Height & Facts",
+ "description": "Bulusan, the southernmost volcano on Luzon in the Philippines, last erupted on April 28 and 29, 2025. Its alert level now, its steam-driven explosions, height and full record.",
+ "h1": "Bulusan Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1886
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "two steam explosions, a day apart",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Bulusan is the southernmost volcano on the island of Luzon in the Philippines. Its last two eruptions, in June 2022 and April 2025, were explosions of steam from the summit crater. In March 2026 a run of small earthquakes put it back on alert. Below: its state now, the 2025 eruption, its height, and every eruption on record.",
+ "answer": "**Bulusan last erupted from {last_start} to {last_end}**, in two steam-driven explosions from its summit crater.[[gvp]][[bul0429]] The Philippine volcano agency, PHIVOLCS, had it at **Alert Level 1**, on a scale from 0 to 5, when its page was read on {read_date}.[[phivolcs]][[gvp]] Bulusan is in Sorsogon Province and is **{summit_ft} ft ({summit_m} m)** high.[[gvp]]",
+ "timeline": {
+  "from": 1880,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1886.5,
+    "label": "1886"
+   },
+   {
+    "year": 1933.98,
+    "label": "1933"
+   },
+   {
+    "year": 2025.32,
+    "label": "2025"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The mark at 1933 is the deadliest eruption in NOAA’s database.[[noaa]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "steam explosions start here",
+  "crater": "crater, 1,000 ft across",
+  "crater_share": 0.06,
+  "caption": "Bulusan cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] The summit crater is about 1,000 ft (300 m) wide and 160 ft (50 m) deep.[[bgvn2006]]"
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Bulusan?",
+   "map": true,
+   "paras": [
+    "Bulusan is the southernmost volcano on the island of Luzon in the Philippines, at {coords}.[[gvpw25]][[gvp]] It stands in Sorsogon Province,[[bul0429]] near the towns of Irosin and Juban.[[bul0428]] It was built along the rim of the Irosin caldera, a basin 7 miles (11 km) wide that formed about 36,000 years ago.[[gvpw25]] It is one of {n_country} volcanoes in the [Philippines](/volcanoes-in-philippines) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Bulusan active now?",
+   "aside": "callouts",
+   "paras": [
+    "It is not erupting, but it is restless. PHIVOLCS had Bulusan at **Alert Level 1** on {read_date}. Its scale runs from 0 to 5,[[gvp]] and it describes Level 1 as disturbances at shallow depth, near the crater or around the Irosin caldera, whose cause may be hydrothermal, magmatic or tectonic.[[phivolcs]]",
+    "The agency raised the level from 0 to 1 on March 22, 2026. A run of volcanic earthquakes had begun on March 15, and it had counted 475 since then, most of them weak and shallow.[[bul0322]]",
+    "In its report for May 14 to 20, 2026 the Smithsonian relayed the agency’s readings: weak to moderate steaming from the vents, low sulfur dioxide (121 tonnes a day at the latest measurement, on April 22) and a slow swelling of the north flank since June 2025 and of the upper west flank since January 2026.[[gvp]]",
+    "Nobody may enter the permanent danger zone, which has a radius of 2.5 miles (4 km) around the summit. In the agency’s advisories of 2022 to 2024 it reached 1.2 miles (2 km) farther on the southeast flank.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Bulusan last erupt?",
+   "table": "periods",
+   "paras": [
+    "The last eruption on the Smithsonian’s list ran from **{last_start} to {last_end}**.[[gvp]] It was two phreatic explosions, driven by steam, from the summit crater.[[bul0428b]][[bul0429]]",
+    "The first began at 4:36 a.m. on April 28, lasted 24 minutes and sent a plume 2.8 miles (4.5 km) above the crater. Ash fell on villages of Irosin and Juban.[[bul0428]] The day before, the agency had counted 53 volcanic earthquakes, and people nearby heard rumbling about 15 minutes ahead of the explosion.[[bul0428b]] PHIVOLCS raised the alert from Level 0 to Level 1 that morning.[[bul0428]]",
+    "The second began at 7:43 p.m. on April 29 and lasted about 77 minutes. Cloud hid its plume, and ash fell in parts of Sorsogon Province, as much as 0.4 inch (1 cm) of it.[[bul0429]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Bulusan?",
+   "paras": [
+    "Bulusan is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "Its summit is bare of plants and holds a crater about 1,000 ft (300 m) wide and 160 ft (50 m) deep.[[bgvn2006]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Bulusan?",
+   "paras": [
+    "The Smithsonian classes Bulusan as a **[stratovolcano](/types-of-volcanoes)**, built along the rim of the Irosin caldera.[[gvp]][[gvpw25]]",
+    "Its recent eruptions have been phreatic, which means steam drove them. The agency’s own eruption history classes both of the last two, in 2022 and 2025, that way.[[phist]] The Smithsonian lists the volcano’s main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Bulusan erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}.[[gvp]]",
+    "PHIVOLCS notes that swarms of small earthquakes have often come before Bulusan’s steam explosions, as they did before those of April 2025 and June 2022.[[bul0312]]",
+    "In June 2022 two explosions a week apart, on June 5 and June 12, lasted about 17 and 18 minutes. Ash from the second fell as far as 30 miles (50 km) to the northwest, and more than 11,000 people left their homes in the town of Juban, by a news report the Smithsonian relayed.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Bulusan dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the alert level in force and the danger zone, use PHIVOLCS.[[phivolcs]]",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Bulusan. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]",
+    "Ash travels far from this volcano: in 2022 it fell 30 miles (50 km) away. The Smithsonian’s reports also record one death in 2006, from asthma made worse by ash.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Bulusan’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Bulusan has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "what the agency measured",
+ "callouts": [
+  {
+   "number": "475",
+   "unit": "earthquakes",
+   "text": "Counted under the volcano from March 15, 2026 to the day the alert went from 0 to 1, March 22.",
+   "source": "Source: PHIVOLCS bulletin of March 22, 2026.[[bul0322]]"
+  },
+  {
+   "number": "2.8",
+   "unit": "miles",
+   "text": "Height of the plume above the crater on April 28, 2025 (4.5 km).",
+   "source": "Source: PHIVOLCS bulletin of April 28, 2025.[[bul0428]]"
+  }
+ ],
+ "faq_h": "Bulusan questions and answers",
+ "faq": [
+  [
+   "When did Bulusan last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s record: two steam-driven explosions from the summit crater."
+  ],
+  [
+   "Is Bulusan active now?",
+   "It is not erupting. PHIVOLCS had it at Alert Level 1, on a scale from 0 to 5, on {read_date}, after raising the level from 0 on March 22, 2026."
+  ],
+  [
+   "Where is Bulusan?",
+   "In Sorsogon Province at the southern end of Luzon, the main island of the Philippines."
+  ],
+  [
+   "How tall is Bulusan?",
+   "{summit_ft} ft ({summit_m} m)."
+  ],
+  [
+   "What type of volcano is Bulusan?",
+   "A stratovolcano, by the Smithsonian’s classification, built along the rim of the Irosin caldera."
+  ],
+  [
+   "What is a phreatic eruption?",
+   "An explosion driven by steam. Bulusan’s eruptions of 2022 and 2025 are both classed as phreatic by the Philippine volcano agency."
+  ],
+  [
+   "How big is Bulusan’s danger zone?",
+   "The permanent danger zone has a radius of 2.5 miles (4 km) around the summit. The agency’s page has the rules in force."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Bulusan record, eruption list and weekly reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=273010"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "gvpw25",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Report on Bulusan (Philippines), Weekly Volcanic Activity Report, 23–29 April 2025",
+   "url": "https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20250423-273010"
+  },
+  {
+   "id": "phivolcs",
+   "publisher": "DOST-PHIVOLCS, GeoRisk Philippines",
+   "title": "HazardHunterPH: volcano monitoring, alert levels",
+   "url": "https://hazardhunter.georisk.gov.ph/monitoring/volcano"
+  },
+  {
+   "id": "bul0428",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Bulusan Volcano Bulletin, 28 April 2025, 7:00 AM",
+   "url": "https://vmepd.phivolcs.dost.gov.ph/bulletin/activity-bvo?bid=11420&lang=en"
+  },
+  {
+   "id": "bul0428b",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Bulusan Volcano Eruption Update, 28 April 2025, 8:30 PM",
+   "url": "https://vmepd.phivolcs.dost.gov.ph/bulletin/activity-bvo?bid=11421&lang=en"
+  },
+  {
+   "id": "bul0429",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Bulusan Volcano Bulletin, 29 April 2025, 11:00 PM",
+   "url": "https://vmepd.phivolcs.dost.gov.ph/bulletin/activity-bvo?bid=11429&lang=en"
+  },
+  {
+   "id": "bul0312",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Bulusan Volcano advisory on an earthquake swarm, March 2026",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/bulletin/activity-bvo?bid=13688&lang=en"
+  },
+  {
+   "id": "bul0322",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Bulusan Volcano Bulletin, 22 March 2026, 12:00 PM",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/bulletin/activity-bvo?bid=13705&lang=en"
+  },
+  {
+   "id": "phist",
+   "publisher": "DOST-PHIVOLCS",
+   "title": "Eruption history: Bulusan Volcano",
+   "url": "https://wovodat.phivolcs.dost.gov.ph/volcano/erupt-history?volcan=571&sdate=&edate=&btn-search="
+  },
+  {
+   "id": "bgvn2006",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network, September 2006: Bulusan, geologic background",
+   "url": "https://volcano.si.edu/reports_bgvn.cfm?IssueYear=2006&IssueMonth=09"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and inches are converted from the metric figures in the sources and rounded.",
+  "Times of day are local, as the sources give them."
+ ],
+ "expect": {
+  "last_start": "April 28",
+  "last_end": "April 29, 2025",
+  "summit_m": "1,535",
+  "n_all": "25",
+  "n_observed": "23",
+  "n_dated": "2",
+  "n_since": "23",
+  "noaa_n": "4",
+  "worst_deaths": "9",
+  "worst_date": "December 25, 1933"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since April 2025 on record.** PHIVOLCS’s monitoring page, read on {read_date}, showed Bulusan at Alert Level 1, with entry into the permanent danger zone prohibited.[[phivolcs]]",
+ "reviewed": null
+}
