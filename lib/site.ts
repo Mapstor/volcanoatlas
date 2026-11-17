@@ -8,6 +8,16 @@ export const OG_IMAGE = '/og-image.jpg';
 export const GVP_EXPORT_DATE = '11 Feb 2026';
 export const GVP_HOME = 'https://volcano.si.edu/';
 
+/** The person who reviews the rebuilt pages. Shown on a page only after he has read it (see DEVLOG.md). */
+export const AUTHOR = {
+  name: 'Marko Visic',
+  credential: 'BSc Physics, University of Ljubljana',
+  degrees: ['BSc in Physics, Faculty of Mathematics and Physics', 'Master of Pharmacy (MPharm), Faculty of Pharmacy'],
+  university: 'University of Ljubljana',
+  profile: 'https://www.linkedin.com/in/marko-visic/',
+  page: '/about',
+};
+
 export function gvpVolcanoUrl(volcanoNumber: number | string) {
   return `https://volcano.si.edu/volcano.cfm?vn=${volcanoNumber}`;
 }

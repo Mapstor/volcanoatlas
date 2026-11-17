@@ -1,0 +1,236 @@
+{
+ "slug": "stromboli",
+ "volcano_number": 211040,
+ "name": "Stromboli",
+ "country": "Italy",
+ "title": "Stromboli Volcano: Last Eruption, Height, Type & Facts",
+ "description": "Stromboli is erupting now: the current eruption began on {cur_start}. Height, type, how often it erupts and every recorded eruption, with sources.",
+ "h1": "Stromboli Volcano",
+ "facts": {
+  "base_m": 2000,
+  "terrace_m": [
+   700,
+   750
+  ],
+  "alt_top_m": 926
+ },
+ "big": {
+  "line": "Erupting since {cur_start}",
+  "number": "{cur_years}",
+  "unit": "years",
+  "note": "still going at the last update"
+ },
+ "lede": "Most volcano pages can give you the date of the last eruption. Stromboli’s can’t, because the eruption hasn’t ended. Below is the record the Smithsonian keeps for it, the numbers behind its height and age, and what its bigger blasts have cost.",
+ "answer": "**Stromboli is erupting now.** Its current eruption began on **{cur_start}**, and it was still going at the Smithsonian’s last update of ongoing eruptions on {cur_last}. Stromboli is a **stratovolcano** in Italy’s Aeolian Islands. Its summit stands **{summit_ft} ft ({summit_m} m)** above the Tyrrhenian Sea.",
+ "timeline": {
+  "from": 1850,
+  "to": 2030,
+  "marks": [
+   {
+    "year": 1919.39,
+    "label": "1919"
+   },
+   {
+    "year": 1930.69,
+    "label": "1930"
+   },
+   {
+    "year": 2003.26,
+    "label": "2003"
+   },
+   {
+    "year": 2019.55,
+    "label": "2019"
+   }
+  ],
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The line is high while an eruption is in progress and flat during the {n_pauses_word} pauses. The peaks mark the strongest blasts of the last 100 years named by INGV.[[ingv]]"
+ },
+ "section": {
+  "note": "gas bubbles burst here",
+  "caption": "Stromboli cut open, from its base on the sea floor to its summit. Gas bubbles that form in the lava burst at the vent: that is a Strombolian eruption.[[nps]] Heights are to scale; the shape is not surveyed.[[gvp]][[ingv]]"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Stromboli?",
+   "map": true,
+   "paras": [
+    "Stromboli is the northeasternmost of Italy’s Aeolian Islands, in the Tyrrhenian Sea, at {coords}.[[gvp]] It is one of {n_country} volcanoes in [Italy](/volcanoes-in-italy) on the Smithsonian’s Holocene list."
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Stromboli last erupt?",
+   "aside": "callouts",
+   "table": "periods",
+   "paras": [
+    "It hasn’t stopped. The Smithsonian’s Global Volcanism Program dates the start of the current eruption to **{cur_start}** and lists it as continuing, which makes it **{cur_years} years long** so far.[[gvp]]",
+    "Only {older_count_word} of the {n_cont} eruptions the Smithsonian lists as continuing began earlier: {older}.[[gvp]]",
+    "The {cur_start_year} date hides how steady Stromboli is. The record has it erupting since before {open_before}, with only {n_pauses_word} pauses after {counted_month_year}. Those pauses add up to **{pause_years} years out of almost {span_years}**, so Stromboli has been in eruption **{share}% of the time since {counted_year}**."
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Stromboli erupt?",
+   "paras": [
+    "In its normal state, Stromboli explodes at intervals of **minutes to a few hours**, according to INGV, the Italian institute that monitors it.[[ingv]] Each blast lasts from a few seconds to tens of seconds and throws glowing fragments roughly 100 to 1,000 ft (a few tens to hundreds of meters) above the vents.",
+    "Bigger events break that rhythm. Lava flows out about **once or twice a decade**; the 2002–2003 flow lasted 206 days.[[ingv]] Rarer and far more violent are the blasts INGV calls paroxysms, which throw bombs and blocks as far as the summit area. It names 1919, 1930, 2003 and two in the summer of 2019 as the strongest of the last 100 years."
+   ]
+  },
+  {
+   "id": "what",
+   "h": "What is a Strombolian eruption?",
+   "paras": [
+    "A Strombolian eruption is a string of **short, separate bursts of fluid lava** from a vent or crater, usually basalt.[[usgs1]] The style takes its name from Stromboli. Each burst throws glowing fragments hundreds of feet into the air, and no sustained ash column forms.[[nps]]",
+    "The bursts happen when gas bubbles form in the lava at the vent.[[nps]] You can see what they build without leaving the United States: Strombolian eruptions make cinder cones, and the National Park Service lists Capulin Volcano in New Mexico and Craters of the Moon in Idaho among its examples."
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Stromboli?",
+   "paras": [
+    "Stromboli is a **[stratovolcano](/types-of-volcanoes)**: a steep-sided cone built from lava flows and the debris of explosive eruptions.[[usgs2]] The Smithsonian lists its main rock as {rock} and places it above a subduction zone.[[gvp]]",
+    "The island is only the top of it. The Smithsonian describes Stromboli as the emergent summit of a volcano that grew in two main eruptive cycles.[[gvp]] Its active vents sit at the head of the Sciara del Fuoco, a scarp on the northwest side that carries lava and debris downhill and continues below sea level."
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Stromboli?",
+   "paras": [
+    "Stromboli’s summit is **{summit_ft} ft ({summit_m} m) above sea level**.[[gvp]] INGV gives about {alt_top_m} m for the highest point, I Vancori, a difference of {top_diff} m.[[ingv]]",
+    "That number undersells the volcano. INGV puts its base about {base_ft} ft ({base_m} m) below sea level, so the whole cone is roughly **{total_ft} ft ({total_m} m) tall, with about two-thirds of it under water**. The active craters aren’t at the top either: they sit on a terrace at about {terr_ft0} to {terr_ft1} ft ({terr_m0} to {terr_m1} m)."
+   ]
+  },
+  {
+   "id": "old",
+   "h": "How old is Stromboli?",
+   "paras": [
+    "The part of Stromboli above the sea is **about 85,000 years old**, according to INGV, and volcanic activity in the area began about 200,000 years ago at Strombolicchio.[[ingv]]",
+    "The Smithsonian’s summary fills in the recent chapters. The Neostromboli period ran from about 13,000 to 5,000 years ago, and the Sciara del Fuoco formed about 5,000 years ago in a series of slope failures.[[gvp]] The oldest of the {n_all} eruptions in its dated record is from around {oldest}."
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Stromboli dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the current alert level, use INGV’s Stromboli page.[[ingv]]",
+   "paras": [
+    "People have died there, though rarely. NOAA’s database of significant eruptions lists **{noaa_n} events at Stromboli since {noaa_first}**.[[noaa]] {noaa_fatal_word} were fatal, with **{noaa_deaths} deaths in total**.",
+    "The deadliest was on {worst_date}: {worst_deaths} deaths and {worst_injuries} injuries. The most recent death was on {last_death_date}.",
+    "The sea is the other hazard. NOAA links a tsunami record to **{noaa_tsu} of the {noaa_n} events**, the latest on {last_tsu_date}."
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Stromboli’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Stromboli has **{n_all} confirmed eruptions**. It dates {n_mag} of them from the magnetism of old lava flows and {n_rc_word} by radiocarbon; the other {n_written} come from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callouts": [
+  {
+   "number": "{cur_years}",
+   "unit": "years",
+   "text": "Length of Stromboli’s current eruption, from {cur_start} to the Smithsonian’s last update on {cur_last}."
+  },
+  {
+   "number": "{share}%",
+   "unit": "of the time",
+   "text": "Share of days since {counted_from} that fall inside an eruption in the Smithsonian’s record."
+  }
+ ],
+ "faq_h": "Stromboli questions and answers",
+ "faq": [
+  [
+   "When did Stromboli last erupt?",
+   "Stromboli is erupting now. The Smithsonian’s Global Volcanism Program dates its current eruption from {cur_start} and listed it as continuing at its last update on {cur_last}."
+  ],
+  [
+   "What type of volcano is Stromboli?",
+   "Stromboli is a stratovolcano, a steep-sided cone built from lava flows and explosive debris. The Smithsonian lists its main rock type as {rock}."
+  ],
+  [
+   "How often does Stromboli erupt?",
+   "In normal activity Stromboli explodes at intervals of minutes to a few hours, according to INGV, the Italian institute that monitors it. Lava flows happen about once or twice a decade."
+  ],
+  [
+   "How tall is Stromboli?",
+   "Stromboli’s summit is {summit_ft} ft ({summit_m} m) above sea level. Its base lies about {base_ft} ft ({base_m} m) below sea level, so the whole volcano is roughly {total_ft} ft ({total_m} m) tall."
+  ],
+  [
+   "How old is Stromboli?",
+   "The part of Stromboli above the sea is about 85,000 years old, according to INGV. Volcanic activity in the area began about 200,000 years ago at Strombolicchio."
+  ],
+  [
+   "How long has Stromboli been erupting?",
+   "The current eruption has lasted {cur_years} years, since {cur_start}. The Smithsonian’s summary says mild explosions have been recorded there for more than a millennium."
+  ],
+  [
+   "Does Stromboli erupt every day?",
+   "In normal activity, yes. INGV describes explosions separated by minutes to a few hours, each lasting from a few seconds to tens of seconds."
+  ],
+  [
+   "Is Stromboli active?",
+   "Yes. Stromboli is in continuous eruption: the Smithsonian lists the eruption that began on {cur_start} as still continuing."
+  ],
+  [
+   "Why is Stromboli called the Lighthouse of the Mediterranean?",
+   "Because of its glowing explosions at night, which the Smithsonian says have long attracted visitors."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Stromboli record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=211040"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "ingv",
+   "publisher": "INGV, Italy’s National Institute of Geophysics and Volcanology",
+   "title": "Stromboli",
+   "url": "https://www.ingv.it/en/stromboli"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "nps",
+   "publisher": "U.S. National Park Service",
+   "title": "Strombolian Eruptions",
+   "url": "https://www.nps.gov/articles/000/strombolian-eruptions.htm"
+  },
+  {
+   "id": "usgs1",
+   "publisher": "U.S. Geological Survey",
+   "title": "Open-File Report 96-24, glossary",
+   "url": "https://pubs.usgs.gov/of/1996/0024/glossary.html"
+  },
+  {
+   "id": "usgs2",
+   "publisher": "U.S. Geological Survey",
+   "title": "Open-File Report 96-738, glossary",
+   "url": "https://pubs.usgs.gov/of/1996/0738/glossary.html"
+  }
+ ],
+ "calc": [
+  "**{cur_years} years:** from {cur_start} to {cur_last}, the Smithsonian’s last update of ongoing eruptions.",
+  "**{share}% and {pause_years} years:** the days inside the Smithsonian’s eruption dates, divided by all days from {counted_from} to {cur_last}. A pause is the gap between one eruption’s end date and the next start date.",
+  "**{total_ft} ft ({total_m} m):** {summit_m} m above sea level plus about {base_m} m below it. Two-thirds is {base_m} ÷ {total_exact_m}.",
+  "**{noaa_deaths} deaths:** the sum of NOAA’s totals for the {noaa_fatal_count} fatal events.",
+  "Feet are converted from meters and rounded."
+ ],
+ "observatory_read": "2026-11-15",
+ "reviewed": "2026-11-17"
+}

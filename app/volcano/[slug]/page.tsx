@@ -6,6 +6,8 @@ import { RichText } from '@/components/RichText';
 import VolcanoLocationMap from '@/components/VolcanoLocationMap';
 import JsonLd, { breadcrumbLd, faqLd } from '@/components/JsonLd';
 import BasicVolcanoPage from './BasicVolcanoPage';
+import RecordPage from './RecordPage';
+import { buildRecordData, getRecordProfile, plain } from '@/lib/recordProfile';
 import { getGvpByLegacySlug, getGvpBySlug } from '@/lib/gvp';
 import { basicPageSlug, countryHref, profileSlugForNumber, volcanoHrefByNumber } from '@/lib/routes';
 import { SITE_URL, gvpVolcanoUrl, pageMeta } from '@/lib/site';
@@ -24,6 +26,19 @@ function cleanType(type: string | null | undefined) {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
+
+  // Rebuilt profiles (data/profiles/) replace the older article for the same address.
+  const record = getRecordProfile(slug);
+  if (record) {
+    const { ctx } = buildRecordData(record);
+    return pageMeta({
+      title: plain(record.title, ctx),
+      description: plain(record.description, ctx),
+      path: `/volcano/${record.slug}`,
+      type: 'article',
+    });
+  }
+
   const volcano = await getVolcanoBySlug(slug);
 
   if (volcano) {
@@ -53,6 +68,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function VolcanoPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
+
+  const record = getRecordProfile(slug);
+  if (record) return <RecordPage profile={record} />;
+
   const volcano = await getVolcanoBySlug(slug);
 
   // No written profile: show the database record, or send old URLs to the right place.

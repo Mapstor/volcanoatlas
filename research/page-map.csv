@@ -182,7 +182,7 @@ volcano/soufriere-guadeloupe,volcanoes,data,informational,,gvp-eruptions,T2,live
 volcano/soufriere-hills,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/soufriere-st-vincent,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/st-helens,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/stromboli,volcanoes,data,informational,share of days in eruption since 1857; rank among continuing eruptions; NOAA table of deadly and tsunami events,gvp-eruptions,T1,live,rebuild specd: content verified and three looks shown 2026-11-15 (research/pilots/stromboli.md)
+volcano/stromboli,volcanoes,data,informational,share of days in eruption since 1857; rank among continuing eruptions; NOAA table of deadly and tsunami events,gvp-eruptions,T1,live,rebuilt as a record page (look A with the cut-open volcano from B) on a preview 2026-11-16; waits for the owner to read it
 volcano/taal,volcanoes,data,informational,,gvp-eruptions,T1,live,rebuild pending
 volcano/tacana,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/tambora,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

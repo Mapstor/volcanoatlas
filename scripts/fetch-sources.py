@@ -1,4 +1,6 @@
-"""Download the primary datasets the site is built on, into data/sources/ (not committed until the build uses them).
+"""Download the primary datasets the site is built on, as published, into data/sources-raw/ (ignored by git).
+
+Then run scripts/build-data.py, which slims them into data/sources/ (committed; the site reads those at build time).
 
 Sources (see research/data-sources.csv):
   - Smithsonian Global Volcanism Program, Volcanoes of the World: Holocene volcanoes and eruptions (public WFS service)
@@ -12,7 +14,7 @@ import sys
 import datetime
 import urllib.request
 
-OUT = sys.argv[1] if len(sys.argv) > 1 else 'data/sources'
+OUT = sys.argv[1] if len(sys.argv) > 1 else 'data/sources-raw'
 WFS = ('https://webservices.volcano.si.edu/geoserver/GVP-VOTW/ows?service=WFS&version=1.0.0&request=GetFeature'
        '&outputFormat=application%2Fjson&typeName=GVP-VOTW:')
 NCEI = 'https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?itemsPerPage=200&page={}'

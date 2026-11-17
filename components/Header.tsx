@@ -74,7 +74,7 @@ export default function Header({ navData }: HeaderProps) {
             </Link>
 
             {/* Navigation */}
-            <nav className="hidden md:flex items-center gap-8" aria-label="Main">
+            <nav className="hidden lg:flex items-center gap-8" aria-label="Main">
               {/* Volcanoes Dropdown */}
               <div ref={volcanoesRef} className="relative">
                 <button
@@ -163,7 +163,7 @@ export default function Header({ navData }: HeaderProps) {
             </nav>
 
             {/* Mobile controls */}
-            <div className="flex items-center gap-1 md:hidden">
+            <div className="flex items-center gap-1 lg:hidden">
               <button
                 onClick={() => setIsSearchOpen(true)}
                 aria-label="Search"
@@ -194,7 +194,7 @@ export default function Header({ navData }: HeaderProps) {
 
         {/* Mobile menu */}
         {isMobileOpen && (
-          <nav id="mobile-menu" aria-label="Mobile" className="md:hidden border-t border-volcanic-700 bg-volcanic-950">
+          <nav id="mobile-menu" aria-label="Mobile" className="lg:hidden border-t border-volcanic-700 bg-volcanic-950">
             <ul className="max-w-7xl mx-auto px-4 py-2">
               {MOBILE_LINKS.map((link) => (
                 <li key={link.href}>
