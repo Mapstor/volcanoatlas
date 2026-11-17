@@ -2,10 +2,10 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-005_
-- Step: ten pages — 4 of the ten built: Stromboli and Mauna Loa live with the owner's review; Mount St. Helens and Mount Erebus built 2026-11-17 and going live without his name until he has read them. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages finished: 2 of 213 (Stromboli, Mauna Loa); 2 more built and waiting for his read (Mount St. Helens, Mount Erebus).
-- Last confirmed: VOL-006 BATCH2 — land drawing, land height from NOAA's grid, honest date precision, Mount St. Helens and Mount Erebus (see §6).
+_last update: 2026-11-17 · VOL-006_
+- Step: ten pages — 4 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens and Mount Erebus live since 2026-11-17 without his name until he has read them. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 4 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 2 (Mount St. Helens, Mount Erebus).
+- Last confirmed: VOL-006 BATCH2 — live (9e8f4d3): land drawing, land height from NOAA's grid, honest date precision, two packed columns under the strip, Mount St. Helens and Mount Erebus (see §6).
 - In flight (handed, NOT confirmed): none
 - Next action: next batch, in this order: Krakatau, Kilauea, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal and the rest by search demand. Source addresses already found are in §5. Kilauea needs a caldera drawing (USGS gives the levels of the caldera floor and of Halemaʻumaʻu before and after 2018). Each page: observatory pages read first, profile written, checks, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: reading Mount St. Helens and Mount Erebus; his name and the date go on after he says so.
@@ -254,6 +254,14 @@ _last update: 2026-11-17 · VOL-005_
 - Unverified: the second preview in the owner's Chrome and the live pages (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: none
+
+### 2026-11-17 · VOL-006 BATCH2 · chat · live
+- What: pull request 8 merged (merge commit 9e8f4d3) after four previews; Mount St. Helens and Mount Erebus are live, and the date-precision, table and column changes are live on Stromboli and Mauna Loa.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (tsc, clean build, crawl 1,212 pages all 200 with 0 broken links and 213 indexable = sitemap, render check incl. the new desktop table check, registry OK); the four pages looked at on the previews in the owner's Chrome (maps with tiles, drawings, tables, columns); Vercel production build of 9e8f4d3 READY; on www.volcanosatlas.com in the owner's Chrome: all four pages 200, canonical on themselves, index/follow, map tiles load (9/9, 6/6, 6/6, 6/6), no table scrolls sideways at 1512 px, no raw markup, byline present on Stromboli and Mauna Loa and absent on the two new pages, USGS alert box shows on Mount St. Helens and Mauna Loa.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 9e8f4d3 (merged)
+- Notes: four previews were needed because the first local checks ran at phone width only; the render check now covers desktop tables. Owner to read /volcano/st-helens and /volcano/erebus.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
