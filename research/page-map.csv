@@ -64,7 +64,7 @@ volcano/akutan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/ambae,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/ambrym,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/arenal,volcanoes,data,informational,"a 42-year eruption on one strip; the summit that grew during it (two heights, and why they differ); what Costa Rica’s own network says about the rest since 2011",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 8); also uses noaa-ncei-volcano, noaa-etopo and observatory-pages; waits for the owner's read before his name goes on"
-volcano/asamayama,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/asamayama,volcanoes,data,informational,"the 1783 eruption and flood from the catalogue of Japan’s weather agency, with both death counts and where each comes from; the agency’s alert level and its newest dated commentary; 129 eruptions on one timeline",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 10) under the name Mount Asama, title carries both names; also uses noaa-ncei-volcano, gvp-weekly, observatory-pages and noaa-etopo; carries dated observatory figures to refresh; waits for the owner's read before his name goes on"
 volcano/asosan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/avachinsky,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/azul-cerro,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

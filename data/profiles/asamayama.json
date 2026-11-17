@@ -1,0 +1,251 @@
+{
+ "slug": "asamayama",
+ "volcano_number": 283110,
+ "name": "Mount Asama",
+ "country": "Japan",
+ "title": "Mount Asama (Asamayama): Last Eruption, 1783 Disaster & Facts",
+ "description": "Mount Asama, the most active volcano on Japan’s main island, last erupted in 2019. Its alert level now, the 1783 eruption that killed 1,151 people, height and record.",
+ "h1": "Mount Asama",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1783
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Mount Asama is the most active volcano on Honshu, Japan’s main island, about 87 miles from Tokyo. Most of its eruptions are explosions from the summit crater. In 1783 a far larger one, and the flood that followed it, killed 1,151 people by the count of Japan’s weather agency. Below: the volcano’s state now, what happened in 1783, its height, and every eruption on record.",
+ "answer": "**Mount Asama last erupted from {last_start} to {last_end}.**[[gvp]] It stands on the border of Gunma and Nagano prefectures in Japan and is **{summit_ft} ft ({summit_m} m)** high.[[jma]] Japan’s weather agency had it at Volcanic Alert Level 1, the lowest of five, in its commentary of November 13, 2026.[[jmanow]] The Smithsonian lists the volcano as Asamayama.[[gvp]]",
+ "timeline": {
+  "from": 1770,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1783.6,
+    "label": "1783"
+   },
+   {
+    "year": 2004.67,
+    "label": "2004"
+   },
+   {
+    "year": 2019.6,
+    "label": "2019"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The first spike is the eruption of 1783. The crowded stretch is the first half of the 20th century; for 1941 the catalogue of Japan’s weather agency records ten to several dozen eruptions every month.[[jma]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "the crater floor rises and falls",
+  "crater": "Kamayama crater",
+  "crater_share": 0.06,
+  "caption": "Mount Asama cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[jma]][[etopo]] The depth of the summit crater changes a great deal from one eruption to the next, so it is not drawn to scale.[[jma]]"
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Asama?",
+   "map": true,
+   "paras": [
+    "Mount Asama is on Honshu, on the border between Gunma and Nagano prefectures, at {coords}.[[gvp]][[jma]] Tokyo is about 87 miles (140 km) to the southeast.[[jmaeng]] Karuizawa, Komoro and Tsumagoi are among the towns around its foot.[[jma]] It is one of {n_country} volcanoes in [Japan](/volcanoes-in-japan) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Mount Asama active now?",
+   "paras": [
+    "It is not erupting. Japan’s weather agency has it at **Volcanic Alert Level 1**, the lowest of five. Even at that level the agency warns that a very small eruption could affect the area within 1,640 ft (500 m) of the summit crater.[[jmanow]][[jma]]",
+    "The level has changed this year. It stood at 2, the level that keeps people away from the crater, until the agency lowered it on May 22, 2026.[[jmanow]]",
+    "In its commentary of November 13, 2026 the agency reported slightly more volcanic earthquakes since late September: 36 a day on average over the previous month. It saw no change in the plume, low sulfur dioxide and no swelling of the mountain, and judged that nothing called for a higher level.[[jmanow]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mount Asama last erupt?",
+   "table": "periods",
+   "paras": [
+    "The last eruption on the Smithsonian’s list ran from **{last_start} to {last_end}**.[[gvp]] The table below shows the ones before it.",
+    "Two of them reached far beyond the mountain. On the evening of September 1, 2004 explosive activity resumed after 21 years, by the weather agency’s account. Ash fell that day in Gunma and Fukushima prefectures, and later in the month in Tokyo and Chiba. On February 2, 2009 an eruption sent up a plume 6,600 ft (2,000 m) high, and ash fell in the Kanto region around Tokyo.[[jma]]"
+   ]
+  },
+  {
+   "id": "1783",
+   "h": "What happened in the 1783 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The eruption began in May 1783 and went on into August.[[jma]][[gvp]] By late July its ash was falling on Edo, the city now called Tokyo.[[jma]]",
+    "On August 4 a pyroclastic flow, a fast avalanche of hot ash and gas, reached the northern foot of the volcano. On the morning of **August 5** a large explosion sent a second flow and an avalanche of debris down the same side.[[jma]]",
+    "Lower down they turned into mudflows and dammed the river that the agency’s catalogue calls the Azuma. When the dam gave way, the water surged into the Tone River. Right after the flow, lava known as Onioshidashi moved down the north flank.[[jma]]",
+    "The weather agency’s catalogue counts 1,151 dead and 1,061 houses swept away.[[jma]] NOAA’s database lists {worst_deaths} deaths.[[noaa]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Asama?",
+   "paras": [
+    "Mount Asama is **{summit_ft} ft ({summit_m} m)** high.[[jma]][[gvp]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "The crater at the summit, called Kamayama, is about 1,640 ft (500 m) from east to west and 1,440 ft (440 m) from north to south. Its depth changes a great deal from one eruption to the next.[[jma]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount Asama?",
+   "paras": [
+    "The Smithsonian classes Mount Asama as a **[complex volcano](/types-of-volcanoes)**.[[gvp]] The weather agency describes three volcanoes built in turn: Kurofu, the oldest; Hotokeiwa, 10,000 to 20,000 years ago; and Maekake, active for about the last 10,000 years, with the Kamayama crater at its summit.[[jma]]",
+    "Its usual eruptions are explosions of the kind called vulcanian, often with pyroclastic flows.[[jma]] The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount Asama erupt?",
+   "paras": [
+    "Often. The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}.[[gvp]] The weather agency calls it the most active volcano on Honshu, and all its recorded eruptions have come from the summit.[[jmaeng]]",
+    "Two stand far above the rest, in 1108 and in 1783. Both sent out pyroclastic flows and lava.[[jmaeng]][[jma]]",
+    "In the Smithsonian’s list the eruptions crowd into the first half of the 20th century.[[gvp]] For 1941 the weather agency’s catalogue records ten to several dozen eruptions every month.[[jma]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "How deadly has Mount Asama been?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the alert level in force, use the Japan Meteorological Agency’s page for the volcano.[[jmanow]]",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Mount Asama. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]",
+    "Several of the dead in the 20th century were climbers. The weather agency’s catalogue records climbers killed in 1913, 1936, 1947 and 1950, in 1947 by blocks thrown out in an eruption.[[jma]] The agency has set alert levels for the volcano since December 1, 2007.[[jma]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Asama’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mount Asama has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from deposits or other evidence.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "August 5, 1783",
+ "callouts": [
+  {
+   "number": "1,151",
+   "unit": "deaths",
+   "text": "People killed by the eruption and the flood that followed, by the count of Japan’s weather agency. NOAA’s database lists {worst_deaths}.",
+   "source": "Sources: Japan Meteorological Agency;[[jma]] NOAA.[[noaa]]"
+  },
+  {
+   "number": "1,061",
+   "unit": "houses",
+   "text": "Swept away. Another 51 burned and more than 130 were destroyed.",
+   "source": "Source: Japan Meteorological Agency.[[jma]]"
+  }
+ ],
+ "faq_h": "Mount Asama questions and answers",
+ "faq": [
+  [
+   "When did Mount Asama last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s record."
+  ],
+  [
+   "Is Mount Asama active now?",
+   "It is not erupting. Japan’s weather agency had it at Volcanic Alert Level 1, the lowest of five, in its commentary of November 13, 2026."
+  ],
+  [
+   "Where is Mount Asama?",
+   "On Honshu, on the border between Gunma and Nagano prefectures, about 87 miles (140 km) northwest of Tokyo."
+  ],
+  [
+   "How tall is Mount Asama?",
+   "{summit_ft} ft ({summit_m} m)."
+  ],
+  [
+   "How many people died in the 1783 eruption?",
+   "1,151, by the count of Japan’s weather agency. NOAA’s database lists {worst_deaths}."
+  ],
+  [
+   "What type of volcano is Mount Asama?",
+   "The Smithsonian classes it as a complex volcano: three volcanoes built in turn, with the active Kamayama crater at the summit."
+  ],
+  [
+   "How often does Mount Asama erupt?",
+   "Often. The Smithsonian’s list has {n_all} confirmed eruptions, {n_since} of them since {since_year}."
+  ],
+  [
+   "Is Mount Asama the same as Asamayama?",
+   "Yes. Asamayama is the Japanese name, and the one the Smithsonian’s list uses."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Asamayama record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=283110"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jma",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 45. Asamayama",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/045_asamayama.pdf"
+  },
+  {
+   "id": "jmaeng",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Asamayama (summary page in English)",
+   "url": "https://www.data.jma.go.jp/vois/data/tokyo/eng/306/306-eng.htm"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Asamayama: warnings, alert level and commentaries (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/306.html"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet and miles are converted from the metric figures in the sources and rounded.",
+  "This page uses the name Mount Asama. The Smithsonian’s list and Japan’s weather agency write Asamayama."
+ ],
+ "expect": {
+  "last_start": "August 7",
+  "last_end": "August 25, 2019",
+  "summit_m": "2,568",
+  "n_all": "129",
+  "noaa_n": "18",
+  "worst_deaths": "1,491",
+  "worst_date": "August 5, 1783"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since 2019 on record.** The Japan Meteorological Agency’s page for the volcano, read on {read_date}, shows Volcanic Alert Level 1, the lowest of five, and a commentary dated November 13, 2026.[[jmanow]]",
+ "reviewed": null,
+ "map_label": "below"
+}

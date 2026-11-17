@@ -2,12 +2,12 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-013_
+_last update: 2026-11-17 · VOL-014_
 - Step: all pages — the ten-page step is complete; 11 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal and Mount Pelee without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 11 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 9 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee).
-- Last confirmed: VOL-013 PELEE — live (d16dea0): Mount Pelee as a record page (see §6).
+- Last confirmed: VOL-013 PELEE — live (d16dea0): Mount Pelee as a record page (see §6). VOL-014 ASAMA — done (pushed on its work branch): Mount Asama as a record page at /volcano/asamayama; the preview look, the merge and the live check follow.
 - In flight (handed, NOT confirmed): none
-- Next action: Rabaul (252140), Asamayama (283110), Villarrica (357120) and the rest by search demand. Pelee was taken first because its observatory's reports were readable; for the other three the current statement of the observatory still has to be found (Rabaul's observatory has no site of its own, Japan's warnings map needs JavaScript). Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Next action: Rabaul (252140), Villarrica (357120) and the rest by search demand. Pelee was taken first because its observatory's reports were readable; for these two the current statement of the observatory still has to be found (Rabaul's observatory has no site of its own). Japan's volcanoes are easier than they looked: the weather agency has a plain status page for each (§4). Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal and Mount Pelee are new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
@@ -146,11 +146,12 @@ _last update: 2026-11-17 · VOL-013_
 - A web address that was only named in a fetched page's summary cannot be fetched without the owner's approval (Instituto Geofísico's home page, 2026-11-17). Search with the site's domain as the only allowed domain: its pages then come back as results and can be read.
 
 - A pull request is merged only when its commit status reads success. On 2026-11-17 a notebook-only pull request (17) was merged although its preview build had failed, because the shell loop that waited for the status did not stop the chain; the production build of the same commit passed and the site was not affected. Check the status in the same command that merges, and stop on anything but success.
-- Japan's weather agency shows the warnings in force on a map that needs JavaScript; it cannot be read by a plain fetch. A page links it for the level in force and states no current level.
+- Japan's weather agency shows the warnings in force on a map that needs JavaScript; a plain fetch cannot read it. Each volcano also has a plain status page, data.jma.go.jp/vois/data/report/activity_info/<the agency's number>.html (in Japanese: level in force, date of the last change, newest commentary); find it with a Japanese-language search restricted to jma.go.jp. Mount Asama's page uses it. Sakurajima's page still links the map and states no level (§5).
 
 - Two uncertain dates in one row ("Oct 5, 1922 (uncertain)") pushed the eruption table past the text column on a desktop (Arenal, caught by the 1440 px check). A date now keeps to one line and its "(uncertain)" marker may wrap under it (`dateCell`, `.va-when`).
 
 - Mount Pelee carries dated statements from its observatory that go stale: the earthquake count (September 2026), the swelling of the summit and the alert level (yellow, weekly report of 13 Nov 2026). They sit in `data/profiles/pelee.json` and come from the OVSM-IPGP bulletins listed at ipgp.fr/en/observatory-releases-and-bulletins/. Read the newest bulletin at each data refresh.
+- Mount Asama carries dated statements from the agency's status page that go stale: Level 1 (lowered from 2 on 22 May 2026) and the commentary of 13 Nov 2026 (36 volcanic earthquakes a day). They sit in `data/profiles/asamayama.json`. Read the status page at each data refresh.
 
 ## §5 Backlog (priority order)
 - [P0] Next pages: Krakatau, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. The caldera drawing exists (Kilauea); Rabaul and Taal need their own levels from their observatories.
@@ -170,6 +171,7 @@ _last update: 2026-11-17 · VOL-013_
 - [P2] Raptive readiness pass, logged human review of the top 30 pages, freeze for three months.
 - [P2] Clean-up: 66 lint findings; old helper scripts in `scripts/*.js`; stray audit files at the repo root; unused `next-sitemap` dependency; unused `UNSPLASH_ACCESS_KEY` variable in Vercel.
 
+- [P1] Sakurajima: read the weather agency's status page for the volcano (§4) and put the alert level in force, with its date, on /volcano/aira. The page now links the JavaScript map and states no level.
 - [P2] The street map prints place names in the local script (Japanese around Sakurajima), which a US reader cannot read. Look for a map layer with English labels whose terms allow use on a site with ads; until then the text says where the nearest city is.
 
 - [P1] The build downloads its fonts from Google every time, and the download drops now and then: two preview builds failed that way on 2026-11-17 (pull requests 17 and 20), each time with nothing wrong in the code. Ship the font files with the site (`next/font/local`) so a build never depends on that download. Until then: an empty commit on the work branch starts a fresh build.
@@ -405,6 +407,14 @@ _last update: 2026-11-17 · VOL-013_
 - Unverified: a real phone (phone width checked in headless Chrome only).
 - Commit: d16dea0 (merged)
 - Notes: none.
+
+### 2026-11-17 · VOL-014 ASAMA · chat · done
+- What: Mount Asama as a record page at /volcano/asamayama (Asamayama is the Smithsonian's and the agency's name; the title carries both), from the Japan Meteorological Agency's catalogue chapter, its English summary page and its status page for the volcano (Level 1, lowered from 2 on 22 May 2026; commentary of 13 Nov 2026), the Smithsonian's record and NOAA. No template change.
+- Files: `data/profiles/asamayama.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 12 rebuilt pages ok at 1440 px, phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the whole page at 1440 px and at phone width, the drawing at both widths, the map with real tiles at both widths with the name tried on all four sides (below the marker collides least).
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone. The agency's pages were read through a fetch that summarises (the Japanese status page in translation); the catalogue chapter was read twice and the page follows the second, more exact reading.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/asamayama. Deaths of 1783: the agency's 1,151 and NOAA's 1,491 are both on the page. The dammed river is given in the catalogue's own spelling ("Azuma"). The agency's status pages can be read (§4), so Sakurajima can get its alert level too (§5).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
