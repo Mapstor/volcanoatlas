@@ -3,12 +3,12 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-010_
-- Step: ten pages — 7 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull and Mount Pinatubo live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Cotopaxi built 2026-11-17 as the eighth (pull request open at the time of writing). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 7 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 5 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo).
-- Last confirmed: VOL-010 COTOPAXI — done: Cotopaxi as a record page (see §6). Before it: VOL-009 PINATUBO live (e82ed84).
+- Step: ten pages — 8 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo and Cotopaxi live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 8 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 6 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi).
+- Last confirmed: VOL-010 COTOPAXI — live (54df3cc): Cotopaxi as a record page (see §6).
 - In flight (handed, NOT confirmed): none
-- Next action: merge and check Cotopaxi live if its pull request is still open; then Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
-- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo is new since then.
+- Next action: Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo and Cotopaxi are new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -338,6 +338,14 @@ _last update: 2026-11-17 · VOL-010_
 - Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/cotopaxi. The page prints the institute's 5,897 m and mentions the Smithsonian's 5,911 m. NOAA dates the 1877 eruption a day earlier than the institute and lists 340 deaths; the institute's account gives no count. The institute's home page could not be read without the owner's approval; its Cotopaxi pages were reached through search.
+
+### 2026-11-17 · VOL-010 COTOPAXI · chat · live
+- What: pull request 16 merged (merge commit 54df3cc) after one preview; Cotopaxi is live as a record page, with the cut band of land in its drawing (D-47).
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles, drawing with glacier and break mark, status box, the 1877 section and callouts), the other seven rebuilt pages and the Ecuador page fetched on it (200, no raw markup, bylines as intended); Vercel build of 54df3cc succeeded; on www.volcanosatlas.com/volcano/cotopaxi in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1456 px, no raw markup, status box showing the institute's report, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 54df3cc (merged)
+- Notes: research notes for the next volcanoes go to a notes file in the session as each source is read (started with Cotopaxi).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
