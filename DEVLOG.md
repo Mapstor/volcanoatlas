@@ -2,10 +2,10 @@
 > Handoff file. Read §0–§5 and the last 10 entries of §6 before any work. Rules: devlog skill (owner's Claude account; no copy in this repo).
 
 ## §0 Resume here
-_last update: 2026-11-17 · VOL-007_
-- Step: ten pages — 6 of the ten built: Stromboli and Mauna Loa live with the owner's review; Mount St. Helens, Mount Erebus and Kilauea live since 2026-11-17 without his name; Eyjafjallajokull built 2026-11-17 (pull request open at the time of writing). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt: 6 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 4 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull).
-- Last confirmed: VOL-008 EYJA — Eyjafjallajokull as a record page; every non-erupting volcano's page now carries a dated check of its observatory (see §6).
+_last update: 2026-11-17 · VOL-008_
+- Step: ten pages — 6 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull live since 2026-11-17 without his name until he has read them. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 6 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 4 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull).
+- Last confirmed: VOL-008 EYJA — live (490ec5a): Eyjafjallajokull as a record page; every non-erupting volcano's page now carries a dated check of its observatory (see §6).
 - In flight (handed, NOT confirmed): none
 - Next action: Pinatubo (USGS Fact Sheet 113-97 and PHIVOLCS; fits the land drawing with an earlier summit and a crater), then Cotopaxi, Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
 - Waiting on owner: reading Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull; his name and the date go on after he says so.
@@ -297,6 +297,14 @@ _last update: 2026-11-17 · VOL-007_
 - Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/eyjafjallajokull. IMO's overview page gives 1,666 m, its report and the Smithsonian 1,651 m; the page prints 1,651 m and says so.
+
+### 2026-11-17 · VOL-008 EYJA · chat · live
+- What: pull request 12 merged (merge commit 490ec5a) after one preview; Eyjafjallajokull is live as a record page and the dated observatory check is live on Mauna Loa and Mount St. Helens.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (tsc, eslint, clean build, crawl 1,212 pages all 200 with 0 broken links and 213 indexable = sitemap, render check on six rebuilt pages, registry OK with 12 verified); preview looked at in the owner's Chrome (hero, strip, map with tiles, drawing with the ice cap, status box, 2010 section and callouts) and the other five rebuilt pages fetched on it (200, no raw markup, notes and boxes as intended); Vercel production build of 490ec5a READY; on www.volcanosatlas.com/volcano/eyjafjallajokull in the owner's Chrome: 200, canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box showing the observatory check, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 490ec5a (merged)
+- Notes: pubs.usgs.gov did not answer two fetches of the Pinatubo fact sheet on 2026-11-17 (site error); try again before choosing another volcano.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
