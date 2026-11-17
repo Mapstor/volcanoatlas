@@ -224,7 +224,8 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             ? `by ${dateText(stats.currentStart, precisionOf(stats.current.sdunc))}: current eruption under way`
             : `${dateText(stats.currentStart, precisionOf(stats.current?.sdunc))}: current eruption begins`;
         // the label goes left of its tick when it would run off the right end of the strip
-        const flip = !small && startX + 6 + text.length * (fs + 1) * 0.56 > w - 8;
+        // (bold Archivo runs about half an em per letter; measured on the Erebus label, which fits and stays put)
+        const flip = !small && startX + 6 + text.length * (fs + 1) * 0.5 > w - 8;
         return (
           <>
             <line x1={startX} y1={yb + 22} x2={startX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
