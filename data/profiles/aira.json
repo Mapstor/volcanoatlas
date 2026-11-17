@@ -17,7 +17,7 @@
   "note_weekly": "still going in the {period} report"
  },
  "lede": "Sakurajima was an island until January 1914, when lava filled the strait between it and the Osumi Peninsula. By the Smithsonian’s list it has been erupting for nearly all of the time since 1955, across the bay from Kagoshima, a city of about 600,000 people. Below: what it is doing now, how tall it is, what happened in 1914, and every eruption on record.",
- "answer": "**Sakurajima is erupting.** The Smithsonian lists an eruption at its Minamidake summit crater that began on {cur_since} and was continuing at the list’s last update.[[gvp]] It is a **composite volcano** (a stratovolcano) in Kagoshima Bay, Japan, **{summit_ft} ft ({summit_m} m)** high.[[jma]] The Smithsonian files it under the name of the caldera it stands on, Aira.[[gvp]]",
+ "answer": "**Sakurajima is erupting.** The Smithsonian lists an eruption at its Minamidake summit crater that began on {cur_since},[[gvp]] and Japan’s weather agency had the volcano at Volcanic Alert Level 3 of five on November 16, 2026.[[jmanow]] It is a **composite volcano** in Kagoshima Bay, Japan, **{summit_ft} ft ({summit_m} m)** high.[[jma]] The Smithsonian files it under the name of the caldera it stands on, Aira.[[gvp]]",
  "timeline": {
   "from": 1770,
   "to": 2030,
@@ -69,6 +69,8 @@
    "table": "periods",
    "paras": [
     "By the Smithsonian’s list, yes. An eruption at the Minamidake summit crater began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]]",
+    "Japan’s weather agency has the volcano at **Volcanic Alert Level 3** of five, which means do not approach the volcano. In its commentary of November 16, 2026 it reported that eruptive activity continues: very small eruptions now and then at the Minamidake summit crater and a glow above it at night, with no explosions and few volcanic earthquakes in the four days covered.[[jmanow]]",
+    "The warning in force dates from July 27, 2022, when the agency lowered the level from 5, which means evacuate. Three days earlier an explosion at the summit crater had thrown large blocks more than 1.5 miles (2.4 km).[[jmanow]]",
     "It followed a much longer one, which the list runs from {prev_start} to {prev_end}.[[gvp]]",
     "Japan’s weather agency counted the explosions of those decades year by year: 474 at the summit crater in 1985, fewer than 20 a year from 2003, and then 994 in 2011 at the Showa crater, which had come back to life in 2006 after 58 years.[[jma]]"
    ]
@@ -113,10 +115,10 @@
    "id": "danger",
    "h": "Is Sakurajima dangerous?",
    "table": "noaa",
-   "note": "This page is a record, not a safety guide. For current warnings in Japan, use the Japan Meteorological Agency.[[jmawarn]]",
+   "note": "This page is a record, not a safety guide. For the alert level in force, use the Japan Meteorological Agency: its page for the volcano, in Japanese,[[jmanow]] or its warnings map.[[jmawarn]]",
    "paras": [
     "People live close to it. In 2011 the Sakurajima area had 5,262 residents, and the city of Kagoshima, across the bay, had 608,219.[[jma]]",
-    "Japan’s weather agency monitors the volcano continuously and has set alert levels for it since December 1, 2007. Level 3 means do not approach the volcano, and at Levels 1 to 3 nobody may go within 1.2 miles (2 km) of the Minamidake or Showa craters.[[jma]] The level in force today is on the agency’s warnings page.[[jmawarn]]",
+    "Japan’s weather agency monitors the volcano continuously and has set alert levels for it since December 1, 2007. Level 3 means do not approach the volcano, and at Levels 1 to 3 nobody may go within 1.2 miles (2 km) of the Minamidake or Showa craters.[[jma]] The agency had the level at 3 in its commentary of November 16, 2026.[[jmanow]]",
     "NOAA’s database of significant eruptions has **{noaa_n} entries** for the volcano. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]"
    ]
   },
@@ -148,7 +150,7 @@
  "faq": [
   [
    "Is Sakurajima erupting now?",
-   "By the Smithsonian’s list, yes. The current eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}."
+   "By the Smithsonian’s list, yes. The current eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}. Japan’s weather agency had the volcano at Volcanic Alert Level 3 of five in its commentary of November 16, 2026."
   ],
   [
    "Where is Sakurajima?",
@@ -199,6 +201,12 @@
    "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/090_sakurajima.pdf"
   },
   {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Sakurajima: warnings, alert level and commentaries (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/506.html"
+  },
+  {
    "id": "jmawarn",
    "publisher": "Japan Meteorological Agency",
    "title": "Volcanic Warnings (map of warnings and alert levels in force)",
@@ -227,5 +235,6 @@
   "worst_date": "November 8, 1779"
  },
  "observatory_read": "2026-11-17",
+ "since_check": "**Volcanic Alert Level 3 of five.** The Japan Meteorological Agency’s page for the volcano, read on {read_date}, shows a warning at Level 3, do not approach the volcano, and a commentary dated November 16, 2026 that reports eruptive activity continuing.[[jmanow]]",
  "reviewed": null
 }
