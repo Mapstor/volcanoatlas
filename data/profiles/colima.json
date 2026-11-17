@@ -1,0 +1,299 @@
+{
+ "slug": "colima",
+ "volcano_number": 341040,
+ "name": "Colima",
+ "country": "Mexico",
+ "title": "Colima Volcano: Last Eruption, Activity Now, Height & Facts",
+ "description": "Colima, Mexico’s Volcán de Fuego, last erupted in 2019. Its state now by Mexican agencies, the eruptions of 1913 and 2015, its height and every eruption on record.",
+ "h1": "Colima Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1800
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting: passive degassing.** Mexico’s national weather service, in its notice of November 17, 2026, describes the volcano as in a stage of passive degassing: gas escaping, no eruption.[[smn]] The newest note of Colima state’s civil protection unit read for this page, dated January 2, 2026, calls it calm and stable, with no explosions.[[uepc26]]",
+ "lede": "Colima is one of North America’s most active volcanoes, and about half a million people lived within 19 miles of it at Mexico’s 2010 census. In January 1913 it destroyed its own summit, and its ash is reported to have fallen 450 miles away. Its last eruption ended in July 2019. Below: its state now, the last eruptions, what happened in 1913, its height, and every eruption on record.",
+ "answer": "**Colima last erupted from {last_start} to {last_end}.**[[gvp]] It is a **stratovolcano** in western Mexico, on the line between the states of Colima and Jalisco, **{summit_ft} ft ({summit_m} m)** high.[[cuev]][[gvp]] On November 17, 2026 Mexico’s national weather service described it as in a stage of passive degassing: gas escaping, no eruption.[[smn]] In Mexico it is the Volcán de Colima or Volcán de Fuego.",
+ "timeline": {
+  "from": 1800,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1818.13,
+    "label": "1818"
+   },
+   {
+    "year": 1913.05,
+    "label": "1913"
+   },
+   {
+    "year": 2015.52,
+    "label": "2015"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each long raised stretch is a single entry on the list: the two at the right are the eruptions of 1997 to 2011 and of 2013 to 2017."
+ },
+ "section": {
+  "kind": "land",
+  "note": "the top blew off in 1913",
+  "crater": "summit crater",
+  "caption": "Colima cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] Nevado de Colima, the older and higher volcano next to it on the north, is not drawn.[[bgvn1908]]"
+ },
+ "map_zoom": 9,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Colima Volcano?",
+   "map": true,
+   "paras": [
+    "Colima stands in western Mexico, on the line between the states of Colima and Jalisco, at {coords}.[[cuev]][[gvp]] The city of Colima is about 19 miles (30 km) to the south,[[gvp]] and Ciudad Guzmán is 14 miles (23 km) to the northeast.[[crummy]] It is one of {n_country} volcanoes in [Mexico](/volcanoes-in-mexico) on the Smithsonian’s Holocene list.[[gvp]]",
+    "In Mexico it is the Volcán de Colima or Volcán de Fuego de Colima.[[bgvn1908]][[uepc26]] Guatemala’s [Fuego](/volcano/fuego) is a different volcano."
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Colima Volcano erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption since the one that ended on {last_end}.[[gvp]]",
+    "Mexico’s national weather service publishes notices on the volcano. The one of November 17, 2026 describes it as in a stage of passive degassing, which means gas is escaping without an eruption.[[smn]]",
+    "The University of Colima’s volcano center monitors the volcano[[cuev]] and publishes a technical bulletin every week.[[cuevb]] Colima state’s civil protection unit passes its findings on to the public. The unit’s note of January 2, 2026, the newest read for this page, calls the volcano calm and stable: two high-frequency earthquakes and three rockfalls in a week, no explosions, and weak steam and gas from the northeast side of the crater.[[uepc26]]",
+    "In a note of January 10, 2025 the same unit had the volcano at green on its alert scale and kept an exclusion zone of 5 miles (8 km) around it.[[uepc25]] Its note of January 2026 gives no radius.[[uepc26]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Colima last erupt?",
+   "paras": [
+    "Colima’s last eruption ran from **{last_start} to {last_end}** in the Smithsonian’s record.[[gvp]] It was small. After two years of quiet, an explosion on May 11, 2019 was followed by weeks of small explosions and of steam and gas from the northeast side of the crater.[[bgvn1908]]",
+    "The counts differ: for May 11 to 24 Colima’s civil protection unit reported 14 low-magnitude explosions, and the university’s volcano center 51.[[bgvn1908]][[gvp]] A drone flight on May 22 found steam vents on the inner northeast wall of the crater, and by a flight on July 9 the vent had sunk and widened slightly.[[bgvn1908]]",
+    "Rain on the loose debris sets off lahars, flows of mud and rock, in the ravines on the volcano’s sides. Hurricane Lidia started three of them in October 2023.[[gvp]]"
+   ],
+   "table": "periods"
+  },
+  {
+   "id": "2015",
+   "h": "What happened in the 2013–2017 eruption?",
+   "paras": [
+    "The eruption before that one lasted more than four years, from {prev_start} to {prev_end} on the Smithsonian’s list.[[gvp]] Lava domes grew in the summit crater and were broken up by explosions.[[gvpw15]][[gvp]]",
+    "The strongest phase came on **July 10 and 11, 2015**. A pyroclastic flow, an avalanche of hot gas and rock, ran down the south side: 5.6 miles (9 km) by the Smithsonian’s report of that week,[[gvpw15]] 6.4 miles (10.3 km) by the University of Colima’s volcano center.[[cuev]] Ash rose 2.5 miles (4 km) above the crater and lay 2 inches (5 cm) deep in the village of La Yerbabuena.[[gvpw15]]",
+    "Mexico’s national civil protection coordination ordered a preventive evacuation within 7.5 miles (12 km) of the crater, and Colima’s airport closed on July 11 because of the ash. The report names no deaths.[[gvpw15]]",
+    "On October 1, 2016, with a new dome growing and explosions under way, La Yerbabuena (80 people) and La Becerrera (230 people) were evacuated and the exclusion zone was widened to 7.5 miles (12 km) on the Colima side. The last large explosion came on February 3, 2017 and sent ash 3.7 miles (6 km) above the crater rim. In mid-March 2017 an overflight found no new lava dome.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1913",
+   "h": "What happened in the 1913 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The eruption of January 1913 is the largest in Colima’s written record. It began on **January 17** and peaked on **January 20, 1913**. Explosions destroyed the lava dome on the summit, and then a column of ash and pumice rose about 14 miles (23 km) and held for about four and a half hours.[[saucedo]]",
+    "When the column collapsed, pyroclastic flows rich in pumice ran 9 miles (15 km) from the volcano. Ash fell over about 74,000 square miles (191,000 square km),[[saucedo]] and is reported to have reached Saltillo, 450 miles (725 km) to the northeast.[[crummy]]",
+    "The eruption took the top 330 ft (100 m) off the cone and left a deep crater in its place: 1,150 ft (350 m) deep by one study,[[crummy]] about 1,640 ft (500 m) by the university’s volcano center.[[cuev]] Lava slowly refilled the crater in the decades that followed and then rose over its rim.[[bgvn1908]]",
+    "NOAA’s database lists {worst_deaths} deaths for the eruption.[[noaa]] An eruption of the same kind in 1818 sent pyroclastic flows about as far.[[crummy]][[cuev]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Colima Volcano?",
+   "paras": [
+    "Colima is **{summit_ft} ft ({summit_m} m)** high on the Smithsonian’s list.[[gvp]] The University of Colima’s volcano center gives 12,664 ft (3,860 m).[[cuev]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "It is not the highest point of its own volcanic complex: Nevado de Colima, the extinct volcano next to it on the north, is higher.[[bgvn1908]][[crummy]] In February 2017 Colima’s summit crater was about 820 ft (250 m) across and 165 to 200 ft (50 to 60 m) deep, by a bulletin of the state’s civil protection unit.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Colima?",
+   "paras": [
+    "The Smithsonian classes Colima as a **[stratovolcano](/types-of-volcanoes)**. It is the young, active end of a pair of volcanoes that grew from north to south, and it is built inside a scarp 3 miles (5 km) wide that opens to the south.[[gvp]][[bgvn1908]]",
+    "In its recorded eruptions, lava domes grow in the crater and shed lava flows and pyroclastic flows. At long intervals a much larger explosive eruption has destroyed the summit, most recently in 1913.[[bgvn1908]][[cuev]] The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Colima erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_observed} of them known from written reports, and {n_since} since {since_year}.[[gvp]] It rates {n_vei4} of them VEI 4 on the [Volcanic Explosivity Index](/volcanic-explosivity-index), the eruption of 1913 among them.[[gvp]] A 2019 study calls Colima one of North America’s most active volcanoes.[[crummy]]",
+    "The same study counts nine eruptions of the largest explosive kinds, sub-Plinian or Plinian, since 1519, the last of them in 1913. It cites earlier work that found a cycle of about 100 years ending in an eruption of that kind.[[crummy]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Colima Volcano dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the civil protection units of the states of Colima and Jalisco.",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Colima. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]",
+    "About 500,000 people lived within 19 miles (30 km) of the volcano at Mexico’s 2010 census, and more than 1.7 million within 62 miles (100 km), by a 2019 study.[[crummy]] The University of Colima’s volcano center names pyroclastic flows, lahars, falling ash and pumice, and lava flows as the hazards, and La Yerbabuena, San Marcos and Tonila among the communities most at risk.[[cuev]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Colima’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Colima has **{n_all} confirmed eruptions**, {n_observed} of them known from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "January 1913",
+ "callouts": [
+  {
+   "number": "14",
+   "unit": "miles high",
+   "text": "The column of ash and pumice on January 20, 1913: about 23 km.",
+   "source": "Source: Saucedo and others, 2010.[[saucedo]]"
+  },
+  {
+   "number": "450",
+   "unit": "miles",
+   "text": "How far away ash is reported to have fallen: Saltillo, 725 km to the northeast.",
+   "source": "Sources: Saucedo and others, 2010;[[saucedo]] Crummy and others, 2019.[[crummy]]"
+  }
+ ],
+ "faq_h": "Colima Volcano questions and answers",
+ "faq": [
+  [
+   "Is Colima Volcano erupting now?",
+   "No. Its last eruption ended on {last_end}, and on November 17, 2026 Mexico’s national weather service described it as in a stage of passive degassing."
+  ],
+  [
+   "When did Colima last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s record."
+  ],
+  [
+   "Where is Colima Volcano?",
+   "In western Mexico, on the line between the states of Colima and Jalisco, about 19 miles (30 km) north of the city of Colima."
+  ],
+  [
+   "How tall is Colima Volcano?",
+   "{summit_ft} ft ({summit_m} m) on the Smithsonian’s list."
+  ],
+  [
+   "What was Colima’s largest eruption?",
+   "The eruption of January 1913, the largest in its written record. The column of ash rose about 14 miles (23 km) and the summit was destroyed."
+  ],
+  [
+   "Is Volcán de Fuego the same as Colima?",
+   "Yes. In Mexico the volcano is called Volcán de Colima or Volcán de Fuego de Colima. Fuego in Guatemala is a different volcano."
+  ],
+  [
+   "What is Nevado de Colima?",
+   "The older, higher, extinct volcano next to Colima on the north. The two form the Colima volcanic complex."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Colima record, eruption list and weekly reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=341040"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "bgvn1908",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 44:08 (August 2019): Colima, with the geological summary",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201908-341040"
+  },
+  {
+   "id": "gvpw15",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Weekly Volcanic Activity Report, 8–14 July 2015: Colima",
+   "url": "https://volcano.si.edu/reports_weekly.cfm?weekstart=20150708"
+  },
+  {
+   "id": "smn",
+   "publisher": "Servicio Meteorológico Nacional, Comisión Nacional del Agua (Mexico)",
+   "title": "Aviso especial por la actividad del volcán Colima, No. 424 (November 17, 2026, in Spanish)",
+   "url": "https://smn.conagua.gob.mx/en/aviso-especial-por-la-actividad-del-volcan-colima"
+  },
+  {
+   "id": "uepc26",
+   "publisher": "Unidad Estatal de Protección Civil, Gobierno del Estado de Colima",
+   "title": "En calma y estable el Volcán de Fuego; no hay riesgo para la población (January 2, 2026, in Spanish)",
+   "url": "https://col.gob.mx/Portal/detalle_noticia/NjQyMDA="
+  },
+  {
+   "id": "uepc25",
+   "publisher": "Unidad Estatal de Protección Civil, Gobierno del Estado de Colima",
+   "title": "Volcán de Colima permanece en calma; continúa en semáforo verde (January 10, 2025, in Spanish)",
+   "url": "https://col.gob.mx/Portal/detalle_noticia/NjA4OTQ="
+  },
+  {
+   "id": "cuev",
+   "publisher": "Centro Universitario de Estudios Vulcanológicos, Universidad de Colima",
+   "title": "Volcán de Colima (in Spanish)",
+   "url": "https://portal.ucol.mx/cueiv/Volcan-colima.htm"
+  },
+  {
+   "id": "cuevb",
+   "publisher": "Centro Universitario de Estudios Vulcanológicos, Universidad de Colima",
+   "title": "Boletín semanal de la actividad del Volcán de Colima, No. 466 (January 2, 2026, in Spanish)",
+   "url": "https://portal.ucol.mx/cueiv/ver-noticias-7074.htm"
+  },
+  {
+   "id": "saucedo",
+   "publisher": "Journal of Volcanology and Geothermal Research",
+   "title": "Saucedo and others (2010), Eyewitness, stratigraphy, chemistry, and eruptive dynamics of the 1913 Plinian eruption of Volcán de Colima, México (abstract)",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0377027310000259"
+  },
+  {
+   "id": "crummy",
+   "publisher": "Journal of Applied Volcanology",
+   "title": "Crummy and others (2019), Challenges of determining frequency and magnitudes of explosive eruptions even with an unprecedented stratigraphy",
+   "url": "https://link.springer.com/article/10.1186/s13617-019-0083-7"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles, inches and square miles are converted from the metric figures in the sources and rounded.",
+  "The volcano is Colima on the Smithsonian’s list and Volcán de Colima or Volcán de Fuego in Mexico."
+ ],
+ "expect": {
+  "last_start": "May 11",
+  "last_end": "July 12, 2019",
+  "prev_start": "January 6, 2013",
+  "prev_end": "March 7, 2017",
+  "summit_m": "3,850",
+  "n_all": "79",
+  "n_observed": "53",
+  "n_since": "35",
+  "n_vei4": "7",
+  "noaa_n": "4",
+  "worst_deaths": "13",
+  "worst_date": "January 20, 1913"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null
+}
