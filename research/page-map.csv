@@ -81,7 +81,7 @@ volcano/changbaishan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild
 volcano/chichon-el,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/chikurachki,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/chillan-nevados-de,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/colima,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/colima,volcanoes,data,informational,"what three Mexican bodies said and when (the weather service’s notice of the day, the state’s civil protection unit, the university’s volcano center) beside the Smithsonian’s record; the eruption of January 1913 in sourced numbers; every figure on which the sources differ printed with each source (the 1913 crater, the 2015 pyroclastic flow, the 2019 explosion counts, the summit height)",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 15); also uses noaa-ncei-volcano, gvp-weekly, observatory-pages, paper-abstracts and noaa-etopo; every source link was fetched and read on 2026-11-17; waits for the owner's read before his name goes on"
 volcano/concepcion,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/copahue,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/cotopaxi,volcanoes,data,informational,"the 1877 lahars by the clock (Latacunga in half an hour, the Pacific in 18 hours) from Ecuador’s own institute; the cone on its high plateau drawn to scale with the glacier; the institute’s newest report with its date",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 6); also uses noaa-ncei-volcano, noaa-etopo, observatory-pages and paper-abstracts; waits for the owner's read before his name goes on"
