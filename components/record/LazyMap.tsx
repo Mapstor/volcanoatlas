@@ -33,7 +33,7 @@ export default function LazyMap(props: RecordMapProps) {
         <RecordMap {...props} />
       ) : (
         <p className="va-mapwait">
-          Map of {props.name}’s location: {props.detail}
+          Map showing where {props.name} is: {props.detail}
         </p>
       )}
     </div>

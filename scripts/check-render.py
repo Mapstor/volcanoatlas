@@ -1,6 +1,7 @@
 """Render checks on a local build, in headless Chrome (needs Python playwright and a Chrome binary).
 
 Desktop: every country page - map markers and table rows against the published volcano count, blank rows, raw markup.
+Desktop: every rebuilt volcano page (data/profiles) - no table that scrolls sideways inside its box, no raw markup.
 Phone (390 px): sideways scroll, map height and tiles, menu opens with links, on one page of every type.
 
 Usage:
@@ -46,13 +47,33 @@ with sync_playwright() as p:
         info['hero_count'] = count
         info['errors'] = list(errs)
         report['countries'][slug] = info
+    # every rebuilt volcano page at desktop width: a table that scrolls sideways there hides a column
+    report['record'] = {}
+    for p_ in sorted(glob.glob(os.path.join(repo, 'data/profiles/*.json'))):
+        slug = os.path.basename(p_)[:-5]
+        errs.clear()
+        resp = page.goto(f'{base}/volcano/{slug}', wait_until='domcontentloaded', timeout=60000)
+        page.wait_for_timeout(700)
+        page.evaluate("document.querySelectorAll('details').forEach(d => d.open = true)")
+        page.wait_for_timeout(150)
+        info = page.evaluate("""() => { const main = document.querySelector('main') || document.body; return {
+            scrolling: [...document.querySelectorAll('.va-scroll')].filter(w => w.scrollWidth - w.clientWidth > 1).map(w => (w.getAttribute('aria-labelledby') || '') + ':' + w.scrollWidth + '>' + w.clientWidth),
+            overflow: document.documentElement.scrollWidth - window.innerWidth,
+            rawMarkup: /\[\[|\]\]|\{[a-z_0-9]+\}/.test(main.innerText),
+            undef: /\bundefined\b|\bNaN\b/.test(main.innerText),
+            h1: (document.querySelector('h1')||{}).innerText,
+            byline: /Reviewed [A-Z][a-z]+ \d/.test(main.innerText),
+        }; }""")
+        info['status'] = resp.status if resp else None
+        info['errors'] = list(errs)
+        report['record'][slug] = info
     ctx.close()
     # phone checks
     ctx = b.new_context(viewport={'width': 390, 'height': 844}, device_scale_factor=2, is_mobile=True, has_touch=True,
                         user_agent='Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1')
     page = ctx.new_page()
     page.on('pageerror', lambda e: errs.append(str(e)[:160]))
-    for path in ['/', '/countries', '/volcanoes', '/map', '/latest-eruptions', '/volcano/stromboli', '/volcano/mauna-loa', '/volcano/yellowstone', '/volcano/agung', '/volcanoes-in-italy', '/volcanoes-in-united-states', '/ring-of-fire', '/tallest-volcanoes', '/active-volcanoes', '/volcanic-explosivity-index', '/about', '/contact', '/privacy', '/this-page-does-not-exist']:
+    for path in ['/', '/countries', '/volcanoes', '/map', '/latest-eruptions', '/volcano/stromboli', '/volcano/mauna-loa', '/volcano/st-helens', '/volcano/erebus', '/volcano/yellowstone', '/volcano/agung', '/volcanoes-in-italy', '/volcanoes-in-united-states', '/ring-of-fire', '/tallest-volcanoes', '/active-volcanoes', '/volcanic-explosivity-index', '/about', '/contact', '/privacy', '/this-page-does-not-exist']:
         errs.clear()
         resp = page.goto(base + path, wait_until='domcontentloaded', timeout=60000)
         page.wait_for_timeout(1500)
@@ -93,6 +114,10 @@ print('table rows != published count:', len(bad_rows), bad_rows)
 print('pages with blank rows:', {s: v['emptyCells'] for s, v in c.items() if v['emptyCells']}, '| raw [[ markup:', [s for s, v in c.items() if v['rawMarkup']], '| undefined/NaN:', [s for s, v in c.items() if v['undef']])
 print('rows without a volcano link:', {s: v['rows'] - v['linkedRows'] for s, v in c.items() if v['rows'] != v['linkedRows']})
 print('js errors on country pages:', {s: v['errors'][:1] for s, v in c.items() if v['errors']})
+print('--- rebuilt volcano pages at 1440 px:', len(report['record']))
+for slug, v in report['record'].items():
+    bad = v['status'] != 200 or v['scrolling'] or v['overflow'] > 0 or v['rawMarkup'] or v['undef'] or v['errors']
+    print(f"{slug:28s} {'PROBLEM' if bad else 'ok':8s} status={v['status']} tables scrolling={v['scrolling']} overflow={v['overflow']} raw={v['rawMarkup']} undef={v['undef']} reviewed={v['byline']} err={v['errors'][:1]}")
 print('--- phone (390 px)')
 for path, v in report['mobile'].items():
     print(f"{path:32s} status={v['status']} overflow={v['overflow']:>3} maps={v['maps']} heights={v['mapHeights']} tiles={v['tiles']['ok']}/{v['tiles']['n']} menu={v['menu']} small={v['smallText']} wide={v['wide']} err={v['errors'][:1]}")

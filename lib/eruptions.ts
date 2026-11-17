@@ -31,10 +31,15 @@ export interface Eruption {
   sd: number;
   smod: string | null;
   sunc: number | null;
+  /** How sure the start day is: a modifier (?, <, >) and an uncertainty in days. 182 means only the year is known. */
+  sdmod: string | null;
+  sdunc: number | null;
   ey: number | null;
   em: number;
   ed: number;
   emod: string | null;
+  edmod: string | null;
+  edunc: number | null;
   method: string | null;
   area: string | null;
 }
@@ -84,6 +89,25 @@ function noaaData(): NoaaFile {
   return noaaFile;
 }
 
+/** Height of the land around a volcano, worked out from NOAA's ETOPO 2022 grid by scripts/fetch-ground.py. */
+export interface GroundRow {
+  name: string;
+  cells: number;
+  sea_share: number | null;
+  land_m: number | null;
+  sea_floor_m: number | null;
+  peak_m: number | null;
+}
+interface GroundFile {
+  _meta: { source: string; publisher: string; doi: string; url: string; retrieved: string; method: string };
+  ground: Record<string, GroundRow>;
+}
+let groundFile: GroundFile | null = null;
+export function getGround(volcanoNumber: number | string): GroundRow | null {
+  if (!groundFile) groundFile = readSource<GroundFile>('etopo-ground.json');
+  return groundFile.ground[String(volcanoNumber)] ?? null;
+}
+
 export const MONTHS = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 const MON = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -94,6 +118,21 @@ export const isoToYmd = (iso: string): Ymd => [Number(iso.slice(0, 4)), Number(i
 const utc = ([y, m, d]: Ymd) => Date.UTC(y, m - 1, d);
 const DAY = 86_400_000;
 export const daysBetween = (a: Ymd, b: Ymd) => Math.round((utc(b) - utc(a)) / DAY);
+/** How exactly the Smithsonian gives a date: to the day, within a few days, to the month, or only to the year. */
+export type Precision = 'day' | 'near' | 'month' | 'year';
+export function precisionOf(uncertaintyDays: number | null | undefined): Precision {
+  if (!uncertaintyDays) return 'day';
+  if (uncertaintyDays <= 5) return 'near';
+  if (uncertaintyDays < 100) return 'month';
+  return 'year';
+}
+/** A date written no more exactly than the record gives it. */
+export function dateText(date: Ymd, precision: Precision, long = false): string {
+  if (precision === 'year') return String(date[0]);
+  if (precision === 'month') return `${(long ? MONTHS : MON)[date[1]]} ${date[0]}`;
+  const full = long ? longDate(date) : shortDate(date);
+  return precision === 'near' ? `about ${full}` : full;
+}
 /** Decimal year, for placing a date on a time axis. */
 export const decimalYear = ([y, m, d]: Ymd) => y + (utc([y, m, d]) - utc([y, 1, 1])) / DAY / 365.25;
 
@@ -160,6 +199,21 @@ export function spanText(from: Ymd, to: Ymd): string {
   return left ? `${years} years ${left} month${left === 1 ? '' : 's'}` : `${years} years`;
 }
 
+/** Time between two dates, no more exact than the less exact of them. `approx` is set when either date is not known to the day. */
+export function spanBetween(from: Ymd, fromPrecision: Precision, to: Ymd, toPrecision: Precision): { text: string; approx: boolean } {
+  if (fromPrecision === 'year' || toPrecision === 'year') {
+    const years = to[0] - from[0];
+    return { text: years <= 0 ? 'less than a year' : years === 1 ? '1 year' : `${years} years`, approx: true };
+  }
+  const loose = fromPrecision === 'month' || toPrecision === 'month';
+  const days = daysBetween(from, to);
+  if (loose && days < 60) {
+    const months = Math.max(1, Math.round(days / 30.44));
+    return { text: `${months} month${months === 1 ? '' : 's'}`, approx: true };
+  }
+  return { text: spanText(from, to), approx: fromPrecision !== 'day' || toPrecision !== 'day' };
+}
+
 export interface PeriodRow {
   eruption: Eruption;
   start: Ymd;
@@ -167,6 +221,12 @@ export interface PeriodRow {
   /** The record only says the eruption began before this year. */
   openStart: boolean;
   continuing: boolean;
+  /** Start and end as text, no more exact than the record ("1857", "May 1910", "Jun 3, 1932"). */
+  startText: string;
+  endText: string;
+  startPrecision: Precision;
+  endPrecision: Precision;
+  /** Length as text; it begins with "about" when a date is not known to the day. */
   length: string;
   /** Pause between this eruption's end and the next one's start, if there was one. */
   pauseAfter: string | null;
@@ -177,6 +237,8 @@ export interface Span {
   eruption: Eruption;
   start: Ymd;
   end: Ymd;
+  startPrecision: Precision;
+  endPrecision: Precision;
   openStart: boolean;
   continuing: boolean;
 }
@@ -185,9 +247,13 @@ export interface EruptionStats {
   all: Eruption[];
   /** Every confirmed eruption with a start year, oldest first, for drawing. */
   spans: Span[];
-  /** Start and end of the newest eruption when it is over and both dates are known to the day. */
+  /** Start and end of the newest eruption when it is over and both dates have a month and day, with how exact they are. */
   lastStart: Ymd | null;
   lastEnd: Ymd | null;
+  lastStartPrecision: Precision;
+  lastEndPrecision: Precision;
+  /** the Smithsonian's day uncertainty on the end of the last eruption, when it states one */
+  lastEndUncertaintyDays: number | null;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -199,7 +265,7 @@ export interface EruptionStats {
   olderContinuing: { volcanoNumber: number; year: number; approximate: boolean }[];
   /** The run of eruptions at the end of the record whose end dates are known to the day. */
   periods: PeriodRow[];
-  pauses: { from: Ymd; to: Ymd; days: number; text: string }[];
+  pauses: { from: Ymd; to: Ymd; days: number; text: string; approx: boolean }[];
   pauseYears: number;
   /** First exactly dated start in `periods`; shares are counted from here. */
   countedFrom: Ymd | null;
@@ -225,11 +291,14 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     if (!complete) break;
     dated.unshift(e);
   }
+  const about = (span: { text: string; approx: boolean }) => (span.approx ? `about ${span.text}` : span.text);
   const periods: PeriodRow[] = dated.map((e) => {
     const openStart = e.smod === '<';
     const start: Ymd = [e.sy, e.sm || 1, e.sd || 1];
     const end: Ymd = [e.ey as number, e.em, e.ed];
     const isCurrent = e.emod === '>';
+    const startPrecision = precisionOf(e.sdunc);
+    const endPrecision = precisionOf(e.edunc);
     // a continuing eruption is counted in whole years, like the number at the top of the page
     const length = openStart
       ? `at least ${end[0] - start[0]} years`
@@ -237,8 +306,20 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
         ? `${durationText(Math.max(1, daysBetween(start, end)))} so far`
         : daysBetween(start, end) < 1
           ? '1 day'
-          : spanText(start, end);
-    return { eruption: e, start, end, openStart, continuing: isCurrent, length, pauseAfter: null };
+          : about(spanBetween(start, startPrecision, end, endPrecision));
+    return {
+      eruption: e,
+      start,
+      end,
+      openStart,
+      continuing: isCurrent,
+      startText: openStart ? `before ${start[0]}` : marked(dateText(start, startPrecision), e.sdmod),
+      endText: isCurrent ? 'continuing' : marked(dateText(end, endPrecision), e.edmod === '>' ? null : e.edmod),
+      startPrecision,
+      endPrecision,
+      length,
+      pauseAfter: null,
+    };
   });
   const pauses: EruptionStats['pauses'] = [];
   periods.forEach((row, i) => {
@@ -246,9 +327,9 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     if (!next) return;
     const days = daysBetween(row.end, next.start);
     if (days > 0) {
-      const text = spanText(row.end, next.start);
-      row.pauseAfter = text;
-      pauses.push({ from: row.end, to: next.start, days, text });
+      const span = spanBetween(row.end, row.endPrecision, next.start, next.startPrecision);
+      row.pauseAfter = about(span);
+      pauses.push({ from: row.end, to: next.start, days, text: span.text, approx: span.approx });
     }
   });
   const counted = periods.filter((row) => !row.openStart);
@@ -265,7 +346,16 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
   const spans: Span[] = all.map((e) => {
     const start: Ymd = [e.sy, e.sm || (e.smod === '<' ? 1 : 7), e.sd || 1];
     const complete = Boolean(e.ey && e.em && e.ed);
-    return { eruption: e, start, end: complete ? [e.ey as number, e.em, e.ed] : start, openStart: e.smod === '<', continuing: e.emod === '>' };
+    const startPrecision: Precision = e.sm && e.sd ? precisionOf(e.sdunc) : 'year';
+    return {
+      eruption: e,
+      start,
+      end: complete ? [e.ey as number, e.em, e.ed] : start,
+      startPrecision,
+      endPrecision: complete ? precisionOf(e.edunc) : startPrecision,
+      openStart: e.smod === '<',
+      continuing: e.emod === '>',
+    };
   });
   const newest = all.length ? all[all.length - 1] : null;
   const over = newest && newest.emod !== '>' && newest.sm && newest.sd && newest.ey && newest.em && newest.ed ? newest : null;
@@ -279,6 +369,9 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     spans,
     lastStart: over ? [over.sy, over.sm, over.sd] : null,
     lastEnd: over ? [over.ey as number, over.em, over.ed] : null,
+    lastStartPrecision: over ? precisionOf(over.sdunc) : 'day',
+    lastEndPrecision: over ? precisionOf(over.edunc) : 'day',
+    lastEndUncertaintyDays: over?.edunc ?? null,
     current,
     currentStart,
     currentLast,
@@ -297,9 +390,14 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
   };
 }
 
+/** A date with the record's own doubt added: "(uncertain)" for a question mark, "before" for an upper limit. */
+function marked(text: string, modifier: string | null): string {
+  return modifier === '?' ? `${text} (uncertain)` : modifier === '<' ? `before ${text}` : modifier === '>' ? `after ${text}` : text;
+}
+
 /** How the Smithsonian's record gives an eruption's start. */
 export function startLabel(e: Eruption): string {
-  if (e.sm && e.sd) return shortDate([e.sy, e.sm, e.sd]);
+  if (e.sm && e.sd) return marked(dateText([e.sy, e.sm, e.sd], precisionOf(e.sdunc)), e.sdmod);
   const era = e.sy < 0 ? `${-e.sy} BCE` : `${e.sy} CE`;
   if (e.smod === '<') return `before ${e.sy}`;
   if (e.smod === '?') return `about ${era}`;
@@ -308,15 +406,37 @@ export function startLabel(e: Eruption): string {
 
 export function endLabel(e: Eruption): string {
   if (e.emod === '>') return 'continuing';
-  if (e.ey && e.em && e.ed) return shortDate([e.ey, e.em, e.ed]);
+  if (e.ey && e.em && e.ed) return marked(dateText([e.ey, e.em, e.ed], precisionOf(e.edunc)), e.edmod === '>' ? null : e.edmod);
   return 'not recorded';
 }
 
+/** The Smithsonian's dating methods in plain words. */
 export const METHOD_LABEL: Record<string, string> = {
   'Correlation: Magnetism': 'rock magnetism',
+  'Correlation: Tephrochronology': 'ash layers',
+  'Correlation: Anthropology': 'archaeology',
   'Isotopic: 14C (uncalibrated)': 'radiocarbon',
   'Isotopic: 14C (calibrated)': 'radiocarbon',
+  'Isotopic: Ar/Ar': 'argon dating',
+  'Isotopic: K/Ar': 'potassium-argon dating',
+  'Isotopic: Uranium-series': 'uranium-series dating',
+  'Isotopic: Cosmic Ray Exposure': 'cosmic-ray exposure dating',
+  'Isotopic: Po-Pb': 'polonium-lead dating',
+  'Radiogenic: Thermoluminescence': 'thermoluminescence',
+  'Radiogenic: Fission track': 'fission-track dating',
+  'Sidereal: Varve Count': 'lake-sediment layers',
+  'Sidereal: Ice Core': 'ice cores',
+  'Sidereal: Dendrochronology': 'tree rings',
+  'Chem/Bio: Hydration Rind': 'hydration rinds',
+  'Chem/Bio: Lichenometry': 'lichen growth',
   'Observations: Reported': 'written reports',
+  'Observations: Hydrophonic': 'underwater sound recordings',
+  'Observations: Seismicity': 'earthquake records',
+  'Observations: Satellite (visual)': 'satellite images',
+  'Observations: Satellite (infrared)': 'satellite heat readings',
+  'Observations: Photo / Video': 'photos or video',
+  'Observations: Aviation': 'pilot reports',
+  Uncertain: 'uncertain',
 };
 
 export const feet = (meters: number) => meters * 3.28084;

@@ -3,12 +3,12 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-005_
-- Step: ten pages — 2 of the ten done and live (Stromboli, Mauna Loa). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages finished: 2 of 213 (Stromboli, Mauna Loa).
-- Last confirmed: VOL-005 MAUNALOA — approved by the owner, byline on — live (35246c8).
+- Step: ten pages — 4 of the ten built: Stromboli and Mauna Loa live with the owner's review; Mount St. Helens and Mount Erebus built 2026-11-17 and going live without his name until he has read them. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages finished: 2 of 213 (Stromboli, Mauna Loa); 2 more built and waiting for his read (Mount St. Helens, Mount Erebus).
+- Last confirmed: VOL-006 BATCH2 — land drawing, land height from NOAA's grid, honest date precision, Mount St. Helens and Mount Erebus (see §6).
 - In flight (handed, NOT confirmed): none
-- Next action: the next volcano pages in the order of `docs/preflight-record-pages.md` (Krakatau, Aira, Kilauea, Cotopaxi, Eyjafjallajokull, Erebus, Arenal, Pinatubo, then Popocatepetl, Nevado del Ruiz, Taal, Whakaari), in batches. Each page: observatory pages read first, profile written, checks, preview looked at in the owner's Chrome, merged, production checked. A volcano on land needs a section drawing without the sea.
-- Waiting on owner: reading the pages that went live without his name (list in the newest §6 entry); his name and the date go on after he says so.
+- Next action: next batch, in this order: Krakatau, Kilauea, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal and the rest by search demand. Source addresses already found are in §5. Kilauea needs a caldera drawing (USGS gives the levels of the caldera floor and of Halemaʻumaʻu before and after 2018). Each page: observatory pages read first, profile written, checks, preview looked at in the owner's Chrome, merged, production checked.
+- Waiting on owner: reading Mount St. Helens and Mount Erebus; his name and the date go on after he says so.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -26,7 +26,7 @@ _last update: 2026-11-17 · VOL-005_
 - Commands: dev `npm run dev` · build `npm run build` · lint `npm run lint` (66 old findings, not a gate) · no test runner
 - Deploy: Vercel project `volcanoatlas`, production branch main, builds on push; preview builds for branches
 - Analytics: Google Analytics 4 and Microsoft Clarity tags in `app/layout.tsx` · Search Console and Bing Webmaster verified (files in `public/`)
-- Data sources: rebuilt pages read `data/sources/*.json` = Smithsonian Volcanoes of the World v. 5.4.0 (volcano list, eruptions) and NOAA significant events, retrieved 2026-11-16 (refresh: `scripts/fetch-sources.py`, then `scripts/build-data.py`) · old pages still read `volcanoes.json` = v. 5.3.4, exported 2026-02-11 (1,222 records) · /latest-eruptions reads the Smithsonian weekly RSS and the USGS elevated-volcanoes API (`lib/volcanoAPIs.ts`) · US volcano record pages read the USGS alert level live (`lib/usgs.ts`) · registry: `research/data-sources.csv` (9 verified sources; re-download with `scripts/fetch-sources.py`)
+- Data sources: rebuilt pages read `data/sources/*.json` = Smithsonian Volcanoes of the World v. 5.4.0 (volcano list, eruptions) and NOAA significant events, retrieved 2026-11-16 (refresh: `scripts/fetch-sources.py`, then `scripts/build-data.py`) · old pages still read `volcanoes.json` = v. 5.3.4, exported 2026-02-11 (1,222 records) · /latest-eruptions reads the Smithsonian weekly RSS and the USGS elevated-volcanoes API (`lib/volcanoAPIs.ts`) · US volcano record pages read the USGS alert level live (`lib/usgs.ts`) · registry: `research/data-sources.csv` (11 verified sources; re-download with `scripts/fetch-sources.py`, the land heights with `scripts/fetch-ground.py`)
 - Key paths: pages `app/` · templates `app/volcano/[slug]/`, `app/[slug]/` · rebuilt profiles: text `data/profiles/<slug>.json`, page `app/volcano/[slug]/RecordPage.tsx` + `record.css`, numbers `lib/eruptions.ts` + `lib/recordProfile.ts`, drawings `components/record/figures.tsx`, weekly report `lib/weekly.ts`, fonts `public/fonts/` · content `data/content/*.json` (150 volcano, 46 country, 4 special, 4 ranking) · link and route logic `lib/routes.ts` · Smithsonian access `lib/gvp.ts` · metadata `lib/site.ts` · checks `scripts/check-build.py`, `scripts/check-render.py`
 - Skills in repo: none
 - Design system: `DESIGN.md` (the look, from the owner's pick of 2026-11-16) and `PRODUCT.md` (what a page must do). `DESIGN-SPEC.md` is an early draft and not in force.
@@ -71,6 +71,10 @@ _last update: 2026-11-17 · VOL-005_
 - D-35 · 2026-11-17 · Lengths of time are printed in calendar years and months to the nearest month, never rounded up to a whole year — the 38 years 7 months between Mauna Loa's last two eruptions printed as "39 years" beside USGS's "38 years". Two cells of the live Stromboli table changed with it (16 years 11 months, 21 years 2 months).
 - D-36 · 2026-11-17 · An empty deaths field in NOAA's record prints as "none" under "Deaths recorded", not as 0 — NOAA records no zero.
 - D-37 · 2026-11-17 · The owner approved Mauna Loa ("superb") and said to do all pages this way. A rebuilt page goes live after the checks and the look in his Chrome without waiting for him; his name and review date go on it only after he has read it (D-23, D-28 stand), so each batch ends with a list for him.
+- D-38 · 2026-11-17 · Dates and lengths of time are printed no more exactly than the Smithsonian gives them (`dateText`, `spanBetween`). Its raw rows carry a day uncertainty the first data build dropped: 182 means only the year is known, 15 only the month. The live Stromboli table had printed "Jul 2, 1857" for a year-only date; it now prints "1857" and "about 32 years".
+- D-39 · 2026-11-17 · A volcano on land is drawn with two heights to scale: the summit above sea level and the land around it. The land height is the median of NOAA's ETOPO 2022 cells 14 to 16 km from the summit (`scripts/fetch-ground.py`, `data/sources/etopo-ground.json`), a calculated value shown with its method — it answers "how tall from its base" for every land volcano without a figure typed per page. Summits never come from that grid: a cell is an average and reads low.
+- D-40 · 2026-11-17 · Pages are built in batches of a few and each batch goes live when its checks and the look in the owner's Chrome pass. US volcanoes and volcanoes with an English-language observatory go first within the demand order, because their sources can be read directly.
+- D-41 · 2026-11-17 · Under the strip the page is two columns that each pack upward, not two rows. Found on the Mount Erebus preview: a volcano with no USGS box and no weekly report left a 300 px hole beside the key facts, and most of the pages still to build are like that. The phone order is unchanged. This moves the report box on Stromboli and Mauna Loa up under the "Where is" text.
 
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
@@ -84,6 +88,7 @@ _last update: 2026-11-17 · VOL-005_
 - 2026-11-15 · A key-facts box or Smithsonian link on the Yellowstone profile — Yellowstone is not in the Holocene export, so those facts have no record to point to.
 - 2026-11-17 · A third callout on the Mauna Loa page (its three heights) — `DESIGN.md` allows two; the first height is already in the answer, the key facts and the drawing.
 - 2026-11-17 · Lava fountains and directions of the 2022 flows in the Mauna Loa text — on USGS's pages they appear only in a photo caption or not at all.
+- 2026-11-17 · Drawing each volcano's real outline from an elevation grid — the grid's cells are about 460 m wide, too coarse for small cones, and the owner approved the schematic cut-open drawing.
 
 ## §4 Gotchas & hard rules
 - `npx tsc --noEmit` fails only in `lib/textUtils.test.ts` (no test runner installed) — ignore that file; `next build` passes.
@@ -115,9 +120,17 @@ _last update: 2026-11-17 · VOL-005_
 - The sea floor in a shield drawing moves with scrolling (`animation-timeline: view()`). A full-page picture shows it at its start unless reduced motion is on, and a tool that steps through `document.getAnimations()` must leave animations that are not on the document timeline alone.
 - A sentence in a profile that leans on a data value needs a line in its `expect` block; the build stops when the data no longer matches.
 - A build can stop with "next/font/google queries have exactly one entry" when a Google font download drops (the old pages still load three Google fonts at build time). Nothing is wrong with the code: run the build again.
+- The Smithsonian's eruption rows have a day modifier and a day uncertainty besides the year ones (`sdmod`, `sdunc`, `edmod`, `edunc` in `gvp-eruptions.json`). A day of 16 or a date of July 2 is usually a placeholder for "month only" or "year only". Never print a date or a gap from `sy/sm/sd` directly.
+- NOAA's elevation grid is read in small windows from its THREDDS server as OPeNDAP ASCII (`…_surface.nc.ascii?z[i0:1:i1][j0:1:j1]`); tiles are 15° wide and named after their north-west corner. Asking for the same variable twice in one request fails.
+- NASA Earth Observatory addresses moved: `earthobservatory.nasa.gov/images/<id>/…` now redirects to a general page. The live copies are under `science.nasa.gov/earth/earth-observatory/`.
+- A long volcano name does not fit beside the map marker on a phone: `RecordMap` puts names over 12 letters under the marker below 520 px. The street map's own labels can sit under the handwritten name (Ross Island at Erebus): look at the map with real tiles for every new page (`/tmp/looks/mapshot.py` in a session, or the preview in Chrome) and set `map_label: "below"` or `"above"` where they clash (Erebus below, Stromboli above).
+- The local checks ran at phone width only, so a table that hid its last column on a desktop got as far as the preview (found in the owner's Chrome, 2026-11-17). `scripts/check-render.py` now opens every rebuilt page at 1440 px and fails a table that scrolls sideways there.
+- In the phone drawing of an erupting volcano the lava burst needs the room of the summit label's third line; `LandDrawing` drops "above sea level" there. Look at the phone drawing of every erupting volcano.
+- The site scrolls smoothly (`scroll-behavior`), so in Chrome `scrollIntoView` followed by another scroll lands nowhere: scroll with `window.scrollTo({top, behavior: 'instant'})`.
 
 ## §5 Backlog (priority order)
-- [P0] VOL-005, the rest of the ten: Krakatau, Aira, Kilauea, Cotopaxi, Eyjafjallajokull, Erebus, Arenal, Pinatubo, then the first-tier pages left (Popocatepetl, Nevado del Ruiz, Taal, Whakaari). Each needs its observatory's pages read. Needed on the way: a section drawing for a volcano on land, and one for a caldera.
+- [P0] Next batch (VOL-007): Krakatau, Kilauea, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. Needed on the way: a caldera drawing (Kilauea, Rabaul, Taal).
+- [P0] Sources already found for the next batch (read them before writing; none is used yet): Kilauea — usgs.gov/volcanoes/kilauea, usgs.gov/observatories/hvo/frequently-asked-questions-about-kilaueas-summit-eruption (levels of the caldera floor and Halemaʻumaʻu), usgs.gov/volcanoes/kilauea/december-2020-september-2023-summit-eruptions. Sakurajima — data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/090_sakurajima.pdf (JMA catalogue, English). Eyjafjallajokull — en.vedur.is/volcanoes/about-volcanoes/eyjafjallajokull/ (1,666 m, ice-filled caldera 2.5 km wide; the 2010 details need a second Icelandic Met Office page). Cotopaxi — the IG-EPN teachers' guide of 2024 on igepn.edu.ec (Spanish). Krakatau — doi.org/10.1038/s41467-019-12284-5 (2018 collapse; the heights before and after still need the Indonesian agency's own statement).
 - [P0] Refresh `volcanoes.json` and the old profile headers to v. 5.4.0 with redirects for renamed records (own change); known header mismatches: Jan Mayen elevation, Kavachi and Fuji last eruption, the forced 2026 years.
 - [P0] Then the remaining 139 profiles.
 - [P1] `/latest-eruptions` still prints the full text of the Smithsonian's weekly reports. Cut it to facts and links when that page is rebuilt (D-18, D-22).
@@ -225,6 +238,22 @@ _last update: 2026-11-17 · VOL-005_
 - Unverified: a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: pages finished 2 of 213.
+
+### 2026-11-17 · VOL-006 BATCH2 · chat · done
+- What: second batch after the owner's "do all pages like this". New drawing for a volcano on land (two heights to scale, crater, lava dome, earlier summit, lava only while erupting); land height around 148 volcanoes worked out from NOAA's ETOPO 2022 grid; dates and lengths of time printed no more exactly than the Smithsonian gives them (D-38, changes table cells on the two live pages); plain labels for every dating method; Mount St. Helens written from three USGS publications and Mount Erebus from NASA Earth Observatory, both with the Smithsonian's record and NOAA.
+- Files: `components/record/{figures,RecordMap,LazyMap}.tsx`, `app/volcano/[slug]/RecordPage.tsx`, `lib/{eruptions,recordProfile}.ts`, `scripts/{build-data,fetch-ground,check-render}.py`, `data/sources/{gvp-eruptions,etopo-ground}.json`, `data/profiles/{st-helens,erebus,stromboli}.json`, `research/*.csv`, `DESIGN.md`, `PRODUCT.md`, `CLAUDE.md`
+- Verified: `npx tsc --noEmit` clean outside the old test file; eslint clean on the changed files; `rm -rf .next && npx next build` exit 0; `scripts/check-build.py`: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, one h1 each, no invalid JSON-LD; `scripts/check-render.py`: both new pages at 390 px without sideways scroll, map tiles load (St. Helens 9 of 9, Erebus 6 of 6), menu opens; registry check RESULT OK (11 verified); Stromboli and Mauna Loa compared with the live pages: only the date cells, the "about" wording and two captions differ, strip lines and drawings unchanged; every cited address answers 200; both new pages read top to bottom and looked at in pictures at 390 and 1456 px, maps with real tiles.
+- Unverified: the preview in the owner's Chrome and the live pages (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read, then his name goes on: /volcano/st-helens, /volcano/erebus. USGS counts 57 deaths for May 18, 1980, NOAA lists 61; the page prints both.
+
+### 2026-11-17 · VOL-006 BATCH2 preview · chat · done
+- What: looked at the preview of pull request 8 in the owner's Chrome before merging and fixed what it showed. The eruptions table hid its last column on a desktop (cells could not wrap); the area under the strip left a 300 px hole on Mount Erebus (D-41); the handwritten map name sat on the street map's "Ross Island" label (and Stromboli's on "Catanzaro": it now sits over the marker, in open sea); on a phone the lava burst ran into the summit label. Also: short tables now fit a phone without sideways scroll, and the "within ten days" sentence on Mount St. Helens is tied to the data by an `expect` line.
+- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `components/record/{figures,RecordMap}.tsx`, `lib/{eruptions,recordProfile}.ts`, `data/profiles/{erebus,st-helens}.json`, `scripts/check-render.py`, `DESIGN.md`
+- Verified: tsc and eslint clean; `rm -rf .next && npx next build` exit 0; crawl and render check re-run on that build (results in the pull request); every table measured at 1456 and 390 px on the four rebuilt pages: none scrolls sideways on a desktop, the NOAA tables fit a phone; pictures of the four pages at both widths looked at, Erebus map with real tiles.
+- Unverified: the second preview in the owner's Chrome and the live pages (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: none
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)

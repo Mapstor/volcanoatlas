@@ -47,7 +47,7 @@
    }
   ],
   "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The line is high while an eruption is in progress and flat during the {n_pauses_word} pauses. The peaks mark the strongest blasts of the last 100 years named by INGV.[[ingv]]",
-  "note": "{n_pauses_word} pauses, {pause_years} years in all",
+  "note": "{n_pauses_word} pauses, about {pause_years} years in all",
   "note_at": 0.775
  },
  "section": {
@@ -74,7 +74,7 @@
    "paras": [
     "It hasn’t stopped. The Smithsonian’s Global Volcanism Program dates the start of the current eruption to **{cur_start}** and lists it as continuing, which makes it **{cur_years} years long** so far.[[gvp]]",
     "Only {older_count_word} of the {n_cont} eruptions the Smithsonian lists as continuing began earlier: {older}.[[gvp]]",
-    "The {cur_start_year} date hides how steady Stromboli is. The record has it erupting since before {open_before}, with only {n_pauses_word} pauses after {counted_month_year}. Those pauses add up to **{pause_years} years out of almost {span_years}**, so Stromboli has been in eruption **{share}% of the time since {counted_year}**."
+    "The {cur_start_year} date hides how steady Stromboli is. The record has it erupting since before {open_before}, with only {n_pauses_word} pauses after {counted_month_year}. Those pauses add up to **about {pause_years} years out of almost {span_years}**, so Stromboli has been in eruption **about {share}% of the time since {counted_year}**."
    ]
   },
   {
@@ -147,7 +147,7 @@
   {
    "number": "{share}%",
    "unit": "of the time",
-   "text": "Share of days since {counted_from} that fall inside an eruption in the Smithsonian’s record.",
+   "text": "Share of days since {counted_year} that fall inside an eruption in the Smithsonian’s record. Some of its dates are known only to the year or month, so the figure is approximate.",
    "source": "Source: Global Volcanism Program, Smithsonian Institution.[[gvp]] Calculated."
   }
  ],
@@ -236,7 +236,7 @@
  ],
  "calc": [
   "**{cur_years} years:** from {cur_start} to {cur_last}, the Smithsonian’s last update of ongoing eruptions.",
-  "**{share}% and {pause_years} years:** the days inside the Smithsonian’s eruption dates, divided by all days from {counted_from} to {cur_last}. A pause is the gap between one eruption’s end date and the next start date.",
+  "**{share}% and {pause_years} years:** the days inside the Smithsonian’s eruption dates, divided by all days from {counted_year} to {cur_last}. A pause is the gap between one eruption’s end date and the next start date. Where the record gives a date only to the year or month, the middle of that year or month is used, so both figures are approximate.",
   "**{total_ft} ft ({total_m} m):** {summit_m} m above sea level plus about {base_m} m below it. Two-thirds is {base_m} ÷ {total_exact_m}.",
   "**{noaa_deaths} deaths:** the sum of NOAA’s totals for the {noaa_fatal_count} fatal events.",
   "Feet are converted from meters and rounded."
@@ -256,5 +256,6 @@
  },
  "table": {
   "calc_note": "Lengths, pauses and the {share}% figure are calculated from its dates."
- }
+ },
+ "map_label": "above"
 }

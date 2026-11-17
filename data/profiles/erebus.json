@@ -1,0 +1,200 @@
+{
+ "slug": "erebus",
+ "volcano_number": 390020,
+ "name": "Mount Erebus",
+ "country": "Antarctica",
+ "title": "Mount Erebus: Lava Lake, Last Eruption, Height & Facts",
+ "description": "Mount Erebus in Antarctica has been erupting since at least {cur_start}, with a lava lake in its summit crater. Height, type, location and full eruption record.",
+ "h1": "Mount Erebus",
+ "facts": {
+  "count_from": 1841
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_years}",
+  "unit": "years",
+  "note": "still going at the last update",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Mount Erebus is an Antarctic volcano with a lake of molten rock at its top. NASA calls it the southernmost active volcano on Earth,[[nasa]] and by the Smithsonian’s record it has been erupting since at least {cur_start}.[[gvp]]",
+ "answer": "**Mount Erebus is erupting now.** The Smithsonian lists its current eruption as running since {cur_since}, and it was still going at the last update on {cur_last}.[[gvp]] The eruption is a lava lake in the summit crater of this **{summit_ft} ft ({summit_m} m)** stratovolcano on Ross Island, Antarctica.[[nasa]]",
+ "timeline": {
+  "from": 1830,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1841.08,
+    "label": "1841"
+   },
+   {
+    "year": 1908.3,
+    "label": "1908"
+   },
+   {
+    "year": 1947.1,
+    "label": "1947"
+   },
+   {
+    "year": 1955.5,
+    "label": "1955"
+   }
+  ],
+  "note": "{cur_years} years and counting",
+  "note_at": 0.86,
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike is an eruption with no recorded end; the raised stretch on the right is the current eruption. Few people were there to watch before the 1950s, so the early record is thin."
+ },
+ "section": {
+  "kind": "land",
+  "note": "a lava lake since at least 1972",
+  "crater": "lava lake",
+  "still_water": true,
+  "caption": "Mount Erebus cut open. Only the summit height is to scale; the outline is schematic.[[gvp]] The lava lake in the summit crater churns constantly and now and then throws out bombs of molten rock.[[nasa]]"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Erebus?",
+   "map": true,
+   "paras": [
+    "Mount Erebus is on Ross Island, off the coast of West Antarctica, at {coords}.[[nasa]][[gvp]] McMurdo Station is about 22 miles (35 km) away.[[nasa]] It is one of {n_country} volcanoes in [Antarctica](/volcanoes-in-antarctica) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Mount Erebus erupting now?",
+   "paras": [
+    "Yes, by the Smithsonian’s record. It lists Erebus as erupting since **{cur_since}**, and the eruption was still going at its last update on {cur_last}.[[gvp]] That makes {cur_years} years.",
+    "Only {older_count_word} eruptions the Smithsonian lists as continuing began earlier: {older}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "lake",
+   "h": "Does Mount Erebus have a lava lake?",
+   "paras": [
+    "Yes. A lava lake sits in the summit crater and has been active **since at least 1972**. NASA calls it one of only a few long-lived lava lakes on Earth.[[nasa]]",
+    "The lake churns constantly and now and then throws out bombs of molten rock.[[nasa]] Bursts like that are called Strombolian eruptions, after Stromboli in Italy.[[nps]]",
+    "Why the lake has lasted so long is an open question. NASA reports recent research suggesting that the magma holds little water, which makes it less volatile near the surface.[[nasa]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount Erebus?",
+   "paras": [
+    "Mount Erebus is a **[stratovolcano](/types-of-volcanoes)**: a steep-sided cone built from lava flows and the debris of explosive eruptions.[[nasa]][[usgsgloss]] The Smithsonian lists its main rock as {rock}.[[gvp]]",
+    "It stands in a rift zone, where the crust has been stretched thin and magma rises to the surface through faults.[[nasa]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Erebus?",
+   "paras": [
+    "Mount Erebus is **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]] It rises straight from the sea: Ross Island is made of Erebus and several other volcanoes.[[nasa]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How many times has Mount Erebus erupted?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** of Mount Erebus. Written reports account for {n_written} of them, starting in {since_year}; the other {n_other} are dated from rocks.[[gvp]]",
+    "The volcano was first seen that same year, by James Clark Ross of the British Royal Navy on his Antarctic voyage. Erebus and its neighbor Mount Terror were named after his expedition’s ships.[[nasa]]",
+    "None of the {n_all} eruptions is rated above VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]] NOAA’s database of significant eruptions has no entry for Erebus.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Erebus’ full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mount Erebus has **{n_all} confirmed eruptions**. Most have a start date and no end date: the reports come from expeditions that sailed on.[[gvp]]"
+   ]
+  }
+ ],
+ "callouts": [],
+ "faq_h": "Mount Erebus questions and answers",
+ "faq": [
+  [
+   "Is Mount Erebus an active volcano?",
+   "Yes. The Smithsonian lists it as erupting since {cur_since}, and the eruption was still going at its last update on {cur_last}."
+  ],
+  [
+   "When did Mount Erebus last erupt?",
+   "It is erupting now. By the Smithsonian’s record the current eruption has been running since {cur_since}."
+  ],
+  [
+   "Does Mount Erebus have a lava lake?",
+   "Yes. The lava lake in its summit crater has been active since at least 1972, and NASA calls it one of only a few long-lived lava lakes on Earth."
+  ],
+  [
+   "What type of volcano is Mount Erebus?",
+   "A stratovolcano: a steep-sided cone built from lava flows and the debris of explosive eruptions."
+  ],
+  [
+   "How tall is Mount Erebus?",
+   "{summit_ft} ft ({summit_m} m) above sea level."
+  ],
+  [
+   "Where is Mount Erebus?",
+   "On Ross Island, off the coast of West Antarctica, about 22 miles (35 km) from McMurdo Station."
+  ],
+  [
+   "Who discovered Mount Erebus?",
+   "James Clark Ross of the British Royal Navy first sighted it in 1841. It is named after one of his expedition’s ships."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Erebus record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=390020"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "nasa",
+   "publisher": "NASA Earth Observatory",
+   "title": "Erebus Breaks Through (November 29, 2023)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/erebus-breaks-through-152134/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "nps",
+   "publisher": "U.S. National Park Service",
+   "title": "Strombolian Eruptions",
+   "url": "https://www.nps.gov/articles/000/strombolian-eruptions.htm"
+  },
+  {
+   "id": "usgsgloss",
+   "publisher": "U.S. Geological Survey",
+   "title": "Open-File Report 96-738, glossary",
+   "url": "https://pubs.usgs.gov/of/1996/0738/glossary.html"
+  }
+ ],
+ "calc": [
+  "**{cur_years} years:** from {cur_start} to {cur_last}, the Smithsonian’s last update of ongoing eruptions. The record gives the start only as the middle of {cur_start} or earlier, so the count is a minimum.",
+  "Feet are converted from meters and rounded."
+ ],
+ "expect": {
+  "cur_since": "at least December 1972",
+  "older_count_word": "four",
+  "n_all": "20",
+  "max_vei": "2",
+  "noaa_n": "0",
+  "since_year": "1841",
+  "n_written": "13"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null,
+ "map_label": "below"
+}

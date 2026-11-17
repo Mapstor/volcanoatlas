@@ -5,8 +5,8 @@ import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
 import LazyMap from '@/components/record/LazyMap';
 import { SectionDrawing, Timeline } from '@/components/record/figures';
 import { getAllVolcanoes } from '@/lib/data';
-import { endLabel, isoToYmd, longDate, METHOD_LABEL, MONTHS, shortDate, startLabel } from '@/lib/eruptions';
-import { buildRecordData, fill, noaaDate, plain, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
+import { endLabel, isoToYmd, longDate, METHOD_LABEL, MONTHS, startLabel } from '@/lib/eruptions';
+import { buildRecordData, fill, noaaDate, plain, possessive, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
 import { countryHref, resolveInternalPath } from '@/lib/routes';
 import { AUTHOR, SITE_URL, gvpVolcanoUrl } from '@/lib/site';
 import { getUsgsStatus } from '@/lib/usgs';
@@ -21,6 +21,13 @@ const NOAA_EVENT = 'https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-m
 const WEEKLY_HOME = 'https://volcano.si.edu/reports_weekly.cfm';
 /** Where a USGS alert level stands among the four the agency uses. */
 const USGS_RANK: Record<string, string> = { NORMAL: 'the lowest', ADVISORY: 'the second', WATCH: 'the third', WARNING: 'the highest' };
+
+/** A length of time in a table cell breaks between its parts, never inside one: "3 years | 11 months | so far". */
+const tie = (text: string) =>
+  text
+    .replace(/\bat least\b/g, 'at\u00a0least')
+    .replace(/\b(about|least|so) (?=\S)/g, '$1\u00a0')
+    .replace(/(\d) (years?|months?|days?)\b/g, '$1\u00a0$2');
 
 function Html({ html, as: Tag = 'p', className }: { html: string; as?: 'p' | 'span' | 'li' | 'figcaption'; className?: string }) {
   return <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
@@ -64,7 +71,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Type', ctx.type);
   fact('Summit', ctx.summit_ft && `${ctx.summit_ft} ft (${ctx.summit_m} m)`);
   fact('Base', ctx.base_ft && `about ${ctx.base_ft} ft (${ctx.base_m} m) below sea level`);
-  fact('Current eruption', ctx.cur_start && `since ${ctx.cur_start}`);
+  fact('Above the land around it', ctx.rise_ft && `about ${ctx.rise_ft} ft (${ctx.rise_m} m)`);
+  fact('Current eruption', ctx.cur_since && `since ${ctx.cur_since}`);
   fact('Last eruption', !ctx.cur_start && ctx.last_end && `${ctx.last_start} to ${ctx.last_end}`);
   fact('Recorded eruptions', ctx.n_all);
   fact('Largest recorded', ctx.max_vei && `VEI ${ctx.max_vei}`);
@@ -91,6 +99,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
         : baseSource
           ? `${gvpFirst} ${baseBy}.${ref(baseSource)}`
           : `Source: Smithsonian Global Volcanism Program.${ref('gvp')}`;
+  const factsFrom = data.ground?.from === 'etopo' ? `${factsSource} Height above the land around it: calculated from NOAA’s elevation grid.${ref('etopo')}` : factsSource;
   const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
   const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
 
@@ -151,7 +160,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const periodsTable = periodRows.length > 0 && (
     <>
       <p className="va-tcap" id="va-t-periods">
-        {shortened ? `${name}’s last ${periodRows.length} eruptions` : `${name}’s eruptions since ${ctx.open_before ?? periodRows[0].start[0]}`}
+        {shortened ? `${possessive(name)} last ${periodRows.length} eruptions` : `${possessive(name)} eruptions since ${ctx.open_before ?? periodRows[0].start[0]}`}
       </p>
       <div className="va-scroll" role="region" aria-labelledby="va-t-periods" tabIndex={0}>
         <table className="va-table" aria-labelledby="va-t-periods">
@@ -159,21 +168,21 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             <tr>
               <th scope="col">Started</th>
               <th scope="col">Ended</th>
-              <th scope="col">Lasted</th>
-              <th scope="col">{profile.table?.gap_label ?? 'Pause that followed'}</th>
+              <th scope="col" className="va-dur">Lasted</th>
+              <th scope="col" className="va-dur">{profile.table?.gap_label ?? 'Pause that followed'}</th>
               <th scope="col" className="va-num">Largest VEI</th>
             </tr>
           </thead>
           <tbody>
             {periodRows.map((row, i) => (
               <tr key={row.eruption.n}>
-                <td>{row.openStart ? `before ${row.start[0]}` : shortDate(row.start)}</td>
-                <td>{row.continuing ? 'continuing' : shortDate(row.end)}</td>
-                <td>{row.length}</td>
-                <td>
+                <td>{row.startText}</td>
+                <td>{row.endText}</td>
+                <td className="va-dur">{tie(row.length)}</td>
+                <td className="va-dur">
                   {row.continuing
                     ? ''
-                    : (row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
+                    : tie(row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
                 </td>
                 <td className="va-num">{row.eruption.vei ?? 'not given'}</td>
               </tr>
@@ -191,7 +200,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const noaaTable = noaa.length > 0 && (
     <>
       <p className="va-tcap" id="va-t-noaa">
-        Significant events at {name} in NOAA’s database, {ctx.noaa_first}–{ctx.noaa_last}
+        Significant events at {name} in NOAA’s database, {ctx.noaa_first === ctx.noaa_last ? ctx.noaa_first : `${ctx.noaa_first} to ${ctx.noaa_last}`}
       </p>
       <div className="va-scroll" role="region" aria-labelledby="va-t-noaa" tabIndex={0}>
         <table className="va-table" aria-labelledby="va-t-noaa">
@@ -249,13 +258,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   {eruption.vei ?? 'not given'}
                   {eruption.veiq === '?' ? '?' : ''}
                 </td>
-                <td>{eruption.method ? (METHOD_LABEL[eruption.method] ?? eruption.method.toLowerCase()) : 'not given'}</td>
+                <td className="va-dur">{eruption.method ? (METHOD_LABEL[eruption.method] ?? eruption.method.toLowerCase()) : 'not given'}</td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
-      <Html className="va-srcline" html={`${gvpLine} A question mark means the Smithsonian marks the value as uncertain.`} />
+      <Html className="va-srcline" html={`${gvpLine} “Uncertain” or a question mark means the Smithsonian marks the date or size as uncertain. Where only a month or a year is shown, that is all the record gives.`} />
     </details>
   );
 
@@ -309,7 +318,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           </p>
 
           <div className="va-big">
-            <p className="va-since">{plain(profile.big.line, ctx)}</p>
+            <p className="va-since">{plain(profile.big.line, ctx).replace(/\bat least\b/g, 'at\u00a0least')}</p>
             <p className="va-years">
               <span className="va-yearsnum" style={{ ['--va-digits' as string]: plain(profile.big.number, ctx).length }}>
                 {plain(profile.big.number, ctx)}
@@ -345,10 +354,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           <Html className="va-figcap" html={r(profile.timeline.caption)} />
         </header>
 
+        {/* two columns that each pack upward: map, status and summary on the left; drawing and key facts on the right.
+            On a phone the four parts stack in the order map, drawing, status and summary, key facts (record.css). */}
         <div className="va-band">
+          <div className="va-flowcol">
           {where && (
             <section className="va-where" id={`va-${where.id}`} aria-labelledby="va-where-h">
-              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} />
+              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} label={profile.map_label} />
               <h2 id="va-where-h">{where.h}</h2>
               {where.paras.map((para, i) => (
                 <Html key={i} html={r(para)} />
@@ -360,14 +372,6 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               </p>
             </section>
           )}
-          <figure className="va-fig va-bandfig">
-            <SectionDrawing data={data} />
-            <SectionDrawing data={data} compact />
-            <Html as="figcaption" html={r(profile.section.caption)} />
-          </figure>
-        </div>
-
-        <div className="va-band va-band2">
           <div className="va-bandtext">
             {(weekly || usgs) && (
               <div className="va-weekly">
@@ -408,6 +412,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             )}
             <Html className="va-lede" html={r(profile.lede)} />
           </div>
+          </div>
+          <div className="va-flowcol">
+          <figure className="va-fig va-bandfig">
+            <SectionDrawing data={data} />
+            <SectionDrawing data={data} compact />
+            <Html as="figcaption" html={r(profile.section.caption)} />
+          </figure>
           <section className="va-factbox" aria-labelledby="va-facts-h">
             <h2 id="va-facts-h">{name} key facts</h2>
             <dl className="va-facts">
@@ -418,8 +429,9 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 </div>
               ))}
             </dl>
-            <Html className="va-csrc" html={factsSource} />
+            <Html className="va-csrc" html={factsFrom} />
           </section>
+          </div>
         </div>
 
         <div className="va-main">

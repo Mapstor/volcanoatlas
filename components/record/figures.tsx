@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react';
-import { daysBetween, decimalYear, feet, fmt, roundTo, shortDate, spanText, type Ymd } from '@/lib/eruptions';
+import { dateText, daysBetween, decimalYear, feet, fmt, precisionOf, roundTo, spanBetween, type Precision, type Ymd } from '@/lib/eruptions';
 import { fill, type RecordData } from '@/lib/recordProfile';
 
 /** Drawings of the record page. Every position and label comes from the source data passed in. */
@@ -129,10 +129,12 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   // gaps between eruptions, and the one since the last eruption
   const gaps: { from: Ymd; to: Ymd; days: number; text: string }[] = [];
   items.forEach((p, i) => {
-    const to: Ymd | null = items[i + 1] ? items[i + 1].span.start : erupting ? null : endDate;
+    const next = items[i + 1];
+    const to: Ymd | null = next ? next.span.start : erupting ? null : endDate;
     if (!to) return;
+    const toPrecision: Precision = next ? next.span.startPrecision : 'day';
     const days = daysBetween(p.span.end, to);
-    if (days > 3) gaps.push({ from: p.span.end, to, days, text: spanText(p.span.end, to) });
+    if (days > 3) gaps.push({ from: p.span.end, to, days, text: spanBetween(p.span.end, p.span.endPrecision, to, toPrecision).text });
   });
   const centered = spec.label_gaps !== undefined;
   const labelled = centered ? [...gaps].sort((a, b) => b.days - a.days).slice(0, spec.label_gaps) : gaps;
@@ -220,7 +222,9 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
         <>
           <line x1={startX} y1={yb + 22} x2={startX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
           <text x={small ? w / 2 : startX + 6} y={yb + (small ? 66 : 74)} textAnchor={small ? 'middle' : 'start'} fontSize={fs + 1} fontWeight={700} fill={PAL.ink}>
-            {shortDate(stats.currentStart)}: current eruption begins
+            {stats.current?.sdmod === '<'
+              ? `by ${dateText(stats.currentStart, precisionOf(stats.current.sdunc))}: current eruption under way`
+              : `${dateText(stats.currentStart, precisionOf(stats.current?.sdunc))}: current eruption begins`}
           </text>
         </>
       )}
@@ -235,7 +239,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             fontWeight={700}
             fill={PAL.ink}
           >
-            {shortDate(stats.lastEnd)}: last eruption ended
+            {dateText(stats.lastEnd, stats.lastEndPrecision)}: last eruption ended
           </text>
         </>
       )}
@@ -248,9 +252,240 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   );
 }
 
-/** The cut-open drawing that fits the profile: an island cone, or a shield with the part pressed into the sea floor. */
+/** The cut-open drawing that fits the profile: an island cone, a shield pressed into the sea floor, or a volcano on land. */
 export function SectionDrawing({ data, compact = false }: { data: RecordData; compact?: boolean }) {
-  return data.profile.section.kind === 'shield' ? <ShieldDrawing data={data} compact={compact} /> : <ConeDrawing data={data} compact={compact} />;
+  const kind = data.profile.section.kind;
+  if (kind === 'shield') return <ShieldDrawing data={data} compact={compact} />;
+  if (kind === 'land') return <LandDrawing data={data} compact={compact} />;
+  return <ConeDrawing data={data} compact={compact} />;
+}
+
+/** Small waves under a water surface; the path is longer than the drawing so it can slide without a seam. */
+function wavePath(y: number, half: number, w: number) {
+  let d = `M${-4 * half} ${f(y)} q${half / 2} -2.4 ${half} 0`;
+  for (let x = -3 * half; x < w + 4 * half; x += half) d += ` t${half} 0`;
+  return d;
+}
+
+/**
+ * A volcano on land, or one that rises straight from the water, cut open. Two heights are to scale: the summit above
+ * sea level and the land around the volcano. The outline is schematic. Lava and gas are drawn only while the
+ * Smithsonian lists the eruption as continuing.
+ */
+function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
+  const { profile, stats } = data;
+  const sec = profile.section;
+  const summit = data.summit?.m ?? 0;
+  const summitFt = data.summit?.ft ?? 0;
+  const ground = data.ground?.m ?? 0;
+  const onWater = !data.ground;
+  const former = sec.former;
+  const w = compact ? 340 : 560;
+  const fs = compact ? 13 : 15;
+  const bold = fs + (compact ? 1.5 : 3);
+  const line = fs + 4;
+  const topY = compact ? 96 : 104;
+  const cx = w * (compact ? 0.37 : 0.38);
+  const W = w * (compact ? 0.26 : 0.29);
+  // One scale for every height. It fills the drawing unless that would make the volcano taller than half its drawn
+  // base is wide; then the drawing is made shorter instead.
+  const highest = Math.max(summit, former?.m ?? 0);
+  const k = Math.min(((compact ? 420 : 520) - (compact ? 34 : 40) - topY) / highest, W / (highest - ground));
+  const seaY = topY + highest * k;
+  const h = Math.round(seaY + (compact ? 34 : 40));
+  const Y = (m: number) => seaY - m * k;
+  const summitY = Y(summit);
+  const groundY = Y(ground);
+  const H = groundY - summitY;
+  const notch = sec.crater_share ? W * sec.crater_share : compact ? 6 : 9;
+  const crater = Math.min(H * 0.5, Math.max(3, (sec.crater_depth_m ?? 0) * k));
+  const inset = Math.min(notch * 0.4, crater * 0.5);
+  const dome = sec.dome_m ? Math.min(crater * 0.8, sec.dome_m * k) : 0;
+  // flanks of a stratovolcano: gentle at the foot, steeper under the summit
+  const left: Curve = [
+    [cx - W, groundY],
+    [cx - W * 0.58, groundY - H * 0.12],
+    [cx - notch - (W - notch) * 0.22, summitY + H * 0.34],
+    [cx - notch, summitY],
+  ];
+  const right: Curve = [
+    [cx + notch, summitY],
+    [cx + notch + (W - notch) * 0.22, summitY + H * 0.34],
+    [cx + W * 0.58, groundY - H * 0.12],
+    [cx + W, groundY],
+  ];
+  // the same cone without its crater, for the layer lines inside
+  const body = `M${f(cx - W)} ${f(groundY)} C${f(cx - W * 0.58)} ${f(groundY - H * 0.12)} ${f(cx - W * 0.2)} ${f(summitY + H * 0.34)} ${f(cx)} ${f(summitY + crater + 4)} C${f(cx + W * 0.2)} ${f(summitY + H * 0.34)} ${f(cx + W * 0.58)} ${f(groundY - H * 0.12)} ${f(cx + W)} ${f(groundY)}`;
+  const outline =
+    `M${f(left[0][0])} ${f(left[0][1])} ${cubic(left)} L${f(cx - notch + inset)} ${f(summitY + crater)} ` +
+    (dome
+      ? `L${f(cx - (notch - inset) * 0.55)} ${f(summitY + crater)} Q${f(cx)} ${f(summitY + crater - dome * 2)} ${f(cx + (notch - inset) * 0.55)} ${f(summitY + crater)} `
+      : '') +
+    `L${f(cx + notch - inset)} ${f(summitY + crater)} L${f(right[0][0])} ${f(right[0][1])} ${cubic(right)} Z`;
+  const active = Boolean(stats.current);
+  const ventY = summitY + crater;
+  const xa = compact ? 12 : 16;
+  const xb = cx + W + (compact ? 10 : 14);
+  const tall = groundY < seaY - 24;
+  const rise = summit - ground;
+  const riseFt = fmt(roundTo(feet(roundTo(rise, 50)), 100));
+  const riseM = fmt(roundTo(rise, 50));
+  const midY = (summitY + groundY) / 2;
+  const base = sec.baseline ?? 'sea level';
+  const clip = `va-land-${compact ? 'small' : 'wide'}`;
+  const iceY = sec.ice_from_m !== undefined ? Y(sec.ice_from_m) : null;
+  // an earlier, higher summit: the old flanks carried on up to their meeting point
+  const formerY = former ? Y(former.m) : null;
+  const teeth = (() => {
+    if (iceY === null) return '';
+    const x0 = curveX(left, iceY);
+    const x1 = curveX(right, iceY);
+    const n = Math.max(3, Math.round((x1 - x0) / 13));
+    let d = `M${f(x0)} ${f(iceY)}`;
+    for (let i = 1; i <= n; i++) d += ` L${f(x0 + ((x1 - x0) * (i - 0.5)) / n)} ${f(iceY + (i % 2 ? 7 : 4))} L${f(x0 + ((x1 - x0) * i) / n)} ${f(iceY)}`;
+    return d;
+  })();
+  const label =
+    `Section drawing of ${profile.name}: the summit is ${fmt(summit)} m above sea level` +
+    (data.ground ? `, and the land around the volcano is at about ${fmt(ground)} m, so it stands about ${riseM} m above its surroundings` : '') +
+    (former ? `. A dashed outline shows the earlier summit at ${fmt(former.m)} m` : '') +
+    '.';
+
+  return (
+    <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
+      <defs>
+        <clipPath id={clip}>
+          <path d={outline} />
+        </clipPath>
+      </defs>
+      <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
+      {onWater ? (
+        <>
+          <rect x={0} y={seaY} width={w} height={h - seaY} fill={PAL.sea} />
+          {!sec.still_water && (
+            <>
+              <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
+              <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
+            </>
+          )}
+        </>
+      ) : (
+        <rect x={0} y={groundY} width={w} height={seaY - groundY} fill={PAL.crust} />
+      )}
+      <path d={outline} fill={PAL.rock} />
+      {[0.78, 0.56].map((sc) => (
+        <path key={sc} d={body} fill="none" stroke={PAL.paper} strokeWidth={1} opacity={0.35} transform={`translate(${f(cx * (1 - sc))} ${f(groundY * (1 - sc))}) scale(${sc})`} />
+      ))}
+      {iceY !== null && (
+        <>
+          <rect x={0} y={0} width={w} height={iceY} fill={PAL.paper} clipPath={`url(#${clip})`} />
+          <path d={`${teeth} V${f(iceY)} Z`} fill={PAL.paper} clipPath={`url(#${clip})`} />
+          <path d={teeth} fill="none" stroke={PAL.ink} strokeWidth={0.8} strokeLinejoin="round" />
+        </>
+      )}
+      {active && <path d={`M${f(cx + 3)} ${f(groundY + (onWater ? 0 : Math.min(18, seaY - groundY)))} C${f(cx + 4)} ${f(groundY - H * 0.3)} ${f(cx - 3)} ${f(ventY + H * 0.35)} ${f(cx)} ${f(ventY + 2)}`} fill="none" stroke={PAL.lava} strokeWidth={compact ? 5 : 6} strokeLinecap="round" />}
+      <path d={outline} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      {active && (
+        <>
+          {[0, 1, 2, 3].map((i) => (
+            <circle key={i} className={`va-bub va-bub${i}`} cx={cx} cy={ventY + 8} r={3.4 + (i % 2) * 1.2} fill={PAL.paper} stroke={PAL.ink} strokeWidth={0.9} />
+          ))}
+          <g className="va-burst" fill="none" stroke={PAL.lava} strokeWidth={2.2} strokeLinecap="round">
+            <path d={`M${f(cx)} ${f(ventY)} q-12 -30 -30 -16`} />
+            <path d={`M${f(cx)} ${f(ventY)} q-4 -40 -14 -34`} />
+            <path d={`M${f(cx)} ${f(ventY)} q4 -44 12 -34`} />
+            <path d={`M${f(cx)} ${f(ventY)} q14 -30 26 -14`} />
+          </g>
+        </>
+      )}
+      {former && formerY !== null && (
+        <path
+          className="va-former"
+          d={`M${f(cx - notch)} ${f(summitY)} L${f(cx - 5)} ${f(formerY)} L${f(cx + 5)} ${f(formerY)} L${f(cx + notch)} ${f(summitY)}`}
+          fill="none"
+          stroke={PAL.pencil}
+          strokeWidth={1.4}
+          strokeDasharray="6 5"
+          strokeLinejoin="round"
+        />
+      )}
+      {!onWater && <line x1={0} y1={groundY} x2={w} y2={groundY} stroke={PAL.ink} strokeWidth={0.9} />}
+      <line x1={0} y1={seaY} x2={w} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+      <text className="va-it" x={w - 8} y={tall || onWater ? seaY - 7 : seaY + 17} textAnchor="end" fontSize={fs} fill={PAL.ink}>{base}</text>
+
+      {/* summit above sea level */}
+      <line x1={xa} y1={summitY} x2={cx - notch - 5} y2={summitY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
+      <path d={`M${xa} ${f(summitY)} V${f(seaY)} M${xa - 5} ${f(summitY)} h10 M${xa - 5} ${f(seaY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      {/* on a phone the lava burst of an erupting volcano needs the room of the third line; the bracket down to the
+          baseline and its label say what the height is measured from */}
+      <text x={xa + 12} y={summitY - 12 - line * (compact && active ? 1 : 2)} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(summitFt)} ft</text>
+      <text x={xa + 12} y={summitY - 11 - (compact && active ? 0 : line)} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
+      {!(compact && active) && (
+        <text x={xa + 12} y={summitY - 10} fontSize={fs} fill={PAL.ink}>above {onWater && sec.baseline ? 'the water' : 'sea level'}</text>
+      )}
+
+      {/* summit above the land around it */}
+      {data.ground && rise > 0 && (
+        <>
+          <line x1={cx + notch + 5} y1={summitY} x2={xb + 8} y2={summitY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
+          <path d={`M${f(xb)} ${f(summitY)} V${f(groundY)} M${f(xb - 5)} ${f(summitY)} h10 M${f(xb - 5)} ${f(groundY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+          {compact ? (
+            <>
+              <text x={xb + 10} y={midY - 10} fontSize={fs} fill={PAL.ink}>
+                about <tspan fontWeight={700}>{riseFt} ft</tspan>
+              </text>
+              <text x={xb + 10} y={midY - 10 + line - 1} fontSize={fs - 0.5} fill={PAL.ink}>above the land</text>
+              <text x={xb + 10} y={midY - 10 + line * 2 - 3} fontSize={fs - 0.5} fill={PAL.ink}>9 miles away</text>
+            </>
+          ) : (
+            <>
+              <text x={xb + 12} y={midY - 6} fontSize={bold} fontWeight={700} fill={PAL.ink}>about {riseFt} ft</text>
+              <text x={xb + 12} y={midY - 6 + line} fontSize={fs} fill={PAL.ink}>({riseM} m) above the</text>
+              <text x={xb + 12} y={midY - 6 + line * 2 - 2} fontSize={fs} fill={PAL.ink}>land 9 miles away</text>
+            </>
+          )}
+          <text className="va-it" x={xa + 12} y={tall ? groundY + 18 : seaY + 17} fontSize={fs - 1} fill={PAL.ink}>
+            {compact ? `land around it: ${fmt(roundTo(feet(ground), 100))} ft` : `land 9 miles (15 km) away: about ${fmt(roundTo(feet(ground), 100))} ft (${fmt(ground)} m)`}
+          </text>
+        </>
+      )}
+
+      {sec.crater && !compact && (
+        <>
+          <line x1={cx - (notch - inset) * 0.8} y1={ventY - 2} x2={xa + (compact ? 88 : 104)} y2={summitY + 18} stroke={PAL.ink} strokeWidth={0.8} />
+          <text x={xa + 12} y={summitY + 22} fontSize={fs} fontWeight={700} fill={PAL.ink}>{sec.crater}</text>
+          {sec.crater_depth_m !== undefined && (
+            <text x={xa + 12} y={summitY + 22 + line - 1} fontSize={fs - 1} fill={PAL.ink}>{fmt(sec.crater_depth_ft ?? roundTo(feet(sec.crater_depth_m), 50))} ft deep</text>
+          )}
+        </>
+      )}
+      {iceY !== null && sec.ice_label && (
+        <>
+          <line x1={curveX(left, iceY + 3) - 3} y1={iceY + 3} x2={xa + (compact ? 92 : 132)} y2={iceY + 3 + (sec.crater ? line * 2 + 6 : 0)} stroke={PAL.ink} strokeWidth={0.8} />
+          <text x={xa + 12} y={iceY + 8 + (sec.crater ? line * 2 + 6 : 0)} fontSize={fs - 1} fill={PAL.ink}>{sec.ice_label}</text>
+        </>
+      )}
+      {former && formerY !== null && (
+        <text x={cx + 14} y={formerY + 4} fontSize={fs - 1} fill={PAL.pencil} fontWeight={600}>{former.label}</text>
+      )}
+      {!compact && sec.note && (
+        <>
+          <path
+            d={
+              former && formerY !== null
+                ? `M${f(cx + 92)} ${f(formerY - 34)} C${f(cx + 60)} ${f(formerY - 36)} ${f(cx + 30)} ${f(formerY - 26)} ${f(cx + 12)} ${f(formerY - 12)}`
+                : `M${f(cx + 96)} ${f(summitY - 46)} C${f(cx + 64)} ${f(summitY - 48)} ${f(cx + 30)} ${f(summitY - 38)} ${f(cx + 10)} ${f(summitY - (active ? 44 : 10))}`
+            }
+            fill="none"
+            stroke={PAL.pencil}
+            strokeWidth={1.4}
+            strokeLinecap="round"
+          />
+          <text className="va-hand" x={cx + 100} y={(former && formerY !== null ? formerY : summitY - 12) - 28} fontSize={23} fill={PAL.pencil}>{sec.note}</text>
+        </>
+      )}
+    </svg>
+  );
 }
 
 /** An island cone cut open. Heights are to scale (summit, crater terrace, sea level, base); the shape is schematic. */
@@ -434,12 +669,7 @@ function ShieldDrawing({ data, compact }: { data: RecordData; compact: boolean }
   const bold = fs + (compact ? 1 : 3);
   const ft = (m: number) => fmt(roundTo(feet(m), 50));
   const clip = `va-shield-${compact ? 'small' : 'wide'}`;
-  // small waves under the surface; each path is one wavelength longer than the drawing so it can slide without a seam
-  const wave = (y: number, half: number) => {
-    let d = `M${-4 * half} ${f(y)} q${half / 2} -2.4 ${half} 0`;
-    for (let x = -3 * half; x < w + 4 * half; x += half) d += ` t${half} 0`;
-    return d;
-  };
+  const wave = (y: number, half: number) => wavePath(y, half, w);
 
   return (
     <svg
