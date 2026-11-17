@@ -29,9 +29,10 @@ export default {
         }
       },
       fontFamily: {
-        'display': ['Playfair Display', 'Georgia', 'serif'],
-        'sans': ['Source Sans 3', 'system-ui', 'sans-serif'],
-        'mono': ['JetBrains Mono', 'monospace'],
+        // The families are set in app/layout.tsx (next/font/local), which names them itself: use its variables.
+        'display': ['var(--font-display)', 'Georgia', 'serif'],
+        'sans': ['var(--font-sans)', 'system-ui', 'sans-serif'],
+        'mono': ['var(--font-mono)', 'monospace'],
       },
     },
   },
