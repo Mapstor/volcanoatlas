@@ -3,12 +3,12 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-005_
-- Step: ten pages — page 2 of the ten (Mauna Loa) is built and on a preview, waiting for the owner's look; the other nine are not started. Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Pages finished: 1 of 213 (Stromboli).
-- Last confirmed: VOL-005 MAUNALOA — template extended for a volcano that is not erupting, Mauna Loa built from USGS and Smithsonian sources — done on the work branch (see §6); VOL-004 Stromboli is live.
+- Step: ten pages — 2 of the ten done (Stromboli live, Mauna Loa approved by the owner on 2026-11-17 and going live). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages finished: 2 of 213 (Stromboli, Mauna Loa).
+- Last confirmed: VOL-005 MAUNALOA — approved by the owner, byline on, merged (see §6 for the live check).
 - In flight (handed, NOT confirmed): none
-- Next action: wait for the owner's word on the Mauna Loa preview. Then: put his changes in, set `"reviewed"` in `data/profiles/mauna-loa.json` to the day he looked, merge after the look in his Chrome, check production. Then the other nine in the order of `docs/preflight-record-pages.md` (Krakatau next), each with its observatory's pages read first. A volcano on land needs a section drawing without the sea.
-- Waiting on owner: look at the Mauna Loa preview (pull request "Mauna Loa as a record page").
+- Next action: the next volcano pages in the order of `docs/preflight-record-pages.md` (Krakatau, Aira, Kilauea, Cotopaxi, Eyjafjallajokull, Erebus, Arenal, Pinatubo, then Popocatepetl, Nevado del Ruiz, Taal, Whakaari), in batches. Each page: observatory pages read first, profile written, checks, preview looked at in the owner's Chrome, merged, production checked. A volcano on land needs a section drawing without the sea.
+- Waiting on owner: reading the pages that went live without his name (list in the newest §6 entry); his name and the date go on after he says so.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -70,6 +70,7 @@ _last update: 2026-11-17 · VOL-005_
 - D-34 · 2026-11-17 · Where the country's observatory prints its own summit height, the page uses it (`facts.summit_*` with a source) and names the Smithsonian's figure in the calculation notes — USGS gives Mauna Loa 13,679 ft (4,169 m), the figure readers meet everywhere else; the Smithsonian's 4,170 m converts to 13,681 ft.
 - D-35 · 2026-11-17 · Lengths of time are printed in calendar years and months to the nearest month, never rounded up to a whole year — the 38 years 7 months between Mauna Loa's last two eruptions printed as "39 years" beside USGS's "38 years". Two cells of the live Stromboli table changed with it (16 years 11 months, 21 years 2 months).
 - D-36 · 2026-11-17 · An empty deaths field in NOAA's record prints as "none" under "Deaths recorded", not as 0 — NOAA records no zero.
+- D-37 · 2026-11-17 · The owner approved Mauna Loa ("superb") and said to do all pages this way. A rebuilt page goes live after the checks and the look in his Chrome without waiting for him; his name and review date go on it only after he has read it (D-23, D-28 stand), so each batch ends with a list for him.
 
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
@@ -113,6 +114,7 @@ _last update: 2026-11-17 · VOL-005_
 - USGS's Mauna Loa pages disagree with each other in three places (summit 4,169 m or about 4,170 m; "seven" flows that threatened Hilo above a list of eight; three distances for the 1984 flow). What the page prints and why is in the registry row `observatory-usgs`.
 - The sea floor in a shield drawing moves with scrolling (`animation-timeline: view()`). A full-page picture shows it at its start unless reduced motion is on, and a tool that steps through `document.getAnimations()` must leave animations that are not on the document timeline alone.
 - A sentence in a profile that leans on a data value needs a line in its `expect` block; the build stops when the data no longer matches.
+- A build can stop with "next/font/google queries have exactly one entry" when a Google font download drops (the old pages still load three Google fonts at build time). Nothing is wrong with the code: run the build again.
 
 ## §5 Backlog (priority order)
 - [P0] VOL-005, the rest of the ten: Krakatau, Aira, Kilauea, Cotopaxi, Eyjafjallajokull, Erebus, Arenal, Pinatubo, then the first-tier pages left (Popocatepetl, Nevado del Ruiz, Taal, Whakaari). Each needs its observatory's pages read. Needed on the way: a section drawing for a volcano on land, and one for a caldera.
@@ -207,6 +209,14 @@ _last update: 2026-11-17 · VOL-005_
 - Unverified: phone width in his Chrome (checked in headless Chrome at 390 and 586 px); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: the pull request stays open until the owner has seen the page. Pages finished 1 of 213.
+
+### 2026-11-17 · VOL-005 MAUNALOA · chat · done (owner approved)
+- What: the owner looked at the Mauna Loa preview and approved it ("superb", 2026-11-17 13:37 his time). His name and that day are on the page (`"reviewed": "2026-11-17"`), with Article markup pointing at /about#author.
+- Files: `data/profiles/mauna-loa.json`, this file
+- Verified: `npx tsc --noEmit` clean outside the old test file; `rm -rf .next && npx next build` exit 0 on the second run (the first stopped on a dropped font download, see §4); `scripts/check-build.py`: 1,212 pages all 200, 0 broken links, canonical = own URL on all, 213 indexable = 213 in sitemap, Article markup on 2 pages; byline row looked at in pictures at 390 and 1456 px.
+- Unverified: the byline on the preview in the owner's Chrome and the live page (next entry).
+- Commit: this commit (pushed: work branch)
+- Notes: pages finished 2 of 213 once it is live.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
