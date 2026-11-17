@@ -8,6 +8,7 @@ import {
   fmt,
   getNoaaEvents,
   getSourceVolcano,
+  isoToYmd,
   longDate,
   MONTHS,
   roundTo,
@@ -166,6 +167,12 @@ export interface RecordProfile {
   calc: string[];
   /** Day the non-dataset sources (observatory and agency pages) were read, YYYY-MM-DD. */
   observatory_read: string;
+  /**
+   * For a volcano the Smithsonian does not list as erupting: one sentence, with its source, saying what the
+   * observatory showed on the day it was read (`{read_date}`). The Smithsonian's eruption list can run months behind
+   * a volcano (Krakatau, November 2026), so "last erupted" is never printed from the list alone. Required.
+   */
+  since_check?: string;
   /** Day the author read and approved this page, YYYY-MM-DD. Null until he has: no byline is shown before that. */
   reviewed: string | null;
 }
@@ -236,6 +243,13 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     if (value !== null && value !== undefined && value !== '') ctx[key] = String(value);
   };
 
+  set('read_date', longDate(isoToYmd(profile.observatory_read)));
+  if (!stats.current && !profile.since_check) {
+    throw new Error(
+      `record profile ${profile.slug}: the Smithsonian does not list this volcano as erupting, so the profile needs "since_check": ` +
+        'what its observatory showed on the day it was read, with the source. The eruption list can run months behind.',
+    );
+  }
   // current eruption and its place among continuing ones
   if (stats.currentStart && stats.currentLast) {
     // the start is written no more exactly than the record gives it; "at least" when the record only has an upper limit
@@ -255,16 +269,6 @@ export function buildRecordData(profile: RecordProfile): RecordData {
       set('cur_number', years >= 2 ? years : months);
       set('cur_unit', years >= 2 ? 'years' : months === 1 ? 'month' : 'months');
     }
-    // the eruption before the current one
-    const before = stats.periods.filter((row) => !row.continuing && row.eruption.ey);
-    const prev = before[before.length - 1];
-    if (prev) {
-      const e = prev.eruption;
-      // "September 15 to September 20, 2024": the year is said once when both dates are exact and in the same year
-      const sameYear = e.sy === e.ey && prev.startPrecision === 'day' && prev.endPrecision === 'day';
-      set('prev_start', sameYear ? `${MONTHS[e.sm]} ${e.sd}` : dateText([e.sy, e.sm, e.sd], prev.startPrecision, true));
-      set('prev_end', dateText([e.ey as number, e.em, e.ed], prev.endPrecision, true));
-    }
     set('n_cont', stats.continuingCount);
     set('older_count_word', word(stats.olderContinuing.length));
     set(
@@ -278,6 +282,18 @@ export function buildRecordData(profile: RecordProfile): RecordData {
         }),
       ),
     );
+  }
+  // the eruption before the current one, or before the last one when the volcano is not erupting
+  {
+    const ended = stats.periods.filter((row) => !row.continuing && row.eruption.ey);
+    const prev = ended[ended.length - (stats.current ? 1 : 2)];
+    if (prev) {
+      const e = prev.eruption;
+      // "September 15 to September 20, 2024": the year is said once when both dates are exact and in the same year
+      const sameYear = e.sy === e.ey && prev.startPrecision === 'day' && prev.endPrecision === 'day';
+      set('prev_start', sameYear ? `${MONTHS[e.sm]} ${e.sd}` : dateText([e.sy, e.sm, e.sd], prev.startPrecision, true));
+      set('prev_end', dateText([e.ey as number, e.em, e.ed], prev.endPrecision, true));
+    }
   }
   // the last eruption, when the volcano is not erupting, and the time since. "Today" is the day the page is rendered.
   if (!stats.current && stats.lastStart && stats.lastEnd) {
@@ -470,6 +486,7 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     const fatal = noaa.filter((e) => e.deaths > 0);
     const tsu = noaa.filter((e) => e.tsunami);
     set('noaa_n', noaa.length);
+    set('noaa_n_word', word(noaa.length));
     set('noaa_first', noaa[0].y < 0 ? `${-noaa[0].y} BCE` : noaa[0].y);
     set('noaa_last', noaa[noaa.length - 1].y);
     set('noaa_fatal_count', fatal.length);

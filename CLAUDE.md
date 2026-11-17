@@ -25,7 +25,9 @@ request waits for the owner. The devlog skill lives in the owner's Claude accoun
   `lib/recordProfile.ts`). Never type a number into the text file that a token can supply. A sentence that leans on a
   data value ("each with a tsunami on record") gets a line in the file's `expect` block, so the build stops when the
   data moves. Dates and lengths of time go through `dateText` and `spanBetween` in `lib/eruptions.ts`, which print
-  them no more exactly than the record gives them. The look is in DESIGN.md, what a page must do is in PRODUCT.md.
+  them no more exactly than the record gives them. A volcano the Smithsonian does not list as erupting needs
+  `since_check` in its profile: what its own observatory showed on the day it was read, with the source (the build
+  stops without it). The look is in DESIGN.md, what a page must do is in PRODUCT.md.
 - This repository is public: no secrets, no analytics or search-traffic figures, no private contact details.
 - Checks before a pull request: `npx tsc --noEmit` (ignore `lib/textUtils.test.ts`), `rm -rf .next && npx next build`,
   then a full link crawl of the local build. Details in DEVLOG.md §4.

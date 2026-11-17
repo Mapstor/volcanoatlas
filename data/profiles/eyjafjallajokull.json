@@ -1,0 +1,273 @@
+{
+ "slug": "eyjafjallajokull",
+ "volcano_number": 372020,
+ "name": "Eyjafjallajokull",
+ "country": "Iceland",
+ "title": "Eyjafjallajokull Volcano: 2010 Eruption, Name & Facts",
+ "description": "Eyjafjallajokull last erupted in 2010, when its ash led to about 100,000 cancelled flights. Dates, height, how to say the name and every eruption on record.",
+ "h1": "Eyjafjallajokull Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1600
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "In 2010 this volcano erupted through about 650 ft of ice, and the ash it made closed much of Europe’s airspace for days. Below: what happened, how tall the volcano is, how to say its name, and every eruption on record.",
+ "answer": "**Eyjafjallajokull last erupted from {last_start} to {last_end}.**[[gvp]] Ash from that eruption drifted over Europe, and about 100,000 commercial flights were cancelled.[[icao]] It is a **stratovolcano under an ice cap** in southern Iceland, **{summit_ft} ft ({summit_m} m)** high.[[icao]] In Icelandic the name is written Eyjafjallajökull.",
+ "timeline": {
+  "from": 1590,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1612.5,
+    "label": "1612"
+   },
+   {
+    "year": 1821.97,
+    "label": "1821"
+   },
+   {
+    "year": 2010.28,
+    "label": "2010"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The first spike is an eruption known only by its year. The raised stretch is the eruption of 1821 to 1823, and the last spike is 2010.[[icao]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "under 650 ft of ice in 2010",
+  "crater": "ice-filled caldera",
+  "crater_share": 0.14,
+  "ice_from_m": 850,
+  "ice_label": "ice cap",
+  "caption": "Eyjafjallajokull cut open. The summit height, the lower edge of the ice cap (800 to 900 m) and the land around the volcano are to scale; the outline is schematic.[[icao]][[etopo]] In 2010 the summit eruption began under about 650 ft (200 m) of ice in the caldera.[[icao]]"
+ },
+ "map_zoom": 6,
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Eyjafjallajokull?",
+   "map": true,
+   "paras": [
+    "Eyjafjallajokull is in southern Iceland, at the eastern edge of the country’s southern lowlands, at {coords}.[[gvp]][[icao]] The larger volcano Katla is about 16 miles (25 km) to the east.[[imo]] It is one of {n_country} volcanoes in [Iceland](/volcanoes-in-iceland) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Eyjafjallajokull last erupt?",
+   "paras": [
+    "Eyjafjallajokull last erupted in 2010. The Smithsonian’s record runs from **{last_start} to {last_end}**.[[gvp]] The Icelandic report on the eruption puts the end of continuous activity near midnight on May 22, and the last activity detected at the summit, a small burst of ash, on June 17.[[icao]]",
+    "Before 2010 the volcano had been quiet since {prev_end}, when the eruption that began in 1821 ended.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2010",
+   "h": "What happened in the 2010 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "It came in two parts. On **March 20, 2010** a fissure opened at Fimmvörðuháls, on the volcano’s northeast flank, and fed a small lava flow until April 12.[[icao]]",
+    "The second part began at 1:15 a.m. on **April 14**, under about 650 ft (200 m) of ice in the summit caldera. Meltwater poured off the glacier. The first flood peaked at 2,500 to 3,000 cubic meters a second where it reached the main road, 12 miles (20 km) downstream. People living south of the volcano had started to leave at about 1 a.m.[[icao]]",
+    "The plume mostly reached 13,000 to 26,000 ft (4 to 8 km) above sea level and never rose above 33,000 ft (10 km). This part of the eruption lasted 39 days and threw out about 0.27 cubic kilometers of ash and rock fragments.[[icao]]",
+    "Northwesterly winds carried the ash toward Europe. Airspace over large areas closed for several days, and about **100,000 commercial flights were cancelled**, most of them in the first five days. The Icelandic report calls it “the largest disruption to aviation since the Second World War.”[[icao]]",
+    "Two people died during the first part of the eruption. They died of exposure after leaving their car, which had run out of fuel, and setting out on foot.[[icao]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Eyjafjallajokull?",
+   "paras": [
+    "Eyjafjallajokull’s highest point is **{summit_ft} ft ({summit_m} m)** above sea level. It is a rock peak called Hámundur, on the southern rim of the summit caldera.[[icao]][[gvp]] The Icelandic Meteorological Office’s overview page gives 1,666 m.[[imo]]",
+    "The mountain is 17 miles (27 km) long from east to west and up to 9 miles (14 km) wide, and it rises about 4,900 ft (1.5 km) from the lowlands at its foot.[[icao]] Measured against the land {ring_mi} miles from the summit, which includes highlands to the north, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "An ice cap of about 31 square miles (80 sq km) covers the volcano above 2,600 to 3,000 ft (800 to 900 m). Before 2010 the ice was up to 660 to 820 ft (200 to 250 m) thick.[[icao]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Eyjafjallajokull?",
+   "paras": [
+    "Eyjafjallajokull is a **[stratovolcano](/types-of-volcanoes)**, stretched from east to west and mostly covered by ice.[[imo]] Most of it was built by eruptions under glaciers.[[icao]]",
+    "At the top is a caldera about 1.6 miles (2.5 km) across, filled with ice. It is open to the north, where the glacier Gígjökull flows out and down the mountain.[[icao]]",
+    "Its magma has ranged from basalt to rhyolite.[[imo]] The Smithsonian lists the main rock as {rock}.[[gvp]] The 2010 summit eruption produced mainly trachyandesite.[[icao]]"
+   ]
+  },
+  {
+   "id": "name",
+   "h": "How do you pronounce Eyjafjallajokull?",
+   "paras": [
+    "NASA’s Jet Propulsion Laboratory spelled the sound out during the 2010 eruption as “Aya-fyatla-jo-kutl”.[[jpl]] In Icelandic the name is written **Eyjafjallajökull**.",
+    "Britannica gives its meaning as “the island’s mountain glacier”.[[brit]] The last part, jökull, is the Icelandic word for a glacier or ice cap.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Eyjafjallajokull erupt?",
+   "paras": [
+    "Not often. The Smithsonian’s list has **{n_all} confirmed eruptions**, and the Icelandic Meteorological Office calls the volcano moderately active over the last 8,000 years.[[gvp]][[imo]]",
+    "Three eruptions came in the last thousand years: in 1612 or 1613, from 1821 to 1823, and in 2010. An earlier one, around 920, built a ridge on the northwest flank.[[icao]]",
+    "The largest in the list is 2010, rated VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]] The oldest of the {n_all} is from around {oldest}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "katla",
+   "h": "Is Eyjafjallajokull linked to Katla?",
+   "paras": [
+    "Katla is the larger volcano next door, under the Mýrdalsjökull ice cap. Faults and eruptive fissures running east to west link the two.[[icao]][[gvp]]",
+    "The eruption of about 920 happened at the same time as one at Katla.[[icao]] Britannica notes that the eruptions of 1612 or 1613 and 1821–23 also came close in time to eruptions of Katla.[[brit]]"
+   ]
+  },
+  {
+   "id": "active",
+   "h": "Is Eyjafjallajokull still active?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts in Iceland, use the Icelandic Meteorological Office.[[imo]]",
+   "paras": [
+    "Yes. It erupted in 2010, and the Icelandic Meteorological Office watches it with earthquake and GPS instruments.[[imo]] When its page for the volcano was read on {read_date}, the most recent eruption it listed was 2010.[[imo]]",
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entry** for Eyjafjallajokull, with the two deaths of 2010.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Eyjafjallajokull’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Eyjafjallajokull has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from ash layers.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "April 2010",
+ "callouts": [
+  {
+   "number": "100,000",
+   "unit": "flights",
+   "text": "Commercial flights cancelled because of the ash, most of them in the first five days.",
+   "source": "Source: Icelandic Meteorological Office and partners.[[icao]]"
+  },
+  {
+   "number": "39",
+   "unit": "days",
+   "text": "Length of the summit eruption, from April 14 to May 22, 2010.",
+   "source": "Source: Icelandic Meteorological Office and partners.[[icao]]"
+  }
+ ],
+ "faq_h": "Eyjafjallajokull questions and answers",
+ "faq": [
+  [
+   "When did Eyjafjallajokull last erupt?",
+   "In 2010. The Smithsonian’s record runs from {last_start} to {last_end}."
+  ],
+  [
+   "How do you pronounce Eyjafjallajokull?",
+   "NASA’s Jet Propulsion Laboratory spelled the sound out as “Aya-fyatla-jo-kutl”. In Icelandic it is written Eyjafjallajökull."
+  ],
+  [
+   "What does Eyjafjallajokull mean?",
+   "Britannica gives the meaning as “the island’s mountain glacier”. Jökull is the Icelandic word for a glacier or ice cap."
+  ],
+  [
+   "How many flights were cancelled in 2010?",
+   "About 100,000 commercial flights, most of them in the first five days, according to the Icelandic report on the eruption."
+  ],
+  [
+   "Where is Eyjafjallajokull?",
+   "In southern Iceland, about 16 miles (25 km) west of the volcano Katla."
+  ],
+  [
+   "How tall is Eyjafjallajokull?",
+   "{summit_ft} ft ({summit_m} m) at its highest point, a rock peak called Hámundur on the rim of the summit caldera."
+  ],
+  [
+   "What type of volcano is Eyjafjallajokull?",
+   "A stratovolcano, mostly covered by an ice cap, with an ice-filled caldera at its summit."
+  ],
+  [
+   "Is Eyjafjallajokull still active?",
+   "Yes. It last erupted in 2010 and the Icelandic Meteorological Office monitors it."
+  ],
+  [
+   "Did anyone die in the 2010 eruption?",
+   "Two people died of exposure during the first part of the eruption, after leaving their car and setting out on foot."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Eyjafjallajökull record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=372020"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "imo",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Eyjafjallajökull",
+   "url": "https://en.vedur.is/volcanoes/about-volcanoes/eyjafjallajokull/"
+  },
+  {
+   "id": "icao",
+   "publisher": "Icelandic Meteorological Office, University of Iceland and Icelandic Civil Protection",
+   "title": "The 2010 Eyjafjallajökull eruption, Iceland: report to ICAO (2012)",
+   "url": "https://www.vedur.is/media/vedurstofan/utgafa/skyrslur/2012/ICAOreport_web_lr.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  },
+  {
+   "id": "jpl",
+   "publisher": "NASA Jet Propulsion Laboratory",
+   "title": "NASA Instrument Sees Disruptive Iceland Volcanic Cloud (April 15, 2010)",
+   "url": "https://www.jpl.nasa.gov/news/nasa-instrument-sees-disruptive-iceland-volcanic-cloud/"
+  },
+  {
+   "id": "brit",
+   "publisher": "Encyclopaedia Britannica",
+   "title": "Eyjafjallajökull volcano",
+   "url": "https://www.britannica.com/place/Eyjafjallajokull-volcano"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet and miles are converted from the metric figures in the sources and rounded.",
+  "The volcano’s name is written Eyjafjallajökull in Icelandic. This page uses the spelling in the Smithsonian’s list."
+ ],
+ "expect": {
+  "last_start": "March 20",
+  "last_end": "June 23, 2010",
+  "prev_end": "January 1, 1823",
+  "summit_m": "1,651",
+  "n_all": "5",
+  "n_since": "3",
+  "max_vei": "4",
+  "largest_year": "2010",
+  "noaa_n": "1",
+  "worst_deaths": "2",
+  "n_observed": "3",
+  "n_dated": "2"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since 2010 on record.** The Icelandic Meteorological Office’s page for the volcano, read on {read_date}, gives 2010 as its most recent eruption.[[imo]]",
+ "reviewed": null
+}

@@ -38,6 +38,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const { volcano, stats, noaa, ctx, retrieved } = data;
   const weekly = await getWeeklyEntry(profile.volcano_number);
   const usgs = volcano.country === 'United States' ? await getUsgsStatus(profile.volcano_number) : null;
+  // Without a live USGS level, the dated check of the volcano's own observatory goes into the status box at the top.
+  const checkInBox = !usgs && Boolean(profile.since_check);
 
   // Sources are numbered in the order of the profile's list. The two live reports are listed only when they are cited.
   const sources = profile.sources.filter((source) => (source.id !== 'weekly' || weekly) && (source.id !== 'hans' || usgs));
@@ -374,8 +376,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             </section>
           )}
           <div className="va-bandtext">
-            {(weekly || usgs) && (
+            {/* Status box: the USGS alert level read live for a US volcano; otherwise what the volcano's own observatory
+                showed on the day its page was read; and the weekly report when the volcano is in it. */}
+            {(weekly || usgs || checkInBox) && (
               <div className="va-weekly">
+                {checkInBox && profile.since_check && <Html html={r(profile.since_check)} />}
                 {usgs && (
                   <p>
                     <strong>
@@ -479,7 +484,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 ))}
               </ol>
               <ul className="va-calc">
-                {profile.calc.map((line, i) => (
+                {(profile.since_check && !checkInBox ? [profile.since_check, ...profile.calc] : profile.calc).map((line, i) => (
                   <Html as="li" key={i} html={r(line)} />
                 ))}
               </ul>

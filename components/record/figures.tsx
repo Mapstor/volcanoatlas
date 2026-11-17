@@ -142,13 +142,19 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   const fs = small ? 12 : 14;
   const hand = small ? 17 : 22;
   const grid: ReactNode[] = [];
-  for (let year = Math.ceil(y0 / 10) * 10; year <= y1; year += 10) {
+  const gridLabels: ReactNode[] = [];
+  // a record of several centuries on a phone gets a line every 50 years and a year every 100; otherwise 10 and 50
+  const long = small && y1 - y0 > 260;
+  const gridStep = long ? 50 : 10;
+  const labelStep = long ? 100 : 50;
+  for (let year = Math.ceil(y0 / gridStep) * gridStep; year <= y1; year += gridStep) {
     const x = X(year);
-    const major = year % 50 === 0;
+    const major = year % labelStep === 0;
     grid.push(<line key={`g${year}`} x1={x} y1={top - 8} x2={x} y2={yb + 22} stroke={PAL.grid} strokeWidth={major ? 1.4 : 0.7} />);
-    if (major || (!small && year % 25 === 0))
-      grid.push(
-        <text key={`t${year}`} x={x} y={yb + 42} textAnchor="middle" fontSize={fs} fill={PAL.mute}>
+    if (major)
+      // the years are drawn last, on a paper edge, so a red date tick passes behind them
+      gridLabels.push(
+        <text key={`t${year}`} x={x} y={yb + 42} textAnchor="middle" fontSize={fs} fill={PAL.mute} stroke={PAL.paper} strokeWidth={4} paintOrder="stroke">
           {year}
         </text>,
       );
@@ -255,6 +261,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
           already erupting before {ctx.open_before}
         </text>
       )}
+      {gridLabels}
     </svg>
   );
 }
@@ -386,8 +393,11 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
       ))}
       {iceY !== null && (
         <>
+          {/* ice: paper over the rock, then a pale wash of the water colour so it reads as ice against the page */}
           <rect x={0} y={0} width={w} height={iceY} fill={PAL.paper} clipPath={`url(#${clip})`} />
           <path d={`${teeth} V${f(iceY)} Z`} fill={PAL.paper} clipPath={`url(#${clip})`} />
+          <rect x={0} y={0} width={w} height={iceY} fill={PAL.sea} opacity={0.5} clipPath={`url(#${clip})`} />
+          <path d={`${teeth} V${f(iceY)} Z`} fill={PAL.sea} opacity={0.5} clipPath={`url(#${clip})`} />
           <path d={teeth} fill="none" stroke={PAL.ink} strokeWidth={0.8} strokeLinejoin="round" />
         </>
       )}
@@ -460,14 +470,19 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
 
       {sec.crater && !compact && (
         <>
-          <line x1={cx - (notch - inset) * 0.8} y1={ventY - 2} x2={xa + (compact ? 88 : 104)} y2={summitY + 18} stroke={PAL.ink} strokeWidth={0.8} />
+          {/* the pointer ends just past the label, however long the label is */}
+          <line x1={cx - (notch - inset) * 0.8} y1={ventY - 2} x2={Math.max(xa + 104, xa + 12 + sec.crater.length * fs * 0.5 + 6)} y2={summitY + 18} stroke={PAL.ink} strokeWidth={0.8} />
           <text x={xa + 12} y={summitY + 22} fontSize={fs} fontWeight={700} fill={PAL.ink}>{sec.crater}</text>
           {sec.crater_depth_m !== undefined && (
             <text x={xa + 12} y={summitY + 22 + line - 1} fontSize={fs - 1} fill={PAL.ink}>{fmt(sec.crater_depth_ft ?? roundTo(feet(sec.crater_depth_m), 50))} ft deep</text>
           )}
         </>
       )}
-      {iceY !== null && sec.ice_label && (
+      {iceY !== null && sec.ice_label && iceY - summitY > (compact ? 40 : 70) && (
+        // a big ice cap carries its name on the ice
+        <text className="va-it" x={cx} y={(iceY + summitY) / 2 + 14} textAnchor="middle" fontSize={fs} fill={PAL.seaInk}>{sec.ice_label}</text>
+      )}
+      {iceY !== null && sec.ice_label && iceY - summitY <= (compact ? 40 : 70) && (
         <>
           <line x1={curveX(left, iceY + 3) - 3} y1={iceY + 3} x2={xa + (compact ? 92 : 132)} y2={iceY + 3 + (sec.crater ? line * 2 + 6 : 0)} stroke={PAL.ink} strokeWidth={0.8} />
           <text x={xa + 12} y={iceY + 8 + (sec.crater ? line * 2 + 6 : 0)} fontSize={fs - 1} fill={PAL.ink}>{sec.ice_label}</text>
