@@ -26,6 +26,9 @@ const USGS_RANK: Record<string, string> = { NORMAL: 'the lowest', ADVISORY: 'the
 const withArticle = (country: string) =>
   /^(Philippines|United States|United Kingdom|Solomon Islands|Netherlands|Comoros|Maldives|Marshall Islands)$/.test(country) ? `the ${country}` : country;
 
+/** A date in a table cell stays on one line; a marker in brackets after it ("(uncertain)") may drop to a second line. */
+const dateCell = (text: string) => text.replace(/ (?!\()/g, '\u00a0');
+
 /** A length of time in a table cell breaks between its parts, never inside one: "3 years | 11 months | so far". */
 const tie = (text: string) =>
   text
@@ -182,8 +185,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           <tbody>
             {periodRows.map((row, i) => (
               <tr key={row.eruption.n}>
-                <td>{row.startText}</td>
-                <td>{row.endText}</td>
+                <td className="va-when">{dateCell(row.startText)}</td>
+                <td className="va-when">{dateCell(row.endText)}</td>
                 {/* a continuing eruption is counted to today, like the page's main number */}
                 <td className="va-dur">
                   {tie(

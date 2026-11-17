@@ -1,0 +1,251 @@
+{
+ "slug": "arenal",
+ "volcano_number": 345033,
+ "name": "Arenal",
+ "country": "Costa Rica",
+ "title": "Arenal Volcano: Last Eruption, Height, Location & Facts",
+ "description": "Arenal Volcano in Costa Rica erupted from 1968 to 2010 and has been at rest since. When it last erupted, how the eruption began, its height, and every eruption on record.",
+ "h1": "Arenal Volcano",
+ "facts": {
+  "summit_m": 1755,
+  "summit_ft": 5758,
+  "summit_source": "ovsibol",
+  "summit_source_name": "OVSICORI",
+  "ground": "etopo",
+  "count_from": 1700
+ },
+ "big": {
+  "line": "Last eruption ended in {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "For more than four decades, from 1968 to 2010, Arenal erupted almost without a break. It began with three days that killed 78 people and ended by fading out: the last lava advances were reported in January 2011. Below: when it last erupted, what happened in 1968, how tall it is now, and every eruption on record.",
+ "answer": "**Arenal’s last eruption ran from {last_start} to {last_end}** in the Smithsonian’s record.[[gvp]] Costa Rica’s seismological network says the volcano has been at rest since January 2011.[[rsn]] It is a **conical stratovolcano** about 4 miles (7 km) from the town of La Fortuna, **{summit_ft} ft ({summit_m} m)** high by the figure of the country’s volcano observatory.[[rsn]][[ovsibol]]",
+ "timeline": {
+  "from": 1700,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1750,
+    "label": "about 1750"
+   },
+   {
+    "year": 1922.76,
+    "label": "1922"
+   },
+   {
+    "year": 1968.58,
+    "label": "1968"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The first spike is an eruption known only as about 1750. The long raised stretch is the eruption of 1968 to 2010. Costa Rica’s seismological network regards the reports of 1922 as doubtful.[[rsn]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "this top grew after 1968",
+  "caption": "Arenal cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[ovsibol]][[etopo]] The top is the cone that grew over one of the craters of 1968. The older, lower summit beside it is not drawn.[[rsn]]"
+ },
+ "map_zoom": 8,
+ "map_label": "above",
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Arenal Volcano?",
+   "map": true,
+   "paras": [
+    "Arenal is in Costa Rica’s province of Alajuela, in the Tilarán range, at {coords}.[[gvp]][[rsn]] The town of La Fortuna is about 4 miles (7 km) to the east-northeast.[[rsn]] It is one of {n_country} volcanoes in [Costa Rica](/volcanoes-in-costa-rica) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Arenal last erupt?",
+   "table": "periods",
+   "paras": [
+    "Arenal’s last eruption began on the morning of **July 29, 1968** and went on for more than four decades.[[rsn]] The Smithsonian’s list ends it in **{last_end}**.[[gvp]]",
+    "The end came slowly. Activity fell off from July 2010 and again in October, and the last lava advances were reported in January 2011. Since then there has been no glow, no explosion and no new lava, only gas. Costa Rica’s Red Sismológica Nacional describes the volcano as at rest since January 2011, with low seismicity.[[rsn]]"
+   ]
+  },
+  {
+   "id": "1968",
+   "h": "What happened in the 1968 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "Arenal had been quiet for several centuries, and few people knew it as a volcano.[[rsn]][[rsn42]] On the morning of **July 29, 1968** an explosive phase began on its west flank. In three days it laid waste an area of 5.8 square miles (15 sq km) and killed 78 people, and it did moderate to heavy damage across 89 square miles (230 sq km).[[rsn42]]",
+    "The explosions opened three new craters in a line running east to west down the west flank.[[rsn]] Two villages at the foot of the volcano, Pueblo Nuevo and Tabacón, were destroyed.[[ovsi]]",
+    "Then the lava came, and kept coming. Flows covered the volcano’s flanks from 1968 to 2010, more than 0.12 cubic miles (0.5 cubic km) of lava in four decades.[[rsn]]",
+    "NOAA’s database lists {worst_deaths} deaths for the 1968 eruption.[[noaa]] Counting later events as well, the seismological network puts Arenal’s toll at 81, the most of any volcano in Costa Rica.[[rsn]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Arenal Volcano?",
+   "paras": [
+    "Arenal is **{summit_ft} ft ({summit_m} m)** high in the weekly bulletins of OVSICORI, Costa Rica’s volcano observatory.[[ovsibol]] The Smithsonian’s list still gives {gvp_summit_m} m.[[gvp]]",
+    "The eruption explains the difference. A new cone grew over one of the craters of 1968 and rose above the old summit, so the volcano now has two tops, and the newer one is the higher.[[rsn]]",
+    "The cone stands about 3,900 ft (1,200 m) above the ground on the Lake Arenal side and about 4,400 ft (1,350 m) above the La Fortuna side.[[rsn]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Arenal?",
+   "paras": [
+    "Arenal is a **[stratovolcano](/types-of-volcanoes)**.[[gvp]][[rsn]] From La Fortuna it looks like a single cone. From the north the two summits show, and it looks like twin volcanoes.[[rsn]]",
+    "It is young. The seismological network puts its start at about 7,000 years ago.[[rsn]] The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Arenal erupt?",
+   "paras": [
+    "In long phases with long rests between them. The seismological network puts the phases roughly 200 to 600 years apart, and dates one to about 1525 from archaeological remains.[[rsn]]",
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, most of them known from ash layers. It rates {n_vei4} of them VEI 4 on the [Volcanic Explosivity Index](/volcanic-explosivity-index), and the eruption of 1968 to 2010 VEI 3.[[gvp]]"
+   ]
+  },
+  {
+   "id": "active",
+   "h": "Is Arenal still active?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the current state of Costa Rica’s volcanoes, use OVSICORI and the Red Sismológica Nacional.[[rsn]]",
+   "paras": [
+    "It is at rest, and it is still a live volcano. The seismological network lists gas emissions, hot springs and small earthquakes as its current signs, and names landslides and a possible reawakening as the main dangers.[[rsn]]",
+    "OVSICORI rated its activity “Calma”, calm, in the weekly bulletin of October 18, 2024.[[ovsibol]]",
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for Arenal, all from the last eruption. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Arenal’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Arenal has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from ash layers and other deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "July 29, 1968",
+ "callouts": [
+  {
+   "number": "78",
+   "unit": "deaths",
+   "text": "People killed in the first three days, by the count of Costa Rica’s seismological network. NOAA’s database lists {worst_deaths}.",
+   "source": "Sources: Red Sismológica Nacional;[[rsn42]] NOAA.[[noaa]]"
+  },
+  {
+   "number": "5.8",
+   "unit": "sq miles",
+   "text": "Area laid waste in those three days (15 sq km).",
+   "source": "Source: Red Sismológica Nacional.[[rsn42]]"
+  }
+ ],
+ "faq_h": "Arenal Volcano questions and answers",
+ "faq": [
+  [
+   "When did Arenal last erupt?",
+   "Its last eruption ran from {last_start} to {last_end} in the Smithsonian’s record. Costa Rica’s seismological network says it has been at rest since January 2011."
+  ],
+  [
+   "Is Arenal Volcano still active?",
+   "It is at rest but not extinct. It still gives off gas, and Costa Rica’s observatories monitor it."
+  ],
+  [
+   "Where is Arenal Volcano?",
+   "In Costa Rica’s province of Alajuela, about 4 miles (7 km) from the town of La Fortuna."
+  ],
+  [
+   "How tall is Arenal Volcano?",
+   "{summit_ft} ft ({summit_m} m), by the figure of Costa Rica’s volcano observatory. The Smithsonian’s list gives {gvp_summit_m} m, the height before the new cone outgrew the old summit."
+  ],
+  [
+   "How many people died in the 1968 eruption?",
+   "78 in the first three days, by the count of Costa Rica’s seismological network. NOAA’s database lists {worst_deaths}."
+  ],
+  [
+   "What type of volcano is Arenal?",
+   "A conical stratovolcano, about 7,000 years old, with two summits."
+  ],
+  [
+   "How long did Arenal’s last eruption go on?",
+   "It lasted {last_length}, from {last_start} to {last_end}, by the Smithsonian’s dates."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Arenal record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=345033"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "rsn",
+   "publisher": "Red Sismológica Nacional (University of Costa Rica and ICE)",
+   "title": "Arenal (volcano profile, in Spanish)",
+   "url": "https://rsn.ucr.ac.cr/index.php/component/content/article/arenal?catid=22"
+  },
+  {
+   "id": "rsn42",
+   "publisher": "Red Sismológica Nacional (University of Costa Rica and ICE)",
+   "title": "Volcán Arenal, 42 años de actividad continua (in Spanish)",
+   "url": "https://rsn.ucr.ac.cr/images/Biblioteca/Informes_Y_Otros_Documentos/Volcan%20Arenal/Arenal_42%20Aniversario.pdf"
+  },
+  {
+   "id": "ovsibol",
+   "publisher": "OVSICORI-UNA, Costa Rica’s volcano and earthquake observatory",
+   "title": "Boletín Semanal de Vigilancia Volcánica, 18 de octubre del 2024 (in Spanish)",
+   "url": "https://www.ovsicori.una.ac.cr/index.php/descargas/57-boletin-semanal-vulcanologia/78-boletines-semanales-vulcanologia-2024?download=1189:boletin-semanal-de-vigilancia-volcanica-del-ovsicori-una-18-de-octubre-del-2024&start=5"
+  },
+  {
+   "id": "ovsi",
+   "publisher": "OVSICORI-UNA library",
+   "title": "Study on the eruption process in Arenal Volcano (M.Sc. dissertation)",
+   "url": "http://www.ovsicori.una.ac.cr/sistemas/biblioteca/ovsicori/Vulcanologia/Investigacion/Arenal_Deformation_Geodesy_Data_Analysis.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today. The Smithsonian gives that end date to the month.",
+  "**{summit_ft} ft ({summit_m} m):** the height in OVSICORI’s weekly bulletins. The Smithsonian’s list gives {gvp_summit_m} m, and the seismological network’s profile says about 1,750 m.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and square miles are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_start": "July 29, 1968",
+  "last_end": "December 2010",
+  "summit_m": "1,755",
+  "gvp_summit_m": "1,670",
+  "n_all": "27",
+  "n_since": "3",
+  "n_vei4": "19",
+  "noaa_n": "4",
+  "noaa_n_word": "four",
+  "worst_deaths": "80",
+  "worst_date": "July 29, 1968"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since 2010 on record.** Costa Rica’s Red Sismológica Nacional, whose page on Arenal was read on {read_date}, says the volcano has been at rest since January 2011.[[rsn]]",
+ "reviewed": null
+}
