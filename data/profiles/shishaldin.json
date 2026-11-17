@@ -1,0 +1,273 @@
+{
+ "slug": "shishaldin",
+ "volcano_number": 311360,
+ "name": "Shishaldin",
+ "country": "United States",
+ "title": "Shishaldin Volcano: Last Eruption, Alert Level, Height, Facts",
+ "description": "Shishaldin, the highest peak in the Aleutian Islands, last erupted in 2023. Its USGS alert level now, the eruptions of 2023, 2019 and 1999, its height and full record.",
+ "h1": "Shishaldin Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1820
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Nothing newer on record:** when this page was checked on {read_date}, USGS’s alert level for the volcano was NORMAL, the lowest of four. The level at the top of this page is read live.[[hans]]",
+ "lede": "Shishaldin is the highest peak in the Aleutian Islands and one of the most active volcanoes in the chain. In its last eruption, in 2023, thirteen explosive events sent ash as high as 45,000 ft. On November 2, 2026 the Alaska Volcano Observatory lowered its alert level to normal after more than a year of unrest. Below: its state now, the last eruptions, its height, and every eruption on record.",
+ "answer": "**Shishaldin last erupted from {last_start} to {last_end}.**[[gvp]] It is a **stratovolcano** on Unimak Island, in the eastern Aleutian Islands of Alaska, and at **{summit_ft} ft ({summit_m} m)** the highest peak in the Aleutians.[[gvp]][[avo]] On November 2, 2026 the Alaska Volcano Observatory lowered its alert level to NORMAL, after more than a year of unrest without an eruption.[[avo]]",
+ "timeline": {
+  "from": 1820,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1999.3,
+    "label": "1999"
+   },
+   {
+    "year": 2023.6,
+    "label": "2023"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Many of the older eruptions are known only by their year and show as a single spike."
+ },
+ "section": {
+  "kind": "land",
+  "note": "steam rises from this crater",
+  "crater": "crater, 660 ft across",
+  "caption": "Shishaldin cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] Snow and ice cover almost all of the upper 6,600 ft (2,000 m) all year.[[avo]]"
+ },
+ "map_zoom": 8,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Shishaldin?",
+   "map": true,
+   "paras": [
+    "Shishaldin stands near the center of Unimak Island, in the eastern Aleutian Islands of Alaska, at {coords}.[[avo]][[gvp]] The nearest community is False Pass, 23 miles (38 km) to the east-northeast. Cold Bay is 58 miles (93 km) away in the same direction.[[avo]] It is one of {n_country} volcanoes in the [United States](/volcanoes-in-united-states) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Shishaldin erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption since the one that ended on {last_end}.[[gvp]]",
+    "On **November 2, 2026** the Alaska Volcano Observatory lowered the volcano’s alert level to NORMAL and its aviation color code to GREEN. Its page on Shishaldin says that unrest continues but is slowly declining, and that an eruption is not expected at this time.[[avo]]",
+    "The levels had been at ADVISORY and YELLOW since August 25, 2025, when the observatory reported more sulfur dioxide, a stronger plume of vapor from the summit and more small earthquakes and infrasound signals.[[avou25]] No eruption followed.[[avou25]][[avo]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Shishaldin last erupt?",
+   "table": "periods",
+   "aside": "callouts",
+   "paras": [
+    "Shishaldin’s last eruption ran from **{last_start} to {last_end}** in the Smithsonian’s record.[[gvp]] On July 11, 2023 satellites showed the summit heating up, and the next day it glowed. Two explosions on July 14 sent ash 25,000 to 40,000 ft (7.6 to 12 km) above sea level, and mudflows ran down the flanks, the largest on the north side.[[avo23]]",
+    "Thirteen explosive events are on the observatory’s list, the last on November 2 and 3. The highest ash cloud, on September 25, reached 45,000 ft (13.7 km). Lava fountained in the crater on the night of October 2, and pyroclastic flows and collapses of the crater rim left deposits on the flanks.[[avo23]]",
+    "Traces of ash fell on False Pass, King Cove, Cold Bay and Sand Point, and the airport at Cold Bay was closed from September 25 to 29 with ash on its runway.[[avo23]] The observatory lowered the alert level in steps and returned it to NORMAL on August 30, 2024.[[avo23]][[avo24]]"
+   ]
+  },
+  {
+   "id": "earlier",
+   "h": "What happened in 2019–2020 and in 1999?",
+   "paras": [
+    "The eruption before that one runs from {prev_start} to {prev_end} on the Smithsonian’s list.[[gvp]] A cone of spatter grew inside the summit crater, collapsed in September 2019 and grew again from October. Lava then ran out of the crater and down the north flank: likely the first lava flows on Shishaldin’s flanks in 64 years, by a report the observatory quotes. Mudflows followed the valleys more than 18 miles (30 km) north to the Bering Sea.[[avo19]]",
+    "Collapses of the cone and bursts of ash went on into January 2020. On January 19 a pilot reported ash at about 30,000 ft (9.1 km), and a trace fell on False Pass.[[avo19]]",
+    "In 1999, after months of unrest, an eruption on April 19 put an ash cloud 45,000 ft (13.7 km) above sea level by early afternoon. Satellite data suggest it peaked at about 56,000 ft (17 km). The cloud disrupted air traffic across the North Pacific, and lava fountaining went on for six weeks afterward.[[avo99]] A study of the eruption puts the first column at 10 miles (16 km) high.[[nye]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Shishaldin?",
+   "paras": [
+    "Shishaldin is **{summit_ft} ft ({summit_m} m)** high, the highest peak in the Aleutian Islands.[[gvp]][[avo]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "The cone is about 10 miles (16 km) wide at its base. Its summit crater is a funnel about 660 ft (200 m) across that usually gives off steam.[[avo]][[avo24]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Shishaldin?",
+   "paras": [
+    "The Smithsonian classes Shishaldin as a **[stratovolcano](/types-of-volcanoes)**.[[gvp]] The observatory describes a symmetrical cone less than 10,000 years old that sits on the eroded remnant of an older volcano, with 24 small cones on its northwest flank.[[avo]]",
+    "The Smithsonian lists its main rock as {rock}.[[gvp]] The lava of 1999 was basalt, by a study of that eruption.[[nye]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Shishaldin erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_observed} of them known from written reports, and {n_since} since {since_year}.[[gvp]] It rates {n_vei3} of them VEI 3 on the [Volcanic Explosivity Index](/volcanic-explosivity-index), its highest for this volcano.[[gvp]]",
+    "The Alaska Volcano Observatory calls Shishaldin one of the most active volcanoes in the Aleutian arc. In a notice of August 2024 it counted at least 54 episodes of unrest since 1824, more than 26 of them confirmed eruptions.[[avo24]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Shishaldin dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, use the Alaska Volcano Observatory’s notices.[[hans]]",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Shishaldin, from {noaa_first} and {noaa_last}. It marks a tsunami with each and lists no deaths.[[noaa]]",
+    "The eruptions on record here sent ash to the heights at which jets fly, in 1999 and again in 2023, and dropped traces of ash on towns as far as Sand Point.[[avo99]][[avo23]] Close to the cone the record shows mudflows down the snow-covered flanks and pyroclastic flows.[[avo23]][[avo19]] The nearest community, False Pass, is 23 miles (38 km) away.[[avo]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Shishaldin’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Shishaldin has **{n_all} confirmed eruptions**, {n_observed} of them known from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2023",
+ "callouts": [
+  {
+   "number": "13",
+   "unit": "explosive events",
+   "text": "Between July 14 and November 3, 2023, on the Alaska Volcano Observatory’s list.",
+   "source": "Source: Alaska Volcano Observatory.[[avo23]]"
+  },
+  {
+   "number": "45,000",
+   "unit": "ft",
+   "text": "The highest ash cloud of the eruption, on September 25, 2023: 13.7 km above sea level.",
+   "source": "Source: Alaska Volcano Observatory.[[avo23]]"
+  }
+ ],
+ "faq_h": "Shishaldin questions and answers",
+ "faq": [
+  [
+   "Is Shishaldin erupting now?",
+   "No. Its last eruption ended on {last_end}, and on November 2, 2026 the Alaska Volcano Observatory lowered its alert level to NORMAL."
+  ],
+  [
+   "When did Shishaldin last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s record."
+  ],
+  [
+   "Where is Shishaldin?",
+   "On Unimak Island, in the eastern Aleutian Islands of Alaska, 23 miles (38 km) from the community of False Pass."
+  ],
+  [
+   "How tall is Shishaldin?",
+   "{summit_ft} ft ({summit_m} m). It is the highest peak in the Aleutian Islands."
+  ],
+  [
+   "How high did the ash go in 2023?",
+   "Up to 45,000 ft (13.7 km) above sea level, on September 25, 2023."
+  ],
+  [
+   "What type of volcano is Shishaldin?",
+   "A stratovolcano, by the Smithsonian’s classification: a symmetrical, snow-covered cone about 10 miles (16 km) wide at its base."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Shishaldin record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=311360"
+  },
+  {
+   "id": "hans",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Notification Service",
+   "url": "https://volcanoes.usgs.gov/hans-public/"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "avo",
+   "publisher": "Alaska Volcano Observatory",
+   "title": "Shishaldin: facts, description and current activity (statement of November 6, 2026)",
+   "url": "https://avo.alaska.edu/volcano/shishaldin"
+  },
+  {
+   "id": "avo23",
+   "publisher": "Alaska Volcano Observatory",
+   "title": "Shishaldin 2023/07: the eruption of July to November 2023",
+   "url": "https://avo.alaska.edu/eruption/shishaldin-2023-07"
+  },
+  {
+   "id": "avo24",
+   "publisher": "Alaska Volcano Observatory / U.S. Geological Survey",
+   "title": "Volcanic Activity Notice for Shishaldin, issued August 30, 2024",
+   "url": "https://avo.alaska.edu/news/hans/DOI-USGS-AVO-2024-08-28T21:56:56+00:00"
+  },
+  {
+   "id": "avou25",
+   "publisher": "Alaska Volcano Observatory",
+   "title": "Shishaldin unrest 2025",
+   "url": "https://avo.alaska.edu/eruption/shishaldin-unrest-2025"
+  },
+  {
+   "id": "avo19",
+   "publisher": "Alaska Volcano Observatory",
+   "title": "Shishaldin 2019: the eruption of 2019 to 2020",
+   "url": "https://avo.alaska.edu/eruption/shishaldin-2019"
+  },
+  {
+   "id": "avo99",
+   "publisher": "Alaska Volcano Observatory",
+   "title": "Shishaldin 1999/2: the eruption of 1999",
+   "url": "https://avo.alaska.edu/eruption/shishaldin-1999-2"
+  },
+  {
+   "id": "nye",
+   "publisher": "U.S. Geological Survey publications catalog",
+   "title": "Nye and others (2002), The 1999 eruption of Shishaldin Volcano, Alaska: Monitoring a distant eruption, Bulletin of Volcanology (abstract)",
+   "url": "https://www.usgs.gov/publications/1999-eruption-shishaldin-volcano-alaska-monitoring-a-distant-eruption"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m; about a tenth of that ring is sea.",
+  "The observatory gives ash heights in feet above sea level. The kilometers beside them are converted here and rounded, and miles are converted from the kilometers in the sources."
+ ],
+ "expect": {
+  "last_start": "about July 11, 2023",
+  "last_end": "November 3, 2023",
+  "prev_start": "July 23, 2019",
+  "prev_end": "May 4, 2020",
+  "summit_m": "2,857",
+  "n_all": "40",
+  "n_observed": "37",
+  "n_since": "37",
+  "n_vei3": "6",
+  "noaa_n": "2",
+  "noaa_first": "1825",
+  "noaa_last": "1856",
+  "noaa_tsu": "2",
+  "noaa_fatal_count": "0"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null
+}
