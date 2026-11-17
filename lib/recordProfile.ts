@@ -102,8 +102,8 @@ export interface RecordProfile {
   };
   /** Zoom of the locator map; 7 (a region a few hundred miles across) when left out. */
   map_zoom?: number;
-  /** puts the name under or over the map marker, for a map whose own labels sit beside the marker */
-  map_label?: 'below' | 'above';
+  /** puts the name under, over or to the left of the map marker, for a map whose own labels sit beside the marker */
+  map_label?: 'below' | 'above' | 'left';
   /**
    * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
    * sea floor), "land" (a volcano standing on land or rising straight from the sea surface) or "caldera" (the summit
@@ -141,6 +141,8 @@ export interface RecordProfile {
     crater_depth_m?: number;
     /** The same depth in feet when the source prints feet; otherwise it is converted. */
     crater_depth_ft?: number;
+    /** Replaces the printed depth when the source gives it as a bound, e.g. "over 2,100 ft deep". */
+    crater_depth_text?: string;
     crater?: string;
     /** Land: width of the crater as a share of the drawn base (schematic), and a lava dome on its floor, height in meters. */
     crater_share?: number;
@@ -154,7 +156,8 @@ export interface RecordProfile {
     still_water?: boolean;
   };
   /** The table of recent eruptions: how many rows (newest), and the heading of the gap column. */
-  table?: { rows?: number; gap_label?: string; calc_note?: string };
+  /** last_length replaces the calculated length of the newest eruption when a report gives it more exactly than the dates do. */
+  table?: { rows?: number; gap_label?: string; calc_note?: string; last_length?: string };
   /** Values the text relies on. The build stops when the data no longer gives them, so the sentence gets re-read. */
   expect?: Record<string, string>;
   sections: RecordSection[];
@@ -187,7 +190,8 @@ export function getRecordSlugs(): string[] {
 
 export function getRecordProfile(slug: string): RecordProfile | null {
   if (!/^[a-z0-9-]+$/.test(slug)) return null;
-  if (!cache.has(slug)) {
+  // the local dev server reads the file again on every request, so an edit to a profile shows without a restart
+  if (process.env.NODE_ENV !== 'production' || !cache.has(slug)) {
     const file = path.join(DIR, `${slug}.json`);
     cache.set(slug, fs.existsSync(file) ? (JSON.parse(fs.readFileSync(file, 'utf8')) as RecordProfile) : null);
   }
@@ -305,12 +309,15 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('last_start', sameYear && exact ? `${MONTHS[stats.lastStart[1]]} ${stats.lastStart[2]}` : dateText(stats.lastStart, stats.lastStartPrecision, true));
     set('last_end', dateText(stats.lastEnd, stats.lastEndPrecision, true));
     set('last_end_short', dateText(stats.lastEnd, stats.lastEndPrecision));
+    // an eruption that began and ended on one day is printed as that day, not as a range
+    const oneDay = exact && stats.lastStart.every((part, i) => part === stats.lastEnd![i]);
+    set('last_span', oneDay ? dateText(stats.lastEnd, stats.lastEndPrecision, true) : `${ctx.last_start} to ${ctx.last_end}`);
     set('last_year', stats.lastEnd[0]);
     set('last_end_unc_days', stats.lastEndUncertaintyDays);
     const length = spanBetween(stats.lastStart, stats.lastStartPrecision, stats.lastEnd, stats.lastEndPrecision);
     set('last_length', length.approx ? `about ${length.text}` : length.text);
     const days = daysBetween(stats.lastEnd, today);
-    const quiet = spanBetween(stats.lastEnd, stats.lastEndPrecision, today, 'day');
+    const quiet = spanBetween(stats.lastEnd, stats.lastEndPrecision, today, 'day', true);
     set('quiet_span', quiet.approx ? `about ${quiet.text}` : quiet.text);
     const years = Math.floor(days / 365.2425);
     if (years >= 2) {

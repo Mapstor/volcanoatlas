@@ -22,12 +22,16 @@ const WEEKLY_HOME = 'https://volcano.si.edu/reports_weekly.cfm';
 /** Where a USGS alert level stands among the four the agency uses. */
 const USGS_RANK: Record<string, string> = { NORMAL: 'the lowest', ADVISORY: 'the second', WATCH: 'the third', WARNING: 'the highest' };
 
+/** Country names that take an article in running text: "in the Philippines", "in the United States". */
+const withArticle = (country: string) =>
+  /^(Philippines|United States|United Kingdom|Solomon Islands|Netherlands|Comoros|Maldives|Marshall Islands)$/.test(country) ? `the ${country}` : country;
+
 /** A length of time in a table cell breaks between its parts, never inside one: "3 years | 11 months | so far". */
 const tie = (text: string) =>
   text
     .replace(/\bat least\b/g, 'at\u00a0least')
     .replace(/\b(about|least|so) (?=\S)/g, '$1\u00a0')
-    .replace(/(\d) (years?|months?|days?)\b/g, '$1\u00a0$2');
+    .replace(/(\d) (years?|months?|days?|minutes?)\b/g, '$1\u00a0$2');
 
 function Html({ html, as: Tag = 'p', className }: { html: string; as?: 'p' | 'span' | 'li' | 'figcaption'; className?: string }) {
   return <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
@@ -75,7 +79,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Base', ctx.base_ft && `about ${ctx.base_ft} ft (${ctx.base_m} m) below sea level`);
   fact('Above the land around it', ctx.rise_ft && `about ${ctx.rise_ft} ft (${ctx.rise_m} m)`);
   fact('Current eruption', ctx.cur_since && `since ${ctx.cur_since}`);
-  fact('Last eruption', !ctx.cur_start && ctx.last_end && `${ctx.last_start} to ${ctx.last_end}`);
+  fact('Last eruption', !ctx.cur_start && ctx.last_end && ctx.last_span);
   fact('Recorded eruptions', ctx.n_all);
   fact('Largest recorded', ctx.max_vei && `VEI ${ctx.max_vei}`);
   fact('Main rock', ctx.rock);
@@ -181,7 +185,15 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 <td>{row.startText}</td>
                 <td>{row.endText}</td>
                 {/* a continuing eruption is counted to today, like the page's main number */}
-                <td className="va-dur">{tie(row.continuing && ctx.cur_number ? `${ctx.cur_number} ${ctx.cur_unit} so far` : row.length)}</td>
+                <td className="va-dur">
+                  {tie(
+                    row.continuing && ctx.cur_number
+                      ? `${ctx.cur_number} ${ctx.cur_unit} so far`
+                      : i === periodRows.length - 1 && profile.table?.last_length
+                        ? profile.table.last_length
+                        : row.length,
+                  )}
+                </td>
                 <td className="va-dur">
                   {row.continuing
                     ? ''
@@ -500,7 +512,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               <div className="va-relgrid">
                 {others.length > 0 && (
                   <div>
-                    <h3>In {volcano.country}</h3>
+                    <h3>In {withArticle(volcano.country)}</h3>
                     <ul>
                       {others.map((other) => (
                         <li key={other.slug}>
@@ -510,7 +522,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                       {countryLink && (
                         <li>
                           <Link href={countryLink}>
-                            All {ctx.n_country} volcanoes in {volcano.country}
+                            All {ctx.n_country} volcanoes in {withArticle(volcano.country)}
                           </Link>
                         </li>
                       )}

@@ -10,8 +10,8 @@ export interface RecordMapProps {
   zoom: number;
   /** One line for the marker's popup, built from the page's own data. */
   detail: string;
-  /** Put the name under or over the marker at every width, when the street map prints its own label beside it. */
-  label?: 'below' | 'above';
+  /** Put the name under, over or to the left of the marker at every width, when the street map prints its own label beside it. */
+  label?: 'below' | 'above' | 'left';
 }
 
 /**
@@ -25,6 +25,7 @@ export default function RecordMap({ name, lat, lon, zoom, detail, label }: Recor
   // A long name does not fit beside the marker on a phone-width map: it goes underneath.
   const below = label === 'below' || (!label && typeof window !== 'undefined' && window.innerWidth < 520 && name.length > 12);
   const above = label === 'above';
+  const left = label === 'left';
 
   return (
     <MapContainer
@@ -46,7 +47,7 @@ export default function RecordMap({ name, lat, lon, zoom, detail, label }: Recor
       />
       <CircleMarker center={position} radius={21} pathOptions={{ color: '#c21f1f', weight: 2.5, fill: false, className: 'va-mapring' }} interactive={false} />
       <CircleMarker center={position} radius={6} pathOptions={{ color: '#17212b', weight: 1.5, fillColor: '#d9482b', fillOpacity: 1 }}>
-        <Tooltip permanent direction={above ? 'top' : below ? 'bottom' : 'right'} offset={above ? [0, -22] : below ? [0, 22] : [24, -2]} className="va-maplabel">
+        <Tooltip permanent direction={left ? 'left' : above ? 'top' : below ? 'bottom' : 'right'} offset={left ? [-24, -2] : above ? [0, -22] : below ? [0, 22] : [24, -2]} className="va-maplabel">
           {name}
         </Tooltip>
         <Popup>

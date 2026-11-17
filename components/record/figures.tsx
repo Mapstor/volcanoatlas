@@ -351,6 +351,10 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
   const iceY = sec.ice_from_m !== undefined ? Y(sec.ice_from_m) : null;
   // an earlier, higher summit: the old flanks carried on up to their meeting point
   const formerY = former ? Y(former.m) : null;
+  // the third line of the summit label ("above sea level") is left out on a phone when it would run into the lava
+  // burst of an erupting volcano or into the dashed outline of an earlier summit
+  const thirdLineEnd = xa + 12 + 15 * fs * 0.52;
+  const shortLabel = compact && (active || (Boolean(former) && thirdLineEnd > cx - notch - 8));
   const teeth = (() => {
     if (iceY === null) return '';
     const x0 = curveX(left, iceY);
@@ -434,11 +438,12 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
       {/* summit above sea level */}
       <line x1={xa} y1={summitY} x2={cx - notch - 5} y2={summitY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
       <path d={`M${xa} ${f(summitY)} V${f(seaY)} M${xa - 5} ${f(summitY)} h10 M${xa - 5} ${f(seaY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
-      {/* on a phone the lava burst of an erupting volcano needs the room of the third line; the bracket down to the
-          baseline and its label say what the height is measured from */}
-      <text x={xa + 12} y={summitY - 12 - line * (compact && active ? 1 : 2)} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(summitFt)} ft</text>
-      <text x={xa + 12} y={summitY - 11 - (compact && active ? 0 : line)} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
-      {!(compact && active) && (
+      {/* on a phone the lava burst of an erupting volcano needs the room of the third line, and so does the dashed
+          outline of an earlier summit when the line would run into it; the bracket down to the baseline and its
+          label say what the height is measured from */}
+      <text x={xa + 12} y={summitY - 12 - line * (shortLabel ? 1 : 2)} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(summitFt)} ft</text>
+      <text x={xa + 12} y={summitY - 11 - (shortLabel ? 0 : line)} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
+      {!shortLabel && (
         <text x={xa + 12} y={summitY - 10} fontSize={fs} fill={PAL.ink}>above {onWater && sec.baseline ? 'the water' : 'sea level'}</text>
       )}
 
@@ -474,7 +479,7 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
           <line x1={cx - (notch - inset) * 0.8} y1={ventY - 2} x2={Math.max(xa + 104, xa + 12 + sec.crater.length * fs * 0.5 + 6)} y2={summitY + 18} stroke={PAL.ink} strokeWidth={0.8} />
           <text x={xa + 12} y={summitY + 22} fontSize={fs} fontWeight={700} fill={PAL.ink}>{sec.crater}</text>
           {sec.crater_depth_m !== undefined && (
-            <text x={xa + 12} y={summitY + 22 + line - 1} fontSize={fs - 1} fill={PAL.ink}>{fmt(sec.crater_depth_ft ?? roundTo(feet(sec.crater_depth_m), 50))} ft deep</text>
+            <text x={xa + 12} y={summitY + 22 + line - 1} fontSize={fs - 1} fill={PAL.ink}>{sec.crater_depth_text ?? `${fmt(sec.crater_depth_ft ?? roundTo(feet(sec.crater_depth_m), 50))} ft deep`}</text>
           )}
         </>
       )}
