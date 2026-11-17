@@ -74,6 +74,7 @@ _last update: 2026-11-17 · VOL-005_
 - D-38 · 2026-11-17 · Dates and lengths of time are printed no more exactly than the Smithsonian gives them (`dateText`, `spanBetween`). Its raw rows carry a day uncertainty the first data build dropped: 182 means only the year is known, 15 only the month. The live Stromboli table had printed "Jul 2, 1857" for a year-only date; it now prints "1857" and "about 32 years".
 - D-39 · 2026-11-17 · A volcano on land is drawn with two heights to scale: the summit above sea level and the land around it. The land height is the median of NOAA's ETOPO 2022 cells 14 to 16 km from the summit (`scripts/fetch-ground.py`, `data/sources/etopo-ground.json`), a calculated value shown with its method — it answers "how tall from its base" for every land volcano without a figure typed per page. Summits never come from that grid: a cell is an average and reads low.
 - D-40 · 2026-11-17 · Pages are built in batches of a few and each batch goes live when its checks and the look in the owner's Chrome pass. US volcanoes and volcanoes with an English-language observatory go first within the demand order, because their sources can be read directly.
+- D-41 · 2026-11-17 · Under the strip the page is two columns that each pack upward, not two rows. Found on the Mount Erebus preview: a volcano with no USGS box and no weekly report left a 300 px hole beside the key facts, and most of the pages still to build are like that. The phone order is unchanged. This moves the report box on Stromboli and Mauna Loa up under the "Where is" text.
 
 ## §3 Rejected — don't re-propose
 - 2026-11-15 · Rendering the unreviewed article sections now for a quick content gain — publishes about 350,000 words of unverified text (D-07).
@@ -122,7 +123,10 @@ _last update: 2026-11-17 · VOL-005_
 - The Smithsonian's eruption rows have a day modifier and a day uncertainty besides the year ones (`sdmod`, `sdunc`, `edmod`, `edunc` in `gvp-eruptions.json`). A day of 16 or a date of July 2 is usually a placeholder for "month only" or "year only". Never print a date or a gap from `sy/sm/sd` directly.
 - NOAA's elevation grid is read in small windows from its THREDDS server as OPeNDAP ASCII (`…_surface.nc.ascii?z[i0:1:i1][j0:1:j1]`); tiles are 15° wide and named after their north-west corner. Asking for the same variable twice in one request fails.
 - NASA Earth Observatory addresses moved: `earthobservatory.nasa.gov/images/<id>/…` now redirects to a general page. The live copies are under `science.nasa.gov/earth/earth-observatory/`.
-- A long volcano name does not fit beside the map marker on a phone: `RecordMap` puts names over 12 letters under the marker below 520 px.
+- A long volcano name does not fit beside the map marker on a phone: `RecordMap` puts names over 12 letters under the marker below 520 px. The street map's own labels can sit under the handwritten name (Ross Island at Erebus): look at the map with real tiles for every new page (`/tmp/looks/mapshot.py` in a session, or the preview in Chrome) and set `map_label: "below"` where they clash.
+- The local checks ran at phone width only, so a table that hid its last column on a desktop got as far as the preview (found in the owner's Chrome, 2026-11-17). `scripts/check-render.py` now opens every rebuilt page at 1440 px and fails a table that scrolls sideways there.
+- In the phone drawing of an erupting volcano the lava burst needs the room of the summit label's third line; `LandDrawing` drops "above sea level" there. Look at the phone drawing of every erupting volcano.
+- The site scrolls smoothly (`scroll-behavior`), so in Chrome `scrollIntoView` followed by another scroll lands nowhere: scroll with `window.scrollTo({top, behavior: 'instant'})`.
 
 ## §5 Backlog (priority order)
 - [P0] Next batch (VOL-007): Krakatau, Kilauea, Aira (Sakurajima), Cotopaxi, Eyjafjallajokull, then Rabaul, Pinatubo, Arenal, Michoacan-Guanajuato (Paricutin), Novarupta and on by search demand; first-tier pages Popocatepetl, Nevado del Ruiz, Taal, Whakaari among them. Needed on the way: a caldera drawing (Kilauea, Rabaul, Taal).
@@ -242,6 +246,14 @@ _last update: 2026-11-17 · VOL-005_
 - Unverified: the preview in the owner's Chrome and the live pages (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read, then his name goes on: /volcano/st-helens, /volcano/erebus. USGS counts 57 deaths for May 18, 1980, NOAA lists 61; the page prints both.
+
+### 2026-11-17 · VOL-006 BATCH2 preview · chat · done
+- What: looked at the preview of pull request 8 in the owner's Chrome before merging and fixed what it showed. The eruptions table hid its last column on a desktop (cells could not wrap); the area under the strip left a 300 px hole on Mount Erebus (D-41); the handwritten map name sat on the street map's "Ross Island" label; on a phone the lava burst ran into the summit label. Also: short tables now fit a phone without sideways scroll, and the "within ten days" sentence on Mount St. Helens is tied to the data by an `expect` line.
+- Files: `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `components/record/{figures,RecordMap}.tsx`, `lib/{eruptions,recordProfile}.ts`, `data/profiles/{erebus,st-helens}.json`, `scripts/check-render.py`, `DESIGN.md`
+- Verified: tsc and eslint clean; `rm -rf .next && npx next build` exit 0; crawl and render check re-run on that build (results in the pull request); every table measured at 1456 and 390 px on the four rebuilt pages: none scrolls sideways on a desktop, the NOAA tables fit a phone; pictures of the four pages at both widths looked at, Erebus map with real tiles.
+- Unverified: the second preview in the owner's Chrome and the live pages (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: none
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)

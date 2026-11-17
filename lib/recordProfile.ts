@@ -92,6 +92,8 @@ export interface RecordProfile {
   };
   /** Zoom of the locator map; 7 (a region a few hundred miles across) when left out. */
   map_zoom?: number;
+  /** 'below' puts the name under the map marker, for a map whose own labels sit beside the marker */
+  map_label?: 'below';
   /**
    * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
    * sea floor) or "land" (a volcano standing on land or rising straight from the sea surface).
@@ -245,6 +247,7 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('last_end', dateText(stats.lastEnd, stats.lastEndPrecision, true));
     set('last_end_short', dateText(stats.lastEnd, stats.lastEndPrecision));
     set('last_year', stats.lastEnd[0]);
+    set('last_end_unc_days', stats.lastEndUncertaintyDays);
     const length = spanBetween(stats.lastStart, stats.lastStartPrecision, stats.lastEnd, stats.lastEndPrecision);
     set('last_length', length.approx ? `about ${length.text}` : length.text);
     const days = daysBetween(stats.lastEnd, today);

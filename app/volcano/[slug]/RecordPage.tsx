@@ -161,8 +161,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             <tr>
               <th scope="col">Started</th>
               <th scope="col">Ended</th>
-              <th scope="col">Lasted</th>
-              <th scope="col">{profile.table?.gap_label ?? 'Pause that followed'}</th>
+              <th scope="col" className="va-dur">Lasted</th>
+              <th scope="col" className="va-dur">{profile.table?.gap_label ?? 'Pause that followed'}</th>
               <th scope="col" className="va-num">Largest VEI</th>
             </tr>
           </thead>
@@ -171,8 +171,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               <tr key={row.eruption.n}>
                 <td>{row.startText}</td>
                 <td>{row.endText}</td>
-                <td>{row.length}</td>
-                <td>
+                <td className="va-dur">{row.length}</td>
+                <td className="va-dur">
                   {row.continuing
                     ? ''
                     : (row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
@@ -251,7 +251,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   {eruption.vei ?? 'not given'}
                   {eruption.veiq === '?' ? '?' : ''}
                 </td>
-                <td>{eruption.method ? (METHOD_LABEL[eruption.method] ?? eruption.method.toLowerCase()) : 'not given'}</td>
+                <td className="va-dur">{eruption.method ? (METHOD_LABEL[eruption.method] ?? eruption.method.toLowerCase()) : 'not given'}</td>
               </tr>
             ))}
           </tbody>
@@ -347,10 +347,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           <Html className="va-figcap" html={r(profile.timeline.caption)} />
         </header>
 
+        {/* two columns that each pack upward: map, status and summary on the left; drawing and key facts on the right.
+            On a phone the four parts stack in the order map, drawing, status and summary, key facts (record.css). */}
         <div className="va-band">
+          <div className="va-flowcol">
           {where && (
             <section className="va-where" id={`va-${where.id}`} aria-labelledby="va-where-h">
-              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} />
+              <LazyMap name={name} lat={volcano.lat} lon={volcano.lon} zoom={profile.map_zoom ?? 7} detail={mapDetail} labelBelow={profile.map_label === 'below'} />
               <h2 id="va-where-h">{where.h}</h2>
               {where.paras.map((para, i) => (
                 <Html key={i} html={r(para)} />
@@ -362,14 +365,6 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               </p>
             </section>
           )}
-          <figure className="va-fig va-bandfig">
-            <SectionDrawing data={data} />
-            <SectionDrawing data={data} compact />
-            <Html as="figcaption" html={r(profile.section.caption)} />
-          </figure>
-        </div>
-
-        <div className="va-band va-band2">
           <div className="va-bandtext">
             {(weekly || usgs) && (
               <div className="va-weekly">
@@ -410,6 +405,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             )}
             <Html className="va-lede" html={r(profile.lede)} />
           </div>
+          </div>
+          <div className="va-flowcol">
+          <figure className="va-fig va-bandfig">
+            <SectionDrawing data={data} />
+            <SectionDrawing data={data} compact />
+            <Html as="figcaption" html={r(profile.section.caption)} />
+          </figure>
           <section className="va-factbox" aria-labelledby="va-facts-h">
             <h2 id="va-facts-h">{name} key facts</h2>
             <dl className="va-facts">
@@ -422,6 +424,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             </dl>
             <Html className="va-csrc" html={factsFrom} />
           </section>
+          </div>
         </div>
 
         <div className="va-main">

@@ -416,9 +416,13 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
       {/* summit above sea level */}
       <line x1={xa} y1={summitY} x2={cx - notch - 5} y2={summitY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
       <path d={`M${xa} ${f(summitY)} V${f(seaY)} M${xa - 5} ${f(summitY)} h10 M${xa - 5} ${f(seaY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
-      <text x={xa + 12} y={summitY - 12 - line * 2} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(summitFt)} ft</text>
-      <text x={xa + 12} y={summitY - 11 - line} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
-      <text x={xa + 12} y={summitY - 10} fontSize={fs} fill={PAL.ink}>above {onWater && sec.baseline ? 'the water' : 'sea level'}</text>
+      {/* on a phone the lava burst of an erupting volcano needs the room of the third line; the bracket down to the
+          baseline and its label say what the height is measured from */}
+      <text x={xa + 12} y={summitY - 12 - line * (compact && active ? 1 : 2)} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(summitFt)} ft</text>
+      <text x={xa + 12} y={summitY - 11 - (compact && active ? 0 : line)} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
+      {!(compact && active) && (
+        <text x={xa + 12} y={summitY - 10} fontSize={fs} fill={PAL.ink}>above {onWater && sec.baseline ? 'the water' : 'sea level'}</text>
+      )}
 
       {/* summit above the land around it */}
       {data.ground && rise > 0 && (

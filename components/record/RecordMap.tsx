@@ -10,18 +10,20 @@ export interface RecordMapProps {
   zoom: number;
   /** One line for the marker's popup, built from the page's own data. */
   detail: string;
+  /** Put the name under the marker at every width, when the street map prints its own label beside it. */
+  labelBelow?: boolean;
 }
 
 /**
  * Locator map of a rebuilt volcano page, in the page's look (styles in record.css).
  * It is loaded by LazyMap only, in the browser, so it can read the window.
  */
-export default function RecordMap({ name, lat, lon, zoom, detail }: RecordMapProps) {
+export default function RecordMap({ name, lat, lon, zoom, detail, labelBelow }: RecordMapProps) {
   // On a touch screen one finger scrolls the page, not the map; the map zooms by its buttons or a pinch.
   const touch = typeof window !== 'undefined' && window.matchMedia('(pointer: coarse)').matches;
   const position: [number, number] = [lat, lon];
   // A long name does not fit beside the marker on a phone-width map: it goes underneath.
-  const below = typeof window !== 'undefined' && window.innerWidth < 520 && name.length > 12;
+  const below = labelBelow || (typeof window !== 'undefined' && window.innerWidth < 520 && name.length > 12);
 
   return (
     <MapContainer

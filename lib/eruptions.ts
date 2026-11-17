@@ -252,6 +252,8 @@ export interface EruptionStats {
   lastEnd: Ymd | null;
   lastStartPrecision: Precision;
   lastEndPrecision: Precision;
+  /** the Smithsonian's day uncertainty on the end of the last eruption, when it states one */
+  lastEndUncertaintyDays: number | null;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -369,6 +371,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     lastEnd: over ? [over.ey as number, over.em, over.ed] : null,
     lastStartPrecision: over ? precisionOf(over.sdunc) : 'day',
     lastEndPrecision: over ? precisionOf(over.edunc) : 'day',
+    lastEndUncertaintyDays: over?.edunc ?? null,
     current,
     currentStart,
     currentLast,

@@ -261,6 +261,7 @@
  ],
  "expect": {
   "last_end": "January 2008",
+  "last_end_unc_days": "10",
   "lost_ft": "1,314",
   "summit_ft": "8,363",
   "n_since": "14",

@@ -266,7 +266,8 @@ body:has(.va-page) > footer {
   max-width: 820px;
 }
 
-/* ---------- under the strip: the map beside the cut-open volcano, then the report box beside the key facts ---------- */
+/* ---------- under the strip: two columns that each pack upward. Left: the map, the status box and the summary.
+   Right: the cut-open volcano and the key facts. A short part on one side leaves no hole beside a tall one. ---------- */
 .va-band {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -276,9 +277,14 @@ body:has(.va-page) > footer {
   margin: 0 auto;
   padding: 30px var(--va-pad) 0;
 }
-.va-band > :only-child {
-  grid-column: 1 / -1;
-  max-width: 620px;
+.va-flowcol {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-width: 0;
+}
+.va-flowcol > * {
+  min-width: 0;
 }
 .va-where h2 {
   font-size: 24px;
@@ -529,6 +535,13 @@ body:has(.va-page) > footer {
 }
 .va-table .va-num {
   text-align: right;
+}
+/* lengths of time and other wordy cells may break onto a second line, so a five-column table
+   fits the text column on a desktop; the minimum keeps them readable where the table scrolls */
+.va-table .va-dur {
+  white-space: normal;
+  text-wrap: balance;
+  min-width: 132px;
 }
 .va-srcline {
   font-size: 14px;
@@ -796,15 +809,30 @@ body:has(.va-page) > footer {
   .va-tl-small {
     display: block;
   }
+  /* one column: the four parts become items of the band itself and take the phone order */
   .va-band {
-    grid-template-columns: minmax(0, 1fr);
+    display: flex;
+    flex-direction: column;
     gap: 26px;
     padding-top: 26px;
   }
+  .va-flowcol {
+    display: contents;
+  }
+  .va-where {
+    order: 1;
+  }
   .va-bandfig {
+    order: 2;
     width: 100%;
     max-width: 620px;
-    justify-self: center;
+    align-self: center;
+  }
+  .va-bandtext {
+    order: 3;
+  }
+  .va-factbox {
+    order: 4;
   }
   .va-sec-block {
     display: flex;
@@ -891,6 +919,16 @@ body:has(.va-page) > footer {
   }
   .va-facts div {
     grid-template-columns: 124px minmax(0, 1fr);
+  }
+  /* tighter cells and two-line headings, so a short table fits a phone without scrolling sideways */
+  .va-table th,
+  .va-table td {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+  .va-table th {
+    white-space: normal;
+    vertical-align: bottom;
   }
   .va-map {
     height: 300px;

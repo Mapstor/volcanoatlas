@@ -57,14 +57,17 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 ## Layout
 
 - Text column 720 px, page width 1140 px. The strip runs edge to edge.
-- Order on a wide screen: title and author line, main number beside the answer paragraph, strip, caption, then the map
-  beside the cut-open volcano, then the report box beside the key facts, then the sections.
+- Order on a wide screen: title and author line, main number beside the answer paragraph, strip, caption, then two
+  columns that each pack upward (left: map, "Where is …?", report box, summary; right: cut-open volcano, key facts),
+  then the sections. The two columns are not rows: a short part on one side must not leave a hole beside a tall one.
 - Order on a phone: title, main number, strip, caption, author line, answer paragraph, map, cut-open volcano, report
   box, key facts, sections. The strip sits right under the number so its line is on screen while it draws.
 - The map is the first thing under the strip (owner, 17 Nov 2026: the reader should see the map quickly). Its section
   ("Where is …?") sits with it, ahead of the other sections.
 - Side notes (callouts, pencil note) float right of a section on wide screens and follow the section on small ones.
-- Wide tables scroll inside their own box. The page never scrolls sideways.
+- No table scrolls sideways on a desktop: a hidden column reads as a broken page. Cells with a length of time or a
+  phrase may break onto a second line (`va-dur`); dates and numbers stay on one line. On a phone a table that still
+  does not fit scrolls inside its own box. The page never scrolls sideways.
 
 ## The parts of a record page
 
@@ -77,7 +80,8 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
    flat on the day the data was retrieved.
 4. **The map.** A street map toned down to grey, so the red pencil leads: a red ring around the volcano and its name in
    handwriting. No scroll-wheel zoom. On a touch screen one finger scrolls the page, not the map; the map zooms by its
-   buttons or a pinch. A link under it opens a larger map.
+   buttons or a pinch. A link under it opens a larger map. Where the street map prints a label of its own beside the
+   marker (Ross Island at Mount Erebus), the name goes under the marker (`map_label: "below"` in the profile).
 5. **The cut-open volcano.** Section drawing with heights to scale, in the shape that fits the volcano. Island cone
    (Stromboli): gas bubbles rise in the conduit and burst at the vent, only while the Smithsonian lists the eruption as
    continuing. Shield (Mauna Loa): three heights in one picture, above the sea, under water and pressed into the sea
