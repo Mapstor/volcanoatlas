@@ -3,9 +3,9 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-005_
-- Step: ten pages — 2 of the ten done (Stromboli live, Mauna Loa approved by the owner on 2026-11-17 and going live). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Step: ten pages — 2 of the ten done and live (Stromboli, Mauna Loa). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
 - Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages finished: 2 of 213 (Stromboli, Mauna Loa).
-- Last confirmed: VOL-005 MAUNALOA — approved by the owner, byline on, merged (see §6 for the live check).
+- Last confirmed: VOL-005 MAUNALOA — approved by the owner, byline on — live (35246c8).
 - In flight (handed, NOT confirmed): none
 - Next action: the next volcano pages in the order of `docs/preflight-record-pages.md` (Krakatau, Aira, Kilauea, Cotopaxi, Eyjafjallajokull, Erebus, Arenal, Pinatubo, then Popocatepetl, Nevado del Ruiz, Taal, Whakaari), in batches. Each page: observatory pages read first, profile written, checks, preview looked at in the owner's Chrome, merged, production checked. A volcano on land needs a section drawing without the sea.
 - Waiting on owner: reading the pages that went live without his name (list in the newest §6 entry); his name and the date go on after he says so.
@@ -217,6 +217,14 @@ _last update: 2026-11-17 · VOL-005_
 - Unverified: the byline on the preview in the owner's Chrome and the live page (next entry).
 - Commit: this commit (pushed: work branch)
 - Notes: pages finished 2 of 213 once it is live.
+
+### 2026-11-17 · VOL-005 MAUNALOA · chat · live
+- What: pull request #6 merged (35246c8) after the byline was looked at on the preview in the owner's Chrome.
+- Files: this entry
+- Verified: Vercel production build of 35246c8 READY. https://www.volcanosatlas.com/volcano/mauna-loa answers 200 with its own canonical, index/follow, Article markup and the byline, and is in the sitemap. In the owner's Chrome on www: main number, ring and note; strip drawn; map with 6 tiles; sea floor in the drawing fully down after scrolling to it; USGS alert box filled; no source mark without an entry; no sideways scroll. Stromboli on www looks as before.
+- Unverified: a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: pages finished 2 of 213.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
