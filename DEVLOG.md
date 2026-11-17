@@ -3,12 +3,12 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-009_
-- Step: ten pages — 6 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull live since 2026-11-17 without his name until he has read them. Mount Pinatubo built 2026-11-17 as the seventh (pull request open at the time of writing). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 6 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 4 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull).
-- Last confirmed: VOL-009 PINATUBO — done: Mount Pinatubo as a record page (see §6). Before it: VOL-008 EYJA live (490ec5a).
+- Step: ten pages — 7 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull and Mount Pinatubo live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 7 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 5 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo).
+- Last confirmed: VOL-009 PINATUBO — live (e82ed84): Mount Pinatubo as a record page (see §6).
 - In flight (handed, NOT confirmed): none
-- Next action: merge and check Mount Pinatubo live if the pull request is still open; then Cotopaxi (the Instituto Geofísico's own pages and its newest report for `since_check`; the Smithsonian lists 5,911 m, Ecuadorian sources 5,897 m), Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
-- Waiting on owner: reading Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull; his name and the date go on after he says so.
+- Next action: Cotopaxi (the Instituto Geofísico's own pages and its newest report for `since_check`; the Smithsonian lists 5,911 m, Ecuadorian sources 5,897 m), Aira (Sakurajima), Arenal, Rabaul and the rest by search demand. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo is new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -318,6 +318,14 @@ _last update: 2026-11-17 · VOL-009_
 - Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/pinatubo. Sources disagree and the page says so: deaths (USGS in 2016 more than 840, NOAA 800; the 1996 overview has 200 to 300 during the eruption itself), the height of the ash cloud and the SO2 mass (details in the registry notes). The summit loss of 259 m is calculated from USGS's old height and the Smithsonian's current one.
+
+### 2026-11-17 · VOL-009 PINATUBO · chat · live
+- What: pull request 14 merged (merge commit e82ed84) after one preview; Mount Pinatubo is live as a record page, with the template changes of D-46.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome: Pinatubo (hero, strip, map with tiles and the name over the sea, drawing, status box, eruption table) and Mount St. Helens (drawing, key facts, related links), and all seven rebuilt pages fetched on it (200, no raw markup, bylines as intended, "so far" figures unchanged on the older pages); Vercel build of e82ed84 succeeded; on www.volcanosatlas.com/volcano/pinatubo in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box showing the PHIVOLCS check, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: e82ed84 (merged)
+- Notes: the owner wrote "looks nice, go" at 17:34 while this batch was being merged: carry on with all pages. Which pages he read is not known yet (asked).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
