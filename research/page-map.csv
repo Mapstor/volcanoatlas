@@ -150,7 +150,7 @@ volcano/okataina,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pen
 volcano/orizaba-pico-de,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/pacaya,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/pavlof,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/pelee,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/pelee,volcanoes,data,informational,"what the observatory’s instruments show now (reactivation since 2019, yellow alert, dated figures) next to the 1902 disaster; every claim dated and sourced",gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 9) under the name Mount Pelee; also uses noaa-ncei-volcano, observatory-pages and observatory-usgs; carries dated observatory figures to refresh; waits for the owner's read before his name goes on"
 volcano/pinatubo,volcanoes,data,informational,"1991 set against the volcano’s own past (one of its smallest eruptions), the summit before and after drawn to scale, PHIVOLCS’s alert level with the date it was read",gvp-eruptions,T1,live,"record page built 2026-11-17 (batch 5); also uses noaa-ncei-volcano, noaa-etopo, observatory-usgs and observatory-pages; waits for the owner's read before his name goes on"
 volcano/piton-de-la-fournaise,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/planchon-peteroa,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

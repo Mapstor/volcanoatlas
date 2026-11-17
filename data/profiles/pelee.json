@@ -1,0 +1,255 @@
+{
+ "slug": "pelee",
+ "volcano_number": 360120,
+ "name": "Mount Pelee",
+ "country": "France",
+ "title": "Mount Pelee: 1902 Eruption, Activity Now, Height & Facts",
+ "description": "Mount Pelee destroyed the city of Saint-Pierre in 1902. It last erupted in 1932, and its observatory has kept it on yellow alert while it stirs again. Dates, sources and the full record.",
+ "h1": "Mount Pelee",
+ "facts": {
+  "count_from": 1750
+ },
+ "big": {
+  "line": "Last eruption ended in {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "and stirring again since 2019",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "On May 8, 1902, an avalanche of hot gas and ash from this volcano destroyed the city of Saint-Pierre in two to three minutes and killed about 28,000 people. The volcano has not erupted since 1932, but its observatory has recorded a reawakening since 2019 and keeps it on yellow alert. Below: what the instruments show now, what happened in 1902, and every eruption on record.",
+ "answer": "**Mount Pelee last erupted from {last_start} to {last_end}.**[[gvp]] It is a **stratovolcano** on the French island of Martinique, in the Caribbean, **{summit_ft} ft ({summit_m} m)** high.[[gvp]][[vw1902]] In the newest weekly report on its observatory’s list, dated November 13, 2026, the alert level is yellow, the second of four.[[ipgplist]][[ovsm]] In French the volcano is the Montagne Pelée.",
+ "timeline": {
+  "from": 1750,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1792.06,
+    "label": "1792"
+   },
+   {
+    "year": 1851.6,
+    "label": "1851"
+   },
+   {
+    "year": 1902.31,
+    "label": "1902"
+   },
+   {
+    "year": 1929.71,
+    "label": "1929"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The raised stretch from 1902 is the eruption that destroyed Saint-Pierre, which the list runs to 1905. The one from 1929 is the last.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "no eruption since 1932",
+  "caption": "Mount Pelee as a simple outline rising from the Caribbean. Only the summit height is to scale.[[gvp]]"
+ },
+ "map_zoom": 9,
+ "map_label": "left",
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Pelee?",
+   "map": true,
+   "paras": [
+    "Mount Pelee is on Martinique, a French island in the Lesser Antilles, the arc of islands on the eastern side of the Caribbean, at {coords}.[[gvp]][[vw1902]] Saint-Pierre, the city it destroyed in 1902, is on the coast nearby.[[usgsfaq]] It is one of {n_country} volcanoes in [France](/volcanoes-in-france) on the Smithsonian’s Holocene list, which counts French territory overseas.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Mount Pelee active now?",
+   "paras": [
+    "It is not erupting, and it is not asleep. The Martinique volcano observatory, run by the Institut de physique du globe de Paris, describes a reactivation that began in April 2019, when earthquakes under the volcano rose above their usual level.[[ovsm]]",
+    "Other signs followed. From late 2019 patches of vegetation died back on the southwest flank, where carbon dioxide seeps out of the soil. The summit swelled slightly from mid-2021 to the end of 2022. It began to swell again in September 2025, and faster from the end of April 2026.[[ovsm]]",
+    "In September 2026 the observatory counted 655 volcanic earthquakes. Nobody reported feeling any of them, and the largest had a magnitude of 1.96.[[ovsm]]",
+    "The alert level is **yellow**, which stands for vigilance. It is the second of four levels: green, yellow, orange and red.[[ovsm]] It was still yellow in the newest weekly report on the observatory’s list, dated November 13, 2026.[[ipgplist]]",
+    "The observatory rates the chance of an eruption in the short term as low. It adds that it cannot rule out a change over weeks, months or years.[[ovsm]]"
+   ]
+  },
+  {
+   "id": "1902",
+   "h": "What happened in the 1902 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The Smithsonian dates the eruption from April 23, 1902 to October 5, 1905.[[gvp]] Its deadliest day was **May 8, 1902**. A pyroclastic flow, a fast avalanche of hot gas, ash and rock, swept down from the volcano and over the coastal city of Saint-Pierre.[[vw1902]][[usgsfaq]]",
+    "USGS puts the destruction of the city at two to three minutes and the deaths at 28,000.[[vw1902]] Another USGS page says nearly 30,000.[[usgsfaq]] NOAA’s database lists {worst_deaths} deaths for {worst_date}.[[noaa]]",
+    "It happened one day after the Soufrière volcano on St. Vincent, 100 miles (150 km) to the south, killed 2,000 people. The timing was a coincidence.[[vw1902]]",
+    "May 8 was neither the first deadly day nor the last. NOAA has six entries for the volcano in 1902, and those for May 5 and August 30 also record deaths.[[noaa]]",
+    "The deadly cloud was new to the science of the day, which named it a nuée ardente, French for glowing cloud. Volcanologists now call it a pyroclastic flow.[[vw1929]][[usgsfaq]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mount Pelee last erupt?",
+   "paras": [
+    "Mount Pelee’s last eruption ran from **{last_start} to {last_end}** in the Smithsonian’s record.[[gvp]]",
+    "A lava dome grew slowly at the summit. From time to time parts of it collapsed and sent pyroclastic flows down a valley on the volcano’s side. The eruption was less explosive than the one of 1902 and lasted longer, which made it easier for scientists to study.[[vw1929]]",
+    "The observatory dates the end of that eruption to 1932. The last steam vents on the volcano stopped in 1970.[[ovsm]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Pelee?",
+   "paras": [
+    "Mount Pelee is **{summit_ft} ft ({summit_m} m)** high on the Smithsonian’s list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount Pelee?",
+   "paras": [
+    "Mount Pelee is a **[stratovolcano](/types-of-volcanoes)**.[[gvp]] Its observatory calls it an active volcano of the explosive type, with eruptions of magma and eruptions driven by steam in its past.[[ovsm]] The Smithsonian lists its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount Pelee erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, most of them dated from their deposits. It rates {n_vei4} of them VEI 4 on the [Volcanic Explosivity Index](/volcanic-explosivity-index), the eruption of 1902 among them.[[gvp]]",
+    "Four eruptions fall in the last 250 years. Two were driven by steam, in 1792 and in 1851. Two brought magma to the surface, from 1902 to 1905 and from 1929 to 1932.[[gvp]][[ovsm]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "How deadly has Mount Pelee been?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the current alert level in Martinique, use the observatory’s bulletins.[[ipgplist]]",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for Mount Pelee, all of them from 1902. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Pelee’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mount Pelee has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from their deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "May 8, 1902",
+ "callouts": [
+  {
+   "number": "28,000",
+   "unit": "deaths",
+   "text": "People killed when the pyroclastic flow reached Saint-Pierre, by USGS’s count. NOAA’s database lists {worst_deaths}.",
+   "source": "Sources: U.S. Geological Survey;[[vw1902]] NOAA.[[noaa]]"
+  },
+  {
+   "number": "2–3",
+   "unit": "minutes",
+   "text": "Time it took to destroy the city.",
+   "source": "Source: U.S. Geological Survey.[[vw1902]]"
+  }
+ ],
+ "faq_h": "Mount Pelee questions and answers",
+ "faq": [
+  [
+   "When did Mount Pelee last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s record."
+  ],
+  [
+   "Is Mount Pelee active now?",
+   "It is not erupting, but its observatory has recorded a reactivation since April 2019 and keeps the alert level at yellow, the second of four."
+  ],
+  [
+   "How many people died in the 1902 eruption?",
+   "About 28,000 on May 8, 1902, by USGS’s count. Another USGS page says nearly 30,000, and NOAA’s database lists {worst_deaths} for that day."
+  ],
+  [
+   "Where is Mount Pelee?",
+   "On Martinique, a French island in the Lesser Antilles, in the Caribbean."
+  ],
+  [
+   "What destroyed Saint-Pierre?",
+   "A pyroclastic flow: a fast avalanche of hot gas, ash and rock. USGS says the city was destroyed in two to three minutes."
+  ],
+  [
+   "What is a nuée ardente?",
+   "French for glowing cloud. It is the name given in 1902 to what volcanologists now call a pyroclastic flow."
+  ],
+  [
+   "How tall is Mount Pelee?",
+   "{summit_ft} ft ({summit_m} m) on the Smithsonian’s list."
+  ],
+  [
+   "Could Mount Pelee erupt again?",
+   "Yes. Its observatory rates the chance in the short term as low and says it cannot rule out a change over weeks, months or years."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Pelée record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=360120"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "ovsm",
+   "publisher": "Observatoire volcanologique et sismologique de Martinique, Institut de physique du globe de Paris",
+   "title": "Bulletin mensuel, septembre 2026 (issued October 17, 2026, in French)",
+   "url": "https://www.ipgp.fr/wp-content/uploads/2026/10/OVSM_2026_09_fra.pdf"
+  },
+  {
+   "id": "ipgplist",
+   "publisher": "Institut de physique du globe de Paris",
+   "title": "Observatory releases and bulletins",
+   "url": "https://www.ipgp.fr/en/observatory-releases-and-bulletins/"
+  },
+  {
+   "id": "vw1902",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Watch: Dual volcanic tragedies in the Caribbean led to founding of HVO",
+   "url": "https://www.usgs.gov/news/volcano-watch-dual-volcanic-tragedies-caribbean-led-founding-hvo"
+  },
+  {
+   "id": "vw1929",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Watch: A pioneering volcanologist narrowly beats the Reaper",
+   "url": "https://www.usgs.gov/news/volcano-watch-a-pioneering-volcanologist-narrowly-beats-reaper"
+  },
+  {
+   "id": "usgsfaq",
+   "publisher": "U.S. Geological Survey",
+   "title": "How dangerous are pyroclastic flows?",
+   "url": "https://www.usgs.gov/faqs/how-dangerous-are-pyroclastic-flows?qt-news_science_products=0"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today. The Smithsonian gives that end date to the month.",
+  "Feet and miles are converted from the metric figures in the sources and rounded.",
+  "The volcano’s name is written Montagne Pelée in French and Pelée on the Smithsonian’s list. This page writes Pelee, without the accent."
+ ],
+ "expect": {
+  "last_start": "September 16, 1929",
+  "summit_m": "1,372",
+  "n_all": "54",
+  "n_since": "4",
+  "n_vei4": "21",
+  "noaa_n": "6",
+  "noaa_n_word": "six",
+  "worst_deaths": "28,000",
+  "worst_date": "May 8, 1902"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": "**No eruption since 1932 on record.** The newest weekly report on the Martinique observatory’s list, read on {read_date}, is dated November 13, 2026 and keeps the alert level at yellow.[[ipgplist]]",
+ "reviewed": null
+}
