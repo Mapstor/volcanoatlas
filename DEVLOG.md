@@ -3,12 +3,12 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-012_
-- Step: ten pages — 9 of the ten live: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi and Sakurajima (/volcano/aira) live since 2026-11-17 without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 9 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 7 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima).
-- Last confirmed: VOL-012 ARENAL — done: Arenal as a record page, the tenth (see §6). Before it: VOL-011 SAKURAJIMA live (529a34f).
+- Step: all pages — the ten-page step is complete (10 live since 2026-11-17): Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira) and Arenal without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 10 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 8 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal).
+- Last confirmed: VOL-012 ARENAL — live (c7e2de0): Arenal as a record page, the tenth (see §6).
 - In flight (handed, NOT confirmed): none
-- Next action: merge and check Arenal live if its pull request is still open; then Rabaul (252140), Asamayama, Villarrica, Pelée and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
-- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi and Sakurajima are new since then.
+- Next action: Rabaul (252140), Asamayama (283110), Villarrica (357120), Pelée (360120) and the rest by search demand. Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
+- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima and Arenal are new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -169,6 +169,8 @@ _last update: 2026-11-17 · VOL-012_
 - [P2] Clean-up: 66 lint findings; old helper scripts in `scripts/*.js`; stray audit files at the repo root; unused `next-sitemap` dependency; unused `UNSPLASH_ACCESS_KEY` variable in Vercel.
 
 - [P2] The street map prints place names in the local script (Japanese around Sakurajima), which a US reader cannot read. Look for a map layer with English labels whose terms allow use on a site with ads; until then the text says where the nearest city is.
+
+- [P1] The build downloads its fonts from Google every time, and the download drops now and then: two preview builds failed that way on 2026-11-17 (pull requests 17 and 20), each time with nothing wrong in the code. Ship the font files with the site (`next/font/local`) so a build never depends on that download. Until then: an empty commit on the work branch starts a fresh build.
 
 ## §6 Log (append-only, newest at bottom)
 ### 2026-11-15 · VOL-001 AUDIT · chat · done
@@ -377,6 +379,14 @@ _last update: 2026-11-17 · VOL-012_
 - Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/arenal. The page prints the observatory's 1,755 m and says why the Smithsonian's 1,670 m differs (the summit grew during the eruption). The newest OVSICORI bulletin that could be read is of 18 Oct 2024; the page gives it with its date and takes the observatory check from the seismological network's profile.
+
+### 2026-11-17 · VOL-012 ARENAL · chat · live
+- What: pull request 20 merged (merge commit c7e2de0) on a green status; Arenal is live as a record page. The first preview build failed on the Google font download (JetBrains Mono); an empty commit started a second build, which passed, and only then was the preview looked at and the pull request merged.
+- Files: none beyond the pull request
+- Verified: every gate on the final code (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name above the marker, drawing, status box, the eruption table with "(uncertain)" wrapped), the other nine rebuilt pages and the Costa Rica page fetched on it (200, no raw markup, bylines as intended); Vercel build of c7e2de0 succeeded; on www.volcanosatlas.com/volcano/arenal in the owner's Chrome: canonical on itself, index/follow, map tiles 9/9, no table scrolling sideways at 1456 px, no raw markup, status box present, no byline (by design); four older rebuilt pages answer 200 with the new table markup.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: c7e2de0 (merged)
+- Notes: the ten-page step is complete. Fonts shipped with the site are now a P1 backlog item.
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
