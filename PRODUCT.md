@@ -58,6 +58,11 @@ The site is finished when every page is. Then it is frozen for three months and 
   them starts with "about".
 - How high a volcano stands above the land around it is worked out, not looked up: the summit height minus the median
   height of the land 14 to 16 km away in NOAA's ETOPO 2022 grid. The page says so and shows the method.
+- An eruption the Smithsonian lists as continuing is counted from its start to today, in months until two years have
+  passed and in years after that, the same way the time since a last eruption is counted. The page names the
+  Smithsonian's last update, and for a US volcano the USGS alert box says what the volcano is doing now.
+- A figure that changes every few weeks (the number of lava-fountain episodes, a lava level) is printed with the date
+  it was true and its source, never as a bare "now".
 - Not a monitoring agency. Alert levels and safety decisions belong to the observatories, and pages link to them. A
   page may repeat an observatory's current alert level, word for word, with the notice's date and link; it never works
   one out.

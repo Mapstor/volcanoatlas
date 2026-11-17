@@ -1,0 +1,350 @@
+{
+ "slug": "kilauea",
+ "volcano_number": 332010,
+ "name": "Kilauea",
+ "country": "United States",
+ "title": "Kilauea Volcano: Current Eruption, Height, Type & Facts",
+ "description": "Kilauea has been erupting in episodes since December 23, 2024. Its height, type, the 2018 collapse and all {n_all} eruptions on record, with sources.",
+ "h1": "Kilauea Volcano",
+ "facts": {
+  "count_from": 1823
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "in fountains and pauses",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "In 2018 the floor of Kilauea’s summit crater dropped {drop_ft} ft. Lava has since filled the hole back to within {short_ft} ft of where the floor used to be. Below: the current eruption, what happened in 2018, how tall the volcano is, and every eruption on record.",
+ "answer": "**Kilauea is in an eruption that began on {cur_since}.** It comes in episodes: lava fountains play in Halemaʻumaʻu crater for hours, then the vents rest for days or weeks. USGS logged the 56th episode on November 5, 2026.[[usgsinfo]] Kilauea (Kīlauea in Hawaiian) is a **shield volcano** on the Island of Hawaiʻi, **{summit_ft} ft ({summit_m} m)** high.[[usgs]]",
+ "timeline": {
+  "from": 1815,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1823.13,
+    "label": "1823"
+   },
+   {
+    "year": 1924.36,
+    "label": "1924"
+   },
+   {
+    "year": 1983.01,
+    "label": "1983"
+   },
+   {
+    "year": 2018.4,
+    "label": "2018"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Raised stretches are eruptions that ran for months or years; spikes are short ones. The two longest stretches are the eruptions of {long1_span} and {long2_span}."
+ },
+ "section": {
+  "kind": "caldera",
+  "note": "the floor fell {drop_ft} ft in 2018",
+  "cut": {
+   "rim": {
+    "m": 1247,
+    "ft": 4091,
+    "label": "Uēkahuna overlook, on the rim",
+    "short": "caldera rim"
+   },
+   "floor": {
+    "m": 1075,
+    "ft": 3530,
+    "label": "caldera floor"
+   },
+   "pit": {
+    "m": 518,
+    "ft": 1699,
+    "label": "after the 2018 collapse",
+    "short": "after 2018 collapse"
+   },
+   "before": {
+    "m": 1023,
+    "ft": 3356,
+    "label": "crater floor before 2018"
+   },
+   "fills": [
+    {
+     "m": 910,
+     "ft": 2986,
+     "label": "lava of 2020–2023"
+    },
+    {
+     "m": 1007,
+     "ft": 3304,
+     "label": "lava surface, June 2026",
+     "short": "lava, June 2026"
+    }
+   ],
+   "fountain": {
+    "m": 540,
+    "ft": 1770,
+    "vent_m": 1075,
+    "label": "tallest fountain so far",
+    "short": "tallest fountain",
+    "when": "March 10, 2026"
+   }
+  },
+  "caption": "The summit of Kilauea cut open across Halemaʻumaʻu crater. Heights are to scale and come from USGS; widths and wall shapes are schematic.[[hvofaq]][[usgsinfo]] The fountain is drawn at the height of the tallest one so far. Fountains play for hours, then the vents pause.[[vw50]]"
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "map_zoom": 9,
+ "map_label": "above",
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Kilauea?",
+   "map": true,
+   "paras": [
+    "Kilauea is on the southeastern side of the Island of Hawaiʻi, inside Hawaiʻi Volcanoes National Park, at {coords}.[[gvp]][[usgs]] The nearest towns are Volcano, Pāhoa, Kalapana and Mountain View.[[usgs]] It is one of {n_country} volcanoes in the [United States](/volcanoes-in-united-states) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Kilauea erupting now?",
+   "table": "periods",
+   "paras": [
+    "Kilauea is in an eruption that began at 2:20 a.m. Hawaii time on **{cur_since}** and has not ended.[[usgsinfo]] The Smithsonian listed it as continuing at its last update on {cur_last}.[[gvp]]",
+    "It does not erupt every day. Lava fountains from two vents in Halemaʻumaʻu crater play for hours and stop, and the next episode follows days or weeks later. The first 50 episodes took 551 days, about 11 days apart on average, and a typical one lasted about 15 hours.[[vw50]] USGS logged episode 56 on November 5, 2026: six hours of fountains.[[usgsinfo]]",
+    "The tallest fountain so far reached **{fountain_ft} ft ({fountain_m} m)**, on March 10, 2026.[[vw50]][[usgsinfo]] The lava stays inside the summit caldera, in a part of the national park that is closed to visitors.[[usgs]]",
+    "Before this eruption Kilauea erupted twice in 2024: for a day on June 3, southwest of the caldera, and from September 15 to 20 in and near Nāpau Crater.[[usgshist]] USGS’s current alert level for Kilauea is near the top of this page, with a link to its latest notice.[[hans]]"
+   ]
+  },
+  {
+   "id": "2018",
+   "h": "What happened at Kilauea in 2018?",
+   "aside": "callouts",
+   "paras": [
+    "In 2018 Kilauea had its largest eruption on the lower East Rift Zone, and its largest summit collapse, in at least 200 years.[[usgs2018]]",
+    "Lava broke out in the Leilani Estates subdivision on **May 3, 2018**. A magnitude 6.9 earthquake followed the next day. Over the next three months the flows covered 35.5 square kilometers (more than 8,700 acres), buried more than 700 structures and 30 miles of road, and added 875 acres of new land where they reached the ocean. Active lava was last seen on September 5.[[usgs2018]]",
+    "As magma drained toward the rift, the summit lost its support. The caldera floor dropped in 62 collapses, the last on August 2, and ended more than 1,600 ft (500 m) deeper.[[usgs2018]] The same events ended two long eruptions: the summit lava lake of 2008 to 2018, and the eruption on the East Rift Zone that had run almost without a break since 1983.[[usgs]]",
+    "Lava has been refilling the hole since December 2020. Five eruptions from 2020 to 2023 raised the crater floor to {fill1_ft} ft ({fill1_m} m), and by June 30, 2026 the lava surface averaged {surface_ft} ft ({surface_m} m).[[usgsinfo]] Before the collapse the floor stood at {before_ft} ft.[[hvofaq]] USGS calls its 2026 figures preliminary.[[usgsinfo]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Kilauea?",
+   "paras": [
+    "USGS gives Kilauea’s summit elevation as **{summit_ft} ft ({summit_m} m)**, and the Smithsonian’s list has the same figure.[[usgs]][[gvp]] The observatory’s list of reference heights puts the Uēkahuna overlook, on the caldera rim, a little higher: {rim_ft} ft ({rim_m} m).[[hvofaq]]",
+    "It does not look that tall. USGS describes Kilauea as a bulge on the southeastern flank of its neighbor [Mauna Loa](/volcano/mauna-loa), though it has its own magma system, reaching more than 37 miles (60 km) down.[[usgs]]",
+    "Inside the caldera the heights change with the lava. The caldera floor is at {cfloor_ft} ft. The floor of Halemaʻumaʻu crater fell from {before_ft} ft to {pit_ft} ft in 2018 and has been rising since.[[hvofaq]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Kilauea?",
+   "paras": [
+    "Kilauea is a **[shield volcano](/types-of-volcanoes)** made of basalt, with long, shallow slopes.[[usgs]][[nps]] The Smithsonian lists its main rock as {rock}.[[gvp]]",
+    "At its summit is a caldera, Kaluapele, with Halemaʻumaʻu crater inside it. Two rift zones run from the summit, one to the east and one to the southwest, and most eruptions away from the summit happen along them.[[usgs]][[nps]]",
+    "Most of its eruptions are quiet outflows of fluid lava, at times with lava fountains. Not all of them: deposits around the summit show that Kilauea has exploded about as often as the volcanoes of the Cascade Range, [Mount St. Helens](/volcano/st-helens) among them. In May 1924, steam explosions threw rocks of up to 8 tons as far as two-thirds of a mile from Halemaʻumaʻu.[[fs132]]"
+   ]
+  },
+  {
+   "id": "old",
+   "h": "How old is Kilauea?",
+   "paras": [
+    "Kilauea began forming on the sea floor roughly **280,000 years ago**. Its surface is far younger: lava has covered almost 90 percent of it within the last 1,000 years.[[nps]]",
+    "The name is Hawaiian. The National Park Service gives its meaning as “spewing” or “much spreading”.[[nps]]",
+    "The oldest of the {n_all} eruptions in the Smithsonian’s list is from around {oldest}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Kilauea erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** of Kilauea, {n_since} of them since {since_year}.[[gvp]] USGS says it has erupted dozens of times since 1952 and ranks it among the most active volcanoes in the world.[[usgs]]",
+    "Some entries in the list last a single day. Two run for decades: the eruptions of {long1_span} ({long1_years} years) and {long2_span} ({long2_years} years).[[gvp]]",
+    "Most are small on the [Volcanic Explosivity Index](/volcanic-explosivity-index). The list rates {n_vei0} of the {n_all} at VEI 0, the gentlest class. The largest, in {largest_year}, is rated VEI {max_vei}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "deadly",
+   "h": "How dangerous is Kilauea?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts, use the USGS Hawaiian Volcano Observatory.[[hans]]",
+   "paras": [
+    "USGS rates Kilauea’s threat potential as **Very High**.[[usgs]]",
+    "Its deadliest eruption on record came in about 1790. An explosion at the summit sent hot ash and gas across a party of warriors and their families who were passing the crater. USGS puts the deaths at no fewer than 80 and perhaps hundreds.[[fs132]] Estimates run from about 80 to 5,405.[[vw1790]] NOAA’s database lists {worst_deaths}.[[noaa]]",
+    "NOAA lists **{noaa_n} significant events at Kilauea**.[[noaa]] The explosions of 1924 killed one person, a photographer hit by falling rocks and hot mud.[[fs132]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Kilauea’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Kilauea has **{n_all} confirmed eruptions**. People saw and reported {n_observed} of them. The other {n_dated} were dated afterwards, most by radiocarbon and the rest from ash layers, the magnetism of old lava flows and archaeology.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2018",
+ "callouts": [
+  {
+   "number": "875",
+   "unit": "acres",
+   "text": "New land the 2018 lava added to the Island of Hawaiʻi where it reached the ocean.",
+   "source": "Source: U.S. Geological Survey.[[usgs2018]]"
+  },
+  {
+   "number": "62",
+   "unit": "collapses",
+   "text": "Times the summit caldera floor dropped in 2018, the last on August 2. It ended more than 1,600 ft (500 m) deeper.",
+   "source": "Source: U.S. Geological Survey.[[usgs2018]]"
+  }
+ ],
+ "faq_h": "Kilauea questions and answers",
+ "faq": [
+  [
+   "Is Kilauea erupting right now?",
+   "Kilauea is in an eruption that began on {cur_since}. It comes in episodes: lava fountains for hours, then pauses of days or weeks. USGS’s alert level near the top of this page shows the current state."
+  ],
+  [
+   "When did Kilauea last erupt?",
+   "Its current eruption began on {cur_since}, and the Smithsonian lists it as continuing. The eruption before it ran from {prev_start} to {prev_end}."
+  ],
+  [
+   "How tall is Kilauea?",
+   "{summit_ft} ft ({summit_m} m) at the summit, by USGS’s figure. USGS lists the Uēkahuna overlook on the caldera rim at {rim_ft} ft."
+  ],
+  [
+   "What type of volcano is Kilauea?",
+   "A shield volcano: broad and low, built from fluid basalt lava."
+  ],
+  [
+   "Where is Kilauea?",
+   "On the southeastern side of the Island of Hawaiʻi, inside Hawaiʻi Volcanoes National Park."
+  ],
+  [
+   "How many times has Kilauea erupted?",
+   "The Smithsonian’s list has {n_all} confirmed eruptions, {n_since} of them since {since_year}."
+  ],
+  [
+   "What happened at Kilauea in 2018?",
+   "Lava from the lower East Rift Zone buried more than 700 structures and added 875 acres of land, and the summit caldera floor dropped more than 1,600 ft in 62 collapses."
+  ],
+  [
+   "How old is Kilauea?",
+   "It began forming on the sea floor roughly 280,000 years ago, according to the National Park Service."
+  ],
+  [
+   "What does the name Kilauea mean?",
+   "The National Park Service gives the meaning of the Hawaiian name Kīlauea as “spewing” or “much spreading”."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Kilauea record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=332010"
+  },
+  {
+   "id": "hans",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Notification Service",
+   "url": "https://volcanoes.usgs.gov/hans-public/"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "usgs",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Kīlauea",
+   "url": "https://www.usgs.gov/volcanoes/kilauea"
+  },
+  {
+   "id": "usgsinfo",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Kīlauea: Eruption Information (timeline of episodes and crater statistics)",
+   "url": "https://www.usgs.gov/volcanoes/kilauea/science/eruption-information"
+  },
+  {
+   "id": "hvofaq",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Frequently Asked Questions about Kīlauea’s summit eruption",
+   "url": "https://www.usgs.gov/observatories/hvo/frequently-asked-questions-about-kilaueas-summit-eruption"
+  },
+  {
+   "id": "vw50",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: Fifty fountaining episodes at Kīlauea summit (July 2, 2026)",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-hawaii-five-o-fifty-fountaining-episodes-kilauea-summit"
+  },
+  {
+   "id": "usgs2018",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "2018 lower East Rift Zone Eruption and Summit Collapse at Kīlauea",
+   "url": "https://www.usgs.gov/volcanoes/kilauea/science/2018-lower-east-rift-zone-eruption-and-summit-collapse-kilauea"
+  },
+  {
+   "id": "usgshist",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Kīlauea: Geology and History",
+   "url": "https://www.usgs.gov/volcanoes/kilauea/science/geology-and-history"
+  },
+  {
+   "id": "fs132",
+   "publisher": "U.S. Geological Survey",
+   "title": "Explosive Eruptions at Kīlauea Volcano, Hawaiʻi? (Fact Sheet 132-98)",
+   "url": "https://pubs.usgs.gov/fs/fs132-98/"
+  },
+  {
+   "id": "vw1790",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: Footprints in Kaʻū were probably made in 1790 (August 28, 2008)",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-footprints-kau-were-probably-made-1790-not-keouas-party"
+  },
+  {
+   "id": "nps",
+   "publisher": "National Park Service, Hawaiʻi Volcanoes National Park",
+   "title": "Kīlauea",
+   "url": "https://www.nps.gov/havo/learn/nature/kilauea.htm"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}; USGS logged the 56th fountain episode on November 5, 2026.",
+  "**{drop_ft} ft:** {before_ft} ft, the floor of Halemaʻumaʻu before the 2018 collapse, minus {pit_ft} ft after it. **{short_ft} ft:** {before_ft} ft minus {surface_ft} ft, the average lava surface on June 30, 2026. All four heights are USGS’s; it calls the 2026 one preliminary.",
+  "Feet in the drawing are the ones USGS prints beside its meters.",
+  "The volcano’s name is spelled Kīlauea in Hawaiian. This page uses the spelling in the Smithsonian’s list."
+ ],
+ "expect": {
+  "cur_since": "December 23, 2024",
+  "prev_start": "September 15",
+  "prev_end": "September 20, 2024",
+  "n_all": "75",
+  "n_since": "41",
+  "n_vei0": "56",
+  "max_vei": "4",
+  "largest_year": "1790",
+  "long1_span": "1823 to 1894",
+  "long2_span": "1983 to 2018",
+  "noaa_n": "16",
+  "worst_deaths": "5,405",
+  "n_observed": "45",
+  "n_dated": "30",
+  "summit_ft": "4,009"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null
+}

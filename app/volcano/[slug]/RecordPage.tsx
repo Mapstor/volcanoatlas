@@ -5,7 +5,7 @@ import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
 import LazyMap from '@/components/record/LazyMap';
 import { SectionDrawing, Timeline } from '@/components/record/figures';
 import { getAllVolcanoes } from '@/lib/data';
-import { endLabel, isoToYmd, longDate, METHOD_LABEL, MONTHS, startLabel } from '@/lib/eruptions';
+import { endLabel, fmt, isoToYmd, longDate, METHOD_LABEL, MONTHS, startLabel } from '@/lib/eruptions';
 import { buildRecordData, fill, noaaDate, plain, possessive, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
 import { countryHref, resolveInternalPath } from '@/lib/routes';
 import { AUTHOR, SITE_URL, gvpVolcanoUrl } from '@/lib/site';
@@ -178,7 +178,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               <tr key={row.eruption.n}>
                 <td>{row.startText}</td>
                 <td>{row.endText}</td>
-                <td className="va-dur">{tie(row.length)}</td>
+                {/* a continuing eruption is counted to today, like the page's main number */}
+                <td className="va-dur">{tie(row.continuing && ctx.cur_number ? `${ctx.cur_number} ${ctx.cur_unit} so far` : row.length)}</td>
                 <td className="va-dur">
                   {row.continuing
                     ? ''
@@ -219,7 +220,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   <a href={`${NOAA_EVENT}${event.id}`} rel="noopener">{noaaDate(event)}</a>
                 </td>
                 <td className="va-num">{event.vei ?? 'not given'}</td>
-                <td className="va-num">{event.deaths > 0 ? event.deaths : 'none'}</td>
+                <td className="va-num">{event.deaths > 0 ? fmt(event.deaths) : 'none'}</td>
                 <td>{event.tsunami ? 'yes' : 'no'}</td>
               </tr>
             ))}

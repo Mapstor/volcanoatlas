@@ -89,7 +89,10 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
    floor. Volcano on land or rising straight from the water (Mount St. Helens, Mount Erebus): sea level at the bottom,
    the land around the volcano as a band, the cone above it, so two heights are to scale; an earlier, higher summit is
    a dashed red outline, a crater is cut to its real depth, and the drawing is made shorter instead of letting the
-   cone grow taller than half its base. Nothing erupts in the drawing of a volcano that is not erupting.
+   cone grow taller than half its base. Summit caldera (Kilauea): the top of the volcano only, cut across the
+   collapse pit: rim, caldera floor, the pit's bottom, the lava layers that have refilled it and the tallest lava
+   fountain, all to one scale, with the pit's levels written on the rock beside it; the fountain climbs and sinks
+   from its vent. Nothing erupts in the drawing of a volcano that is not erupting.
 6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link. For a
    volcano in the United States it also gives the USGS alert level and aviation color code with the notice's date and
    link, read from the USGS service when the page is rendered.
