@@ -97,7 +97,7 @@ volcano/fonualei,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pen
 volcano/fuego,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/fujisan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/furnas,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/galeras,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/galeras,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending; on hold since 2026-11-17: the Colombian survey's newest weekly bulletin and general page need the owner's presence to be read (DEVLOG §5)
 volcano/gamalama,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/gaua,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/gorely,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
@@ -177,7 +177,7 @@ volcano/semeru,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/sete-cidades,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/sheveluch,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/shikotsu,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/shishaldin,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/shishaldin,volcanoes,data,informational,the live USGS alert level beside the observatory’s dated statement (lowered to NORMAL on 2 Nov 2026 after more than a year of unrest); the 2023 eruption event by event in the observatory’s own numbers; the eruptions of 2019–2020 and 1999; the Smithsonian’s record with lengths and gaps,gvp-eruptions,T2,live,"record page built 2026-11-18 (batch 16); also uses usgs-hans, observatory-usgs, noaa-ncei-volcano and noaa-etopo; every observatory and paper link was fetched and read on 2026-11-17; waits for the owner's read before his name goes on"
 volcano/soufriere-guadeloupe,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/soufriere-hills,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/soufriere-st-vincent,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
