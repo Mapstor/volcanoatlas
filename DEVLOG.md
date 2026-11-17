@@ -3,12 +3,12 @@
 
 ## §0 Resume here
 _last update: 2026-11-17 · VOL-014_
-- Step: all pages — the ten-page step is complete; 11 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal and Mount Pelee without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
-- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 11 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 9 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee).
-- Last confirmed: VOL-013 PELEE — live (d16dea0): Mount Pelee as a record page (see §6). VOL-014 ASAMA — done (pushed on its work branch): Mount Asama as a record page at /volcano/asamayama; the preview look, the merge and the live check follow.
+- Step: all pages — the ten-page step is complete; 12 live since 2026-11-17: Stromboli and Mauna Loa with the owner's review; Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima (/volcano/aira), Arenal, Mount Pelee and Mount Asama (/volcano/asamayama) without his name until he says which he has read. Owner's word of 2026-11-17 17:34: "looks nice, go" (carry on with the rest). Look picked 2026-11-16 (A "the record strip" with the animated cut-open volcano from B). Canvas: https://claude.ai/artifact/Ju8LCNp1RwWPEcb1nscaAf
+- Phase: page-by-page rebuild until every page passes the four scores (sourcing, prose, design, Raptive). Owner's word of 2026-11-17: "do all pages like this", all four scores perfect on every page. Pages rebuilt and live: 12 of 213. Finished with the owner's review: 2 (Stromboli, Mauna Loa); waiting for his read: 10 (Mount St. Helens, Mount Erebus, Kilauea, Eyjafjallajokull, Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee, Mount Asama).
+- Last confirmed: VOL-014 ASAMA — live (b522b62): Mount Asama as a record page at /volcano/asamayama (see §6).
 - In flight (handed, NOT confirmed): none
 - Next action: Rabaul (252140), Villarrica (357120) and the rest by search demand. Pelee was taken first because its observatory's reports were readable; for these two the current statement of the observatory still has to be found (Rabaul's observatory has no site of its own). Japan's volcanoes are easier than they looked: the weather agency has a plain status page for each (§4). Research notes of a volcano go into a notes file as each source is read, so a break in the session loses nothing. Novarupta and Krakatau wait for their own pieces (§5). Each page: data sheet from the site's own files (/home/claude/tools/sheet.py in a session), observatory pages read incl. its current statement on activity (`since_check`), profile written, checks, map with real tiles, preview looked at in the owner's Chrome, merged, production checked.
-- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal and Mount Pelee are new since then.
+- Waiting on owner: he wrote "looks nice, go" on 2026-11-17 without naming pages; asked the same day which of Mount St. Helens, Mount Erebus, Kilauea and Eyjafjallajokull he read. His name and the date go only on the pages he names. Mount Pinatubo, Cotopaxi, Sakurajima, Arenal, Mount Pelee and Mount Asama are new since then.
 - Open questions:
   - Contact address: /contact names info@volcanosatlas.com, and the owner runs no mailbox on his domains. Settle in the trust-frame step (forwarder or form).
   - Keep the "How the site is made" paragraph on /about as worded? (owner may veto)
@@ -415,6 +415,14 @@ _last update: 2026-11-17 · VOL-014_
 - Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone. The agency's pages were read through a fetch that summarises (the Japanese status page in translation); the catalogue chapter was read twice and the page follows the second, more exact reading.
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/asamayama. Deaths of 1783: the agency's 1,151 and NOAA's 1,491 are both on the page. The dammed river is given in the catalogue's own spelling ("Azuma"). The agency's status pages can be read (§4), so Sakurajima can get its alert level too (§5).
+
+### 2026-11-17 · VOL-014 ASAMA · chat · live
+- What: pull request 24 merged (merge commit b522b62) on a green status after one preview; Mount Asama is live as a record page.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name under the marker, drawing, status box, the 1783 section and callouts), the other eleven rebuilt pages and the Japan page fetched on it (200, no raw markup, bylines as intended); Vercel production build of b522b62 READY; on www.volcanosatlas.com/volcano/asamayama in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box present, no byline (by design), page in the sitemap.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: b522b62 (merged)
+- Notes: the Japan country page still lists the volcano as Asamayama (country pages are not rebuilt yet).
 
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
