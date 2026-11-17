@@ -59,7 +59,7 @@ volcanoes-in-united-states,countries,data,informational,,gvp-volcanoes,T1,live,r
 volcanoes-in-vanuatu,countries,data,informational,,gvp-volcanoes,T2,live,rebuild pending
 volcanoes-in-yemen,countries,data,informational,,gvp-volcanoes,T2,live,rebuild pending
 volcano/agua-de-pau,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/aira,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/aira,volcanoes,data,informational,the island that became a peninsula: the 1914 eruption by the clock from Japan’s weather agency; six decades of explosions counted year by year; the Smithsonian’s current-eruption listing with its date,gvp-eruptions,T2,live,"record page built 2026-11-17 (batch 7) under the name Sakurajima; also uses noaa-ncei-volcano, gvp-weekly and observatory-pages; waits for the owner's read before his name goes on"
 volcano/akutan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/ambae,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/ambrym,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
