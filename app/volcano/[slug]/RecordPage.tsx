@@ -355,7 +355,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               {plain(profile.big.unit, ctx)}
             </p>
             <p className="va-hand va-note1">
-              {weekly && profile.big.note_weekly ? fill(profile.big.note_weekly, { ...ctx, period: weekly.periodShort }) : plain(profile.big.note, ctx)}
+              {weekly && !weekly.stale && profile.big.note_weekly ? fill(profile.big.note_weekly, { ...ctx, period: weekly.periodShort }) : plain(profile.big.note, ctx)}
             </p>
           </div>
 
@@ -406,12 +406,15 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                     {USGS_RANK[usgs.alertLevel] ? ` ${usgs.alertLevel} is ${USGS_RANK[usgs.alertLevel]} of the agency’s four alert levels.` : ''}
                   </p>
                 )}
+                {/* A feed that has stopped is not "the latest": the Smithsonian's site can carry newer reports than its feed. */}
                 {weekly && (
                   <p>
-                    <strong>Latest weekly report: {weekly.period}.</strong> {name} is in the Smithsonian / USGS Weekly Volcanic Activity Report for
-                    that week{weekly.section ? `, listed as “${weekly.section}”` : ''}.
+                    <strong>{weekly.stale ? `Weekly report of ${weekly.period}.` : `Latest weekly report: ${weekly.period}.`}</strong> {name}{' '}
+                    {weekly.stale ? 'was' : 'is'} in the Smithsonian / USGS Weekly Volcanic Activity Report for that week
+                    {weekly.section ? `, listed as “${weekly.section}”` : ''}.
                     <span dangerouslySetInnerHTML={{ __html: ref('weekly') }} />
-                    {weekly.stale && ` That is the newest report in the Smithsonian’s feed, which was last updated on ${weekly.published}.`}
+                    {weekly.stale &&
+                      ` The Smithsonian’s feed has not been updated since ${weekly.published}, so this may not be its newest report: its site may have later ones.`}
                   </p>
                 )}
                 <p className="va-weeklylinks">

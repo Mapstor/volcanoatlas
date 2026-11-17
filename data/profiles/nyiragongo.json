@@ -1,0 +1,284 @@
+{
+ "slug": "nyiragongo",
+ "volcano_number": 223030,
+ "name": "Nyiragongo",
+ "country": "DR Congo",
+ "title": "Mount Nyiragongo: Eruption Now, 2021 & 2002 Eruptions, Facts",
+ "description": "Nyiragongo stands 10 miles north of Goma in DR Congo. The Smithsonian lists it as erupting since 2002. The eruptions of 1977, 2002 and 2021, its lava lake, height and record.",
+ "h1": "Mount Nyiragongo",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1884
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "one long eruption on the list",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Nyiragongo stands 10 miles north of Goma, a city in the east of the Democratic Republic of the Congo. Lava lakes have filled its summit crater for much of the past century, and three times since 1977 lava has burst from its flanks. In 2002 and 2021 it reached the city. Below: its state now, those three eruptions, its height, and every eruption on record.",
+ "answer": "**Nyiragongo is erupting, by the Smithsonian’s list**, which counts one eruption since {cur_since} and had it as continuing at its last update.[[gvp]] The volcano is in the Democratic Republic of the Congo, 10 miles (16 km) north of the city of Goma,[[usgsvw2]] and is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] Its last flank eruption, on May 22, 2021, sent lava to the edge of Goma and killed at least 32 people.[[bgvn2106]]",
+ "timeline": {
+  "from": 1880,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1977.03,
+    "label": "1977"
+   },
+   {
+    "year": 2002.05,
+    "label": "2002"
+   },
+   {
+    "year": 2021.39,
+    "label": "2021"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The two long raised stretches are single entries on the list: one that ended when the lava lake drained in January 1977, and the one it has as continuing since 2002."
+ },
+ "section": {
+  "kind": "land",
+  "note": "a lava lake forms in here",
+  "crater": "0.75-mile crater",
+  "crater_share": 0.12,
+  "caption": "Nyiragongo cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] The summit crater is steep-walled and 0.75 mile (1.2 km) wide, with benches that mark the levels of earlier lava lakes.[[bgvn2106]]"
+ },
+ "map_zoom": 9,
+ "map_label": "above",
+ "table": {
+  "rows": 6,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Nyiragongo?",
+   "map": true,
+   "paras": [
+    "Nyiragongo is in the east of the [Democratic Republic of the Congo](/volcanoes-in-dr-congo), close to the border with Rwanda, at {coords}.[[bgvn0203]][[gvp]] The city of Goma lies 10 miles (16 km) to the south, on the north shore of Lake Kivu.[[usgsvw2]][[bgvn0203]] The volcano is part of the Virunga Volcanic Province, on the western branch of the East African Rift.[[bgvn2106]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Nyiragongo erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. It counts a single eruption that began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]] It classes that eruption as a lava lake, and it keeps an eruption on its list of continuing ones as long as activity returns without a break of three months or more.[[gvpcur]]",
+    "The Goma Volcano Observatory watches the volcano. This page has its statements only as the Smithsonian’s weekly reports relay them. In February 2023 the observatory reported that the lava lake in the crater was still active. In the report for March 20 to 26, 2024 it kept the alert at Yellow and said carbon dioxide remained at lethal levels in the “mazuku”, low-lying spots in the west of Goma.[[gvp]]",
+    "The Smithsonian’s later reports rest on satellite images. One taken on July 5, 2024 showed a dark, elliptical area of lava on the crater floor, with gas and steam that appeared to rise from two vents at its center.[[gvp]] This page has no later report from the crater."
+   ]
+  },
+  {
+   "id": "2021",
+   "h": "What happened in the 2021 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "At about 6:15 p.m. on **May 22, 2021** the earthquakes under the volcano spiked. The lava lake in the crater drained, and at least two fissures opened low on the south flank.[[bgvn2106]] Lava from one of them ran south into communities just north of Goma and set many houses on fire.[[gvpw21]]",
+    "On May 22 and 23 the flow may have been as much as 0.6 mile (1 km) wide. It stopped about 0.8 mile (1.25 km) short of Goma’s international airport. At least 32 people died, and the eruption destroyed 3,629 homes, 12 schools and 3 health facilities.[[bgvn2106]] Initial reports had about 12 of the dead killed by lava and gas as they crossed the flows, and most of the others in accidents while fleeing.[[gvpw21]]",
+    "The lava had come from a dike, a sheet of magma that pushed in under the volcano and under Goma itself and probably reached under Lake Kivu. Strong earthquakes went on after the lava stopped: more than 130 were recorded in 24 hours on May 25. On May 27 the authorities ordered at least 400,000 residents of about ten districts to leave. The earthquakes began to ease on May 28 and 29.[[bgvn2106]]",
+    "On April 29, 2021, three weeks before the eruption, scientists of the U.S. Geological Survey wrote that the lava lake had risen to a high level, roughly like the levels before the eruptions of 1977 and 2002, and that one study had forecast this could lead to a new flank eruption in several years.[[usgsvw3]]"
+   ]
+  },
+  {
+   "id": "2002",
+   "h": "What happened in the 2002 eruption?",
+   "paras": [
+    "At 8:35 a.m. on **January 17, 2002** a fracture high on the south flank began to erupt. In under eight hours the fractures ran about 6 miles (10 km) down toward Goma, and the lowest vents opened near the city. Over two days an estimated 26 million cubic yards (20 million cubic m) of lava poured out. The flows reached Lake Kivu, destroying at least 13% of Goma’s area on the way[[bgvn0203]] and cutting the city in half.[[usgsvw2]]",
+    "At least 300,000 people fled, most of them toward Gisenyi, across the border in Rwanda, and many returned within a day or two. More than 40,000 were left homeless by the Smithsonian’s bulletin;[[bgvn0203]] a U.S. Geological Survey article of 2021 has 120,000.[[usgsvw3]] Geological Survey scientists writing two weeks after the eruption counted 14 villages destroyed, and a flow more than 200 ft (60 m) across at its widest where it cut into Goma.[[usgsvw1]]",
+    "The counts of the dead differ. The Smithsonian’s bulletin of March 2002 has about 100 people dead as a direct or indirect result of the eruption, and NOAA’s database lists {worst_deaths}.[[bgvn0203]][[noaa]] The Smithsonian’s weekly report at the time had about 45 dead, and 50 to 100 more killed when tanks at a gas station exploded.[[gvp]] A Geological Survey article of 2009 has about 50.[[usgsvw2]]"
+   ]
+  },
+  {
+   "id": "1977",
+   "h": "What happened in 1977?",
+   "paras": [
+    "A lava lake had been active in the summit crater for half a century when, on January 10, 1977, fractures opened in the volcano’s flanks and it drained.[[bgvn2106]][[usgsvw2]] Within an hour, 26 to 29 million cubic yards (20 to 22 million cubic m) of lava had poured out, and the flows ran downhill at up to 37 miles (60 km) an hour, by the Smithsonian’s report of the time.[[gvp]] Some observers put the top speed at 62 miles (100 km) an hour.[[usgsvw1]]",
+    "The lava did not reach Goma.[[usgsvw1]] The Smithsonian’s report has about 70 people killed and about 800 left homeless.[[gvp]] A U.S. Geological Survey article of 2002 noted that some reports put the dead in the thousands, and that the exact number will never be known.[[usgsvw1]] Rising lake levels had come before both this eruption and the one of 2002.[[usgsvw3]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Nyiragongo?",
+   "paras": [
+    "Nyiragongo is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "Its summit crater is 0.75 mile (1.2 km) wide and steep-walled. Benches on its walls mark the levels of earlier lava lakes.[[bgvn2106]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Nyiragongo?",
+   "paras": [
+    "The Smithsonian classes Nyiragongo as a **[stratovolcano](/types-of-volcanoes)**. Its steep slopes set it apart from the low profile of Nyamuragira, the shield volcano next to it. About 100 smaller cones lie on its flanks and along a line that runs to Lake Kivu.[[gvp]][[bgvn2106]]",
+    "The Smithsonian lists its main rock as {rock}.[[gvp]] Its lava can be extremely fluid, as in 1977;[[bgvn2106]] U.S. Geological Survey scientists put the speed of those flows down to the lava’s very low silica content.[[usgsvw2]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Nyiragongo erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, the first in {since_year}.[[gvp]] Two of its entries run for decades: lava-lake activity from 1927 to January 1977, and the eruption it has as continuing since 2002.[[gvp]]",
+    "The flank eruptions are rarer and far more dangerous. There have been three since the start of 1977: in January 1977, January 2002 and May 2021.[[gvp]][[bgvn0203]][[bgvn2106]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Nyiragongo dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Goma Volcano Observatory and the local authorities.",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Nyiragongo. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]] For 1977 the Smithsonian’s report of the time has about 70 dead;[[gvp]] NOAA’s table below carries its own counts.",
+    "About 1.5 million people in Goma and in Gisenyi, across the border in Rwanda, live with the threat of new lava flows, by a 2018 study in the U.S. Geological Survey’s publications catalog. The study says fractures run from the summit to Goma and on under Lake Kivu.[[usgspub]] Gas is a second danger: the observatory has reported lethal levels of carbon dioxide in the “mazuku”, low spots on the west side of Goma.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Nyiragongo’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Nyiragongo has **{n_all} confirmed eruptions**, {n_observed} of them known from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "May 2021",
+ "callouts": [
+  {
+   "number": "32",
+   "unit": "deaths",
+   "text": "At least, in the eruption of May 22, 2021. Initial reports had about 12 killed by lava and gas, and most of the others in accidents while fleeing.",
+   "source": "Sources: Smithsonian bulletin and weekly report.[[bgvn2106]][[gvpw21]]"
+  },
+  {
+   "number": "400,000",
+   "unit": "people",
+   "text": "Ordered to leave about ten districts of Goma on May 27, 2021, as the earthquakes went on.",
+   "source": "Source: Smithsonian bulletin.[[bgvn2106]]"
+  }
+ ],
+ "faq_h": "Nyiragongo questions and answers",
+ "faq": [
+  [
+   "Is Nyiragongo erupting now?",
+   "By the Smithsonian’s list, yes: it counts one eruption since {cur_since} and had it as continuing at its last update, on {cur_last}."
+  ],
+  [
+   "Where is Mount Nyiragongo?",
+   "In the east of the Democratic Republic of the Congo, 10 miles (16 km) north of the city of Goma and Lake Kivu."
+  ],
+  [
+   "How tall is Mount Nyiragongo?",
+   "{summit_ft} ft ({summit_m} m)."
+  ],
+  [
+   "When did Nyiragongo last send lava toward Goma?",
+   "On May 22, 2021. The flow stopped about 0.8 mile (1.25 km) from Goma’s international airport, and at least 32 people died."
+  ],
+  [
+   "How many people died in the 2002 eruption?",
+   "The counts differ: the Smithsonian’s bulletin has about 100 and NOAA’s database lists {worst_deaths}, while a U.S. Geological Survey article of 2009 has about 50."
+  ],
+  [
+   "Does Nyiragongo have a lava lake?",
+   "Lava lakes have filled its summit crater for much of the past century, and drained through the flanks in 1977, 2002 and 2021. In February 2023 the Goma observatory reported a lava lake active in the crater, and a satellite image of July 5, 2024 showed lava on the crater floor."
+  ],
+  [
+   "What type of volcano is Nyiragongo?",
+   "A stratovolcano, by the Smithsonian’s classification."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Nyiragongo record, eruption list, weekly reports and bulletin reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=223030"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "bgvn2106",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 46:06 (June 2021): Nyiragongo, with the geological summary",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202106-223030"
+  },
+  {
+   "id": "gvpw21",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Weekly Volcanic Activity Report, 19–25 May 2021: Nyiragongo",
+   "url": "https://volcano.si.edu/reports_weekly.cfm?weekstart=20210519"
+  },
+  {
+   "id": "bgvn0203",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 27:03 (March 2002): Nyiragongo",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN200203-223030"
+  },
+  {
+   "id": "gvpcur",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Current Eruptions: the list of continuing eruptions and how it is kept",
+   "url": "https://volcano.si.edu/gvp_currenteruptions.cfm"
+  },
+  {
+   "id": "usgsvw1",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: Nyiragongo, could it happen here? (January 31, 2002)",
+   "url": "https://www.usgs.gov/news/volcano-watch-nyirangongo-could-it-happen-here"
+  },
+  {
+   "id": "usgsvw2",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: Central African metropolis again threatened by looming volcanic activity (April 16, 2009)",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-central-african-metropolis-again-threatened-looming-volcanic"
+  },
+  {
+   "id": "usgsvw3",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Watch: The rise and fall of lava lakes (April 29, 2021)",
+   "url": "https://www.usgs.gov/news/volcano-watch-rise-and-fall-lava-lakes"
+  },
+  {
+   "id": "usgspub",
+   "publisher": "U.S. Geological Survey Publications Warehouse",
+   "title": "Balagizi and others (2018), Natural hazards in Goma and the surrounding villages, East African Rift System, Natural Hazards 93 (abstract)",
+   "url": "https://pubs.usgs.gov/publication/70196635"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and cubic yards are converted from the metric figures in the sources and rounded.",
+  "Times of day are local, as the sources give them."
+ ],
+ "expect": {
+  "cur_since": "May 17, 2002 (date uncertain)",
+  "summit_m": "3,470",
+  "n_all": "19",
+  "noaa_n": "4",
+  "worst_deaths": "100",
+  "worst_date": "January 17, 2002"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null
+}
