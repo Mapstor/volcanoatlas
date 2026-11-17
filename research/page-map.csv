@@ -88,7 +88,7 @@ volcano/cotopaxi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pen
 volcano/crater-lake,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/deception-island,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/east-epi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/erebus,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/erebus,volcanoes,data,informational,53 years of one eruption on a strip; where it ranks among the eruptions still going; the lava lake,gvp-eruptions,T2,live,rebuilt as a record page 2026-11-17; waits for the owner’s read before his name goes on
 volcano/erta-ale,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/etna,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/eyjafjallajokull,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
@@ -133,7 +133,7 @@ volcano/lopevi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/manam,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/marapi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/masaya,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/mauna-loa,volcanoes,data,informational,three heights of the volcano to scale in one drawing; every dated eruption since 1843 on a strip; USGS alert level read live,gvp-eruptions,T2,live,"rebuilt as a record page (shield drawing, strip of separate eruptions); on a preview since 2026-11-17, waiting for the owner’s look. Not counted as finished yet"
+volcano/mauna-loa,volcanoes,data,informational,three heights of the volcano to scale in one drawing; every dated eruption since 1843 on a strip; USGS alert level read live,gvp-eruptions,T2,live,rebuilt as a record page; live since 2026-11-17 with the owner’s review. Finished page 2 of 213
 volcano/mayon,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/merapi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/michoacan-guanajuato,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
@@ -181,7 +181,7 @@ volcano/shishaldin,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild p
 volcano/soufriere-guadeloupe,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/soufriere-hills,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/soufriere-st-vincent,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/st-helens,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/st-helens,volcanoes,data,informational,"the summit before and after May 18, 1980 in one drawing to scale; strip of every eruption since 1800; USGS alert level read live",gvp-eruptions,T2,live,rebuilt as a record page 2026-11-17 (land drawing); waits for the owner’s read before his name goes on
 volcano/stromboli,volcanoes,data,informational,share of days in eruption since 1857; rank among continuing eruptions; NOAA table of deadly and tsunami events,gvp-eruptions,T1,live,rebuilt as a record page (look A with the cut-open volcano from B); read by the owner and live since 2026-11-17. Finished page 1 of 213
 volcano/taal,volcanoes,data,informational,,gvp-eruptions,T1,live,rebuild pending
 volcano/tacana,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

@@ -1,0 +1,1196 @@
+{
+"_meta": {
+"source": "ETOPO 2022 15 Arc-Second Global Relief Model, surface elevation",
+"publisher": "NOAA National Centers for Environmental Information",
+"doi": "10.25921/fd45-gt74",
+"url": "https://www.ncei.noaa.gov/products/etopo-global-relief-model",
+"retrieved": "2026-11-17",
+"method": "Median height of the grid cells 14 to 16 km from the summit coordinates in the Smithsonian list; land and sea cells are taken separately."
+},
+"ground": {
+"211010": {
+"name": "Campi Flegrei",
+"cells": 1168,
+"sea_share": 0.63,
+"land_m": 50,
+"sea_floor_m": -119,
+"peak_m": 218
+},
+"211020": {
+"name": "Vesuvius",
+"cells": 1175,
+"sea_share": 0.27,
+"land_m": 34,
+"sea_floor_m": -122,
+"peak_m": 1172
+},
+"211040": {
+"name": "Stromboli",
+"cells": 1122,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -2085,
+"peak_m": 817
+},
+"211050": {
+"name": "Vulcano",
+"cells": 1138,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1100,
+"peak_m": 409
+},
+"211060": {
+"name": "Etna",
+"cells": 1111,
+"sea_share": 0.0,
+"land_m": 641,
+"sea_floor_m": null,
+"peak_m": 3253
+},
+"212040": {
+"name": "Santorini",
+"cells": 1109,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -342,
+"peak_m": 86
+},
+"221080": {
+"name": "Erta Ale",
+"cells": 902,
+"sea_share": 0.34,
+"land_m": 90,
+"sea_floor_m": -34,
+"peak_m": 574
+},
+"222120": {
+"name": "Lengai, Ol Doinyo",
+"cells": 875,
+"sea_share": 0.0,
+"land_m": 1265,
+"sea_floor_m": null,
+"peak_m": 2864
+},
+"223020": {
+"name": "Nyamulagira",
+"cells": 882,
+"sea_share": 0.0,
+"land_m": 1879,
+"sea_floor_m": null,
+"peak_m": 2988
+},
+"223030": {
+"name": "Nyiragongo",
+"cells": 882,
+"sea_share": 0.0,
+"land_m": 1882,
+"sea_floor_m": null,
+"peak_m": 3327
+},
+"224010": {
+"name": "Cameroon",
+"cells": 887,
+"sea_share": 0.0,
+"land_m": 684,
+"sea_floor_m": null,
+"peak_m": 3980
+},
+"233010": {
+"name": "Karthala",
+"cells": 906,
+"sea_share": 0.58,
+"land_m": 217,
+"sea_floor_m": -1090,
+"peak_m": 2324
+},
+"233020": {
+"name": "Fournaise, Piton de la",
+"cells": 954,
+"sea_share": 0.32,
+"land_m": 633,
+"sea_floor_m": -513,
+"peak_m": 2570
+},
+"234010": {
+"name": "Heard",
+"cells": 1459,
+"sea_share": 0.95,
+"land_m": 41,
+"sea_floor_m": -76,
+"peak_m": 2619
+},
+"241030": {
+"name": "Taranaki",
+"cells": 1150,
+"sea_share": 0.0,
+"land_m": 275,
+"sea_floor_m": null,
+"peak_m": 2394
+},
+"241040": {
+"name": "Whakaari/White Island",
+"cells": 1113,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -549,
+"peak_m": 238
+},
+"241050": {
+"name": "Okataina",
+"cells": 1112,
+"sea_share": 0.0,
+"land_m": 375,
+"sea_floor_m": null,
+"peak_m": 716
+},
+"241080": {
+"name": "Tongariro",
+"cells": 1133,
+"sea_share": 0.0,
+"land_m": 815,
+"sea_floor_m": null,
+"peak_m": 2196
+},
+"241100": {
+"name": "Ruapehu",
+"cells": 1142,
+"sea_share": 0.0,
+"land_m": 892,
+"sea_floor_m": null,
+"peak_m": 2671
+},
+"243040": {
+"name": "Hunga Tonga-Hunga Ha'apai",
+"cells": 942,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1479,
+"peak_m": 59
+},
+"243080": {
+"name": "Home Reef",
+"cells": 936,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1220,
+"peak_m": 56
+},
+"243100": {
+"name": "Fonualei",
+"cells": 909,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -905,
+"peak_m": 170
+},
+"243110": {
+"name": "Niuafo'ou",
+"cells": 926,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1869,
+"peak_m": 152
+},
+"251020": {
+"name": "Manam",
+"cells": 887,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1350,
+"peak_m": 1640
+},
+"252080": {
+"name": "Witori",
+"cells": 894,
+"sea_share": 0.21,
+"land_m": 67,
+"sea_floor_m": -116,
+"peak_m": 622
+},
+"252120": {
+"name": "Ulawun",
+"cells": 894,
+"sea_share": 0.26,
+"land_m": 129,
+"sea_floor_m": -96,
+"peak_m": 2235
+},
+"252140": {
+"name": "Rabaul",
+"cells": 882,
+"sea_share": 0.55,
+"land_m": 160,
+"sea_floor_m": -516,
+"peak_m": 178
+},
+"255020": {
+"name": "Bagana",
+"cells": 900,
+"sea_share": 0.0,
+"land_m": 357,
+"sea_floor_m": -24,
+"peak_m": 1706
+},
+"255060": {
+"name": "Kavachi",
+"cells": 902,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1167,
+"peak_m": -97
+},
+"256010": {
+"name": "Tinakula",
+"cells": 886,
+"sea_share": 1.0,
+"land_m": 12,
+"sea_floor_m": -1460,
+"peak_m": 668
+},
+"257020": {
+"name": "Gaua",
+"cells": 903,
+"sea_share": 0.94,
+"land_m": 17,
+"sea_floor_m": -434,
+"peak_m": 685
+},
+"257030": {
+"name": "Ambae",
+"cells": 906,
+"sea_share": 0.83,
+"land_m": 100,
+"sea_floor_m": -1662,
+"peak_m": 1452
+},
+"257040": {
+"name": "Ambrym",
+"cells": 924,
+"sea_share": 0.6,
+"land_m": 99,
+"sea_floor_m": -321,
+"peak_m": 1153
+},
+"257050": {
+"name": "Lopevi",
+"cells": 918,
+"sea_share": 0.92,
+"land_m": 26,
+"sea_floor_m": -372,
+"peak_m": 1240
+},
+"257060": {
+"name": "East Epi",
+"cells": 919,
+"sea_share": 0.74,
+"land_m": 166,
+"sea_floor_m": -337,
+"peak_m": -44
+},
+"260010": {
+"name": "Barren Island",
+"cells": 889,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -2063,
+"peak_m": 294
+},
+"261140": {
+"name": "Marapi",
+"cells": 882,
+"sea_share": 0.0,
+"land_m": 810,
+"sea_floor_m": null,
+"peak_m": 2821
+},
+"262000": {
+"name": "Krakatau",
+"cells": 878,
+"sea_share": 0.97,
+"land_m": 25,
+"sea_floor_m": -88,
+"peak_m": 227
+},
+"263250": {
+"name": "Merapi",
+"cells": 893,
+"sea_share": 0.0,
+"land_m": 486,
+"sea_floor_m": null,
+"peak_m": 2801
+},
+"263280": {
+"name": "Kelud",
+"cells": 885,
+"sea_share": 0.0,
+"land_m": 355,
+"sea_floor_m": null,
+"peak_m": 1567
+},
+"263300": {
+"name": "Semeru",
+"cells": 893,
+"sea_share": 0.0,
+"land_m": 724,
+"sea_floor_m": null,
+"peak_m": 3577
+},
+"263310": {
+"name": "Tengger Caldera",
+"cells": 910,
+"sea_share": 0.0,
+"land_m": 1037,
+"sea_floor_m": null,
+"peak_m": 2483
+},
+"263340": {
+"name": "Raung",
+"cells": 882,
+"sea_share": 0.0,
+"land_m": 731,
+"sea_floor_m": null,
+"peak_m": 3166
+},
+"264040": {
+"name": "Tambora",
+"cells": 912,
+"sea_share": 0.0,
+"land_m": 464,
+"sea_floor_m": null,
+"peak_m": 1746
+},
+"267020": {
+"name": "Karangetang",
+"cells": 882,
+"sea_share": 0.92,
+"land_m": 67,
+"sea_floor_m": -1279,
+"peak_m": 1751
+},
+"268060": {
+"name": "Gamalama",
+"cells": 879,
+"sea_share": 0.85,
+"land_m": 222,
+"sea_floor_m": -487,
+"peak_m": 1625
+},
+"272020": {
+"name": "Kanlaon",
+"cells": 895,
+"sea_share": 0.0,
+"land_m": 202,
+"sea_floor_m": null,
+"peak_m": 2394
+},
+"273010": {
+"name": "Bulusan",
+"cells": 900,
+"sea_share": 0.39,
+"land_m": 58,
+"sea_floor_m": -43,
+"peak_m": 1485
+},
+"273030": {
+"name": "Mayon",
+"cells": 908,
+"sea_share": 0.31,
+"land_m": 102,
+"sea_floor_m": -83,
+"peak_m": 2336
+},
+"273070": {
+"name": "Taal",
+"cells": 901,
+"sea_share": 0.0,
+"land_m": 266,
+"sea_floor_m": null,
+"peak_m": 169
+},
+"273083": {
+"name": "Pinatubo",
+"cells": 918,
+"sea_share": 0.0,
+"land_m": 287,
+"sea_floor_m": null,
+"peak_m": 1313
+},
+"282060": {
+"name": "Kikai",
+"cells": 1028,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -300,
+"peak_m": 591
+},
+"282080": {
+"name": "Aira",
+"cells": 1025,
+"sea_share": 0.42,
+"land_m": 170,
+"sea_floor_m": -100,
+"peak_m": 1064
+},
+"282090": {
+"name": "Kirishimayama",
+"cells": 1047,
+"sea_share": 0.0,
+"land_m": 245,
+"sea_floor_m": null,
+"peak_m": 1567
+},
+"282110": {
+"name": "Asosan",
+"cells": 1047,
+"sea_share": 0.0,
+"land_m": 741,
+"sea_floor_m": null,
+"peak_m": 1535
+},
+"283030": {
+"name": "Fujisan",
+"cells": 1078,
+"sea_share": 0.0,
+"land_m": 811,
+"sea_floor_m": null,
+"peak_m": 3681
+},
+"283110": {
+"name": "Asamayama",
+"cells": 1091,
+"sea_share": 0.0,
+"land_m": 976,
+"sea_floor_m": null,
+"peak_m": 2515
+},
+"283190": {
+"name": "Zaozan [Zaosan]",
+"cells": 1109,
+"sea_share": 0.0,
+"land_m": 418,
+"sea_floor_m": null,
+"peak_m": 1804
+},
+"284010": {
+"name": "Izu-Oshima",
+"cells": 1070,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -726,
+"peak_m": 696
+},
+"284040": {
+"name": "Miyakejima",
+"cells": 1055,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -644,
+"peak_m": 671
+},
+"285040": {
+"name": "Shikotsu",
+"cells": 1211,
+"sea_share": 0.17,
+"land_m": 230,
+"sea_floor_m": -21,
+"peak_m": 982
+},
+"290360": {
+"name": "Chikurachki",
+"cells": 1372,
+"sea_share": 0.44,
+"land_m": 211,
+"sea_floor_m": -446,
+"peak_m": 1744
+},
+"300060": {
+"name": "Mutnovsky",
+"cells": 1445,
+"sea_share": 0.0,
+"land_m": 565,
+"sea_floor_m": -3,
+"peak_m": 2246
+},
+"300070": {
+"name": "Gorely",
+"cells": 1457,
+"sea_share": 0.0,
+"land_m": 693,
+"sea_floor_m": null,
+"peak_m": 1762
+},
+"300100": {
+"name": "Avachinsky",
+"cells": 1475,
+"sea_share": 0.0,
+"land_m": 324,
+"sea_floor_m": null,
+"peak_m": 2694
+},
+"300130": {
+"name": "Karymsky",
+"cells": 1497,
+"sea_share": 0.0,
+"land_m": 484,
+"sea_floor_m": null,
+"peak_m": 1481
+},
+"300190": {
+"name": "Krasheninnikov",
+"cells": 1532,
+"sea_share": 0.0,
+"land_m": 436,
+"sea_floor_m": null,
+"peak_m": 1752
+},
+"300240": {
+"name": "Tolbachik",
+"cells": 1565,
+"sea_share": 0.0,
+"land_m": 985,
+"sea_floor_m": null,
+"peak_m": 3607
+},
+"300250": {
+"name": "Bezymianny",
+"cells": 1571,
+"sea_share": 0.0,
+"land_m": 1541,
+"sea_floor_m": null,
+"peak_m": 2897
+},
+"300260": {
+"name": "Klyuchevskoy",
+"cells": 1575,
+"sea_share": 0.0,
+"land_m": 1341,
+"sea_floor_m": null,
+"peak_m": 4781
+},
+"300270": {
+"name": "Sheveluch",
+"cells": 1600,
+"sea_share": 0.0,
+"land_m": 415,
+"sea_floor_m": null,
+"peak_m": 3178
+},
+"305060": {
+"name": "Changbaishan",
+"cells": 1180,
+"sea_share": 0.0,
+"land_m": 1488,
+"sea_floor_m": null,
+"peak_m": 2672
+},
+"311320": {
+"name": "Akutan",
+"cells": 1505,
+"sea_share": 0.9,
+"land_m": 233,
+"sea_floor_m": -81,
+"peak_m": 1175
+},
+"311360": {
+"name": "Shishaldin",
+"cells": 1524,
+"sea_share": 0.11,
+"land_m": 133,
+"sea_floor_m": -17,
+"peak_m": 2767
+},
+"312030": {
+"name": "Pavlof",
+"cells": 1564,
+"sea_share": 0.3,
+"land_m": 205,
+"sea_floor_m": -85,
+"peak_m": 2419
+},
+"312180": {
+"name": "Novarupta",
+"cells": 1674,
+"sea_share": 0.0,
+"land_m": 670,
+"sea_floor_m": null,
+"peak_m": 1073
+},
+"313030": {
+"name": "Redoubt",
+"cells": 1789,
+"sea_share": 0.0,
+"land_m": 824,
+"sea_floor_m": null,
+"peak_m": 2960
+},
+"321030": {
+"name": "Rainier",
+"cells": 1288,
+"sea_share": 0.0,
+"land_m": 1286,
+"sea_floor_m": null,
+"peak_m": 4368
+},
+"321050": {
+"name": "St. Helens",
+"cells": 1280,
+"sea_share": 0.0,
+"land_m": 805,
+"sea_floor_m": null,
+"peak_m": 2434
+},
+"322160": {
+"name": "Crater Lake",
+"cells": 1211,
+"sea_share": 0.0,
+"land_m": 1633,
+"sea_floor_m": null,
+"peak_m": 1883
+},
+"332010": {
+"name": "Kilauea",
+"cells": 941,
+"sea_share": 0.0,
+"land_m": 849,
+"sea_floor_m": null,
+"peak_m": 1232
+},
+"332020": {
+"name": "Mauna Loa",
+"cells": 940,
+"sea_share": 0.0,
+"land_m": 2418,
+"sea_floor_m": null,
+"peak_m": 4126
+},
+"341040": {
+"name": "Colima",
+"cells": 929,
+"sea_share": 0.0,
+"land_m": 1308,
+"sea_floor_m": null,
+"peak_m": 3711
+},
+"341060": {
+"name": "Michoacan-Guanajuato",
+"cells": 944,
+"sea_share": 0.0,
+"land_m": 2104,
+"sea_floor_m": null,
+"peak_m": 1999
+},
+"341090": {
+"name": "Popocatepetl",
+"cells": 939,
+"sea_share": 0.0,
+"land_m": 2478,
+"sea_floor_m": null,
+"peak_m": 5296
+},
+"341100": {
+"name": "Orizaba, Pico de",
+"cells": 935,
+"sea_share": 0.0,
+"land_m": 2709,
+"sea_floor_m": null,
+"peak_m": 5515
+},
+"341120": {
+"name": "Chichon, El",
+"cells": 918,
+"sea_share": 0.0,
+"land_m": 394,
+"sea_floor_m": null,
+"peak_m": 1031
+},
+"341130": {
+"name": "Tacana",
+"cells": 911,
+"sea_share": 0.0,
+"land_m": 2090,
+"sea_floor_m": null,
+"peak_m": 3942
+},
+"342030": {
+"name": "Santa Maria",
+"cells": 904,
+"sea_share": 0.0,
+"land_m": 2018,
+"sea_floor_m": null,
+"peak_m": 3657
+},
+"342090": {
+"name": "Fuego",
+"cells": 920,
+"sea_share": 0.0,
+"land_m": 1273,
+"sea_floor_m": null,
+"peak_m": 3656
+},
+"342110": {
+"name": "Pacaya",
+"cells": 908,
+"sea_share": 0.0,
+"land_m": 1071,
+"sea_floor_m": null,
+"peak_m": 2474
+},
+"343020": {
+"name": "Santa Ana",
+"cells": 907,
+"sea_share": 0.0,
+"land_m": 708,
+"sea_floor_m": null,
+"peak_m": 2329
+},
+"343030": {
+"name": "Izalco",
+"cells": 911,
+"sea_share": 0.0,
+"land_m": 723,
+"sea_floor_m": null,
+"peak_m": 2000
+},
+"343100": {
+"name": "San Miguel",
+"cells": 915,
+"sea_share": 0.0,
+"land_m": 124,
+"sea_floor_m": null,
+"peak_m": 2030
+},
+"344020": {
+"name": "San Cristobal",
+"cells": 898,
+"sea_share": 0.0,
+"land_m": 60,
+"sea_floor_m": null,
+"peak_m": 1677
+},
+"344040": {
+"name": "Telica",
+"cells": 903,
+"sea_share": 0.0,
+"land_m": 121,
+"sea_floor_m": null,
+"peak_m": 972
+},
+"344090": {
+"name": "Momotombo",
+"cells": 898,
+"sea_share": 0.0,
+"land_m": 61,
+"sea_floor_m": null,
+"peak_m": 1193
+},
+"344100": {
+"name": "Masaya",
+"cells": 908,
+"sea_share": 0.0,
+"land_m": 365,
+"sea_floor_m": null,
+"peak_m": 577
+},
+"344120": {
+"name": "Concepcion",
+"cells": 901,
+"sea_share": 0.0,
+"land_m": 31,
+"sea_floor_m": null,
+"peak_m": 1500
+},
+"345020": {
+"name": "Rincon de la Vieja",
+"cells": 893,
+"sea_share": 0.0,
+"land_m": 411,
+"sea_floor_m": null,
+"peak_m": 1802
+},
+"345033": {
+"name": "Arenal",
+"cells": 902,
+"sea_share": 0.0,
+"land_m": 540,
+"sea_floor_m": null,
+"peak_m": 1528
+},
+"345040": {
+"name": "Poas",
+"cells": 902,
+"sea_share": 0.0,
+"land_m": 1283,
+"sea_floor_m": null,
+"peak_m": 2642
+},
+"345060": {
+"name": "Irazu",
+"cells": 897,
+"sea_share": 0.0,
+"land_m": 1320,
+"sea_floor_m": null,
+"peak_m": 3365
+},
+"345070": {
+"name": "Turrialba",
+"cells": 900,
+"sea_share": 0.0,
+"land_m": 856,
+"sea_floor_m": null,
+"peak_m": 3239
+},
+"351020": {
+"name": "Ruiz, Nevado del",
+"cells": 892,
+"sea_share": 0.0,
+"land_m": 3192,
+"sea_floor_m": null,
+"peak_m": 5237
+},
+"351030": {
+"name": "Tolima, Nevado del",
+"cells": 893,
+"sea_share": 0.0,
+"land_m": 3426,
+"sea_floor_m": null,
+"peak_m": 5107
+},
+"351060": {
+"name": "Purace",
+"cells": 881,
+"sea_share": 0.0,
+"land_m": 3025,
+"sea_floor_m": null,
+"peak_m": 4591
+},
+"351080": {
+"name": "Galeras",
+"cells": 883,
+"sea_share": 0.0,
+"land_m": 2308,
+"sea_floor_m": null,
+"peak_m": 4127
+},
+"352010": {
+"name": "Reventador",
+"cells": 881,
+"sea_share": 0.0,
+"land_m": 1654,
+"sea_floor_m": null,
+"peak_m": 3432
+},
+"352020": {
+"name": "Guagua Pichincha",
+"cells": 894,
+"sea_share": 0.0,
+"land_m": 2813,
+"sea_floor_m": null,
+"peak_m": 4625
+},
+"352050": {
+"name": "Cotopaxi",
+"cells": 885,
+"sea_share": 0.0,
+"land_m": 3741,
+"sea_floor_m": null,
+"peak_m": 5767
+},
+"352080": {
+"name": "Tungurahua",
+"cells": 886,
+"sea_share": 0.0,
+"land_m": 3085,
+"sea_floor_m": null,
+"peak_m": 4881
+},
+"353010": {
+"name": "Fernandina",
+"cells": 876,
+"sea_share": 0.64,
+"land_m": 50,
+"sea_floor_m": -1248,
+"peak_m": 1318
+},
+"354006": {
+"name": "Sabancaya",
+"cells": 923,
+"sea_share": 0.0,
+"land_m": 4359,
+"sea_floor_m": null,
+"peak_m": 5886
+},
+"354010": {
+"name": "Misti, El",
+"cells": 916,
+"sea_share": 0.0,
+"land_m": 3986,
+"sea_floor_m": null,
+"peak_m": 5717
+},
+"354020": {
+"name": "Ubinas",
+"cells": 919,
+"sea_share": 0.0,
+"land_m": 4349,
+"sea_floor_m": null,
+"peak_m": 5529
+},
+"355100": {
+"name": "Lascar",
+"cells": 955,
+"sea_share": 0.0,
+"land_m": 4416,
+"sea_floor_m": null,
+"peak_m": 5565
+},
+"355210": {
+"name": "Blanco, Cerro",
+"cells": 983,
+"sea_share": 0.0,
+"land_m": 3898,
+"sea_floor_m": null,
+"peak_m": 4634
+},
+"357010": {
+"name": "Tupungatito",
+"cells": 1070,
+"sea_share": 0.0,
+"land_m": 4122,
+"sea_floor_m": null,
+"peak_m": 5818
+},
+"357040": {
+"name": "Planchon-Peteroa",
+"cells": 1076,
+"sea_share": 0.0,
+"land_m": 2438,
+"sea_floor_m": null,
+"peak_m": 3834
+},
+"357060": {
+"name": "Azul, Cerro",
+"cells": 1085,
+"sea_share": 0.0,
+"land_m": 2189,
+"sea_floor_m": null,
+"peak_m": 3660
+},
+"357070": {
+"name": "Chillan, Nevados de",
+"cells": 1102,
+"sea_share": 0.0,
+"land_m": 1503,
+"sea_floor_m": null,
+"peak_m": 3134
+},
+"357090": {
+"name": "Copahue",
+"cells": 1108,
+"sea_share": 0.0,
+"land_m": 1604,
+"sea_floor_m": null,
+"peak_m": 2919
+},
+"357110": {
+"name": "Llaima",
+"cells": 1133,
+"sea_share": 0.0,
+"land_m": 1009,
+"sea_floor_m": null,
+"peak_m": 3033
+},
+"357120": {
+"name": "Villarrica",
+"cells": 1140,
+"sea_share": 0.0,
+"land_m": 472,
+"sea_floor_m": null,
+"peak_m": 2768
+},
+"357150": {
+"name": "Puyehue-Cordon Caulle",
+"cells": 1153,
+"sea_share": 0.0,
+"land_m": 1052,
+"sea_floor_m": null,
+"peak_m": 2162
+},
+"358020": {
+"name": "Calbuco",
+"cells": 1181,
+"sea_share": 0.0,
+"land_m": 134,
+"sea_floor_m": null,
+"peak_m": 1927
+},
+"358041": {
+"name": "Chaiten",
+"cells": 1198,
+"sea_share": 0.15,
+"land_m": 317,
+"sea_floor_m": -80,
+"peak_m": 1052
+},
+"358057": {
+"name": "Hudson, Cerro",
+"cells": 1278,
+"sea_share": 0.0,
+"land_m": 792,
+"sea_floor_m": null,
+"peak_m": 1578
+},
+"360050": {
+"name": "Soufriere Hills",
+"cells": 918,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -879,
+"peak_m": 972
+},
+"360060": {
+"name": "Soufriere Guadeloupe",
+"cells": 908,
+"sea_share": 0.74,
+"land_m": 188,
+"sea_floor_m": -262,
+"peak_m": 1391
+},
+"360120": {
+"name": "Pelee",
+"cells": 915,
+"sea_share": 0.73,
+"land_m": 347,
+"sea_floor_m": -1358,
+"peak_m": 1285
+},
+"360150": {
+"name": "Soufriere St. Vincent",
+"cells": 908,
+"sea_share": 0.82,
+"land_m": 233,
+"sea_floor_m": -1023,
+"peak_m": 1098
+},
+"371020": {
+"name": "Reykjanes",
+"cells": 2017,
+"sea_share": 0.76,
+"land_m": 20,
+"sea_floor_m": -125,
+"peak_m": 53
+},
+"372020": {
+"name": "Eyjafjallajokull",
+"cells": 1998,
+"sea_share": 0.12,
+"land_m": 421,
+"sea_floor_m": -14,
+"peak_m": 1570
+},
+"372030": {
+"name": "Katla",
+"cells": 1998,
+"sea_share": 0.0,
+"land_m": 456,
+"sea_floor_m": null,
+"peak_m": 1320
+},
+"372070": {
+"name": "Hekla",
+"cells": 2018,
+"sea_share": 0.0,
+"land_m": 398,
+"sea_floor_m": null,
+"peak_m": 1436
+},
+"373010": {
+"name": "Grimsvotn",
+"cells": 2049,
+"sea_share": 0.0,
+"land_m": 1489,
+"sea_floor_m": null,
+"peak_m": 1628
+},
+"373030": {
+"name": "Bardarbunga",
+"cells": 2075,
+"sea_share": 0.0,
+"land_m": 1430,
+"sea_floor_m": null,
+"peak_m": 1978
+},
+"376010": {
+"name": "Jan Mayen",
+"cells": 2705,
+"sea_share": 0.94,
+"land_m": 11,
+"sea_floor_m": -1008,
+"peak_m": 2221
+},
+"382050": {
+"name": "Terceira",
+"cells": 1129,
+"sea_share": 0.83,
+"land_m": 273,
+"sea_floor_m": -763,
+"peak_m": 994
+},
+"382080": {
+"name": "Sete Cidades",
+"cells": 1110,
+"sea_share": 0.86,
+"land_m": 131,
+"sea_floor_m": -1235,
+"peak_m": 526
+},
+"382090": {
+"name": "Agua de Pau",
+"cells": 1116,
+"sea_share": 0.72,
+"land_m": 208,
+"sea_floor_m": -511,
+"peak_m": 816
+},
+"382100": {
+"name": "Furnas",
+"cells": 1116,
+"sea_share": 0.7,
+"land_m": 272,
+"sea_floor_m": -508,
+"peak_m": 570
+},
+"383010": {
+"name": "La Palma",
+"cells": 1003,
+"sea_share": 0.77,
+"land_m": 596,
+"sea_floor_m": -1441,
+"peak_m": 1884
+},
+"383030": {
+"name": "Tenerife",
+"cells": 1015,
+"sea_share": 0.11,
+"land_m": 971,
+"sea_floor_m": -68,
+"peak_m": 3591
+},
+"390020": {
+"name": "Erebus",
+"cells": 4083,
+"sea_share": 0.01,
+"land_m": 554,
+"sea_floor_m": -7,
+"peak_m": 3743
+},
+"390030": {
+"name": "Deception Island",
+"cells": 1932,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -464,
+"peak_m": 5
+}
+}
+}

@@ -52,7 +52,7 @@ with sync_playwright() as p:
                         user_agent='Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1')
     page = ctx.new_page()
     page.on('pageerror', lambda e: errs.append(str(e)[:160]))
-    for path in ['/', '/countries', '/volcanoes', '/map', '/latest-eruptions', '/volcano/stromboli', '/volcano/mauna-loa', '/volcano/yellowstone', '/volcano/agung', '/volcanoes-in-italy', '/volcanoes-in-united-states', '/ring-of-fire', '/tallest-volcanoes', '/active-volcanoes', '/volcanic-explosivity-index', '/about', '/contact', '/privacy', '/this-page-does-not-exist']:
+    for path in ['/', '/countries', '/volcanoes', '/map', '/latest-eruptions', '/volcano/stromboli', '/volcano/mauna-loa', '/volcano/st-helens', '/volcano/erebus', '/volcano/yellowstone', '/volcano/agung', '/volcanoes-in-italy', '/volcanoes-in-united-states', '/ring-of-fire', '/tallest-volcanoes', '/active-volcanoes', '/volcanic-explosivity-index', '/about', '/contact', '/privacy', '/this-page-does-not-exist']:
         errs.clear()
         resp = page.goto(base + path, wait_until='domcontentloaded', timeout=60000)
         page.wait_for_timeout(1500)

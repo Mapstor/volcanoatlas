@@ -20,6 +20,8 @@ export default function RecordMap({ name, lat, lon, zoom, detail }: RecordMapPro
   // On a touch screen one finger scrolls the page, not the map; the map zooms by its buttons or a pinch.
   const touch = typeof window !== 'undefined' && window.matchMedia('(pointer: coarse)').matches;
   const position: [number, number] = [lat, lon];
+  // A long name does not fit beside the marker on a phone-width map: it goes underneath.
+  const below = typeof window !== 'undefined' && window.innerWidth < 520 && name.length > 12;
 
   return (
     <MapContainer
@@ -41,7 +43,7 @@ export default function RecordMap({ name, lat, lon, zoom, detail }: RecordMapPro
       />
       <CircleMarker center={position} radius={21} pathOptions={{ color: '#c21f1f', weight: 2.5, fill: false, className: 'va-mapring' }} interactive={false} />
       <CircleMarker center={position} radius={6} pathOptions={{ color: '#17212b', weight: 1.5, fillColor: '#d9482b', fillOpacity: 1 }}>
-        <Tooltip permanent direction="right" offset={[24, -2]} className="va-maplabel">
+        <Tooltip permanent direction={below ? 'bottom' : 'right'} offset={below ? [0, 22] : [24, -2]} className="va-maplabel">
           {name}
         </Tooltip>
         <Popup>

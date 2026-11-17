@@ -40,8 +40,11 @@ for f in json.load(open(os.path.join(RAW, 'gvp-eruptions.json'), encoding='utf-8
         'vei': p['ExplosivityIndexMax'], 'veiq': p.get('ExplosivityIndexModifier'),
         'sy': p['StartDateYear'], 'sm': p.get('StartDateMonth') or 0, 'sd': p.get('StartDateDay') or 0,
         'smod': p.get('StartDateYearModifier'), 'sunc': p.get('StartDateYearUncertainty'),
+        # how sure the day is: a modifier (?, <, >) and an uncertainty in days (182 = only the year is known, 15 = only the month)
+        'sdmod': p.get('StartDateDayModifier'), 'sdunc': p.get('StartDateDayUncertainty'),
         'ey': p.get('EndDateYear'), 'em': p.get('EndDateMonth') or 0, 'ed': p.get('EndDateDay') or 0,
         'emod': p.get('EndDateYearModifier'),
+        'edmod': p.get('EndDateDayModifier'), 'edunc': p.get('EndDateDayUncertainty'),
         'method': p.get('StartEvidenceMethod'), 'area': p.get('ActivityArea'),
     })
 for rows in eruptions.values():

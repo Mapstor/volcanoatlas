@@ -12,7 +12,10 @@ import {
   MONTHS,
   roundTo,
   sourceDates,
-  spanText,
+  spanBetween,
+  dateText,
+  precisionOf,
+  getGround,
   type EruptionStats,
   type NoaaEvent,
   type SourceVolcano,
@@ -62,6 +65,13 @@ export interface RecordProfile {
     alt_top_m?: number;
     /** Eruptions are counted from this year for {n_since}. */
     count_from?: number;
+    /**
+     * Height of the land around the volcano in meters, for a volcano on land. "etopo" takes the median height of the
+     * land 14 to 16 km from the summit from NOAA's grid (data/sources/etopo-ground.json); a number comes from the
+     * source named in ground_source.
+     */
+    ground?: 'etopo' | number;
+    ground_source?: string;
   };
   /** note_weekly replaces note while the volcano is in the newest weekly report; it may use {period}. */
   big: { line: string; number: string; unit: string; note: string; note_weekly?: string };
@@ -82,9 +92,12 @@ export interface RecordProfile {
   };
   /** Zoom of the locator map; 7 (a region a few hundred miles across) when left out. */
   map_zoom?: number;
-  /** kind: "cone" (island cone with its base on the sea floor) or "shield" (broad shield with the part pressed into the sea floor). */
+  /**
+   * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
+   * sea floor) or "land" (a volcano standing on land or rising straight from the sea surface).
+   */
   section: {
-    kind?: 'cone' | 'shield';
+    kind?: 'cone' | 'shield' | 'land';
     /** Red pencil note in the drawing. */
     note: string;
     caption: string;
@@ -96,6 +109,23 @@ export interface RecordProfile {
     root_m?: number;
     caldera?: string;
     caldera_depth_m?: number;
+    /** Land: an earlier, higher summit drawn as a dashed outline (meters and feet as the source prints them, and a label). */
+    former?: { m: number; ft: number; label: string };
+    /** Land: depth of the summit crater in meters, drawn to scale; the name written beside it. */
+    crater_depth_m?: number;
+    /** The same depth in feet when the source prints feet; otherwise it is converted. */
+    crater_depth_ft?: number;
+    crater?: string;
+    /** Land: width of the crater as a share of the drawn base (schematic), and a lava dome on its floor, height in meters. */
+    crater_share?: number;
+    dome_m?: number;
+    /** Land: ice or snow covers the volcano above this height in meters. */
+    ice_from_m?: number;
+    ice_label?: string;
+    /** Land: what the bottom line is called when the volcano rises from water ("sea level" when left out). */
+    baseline?: string;
+    /** Land, rising from water: no waves are drawn (frozen sea). */
+    still_water?: boolean;
   };
   /** The table of recent eruptions: how many rows (newest), and the heading of the gap column. */
   table?: { rows?: number; gap_label?: string; calc_note?: string };
@@ -141,9 +171,15 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 const MON = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 export function noaaDate(e: NoaaEvent, long = false): string {
+  if (e.y < 0) return `${-e.y} BCE`;
   if (e.m && e.d) return long ? longDate([e.y, e.m, e.d]) : `${MON[e.m]} ${e.d}, ${e.y}`;
   if (e.m) return `${long ? MONTHS[e.m] : MON[e.m]} ${e.y}`;
   return String(e.y);
+}
+
+/** "Stromboli’s", "Mount St. Helens’". */
+export function possessive(name: string): string {
+  return /s$/i.test(name) ? `${name}’` : `${name}’s`;
 }
 
 function listText(items: string[]): string {
@@ -160,6 +196,8 @@ export interface RecordData {
   retrieved: Ymd;
   /** Summit height the page prints: the observatory's when the profile gives one, otherwise the Smithsonian's. */
   summit: { m: number; ft: number } | null;
+  /** Height of the land around the volcano, rounded to 50 m, and where it comes from ("etopo" or a source id). */
+  ground: { m: number; from: string } | null;
 }
 
 export function buildRecordData(profile: RecordProfile): RecordData {
@@ -175,7 +213,10 @@ export function buildRecordData(profile: RecordProfile): RecordData {
 
   // current eruption and its place among continuing ones
   if (stats.currentStart && stats.currentLast) {
-    set('cur_start', longDate(stats.currentStart));
+    // the start is written no more exactly than the record gives it; "at least" when the record only has an upper limit
+    const startPrecision = precisionOf(stats.current?.sdunc);
+    set('cur_start', dateText(stats.currentStart, startPrecision, true));
+    set('cur_since', `${stats.current?.sdmod === '<' ? 'at least ' : ''}${dateText(stats.currentStart, startPrecision, true)}`);
     set('cur_start_year', stats.currentStart[0]);
     set('cur_last', longDate(stats.currentLast));
     set('cur_years', stats.currentYears);
@@ -198,13 +239,17 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     const now = new Date();
     const today: Ymd = [now.getUTCFullYear(), now.getUTCMonth() + 1, now.getUTCDate()];
     const sameYear = stats.lastStart[0] === stats.lastEnd[0];
-    set('last_start', sameYear ? `${MONTHS[stats.lastStart[1]]} ${stats.lastStart[2]}` : longDate(stats.lastStart));
-    set('last_end', longDate(stats.lastEnd));
-    set('last_end_short', `${MON[stats.lastEnd[1]]} ${stats.lastEnd[2]}, ${stats.lastEnd[0]}`);
+    const exact = stats.lastStartPrecision === 'day' && stats.lastEndPrecision === 'day';
+    // dates are written no more exactly than the Smithsonian gives them
+    set('last_start', sameYear && exact ? `${MONTHS[stats.lastStart[1]]} ${stats.lastStart[2]}` : dateText(stats.lastStart, stats.lastStartPrecision, true));
+    set('last_end', dateText(stats.lastEnd, stats.lastEndPrecision, true));
+    set('last_end_short', dateText(stats.lastEnd, stats.lastEndPrecision));
     set('last_year', stats.lastEnd[0]);
-    set('last_length', spanText(stats.lastStart, stats.lastEnd));
+    const length = spanBetween(stats.lastStart, stats.lastStartPrecision, stats.lastEnd, stats.lastEndPrecision);
+    set('last_length', length.approx ? `about ${length.text}` : length.text);
     const days = daysBetween(stats.lastEnd, today);
-    set('quiet_span', spanText(stats.lastEnd, today));
+    const quiet = spanBetween(stats.lastEnd, stats.lastEndPrecision, today, 'day');
+    set('quiet_span', quiet.approx ? `about ${quiet.text}` : quiet.text);
     const years = Math.floor(days / 365.2425);
     if (years >= 2) {
       set('quiet_number', years);
@@ -226,9 +271,11 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('pause_years', stats.pauseYears.toFixed(1));
     set('span_years', Math.ceil(stats.spanYears));
     set('share', stats.sharePercent.toFixed(0));
-    set('counted_from', longDate(stats.countedFrom));
+    const first = stats.periods.find((row) => !row.openStart);
+    const precision = first ? first.startPrecision : 'day';
+    set('counted_from', dateText(stats.countedFrom, precision, true));
     set('counted_year', stats.countedFrom[0]);
-    set('counted_month_year', `${MONTHS[stats.countedFrom[1]]} ${stats.countedFrom[0]}`);
+    set('counted_month_year', precision === 'year' ? String(stats.countedFrom[0]) : `${MONTHS[stats.countedFrom[1]]} ${stats.countedFrom[0]}`);
   }
   if (stats.periods.length && stats.periods[0].openStart) set('open_before', stats.periods[0].start[0]);
   if (stats.pauses.length) {
@@ -246,6 +293,32 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     : volcano.elevation !== null
       ? { m: volcano.elevation, ft: Math.round(feet(volcano.elevation)) }
       : null;
+  let ground: RecordData['ground'] = null;
+  if (profile.facts.ground === 'etopo') {
+    const row = getGround(profile.volcano_number);
+    if (!row || row.land_m === null) throw new Error(`record profile ${profile.slug}: no land height in etopo-ground.json`);
+    ground = { m: roundTo(row.land_m, 50), from: 'etopo' };
+  } else if (typeof profile.facts.ground === 'number') {
+    if (!profile.facts.ground_source) throw new Error(`record profile ${profile.slug}: a typed ground height needs ground_source`);
+    ground = { m: profile.facts.ground, from: profile.facts.ground_source };
+  }
+  if (ground && summit) {
+    const rise = roundTo(summit.m - ground.m, 50);
+    set('ground_m', fmt(ground.m));
+    set('ground_ft', fmt(roundTo(feet(ground.m), 100)));
+    set('rise_m', fmt(rise));
+    set('rise_ft', fmt(roundTo(feet(rise), 100)));
+    set('ring_km', 15);
+    set('ring_mi', 9);
+  }
+  if (profile.section.former) {
+    set('former_m', fmt(profile.section.former.m));
+    set('former_ft', fmt(profile.section.former.ft));
+    if (summit) {
+      set('lost_m', fmt(profile.section.former.m - summit.m));
+      set('lost_ft', fmt(profile.section.former.ft - summit.ft));
+    }
+  }
   if (volcano.elevation !== null) set('gvp_summit_m', fmt(volcano.elevation));
   if (profile.section.root_m !== undefined) {
     set('root_m', fmt(profile.section.root_m));
@@ -284,6 +357,18 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   set('n_vei0', stats.all.filter((e) => e.vei === 0).length);
   set('n_written', stats.methods['Observations: Reported'] ?? 0);
   set('max_vei', stats.maxVei);
+  if (stats.maxVei !== null && stats.maxVei !== undefined) {
+    // the largest eruptions in the list: how many reach the top size, and the year of the newest of them
+    const top = stats.all.filter((e) => e.vei === stats.maxVei);
+    if (top.length) {
+      const newest = top[top.length - 1];
+      set('n_max_vei', top.length);
+      set('largest_year', newest.sy < 0 ? `${-newest.sy} BCE` : String(newest.sy));
+    }
+    for (const size of [1, 2, 3, 4, 5, 6, 7]) set(`n_vei${size}`, stats.all.filter((e) => e.vei === size).length);
+  }
+  set('n_vei_none', stats.all.filter((e) => e.vei === null).length);
+  set('n_other', stats.all.length - (stats.methods['Observations: Reported'] ?? 0));
   if (volcano.rock) set('rock', volcano.rock.toLowerCase().replace(/\s*\/\s*/g, ' to '));
   if (volcano.type) {
     const type = volcano.type.replace(/\((es|s)\)/g, '').trim();
@@ -291,11 +376,12 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   }
 
   // NOAA significant events
+  set('noaa_n', 0);
   if (noaa.length) {
     const fatal = noaa.filter((e) => e.deaths > 0);
     const tsu = noaa.filter((e) => e.tsunami);
     set('noaa_n', noaa.length);
-    set('noaa_first', noaa[0].y);
+    set('noaa_first', noaa[0].y < 0 ? `${-noaa[0].y} BCE` : noaa[0].y);
     set('noaa_last', noaa[noaa.length - 1].y);
     set('noaa_fatal_count', fatal.length);
     set('noaa_fatal_word', cap(word(fatal.length)));
@@ -321,7 +407,7 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     if (ctx[key] !== value) throw new Error(`record profile ${profile.slug}: the text expects {${key}} = "${value}", the data gives "${ctx[key]}". Re-read the sentences that use it.`);
   }
 
-  return { profile, volcano, stats, noaa, ctx, retrieved: dates.retrieved, summit };
+  return { profile, volcano, stats, noaa, ctx, retrieved: dates.retrieved, summit, ground };
 }
 
 /** Replace {tokens}. An unknown token is a build error, never an empty string. */

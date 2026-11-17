@@ -1,0 +1,277 @@
+{
+ "slug": "st-helens",
+ "volcano_number": 321050,
+ "name": "Mount St. Helens",
+ "country": "United States",
+ "title": "Mount St. Helens: 1980 Eruption, Height & Last Eruption",
+ "description": "Mount St. Helens last erupted from 2004 to 2008. In 1980 it killed 57 people and lost {lost_ft} ft of summit. Dates, heights and the full record, with sources.",
+ "h1": "Mount St. Helens",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1800
+ },
+ "big": {
+  "line": "Last eruption ended in {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Mount St. Helens is {lost_ft} ft shorter than it was on the morning of May 18, 1980. Below: what happened that day, what the volcano has done since, how tall it is now, and every eruption on record.",
+ "answer": "**Mount St. Helens last erupted from {last_start} to {last_end}**, when a new lava dome grew in its crater.[[gvp]][[usgs0408]] Its eruption of May 18, 1980 killed 57 people and took {lost_ft} ft off the summit, which now stands at **{summit_ft} ft ({summit_m} m)**.[[fs036]] It is a stratovolcano in Washington State.",
+ "timeline": {
+  "from": 1790,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1800.04,
+    "label": "1800"
+   },
+   {
+    "year": 1980.38,
+    "label": "1980"
+   },
+   {
+    "year": 1842.9,
+    "label": "1842"
+   },
+   {
+    "year": 2004.76,
+    "label": "2004"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike or raised stretch is an eruption. The long flat stretch is the quiet between 1857 and 1980; the tall peak in 1980 is May 18.[[fs036]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "the top slid away in 1980",
+  "crater": "1980 crater",
+  "crater_depth_m": 635,
+  "crater_depth_ft": 2084,
+  "crater_share": 0.2,
+  "dome_m": 267,
+  "former": {
+   "m": 2950,
+   "ft": 9677,
+   "label": "9,677 ft until May 18, 1980"
+  },
+  "caption": "Mount St. Helens cut open from west to east. The summit height, the crater depth, the old summit and the land around the volcano are to scale; the outline is schematic.[[gvp]][[fs036]][[etopo]] The bump on the crater floor is the lava dome of 1980–86, 876 ft high.[[fs036]]"
+ },
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount St. Helens?",
+   "map": true,
+   "paras": [
+    "Mount St. Helens is in Washington State, in the Cascade Range of the Pacific Northwest, at {coords}.[[gvp]][[fs3045]] It is one of {n_country} volcanoes in the [United States](/volcanoes-in-united-states) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mount St. Helens last erupt?",
+   "table": "periods",
+   "paras": [
+    "Mount St. Helens last erupted from **{last_start} to {last_end}**.[[gvp]] Small earthquakes began under the old lava dome on September 23, 2004. A steam and ash explosion followed on October 1, and on October 11 spines of hot, solid lava broke through the glacier on the crater floor.[[usgs0408]]",
+    "The spines kept coming for more than three years and built a dome about 1,500 ft (460 m) high. About 121 million cubic yards (92 million m³) of lava erupted, roughly as much as in the dome of 1980–86. Together the two domes have refilled about 7 percent of the crater.[[usgs0408]]",
+    "No eruption since then is in the Smithsonian’s record.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1980",
+   "h": "What happened on May 18, 1980?",
+   "aside": "callouts",
+   "paras": [
+    "At 8:32 a.m. a magnitude 5.1 earthquake shook the volcano. Within 15 to 20 seconds its north flank slid away: 0.67 cubic miles of rock, moving at 70 to 150 miles an hour, ran about 14 miles down the North Fork Toutle River valley.[[fs036]]",
+    "With the flank gone, a sideways blast shot out at 300 miles an hour or more. It covered 230 square miles and reached 17 miles from the crater. An ash column climbed more than 15 miles in under 15 minutes, and 520 million tons of ash blew east. Spokane, 250 miles away, went dark.[[fs036]]",
+    "**57 people died.** The eruption also damaged 27 bridges and nearly 200 homes, and mudflows cut the shipping channel of the Columbia River from 40 ft deep to 14 ft.[[fs036]]",
+    "It did not come without warning. Small earthquakes had begun on March 16, and steam explosions on March 27. By May 17 the north flank had bulged outward by at least 450 ft.[[fs036]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount St. Helens?",
+   "paras": [
+    "Mount St. Helens is **{summit_ft} ft ({summit_m} m)** tall.[[gvp]] Until May 18, 1980 it was {former_ft} ft: the eruption removed {lost_ft} ft of summit.[[fs036]]",
+    "In place of the top is a crater 1.2 miles wide, 1.8 miles long and 2,084 ft deep, with its floor at 6,279 ft.[[fs036]]",
+    "Measured from its surroundings, the volcano stands about **{rise_ft} ft ({rise_m} m)** high. The land {ring_mi} miles from the summit lies at about {ground_ft} ft ({ground_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount St. Helens?",
+   "paras": [
+    "Mount St. Helens is a **[stratovolcano](/types-of-volcanoes)**, also called a composite volcano: a steep-sided cone built from lava flows and the debris of explosive eruptions.[[usgsgloss]][[fs3045]] The Smithsonian lists its main rock as {rock}.[[gvp]]",
+    "Its recent eruptions built lava domes over the vent instead of long lava flows: one in 1980–86, from thick flows piled on each other, and one in 2004–08, pushed up as solid spines.[[fs036]][[usgs0408]]"
+   ]
+  },
+  {
+   "id": "old",
+   "h": "How old is Mount St. Helens?",
+   "paras": [
+    "Mount St. Helens has a history of about **300,000 years**. USGS divides it into four stages. The current one, the Spirit Lake Stage, began about 3,900 years ago.[[fs3045]]",
+    "The oldest of the {n_all} eruptions in the Smithsonian’s list dates from around {oldest}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount St. Helens erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** of Mount St. Helens, {n_since} of them since {since_year}.[[gvp]] USGS calls it the most active volcano in the Cascade Range.[[fs3045]]",
+    "In the 1800s it erupted on and off from 1800 to 1857, a stretch USGS calls the Goat Rocks period. The next confirmed eruption was the one that began in March 1980.[[fs3045]][[gvp]]",
+    "Its largest eruption on the list is not 1980. The list rates {n_vei5} eruptions at VEI 5 on the [Volcanic Explosivity Index](/volcanic-explosivity-index), 1980 among them, and one around {largest_year} at VEI {max_vei}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "active",
+   "h": "Is Mount St. Helens still active?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts, use the USGS Cascades Volcano Observatory.[[hans]]",
+   "paras": [
+    "Yes. It erupted through much of the 1980s, again from 1989 to 1991, and from 2004 to 2008.[[gvp]] USGS monitors it and posts an alert level for it; the current one is near the top of this page.[[hans]]",
+    "NOAA’s database of significant eruptions lists **{noaa_n} events at Mount St. Helens**.[[noaa]] For May 18, 1980 it gives {worst_deaths} deaths; USGS counts 57.[[fs036]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount St. Helens’ full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mount St. Helens has **{n_all} confirmed eruptions**. Written reports account for {n_written}; the other {n_other} are dated from radiocarbon, tree rings and ash layers.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "May 18, 1980",
+ "callouts": [
+  {
+   "number": "57",
+   "unit": "deaths",
+   "text": "People killed by the eruption of May 18, 1980, by USGS’s count. NOAA’s database lists {worst_deaths}.",
+   "source": "Sources: U.S. Geological Survey;[[fs036]] NOAA.[[noaa]]"
+  },
+  {
+   "number": "{lost_ft}",
+   "unit": "ft",
+   "text": "Height the summit lost that morning: from {former_ft} ft to {summit_ft} ft.",
+   "source": "Source: U.S. Geological Survey.[[fs036]]"
+  }
+ ],
+ "faq_h": "Mount St. Helens questions and answers",
+ "faq": [
+  [
+   "When did Mount St. Helens last erupt?",
+   "From {last_start} to {last_end}. Lava spines built a new dome in the crater; no eruption since then is in the Smithsonian’s record."
+  ],
+  [
+   "When did Mount St. Helens erupt in 1980?",
+   "On May 18, 1980. A magnitude 5.1 earthquake at 8:32 a.m. set off a landslide of the north flank, and the eruption followed within seconds."
+  ],
+  [
+   "How many people died at Mount St. Helens?",
+   "57 people died in the eruption of May 18, 1980, by USGS’s count. NOAA’s database lists {worst_deaths} deaths for that day."
+  ],
+  [
+   "How tall is Mount St. Helens?",
+   "{summit_ft} ft ({summit_m} m). Before May 18, 1980 it was {former_ft} ft; the eruption removed {lost_ft} ft of summit."
+  ],
+  [
+   "How tall was Mount St. Helens before it erupted?",
+   "{former_ft} ft ({former_m} m), until the morning of May 18, 1980."
+  ],
+  [
+   "What type of volcano is Mount St. Helens?",
+   "A stratovolcano, also called a composite volcano: a steep-sided cone built from lava flows and the debris of explosive eruptions."
+  ],
+  [
+   "Is Mount St. Helens still active?",
+   "Yes. Its last eruption ended in {last_end}, and USGS monitors it and posts an alert level for it."
+  ],
+  [
+   "How old is Mount St. Helens?",
+   "Its history goes back about 300,000 years, according to USGS."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): St. Helens record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=321050"
+  },
+  {
+   "id": "hans",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Notification Service",
+   "url": "https://volcanoes.usgs.gov/hans-public/"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "fs036",
+   "publisher": "U.S. Geological Survey",
+   "title": "Mount St. Helens: From the 1980 Eruption to 2000 (Fact Sheet 036-00)",
+   "url": "https://pubs.usgs.gov/fs/2000/fs036-00/"
+  },
+  {
+   "id": "usgs0408",
+   "publisher": "U.S. Geological Survey, Cascades Volcano Observatory",
+   "title": "2004–2008 Renewed Volcanic Activity",
+   "url": "https://www.usgs.gov/volcanoes/mount-st.-helens/2004-2008-renewed-volcanic-activity"
+  },
+  {
+   "id": "fs3045",
+   "publisher": "U.S. Geological Survey",
+   "title": "Pre-1980 Eruptive History of Mount St. Helens, Washington (Fact Sheet 2005-3045)",
+   "url": "https://pubs.usgs.gov/fs/2005/3045/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  },
+  {
+   "id": "usgsgloss",
+   "publisher": "U.S. Geological Survey",
+   "title": "Open-File Report 96-738, glossary",
+   "url": "https://pubs.usgs.gov/of/1996/0738/glossary.html"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today. The Smithsonian gives that end date to within ten days, so the page prints the month.",
+  "**{lost_ft} ft:** {former_ft} ft before May 18, 1980 minus {summit_ft} ft after, both from USGS.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet for the summit and the land around it are converted from meters and rounded."
+ ],
+ "expect": {
+  "last_end": "January 2008",
+  "lost_ft": "1,314",
+  "summit_ft": "8,363",
+  "n_since": "14",
+  "max_vei": "6",
+  "largest_year": "1860 BCE",
+  "n_vei5": "7",
+  "noaa_n": "3",
+  "worst_deaths": "61",
+  "worst_date": "May 18, 1980",
+  "n_all": "40"
+ },
+ "observatory_read": "2026-11-17",
+ "reviewed": null
+}

@@ -53,6 +53,11 @@ The site is finished when every page is. Then it is frozen for three months and 
 
 ## What the site is not
 
+- A date is never printed more exactly than the Smithsonian gives it. Its record marks many days as uncertain (only
+  the month, or only the year, is known): those print as "May 1910" or "1857", and any length of time worked out from
+  them starts with "about".
+- How high a volcano stands above the land around it is worked out, not looked up: the summit height minus the median
+  height of the land 14 to 16 km away in NOAA's ETOPO 2022 grid. The page says so and shows the method.
 - Not a monitoring agency. Alert levels and safety decisions belong to the observatories, and pages link to them. A
   page may repeat an observatory's current alert level, word for word, with the notice's date and link; it never works
   one out.

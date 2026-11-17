@@ -5,8 +5,8 @@ import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
 import LazyMap from '@/components/record/LazyMap';
 import { SectionDrawing, Timeline } from '@/components/record/figures';
 import { getAllVolcanoes } from '@/lib/data';
-import { endLabel, isoToYmd, longDate, METHOD_LABEL, MONTHS, shortDate, startLabel } from '@/lib/eruptions';
-import { buildRecordData, fill, noaaDate, plain, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
+import { endLabel, isoToYmd, longDate, METHOD_LABEL, MONTHS, startLabel } from '@/lib/eruptions';
+import { buildRecordData, fill, noaaDate, plain, possessive, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
 import { countryHref, resolveInternalPath } from '@/lib/routes';
 import { AUTHOR, SITE_URL, gvpVolcanoUrl } from '@/lib/site';
 import { getUsgsStatus } from '@/lib/usgs';
@@ -64,7 +64,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Type', ctx.type);
   fact('Summit', ctx.summit_ft && `${ctx.summit_ft} ft (${ctx.summit_m} m)`);
   fact('Base', ctx.base_ft && `about ${ctx.base_ft} ft (${ctx.base_m} m) below sea level`);
-  fact('Current eruption', ctx.cur_start && `since ${ctx.cur_start}`);
+  fact('Above the land around it', ctx.rise_ft && `about ${ctx.rise_ft} ft (${ctx.rise_m} m)`);
+  fact('Current eruption', ctx.cur_since && `since ${ctx.cur_since}`);
   fact('Last eruption', !ctx.cur_start && ctx.last_end && `${ctx.last_start} to ${ctx.last_end}`);
   fact('Recorded eruptions', ctx.n_all);
   fact('Largest recorded', ctx.max_vei && `VEI ${ctx.max_vei}`);
@@ -91,6 +92,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
         : baseSource
           ? `${gvpFirst} ${baseBy}.${ref(baseSource)}`
           : `Source: Smithsonian Global Volcanism Program.${ref('gvp')}`;
+  const factsFrom = data.ground?.from === 'etopo' ? `${factsSource} Height above the land around it: calculated from NOAA’s elevation grid.${ref('etopo')}` : factsSource;
   const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
   const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
 
@@ -151,7 +153,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const periodsTable = periodRows.length > 0 && (
     <>
       <p className="va-tcap" id="va-t-periods">
-        {shortened ? `${name}’s last ${periodRows.length} eruptions` : `${name}’s eruptions since ${ctx.open_before ?? periodRows[0].start[0]}`}
+        {shortened ? `${possessive(name)} last ${periodRows.length} eruptions` : `${possessive(name)} eruptions since ${ctx.open_before ?? periodRows[0].start[0]}`}
       </p>
       <div className="va-scroll" role="region" aria-labelledby="va-t-periods" tabIndex={0}>
         <table className="va-table" aria-labelledby="va-t-periods">
@@ -167,8 +169,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           <tbody>
             {periodRows.map((row, i) => (
               <tr key={row.eruption.n}>
-                <td>{row.openStart ? `before ${row.start[0]}` : shortDate(row.start)}</td>
-                <td>{row.continuing ? 'continuing' : shortDate(row.end)}</td>
+                <td>{row.startText}</td>
+                <td>{row.endText}</td>
                 <td>{row.length}</td>
                 <td>
                   {row.continuing
@@ -191,7 +193,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const noaaTable = noaa.length > 0 && (
     <>
       <p className="va-tcap" id="va-t-noaa">
-        Significant events at {name} in NOAA’s database, {ctx.noaa_first}–{ctx.noaa_last}
+        Significant events at {name} in NOAA’s database, {ctx.noaa_first === ctx.noaa_last ? ctx.noaa_first : `${ctx.noaa_first} to ${ctx.noaa_last}`}
       </p>
       <div className="va-scroll" role="region" aria-labelledby="va-t-noaa" tabIndex={0}>
         <table className="va-table" aria-labelledby="va-t-noaa">
@@ -255,7 +257,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           </tbody>
         </table>
       </div>
-      <Html className="va-srcline" html={`${gvpLine} A question mark means the Smithsonian marks the value as uncertain.`} />
+      <Html className="va-srcline" html={`${gvpLine} “Uncertain” or a question mark means the Smithsonian marks the date or size as uncertain. Where only a month or a year is shown, that is all the record gives.`} />
     </details>
   );
 
@@ -309,7 +311,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           </p>
 
           <div className="va-big">
-            <p className="va-since">{plain(profile.big.line, ctx)}</p>
+            <p className="va-since">{plain(profile.big.line, ctx).replace(/\bat least\b/g, 'at\u00a0least')}</p>
             <p className="va-years">
               <span className="va-yearsnum" style={{ ['--va-digits' as string]: plain(profile.big.number, ctx).length }}>
                 {plain(profile.big.number, ctx)}
@@ -418,7 +420,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 </div>
               ))}
             </dl>
-            <Html className="va-csrc" html={factsSource} />
+            <Html className="va-csrc" html={factsFrom} />
           </section>
         </div>
 

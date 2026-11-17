@@ -81,7 +81,10 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 5. **The cut-open volcano.** Section drawing with heights to scale, in the shape that fits the volcano. Island cone
    (Stromboli): gas bubbles rise in the conduit and burst at the vent, only while the Smithsonian lists the eruption as
    continuing. Shield (Mauna Loa): three heights in one picture, above the sea, under water and pressed into the sea
-   floor. Nothing erupts in the drawing of a volcano that is not erupting.
+   floor. Volcano on land or rising straight from the water (Mount St. Helens, Mount Erebus): sea level at the bottom,
+   the land around the volcano as a band, the cone above it, so two heights are to scale; an earlier, higher summit is
+   a dashed red outline, a crater is cut to its real depth, and the drawing is made shorter instead of letting the
+   cone grow taller than half its base. Nothing erupts in the drawing of a volcano that is not erupting.
 6. **Report box.** Left border in ink. Says which weekly report the volcano is in, with the week and the link. For a
    volcano in the United States it also gives the USGS alert level and aviation color code with the notice's date and
    link, read from the USGS service when the page is rendered.
