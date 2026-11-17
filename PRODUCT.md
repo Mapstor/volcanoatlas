@@ -31,7 +31,9 @@ proof under it. A smaller group wants the full record: every eruption, the deadl
 
 - Smithsonian Institution, Global Volcanism Program: the volcano list and the eruption record.
 - NOAA National Centers for Environmental Information: significant eruptions, deaths, tsunamis.
-- The observatory that monitors the volcano (for Italy, INGV), read on its own page.
+- The observatory that monitors the volcano (for Italy, INGV; for the United States, the USGS observatories), read on
+  its own pages. Where the observatory prints its own summit height, the page uses it and names the Smithsonian's
+  figure in the calculation notes.
 - US government definitions (USGS, National Park Service) for terms.
 - The registry of checked sources is `research/data-sources.csv`. A source that is not in it is not used.
 
@@ -51,7 +53,9 @@ The site is finished when every page is. Then it is frozen for three months and 
 
 ## What the site is not
 
-- Not a monitoring agency. Alert levels and safety decisions belong to the observatories, and pages link to them.
+- Not a monitoring agency. Alert levels and safety decisions belong to the observatories, and pages link to them. A
+  page may repeat an observatory's current alert level, word for word, with the notice's date and link; it never works
+  one out.
 - Not a place for copied text. A rebuilt page states its sources in the site's own words, with a link.
 - Not a photo site: no picture goes up without a licence and a credit.
 

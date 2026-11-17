@@ -133,7 +133,7 @@ volcano/lopevi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/manam,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/marapi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/masaya,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/mauna-loa,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/mauna-loa,volcanoes,data,informational,three heights of the volcano to scale in one drawing; every dated eruption since 1843 on a strip; USGS alert level read live,gvp-eruptions,T2,live,"rebuilt as a record page (shield drawing, strip of separate eruptions); on a preview since 2026-11-17, waiting for the owner’s look. Not counted as finished yet"
 volcano/mayon,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/merapi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/michoacan-guanajuato,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

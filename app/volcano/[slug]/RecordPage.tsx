@@ -6,9 +6,10 @@ import LazyMap from '@/components/record/LazyMap';
 import { SectionDrawing, Timeline } from '@/components/record/figures';
 import { getAllVolcanoes } from '@/lib/data';
 import { endLabel, isoToYmd, longDate, METHOD_LABEL, MONTHS, shortDate, startLabel } from '@/lib/eruptions';
-import { buildRecordData, noaaDate, plain, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
+import { buildRecordData, fill, noaaDate, plain, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
 import { countryHref, resolveInternalPath } from '@/lib/routes';
 import { AUTHOR, SITE_URL, gvpVolcanoUrl } from '@/lib/site';
+import { getUsgsStatus } from '@/lib/usgs';
 import { getWeeklyEntry } from '@/lib/weekly';
 
 /**
@@ -18,6 +19,8 @@ import { getWeeklyEntry } from '@/lib/weekly';
 
 const NOAA_EVENT = 'https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/';
 const WEEKLY_HOME = 'https://volcano.si.edu/reports_weekly.cfm';
+/** Where a USGS alert level stands among the four the agency uses. */
+const USGS_RANK: Record<string, string> = { NORMAL: 'the lowest', ADVISORY: 'the second', WATCH: 'the third', WARNING: 'the highest' };
 
 function Html({ html, as: Tag = 'p', className }: { html: string; as?: 'p' | 'span' | 'li' | 'figcaption'; className?: string }) {
   return <Tag className={className} dangerouslySetInnerHTML={{ __html: html }} />;
@@ -27,9 +30,10 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const data = buildRecordData(profile);
   const { volcano, stats, noaa, ctx, retrieved } = data;
   const weekly = await getWeeklyEntry(profile.volcano_number);
+  const usgs = volcano.country === 'United States' ? await getUsgsStatus(profile.volcano_number) : null;
 
-  // Sources are numbered in the order of the profile's list. The weekly report is listed only when it is cited.
-  const sources = profile.sources.filter((source) => source.id !== 'weekly' || weekly);
+  // Sources are numbered in the order of the profile's list. The two live reports are listed only when they are cited.
+  const sources = profile.sources.filter((source) => (source.id !== 'weekly' || weekly) && (source.id !== 'hans' || usgs));
   const ids = sources.map((source) => source.id);
   const r = (text: string) => rich(text, ctx, ids);
   const refNumber = (id: string) => ids.indexOf(id) + 1;
@@ -61,6 +65,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Summit', ctx.summit_ft && `${ctx.summit_ft} ft (${ctx.summit_m} m)`);
   fact('Base', ctx.base_ft && `about ${ctx.base_ft} ft (${ctx.base_m} m) below sea level`);
   fact('Current eruption', ctx.cur_start && `since ${ctx.cur_start}`);
+  fact('Last eruption', !ctx.cur_start && ctx.last_end && `${ctx.last_start} to ${ctx.last_end}`);
   fact('Recorded eruptions', ctx.n_all);
   fact('Largest recorded', ctx.max_vei && `VEI ${ctx.max_vei}`);
   fact('Main rock', ctx.rock);
@@ -70,6 +75,22 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   // The "where" section (the one with the map) sits right under the strip; the rest follow in the profile's order.
   const where = profile.sections.find((section) => section.map);
   const sections = profile.sections.filter((section) => section !== where);
+  // where the key facts come from: the Smithsonian, plus the observatory for a summit or base height of its own
+  const summitSource = profile.facts.summit_source;
+  const baseSource = ctx.base_ft ? profile.facts.base_source : undefined;
+  const summitBy = `${profile.facts.summit_source_name ?? 'the observatory'} for the summit`;
+  const baseBy = `${profile.facts.base_source_name ?? 'the observatory'} for the base`;
+  const gvpFirst = `Sources: Smithsonian Global Volcanism Program;${ref('gvp')}`;
+  const factsSource =
+    summitSource && baseSource
+      ? profile.facts.summit_source_name === profile.facts.base_source_name
+        ? `${gvpFirst} ${summitBy}${ref(summitSource)} and the base.${ref(baseSource)}`
+        : `${gvpFirst} ${summitBy};${ref(summitSource)} ${baseBy}.${ref(baseSource)}`
+      : summitSource
+        ? `${gvpFirst} ${summitBy}.${ref(summitSource)}`
+        : baseSource
+          ? `${gvpFirst} ${baseBy}.${ref(baseSource)}`
+          : `Source: Smithsonian Global Volcanism Program.${ref('gvp')}`;
   const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
   const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
 
@@ -97,7 +118,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
       '@type': 'GeoCoordinates',
       latitude: volcano.lat,
       longitude: volcano.lon,
-      ...(volcano.elevation !== null ? { elevation: volcano.elevation } : {}),
+      ...(data.summit ? { elevation: data.summit.m } : {}),
     },
     containedInPlace: { '@type': 'Country', name: volcano.country },
     sameAs: [gvpUrl],
@@ -124,10 +145,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
     })),
   };
 
-  const periodsTable = stats.periods.length > 0 && (
+  // newest rows only when the profile asks for that
+  const periodRows = profile.table?.rows ? stats.periods.slice(-profile.table.rows) : stats.periods;
+  const shortened = periodRows.length < stats.periods.length;
+  const periodsTable = periodRows.length > 0 && (
     <>
       <p className="va-tcap" id="va-t-periods">
-        {name}’s eruptions since {ctx.open_before ?? stats.periods[0].start[0]}
+        {shortened ? `${name}’s last ${periodRows.length} eruptions` : `${name}’s eruptions since ${ctx.open_before ?? periodRows[0].start[0]}`}
       </p>
       <div className="va-scroll" role="region" aria-labelledby="va-t-periods" tabIndex={0}>
         <table className="va-table" aria-labelledby="va-t-periods">
@@ -136,17 +160,21 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               <th scope="col">Started</th>
               <th scope="col">Ended</th>
               <th scope="col">Lasted</th>
-              <th scope="col">Pause that followed</th>
+              <th scope="col">{profile.table?.gap_label ?? 'Pause that followed'}</th>
               <th scope="col" className="va-num">Largest VEI</th>
             </tr>
           </thead>
           <tbody>
-            {stats.periods.map((row) => (
+            {periodRows.map((row, i) => (
               <tr key={row.eruption.n}>
                 <td>{row.openStart ? `before ${row.start[0]}` : shortDate(row.start)}</td>
                 <td>{row.continuing ? 'continuing' : shortDate(row.end)}</td>
                 <td>{row.length}</td>
-                <td>{row.continuing ? '' : (row.pauseAfter ?? 'none')}</td>
+                <td>
+                  {row.continuing
+                    ? ''
+                    : (row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
+                </td>
                 <td className="va-num">{row.eruption.vei ?? 'not given'}</td>
               </tr>
             ))}
@@ -155,7 +183,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
       </div>
       <Html
         className="va-srcline"
-        html={`${gvpLine} Lengths, pauses and the ${ctx.share}% figure are calculated from its dates. VEI is the ${vei ? `<a href="${vei}">Volcanic Explosivity Index</a>` : 'Volcanic Explosivity Index'}.`}
+        html={`${gvpLine} ${plain(profile.table?.calc_note ?? 'Lengths and gaps are calculated from its dates.', ctx)} VEI is the ${vei ? `<a href="${vei}">Volcanic Explosivity Index</a>` : 'Volcanic Explosivity Index'}.`}
       />
     </>
   );
@@ -171,7 +199,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
             <tr>
               <th scope="col">Date</th>
               <th scope="col" className="va-num">VEI</th>
-              <th scope="col" className="va-num">Deaths</th>
+              <th scope="col" className="va-num">Deaths recorded</th>
               <th scope="col">Tsunami recorded</th>
             </tr>
           </thead>
@@ -182,7 +210,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   <a href={`${NOAA_EVENT}${event.id}`} rel="noopener">{noaaDate(event)}</a>
                 </td>
                 <td className="va-num">{event.vei ?? 'not given'}</td>
-                <td className="va-num">{event.deaths}</td>
+                <td className="va-num">{event.deaths > 0 ? event.deaths : 'none'}</td>
                 <td>{event.tsunami ? 'yes' : 'no'}</td>
               </tr>
             ))}
@@ -235,18 +263,14 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
 
   const callouts = (
     <div className="va-aside">
-      {stats.pauses.length > 0 && (
-        <p className="va-hand va-note2">
-          {ctx.n_pauses_word} pauses in {ctx.span_years} years
-        </p>
-      )}
+      {profile.callout_note && <p className="va-hand va-note2">{plain(profile.callout_note, ctx)}</p>}
       {profile.callouts.map((callout) => (
-        <aside className="va-callout" key={callout.unit}>
+        <aside className="va-callout" key={callout.unit + callout.number}>
           <p className="va-cnum">
             {plain(callout.number, ctx)} <span>{callout.unit}</span>
           </p>
           <p className="va-ctxt">{plain(callout.text, ctx)}</p>
-          <Html className="va-csrc" html={`Source: Global Volcanism Program, Smithsonian Institution.${ref('gvp')} Calculated.`} />
+          <Html className="va-csrc" html={r(callout.source)} />
         </aside>
       ))}
     </div>
@@ -301,9 +325,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   />
                 </svg>
               </span>{' '}
-              {profile.big.unit}
+              {plain(profile.big.unit, ctx)}
             </p>
-            <p className="va-hand va-note1">{weekly ? `still going in the ${weekly.periodShort} report` : profile.big.note}</p>
+            <p className="va-hand va-note1">
+              {weekly && profile.big.note_weekly ? fill(profile.big.note_weekly, { ...ctx, period: weekly.periodShort }) : plain(profile.big.note, ctx)}
+            </p>
           </div>
 
           <Html className="va-answer" html={r(profile.answer)} />
@@ -343,19 +369,40 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
 
         <div className="va-band va-band2">
           <div className="va-bandtext">
-            {weekly && (
+            {(weekly || usgs) && (
               <div className="va-weekly">
-                <p>
-                  <strong>Latest weekly report: {weekly.period}.</strong> {name} is in the Smithsonian / USGS Weekly Volcanic Activity Report for
-                  that week{weekly.section ? `, listed as “${weekly.section}”` : ''}.
-                  <span dangerouslySetInnerHTML={{ __html: ref('weekly') }} />
-                  {weekly.stale && ` That is the newest report in the Smithsonian’s feed, which was last updated on ${weekly.published}.`}
-                </p>
+                {usgs && (
+                  <p>
+                    <strong>
+                      USGS alert level: {usgs.alertLevel}, aviation color code {usgs.colorCode}.
+                    </strong>{' '}
+                    From the {usgs.observatory}’s notice of {usgs.noticeDate} (UTC).
+                    <span dangerouslySetInnerHTML={{ __html: ref('hans') }} />
+                    {USGS_RANK[usgs.alertLevel] ? ` ${usgs.alertLevel} is ${USGS_RANK[usgs.alertLevel]} of the agency’s four alert levels.` : ''}
+                  </p>
+                )}
+                {weekly && (
+                  <p>
+                    <strong>Latest weekly report: {weekly.period}.</strong> {name} is in the Smithsonian / USGS Weekly Volcanic Activity Report for
+                    that week{weekly.section ? `, listed as “${weekly.section}”` : ''}.
+                    <span dangerouslySetInnerHTML={{ __html: ref('weekly') }} />
+                    {weekly.stale && ` That is the newest report in the Smithsonian’s feed, which was last updated on ${weekly.published}.`}
+                  </p>
+                )}
                 <p className="va-weeklylinks">
-                  <a href={weekly.link} rel="noopener">
-                    Read the {name} entry
-                  </a>
-                  <Link href="/latest-eruptions">All volcanoes in that report</Link>
+                  {usgs && (
+                    <a href={usgs.noticeUrl} rel="noopener">
+                      Read the USGS notice
+                    </a>
+                  )}
+                  {weekly && (
+                    <>
+                      <a href={weekly.link} rel="noopener">
+                        Read the {name} entry
+                      </a>
+                      <Link href="/latest-eruptions">All volcanoes in that report</Link>
+                    </>
+                  )}
                 </p>
               </div>
             )}
@@ -371,7 +418,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 </div>
               ))}
             </dl>
-            <Html className="va-csrc" html={`Sources: Smithsonian Global Volcanism Program;${ref('gvp')} INGV for the base.${ref('ingv')}`} />
+            <Html className="va-csrc" html={factsSource} />
           </section>
         </div>
 
@@ -409,9 +456,10 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 {sources.map((source, i) => (
                   <li id={`va-src-${i + 1}`} key={source.id}>
                     {source.publisher}.{' '}
-                    <a href={source.id === 'weekly' ? WEEKLY_HOME : source.url} rel="noopener">
+                    <a href={source.id === 'weekly' ? WEEKLY_HOME : source.id === 'hans' && usgs ? usgs.noticeUrl : source.url} rel="noopener">
                       {plain(source.title, ctx)}
                       {source.id === 'weekly' && weekly ? `, ${weekly.period}` : ''}
+                      {source.id === 'hans' && usgs ? `, notice of ${usgs.noticeDate}` : ''}
                     </a>
                     .
                   </li>

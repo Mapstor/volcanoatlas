@@ -130,11 +130,34 @@ export function getContinuing(): { volcanoNumber: number; eruption: Eruption }[]
 
 export function durationText(days: number): string {
   if (days <= 1) return '1 day';
+  if (days < 60) return `${days} days`;
   const years = days / 365.25;
   if (years >= 2) return `${Math.round(years)} years`;
   const months = Math.round(days / 30.44);
   if (months >= 12 && Math.abs(years - Math.round(years)) < 0.12) return `${Math.round(years)} year${Math.round(years) === 1 ? '' : 's'}`;
   return `${months} months`;
+}
+
+/**
+ * Time from one date to another, counted on the calendar to the nearest month: days under two months, months under two
+ * years, then years and months. A gap of 38 years 7 months is never printed as "39 years".
+ */
+export function spanText(from: Ymd, to: Ymd): string {
+  const days = daysBetween(from, to);
+  if (days <= 1) return '1 day';
+  if (days < 60) return `${days} days`;
+  let months = (to[0] - from[0]) * 12 + (to[1] - from[1]);
+  let rest = to[2] - from[2];
+  if (rest < 0) {
+    months -= 1;
+    rest += 30;
+  }
+  if (rest >= 16) months += 1;
+  if (months === 12) return '1 year';
+  if (months < 24) return `${months} months`;
+  const years = Math.floor(months / 12);
+  const left = months % 12;
+  return left ? `${years} years ${left} month${left === 1 ? '' : 's'}` : `${years} years`;
 }
 
 export interface PeriodRow {
@@ -149,8 +172,22 @@ export interface PeriodRow {
   pauseAfter: string | null;
 }
 
+/** One eruption placed on a time axis. An eruption without a full end date is a point at its start. */
+export interface Span {
+  eruption: Eruption;
+  start: Ymd;
+  end: Ymd;
+  openStart: boolean;
+  continuing: boolean;
+}
+
 export interface EruptionStats {
   all: Eruption[];
+  /** Every confirmed eruption with a start year, oldest first, for drawing. */
+  spans: Span[];
+  /** Start and end of the newest eruption when it is over and both dates are known to the day. */
+  lastStart: Ymd | null;
+  lastEnd: Ymd | null;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -193,7 +230,14 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     const start: Ymd = [e.sy, e.sm || 1, e.sd || 1];
     const end: Ymd = [e.ey as number, e.em, e.ed];
     const isCurrent = e.emod === '>';
-    const length = openStart ? `at least ${end[0] - start[0]} years` : durationText(daysBetween(start, end) + 1) + (isCurrent ? ' so far' : '');
+    // a continuing eruption is counted in whole years, like the number at the top of the page
+    const length = openStart
+      ? `at least ${end[0] - start[0]} years`
+      : isCurrent
+        ? `${durationText(Math.max(1, daysBetween(start, end)))} so far`
+        : daysBetween(start, end) < 1
+          ? '1 day'
+          : spanText(start, end);
     return { eruption: e, start, end, openStart, continuing: isCurrent, length, pauseAfter: null };
   });
   const pauses: EruptionStats['pauses'] = [];
@@ -202,7 +246,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     if (!next) return;
     const days = daysBetween(row.end, next.start);
     if (days > 0) {
-      const text = durationText(days);
+      const text = spanText(row.end, next.start);
       row.pauseAfter = text;
       pauses.push({ from: row.end, to: next.start, days, text });
     }
@@ -218,12 +262,23 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     spanYears = total / 365.25;
     sharePercent = (100 * active) / total;
   }
+  const spans: Span[] = all.map((e) => {
+    const start: Ymd = [e.sy, e.sm || (e.smod === '<' ? 1 : 7), e.sd || 1];
+    const complete = Boolean(e.ey && e.em && e.ed);
+    return { eruption: e, start, end: complete ? [e.ey as number, e.em, e.ed] : start, openStart: e.smod === '<', continuing: e.emod === '>' };
+  });
+  const newest = all.length ? all[all.length - 1] : null;
+  const over = newest && newest.emod !== '>' && newest.sm && newest.sd && newest.ey && newest.em && newest.ed ? newest : null;
+
   const veis = all.map((e) => e.vei).filter((v): v is number => v !== null);
   const methods: Record<string, number> = {};
   for (const e of all) if (e.method) methods[e.method] = (methods[e.method] ?? 0) + 1;
 
   return {
     all,
+    spans,
+    lastStart: over ? [over.sy, over.sm, over.sd] : null,
+    lastEnd: over ? [over.ey as number, over.em, over.ed] : null,
     current,
     currentStart,
     currentLast,
