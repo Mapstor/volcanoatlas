@@ -104,7 +104,7 @@ volcano/gorely,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/grimsvotn,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/guagua-pichincha,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/heard,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/hekla,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/hekla,volcanoes,data,informational,"the warning time before each recorded eruption (25, 23, 30 and 79 minutes) with what Iceland’s Met Office says it could do today; what the agencies have said about the swelling since 2000, each with its date; the gaps between eruptions on the strip and in a table; the disputed lava volume of 2000 with both figures",gvp-eruptions,T2,live,"record page built 2026-11-18 (batch 19); also uses noaa-ncei-volcano, noaa-etopo, observatory-pages, paper-abstracts, reference-britannica and gov-iceland-civil-protection; carries dated statements to refresh (the Met Office’s list of colour-code changes as read on a day); waits for the owner’s read before his name goes on"
 volcano/home-reef,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/hudson-cerro,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/hunga-tonga-hunga-ha-apai,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

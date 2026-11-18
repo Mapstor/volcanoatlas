@@ -1,0 +1,380 @@
+{
+ "slug": "hekla",
+ "volcano_number": 372070,
+ "name": "Hekla",
+ "country": "Iceland",
+ "title": "Hekla Volcano: Last Eruption, Warning Time, Height & Facts",
+ "description": "Hekla last erupted in 2000. Its recorded eruptions began 23 to 79 minutes after the first earthquakes. What Iceland’s agencies say now, its history and height.",
+ "h1": "Hekla Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1845
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Hekla is one of Iceland’s most active volcanoes, about 70 miles from Reykjavik. It erupted about every ten years from 1970 to 2000 and has been quiet since. Its eruptions begin fast: in those that instruments recorded, the first earthquakes came 23 to 79 minutes before the eruption. Below: its state now, the last eruption, the warning it gives, its largest eruptions, its height, and every eruption on record.",
+ "answer": "**Hekla’s last eruption** ran from {last_start} to {last_end}.[[gvp]] It is a **stratovolcano** in southern Iceland, **{summit_ft} ft ({summit_m} m)** high, and the Icelandic Meteorological Office ranks it the country’s third most active volcano.[[gvp]][[imo]] It is not erupting. The office’s list of changes to its aviation colour code, read on {read_date}, has no entry for Hekla in the two years it covers.[[vona]]",
+ "timeline": {
+  "from": 1840,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 4,
+  "marks": [
+   {
+    "year": 1845.67,
+    "label": "1845"
+   },
+   {
+    "year": 1878.16,
+    "label": "1878"
+   },
+   {
+    "year": 1913.31,
+    "label": "1913"
+   },
+   {
+    "year": 1947.24,
+    "label": "1947"
+   },
+   {
+    "year": 2000.15,
+    "label": "2000"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The spikes of 1878 and 1913 are eruptions on fissures east of Hekla, not on the volcano itself.[[gvp]][[einarsson19]] From 1970 to 2000 the eruptions came about ten years apart."
+ },
+ "section": {
+  "kind": "land",
+  "note": "summit fissure: 3.4 miles",
+  "caption": "Hekla cut open, seen from the southwest end of its ridge, where it looks like a cone. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] From the side Hekla is a long ridge, split along the top by a fissure about 3.4 miles (5.5 km) long.[[gvp]]"
+ },
+ "map_zoom": 7,
+ "table": {
+  "rows": 9,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Hekla?",
+   "map": true,
+   "paras": [
+    "Hekla is in southern Iceland, about 70 miles (110 km) east of Reykjavik, at {coords}.[[brit]][[gvp]] It stands at the eastern end of the island’s largest farming region.[[brit]]",
+    "It is one of {n_country} volcanoes in [Iceland](/volcanoes-in-iceland) on the Smithsonian’s Holocene list.[[gvp]] Britannica records that it was known in early times as the Mountain of Hell.[[brit]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Hekla going to erupt soon?",
+   "paras": [
+    "No one can give a date. Hekla is not erupting. The Icelandic Meteorological Office, which monitors it, lists every change to the aviation colour code of Iceland’s volcanoes; the list read on {read_date} runs from November 20, 2024 to November 10, 2026 and has no entry for Hekla.[[vona]] The office’s page for the volcano gives 2000 as its last eruption.[[imo]]",
+    "The ground around Hekla kept swelling after that eruption; the Met Office’s 2019 report says the signal had been detectable ever since.[[icao]] Tilt measurements near the volcano passed their level from before the 2000 eruption sometime between 2007 and 2009, and by 2016 stood well above it, by the Met Office’s account that year.[[imomon]] Iceland’s Civil Protection dates the return to that pressure to 2006.[[cp]]",
+    "That has not meant an eruption. In 2016 the Met Office wrote that Hekla was considered overdue: it had erupted about every ten years from 1970 to 2000 and then stopped. Before 1970 its quiet spells ran up to 120 years.[[imomon]] In December 2021 Civil Protection said there were no particular signs that Hekla was closer to erupting than before.[[cp]]",
+    "The last scare was in March 2013. At least seven small earthquakes, none above magnitude 1, were located about 3 miles (4.5 km) northeast of the summit and about 7 miles (11 to 12 km) down. Police declared the lowest of three warning levels and the aviation colour code went to yellow. It returned to green on April 4, 2013. The earthquakes were judged to be rock breaking, not magma moving.[[gvp]]",
+    "What the agencies stress is how the next eruption will start: with very little warning."
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Hekla last erupt?",
+   "table": "periods",
+   "paras": [
+    "Hekla last erupted from **{last_start} to {last_end}**.[[gvp]] Lava reached the surface at 6:19 p.m. on February 26, and the last volcanic tremor was recorded at 8:44 a.m. on March 8.[[gvp]]",
+    "It was the last of a run: 1970, 1980, 1981, 1991 and 2000 on the Smithsonian’s list.[[gvp]] The Met Office counts 1980 and 1981 as one eruption.[[imomon]]",
+    "Nothing has erupted since. The present quiet, **{quiet_number} {quiet_unit}**, is already longer than any gap between Hekla’s eruptions since 1947."
+   ]
+  },
+  {
+   "id": "2000",
+   "h": "What happened in the 2000 eruption?",
+   "paras": [
+    "It was the first eruption of Hekla to be predicted.[[soosalu]] Small earthquakes began under the volcano at about 5 p.m. on February 26, 2000. They were taken at once as a possible sign of an eruption, and within 20 minutes Iceland’s civil defense had been told that one was likely.[[einarsson18]]",
+    "By the Met Office’s own count, its warning went out 41 minutes before the eruption began.[[icao]] The Smithsonian’s bulletin has civil defense and the aviation authority told about 40 minutes ahead, and the public told by national radio about 15 minutes ahead; a Met Office page puts the public warning at about half an hour.[[gvp]][[imohaz]]",
+    "At 6:17 p.m. a strain gauge in a borehole about 9 miles (15 km) away recorded a sudden change. At 6:19 p.m. lava broke out along a fissure about 4 miles (6.6 km) long across the summit ridge.[[gvp]][[hosk]] Six minutes later the ash plume was reported 7 miles (11 km) high.[[gvp]] Several pyroclastic flows, fast currents of hot ash and gas, formed in this first phase.[[hosk]]",
+    "The ash went north. Seven hours after the start it lay about 2 inches (4 to 5 cm) deep 13 miles (21 km) north of the volcano, and some fell on Grimsey island, 190 miles (300 km) away.[[gvp]]",
+    "Most of the lava came out in the first hours.[[hosk]] One flow reached Lambafell, 3 miles (5 km) south of the summit, and the flows had stopped by March 6.[[gvp]]",
+    "How much lava there was is not settled. A study published in 2007 put it at about 0.045 cubic miles (0.188 cubic km) over 6.9 square miles (17.93 sq km).[[hosk]] New maps published in 2018 give half that: 0.023 cubic miles (0.095 cubic km) over 5.6 square miles (14.59 sq km).[[pedersen]]",
+    "A NASA research plane that flew into the ash cloud was severely damaged, by the 2007 study’s account.[[hosk]]"
+   ]
+  },
+  {
+   "id": "warning",
+   "h": "How much warning does Hekla give?",
+   "aside": "callouts",
+   "paras": [
+    "Very little. In the eruptions that instruments have recorded, the first earthquakes came 23 to 79 minutes before the eruption: 25 minutes in 1970, 23 in 1980, 30 in 1991 and 79 in 2000.[[einarsson18]][[icao]] For the eruption of April 1981, which restarted the one of 1980, the same study gives about four hours, with an assumed start time.[[einarsson18]]",
+    "Only in 2000 was a warning issued in advance. No warning went out before the eruptions of 1970, 1980 and 1991.[[icao]][[einarsson18]]",
+    "Older accounts fit the pattern. The eruption of 1947 began at about 6:41 a.m. on March 29 with no significant warning; an earthquake was felt across much of southwest Iceland nine minutes later. In 1845 a faint trembling was noticed less than an hour before the eruption was seen.[[einarsson19]]",
+    "A 2018 study of Iceland’s eruptions found that Hekla stands out for these short times. Its explanation, first proposed in 2013, is that the channel from Hekla’s deep magma store stays open between eruptions, so the earthquakes mark only the last stretch of the magma’s way up.[[einarsson18]]",
+    "In 2019 the Met Office had 12 seismometers within 30 miles (50 km) of Hekla, four of them within 9 miles (15 km), along with strain gauges, GPS stations, gas sensors and cameras. Its report of that year works out the best case: a first warning call 18 to 34 minutes after the first unusual earthquakes, and a final alert after 24 to 53 minutes. If magma reaches the surface in under 24 minutes, no timely warning is possible. The report’s own words: “A sudden, unforeseen eruption at Hekla volcano remains a possibility.”[[icao]]"
+   ]
+  },
+  {
+   "id": "1947",
+   "h": "What happened in the 1947 eruption?",
+   "paras": [
+    "The Met Office calls it Hekla’s most recent major eruption.[[imomon]] It began on March 29, 1947, after 101 years without an eruption of the volcano itself, and ended on April 21, 1948, almost 13 months later.[[gvp]][[tl07]]",
+    "The plume rose to about 19 miles (30 km), by the Met Office’s account; Britannica gives nearly 16 miles (27 km) and says ash fell as far away as Finland.[[imomon]][[brit]]",
+    "Its lava covers 15 square miles (38.93 sq km) and amounts to about 0.18 cubic miles (0.742 cubic km), about as much as all the later eruptions together.[[pedersen]] It was also the first eruption of Hekla documented in detail.[[hosk]]",
+    "NOAA’s database dates its entry for this eruption November 2, 1947 and lists one death.[[noaa]]"
+   ]
+  },
+  {
+   "id": "biggest",
+   "h": "What was Hekla’s biggest eruption?",
+   "paras": [
+    "In the written record it is the first one, in 1104. The Smithsonian rates it VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]] It is the only eruption of Hekla in historical time that produced no lava: about 0.5 cubic miles (2 cubic km) of ash and pumice, after a quiet at the volcano that a 2007 review puts at more than 230 years.[[tl07]] Its plume is put at about 22 miles (36 km) high.[[hosk]]",
+    "The Smithsonian’s list gives the same rating to four older eruptions, dated from their deposits to about 5150, 4110, 2310 and 1100 BCE.[[gvp]]",
+    "By lava, the largest in historical time is the eruption of 1300, with about 0.36 cubic miles (1.5 cubic km), a figure estimated rather than mapped.[[tl07]] Its lava field is also the longest, about 12 miles (20 km).[[pedersen]]",
+    "The longest eruption began on April 5, 1766. The Smithsonian’s list ends it in May 1768; a 2019 study gives it 23 months.[[gvp]][[einarsson19]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Hekla?",
+   "paras": [
+    "Hekla is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] Measured against the land 9 miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Hekla?",
+   "paras": [
+    "Hekla is a **[stratovolcano](/types-of-volcanoes)** built along a fissure.[[gvp]] Repeated eruptions along a crack about 3.4 miles (5.5 km) long, the Heklugjá, have piled up a ridge rather than a cone.[[gvp]][[tl07]] From the southwest, looking along the ridge, Hekla looks like a cone. From the northwest it looks like a boat with its keel up.[[tl07]]",
+    "It stands where two parts of Iceland’s plate boundary meet: the East Volcanic Zone, a rift, and the South Iceland Seismic Zone, a fault zone where two plates slide past each other.[[gvp]]",
+    "Its rock runs from basaltic andesite to rhyolite, richer in silica than the basalt that erupts from the fissures around it.[[pedersen]] The Smithsonian lists the main rock as {rock}.[[gvp]]",
+    "An eruption usually opens with an explosive phase that lasts under an hour and then turns to lava.[[tl07]] The longer Hekla has been quiet, the more silica the first magma carries and the bigger that opening phase is.[[imoerupt]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Hekla erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** for Hekla and the fissures around it, {n_observed} of them known from written reports, the first in 1104.[[gvp]] The Icelandic Meteorological Office also counts 23 in historical time and ranks Hekla the third most active volcano in Iceland; a 2007 review ranks it second, after Grímsvötn.[[imo]][[tl07]]",
+    "The rhythm has changed. Hekla has usually erupted one to three times a century, and the 20th century brought five eruptions.[[tl07]] From 1970 to 2000 they came about ten years apart. Before 1970 the volcano’s quiet spells ran up to 120 years.[[imomon]]",
+    "About 100 eruptions are known from Hekla’s volcanic system in the past 9,000 years.[[imo]] The oldest on the Smithsonian’s list is from around {oldest}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "How dangerous is Hekla?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, use the Icelandic Meteorological Office and Iceland’s Civil Protection.[[imo]]",
+   "paras": [
+    "The hazards the Met Office lists for the next eruption are ash and pumice, lava, pyroclastic flows and floods of melted snow. Close to the volcano, pyroclastic flows, ash and gas can kill.[[imomon]]",
+    "Hekla draws hikers and sightseers, and the warning time is the problem.[[imomon]][[icao]] On December 27, 2021 Iceland’s Civil Protection and the police of South Iceland announced text messages to phones that enter a set area around the volcano, to tell visitors how little time there is to react if an eruption begins. In the same notice the police commissioner warned people against hiking on Hekla.[[cp]]",
+    "Aircraft are the other concern. Three international air routes cross the sky over Hekla, and planes pass close to the summit daily.[[icao]] In 2000 the plume was reported 7 miles (11 km) high six minutes after the lava appeared.[[gvp]]",
+    "Hekla’s ash carries fluorine, which poisons grazing animals. In 1970 about 1,500 ewes and 6,000 lambs died of it, and in 1980 the fluorine in many grazing districts was above the danger level.[[gvp]]",
+    "Lava has reached up to 10 miles (16 km) from Hekla in historical time, and about 5 miles (8 to 9 km) in the last 250 years. Farms were abandoned, destroyed or damaged in nine eruptions between 1104 and 1948; the lava of 1845 ended the old farm of Næfurholt.[[pedersen]]",
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Hekla, the first in {noaa_first}. {noaa_fatal_word} list deaths: {worst_deaths} for the eruption that began on {worst_date}, and one each in 1510 and 1947. The database does not say how the {worst_deaths} died, and no other source read for this page gives a death toll for that eruption. Its entry for 1693 carries a tsunami mark.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Hekla’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Hekla has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from the deposits they left, by radiocarbon or by the order of the ash layers. The oldest is from around {oldest}.[[gvp]]",
+    "The list includes older lava flows of Vatnafjöll, a 37-mile (60-km) chain of fissures south of Hekla that the Smithsonian files under the same volcano.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "warning time",
+ "callouts": [
+  {
+   "number": "79",
+   "unit": "minutes",
+   "text": "From the first earthquakes to the eruption of February 26, 2000.",
+   "source": "Source: Einarsson, 2018.[[einarsson18]]"
+  },
+  {
+   "number": "23",
+   "unit": "minutes",
+   "text": "From the first earthquakes to the eruption of August 17, 1980.",
+   "source": "Source: Einarsson, 2018.[[einarsson18]]"
+  }
+ ],
+ "faq_h": "Hekla questions and answers",
+ "faq": [
+  [
+   "When did Hekla last erupt?",
+   "From {last_start} to {last_end}. It has been quiet for {quiet_number} {quiet_unit}."
+  ],
+  [
+   "Is Hekla going to erupt soon?",
+   "No one can give a date. Tilt measurements passed their level from before the 2000 eruption between 2007 and 2009, and Iceland’s Civil Protection said in December 2021 that there were no particular signs Hekla was closer to erupting than before."
+  ],
+  [
+   "How much warning does Hekla give?",
+   "In the eruptions recorded by instruments, the first earthquakes came 23 to 79 minutes before the eruption. Only in 2000 was a warning issued in advance."
+  ],
+  [
+   "Is Hekla an active volcano?",
+   "Yes. The Icelandic Meteorological Office ranks it the third most active volcano in Iceland and watches it around the clock. The Smithsonian’s list has {n_observed} eruptions known from written reports since 1104."
+  ],
+  [
+   "How tall is Hekla?",
+   "{summit_ft} ft ({summit_m} m)."
+  ],
+  [
+   "Where is Hekla?",
+   "In southern Iceland, about 70 miles (110 km) east of Reykjavik."
+  ],
+  [
+   "What type of volcano is Hekla?",
+   "A stratovolcano built along a fissure, which gives it the shape of a ridge rather than a cone."
+  ],
+  [
+   "Is it safe to hike Hekla?",
+   "Iceland’s police warned against hiking on Hekla in December 2021, because there is little time to react if an eruption begins. The same notice announced text messages to phones that enter a set area around the volcano."
+  ],
+  [
+   "What was Hekla’s biggest eruption?",
+   "In the written record, the eruption of 1104, rated VEI {max_vei}. The eruption of 1947–1948 produced about as much lava as all of Hekla’s later eruptions together."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Hekla record, eruption list and bulletins",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=372070"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "imo",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Hekla",
+   "url": "https://en.vedur.is/volcanoes/about-volcanoes/hekla/"
+  },
+  {
+   "id": "vona",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "VONA notifications: changes in the aviation colour code of Iceland’s volcanoes",
+   "url": "https://en.vedur.is/earthquakes-and-volcanism/volcanoes/vona-notifications/"
+  },
+  {
+   "id": "imomon",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Monitoring of Hekla (July 7, 2016)",
+   "url": "https://en.vedur.is/earthquakes-and-volcanism/articles/monitoring-hekla"
+  },
+  {
+   "id": "imoerupt",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Hekla eruptions",
+   "url": "https://en.vedur.is/volcanoes/about-volcanoes/hekla/hekla-eruptions/"
+  },
+  {
+   "id": "imohaz",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Volcanic hazards: earthquakes",
+   "url": "https://en.vedur.is/volcanoes/volcanic-hazards/earthquakes/"
+  },
+  {
+   "id": "icao",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Barsotti, S. and others. Hekla volcano monitoring project: final report, VÍ 2019-003, June 30, 2019 (PDF)",
+   "url": "https://en.vedur.is/media/vedurstofan-utgafa-2019/VI_2019_003_ICAO_final_web.pdf"
+  },
+  {
+   "id": "cp",
+   "publisher": "Department of Civil Protection and Emergency Management, Iceland",
+   "title": "Announcement of text messages on Reykjanes and around Hekla, December 27, 2021 (in Icelandic and English)",
+   "url": "https://almannavarnir.is/frettir/tilkynning-um-virkjun-sms-skilaboda-a-reykjanesi-og-umhverfis-heklu"
+  },
+  {
+   "id": "einarsson18",
+   "publisher": "Frontiers in Earth Science",
+   "title": "Einarsson, P. (2018). Short-term seismic precursors to Icelandic eruptions 1973–2014. Volume 6, article 45, doi:10.3389/feart.2018.00045",
+   "url": "https://doi.org/10.3389/feart.2018.00045"
+  },
+  {
+   "id": "einarsson19",
+   "publisher": "Jökull, journal of the Iceland Glaciological Society",
+   "title": "Einarsson, P. (2019). Historical accounts of pre-eruption seismicity of Katla, Hekla, Öræfajökull and other volcanoes in Iceland. No. 69, page 45",
+   "url": "https://timarit.is/page/7864051?lang=da"
+  },
+  {
+   "id": "soosalu",
+   "publisher": "Bulletin of Volcanology",
+   "title": "Soosalu, H., Einarsson, P. and Þorbjarnardóttir, B. S. (2005). Seismic activity related to the 2000 eruption of the Hekla volcano, Iceland. Volume 68, pages 21–36, doi:10.1007/s00445-005-0417-7 (abstract)",
+   "url": "https://doi.org/10.1007/s00445-005-0417-7"
+  },
+  {
+   "id": "hosk",
+   "publisher": "Bulletin of Volcanology",
+   "title": "Höskuldsson, Á. and others (2007). The millennium eruption of Hekla in February 2000. Volume 70, pages 169–182, doi:10.1007/s00445-007-0128-3",
+   "url": "https://doi.org/10.1007/s00445-007-0128-3"
+  },
+  {
+   "id": "tl07",
+   "publisher": "Journal of Geodynamics",
+   "title": "Thordarson, T. and Larsen, G. (2007). Volcanism in Iceland in historical time: volcano types, eruption styles and eruptive history. Volume 43, pages 118–152, doi:10.1016/j.jog.2006.09.005",
+   "url": "https://doi.org/10.1016/j.jog.2006.09.005"
+  },
+  {
+   "id": "pedersen",
+   "publisher": "Jökull, journal of the Iceland Glaciological Society",
+   "title": "Pedersen, G. B. M. and others (2018). Historical lava flow fields at Hekla volcano, South Iceland. No. 68, pages 1–26 (PDF)",
+   "url": "https://opinvisindi.is/bitstream/handle/20.500.11815/968/20190104GRO.pdf?sequence=1"
+  },
+  {
+   "id": "brit",
+   "publisher": "Encyclopaedia Britannica",
+   "title": "Hekla",
+   "url": "https://www.britannica.com/place/Hekla"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**longer than any gap since 1947:** the Smithsonian’s dates give 22 years between the end of the 1947–1948 eruption and the eruption of 1970, and 10 years or less between the eruptions from 1970 to 2000.",
+  "**about as much as all the later eruptions together:** the 2018 maps give 0.742 cubic km for 1947–1948 and 0.717 cubic km for 1970, 1980–1981, 1991 and 2000 combined.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, inches, miles, square miles and cubic miles are converted from the metric figures in the sources and rounded.",
+  "Times of day are local time, which in Iceland is Greenwich Mean Time all year."
+ ],
+ "expect": {
+  "last_start": "February 26",
+  "last_end": "March 8, 2000",
+  "summit_m": "1,490",
+  "n_all": "65",
+  "n_observed": "23",
+  "n_since": "9",
+  "n_vei5": "5",
+  "max_vei": "5",
+  "noaa_n": "16",
+  "noaa_first": "1104",
+  "noaa_fatal_count": "3",
+  "noaa_deaths": "602",
+  "worst_deaths": "600",
+  "worst_date": "July 11, 1300"
+ },
+ "observatory_read": "2026-11-18",
+ "since_check": "**No eruption since 2000 on record.** The Icelandic Meteorological Office’s page for the volcano, read on {read_date}, gives 2000 as its last eruption. Its list of changes to the aviation colour code, read the same day, runs from November 20, 2024 to November 10, 2026 and has no entry for Hekla.[[imo]][[vona]]",
+ "reviewed": null
+}

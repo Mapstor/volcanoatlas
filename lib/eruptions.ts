@@ -403,6 +403,8 @@ function marked(text: string, modifier: string | null): string {
 /** How the Smithsonian's record gives an eruption's start. */
 export function startLabel(e: Eruption): string {
   if (e.sm && e.sd) return marked(dateText([e.sy, e.sm, e.sd], precisionOf(e.sdunc)), e.sdmod);
+  // a start the record gives to the month but not the day ("May 1554")
+  if (e.sm && e.sy > 0) return marked(dateText([e.sy, e.sm, 1], 'month'), e.smod);
   const era = e.sy < 0 ? `${-e.sy} BCE` : `${e.sy} CE`;
   // a year before the common era is written with its era ("before 6580 BCE"); a lower limit reads "after"
   if (e.smod === '<') return `before ${e.sy < 0 ? era : e.sy}`;
@@ -414,6 +416,13 @@ export function startLabel(e: Eruption): string {
 export function endLabel(e: Eruption): string {
   if (e.emod === '>') return 'continuing';
   if (e.ey && e.em && e.ed) return marked(dateText([e.ey, e.em, e.ed], precisionOf(e.edunc)), e.edmod === '>' ? null : e.edmod);
+  // an end the record gives only to the month or to the year is printed that far ("May 1768", "1390 CE"), not as missing
+  if (e.ey && e.em && e.ey > 0) return marked(dateText([e.ey, e.em, 1], 'month'), e.edmod === '>' ? null : (e.edmod ?? e.emod));
+  if (e.ey) {
+    // the year alone, worded like a start year: "about" for a question mark, "before" for an upper limit
+    const era = e.ey < 0 ? `${-e.ey} BCE` : `${e.ey} CE`;
+    return e.emod === '?' ? `about ${era}` : e.emod === '<' ? `before ${era}` : era;
+  }
   return 'not recorded';
 }
 
