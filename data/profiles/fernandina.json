@@ -1,0 +1,333 @@
+{
+ "slug": "fernandina",
+ "volcano_number": 353010,
+ "name": "Fernandina",
+ "country": "Ecuador",
+ "title": "Fernandina Volcano, Galápagos: Last Eruption, Height & Facts",
+ "description": "Fernandina, the most active volcano in the Galápagos, last erupted from March to May 2024. Its state now, the 1968 caldera collapse, its height and full record.",
+ "h1": "Fernandina Volcano",
+ "facts": {
+  "count_from": 1813
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Fernandina is an island in the Galápagos and a single volcano, often called La Cumbre. Nobody lives on it, and it erupts more often than any other volcano in the islands: {n_since} times since {since_year} on the Smithsonian’s list, most recently in 2024. In June 1968 the floor of its summit caldera dropped 1,150 ft in about ten days. Below: its last eruption, what its observatory reports now, the 1968 collapse, what eruptions do to the island’s wildlife, its height, and every eruption on record.",
+ "answer": "**Fernandina last erupted from {last_start} to {last_end}**, on the Smithsonian’s list.[[gvp]] It is a **shield volcano** that forms an uninhabited island in the Galápagos, **{summit_ft} ft ({summit_m} m)** high.[[gvp]][[ig25]] It is not erupting. The newest report from Ecuador’s Instituto Geofísico, dated November 26, 2025, describes an earthquake swarm and rising ground inside the caldera, and no eruption.[[ig25]]",
+ "timeline": {
+  "from": 1810,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1825.12,
+    "label": "1825"
+   },
+   {
+    "year": 1968.44,
+    "label": "1968"
+   },
+   {
+    "year": 2024.17,
+    "label": "2024"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Most of the spikes are eruptions that lasted days. The mark at 1968 is the eruption that ended with the collapse of the caldera floor."
+ },
+ "section": {
+  "kind": "land",
+  "note": "floor fell 1,150 ft in 1968",
+  "crater": "caldera",
+  "crater_depth_m": 850,
+  "crater_share": 0.2,
+  "caption": "Fernandina as a simple outline rising from the sea. The summit height and the depth of the caldera are to scale; the outline and the caldera’s width are schematic.[[gvp]][[nasa02]] The real volcano is a broad shield, far wider than this sketch, and its caldera is about 2.5 by 4 miles (4 by 6.5 km) across.[[howard10]]"
+ },
+ "map_zoom": 8,
+ "map_label": "left",
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Fernandina?",
+   "map": true,
+   "paras": [
+    "Fernandina is an island in the Galápagos, at {coords}, roughly 700 miles (1,100 km) west of the coast of mainland Ecuador.[[gvp]][[nasa24]] It is the youngest of the islands and the third largest, 246 square miles (638 sq km).[[nasa24]][[parkiguana]] The whole island is one volcano, which Ecuador’s agencies also call La Cumbre, “the summit”.[[simkin70]][[ig24]]",
+    "Nobody lives there.[[ig25]] The volcano stands directly over the hot spot that built all of the Galápagos islands.[[nasa24]] It is one of {n_country} volcanoes in [Ecuador](/volcanoes-in-ecuador) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Fernandina last erupt?",
+   "table": "periods",
+   "paras": [
+    "Fernandina last erupted from **{last_start} to {last_end}**.[[gvp]] The Instituto Geofísico (IG-EPN), which monitors Ecuador’s volcanoes, times the start at 11:50 p.m. on March 2 and puts the end between May 8 and 9, about 68 days later.[[ig24]]",
+    "An earthquake of magnitude 4.4 struck about 12 miles (20 km) southeast of the island that day. A swarm of earthquakes began at 10:30 p.m., and the eruption followed an hour and twenty minutes later.[[ig24]]",
+    "Lava came out of 20 fissures in a zone 2.7 miles (4.3 km) long, high on the southeast side of the caldera, 3,600 to 3,900 ft (1,100 to 1,200 m) up. Each fissure was active for two days at most, except one, which fed lava through tubes for the whole eruption. At the start the lava came out at about 200 cubic meters a second. The gas cloud rose 1.2 to 1.9 miles (2 to 3 km) above the summit and carried very little ash.[[ig24]]",
+    "The lava ran 4 miles (6.6 km) on the first day and reached the sea on April 6, about 8 miles (13.2 km) from the fissures.[[ig24]] Rangers of the Galápagos National Park, at their base on the Bolívar Channel west of Isabela, reported its arrival after 35 days of activity.[[park24]]",
+    "By the end the flows covered about 6 square miles (15.5 sq km) and had added about 25 acres (10 hectares) to the island. Fires burned about 1 square mile (2.7 sq km) of vegetation.[[ig24]]",
+    "IG-EPN estimates the lava at about 60 million cubic meters, give or take 30 million, and calls the eruption possibly the largest at Fernandina in 40 years. Its figures for 1995 and 2009 are 55 and 57 million.[[ig24]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Fernandina erupting now?",
+   "paras": [
+    "No. IG-EPN’s list of reports on Fernandina, read on {read_date}, ends with a special report dated November 26, 2025, and no report on it describes an eruption since May 2024.[[igtag]]",
+    "That last report is about earthquakes. One of magnitude 4.4 struck under the summit late on November 16, 2025, and a swarm began the next morning. By the date of the report 106 earthquakes had been located, and an automated count for November 14 to 25 found more than 2,000. Satellites saw no heat and no sulfur dioxide, and nothing had changed at the crater.[[ig25]]",
+    "The ground had been rising. Satellite radar showed the center and east of the caldera 2.5 to 3 inches (6 to 8 cm) higher on November 20, 2025 than on May 29, 2024, a preliminary figure.[[ig25]] IG-EPN read the swarm as a small body of magma that moved and stalled before it reached the surface. It saw no signs of an eruption in the short term, and added that this could change.[[ig25]]",
+    "Rising ground also came before the last eruption. The caldera had been swelling since 2020, and it sank about 4 inches (10 cm) once the lava was out.[[ig24]][[nasa24]]"
+   ]
+  },
+  {
+   "id": "1968",
+   "h": "What happened at Fernandina in 1968?",
+   "aside": "callouts",
+   "paras": [
+    "The floor of the summit caldera fell in. In June 1968 it dropped by as much as 1,150 ft (350 m), and the space that opened measures about 0.36 cubic mile (1.5 cubic km).[[howard18]][[howard10]] For comparison, the caldera collapse at Miyakejima in Japan in 2000 was 0.14 cubic mile (0.6 cubic km).[[howard10]]",
+    "It began with lava. On May 21 a short eruption broke out on the east-southeast flank, about 2,000 ft (600 m) up.[[gvp]] Three weeks later, on June 11, a small earthquake and a large cloud of vapor were followed four hours on by a cloud of ash and, an hour after that, by a major explosion. Stations that record low-frequency sound in the air picked it up across the hemisphere.[[howard10]][[simkin70]]",
+    "That evening people far away saw a red glow and flashes, and there was unusual lightning in the cloud. Fine ash fell through the night and much of the next day, at least 220 miles (350 km) from the volcano.[[simkin70]]",
+    "The explosions went on for four days, and water drove them: magma met the lake and the groundwater held inside the caldera. Currents of hot ash and rock swept the summit plateau west of the vent, 2,000 to 2,300 ft (600 to 700 m) above it, and knocked down trees. Blocks thrown out of the caldera dug craters where they landed, more than 0.6 mile (1 km) away.[[howard18]] The Smithsonian rates the eruption VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index), its highest for Fernandina.[[gvp]]",
+    "Then the floor went down, over about ten days.[[howard18]] Several hundred earthquakes of magnitude 4.0 to 5.4 were recorded, and on June 19 a seismograph 87 miles (140 km) away counted more than 200 earthquakes in a day. Few came after June 23.[[simkin70]] The collapse has been modeled as about 75 drops of about 16 ft (5 m) each.[[howard10]]",
+    "The floor did not sink evenly. It tilted like a trapdoor, hinged at one end and lowered most at the other, the southeast end, where a lake formed.[[howard10]]",
+    "The hole has been filling since. By 2010 lava flows and a landslide of about 0.24 cubic mile (1 cubic km) in 1988 had put back about 650 ft (200 m).[[howard10]]"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "h": "What do eruptions do to Fernandina’s wildlife?",
+   "paras": [
+    "Fernandina has no people and a great deal of wildlife. NASA’s account of the 2024 eruption names land iguanas, marine iguanas, rice rats, flightless cormorants and penguins, and says the land iguanas nest on the rim of the caldera and inside it.[[nasa24]] The Galápagos National Park put the island’s land iguanas at about 46,000 after fieldwork in 2018.[[parkiguana]]",
+    "Lava has killed animals. In 1995 dead fish floated where lava entered the sea, marine iguanas burned on the flows and some land iguanas died; the sea there was hotter than 140 °F (60 °C) in mid-February. In 2009 a preliminary report had fish of several species and several fur seals killed.[[gvp]]",
+    "In 2024 the Park reported that the flow down the southeast flank had covered endemic plants, among them scalesia, palo santo and cacti, and part of the land iguana’s range. Where the lava reached the sea, it said, marine iguanas, fish and shore invertebrates could be affected. The release reports no dead animals.[[park24]]",
+    "The Park treats eruptions as part of how the islands work: its statement at the start of the 2024 eruption calls them part of the natural cycle that shapes the islands’ ecology.[[parkstart]] A study of the ground buried by the ash of 1968 found that life returned to it quickly, and that Fernandina’s frequent eruptions have not reduced the variety of life on the island.[[howard18]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Fernandina?",
+   "paras": [
+    "Fernandina is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] A caption NASA published in 2002 gives 1,495 m.[[nasa02]]",
+    "Its summit caldera is about 2.5 by 4 miles (4 by 6.5 km) across, or 5 by 6.5 km by IG-EPN’s figure.[[howard10]][[iggal]] NASA’s 2002 caption puts its depth at 2,800 ft (850 m).[[nasa02]] Before the collapse of 1968 it was 2,300 ft (700 m) deep.[[howard10]]",
+    "The height is counted from sea level. No source read for this page says how far the volcano goes on below the water, so the drawing above starts at the sea."
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Fernandina?",
+   "paras": [
+    "Fernandina is a **[shield volcano](/types-of-volcanoes)** made of basalt.[[gvp]][[simkin70]] Its magma is runny, so gas escapes from it easily and its eruptions pour out lava instead of blasting out ash.[[nasa24]]",
+    "The lava comes out of long fissures. Some run around the caldera, like those of 2017, 2020 and 2024. Others run down the flanks, as in 1995 and 2018.[[gvp]][[ig24]]",
+    "The exception is 1968, when water inside the caldera met the magma and the eruption turned explosive.[[nasa24]][[howard18]] Deposits on the island suggest it was not the first eruption of that kind.[[howard18]]",
+    "The Smithsonian lists the main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Fernandina erupt?",
+   "paras": [
+    "More often than any other volcano in the Galápagos. IG-EPN counts 28 to 30 eruptions since the 1800s and calls that the highest rate in the islands.[[ig24]] The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}, when the written record begins.[[gvp]]",
+    "NASA’s summary in 2024 was an eruption roughly every four years in recent times.[[nasa24]] The gaps are uneven: the list has eruptions in 1995, 2005, 2009, 2017, 2018, 2020 and 2024, from nine months to ten years apart.[[gvp]]",
+    "Most are short. The eruptions of 2017, 2018 and 2020 each ended within a week, and the one of 2020 lasted about nine hours.[[gvp]] At about 68 days, the eruption of 2024 was the longest since 1995.[[ig24]][[gvp]]",
+    "The list rates most of them VEI 2 or lower on the [Volcanic Explosivity Index](/volcanic-explosivity-index). The exceptions are 1825, at VEI 3, and June 1968, at VEI {max_vei}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Fernandina dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, use the reports of the Instituto Geofísico and the Galápagos National Park.[[igtag]]",
+   "paras": [
+    "To people, very little. No one lives on the island, and IG-EPN’s reports say its eruptions pose no direct risk to people. The prevailing wind blows the gas west-northwest, away from the inhabited islands of Isabela, Santa Cruz, Floreana and San Cristóbal.[[ig25]]",
+    "Visitors are the exception. The Park kept the island’s visitor sites open during the 2024 eruption.[[park24]] IG-EPN’s advice is to keep away from lava flows, most of all where they enter the sea, where they can set off small explosions and give off toxic gas.[[ig25]] It also warns against walking on new lava after an eruption has ended: the lava tubes can collapse, the ground stays hot and the rock is sharp.[[ig24]]",
+    "NOAA’s database of significant eruptions has no entry for Fernandina.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Fernandina’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Fernandina has **{n_all} confirmed eruptions**. Of the {n_since} since {since_year}, {n_written} come from written reports and the one of 2024 from satellite images. The list names no source for the one of 1817 and marks it as uncertain: the volcano may have been another in the western Galápagos. The three older entries are lava flows dated by how long their surfaces have been exposed to cosmic rays; the oldest is from around {oldest}.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "June 1968",
+ "callouts": [
+  {
+   "number": "1,150",
+   "unit": "ft",
+   "text": "How far the caldera floor dropped at its southeast end in June 1968 (350 m).",
+   "source": "Source: Howard and others, 2018.[[howard18]]"
+  },
+  {
+   "number": "10",
+   "unit": "days",
+   "text": "How long the floor took to go down, after four days of explosions.",
+   "source": "Source: Howard and others, 2018.[[howard18]]"
+  }
+ ],
+ "faq_h": "Fernandina questions and answers",
+ "faq": [
+  [
+   "When did Fernandina last erupt?",
+   "From {last_start} to {last_end}, on the Smithsonian’s list. It has been quiet for {quiet_span}."
+  ],
+  [
+   "Is Fernandina volcano active?",
+   "Yes. It is the most active volcano in the Galápagos, with {n_since} eruptions on the Smithsonian’s list since {since_year}. It is not erupting now."
+  ],
+  [
+   "Is La Cumbre the same volcano as Fernandina?",
+   "Yes. Ecuador’s Instituto Geofísico and the Galápagos National Park call the volcano on Fernandina island La Cumbre."
+  ],
+  [
+   "Where is Fernandina volcano?",
+   "In the Galápagos Islands of Ecuador, roughly 700 miles (1,100 km) west of the mainland coast. The volcano is the whole of Fernandina island."
+  ],
+  [
+   "How tall is Fernandina?",
+   "{summit_ft} ft ({summit_m} m) above sea level."
+  ],
+  [
+   "What happened at Fernandina in 1968?",
+   "After four days of explosions in June 1968, the floor of the summit caldera dropped by as much as 1,150 ft (350 m) in about ten days."
+  ],
+  [
+   "Does anyone live on Fernandina?",
+   "No. The island has no human settlements."
+  ],
+  [
+   "What type of volcano is Fernandina?",
+   "A shield volcano made of basalt, with a caldera about 2.5 by 4 miles (4 by 6.5 km) across at its summit."
+  ],
+  [
+   "How often does Fernandina erupt?",
+   "Roughly every four years in recent times, by NASA’s summary in 2024. The gaps between its eruptions since 1995 run from nine months to ten years."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Fernandina record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=353010"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "ig25",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Informe Volcánico Especial – Fernandina – N° 2025-001 (November 26, 2025, in Spanish)",
+   "url": "https://www.igepn.edu.ec/servicios/noticias/2308-informe-volcanico-especial-fernandina-n-2025-001"
+  },
+  {
+   "id": "igtag",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Reports and articles on Fernandina (in Spanish)",
+   "url": "https://www.igepn.edu.ec/islas-galapagos/tag/Fernandina"
+  },
+  {
+   "id": "ig24",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Informe Volcánico Especial – Fernandina – N° 2024-004: end of the eruption (May 22, 2024, in Spanish)",
+   "url": "https://www.igepn.edu.ec/servicios/noticias/2136-informe-volcanico-especial-fernandina-n-2024-004"
+  },
+  {
+   "id": "iggal",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Islas Galápagos (in Spanish)",
+   "url": "https://www.igepn.edu.ec/islas-galapagos"
+  },
+  {
+   "id": "park24",
+   "publisher": "Dirección del Parque Nacional Galápagos (Ecuador)",
+   "title": "Flujo de lava de la erupción del volcán «La Cumbre» llega al mar (release of April 2024, in Spanish)",
+   "url": "https://galapagos.gob.ec/flujo-de-lava-de-la-erupcion-del-volcan-la-cumbre-llega-al-mar/"
+  },
+  {
+   "id": "parkstart",
+   "publisher": "Dirección del Parque Nacional Galápagos (Ecuador)",
+   "title": "Inicio de proceso eruptivo en el volcán La Cumbre (statement of March 2024, in Spanish)",
+   "url": "https://galapagos.gob.ec/inicio-de-proceso-eruptivo-en-el-volcan-la-cumbre/"
+  },
+  {
+   "id": "parkiguana",
+   "publisher": "Dirección del Parque Nacional Galápagos (Ecuador)",
+   "title": "Población de iguanas amarillas de Galápagos aumentó en la isla Fernandina (in Spanish)",
+   "url": "https://galapagos.gob.ec/poblacion-de-iguanas-amarillas-de-galapagos-aumento-en-la-isla-fernandina/"
+  },
+  {
+   "id": "nasa24",
+   "publisher": "NASA Earth Observatory",
+   "title": "An Eruption for Galápagos Iguanas (March 9, 2024)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/an-eruption-for-galapagos-iguanas-152538/"
+  },
+  {
+   "id": "nasa02",
+   "publisher": "NASA Earth Observatory",
+   "title": "Fernandina Island, Galapagos (astronaut photograph, August 11, 2002)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/fernandina-island-galapagos-2690/"
+  },
+  {
+   "id": "simkin70",
+   "publisher": "U.S. Geological Survey, publications record",
+   "title": "Simkin, T. and Howard, K. A. (1970). Caldera collapse in the Galápagos Islands, 1968. Science 169 (3944), doi:10.1126/science.169.3944.429 (abstract)",
+   "url": "https://www.usgs.gov/publications/caldera-collapse-galapagos-islands-1968"
+  },
+  {
+   "id": "howard18",
+   "publisher": "U.S. Geological Survey, publications record",
+   "title": "Howard, K. A. and others (2018). Large hydromagmatic eruption related to Fernandina Volcano’s 1968 caldera collapse: deposits, landforms, and ecosystem recovery. doi:10.1130/2018.2538(18) (abstract)",
+   "url": "https://www.usgs.gov/publications/large-hydromagmatic-eruption-related-fernandina-volcanos-1968-caldera-collapse"
+  },
+  {
+   "id": "howard10",
+   "publisher": "GSA Today, Geological Society of America",
+   "title": "Howard, K. A. (2010). Caldera collapse: perspectives from comparing Galápagos volcanoes, nuclear-test sinks, sandbox models, and volcanoes on Mars. Volume 20, no. 10, pages 4–10, doi:10.1130/GSATG82A.1",
+   "url": "https://rock.geosociety.org/gsatoday/archive/20/10/article/i1052-5173-20-10-4.htm"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**nine months to ten years apart:** from the Smithsonian’s dates for the eruptions since 1995; the table of eruptions has them.",
+  "**the longest since 1995:** the Smithsonian’s dates give the eruption of 1995 about ten weeks and those of 2005, 2009, 2017, 2018 and 2020 under three weeks each.",
+  "Feet, miles, inches, acres, square miles and cubic miles are converted from the metric figures in the sources and rounded.",
+  "Times of day are Galápagos time, six hours behind UTC, as the sources give them."
+ ],
+ "expect": {
+  "last_start": "March 2",
+  "last_end": "May 8, 2024",
+  "summit_m": "1,476",
+  "n_all": "33",
+  "n_since": "30",
+  "max_vei": "4",
+  "n_vei4": "1",
+  "n_vei3": "1",
+  "noaa_n": "0",
+  "n_written": "28",
+  "prev_start": "January 12",
+  "prev_end": "January 13, 2020"
+ },
+ "observatory_read": "2026-11-18",
+ "since_check": "**No eruption since May 2024 on record.** The Instituto Geofísico’s list of reports on Fernandina, read on {read_date}, ends with a special report of November 26, 2025: an earthquake swarm under the summit, ground rising inside the caldera, and no surface activity.[[igtag]][[ig25]]",
+ "reviewed": null
+}
