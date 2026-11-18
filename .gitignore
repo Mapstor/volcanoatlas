@@ -16,6 +16,8 @@
 # next.js
 /.next/
 /out/
+# written by `next dev` (16.4) when a coding agent starts it; CLAUDE.md is this repo's instruction file
+/AGENTS.md
 
 # production
 /build
