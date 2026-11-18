@@ -36,7 +36,7 @@
   ],
   "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
   "note_at": "bottom",
-  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The list has {n_since} eruptions since {since_year}. Most fall between {since_year} and 1083; after 1083 it has four more, the last in 1707."
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Most of the list’s {n_since} eruptions since {since_year} came by 1083. It has four more after that, the last in 1707."
  },
  "section": {
   "kind": "land",

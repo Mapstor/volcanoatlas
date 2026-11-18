@@ -419,6 +419,14 @@ _last update: 2026-11-18 · VOL-023_
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/fujisan. Every source was fetched and read (the Cabinet Office chapter and the weather agency's catalogue twice; two re-read after the second reading of the text, which changed seven sentences). Sources disagree and the page prints each with its source: the end of the 1707 eruption, its size (VEI 5 and VEI 4), the magma of 864, the count of eruptions in written records. Not read: the Smithsonian's Geological Summary (§5).
 
+### 2026-11-18 · VOL-023 FUJI · chat · done (second commit)
+- What: after the preview look in the owner's Chrome, the caption under Fuji's strip was reworded: it repeated the handwritten note above it ("15 eruptions since 781") on a desktop screen. It now reads as one statement that also stands alone on a phone, where the note is not shown.
+- Files: `data/profiles/fujisan.json`, `DEVLOG.md`
+- Verified: every gate run again on this code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap; render check: 20 rebuilt pages ok at 1440 px, phone pages without sideways scroll, Fuji's map tiles 6/6; registry check OK. The first commit's preview was looked at in the owner's Chrome before this change (hero, strip, map tiles 6/6, drawing, tables, the 19 other record pages, sitemap).
+- Unverified: this commit's preview and the live page (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: the approval wall is back: a fetch of the Colombian survey's Galeras bulletin was tried after the owner's "Continue from where you left off" and nobody answered the permission request. Galeras, Nevado del Ruiz and Purace keep waiting (§5).
+
 ## §7 History & archive
 - 2026-02 · Create Next App scaffold (02-13); first site commit with 150 profiles and 46 country pages (02-26); Vercel config; domain changed from volcanoatlas.com to volcanosatlas.com (02-27); favicon and OG image; analytics, Clarity and Bing verification; sitemap and robots (02-28)
 - 2026-03 · ads.txt added (03-16)
