@@ -72,7 +72,13 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   const low = spec.low_label ?? 'paused';
 
   const items = stats.spans
-    .map((span) => ({ s: span.openStart ? y0 : Math.max(y0, decimalYear(span.start)), e: decimalYear(span.end), span }))
+    // an eruption that began "before" a year is drawn from the left edge only when the record also gives it an end (or has it
+    // continuing); with no end on record it is a spike at that year, like any other eruption without an end date
+    .map((span) => {
+      const start = decimalYear(span.start);
+      const end = decimalYear(span.end);
+      return { s: span.openStart && (span.continuing || end > start) ? y0 : Math.max(y0, start), e: end, span };
+    })
     .filter((p) => p.e > y0);
 
   // the line, left to right
@@ -328,7 +334,8 @@ function LandDrawing({ data, compact }: { data: RecordData; compact: boolean }) 
   const groundY = Y(ground);
   const H = groundY - summitY;
   const notch = sec.crater_share ? W * sec.crater_share : compact ? 6 : 9;
-  const crater = Math.min(H * 0.5, Math.max(3, (sec.crater_depth_m ?? 0) * k));
+  // a crater is drawn to scale down to 60% of the drawn height (Fernandina's caldera is 850 m deep in a 1,476 m volcano)
+  const crater = Math.min(H * 0.6, Math.max(3, (sec.crater_depth_m ?? 0) * k));
   const inset = Math.min(notch * 0.4, crater * 0.5);
   const dome = sec.dome_m ? Math.min(crater * 0.8, sec.dome_m * k) : 0;
   // flanks of a stratovolcano: gentle at the foot, steeper under the summit
