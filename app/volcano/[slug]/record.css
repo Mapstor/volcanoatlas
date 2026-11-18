@@ -182,6 +182,19 @@ body:has(.va-page) > footer {
   stroke-dashoffset: 1;
   animation: va-line 1.1s ease-out 4.4s forwards;
 }
+/* the unit ("years ago") never breaks in two; a number of three digits (Mount Fuji: 318) is set smaller so both share a line */
+.va-yearsunit {
+  white-space: nowrap;
+}
+.va-yearsnum-long {
+  font-size: 118px;
+}
+.va-yearsnum-long .va-ring {
+  left: -22px;
+  top: -3px;
+  width: calc(88px * var(--va-digits, 3));
+  height: 120px;
+}
 .va-hand {
   font-family: 'Caveat', cursive;
   font-weight: 700;
@@ -914,6 +927,15 @@ body:has(.va-page) > footer {
     width: calc(80px * var(--va-digits, 2));
     height: 110px;
   }
+  .va-yearsnum-long {
+    font-size: 86px;
+  }
+  .va-yearsnum-long .va-ring {
+    left: -16px;
+    top: -2px;
+    width: calc(65px * var(--va-digits, 3));
+    height: 90px;
+  }
   .va-note1 {
     font-size: 27px;
   }
@@ -966,6 +988,19 @@ body:has(.va-page) > footer {
   /* keeps "Erupting since …" on one line on small phones, so the strip stays on the first screen */
   .va-since {
     font-size: 22px;
+  }
+  /* a three-digit number and its unit ("318 years ago") stay on one line on a small phone */
+  .va-years-long {
+    font-size: 34px;
+  }
+  .va-yearsnum-long {
+    font-size: 78px;
+  }
+  .va-yearsnum-long .va-ring {
+    left: -14px;
+    top: -2px;
+    width: calc(59px * var(--va-digits, 3));
+    height: 82px;
   }
 }
 

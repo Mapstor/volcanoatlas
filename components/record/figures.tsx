@@ -143,10 +143,13 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   const hand = small ? 17 : 22;
   const grid: ReactNode[] = [];
   const gridLabels: ReactNode[] = [];
-  // a record of several centuries on a phone gets a line every 50 years and a year every 100; otherwise 10 and 50
+  // a record of several centuries on a phone gets a line every 50 years and a year every 100; otherwise 10 and 50.
+  // Past 700 years (Mount Fuji: 750 to 2030) the lines are 50 years apart at every width and the years 100 apart,
+  // 250 on a phone, where a year every 100 would run into the next
   const long = small && y1 - y0 > 260;
-  const gridStep = long ? 50 : 10;
-  const labelStep = long ? 100 : 50;
+  const veryLong = y1 - y0 > 700;
+  const gridStep = long || veryLong ? 50 : 10;
+  const labelStep = veryLong ? (small ? 250 : 100) : long ? 100 : 50;
   for (let year = Math.ceil(y0 / gridStep) * gridStep; year <= y1; year += gridStep) {
     const x = X(year);
     const major = year % labelStep === 0;
@@ -252,7 +255,8 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             fontWeight={700}
             fill={PAL.ink}
           >
-            {dateText(stats.lastEnd, stats.lastEndPrecision)}: last eruption ended
+            {dateText(stats.lastEnd, stats.lastEndPrecision)}
+            {stats.lastEndQuestioned ? ' (uncertain)' : ''}: last eruption ended
           </text>
         </>
       )}
