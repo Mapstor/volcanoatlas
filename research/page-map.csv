@@ -130,7 +130,7 @@ volcano/lascar,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/lengai-ol-doinyo,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/llaima,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/lopevi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/manam,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/manam,volcanoes,data,informational,"the island’s evacuation of 2004 and 2005 with its numbers and where they come from; the pattern of four back-to-back eruptions since October 2004 read off the Smithsonian’s dates; what the newest weekly reports say, with their dates; the 1996 deaths hour by hour from the Smithsonian’s bulletin",gvp-eruptions,T2,live,"record page built 2026-11-18 (batch 17); also uses noaa-ncei-volcano, gvp-weekly, observatory-pages, nasa-earth-observatory, paper-abstracts, usgov-definitions and un-agency-reports; the observatory was read only through the Smithsonian’s reports and no current alert stage could be read; carries dated statements to refresh; waits for the owner’s read before his name goes on"
 volcano/marapi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/masaya,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/mauna-loa,volcanoes,data,informational,three heights of the volcano to scale in one drawing; every dated eruption since 1843 on a strip; USGS alert level read live,gvp-eruptions,T2,live,rebuilt as a record page; live since 2026-11-17 with the owner’s review. Finished page 2 of 213
