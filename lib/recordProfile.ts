@@ -311,7 +311,8 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     const exact = stats.lastStartPrecision === 'day' && stats.lastEndPrecision === 'day';
     // dates are written no more exactly than the Smithsonian gives them
     set('last_start', sameYear && exact ? `${MONTHS[stats.lastStart[1]]} ${stats.lastStart[2]}` : dateText(stats.lastStart, stats.lastStartPrecision, true));
-    set('last_end', dateText(stats.lastEnd, stats.lastEndPrecision, true));
+    // "(date uncertain)" when the record puts a question mark on an end date it gives to the day (the rule of cur_since)
+    set('last_end', `${dateText(stats.lastEnd, stats.lastEndPrecision, true)}${stats.lastEndQuestioned ? ' (date uncertain)' : ''}`);
     set('last_end_short', dateText(stats.lastEnd, stats.lastEndPrecision));
     // an eruption that began and ended on one day is printed as that day, not as a range
     const oneDay = exact && stats.lastStart.every((part, i) => part === stats.lastEnd![i]);

@@ -95,7 +95,7 @@ volcano/eyjafjallajokull,volcanoes,data,informational,"the 2010 eruption from th
 volcano/fernandina,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/fonualei,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/fuego,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/fujisan,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/fujisan,volcanoes,data,informational,the two end dates of the 1707 eruption side by side (Japan’s records and the Smithsonian’s list) and the two size ratings; the eruption hour by hour and its century of floods from the Cabinet Office’s account; what Japan plans for (the 2021 lava map and the 2025 ashfall guideline) with their numbers; the alert level with the date it was read,gvp-eruptions,T2,live,"record page built 2026-11-18 (batch 18); also uses noaa-ncei-volcano, noaa-etopo, observatory-pages, nasa-earth-observatory, un-agency-reports and gov-japan-fuji; carries dated statements to refresh (alert level, commentary of August 2026, climbers of 2026); waits for the owner’s read before his name goes on"
 volcano/furnas,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/galeras,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending; on hold since 2026-11-17: the Colombian survey's newest weekly bulletin and general page need the owner's presence to be read (DEVLOG §5)
 volcano/gamalama,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

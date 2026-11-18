@@ -256,6 +256,8 @@ export interface EruptionStats {
   lastEndPrecision: Precision;
   /** the Smithsonian's day uncertainty on the end of the last eruption, when it states one */
   lastEndUncertaintyDays: number | null;
+  /** the record puts a question mark on the end day of the last eruption and gives no range for it, so the date is printed to the day */
+  lastEndQuestioned: boolean;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -374,6 +376,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     lastStartPrecision: over ? precisionOf(over.sdunc) : 'day',
     lastEndPrecision: over ? precisionOf(over.edunc) : 'day',
     lastEndUncertaintyDays: over?.edunc ?? null,
+    lastEndQuestioned: Boolean(over && over.edmod === '?' && precisionOf(over.edunc) === 'day'),
     current,
     currentStart,
     currentLast,
@@ -401,7 +404,9 @@ function marked(text: string, modifier: string | null): string {
 export function startLabel(e: Eruption): string {
   if (e.sm && e.sd) return marked(dateText([e.sy, e.sm, e.sd], precisionOf(e.sdunc)), e.sdmod);
   const era = e.sy < 0 ? `${-e.sy} BCE` : `${e.sy} CE`;
-  if (e.smod === '<') return `before ${e.sy}`;
+  // a year before the common era is written with its era ("before 6580 BCE"); a lower limit reads "after"
+  if (e.smod === '<') return `before ${e.sy < 0 ? era : e.sy}`;
+  if (e.smod === '>') return `after ${e.sy < 0 ? era : e.sy}`;
   if (e.smod === '?') return `about ${era}`;
   return e.sunc ? `${era} ± ${e.sunc} years` : era;
 }

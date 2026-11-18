@@ -1,0 +1,360 @@
+{
+ "slug": "fujisan",
+ "volcano_number": 283030,
+ "name": "Mount Fuji",
+ "country": "Japan",
+ "title": "Mount Fuji: Last Eruption (1707), Is It Active, Height",
+ "description": "Mount Fuji last erupted in 1707 and is an active volcano at Japan’s lowest alert level. What happened in 1707, what Japan expects next, its height and record.",
+ "h1": "Mount Fuji",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 781
+ },
+ "big": {
+  "line": "Last eruption ended early in {last_year}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "it began on {last_start}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Mount Fuji is Japan’s highest mountain and an active volcano about 60 miles from Tokyo. It has not erupted since the winter of 1707–1708, when 16 days of explosions buried villages at its foot and dropped ash on the city that is now Tokyo. Below: its state now, that last eruption, what Japan expects from the next one, its height, and every eruption on record.",
+ "answer": "**Mount Fuji last erupted in 1707.** The eruption began on {last_start} and ended on January 1, 1708 by Japan’s records, or on {last_end} on the Smithsonian’s list.[[cao]][[gvp]] Fuji is an active **stratovolcano**, **{summit_ft} ft ({summit_m} m)** high, the highest mountain in Japan.[[jma]] Japan’s weather agency had it at Volcanic Alert Level 1, the lowest of five, when its status page was read on {read_date}.[[jmanow]]",
+ "timeline": {
+  "from": 750,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 864.45,
+    "label": "864"
+   },
+   {
+    "year": 1707.96,
+    "label": "1707"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The list has {n_since} eruptions since {since_year}. Most fall between {since_year} and 1083; after 1083 it has four more, the last in 1707."
+ },
+ "section": {
+  "kind": "land",
+  "note": "1707 vent: southeast flank",
+  "crater": "summit crater",
+  "crater_depth_m": 250,
+  "crater_share": 0.08,
+  "caption": "Mount Fuji cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[jma]][[etopo]] The summit crater is about 800 ft (250 m) deep and 1,600 ft (500 m) across.[[nasa04]] The crater of 1707 is on the southeast flank and is not drawn.[[cao]]"
+ },
+ "map_zoom": 8,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Fuji?",
+   "map": true,
+   "paras": [
+    "Mount Fuji is on the island of Honshu, about 60 miles (around 100 km) southwest of Tokyo, at {coords}.[[nasa]][[unesco]][[gvp]] The foot of its southern slopes reaches the shore of Suruga Bay.[[unesco]] The weather agency’s warnings for it name towns in two prefectures, Yamanashi and Shizuoka.[[jmanow]]",
+    "It is one of {n_country} volcanoes in [Japan](/volcanoes-in-japan) on the Smithsonian’s Holocene list, which files it under its Japanese name, Fujisan.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Mount Fuji active?",
+   "paras": [
+    "Yes. It is not erupting, but Japan’s weather agency counts it as an active volcano and monitors it continuously.[[jma]] The agency has it at **Volcanic Alert Level 1**, the lowest of five. The Japanese label for that level reads, in translation, “be mindful that it is an active volcano”.[[jmanow]]",
+    "The level has not changed since the system began. The forecast in force is the one the agency issued on December 1, 2007, the day it started issuing eruption warnings and alert levels.[[jmanow]][[jma]]",
+    "The agency’s commentary for August 2026 reports no sign of an eruption: no steam seen at the summit, few volcanic earthquakes, no tremor, and no ground movement it ties to the volcano.[[jmam]]",
+    "Twice since 2000 the ground under Fuji has drawn attention. From October 2000 to May 2001 small earthquakes of a low-frequency kind came in swarms about 9 miles (15 km) under the volcano, northeast of the summit: 133 in October 2000 and 222 in November. In the first months none was stronger than magnitude 2.2, and the instruments that measure the shape of the ground showed no change.[[gvp]] Within months, in July 2001, the council that draws Fuji’s hazard map was set up.[[hmhist]]",
+    "On March 15, 2011 a magnitude 6.4 earthquake struck eastern Shizuoka Prefecture, near the south side of the mountain. Earthquakes under Fuji became more frequent afterward; since 2016 they have been few again, though not as few as before.[[jma]][[jmam]] A Smithsonian bulletin of March 2013 relays two studies that disagree on whether the stress changes of March 2011 were enough to set off an eruption, and adds: “Fuji remains non-eruptive.”[[gvp]]",
+    "None of this says when the next eruption will come. Kanagawa Prefecture, which the hazard map now reaches, tells its residents that a future eruption is entirely conceivable.[[kanagawa]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mount Fuji last erupt?",
+   "table": "periods",
+   "paras": [
+    "In the winter of 1707–1708. The eruption began on **{last_start}**.[[gvp]][[cao]] Japan’s records have its last explosion in the early morning of January 1, 1708, after 16 days.[[cao]] The Smithsonian’s list ends it on {last_end}.[[gvp]]",
+    "Nothing since is confirmed. The Smithsonian’s list has three later entries, for 1708–1709, 1770 and 1854–1855, and counts none of them as confirmed.[[gvp]] The weather agency’s catalogue mentions rumbling in 1708 and writes “details unknown” beside the reports of 1708–1709 and 1854–1855.[[jma]] NASA notes steam at the summit from 1780 to 1820.[[nasa]]",
+    "That makes the present quiet **{quiet_number} {quiet_unit}** long, counted from the Smithsonian’s end date."
+   ]
+  },
+  {
+   "id": "1707",
+   "h": "What happened in the 1707 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The eruption is called Hoei, after the era of the Japanese calendar in which it fell.[[jma]] It began 49 days after the Hoei Tokai-Nankai earthquake of October 28, 1707.[[cao]]",
+    "Small earthquakes inside the mountain had begun about September. From around December 3 people at the eastern foot felt rumbling and small earthquakes almost every day, and on the night of December 15 the shaking was felt from Nagoya to Edo, the city now called Tokyo.[[cao]] The weather agency’s catalogue puts the largest earthquake of that day at magnitude 5.[[jma]]",
+    "At about 10 a.m. on **December 16, 1707**, just after the second of two strong earthquakes, a vent opened on the southeast slope.[[cao]] The eruption was of the kind volcanologists call Plinian, and its plume reached the stratosphere. It threw out pumice of dacite first and scoria of basalt later.[[jma]] At the eastern foot the day went as dim as dusk, stones fell and fires started; after sunset the falling ash turned from gray-white to black.[[cao]]",
+    "After noon the plume reached Edo, 59 miles (95 km) to the northeast. The sky went dark, thunder sounded, and gray-white ash began to fall.[[cao]][[nasa]] Ash fell on the city on many nights through December 27.[[cao]] At Kawasaki it lay 2 inches (5 cm) deep, and the deposits covered almost all of southern Kanto, the region around Tokyo.[[jma]]",
+    "The last explosion came in the early morning of January 1, 1708.[[cao]] In those 16 days the volcano put out about 0.17 cubic miles (0.7 cubic km) of magma, and both the weather agency and the Smithsonian rate the eruption VEI 5 on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[jma]][[gvp]] Near the eastern foot the stones and ash lay more than 6.5 ft (2 m) deep in places.[[cao]]",
+    "No deaths from the eruption itself are known, by the account Japan’s Cabinet Office published in 2011.[[cao]] The deaths came afterward, from hunger and floods. Farmland lay buried and relief was slow; many people starved and many left.[[cao]][[jma]] The Sakawa River broke its newly repaired banks in heavy rain on August 8, 1708. The Cabinet Office counts the floods there among the eruption’s secondary disasters, says they went on for nearly a century, and records about 70 deaths in the flood of 1734.[[cao]]",
+    "The shogunate took the worst-hit land under its own control in February 1708 and ordered a levy on the whole country. The levy came to about 40% of its yearly revenue; a little over 10% of it can be shown to have gone to relief.[[cao]]"
+   ]
+  },
+  {
+   "id": "864",
+   "h": "What happened in the eruption of 864?",
+   "paras": [
+    "Fuji’s other great historical eruption was one of lava. It began in June 864 on the northwest flank. The flow, now called the Aokigahara lava, reached Lake Motosu and cut a lake called Senoumi in two; the halves are today’s Lake Shoji and Lake Sai. It buried houses and killed the fish in the lakes.[[jma]]",
+    "It is called Jogan, again after its era. The weather agency’s catalogue puts its magma at 0.29 cubic miles (1.2 cubic km).[[jma]] The hazard map of 2021 uses 1.3 billion cubic meters (0.31 cubic miles), nearly twice the 680 million it gives for 1707.[[hmdoc]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Fuji?",
+   "paras": [
+    "Mount Fuji is **{summit_ft} ft ({summit_m} m)** high, the highest mountain in Japan. Its highest point is called Kengamine.[[jma]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "The crater at the summit is about 800 ft (250 m) deep and 1,600 ft (500 m) across.[[nasa04]] Above about 8,040 ft (2,450 m) the mountain is bare rock, worn by strong winds.[[jma]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount Fuji?",
+   "paras": [
+    "Mount Fuji is a **[stratovolcano](/types-of-volcanoes)**.[[gvp]] NASA calls it one of the world’s classic examples: a steep cone built from many layers of lava and of the debris of explosive eruptions.[[nasa]]",
+    "The cone hides older volcanoes. The weather agency describes Fuji as built over two earlier ones, Komitake and Kofuji, with a volume of about 96 cubic miles (400 cubic km) for all of it.[[jma]] The part that is active now, which NASA calls Younger Fuji, began forming about 11,000 to 8,000 years ago.[[nasa]]",
+    "It is made mainly of basalt. The eruption of 1707 was an exception: its pumice was dacite and andesite, rock richer in silica.[[jma]] The Smithsonian lists the main rock as {rock}.[[gvp]] More than 100 places on its flanks have erupted.[[jma]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount Fuji erupt?",
+   "paras": [
+    "Far more often than the last three centuries suggest. The council that draws Fuji’s hazard map counts about 180 eruptions in the past 5,600 years, 96% of them small or medium.[[hmdoc]] That is one every 31 years on average, against **{quiet_number} {quiet_unit}** of quiet now.",
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_observed} of them known from written reports, the first in {since_year}.[[gvp]] Japan’s Cabinet Office counts ten eruptions with reliable historical records.[[cao]] The list rates {n_vei5} eruptions VEI 5, the one of 1707 among them.[[gvp]]",
+    "By the weather agency’s account and the hazard map’s, eruptions for about the past 2,300 years have come from the flanks.[[jma]][[hmdoc]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "What would an eruption of Mount Fuji do today?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the alert level in force, use the Japan Meteorological Agency’s page for the volcano.[[jmanow]]",
+   "paras": [
+    "Fuji’s two great historical eruptions were very different: one of lava in 864 and one of ash in 1707.[[cao]] Japan has a plan for each.",
+    "For lava, the hazard map was redrawn in March 2021. It runs 252 simulations of lava flows, and the largest cases pour out 1.3 billion cubic meters (1.7 billion cubic yards), the volume of 864.[[hm]] The new map added 12 cities and towns that lava could reach, seven of them in Kanagawa Prefecture, Sagamihara and Odawara among them.[[hmdoc]]",
+    "For ash, the Cabinet Office published a guideline for the Tokyo region in March 2025, with a large eruption of Fuji as its model. Its basic advice is to stay home and go on living there as far as possible. It gives three reasons: falling ash seldom puts lives in immediate danger, the region’s population is very large, and eruption forecasts are uncertain. Tokyo and Kanagawa alone have about 23 million residents.[[ashmag]][[ash]]",
+    "The guideline sorts the damage into four stages by the depth of the ash. With less than 1.2 inches (3 cm), trains and flights stop. With 12 inches (30 cm) or more, wooden houses may collapse when rain soaks the ash, and people there should leave.[[ash]]",
+    "NOAA’s database of significant eruptions has {noaa_n_word} entry for Mount Fuji, the eruption of 1707, and lists no deaths for it. It rates that eruption VEI 4, one step below the Smithsonian’s 5.[[noaa]][[gvp]]"
+   ]
+  },
+  {
+   "id": "climb",
+   "h": "Can you climb Mount Fuji?",
+   "paras": [
+    "Yes, in summer. Japan’s Ministry of the Environment counted about 240,000 climbers in the 2026 season, from the trail openings on July 1 and July 10 to September 10, with infrared counters near the eighth station of the four trails. Since 2025 both prefectures have required climbers to register in advance, pay an entry fee and keep to set hours.[[env]]",
+    "The mountain is also on the World Heritage List. UNESCO inscribed it in 2013 as “Fujisan, sacred place and source of artistic inspiration”, a property of 25 sites that include the pilgrim routes and crater shrines of the upper mountain.[[unesco]][[unescodec]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Fuji’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Mount Fuji has **{n_all} confirmed eruptions**: {n_observed} known from written reports and {n_dated} dated from the deposits they left, by radiocarbon or by the order of the ash layers. The oldest is dated after {oldest}.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "1707",
+ "callouts": [
+  {
+   "number": "49",
+   "unit": "days",
+   "text": "Between the Hoei earthquake of October 28, 1707 and the start of the eruption.",
+   "source": "Source: Cabinet Office of Japan, 2011.[[cao]]"
+  },
+  {
+   "number": "16",
+   "unit": "days",
+   "text": "Length of the eruption in Japan’s records: December 16, 1707 to January 1, 1708.",
+   "source": "Source: Cabinet Office of Japan, 2011.[[cao]]"
+  }
+ ],
+ "faq_h": "Mount Fuji questions and answers",
+ "faq": [
+  [
+   "When did Mount Fuji last erupt?",
+   "In 1707. The eruption began on {last_start} and ended on January 1, 1708 by Japan’s records; the Smithsonian’s list ends it on {last_end}."
+  ],
+  [
+   "Is Mount Fuji an active volcano?",
+   "Yes. Japan’s weather agency lists it as active and monitors it continuously. It had the volcano at Alert Level 1, the lowest of five, on {read_date}."
+  ],
+  [
+   "Is Mount Fuji going to erupt?",
+   "No one can give a date. The weather agency’s commentary for August 2026 reports no sign of an eruption. Kanagawa Prefecture calls a future eruption entirely conceivable, and Japan keeps a hazard map and an ashfall plan for one."
+  ],
+  [
+   "How tall is Mount Fuji?",
+   "{summit_ft} ft ({summit_m} m). It is the highest mountain in Japan."
+  ],
+  [
+   "How far is Mount Fuji from Tokyo?",
+   "About 60 miles (around 100 km) to the southwest, by UNESCO’s description."
+  ],
+  [
+   "What type of volcano is Mount Fuji?",
+   "A stratovolcano: a steep cone of layered lava and explosive debris, built over two older volcanoes."
+  ],
+  [
+   "How many times has Mount Fuji erupted?",
+   "The Smithsonian lists {n_all} confirmed eruptions, the oldest dated after {oldest}. The council behind Fuji’s hazard map counts about 180 in the past 5,600 years."
+  ],
+  [
+   "Did the 1707 eruption kill anyone?",
+   "No deaths from the eruption itself are known, by the account of Japan’s Cabinet Office. Many people starved afterward, and a flood on the Sakawa River in 1734, one of many that followed the eruption, killed about 70."
+  ],
+  [
+   "Can you climb Mount Fuji?",
+   "Yes, in the summer season. About 240,000 climbers were counted in 2026, and since 2025 climbers must register in advance and pay an entry fee."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Fujisan record, eruption list and bulletins",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=283030"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jma",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 55. Fujisan (PDF)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/055_fujisan.pdf"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Fujisan: forecast, alert level and newest information (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/314.html"
+  },
+  {
+   "id": "jmam",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Monthly commentary on Fujisan’s volcanic activity, August 2026 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/tokyo/26m08/314_26m08.pdf"
+  },
+  {
+   "id": "cao",
+   "publisher": "Cabinet Office of Japan, Central Disaster Management Council",
+   "title": "Learning from the history of disasters, volcano volume (2011), chapter 1: the 1707 Hoei eruption of Mount Fuji, by Masato Koyama (PDF, in Japanese)",
+   "url": "https://www.bousai.go.jp/kyoiku/kyokun/kyoukunnokeishou/pdf/saigaishi_kazan.pdf"
+  },
+  {
+   "id": "nasa",
+   "publisher": "NASA Earth Observatory",
+   "title": "Mount Fuji, Japan (astronaut photograph of April 8, 2009)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/mount-fuji-japan-39099/"
+  },
+  {
+   "id": "nasa04",
+   "publisher": "NASA Earth Observatory",
+   "title": "Mt. Fuji, Japan (Image of the Day, March 8, 2004)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/mt-fuji-japan-4286/"
+  },
+  {
+   "id": "unesco",
+   "publisher": "UNESCO World Heritage Centre",
+   "title": "Fujisan, sacred place and source of artistic inspiration",
+   "url": "https://whc.unesco.org/en/list/1418/"
+  },
+  {
+   "id": "unescodec",
+   "publisher": "UNESCO World Heritage Committee",
+   "title": "Decision 37 COM 8B.29 (Phnom Penh, 2013)",
+   "url": "https://whc.unesco.org/en/decisions/5157/"
+  },
+  {
+   "id": "hm",
+   "publisher": "Shizuoka Prefecture",
+   "title": "Mount Fuji hazard map, revised March 2021: lava-flow simulations (in Japanese)",
+   "url": "https://www.pref.shizuoka.jp/bosaikinkyu/sonae/kazanfunka/fujisankazan/1030029.html"
+  },
+  {
+   "id": "hmdoc",
+   "publisher": "Mount Fuji Volcanic Disaster Prevention Council, published by Shizuoka Prefecture",
+   "title": "Report on the revised Mount Fuji hazard map, explanatory slides, March 2021 (PDF, in Japanese)",
+   "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/030/023/20210326_fujisan_013houkokusyo_setumeisiryou02.pdf"
+  },
+  {
+   "id": "hmhist",
+   "publisher": "Yamanashi Prefecture",
+   "title": "Mount Fuji hazard map (revised March 2021): how the map came about (in Japanese)",
+   "url": "https://www.pref.yamanashi.jp/kazan/hazardmap.html"
+  },
+  {
+   "id": "kanagawa",
+   "publisher": "Kanagawa Prefecture",
+   "title": "Volcano disaster measures: Mount Fuji (in Japanese)",
+   "url": "https://www.pref.kanagawa.jp/docs/j8g/bousai/1_3235_9_13.html"
+  },
+  {
+   "id": "ash",
+   "publisher": "Cabinet Office of Japan",
+   "title": "Guideline on wide-area ashfall measures for the capital region, summary, March 2025 (PDF, in Japanese)",
+   "url": "https://www.bousai.go.jp/kazan/kouhaikyougikai/kyougikai1kai/pdf/sanko1.pdf"
+  },
+  {
+   "id": "ashmag",
+   "publisher": "Cabinet Office of Japan",
+   "title": "Wide-area ashfall measures for a large eruption, Bousai magazine No. 114 (in Japanese)",
+   "url": "https://www.bousai.go.jp/kohou/kouhoubousai/r07/114/news_01.html"
+  },
+  {
+   "id": "env",
+   "publisher": "Ministry of the Environment, Japan",
+   "title": "Number of Mount Fuji climbers in summer 2026, press release of September 30, 2026 (in Japanese)",
+   "url": "https://kanto.env.go.jp/press_00163.html"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today. Japan’s records end the eruption on January 1, 1708, 54 days earlier.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "**one every 31 years:** 5,600 years divided by about 180 eruptions, the count of the council that draws the hazard map.",
+  "Feet, inches, miles, cubic miles and cubic yards are converted from the metric figures in the sources and rounded.",
+  "Dates are in the Western calendar, as the sources give them. Times of day are local.",
+  "This page uses the name Mount Fuji. The Smithsonian’s list and Japan’s weather agency write Fujisan."
+ ],
+ "expect": {
+  "last_start": "December 16, 1707",
+  "last_end": "February 24, 1708 (date uncertain)",
+  "summit_m": "3,776",
+  "summit_ft": "12,388",
+  "n_all": "58",
+  "n_observed": "15",
+  "n_since": "15",
+  "n_vei5": "3",
+  "max_vei": "5",
+  "noaa_n": "1",
+  "noaa_fatal_count": "0",
+  "last_year": "1708"
+ },
+ "observatory_read": "2026-11-18",
+ "since_check": "**Not erupting: Alert Level 1.** Japan’s weather agency had Mount Fuji at Volcanic Alert Level 1, the lowest of five, when its status page was read on {read_date}. The page listed no new information in the week before, and the agency’s commentary for August 2026 reports no sign of an eruption.[[jmanow]][[jmam]]",
+ "reviewed": null,
+ "map_label": "left"
+}

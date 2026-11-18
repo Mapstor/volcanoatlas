@@ -337,8 +337,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
 
           <div className="va-big">
             <p className="va-since">{plain(profile.big.line, ctx).replace(/\bat least\b/g, 'at\u00a0least')}</p>
-            <p className="va-years">
-              <span className="va-yearsnum" style={{ ['--va-digits' as string]: plain(profile.big.number, ctx).length }}>
+            <p className={`va-years${plain(profile.big.number, ctx).length >= 3 ? ' va-years-long' : ''}`}>
+              <span
+                className={`va-yearsnum${plain(profile.big.number, ctx).length >= 3 ? ' va-yearsnum-long' : ''}`}
+                style={{ ['--va-digits' as string]: plain(profile.big.number, ctx).length }}
+              >
                 {plain(profile.big.number, ctx)}
                 <svg className="va-ring" viewBox="0 0 220 150" preserveAspectRatio="none" aria-hidden="true">
                   <path
@@ -352,7 +355,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   />
                 </svg>
               </span>{' '}
-              {plain(profile.big.unit, ctx)}
+              <span className="va-yearsunit">{plain(profile.big.unit, ctx)}</span>
             </p>
             <p className="va-hand va-note1">
               {weekly && !weekly.stale && profile.big.note_weekly ? fill(profile.big.note_weekly, { ...ctx, period: weekly.periodShort }) : plain(profile.big.note, ctx)}
