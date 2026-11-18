@@ -1,0 +1,335 @@
+{
+ "slug": "orizaba-pico-de",
+ "volcano_number": 341100,
+ "name": "Pico de Orizaba",
+ "country": "Mexico",
+ "title": "Pico de Orizaba: Height, Last Eruption, Glacier & Facts",
+ "description": "Pico de Orizaba (Citlaltépetl) is Mexico’s highest mountain and North America’s highest volcano. Its height, last eruption, state now and shrinking glacier.",
+ "h1": "Pico de Orizaba",
+ "facts": {
+  "summit_m": 5636,
+  "summit_ft": 18491,
+  "summit_source": "uvserva21",
+  "summit_source_name": "the Universidad Veracruzana",
+  "ground": "etopo",
+  "count_from": 1500
+ },
+ "big": {
+  "line": "Last eruption on record: {last_year}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "a 2026 study says 1687",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Pico de Orizaba, also called Citlaltépetl, is the highest mountain in Mexico and the highest volcano in North America. Its last eruption came in {last_year} or in 1687, depending on the source. It carries a shrinking glacier, and about half a million people live within 19 miles of its crater. Below: how high it is, when it last erupted, what scientists say about it now, its glacier, its hazards, and every eruption on record.",
+ "answer": "**Pico de Orizaba is {summit_ft} ft ({summit_m} m) high**, the highest mountain in Mexico and the highest volcano in North America.[[uvserva21]][[nasa11]] It is an active **stratovolcano** on the border of the Mexican states of Puebla and Veracruz.[[gaceta26]] Its last eruption on the Smithsonian’s list was in **{last_year}**; a 2026 study by a team that includes its observatory dates the last one to 1687.[[gvp]][[torres26]] It is not erupting. A UNAM researcher described it in January 2026 as active, with no recent eruptions.[[gaceta26]]",
+ "timeline": {
+  "from": 1500,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1566.5,
+    "label": "1566"
+   },
+   {
+    "year": 1687.5,
+    "label": "1687"
+   },
+   {
+    "year": 1846.5,
+    "label": "1846"
+   }
+  ],
+  "note": "{n_since} eruptions since {since_year} on the Smithsonian’s list",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The list gives these eruptions by year only, so each stands at the middle of its year. The two blocks are the eruptions it runs from 1545 to about 1555 and from 1569 to 1589."
+ },
+ "section": {
+  "kind": "land",
+  "note": "the highest point in Mexico",
+  "crater": "summit crater",
+  "crater_depth_m": 300,
+  "crater_depth_text": "about 1,000 ft deep",
+  "crater_share": 0.05,
+  "caption": "Pico de Orizaba cut open. The summit height, the depth of the crater and the land around the volcano are to scale; the outline is schematic.[[uvserva21]][[gvp]][[etopo]] The glacier on the north side is not drawn."
+ },
+ "map_zoom": 7,
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Pico de Orizaba?",
+   "map": true,
+   "paras": [
+    "Pico de Orizaba stands in eastern Mexico, on the border of the states of Puebla and Veracruz, at {coords}.[[gaceta26]][[gvp]] The city of Orizaba is about 17 miles (27 km) away.[[unam02]]",
+    "Its other name is Citlaltépetl, which the Smithsonian translates as “Mountain of the Star.”[[gvp]]",
+    "It stands at the southern end of a chain of volcanoes that also holds Cofre de Perote, in the easternmost part of the Trans-Mexican Volcanic Belt.[[gvp]][[torres26]] It is one of {n_country} volcanoes in [Mexico](/volcanoes-in-mexico) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Pico de Orizaba?",
+   "paras": [
+    "Pico de Orizaba is **{summit_ft} ft ({summit_m} m)** high, the figure used by the Universidad Veracruzana, whose observatory monitors the volcano, and by UNAM, Mexico’s national university.[[uvserva21]][[gaceta26]] Other sources differ. The Smithsonian’s list has 18,255 ft ({gvp_summit_m} m); NASA has 18,620 ft (5,675 m), and one of the Smithsonian’s own photo captions uses the same metric figure.[[gvp]][[nasa11]] The observatory itself gave about 18,510 ft (5,643 m) in a 2020 report and noted that the height varies from one reference to another.[[osv20]]",
+    "The university’s scientists call it the highest mountain in Mexico, and NASA and the Smithsonian call it North America’s highest volcano.[[uvserva21]][[nasa11]][[gvp]]",
+    "It rises about 14,800 ft (4,500 m) above the coastal plain of the Gulf of Mexico.[[gvp]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "The summit crater is about 1,300 by 1,600 ft (400 by 500 m) across, and its floor lies about 1,000 ft (300 m) below the summit.[[gvp]] Sierra Negra, an extinct volcano to the southwest, reaches 15,225 ft (4,640 m).[[nasa11]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Pico de Orizaba last erupt?",
+   "paras": [
+    "The Smithsonian’s list has Pico de Orizaba’s last eruption in **{last_year}**: an explosion with ash, rated VEI 2 on the [Volcanic Explosivity Index](/volcanic-explosivity-index). The list gives the year and nothing more exact.[[gvp]] NASA uses the same year.[[nasa11]]",
+    "Mexican scientists date the last eruption earlier. A 2026 paper by a team that includes the Universidad Veracruzana’s observatory says the volcano last erupted in 1687, citing a study from 1984.[[torres26]] Its lead author said in 2025 that the most recent activity fell between 1600 and 1700.[[uv25]] A UNAM scientist said in 2002 that the last documented eruption was in 1545.[[unam02]]",
+    "None of these eruptions was large. The Smithsonian describes the volcano’s activity in historical times as minor ash eruptions and flows of sticky lava. Its list has six confirmed eruptions since {since_year}: from 1545 to about 1555, in 1566, from 1569 to 1589, in 1613, in 1687 and in {last_year}. It rates five of them VEI 2 and the one of 1613, a lava flow, VEI 0.[[gvp]]",
+    "Either way, nobody alive has seen it erupt: the last eruption was in {last_year} if the list is right, and in 1687 if the 2026 paper is."
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Pico de Orizaba active?",
+   "paras": [
+    "Scientists class it as active, and it is not erupting. UNAM’s gazette of January 8, 2026, quotes a researcher on a new seismic study of the volcano: it is active, it has had no recent eruptions, and it does not have the level of seismic activity seen at [Popocatépetl](/volcano/popocatepetl) or [Colima](/volcano/colima).[[gaceta26]]",
+    "In May 2025 the Universidad Veracruzana’s news service reported a round table of its researchers under the headline “active volcano in a state of rest.” One of them said it can erupt again, that nobody can say when, and that no evidence yet pointed to an eruption: hundreds or thousands of years might pass first. Another said it shows some signs that confirm it is active; the report does not name them.[[uv25]]",
+    "A UNAM volcanologist had sounded a different note a few weeks earlier. At a meeting on glaciers reported by the university’s gazette on April 3, 2025, he said the volcano seemed to be waking up and that there were clear signs of rising activity. The report gives no measurements.[[gaceta25]] The two later statements above do not repeat the claim.[[uv25]][[gaceta26]]",
+    "The Smithsonian’s only two bulletins on the volcano date from 1992 and 1994. The scientists who set up a seismograph there saw no fumaroles either time; the instrument recorded one earthquake in four days in October 1992 and eight in under six hours of recording in April 1994.[[gvp]] A UNAM bulletin of 2002 speaks of small fumaroles near the summit.[[unam02]]",
+    "The observatory has run a seismic station on the volcano since March 1998.[[uv24]] A new station opened in August 2024 in the municipality of La Perla, 13,680 ft (4,170 m) up, with a broadband seismometer, a satellite-positioning receiver, a video camera and weather instruments.[[gaceta24]][[uv24]] In February 2025 UNAM added ten seismometers for a study of the volcano’s inside, some of them above 16,700 ft (5,100 m). They are to record for a year to a year and a half, and clear results are expected in 2027.[[gaceta26]]",
+    "A roar and a dust cloud that residents reported on April 27, 2020, turned out to be a rockfall: about 23,500 cubic yards (18,000 cubic m) of rock had broken off the southeast face at 17,200 ft (5,250 m). The observatory found that no earthquake had caused it and named a cold front, which had brought a sharp drop in temperature and snow two days earlier, as the very probable trigger.[[osv20]]"
+   ]
+  },
+  {
+   "id": "glacier",
+   "h": "Does Pico de Orizaba still have a glacier?",
+   "aside": "callouts",
+   "paras": [
+    "Yes, on its north side. The Universidad Veracruzana calls it the north glacier and the last glacier left in Mexico; UNAM’s gazette, which uses the name Jamapa glacier, called Pico de Orizaba in 2026 the only Mexican volcano that still has a glacier on its summit.[[uv26]][[gaceta24]][[gaceta26]] Not everyone counts that way. The gazette’s report of a UNAM volcanologist’s talk in 2025 has three glaciers still left in Mexico, on Pico de Orizaba, Iztaccíhuatl and Popocatépetl, the same three peaks NASA listed in 2011.[[gaceta25]][[nasa11]]",
+    "It is shrinking fast. It covered about 490 acres (2 sq km) in 1958, 114 acres (0.46 sq km) in 2019 and 91 acres (0.37 sq km) in 2024.[[uv25]] Soundings along lines across the glacier in 2019 found the ice 56 ft (17.2 m) thick at most, in its middle, and about 33 ft (10 m) on average.[[uvserva21]] Between 2015 and 2025 it thinned by 3 ft to more than 23 ft (1 to more than 7 m) depending on the place, about 10 ft (3 m) on average, a loss of 1.8 million cubic yards (1.4 million cubic m) of ice. Its front moved back about 660 ft (200 m) between 2019 and 2026.[[uv26]]",
+    "The university’s data, which run from 1990 to 2025, show a warmer and drier mountain: about 1.8 °F (1 °C) warmer at the middle of the glacier, with nearly 8 inches (200 mm) less precipitation a year.[[uv26]]",
+    "The university’s glaciologist will not name a date for its end: glaciology, he says, does not make forecasts of that kind.[[uv26]] That volcanologist said Mexico’s remaining glaciers could be gone within five years.[[gaceta25]] Whether the ice still counts as a glacier is itself under debate, the glaciologist said in 2025: the name belongs to ice that creeps.[[uv25]]",
+    "Thousands of people around the mountain draw water from springs that the melt feeds.[[uv26]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Pico de Orizaba?",
+   "paras": [
+    "Pico de Orizaba is a **[stratovolcano](/types-of-volcanoes)**.[[gvp]] It grew in three stages, by the Smithsonian’s account, over about 650,000 years, by the Universidad Veracruzana’s.[[gvp]][[uv25]] Twice in that time the cone collapsed in great avalanches of rock, between 290,000 and 210,000 years ago and about 16,000 years ago.[[torres26]]",
+    "The Smithsonian lists its main rock as {rock}, and says its eruptions of the past 5,000 years mostly produced lava flows of dacite.[[gvp]] A lava flow on the southwest side is about 360 ft (110 m) thick and ends 3.4 miles (5.5 km) from the summit.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Pico de Orizaba erupt?",
+   "paras": [
+    "Not often, by the record. The Smithsonian’s list has **{n_all} confirmed eruptions**, the oldest from around {oldest}.[[gvp]] A volcanologist of the Universidad Veracruzana said in 2025 that the volcano has had at least 36.[[uv25]]",
+    "The list dates {n_rc} of them by radiocarbon. It rates one eruption VEI {max_vei}, with a question mark, two VEI 4 and 13 VEI 3.[[gvp]]",
+    "Two of the largest came close together, more than 9,000 years ago. The 2026 paper calls them the Lower and Upper Citlaltépetl eruptions and dates them to about 9,600 to 9,500 and 9,200 years ago. The first sent a column of ash and pumice about 15.5 miles (25 km) up and the second 18 to 19 miles (29 to 30 km), and what fell from them draped 150 to 580 square miles (400 to 1,500 sq km).[[torres26]] The Smithsonian’s list has entries with the same names at about 7030 BCE and 6710 BCE, on uncalibrated radiocarbon dates.[[gvp]]",
+    "A 2025 study cited in that paper documented 40 separate beds of explosive deposits on the volcano, laid down with pauses of 100 to 800 years between eruptions. Earlier studies had put the pauses at 500 to 1,500 years.[[torres26]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Pico de Orizaba dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow Mexico’s civil protection authorities.",
+   "paras": [
+    "It could be. No eruption has been recorded for {quiet_number} {quiet_unit} or more, but about half a million people live on its flanks within 19 miles (30 km) of the crater, by Mexico’s 2020 census, and the 2026 paper counts it among Mexico’s most hazardous volcanoes.[[torres26]]",
+    "A hazard map that UNAM presented in January 2002 has three zones: red nearest the crater, orange for ground that eruptions reach much less often, and yellow for places only a large eruption would damage. A geologist who worked on it rated the city of Orizaba’s hazard as intermediate and said pyroclastic flows (avalanches of hot ash and rock) and mudflows had been laid down at that distance in the past. The bulletin that presented the map says an eruption would affect 500,000 people in Veracruz and Puebla.[[unam02]]",
+    "The ice adds to the hazard. A UNAM volcanologist quoted in January 2026 said a reawakening could melt the glacier and set off avalanches and landslides.[[gaceta26]]",
+    "Mud and rock come down without an eruption too. In August 2012, rain from Hurricane Ernesto sent a mudflow down the Jamapa River and cut channels on the volcano’s northeast side above 13,800 ft (4,200 m). A geographer told a seminar at the observatory in 2022 that large collapses not tied to an eruption come without warning.[[uv22]]",
+    "NOAA’s database of significant eruptions has no entry for Pico de Orizaba.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Pico de Orizaba’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Pico de Orizaba has **{n_all} confirmed eruptions**: six known from written reports, {n_rc} dated by radiocarbon, and one that it dates from archaeology or oral accounts.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "the north glacier",
+ "callouts": [
+  {
+   "number": "91",
+   "unit": "acres",
+   "text": "Area of the glacier in 2024 (0.37 sq km). In 1958 it covered about 490 acres.",
+   "source": "Source: Universidad Veracruzana, 2025.[[uv25]]"
+  },
+  {
+   "number": "660",
+   "unit": "ft",
+   "text": "How far the glacier’s front moved back between 2019 and 2026 (about 200 m).",
+   "source": "Source: Universidad Veracruzana, 2026.[[uv26]]"
+  }
+ ],
+ "faq_h": "Pico de Orizaba questions and answers",
+ "faq": [
+  [
+   "How tall is Pico de Orizaba?",
+   "{summit_ft} ft ({summit_m} m), the figure the Universidad Veracruzana and UNAM use. The Smithsonian’s list has 18,255 ft ({gvp_summit_m} m) and NASA has 18,620 ft (5,675 m)."
+  ],
+  [
+   "Is Pico de Orizaba the highest mountain in Mexico?",
+   "Yes. It is also the highest volcano in North America."
+  ],
+  [
+   "Is Pico de Orizaba an active volcano?",
+   "Yes. Scientists class it as active, and it is not erupting. A UNAM researcher said in January 2026 that it has had no recent eruptions."
+  ],
+  [
+   "When did Pico de Orizaba last erupt?",
+   "In {last_year}, on the Smithsonian’s list. A 2026 study by a team that includes the volcano’s observatory dates the last eruption to 1687."
+  ],
+  [
+   "Where is Pico de Orizaba?",
+   "In eastern Mexico, on the border of the states of Puebla and Veracruz, about 17 miles (27 km) from the city of Orizaba."
+  ],
+  [
+   "What does Citlaltépetl mean?",
+   "It is the volcano’s other name. The Smithsonian translates it as Mountain of the Star."
+  ],
+  [
+   "Does Pico de Orizaba have a glacier?",
+   "Yes, on its north side. It covered 91 acres (0.37 sq km) in 2024 and is shrinking. The Universidad Veracruzana calls it the last glacier in Mexico."
+  ],
+  [
+   "Is Pico de Orizaba waking up?",
+   "A UNAM volcanologist said in 2025 that it seemed to be, in a talk whose published report gives no measurements. Later statements from the Universidad Veracruzana and UNAM describe it as active, with no recent eruptions and no evidence yet of a coming one."
+  ],
+  [
+   "How many people live near Pico de Orizaba?",
+   "About half a million within 19 miles (30 km) of the crater, by Mexico’s 2020 census."
+  ],
+  [
+   "What type of volcano is Pico de Orizaba?",
+   "A stratovolcano, built in three stages over about 650,000 years."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Pico de Orizaba record, eruption list, bulletins and photo captions",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=341100"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "torres26",
+   "publisher": "Bulletin of Volcanology (Springer), open access",
+   "title": "Torres-Orozco, R. and others (2026). Contrasting eruptive dynamics and hazards of two Holocene andesitic sub-Plinian to Plinian eruptions, Lower and Upper Citlaltépetl, at Pico de Orizaba, Mexico. Volume 88, article 98, doi:10.1007/s00445-026-02024-1",
+   "url": "https://link.springer.com/article/10.1007/s00445-026-02024-1"
+  },
+  {
+   "id": "uvserva21",
+   "publisher": "UVserva, Universidad Veracruzana",
+   "title": "Sieron, K. and others (2021). Estudios geofísicos en el techo de México. UVserva 12, doi:10.25009/uvs.vi12.2817 (PDF, in Spanish)",
+   "url": "https://uvserva.uv.mx/index.php/Uvserva/article/download/2817/4728"
+  },
+  {
+   "id": "nasa11",
+   "publisher": "NASA Johnson Space Center, Earth Observatory article",
+   "title": "Pico de Orizaba, Mexico: astronaut photograph ISS026-E-25437, acquired February 10, 2011",
+   "url": "https://eol.jsc.nasa.gov/Collections/EarthObservatory/articles/Pico_de_Orizaba.htm"
+  },
+  {
+   "id": "gaceta26",
+   "publisher": "Gaceta UNAM, Universidad Nacional Autónoma de México",
+   "title": "Geofísica busca conocer estructura interna del Pico de Orizaba (January 8, 2026, in Spanish)",
+   "url": "https://www.gaceta.unam.mx/geofisica-busca-conocer-estructura-interna-del-pico-de-orizaba/"
+  },
+  {
+   "id": "gaceta25",
+   "publisher": "Gaceta UNAM, Universidad Nacional Autónoma de México",
+   "title": "Apenas sobreviven los glaciares nacionales (April 3, 2025, in Spanish)",
+   "url": "https://www.gaceta.unam.mx/apenas-sobreviven-los-glaciares-nacionales/"
+  },
+  {
+   "id": "gaceta24",
+   "publisher": "Gaceta UNAM, Universidad Nacional Autónoma de México",
+   "title": "Inauguran tercera estación sismológica en el Parque Nacional Pico de Orizaba (September 2, 2024, in Spanish)",
+   "url": "https://www.gaceta.unam.mx/inauguran-tercera-estacion-sismologica-en-el-parque-nacional-pico-de-orizaba/"
+  },
+  {
+   "id": "unam02",
+   "publisher": "Universidad Nacional Autónoma de México, Dirección General de Comunicación Social",
+   "title": "Boletín UNAM-DGCS-0030: Presenta la UNAM mapa de peligros del volcán Citlaltépetl, para enfrentar posibles erupciones (January 10, 2002, in Spanish)",
+   "url": "https://www.dgcs.unam.mx/boletin/bdboletin/2002/2002_0030aaa.html"
+  },
+  {
+   "id": "uv25",
+   "publisher": "Universidad Veracruzana, Universo (news service)",
+   "title": "Pico de Orizaba, volcán activo en estado de reposo: investigadores (May 8, 2025, in Spanish)",
+   "url": "https://www.uv.mx/prensa/general/pico-de-orizaba-volcan-activo-en-estado-de-reposo-investigadores/"
+  },
+  {
+   "id": "uv26",
+   "publisher": "Universidad Veracruzana, Universo (news service)",
+   "title": "Glaciar del Pico de Orizaba pierde hasta siete metros de espesor: CCT (August 25, 2026, in Spanish)",
+   "url": "https://www.uv.mx/prensa/general/glaciar-del-pico-de-orizaba-pierde-hasta-siete-metros-de-espesor-cct/"
+  },
+  {
+   "id": "uv24",
+   "publisher": "Universidad Veracruzana, Universo (news service)",
+   "title": "OSV de la UV, referente nacional en áreas de sismología y vulcanología (September 26, 2024, in Spanish)",
+   "url": "https://www.uv.mx/prensa/ciencia/osv-de-la-uv-referente-nacional-en-areas-de-sismologia-y-vulcanologia/"
+  },
+  {
+   "id": "uv22",
+   "publisher": "Universidad Veracruzana, Universo (news service)",
+   "title": "Geógrafo advierte de peligros asociados al volcán Pico de Orizaba (October 27, 2022, in Spanish)",
+   "url": "https://www.uv.mx/prensa/ciencia/geografo-advierte-de-peligros-asociados-al-volcan-pico-de-orizaba/"
+  },
+  {
+   "id": "osv20",
+   "publisher": "Observatorio Sismológico y Vulcanológico de Veracruz, Universidad Veracruzana",
+   "title": "Desprendimiento de roca (derrumbe) del 27 de Abril del 2020 ocurrido en el flanco SE del volcán Pico de Orizaba (report, 2020; PDF, in Spanish)",
+   "url": "https://www.uv.mx/osv/files/2020/05/Reporte_derrumbe_27042020_OSV.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** this year minus {last_year}. The Smithsonian’s record gives the last eruption by year only.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles, acres, square miles, cubic yards, inches and °F are converted from the metric figures in the sources and rounded, except where a source prints both."
+ ],
+ "expect": {
+  "last_year": "1846",
+  "summit_m": "5,636",
+  "summit_ft": "18,491",
+  "gvp_summit_m": "5,564",
+  "n_all": "23",
+  "n_since": "6",
+  "n_written": "6",
+  "n_rc": "16",
+  "max_vei": "5",
+  "n_vei5": "1",
+  "n_vei4": "2",
+  "n_vei3": "13",
+  "n_vei2": "5",
+  "n_vei0": "1",
+  "oldest": "7530 BCE",
+  "noaa_n": "0"
+ },
+ "observatory_read": "2026-11-18",
+ "since_check": "**Active, with no recent eruptions.** UNAM’s gazette of January 8, 2026, quotes a researcher on a new seismic study of the volcano: it is active, it has had no recent eruptions, and it does not have the level of seismic activity of Popocatépetl or Colima.[[gaceta26]] The newest article about the volcano found on the Universidad Veracruzana’s news site on {read_date}, is dated August 25, 2026. It is about the shrinking glacier and does not mention volcanic activity.[[uv26]] No official alert level for the volcano could be read for this page.",
+ "reviewed": null
+}

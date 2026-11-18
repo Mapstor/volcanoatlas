@@ -76,10 +76,22 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
     // continuing); with no end on record it is a spike at that year, like any other eruption without an end date
     .map((span) => {
       const start = decimalYear(span.start);
-      const end = decimalYear(span.end);
-      return { s: span.openStart && (span.continuing || end > start) ? y0 : Math.max(y0, start), e: end, span };
+      const row = span.eruption;
+      // an end the record gives only to the month or to the year still ends the eruption there (Sakurajima 1779 to May 1781,
+      // Pico de Orizaba 1569 to 1589): the middle of that year, or the first of that month
+      const looseEnd: Ymd | null = !span.continuing && row.ey && !(row.em && row.ed) ? [row.ey, row.em || 7, 1] : null;
+      const loose = looseEnd !== null && decimalYear(looseEnd) > start;
+      const endYmd: Ymd = loose && looseEnd ? looseEnd : span.end;
+      const endPrecision: Precision = loose ? (row.em ? 'month' : 'year') : span.endPrecision;
+      const end = decimalYear(endYmd);
+      return { s: span.openStart && (span.continuing || end > start) ? y0 : Math.max(y0, start), e: end, span, loose, endYmd, endPrecision };
     })
     .filter((p) => p.e > y0);
+  // such a block never runs past the start of the next eruption
+  items.forEach((p, i) => {
+    const next = items[i + 1];
+    if (p.loose && next && p.e > next.s) p.e = next.s;
+  });
 
   // the line, left to right
   const pts: [number, number][] = [];
@@ -139,8 +151,8 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
     const to: Ymd | null = next ? next.span.start : erupting ? null : endDate;
     if (!to) return;
     const toPrecision: Precision = next ? next.span.startPrecision : 'day';
-    const days = daysBetween(p.span.end, to);
-    if (days > 3) gaps.push({ from: p.span.end, to, days, text: spanBetween(p.span.end, p.span.endPrecision, to, toPrecision).text });
+    const days = daysBetween(p.endYmd, to);
+    if (days > 3) gaps.push({ from: p.endYmd, to, days, text: spanBetween(p.endYmd, p.endPrecision, to, toPrecision).text });
   });
   const centered = spec.label_gaps !== undefined;
   const labelled = centered ? [...gaps].sort((a, b) => b.days - a.days).slice(0, spec.label_gaps) : gaps;
@@ -170,6 +182,8 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   }
   const startX = stats.currentStart ? X(decimalYear(stats.currentStart)) : null;
   const lastX = !erupting && stats.lastEnd ? X(decimalYear(stats.lastEnd)) : null;
+  // a last eruption the record gives only by year is marked at the middle of that year, where its spike stands
+  const lastYearX = !erupting && !stats.lastEnd && stats.lastYearOnly !== null ? X(stats.lastYearOnly + 0.5) : null;
   const note = spec.note ? fill(spec.note, ctx) : null;
 
   return (
@@ -263,6 +277,21 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
           >
             {dateText(stats.lastEnd, stats.lastEndPrecision)}
             {stats.lastEndQuestioned ? ' (uncertain)' : ''}: last eruption ended
+          </text>
+        </>
+      )}
+      {lastYearX !== null && (
+        <>
+          <line x1={lastYearX} y1={yb + 22} x2={lastYearX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
+          <text
+            x={small ? w / 2 : lastYearX > w * 0.6 ? lastYearX - 6 : lastYearX + 6}
+            y={yb + (small ? 66 : 74)}
+            textAnchor={small ? 'middle' : lastYearX > w * 0.6 ? 'end' : 'start'}
+            fontSize={fs + 1}
+            fontWeight={700}
+            fill={PAL.ink}
+          >
+            {stats.lastYearOnly}: last eruption on record
           </text>
         </>
       )}

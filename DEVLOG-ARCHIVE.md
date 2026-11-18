@@ -160,3 +160,162 @@
 - Commit: this commit (pushed: work branch)
 - Notes: for the owner to read: /volcano/pinatubo. Sources disagree and the page says so: deaths (USGS in 2016 more than 840, NOAA 800; the 1996 overview has 200 to 300 during the eruption itself), the height of the ash cloud and the SO2 mass (details in the registry notes). The summit loss of 259 m is calculated from USGS's old height and the Smithsonian's current one.
 
+### 2026-11-17 · VOL-009 PINATUBO · chat · live
+- What: pull request 14 merged (merge commit e82ed84) after one preview; Mount Pinatubo is live as a record page, with the template changes of D-46.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome: Pinatubo (hero, strip, map with tiles and the name over the sea, drawing, status box, eruption table) and Mount St. Helens (drawing, key facts, related links), and all seven rebuilt pages fetched on it (200, no raw markup, bylines as intended, "so far" figures unchanged on the older pages); Vercel build of e82ed84 succeeded; on www.volcanosatlas.com/volcano/pinatubo in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box showing the PHIVOLCS check, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: e82ed84 (merged)
+- Notes: the owner wrote "looks nice, go" at 17:34 while this batch was being merged: carry on with all pages. Which pages he read is not known yet (asked).
+
+### 2026-11-17 · VOL-010 COTOPAXI · chat · done
+- What: Cotopaxi as a record page, from the Instituto Geofísico's profile, its reports list (newest report 21 Oct 2026: activity low and unchanged) and its 2023 article on the eruption of 1877, the Smithsonian's record and reports, NOAA, and one paper abstract for the glacier. Template: D-47 (band of land cut short with a break mark); the glacier's name sits low on a pointed cone, where the ice is widest.
+- Files: `data/profiles/cotopaxi.json`, `components/record/figures.tsx`, `scripts/check-render.py`, `research/*.csv` (new row `paper-abstracts`, tier B), `DESIGN.md`
+- Verified: on the final code: tsc and eslint on the changed files clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 8 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the page at 1440 and 390 px, the drawing at both widths, the map with real tiles at both widths, Eyjafjallajokull's drawing (unchanged).
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/cotopaxi. The page prints the institute's 5,897 m and mentions the Smithsonian's 5,911 m. NOAA dates the 1877 eruption a day earlier than the institute and lists 340 deaths; the institute's account gives no count. The institute's home page could not be read without the owner's approval; its Cotopaxi pages were reached through search.
+
+### 2026-11-17 · VOL-010 COTOPAXI · chat · live
+- What: pull request 16 merged (merge commit 54df3cc) after one preview; Cotopaxi is live as a record page, with the cut band of land in its drawing (D-47).
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles, drawing with glacier and break mark, status box, the 1877 section and callouts), the other seven rebuilt pages and the Ecuador page fetched on it (200, no raw markup, bylines as intended); Vercel build of 54df3cc succeeded; on www.volcanosatlas.com/volcano/cotopaxi in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1456 px, no raw markup, status box showing the institute's report, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 54df3cc (merged)
+- Notes: research notes for the next volcanoes go to a notes file in the session as each source is read (started with Cotopaxi).
+
+### 2026-11-17 · VOL-011 SAKURAJIMA · chat · done
+- What: Sakurajima as a record page at /volcano/aira (the Smithsonian files it under Aira; the page says so once), from the Japan Meteorological Agency's catalogue chapter, the Smithsonian's record and NOAA. No template change. §4 gained the rule that a merge waits for a green status.
+- Files: `data/profiles/aira.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 9 rebuilt pages ok at 1440 px, phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the page at 1440 px, the drawing at phone width, the map with real tiles at both widths.
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone. The Smithsonian's own page for Aira was not read in this session; the record comes from the site's copy of its list.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/aira. The agency's warnings map could not be read, so the page links it and states no current alert level. Deaths in 1914: the agency's 58 in the text, NOAA's higher count in its table. Map labels around the volcano are in Japanese (backlog).
+
+### 2026-11-17 · VOL-011 SAKURAJIMA · chat · live
+- What: pull request 18 merged (merge commit 529a34f) on a green status after one preview; Sakurajima is live as a record page at /volcano/aira.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles, drawing, weekly-report box, the 1914 section and callouts), the other eight rebuilt pages and the Japan page fetched on it (200, no raw markup, bylines as intended); Vercel build of 529a34f succeeded; on www.volcanosatlas.com/volcano/aira in the owner's Chrome: canonical on itself, index/follow, map tiles 9/9, no table scrolling sideways at 1512 px, no raw markup, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 529a34f (merged)
+- Notes: none.
+
+### 2026-11-17 · VOL-012 ARENAL · chat · done
+- What: Arenal as a record page, from the Red Sismológica Nacional's profile and its paper on the 42 years of eruption, an OVSICORI weekly bulletin (height, activity level), a dissertation in OVSICORI's library (the villages of 1968), the Smithsonian's record and NOAA. Template: an "(uncertain)" marker may wrap under its date in the eruption table.
+- Files: `data/profiles/arenal.json`, `app/volcano/[slug]/{RecordPage.tsx,record.css}`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc and eslint on the changed file clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 10 rebuilt pages ok at 1440 px (the first run failed Arenal's table, fixed), phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the top of the page at 1440 px, the drawing at phone width, the map with real tiles at both widths, the eruption table.
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/arenal. The page prints the observatory's 1,755 m and says why the Smithsonian's 1,670 m differs (the summit grew during the eruption). The newest OVSICORI bulletin that could be read is of 18 Oct 2024; the page gives it with its date and takes the observatory check from the seismological network's profile.
+
+### 2026-11-17 · VOL-012 ARENAL · chat · live
+- What: pull request 20 merged (merge commit c7e2de0) on a green status; Arenal is live as a record page. The first preview build failed on the Google font download (JetBrains Mono); an empty commit started a second build, which passed, and only then was the preview looked at and the pull request merged.
+- Files: none beyond the pull request
+- Verified: every gate on the final code (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name above the marker, drawing, status box, the eruption table with "(uncertain)" wrapped), the other nine rebuilt pages and the Costa Rica page fetched on it (200, no raw markup, bylines as intended); Vercel build of c7e2de0 succeeded; on www.volcanosatlas.com/volcano/arenal in the owner's Chrome: canonical on itself, index/follow, map tiles 9/9, no table scrolling sideways at 1456 px, no raw markup, status box present, no byline (by design); four older rebuilt pages answer 200 with the new table markup.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: c7e2de0 (merged)
+- Notes: the ten-page step is complete. Fonts shipped with the site are now a P1 backlog item.
+
+### 2026-11-17 · VOL-013 PELEE · chat · done
+- What: Mount Pelee as a record page, from the Martinique observatory's bulletin for September 2026 and IPGP's list of releases (newest weekly report 13 Nov 2026, alert yellow), three USGS pages for 1902 and 1929–32, the Smithsonian's record and NOAA. The page leads with what the instruments show now (reactivation since April 2019). No template change.
+- Files: `data/profiles/pelee.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 11 rebuilt pages ok at 1440 px, phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the top of the page at 1440 px, the drawing at phone width, the map with real tiles at both widths.
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone. The three USGS pages were read as search-result text, not opened whole.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/pelee. Deaths of 1902: USGS's 28,000 and "nearly 30,000" and NOAA's figures are all on the page. The page does not say when the yellow alert began (the observatory's 2020 notice no longer opens). The session's cloud environment restarted during this batch; files were intact.
+
+### 2026-11-17 · VOL-013 PELEE · chat · live
+- What: pull request 22 merged (merge commit d16dea0) on a green status after one preview; Mount Pelee is live as a record page.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name over the sea, drawing, status box, the 1902 section and callouts), the other ten rebuilt pages and the France page fetched on it (200, no raw markup, bylines as intended); Vercel build of d16dea0 succeeded; on www.volcanosatlas.com/volcano/pelee in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1456 px, no raw markup, status box present, no byline (by design).
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: d16dea0 (merged)
+- Notes: none.
+
+### 2026-11-17 · VOL-014 ASAMA · chat · done
+- What: Mount Asama as a record page at /volcano/asamayama (Asamayama is the Smithsonian's and the agency's name; the title carries both), from the Japan Meteorological Agency's catalogue chapter, its English summary page and its status page for the volcano (Level 1, lowered from 2 on 22 May 2026; commentary of 13 Nov 2026), the Smithsonian's record and NOAA. No template change.
+- Files: `data/profiles/asamayama.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 12 rebuilt pages ok at 1440 px, phone page without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: the whole page at 1440 px and at phone width, the drawing at both widths, the map with real tiles at both widths with the name tried on all four sides (below the marker collides least).
+- Unverified: the preview in the owner's Chrome and the live page (next entry); a real phone. The agency's pages were read through a fetch that summarises (the Japanese status page in translation); the catalogue chapter was read twice and the page follows the second, more exact reading.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/asamayama. Deaths of 1783: the agency's 1,151 and NOAA's 1,491 are both on the page. The dammed river is given in the catalogue's own spelling ("Azuma"). The agency's status pages can be read (§4), so Sakurajima can get its alert level too (§5).
+
+### 2026-11-17 · VOL-014 ASAMA · chat · live
+- What: pull request 24 merged (merge commit b522b62) on a green status after one preview; Mount Asama is live as a record page.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name under the marker, drawing, status box, the 1783 section and callouts), the other eleven rebuilt pages and the Japan page fetched on it (200, no raw markup, bylines as intended); Vercel production build of b522b62 READY; on www.volcanosatlas.com/volcano/asamayama in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box present, no byline (by design), page in the sitemap.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: b522b62 (merged)
+- Notes: the Japan country page still lists the volcano as Asamayama (country pages are not rebuilt yet).
+
+### 2026-11-17 · VOL-015 FONTS · chat · done
+- What: the three typefaces of the site's frame (Playfair Display, Source Sans 3, JetBrains Mono) ship with the site instead of being downloaded from Google at every build (owner: "font ok", 2026-11-17 20:18). Variable fonts, Latin subset, from the @fontsource-variable packages (OFL 1.1). `app/layout.tsx` loads them with `next/font/local` under the same three CSS variables; `tailwind.config.ts` names the families through those variables (D-48).
+- Files: `app/layout.tsx`, `tailwind.config.ts`, `app/fonts/*`, `public/fonts/OFL-{PlayfairDisplay,SourceSans3,JetBrainsMono}.txt`
+- Verified: tsc clean; clean build with no request to Google (build log, built CSS, and a headless run of 5 pages at 1440 and 390 px: the fonts loaded are the three shipped ones, plus Archivo and Caveat on record pages; logo, headings and footer render in them); crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap; render check identical line by line to the run before the change; the Mount Asama page is as tall as before at both widths (8,469 and 14,611 px); home page looked at at both widths.
+- Unverified: the preview and the live site in the owner's Chrome (next entry); a real phone.
+- Commit: this commit (pushed: work branch)
+- Notes: while fonts load, the frame's headings now fall back to a size-matched Times New Roman instead of Georgia (less jump). Preload unchanged: three files on every page (§5).
+
+### 2026-11-17 · VOL-015 FONTS · chat · live
+- What: pull request 26 merged (merge commit c911be5) on a green status; the site's frame loads its three typefaces from the site itself.
+- Files: none beyond the pull request
+- Verified: in the owner's Chrome at 1512 px, the preview against the live site before the merge: page height and the boxes of logo, headline, footer and navigation identical on the home page, the Japan page, an old profile, a hub and Stromboli (3,257 / 13,848 / 3,803 / 6,320 / 8,201 px tall). After the merge: production build of c911be5 green; the live home page gives the same numbers, loads three font files from the site and makes no request to Google; the 404 page shows the mono face.
+- Unverified: a real phone.
+- Commit: c911be5 (merged)
+- Notes: recorded with batch 11 instead of a notebook-only pull request.
+
+### 2026-11-17 · VOL-016 KANLAON · chat · done
+- What: Kanlaon as a record page (erupting since October 19, 2024 by the Smithsonian's list), from the Philippine agency's alert-status page (Level 2, read 2026-11-17), four of its bulletins of 2025–2026, the Smithsonian's weekly reports of 2024 and its bulletin on the 1996 deaths, and NOAA. Sakurajima's page gains the alert level in force (Level 3; warning of 27 Jul 2022; commentary of 16 Nov 2026) from the weather agency's status page. No template change. Rabaul and Villarrica deferred with reasons (§5).
+- Files: `data/profiles/{kanlaon,aira}.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build at the first try; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 13 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: Kanlaon's page top and middle at 1440 px, the phone page, the drawing at both widths, the map with real tiles at two zooms and four name positions.
+- Unverified: the preview and the live pages in the owner's Chrome (next entry); a real phone. The PHIVOLCS bulletins and the Smithsonian's 1996 bulletin were read as search-result text (their pages could not be fetched); the Japanese status page through a summarising translation.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/kanlaon; /volcano/aira changed (status box, answer, "erupting now"). Kanlaon's page gives no date for the return from Level 3 to Level 2 (not found).
+
+### 2026-11-17 · VOL-016 KANLAON · chat · live
+- What: pull request 27 merged (merge commit 8f54de0) on a green status after one preview; Kanlaon is live as a record page and Sakurajima's page shows its alert level.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (Kanlaon: hero, strip, map with tiles and the name over the strait, drawing, status box, the 2024 section and callouts; Sakurajima: status box and the new paragraph), the other eleven rebuilt pages and the Philippines and Japan pages fetched on it (200, no raw markup, bylines as intended); production build of 8f54de0 green; on www.volcanosatlas.com in the owner's Chrome: /volcano/kanlaon with canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box, no byline (by design), page in the sitemap, no request to Google for fonts; /volcano/aira with the Level 3 box, the warning date and the commentary date.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 8f54de0 (merged)
+- Notes: the Smithsonian's weekly feed has not been updated since October 15, 2026; the pages say so in the status box.
+
+### 2026-11-17 · VOL-017 BULUSAN · chat · done
+- What: Bulusan as a record page (last eruption April 28–29, 2025; Alert Level 1 read 2026-11-17, raised on March 22, 2026), from the Philippine agency's alert-status page, five of its bulletins and its eruption-history table, the Smithsonian's weekly reports and 2006 bulletin, and NOAA. Template: a time that runs to today counts whole months only (D-49), which changes the last table row on the quiet volcanoes' pages by at most one month.
+- Files: `data/profiles/bulusan.json`, `lib/eruptions.ts`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean, eslint clean on the changed file; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 14 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Table and headline compared on eight quiet-volcano pages after the change (they agree). Pictures looked at: page top and middle at 1440 px, the phone page, the drawing at both widths, the map with real tiles and the name on four sides.
+- Unverified: the preview and the live page in the owner's Chrome (next entry); a real phone. The PHIVOLCS bulletins and the Smithsonian's report of May 2026 were read as search-result text; the fetched copy of the Smithsonian's page ends in January 2024.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/bulusan. The page gives no date for the return from Level 1 to Level 0 between April 2025 and March 2026 (not found).
+
+### 2026-11-17 · VOL-017 BULUSAN · chat · live
+- What: pull request 29 merged (merge commit 224b0b9) on a green status after one preview; Bulusan is live as a record page, and the whole-months rule (D-49) is live on every record page.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name over the strait, drawing, status box, the "active now" section and callouts), the other thirteen rebuilt pages and the Philippines page fetched on it (200, no raw markup, bylines as intended); production build of 224b0b9 green; on www.volcanosatlas.com/volcano/bulusan in the owner's Chrome: canonical on itself, index/follow, map tiles 9/9, no table scrolling sideways at 1512 px, no raw markup, status box, headline "18 months ago" beside "18 months so far" in the table, no byline (by design), page in the sitemap; on /volcano/asamayama the last table row now reads "7 years 2 months so far".
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 224b0b9 (merged)
+- Notes: none.
+
+### 2026-11-17 · VOL-018 AMBAE · chat · done
+- What: Ambae as a record page (erupting since November 24, 2025 by the Smithsonian's list; Alert Level 3 raised on February 23, 2026 and still shown on 2026-11-17), from three pages of Vanuatu's geohazards department, three Smithsonian bulletins and its weekly reports on the eruption of 2017–2018, and NOAA. No template change. The drawing is the simple outline rising from the sea: no sourced height above the sea floor was found for a shield drawing, and the caption says the real volcano is a broad shield.
+- Files: `data/profiles/ambae.json`, `scripts/check-render.py`, `research/*.csv`
+- Verified: on the final code: tsc clean; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 15 rebuilt pages ok at 1440 px, phone pages without sideways scroll, tiles load; registry check OK (13 verified). Pictures looked at: page top at 1440 px, the drawing at both widths, the map with real tiles and the name on four sides.
+- Unverified: the preview and the live page in the owner's Chrome (next entry); a real phone; the middle and lower parts of the page were checked as text and by the render check, not looked at as pictures. The Smithsonian's bulletins were read as search-result text.
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/ambae. There is no country page for Vanuatu among the 46, so the country name is plain text. Ambrym, the next page, shares these sources.
+
+### 2026-11-17 · VOL-018 AMBAE · chat · live
+- What: pull request 31 merged (merge commit 40061be) on a green status after one preview; Ambae is live as a record page.
+- Files: none beyond the pull request
+- Verified: every gate on the final commit (see the entry above); preview looked at in the owner's Chrome (hero, strip, map with tiles and the name over the sea, drawing, status box, the 2017–2018 section and callouts, the NOAA table), the other fourteen rebuilt pages fetched on it (200, no raw markup, bylines as intended); production build of 40061be green; on www.volcanosatlas.com/volcano/ambae in the owner's Chrome: canonical on itself, index/follow, map tiles 6/6, no table scrolling sideways at 1512 px, no raw markup, status box, "11 months" in the headline and "11 months so far" in the table, no byline (by design), page in the sitemap.
+- Unverified: a real phone (phone width checked in headless Chrome only).
+- Commit: 40061be (merged)
+- Notes: correction to the entry above: Vanuatu does have a country page (/volcanoes-in-vanuatu) and the Ambae page links it; the note saying otherwise came from a faulty local check. §6 now has 39 entries: the next entry triggers the move of the oldest 20 to DEVLOG-ARCHIVE.md.
+
+### 2026-11-17 · VOL-019 NYIRAGONGO · chat · done
+- What: Nyiragongo as a record page (erupting since May 17, 2002, date uncertain, by the Smithsonian's list), from two Smithsonian bulletins, its page for the volcano with the weekly reports, its Current Eruptions page, three USGS Volcano Watch articles, a study in the USGS catalog and NOAA. Template: a stale weekly feed is no longer called the latest (D-50); an uncertain start date says so in the headline (D-51); the conduit in the land drawing stops at the ground line on a cut band (§4). The 20 oldest entries of this log moved to DEVLOG-ARCHIVE.md.
+- Files: `data/profiles/nyiragongo.json`, `app/volcano/[slug]/RecordPage.tsx`, `lib/recordProfile.ts`, `components/record/figures.tsx`, `scripts/check-render.py`, `research/*.csv`, `DEVLOG-ARCHIVE.md`
+- Verified: on the final code: tsc clean; eslint clean on the three changed code files; clean build; crawl 1,212 pages all 200, 0 broken links, 213 indexable = sitemap, no duplicate titles, no invalid JSON-LD; render check: 16 rebuilt pages ok at 1440 px, phone pages without sideways scroll, map tiles 6/6 on Nyiragongo; registry check OK. Pictures looked at: the page's top and middle at 1440 px, the phone page down to the 2002 section, the drawing at both widths (and Kanlaon's, unchanged), the map with real tiles and the name on four sides. The nine report and article links on the page were fetched and read on 2026-11-17; Kanlaon's status box read on the build ("Weekly report of October 8–14, 2026 … not been updated since October 15, 2026").
+- Unverified: the preview and the live page in the owner's Chrome (next entry); a real phone; the lower third of the page (type, frequency, danger, record) checked as text only. The Goma observatory's own pages were not read: its statements come through the Smithsonian's reports, and the newest report read is for July 3–9, 2024 (the reader's copy of the Smithsonian's page may end before its newest report; the page says it has no later report from the crater).
+- Commit: this commit (pushed: work branch)
+- Notes: for the owner to read: /volcano/nyiragongo. Ambrym was looked at first and deferred: it needs a caldera drawing (§5).
