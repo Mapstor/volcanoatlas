@@ -1,0 +1,334 @@
+{
+ "slug": "reventador",
+ "volcano_number": 352010,
+ "name": "Reventador",
+ "country": "Ecuador",
+ "title": "Reventador Volcano, Ecuador: Eruption Now, Height & Facts",
+ "description": "Reventador in Ecuador is listed as erupting since July 2008; its own observatory counts from 2002. Its state now, the 2002 eruption, its height and full record.",
+ "h1": "Reventador Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1894
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "its observatory counts from 2002",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Reventador, El Reventador in Spanish, stands on the eastern side of Ecuador’s Andes, about 55 miles east of Quito. On November 3, 2002, after 26 quiet years and about seven hours of tremor, it sent ash 10 miles up and left the capital nearly dark by late afternoon. It has kept erupting, with pauses, ever since. Below: its state now, what it has done since 2002, the 2002 eruption and the warning it gave, its height, and every eruption on record.",
+ "answer": "**Reventador is erupting.** The Smithsonian’s list has its current eruption beginning on {cur_since} and continuing at the list’s last update, on {cur_last}.[[gvp]] Ecuador’s Instituto Geofísico, which monitors the volcano, counts it as erupting since 2002, and its note of September 2, 2026 rates surface activity high.[[ig]][[igfield]] Reventador is a **stratovolcano** in northeastern Ecuador, **{summit_ft} ft ({summit_m} m)** high.[[gvp]]",
+ "timeline": {
+  "from": 1890,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1898.27,
+    "label": "1898"
+   },
+   {
+    "year": 1944.15,
+    "label": "1944"
+   },
+   {
+    "year": 1976.01,
+    "label": "1976"
+   },
+   {
+    "year": 2002.84,
+    "label": "2002"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The raised stretch at the right edge is the eruption it lists as continuing since {cur_since}. The three short ones before it began in 2002, 2004 and 2007."
+ },
+ "section": {
+  "kind": "land",
+  "note": "cone rebuilt since 2002",
+  "caption": "Reventador cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] The real cone stands inside a horseshoe-shaped scar about 2.5 miles (4 km) wide, which is not drawn.[[ig25]]"
+ },
+ "map_zoom": 7,
+ "map_label": "below",
+ "table": {
+  "rows": 7,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Reventador?",
+   "map": true,
+   "paras": [
+    "Reventador is in northeastern Ecuador, about 55 miles (90 km) east of Quito, at {coords}.[[ig]][[gvp]] It stands on the eastern side of the Cordillera Real, the eastern range of Ecuador’s Andes, in the provinces of Napo and Sucumbíos.[[eos]][[igfield]]",
+    "The area is remote, hard to reach and often in bad weather, and the Instituto Geofísico gives that as the reason the volcano’s early history is poorly known.[[ig]] The name translates as “the Exploder”.[[eos]] Reventador is one of {n_country} volcanoes in [Ecuador](/volcanoes-in-ecuador) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Reventador erupting now?",
+   "table": "periods",
+   "paras": [
+    "Yes. The Smithsonian’s list has an eruption that began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]] It keeps an eruption on its list of continuing ones as long as activity returns without a break of three months or more.[[gvpcur]]",
+    "Ecuador’s Instituto Geofísico (IG-EPN), which monitors the volcano, counts further back: its page lists Reventador as erupting from 2002 to the present.[[ig]]",
+    "The institute’s newest statement read for this page is a note published on September 2, 2026, after field work on August 19 to 21. It rates the volcano’s internal activity moderate and its surface activity high, both unchanged. A lava flow was moving very slowly down the east-southeast flank. Its front and edges kept collapsing into avalanches of blocks and small pyroclastic flows, which are fast currents of hot rock, ash and gas. The team measured more than 930 °F (500 °C) at the lava front.[[igfield]]",
+    "The alert level is Orange. Ecuador’s risk agency declared it on March 27, 2014, and its national monitoring report of April 16, 2026, the newest read for this page, still showed it.[[sngr23]][[sngr]] The Smithsonian’s weekly reports describe Orange as the second-highest level on a four-color scale.[[gvp]] An undated release from the agency about raising the alert from Yellow to Orange names the provinces of Napo, Sucumbíos and Orellana, and says an Orange alert keeps their emergency committees on standby, ready to act.[[sgr]]"
+   ]
+  },
+  {
+   "id": "since2002",
+   "h": "What has Reventador done since 2002?",
+   "paras": [
+    "The two records split the same activity differently. IG-EPN treats everything since November 2002 as one eruption.[[ig]] The Smithsonian lists four: November 2002 to January 2003, November 2004 to March 2006, March to October 2007, and the one that began on {cur_since}.[[gvp]]",
+    "A study published in 2016 mapped the lava of the first seven years. It found 17 flows in four phases, with spells of relative quiet between them, and about 90 million cubic meters of lava in all. The fourth phase opened in July 2008 with the largest of its seven flows.[[naranjo]] IG-EPN’s page now counts at least 26 lava flows since 2002.[[ig]]",
+    "The top of the cone has changed shape more than once. In June 2017 a new vent opened explosively on the northeast flank: pyroclastic flows ran more than 3 miles (5 km) from the summit, and the lava flow that followed, nearly 2 miles (3 km) long, was the largest since 2008. In April 2018 a large section of the summit collapsed and left a crater open to the north-northwest.[[eos]]",
+    "On October 12, 2025, at 6:23 p.m., the front of a lava flow on the east flank gave way. The pyroclastic flow it set off ran 1.9 miles (3.1 km) from the crater, ash rose 7,500 ft (2.3 km) above it, and light ash fell in parts of El Chaco canton.[[ig25]]",
+    "The everyday activity, in IG-EPN’s special report of November 2025: dozens of explosions a day, lava flows, pyroclastic flows, and ash columns that reach from a few hundred meters to a few kilometers above the summit.[[ig25]]"
+   ]
+  },
+  {
+   "id": "2002",
+   "h": "What happened in the 2002 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "It was the largest explosive eruption in Reventador’s written history, and IG-EPN calls it the most important eruption in Ecuador in the last century.[[naranjo]][[ig]] The Smithsonian rates it VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]] The volcano had been quiet for 26 years.[[hall]]",
+    "The main blast began at 9:12 a.m. on November 3, 2002 and lasted about 45 minutes. The ash column rose about 10 miles (16 to 17 km). In the first minutes at least five pyroclastic flows swept east down the valley of the Coca River, as far as 5.6 miles (9 km).[[hall]] A later study counts nine.[[naranjo]]",
+    "The flows destroyed a new oil pipeline that was still empty and carried away small bridges on the main highway to Ecuador’s oil fields. A crude-oil pipeline 3 ft (1 m) across was pushed about 330 ft (100 m) downslope and did not break. One house and 20 cattle were buried. No casualties were reported from the flows.[[hall]]",
+    "The ash went west.[[ig]] It fell on Quito from 1 p.m. to 4 p.m. and left a layer 1 to 5 mm thick, at most a fifth of an inch, across the city and its suburbs; IG-EPN’s page gives 1 to 2 mm.[[hall]][[ig]] The village of Oyacachi, closer to the volcano, got up to 1.2 inches (3 cm). By late afternoon Quito was nearly dark. Its airport had closed at 12:45 p.m., and the study’s summary counts ten days of closures for the airport, schools and businesses.[[hall]]",
+    "Explosions went on in pulses and ended between November 7 and 10. Lava followed: two flows in November, the second from a vent low on the southeast flank, at about 8,500 ft (2,600 m).[[hall]][[gvp]] In all the eruption put out about 0.09 cubic mile (0.37 cubic km) of ash, pyroclastic flows and lava.[[hall]]",
+    "It also took the top off the mountain. IG-EPN’s figures have the summit at 3,560 m before the eruption and 3,450 m after it, a loss of about 360 ft (110 m). Its scientists wrote in 2019 of almost 100 m, and of a crater about 1,600 ft (480 m) across.[[ig]][[eos]]",
+    "Rain did more damage. Debris flows began on the day of the eruption and reached the Coca River, and a month later they were still a daily threat to the crews repairing the pipelines and to travelers on the highway.[[hall]]"
+   ]
+  },
+  {
+   "id": "warning",
+   "h": "How much warning did Reventador give in 2002?",
+   "paras": [
+    "About seven hours. Instruments first picked up a faint, continuous tremor at 2 a.m. on November 3, 2002. A swarm of more than 100 earthquakes began at about 3 a.m. and woke construction workers at a camp 5 miles (8 km) east of the crater. The main blast came at 9:12 a.m.[[hall]]",
+    "Four weeks earlier, on October 6, an earthquake of magnitude 4.1 had struck 6 to 7 miles (10 to 11 km) under the volcano, followed by nine smaller ones. Nothing more was recorded under it until the morning of the eruption, and the study that reconstructed the sequence does not count that earthquake as a reliable warning sign.[[hall]]",
+    "The signals of November 3 were recorded by Ecuador’s regional network of seismometers.[[hall]] A permanent seismic station was installed at Reventador in 2003. By 2019 the volcano was watched with seismometers, infrasound sensors, visual and thermal cameras, a gas sensor and lahar detectors.[[eos]]",
+    "Writing about Reventador in 2019, IG-EPN scientists made the general point that a volcano’s activity can turn from fairly harmless to life-threatening with very little warning.[[eos]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Reventador?",
+   "paras": [
+    "Reventador is **{summit_ft} ft ({summit_m} m)** high on the Smithsonian’s list.[[gvp]] The same figure was measured in 1931, and the summit has not stayed put since.[[naranjo]]",
+    "IG-EPN’s page gives 3,560 m before the 2002 eruption and 3,450 m after it, and estimates that the lava flows since then have built the cone back up to about 11,800 ft (3,600 m).[[ig]] A 2016 study has different figures for the earlier years: 3,450 m measured after the eruptions of the 1970s, and about 3,355 m in 2004.[[naranjo]] No source read for this page gives a surveyed height for the summit as it is now.",
+    "The cone stands inside a horseshoe-shaped scar. It rises about 4,300 ft (1,300 m) above the scar’s floor by one study, and about 4,900 ft (1,500 m) above the floor’s lowest point by another.[[naranjo]][[hall]] Measured against the land 9 miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Reventador?",
+   "paras": [
+    "Reventador is a **[stratovolcano](/types-of-volcanoes)**.[[gvp]] IG-EPN describes two volcanoes in one: an older edifice that collapsed twice, and the present cone, which has grown inside the scar those collapses left.[[ig]]",
+    "The scar is shaped like a horseshoe, about 2.5 miles (4 km) wide and 3.7 miles (6 km) long, and opens to the east.[[ig25]][[naranjo]] The cone’s slopes are as steep as 34 degrees.[[ig]]",
+    "The Smithsonian lists the main rock as {rock}.[[gvp]] In IG-EPN’s description the activity since 2002 has been mostly lava flows, with spells of moderate explosions whose columns reach 0.6 to 1.2 miles (1 to 2 km).[[ig]]",
+    "In 2019 IG-EPN scientists called Reventador the most active volcano in Ecuador.[[eos]] IG-EPN’s page, last changed in February 2026, counts it among three volcanoes erupting in the country.[[ig]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Reventador erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** for Reventador, all known from written reports, the first in April 1541. It marks the one of 1590 as uncertain: the volcano may have been Antisana.[[gvp]]",
+    "Other counts are lower. IG-EPN has at least 16 eruptions since 1541, and work from the 1970s, cited in the 2016 study, found up to twenty eruptive periods.[[ig]][[naranjo]] The eruptive periods IG-EPN lists before 2002 are 1898–1912, 1926–1929, 1944, 1959–1960, 1972–1974 and 1976.[[ig]]",
+    "On the Smithsonian’s list, {n_since} eruptions have begun since {since_year}. The longest quiet in that time is the {longest_gap_years} years from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]]",
+    "It rates the 2002 eruption VEI {max_vei}, {n_vei3} others VEI 3 and {n_vei2} VEI 2.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Reventador dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, use the reports of the Instituto Geofísico and Ecuador’s Secretaría Nacional de Gestión de Riesgos.[[ig]]",
+   "paras": [
+    "Nobody lives in the scar the cone stands in, and IG-EPN expects lava flows and pyroclastic flows to stay inside it. The institute advises people to keep away from the volcano and its flanks.[[ig25]]",
+    "Rain is a hazard of its own here. Loose ash and rock on the slopes can turn into lahars, which are volcanic mudflows, so IG-EPN’s advice in heavy rain is to stay away from the rivers and streams that start on the volcano.[[ig25]]",
+    "Roads and pipelines are within reach. The main highway to Ecuador’s oil fields and several oil pipelines pass within about 5.6 miles (9 km) of the volcano, and the pyroclastic flows of 2002 reached them.[[hall]]",
+    "Ash travels furthest. In 2002 it was falling on Quito within four hours of the main blast and shut the city’s airport.[[hall]] After the collapse of October 2025, IG-EPN expected light ash near El Chaco and none in the valley between the Andean ranges, where Quito lies.[[ig25]][[hall]]",
+    "NOAA’s database of significant eruptions has {noaa_n_word} entry for Reventador, the eruption of November 3, 2002, and lists no deaths for it.[[noaa]] The 2004 study reports no casualties from the pyroclastic flows. It adds that several deaths and many injuries were attributed to people cleaning ash off roofs, and gives no numbers.[[hall]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Reventador’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Reventador has **{n_all} confirmed eruptions**, all {n_observed} of them known from written reports. The oldest is from {oldest}.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "November 3, 2002",
+ "callouts": [
+  {
+   "number": "7",
+   "unit": "hours",
+   "text": "Of tremor before the main blast of November 3, 2002, which followed 26 years of quiet.",
+   "source": "Source: Hall and others, 2004.[[hall]]"
+  },
+  {
+   "number": "10",
+   "unit": "days",
+   "text": "Of closures for Quito’s airport, schools and businesses after the ash fell, by the same study’s summary.",
+   "source": "Source: Hall and others, 2004.[[hall]]"
+  }
+ ],
+ "faq_h": "Reventador questions and answers",
+ "faq": [
+  [
+   "Is Reventador erupting now?",
+   "Yes. The Smithsonian’s list has an eruption that began on {cur_since} and was continuing at its last update, on {cur_last}. Ecuador’s Instituto Geofísico counts the volcano as erupting since 2002."
+  ],
+  [
+   "When did Reventador last erupt?",
+   "It is erupting now. Its largest explosive eruption in written history began on November 3, 2002."
+  ],
+  [
+   "What is the alert level at Reventador?",
+   "Orange. Ecuador’s risk agency declared it on March 27, 2014, and its monitoring report of April 16, 2026, the newest read for this page, still showed it."
+  ],
+  [
+   "Where is Reventador volcano?",
+   "In northeastern Ecuador, about 55 miles (90 km) east of Quito, in the provinces of Napo and Sucumbíos."
+  ],
+  [
+   "How tall is Reventador?",
+   "{summit_ft} ft ({summit_m} m) on the Smithsonian’s list. Ecuador’s Instituto Geofísico estimates that lava flows have built the cone up to about 11,800 ft (3,600 m)."
+  ],
+  [
+   "What happened at Reventador in 2002?",
+   "On November 3, 2002, after 26 years of quiet and about seven hours of tremor, an eruption sent ash about 10 miles (16 to 17 km) up. Pyroclastic flows ran as far as 5.6 miles (9 km) east, and ash closed Quito’s airport."
+  ],
+  [
+   "What does the name Reventador mean?",
+   "It translates as “the Exploder”, in the words of scientists at Ecuador’s Instituto Geofísico."
+  ],
+  [
+   "What type of volcano is Reventador?",
+   "A stratovolcano: a young cone that has grown inside the horseshoe-shaped scar left when an older volcano collapsed."
+  ],
+  [
+   "Is it safe to visit Reventador?",
+   "Ecuador’s Instituto Geofísico advises people to keep away from the volcano and its flanks, and in heavy rain to stay away from the rivers and streams that start on it."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Reventador record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=352010"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "gvpcur",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Current Eruptions: what “continuing” means",
+   "url": "https://volcano.si.edu/gvp_currenteruptions.cfm"
+  },
+  {
+   "id": "ig",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "El Reventador (volcano profile, in Spanish; last changed February 23, 2026)",
+   "url": "https://www.igepn.edu.ec/reventador"
+  },
+  {
+   "id": "igfield",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Trabajos de vigilancia en el volcán El Reventador, provincias de Napo y Sucumbíos (September 2, 2026, in Spanish)",
+   "url": "https://igepn.edu.ec/interactuamos-con-usted/2392-trabajos-de-vigilancia-en-el-volcan-el-reventador-provincias-de-napo-y-sucumbios"
+  },
+  {
+   "id": "ig25",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Informe Volcánico Especial – El Reventador – N° 2025-002 (November 2, 2025, in Spanish)",
+   "url": "https://www.igepn.edu.ec/servicios/noticias/2302-informe-volcanico-especial-el-reventador-n-2025-002"
+  },
+  {
+   "id": "sngr",
+   "publisher": "Secretaría Nacional de Gestión de Riesgos (Ecuador)",
+   "title": "Reporte de Monitoreo de Amenazas y Eventos Adversos No. 0212, April 16, 2026 (PDF, in Spanish)",
+   "url": "https://www.gestionderiesgos.gob.ec/wp-content/uploads/2026/04/Reporte_de_Monitoreo_Nacional_0212_16042026_09h00.pdf"
+  },
+  {
+   "id": "sngr23",
+   "publisher": "Secretaría de Gestión de Riesgos (Ecuador)",
+   "title": "Reporte de Monitoreo Nacional No. 0518, September 16, 2023: table of alert declarations in force (PDF, in Spanish)",
+   "url": "https://www.gestionderiesgos.gob.ec/wp-content/uploads/downloads/2023/09/Reporte-de-Monitoreo-Nacional-0518-16092023-21h00.pdf"
+  },
+  {
+   "id": "sgr",
+   "publisher": "Secretaría de Gestión de Riesgos (Ecuador)",
+   "title": "Se declara alerta naranja por aumento de actividad del volcán Reventador (release, undated, in Spanish)",
+   "url": "https://www.gestionderiesgos.gob.ec/se-declara-alerta-naranja-por-aumento-de-actividad-del-volcan-reventador/"
+  },
+  {
+   "id": "hall",
+   "publisher": "Revista Geológica de Chile (Andean Geology)",
+   "title": "Hall, M. and others (2004). Volcanic eruptions with little warning: the case of Volcán Reventador’s Surprise November 3, 2002 Eruption, Ecuador. Volume 31, no. 2, pages 349–358",
+   "url": "https://andeangeology.cl/index.php/revista1/article/view/V31n2-a10/html"
+  },
+  {
+   "id": "naranjo",
+   "publisher": "Journal of Applied Volcanology",
+   "title": "Naranjo, M. F. and others (2016). Mapping and measuring lava volumes from 2002 to 2009 at El Reventador Volcano, Ecuador, from field measurements and satellite remote sensing. Volume 5, article 8, doi:10.1186/s13617-016-0048-z (PDF, White Rose Research Online)",
+   "url": "https://eprints.whiterose.ac.uk/id/eprint/125415/1/s13617-016-0048-z.pdf"
+  },
+  {
+   "id": "eos",
+   "publisher": "Eos, American Geophysical Union",
+   "title": "Almeida, M., Gaunt, H. E. and Ramón, P. (2019). Ecuador’s El Reventador volcano continually remakes itself. Eos, 100, doi:10.1029/2019EO117105",
+   "url": "https://eos.org/science-updates/ecuadors-el-reventador-volcano-continually-remakes-itself"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about seven hours:** from the first tremor at 2 a.m. to the main blast at 9:12 a.m. on November 3, 2002. The study’s summary says 7 hours.",
+  "**within four hours:** the main blast began at 9:12 a.m. and ash fell on Quito from 1 p.m.",
+  "**a loss of about 360 ft (110 m):** the Instituto Geofísico’s 3,560 m before the 2002 eruption minus its 3,450 m after it.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles, inches and cubic miles are converted from the metric figures in the sources and rounded.",
+  "Times of day are local, as the sources give them."
+ ],
+ "expect": {
+  "cur_since": "July 27, 2008",
+  "summit_m": "3,562",
+  "n_all": "26",
+  "n_observed": "26",
+  "n_since": "17",
+  "n_vei3": "17",
+  "n_vei2": "8",
+  "max_vei": "4",
+  "noaa_n": "1",
+  "noaa_first": "2002",
+  "longest_gap_from_year": "1976",
+  "longest_gap_to_year": "2002",
+  "longest_gap_years": "26"
+ },
+ "observatory_read": "2026-11-18",
+ "since_check": "**Alert level Orange.** Ecuador’s risk agency declared it on March 27, 2014, and its monitoring report of April 16, 2026, the newest read for this page, still showed it.[[sngr23]][[sngr]] The Instituto Geofísico’s note of September 2, 2026, read on {read_date}, rates internal activity moderate and surface activity high, both unchanged.[[igfield]]",
+ "reviewed": null
+}
