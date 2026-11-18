@@ -1,0 +1,288 @@
+{
+ "slug": "manam",
+ "volcano_number": 251020,
+ "name": "Manam",
+ "country": "Papua New Guinea",
+ "title": "Manam Volcano: Eruption Now, 2004 Evacuation, Height & Facts",
+ "description": "Manam, an island volcano off Papua New Guinea’s north coast, is listed as erupting since June 2018. Its newest reports, the 2004 evacuation, height and record.",
+ "h1": "Manam Volcano",
+ "facts": {
+  "count_from": 1900
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "from two craters at the summit",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Manam is a volcano and an island at once: a cone 6 miles wide, 8 miles off the north coast of Papua New Guinea. The Smithsonian’s list has it erupting through most of the years since 1974, and in 2004 and 2005 its eruptions drove about 9,000 islanders to the mainland. Below: its state now, the eruptions since 2018, the evacuation, the deaths of 1996, its height, and every eruption on record.",
+ "answer": "**Manam is erupting, by the Smithsonian’s list.** The eruption began on {cur_since} and was continuing at the list’s last update.[[gvp]] The newest weekly report read for this page, for October 22 to 28, 2026, has one ash plume, which rose to 9,000 ft (2.7 km) above sea level on October 23.[[gvp]] Manam is a stratovolcano that forms an island off the north coast of Papua New Guinea, **{summit_ft} ft ({summit_m} m)** high.[[gvp]]",
+ "timeline": {
+  "from": 1900,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1996.92,
+    "label": "1996"
+   },
+   {
+    "year": 2005.07,
+    "label": "2005"
+   },
+   {
+    "year": 2018.65,
+    "label": "2018"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The long raised stretch is a single entry on the list, from 1974 to 1999; the raised stretch at the right edge is the eruption it has as continuing since {cur_since}."
+ },
+ "section": {
+  "kind": "land",
+  "note": "two craters, both active",
+  "crater": "summit craters",
+  "crater_share": 0.1,
+  "caption": "Manam as a simple outline rising from the sea. Only the summit height is to scale.[[gvp]] The real island is 6 miles (10 km) wide, with two craters at its summit and four large valleys that carry lava and pyroclastic flows toward the coast.[[nasa]][[bgvn1910]]"
+ },
+ "map_zoom": 10,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Manam?",
+   "map": true,
+   "paras": [
+    "Manam is an island in the Bismarck Sea, 8 miles (13 km) off the north coast of mainland [Papua New Guinea](/volcanoes-in-papua-new-guinea), at {coords}.[[nasa]][[gvp]] The mainland opposite is Madang Province.[[iom]]",
+    "The island is 6 miles (10 km) wide, and all of it is the volcano.[[nasa]][[bgvn1910]] It is one of {n_country} volcanoes in Papua New Guinea on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Manam erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. An eruption began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]] The Smithsonian keeps an eruption on its list of continuing ones as long as activity returns without a break of three months or more.[[gvpcur]]",
+    "Its weekly reports carry the newer observations. In the week of October 8 to 14, 2026, ash plumes rose to 7,000 ft (2.1 km) above sea level on five days. In the week of October 22 to 28, one plume rose to 9,000 ft (2.7 km) on October 23 and was gone within about four hours.[[gvp]] Both are observations by the Darwin Volcanic Ash Advisory Centre, which the Smithsonian relays.",
+    "The volcano’s own observatory is the Rabaul Volcano Observatory, part of Papua New Guinea’s Department of Mineral Policy and Geohazards Management.[[bgvn1910]] This page has its statements only as the Smithsonian relays them, and the reports of October 2026 name no alert stage."
+   ]
+  },
+  {
+   "id": "2018",
+   "h": "What has Manam done since 2018?",
+   "paras": [
+    "NOAA’s database of significant eruptions has three entries for this eruption, all within thirteen months of its start: August 25, 2018, January 7, 2019 and June 28, 2019. It lists no deaths for any of them.[[noaa]]",
+    "At about 6 a.m. on **August 25, 2018** an eruption sent ash to 50,000 ft (15.2 km). Ash and scoria, rock full of gas bubbles, fell from Dangale in the north-northeast of the island to Jogari in the southwest; in the worst-hit villages, Baliau and Kuluguma, it grew so dark that people needed flashlights to move around. Lava ran down the northeast valley. Deposits of pyroclastic flows, hot and chaotic mixes of rock fragments, gas and ash that move at tens of meters (tens of yards) a second, lay in the same valley all the way to the sea. The flows buried six houses in Boakure village, whose occupants escaped to a neighboring village. The eruption stopped at about 10:30 a.m., and about 2,000 people left their homes, by a news article the Smithsonian relayed.[[gvp]][[usgsgloss]]",
+    "In January 2019 ash rose to about 49,000 ft (15 km) on January 7 and again on January 11, and to about 54,000 ft (16.5 km) on January 23.[[bgvn1910]]",
+    "On **June 28, 2019** ash reached 50,000 ft (15.2 km) by 9:10 a.m., and pyroclastic flows ran down the northeast and west flanks. Ash fell on seven villages. About 3,775 people moved to care centers, and the United Nations office in Port Moresby reported as many as 455 homes and gardens destroyed.[[bgvn1910]]"
+   ]
+  },
+  {
+   "id": "2004",
+   "h": "What happened in 2004 and 2005?",
+   "aside": "callouts",
+   "paras": [
+    "A new eruption began on **October 24, 2004**.[[gvp]] Outbursts from late October into December sent ash as high as about 45,000 ft (13.7 km), on October 31. Ash damaged crops, water supplies and houses, and lava flowed toward two villages.[[gvp]]",
+    "The observatory raised its alert from Stage 1 to Stage 2 on October 31 and had it at Stage 3 by November 22; at Stage 4, leaving would have been compulsory. Government-sponsored evacuations were planned from November 27, and press counts of the people moved ran from 7,900 to about 9,000. Three state plantations near Bogia, on the mainland, were set aside for them. A newspaper reported on December 6 that five people had died, mainly of breathing problems after inhaling volcanic material: two elderly women and three children.[[gvp]]",
+    "The worst blast came around midnight on **January 27, 2005**. The Darwin Volcanic Ash Advisory Centre estimated that its ash reached 69,000 to 79,000 ft (21 to 24 km). A possible pyroclastic flow destroyed the observatory’s own monitoring base at Warisi village, with its radio, seismograph and satellite phone. One person was killed and about 14 were injured in the village. By news reports, many islanders evacuated in November had come back by then; some had returned from the camps that very day to gather food from their gardens.[[gvpw05]][[gvp]]",
+    "The island had been home to about 9,500 people. In February 2006 the observatory reported about 300 former residents back on it, and a Smithsonian report of December 2010 has about 10,000 former residents in care centers on the mainland.[[gvp]] A 2016 report for the International Organization for Migration puts the number evacuated at about 9,000. It says some islanders had since moved back, especially to the northern village of Baliau, because of tensions and violence they had experienced, and that the Madang Provincial Government had set a strategy to resettle people at a permanent site further inland.[[iom]]"
+   ]
+  },
+  {
+   "id": "1996",
+   "h": "What happened on December 3, 1996?",
+   "paras": [
+    "Through October and November 1996 the Main Crater went through five strong phases, 7 to 12 days apart. On December 2 explosions at the South Crater grew stronger. On December 3 they came about a minute apart in the morning and every few seconds by 2:30 p.m. Large pyroclastic flows entered the southeast valley at about 3:00 p.m. and the southwest valley at about 3:05.[[gvp]]",
+    "At 3:20 p.m. a flow in the southwest valley reached the sea. Flows overran the village of Budua Old and killed 13 people. The devastated ground reached about a mile (1.5 km) to either side of the valley’s central channel, and ash and scoria left the west of the island in darkness for 90 minutes.[[gvp]] It is the deadliest eruption of Manam in NOAA’s database, which also lists {worst_injuries} injuries.[[noaa]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Manam?",
+   "paras": [
+    "Manam’s summit is **{summit_ft} ft ({summit_m} m)** above the sea that surrounds it.[[gvp]] This page has no sourced figure for how far the volcano goes on below the water, so the drawing above starts at sea level.",
+    "Four large valleys run from the bare summit toward the coast, one each to the northeast, southeast, southwest and northwest. They channel lava flows and pyroclastic flows, which have sometimes reached the shore.[[bgvn1910]][[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Manam?",
+   "paras": [
+    "The Smithsonian classes Manam as a **[stratovolcano](/types-of-volcanoes)**:[[gvp]] a steep cone built from lava flows, pyroclastic flows and tephra, the rock fragments thrown out in eruptions.[[usgsgloss]] It lists the main rock as {rock}, and its summary calls the cone basaltic-andesitic.[[gvp]][[bgvn1910]]",
+    "The summit has two craters, and both are active. Most observed eruptions have come from the southern one, which for much of the past century sent its lava and debris into the southeast valley. Five small satellite vents sit near the shore on the north, south and west sides.[[bgvn1910]]",
+    "Manam is also a heavy gas emitter. A study published in Science Advances in 2020 measured about 5,150 tons of sulfur dioxide and 3,760 tons of carbon dioxide a day, combining long-range drone flights with ground instruments and satellites. Its authors called Manam a strong emitter that had not been characterized before.[[liu]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Manam erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** since 1616, {n_since} of them since {since_year}.[[gvp]] It rates {n_vei4} of them VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index), its highest for this volcano: the eruption of 1919 and those that began in 2004, 2014 and 2018. The 2004 rating carries a question mark.[[gvp]]",
+    "Since 1974 the gaps have been short. One entry on the list runs from 1974 to 1999. Its four newest entries begin in October 2004, August 2010, June 2014 and June 2018, and each starts less than a year after the one before it ends; the table below has the dates.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Manam dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Rabaul Volcano Observatory and Papua New Guinea’s disaster authorities.",
+   "paras": [
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Manam, the first in {noaa_first}. {noaa_fatal_word} were fatal, with **{noaa_deaths} deaths in total**; the deadliest is {worst_date}, with {worst_deaths}.[[noaa]]",
+    "The deaths have had different causes. Pyroclastic flows killed the 13 at Budua Old in 1996. In 2004 five people died mainly of breathing problems after inhaling volcanic material, by a newspaper report the Smithsonian relayed. One person was killed at Warisi in the blast of January 2005. In March 2007, after heavy rain, a mudflow in a valley on the north side swept away four people.[[gvp]][[gvpw05]] The U.S. Geological Survey’s name for such a flow is a lahar: a rapidly flowing mixture of rock debris and water that starts on a volcano’s slopes.[[usgsgloss]] NOAA also lists two deaths in 1899.[[noaa]]",
+    "Manam is 6 miles wide,[[nasa]] and flows down its valleys have reached the coast.[[bgvn1910]] They overran Budua Old in 1996 and buried houses at Boakure in 2018, and the blast of January 2005 destroyed the observatory’s own monitoring base at Warisi village.[[gvp]][[gvpw05]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Manam’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Manam has **{n_all} confirmed eruptions**, all {n_observed} of them known from written reports. The oldest is from {oldest}.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2004–2005",
+ "callouts": [
+  {
+   "number": "9,000",
+   "unit": "people",
+   "text": "Evacuated from Manam to the north coast of Madang Province in 2004 and 2005, in round numbers.",
+   "source": "Source: report for the International Organization for Migration, 2016.[[iom]]"
+  },
+  {
+   "number": "79,000",
+   "unit": "ft",
+   "text": "Top of the range estimated for the ash of January 27, 2005: 21 to 24 km above sea level.",
+   "source": "Source: Darwin Volcanic Ash Advisory Centre, in the Smithsonian’s weekly report.[[gvpw05]] Converted."
+  }
+ ],
+ "faq_h": "Manam questions and answers",
+ "faq": [
+  [
+   "Is Manam erupting now?",
+   "By the Smithsonian’s list, yes: the eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}. Its weekly report for October 22 to 28, 2026 has an ash plume to 9,000 ft (2.7 km) on October 23."
+  ],
+  [
+   "Where is Manam volcano?",
+   "It is an island in the Bismarck Sea, 8 miles (13 km) off the north coast of mainland Papua New Guinea, opposite Madang Province."
+  ],
+  [
+   "How tall is Manam?",
+   "{summit_ft} ft ({summit_m} m) above the sea. The island it forms is 6 miles (10 km) wide."
+  ],
+  [
+   "What type of volcano is Manam?",
+   "A stratovolcano, by the Smithsonian’s classification: a steep cone with two active craters at its summit."
+  ],
+  [
+   "What was Manam’s deadliest eruption?",
+   "The one of {worst_date}, in NOAA’s database: pyroclastic flows overran the village of Budua Old and killed {worst_deaths} people."
+  ],
+  [
+   "Why were Manam’s people evacuated?",
+   "A run of eruptions that began on October 24, 2004 damaged crops, water supplies and houses with ash and sent lava toward villages. About 9,000 people were moved to the mainland in 2004 and 2005."
+  ],
+  [
+   "Do people still live on Manam?",
+   "People were living there in 2019: about 3,775 of them moved to care centers after the eruption of June 28 that year, by the Smithsonian’s bulletin. This page has no later count."
+  ],
+  [
+   "How often does Manam erupt?",
+   "The Smithsonian lists {n_all} confirmed eruptions since 1616. Its four newest entries, from October 2004 on, each start less than a year after the one before ended."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Manam record, eruption list, weekly reports and bulletins",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=251020"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "bgvn1910",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Bulletin of the Global Volcanism Network 44:10 (October 2019): Manam, significant eruption on 28 June produced an ash plume up to 15.2 km and pyroclastic flows",
+   "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201910-251020"
+  },
+  {
+   "id": "gvpw05",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Weekly Volcanic Activity Report, 26 January–1 February 2005: Manam",
+   "url": "https://volcano.si.edu/reports_weekly.cfm?weekstart=20050126"
+  },
+  {
+   "id": "gvpcur",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Current Eruptions: what “continuing” means",
+   "url": "https://volcano.si.edu/gvp_currenteruptions.cfm"
+  },
+  {
+   "id": "iom",
+   "publisher": "International Organization for Migration",
+   "title": "Another Manam? The Forced Migration of the Population of Manam Island, Papua New Guinea, due to Volcanic Eruptions 2004-2005 (2016)",
+   "url": "https://publications.iom.int/books/another-manam-forced-migration-population-manam-island-papua-new-guinea-due-volcanic"
+  },
+  {
+   "id": "nasa",
+   "publisher": "NASA",
+   "title": "Manam Volcano (image of June 16, 2010, with caption)",
+   "url": "https://science.nasa.gov/resource/manam-volcano/"
+  },
+  {
+   "id": "liu",
+   "publisher": "Liu and others, Science Advances 6(44), 2020",
+   "title": "Aerial strategies advance volcanic gas measurements at inaccessible, strongly degassing volcanoes, doi:10.1126/sciadv.abb9103 (abstract, Michigan Technological University repository)",
+   "url": "https://digitalcommons.mtu.edu/michigantech-p/14370"
+  },
+  {
+   "id": "usgsgloss",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Hazards Program Glossary",
+   "url": "https://www.usgs.gov/glossary/volcano-hazards-program-glossary"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**{noaa_deaths} deaths:** the sum of NOAA’s totals for its {noaa_fatal_count} fatal entries.",
+  "Ash heights are altitudes above sea level. Where a source gives only kilometers, feet are converted and rounded to the nearest thousand. The miles for the island’s width and its distance from the mainland are NASA’s; “about a mile” is converted from 1.5 km.",
+  "Times of day are local, as the sources give them."
+ ],
+ "expect": {
+  "cur_since": "June 10, 2018",
+  "summit_m": "1,807",
+  "n_all": "41",
+  "n_observed": "41",
+  "n_vei4": "4",
+  "max_vei": "4",
+  "noaa_n": "9",
+  "noaa_first": "1899",
+  "noaa_fatal_count": "5",
+  "noaa_deaths": "25",
+  "worst_deaths": "13",
+  "worst_date": "December 3, 1996",
+  "worst_injuries": "29",
+  "prev_start": "June 29, 2014",
+  "prev_end": "September 2, 2017"
+ },
+ "observatory_read": "2026-11-17",
+ "since_check": null,
+ "reviewed": null
+}
