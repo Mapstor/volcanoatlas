@@ -5,18 +5,22 @@
 Loads every page that has a profile in data/profiles, `passes` times (default 3), and counts the
 loads on which the page threw an error. Nothing is clicked.
 
-With --busy the processor is kept busy meanwhile. That brings out a bug in the React build that
-Next 16.1.6 ships: when React starts before all of the page's data has arrived, it pauses inside a
-large element and, on resuming, fails to match the HTML (error 418) and rebuilds the page in the
-browser. DEVLOG §5 has the diagnosis.
+With --busy the machine is kept busy meanwhile: a type check (`npx tsc --noEmit`) runs in a loop
+beside a few spinning processes, which starves the local server and the browser alike. That is the
+load under which a bug in the React build inside Next 16.1.6 showed (2026-11-18: 5 of 275 loads):
+when React starts before all of the page's data has arrived, it pauses inside a large element and,
+on resuming, fails to match the HTML (error 418) and rebuilds the page in the browser. Spinning
+processes alone, a slow line and a throttled browser did not bring it out. DEVLOG §5 has the diagnosis.
 
-Expected: 0 loads with an error without --busy. With --busy, a few per hundred are that bug until
-Next is upgraded; after the upgrade the count has to be 0 with --busy too.
+Expected: 0 loads with an error without --busy. With --busy on a Next that carries React's fix
+(16.2.0 or later) the count has to be 0 as well; use 12 passes (300 loads) or more to tell 0 from 2%.
 """
 import collections
 import glob
 import multiprocessing
 import os
+import signal
+import subprocess
 import sys
 
 from playwright.sync_api import sync_playwright
@@ -35,9 +39,11 @@ def main():
     slugs = sorted(os.path.basename(f)[:-5] for f in glob.glob(os.path.join(repo, 'data/profiles/*.json')))
 
     stop = multiprocessing.Event()
-    workers = [multiprocessing.Process(target=spin, args=(stop,), daemon=True) for _ in range(2 * (os.cpu_count() or 2) if busy else 0)]
+    workers = [multiprocessing.Process(target=spin, args=(stop,), daemon=True) for _ in range(1 if busy else 0)]
     for w in workers:
         w.start()
+    # the type check in a loop, in its own process group so that it can be stopped as a whole
+    tsc = subprocess.Popen(['sh', '-c', 'while :; do npx tsc --noEmit > /dev/null 2>&1; done'], cwd=repo, preexec_fn=os.setsid) if busy else None
 
     bad = collections.Counter()
     first = {}
@@ -51,13 +57,15 @@ def main():
                 for slug in slugs:
                     errs.clear()
                     page.goto(f'{base}/volcano/{slug}', wait_until='domcontentloaded', timeout=120000)
-                    page.wait_for_timeout(1500)
+                    page.wait_for_timeout(900)
                     if errs:
                         bad[slug] += 1
                         first.setdefault(slug, errs[0])
             browser.close()
     finally:
         stop.set()
+        if tsc:
+            os.killpg(os.getpgid(tsc.pid), signal.SIGKILL)
 
     loads = len(slugs) * passes
     print(f"pages {len(slugs)} | passes {passes} | busy {busy} | loads {loads} | loads with an error: {sum(bad.values())}")

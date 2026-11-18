@@ -29,5 +29,5 @@ request waits for the owner. The devlog skill lives in the owner's Claude accoun
   `since_check` in its profile: what its own observatory showed on the day it was read, with the source (the build
   stops without it). The look is in DESIGN.md, what a page must do is in PRODUCT.md.
 - This repository is public: no secrets, no analytics or search-traffic figures, no private contact details.
-- Checks before a pull request: `npx tsc --noEmit` (ignore `lib/textUtils.test.ts`), `rm -rf .next && npx next build`,
+- Checks before a pull request: `npx tsc --noEmit` (clean: test files are left out in `tsconfig.json`), `rm -rf .next && npx next build`,
   then a full link crawl of the local build. Details in DEVLOG.md §4.
