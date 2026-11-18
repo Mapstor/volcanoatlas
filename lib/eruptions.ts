@@ -258,6 +258,13 @@ export interface EruptionStats {
   lastEndUncertaintyDays: number | null;
   /** the record puts a question mark on the end day of the last eruption and gives no range for it, so the date is printed to the day */
   lastEndQuestioned: boolean;
+  /**
+   * The year of the newest eruption when it is over and the record does not date both its start and its end to the day
+   * (Pico de Orizaba: 1846, the year alone; Cerro Azul: a start in 1967 and no end): its end year, or its start year when no end
+   * is given. Null when lastEnd is set, and for a year the record questions, limits ("before"), gives with a margin or puts
+   * before the common era, where a count of years since would claim more than the record does.
+   */
+  lastYearOnly: number | null;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -377,6 +384,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     lastEndPrecision: over ? precisionOf(over.edunc) : 'day',
     lastEndUncertaintyDays: over?.edunc ?? null,
     lastEndQuestioned: Boolean(over && over.edmod === '?' && precisionOf(over.edunc) === 'day'),
+    lastYearOnly: newest && !over && !newest.emod && !newest.smod && newest.sy > 0 && !newest.sunc ? (newest.ey || newest.sy) : null,
     current,
     currentStart,
     currentLast,
@@ -395,6 +403,12 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
   };
 }
 
+/**
+ * A year standing alone in the record table. The era is written where a bare number could be misread: before the common era
+ * and in its first thousand years ("780 BCE", "40 CE"). From 1000 on the year is enough ("1687"), as it is in a full date.
+ */
+export const yearText = (year: number) => (year < 0 ? `${-year} BCE` : year < 1000 ? `${year} CE` : String(year));
+
 /** A date with the record's own doubt added: "(uncertain)" for a question mark, "before" for an upper limit. */
 function marked(text: string, modifier: string | null): string {
   return modifier === '?' ? `${text} (uncertain)` : modifier === '<' ? `before ${text}` : modifier === '>' ? `after ${text}` : text;
@@ -404,27 +418,33 @@ function marked(text: string, modifier: string | null): string {
 export function startLabel(e: Eruption): string {
   if (e.sm && e.sd) {
     const precision = precisionOf(e.sdunc);
+    // a start known only to the year is written like every other year in the table
+    const text = precision === 'year' ? yearText(e.sy) : dateText([e.sy, e.sm, e.sd], precision);
     // when only the year is known, a question mark on the year is kept (El Chichón’s 1850, Kilauea’s 1820, Ambae’s 1870)
-    return marked(dateText([e.sy, e.sm, e.sd], precision), e.sdmod ?? (precision === 'year' ? e.smod : null));
+    return marked(text, e.sdmod ?? (precision === 'year' ? e.smod : null));
   }
   // a start the record gives to the month but not the day ("May 1554")
   if (e.sm && e.sy > 0) return marked(dateText([e.sy, e.sm, 1], 'month'), e.smod);
-  const era = e.sy < 0 ? `${-e.sy} BCE` : `${e.sy} CE`;
-  // a year before the common era is written with its era ("before 6580 BCE"); a lower limit reads "after"
-  if (e.smod === '<') return `before ${e.sy < 0 ? era : e.sy}`;
-  if (e.smod === '>') return `after ${e.sy < 0 ? era : e.sy}`;
+  const era = yearText(e.sy);
+  // an upper limit reads "before" ("before 6580 BCE", "before 1558"); a lower limit reads "after"
+  if (e.smod === '<') return `before ${era}`;
+  if (e.smod === '>') return `after ${era}`;
   if (e.smod === '?') return `about ${era}`;
   return e.sunc ? `${era} ± ${e.sunc} years` : era;
 }
 
 export function endLabel(e: Eruption): string {
   if (e.emod === '>') return 'continuing';
-  if (e.ey && e.em && e.ed) return marked(dateText([e.ey, e.em, e.ed], precisionOf(e.edunc)), e.edmod === '>' ? null : e.edmod);
-  // an end the record gives only to the month or to the year is printed that far ("May 1768", "1390 CE"), not as missing
+  if (e.ey && e.em && e.ed) {
+    const precision = precisionOf(e.edunc);
+    const text = precision === 'year' ? yearText(e.ey) : dateText([e.ey, e.em, e.ed], precision);
+    return marked(text, e.edmod === '>' ? null : e.edmod);
+  }
+  // an end the record gives only to the month or to the year is printed that far ("May 1768", "1390"), not as missing
   if (e.ey && e.em && e.ey > 0) return marked(dateText([e.ey, e.em, 1], 'month'), e.edmod === '>' ? null : (e.edmod ?? e.emod));
   if (e.ey) {
     // the year alone, worded like a start year: "about" for a question mark, "before" for an upper limit
-    const era = e.ey < 0 ? `${-e.ey} BCE` : `${e.ey} CE`;
+    const era = yearText(e.ey);
     return e.emod === '?' ? `about ${era}` : e.emod === '<' ? `before ${era}` : era;
   }
   return 'not recorded';

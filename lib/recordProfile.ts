@@ -334,6 +334,17 @@ export function buildRecordData(profile: RecordProfile): RecordData {
       set('quiet_unit', months === 1 ? 'month' : 'months');
     }
   }
+  // a last eruption the record gives only by year (Pico de Orizaba: 1846): the year, and the calendar years since.
+  // {last_start} and {last_end} stay unset, so a sentence that needs a day cannot be written for such a volcano.
+  if (!stats.current && stats.lastYearOnly !== null) {
+    const newest = stats.all[stats.all.length - 1];
+    const years = new Date().getUTCFullYear() - stats.lastYearOnly;
+    set('last_year', stats.lastYearOnly);
+    set('last_span', newest.ey && newest.ey !== newest.sy ? `${newest.sy} to ${newest.ey}` : String(newest.sy));
+    set('quiet_number', years);
+    set('quiet_unit', years === 1 ? 'year' : 'years');
+    set('quiet_span', `about ${years} ${years === 1 ? 'year' : 'years'}`);
+  }
   if (profile.facts.count_from) {
     set('since_year', profile.facts.count_from);
     set('n_since', stats.all.filter((e) => e.sy >= (profile.facts.count_from as number)).length);
@@ -480,6 +491,8 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     if (top.length) {
       const newest = top[top.length - 1];
       set('n_max_vei', top.length);
+      // when the Smithsonian questions the size of every eruption at the top of the list, the key fact says so (Pico de Orizaba: 5?)
+      if (top.every((e) => e.veiq === '?')) set('max_vei_note', ' (uncertain)');
       set('largest_year', newest.sy < 0 ? `${-newest.sy} BCE` : String(newest.sy));
     }
     for (const size of [1, 2, 3, 4, 5, 6, 7]) set(`n_vei${size}`, stats.all.filter((e) => e.vei === size).length);
