@@ -1,0 +1,390 @@
+{
+ "slug": "chichon-el",
+ "volcano_number": 341120,
+ "name": "El Chichón",
+ "country": "Mexico",
+ "title": "El Chichón Volcano, Mexico: 1982 Eruption, Deaths & Facts",
+ "description": "El Chichón’s 1982 eruption killed about 2,000 people in Chiapas, Mexico. What happened that week, its effect on the climate, its alert level and its record.",
+ "h1": "El Chichón Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 500
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "its big explosions took one week",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Until March 28, 1982, El Chichón was a forested hill in Chiapas with no eruption in written history. A week later about 2,000 people were dead, nine villages were gone, and a cloud of sulfur from the eruption was on its way around the world. Below: what happened that week, why nobody was warned, what the eruption did to the climate, what the volcano is doing now, its height, and every eruption on record.",
+ "answer": "**El Chichón last erupted in 1982.** Three explosive eruptions between March 28 and April 4 killed about 2,000 people and destroyed nine villages.[[tilling]] The volcano is a group of **lava domes** in Chiapas, southeastern Mexico, **{summit_ft} ft ({summit_m} m)** high.[[gvp]] It is not erupting. Earthquake swarms picked up in June 2025, and its alert level was Yellow, Phase 1, in the newest official statement read for this page, dated December 18, 2025.[[pc065]][[cnpc25]]",
+ "timeline": {
+  "from": 500,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 780,
+    "label": "about 780"
+   },
+   {
+    "year": 1360,
+    "label": "about 1360"
+   },
+   {
+    "year": 1982.24,
+    "label": "1982"
+   }
+  ],
+  "note": "{n_since} eruptions since the year {since_year} on the Smithsonian’s list",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Every spike before 1982 is placed by radiocarbon dating or by what residents told geologists, so its year is approximate. The spikes at about 780, about 1360 and 1982 are the eruptions the list rates VEI {max_vei}."
+ },
+ "section": {
+  "kind": "land",
+  "note": "the dome blew out in 1982",
+  "crater": "1982 crater",
+  "crater_depth_m": 300,
+  "crater_depth_text": "about 1,000 ft deep",
+  "crater_share": 0.16,
+  "caption": "El Chichón cut open. The summit height, the depth of the 1982 crater and the land around the volcano are to scale; the outline and the crater’s width are schematic.[[gvp]][[etopo]] The crater is drawn at the Smithsonian’s depth of about 1,000 ft (300 m); other sources give less.[[tilling]] A shallow lake lies on the crater floor and is not drawn.[[gvp]]"
+ },
+ "map_zoom": 7,
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is El Chichón?",
+   "map": true,
+   "paras": [
+    "El Chichón is in the state of Chiapas in southeastern Mexico, at {coords}.[[gvp]][[tilling]] It stands about 43 miles (70 km) north-northwest of Tuxtla Gutiérrez and 48 miles (77 km) south-southwest of Villahermosa, in the state of Tabasco.[[pcplan]] Mexico City is about 415 miles (670 km) to the west-northwest.[[gvp]]",
+    "The crater is in the municipality of Chapultenango, which borders Francisco León, Ostuacán, Sunuapa, Ixtacomitán and Pichucalco.[[pc067]] Mexican agencies call the volcano both El Chichón and Chichonal.[[cnpc25]][[pcplan]]",
+    "It sits at the northwestern end of the Chiapanecan Volcanic Arc.[[tilling]] It is one of {n_country} volcanoes in [Mexico](/volcanoes-in-mexico) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did El Chichón last erupt?",
+   "aside": "callouts",
+   "paras": [
+    "El Chichón last erupted in 1982. The Smithsonian’s list runs the eruption from **{last_start} to {last_end}** and rates it VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]] Almost all of it happened in one week, in three explosive eruptions between March 28 and April 4. The September date is a puff of ash that lasted a few minutes.[[tilling]][[gvp]]",
+    "Until that week the volcano had no eruption in written history.[[tilling]] It was a cluster of forested lava domes, no higher than the peaks beside it, with sulfur vents and hot springs, and it was recognized as a volcano only in 1928.[[gvp]][[tilling]]",
+    "The first eruption began at 11:32 p.m. on March 28 and went on until about 6 a.m.[[gvp]][[tilling]] Ash rose at least 10 miles (17 km).[[gvp]] No flows of hot ash ran down the slopes that night. Falling ash caved in roofs, closed the airports at Villahermosa and Tuxtla Gutiérrez and killed dozens of people.[[tilling]][[gvp]]",
+    "Five quieter days followed, with small explosions and constant earthquakes. The army began to move more than 22,000 people out. The evacuation was loosely enforced, and villagers were let back by day to see to their crops and animals.[[tilling]]",
+    "The explosions returned on April 3, and the largest of the whole eruption began at 5:22 a.m. on April 4.[[gvp]] This time flows and surges of hot ash and gas swept down every side of the volcano.[[tilling]] They laid waste to about 58 square miles (150 sq km), as far as 5 miles (8 km) from the crater, and destroyed nine villages.[[gvp]][[tilling]]",
+    "By the end the summit dome was gone, and a crater about 0.6 mile (1 km) wide had taken its place.[[gvp]][[usgsvw]] Tilling puts the magma erupted at about 0.12 cubic mile (0.5 cubic km), and USGS compares the eruption’s volume to that of [Mount St. Helens](/volcano/st-helens) in 1980.[[tilling]][[usgsvw]]",
+    "A flood followed in May. Debris from the flows had dammed the Magdalena River about 3 miles (4.5 km) from the crater, and a hot lake 2.5 to 3 miles (4 to 5 km) long built up behind it. The dam gave way late on May 26. The water was still at 180 °F (82 °C) when it passed Ostuacán, more than 6 miles (10 km) downstream, and it killed one worker and badly burned three at a hydroelectric project about 22 miles (35 km) away.[[gvp]]"
+   ]
+  },
+  {
+   "id": "deaths",
+   "h": "How many people died in the 1982 eruption?",
+   "paras": [
+    "About 2,000, by the figure most of the sources read for this page use. Tilling’s 2009 review of the disaster gives about 2,000 and credits two earlier studies. USGS’s Hawaiian Volcano Observatory writes of more than 2,000, and NASA of an estimated 1,900.[[tilling]][[usgsvw]][[nasa12]] NOAA’s database lists {noaa_deaths}.[[noaa]]",
+    "Counts made at the time were far lower. In May 1982 the army reported 187 deaths caused directly by the eruption. By September the Catholic diocese of Tuxtla Gutiérrez had a list of more than 1,000 people believed dead, and residents of the municipality of Francisco León estimated about 400 killed there.[[gvp]]",
+    "Most died on April 3 and 4, in the flows and surges.[[tilling]] Many had gone home. On April 2, by Tilling’s account, a general told evacuees they could return, after the chief scientist of the federal electricity commission advised that the volcano’s critical phase had passed. Tilling also cites a newspaper report of the day before in which the same scientist said everyone should be evacuated.[[tilling]]",
+    "The village of Francisco León, 3 to 4 miles (5 to 6 km) southwest of the summit, was destroyed.[[tilling]][[gvp]] First reports that everyone there had died were wrong: a Smithsonian bulletin of June 1982 puts the dead at about 140 residents of the village and a similar number from the countryside around it.[[gvp]] A geologist of the electricity commission, Salvador Soto Pineda, died there with soldiers sent to the village after the first eruption: three soldiers by Tilling’s account, 32 by the Smithsonian’s bulletin of May 1982.[[tilling]][[gvp]]",
+    "USGS counts 20,000 people left homeless. A Smithsonian bulletin of September 1982 reports about 60,000 refugees in camps, few of whom were still there at the end of July.[[usgsvw]][[gvp]] Tilling calls the eruption the worst volcanic disaster in Mexico’s recorded history.[[tilling]]"
+   ]
+  },
+  {
+   "id": "warning",
+   "h": "Why was there no warning in 1982?",
+   "paras": [
+    "Because nobody was monitoring the volcano, and nothing was known of its explosive past.[[tilling]]",
+    "There were signs: people living nearby felt earthquakes and saw more steam at the fumaroles in 1980 and 1981, most of all in the three months before the eruption. They told local authorities, who did not act in time.[[tilling]]",
+    "Two geologists of the federal electricity commission, working on a geothermal study, felt earthquakes and heard rumbling at the volcano in December 1980 and January 1981. Their report, filed in September 1981, concluded that the volcanic risk was high. It went to one office of the commission and no further.[[tilling]] A seismic network the commission had installed in 1979 recorded earthquakes at the volcano from January 1980.[[tilling]]",
+    "Scientists from UNAM, Mexico’s national university, reached the volcano the day after the first eruption and set up portable seismographs. By Tilling’s account they were kept out of the meetings where the decisions were made.[[tilling]]",
+    "Tilling notes how common the pattern is: of the 16 largest eruptions of the 19th and 20th centuries, 12 were the first in written history at their volcano. His lessons from El Chichón are to map and date the deposits of young volcanoes, to monitor them before a crisis begins, and never to read a lull as the end of an eruption.[[tilling]]"
+   ]
+  },
+  {
+   "id": "climate",
+   "h": "How did El Chichón affect the climate?",
+   "paras": [
+    "The eruption put about 7.5 million metric tons (8.3 million US tons) of sulfur dioxide into the stratosphere, give or take 30%, by measurements from the Nimbus-7 satellite. Of that, 5.6 million came from the explosion of April 4.[[krueger]]",
+    "That was a great deal for an eruption of its size. USGS puts its volume close to that of Mount St. Helens in 1980 and its sulfur dioxide at about seven times as much.[[usgsvw]] The magma was exceptionally rich in sulfur.[[tilling]] Two researchers wrote in 1984 that El Chichón showed for the first time that a fairly small, sulfur-rich eruption can make a dense cloud that spreads through the stratosphere.[[rampino]]",
+    "Winds carried the gas west. The cloud crossed Hawaii on April 8 and 9 and was back over Mexico on April 25, drawn out into a band about 25,000 miles (40,000 km) long that ringed the globe in three weeks.[[krueger]] It climbed as high as 17 miles (27 km).[[nasa12]]",
+    "In the stratosphere the gas became droplets of sulfuric acid, which absorb and scatter sunlight.[[rampino]] NASA’s summary is that the cloud warmed the stratosphere by about 7 °F (4 °C) and cooled the Northern Hemisphere by about 0.7 °F (0.4 °C).[[nasa12]] Tilling gives the cooling as 0.4 to 0.9 °F (0.2 to 0.5 °C) and says it had largely faded by 1985.[[tilling]]",
+    "USGS adds that the year after the eruption showed no marked cooling, because one of the century’s strongest El Niño events was under way at the same time.[[usgsvw]]",
+    "In the quarter century of satellite measurements that the sulfur dioxide paper looks back on, only [Mount Pinatubo](/volcano/pinatubo) in 1991 released more.[[krueger]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is El Chichón erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption after 1982.[[gvp]] The volcano has been restless since June 2025, and a UNAM article of December 2025 describes the unrest as hydrothermal, the work of hot water and gas under the crater, with no signs of rising magma.[[unamglobal]]",
+    "Chiapas’s civil protection office counted 307 earthquakes within 12 miles (20 km) of the crater between June 1 and August 18, 2025, of magnitude 1.4 to 3.4.[[pc065]] A working group that included CENAPRED (Mexico’s national disaster prevention center), UNAM’s Institute of Geophysics and the Chiapas university UNICACH then reviewed the earthquakes together with a change in the size of the crater lake, ground deformation and gas emissions. It read them as signs of a change in the volcano’s hydrothermal system, and said monitoring would be stepped up to watch for a possible reactivation of the magma system.[[pc067]] An article of August 19, 2025 from UNAM’s Institute of Geophysics says a flight over the crater showed a recent drop in the lake’s level.[[geodesia25]]",
+    "Swarms were not new. A UNAM researcher put the count for 2021 to 2025 at more than 3,100 small earthquakes, the largest of magnitude 3.8, with more than 140 on some days.[[gaceta26]]",
+    "The December 2025 article draws on a lecture by Patricia Jácome Paz of UNAM’s Institute of Geophysics. It rates small steam explosions inside the crater as possible, and the chance of an eruption on the scale of 1982 as minimal for now.[[unamglobal]]",
+    "Mexico’s national civil protection agency sets the alert level.[[pcplan]] On December 18, 2025 it said the volcano’s scientific committee had kept the level unchanged at Yellow, Phase 1, to see whether the activity settles at a base level or changes.[[cnpc25]] The release describes that level as new activity with more earthquakes than normal, and with possible new fumaroles or changes in the temperature, the gases or the water of the crater.[[cnpc25]] The UNAM article of the same month gives the level as Yellow, Phase 2.[[unamglobal]]",
+    "That release is the newest statement of the level read for this page. The newer reports are about instruments. On August 30, 2026 UNAM’s Institute of Geophysics described a field campaign with Chiapas’s civil protection staff: water and gas samples, and a hydrophone placed in the crater lake to record sounds in the water. It adds that recent research found more gas seeping from the lake between 2021 and 2025.[[unam26]] Chiapas’s list of press releases, read on {read_date}, has two entries on volcano monitoring from 2026, dated August 25 and September 8. The first is titled as new instruments for Chichonal. This page could read only their titles.[[pcprensa]]"
+   ]
+  },
+  {
+   "id": "crater",
+   "h": "What is inside El Chichón’s crater?",
+   "paras": [
+    "A lake. The crater of 1982 is about 0.6 mile (1 km) wide.[[gvp]][[usgsvw]] The sources give three depths for it: about 1,000 ft (300 m) in the Smithsonian’s record and Chiapas’s civil protection plan, 750 ft (230 m) in Tilling’s paper and about 650 ft (200 m) in a UNAM article of 2026.[[gvp]][[pcplan]][[tilling]][[gaceta26]]",
+    "Water began to collect on the crater floor in late April 1982. In January 1983 the lake was at 126 to 136 °F (52 to 58 °C) and strongly acid, with a pH of about 0.5. It cooled after that, to 108 °F (42 °C) by October 1983 and 83 °F (28.6 °C) in September 1986.[[gvp]]",
+    "The lake is shallow and it changes size. In April 1998 its average depth was 5 ft (1.5 m). Scientists recorded its smallest volume in June 2005 and its largest, about 600,000 cubic meters (roughly 160 million gallons), in March 2007.[[gvp]]",
+    "Scientists have sampled the lake for about 20 years. A UNAM researcher describes it as turquoise, with sulfurous water that reaches close to 212 °F (100 °C) and, at the bottom, a pool of liquid sulfur at up to 244 °F (118 °C). Gas bubbling through the sulfur makes hollow spheres of it that float for a moment before they break. In recent years, she says, the lake has gone from being dominated by algae to being dominated by sulfates and silica.[[gaceta26]]",
+    "The crater is closed to visitors under the release of December 2025: nobody is to enter it or go near it, and the safety radius is at least 0.6 mile (1 km).[[cnpc25]] In August 2025 Chiapas had limited access to accredited researchers with safety equipment.[[pc067]] The same researcher’s interview notes that the volcano still draws many tourists despite the warnings, and that its gases can harm health.[[gaceta26]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is El Chichón?",
+   "paras": [
+    "El Chichón is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] Measured against the land {ring_mi} miles from the summit, it stands about {rise_ft} ft ({rise_m} m).[[etopo]]",
+    "It was taller before 1982, and the sources disagree on how much the eruption took off. A Smithsonian photo caption says the loss of the summit dome lowered the summit by about 650 ft (200 m). Tabasco’s civil protection programme puts the old dome at 1,235 m, about 280 ft (85 m) above today’s summit.[[gvp]][[tabasco26]]",
+    "The crater rim is uneven. In 1992 a Smithsonian bulletin gave the rim as 3,480 ft (1,060 m) and the crater floor as 2,950 ft (900 m) on the southeast side.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is El Chichón?",
+   "paras": [
+    "The Smithsonian lists El Chichón under **[lava domes](/types-of-volcanoes)**.[[gvp]] Before 1982 a large dome filled an older crater about 1 by 1.2 miles (1.6 by 2 km) across, which formed about 220,000 years ago. The 1982 crater sits inside that older one.[[gvp]][[nasa12]]",
+    "Its main rock is {rock}.[[gvp]] The magma is unusually rich in sulfur, which is why an eruption of moderate volume had such a large effect on the atmosphere.[[tilling]][[rampino]]",
+    "The volcano stands above a subduction zone, at the northwestern end of the Chiapanecan Volcanic Arc.[[gvp]][[tilling]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does El Chichón erupt?",
+   "paras": [
+    "Rarely, and violently. The Smithsonian’s list has **{n_all} confirmed eruptions**, the oldest from around {oldest}. It rates {n_vei5} of them VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index): those of about 2030 BCE, about 780, about 1360 and 1982.[[gvp]]",
+    "The list dates {n_rc} of the {n_all} by radiocarbon and gives each of those years a margin of 50 to 200 years.[[gvp]] Tilling’s paper puts the average quiet interval between the prehistoric eruptions at 350 years, give or take 250.[[tilling]]",
+    "Before 1982 the volcano had been quiet for centuries. The list’s date for the previous large eruption is about 1360; USGS writes of roughly 500 years of quiet and NASA of 600.[[gvp]][[usgsvw]][[nasa12]]",
+    "One smaller eruption may fall in that gap. People living near the volcano told geologists of an eruption about 130 years before 1982, seen by their grandparents and too weak to make anyone leave. The list carries it as 1850 and marks the year as uncertain.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is El Chichón dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts, use Mexico’s national civil protection agency and the civil protection office of Chiapas.[[pcprensa]]",
+   "paras": [
+    "Yes. It killed about 2,000 people in one week in 1982, and USGS scientists wrote in 2012 that it “will undoubtedly erupt again”.[[tilling]][[usgsvw]]",
+    "In 1982 the flows and surges of hot ash reached 5 miles (8 km) from the crater.[[gvp]] Chiapas’s civil protection plan counts 24 communities with 5,565 people within 6 miles (10 km) of it. Three of them, with 207 people, are within 3 miles (5 km): Esquipulas Guayabal, Viejo Volcán and Nuevo Progreso.[[pcplan]]",
+    "The plan ties each alert level to an area to be cleared. At Yellow, Phase 2 it is 1.6 miles (2.5 km) from the crater rim. The two stages of Red take it to 3 miles (5 km) and then 6 miles (10 km).[[pcplan]] In December 2025 the federal agency listed 13 evacuation routes and 22 temporary shelters checked.[[cnpc25]]",
+    "Ash travels farther. In 1982 it fell over more than 17,000 square miles (45,000 sq km), and Tabasco’s civil protection programme names Teapa, Huimanguillo and Tacotalpa as the municipalities of that state most exposed to it.[[gvp]][[tabasco26]]",
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for El Chichón. Three are from 1982 and add up to {noaa_deaths} deaths. NOAA files {worst_deaths} of them under {worst_date}, although Tilling attributes most of the deaths to the flows of April 3 and 4. The fourth entry is the eruption the Smithsonian dates to about 1360, which NOAA places in {noaa_first}.[[noaa]][[tilling]][[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "El Chichón’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for El Chichón has **{n_all} confirmed eruptions**: {n_rc} dated by radiocarbon, one known from what residents told geologists, and the eruption of 1982, the only one in written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "March 28 to April 4, 1982",
+ "callouts": [
+  {
+   "number": "9",
+   "unit": "villages",
+   "text": "Destroyed by the flows and surges of hot ash on April 3 and 4, 1982.",
+   "source": "Source: Tilling, 2009.[[tilling]]"
+  },
+  {
+   "number": "3",
+   "unit": "weeks",
+   "text": "Time the eruption’s sulfur cloud took to circle the globe.",
+   "source": "Source: Krueger and others.[[krueger]]"
+  }
+ ],
+ "faq_h": "El Chichón questions and answers",
+ "faq": [
+  [
+   "When did El Chichón last erupt?",
+   "In 1982. The Smithsonian’s list runs the eruption from {last_start} to {last_end}; its three big explosive eruptions came between March 28 and April 4."
+  ],
+  [
+   "Is El Chichón erupting now?",
+   "No. It has had swarms of small earthquakes since June 2025, and its alert level was Yellow, Phase 1, in the newest official statement read for this page, dated December 18, 2025."
+  ],
+  [
+   "How many people died in the 1982 eruption?",
+   "About 2,000, by the figure most sources use. NOAA’s database lists {noaa_deaths}, and NASA writes of an estimated 1,900."
+  ],
+  [
+   "Where is El Chichón?",
+   "In the state of Chiapas in southeastern Mexico, about 43 miles (70 km) north-northwest of Tuxtla Gutiérrez."
+  ],
+  [
+   "Is Chichonal the same volcano as El Chichón?",
+   "Yes. Mexico’s civil protection agencies use both names."
+  ],
+  [
+   "How tall is El Chichón?",
+   "{summit_ft} ft ({summit_m} m) above sea level."
+  ],
+  [
+   "What type of volcano is El Chichón?",
+   "The Smithsonian lists it under lava domes. Its summit dome was destroyed in 1982 and replaced by a crater about 0.6 mile (1 km) wide that holds an acid lake."
+  ],
+  [
+   "How did El Chichón affect the climate?",
+   "It put about 7.5 million metric tons of sulfur dioxide into the stratosphere. The cloud circled the globe in three weeks, and estimates of the cooling of the Northern Hemisphere run from 0.4 to 0.9 °F (0.2 to 0.5 °C)."
+  ],
+  [
+   "Can you visit El Chichón’s crater?",
+   "Not under the newest release read for this page, of December 18, 2025: nobody is to enter the crater or go within 0.6 mile (1 km) of it."
+  ],
+  [
+   "Will El Chichón erupt again?",
+   "USGS scientists expect so: they wrote in 2012 that another eruption is certain. No source read for this page says when."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): El Chichón record, eruption list, bulletins and photo captions",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=341120"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "tilling",
+   "publisher": "Geofísica Internacional (UNAM), on Redalyc",
+   "title": "Tilling, R. I. (2009). El Chichón’s “surprise” eruption in 1982: Lessons for reducing volcano risk. Geofísica Internacional 48 (1), pages 3–19",
+   "url": "https://www.redalyc.org/pdf/568/56813222002.pdf"
+  },
+  {
+   "id": "usgsvw",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: A holiday visit to exotic El Chichón volcano (December 20, 2012)",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-a-holiday-visit-exotic-el-chichon-volcano"
+  },
+  {
+   "id": "nasa12",
+   "publisher": "NASA Earth Observatory",
+   "title": "Remembering El Chichon (March 29, 2012)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/remembering-el-chichon-77538/"
+  },
+  {
+   "id": "krueger",
+   "publisher": "NASA Goddard Space Flight Center, sulfur dioxide monitoring site",
+   "title": "Krueger, A., Krotkov, N. and Carn, S. El Chichon: The genesis of volcanic sulfur dioxide monitoring from space (paper, PDF)",
+   "url": "https://so2.gsfc.nasa.gov/pdfs/Krueger_ElChichon_SO2.pdf"
+  },
+  {
+   "id": "rampino",
+   "publisher": "NASA Goddard Institute for Space Studies, publications record",
+   "title": "Rampino, M. R. and Self, S. (1984). The atmospheric effects of El Chichon. Scientific American 250 (1), pages 48–57 (abstract)",
+   "url": "https://www.giss.nasa.gov/pubs/abs/ra05100g.html"
+  },
+  {
+   "id": "cnpc25",
+   "publisher": "Coordinación Nacional de Protección Civil, Gobierno de México",
+   "title": "CNPC realiza recorrido de trabajo en volcán El Chichonal, Chiapas, para fortalecer acciones de prevención (release of December 18, 2025, in Spanish)",
+   "url": "https://gabinetedeseguridad.gob.mx/contenido/7423/cnpc-realiza-recorrido-de-trabajo-en-volcan-el-chichonal-chiapas-para-fortalecer-acciones-de-prevencion"
+  },
+  {
+   "id": "pc065",
+   "publisher": "Secretaría de Protección Civil, Gobierno de Chiapas",
+   "title": "Comunicado 065: Protección Civil de Chiapas mantiene monitoreo constante en el Volcán Chichonal (August 19, 2025, in Spanish)",
+   "url": "https://www.proteccioncivil.chiapas.gob.mx/boletines/2025/065"
+  },
+  {
+   "id": "pc067",
+   "publisher": "Secretaría de Protección Civil, Gobierno de Chiapas",
+   "title": "Comunicado 067: Gobierno de Chiapas participa en el monitoreo del volcán El Chichón (August 26, 2025, in Spanish)",
+   "url": "https://proteccioncivil.chiapas.gob.mx/boletines/2025/067"
+  },
+  {
+   "id": "pcplan",
+   "publisher": "Secretaría de Protección Civil, Gobierno de Chiapas",
+   "title": "Plan Operativo Volcán El Chichón (Chichonal) (2025, PDF, in Spanish)",
+   "url": "https://proteccioncivil.chiapas.gob.mx/storage/slides/8af754a9-ca32-4613-b7fd-f4f3cf0ed09f.pdf"
+  },
+  {
+   "id": "pcprensa",
+   "publisher": "Secretaría de Protección Civil, Gobierno de Chiapas",
+   "title": "Comunicados de prensa (list of press releases, in Spanish)",
+   "url": "https://proteccioncivil.chiapas.gob.mx/prensa"
+  },
+  {
+   "id": "unam26",
+   "publisher": "Instituto de Geofísica, UNAM (GacetaGeo)",
+   "title": "Fortalecen el monitoreo de El Chichón (August 30, 2026, in Spanish)",
+   "url": "https://geogaceta.geofisica.unam.mx/index.php/2026/08/30/fortalecen-el-monitoreo-de-el-chichon/"
+  },
+  {
+   "id": "unamglobal",
+   "publisher": "UNAM Global, Universidad Nacional Autónoma de México",
+   "title": "¿Debemos preocuparnos? Lo que revela el monitoreo reciente del Chichón (December 5, 2025, in Spanish)",
+   "url": "https://unamglobal.unam.mx/global_revista/chichon-2025-monitoreo-actividad-volcanica-riesgo-erupcion/"
+  },
+  {
+   "id": "gaceta26",
+   "publisher": "Gaceta UNAM, Universidad Nacional Autónoma de México",
+   "title": "Monitorean actividad geoquímica y sísmica del volcán Chichón (January 15, 2026, in Spanish)",
+   "url": "https://www.gaceta.unam.mx/monitorean-actividad-geoquimica-y-sismica-del-volcan-chichon/"
+  },
+  {
+   "id": "geodesia25",
+   "publisher": "Instituto de Geofísica, UNAM (GacetaGeo)",
+   "title": "El Servicio de Geodesia Satelital responde a la actividad del volcán Chichón (August 19, 2025, in Spanish)",
+   "url": "https://geogaceta.geofisica.unam.mx/index.php/2025/08/19/servicio-de-geodesia-satelital-responde-a-la-reciente-actividad-del-volcan-chichon/"
+  },
+  {
+   "id": "tabasco26",
+   "publisher": "Instituto de Protección Civil del Estado de Tabasco",
+   "title": "Programa Especial de Protección Civil ante Riesgos Volcánicos: Volcán Chichonal 2026 (PDF, in Spanish)",
+   "url": "https://tabasco.gob.mx/sites/default/files/users/useripcettabasco/Programa%20Especial%20de%20Proteccio%CC%81n%20Civil-%20Volcan%20Chichonal%202026.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "**{noaa_deaths} deaths:** the sum of NOAA’s three entries for 1982.",
+  "**about 280 ft (85 m):** 1,235 m, the old dome in Tabasco’s programme, minus {summit_m} m, today’s summit on the Smithsonian’s list.",
+  "Feet, miles, square miles, cubic miles, US tons, gallons and °F are converted from the metric figures in the sources and rounded, except where a source prints both.",
+  "Times of day are local time, as the Smithsonian’s bulletins give them."
+ ],
+ "expect": {
+  "last_start": "March 28",
+  "last_end": "September 11, 1982",
+  "summit_m": "1,150",
+  "summit_ft": "3,773",
+  "n_all": "13",
+  "n_since": "6",
+  "n_vei5": "4",
+  "max_vei": "5",
+  "n_rc": "11",
+  "n_written": "1",
+  "oldest": "6510 BCE",
+  "noaa_n_word": "four",
+  "noaa_deaths": "1,913",
+  "worst_deaths": "1,879",
+  "worst_date": "March 29, 1982",
+  "noaa_first": "1375"
+ },
+ "observatory_read": "2026-11-18",
+ "since_check": "**Alert level Yellow, Phase 1, when last stated.** Mexico’s civil protection agency said on December 18, 2025, that the volcano’s scientific committee had kept the level there; no newer statement of the level could be read for this page.[[cnpc25]] The newest report read on {read_date}, from UNAM’s Institute of Geophysics and dated August 30, 2026, describes water and gas sampling and a hydrophone placed in the crater lake. The only eruption it mentions is that of 1982.[[unam26]]",
+ "reviewed": null
+}

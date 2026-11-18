@@ -402,7 +402,11 @@ function marked(text: string, modifier: string | null): string {
 
 /** How the Smithsonian's record gives an eruption's start. */
 export function startLabel(e: Eruption): string {
-  if (e.sm && e.sd) return marked(dateText([e.sy, e.sm, e.sd], precisionOf(e.sdunc)), e.sdmod);
+  if (e.sm && e.sd) {
+    const precision = precisionOf(e.sdunc);
+    // when only the year is known, a question mark on the year is kept (El Chichón’s 1850, Kilauea’s 1820, Ambae’s 1870)
+    return marked(dateText([e.sy, e.sm, e.sd], precision), e.sdmod ?? (precision === 'year' ? e.smod : null));
+  }
   // a start the record gives to the month but not the day ("May 1554")
   if (e.sm && e.sy > 0) return marked(dateText([e.sy, e.sm, 1], 'month'), e.smod);
   const era = e.sy < 0 ? `${-e.sy} BCE` : `${e.sy} CE`;
@@ -430,7 +434,8 @@ export function endLabel(e: Eruption): string {
 export const METHOD_LABEL: Record<string, string> = {
   'Correlation: Magnetism': 'rock magnetism',
   'Correlation: Tephrochronology': 'ash layers',
-  'Correlation: Anthropology': 'archaeology',
+  // the Smithsonian files both dug-up remains (Arenal) and what residents remembered (El Chichón) under this heading
+  'Correlation: Anthropology': 'archaeology or oral accounts',
   'Isotopic: 14C (uncalibrated)': 'radiocarbon',
   'Isotopic: 14C (calibrated)': 'radiocarbon',
   'Isotopic: Ar/Ar': 'argon dating',

@@ -503,7 +503,8 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('noaa_last', noaa[noaa.length - 1].y);
     set('noaa_fatal_count', fatal.length);
     set('noaa_fatal_word', cap(word(fatal.length)));
-    set('noaa_deaths', fatal.reduce((sum, e) => sum + e.deaths, 0));
+    // with a thousands separator: a bare 1913 reads as a year
+    set('noaa_deaths', fmt(fatal.reduce((sum, e) => sum + e.deaths, 0)));
     set('noaa_tsu', tsu.length);
     if (tsu.length) set('last_tsu_date', noaaDate(tsu[tsu.length - 1], true));
     if (fatal.length) {
