@@ -1,0 +1,316 @@
+{
+ "slug": "galeras",
+ "volcano_number": 351080,
+ "name": "Galeras",
+ "country": "Colombia",
+ "title": "Galeras Volcano: 1993 Eruption, Last Eruption, Alert Now",
+ "description": "Galeras, on the edge of the city of Pasto in Colombia, last erupted in {last_year}. Its alert state now, the 1993 explosion that killed nine, and its full record.",
+ "h1": "Galeras Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1535
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting: yellow alert.** The Colombian Geological Survey’s bulletin for November 10 to 16, 2026, issued on November 17 and read on {read_date}, keeps Galeras at Alerta Amarilla, the second of its four alert states.[[b1116]][[alert]] It reports more small earthquakes than the week before, the largest of magnitude 1.4, and low pulses of white gas from two fumarole fields and the main crater.[[b1116]]",
+ "lede": "Galeras stands on the edge of Pasto, a city in southwest Colombia, and it is one of the country’s most frequently active volcanoes. In January 1993 a small explosion in its crater killed six volcanologists and three other people during a scientific workshop. Its last eruption ended in January {last_year}. Below: its state now, the last eruption, the years when thousands were told to leave, what happened in 1993, the hazards, and every eruption on record.",
+ "answer": "**Galeras last erupted from {last_start} to {last_end}**, with ash emissions from its summit crater.[[gvp]] It is a volcanic complex in southwest Colombia, **{summit_ft} ft ({summit_m} m)** high, about 6 miles (9 km) west of the city of Pasto.[[gvp]][[sgc]] On November 17, 2026 Colombia’s Geological Survey kept it at **Alerta Amarilla** (yellow), the second of its four alert states.[[b1116]][[alert]]",
+ "timeline": {
+  "from": 1520,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1580.93,
+    "label": "1580"
+   },
+   {
+    "year": 1865.75,
+    "label": "1865"
+   },
+   {
+    "year": 1936.11,
+    "label": "1936"
+   },
+   {
+    "year": 1993.04,
+    "label": "1993"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike or raised stretch is one entry on the list; several of the older ones are known only by their years. The long raised stretch is a single entry, 1670 to 1736."
+ },
+ "section": {
+  "kind": "land",
+  "note": "nine died here in 1993",
+  "crater": "main crater",
+  "caption": "Galeras cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] The real volcano is an older mountain broken open to the west, with the active cone inside the gap and slightly lower than its rim; that shape is not drawn.[[gvp]]"
+ },
+ "map_zoom": 10,
+ "map_label": "left",
+ "table": {
+  "rows": 11,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Galeras?",
+   "map": true,
+   "paras": [
+    "Galeras is in the department of Nariño in southwest [Colombia](/volcanoes-in-colombia), at {coords}. It is about 6 miles (9 km) west of San Juan de Pasto, the department’s capital.[[sgc]][[gvp]]",
+    "A road of about 14 miles (23 km) climbs from Pasto to the summit. A ring road of about 73 miles (117.5 km) circles the volcano and links Pasto with Catambuco, Yacuanquer, Consacá, Sandoná, La Florida, Nariño and Genoy.[[sgc]]",
+    "Galeras is one of {n_country} volcanoes in Colombia on the Smithsonian’s Holocene list; [Nevado del Ruiz](/volcano/ruiz-nevado-del) is another.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Galeras erupting now?",
+   "paras": [
+    "No. The last eruption of Galeras on the Smithsonian’s list ended {last_end}, and the Colombian Geological Survey’s bulletin of November 17, 2026 reports no eruption.[[gvp]][[b1116]]",
+    "That bulletin covers the week of November 10 to 16, 2026 and keeps the volcano at Alerta Amarilla. It counted considerably more earthquakes than the week before, though they released less energy. Most came from rock fracturing, within 5 miles (8 km) of the volcano and less than about 6 miles (10 km) below the summit. The largest had a magnitude of 1.4.[[b1116]]",
+    "Low pulses of white gas rose from the fumarole fields El Paisita, on the north side, and Las Chavas, on the west, and from the main crater. The other measurements were stable.[[b1116]]",
+    "Alerta Amarilla is the second of the survey’s four alert states: Verde, Amarilla, Naranja and Roja. The survey defines it as an active volcano with changes in the base level of the monitored parameters. In this state it allows for small ash emissions, small explosions in the crater and earthquakes that people feel.[[alert]] In May 2026 nine of the 25 volcanic structures the survey monitors were at Amarilla and none was higher.[[sgc26]]",
+    "Yellow is nothing new here. A survey communiqué of June 13, 2018 said the level at Galeras had not changed in about seven years; it was written during a swarm of nearly 800 earthquakes on faults northeast of the volcano.[[sgc18]] The alert scheme itself was first used at Galeras, in 2005, and across Colombia from 2007. Its present names date from September 2023.[[sgc26]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Galeras last erupt?",
+   "table": "periods",
+   "paras": [
+    "Galeras last erupted from {last_start} to {last_end}, on the Smithsonian’s list: an eruption of {last_length} at the summit crater, rated 2 on the Volcanic Explosivity Index (VEI).[[gvp]] The list gives the end date to within a day.",
+    "Ash emissions began on May 13, 2012. In June 2012 ash fell on Sandoná, Samaniego, Mapachico and Genoy, towns and villages around the volcano.[[gvp]]",
+    "The last ash emission was on January 30, 2014. From February 2014 through 2017 the Smithsonian’s reports describe only steam and gas.[[gvp]]"
+   ]
+  },
+  {
+   "id": "evac",
+   "h": "What happened in the eruptions of 2004 to 2010?",
+   "paras": [
+    "From 2004 to 2010 Galeras erupted again and again. Three of the entries on the Smithsonian’s list for those years, 2004–2005, 2007–2008 and 2008–2010, are rated VEI 3, as high as any in the volcano’s record; the list marks the middle one’s rating as uncertain.[[gvp]]",
+    "The explosions sent ash high. On January 17, 2008 ash rose to about 36,000 ft (11 km) above sea level, and on January 2, 2010 to about 39,000 ft (12 km).[[gvp]]",
+    "After the larger explosions the alert was raised to Level I, then the highest, which meant an eruption imminent or under way, and people near the volcano were told to leave. Most stayed. The Smithsonian’s weekly reports, drawing on news accounts, give these numbers: on February 14, 2009 about 8,000 people were ordered out and few went; on November 20, 2009 about 9,000 were, and 900 to 1,000 went to shelters; on August 25, 2010 about 7,000 were asked to go, and again few left.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1993",
+   "h": "What happened at Galeras in 1993?",
+   "aside": "callouts",
+   "paras": [
+    "At about 1:40 p.m. on Thursday, January 14, 1993, a small explosion in the crater of Galeras killed nine people. Six were volcanologists at an international workshop in Pasto: four from Colombia, one from Great Britain and one from Russia. The other three were not part of the workshop.[[hvo]]",
+    "The workshop had brought more than 90 scientists to Pasto. Its aims were to improve the monitoring of Galeras and to train volcanologists from Central and South America. A group of 33 participants was on the crater rim and inside the crater that day, most of them gas geochemists who were comparing ways of sampling and analyzing volcanic gas. Three American scientists and one from Ecuador were injured, one of the Americans seriously.[[hvo]]",
+    "NOAA’s database records {worst_deaths} deaths and notes that the six volcanologists were in the inner crater and on its rim.[[noaa]] On the Smithsonian’s list the eruption that began that day ran until June 7, 1993, at VEI 2.[[gvp]]",
+    "The workshop was held at Galeras because it was a Decade Volcano, one of those the International Association of Volcanology and Chemistry of the Earth’s Interior had singled out because of the risk they pose. Mount Rainier and [Mauna Loa](/volcano/mauna-loa) were on the same list. More than 400,000 people lived on the flanks of Galeras, by the count the USGS gave that week.[[hvo]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Galeras dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current alerts, follow the Servicio Geológico Colombiano and Colombia’s disaster agency, the UNGRD.[[b1116]]",
+   "paras": [
+    "Yes. It is an explosive volcano with a city on its flank. About 121,000 people live within 6 miles (10 km) of it and about 631,000 within 19 miles (30 km), by the figures on the Smithsonian’s page.[[gvp]]",
+    "The Geological Survey’s hazard map, updated to comply with a 2015 ruling of Colombia’s Constitutional Court, puts the upper volcano and the stream valleys that drain it in the high-hazard zone. There, pyroclastic flows, lava, mudflows and thick ash fall are all possible, and blocks up to a meter across could land within about 1.2 miles (2 km) of the crater.[[hazmap]]",
+    "Mudflows could run about 23 miles (37 km) to the Guáitara River on the west and northwest, and about 22 miles (35 km) along tributaries of the Pasto River on the north and northeast. To the southeast, the map has them reaching the urban area of Pasto down the Mijitayo River.[[hazmap]]",
+    "Ash would go mostly west-northwest, with the prevailing wind: more than about 4 inches (10 cm) of it out to about 7 miles (11 km), and a thinner layer, under half an inch (1 cm), as far as about 62 miles (100 km). The map draws the limits of its zones as dotted lines and says they are not absolute.[[hazmap]]",
+    "Pasto has been spared the flows so far. A study of the last 50,000 years found that pyroclastic flows in historic time reached as far as about 6 miles (10 km) from the summit on the north and east flanks, and that none had left a recognizable deposit in the city in more than 40,000 years. The same study warns that the volcano’s rock, long altered by hot fluids, makes it more liable to collapse and to explode than a volcano built of lava would otherwise be.[[banks]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Galeras?",
+   "paras": [
+    "Galeras is {summit_ft} ft ({summit_m} m) above sea level, on the Smithsonian’s list and on the Geological Survey’s page for the volcano.[[gvp]][[sgc]] The survey’s hazard map gives 4,270 m.[[hazmap]]",
+    "It rises about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]",
+    "The cone that erupts is not the highest point. It stands inside the broken-open older volcano and is slightly lower than the rim around it.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Galeras?",
+   "paras": [
+    "The Smithsonian lists Galeras as a complex volcano whose main rock is {rock}.[[gvp]] The Geological Survey calls it the youngest and presently active center of the Galeras Volcanic Complex, which has been active for more than a million years.[[sgc]][[gvp]]",
+    "Its shape comes from collapse. Rock weakened by hot fluids gave way at least three times, sending avalanches of debris to the west and leaving a wide amphitheater open on that side. The cone that erupts today grew inside it and is about 4,500 years old.[[gvp]][[sgc]]",
+    "In the last 500 years most of its eruptions have been of the Vulcanian kind: explosions with columns of gas and ash less than about 6 miles (10 km) high, small lava flows, and pyroclastic flows that reached up to about 6 miles (9.5 km) from the crater.[[sgc]] The survey counts six main eruptive episodes in the cone’s life: about 4,500, 4,000, 2,900, 2,300 and 1,100 years ago, and the eruption of 1866, which the Smithsonian’s list has running from October 1865 to 1870.[[sgc]][[gvp]]",
+    "The Quillacinga people called the mountain Urcunina, “mountain of fire.” The Spanish named it Galeras because its outline reminded them of the galleys of the Mediterranean.[[sgc]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Galeras erupt?",
+   "paras": [
+    "The Smithsonian’s list has {n_all} confirmed eruptions of Galeras, the oldest dated to about {oldest}.[[gvp]] Written reports, which begin in 1535, account for {n_written} of them. The other six are dated from deposits: {n_rc_word} by radiocarbon and {n_tephra_word} by matching ash layers.[[gvp]]",
+    "Of the {n_all}, {n_vei3} are rated VEI 3 and none is rated higher; the list marks one of those ratings as uncertain.[[gvp]] It also carries {n_unconfirmed_word} eruptions it does not count as confirmed, the latest in 2011.",
+    "The eruptions come in clusters. On the list, more than two decades, from {longest_gap_from_year} to {longest_gap_to_year}, passed without a confirmed eruption, and the one that followed, in the 1970s and early 1980s, was small. From 1989 to {last_year}, the table of recent eruptions above shows one eruption after another, with pauses of six months to nearly seven years between them.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Galeras’ full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Galeras has {n_all} confirmed eruptions: {n_written} from written reports and six dated from deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "January 14, 1993",
+ "callouts": [
+  {
+   "number": "9",
+   "unit": "dead",
+   "text": "Six volcanologists and three other people, killed by an explosion in the crater at about 1:40 p.m.",
+   "source": "Sources: USGS Hawaiian Volcano Observatory, 1993;[[hvo]] NOAA.[[noaa]]"
+  },
+  {
+   "number": "33",
+   "unit": "scientists",
+   "text": "The workshop group on the crater rim and inside the crater that day.",
+   "source": "Source: USGS Hawaiian Volcano Observatory, 1993.[[hvo]]"
+  }
+ ],
+ "faq_h": "Galeras questions and answers",
+ "faq": [
+  [
+   "Is Galeras erupting now?",
+   "No. Its last eruption on the Smithsonian’s list ended {last_end}. On November 17, 2026 the Colombian Geological Survey kept the volcano at Alerta Amarilla, the second of four alert states, and reported small earthquakes and gas, no eruption."
+  ],
+  [
+   "When did Galeras last erupt?",
+   "From {last_start} to {last_end}, on the Smithsonian’s list. The eruption sent ash from the summit crater and is rated VEI 2."
+  ],
+  [
+   "How many people died at Galeras in 1993?",
+   "Nine. An explosion in the crater on January 14, 1993 killed six volcanologists attending a workshop in Pasto and three other people. Three American scientists and one from Ecuador were injured."
+  ],
+  [
+   "Where is Galeras?",
+   "In the department of Nariño in southwest Colombia, about 6 miles (9 km) west of the city of Pasto, at {coords}."
+  ],
+  [
+   "How tall is Galeras?",
+   "{summit_ft} ft ({summit_m} m) above sea level, about {rise_ft} ft ({rise_m} m) above the land around it."
+  ],
+  [
+   "What does Alerta Amarilla mean?",
+   "It is the second of four alert states used by the Colombian Geological Survey (Verde, Amarilla, Naranja, Roja). It means an active volcano with changes in the base level of the monitored parameters. Small ash emissions, small explosions in the crater and felt earthquakes are possible in this state."
+  ],
+  [
+   "How close is Galeras to Pasto?",
+   "Galeras is about 6 miles (9 km) west of San Juan de Pasto, and the Geological Survey’s hazard map has mudflows reaching the city’s urban area down the Mijitayo River."
+  ],
+  [
+   "Why is it called Galeras?",
+   "The Spanish named it for its outline, which reminded them of the galleys of the Mediterranean. The Quillacinga people called it Urcunina, “mountain of fire.”"
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Galeras",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=351080"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "b1116",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Boletín semanal de actividad del volcán Galeras del 10 al 16 de noviembre de 2026",
+   "url": "https://www2.sgc.gov.co/Noticias/boletinesDocumentos/Boletin_semanal_de_actividad_del_volcan_galeras_del_10_al_16_de_noviembre_de_2026.pdf"
+  },
+  {
+   "id": "sgc",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Volcán Galeras: generalidades",
+   "url": "https://www2.sgc.gov.co/sgc/volcanes/VolcanGaleras/Paginas/generalidades-volcan-galeras.aspx"
+  },
+  {
+   "id": "alert",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Esquema estados de alerta por actividad volcánica en Colombia",
+   "url": "https://www2.sgc.gov.co/Paginas/estados-de-alerta-volcanes.aspx"
+  },
+  {
+   "id": "sgc26",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "¿Cuántos volcanes se encuentran en alerta Amarilla en Colombia? (May 2026)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Cuantos-volcanes-se-encuentran-en-alerta-Amarilla-en-Colombia.aspx"
+  },
+  {
+   "id": "sgc18",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Estado actual de actividad del volcán Galeras (June 13, 2018)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Estado-actual-de-actividad-Volc%C3%A1n-Galeras.aspx"
+  },
+  {
+   "id": "hazmap",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Mapa de amenaza volcánica del volcán Galeras (2015 update)",
+   "url": "https://www2.sgc.gov.co/sgc/volcanes/VolcanGaleras/Paginas/Mapa-de-amenaza.aspx"
+  },
+  {
+   "id": "hvo",
+   "publisher": "USGS Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: Galeras, Mauna Loa, Decade Volcanoes (January 15, 1993)",
+   "url": "https://www.usgs.gov/news/volcano-watch-galeras-mauna-loa-decade-volcanoes"
+  },
+  {
+   "id": "banks",
+   "publisher": "USGS Publications Warehouse",
+   "title": "Banks, Calvache and Williams (1997), 14C ages and activity for the past 50 ka at Volcán Galeras, Colombia. Journal of Volcanology and Geothermal Research 77",
+   "url": "https://pubs.usgs.gov/publication/70019939"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "Global Significant Volcanic Eruptions Database",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and inches are converted from the metric figures in the sources and rounded.",
+  "The population figures are the Smithsonian’s, rounded to the nearest thousand."
+ ],
+ "expect": {
+  "last_start": "May 13, 2012",
+  "last_end": "about January 30, 2014",
+  "last_year": "2014",
+  "summit_m": "4,276",
+  "n_vei3": "12",
+  "max_vei": "3",
+  "n_max_vei_firm": "11",
+  "n_all": "36",
+  "n_written": "30",
+  "n_dated": "6",
+  "n_unconfirmed_word": "six",
+  "longest_gap_from_year": "1950",
+  "longest_gap_to_year": "1974",
+  "prev_end": "August 25, 2010",
+  "last_length": "about 21 months",
+  "noaa_n": "1",
+  "worst_deaths": "9",
+  "worst_date": "January 14, 1993"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}
