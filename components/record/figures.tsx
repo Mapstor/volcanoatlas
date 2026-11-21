@@ -774,13 +774,15 @@ function CalderaDrawing({ data, compact }: { data: RecordData; compact: boolean 
  * A caldera flooded by the sea, cut across from one wall to the other: the old volcano's ring of cliffs, the water
  * inside and the young island in the middle. Four heights are to one scale: the volcano's highest point on the rim,
  * the top of the cliffs, the island and the deepest water. Widths and shapes are schematic. Only the water moves:
- * the drawing has no vent, so it is for a volcano that the Smithsonian does not list as erupting.
+ * the drawing has no vent, so it is for a volcano that the Smithsonian does not list as erupting. With `lagoon.edge`
+ * the young cone stands on the hollow's far edge and has a vent: see LagoonEdgeDrawing.
  */
 function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
   const { profile, stats } = data;
   const sec = profile.section;
   const lag = sec.lagoon;
   if (!lag) throw new Error(`record profile ${profile.slug}: a lagoon drawing needs section.lagoon`);
+  if (lag.edge) return <LagoonEdgeDrawing data={data} compact={compact} />;
   if (stats.current) throw new Error(`record profile ${profile.slug}: the lagoon drawing has no vent to show an eruption in progress`);
   const summit = data.summit?.m ?? lag.wall.m;
   const summitFt = data.summit?.ft ?? roundTo(feet(lag.wall.m), 10);
@@ -892,6 +894,180 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
               strokeLinecap="round"
             />
             <text className="va-hand" x={xShore + 14} y={islandY + 13} fontSize={23} fill={PAL.pencil}>{words}</text>
+          </>
+        );
+      })()}
+    </svg>
+  );
+}
+
+/**
+ * A flooded caldera whose young cone stands on the far edge of the hollow instead of in its middle (Krakatau): the
+ * tall remnant of the old island on one side, the hollow the collapse left in the sea bed, and the young cone built
+ * on the hollow's far wall. Three levels are to one scale: the remnant's top, the cone's top (the height the page
+ * prints for the volcano) and the deepest point of the hollow. Widths, slopes and the sea floor beyond the cone are
+ * schematic. The cone has a vent: lava bursts from it only while the Smithsonian lists the eruption as continuing.
+ * An earlier, higher top of the cone is a dashed red outline, to the same scale.
+ */
+function LagoonEdgeDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
+  const { profile, stats } = data;
+  const sec = profile.section;
+  const lag = sec.lagoon;
+  if (!lag) throw new Error(`record profile ${profile.slug}: a lagoon drawing needs section.lagoon`);
+  if (data.summit && data.summit.m !== lag.island.m) {
+    throw new Error(`record profile ${profile.slug}: with lagoon.edge the young cone is the volcano's summit, so lagoon.island.m must be ${data.summit.m}`);
+  }
+  const former = sec.former;
+  if (former && former.m <= lag.island.m) throw new Error(`record profile ${profile.slug}: section.former must be higher than the cone`);
+  const active = Boolean(stats.current);
+  const ft = (m: number) => fmt(roundTo(feet(m), 10));
+  const islandFt = data.summit ? fmt(data.summit.ft) : ft(lag.island.m);
+  const w = compact ? 340 : 560;
+  const sx = w / 560;
+  const fs = compact ? 12.5 : 14;
+  const bold = fs + (compact ? 1.5 : 2);
+  const line = fs + 3;
+  const top = compact ? 52 : 62;
+  const k = (compact ? 250 : 300) / (lag.wall.m + lag.depth.m);
+  const seaY = top + lag.wall.m * k;
+  const Y = (m: number) => seaY - m * k;
+  const floorY = Y(-lag.depth.m);
+  const h = Math.round(floorY + (compact ? 26 : 32));
+  const peakY = Y(lag.wall.m);
+  const islandY = Y(lag.island.m);
+  // the sea floor beyond the cone is drawn shallow; no source gives its depth, so it carries no figure
+  const shelfY = seaY + (floorY - seaY) * 0.3;
+  // schematic plan, left to right: outer slope of the remnant, its top, the cliff, the hollow, the hollow's far
+  // wall with the young cone on it, the shallow sea beyond
+  const xPeak = 78 * sx;
+  const xShore = 112 * sx;
+  const xFloor0 = 144 * sx;
+  const xK0 = 322 * sx;
+  const xWall0 = 372 * sx;
+  const xWall1 = 396 * sx;
+  const xT0 = 429 * sx;
+  const xT1 = 447 * sx;
+  const xK1 = 524 * sx;
+  const cx = (xT0 + xT1) / 2;
+  const ventY = islandY + (compact ? 5 : 6);
+  const ground =
+    `M0 ${f(Y(lag.wall.m * 0.55))} L${f(xPeak)} ${f(peakY)} L${f(xShore)} ${f(seaY)} L${f(xFloor0)} ${f(floorY)} ` +
+    `L${f(xWall0)} ${f(floorY)} L${f(xWall1)} ${f(shelfY)} L${w} ${f(shelfY)}`;
+  // the young cone: a long apron down into the hollow, a shorter flank on the shallow side
+  const hk = floorY - islandY;
+  const left: Curve = [
+    [xK0, floorY],
+    [xK0 + (xT0 - xK0) * 0.45, floorY - hk * 0.12],
+    [xT0 - (xT0 - xK0) * 0.28, islandY + hk * 0.2],
+    [xT0, islandY],
+  ];
+  const hr = shelfY - islandY;
+  const right: Curve = [
+    [xT1, islandY],
+    [xT1 + (xK1 - xT1) * 0.3, islandY + hr * 0.3],
+    [xK1 - (xK1 - xT1) * 0.4, shelfY - hr * 0.08],
+    [xK1, shelfY],
+  ];
+  const coneTop = `M${f(left[0][0])} ${f(left[0][1])} ${cubic(left)} L${f(cx)} ${f(ventY)} L${f(right[0][0])} ${f(right[0][1])} ${cubic(right)}`;
+  const cone = `${coneTop} L${f(xWall1)} ${f(shelfY)} L${f(xWall0)} ${f(floorY)} Z`;
+  // an earlier, higher top: the flanks carried on up from half the cone's height above the water
+  const formerY = former ? Y(former.m) : null;
+  const shoulderY = islandY + (seaY - islandY) * 0.5;
+  const formerPath =
+    former && formerY !== null
+      ? `M${f(curveX(left, shoulderY))} ${f(shoulderY)} L${f(cx - 5)} ${f(formerY)} L${f(cx + 5)} ${f(formerY)} L${f(curveX(right, shoulderY))} ${f(shoulderY)}`
+      : null;
+  // the depth bracket stands in the hollow, its label beside it
+  const xb = xFloor0 + (compact ? 9 : 16);
+  const midY = (seaY + floorY) / 2;
+  // the cone's name stands in the sky beside the vent, clear of the lava burst and of the dashed outline
+  const xName = cx - (compact ? 40 : 44);
+  const label =
+    `Section drawing of ${profile.name}: ${lag.wall.label} rises ${fmt(lag.wall.m)} m above the sea beside a hollow in the sea bed ${fmt(lag.depth.m)} m deep. ` +
+    `${lag.island.label}, ${fmt(lag.island.m)} m high, stands on the far edge of the hollow.` +
+    (former ? ` A dashed outline shows ${former.label} at ${fmt(former.m)} m.` : '');
+
+  return (
+    <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
+      <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
+      <rect x={0} y={seaY} width={w} height={h - seaY} fill={PAL.sea} />
+      <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
+      <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
+      <line x1={0} y1={seaY} x2={w} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+      {/* the old volcano under and around the water, then the young cone on the hollow's far wall */}
+      <path d={`${ground} V${h} H0 Z`} fill={PAL.crust} />
+      <path d={cone} fill={PAL.rock} />
+      {active && (
+        <path
+          d={`M${f(cx + 5)} ${h} C${f(cx + 7)} ${f(floorY)} ${f(cx - 4)} ${f(seaY)} ${f(cx)} ${f(ventY + 2)}`}
+          fill="none"
+          stroke={PAL.lava}
+          strokeWidth={compact ? 5 : 6}
+          strokeLinecap="round"
+        />
+      )}
+      <path d={ground} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      <path d={coneTop} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      {active && (
+        <>
+          {[0, 1, 2, 3].map((i) => (
+            <circle key={i} className={`va-bub va-bub${i}`} cx={cx} cy={ventY + 8} r={3.4 + (i % 2) * 1.2} fill={PAL.paper} stroke={PAL.ink} strokeWidth={0.9} />
+          ))}
+          <g className="va-burst" fill="none" stroke={PAL.lava} strokeWidth={2.2} strokeLinecap="round">
+            <path d={`M${f(cx)} ${f(ventY)} q-12 -30 -30 -16`} />
+            <path d={`M${f(cx)} ${f(ventY)} q-4 -40 -14 -34`} />
+            <path d={`M${f(cx)} ${f(ventY)} q4 -44 12 -34`} />
+            <path d={`M${f(cx)} ${f(ventY)} q14 -30 26 -14`} />
+          </g>
+        </>
+      )}
+      {formerPath && <path className="va-former" d={formerPath} fill="none" stroke={PAL.pencil} strokeWidth={1.4} strokeDasharray="6 5" strokeLinejoin="round" />}
+
+      {/* the remnant of the old island */}
+      <text x={compact ? 6 : 8} y={peakY - 9 - line} fontSize={bold} fontWeight={700} fill={PAL.ink}>{compact ? (lag.wall.short ?? lag.wall.label) : lag.wall.label}</text>
+      <text x={compact ? 6 : 8} y={peakY - 8} fontSize={fs} fill={PAL.ink}>{compact ? `${ft(lag.wall.m)} ft` : `${ft(lag.wall.m)} ft (${fmt(lag.wall.m)} m)`}</text>
+
+      {/* the young cone, the height the page prints for the volcano */}
+      <text x={xName} y={islandY - 9 - line} textAnchor="end" fontSize={bold} fontWeight={700} fill={PAL.ink}>{compact ? (lag.island.short ?? lag.island.label) : lag.island.label}</text>
+      <text x={xName} y={islandY - 8} textAnchor="end" fontSize={fs} fill={PAL.ink}>{compact ? `${islandFt} ft` : `${islandFt} ft (${fmt(lag.island.m)} m)`}</text>
+
+      {/* the hollow */}
+      <path d={`M${f(xb)} ${f(seaY)} V${f(floorY)} M${f(xb - 5)} ${f(floorY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      <text x={xb + 9} y={midY - line + 4} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(lag.depth.m)} ft</text>
+      <text x={xb + 9} y={midY + 5} fontSize={fs} fill={PAL.ink}>({fmt(lag.depth.m)} m)</text>
+      <text x={xb + 9} y={midY + 5 + line} fontSize={fs - 0.5} fill={PAL.ink}>{compact ? (lag.depth.short ?? lag.depth.label) : lag.depth.label}</text>
+
+      {!compact && <text className="va-it" x={xShore + 16} y={seaY - 7} fontSize={fs} fill={PAL.ink}>sea level</text>}
+      {!compact && sec.note && (() => {
+        // the pencil note stands beside the dashed top when there is one, otherwise over the hollow; its arrow ends
+        // on the dashed top or on the cone's shoulder
+        const words = fill(sec.note, data.ctx);
+        if (formerY !== null) {
+          const ny = formerY - 5;
+          return (
+            <>
+              <path
+                d={`M${f(cx - 36)} ${f(ny - 9)} C${f(cx - 26)} ${f(ny - 16)} ${f(cx - 15)} ${f(ny - 12)} ${f(cx - 8)} ${f(formerY - 4)}`}
+                fill="none"
+                stroke={PAL.pencil}
+                strokeWidth={1.4}
+                strokeLinecap="round"
+              />
+              <text className="va-hand" x={cx - 42} y={ny} textAnchor="end" fontSize={23} fill={PAL.pencil}>{words}</text>
+            </>
+          );
+        }
+        const from = xShore + 16 + words.length * 8.6 + 10;
+        return (
+          <>
+            <path
+              d={`M${f(from)} ${f(islandY - 48)} C${f(from + 16)} ${f(islandY - 52)} ${f(xT0 - 40)} ${f(islandY - 20)} ${f(xT0 - 14)} ${f(islandY + 12)}`}
+              fill="none"
+              stroke={PAL.pencil}
+              strokeWidth={1.4}
+              strokeLinecap="round"
+            />
+            <text className="va-hand" x={xShore + 16} y={islandY - 44} fontSize={23} fill={PAL.pencil}>{words}</text>
           </>
         );
       })()}

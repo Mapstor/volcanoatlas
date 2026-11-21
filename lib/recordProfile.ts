@@ -126,8 +126,12 @@ export interface RecordProfile {
      * the top of the cliffs above the water, `depth` the deepest water inside the caldera (a positive number) and
      * `island` the top of the young island in the middle. The volcano's summit is drawn as the high point of the rim.
      * Feet are converted and rounded to 10; the text takes the same figures from {wall_ft}, {depth_ft}, {island_ft}.
+     * `edge: true` is for a caldera whose young cone stands on the far edge of the hollow (Krakatau): `wall` is then
+     * the top of the one remnant of the old island, `island` the young cone and at the same time the height the page
+     * prints for the volcano (the build stops when the two differ, and {island_ft} is the summit's feet), and
+     * `former` (below) draws an earlier, higher top of the cone as a dashed outline. This layout has a vent.
      */
-    lagoon?: { wall: LagoonLevel; depth: LagoonLevel; island: LagoonLevel };
+    lagoon?: { wall: LagoonLevel; depth: LagoonLevel; island: LagoonLevel; edge?: boolean };
     /**
      * Caldera: heights above sea level in meters with the feet the source prints, each with the words drawn beside
      * it. `fills` are the tops of the lava layers that refilled the pit, oldest first; the last one is the surface.
@@ -152,7 +156,7 @@ export interface RecordProfile {
     root_m?: number;
     caldera?: string;
     caldera_depth_m?: number;
-    /** Land: an earlier, higher summit drawn as a dashed outline (meters and feet as the source prints them, and a label). */
+    /** Land, and a lagoon with `edge`: an earlier, higher summit drawn as a dashed outline (meters and feet as the source prints them, and a label). */
     former?: { m: number; ft: number; label: string };
     /** Land: depth of the summit crater in meters, drawn to scale; the name written beside it. */
     crater_depth_m?: number;
@@ -450,6 +454,8 @@ export function buildRecordData(profile: RecordProfile): RecordData {
       set(`${key}_m`, fmt(level.m));
       set(`${key}_ft`, fmt(roundTo(feet(level.m), 10)));
     }
+    // on the hollow's edge the young cone is the summit: one figure for both, in the feet the page prints
+    if (lagoon.edge && summit) set('island_ft', fmt(summit.ft));
   }
   if (profile.section.former) {
     set('former_m', fmt(profile.section.former.m));
