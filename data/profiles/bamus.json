@@ -1,0 +1,255 @@
+{
+ "slug": "bamus",
+ "volcano_number": 252110,
+ "name": "Bamus",
+ "country": "Papua New Guinea",
+ "title": "Bamus Volcano (South Son): Last Eruption, Height & Location",
+ "description": "Bamus, the “South Son” beside Ulawun on New Britain, last erupted about {last_year}. What was seen there in 2006, the 1990 earthquakes, its height and its record.",
+ "h1": "Bamus Volcano",
+ "facts": {
+  "ground": "etopo"
+ },
+ "big": {
+  "line": "Last eruption on record: about {last_year}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "give or take {last_margin} years",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting.** The Smithsonian’s list, updated to November 15, 2026, has no eruption of Bamus since about {last_year}, and its newest report on the volcano describes July 12, 2006: white vapor from the summit, no ash.[[gvp]] No alert level and no statement of the Rabaul Volcano Observatory about Bamus were found when the sources were read, on {read_date}.",
+ "lede": "Bamus is the quiet neighbor of Ulawun, one of the most active volcanoes on the island of New Britain in Papua New Guinea. The two are the highest volcanoes of the Bismarck arc, and an old story of the Nakanai people makes Bamus the son of Ulawun. Its last eruption came about {quiet_number} years ago. Below: where it is, what has been reported since, when it last erupted, how it got its name, its height, and every eruption on record.",
+ "answer": "**Bamus last erupted about {last_year}**, give or take {last_margin} years, on the Smithsonian’s list.[[gvp]] It is a **stratovolcano** on New Britain in Papua New Guinea, **{summit_ft} ft ({summit_m} m)** high, southwest of the more active Ulawun.[[gvp]] The newest report on it dates from July 2006, when people watched white vapor rise from the summit for about an hour and a half; no ash fell.[[gvp]]",
+ "timeline": {
+  "from": -1000,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": -349.5,
+    "label": "350 BCE"
+   },
+   {
+    "year": 1650.5,
+    "label": "1650"
+   }
+  ],
+  "note": "{n_all} eruptions on the list, none with a date to the day",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike is one eruption. The three older ones are dated by radiocarbon, with margins of 50 to {margin_max} years; the two at the left are 350 and 270 BCE. The last is known from what people reported."
+ },
+ "section": {
+  "kind": "land",
+  "note": "quiet since about 1886",
+  "crater": "summit crater",
+  "caption": "Bamus cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] The lava dome that fills the summit crater, the cone on the south flank and the crater on the southeast flank are not drawn.[[gvp]]"
+ },
+ "map_zoom": 9,
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Bamus?",
+   "map": true,
+   "paras": [
+    "Bamus is on New Britain, the largest island of the Bismarck Archipelago in [Papua New Guinea](/volcanoes-in-papua-new-guinea), at {coords}.[[gvp]][[nasa]]",
+    "It stands southwest of [Ulawun](/volcano/ulawun), the tallest volcano on the island.[[nasa]] The seismograph at Ulawun that followed the earthquakes under Bamus in 1990 was about 16 miles (25 km) away.[[gvp]]",
+    "Bamus is one of {n_country} volcanoes in Papua New Guinea on the Smithsonian’s Holocene list; [Langila](/volcano/langila) and [Manam](/volcano/manam) are two of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Bamus active?",
+   "aside": "callouts",
+   "paras": [
+    "Bamus is not erupting. Its last eruption on the Smithsonian’s list is dated to about {last_year}, give or take {last_margin} years, and the Smithsonian’s page has no report of an eruption since.[[gvp]]",
+    "The newest report is from 2006. On July 12 of that year people saw white vapor rising from the summit from about 10:10 a.m. Around 11:10 the emission grew forceful and took on a slight gray tint. The plume drifted south-southeast, no ash fall was reported, and satellites picked up no heat at the volcano.[[gvp]]",
+    "Those who watched included local government officials from Bialla, an observer from the mining department, and a man at a resort 25 to 30 miles (40 to 50 km) away, who phoned the Rabaul Volcano Observatory. The Smithsonian’s report gives no verdict from the observatory and does not call the event an eruption.[[gvp]]",
+    "The earlier report is about earthquakes. They began on February 2, 1990 with almost 100 events. Between February 10 and 15 instruments counted about 1,400, three of them of magnitude 5.8 to 6.0, and between February 25 and 28 about 880 more. Their centers lined up in a zone about 6 miles (10 km) long that took in the south flanks of Bamus, at depths down to 14 miles (23 km).[[gvp]]",
+    "Inspections on February 13 and 16 found rockfalls in many places on the volcano and the steam vents on the summit dome no warmer than 59 °F (15 °C). A month later the cause was still uncertain.[[gvp]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who watches Bamus?",
+   "paras": [
+    "Papua New Guinea’s volcanoes are the responsibility of the Rabaul Volcano Observatory. A directory entry of the World Organization of Volcano Observatories, undated and written no earlier than 2002, lists observation posts at four volcanoes: Ulawun, Langila, Manam and Karkar. Bamus is not among them.[[wovo]]",
+    "In February 1990 a temporary network of seismographs was set up for four days. After that the permanent seismograph at Ulawun followed the earthquakes.[[gvp]]",
+    "A document about the observatory on the disaster-risk site PreventionWeb, written no earlier than 2014, says that it monitored only seven of the country’s 15 active volcanoes, for want of money, staff and equipment. It does not name the seven.[[pw]] This page found no website of the observatory itself and no alert level for Bamus."
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Bamus last erupt?",
+   "paras": [
+    "About {quiet_number} years ago. The Smithsonian’s list dates the last eruption to {last_year}, give or take {last_margin} years, from what people reported, and rates it 3 on the Volcanic Explosivity Index (VEI), with a question mark.[[gvp]]",
+    "Nobody recorded it as it happened. By the Smithsonian’s summary, residents describe an eruption in the late 19th century, and young deposits of pyroclastic flows lie on the volcano’s flanks.[[gvp]] A NASA caption to a 2012 astronaut photograph of the two volcanoes says the same: Bamus was last active in the late 19th century.[[nasa]]",
+    "A sketch may show the volcano at work. In 1878, the earliest year in the Smithsonian’s range, the English explorer Wilfred Powell drew Ulawun and Bamus from Lolobau Island, each with a plume of vapor. A history of the region’s eruptions counts that as possible evidence that Bamus was active in 1878 and calls it not conclusive: the plume held little or no ash, and Powell’s observations include mistakes and exaggeration.[[john3]]",
+    "Powell also reported the summit bare. Today Bamus is covered in vegetation.[[john3]][[gvp]]"
+   ]
+  },
+  {
+   "id": "name",
+   "h": "Why is Bamus called the South Son?",
+   "paras": [
+    "The name is Powell’s. He named three volcanoes the Father, the South Son and the North Son: Ulawun, Bamus and Likuruanga.[[john3]] The Smithsonian still lists South Son and Sudsohn as other names for Bamus.[[gvp]]",
+    "The names follow a story of the Nakanai people, published in 1909. Ulawun, a stranger who came down from the mountain smoking tobacco, married a Nakanai woman, Simolo. Their son was told to find a home of his own. He settled on a nearby mountain and gave it his name, Bamus.[[john3]]",
+    "In the story the son took after the father: Bamus, too, smoked, breathed fire and threw up stones, and people in the valleys were killed.[[john3]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Bamus?",
+   "paras": [
+    "Bamus is {summit_ft} ft ({summit_m} m) above sea level.[[gvp]] Ulawun, next to it, is 7,657 ft (2,334 m), and the two are the highest volcanoes of the Bismarck volcanic arc, a chain about 620 miles (1,000 km) long.[[nasa]][[gvp]]",
+    "It rises about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Bamus?",
+   "paras": [
+    "The Smithsonian lists Bamus as a stratovolcano whose main rock is {rock}.[[gvp]] It is a symmetrical cone covered in rainforest.[[gvp]]",
+    "The crater at the summit is broken open and filled by a lava dome. A smaller cone sits on the south flank, and halfway up the southeast flank there is a crater about 0.9 miles (1.5 km) wide with two small cones beside it.[[gvp]]"
+   ]
+  },
+  {
+   "id": "again",
+   "h": "Could Bamus erupt again?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Rabaul Volcano Observatory and Papua New Guinea’s disaster authorities.",
+   "paras": [
+    "Nothing in its record says it is finished. The Smithsonian’s list has {n_all} eruptions of Bamus since about {oldest}, the last about {quiet_number} years ago, and the deposits of pyroclastic flows on its flanks are young.[[gvp]]",
+    "The history of the region’s eruptions cited above calls Bamus a “sleeper.” It gives four examples, Savo, Bamus, Makalaia-Dakataua and Victory, all last active in the nineteenth century, and judges each capable of an eruption larger than its last.[[john16]]",
+    "NOAA’s database of significant eruptions has no entry for Bamus.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Bamus’ full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Bamus has **{n_all} confirmed eruptions**: {n_rc_word} dated by radiocarbon and one known from reports. It gives none of them an end date.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "February 1990",
+ "callouts": [
+  {
+   "number": "1,400",
+   "unit": "earthquakes",
+   "text": "About this many were counted near Bamus between February 10 and 15, 1990.",
+   "source": "Source: Rabaul Volcano Observatory, in the Smithsonian’s bulletin.[[gvp]]"
+  },
+  {
+   "number": "3",
+   "unit": "strong ones",
+   "text": "Three of those earthquakes had magnitudes of 5.8 to 6.0.",
+   "source": "Source: Rabaul Volcano Observatory, in the Smithsonian’s bulletin.[[gvp]]"
+  }
+ ],
+ "faq_h": "Bamus questions and answers",
+ "faq": [
+  [
+   "Is Bamus an active volcano?",
+   "It is not erupting, and its last eruption on the Smithsonian’s list was about {last_year}. The newest report on it is from July 12, 2006, when white vapor rose from the summit for about an hour and a half and no ash fell."
+  ],
+  [
+   "When did Bamus last erupt?",
+   "About {last_year}, give or take {last_margin} years, by the Smithsonian’s list. Residents describe an eruption in the late 19th century; nobody recorded it at the time."
+  ],
+  [
+   "Where is Bamus?",
+   "On the island of New Britain in Papua New Guinea, at {coords}, southwest of the volcano Ulawun."
+  ],
+  [
+   "How tall is Bamus?",
+   "{summit_ft} ft ({summit_m} m) above sea level, about {rise_ft} ft ({rise_m} m) above the land around it."
+  ],
+  [
+   "Why is Bamus called the South Son?",
+   "Wilfred Powell, who explored New Britain from 1877 to 1880, named Ulawun the Father, Bamus the South Son and Likuruanga the North Son. In a Nakanai story Bamus is the son of Ulawun."
+  ],
+  [
+   "What happened at Bamus in 1990?",
+   "A swarm of earthquakes. About 1,400 were counted between February 10 and 15, 1990, three of them of magnitude 5.8 to 6.0, along a zone that took in the volcano’s south flanks. There was no eruption, and the cause was still uncertain a month later."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Bamus",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=252110"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "john3",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands: A History of Volcanic Eruptions and Disaster Management in Papua New Guinea and the Solomon Islands, chapter 3",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/html/ch03.xhtml?page=10"
+  },
+  {
+   "id": "john16",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands, chapter 16: Historical Analysis and Volcanic Disaster-Risk Reduction",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/html/ch16.xhtml?page=23"
+  },
+  {
+   "id": "nasa",
+   "publisher": "NASA Earth Observatory",
+   "title": "Plume rises from Ulawun (astronaut photograph of November 30, 2012; published December 10, 2012)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/plume-rises-from-ulawun-79903/"
+  },
+  {
+   "id": "wovo",
+   "publisher": "World Organization of Volcano Observatories",
+   "title": "Directory of member observatories: Papua New Guinea, Rabaul Volcanological Observatory",
+   "url": "https://wovo.iavceivolcano.org/members-observatories-directory/papua-new-guinea-rabaul-volcanological-observatory/"
+  },
+  {
+   "id": "pw",
+   "publisher": "PreventionWeb",
+   "title": "Rabaul Volcanological Observatory: candidate information for an award (PDF)",
+   "url": "https://www.preventionweb.net/files/workspace/37131_candidateinformation%5B8%5D.pdf?startDownload=true"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** this year minus {last_year}, rounded to the nearest {quiet_round} years. The Smithsonian dates the last eruption to {last_year} with a margin of {last_margin} years either way, so a count to the year would claim more than is known.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m; about one cell in sixteen of that ring is sea and is left out.",
+  "Feet and miles are converted from the metric figures in the sources and rounded, and the temperature from degrees Celsius."
+ ],
+ "expect": {
+  "last_year": "1886",
+  "last_margin": "8",
+  "quiet_round": "10",
+  "n_all": "4",
+  "n_rc_word": "three",
+  "n_observed": "1",
+  "oldest": "350 BCE",
+  "margin_max": "75",
+  "noaa_n": "0",
+  "summit_m": "2,248",
+  "summit_ft": "7,375",
+  "type": "Stratovolcano",
+  "rock": "andesite to basaltic andesite",
+  "coords": "5.2°S, 151.23°E"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}

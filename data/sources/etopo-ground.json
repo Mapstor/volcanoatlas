@@ -217,6 +217,15 @@
 "sea_floor_m": -116,
 "peak_m": 622
 },
+"252110": {
+"name": "Bamus",
+"cells": 892,
+"sea_share": 0.06,
+"land_m": 355,
+"sea_floor_m": -29,
+"peak_m": 2155,
+"retrieved": "2026-11-21"
+},
 "252120": {
 "name": "Ulawun",
 "cells": 894,
