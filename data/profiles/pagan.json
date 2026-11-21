@@ -1,0 +1,366 @@
+{
+ "slug": "pagan",
+ "volcano_number": 284170,
+ "name": "Pagan",
+ "country": "United States",
+ "title": "Pagan Volcano: Last Eruption, 1981 Evacuation & Alert Level",
+ "description": "Pagan in the Northern Mariana Islands last erupted in {last_year}. Its USGS alert level, the 1981 eruption that emptied the island, and its full record.",
+ "h1": "Pagan Volcano",
+ "facts": {
+  "count_from": 1981
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "that eruption lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting. No alert level assigned.** USGS’s weekly update of November 19, 2026 (UTC) reported no signs of unrest at any volcano of the Northern Mariana Islands except Ahyi Seamount. It lists Pagan’s alert level as UNASSIGNED, because none of the volcanic islands has geophysical monitoring.[[nmi26]] Read on {read_date}.",
+ "lede": "Pagan is an island of two volcanoes in the Northern Mariana Islands, in the western Pacific. Its northern cone, Mount Pagan, drove everyone off the island in 1981 and last sent up ash in 2021. No instrument on the island monitors it today. Below: where it is, its alert level, the last eruption, what happened in 1981, who lives there, and every eruption on record.",
+ "answer": "**Pagan last erupted from {last_start} to {last_end}**, by the Smithsonian’s list.[[gvp]] It is not erupting now, and **USGS assigns it no alert level** because the island has no geophysical monitoring.[[nmi26]] Its largest eruption on record began on **May 15, 1981**; all 53 people on the island left by ship early the next day.[[gvp]]",
+ "timeline": {
+  "from": 1650,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1873.5,
+    "label": "1873"
+   },
+   {
+    "year": 1669.5,
+    "label": "1669"
+   },
+   {
+    "year": 1923.12,
+    "label": "1923"
+   },
+   {
+    "year": 1981.37,
+    "label": "1981"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike or raised stretch is one entry on the list; several of the older ones are known only by their years. One older entry, dated by radiocarbon to 1340 give or take {margin_max} years, lies off the left edge."
+ },
+ "section": {
+  "kind": "land",
+  "note": "island emptied in 1981",
+  "crater": "summit crater",
+  "caption": "Mount Pagan as a simple outline rising from the sea. Only the summit height is to scale.[[gvp]] The real cone stands inside a caldera about 4.3 miles (7 km) across, and a second volcano, South Pagan, makes up the other end of the island. Neither is drawn.[[usgs]]"
+ },
+ "map_zoom": 10,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Pagan?",
+   "map": true,
+   "paras": [
+    "Pagan is an island in the Northern Mariana Islands, a commonwealth of [the United States](/volcanoes-in-united-states), at {coords}.[[gvp]][[usgs]] It lies north of Saipan, near the middle of the chain of active volcanoes called the Mariana arc.[[map06]]",
+    "The island is two volcanoes joined by a narrow neck of land. Mount Pagan, also called North Pagan, stands at the northeast end. South Pagan is the other.[[usgs]]",
+    "Pagan is one of {n_country} volcanoes in the United States on the Smithsonian’s Holocene list. [Kilauea](/volcano/kilauea) and [Mount St. Helens](/volcano/st-helens) are two of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Pagan erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list ends Pagan’s last eruption on {last_end}.[[gvp]] The weekly update that USGS sent for the Northern Mariana Islands on November 19, 2026 reported no signs of unrest in the week before at any of the islands’ volcanoes except Ahyi Seamount, an undersea volcano farther north.[[nmi26]]",
+    "Pagan has no alert level. USGS lists it as UNASSIGNED, the label it uses when it has too little information to judge a volcano’s state.[[alert]] The update gives the reason: none of the volcanic islands has geophysical monitoring.[[nmi26]]",
+    "USGS watches from a distance instead. It checks satellite images and uses seismic and sound sensors on Saipan, seismic stations on Guam and on Chichijima in Japan, and underwater sound recorded at Wake Island when those data are available. By its own account that is enough to detect significant activity and too little to warn before an eruption.[[nmi26]]",
+    "The newest USGS notice with a section of its own on Pagan dates from June 2022. On May 31 of that year a satellite picked up what may have been sulfur dioxide gas at the volcano. USGS wrote that small detections of that kind are common at volcanoes that erupted recently, and left Pagan unassigned.[[w2022]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Pagan last erupt?",
+   "table": "periods",
+   "paras": [
+    "The Smithsonian’s list dates Pagan’s last eruption from {last_start} to {last_end} and rates it 2 on the [Volcanic Explosivity Index](/volcanic-explosivity-index) (VEI).[[gvp]]",
+    "It started on July 29, 2021, when residents reported earthquakes they could feel and a light emission from Mount Pagan. USGS raised the alert level from UNASSIGNED to ADVISORY and the aviation color code to YELLOW.[[v0729]]",
+    "On September 1 satellites showed a continuous plume of gas and ash from the summit for most of the day. It reached as far as 93 miles (150 km) from the volcano at 10,000 ft (about 3 km) above sea level, and USGS raised the levels to WATCH and ORANGE.[[v0901]]",
+    "Ash and sulfur dioxide showed in satellite images through September 6, in plumes visible as far as 250 miles (400 km) away at about 5,000 to 10,000 ft (1.5 to 3 km).[[w0909]] Ash lay in and around the crater and on the parts of the island downwind.[[gvp]]",
+    "After September 6 satellites saw steam at times and no more ash or gas. On September 24, 2021 USGS returned Pagan to UNASSIGNED, with the warning that ash and gas could resume without notice.[[v0924]]",
+    "The two sources count the eruption differently. USGS dates it from September 1, the first day of ash; the Smithsonian’s list starts it on July 29.[[w0909]][[gvp]]"
+   ]
+  },
+  {
+   "id": "1981",
+   "h": "What happened at Pagan in 1981?",
+   "aside": "callouts",
+   "paras": [
+    "Pagan’s largest eruption on record began on May 15, 1981. The Smithsonian rates it VEI {max_vei}, the highest rating on Pagan’s list.[[gvp]]",
+    "Signs came weeks ahead. From late March or early April people felt more earthquakes, new cracks opened in the ground and more gas came out.[[banks]]",
+    "On May 15 a swarm of felt earthquakes began at 7:45 a.m. At 9:15, right after a loud boom, a tall column of ash and gas rose from the volcano.[[banks]] The island’s radio operator announced the eruption at 9:15, and then contact was lost.[[gvp]]",
+    "Estimates of the cloud’s height differ: at least 44,000 ft (13.5 km) in a 1984 study of the eruption, more than 52,000 ft (15,800 m) in a USGS article of 2006, and about 59,000 to 66,000 ft (18 to 20 km) by radar in Japan, as the Smithsonian’s bulletin reports it.[[banks]][[hvo06]][[gvp]] Ash fell on Saipan and Guam the next day.[[hvo06]]",
+    "The eruption probably opened along a line of fissures and then settled at three vents; the northernmost built a new cinder cone.[[banks]] Lava, ash and cinders covered a large part of the island’s farmland. Some livestock were killed, and others starved once the plants were gone.[[gvp]]",
+    "A lava flow to the southwest covered part of the airstrip and stopped before the village.[[gvp]] A geologic map of 2006 shows about half the runway under 1981 lava.[[map06]]",
+    "A Japanese merchant ship, the Hoyo Maru, took all 53 people off the island early on May 16. One minor injury was reported.[[gvp]] The 1984 study counts 54 residents and no serious injuries.[[banks]]",
+    "Shomushon village, southwest of the volcano, was mostly destroyed afterwards by flooding and debris flows. Large gullies run down to it from the upper west flank.[[map06]]",
+    "The eruption went on long after May. Weak eruptions continued for about a month, and visiting residents reported more vigorous ones in late 1981 and early 1982, still smaller than that of May 15.[[banks]] Ash was thrown out off and on until 1996.[[map06]] The Smithsonian’s list keeps this eruption open until May 1985 or later.[[gvp]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Does anyone live on Pagan?",
+   "paras": [
+    "Hardly anyone. The 2020 census counted two people in Pagan village, and seven in the whole Northern Islands Municipality: four on Agrihan, one on Alamagan and the two on Pagan.[[census]]",
+    "Before May 1981 the island had a small community. The Smithsonian’s bulletin counts 53 people taken off by ship, the 1984 study 54 residents.[[gvp]][[banks]]",
+    "A later Smithsonian bulletin describes the island as uninhabited since then, with residents and officials visiting at times.[[gvp]] Those visits show in the record. In December 2006 residents at a camp about 2 miles (3 km) southwest of the summit told scientists that ash was falling there, up to 0.4 inches (1 cm) a day. In May 2010 a research crew of the U.S. Fish and Wildlife Service found a trace of ash on its tents.[[gvp]] In July 2021 people on the island reported the earthquakes that opened the last eruption.[[v0729]]",
+    "USGS’s update of June 2022 adds that the commonwealth’s government may restrict access to the island.[[w2022]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Pagan?",
+   "paras": [
+    "The U.S. Geological Survey prepares the notices for the Northern Mariana Islands.[[nmi26]] A USGS article of 2006 describes the agency working with the commonwealth’s Emergency Management Office on monitoring and public safety.[[hvo06]]",
+    "Instruments on the island have come and gone. USGS ran two seismometers there, mainly in the 1990s and in 2001, and by 2006 nothing recorded continuously.[[map06]] In 2013 USGS, the U.S. Army Corps of Engineers and Southern Methodist University installed seismometers, infrasound equipment and web cameras.[[net13]] When residents reported unrest in July 2021, USGS wrote that the volcano was not monitored with ground-based instruments.[[v0729]]",
+    "That was still so in November 2026. The update of November 19 names ten volcanoes in the islands, Pagan among them, whose alert level is unassigned for lack of monitoring on the islands themselves.[[nmi26]]",
+    "USGS rates Pagan’s threat potential High under its National Volcano Early Warning System.[[usgs]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Pagan?",
+   "paras": [
+    "Mount Pagan is **{summit_ft} ft ({summit_m} m)** high.[[gvp]] South Pagan, the island’s other volcano, reaches 1,798 ft (548 m).[[usgs]]",
+    "Both heights are counted from sea level. The island is only the part of the two volcanoes that stands above the water.[[map06]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Pagan?",
+   "paras": [
+    "Pagan is a pair of [stratovolcanoes](/types-of-volcanoes): tall cones built of layers of hardened lava, ash and pumice.[[gvp]][[nasa07]]",
+    "Each cone grew inside a caldera. The northern caldera is about 4.3 miles (7 km) across by USGS’s summary and about 3.4 miles (5.5 km) by the 2006 geologic map; the southern one is about 2.5 miles (4 km).[[usgs]][[map06]] Mount Pagan stands on the flat floor of the northern caldera. South Pagan has a long summit with four craters.[[usgs]]",
+    "The northern caldera is young. The map’s authors think it probably formed less than 1,000 years ago, in an eruption of at least VEI 5. The highest rating on the Smithsonian’s list for Pagan is {max_vei}.[[map06]][[gvp]]",
+    "The Smithsonian gives the main rock as {rock}; USGS gives basalt to andesite.[[gvp]][[usgs]]",
+    "The volcanoes are there because the Pacific Plate sinks beneath the Philippine Plate along the Mariana Trench, which is nearly 7 miles (more than 11 km) deep.[[nasa07]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Pagan erupt?",
+   "paras": [
+    "The Smithsonian lists {n_since} confirmed eruptions since {since_year}, the last in {last_year}.[[gvp]] Almost all the eruptions in written records, which go back to the 17th century, came from Mount Pagan.[[usgs]] The list places one confirmed eruption, in 1864, at South Pagan.[[gvp]]",
+    "After 1925 the list has no confirmed eruption until 1981, the largest of all.[[gvp]]",
+    "USGS sums up the years after 1981 as three and a half decades of intermittent activity, and the activity before 2016 as vigorous steam plumes and gas from magma at shallow depth.[[v0729]]",
+    "Most of Pagan’s eruptions are small. Of the {n_all} confirmed eruptions on the list, {n_vei1} are rated VEI 1 and {n_vei2} VEI 2; {n_vei3} are rated 3, only the eruption of 1981 is rated 4, and {n_vei_none} have no rating.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Pagan dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow USGS’s volcano notices and the commonwealth’s Homeland Security and Emergency Management office.",
+   "paras": [
+    "On the island, yes. In 1981 blocks up to about 3 ft (1 m) across landed more than 1.2 miles (2 km) away, lava and ash buried farmland, and floods later destroyed most of the village.[[banks]][[gvp]][[map06]] The authors of the 2006 map call Mount Pagan “a potentially dangerous volcano.”[[map06]]",
+    "Far from the island the hazard is ash in the air. A USGS article of 2006 counts about 25,000 large passenger flights a year through the airspace around the islands, and notes that ash at cruising height can stop all four engines of a jet.[[hvo06]]",
+    "USGS announced the changes of level in 2021 in notices written for aviation.[[v0729]][[v0901]][[v0924]]",
+    "NOAA’s database of significant eruptions has no entry for Pagan.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Pagan’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Pagan has **{n_all} confirmed eruptions**: {n_written} known from reports and {n_rc_word} dated by radiocarbon. It lists {n_unconfirmed_word} more as unconfirmed.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "May 15, 1981",
+ "callouts": [
+  {
+   "number": "53",
+   "unit": "people",
+   "text": "Everyone on the island left on a Japanese merchant ship early on May 16, 1981.",
+   "source": "Source: Smithsonian Institution, bulletin of 1981.[[gvp]]"
+  },
+  {
+   "number": "44,000 ft",
+   "unit": "or higher",
+   "text": "The ash cloud of May 15, 1981 rose at least this high (13.5 km), by the 1984 study of the eruption.",
+   "source": "Source: Banks and others, 1984.[[banks]]"
+  }
+ ],
+ "faq_h": "Pagan questions and answers",
+ "faq": [
+  [
+   "Is Pagan erupting now?",
+   "No. Its last eruption on the Smithsonian’s list ended {last_end}, and USGS’s weekly update of November 19, 2026 reported no signs of unrest there."
+  ],
+  [
+   "What is Pagan’s alert level?",
+   "None is assigned. USGS lists Pagan as UNASSIGNED because the island has no geophysical monitoring. It watches the volcano by satellite and with sensors on other islands."
+  ],
+  [
+   "When did Pagan last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s list. USGS saw ash and sulfur dioxide in satellite images from September 1 to 6, 2021."
+  ],
+  [
+   "What happened in the 1981 eruption of Pagan?",
+   "On May 15, 1981 a tall column of ash rose from Mount Pagan, lava covered part of the airstrip, and ash and cinders buried farmland. All 53 people on the island left on a Japanese merchant ship early the next day."
+  ],
+  [
+   "Does anyone live on Pagan?",
+   "The 2020 census counted two people in Pagan village. The community of 53 left during the 1981 eruption, and a later Smithsonian bulletin describes the island as uninhabited apart from visits."
+  ],
+  [
+   "How tall is Mount Pagan?",
+   "{summit_ft} ft ({summit_m} m) above sea level. South Pagan, the island’s other volcano, is 1,798 ft (548 m)."
+  ],
+  [
+   "Where is Pagan?",
+   "In the Northern Mariana Islands, a commonwealth of the United States in the western Pacific, north of Saipan, at {coords}."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Pagan",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=284170"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "hans",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Notification Service",
+   "url": "https://volcanoes.usgs.gov/hans-public/"
+  },
+  {
+   "id": "nmi26",
+   "publisher": "U.S. Geological Survey",
+   "title": "Northern Mariana Islands weekly update of November 19, 2026 (UTC)",
+   "url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-NMI-2026-11-19T22:45:26+00:00"
+  },
+  {
+   "id": "w2022",
+   "publisher": "U.S. Geological Survey",
+   "title": "Northern Mariana Islands weekly update of June 2, 2022 (UTC)",
+   "url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-NMI-2022-06-02T15:44:40-08:00"
+  },
+  {
+   "id": "v0924",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Observatory Notice for Aviation: Pagan, September 24, 2021",
+   "url": "https://volcanoes.usgs.gov/hans-public/vona/DOI-USGS-NMI-2021-09-24T14:27:39-07:00"
+  },
+  {
+   "id": "w0909",
+   "publisher": "U.S. Geological Survey",
+   "title": "Northern Mariana Islands weekly update of September 10, 2021 (UTC)",
+   "url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-NMI-2021-09-09T15:33:26-08:00"
+  },
+  {
+   "id": "v0901",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Observatory Notice for Aviation: Pagan, September 1, 2021",
+   "url": "https://volcanoes.usgs.gov/hans-public/vona/DOI-USGS-NMI-2021-09-01T09:55:49-08:00"
+  },
+  {
+   "id": "v0729",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Observatory Notice for Aviation: Pagan, July 29, 2021",
+   "url": "https://volcanoes.usgs.gov/hans-public/vona/DOI-USGS-NMI-2021-07-29T00:36:38-08:00"
+  },
+  {
+   "id": "usgs",
+   "publisher": "U.S. Geological Survey, Volcano Hazards Program",
+   "title": "Pagan",
+   "url": "https://www.usgs.gov/volcanoes/pagan"
+  },
+  {
+   "id": "alert",
+   "publisher": "U.S. Geological Survey, Volcano Hazards Program",
+   "title": "Volcanic alert-levels characterize conditions at U.S. volcanoes",
+   "url": "https://www.usgs.gov/programs/VHP/volcanic-alert-levels-characterize-conditions-us-volcanoes"
+  },
+  {
+   "id": "banks",
+   "publisher": "N. G. Banks, R. Y. Koyanagi, J. M. Sinton and K. T. Honma, Journal of Volcanology and Geothermal Research 22, 1984",
+   "title": "The eruption of Mount Pagan volcano, Mariana Islands, 15 May 1981 (abstract, USGS Publications Warehouse)",
+   "url": "https://pubs.usgs.gov/publication/70013649"
+  },
+  {
+   "id": "map06",
+   "publisher": "F. A. Trusdell, R. B. Moore and M. K. Sako, U.S. Geological Survey Open-File Report 2006-1386",
+   "title": "Preliminary geologic map of Mount Pagan volcano, Pagan Island, Commonwealth of the Northern Mariana Islands (text, PDF)",
+   "url": "https://pubs.usgs.gov/of/2006/1386/of2006-1386_text.pdf"
+  },
+  {
+   "id": "hvo06",
+   "publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "title": "Volcano Watch: Why monitor volcanoes of the Commonwealth of Northern Mariana Islands? (June 22, 2006)",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-why-monitor-volcanoes-commonwealth-northern-mariana-islands"
+  },
+  {
+   "id": "net13",
+   "publisher": "U.S. Geological Survey",
+   "title": "Monitoring network installation at Pagan Volcano (photograph and caption, June 8, 2013)",
+   "url": "https://www.usgs.gov/media/images/monitoring-network-installation-pagan-volcano"
+  },
+  {
+   "id": "census",
+   "publisher": "U.S. Census Bureau",
+   "title": "2020 Census population of the Commonwealth of the Northern Mariana Islands: municipality and village (table, CSV file)",
+   "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/commonwealth-of-the-northern-mariana-islands/population-and-housing-unit-counts/commonwealth-northern-mariana-islands-phc-table02.csv"
+  },
+  {
+   "id": "nasa07",
+   "publisher": "NASA Earth Observatory",
+   "title": "Pagan Island, Northern Mariana Islands (astronaut photograph of January 11, 2007; published January 29, 2007)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/pagan-island-northern-mariana-islands-7355/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**{last_length}:** from {last_start} to {last_end}, the dates on the Smithsonian’s list. USGS saw ash and sulfur dioxide in satellite images on six of those days, September 1 to 6.",
+  "Feet, miles and inches are converted from the metric figures in the sources and rounded. USGS gave the 2021 plume heights in feet; the kilometers beside the 10,000 ft are converted here.",
+  "Times of day in 1981 are local time, ten hours ahead of UTC, as the study gives them."
+ ],
+ "expect": {
+  "last_year": "2021",
+  "last_start": "July 29",
+  "last_end": "September 6, 2021",
+  "n_all": "21",
+  "n_since": "11",
+  "n_written": "19",
+  "n_rc_word": "two",
+  "n_unconfirmed_word": "three",
+  "max_vei": "4",
+  "n_max_vei": "1",
+  "n_vei1": "6",
+  "n_vei2": "9",
+  "n_vei3": "2",
+  "n_vei_none": "3",
+  "margin_max": "100",
+  "last_length": "39 days",
+  "noaa_n": "0",
+  "summit_m": "570",
+  "summit_ft": "1,870",
+  "rock": "basalt to picro-basalt",
+  "coords": "18.13°N, 145.8°E"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}
