@@ -506,6 +506,15 @@
 "sea_floor_m": -644,
 "peak_m": 671
 },
+"284170": {
+"name": "Pagan",
+"cells": 920,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -2051,
+"peak_m": 484,
+"retrieved": "2026-11-21"
+},
 "285040": {
 "name": "Shikotsu",
 "cells": 1211,
