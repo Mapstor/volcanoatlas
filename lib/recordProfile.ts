@@ -10,6 +10,7 @@ import {
   getSourceVolcano,
   isoToYmd,
   longDate,
+  METHOD_LABEL,
   MONTHS,
   roundTo,
   sourceDates,
@@ -370,7 +371,8 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   if (stats.countedFrom) {
     set('n_pauses_word', word(stats.pauses.length));
     set('pause_years', stats.pauseYears.toFixed(1));
-    set('span_years', Math.ceil(stats.spanYears));
+    // to the nearest year: rounded up, a span of 169.3 years printed as "almost 170" once the list's last update moved
+    set('span_years', Math.round(stats.spanYears));
     set('share', stats.sharePercent.toFixed(0));
     const first = stats.periods.find((row) => !row.openStart);
     const precision = first ? first.startPrecision : 'day';
@@ -558,6 +560,11 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   set('gvp_version', dates.gvpVersion);
   set('gvp_version_date', `${dates.gvpVersionDate[2]} ${MON[dates.gvpVersionDate[1]]} ${dates.gvpVersionDate[0]}`);
 
+  // a dating method the page has no words for would be printed raw in the record table: stop instead (the list renamed
+  // one in v. 5.4.1, and Fernandina's table read "observations: satellite (visible)" until the words were added)
+  for (const e of stats.all) {
+    if (e.method && !METHOD_LABEL[e.method]) throw new Error(`record profile ${profile.slug}: no reader words for the dating method "${e.method}". Add it to METHOD_LABEL in lib/eruptions.ts.`);
+  }
   // typed sentences that lean on a value: stop the build when the data moves away from it
   for (const [key, value] of Object.entries(profile.expect ?? {})) {
     if (ctx[key] !== value) throw new Error(`record profile ${profile.slug}: the text expects {${key}} = "${value}", the data gives "${ctx[key]}". Re-read the sentences that use it.`);

@@ -6,7 +6,8 @@
 Writes gvp-volcanoes.json (the Holocene volcano list), gvp-eruptions.json (every Holocene eruption, grouped by
 Smithsonian volcano number) and noaa-volcano-events.json (NOAA significant eruptions, grouped the same way). Field names are shortened; nothing is
 recalculated or filled in. The Smithsonian database version is typed here because the service does not report it:
-check https://volcano.si.edu/gvp_votw.cfm when you refresh.
+check https://volcano.si.edu/gvp_votw.cfm when you refresh. A page fetch can return an old copy of that page: confirm the
+version against the data (the number of Holocene volcanoes and the newest "continuing" dates the Smithsonian's pages print).
 """
 import json
 import os
@@ -14,7 +15,7 @@ import sys
 
 RAW = sys.argv[1] if len(sys.argv) > 1 else 'data/sources-raw'
 OUT = sys.argv[2] if len(sys.argv) > 2 else 'data/sources'
-GVP_VERSION = {'version': '5.4.0', 'version_date': '2026-08-07'}
+GVP_VERSION = {'version': '5.4.1', 'version_date': '2026-11-15'}
 
 manifest = json.load(open(os.path.join(RAW, 'manifest.json')))
 retrieved = manifest['retrieved'][:10]

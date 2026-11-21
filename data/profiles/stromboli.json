@@ -74,7 +74,7 @@
    "paras": [
     "It hasn’t stopped. The Smithsonian’s Global Volcanism Program dates the start of the current eruption to **{cur_start}** and lists it as continuing, which makes it **{cur_years} years long** so far.[[gvp]]",
     "Only {older_count_word} of the {n_cont} eruptions the Smithsonian lists as continuing began earlier: {older}.[[gvp]]",
-    "The {cur_start_year} date hides how steady Stromboli is. The record has it erupting since before {open_before}, with only {n_pauses_word} pauses after {counted_month_year}. Those pauses add up to **about {pause_years} years out of almost {span_years}**, so Stromboli has been in eruption **about {share}% of the time since {counted_year}**."
+    "The {cur_start_year} date hides how steady Stromboli is. The record has it erupting since before {open_before}, with only {n_pauses_word} pauses after {counted_month_year}. Those pauses add up to **about {pause_years} years out of {span_years}**, so Stromboli has been in eruption **about {share}% of the time since {counted_year}**."
    ]
   },
   {
@@ -246,7 +246,7 @@
  "callout_note": "{n_pauses_word} pauses in {span_years} years",
  "expect": {
   "n_all": "22",
-  "n_cont": "41",
+  "n_cont": "48",
   "older_count_word": "three",
   "n_pauses_word": "four",
   "noaa_n": "15",
