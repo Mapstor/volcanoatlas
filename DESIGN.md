@@ -52,7 +52,9 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 - **Caveat 700** for red pencil notes only: a few words each, never a sentence the reader needs.
 - No third family. The site-wide Playfair and Source Sans stay on old pages only.
 - Sizes on a record page: h1 76 px (46 on phones), main number 148 px (104), h2 34 px (27), text 18 px, answer
-  paragraph 21 px (19), captions and source lines 14 to 15 px.
+  paragraph 21 px (19), captions and source lines 14 to 15 px. A main number of three digits is set at 118 px (86),
+  one in the thousands ("1,500") at 92 px (64), so the number and its unit share a line; the ring is as wide as
+  the digits.
 
 ## Layout
 

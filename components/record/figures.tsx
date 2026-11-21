@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react';
-import { dateText, daysBetween, decimalYear, feet, fmt, precisionOf, roundTo, spanBetween, type Precision, type Ymd } from '@/lib/eruptions';
+import { dateText, daysBetween, decimalYear, feet, fmt, precisionOf, roundTo, spanBetween, yearText, type Precision, type Ymd } from '@/lib/eruptions';
 import { fill, type RecordData } from '@/lib/recordProfile';
 
 /** Drawings of the record page. Every position and label comes from the source data passed in. */
@@ -168,8 +168,12 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   // 250 on a phone, where a year every 100 would run into the next
   const long = small && y1 - y0 > 260;
   const veryLong = y1 - y0 > 700;
-  const gridStep = long || veryLong ? 50 : 10;
-  const labelStep = veryLong ? (small ? 250 : 100) : long ? 100 : 50;
+  // a record of several thousand years (Chimborazo: 8500 BCE to 2030) gets a line every 1,000 years and a year every
+  // 2,000, every 4,000 on a phone; its years carry their era, and the mark at the turn of the eras reads "1 CE"
+  const ages = y1 - y0 > 3000;
+  const gridStep = ages ? 1000 : long || veryLong ? 50 : 10;
+  const labelStep = ages ? (small ? 4000 : 2000) : veryLong ? (small ? 250 : 100) : long ? 100 : 50;
+  const gridYear = (year: number) => (y0 >= 0 ? String(year) : year < 0 ? `${-year} BCE` : year === 0 ? '1 CE' : `${year} CE`);
   for (let year = Math.ceil(y0 / gridStep) * gridStep; year <= y1; year += gridStep) {
     const x = X(year);
     const major = year % labelStep === 0;
@@ -178,7 +182,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
       // the years are drawn last, on a paper edge, so a red date tick passes behind them
       gridLabels.push(
         <text key={`t${year}`} x={x} y={yb + 42} textAnchor="middle" fontSize={fs} fill={PAL.mute} stroke={PAL.paper} strokeWidth={4} paintOrder="stroke">
-          {year}
+          {gridYear(year)}
         </text>,
       );
   }
@@ -186,6 +190,9 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   const lastX = !erupting && stats.lastEnd ? X(decimalYear(stats.lastEnd)) : null;
   // a last eruption the record gives only by year is marked at the middle of that year, where its spike stands
   const lastYearX = !erupting && !stats.lastEnd && stats.lastYearOnly !== null ? X(stats.lastYearOnly + 0.5) : null;
+  // a last eruption dated from deposits, as a year with a margin, is marked at that year and labelled "about"
+  const lastMargin = !erupting && !stats.lastEnd && stats.lastYearOnly === null ? stats.lastYearMargin : null;
+  const lastMarginX = lastMargin ? X(lastMargin.year + 0.5) : null;
   const note = spec.note ? fill(spec.note, ctx) : null;
 
   return (
@@ -196,7 +203,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
       width={w}
       height={h}
       role="img"
-      aria-label={`Strip chart of ${profile.name}'s eruption record from ${y0} to ${endDate[0]}: the line is high while an eruption is in progress and low while the volcano is ${low}.`}
+      aria-label={`Strip chart of ${profile.name}'s eruption record from ${y0 < 0 ? `${-y0} BCE` : y0} to ${endDate[0]}: the line is high while an eruption is in progress and low while the volcano is ${low}.`}
     >
       <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
       {grid}
@@ -295,6 +302,21 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             fill={PAL.ink}
           >
             {stats.lastYearOnly}: last eruption on record
+          </text>
+        </>
+      )}
+      {lastMarginX !== null && lastMargin && (
+        <>
+          <line x1={lastMarginX} y1={yb + 22} x2={lastMarginX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
+          <text
+            x={small ? w / 2 : lastMarginX > w * 0.6 ? lastMarginX - 6 : lastMarginX + 6}
+            y={yb + (small ? 66 : 74)}
+            textAnchor={small ? 'middle' : lastMarginX > w * 0.6 ? 'end' : 'start'}
+            fontSize={fs + 1}
+            fontWeight={700}
+            fill={PAL.ink}
+          >
+            about {yearText(lastMargin.year)}: last eruption on record
           </text>
         </>
       )}

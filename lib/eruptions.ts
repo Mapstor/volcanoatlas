@@ -285,6 +285,11 @@ export interface EruptionStats {
    * before the common era, where a count of years since would claim more than the record does.
    */
   lastYearOnly: number | null;
+  /**
+   * The newest eruption when the record dates it from deposits, as a year with a margin and nothing more
+   * (Chimborazo: 550 CE ± 150 years). Null when the eruption is continuing, has an end, a month, a question mark or a limit.
+   */
+  lastYearMargin: { year: number; margin: number } | null;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -414,6 +419,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     lastEndUncertaintyDays: over?.edunc ?? null,
     lastEndQuestioned: Boolean(over && over.edmod === '?' && precisionOf(over.edunc) === 'day'),
     lastYearOnly: newest && !over && !newest.emod && !newest.smod && newest.sy > 0 && !newest.sunc ? (newest.ey || newest.sy) : null,
+    lastYearMargin: newest && !over && !newest.emod && !newest.smod && !newest.sm && !newest.ey && newest.sunc ? { year: newest.sy, margin: newest.sunc } : null,
     current,
     currentStart,
     currentLast,
@@ -464,7 +470,8 @@ export function startLabel(e: Eruption): string {
   if (e.smod === '<') return `${era} (or earlier)`;
   if (e.smod === '>') return `${era} (or later)`;
   if (e.smod === '?') return `about ${era}`;
-  return e.sunc ? `${era} ± ${e.sunc} year${e.sunc === 1 ? '' : 's'}` : era;
+  // the margin is a number of years, so it takes a thousands separator ("± 2,500 years"); the year itself never does
+  return e.sunc ? `${era} ± ${fmt(e.sunc)} year${e.sunc === 1 ? '' : 's'}` : era;
 }
 
 export function endLabel(e: Eruption): string {
