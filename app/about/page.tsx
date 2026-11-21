@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getAllCountries, getAllVolcanoes } from '@/lib/data';
+import { getAllCountries, getVolcanoList } from '@/lib/data';
 import { getAllGvp } from '@/lib/gvp';
 import JsonLd from '@/components/JsonLd';
 import { AUTHOR, GVP_EXPORT_DATE, GVP_HOME, SITE_URL, pageMeta } from '@/lib/site';
@@ -14,7 +14,7 @@ export const metadata = pageMeta({
 const linkClass = 'text-lava hover:text-lava-light underline';
 
 export default async function AboutPage() {
-  const [volcanoes, countries] = await Promise.all([getAllVolcanoes(), getAllCountries()]);
+  const [volcanoes, countries] = await Promise.all([getVolcanoList(), getAllCountries()]);
   const gvpCount = getAllGvp().length.toLocaleString('en-US');
 
   // Describes only what this page shows: the reviewer's name, degrees and public profile.

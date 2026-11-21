@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { NavData, getAllCountries, getAllVolcanoes } from '@/lib/data';
+import { NavData, getAllCountries, getVolcanoList } from '@/lib/data';
 import { GVP_HOME } from '@/lib/site';
 
 interface FooterProps {
@@ -7,7 +7,7 @@ interface FooterProps {
 }
 
 export default async function Footer({ navData }: FooterProps) {
-  const [countries, volcanoes] = await Promise.all([getAllCountries(), getAllVolcanoes()]);
+  const [countries, volcanoes] = await Promise.all([getAllCountries(), getVolcanoList()]);
 
   // Same figure as the country page itself, so a country never shows two different counts.
   const topCountries = countries

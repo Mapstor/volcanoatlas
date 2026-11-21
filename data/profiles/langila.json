@@ -1,0 +1,346 @@
+{
+ "slug": "langila",
+ "volcano_number": 252010,
+ "name": "Langila",
+ "country": "Papua New Guinea",
+ "title": "Langila Volcano: First Recorded Eruption (1878), Status Now",
+ "description": "Langila in Papua New Guinea is listed as erupting since 2015. Why its first recorded eruption, 1878, is a disputed date, its state now and its full record.",
+ "h1": "Langila Volcano",
+ "facts": {
+  "count_from": 1954
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "first seen as heat from a satellite",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Langila is a cluster of four small cones at the western tip of New Britain, in Papua New Guinea. On the Smithsonian’s list it has been in eruption about {share} percent of the time since {counted_month_year}, and one entry on that list runs for {long1_years} years. Its first eruption on record is filed under 1878, on the word of one traveler who, by a later author’s reading, may have mistaken what he saw. Below: where it is, the 1878 question, its state now, what kind of volcano it is, what it has done since 1954, the ashfall of 2005, who watches it, and every eruption on record.",
+ "answer": "**Langila is erupting, by the Smithsonian’s list:** its current eruption began on {cur_since} and was continuing at the last update, on {cur_last}.[[gvp]] The newest weekly report read for this page, for October 22 to 28, 2026, has ash plumes at 5,000 to 8,000 ft (1.5 to 2.4 km) above sea level on October 26 to 28.[[gvp]] Its **first recorded eruption is listed under 1878**; the Smithsonian’s own note says the year has also been given as 1880, 1884 or 1900.[[gvp]] The summit is **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]]",
+ "timeline": {
+  "from": 1870,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1954.38,
+    "label": "1954"
+   },
+   {
+    "year": 1878.5,
+    "label": "1878"
+   },
+   {
+    "year": 1973.15,
+    "label": "1973"
+   },
+   {
+    "year": 2015.81,
+    "label": "2015"
+   }
+  ],
+  "note": "before 1954 the list has years, no dates",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The five spikes at the left are entries the list dates only to the year: 1878, 1884, 1890, 1900 and 1907. The long raised stretch is a single entry, from {long1_span}; the stretch at the right edge is the eruption listed as continuing since {cur_since}."
+ },
+ "section": {
+  "kind": "land",
+  "note": "four cones, drawn as one",
+  "crater": "Crater 2",
+  "crater_share": 0.08,
+  "caption": "Langila as a simple outline rising from the sea. Only the summit height is to scale.[[gvp]] The real volcano is four small cones that overlap, with three craters, on the flank of the older Talawe volcano; its lava field reaches the sea on the north and northeast sides.[[gvp]] The drawing shows lava at the vent for as long as the Smithsonian lists the eruption as continuing."
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Langila?",
+   "map": true,
+   "paras": [
+    "Langila is at the western tip of the island of New Britain, in Papua New Guinea’s West New Britain province, at {coords}.[[gvp]][[ifrc]] Kimbe, the provincial capital, is about 125 miles (200 km) to the east.[[ifrc]]",
+    "The cones stand on the lower east flank of Talawe, an extinct volcano, in the area named for Cape Gloucester. A field of lava reaches the coast on their north and northeast sides.[[gvp]] The Smithsonian’s reports name two places nearby: the Kilenge mission, about 6 miles (10 km) to the west, and the airstrip at Cape Gloucester, 5 to 6 miles (8 to 9 km) to the north.[[gvp]]",
+    "About 10,000 people live near the volcano, by a Red Cross bulletin of June 2005.[[ifrc]] NASA described the area that month as remote, with unreliable radio, and reached only by boat or helicopter.[[nasa05]] Langila is one of {n_country} volcanoes in [Papua New Guinea](/volcanoes-in-papua-new-guinea) on the Smithsonian’s Holocene list; [Manam](/volcano/manam) is another.[[gvp]]"
+   ]
+  },
+  {
+   "id": "first",
+   "h": "When was Langila’s first recorded eruption?",
+   "paras": [
+    "**In 1878, on the Smithsonian’s list.** Its oldest entry for Langila is a confirmed eruption at the vent it calls Crater 2, rated VEI 2 and dated to the year only.[[gvp]]",
+    "The year is not settled. The Smithsonian’s note on that entry says the first recorded eruption has been put at 1878, 1880, 1884 or 1900. It names two authors: Cooke (1976), who preferred 1878, and Palfreyman (1981), who took the early descriptions of an 1878 eruption to be descriptions of older lava flows.[[gvp]]",
+    "The 1878 account is Wilfred Powell’s. Powell was an Englishman who explored New Britain in the ketch Star of the East between 1877 and 1880 and published a book about it in 1883. R. Wally Johnson, in his history of the region’s eruptions, places Powell’s voyage along the island’s north coast in the later part of 1878, possibly running into 1879. At the western end of New Britain, Powell wrote of “innumerable volcanoes, small and large, all in violent eruption”: a hundred or more of them, with flames at night, ash in the air and a noise like low, continuous thunder.[[john3]]",
+    "Johnson calls that an exaggeration. There is only one active volcano at the western end of New Britain, he writes, and it is Langila. He suggests that Powell may have misread a field of active lava flows from Langila: flows break open in many places as they move, and at night the openings show their glowing interiors. Johnson’s own table of eruptions keeps Langila under 1878, with the remark that Powell’s description was vivid and inaccurate. The same table has three other volcanoes of the region in eruption that year: Ritter Island, [Ulawun](/volcano/ulawun) and [Rabaul](/volcano/rabaul).[[john3]]",
+    "So the earliest date rests on one traveler’s description, and its later readers differ on what he saw: Johnson allows for lava that was flowing as Powell passed, Palfreyman for flows that were already old. The next four entries on the Smithsonian’s list, for 1884, 1890, 1900 and 1907, are dated to the year only as well.[[gvp]] A 2012 study of volcanic gas in Papua New Guinea, citing Cooke and others (1976), gives a different account again: that activity at Langila resumed in 1953 after about eighty years of quiet.[[mcc]] The first eruption that the Smithsonian dates to the day began on May 18, 1954.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Langila erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. Its current eruption began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]] The Smithsonian keeps an eruption on its list of continuing ones as long as activity returns without a break of three months or more.[[gvpcur]]",
+    "The start date is a satellite’s. Landsat images showed heat at the craters on October 5 and 21, 2015, and a Sentinel-2 image showed it inside Crater 2 on October 22. Ash emissions followed from April 2016, the first the Smithsonian’s bulletins count since December 2012.[[gvp]]",
+    "The Smithsonian’s weekly reports carry the newer observations. Those of 2026 read for this page have ash plumes on May 8 and June 18 (7,000 ft, or 2.1 km, above sea level), on July 21, 24 and 25 (6,000 to 7,000 ft), on August 24 (6,000 ft, or 1.8 km), on September 17 (8,000 ft, or 2.4 km) and on October 26 to 28 (5,000 to 8,000 ft). The highest of them topped out about 3,600 ft (1,100 m) above the summit. On October 28 the report also notes smoke from extensive fires in the area.[[gvp]] The Smithsonian’s index of its reports also lists February 2026, which this page has not read.",
+    "Every one of those observations was made from satellite images by the Darwin Volcanic Ash Advisory Centre, the office of Australia’s Bureau of Meteorology that tracks volcanic ash for aviation over Indonesia, Papua New Guinea and the southern Philippines.[[gvp]][[bom]] The reports give no alert level for Langila."
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What kind of volcano is Langila, and how tall is it?",
+   "paras": [
+    "The Smithsonian classes Langila as a **[complex volcano](/types-of-volcanoes)**: a group of four small composite cones that overlap, on the lower east flank of Talawe. Its summary calls the cones basaltic-andesitic, and the list gives the main rock as {rock}.[[gvp]]",
+    "The summit is **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]] That figure includes the slope of Talawe that the cones stand on. No source read for this page gives the height of the cones by themselves.",
+    "Three craters at the summit have been active in recorded times. The youngest and smallest, Crater 3, formed in 1960 and is about 490 ft (150 m) across.[[gvp]] A report of 1983 describes it as a separate cone about 1,000 ft (300 m) west of Crater 2, the crater where the current eruption is listed.[[gvp]] Talawe has a crater of its own, rectangular, 1.6 miles (2.5 km) long and open to the southeast. Langila was built to the northeast of it.[[gvp]]",
+    "Langila’s eruptions are frequent and mostly small: mild to moderate explosions, sometimes with lava flows, in the Smithsonian’s summary.[[gvp]] The 2012 gas study adds a caution. Langila is so remote, it says, that reports usually cover only its most violent activity and often cannot say which crater was active.[[mcc]]",
+    "The volcano also gives off gas steadily. A ground survey in July and August 2003 measured sulfur dioxide at a rate of 91,000 metric tons a year, about 250 metric tons a day. That was the third-highest of six Papua New Guinea volcanoes measured, after [Bagana](/volcano/bagana) and Ulawun. A satellite instrument then detected sulfur dioxide from Langila in 28 of the 48 months from 2005 through 2008.[[mcc]]"
+   ]
+  },
+  {
+   "id": "since1954",
+   "h": "What has Langila done since 1954?",
+   "paras": [
+    "In 1952 the volcano began giving off more gas. Investigators went to look, and one of them, Tony Taylor, climbed down into the active crater. They concluded that an eruption was likely, and explosive activity began in 1954.[[john9]] The Smithsonian’s list dates that eruption May 18 to November 13, 1954 and rates it VEI {max_vei}, the highest it gives any eruption of Langila.[[gvp]] Johnson describes low-grade Vulcanian eruptions that had no serious effects on nearby communities.[[john9]]",
+    "Eleven shorter eruptions follow on the list between 1955 and 1972, all at Crater 2, Crater 3 or both. The entry that begins on December 19, 1960 is the first to name Crater 3, the crater that formed that year, and it includes a lava flow.[[gvp]]",
+    "The longest entry runs from February 1973 to October 2000 or later: **{long1_years} years** by the list’s dates, and the only other eruption rated VEI {max_vei}.[[gvp]] Lava began to flow from Crater 3 on July 12, 1973. Within six days the flow was about 0.6 miles (1 km) long and 1,000 ft (300 m) wide, and it kept moving for about six months.[[gvp]] In Johnson’s summary, explosive eruptions from May 1973 to May 1974 came with lava flows, and more lava followed from December 1974 to February 1975.[[john11]] The 2012 gas study calls the eruption of those years Langila’s largest in a century.[[mcc]]",
+    "The Smithsonian’s monthly reports from those 27 years give the scale. In December 1982 ash-laden columns rose as much as 30,000 ft (9 km). A report of January 1984 has large blocks landing as far as 1.2 miles (2 km) from the vent. Reports of late 1982 and January 1983 have glowing rock setting vegetation on the flanks alight, and one of June 1991 has the air waves of the strongest explosions shaking people in villages 6 to 9 miles (10 to 15 km) away. Lava flowed from Crater 3 again in 1981, 1992 and 1993.[[gvp]]",
+    "The last activity the reports give for that eruption is mild ash emission from Crater 2 in October 2000; the next thing they report is an ash cloud on July 11, 2002.[[gvp]] Seven shorter eruptions are listed from 2002 to 2012, the one of 2005 and 2006 among them. In May and August 2007 ash rose to about 17,000 ft (5.3 km), and in September 2009 explosions at Crater 2 sent up dense ash plumes that could be seen hundreds of kilometers away.[[gvp]]",
+    "The current eruption brought lava back. From late January to October 2017 flows spread on the northwest and west flanks, with heat showing in satellite images more than 1.2 miles (2 km) northwest of the summit. On May 18, 2017 ash rose to about 15,000 ft (4.6 km) and stretched about 106 miles (170 km) to the west-southwest. In late May 2018 visitors in a small boat off the coast photographed ash plumes and reported ash falling.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2005",
+   "h": "What happened in the eruption of 2005?",
+   "aside": "callouts",
+   "paras": [
+    "The Smithsonian’s list has an eruption from April 19, 2005 to March 31, 2006, with both dates marked uncertain.[[gvp]] Its report on the eruption says that a lava flow was produced and that it has no further detail.[[gvp]] From Thursday, June 2, by a Red Cross bulletin, the volcano erupted continuously and put out more ash than usual.[[ifrc]]",
+    "On June 6 the provincial disaster office sent a team by helicopter. It found **3,486 people affected**, mainly in the villages of Aitavala, Masele, Kilenge, Ongaea, Potne and Sumel, and to a lesser extent in Vem, Galegale, Tauale and Laut. Aimaga, Aipate and Gie had only light ashfall.[[ifrc]]",
+    "Ash damaged food crops and drew moisture out of the soil as the dry season began, and food was reported to be running low. Water sources were contaminated, though some that could be drunk from remained. Cases of breathing trouble and eye irritation were rising.[[ifrc]] The provincial government declared a level-two alert and encouraged people to leave of their own accord. Some had already moved to safer places, among them the Anglican mission at Sag Sag, and the disaster office estimated that as many as 6,000 people could be affected.[[ifrc]]",
+    "The eruption could be watched only by eye: lightning had damaged the instruments that the Rabaul observatory had installed.[[ifrc]] A NASA satellite image of June 13 shows the ash cloud over the sea north of the volcano. The winds had first carried the ash out over the ocean and had then begun to bring it back toward the island.[[nasa05]]",
+    "It is the only eruption of Langila for which this page found a count of people affected."
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Langila dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Rabaul Volcano Observatory and Papua New Guinea’s disaster authorities.",
+   "paras": [
+    "No report read for this page records a death caused by Langila. The Smithsonian’s reports go back to 1973, and NOAA’s database of significant eruptions has no entry for the volcano.[[gvp]][[noaa]]",
+    "What the reports do record is ash, flying rock and lava. Ash has fallen on inhabited places 5 to 11 miles (8 to 18 km) away, and in 2005 it damaged gardens and water supplies.[[gvp]][[ifrc]] Blocks have landed as far as 1.2 miles (2 km) from the vent, and the air waves of the strongest explosions have shaken villages 6 to 9 miles (10 to 15 km) away. Lava flows have run down the north side toward the old lava field.[[gvp]]",
+    "Ash is a hazard to aircraft too. The Darwin centre exists to tell aviation where volcanic ash is and where it is moving,[[bom]] and a Smithsonian report of early 1997 has an aircraft meeting an ash cloud from Langila, with no damage found.[[gvp]]",
+    "The area is remote. In 2005 it could be reached only by boat or helicopter, and its radio links were unreliable.[[nasa05]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Langila?",
+   "paras": [
+    "The Rabaul Volcano Observatory is responsible for Papua New Guinea’s volcanoes. An entry in the directory of the World Organization of Volcano Observatories, undated and written no earlier than 2002, lists Langila among four volcanoes with an outstation of their own: an observation post, two seismographs on the flanks that recorded on paper, and daily reports to Rabaul by radio.[[wovo]]",
+    "The Smithsonian’s reports show that post at work in the 1980s. A report of February 1980 has the seismograph moved from the Kilenge mission to the Cape Gloucester airstrip, and reports of the following years give the sounds heard at an observation post about 6 miles (10 km) from the volcano.[[gvp]] By June 2005 lightning had put the instruments out of action.[[ifrc]]",
+    "For the current eruption the Smithsonian’s bulletins rest mostly on satellite images and on the Darwin centre’s notices. They relay the observatory for May 2016 and in the bulletin of June 2018, and say that none of its reports were available for January to July 2017 or for the bulletin of November 2018.[[gvp]]",
+    "A document about the observatory on the disaster-risk site PreventionWeb, written for an award no earlier than 2014, says that it monitored only seven of the country’s 15 active volcanoes, for want of money, staff and equipment. It does not name the seven.[[pw]] This page found no website of the observatory itself and no alert level for Langila."
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Langila erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** of Langila, and {n_since} of them have begun since {since_year}.[[gvp]] It also carries {n_unconfirmed_word} entries that it marks as uncertain, which are in none of the counts on this page: one around 1942, single days in July 2011 and July 2012, and October 23 to December 1, 2013.[[gvp]] A photograph taken from the International Space Station on November 16, 2013, inside the last of those windows, shows an ash plume rising from the volcano.[[nasa13]]",
+    "Time is the plainer measure. From {counted_month_year}, where the list’s dated entries begin, to its last update, Langila was in eruption **about {share} percent of the time**.[[gvp]] No gap between two dated eruptions in those years is as long as three years. The longest, from {longest_gap_from_year} to {longest_gap_to_year}, came just before the current eruption; the table above has the newest gaps.",
+    "By size the list is modest: {n_vei3} eruptions of VEI 3 on the [Volcanic Explosivity Index](/volcanic-explosivity-index), {n_vei2} of VEI 2, {n_vei1} of VEI 1 and {n_vei0} of VEI 0. It puts a question mark on {n_vei_marked} of the ratings.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Langila’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Langila has **{n_all} confirmed eruptions**, all {n_observed} of them known from written reports. The oldest is filed under 1878, and the first five carry a year and nothing more.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "June 2005",
+ "callouts": [
+  {
+   "number": "3,486",
+   "unit": "people",
+   "text": "Affected by ash by June 6, 2005, in the count of the provincial disaster office.",
+   "source": "Source: Red Cross information bulletin.[[ifrc]]"
+  },
+  {
+   "number": "6,000",
+   "unit": "people",
+   "text": "The disaster office’s estimate of how many could be affected if the eruption went on.",
+   "source": "Source: Red Cross information bulletin.[[ifrc]]"
+  }
+ ],
+ "faq_h": "Langila questions and answers",
+ "faq": [
+  [
+   "When was Langila’s first recorded eruption?",
+   "In 1878, on the Smithsonian’s list. Its own note says the year has also been given as 1880, 1884 or 1900: the 1878 account is one traveler’s, and a later author took it to describe older lava flows."
+  ],
+  [
+   "Is Langila erupting now?",
+   "By the Smithsonian’s list, yes: the eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}. Its weekly report for October 22 to 28, 2026 has ash plumes at 5,000 to 8,000 ft (1.5 to 2.4 km) on October 26 to 28."
+  ],
+  [
+   "Where is Langila volcano?",
+   "At the western tip of New Britain, in Papua New Guinea’s West New Britain province, about 125 miles (200 km) west of the provincial capital, Kimbe."
+  ],
+  [
+   "How tall is Langila?",
+   "{summit_ft} ft ({summit_m} m) above sea level. The cones stand on the flank of an older volcano, Talawe, and no source read for this page gives their height by themselves."
+  ],
+  [
+   "What type of volcano is Langila?",
+   "A complex volcano, by the Smithsonian’s classification: a group of four small overlapping cones with three craters that have been active in recorded times."
+  ],
+  [
+   "How many times has Langila erupted?",
+   "The Smithsonian lists {n_all} confirmed eruptions since 1878, {n_since} of them since {since_year}, and {n_unconfirmed_word} more entries that it marks as uncertain."
+  ],
+  [
+   "What was Langila’s longest eruption?",
+   "The one the Smithsonian lists from February 1973 to October 2000 or later: {long1_years} years by its dates. The current eruption has run {cur_number} {cur_unit} so far."
+  ],
+  [
+   "Has Langila killed anyone?",
+   "No report read for this page records a death. NOAA’s database of significant eruptions has no entry for Langila. In 2005 its ash affected 3,486 people, by the count of the provincial disaster office."
+  ],
+  [
+   "Who monitors Langila?",
+   "The Rabaul Volcano Observatory is responsible for it. The newest observations on this page, from 2026, were made from satellite images by the Darwin Volcanic Ash Advisory Centre."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Langila record, eruption list, weekly reports and bulletins",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=252010"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "gvpcur",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Current Eruptions: what “continuing” means",
+   "url": "https://volcano.si.edu/gvp_currenteruptions.cfm"
+  },
+  {
+   "id": "john3",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands: A History of Volcanic Eruptions and Disaster Management in Papua New Guinea and the Solomon Islands, chapter 3: European Intruders and the 1878 Rabaul Eruption: 1870–1883 (PDF)",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/pdf/ch033.pdf"
+  },
+  {
+   "id": "john9",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands, chapter 9: Tony Taylor and an Eruption Time Cluster: 1951–1966",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/html/ch09.xhtml?page=16"
+  },
+  {
+   "id": "john11",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands, chapter 11: Cooke-Ravian and a Volcanic Resurgence: 1971–1979",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/html/ch11.xhtml"
+  },
+  {
+   "id": "ifrc",
+   "publisher": "International Federation of Red Cross and Red Crescent Societies",
+   "title": "Papua New Guinea: Langila Volcano, Information Bulletin no. 1 (June 2005; copy on ReliefWeb)",
+   "url": "https://reliefweb.int/report/papua-new-guinea/papua-new-guinea-langila-volcano-information-bulletin-n-1"
+  },
+  {
+   "id": "nasa05",
+   "publisher": "NASA Earth Observatory",
+   "title": "Eruption of Langila Volcano, New Britain (satellite image of June 13, 2005; published June 14, 2005)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/eruption-of-langila-volcano-new-britain-15023/"
+  },
+  {
+   "id": "nasa13",
+   "publisher": "NASA Earth Observatory",
+   "title": "Ash Plume from Langila (photograph of November 16, 2013; published November 27, 2013)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/ash-plume-from-langila-82459/"
+  },
+  {
+   "id": "mcc",
+   "publisher": "McCormick, Edmonds, Mather and Carn, Geochemistry, Geophysics, Geosystems 13(3), 2012",
+   "title": "First synoptic analysis of volcanic degassing in Papua New Guinea, doi:10.1029/2011GC003945 (PDF on NASA’s sulfur dioxide monitoring site)",
+   "url": "https://so2.gsfc.nasa.gov/pdfs/McCormic_G3_2011GC003945.pdf"
+  },
+  {
+   "id": "wovo",
+   "publisher": "World Organization of Volcano Observatories",
+   "title": "Directory of member observatories: Papua New Guinea, Rabaul Volcanological Observatory (undated entry)",
+   "url": "https://wovo.iavceivolcano.org/members-observatories-directory/papua-new-guinea-rabaul-volcanological-observatory/"
+  },
+  {
+   "id": "pw",
+   "publisher": "PreventionWeb",
+   "title": "Rabaul Volcanological Observatory: candidate information for an award (undated; the newest date in it is 2014; PDF)",
+   "url": "https://www.preventionweb.net/files/workspace/37131_candidateinformation%5B8%5D.pdf?startDownload=true"
+  },
+  {
+   "id": "bom",
+   "publisher": "Bureau of Meteorology, Australia",
+   "title": "Darwin Volcanic Ash Advisory Centre",
+   "url": "https://www.bom.gov.au/aviation/volcanic-ash/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about {share} percent of the time:** the days inside the listed eruptions from {counted_month_year} to the list’s last update, divided by all the days in that time. The five entries before then have years and no dates.",
+  "**{long1_years} years:** the whole years between the two dates the list gives for that eruption, about February 24, 1973 and October 2000. The list marks the end as on or after October 16, 2000.",
+  "**about 3,600 ft (1,100 m) above the summit:** the plume’s altitude of 8,000 ft less the summit height of {summit_ft} ft.",
+  "**about 250 metric tons a day:** 91,000 metric tons a year divided by 365. The paper gives the rate as 91 million kilograms a year.",
+  "Ash heights are altitudes above sea level. The heights of 2026 are in the feet the reports print; where a report gives kilometers only, feet are converted and rounded to the nearest thousand. The report of December 1982 does not say what its 9 km is measured from.",
+  "Miles and feet for distances and sizes are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "cur_since": "October 22, 2015 (date uncertain)",
+  "summit_m": "1,330",
+  "summit_ft": "4,364",
+  "n_all": "26",
+  "n_observed": "26",
+  "n_since": "21",
+  "since_year": "1954",
+  "counted_month_year": "May 1954",
+  "max_vei": "3",
+  "n_max_vei": "2",
+  "largest_year": "1973",
+  "n_vei3": "2",
+  "n_vei2": "22",
+  "n_vei1": "1",
+  "n_vei0": "1",
+  "n_vei_marked": "2",
+  "n_unconfirmed": "4",
+  "noaa_n": "0",
+  "oldest": "1878 CE",
+  "long1_span": "1973 to 2000",
+  "long1_years": "27",
+  "longest_gap_years": "2",
+  "longest_gap_from_year": "2012",
+  "longest_gap_to_year": "2015",
+  "prev_start": "December 1",
+  "prev_end": "December 5, 2012"
+ },
+ "observatory_read": "2026-11-21",
+ "since_check": "**Newest report read:** the Smithsonian’s weekly report for October 22 to 28, 2026. The Darwin Volcanic Ash Advisory Centre saw ash plumes at 5,000 to 8,000 ft (1.5 to 2.4 km) above sea level on October 26 to 28.[[gvp]] No alert level for Langila was found when the sources were read, on {read_date}.",
+ "reviewed": null
+}

@@ -253,7 +253,8 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
         const text =
           stats.current?.sdmod === '<'
             ? `by ${dateText(stats.currentStart, precisionOf(stats.current.sdunc))}: current eruption under way`
-            : `${dateText(stats.currentStart, precisionOf(stats.current?.sdunc))}: current eruption begins`;
+            : // a start day the Smithsonian marks with a question mark says so here too, as the end of a last eruption does below
+              `${dateText(stats.currentStart, precisionOf(stats.current?.sdunc))}${stats.current?.sdmod === '?' ? ' (uncertain)' : ''}: current eruption begins`;
         // the label goes left of its tick when it would run off the right end of the strip
         // (bold Archivo runs about half an em per letter; measured on the Erebus label, which fits and stays put)
         const flip = !small && startX + 6 + text.length * (fs + 1) * 0.5 > w - 8;
@@ -299,7 +300,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
       )}
       {!small && ctx.open_before && (
         <text x={x0} y={yb + 74} fontSize={13} fill={PAL.mute}>
-          already erupting before {ctx.open_before}
+          already erupting by {ctx.open_before}
         </text>
       )}
       {gridLabels}

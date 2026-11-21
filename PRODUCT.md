@@ -56,6 +56,13 @@ The site is finished when every page is. Then it is frozen for three months and 
 - A date is never printed more exactly than the Smithsonian gives it. Its record marks many days as uncertain (only
   the month, or only the year, is known): those print as "May 1910" or "1857", and any length of time worked out from
   them starts with "about".
+- A date the Smithsonian gives as a limit keeps the limit. Its "in or before" and "on or before" print as "(or earlier)"
+  after the date, its "on or after" as "(or later)", and the note under the table says what the marks mean. "Before 1558"
+  would leave out 1558 itself, and an end date without its mark would read as exact. A length or gap counted from such
+  a date is a limit too and says "at least" or "at most".
+- A volcano with a page of its own is on every list of them. The list of all profiles, the counts on the home page, the
+  About page and the footer, the map and the search are drawn from one list (`getVolcanoList()` in `lib/data.ts`), which
+  also takes rebuilt pages of volcanoes that never had an old profile.
 - How high a volcano stands above the land around it is worked out, not looked up: the summit height minus the median
   height of the land 14 to 16 km away in NOAA's ETOPO 2022 grid. The page says so and shows the method.
 - An eruption the Smithsonian lists as continuing is counted from its start to today, in months until two years have

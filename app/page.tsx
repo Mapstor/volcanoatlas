@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
-import { getAllVolcanoes, getAllCountries, getMapMarkers } from '@/lib/data';
+import { getVolcanoList, getAllCountries, getMapMarkers } from '@/lib/data';
 import MapSection from '@/components/MapSection';
 import { getAllGvp } from '@/lib/gvp';
 import { GVP_EXPORT_DATE, GVP_HOME, SITE_NAME, pageMeta } from '@/lib/site';
@@ -9,7 +9,7 @@ import { GVP_EXPORT_DATE, GVP_HOME, SITE_NAME, pageMeta } from '@/lib/site';
 const POPULAR_SLUGS = ['stromboli', 'taal', 'pinatubo', 'fujisan', 'vesuvius', 'st-helens', 'krakatau', 'kilauea'];
 
 export async function generateMetadata(): Promise<Metadata> {
-  const [volcanoes, countries] = await Promise.all([getAllVolcanoes(), getAllCountries()]);
+  const [volcanoes, countries] = await Promise.all([getVolcanoList(), getAllCountries()]);
   return pageMeta({
     title: `${SITE_NAME} — Every Volcano on Earth`,
     description: `Encyclopedia of Earth's volcanoes: ${volcanoes.length} detailed profiles, ${countries.length} country pages, an interactive map and weekly eruption reports, built on Smithsonian data.`,
@@ -36,7 +36,7 @@ const GUIDES = [
 ];
 
 export default async function HomePage() {
-  const [volcanoes, countries, markers] = await Promise.all([getAllVolcanoes(), getAllCountries(), getMapMarkers()]);
+  const [volcanoes, countries, markers] = await Promise.all([getVolcanoList(), getAllCountries(), getMapMarkers()]);
   const databaseTotal = getAllGvp().length;
 
   const bySlug = new Map(volcanoes.map((v) => [v.slug, v]));

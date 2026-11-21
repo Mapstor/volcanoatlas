@@ -1,11 +1,11 @@
-import { getAllVolcanoes } from '@/lib/data';
+import { getVolcanoList } from '@/lib/data';
 import VolcanoesListClient from '@/components/VolcanoesListClient';
 import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
 import { eruptionGroup } from '@/lib/gvp';
 import { pageMeta } from '@/lib/site';
 
 export async function generateMetadata() {
-  const volcanoes = await getAllVolcanoes();
+  const volcanoes = await getVolcanoList();
   return pageMeta({
     title: `All Volcanoes: List of ${volcanoes.length} Volcano Profiles`,
     description: `Browse ${volcanoes.length} volcano profiles. Filter by country, type and last eruption, then open any volcano for its location, elevation and eruption record.`,
@@ -14,7 +14,7 @@ export async function generateMetadata() {
 }
 
 export default async function VolcanoesPage() {
-  const volcanoes = await getAllVolcanoes();
+  const volcanoes = await getVolcanoList();
 
   const volcanoData = volcanoes
     .map((volcano) => ({

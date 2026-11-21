@@ -1,4 +1,4 @@
-import { getAllCountries, getAllVolcanoes } from '@/lib/data';
+import { getAllCountries, getVolcanoList } from '@/lib/data';
 import Link from 'next/link';
 import CountriesListClient from '@/components/CountriesListClient';
 import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
@@ -13,7 +13,7 @@ export const metadata = pageMeta({
 
 export default async function CountriesPage() {
   const countries = await getAllCountries();
-  const volcanoes = await getAllVolcanoes();
+  const volcanoes = await getVolcanoList();
 
   const countryData = countries
     .map((country) => ({

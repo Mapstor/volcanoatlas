@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { eruptionGroup } from './gvp';
+import { getRecordOnlyPages } from './recordProfile';
 
 const dataDirectory = path.join(process.cwd(), 'data');
 const contentDirectory = path.join(dataDirectory, 'content');
@@ -230,6 +231,37 @@ export async function getAllVolcanoes(): Promise<VolcanoData[]> {
   return volcanoes;
 }
 
+/** What a list, a count, the map and the search need of a volcano that has a profile page. */
+export interface VolcanoListEntry {
+  slug: string;
+  hero: Pick<VolcanoData['hero'], 'name' | 'country' | 'type' | 'elevation_m' | 'elevation_ft' | 'status' | 'last_eruption' | 'last_eruption_year' | 'coordinates'>;
+}
+
+/**
+ * Every volcano with a profile page: the profiles in data/content, plus the rebuilt profiles that never had one
+ * (data/profiles/<slug>.json without a data/content file), whose list data is the Smithsonian's from data/sources.
+ * Lists, counts, the map and the search use this; getAllVolcanoes() is only the old profile files.
+ */
+export async function getVolcanoList(): Promise<VolcanoListEntry[]> {
+  const old: VolcanoListEntry[] = await getAllVolcanoes();
+  const added: VolcanoListEntry[] = getRecordOnlyPages().map((page) => ({
+    slug: page.slug,
+    hero: {
+      name: page.name,
+      country: page.country,
+      type: page.type ?? 'Unknown',
+      elevation_m: page.elevation_m,
+      elevation_ft: page.elevation_ft,
+      // no "active" or "dormant" label of our own: the group by the year of the last known eruption
+      status: eruptionGroup(page.last_eruption_year),
+      last_eruption: page.last_eruption,
+      last_eruption_year: page.last_eruption_year,
+      coordinates: { lat: page.lat, lon: page.lon },
+    },
+  }));
+  return [...old, ...added];
+}
+
 // Get single volcano by slug
 export async function getVolcanoBySlug(slug: string): Promise<VolcanoData | null> {
   try {
@@ -343,7 +375,7 @@ export async function getAllSpecialPages(): Promise<{ slug: string }[]> {
 
 // Get map markers for all volcanoes
 export async function getMapMarkers(): Promise<MapMarker[]> {
-  const volcanoes = await getAllVolcanoes();
+  const volcanoes = await getVolcanoList();
   return volcanoes
     .filter(volcano => volcano.hero?.coordinates?.lat && volcano.hero?.coordinates?.lon)
     .map(volcano => ({

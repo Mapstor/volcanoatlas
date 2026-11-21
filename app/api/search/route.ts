@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getAllVolcanoes, getAllCountries, getAllSpecialPages } from '@/lib/data';
+import { getVolcanoList, getAllCountries, getAllSpecialPages } from '@/lib/data';
 
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams;
@@ -20,7 +20,7 @@ export async function GET(request: NextRequest) {
 
     // Search volcanoes
     if (category === 'all' || category === 'volcanoes') {
-      const volcanoes = await getAllVolcanoes();
+      const volcanoes = await getVolcanoList();
       const volcanoResults = volcanoes
         .filter(volcano => 
           volcano.hero.name.toLowerCase().includes(query) ||

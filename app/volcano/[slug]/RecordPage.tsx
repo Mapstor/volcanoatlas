@@ -4,7 +4,7 @@ import './record.css';
 import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
 import LazyMap from '@/components/record/LazyMap';
 import { SectionDrawing, Timeline } from '@/components/record/figures';
-import { getAllVolcanoes } from '@/lib/data';
+import { getVolcanoList } from '@/lib/data';
 import { endLabel, fmt, isoToYmd, longDate, METHOD_LABEL, MONTHS, NOAA_TOLL, startLabel } from '@/lib/eruptions';
 import { buildRecordData, fill, noaaDate, plain, possessive, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
 import { countryHref, resolveInternalPath } from '@/lib/routes';
@@ -29,11 +29,11 @@ const withArticle = (country: string) =>
 /** A date in a table cell stays on one line; a marker in brackets after it ("(uncertain)") may drop to a second line. */
 const dateCell = (text: string) => text.replace(/ (?!\()/g, '\u00a0');
 
-/** A length of time in a table cell breaks between its parts, never inside one: "3 years | 11 months | so far". */
+/** A length of time in a table cell breaks between its parts, never inside one: "at least | about 3 years | 11 months | so far". */
 const tie = (text: string) =>
   text
-    .replace(/\bat least\b/g, 'at\u00a0least')
-    .replace(/\b(about|least|so) (?=\S)/g, '$1\u00a0')
+    .replace(/\bat (least|most)\b/g, 'at\u00a0$1')
+    .replace(/\b(about|so) (?=\S)/g, '$1\u00a0')
     .replace(/(\d) (years?|months?|days?|minutes?)\b/g, '$1\u00a0$2');
 
 function Html({ html, as: Tag = 'p', className }: { html: string; as?: 'p' | 'span' | 'li' | 'figcaption'; className?: string }) {
@@ -112,9 +112,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
   const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
 
-  const others = (await getAllVolcanoes())
+  // every other volcano with a profile page in the country, rebuilt pages without an old profile included
+  const others = (await getVolcanoList())
     .filter((v) => v.hero.country === volcano.country && v.slug !== profile.slug)
-    .sort((a, b) => a.hero.name.localeCompare(b.hero.name));
+    .map((v) => ({ slug: v.slug, name: v.hero.name }))
+    .sort((a, b) => a.name.localeCompare(b.name));
   const explore = [
     { href: '/latest-eruptions', text: 'Latest weekly eruption reports' },
     { href: '/most-active-volcanoes', text: 'Most active volcanoes' },
@@ -163,6 +165,15 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
     })),
   };
 
+  // A table that prints "(or earlier)" or "(or later)" says under it what the mark means: the Smithsonian gives such a
+  // date as a limit ("in or before", "on or before", "on or after").
+  const limitNote = (labels: string[], withLengths = false) =>
+    labels.some((label) => /\(or (earlier|later)\)/.test(label))
+      ? ` “Or earlier” and “or later” are the Smithsonian’s limits on a date: on or before the one shown, or on or after it.${
+          withLengths ? ' A length or gap counted from such a date is a limit too, and says “at least” or “at most”.' : ''
+        }`
+      : '';
+
   // newest rows only when the profile asks for that
   const periodRows = profile.table?.rows ? stats.periods.slice(-profile.table.rows) : stats.periods;
   const shortened = periodRows.length < stats.periods.length;
@@ -191,7 +202,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 <td className="va-dur">
                   {tie(
                     row.continuing && ctx.cur_number
-                      ? `${ctx.cur_number} ${ctx.cur_unit} so far`
+                      ? `${row.eruption.sdmod === '<' ? 'at least ' : ''}${ctx.cur_number} ${ctx.cur_unit} so far`
                       : i === periodRows.length - 1 && profile.table?.last_length
                         ? profile.table.last_length
                         : row.length,
@@ -210,7 +221,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
       </div>
       <Html
         className="va-srcline"
-        html={`${gvpLine} ${plain(profile.table?.calc_note ?? 'Lengths and gaps are calculated from its dates.', ctx)} VEI is the ${vei ? `<a href="${vei}">Volcanic Explosivity Index</a>` : 'Volcanic Explosivity Index'}.`}
+        html={`${gvpLine} ${plain(profile.table?.calc_note ?? 'Lengths and gaps are calculated from its dates.', ctx)}${limitNote(periodRows.flatMap((row) => [row.startText, row.endText]), true)} VEI is the ${vei ? `<a href="${vei}">Volcanic Explosivity Index</a>` : 'Volcanic Explosivity Index'}.`}
       />
     </>
   );
@@ -288,7 +299,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           </tbody>
         </table>
       </div>
-      <Html className="va-srcline" html={`${gvpLine} “Uncertain” or a question mark means the Smithsonian marks the date or size as uncertain. Where only a month or a year is shown, that is all the record gives.`} />
+      <Html className="va-srcline" html={`${gvpLine} “Uncertain” or a question mark means the Smithsonian marks the date or size as uncertain.${limitNote(stats.all.flatMap((eruption) => [startLabel(eruption), endLabel(eruption)]))} Where only a month or a year is shown, that is all the record gives.`} />
     </details>
   );
 
@@ -531,7 +542,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                     <ul>
                       {others.map((other) => (
                         <li key={other.slug}>
-                          <Link href={`/volcano/${other.slug}`}>{other.hero.name}</Link>
+                          <Link href={`/volcano/${other.slug}`}>{other.name}</Link>
                         </li>
                       ))}
                       {countryLink && (

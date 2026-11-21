@@ -6,6 +6,7 @@ import {
   eruptionStats,
   feet,
   fmt,
+  getEruptions,
   getNoaaEvents,
   getSourceVolcano,
   isoToYmd,
@@ -17,6 +18,7 @@ import {
   spanBetween,
   dateText,
   precisionOf,
+  yearText,
   getGround,
   type EruptionStats,
   type NoaaEvent,
@@ -207,6 +209,54 @@ const cache = new Map<string, RecordProfile | null>();
 export function getRecordSlugs(): string[] {
   if (!fs.existsSync(DIR)) return [];
   return fs.readdirSync(DIR).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, ''));
+}
+
+/**
+ * Rebuilt pages of volcanoes that never had an old profile in data/content (the first: Langila, November 2026).
+ * The site's lists, counts, map and search of profiled volcanoes are drawn from the old profiles; getVolcanoList() in
+ * lib/data.ts adds these pages to them from here. Every value is the Smithsonian's, as the page itself prints it.
+ */
+export interface RecordOnlyPage {
+  slug: string;
+  name: string;
+  country: string;
+  type: string | undefined;
+  /** Summit height as the page itself prints it. */
+  elevation_m: number;
+  elevation_ft: number;
+  lat: number;
+  lon: number;
+  /** Year of the last known eruption, and how a list prints it: "2015–present" while the Smithsonian lists the eruption as continuing. */
+  last_eruption_year: number | null;
+  last_eruption: string;
+}
+
+export function getRecordOnlyPages(): RecordOnlyPage[] {
+  const content = path.join(process.cwd(), 'data', 'content');
+  return getRecordSlugs()
+    .filter((slug) => !fs.existsSync(path.join(content, `volcano-${slug}.json`)))
+    .map((slug) => {
+      const profile = getRecordProfile(slug) as RecordProfile;
+      const volcano = getSourceVolcano(profile.volcano_number);
+      if (!volcano || volcano.elevation === null) {
+        throw new Error(`record profile ${slug}: the lists of profiled volcanoes need a row with an elevation for volcano ${profile.volcano_number} in data/sources/gvp-volcanoes.json`);
+      }
+      const type = volcano.type ? volcano.type.replace(/\((es|s)\)/g, '').trim() : undefined;
+      const own = profile.facts.summit_m !== undefined && profile.facts.summit_ft !== undefined;
+      const stats = eruptionStats(profile.volcano_number);
+      return {
+        slug,
+        name: profile.name,
+        country: volcano.country,
+        type: type ? (TYPE_LABEL[type] ?? type) : undefined,
+        elevation_m: own ? (profile.facts.summit_m as number) : volcano.elevation,
+        elevation_ft: own ? (profile.facts.summit_ft as number) : Math.round(feet(volcano.elevation)),
+        lat: volcano.lat,
+        lon: volcano.lon,
+        last_eruption_year: volcano.last,
+        last_eruption: stats.current && stats.currentStart ? `${stats.currentStart[0]}–present` : volcano.last !== null ? yearText(volcano.last) : 'Unknown',
+      };
+    });
 }
 
 export function getRecordProfile(slug: string): RecordProfile | null {
@@ -534,6 +584,12 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   set('n_vei_none', stats.all.filter((e) => e.vei === null).length);
   // sizes the Smithsonian marks with a question mark ("5?" in the record table)
   set('n_vei_marked', stats.all.filter((e) => e.veiq === '?').length);
+  // entries the Smithsonian lists as uncertain eruptions: they are in none of the counts and tables above
+  {
+    const unconfirmed = getEruptions(profile.volcano_number).filter((e) => !e.confirmed).length;
+    set('n_unconfirmed', unconfirmed);
+    set('n_unconfirmed_word', word(unconfirmed));
+  }
   set('n_other', stats.all.length - (stats.methods['Observations: Reported'] ?? 0));
   if (volcano.rock) set('rock', volcano.rock.toLowerCase().replace(/\s*\/\s*/g, ' to '));
   if (volcano.type) {
