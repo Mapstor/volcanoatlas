@@ -172,7 +172,7 @@
     "In 1982 the flows and surges of hot ash reached 5 miles (8 km) from the crater.[[gvp]] Chiapas’s civil protection plan counts 24 communities with 5,565 people within 6 miles (10 km) of it. Three of them, with 207 people, are within 3 miles (5 km): Esquipulas Guayabal, Viejo Volcán and Nuevo Progreso.[[pcplan]]",
     "The plan ties each alert level to an area to be cleared. At Yellow, Phase 2 it is 1.6 miles (2.5 km) from the crater rim. The two stages of Red take it to 3 miles (5 km) and then 6 miles (10 km).[[pcplan]] In December 2025 the federal agency listed 13 evacuation routes and 22 temporary shelters checked.[[cnpc25]]",
     "Ash travels farther. In 1982 it fell over more than 17,000 square miles (45,000 sq km), and Tabasco’s civil protection programme names Teapa, Huimanguillo and Tacotalpa as the municipalities of that state most exposed to it.[[gvp]][[tabasco26]]",
-    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for El Chichón. Three are from 1982 and add up to {noaa_deaths} deaths. NOAA files {worst_deaths} of them under {worst_date}, although Tilling attributes most of the deaths to the flows of April 3 and 4. The fourth entry is the eruption the Smithsonian dates to about 1360, which NOAA places in {noaa_first}.[[noaa]][[tilling]][[gvp]]"
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for El Chichón. Three are from 1982 and add up to {noaa_deaths} deaths. NOAA files {worst_deaths} of them under {worst_date}, although Tilling attributes most of the deaths to the flows of April 3 and 4. The fourth entry is the eruption the Smithsonian dates to about 1360, which NOAA places in {noaa_first}.[[noaa]][[tilling]][[gvp]] For that one NOAA gives no count and describes the toll as some (about 51 to 100): by its note, a hot flood from a lake that the eruption’s flows had dammed caused deaths.[[noaa]]"
    ]
   },
   {
@@ -382,7 +382,8 @@
   "noaa_deaths": "1,913",
   "worst_deaths": "1,879",
   "worst_date": "March 29, 1982",
-  "noaa_first": "1375"
+  "noaa_first": "1375",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-18",
  "since_check": "**Alert level Yellow, Phase 1, when last stated.** Mexico’s civil protection agency said on December 18, 2025, that the volcano’s scientific committee had kept the level there; no newer statement of the level could be read for this page.[[cnpc25]] The newest report read on {read_date}, from UNAM’s Institute of Geophysics and dated August 30, 2026, describes water and gas sampling and a hydrophone placed in the crater lake. The only eruption it mentions is that of 1982.[[unam26]]",

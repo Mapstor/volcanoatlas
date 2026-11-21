@@ -141,7 +141,7 @@
     "For lava, the hazard map was redrawn in March 2021. It runs 252 simulations of lava flows, and the largest cases pour out 1.3 billion cubic meters (1.7 billion cubic yards), the volume of 864.[[hm]] The new map added 12 cities and towns that lava could reach, seven of them in Kanagawa Prefecture, Sagamihara and Odawara among them.[[hmdoc]]",
     "For ash, the Cabinet Office published a guideline for the Tokyo region in March 2025, with a large eruption of Fuji as its model. Its basic advice is to stay home and go on living there as far as possible. It gives three reasons: falling ash seldom puts lives in immediate danger, the region’s population is very large, and eruption forecasts are uncertain. Tokyo and Kanagawa alone have about 23 million residents.[[ashmag]][[ash]]",
     "The guideline sorts the damage into four stages by the depth of the ash. With less than 1.2 inches (3 cm), trains and flights stop. With 12 inches (30 cm) or more, wooden houses may collapse when rain soaks the ash, and people there should leave.[[ash]]",
-    "NOAA’s database of significant eruptions has {noaa_n_word} entry for Mount Fuji, the eruption of 1707, and lists no deaths for it. It rates that eruption VEI 4, one step below the Smithsonian’s 5.[[noaa]][[gvp]]"
+    "NOAA’s database of significant eruptions has {noaa_n_word} entry for Mount Fuji, the eruption of 1707. It gives no count of the dead and describes the toll as few (about 1 to 50): by its note, no victims were recorded from the ash fall itself, and many people died of starvation afterward. It rates that eruption VEI 4, one step below the Smithsonian’s 5.[[noaa]][[gvp]]"
    ]
   },
   {
@@ -351,7 +351,8 @@
   "max_vei": "5",
   "noaa_n": "1",
   "noaa_fatal_count": "0",
-  "last_year": "1708"
+  "last_year": "1708",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-18",
  "since_check": "**Not erupting: Alert Level 1.** Japan’s weather agency had Mount Fuji at Volcanic Alert Level 1, the lowest of five, when its status page was read on {read_date}. The page listed no new information in the week before, and the agency’s commentary for August 2026 reports no sign of an eruption.[[jmanow]][[jmam]]",

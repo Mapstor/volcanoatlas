@@ -565,6 +565,13 @@ body:has(.va-page) > footer {
   text-wrap: balance;
   min-width: 132px;
 }
+/* NOAA's description of a toll it does not count: the word, with its range on a second line, so the
+   four-column table still fits a phone */
+.va-table .va-toll small {
+  display: block;
+  font-size: 13px;
+  color: #4d5d58;
+}
 /* a date keeps to one line (its spaces are non-breaking); "(uncertain)" after it may wrap, so two uncertain
    dates in one row do not push the table past the text column */
 .va-table .va-when {

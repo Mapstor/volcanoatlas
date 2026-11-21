@@ -119,7 +119,7 @@
    "paras": [
     "People live close to it. In 2011 the Sakurajima area had 5,262 residents, and the city of Kagoshima, across the bay, had 608,219.[[jma]]",
     "Japan’s weather agency monitors the volcano continuously and has set alert levels for it since December 1, 2007. Level 3 means do not approach the volcano, and at Levels 1 to 3 nobody may go within 1.2 miles (2 km) of the Minamidake or Showa craters.[[jma]] The agency had the level at 3 in its commentary of November 16, 2026.[[jmanow]]",
-    "NOAA’s database of significant eruptions has **{noaa_n} entries** for the volcano. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]"
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for the volcano. The deadliest with a count is {worst_date}, with {worst_deaths} deaths.[[noaa]] For {noaa_described_word} more NOAA gives no count and describes the toll instead: many deaths in 766, in the eruption that began in 1471 and in February 1780, and a few in 1955, where its note mentions one death. NOAA itself calls the account of 1780, of water bursting from the summit and drowning many people, possibly suspect.[[noaa]]"
    ]
   },
   {
@@ -232,7 +232,8 @@
   "n_all": "48",
   "noaa_n": "15",
   "worst_deaths": "153",
-  "worst_date": "November 8, 1779"
+  "worst_date": "November 8, 1779",
+  "noaa_described_count": "4"
  },
  "observatory_read": "2026-11-17",
  "since_check": "**Volcanic Alert Level 3 of five.** The Japan Meteorological Agency’s page for the volcano, read on {read_date}, shows a warning at Level 3, do not approach the volcano, and a commentary dated November 16, 2026 that reports eruptive activity continuing.[[jmanow]]",

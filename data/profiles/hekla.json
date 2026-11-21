@@ -123,7 +123,7 @@
     "The Met Office calls it Hekla’s most recent major eruption.[[imomon]] It began on March 29, 1947, after 101 years without an eruption of the volcano itself, and ended on April 21, 1948, almost 13 months later.[[gvp]][[tl07]]",
     "The plume rose to about 19 miles (30 km), by the Met Office’s account; Britannica gives nearly 16 miles (27 km) and says ash fell as far away as Finland.[[imomon]][[brit]]",
     "Its lava covers 15 square miles (38.93 sq km) and amounts to about 0.18 cubic miles (0.742 cubic km), about as much as all the later eruptions together.[[pedersen]] It was also the first eruption of Hekla documented in detail.[[hosk]]",
-    "NOAA’s database dates its entry for this eruption November 2, 1947 and lists one death.[[noaa]]"
+    "NOAA’s database dates its entry for this eruption November 2, 1947 and lists one death: by its note, a scientist filming the eruption was killed by a glowing block that rolled off the front of a lava flow.[[noaa]]"
    ]
   },
   {
@@ -173,7 +173,7 @@
     "Aircraft are the other concern. Three international air routes cross the sky over Hekla, and planes pass close to the summit daily.[[icao]] In 2000 the plume was reported 7 miles (11 km) high six minutes after the lava appeared.[[gvp]]",
     "Hekla’s ash carries fluorine, which poisons grazing animals. In 1970 about 1,500 ewes and 6,000 lambs died of it, and in 1980 the fluorine in many grazing districts was above the danger level.[[gvp]]",
     "Lava has reached up to 10 miles (16 km) from Hekla in historical time, and about 5 miles (8 to 9 km) in the last 250 years. Farms were abandoned, destroyed or damaged in nine eruptions between 1104 and 1948; the lava of 1845 ended the old farm of Næfurholt.[[pedersen]]",
-    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Hekla, the first in {noaa_first}. {noaa_fatal_word} list deaths: {worst_deaths} for the eruption that began on {worst_date}, and one each in 1510 and 1947. The database does not say how the {worst_deaths} died, and no other source read for this page gives a death toll for that eruption. Its entry for 1693 carries a tsunami mark.[[noaa]]"
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Hekla, the first in {noaa_first}. {noaa_fatal_word} list deaths: {worst_deaths} for the eruption that began on {worst_date}, and one each in 1510 and 1947. By NOAA’s notes, the {worst_deaths} died in a famine in the winter after the eruption, brought on by its ash fall, and the man who died in July 1510 was hit by a block of rock about 12 miles (20 km) from the volcano. No other source read for this page gives a death toll for the eruption of 1300. A second entry for 1510, dated October 15, has no count: NOAA’s note says there were no confirmed deaths but that the eruption was the likely cause of a famine in northern Iceland, and its record describes the toll as many. The entry for 1693 carries a tsunami mark, which NOAA’s note credits to a list published in 1981.[[noaa]]"
    ]
   },
   {
@@ -372,7 +372,8 @@
   "noaa_fatal_count": "3",
   "noaa_deaths": "602",
   "worst_deaths": "600",
-  "worst_date": "July 11, 1300"
+  "worst_date": "July 11, 1300",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-18",
  "since_check": "**No eruption since 2000 on record.** The Icelandic Meteorological Office’s page for the volcano, read on {read_date}, gives 2000 as its last eruption. Its list of changes to the aviation colour code, read the same day, runs from November 20, 2024 to November 10, 2026 and has no entry for Hekla.[[imo]][[vona]]",

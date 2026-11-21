@@ -176,7 +176,7 @@
    "paras": [
     "USGS rates Kilauea’s threat potential as **Very High**.[[usgs]]",
     "Its deadliest eruption on record came in about 1790. An explosion at the summit sent hot ash and gas across a party of warriors and their families who were passing the crater. USGS puts the deaths at no fewer than 80 and perhaps hundreds.[[fs132]] Estimates run from about 80 to 5,405.[[vw1790]] NOAA’s database lists {worst_deaths}.[[noaa]]",
-    "NOAA lists **{noaa_n} significant events at Kilauea**.[[noaa]] The explosions of 1924 killed one person, a photographer hit by falling rocks and hot mud.[[fs132]]"
+    "NOAA lists **{noaa_n} significant events at Kilauea**.[[noaa]] The explosions of 1924 killed one person, a photographer hit by falling rocks and hot mud.[[fs132]] For an eruption of February 1823 NOAA gives no count and describes the toll as few: one account it cites has a lava flow reach a coastal village so fast that a few older people and children were killed, and another mentions no deaths.[[noaa]]"
    ]
   },
   {
@@ -343,7 +343,8 @@
   "worst_deaths": "5,405",
   "n_observed": "45",
   "n_dated": "30",
-  "summit_ft": "4,009"
+  "summit_ft": "4,009",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-17",
  "reviewed": null

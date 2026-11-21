@@ -114,7 +114,7 @@
    "table": "noaa",
    "note": "This page is a record, not a safety guide. For the alert level in force and the danger zones, use Vanuatu’s geohazards department.[[vmgdwarn]]",
    "paras": [
-    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Ambae. The highest toll it lists is {worst_deaths} deaths.[[noaa]]",
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Ambae. The highest count it lists is {worst_deaths} deaths.[[noaa]] For an eruption it dates to 1670 it gives no count and describes the toll as many, from a legend of a lava flow that killed many people.[[noaa]]",
     "In 2017 and 2018 the harm came from ash, acid rain and lahars, and it reached the whole island.[[vmgd]][[bgvn1902]] The department’s bulletin of October 2024 warned that eruptions can come with little or no warning, and that heavy rain can still carry ash from 2017 and 2018 down the creeks.[[vmgd24]]"
    ]
   },
@@ -246,7 +246,8 @@
   "n_all": "12",
   "n_since": "10",
   "noaa_n": "5",
-  "worst_deaths": "100"
+  "worst_deaths": "100",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-17",
  "since_check": "**Alert Level 3, “minor eruption”.** The page of Vanuatu’s geohazards department for the volcano, read on {read_date}, showed Level 3; its warning of February 23, 2026 says the activity is confined to Lake Voui.[[vmgd]][[vmgdwarn]]",

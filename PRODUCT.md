@@ -63,6 +63,11 @@ The site is finished when every page is. Then it is frozen for three months and 
   Smithsonian's last update, and for a US volcano the USGS alert box says what the volcano is doing now.
 - A figure that changes every few weeks (the number of lava-fountain episodes, a lava level) is printed with the date
   it was true and its source, never as a bare "now".
+- NOAA's death tolls are printed as NOAA has them: its count where it gives one (its total, which includes indirect
+  causes such as famine and disease), and where it gives none, its own description of the toll (few, some, many or
+  very many, with NOAA's range). An event NOAA describes is never shown as "none", and the page's text says which
+  events have a description in place of a count (the build stops when it does not). NOAA's note on an event is read,
+  through its service, before the page says what NOAA does or does not tell.
 - "Last erupted" is never printed from the Smithsonian's list alone. The list can run months behind a volcano, so
   every page of a volcano that is not listed as erupting states what its own observatory showed, with the date it was
   read (`since_check`): in the status box, or in the notes when a live USGS level already fills that box.

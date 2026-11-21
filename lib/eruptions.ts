@@ -53,7 +53,23 @@ export interface NoaaEvent {
   deaths: number;
   injuries: number;
   tsunami: boolean;
+  /** NOAA's description of the death toll where it gives no count: 1 few, 2 some, 3 many, 4 very many. */
+  dd?: number;
+  /** The same for injuries. */
+  injd?: number;
 }
+
+/**
+ * NOAA's classes for a toll it describes without counting, in the words of its own legend
+ * ("Few Deaths (~1 to 50 people)", "Some Deaths (~51 to 100 people)", "Many Deaths (~101 to 1000 people)",
+ * "Very Many Deaths (~1001 or more people)").
+ */
+export const NOAA_TOLL: Record<number, [string, string]> = {
+  1: ['few', 'about 1 to 50'],
+  2: ['some', 'about 51 to 100'],
+  3: ['many', 'about 101 to 1,000'],
+  4: ['very many', 'about 1,001 or more'],
+};
 
 interface VolcanoFile {
   volcanoes: Record<string, SourceVolcano>;

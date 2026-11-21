@@ -5,7 +5,7 @@ import JsonLd, { breadcrumbLd } from '@/components/JsonLd';
 import LazyMap from '@/components/record/LazyMap';
 import { SectionDrawing, Timeline } from '@/components/record/figures';
 import { getAllVolcanoes } from '@/lib/data';
-import { endLabel, fmt, isoToYmd, longDate, METHOD_LABEL, MONTHS, startLabel } from '@/lib/eruptions';
+import { endLabel, fmt, isoToYmd, longDate, METHOD_LABEL, MONTHS, NOAA_TOLL, startLabel } from '@/lib/eruptions';
 import { buildRecordData, fill, noaaDate, plain, possessive, rich, type RecordProfile, type RecordSection } from '@/lib/recordProfile';
 import { countryHref, resolveInternalPath } from '@/lib/routes';
 import { AUTHOR, SITE_URL, gvpVolcanoUrl } from '@/lib/site';
@@ -237,7 +237,13 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                   <a href={`${NOAA_EVENT}${event.id}`} rel="noopener">{noaaDate(event)}</a>
                 </td>
                 <td className="va-num">{event.vei ?? 'not given'}</td>
-                <td className="va-num">{event.deaths > 0 ? fmt(event.deaths) : 'none'}</td>
+                {event.deaths > 0 || !event.dd || !NOAA_TOLL[event.dd] ? (
+                  <td className="va-num">{event.deaths > 0 ? fmt(event.deaths) : 'none'}</td>
+                ) : (
+                  <td className="va-num va-toll">
+                    {NOAA_TOLL[event.dd][0]} <small>({NOAA_TOLL[event.dd][1]})</small>
+                  </td>
+                )}
                 <td>{event.tsunami ? 'yes' : 'no'}</td>
               </tr>
             ))}
@@ -246,7 +252,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
       </div>
       <Html
         className="va-srcline"
-        html={`Source: NOAA NCEI/WDS Global Significant Volcanic Eruptions Database, retrieved ${retrievedMonth}.${ref('noaa')} NOAA counts an eruption as significant if it killed someone, did about $1 million or more in damage, reached VEI 6, caused a tsunami or came with a significant earthquake. Each date opens NOAA’s page for that event.`}
+        html={`Source: NOAA NCEI/WDS Global Significant Volcanic Eruptions Database, retrieved ${retrievedMonth}.${ref('noaa')} NOAA counts an eruption as significant if it killed someone, did about $1 million or more in damage, reached VEI 6, caused a tsunami or came with a significant earthquake.${noaa.some((event) => event.deaths > 0 || event.dd) ? ' Its totals count deaths from the eruption and from indirect causes that followed it, such as famine and disease.' : ''}${noaa.some((event) => !event.deaths && event.dd) ? ' Where it has no count, the table gives NOAA’s own description of the toll.' : ''} Each date opens NOAA’s page for that event.`}
       />
     </>
   );

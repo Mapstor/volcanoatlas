@@ -135,7 +135,7 @@
    "note": "This page is a record, not a safety guide. For current alerts, use the USGS Cascades Volcano Observatory.[[hans]]",
    "paras": [
     "Yes. It erupted through much of the 1980s, again from 1989 to 1991, and from 2004 to 2008.[[gvp]] USGS monitors it and posts an alert level for it; the current one is near the top of this page.[[hans]]",
-    "NOAA’s database of significant eruptions lists **{noaa_n} events at Mount St. Helens**.[[noaa]] For May 18, 1980 it gives {worst_deaths} deaths; USGS counts 57.[[fs036]]"
+    "NOAA’s database of significant eruptions lists **{noaa_n} events at Mount St. Helens**.[[noaa]] For May 18, 1980 it gives {worst_deaths} deaths; USGS counts 57.[[fs036]] NOAA’s record has the same 57 from the eruption itself, and its note adds indirect deaths: a crop-duster pilot whose plane hit power lines during the ash fall, one person in a traffic accident in Yakima blamed on poor visibility, and two elderly people with heart conditions who died shoveling ash. For an eruption it dates to 1800, NOAA gives no count and describes the toll as many: its note cites an oral tradition of tribes in northeastern Washington that many people starved in the winter after the eruption.[[noaa]]"
    ]
   },
   {
@@ -271,7 +271,8 @@
   "noaa_n": "3",
   "worst_deaths": "61",
   "worst_date": "May 18, 1980",
-  "n_all": "40"
+  "n_all": "40",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-17",
  "since_check": "**Nothing newer on record:** when this page was checked on {read_date}, USGS’s alert level for the volcano was NORMAL, the lowest of four. The level at the top of this page is read live.[[hans]]",

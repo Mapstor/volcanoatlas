@@ -129,7 +129,7 @@
    "paras": [
     "Yes. It erupted in 2022 and 2023, and the Instituto Geofísico describes it as active, with fumaroles.[[igepn]]",
     "The institute has had instruments on Cotopaxi since 1976, when it installed what it calls the first permanent seismic station dedicated to a volcano in South America. It estimates that more than 300,000 people live where lahars could reach in an eruption like those of the 18th and 19th centuries.[[igepn]]",
-    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for Cotopaxi. Only one records deaths: the 1877 eruption, which NOAA dates {worst_date}, with {worst_deaths} deaths.[[noaa]]"
+    "NOAA’s database of significant eruptions has **{noaa_n_word} entries** for Cotopaxi. Only one has a count of the dead: the 1877 eruption, which NOAA dates {worst_date}, with {worst_deaths} deaths. For the other {noaa_described_word} it describes the toll instead, and each time the cause it names is lahars: a few deaths, assumed, for a giant lahar it dates to 455 BCE; some in 1698, when by its note Latacunga and three-quarters of its inhabitants were destroyed; and many in each of the two eruptions of 1742 and in 1768, when Latacunga was destroyed again.[[noaa]]"
    ]
   },
   {
@@ -260,7 +260,8 @@
   "noaa_n": "6",
   "noaa_n_word": "six",
   "worst_deaths": "340",
-  "worst_date": "June 25, 1877"
+  "worst_date": "June 25, 1877",
+  "noaa_described_count": "5"
  },
  "observatory_read": "2026-11-17",
  "since_check": "**No eruption since 2023 on record.** The Instituto Geofísico’s newest Cotopaxi report, dated October 21, 2026 and read on {read_date}, rates internal and surface activity as low and unchanged.[[igtag]]",
