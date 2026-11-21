@@ -112,8 +112,10 @@ export const MONTHS = ['', 'January', 'February', 'March', 'April', 'May', 'June
 const MON = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 export type Ymd = [number, number, number];
-export const longDate = ([y, m, d]: Ymd) => `${MONTHS[m]} ${d}, ${y}`;
-export const shortDate = ([y, m, d]: Ymd) => `${MON[m]} ${d}, ${y}`;
+/** The year inside a written date. A year before the common era is spelled out ("425 BCE"), never printed as a negative number. */
+const yearIn = (y: number) => (y < 0 ? `${-y} BCE` : String(y));
+export const longDate = ([y, m, d]: Ymd) => `${MONTHS[m]} ${d}, ${yearIn(y)}`;
+export const shortDate = ([y, m, d]: Ymd) => `${MON[m]} ${d}, ${yearIn(y)}`;
 export const isoToYmd = (iso: string): Ymd => [Number(iso.slice(0, 4)), Number(iso.slice(5, 7)), Number(iso.slice(8, 10))];
 const utc = ([y, m, d]: Ymd) => Date.UTC(y, m - 1, d);
 const DAY = 86_400_000;
@@ -128,8 +130,8 @@ export function precisionOf(uncertaintyDays: number | null | undefined): Precisi
 }
 /** A date written no more exactly than the record gives it. */
 export function dateText(date: Ymd, precision: Precision, long = false): string {
-  if (precision === 'year') return String(date[0]);
-  if (precision === 'month') return `${(long ? MONTHS : MON)[date[1]]} ${date[0]}`;
+  if (precision === 'year') return yearIn(date[0]);
+  if (precision === 'month') return `${(long ? MONTHS : MON)[date[1]]} ${yearIn(date[0])}`;
   const full = long ? longDate(date) : shortDate(date);
   return precision === 'near' ? `about ${full}` : full;
 }
@@ -423,14 +425,14 @@ export function startLabel(e: Eruption): string {
     // when only the year is known, a question mark on the year is kept (El Chichón’s 1850, Kilauea’s 1820, Ambae’s 1870)
     return marked(text, e.sdmod ?? (precision === 'year' ? e.smod : null));
   }
-  // a start the record gives to the month but not the day ("May 1554")
-  if (e.sm && e.sy > 0) return marked(dateText([e.sy, e.sm, 1], 'month'), e.smod);
+  // a start the record gives to the month but not the day ("May 1554", and Etna's "Aug 479 BCE")
+  if (e.sm) return marked(dateText([e.sy, e.sm, 1], 'month'), e.smod);
   const era = yearText(e.sy);
   // an upper limit reads "before" ("before 6580 BCE", "before 1558"); a lower limit reads "after"
   if (e.smod === '<') return `before ${era}`;
   if (e.smod === '>') return `after ${era}`;
   if (e.smod === '?') return `about ${era}`;
-  return e.sunc ? `${era} ± ${e.sunc} years` : era;
+  return e.sunc ? `${era} ± ${e.sunc} year${e.sunc === 1 ? '' : 's'}` : era;
 }
 
 export function endLabel(e: Eruption): string {
@@ -441,7 +443,7 @@ export function endLabel(e: Eruption): string {
     return marked(text, e.edmod === '>' ? null : e.edmod);
   }
   // an end the record gives only to the month or to the year is printed that far ("May 1768", "1390"), not as missing
-  if (e.ey && e.em && e.ey > 0) return marked(dateText([e.ey, e.em, 1], 'month'), e.edmod === '>' ? null : (e.edmod ?? e.emod));
+  if (e.ey && e.em) return marked(dateText([e.ey, e.em, 1], 'month'), e.edmod === '>' ? null : (e.edmod ?? e.emod));
   if (e.ey) {
     // the year alone, worded like a start year: "about" for a question mark, "before" for an upper limit
     const era = yearText(e.ey);

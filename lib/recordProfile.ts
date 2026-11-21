@@ -525,11 +525,15 @@ export function buildRecordData(profile: RecordProfile): RecordData {
       set('n_max_vei', top.length);
       // when the Smithsonian questions the size of every eruption at the top of the list, the key fact says so (Pico de Orizaba: 5?)
       if (top.every((e) => e.veiq === '?')) set('max_vei_note', ' (uncertain)');
+      // how many of them the Smithsonian gives without a question mark (Etna: one of its two VEI 5)
+      set('n_max_vei_firm', top.filter((e) => e.veiq !== '?').length);
       set('largest_year', newest.sy < 0 ? `${-newest.sy} BCE` : String(newest.sy));
     }
     for (const size of [1, 2, 3, 4, 5, 6, 7]) set(`n_vei${size}`, stats.all.filter((e) => e.vei === size).length);
   }
   set('n_vei_none', stats.all.filter((e) => e.vei === null).length);
+  // sizes the Smithsonian marks with a question mark ("5?" in the record table)
+  set('n_vei_marked', stats.all.filter((e) => e.veiq === '?').length);
   set('n_other', stats.all.length - (stats.methods['Observations: Reported'] ?? 0));
   if (volcano.rock) set('rock', volcano.rock.toLowerCase().replace(/\s*\/\s*/g, ' to '));
   if (volcano.type) {

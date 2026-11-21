@@ -1,0 +1,434 @@
+{
+ "slug": "etna",
+ "volcano_number": 211060,
+ "name": "Mount Etna",
+ "country": "Italy",
+ "title": "Mount Etna: Eruption Now, 2026 Lava Flows, Height & Facts",
+ "description": "Mount Etna in Sicily is listed as erupting since June 2026. Its state now, the lava of August 2026, its height, its worst eruptions and its full record.",
+ "h1": "Mount Etna",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1900,
+  "summit_m": 3369,
+  "summit_ft": 11053,
+  "summit_source": "ingvv24",
+  "summit_source_name": "INGV"
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "INGV saw the first lava on June 26",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Mount Etna stands above Catania on the east coast of Sicily. Italy’s Civil Protection Department calls it the largest volcano in Europe, and by INGV’s count about 700,000 people live on it. On the Smithsonian’s list it has been in eruption about {share} percent of the time since {counted_month_year}. In August 2026 its lava ran 3.4 miles down the Valle del Bove, the great hollow in its eastern side. Below: its state now, the 2026 eruption, its height, its most destructive eruptions, and every eruption on record.",
+ "answer": "**Mount Etna is erupting, by the Smithsonian’s list:** its current eruption began on {cur_since} and was continuing at the last update, on {cur_last}.[[gvp]] In the week of November 2 to 8, 2026, INGV reported gas and occasional ash from the Northeast Crater and no lava.[[ingv1110]] The alert level is yellow, the second of four.[[dpc]] The highest point measured is about **{summit_ft} ft ({summit_m} m)**.[[ingvv24]]",
+ "timeline": {
+  "from": 1900,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1950.9,
+    "label": "1950"
+   },
+   {
+    "year": 1928.85,
+    "label": "1928"
+   },
+   {
+    "year": 1991.95,
+    "label": "1991"
+   },
+   {
+    "year": 2021.13,
+    "label": "2021"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The list counts long runs of activity as single eruptions, so the line stays high for years at a time. The marks: the eruption that destroyed Mascali (1928), the year-long lava flow of 1950–51, the start of the 473-day eruption (1991) and the start of a run of 54 paroxysms at the Southeast Crater (2021).[[ingvdb]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "new top since July 2024",
+  "caption": "Mount Etna cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[ingvv24]][[etopo]] The four summit craters and the Valle del Bove are not drawn, and the real mountain is far broader: about 22 miles (35 km) across at the base.[[dpc]] The drawing shows lava at the vent for as long as the Smithsonian lists the eruption as continuing."
+ },
+ "map_zoom": 8,
+ "map_label": "left",
+ "table": {
+  "rows": 7,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Etna?",
+   "map": true,
+   "paras": [
+    "Mount Etna is on the east coast of Sicily, Italy, at {coords}.[[gvp]][[dpc]] The city of Catania is on its south-southeast side, about 17 miles (28 km) from the summit craters.[[ingv0818]]",
+    "Italy’s Civil Protection Department calls Etna the largest volcano in Europe; the Smithsonian describes it as the highest and most voluminous volcano in Italy.[[dpc]][[gvp]] It is about 22 miles (35 km) across at its base, with the Nebrodi and Peloritani mountains to the north and the plain of the Simeto River to the south.[[dpc]] INGV puts the ground it covers at about 460 square miles (1,200 sq km) and the people living there at about 700,000.[[ingvgeo]]",
+    "The most strictly protected part of the mountain, about 47,500 acres (19,237 hectares) inside the Etna regional park, has been a UNESCO World Heritage site since 2013.[[unesco]] Etna is one of {n_country} volcanoes in [Italy](/volcanoes-in-italy) on the Smithsonian’s Holocene list; [Stromboli](/volcano/stromboli) is another.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Mount Etna erupting now?",
+   "table": "periods",
+   "paras": [
+    "Yes, by the Smithsonian’s list: it has an eruption that began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]] It keeps an eruption on its list of continuing ones as long as activity returns without a break of three months or more.[[gvpcur]]",
+    "INGV’s Osservatorio Etneo in Catania, which monitors the volcano, follows the same months in finer steps. For June 14 and 15, where the Smithsonian’s eruption begins, its bulletin reports weak ash from the Bocca Nuova crater. It dates the first lava to June 26, 2026 and treats the eruptive activity of August 6 to 23 as over; the bulletins read for this page from September on report no lava.[[ingv0630]][[ingv0901]][[ingv1006]]",
+    "In the week of November 2 to 8, 2026, the newest bulletin read, the summit craters gave off gas and the Northeast Crater sent up ash now and then, most visibly on the morning of November 4. INGV recorded no earthquake of magnitude 2 or more that week.[[ingv1110]]",
+    "The alert level is **yellow**. Italy’s Civil Protection Department sets it, together with Sicily’s regional civil protection, on a scale of four colors: green, yellow, orange and red. It raised Etna from green to yellow on June 26, 2026, the day the lava appeared, and its page still showed yellow on {read_date}.[[dpc0626]][[dpc]]",
+    "A second system warns of lava fountains alone: INGV’s ETNAS, with level F0 for a low chance of a fountain soon and F1 for a high one. Sicily’s regional civil protection acts on it. Its notice of August 20, 2026, the newest read for this page, recorded the step back from F1 to F0 and kept the “zone of permanent hazard” closed, with excursions there suspended.[[drpc]]"
+   ]
+  },
+  {
+   "id": "2026",
+   "h": "What happened in the 2026 eruption?",
+   "paras": [
+    "The year had opened with lava. From January 1, 2026 a flow ran in the Valle del Bove; by January 9 it was 2 miles (3.15 km) long and had reached down to about 4,480 ft (1,365 m).[[ingv0113]] In late May explosions began inside the Northeast Crater. From June 3 the volcanic tremor on INGV’s instruments rose steadily, and on June 10 ash started to come from a pit high on the east side of the Voragine crater.[[ingv0630]]",
+    "Lava came out on June 26, from a fissure at about 9,940 ft (3,030 m) on the Voragine’s east side, and flowed into the Valle del Leone, the head of the Valle del Bove.[[ingv0630]] The Civil Protection Department raised the alert to yellow that evening.[[dpc0626]] The flow stopped on July 4, three-quarters of a mile (1.2 km) long.[[ingv0707]]",
+    "On July 5 a fissure opened between the Voragine and the Northeast Crater. Its upper vents poured out ash, which rose to about 14,800 ft (4.5 km) above sea level and fell on the south flank between Rifugio Sapienza and Catania, and lava from its lower end ran into the Northeast Crater.[[ingv0707]] That phase stopped almost suddenly on the afternoon of July 7.[[ingv0714]]",
+    "On July 30 activity at the Voragine built up to a lava fountain, with ash clouds to about 23,000 ft (7 km) in the morning and again in the evening. That evening a fissure opened at about 8,900 ft (2,700 m) in the Valle del Leone. Its lava ran 1.8 miles (2.9 km), down to about 6,400 ft (1,950 m), and stopped in the night of August 1 to 2.[[ingv0804]]",
+    "The largest phase began on the night of August 6. A lava fountain at the Voragine was at its strongest from about 1 a.m. to 4:15 a.m. on August 7, and ash fell on Adrano, Ragalna and Nicolosi. Between August 7 and 11 five vents opened below it, the highest at about 10,500 ft (3,200 m) on the side of the Voragine and the lowest at about 6,200 ft (1,900 m) in the Valle del Bove. At the peak, by satellite estimate, lava came out at about 700 cubic feet (20 cubic meters) a second.[[ingv0811]]",
+    "The Voragine went on throwing ash while the lava ran. On August 15 an earthquake of magnitude 3.8 near Piano Pernicana broke the ground surface. On August 17 the ash cloud reached about 19,700 ft (6 km); the same day a new vent opened at about 7,700 ft (2,350 m), and the east side of the Monte Rittmann cone, in the Valle del Bove, collapsed in a burst of ash.[[ingv0818]]",
+    "By August 20 the lava field covered about 0.8 square mile (2 sq km), held 8 to 11 million cubic meters of lava and was 3.4 miles (5.5 km) long. Its lowest front had come down to about 4,300 ft (1,315 m). The last vent, at 6,200 ft (1,900 m), was no longer active on August 23.[[ingv0825]]",
+    "The bulletins read for this page since then report gas emission and weak bursts of ash from the Northeast Crater. A satellite estimate put one ash plume, on September 28, at about 18,700 ft (5.7 km) above sea level.[[ingv0901]][[ingv1006]][[ingv1110]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Etna?",
+   "paras": [
+    "The highest point INGV has measured on Etna is about **{summit_ft} ft ({summit_m} m)** above sea level, on the east rim of the Voragine crater. The figure comes from drone surveys after the lava fountain of July 7, 2024, and is the newest that could be read for this page. INGV called it the highest elevation ever measured on Etna.[[ingvv24]]",
+    "The summit has changed craters twice since 2021. The Northeast Crater had been the top for about four decades. Its paroxysms of 1980 and 1981 (INGV’s word for the volcano’s short, violent bursts of activity) built it to 10,990 ft (3,350 m), and it then lost height as its rim crumbled.[[ingvh21]][[ingvv24]] In August 2021, after about 50 paroxysms in six months, INGV announced that the Southeast Crater had passed it at 3,357 m. It later corrected that figure to 3,347 m, and the crater grew again to 3,354 m in December 2023.[[ingvh21]][[ingvv24]]",
+    "Then the Voragine woke, after more than three years of silence. Its lava fountain of July 4, 2024 raised its east rim by 351 ft (107 m), level with the Southeast Crater, and the fountain of July 7 took it to about 3,369 m.[[ingvv24]]",
+    "The Smithsonian’s list carries {gvp_summit_m} m, the same as INGV’s first figure of 2021, and Italy’s Civil Protection page says 3,350 m.[[gvp]][[dpc]] Nothing read for this page gives a height measured after the Voragine’s later paroxysms, in July and August 2024, or after its lava fountains of 2026.[[ingvdb]][[ingv0811]]",
+    "Measured against the land 9 miles from the summit, Etna stands about {rise_ft} ft ({rise_m} m).[[etopo]] That land is still the volcano’s own lower slope: Etna is about 22 miles (35 km) across.[[dpc]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Mount Etna?",
+   "paras": [
+    "The Smithsonian classes Etna as a **[stratovolcano](/types-of-volcanoes)** and lists its main rock as {rock}; INGV calls it a basaltic volcano.[[gvp]][[ingvgeo]]",
+    "It is several volcanoes built in the same place. The first eruptions, about 500,000 years ago, were under the sea. A shield volcano followed, then several separate volcanoes, then a stratovolcano called Ellittico that stood about 11,800 ft (3,600 m) high until a series of great explosive eruptions hollowed out its top about 15,000 years ago. The present volcano, Mongibello, has grown since.[[ingvgeo]]",
+    "Four craters open at the summit: the Voragine, the Bocca Nuova, the Northeast Crater and the Southeast Crater.[[dpc]] The east side is cut by the Valle del Bove, a hollow about 3 miles wide and 5 miles long (5 km by 8 km) whose steepest wall is about 3,900 ft (1,200 m) high, left by great landslides about 10,000 years ago.[[dpc]][[ingvgeo]]",
+    "It erupts in two ways. The summit craters are in eruption almost all the time, with explosions, ash and lava.[[unesco]][[dpc]] Fissures that open on the flanks and pour out lava are fairly frequent too, and the lower one opens, the greater the risk to the towns.[[unesco]][[dpc]]",
+    "Etna stands where the African plate meets the Eurasian plate, on faults at Sicily’s eastern edge that are being pulled apart and let magma rise.[[ingvgeo]]"
+   ]
+  },
+  {
+   "id": "worst",
+   "h": "What were Etna’s most destructive eruptions?",
+   "aside": "callouts",
+   "paras": [
+    "The eruption of 1669 is the most destructive in Etna’s written history. It began on March 11 from a fissure low on the south flank, at only 2,300 to 3,100 ft (700 to 950 m), and lasted 122 days. Its explosions built the Monti Rossi cone.[[ingvdb]][[ingvhist]] About 600 million cubic meters of lava covered about 15 square miles (40 sq km). The flow ran about 10.6 miles (17 km) and wiped out nine villages. Catania’s medieval walls held it and turned it; it took a small part of the city’s west side and reached the coast, where it piled up against Castello Ursino.[[ingvhist]]",
+    "One account gives that eruption 20,000 dead. NOAA’s record calls the figure unlikely and notes that the standard accounts mention no deaths; it lists two people killed by a lava flow on March 19, 1669.[[noaa]]",
+    "The strongest explosive eruption of historical time came in 122 BCE. Ash and small stones did heavy damage in Catania, and Rome excused the city from taxes for ten years.[[ingvgeo]] The Smithsonian rates it VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index). It gives the same size, with a question mark, to one older eruption, around 1500 BCE.[[gvp]]",
+    "The deadliest eruption that NOAA’s records tie to the volcano itself is that of 1843. On November 25, as people from Bronte watched the lava advance, the front of the flow blew apart, perhaps because the lava had run into a cistern, and 59 people died.[[noaa]][[ingvhist]]",
+    "In November 1928 a vent opened at only about 3,900 ft (1,200 m) on the east side. Its lava ran about 5 miles (8 km), destroyed the town of Mascali and stopped about 80 ft (25 m) above sea level.[[ingvdb]] Five people died: three men who had gone back for their belongings, and an old couple in their home.[[noaa]]",
+    "From December 14, 1991 to March 31, 1993 lava flowed for 473 days: 231 million cubic meters, the most in any eruption since 1669. The flow threatened Zafferana Etnea until it was diverted in May 1992.[[ingvdb]][[ingvhist]]",
+    "The eruption of October 2002 to January 2003 spread ash over eastern Sicily and as far as Calabria and Campania, and closed the airports of Catania and Reggio Calabria for long stretches.[[ingvdb]] On December 26, 2018, two days into a short flank eruption, an earthquake of magnitude 4.9 damaged buildings along about 6 miles (10 km) of the Fiandaca fault; NOAA lists 28 injuries.[[ingvhist]][[noaa]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount Etna erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** for Etna: {n_written} known from written reports and {n_dated} dated from the rocks. By its summary the written record goes back to 1500 BCE and is one of the longest of any volcano.[[gvp]]",
+    "Of those, {n_since} have begun since {since_year}. The list counts long runs of activity as single eruptions: one runs from {long1_span} and another from {long2_span}. Time is the plainer measure: since {counted_month_year} Etna has been in eruption about {share} percent of the time.[[gvp]]",
+    "INGV counts the fissures that open on the flanks instead: thirteen flank eruptions in the 1800s and an average of four per decade in the 1900s.[[ingvhist]][[ingvgeo]]",
+    "Paroxysms, Etna’s short, violent bursts of activity, come in runs. INGV’s catalogue has 54 major ones at the Southeast Crater between February 2021 and February 2022, four in 2023, and six at the Voragine in the summer of 2024.[[ingvdb]]",
+    "By size, the list has {n_vei5} eruptions of VEI 5, {n_vei4} of VEI 4 (in 1787), {n_vei3} of VEI 3, {n_vei2} of VEI 2, {n_vei1} of VEI 1 and {n_vei0} of VEI 0, the current one among them. It gives no rating for {n_vei_none}, and it puts a question mark on {n_vei_marked} of the ratings.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Mount Etna dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, use the notices of Italy’s Civil Protection Department, Sicily’s regional civil protection and INGV.[[dpc]]",
+   "paras": [
+    "To buildings and land more than to lives. Italy’s Civil Protection Department does not count Etna’s lava flows as a danger to people, because they move slowly. The risk is to what stands in their way, and it is greatest when a vent opens low on the mountain, among the towns.[[dpc]] INGV singles out two such eruptions, around 1160 and in 1669, as the kind that carries the highest risk.[[ingvgeo]]",
+    "Ash is the other hazard. It does not threaten lives directly, but it shuts roads and airports (the department names Catania, Sigonella and Reggio Calabria), damages crops, and can cause breathing illness.[[dpc]]",
+    "Near the craters the danger is sudden. INGV’s bulletins repeat that some of Etna’s phenomena come without warning, so that the hazard there is never zero. They list ash clouds, falling rock, and collapses of the summit cones that send out pyroclastic flows, which are fast currents of hot rock, ash and gas.[[ingv1110]] Several entries in NOAA’s records fit that pattern: nine people killed by rocks from an explosion at the Bocca Nuova in 1979, two tourists in 1987, two people in 1929.[[noaa]]",
+    "NOAA’s database of significant eruptions has {noaa_n} entries for Etna and {noaa_deaths} deaths. But 16,000 of those are filed under February 4, 1169, and NOAA’s own note says that was an earthquake, probably tectonic, with the eruption uncertain. Without that entry the database has 123 deaths in about 2,100 years, 59 of them at Bronte in 1843.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Etna’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Etna has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_dated} dated from the rocks. The oldest is dated to about {oldest}.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "1669 and 1843",
+ "callouts": [
+  {
+   "number": "122",
+   "unit": "days",
+   "text": "Length of the eruption of 1669, whose lava ran 10.6 miles (17 km) to Catania and the coast.",
+   "source": "Source: INGV.[[ingvdb]][[ingvhist]]"
+  },
+  {
+   "number": "59",
+   "unit": "deaths",
+   "text": "At Bronte on November 25, 1843, when the front of a lava flow blew apart.",
+   "source": "Source: NOAA NCEI; INGV.[[noaa]][[ingvhist]]"
+  }
+ ],
+ "faq_h": "Mount Etna questions and answers",
+ "faq": [
+  [
+   "Is Mount Etna erupting right now?",
+   "By the Smithsonian’s list, yes: it has an eruption that began on {cur_since} and was continuing at its last update, on {cur_last}. In the week of November 2 to 8, 2026, INGV reported gas emission and occasional ash from the Northeast Crater, and no lava."
+  ],
+  [
+   "When did Mount Etna last erupt?",
+   "It is listed as erupting now. Its last lava flows ran from August 6 to 23, 2026, and reached 3.4 miles (5.5 km) down the Valle del Bove. The eruption before it on the Smithsonian’s list ran from {prev_start} to {prev_end}."
+  ],
+  [
+   "How tall is Mount Etna?",
+   "About {summit_ft} ft ({summit_m} m), on the rim of the Voragine crater, by INGV’s drone surveys of July 2024. The Smithsonian’s list gives {gvp_summit_m} m. The height changes with the eruptions."
+  ],
+  [
+   "Where is Mount Etna?",
+   "On the east coast of Sicily, Italy, above the city of Catania, which is about 17 miles (28 km) from the summit craters."
+  ],
+  [
+   "What type of volcano is Mount Etna?",
+   "A stratovolcano, by the Smithsonian’s classification, that erupts basaltic lava. It has four craters at its summit and a large hollow, the Valle del Bove, in its eastern side."
+  ],
+  [
+   "What is the alert level at Mount Etna?",
+   "Yellow, the second of four levels. Italy’s Civil Protection Department raised it from green on June 26, 2026, and its page still showed yellow on {read_date}."
+  ],
+  [
+   "How often does Mount Etna erupt?",
+   "At the summit, most of the time: the Smithsonian’s list has it in eruption about {share} percent of the time since {counted_month_year}. Eruptions from the flanks averaged four per decade in the 1900s."
+  ],
+  [
+   "What was Etna’s worst eruption?",
+   "The eruption of 1669: in 122 days about 600 million cubic meters of lava destroyed nine villages and a small part of western Catania. The deadliest that NOAA’s records tie to the volcano is that of 1843, when 59 people died at Bronte."
+  ],
+  [
+   "How many people has Mount Etna killed?",
+   "NOAA’s records hold {noaa_deaths} deaths for Etna, but 16,000 of them are filed under 1169 and its own note assigns them to an earthquake. The other 123 include 59 at Bronte in 1843."
+  ],
+  [
+   "Is it safe to visit Mount Etna?",
+   "This page cannot answer that for a given day. The record: explosions near the summit craters killed people in 1929, 1979 and 1987, and INGV’s bulletins say the hazard there is never zero. In August 2026 Sicily’s civil protection kept the zone of permanent hazard closed to excursions. For the rules in force, see the Civil Protection Department and Sicily’s regional civil protection."
+  ],
+  [
+   "Is Mount Etna the largest volcano in Europe?",
+   "Italy’s Civil Protection Department calls it that. The Smithsonian’s description is narrower: the highest and most voluminous volcano in Italy."
+  ],
+  [
+   "How many people live on Mount Etna?",
+   "About 700,000, by INGV’s count, on the roughly 460 square miles (1,200 sq km) the volcano covers."
+  ],
+  [
+   "How old is Mount Etna?",
+   "Its first eruptions were about 500,000 years ago, under the sea. The present volcano, Mongibello, has been growing for about 15,000 years."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Etna record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=211060"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "gvpcur",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Current Eruptions: what “continuing” means",
+   "url": "https://volcano.si.edu/gvp_currenteruptions.cfm"
+  },
+  {
+   "id": "ingv1110",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 46/2026 (issued November 10, 2026, week of November 2–8; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1186-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-11-10/file"
+  },
+  {
+   "id": "ingv1006",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 41/2026 (issued October 6, 2026, week of September 28–October 4; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1171-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-10-06/file"
+  },
+  {
+   "id": "ingv0901",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 36/2026 (issued September 1, 2026, week of August 24–30; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1161-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-09-01/file"
+  },
+  {
+   "id": "ingv0825",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 35/2026 (issued August 25, 2026, week of August 17–23; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1158-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-08-25/file"
+  },
+  {
+   "id": "ingv0818",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 34/2026 (issued August 18, 2026, week of August 10–16; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/joomlatools-files/docman-files/multidisciplinari/BollettinoSettimanaleEtna20260818.pdf"
+  },
+  {
+   "id": "ingv0811",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 33/2026 (issued August 11, 2026, week of August 3–9; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1154-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-08-11/file"
+  },
+  {
+   "id": "ingv0804",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 32/2026 (issued August 4, 2026, week of July 27–August 2; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1152-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-08-04/file"
+  },
+  {
+   "id": "ingv0714",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 29/2026 (issued July 14, 2026, week of July 6–12; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1145-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-07-14/file"
+  },
+  {
+   "id": "ingv0707",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 28/2026 (issued July 7, 2026, week of June 29–July 5; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1142-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-07-07/file"
+  },
+  {
+   "id": "ingv0630",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 27/2026 (issued June 30, 2026, week of June 22–28; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1139-bollettino-Settimanale-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Etna-del-2026-06-30/file"
+  },
+  {
+   "id": "ingv0113",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Bollettino settimanale Etna, Rep. N. 03/2026 (issued January 13, 2026, week of January 5–11; PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/joomlatools-files/docman-files/multidisciplinari/BollettinoSettimanaleEtna20260113.pdf"
+  },
+  {
+   "id": "dpc0626",
+   "publisher": "Dipartimento della Protezione Civile (Italy’s Civil Protection Department)",
+   "title": "Protezione Civile: allerta gialla per il Vulcano Etna (press release of June 26, 2026, in Italian)",
+   "url": "https://www.protezionecivile.gov.it/it/comunicato-stampa/protezione-civile-allerta-gialla-il-vulcano-etna-7/"
+  },
+  {
+   "id": "dpc",
+   "publisher": "Dipartimento della Protezione Civile (Italy’s Civil Protection Department)",
+   "title": "Etna: the volcano, its alert levels and its hazards",
+   "url": "https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/etna/"
+  },
+  {
+   "id": "drpc",
+   "publisher": "Regione Siciliana, Dipartimento Regionale della Protezione Civile (Sicily’s regional civil protection)",
+   "title": "Sistema di allertamento ETNAS: avviso prot. n. 11 of August 20, 2026 (PDF, in Italian)",
+   "url": "https://www.protezionecivilesicilia.it/tinymce/js/tinymce/source/AVVISO%20ETNAS%20F0%2020%20AGOSTO%202026%20%20PREALLARME.pdf"
+  },
+  {
+   "id": "ingvv24",
+   "publisher": "INGVvulcani (the volcano blog of INGV)",
+   "title": "La Voragine fa la voce grossa … e diventa la nuova vetta dell’Etna! (July 10, 2024, in Italian)",
+   "url": "https://ingvvulcani.com/2024/07/10/la-voragine-fa-la-voce-grossa-e-diventa-la-nuova-vetta-delletna/"
+  },
+  {
+   "id": "ingvh21",
+   "publisher": "INGV (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Etna is surpassed. New height record at 3357 meters (press release of August 10, 2021)",
+   "url": "https://www.ingv.it/en/stampa-urp/ufficio-stampa/comunicati-stampa/l-etna-si-supera-nuovo-record-di-altezza-a-3357-metri"
+  },
+  {
+   "id": "ingvgeo",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Evoluzione geologica del Monte Etna (in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/ricerca/i-vulcani-siciliani/etna/evoluzione-geologica-del-monte-etna"
+  },
+  {
+   "id": "ingvhist",
+   "publisher": "INGVvulcani (the volcano blog of INGV)",
+   "title": "Branca, S. and Tanguy, J.-C. Le eruzioni di epoca storica dell’Etna. Parte 2: dal XVII secolo al presente (January 25, 2021, in Italian)",
+   "url": "https://ingvvulcani.com/2021/01/25/le-eruzioni-di-epoca-storica-delletna-2/"
+  },
+  {
+   "id": "ingvdb",
+   "publisher": "INGV, Osservatorio Etneo (Italy’s National Institute of Geophysics and Volcanology)",
+   "title": "Database of Etna’s historical eruptions, Table 2: eruptions from the 17th century to the present",
+   "url": "https://www.ct.ingv.it/index.php/risorse-e-servizi/database-of-etna-s-historical-eruptions/18-risorse-e-servizi/386-database-of-etna-s-historical-eruptions-table-2"
+  },
+  {
+   "id": "unesco",
+   "publisher": "UNESCO World Heritage Committee",
+   "title": "Decision 37 COM 8B.15: Mount Etna (Italy), inscribed in 2013",
+   "url": "https://whc.unesco.org/en/decisions/5131/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about {share} percent of the time:** the days inside the listed eruptions from {counted_month_year} to the list’s last update, divided by all the days in that time. Before then, some eruptions on the list lack a start or an end date.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "**123 deaths:** NOAA’s {noaa_deaths} less the 16,000 it files under 1169. **About 2,100 years:** from 141 BCE, NOAA’s earliest entry for Etna, to 2001, its latest with a death.",
+  "**about 50 paroxysms in six months:** INGV’s count from February 16, 2021 to its announcement of August 10, 2021.",
+  "Times of day are local (two hours ahead of the UTC times in INGV’s bulletins in summer).",
+  "Feet, miles, square miles, acres and cubic feet are converted from the metric figures in the sources and rounded. Heights from INGV are given in meters where the text compares them, and lava volumes in cubic meters, as the sources give them."
+ ],
+ "expect": {
+  "cur_since": "June 14, 2026",
+  "summit_m": "3,369",
+  "gvp_summit_m": "3,357",
+  "n_all": "148",
+  "n_since": "43",
+  "since_year": "1900",
+  "max_vei": "5",
+  "n_max_vei": "2",
+  "n_max_vei_firm": "1",
+  "largest_year": "122 BCE",
+  "n_vei_marked": "17",
+  "n_vei5": "2",
+  "n_vei4": "1",
+  "n_vei3": "18",
+  "n_vei2": "65",
+  "n_vei1": "30",
+  "n_vei0": "2",
+  "n_vei_none": "30",
+  "n_written": "137",
+  "n_dated": "11",
+  "noaa_n": "25",
+  "noaa_deaths": "16,123",
+  "worst_deaths": "16,000",
+  "oldest": "6190 BCE",
+  "prev_start": "November 27, 2022",
+  "prev_end": "January 12, 2026",
+  "long1_span": "1803 to 1819",
+  "long2_span": "1979 to 1993",
+  "ground_m": "650"
+ },
+ "observatory_read": "2026-11-21",
+ "since_check": "**Alert level yellow**, the second of four. Italy’s Civil Protection Department raised it from green on June 26, 2026, and its page still showed yellow on {read_date}.[[dpc0626]][[dpc]] INGV’s bulletin for November 2 to 8, 2026, the newest read for this page: gas emission from the summit craters, occasional ash from the Northeast Crater, no lava.[[ingv1110]]",
+ "reviewed": null
+}
