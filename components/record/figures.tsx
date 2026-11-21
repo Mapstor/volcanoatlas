@@ -198,7 +198,10 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   const lastYearX = !erupting && !stats.lastEnd && stats.lastYearOnly !== null ? X(stats.lastYearOnly + 0.5) : null;
   // a last eruption dated from deposits, as a year with a margin, is marked at that year and labelled "about"
   const lastMargin = !erupting && !stats.lastEnd && stats.lastYearOnly === null ? stats.lastYearMargin : null;
-  const lastMarginX = lastMargin ? X(lastMargin.year + 0.5) : null;
+  // a last eruption whose year the record questions and gives no margin (Pululahua) is marked the same way, with the word
+  const lastQuestioned = !erupting && !stats.lastEnd && stats.lastYearOnly === null && !stats.lastYearMargin ? stats.lastYearQuestioned : null;
+  const lastAbout = lastMargin ? { year: lastMargin.year, questioned: false } : lastQuestioned !== null ? { year: lastQuestioned, questioned: true } : null;
+  const lastMarginX = lastAbout ? X(lastAbout.year + 0.5) : null;
   const note = spec.note ? fill(spec.note, ctx) : null;
   const struck = (spec.struck ?? []).filter((mark) => mark.year > y0 && mark.year < y1);
   const from = y0 < 0 ? `${-y0} BCE` : y0;
@@ -339,7 +342,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
           </text>
         </>
       )}
-      {lastMarginX !== null && lastMargin && (
+      {lastMarginX !== null && lastAbout && (
         <>
           <line x1={lastMarginX} y1={yb + 22} x2={lastMarginX} y2={yb + (small ? 50 : 58)} stroke={PAL.accent} strokeWidth={1.5} />
           <text
@@ -350,7 +353,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             fontWeight={700}
             fill={PAL.ink}
           >
-            about {yearText(lastMargin.year)}: last eruption on record
+            about {`${yearText(lastAbout.year)}${lastAbout.questioned ? ' (uncertain)' : ''}`}: last eruption on record
           </text>
         </>
       )}
@@ -371,6 +374,7 @@ export function SectionDrawing({ data, compact = false }: { data: RecordData; co
   if (kind === 'land') return <LandDrawing data={data} compact={compact} />;
   if (kind === 'caldera') return <CalderaDrawing data={data} compact={compact} />;
   if (kind === 'lagoon') return <LagoonDrawing data={data} compact={compact} />;
+  if (kind === 'basin') return <BasinDrawing data={data} compact={compact} />;
   return <ConeDrawing data={data} compact={compact} />;
 }
 
@@ -951,6 +955,120 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
               strokeLinecap="round"
             />
             <text className="va-hand" x={xShore + 14} y={islandY + 13} fontSize={23} fill={PAL.pencil}>{words}</text>
+          </>
+        );
+      })()}
+    </svg>
+  );
+}
+
+/**
+ * A dry crater or caldera on land with lava domes on its floor (Pululahua), cut across: the volcano's highest point
+ * beside the rim, the wall down to the flat floor, and a dome standing on the floor. Four figures are to one scale: the
+ * summit and the floor above sea level, the depth of the hollow below its rim and the height of the domes above the
+ * floor. Widths and shapes are schematic. There is no vent: the build stops if the volcano is listed as erupting.
+ */
+function BasinDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
+  const { profile, stats } = data;
+  const sec = profile.section;
+  const bas = sec.basin;
+  if (!bas) throw new Error(`record profile ${profile.slug}: a basin drawing needs section.basin`);
+  if (!data.summit) throw new Error(`record profile ${profile.slug}: a basin drawing needs the summit height`);
+  if (stats.current) throw new Error(`record profile ${profile.slug}: the basin drawing has no vent to show an eruption in progress`);
+  const summit = data.summit.m;
+  const rise = summit - bas.floor.m;
+  if (rise <= bas.depth.m) throw new Error(`record profile ${profile.slug}: the summit must stand above the rim of the basin`);
+  const ft = (m: number) => fmt(roundTo(feet(m), 10));
+  const w = compact ? 340 : 560;
+  const sx = w / 560;
+  const fs = compact ? 12.5 : 14;
+  const bold = fs + (compact ? 1.5 : 2);
+  const line = fs + 3;
+  const top = compact ? 56 : 74;
+  const k = (compact ? 210 : 250) / rise;
+  const floorY = top + rise * k;
+  const Y = (above: number) => floorY - above * k;
+  const h = Math.round(floorY + (compact ? 58 : 66));
+  const peakY = Y(rise);
+  const rimY = Y(bas.depth.m);
+  const domeY = Y(bas.dome.m);
+  // schematic plan, left to right: outer slope, the highest point, the rim, the wall, the floor, a dome, the floor,
+  // the far wall, the far rim, outer slope
+  const xPeak = 60 * sx;
+  const xRim = 112 * sx;
+  const xFloor0 = 138 * sx;
+  const xD0 = (compact ? 236 : 250) * sx;
+  const xT0 = (compact ? 300 : 316) * sx;
+  const xT1 = (compact ? 322 : 338) * sx;
+  const xD1 = (compact ? 392 : 404) * sx;
+  const xFloor1 = 476 * sx;
+  const xRimR = 502 * sx;
+  const under = floorY + (compact ? 30 : 36);
+  const ground =
+    `M0 ${f(Y(rise * 0.42))} L${f(xPeak - 14 * sx)} ${f(peakY + 5)} L${f(xPeak)} ${f(peakY)} L${f(xPeak + 12 * sx)} ${f(peakY + 6)} L${f(xRim)} ${f(rimY)} ` +
+    `L${f(xFloor0)} ${f(floorY)} L${f(xFloor1)} ${f(floorY)} L${f(xRimR)} ${f(rimY)} L${w} ${f(Y(bas.depth.m * 0.35))}`;
+  // the dome: steep sides and a rounded top, standing on the floor
+  const hk = floorY - domeY;
+  const left: Curve = [
+    [xD0, floorY],
+    [xD0 + (xT0 - xD0) * 0.35, floorY - hk * 0.05],
+    [xT0 - (xT0 - xD0) * 0.42, domeY + hk * 0.08],
+    [xT0, domeY],
+  ];
+  const right: Curve = [
+    [xT1, domeY],
+    [xT1 + (xD1 - xT1) * 0.42, domeY + hk * 0.08],
+    [xD1 - (xD1 - xT1) * 0.35, floorY - hk * 0.05],
+    [xD1, floorY],
+  ];
+  const dome = `M${f(left[0][0])} ${f(left[0][1])} ${cubic(left)} L${f(right[0][0])} ${f(right[0][1])} ${cubic(right)}`;
+  const xc = (xT0 + xT1) / 2;
+  // the depth bracket stands on the floor beside the near wall
+  const xb = xFloor0 + (compact ? 12 : 20);
+  const midY = (rimY + floorY) / 2;
+  const label =
+    `Section drawing of ${profile.name}: a crater about ${fmt(bas.depth.m)} m deep, its floor about ${fmt(bas.floor.m)} m above sea level, ` +
+    `with lava domes that rise up to ${fmt(bas.dome.m)} m above the floor. The volcano's highest point is ${fmt(summit)} m above sea level.`;
+
+  return (
+    <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
+      <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
+      {/* the older volcano with the hollow in it, then the dome that grew on the floor */}
+      <path d={`${ground} V${h} H0 Z`} fill={PAL.crust} />
+      <path d={`${dome} Z`} fill={PAL.rock} />
+      <path d={ground} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      <path d={dome} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      <line x1={xRim - 2} y1={rimY} x2={xRimR + 2} y2={rimY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="2 5" opacity={0.55} />
+
+      {/* the volcano's highest point */}
+      <line x1={xPeak} y1={peakY - 3} x2={xPeak} y2={peakY - 9} stroke={PAL.ink} strokeWidth={0.8} />
+      <text x={compact ? 6 : 10} y={peakY - 13 - line * (compact ? 1 : 2)} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(data.summit.ft)} ft</text>
+      <text x={compact ? 6 : 10} y={peakY - 12 - (compact ? 0 : line)} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
+      {!compact && <text x={10} y={peakY - 11} fontSize={fs} fill={PAL.ink}>above sea level</text>}
+
+      {/* the dome */}
+      <text x={xc} y={domeY - 10 - line} textAnchor="middle" fontSize={bold} fontWeight={700} fill={PAL.ink}>{compact ? (bas.dome.short ?? bas.dome.label) : bas.dome.label}</text>
+      <text x={xc} y={domeY - 9} textAnchor="middle" fontSize={fs} fill={PAL.ink}>{compact ? `up to ${ft(bas.dome.m)} ft` : `up to ${ft(bas.dome.m)} ft (${fmt(bas.dome.m)} m) above the floor`}</text>
+
+      {/* how deep the hollow is */}
+      <path d={`M${f(xb - 5)} ${f(rimY)} h10 M${f(xb)} ${f(rimY)} V${f(floorY)} M${f(xb - 5)} ${f(floorY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      <text x={xb + 9} y={midY - 2} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(bas.depth.m)} ft</text>
+      <text x={xb + 9} y={midY - 1 + line} fontSize={fs} fill={PAL.ink}>{compact ? (bas.depth.short ?? bas.depth.label) : `(${fmt(bas.depth.m)} m) ${bas.depth.label}`}</text>
+
+      {/* the floor's height above sea level, written in the rock under it */}
+      <text x={w / 2} y={under - (compact ? 6 : 8)} textAnchor="middle" fontSize={fs} fill={PAL.ink}>
+        {compact ? `${bas.floor.short ?? bas.floor.label}: about ${ft(bas.floor.m)} ft` : `${bas.floor.label}: about ${ft(bas.floor.m)} ft (${fmt(bas.floor.m)} m) above sea level`}
+      </text>
+      {!compact && sec.note && (() => {
+        // the pencil note stands in the sky over the far side of the hollow, clear of the dome's name; its arrow comes
+        // down to the floor between the dome and the far wall
+        const words = fill(sec.note, data.ctx);
+        const ty = domeY - 24 - line * 2;
+        const ax = (xD1 + xFloor1) / 2 + 16;
+        return (
+          <>
+            <path d={`M${f(w - 70)} ${f(ty + 8)} C${f(w - 72)} ${f(floorY - 90)} ${f(ax + 8)} ${f(floorY - 50)} ${f(ax)} ${f(floorY - 9)}`} fill="none" stroke={PAL.pencil} strokeWidth={1.4} strokeLinecap="round" />
+            <text className="va-hand" x={w - 12} y={ty} textAnchor="end" fontSize={23} fill={PAL.pencil}>{words}</text>
           </>
         );
       })()}

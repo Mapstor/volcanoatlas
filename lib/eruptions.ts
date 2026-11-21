@@ -291,6 +291,12 @@ export interface EruptionStats {
    * Null when the eruption is continuing, has an end, a month the record stands by, a question mark or a limit.
    */
   lastYearMargin: { year: number; margin: number } | null;
+  /**
+   * The newest eruption when the record gives only its year, marks that year with a question mark and gives no margin
+   * (Pululahua: "0290 ?", from radiocarbon). Printed as "about 290 CE (date uncertain)" and counted to the nearest
+   * 100 years, never to the year.
+   */
+  lastYearQuestioned: number | null;
   current: Eruption | null;
   currentStart: Ymd | null;
   /** Date of the Smithsonian's last update of the continuing eruption. */
@@ -421,6 +427,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     lastEndQuestioned: Boolean(over && over.edmod === '?' && precisionOf(over.edunc) === 'day'),
     lastYearOnly: newest && !over && !newest.emod && !newest.smod && newest.sy > 0 && !newest.sunc ? (newest.ey || newest.sy) : null,
     lastYearMargin: newest && !over && !newest.emod && !newest.smod && (!newest.sm || precisionOf(newest.sdunc) === 'year') && !newest.ey && newest.sunc ? { year: newest.sy, margin: newest.sunc } : null,
+    lastYearQuestioned: newest && !over && !newest.emod && newest.smod === '?' && !newest.sm && !newest.ey && !newest.sunc ? newest.sy : null,
     current,
     currentStart,
     currentLast,

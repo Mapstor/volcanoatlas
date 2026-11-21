@@ -916,6 +916,15 @@
 "sea_floor_m": null,
 "peak_m": 3432
 },
+"352011": {
+"name": "Pululahua",
+"cells": 887,
+"sea_share": 0.0,
+"land_m": 2455,
+"sea_floor_m": null,
+"peak_m": 3104,
+"retrieved": "2026-11-21"
+},
 "352020": {
 "name": "Guagua Pichincha",
 "cells": 894,
