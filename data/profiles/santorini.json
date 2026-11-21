@@ -1,0 +1,432 @@
+{
+ "slug": "santorini",
+ "volcano_number": 212040,
+ "name": "Santorini",
+ "country": "Greece",
+ "title": "Santorini Volcano: Last Eruption, Is It Active & Facts",
+ "description": "Santorini’s volcano last erupted in 1950. Magma moved under it in 2024–2025 without an eruption. Its state now, the Minoan eruption and the full record.",
+ "h1": "Santorini Volcano",
+ "facts": {
+  "count_from": 1700
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "stirred in 2025, no eruption",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Santorini is a volcano in the Aegean Sea, in Greece: a ring of islands around a caldera that the sea has flooded, with a young volcanic island, Nea Kameni, in the middle. It last erupted in {last_year}. In 2024 and 2025 magma moved under it and tens of thousands of earthquakes shook the area, and no eruption followed. Below: when it last erupted, its state now, the Minoan eruption that shaped it, how big it is, how often it erupts, and every eruption on record.",
+ "answer": "**Santorini is an active volcano, and it is not erupting.** Its last eruption ran from {last_start} to {last_end}, on Nea Kameni, the island in the middle of its flooded caldera.[[gvp]] From mid-2024 into 2025 the ground rose and earthquake swarms struck, but the magma stayed underground, and in April 2026 Greece reopened most of the places it had closed.[[isken]][[kya26]][[iefen]]",
+ "timeline": {
+  "from": 1700,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1707.39,
+    "label": "1707"
+   },
+   {
+    "year": 1866.07,
+    "label": "1866"
+   },
+   {
+    "year": 1925.61,
+    "label": "1925"
+   },
+   {
+    "year": 1950.03,
+    "label": "1950"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Two of the six eruptions since {since_year} lasted more than four years each. The other four came between 1925 and 1950."
+ },
+ "section": {
+  "kind": "lagoon",
+  "lagoon": {
+   "wall": {
+    "m": 300,
+    "label": "cliffs of the caldera wall",
+    "short": "cliffs"
+   },
+   "depth": {
+    "m": 390,
+    "label": "deepest water",
+    "short": "deep"
+   },
+   "island": {
+    "m": 128,
+    "label": "Nea Kameni"
+   }
+  },
+  "note": "newest lava: 1950",
+  "caption": "Santorini cut across, from one wall of the caldera to the other. The volcano’s highest point, the cliffs, Nea Kameni and the deepest water are to one scale; widths and shapes are schematic.[[gvp]][[ismosav]][[ismosavgeo]]"
+ },
+ "map_zoom": 11,
+ "map_label": "left",
+ "table": {
+  "rows": 6,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is the Santorini volcano?",
+   "map": true,
+   "paras": [
+    "The Santorini volcano is the island group itself. It lies in the southern Aegean Sea, in Greece, about 73 miles (118 km) north of Crete, at {coords}.[[nasa08]][[gvp]]",
+    "Five islands make up the group. Thera, the large crescent (also written Thira), Therasia and tiny Aspronisi stand in a ring; Palea Kameni and Nea Kameni lie in the middle.[[ismosavgeo]] The outer islands are what is left of one large, round volcano, and the bay inside the ring is its caldera: the hollow left when the ground fell in after great eruptions.[[nasa16]][[karstens]] The caldera measures about 7 by 4.7 miles (11 by 7.5 km), and the sea fills it.[[ismosavgeo]]",
+    "It is one of {n_country} volcanoes in [Greece](/volcanoes-in-greece) on the Smithsonian’s Holocene list.[[gvp]] Another of them, Kolumbo, is a submarine volcano about 4 miles (7 km) to the northeast; the list keeps it apart from Santorini.[[gvp]][[min0205]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Santorini last erupt?",
+   "table": "periods",
+   "paras": [
+    "Santorini last erupted from **{last_start} to {last_end}**, on Nea Kameni. The Smithsonian rates the eruption VEI 2 on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]]",
+    "It was small. A 2023 study built on the reports of the Greek scientists who watched it says it began at 1 a.m. on January 10 with a small earthquake and a noise. Explosions followed on the east side of the Georgios dome, as many as eight an hour, with plumes 160 to 1,000 ft (50 to 300 m) high and blocks thrown 330 to 660 ft (100 to 200 m). Lava then built a small dome, named Liatsikas, about 130 ft (40 m) across at its base and 350 ft (108 m) above the sea.[[drymoni]] The study ends the activity on February 3, a day later than the Smithsonian does.[[drymoni]][[gvp]]",
+    "It was the last of four eruptions in 25 years, all on Nea Kameni.[[gvp]] The first began on August 11, 1925. It sent ash clouds up to 2 miles (3.2 km) high, and its lava covered about 240 acres (98 hectares); by the 2023 study’s account it put out more lava than the whole eruption of 1939 to 1941.[[gvp]][[drymoni]] The second lasted about eight weeks early in 1928. The third ran from August 1939 to July 1941 and built a string of lava domes, among them Ktenas, Fouqué and Niki.[[gvp]][[ismosavhist]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is the Santorini volcano active?",
+   "paras": [
+    "Yes. It is an active volcano, and it is not erupting. The institute that monitors it, ISMOSAV, lists its status as “Active,” its last eruption as 1950 and its latest unrest, of 2024 to 2025, as ongoing. Its page showed no alert level when it was read on {read_date}.[[ismosav]]",
+    "That unrest began quietly. From about July 2024 the ground on Santorini rose by a few centimeters as magma moved into a shallow reservoir under the caldera, and from September small earthquakes shook the caldera itself.[[isken]][[min0205]] On January 29, 2025, Greece’s civil protection ministry described mild seismic and volcanic activity along the Kameni fault, in the northern part of the caldera. It compared it with the unrest of 2011 and 2012 and said there was no reason for particular concern.[[min0129]]",
+    "In late January 2025 a far stronger swarm of earthquakes began under the sea to the northeast, between Santorini and the island of Amorgos.[[isken]][[min0216]] By the count of the German-led team that studied it, more than 28,000 earthquakes followed, the largest above magnitude 5. The revised catalogue of Greece’s Geodynamic Institute has more than 21,000 between January 26 and June 30, 2025.[[isken]][[lifo]] Schools on four islands closed, and the authorities told people to keep away from four small ports at the foot of the caldera cliffs.[[min0216]][[min0205]]",
+    "The cause was magma. About 390 million cubic yards (300 million cubic m) of it rose from deep in the crust and stopped about 2.5 miles (4 km) below the sea floor. The earthquakes traced its climb from 11 miles (18 km) down and its spread more than 6 miles (10 km) to the northeast.[[isken]] The magma came from a reservoir under Kolumbo, where the sea bed sank by up to 12 inches (30 cm), while Santorini had been swelling for half a year. The team reads that as a link between the two volcanoes at depth that nobody had known of.[[isken]]",
+    "The swarm peaked on February 3, 2025, and was in clear decline after February 12 to 13, the director of the Geodynamic Institute told a conference at the National Observatory of Athens a year later. No very shallow earthquakes had pointed to an eruption about to start, he said.[[lifo]] At the same conference a University of Athens geologist said the ground’s movement had slowed since March 2025 but that Santorini was still rising, and the head of ISMOSAV said the crisis had found the island with instruments that were not working. They have been repaired since, he said, and more stations are planned.[[lifo]]",
+    "On April 27, 2026, a new joint decision of eight ministries reset the island’s safety rules, on the unanimous advice of the scientists, and lifted most of the emergency limits.[[kya26]][[iefen]] Until March 31, 2027, it keeps traffic controls at the port of Athinios, one closed zone in the Old Port of Fira, a road at Ammoudi closed to most vehicles and one footpath there closed. Armeni, Korfos and the rest of the Old Port are open.[[aftod]] A research director of the Geodynamic Institute told the news site iefimerida the next day that, by the scientists’ assessment, the earthquake activity and the deformation had stopped, and that limits across the whole island were no longer justified.[[ganas]]",
+    "It was the volcano’s second bout of unrest this century. From January 2011 to the spring of 2012 the ground rose 3 to 5.5 inches (8 to 14 cm) as 13 to 26 million cubic yards (10 to 20 million cubic m) of magma collected about 2.5 miles (4 km) down. That episode also ended without an eruption.[[parks12]][[druitt19]]",
+    "Two bodies watch the volcano. ISMOSAV, founded in 1995, keeps the observatory and its networks running: seismic, satellite positioning, radar, thermal and chemical.[[ismosav]] A standing scientific committee at Greece’s earthquake planning agency advises the government on the volcanoes of the Aegean arc, and the safety rules follow its recommendations.[[talos]][[kya26]]"
+   ]
+  },
+  {
+   "id": "minoan",
+   "h": "What was the Minoan eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The Minoan eruption, also called the Late Bronze Age eruption, is the one that gave Santorini its present shape. It happened about 3,600 years ago.[[parks12]][[druitt19]] The Smithsonian’s list dates it to **{oldest}**, give or take 14 years, from radiocarbon. Radiocarbon measured on samples from the buried town of Akrotiri and on an olive tree gives dates between 1660 and 1600 BCE.[[gvp]][[druitt15]]",
+    "It was one of the largest eruptions of the past 10,000 years.[[karstens]][[nasa08]] A 2023 study put its volume at 8.3 cubic miles (34.5 cubic km) of dense rock, give or take 1.6 (6.8); earlier estimates had ranged from 4.6 to 21 cubic miles (19 to 86 cubic km).[[karstens]] The Smithsonian rates it VEI {max_vei}, with a question mark.[[gvp]]",
+    "It came in stages. Explosions started days to weeks before the main event. Then a column of ash and pumice rose about 22 miles (36 km) and dropped pumice up to 18 ft (5.5 m) deep.[[karstens]][[druitt15]] Next the vent shifted into water and the blasts turned to steam-driven surges. Last came hot avalanches of ash and pumice, called pyroclastic flows, that swept down the island’s slopes.[[karstens]] The ground over the emptied magma chamber fell in during or after the eruption, deepening the caldera.[[karstens]]",
+    "On Thera the eruption buried Akrotiri, a town with streets, three-story houses and wall paintings, and the ash preserved it much as ash preserved Pompeii.[[nasa16]] Its people had left. The excavations show an orderly evacuation, then earthquake damage, then crews who came back to pull down walls and clear the streets, then a final abandonment before the burial.[[druitt15]]",
+    "Waves followed. NOAA’s database flags a tsunami for the eruption, and deposits at Paleokastro in eastern Crete imply waves more than 16 ft (5 m) high.[[noaa]][[druitt15]] Pyroclastic flows pouring into the sea may have raised them.[[karstens]]",
+    "It was not the volcano’s first collapse. Santorini has been active for more than half a million years, with about twelve great explosive eruptions in the last 350,000. At least four of them, about 172,000, 70,000, 22,000 and 3,600 years ago, ended with a caldera falling in.[[druitt19]] Eruptions of that size have come back every 10,000 to 30,000 years.[[druitt19]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How big is the Santorini volcano?",
+   "paras": [
+    "What shows above the water is mostly the rim. The Smithsonian lists the volcano’s highest point at **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]] ISMOSAV’s overview page gives {wall_ft} ft ({wall_m} m) for the caldera walls, and its geology page 980 to 1,300 ft (300 to 400 m).[[ismosav]][[ismosavgeo]] A volcanologist’s field guide and a NASA photo caption both put the cliffs that face the bay at up to {wall_m} m.[[druitt15]][[nasa16]]",
+    "The highest ground on Thera is not volcanic. Mount Profitis Ilias is a limestone peak, part of the rock that was there before the volcano.[[gvp]][[ismosavgeo]]",
+    "Under the bay, the caldera floor lies nearly {depth_ft} ft ({depth_m} m) down at its deepest.[[ismosavgeo]][[druitt15]] A 2024 study gives 1,263 ft (385 m) for the deepest point of the northern basin and 950 ft (290 m) for the southern one.[[preine]]",
+    "Nea Kameni, the island in the middle, reaches {island_ft} ft ({island_m} m).[[ismosav]] It and its neighbor Palea Kameni are the two tops of one volcano that stands mostly under water: a shield of lava about 2.2 miles (3.5 km) across at its base, with a volume near 1 cubic mile (4.3 cubic km).[[preine]][[druitt15]] All of it has grown since the Minoan eruption, at an average of about 1.3 million cubic yards (1 million cubic m) of lava a year.[[pyle14]][[druitt19]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Santorini?",
+   "paras": [
+    "The Smithsonian’s list classes Santorini under **shield volcanoes**; ISMOSAV’s label is “Caldera (complex stratovolcano).”[[gvp]][[ismosav]] The pieces fit together this way: overlapping shield volcanoes built the island up in layers of lava, and great explosive eruptions then cut calderas into it, four of them partly overlapping, the youngest from the Minoan eruption.[[nasa08]][[gvp]]",
+    "Its main rock on the Smithsonian’s list is {rock}, and the Kameni islands are built of dacite lava.[[gvp]][[ismosavgeo]] It is thick lava that creeps out slowly, piles into domes and stubby flows, and now and then explodes at the vent.[[druitt19]]",
+    "Scientists at a government briefing in February 2025 put it this way: Santorini is not one volcano but three centers, Christiana to the west, Kameni in the caldera and Kolumbo under the sea to the northeast.[[min0205]] The Smithsonian lists Kolumbo separately; its last eruption was in 1650.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Santorini erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** of Santorini: the Minoan eruption and ten since, all inside the caldera.[[gvp]] The early ones are known from ancient writers. An island rose in 197 BCE and another in 46 and 47 CE. In 726 an explosive eruption threw out pumice that drifted to the coasts of Macedonia and Asia Minor, more than 250 miles (400 km) away.[[gvp]][[druitt15]][[preine]] An eruption from 1570 to 1573 built the island of Mikri Kameni, and the one of 1707 to 1711 built the first Nea Kameni.[[gvp]][[druitt15]]",
+    "Since {since_year} it has erupted six times: from 1707 to 1711, from 1866 to 1870, and four times between 1925 and 1950.[[gvp]] The six lasted from 23 days to almost five years. They were slow outpourings of thick lava, about 3 to 5 cubic yards (2 to 4 cubic m) a second, broken by explosions at the vent.[[druitt19]]",
+    "The pauses are long and uneven. After 1711 the volcano was quiet for 154 years, and after 1870 for almost 55. The quiet since 1950 is already the second longest of the last three centuries.[[gvp]] Volcanologists have found that the longer Santorini rests, the more lava the next eruption brings and the longer it lasts.[[druitt19]][[nomikou14]] Earlier work summarized in the 2023 study suggests that the next eruption could last from 2.7 to more than 4 years, and that a general rise of the ground around the islands would be its most probable warning sign.[[drymoni]]",
+    "Larger eruptions are rarer but have happened since the caldera formed. The Smithsonian rates the eruption of 726 VEI 4, with a question mark. A 2024 study of its deposits, most of them on the caldera floor, found up to 0.7 cubic miles (3.1 cubic km) of pumice and ash and rated it VEI 5, of the same order as the 2022 eruption of [Hunga Tonga-Hunga Ha‘apai](/volcano/hunga-tonga-hunga-ha-apai).[[gvp]][[preine]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is the Santorini volcano dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For the rules in force on the island, follow Greece’s civil protection ministry.",
+   "paras": [
+    "It can be, and Greece plans for it. Santorini had 15,550 permanent residents in the 2011 census, and between August 1 and 25 it hosts four to five times that number in tourists.[[talos]] The state’s emergency plan for the volcano, code-named Talos, works with two scenarios.[[talos]]",
+    "The one it calls most probable resembles the eruptions of the last three centuries: a lava dome growing along the line of the Kameni islands, with explosions that throw blocks about half a mile (1 km), ash columns up to about 2 miles (3 km) high and lava flows up to about a mile (1.5 km) long. Ash and gas could reach all of Santorini, the south and center of Thera most of all. The plan expects warning signs a few weeks to a few months ahead.[[talos]]",
+    "The extreme scenario is a larger explosive eruption, rated VEI 3, of the kind Kolumbo produced in 1650: an ash column 5 to 7.5 miles (8 to 12 km) high for half an hour to an hour, hot avalanches of ash, blocks thrown as far as 3.7 miles (6 km), and effects up to 25 miles (40 km) away. Part of Thera would have to be evacuated. The plan gives no odds; it says only that such an eruption has some probability in the near future.[[talos]]",
+    "A 2024 study found that the eruption of 726 was larger than the worst case considered until then. Its authors list tsunamis from explosions under water, rafts of floating pumice and large ash clouds among the hazards of a repeat.[[preine]]",
+    "The cliffs are a hazard of their own. The head of Greece’s earthquake planning agency told the 2025 briefing that the danger of landslides is high along almost the whole inner slope of the caldera. He named five places most at risk: the Old Port of Fira, Athinios, Ammoudi, Armeni and Korfos on Therasia.[[min0205]] Those are the places the rules of 2025 and 2026 deal with.[[min0216]][[aftod]]",
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Santorini. Five carry a tsunami flag: the Minoan eruption, 197 BCE, 46 CE, an entry for 1050 that has no match in the Smithsonian’s list, and 1707. Two carry deaths: one in 1866 and {worst_deaths} in 1926.[[noaa]][[gvp]] We could not trace the {worst_deaths}. NOAA’s entry gives no description, and the 2023 study of the eruptions of 1925 to 1928, which draws on the Greek scientific committee’s reports, records no casualties when the activity began.[[noaa]][[drymoni]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Santorini’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Santorini has **{n_all} confirmed eruptions**: ten known from written reports and the Minoan eruption, dated by radiocarbon.[[gvp]] The eruption of 1650 at Kolumbo is in that volcano’s record, not in this one.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "about 3,600 years ago",
+ "callouts": [
+  {
+   "number": "8.3",
+   "unit": "cubic miles",
+   "text": "Dense rock thrown out by the Minoan eruption (34.5 cubic km, give or take 6.8), by a 2023 estimate.",
+   "source": "Source: Karstens and others, 2023.[[karstens]]"
+  },
+  {
+   "number": "22",
+   "unit": "miles",
+   "text": "Height of the ash column in the eruption’s first main stage (36 km, give or take 5).",
+   "source": "Source: Druitt, field guide to Santorini Volcano, 2015.[[druitt15]]"
+  }
+ ],
+ "faq_h": "Santorini volcano questions and answers",
+ "faq": [
+  [
+   "Is the Santorini volcano active?",
+   "Yes. It is an active volcano, and it is not erupting. Its last eruption was in {last_year}, and its latest unrest, in 2024 and 2025, ended without one."
+  ],
+  [
+   "When did Santorini last erupt?",
+   "From {last_start} to {last_end}, on Nea Kameni, the island in the middle of the caldera. It was a small eruption: explosions and a small dome of lava."
+  ],
+  [
+   "Did Santorini erupt in 2025?",
+   "No. Tens of thousands of earthquakes shook the area early in 2025 as magma rose under the sea floor northeast of the island. It stopped about 2.5 miles (4 km) down."
+  ],
+  [
+   "Is it safe to visit Santorini?",
+   "This page is a record, not a safety guide. The record: no eruption since {last_year}; in April 2026 Greece reopened most of the places closed during the 2025 unrest; the limits kept until March 31, 2027 cover a few spots under the caldera cliffs. Check Greece’s civil protection ministry for the rules in force."
+  ],
+  [
+   "When was the Minoan eruption?",
+   "About 3,600 years ago. The Smithsonian’s list dates it to {oldest}, give or take 14 years; samples from Akrotiri and a buried olive tree give dates between 1660 and 1600 BCE."
+  ],
+  [
+   "How big was the Minoan eruption?",
+   "A 2023 study put it at 8.3 cubic miles (34.5 cubic km) of dense rock, give or take 1.6 (6.8). The Smithsonian rates it VEI {max_vei}, with a question mark."
+  ],
+  [
+   "How deep is the Santorini caldera?",
+   "Nearly {depth_ft} ft ({depth_m} m) under the bay at its deepest, by ISMOSAV’s figure. The cliffs around it stand up to about {wall_ft} ft ({wall_m} m) above the water."
+  ],
+  [
+   "What type of volcano is Santorini?",
+   "The Smithsonian’s list classes it under shield volcanoes; the institute that monitors it calls it a caldera (complex stratovolcano). Shield volcanoes built the island, and great explosive eruptions cut calderas into it."
+  ],
+  [
+   "Will Santorini erupt again?",
+   "Greece’s emergency plan treats a new eruption along the line of the Kameni islands as its most probable scenario, with warning signs weeks to months ahead. Nobody can say when."
+  ],
+  [
+   "What is Nea Kameni?",
+   "The young volcanic island in the middle of the caldera, {island_ft} ft ({island_m} m) high. It has grown through every eruption since 1707, the last in {last_year}."
+  ],
+  [
+   "Is Kolumbo part of Santorini?",
+   "It is a separate submarine volcano about 4 miles (7 km) northeast of Santorini, listed on its own by the Smithsonian. It last erupted in 1650."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Santorini record, eruption list and photo captions",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=212040"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "ismosav",
+   "publisher": "Institute for the Study and Monitoring of Santorini Volcano (ISMOSAV)",
+   "title": "Home page: Santorini Volcano overview (type, status, last eruption, elevations)",
+   "url": "https://ismosav.gr/en/home/"
+  },
+  {
+   "id": "ismosavgeo",
+   "publisher": "Institute for the Study and Monitoring of Santorini Volcano (ISMOSAV)",
+   "title": "Geology",
+   "url": "https://ismosav.gr/en/geology/"
+  },
+  {
+   "id": "ismosavhist",
+   "publisher": "Institute for the Study and Monitoring of Santorini Volcano (ISMOSAV)",
+   "title": "Eruptive History",
+   "url": "https://ismosav.gr/en/eruptive-history/"
+  },
+  {
+   "id": "kya26",
+   "publisher": "Ministry for Climate Crisis and Civil Protection, Greece",
+   "title": "Δημοσιεύθηκε η νέα Κοινή Υπουργική Απόφαση για τη λήψη μέτρων Πολιτικής Προστασίας στο Νησιωτικό Σύμπλεγμα της Σαντορίνης (press release, April 27, 2026; PDF, in Greek)",
+   "url": "https://civilprotection.gov.gr/sites/default/files/2026-04/CivProGR20260427.pdf"
+  },
+  {
+   "id": "aftod",
+   "publisher": "aftodioikisi.gr",
+   "title": "Σαντορίνη: Σε ισχύ τα νέα μέτρα Πολιτικής Προστασίας (ΦΕΚ) (April 28, 2026, in Greek; reproduces the ministry’s announcement)",
+   "url": "https://www.aftodioikisi.gr/nomothesia/santorini-se-ischy-ta-nea-metra-politikis-prostasias-fek/"
+  },
+  {
+   "id": "iefen",
+   "publisher": "iefimerida.gr (English edition)",
+   "title": "Santorini Lifts Most Volcano Restrictions as Seismic Activity Returns to Normal Levels (Anthee Carassava, April 29, 2026)",
+   "url": "https://www.iefimerida.gr/english/santorini-lifts-most-volcano-restrictions-seismic-activity-returns-normal-levels"
+  },
+  {
+   "id": "ganas",
+   "publisher": "iefimerida.gr",
+   "title": "Σε καθεστώς αυξημένης επιτήρησης η Σαντορίνη -«Δεν υπάρχει λόγος να διατηρούνται καθολικοί περιορισμοί», λέει ο Γκανάς στο iefimerida (April 28, 2026, in Greek)",
+   "url": "https://www.iefimerida.gr/ellada/se-kathestos-ayximenis-epitirisis-i-santorini"
+  },
+  {
+   "id": "min0129",
+   "publisher": "Ministry for Climate Crisis and Civil Protection, Greece",
+   "title": "Σύσκεψη στο Υπουργείο Κλιματικής Κρίσης και Πολιτικής Προστασίας με θέμα την ήπια σεισμική-ηφαιστειακή δραστηριότητα στη Σαντορίνη (press release, January 29, 2025, in Greek)",
+   "url": "https://civilprotection.gov.gr/en/deltia-tupou/syskepsi-sto-ypoyrgeio-klimatikis-krisis-kai-politikis-prostasias-me-thema-tin-ipia"
+  },
+  {
+   "id": "min0205",
+   "publisher": "Ministry for Climate Crisis and Civil Protection, Greece",
+   "title": "Ενημέρωση στο Υπουργείο Κλιματικής Κρίσης και Πολιτικής Προστασίας σχετικά με την αυξημένη σεισμική δραστηριότητα στη θαλάσσια περιοχή μεταξύ Θήρας και Αμοργού (briefing transcript, February 5, 2025, in Greek)",
+   "url": "https://civilprotection.gov.gr/en/deltia-tupou/enimerosi-sto-ypoyrgeio-klimatikis-krisis-kai-politikis-prostasias-shetika-me-tin"
+  },
+  {
+   "id": "min0216",
+   "publisher": "Ministry for Climate Crisis and Civil Protection, Greece",
+   "title": "Ανακοίνωση Υπουργείου Κλιματικής Κρίσης και Πολιτικής Προστασίας (findings of the scientific committees, February 16, 2025, in Greek)",
+   "url": "https://civilprotection.gov.gr/en/deltia-tupou/anakoinosi-ypoyrgeioy-klimatikis-krisis-kai-politikis-prostasias-4"
+  },
+  {
+   "id": "lifo",
+   "publisher": "LiFO",
+   "title": "Σεισμοί στη Σαντορίνη, ένας χρόνος μετά: Τι συνέβη τελικά στον βυθό του Αιγαίου - Δημιουργήθηκε νέο ηφαίστειο; (report on the scientists’ conference, February 17, 2026, in Greek)",
+   "url": "https://www.lifo.gr/now/perivallon/seismoi-sti-santorini-enas-hronos-meta-ti-synebi-telika-ston-bytho-toy-aigaioy"
+  },
+  {
+   "id": "isken",
+   "publisher": "GEOMAR Helmholtz Centre for Ocean Research Kiel and GFZ Helmholtz Centre for Geosciences",
+   "title": "Magma Displacement triggered tens of thousands of Earthquakes (press release, September 24, 2025), on Isken, M. P., Karstens, J. and others, Volcanic crisis reveals coupled magma system at Santorini and Kolumbo, Nature 645, 939–945, doi:10.1038/s41586-025-09525-7",
+   "url": "https://www.geomar.de/en/news/article/magmaverlagerung-loeste-zehntausende-erdbeben-aus"
+  },
+  {
+   "id": "talos",
+   "publisher": "General Secretariat for Civil Protection, Greece",
+   "title": "General plan for emergencies from volcanic activity in the Santorini volcanic complex, code name “Talos,” 1st edition (protocol no. 941, February 6, 2020; PDF, in Greek)",
+   "url": "https://civilprotection.gov.gr/sites/default/files/gscp_uploads/ap_941_06-02-2020_egkrisi_kai_apostoli_1is_ekdosis_genikoy_shedioy_ifaisteioy_santorinis_ada_ovit46mtlv-thvi_0.pdf"
+  },
+  {
+   "id": "drymoni",
+   "publisher": "Bulletin of Volcanology (Springer), open access",
+   "title": "Drymoni, K. and others (2023). Historical accounts provide insight on the geological evolution of the 20th century eruptions at Santorini volcano, Greece. Volume 85, article 70, doi:10.1007/s00445-023-01681-w",
+   "url": "https://link.springer.com/article/10.1007/s00445-023-01681-w"
+  },
+  {
+   "id": "preine",
+   "publisher": "Nature Geoscience, open access",
+   "title": "Preine, J. and others (2024). Hazardous explosive eruptions of a recharging multi-cyclic island arc caldera. Volume 17, 323–331, doi:10.1038/s41561-024-01392-7",
+   "url": "https://link.springer.com/10.1038/s41561-024-01392-7"
+  },
+  {
+   "id": "karstens",
+   "publisher": "Nature Communications, open access (copy in the U.S. National Science Foundation’s public archive)",
+   "title": "Karstens, J. and others (2023). Revised Minoan eruption volume as benchmark for large volcanic eruptions. Volume 14, article 2497, doi:10.1038/s41467-023-38176-3",
+   "url": "https://par.nsf.gov/servlets/purl/10440841"
+  },
+  {
+   "id": "druitt19",
+   "publisher": "Oxford University Research Archive (authors’ copy)",
+   "title": "Druitt, T. H., Pyle, D. M. and Mather, T. A. Santorini Volcano and its Plumbing System (review article)",
+   "url": "https://ora.ox.ac.uk/objects/uuid:8056461c-479b-46e3-877b-45ecc83ad33d/files/mf8e63990e5da981e173949407ba7f8e3"
+  },
+  {
+   "id": "druitt15",
+   "publisher": "T. H. Druitt, Laboratoire Magmas et Volcans, Clermont-Ferrand (copy hosted by the University of Oregon)",
+   "title": "MeMoVolc short course, Santorini, 2015: Field guide to Santorini Volcano (PDF)",
+   "url": "https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/a/15544/files/2018/02/SantoriniFieldGuide2015-q4fikc.pdf"
+  },
+  {
+   "id": "nomikou14",
+   "publisher": "GeoResJ (record at the University of Edinburgh)",
+   "title": "Nomikou, P. and others (2014). The emergence and growth of a submarine volcano: The Kameni islands, Santorini (Greece). Volumes 1–2, 8–18, doi:10.1016/j.grj.2014.02.002 (abstract)",
+   "url": "https://www.research.ed.ac.uk/en/publications/the-emergence-and-growth-of-a-submarine-volcano-the-kameni-island/"
+  },
+  {
+   "id": "parks12",
+   "publisher": "University of Bristol",
+   "title": "Giant ‘balloon of magma’ inflates under Santorini (press release, September 9, 2012), on Parks, M. M. and others, Evolution of Santorini Volcano dominated by episodic and rapid fluxes of melt from depth, Nature Geoscience",
+   "url": "https://bristol.ac.uk/news/2012/8763.html"
+  },
+  {
+   "id": "pyle14",
+   "publisher": "David Pyle, University of Oxford, on EGU Blogs",
+   "title": "The Kameni islands, Santorini, Greece (February 14, 2014)",
+   "url": "https://blogs.egu.eu/network/volcanicdegassing/2014/02/14/the-kameni-islands-santorini-greece/"
+  },
+  {
+   "id": "nasa16",
+   "publisher": "NASA Johnson Space Center, Earth from Space",
+   "title": "Santorini, Greece: astronaut photograph ISS048-E-72284, September 2016",
+   "url": "https://eol.jsc.nasa.gov/Collections/EarthFromSpace/printinfo.pl?PHOTO=ISS048-E-72284"
+  },
+  {
+   "id": "nasa08",
+   "publisher": "NASA Johnson Space Center, Gateway to Astronaut Photography of Earth",
+   "title": "Santorini Volcano, Greece: astronaut photograph ISS017-E-5037, acquired April 19, 2008",
+   "url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS017&roll=E&frame=5037"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption in the Smithsonian’s record, to today.",
+  "**the second-longest pause:** from the Smithsonian’s dates since {since_year}: 154 years between the eruptions that ended in 1711 and began in 1866, almost 55 between 1870 and 1925, and under 12 between the eruptions of the 20th century.",
+  "**{wall_ft} ft, {island_ft} ft and {depth_ft} ft:** ISMOSAV’s {wall_m} m, {island_m} m and {depth_m} m, converted and rounded to 10 ft.",
+  "Miles, feet, inches, cubic miles and cubic yards are converted from the metric figures in the sources and rounded, except where a source prints both.",
+  "Dates are as the sources give them. Times of day are local. Greek titles are given in Greek; what Greek sources say is our translation."
+ ],
+ "expect": {
+  "last_year": "1950",
+  "last_start": "January 10",
+  "last_end": "February 2, 1950",
+  "summit_m": "367",
+  "summit_ft": "1,204",
+  "n_all": "11",
+  "n_since": "6",
+  "n_written": "10",
+  "n_rc": "1",
+  "max_vei": "7",
+  "n_vei7": "1",
+  "n_vei4": "1",
+  "n_vei3": "4",
+  "n_vei2": "5",
+  "oldest": "1610 BCE",
+  "noaa_n": "7",
+  "noaa_tsu": "5",
+  "noaa_fatal_count": "2",
+  "noaa_deaths": "49",
+  "worst_deaths": "48",
+  "type": "Shield volcano",
+  "rock": "dacite",
+  "wall_ft": "980",
+  "island_ft": "420",
+  "depth_ft": "1,280"
+ },
+ "observatory_read": "2026-11-21",
+ "since_check": "**Not erupting. No eruption since 1950.** The home page of ISMOSAV, the institute that monitors the volcano, read on {read_date}, lists it as active, with its last eruption in 1950 and its latest unrest, of 2024 to 2025, marked as ongoing; the page shows no alert level.[[ismosav]] Greece’s civil protection ministry last ruled on the island on April 27, 2026, when a new decision reopened most of the places closed during that unrest.[[kya26]][[iefen]]",
+ "reviewed": null
+}

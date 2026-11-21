@@ -172,7 +172,7 @@ volcano/san-cristobal,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuil
 volcano/san-miguel,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/santa-ana,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/santa-maria,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/santorini,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/santorini,volcanoes,data,informational,"what the volcano is doing now, in dated official statements side by side (ISMOSAV’s status line, the ministry’s decisions of 2025 and April 2026, the scientists’ counts of the 2025 swarm) with the magma numbers behind the 2025 crisis; the 1950 eruption from the Greek committee’s reports; the Minoan eruption with its newest volume and dates; a cross-section of the flooded caldera to scale (cliffs, Nea Kameni, deepest water); the 726 eruption re-sized to VEI 5; NOAA’s untraceable 48 deaths flagged as such",gvp-eruptions,T2,live,"record page built 2026-11-21 (batch 25); first page with the flooded-caldera drawing (section.kind lagoon, D-60); also uses noaa-ncei-volcano, observatory-pages, nasa-earth-observatory and paper-abstracts; map at zoom 11 so the ring of islands shows; carries dated statements to refresh (ISMOSAV’s home page as read on 2026-11-21; the ministry’s decision of 27 April 2026, in force to 31 March 2027); waits for the owner’s read before his name goes on"
 volcano/semeru,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/sete-cidades,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/sheveluch,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
