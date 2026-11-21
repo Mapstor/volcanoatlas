@@ -1,0 +1,448 @@
+{
+ "slug": "krakatau",
+ "volcano_number": 262000,
+ "name": "Krakatoa",
+ "country": "Indonesia",
+ "title": "Krakatoa (Krakatau) Volcano: Eruption Now, Height & Facts",
+ "description": "Krakatoa (Krakatau) in Indonesia has been erupting since June 2026. Its state now, the 1883 eruption, the 2018 collapse and tsunami, its height and record.",
+ "h1": "Krakatoa (Krakatau) Volcano",
+ "facts": {
+  "count_from": 1927,
+  "summit_m": 157,
+  "summit_ft": 515,
+  "summit_source": "bg0703",
+  "summit_source_name": "Indonesia’s Geological Agency"
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "its own agency counts from July 2",
+  "note_weekly": "still going in the {period} report"
+ },
+ "lede": "Krakatoa, Krakatau in Indonesia, is a group of islands in the Sunda Strait between Java and Sumatra. In August 1883 most of its main island blew apart and sank, and more than 36,000 people died, most of them in the waves. A new cone, Anak Krakatau, has grown in the gap since 1927. Half of that island slid into the sea in December 2018, and it has been erupting again since June 2026. Below: its state now, the 2026 eruption, 1883 and 2018, its height, and every eruption on record.",
+ "answer": "**Krakatoa is erupting.** The Smithsonian lists an eruption of Anak Krakatau, its active cone, that began on {cur_since} and was continuing at the list’s last update, on {cur_last}.[[gvp]] The alert stood at Level 3 of 4 in its weekly report for October 29 to November 4, 2026.[[gvp]] The cone is about **{summit_ft} ft ({summit_m} m)** high.[[bg0703]]",
+ "timeline": {
+  "from": 1875,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1927.99,
+    "label": "1927"
+   },
+   {
+    "year": 1883.38,
+    "label": "1883"
+   },
+   {
+    "year": 1959.96,
+    "label": "1959"
+   },
+   {
+    "year": 2018.46,
+    "label": "2018"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The first raised stretch is the eruption of 1883. The eruptions of Anak Krakatau begin 44 years later, in December 1927, and the stretch at the right edge is the one the list has as continuing since {cur_since}."
+ },
+ "section": {
+  "kind": "lagoon",
+  "lagoon": {
+   "wall": {
+    "m": 813,
+    "label": "Rakata",
+    "short": "Rakata"
+   },
+   "depth": {
+    "m": 270,
+    "label": "hollow left in 1883",
+    "short": "1883 hollow"
+   },
+   "island": {
+    "m": 157,
+    "label": "Anak Krakatau"
+   },
+   "edge": true
+  },
+  "former": {
+   "m": 338,
+   "ft": 1109,
+   "label": "the cone’s top before December 22, 2018"
+  },
+  "note": "{former_ft} ft until 2018",
+  "caption": "Krakatoa cut across, from Rakata to Anak Krakatau. The two heights and the depth of the hollow are to one scale; the depth is the figure given for the years after 1883, and widths, slopes and the sea floor beyond the cone are schematic.[[gvp]][[nature48]][[bg0703]] The dashed outline is the cone’s top before the collapse of December 22, 2018, at {former_ft} ft ({former_m} m).[[gvp]]"
+ },
+ "map_zoom": 7,
+ "map_label": "left",
+ "table": {
+  "rows": 7,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Krakatoa?",
+   "map": true,
+   "paras": [
+    "Krakatoa is in the Sunda Strait, between the Indonesian islands of Java and Sumatra, at {coords}.[[gvp]] Administratively it belongs to South Lampung Regency in Lampung Province.[[bg0703]]",
+    "It is a group of islands around a drowned caldera about 4 miles (7 km) wide. Rakata is what the eruption of 1883 left of the old Krakatoa Island, and two more islands, Verlaten and Lang, are pieces of a still older volcano.[[gvp]] The fourth island is the active cone, Anak Krakatau, “Child of Krakatau”. Rakata’s cliff faces it from 2.5 miles (4 km) to the south.[[gvp]]",
+    "Krakatau is the name used in Indonesia and by the Smithsonian, which calls “Krakatoa” a frequent misnaming.[[gvp]][[bg0703]] Most English-language readers know the volcano by that second spelling, and UNESCO uses it for the nature reserve here, part of the Ujung Kulon National Park World Heritage site.[[unesco]] Krakatoa is one of {n_country} volcanoes in [Indonesia](/volcanoes-in-indonesia) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Krakatoa erupting now?",
+   "table": "periods",
+   "paras": [
+    "Yes. The Smithsonian’s list has an eruption that began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]] It keeps an eruption on its list of continuing ones as long as activity returns without a break of three months or more.[[gvpcur]]",
+    "Indonesia’s Geological Agency watches Anak Krakatau from observation posts at Pasauran in Banten and Kalianda in Lampung. Its notice of July 3, 2026 puts the first eruption on July 2, at 2:05 p.m. For June 26, the Smithsonian’s start date, the same notice reports stronger gas bursts and gray smoke carrying thin ash.[[bg0703]]",
+    "The alert changed three times in 2026. The agency raised it from Level II to Level III, the second-highest of four, at 4:30 p.m. on July 2, and lowered it to Level II on September 21.[[bg0703]][[bg0921]] It went back up at 9 p.m. on October 9, and it was still at 3 in the Smithsonian’s weekly report for October 29 to November 4, the newest read for this page.[[gvp]]",
+    "In that report the public is told to stay 3 miles (5 km) from the summit and 0.6 mile (1 km) from the small islands to its northwest and southeast. During the same week, white-and-gray plumes rose as high as 1,600 ft (500 m) above the summit.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2026",
+   "h": "What has happened in the 2026 eruption?",
+   "paras": [
+    "Satellites saw it first. From June 1, 2026, Sentinel images showed sulfur dioxide and heat at the crater, and from June 10 hot spots. On June 18 and 19 the instruments recorded more than 50 earthquakes a day on average.[[bg0703]]",
+    "On July 2 at 2:05 p.m. the volcano sent ash about 660 ft (200 m) above its summit. At 4:30 p.m. the agency raised the alert to Level III and closed the area within 1.9 miles (3 km) of the vent.[[bg0703]] By September 3 it had counted 224 eruptions.[[bg0921]]",
+    "At 11:07 p.m. on Friday, September 4, the eruption became continuous. For about 25 hours, until 12:04 a.m. on September 6, a fountain of glowing lava played without a break and fed lava flows to the northwest, west and southwest.[[bg0905]][[bg0921]] South Lampung’s disaster agency reported an ash column to 48,000 ft (about 14.6 km) above sea level, volcanic lightning around the crater, and a field camera knocked out by glowing rock.[[bpbd]] People in West Java, Banten and Lampung reported booms and shaking.[[bg0905]]",
+    "Because of the ash, flights at Jakarta’s two airports, Soekarno-Hatta and Halim Perdanakusuma, were suspended on September 6 and resumed at 12 a.m. on September 8. By September 12 Indonesia’s disaster agency counted about 161,000 families affected in Lampung, Banten, Jakarta and parts of West Java.[[aha]]",
+    "A boat taking journalists to cover the eruption was lost. It left Carita, in Banten, at about 2 p.m. on September 7 with five journalists and three others aboard, and contact with it ended about an hour later.[[bnpb0911]][[banten0923]] The search was called off on its tenth day with no trace of the boat. One of the eight was later identified from a body found off Enggano Island, in Bengkulu Province; in the provincial government’s statement of September 23, the other seven were still missing.[[banten0917]][[banten0923]]",
+    "After the long eruption the volcano went back to short, separate explosions, 14 of them by the morning of September 11, and some of the monitoring instruments had been damaged.[[esdm0911]] With activity falling, the agency lowered the alert to Level II on September 21 and cut the closed zone to 1.2 miles (2 km).[[bg0921]] Low-level eruptions picked up again in early October, and the alert returned to Level 3 on October 9.[[gvp]]",
+    "On the tsunami question, the Geological Agency said during the long eruption that the cone rebuilt since 2018 was still small, with no potential for a collapse big enough to cause one.[[bg0905]] Its notices tell coastal residents not to believe tsunami rumors.[[bg0703]][[bg0921]]"
+   ]
+  },
+  {
+   "id": "1883",
+   "h": "What happened in the 1883 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The eruption began on May 20, 1883 and, on the Smithsonian’s list, lasted until October 21, an end date the list marks as uncertain. It is rated VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index), the only eruption of that size in Krakatoa’s record and the same rating as [Mount Pinatubo](/volcano/pinatubo)’s in 1991.[[gvp]] NOAA’s record carries the Smithsonian’s description of it as the second-largest eruption in Indonesia in historical time.[[noaa1883]]",
+    "The worst came on August 26 and 27. Weaker eruptions and waves began on the afternoon of the 26th, and NOAA times the main explosion and tsunami at 10:02 a.m. on the 27th.[[tsu1883]] The explosion was heard about 3,000 miles (4,800 km) away by NOAA’s record, and NASA’s account names Australia and Madagascar.[[tsu1883]][[nasa]] Its pressure wave moved tide gauges in Panama, France, Alaska and San Francisco.[[tsu1883]]",
+    "Before the eruption, Krakatoa Island was about 5.6 miles long and 3 miles wide (9 km by 5 km), with three volcanoes in a line: Perbuwatan, Danan and Rakata.[[nature48]][[nasa]] Perbuwatan and Danan disappeared, and Rakata was split down the middle. About two-thirds of the island’s 13 square miles (33 sq km) sank. Where it had stood, the sea bed was left with a hollow {depth_ft} ft ({depth_m} m) deep.[[nature48]]",
+    "NOAA counts {worst_deaths} deaths. The tsunami killed 34,417 of them on the coasts of Java and Sumatra, and an estimated 2,000 died in southern Sumatra from hot ash that had crossed 25 miles (40 km) of sea.[[noaa1883]][[tsu1883]] On the islands between Krakatoa and Sumatra, all 3,150 inhabitants died. The eruption destroyed 165 villages and damaged 132 more.[[noaa1883]]",
+    "The highest water NOAA’s tsunami database records for 1883 is 135 ft (41 m), and on the shores of the strait the sea rose about 100 ft (30 m).[[tsu1883]] A wave carried a block of coral weighing about 600 tons inland near Anyer, on Java.[[gvp]]",
+    "By one estimate in NOAA’s record, the deposits near the volcano amount to about 2.9 cubic miles (12 cubic km) and the ash column rose about 25 miles (40 km). Reports at the time put the column twice as high.[[noaa1883]]"
+   ]
+  },
+  {
+   "id": "2018",
+   "h": "What happened in December 2018?",
+   "paras": [
+    "At 8:55 p.m. on December 22, 2018, a large part of Anak Krakatau slid into the sea.[[walter]][[hunt]] The cone had been erupting since June, and its activity that day was raised but nothing unusual for those months. On shore there was no earthquake to feel and the sea did not draw back first. No tsunami warning went out.[[tsu2018]]",
+    "The first wave reached the coast of Java at about 9:27 p.m., roughly half an hour after the slide, and a larger one followed about four minutes later.[[gvp]] Four tide gauges on the coasts recorded the tsunami 31 to 57 minutes after the slide.[[walter]] On the coasts of Java and Sumatra the water ran up as high as 43 ft (13 m). On Rakata and Sertung, the islands next to the cone, it climbed more than 260 ft (80 m), and NOAA’s highest figure is 279 ft (85 m).[[hunt]][[tsu2018]]",
+    "Indonesia’s disaster agency counted 437 dead, 10 missing and 31,943 injured as of January 14, 2019.[[gvp]] The damage was spread over five regencies and was worst on the tourist beaches of Pandeglang, during a long holiday: at least 2,752 houses, 92 hotels and villas and 510 boats were damaged.[[tsu2018]]",
+    "The cone lost about two-thirds of its height. Indonesia’s volcano center measured the summit at {former_ft} ft ({former_m} m) before the collapse and 361 ft (110 m) after it, and put the volume gone from above the water at 150 to 180 million cubic meters.[[gvp]] A later survey of the sea floor found blocks from the slide as far as 0.9 mile (1.5 km) out in the basin and concluded that half the island had failed.[[hunt]]",
+    "For days afterward the eruption came up through shallow water. Steam-rich explosions sent ash to about 4.3 miles (7 km) on December 27, and the alert was raised to Level III that morning.[[gvp]] Within weeks the eruption had made the island larger in area than before the slide, though most of the new material went into the sea.[[hunt]] By January 9, 2019 a crater lake had formed, and a new cone largely filled it at the turn of the following year.[[gvp]]",
+    "The risk had been described in advance. A study in 2012 had warned of a slide from the cone’s southwest flank and the tsunami it would cause, and the cone was known to stand on the steep wall of the 1883 caldera, building out over it.[[walter]][[hunt]] In the months before the slide the flank had been creeping at about 4 mm a month, then about 10 mm a month once the eruption picked up in late June 2018. Even so, the study that measured the creep concludes that accurate predictions were impossible.[[walter]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Krakatoa?",
+   "paras": [
+    "Anak Krakatau, the active cone, is about **{summit_ft} ft ({summit_m} m)** high by the figure Indonesia’s Geological Agency works with. Its notice of July 3, 2026 puts ash that rose 200 m above the summit at 357 m above sea level, and the Smithsonian’s reports on the eruptions of late December 2019 give the summit as about 157 m.[[bg0703]][[gvp]] The Smithsonian’s list of volcanoes still carries {gvp_summit_m} m.[[gvp]]",
+    "No source read for this page gives a height measured since the 2026 eruption began, and the cone has been changing: in September 2026 lava flowed from the vent to the northwest, west and southwest.[[bg0921]]",
+    "The cone was {former_ft} ft ({former_m} m) high until December 22, 2018, when a collapse cut it to 361 ft (110 m). By August 2019 it had grown back to about 510 ft (155 m).[[gvp]]",
+    "Rakata, the remnant of the old island, is far higher: {wall_ft} ft ({wall_m} m).[[gvp]] Before 1883 it was about 2,600 ft (800 m) high, and Danan, another of the island’s three volcanoes, about 1,300 ft (400 m).[[nature48]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Krakatoa?",
+   "paras": [
+    "The Smithsonian classes Krakatoa as a **[caldera](/types-of-volcanoes)**, the basin left when a volcano collapses, and by its account Krakatoa has collapsed twice. An older volcano fell in, perhaps in 416 or 535 CE, and left a caldera about 4 miles (7 km) wide. Three new volcanoes then grew and joined into one island, most of which the collapse of 1883 destroyed.[[gvp]][[noaa1883]]",
+    "The part that erupts today is a cone. Anak Krakatau grew inside the 1883 caldera, between the places where Danan and Perbuwatan had stood, and it stands on the caldera’s steep northeastern wall.[[gvp]][[hunt]]",
+    "Eruptions under the sea were first seen there in December 1927. An island appeared the next month and did not last, and a permanent one stood above the water by August 1930.[[gvp]]",
+    "Its usual eruptions are short, separate explosions, the style called Strombolian, with lava flows at times.[[bnpb0911]][[bg0921]] The Smithsonian lists the main rock as {rock}.[[gvp]]",
+    "Krakatoa is not a supervolcano. The U.S. Geological Survey keeps that word for a volcano that has had an eruption of VEI 8, more than 240 cubic miles (1,000 cubic km) of material at once.[[usgs]] The 1883 eruption was VEI 6, with deposits near the volcano of about 2.9 cubic miles (12 cubic km).[[gvp]][[noaa1883]] The [supervolcanoes](/supervolcanoes) page lists the ones that qualify."
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Krakatoa erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions** for Krakatoa, all of them dated from written reports, and one more, in 1969, that it marks as uncertain.[[gvp]]",
+    "Of those, {n_since} have begun since December 1927, when Anak Krakatau first appeared: about one every two years on average. They have lasted from a single day to about {long1_years} years; the longest is the one the list dates {long1_span}.[[gvp]] From {counted_month_year} on, where every eruption on the list has both a start and an end date, Krakatoa has been in eruption about {share} percent of the time.[[gvp]]",
+    "Before 1883 the list is thin, and most of its dates are approximate. The oldest eruption is put at around {oldest}; a VEI 4 follows in 535 CE, and two of VEI 3 in 1680–1681 and 1684.[[gvp]] After 1883 came 44 quiet years, until the first eruption of Anak Krakatau.[[gvp]]",
+    "By size, the list has {n_vei6} eruption of VEI 6, {n_vei4} of VEI 4, {n_vei3} of VEI 3, {n_vei2} of VEI 2 and {n_vei1} of VEI 1. It gives no rating for {n_vei_none}, the current one among them.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Krakatoa dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For current warnings, use the notices of Indonesia’s Geological Agency and of BNPB, the national disaster agency.[[bg0703]]",
+   "paras": [
+    "Yes, and mostly through the sea. NOAA’s database of significant eruptions has {noaa_n} entries for Krakatoa, {noaa_tsu} of them with a tsunami.[[noaa]] Two of those account for nearly all of the {noaa_deaths} deaths it records: 1883 with {worst_deaths} and 2018 with 437.[[noaa]]",
+    "In 2018 there was nothing to feel or see on shore before the water came, about half an hour after the slide.[[tsu2018]][[gvp]]",
+    "Near the volcano, the hazards the agency names are glowing rock thrown from the vent, heavy ashfall, lava flows and pyroclastic flows, which are fast currents of hot rock, ash and gas.[[bg0905]][[esdm0911]] That is what the closed zone is for: 3 miles (5 km) from the summit in the newest report read for this page.[[gvp]]",
+    "Ash reaches much further. In September 2026 it kept Jakarta’s two airports closed to flights for more than a day.[[aha]]",
+    "The known human loss of the 2026 eruption came at sea: the boat that left for the volcano on September 7 with eight people aboard.[[bnpb0911]][[banten0923]] NOAA’s newest entry for Krakatoa is the tsunami of {noaa_last}, and it also lists one death and five injuries in an eruption on June 13, 1993.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Krakatoa’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Krakatoa has **{n_all} confirmed eruptions**. The oldest is dated to about {oldest}, and {n_since} have begun since {since_year}.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "August 27, 1883",
+ "callouts": [
+  {
+   "number": "{worst_deaths}",
+   "unit": "deaths",
+   "text": "In NOAA’s count for the 1883 eruption: 34,417 from the tsunami and an estimated 2,000 from hot ash in southern Sumatra.",
+   "source": "Source: NOAA NCEI.[[noaa1883]][[tsu1883]]"
+  },
+  {
+   "number": "3,000",
+   "unit": "miles",
+   "text": "How far away the explosion of August 27, 1883 was heard, in NOAA’s tsunami record.",
+   "source": "Source: NOAA NCEI.[[tsu1883]]"
+  }
+ ],
+ "faq_h": "Krakatoa questions and answers",
+ "faq": [
+  [
+   "How many times has Krakatoa erupted?",
+   "The Smithsonian’s list has {n_all} confirmed eruptions, {n_since} of them since December 1927, when Anak Krakatau first appeared. One more, in 1969, is marked as uncertain."
+  ],
+  [
+   "When did Krakatoa last erupt?",
+   "It is erupting now. The Smithsonian lists an eruption that began on {cur_since} and was continuing at its last update, on {cur_last}. The one before it ran from {prev_start} to {prev_end}."
+  ],
+  [
+   "Is Krakatoa still active?",
+   "Yes. Anak Krakatau, the cone that grew where the old island sank, has erupted {n_since} times since December 1927 on the Smithsonian’s list and is erupting now."
+  ],
+  [
+   "How tall is Krakatoa?",
+   "Anak Krakatau, the active cone, is about {summit_ft} ft ({summit_m} m) high by the figure Indonesia’s Geological Agency works with. It was {former_ft} ft ({former_m} m) before the collapse of December 2018. Rakata, the remnant of the old island, is {wall_ft} ft ({wall_m} m)."
+  ],
+  [
+   "How tall was Krakatoa before 1883?",
+   "About 2,600 ft (800 m) at Rakata. Danan, another of the three volcanoes on Krakatoa Island, was about 1,300 ft (400 m)."
+  ],
+  [
+   "What type of volcano is Krakatoa?",
+   "A caldera on the Smithsonian’s list: a volcano that has collapsed, in 1883 and once before. Anak Krakatau, the part that erupts today, is a cone on the caldera’s edge."
+  ],
+  [
+   "What was the VEI of the 1883 Krakatoa eruption?",
+   "VEI 6 on the Smithsonian’s list, the only eruption of that size in Krakatoa’s record."
+  ],
+  [
+   "How big was the 1883 Krakatoa eruption?",
+   "It is rated VEI 6. About two-thirds of Krakatoa Island sank, the deposits near the volcano come to about 2.9 cubic miles (12 cubic km), and the explosion was heard about 3,000 miles away."
+  ],
+  [
+   "How many people died at Krakatoa?",
+   "NOAA counts {worst_deaths} deaths in 1883, most of them from the tsunami, and 437 in the tsunami of December 22, 2018."
+  ],
+  [
+   "Is Krakatoa a supervolcano?",
+   "No. By the U.S. Geological Survey’s definition a supervolcano has had a VEI 8 eruption, more than 240 cubic miles (1,000 cubic km) at once. Krakatoa’s largest known eruption, in 1883, was VEI 6."
+  ],
+  [
+   "How often does Krakatoa erupt?",
+   "About once every two years on average since 1927: the Smithsonian lists {n_since} eruptions of Anak Krakatau in that time, lasting from a single day to about {long1_years} years."
+  ],
+  [
+   "What is the alert level at Krakatoa?",
+   "Level 3 of 4 in the Smithsonian’s weekly report for October 29 to November 4, 2026, the newest read for this page. It was raised at 9 p.m. on October 9, and the public is told to stay 3 miles (5 km) from the summit."
+  ],
+  [
+   "Can Krakatoa cause another tsunami?",
+   "It has before: NOAA’s list has {noaa_tsu} entries with a tsunami for Krakatoa, the last on December 22, 2018. During the long eruption of September 2026, Indonesia’s Geological Agency said the cone rebuilt since 2018 was still too small for a collapse that could cause one."
+  ],
+  [
+   "Is it Krakatoa or Krakatau?",
+   "Krakatau is the name used in Indonesia and by the Smithsonian, which calls “Krakatoa” a frequent misnaming. Krakatoa is the spelling most English-language readers know. Anak Krakatau means “Child of Krakatau”."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Krakatau record, eruption list, bulletin and weekly reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=262000"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "gvpcur",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Current Eruptions: what “continuing” means",
+   "url": "https://volcano.si.edu/gvp_currenteruptions.cfm"
+  },
+  {
+   "id": "bg0703",
+   "publisher": "Badan Geologi (Geological Agency), Ministry of Energy and Mineral Resources, Indonesia",
+   "title": "Kenaikan Tingkat Aktivitas Gunungapi Anak Krakatau dari Level II (Waspada) menjadi Level III (Siaga), 2 Juli 2026 (notice of July 3, 2026, in Indonesian)",
+   "url": "https://geologi.esdm.go.id/media-center/kenaikan-tingkat-aktivitas-gunungapi-anak-krakatau-provinsi-lampung-dari-level-ii-waspada-menjadi-level-iii-siaga-tanggal-2-juli-2026-pukul-16-30-wib"
+  },
+  {
+   "id": "bg0905",
+   "publisher": "Badan Geologi (Geological Agency), Ministry of Energy and Mineral Resources, Indonesia",
+   "title": "Fenomena Erupsi Menerus Gunungapi Anak Krakatau tanggal 5 September 2026 (special report no. 1512.Lap/GL.03/BGL/2026, in Indonesian)",
+   "url": "https://geologi.esdm.go.id/media-center/fenomena-erupsi-menerus-gunungapi-anak-krakatau-tanggal-5-september-2026"
+  },
+  {
+   "id": "bg0921",
+   "publisher": "Badan Geologi (Geological Agency), Ministry of Energy and Mineral Resources, Indonesia",
+   "title": "Laporan Khusus: Penurunan Tingkat Aktivitas Gunungapi Anak Krakatau dari Level III (Siaga) menjadi Level II (Waspada), 21 September 2026 (special report no. 1604.Lap/GL.03/BGL/2026, in Indonesian)",
+   "url": "https://geologi.esdm.go.id/media-center/laporan-khusus-penurunan-tingkat-aktivitas-gunungapi-anak-krakatau-provinsi-lampung-dari-level-iii-siaga-menjadi-level-ii-waspada-tanggal-21-september-2026-pukul-18-30-wib"
+  },
+  {
+   "id": "esdm0911",
+   "publisher": "Ministry of Energy and Mineral Resources (ESDM), Indonesia",
+   "title": "Intensitas Erupsi Anak Krakatau Menurun, Badan Geologi Tetap Waspadai Aktivitas Magma Dalam (release of September 11, 2026, in Indonesian)",
+   "url": "https://www.esdm.go.id/en/media-center/news-archives/intensitas-erupsi-anak-krakatau-menurun-badan-geologi-tetap-waspadai-aktivitas-magma-dalam"
+  },
+  {
+   "id": "bpbd",
+   "publisher": "BPBD Kabupaten Lampung Selatan (South Lampung Regency disaster agency), Indonesia",
+   "title": "Erupsi Menerus Gunung Anak Krakatau Sontarkan Lava Fountain dan Abu Vulkanik Sangat Tinggi (notice of September 5, 2026, in Indonesian)",
+   "url": "https://bpbd.lampungselatankab.go.id/berita/erupsi-menerus-gunung-anak-krakatau-sontarkan-lava-fountain-dan-abu-vulkanik-sangat-tinggi"
+  },
+  {
+   "id": "aha",
+   "publisher": "AHA Centre (ASEAN Coordinating Centre for Humanitarian Assistance on disaster management)",
+   "title": "Weekly Disaster Update, 7–13 September 2026",
+   "url": "https://ahacentre.org/weekly-disaster-update/weekly-disaster-update-7-13-september-2026/"
+  },
+  {
+   "id": "bnpb0911",
+   "publisher": "BNPB (National Disaster Management Agency), Indonesia",
+   "title": "Update Aktivitas Gunung Anak Krakatau, Status Level III Masih Berlaku (release of September 11, 2026, in Indonesian)",
+   "url": "https://www.bnpb.go.id/berita/update-aktivitas-gunung-anak-krakatau-status-level-iii-masih-berlaku"
+  },
+  {
+   "id": "banten0917",
+   "publisher": "Government of Banten Province, Indonesia",
+   "title": "Pencarian Arupadhatu I Dihentikan di Hari ke-10 (release of September 17, 2026, in Indonesian)",
+   "url": "https://bantenprov.go.id/berita/pencarian-arupadhatu-i-dihentikan-di-hari-ke-10-gubernur-banten-andra-soni-pemantauan-tetap-dilakukan"
+  },
+  {
+   "id": "banten0923",
+   "publisher": "Government of Banten Province, Indonesia",
+   "title": "Release of September 23, 2026 on the identification of one of the eight people aboard the Arupadhatu I (in Indonesian)",
+   "url": "https://bantenprov.go.id/berita/duka-gubernur-banten-andra-soni-untuk-surakman-pemprov-pastikan-pendampingan-penuh-bagi-keluarga-korban"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "noaa1883",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Krakatau, August 27, 1883 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/2429"
+  },
+  {
+   "id": "tsu1883",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Historical Tsunami Database, doi:10.7289/V5PN93H7: Krakatau, August 27, 1883 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1142"
+  },
+  {
+   "id": "tsu2018",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Historical Tsunami Database, doi:10.7289/V5PN93H7: Anak Krakatau, December 22, 2018 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5699"
+  },
+  {
+   "id": "walter",
+   "publisher": "Nature Communications",
+   "title": "Walter, T. R. and others (2019). Complex hazard cascade culminating in the Anak Krakatau sector collapse. Volume 10, article 4339, doi:10.1038/s41467-019-12284-5 (PDF, University of Turin repository)",
+   "url": "https://iris.unito.it/retrieve/handle/2318/1722494/562599/Walter_etal_2019(NC)_Krakatau.pdf"
+  },
+  {
+   "id": "hunt",
+   "publisher": "Nature Communications",
+   "title": "Hunt, J. E. and others (2021). Submarine landslide megablocks show half of Anak Krakatau island failed on December 22nd, 2018. Volume 12, article 2827, doi:10.1038/s41467-021-22610-5 (PDF, White Rose Research Online)",
+   "url": "https://eprints.whiterose.ac.uk/174118/1/s41467-021-22610-5.pdf"
+  },
+  {
+   "id": "nature48",
+   "publisher": "Nature",
+   "title": "The Fauna of Krakatau, 1883–1933 (notice of K. W. Dammerman’s monograph). Volume 162, pages 552–553, October 9, 1948, doi:10.1038/162552b0 (abstract)",
+   "url": "https://www.nature.com/articles/162552b0"
+  },
+  {
+   "id": "nasa",
+   "publisher": "NASA Earth Observatory",
+   "title": "Closeup of Anak Krakatau (Image of the Day, November 23, 2004)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/closeup-of-anak-krakatau-5022/"
+  },
+  {
+   "id": "usgs",
+   "publisher": "U.S. Geological Survey",
+   "title": "What is a supervolcano? What is a supereruption? (FAQ)",
+   "url": "https://www.usgs.gov/faqs/what-a-supervolcano-what-a-supereruption"
+  },
+  {
+   "id": "unesco",
+   "publisher": "UNESCO World Heritage Centre",
+   "title": "Ujung Kulon National Park (World Heritage List, no. 608)",
+   "url": "https://whc.unesco.org/en/list/608/"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**{summit_ft} ft ({summit_m} m):** the Geological Agency’s notice of July 3, 2026 puts ash 200 m above the summit at 357 m above sea level. 357 minus 200 is 157 m, which is 515 ft.",
+  "**about two-thirds of the island:** 22 of its 33 square km sank, by the 1948 summary in Nature.",
+  "**about two-thirds of its height:** 338 m before the collapse of December 22, 2018 minus 110 m after it is 228 m.",
+  "**44 quiet years:** from October 21, 1883, the end of that eruption on the Smithsonian’s list, to December 29, 1927, the start of the first eruption of Anak Krakatau.",
+  "**about one every two years:** {n_since} eruptions in the 99 years from December 1927 to November 2026.",
+  "**about {share} percent of the time:** the days inside the listed eruptions from {counted_month_year} to the list’s last update, divided by all the days in that time. Before then, some eruptions on the list lack a start or an end date.",
+  "**about an hour:** the boat left at about 2 p.m., and contact was lost at about 3:04 p.m.",
+  "**roughly half an hour:** the slide is timed at 8:55 p.m., and the first wave reached the coast at about 9:27 p.m.",
+  "Feet, miles, square miles and cubic miles are converted from the metric figures in the sources and rounded. The 3,000 miles is NOAA’s own figure.",
+  "Times of day are local (western Indonesia time), as the sources give them."
+ ],
+ "expect": {
+  "cur_since": "June 26, 2026",
+  "summit_m": "157",
+  "gvp_summit_m": "285",
+  "n_all": "58",
+  "n_since": "47",
+  "since_year": "1927",
+  "max_vei": "6",
+  "n_vei6": "1",
+  "n_vei4": "1",
+  "n_vei3": "5",
+  "n_vei2": "31",
+  "n_vei1": "12",
+  "n_vei_none": "8",
+  "noaa_n": "9",
+  "noaa_tsu": "8",
+  "worst_deaths": "36,417",
+  "noaa_deaths": "36,855",
+  "noaa_last": "2018",
+  "oldest": "250 CE",
+  "counted_month_year": "June 1972",
+  "prev_start": "May 25, 2021",
+  "prev_end": "February 20, 2024",
+  "long1_span": "1959 to 1963",
+  "long1_years": "3"
+ },
+ "observatory_read": "2026-11-21",
+ "since_check": "**Alert Level 3 of 4.** It was raised at 9 p.m. on October 9, 2026, and it was unchanged in the Smithsonian’s weekly report for October 29 to November 4, the newest read for this page on {read_date}.[[gvp]] The public is told to stay 3 miles (5 km) from the summit and 0.6 mile (1 km) from the small islands to its northwest and southeast.[[gvp]]",
+ "reviewed": null
+}

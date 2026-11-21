@@ -100,7 +100,10 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
    fountain, all to one scale, with the pit's levels written on the rock beside it; the fountain climbs and sinks
    from its vent. Flooded caldera (Santorini, `kind: "lagoon"`): cut across from wall to wall, with the volcano's
    highest point on the rim, the cliffs, the young island in the middle and the deepest water to one scale; the old
-   volcano is the pale rock, the young lava shield the dark one, and only the water moves. An ice cap is a pale wash of the water colour over the cone, from the height the source gives, and
+   volcano is the pale rock, the young lava shield the dark one, and only the water moves. With `lagoon.edge`
+   (Krakatoa) the young cone stands on the far edge of the hollow instead: the remnant of the old island, the hollow
+   and the cone are to one scale, lava bursts from the cone's vent while the eruption continues, and the cone's
+   earlier, higher top is a dashed red outline. An ice cap is a pale wash of the water colour over the cone, from the height the source gives, and
    carries its name on the ice when it is big enough. A volcano on a high plateau (Cotopaxi, on land 12,300 ft up)
    has the band of land under it cut short with a zigzag break mark, because at one scale the band would be taller
    than the volcano; everything above the land stays to scale, and the caption says the band is cut. Nothing erupts
