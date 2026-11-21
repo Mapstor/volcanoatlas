@@ -17,8 +17,12 @@ const nextConfig: NextConfig = {
   },
   
   // Rebuilt volcano pages re-render on the server once an hour (weekly report box), so their data files must ship with the function.
+  // Every other route reads the same files too: the footer's count of volcano profiles, the lists, the map and the
+  // search come from getVolcanoList() in lib/data.ts. /latest-eruptions re-renders every five minutes, database-only
+  // volcano pages and the search run on demand, so the files ship with every server route.
   outputFileTracingIncludes: {
     '/volcano/[slug]': ['./data/sources/*.json', './data/profiles/*.json'],
+    '/*': ['./data/sources/*.json', './data/profiles/*.json'],
   },
 
   // Performance optimizations

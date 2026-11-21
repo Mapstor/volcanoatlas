@@ -113,6 +113,8 @@ export interface GroundRow {
   land_m: number | null;
   sea_floor_m: number | null;
   peak_m: number | null;
+  /** The day this row was read, when it was added after the file's own retrieval date (scripts/fetch-ground.py --only). */
+  retrieved?: string;
 }
 interface GroundFile {
   _meta: { source: string; publisher: string; doi: string; url: string; retrieved: string; method: string };
@@ -246,9 +248,9 @@ export interface PeriodRow {
   endText: string;
   startPrecision: Precision;
   endPrecision: Precision;
-  /** Length as text; it begins with "about" when a date is not known to the day. */
+  /** Length as text; "about" when a date is not known to the day, "at least" or "at most" when a date is a limit. */
   length: string;
-  /** Pause between this eruption's end and the next one's start, if there was one. */
+  /** Pause between this eruption's end and the next one's start, if there was one, worded like the length. */
   pauseAfter: string | null;
 }
 
@@ -321,6 +323,9 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     dated.unshift(e);
   }
   const about = (span: { text: string; approx: boolean }) => (span.approx ? `about ${span.text}` : span.text);
+  // A date the Smithsonian gives as a limit ("on or before", "on or after") makes a length worked out from it a limit
+  // too: an eruption that ended on a day "or later" lasted at least the time to that day. Limits pulling both ways say nothing.
+  const limited = (text: string, least: boolean, most: boolean) => (least === most ? text : `${least ? 'at least' : 'at most'} ${text}`);
   const periods: PeriodRow[] = dated.map((e) => {
     const openStart = e.smod === '<';
     const start: Ymd = [e.sy, e.sm || 1, e.sd || 1];
@@ -333,17 +338,19 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
       ? `at least ${end[0] - start[0]} years`
       : isCurrent
         ? `${durationText(Math.max(1, daysBetween(start, end)))} so far`
-        : daysBetween(start, end) < 1
-          ? '1 day'
-          : about(spanBetween(start, startPrecision, end, endPrecision));
+        : limited(
+            daysBetween(start, end) < 1 ? '1 day' : about(spanBetween(start, startPrecision, end, endPrecision)),
+            e.sdmod === '<' || e.edmod === '>',
+            e.sdmod === '>' || e.smod === '>' || e.edmod === '<',
+          );
     return {
       eruption: e,
       start,
       end,
       openStart,
       continuing: isCurrent,
-      startText: openStart ? `before ${start[0]}` : marked(dateText(start, startPrecision), e.sdmod),
-      endText: isCurrent ? 'continuing' : marked(dateText(end, endPrecision), e.edmod === '>' ? null : e.edmod),
+      startText: openStart ? `${start[0]} (or earlier)` : marked(dateText(start, startPrecision), e.sdmod),
+      endText: isCurrent ? 'continuing' : marked(dateText(end, endPrecision), e.edmod),
       startPrecision,
       endPrecision,
       length,
@@ -357,7 +364,11 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     const days = daysBetween(row.end, next.start);
     if (days > 0) {
       const span = spanBetween(row.end, row.endPrecision, next.start, next.startPrecision);
-      row.pauseAfter = about(span);
+      row.pauseAfter = limited(
+        about(span),
+        row.eruption.edmod === '<' || next.eruption.sdmod === '>' || next.eruption.smod === '>',
+        row.eruption.edmod === '>' || next.eruption.sdmod === '<',
+      );
       pauses.push({ from: row.end, to: next.start, days, text: span.text, approx: span.approx });
     }
   });
@@ -427,9 +438,14 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
  */
 export const yearText = (year: number) => (year < 0 ? `${-year} BCE` : year < 1000 ? `${year} CE` : String(year));
 
-/** A date with the record's own doubt added: "(uncertain)" for a question mark, "before" for an upper limit. */
+/**
+ * A date with the record's own doubt added in brackets after it: "(uncertain)" for a question mark, "(or earlier)" where
+ * the Smithsonian writes "in or before" or "on or before" (its "<"), "(or later)" where it writes "on or after" (its ">").
+ * Its own pages show the marks that way: Stromboli "1558 (in or before)", Langila "2009 Sep 16 (on or before)" and
+ * "2000 Oct 16 (on or after)". "Before 1558" would leave out 1558 itself.
+ */
 function marked(text: string, modifier: string | null): string {
-  return modifier === '?' ? `${text} (uncertain)` : modifier === '<' ? `before ${text}` : modifier === '>' ? `after ${text}` : text;
+  return modifier === '?' ? `${text} (uncertain)` : modifier === '<' ? `${text} (or earlier)` : modifier === '>' ? `${text} (or later)` : text;
 }
 
 /** How the Smithsonian's record gives an eruption's start. */
@@ -444,9 +460,9 @@ export function startLabel(e: Eruption): string {
   // a start the record gives to the month but not the day ("May 1554", and Etna's "Aug 479 BCE")
   if (e.sm) return marked(dateText([e.sy, e.sm, 1], 'month'), e.smod);
   const era = yearText(e.sy);
-  // an upper limit reads "before" ("before 6580 BCE", "before 1558"); a lower limit reads "after"
-  if (e.smod === '<') return `before ${era}`;
-  if (e.smod === '>') return `after ${era}`;
+  // the Smithsonian's "in or before" reads "(or earlier)" ("6580 BCE (or earlier)", "1558 (or earlier)"); its "in or after", "(or later)"
+  if (e.smod === '<') return `${era} (or earlier)`;
+  if (e.smod === '>') return `${era} (or later)`;
   if (e.smod === '?') return `about ${era}`;
   return e.sunc ? `${era} ± ${e.sunc} year${e.sunc === 1 ? '' : 's'}` : era;
 }
@@ -456,14 +472,15 @@ export function endLabel(e: Eruption): string {
   if (e.ey && e.em && e.ed) {
     const precision = precisionOf(e.edunc);
     const text = precision === 'year' ? yearText(e.ey) : dateText([e.ey, e.em, e.ed], precision);
-    return marked(text, e.edmod === '>' ? null : e.edmod);
+    // an end the Smithsonian gives as "on or after" a day keeps that mark ("Oct 2000 (or later)"); a continuing eruption was returned above
+    return marked(text, e.edmod);
   }
   // an end the record gives only to the month or to the year is printed that far ("May 1768", "1390"), not as missing
-  if (e.ey && e.em) return marked(dateText([e.ey, e.em, 1], 'month'), e.edmod === '>' ? null : (e.edmod ?? e.emod));
+  if (e.ey && e.em) return marked(dateText([e.ey, e.em, 1], 'month'), e.edmod ?? e.emod);
   if (e.ey) {
-    // the year alone, worded like a start year: "about" for a question mark, "before" for an upper limit
+    // the year alone, worded like a start year: "about" for a question mark, "(or earlier)" for an upper limit
     const era = yearText(e.ey);
-    return e.emod === '?' ? `about ${era}` : e.emod === '<' ? `before ${era}` : era;
+    return e.emod === '?' ? `about ${era}` : e.emod === '<' ? `${era} (or earlier)` : era;
   }
   return 'not recorded';
 }

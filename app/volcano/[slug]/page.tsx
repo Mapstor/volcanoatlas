@@ -1,13 +1,13 @@
 import { notFound, permanentRedirect } from 'next/navigation';
 import Link from 'next/link';
 import type { Metadata } from 'next';
-import { getVolcanoBySlug, getAllVolcanoes } from '@/lib/data';
+import { getVolcanoBySlug, getAllVolcanoes, getVolcanoList } from '@/lib/data';
 import { RichText } from '@/components/RichText';
 import VolcanoLocationMap from '@/components/VolcanoLocationMap';
 import JsonLd, { breadcrumbLd, faqLd } from '@/components/JsonLd';
 import BasicVolcanoPage from './BasicVolcanoPage';
 import RecordPage from './RecordPage';
-import { buildRecordData, getRecordProfile, plain } from '@/lib/recordProfile';
+import { buildRecordData, getRecordProfile, getRecordSlugs, plain } from '@/lib/recordProfile';
 import { getGvpByLegacySlug, getGvpBySlug } from '@/lib/gvp';
 import { basicPageSlug, countryHref, profileSlugForNumber, volcanoHrefByNumber } from '@/lib/routes';
 import { SITE_URL, gvpVolcanoUrl, pageMeta } from '@/lib/site';
@@ -15,9 +15,10 @@ import { parseMaxVEI } from '@/lib/textUtils';
 
 export async function generateStaticParams() {
   const volcanoes = await getAllVolcanoes();
-  return volcanoes.map((volcano) => ({
-    slug: volcano.slug,
-  }));
+  // Old profiles and rebuilt ones. A rebuilt profile can belong to a volcano that never had an old profile; it is
+  // built with the site like the others, so a token or an `expect` line that no longer holds stops the build.
+  const slugs = new Set([...volcanoes.map((volcano) => volcano.slug), ...getRecordSlugs()]);
+  return [...slugs].map((slug) => ({ slug }));
 }
 
 function cleanType(type: string | null | undefined) {
@@ -92,10 +93,11 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
     notFound();
   }
 
-  const allVolcanoes = await getAllVolcanoes();
-  const relatedVolcanoes = allVolcanoes
+  // every volcano with a profile page in the same country, rebuilt pages without an old profile included
+  const relatedVolcanoes = (await getVolcanoList())
     .filter((v) => v.hero.country === volcano.hero.country && v.slug !== volcano.slug)
-    .sort((a, b) => a.hero.name.localeCompare(b.hero.name))
+    .map((v) => ({ slug: v.slug, name: v.hero.name, type: v.hero.type }))
+    .sort((a, b) => a.name.localeCompare(b.name))
     .slice(0, 8);
 
   const facts = volcano.key_facts_box || {};
@@ -278,7 +280,7 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
                   <div>
                     <h2 className="text-3xl font-bold text-white mb-6">{volcano.hero.name} questions and answers</h2>
                     <div className="space-y-4">
-                      {volcano.faqs.map((faq: any, index: number) => (
+                      {volcano.faqs.map((faq: { question: string; answer?: string }, index: number) => (
                         <details key={index} className="bg-gray-800 rounded-lg overflow-hidden group">
                           <summary className="p-6 cursor-pointer flex justify-between items-center hover:bg-gray-700 transition-colors">
                             <span className="text-white font-semibold">{faq.question}</span>
@@ -305,9 +307,9 @@ export default async function VolcanoPage({ params }: { params: Promise<{ slug: 
                       {relatedVolcanoes.map((related) => (
                         <li key={related.slug}>
                           <Link href={`/volcano/${related.slug}`} className="text-orange-400 hover:text-orange-300 transition-colors">
-                            {related.hero.name}
+                            {related.name}
                           </Link>
-                          <p className="text-gray-400 text-sm">{related.hero.type}</p>
+                          {related.type && <p className="text-gray-400 text-sm">{related.type}</p>}
                         </li>
                       ))}
                     </ul>

@@ -2,10 +2,14 @@
 """Height of the land (or depth of the sea floor) around each profiled volcano, from NOAA's ETOPO 2022 grid.
 
   python3 scripts/fetch-ground.py [raw_dir] [out_dir]
+  python3 scripts/fetch-ground.py --only <number>[,<number>...] [raw_dir] [out_dir]
 
-For every volcano that has a profile page, a small window of the 15 arc-second grid is read from NOAA NCEI's
-data server and kept in <raw_dir>/etopo/<number>.json (not committed). From it the script works out, on a ring
-14 to 16 km from the summit coordinates:
+For every volcano that has a profile page (an old profile in data/content or a rebuilt one in data/profiles), a
+small window of the 15 arc-second grid is read from NOAA NCEI's data server and kept in
+<raw_dir>/etopo/<number>.json (not committed). With --only, just the named volcanoes are read and their rows are
+added to the existing file; every other row and the file's own retrieval date stay as they are, and each added
+row carries the day it was read. From the window the script works out, on a ring 14 to 16 km from the summit
+coordinates:
 
   land_m      median height of the ring's cells above sea level
   sea_floor_m median height of the ring's cells below sea level (negative)
@@ -79,15 +83,37 @@ def median(vals):
 
 def main():
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    raw_dir = os.path.join(sys.argv[1] if len(sys.argv) > 1 else os.path.join(root, 'data', 'sources-raw'), 'etopo')
-    out_dir = sys.argv[2] if len(sys.argv) > 2 else os.path.join(root, 'data', 'sources')
+    args = sys.argv[1:]
+    # an unknown option would otherwise be taken as the raw directory and start a full download into a folder of that name
+    unknown = [a for a in args if a.startswith('-') and a != '--only']
+    if unknown:
+        print(__doc__)
+        sys.exit(0 if unknown[0] in ('-h', '--help') else 2)
+    only = None
+    if '--only' in args:
+        i = args.index('--only')
+        only = sorted(n.strip() for n in args[i + 1].split(',') if n.strip())
+        del args[i:i + 2]
+    raw_dir = os.path.join(args[0] if len(args) > 0 else os.path.join(root, 'data', 'sources-raw'), 'etopo')
+    out_dir = args[1] if len(args) > 1 else os.path.join(root, 'data', 'sources')
     os.makedirs(raw_dir, exist_ok=True)
     gvp = json.load(open(os.path.join(out_dir, 'gvp-volcanoes.json'), encoding='utf-8'))
     volcanoes = gvp.get('volcanoes', gvp)
-    numbers = sorted(
-        {str(json.load(open(os.path.join(root, 'data', 'content', f), encoding='utf-8'))['volcano_id'])
-         for f in os.listdir(os.path.join(root, 'data', 'content')) if f.startswith('volcano-')}
-    )
+    # every volcano with a page of its own: the old profiles and the rebuilt ones (a rebuilt page can exist without an old profile)
+    numbers = {str(json.load(open(os.path.join(root, 'data', 'content', f), encoding='utf-8'))['volcano_id'])
+               for f in os.listdir(os.path.join(root, 'data', 'content')) if f.startswith('volcano-')}
+    profiles = os.path.join(root, 'data', 'profiles')
+    if os.path.isdir(profiles):
+        numbers |= {str(json.load(open(os.path.join(profiles, f), encoding='utf-8'))['volcano_number'])
+                    for f in os.listdir(profiles) if f.endswith('.json')}
+    out_path = os.path.join(out_dir, 'etopo-ground.json')
+    today = datetime.date.today().isoformat()
+    existing = None
+    if only is not None:
+        # add rows to the file as it stands: nothing else is read again, nothing else changes
+        existing = json.load(open(out_path, encoding='utf-8'))
+        numbers = set(only)
+    numbers = sorted(numbers)
     out = {}
     for number in numbers:
         v = volcanoes.get(number)
@@ -125,16 +151,25 @@ def main():
             'sea_floor_m': round(median(sea)) if sea else None,
             'peak_m': round(max(near)) if near else None,
         }
+        if existing is not None:
+            out[number]['retrieved'] = today
         print(number, v['name'], out[number])
+    if existing is not None:
+        ground = dict(existing['ground'])
+        ground.update(out)
+        ordered = {k: ground[k] for k in sorted(ground)}
+        json.dump({'_meta': existing['_meta'], 'ground': ordered}, open(out_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+        print('added or replaced', len(out), 'rows; the file now has', len(ordered), 'volcanoes')
+        return
     meta = {
         'source': 'ETOPO 2022 15 Arc-Second Global Relief Model, surface elevation',
         'publisher': 'NOAA National Centers for Environmental Information',
         'doi': '10.25921/fd45-gt74',
         'url': 'https://www.ncei.noaa.gov/products/etopo-global-relief-model',
-        'retrieved': datetime.date.today().isoformat(),
+        'retrieved': today,
         'method': 'Median height of the grid cells 14 to 16 km from the summit coordinates in the Smithsonian list; land and sea cells are taken separately.',
     }
-    json.dump({'_meta': meta, 'ground': out}, open(os.path.join(out_dir, 'etopo-ground.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    json.dump({'_meta': meta, 'ground': out}, open(out_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
     print('written', len(out), 'volcanoes')
 
 

@@ -9,9 +9,11 @@ import { getGvpByLegacySlug, getGvpByNumber, getGvpBySlug, slugify, type GvpVolc
  */
 
 const contentDir = path.join(process.cwd(), 'data', 'content');
+/** Rebuilt profiles ("record pages"). A volcano can have one without ever having had an old profile in data/content. */
+const recordDir = path.join(process.cwd(), 'data', 'profiles');
 
 interface RouteIndex {
-  /** slug -> has a full written profile */
+  /** slug -> has a full written profile (an old one in data/content, a rebuilt one in data/profiles, or both) */
   profileSlugs: Set<string>;
   /** GVP volcano number -> profile slug */
   profileByNumber: Map<number, string>;
@@ -46,6 +48,22 @@ function load(): RouteIndex {
       topicSlugs.add(name.slice('special-'.length));
     } else if (name.startsWith('ranking-')) {
       topicSlugs.add(name.slice('ranking-'.length));
+    }
+  }
+
+  // A rebuilt profile is a page of its own, with or without an old profile behind it: it is linked, indexed and
+  // listed in the sitemap like every other profile. (lib/recordProfile.ts imports this file, so the folder is read here.)
+  if (fs.existsSync(recordDir)) {
+    for (const file of fs.readdirSync(recordDir)) {
+      if (!file.endsWith('.json')) continue;
+      const slug = file.slice(0, -5);
+      profileSlugs.add(slug);
+      try {
+        const data = JSON.parse(fs.readFileSync(path.join(recordDir, file), 'utf8'));
+        if (typeof data.volcano_number === 'number' && !profileByNumber.has(data.volcano_number)) profileByNumber.set(data.volcano_number, slug);
+      } catch {
+        // an unreadable profile stops the build where the page is rendered; here the slug is enough
+      }
     }
   }
 
