@@ -82,7 +82,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Base', ctx.base_ft && `about ${ctx.base_ft} ft (${ctx.base_m} m) below sea level`);
   fact('Above the land around it', ctx.rise_ft && `about ${ctx.rise_ft} ft (${ctx.rise_m} m)`);
   fact('Current eruption', ctx.cur_since && `since ${ctx.cur_since}`);
-  fact('Last eruption', !ctx.cur_start && ctx.last_span);
+  // a volcano with no eruption on the list is "Unknown", the Smithsonian's own word for it, never a blank
+  fact('Last eruption', !ctx.cur_start && (ctx.last_span || (ctx.n_all === '0' && 'Unknown')));
   fact('Recorded eruptions', ctx.n_all);
   fact('Largest recorded', ctx.max_vei && `VEI ${ctx.max_vei}${ctx.max_vei_note ?? ''}`);
   fact('Main rock', ctx.rock);
