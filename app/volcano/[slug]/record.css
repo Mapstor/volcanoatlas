@@ -587,6 +587,12 @@ body:has(.va-page) > footer {
 .va-table .va-when {
   white-space: normal;
 }
+/* in a periods table that has a row with two approximate dates ("about Jan 5, 1999" to "about Feb 24, 1999"),
+   the last heading may take two lines ("Largest / VEI"), so the table does not run past the text column; the
+   template sets the class on that heading only for such a table */
+.va-table th.va-wraps {
+  white-space: normal;
+}
 .va-srcline {
   font-size: 14px;
   color: #4d5d58;
