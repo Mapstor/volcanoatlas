@@ -286,8 +286,9 @@ export interface EruptionStats {
    */
   lastYearOnly: number | null;
   /**
-   * The newest eruption when the record dates it from deposits, as a year with a margin and nothing more
-   * (Chimborazo: 550 CE ± 150 years). Null when the eruption is continuing, has an end, a month, a question mark or a limit.
+   * The newest eruption when the record gives it as a year with a margin and nothing more (Chimborazo: 550 CE ± 150 years;
+   * Bamus: 1886 ± 8 years, where the list also carries a placeholder month and day of year-only precision).
+   * Null when the eruption is continuing, has an end, a month the record stands by, a question mark or a limit.
    */
   lastYearMargin: { year: number; margin: number } | null;
   current: Eruption | null;
@@ -419,7 +420,7 @@ export function eruptionStats(volcanoNumber: number | string): EruptionStats {
     lastEndUncertaintyDays: over?.edunc ?? null,
     lastEndQuestioned: Boolean(over && over.edmod === '?' && precisionOf(over.edunc) === 'day'),
     lastYearOnly: newest && !over && !newest.emod && !newest.smod && newest.sy > 0 && !newest.sunc ? (newest.ey || newest.sy) : null,
-    lastYearMargin: newest && !over && !newest.emod && !newest.smod && !newest.sm && !newest.ey && newest.sunc ? { year: newest.sy, margin: newest.sunc } : null,
+    lastYearMargin: newest && !over && !newest.emod && !newest.smod && (!newest.sm || precisionOf(newest.sdunc) === 'year') && !newest.ey && newest.sunc ? { year: newest.sy, margin: newest.sunc } : null,
     current,
     currentStart,
     currentLast,
@@ -458,8 +459,10 @@ function marked(text: string, modifier: string | null): string {
 export function startLabel(e: Eruption): string {
   if (e.sm && e.sd) {
     const precision = precisionOf(e.sdunc);
-    // a start known only to the year is written like every other year in the table
-    const text = precision === 'year' ? yearText(e.sy) : dateText([e.sy, e.sm, e.sd], precision);
+    // a start known only to the year is written like every other year in the table, with the margin the record gives that year
+    // ("1886 ± 8 years" for the Smithsonian's "1886 Jul 2 ± 8 years ± 182 days")
+    const margin = e.sunc ? ` ± ${fmt(e.sunc)} year${e.sunc === 1 ? '' : 's'}` : '';
+    const text = precision === 'year' ? `${yearText(e.sy)}${margin}` : dateText([e.sy, e.sm, e.sd], precision);
     // when only the year is known, a question mark on the year is kept (El Chichón’s 1850, Kilauea’s 1820, Ambae’s 1870)
     return marked(text, e.sdmod ?? (precision === 'year' ? e.smod : null));
   }
