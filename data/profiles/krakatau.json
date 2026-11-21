@@ -179,7 +179,7 @@
    "table": "noaa",
    "note": "This page is a record, not a safety guide. For current warnings, use the notices of Indonesia’s Geological Agency and of BNPB, the national disaster agency.[[bg0703]]",
    "paras": [
-    "Yes, and mostly through the sea. NOAA’s database of significant eruptions has {noaa_n} entries for Krakatoa, {noaa_tsu} of them with a tsunami.[[noaa]] Two of those account for nearly all of the {noaa_deaths} deaths it records: 1883 with {worst_deaths} and 2018 with 437.[[noaa]]",
+    "Yes, and mostly through the sea. NOAA’s database of significant eruptions has {noaa_n} entries for Krakatoa, {noaa_tsu} of them with a tsunami.[[noaa]] Two of those account for nearly all of the {noaa_deaths} deaths it counts: 1883 with {worst_deaths} and 2018 with 437. For the eruption it dates to 416, known from a Javanese chronicle, it gives no count and describes the toll as many.[[noaa]]",
     "In 2018 there was nothing to feel or see on shore before the water came, about half an hour after the slide.[[tsu2018]][[gvp]]",
     "Near the volcano, the hazards the agency names are glowing rock thrown from the vent, heavy ashfall, lava flows and pyroclastic flows, which are fast currents of hot rock, ash and gas.[[bg0905]][[esdm0911]] That is what the closed zone is for: 3 miles (5 km) from the summit in the newest report read for this page.[[gvp]]",
     "Ash reaches much further. In September 2026 it kept Jakarta’s two airports closed to flights for more than a day.[[aha]]",
@@ -440,7 +440,8 @@
   "prev_start": "May 25, 2021",
   "prev_end": "February 20, 2024",
   "long1_span": "1959 to 1963",
-  "long1_years": "3"
+  "long1_years": "3",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-21",
  "since_check": "**Alert Level 3 of 4.** It was raised at 9 p.m. on October 9, 2026, and it was unchanged in the Smithsonian’s weekly report for October 29 to November 4, the newest read for this page on {read_date}.[[gvp]] The public is told to stay 3 miles (5 km) from the summit and 0.6 mile (1 km) from the small islands to its northwest and southeast.[[gvp]]",

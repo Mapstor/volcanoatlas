@@ -552,6 +552,14 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('noaa_last', noaa[noaa.length - 1].y);
     set('noaa_fatal_count', fatal.length);
     set('noaa_fatal_word', cap(word(fatal.length)));
+    // events whose toll NOAA describes (few, some, many, very many) without a count: the table prints the description,
+    // and the text has to say so, which the expect line below enforces
+    const described = noaa.filter((e) => !e.deaths && e.dd);
+    set('noaa_described_count', described.length);
+    set('noaa_described_word', word(described.length));
+    if (described.length && profile.expect?.noaa_described_count === undefined) {
+      throw new Error(`record profile ${profile.slug}: NOAA describes the death toll of ${described.length} event(s) without a count (${described.map((e) => e.y).join(', ')}). Say so in the text and add noaa_described_count to expect.`);
+    }
     // with a thousands separator: a bare 1913 reads as a year
     set('noaa_deaths', fmt(fatal.reduce((sum, e) => sum + e.deaths, 0)));
     set('noaa_tsu', tsu.length);

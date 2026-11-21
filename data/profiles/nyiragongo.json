@@ -132,7 +132,7 @@
    "table": "noaa",
    "note": "This page is a record, not a safety guide. For current warnings, follow the Goma Volcano Observatory and the local authorities.",
    "paras": [
-    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Nyiragongo. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]] For 1977 the Smithsonian’s report of the time has about 70 dead;[[gvp]] NOAA’s table below carries its own counts.",
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Nyiragongo. The deadliest with a count is {worst_date}, with {worst_deaths} deaths.[[noaa]] For 1977 NOAA gives no count and describes the toll as some (about 51 to 100): its note has estimates running from none to 2,000 and calls 50 to 100 the best.[[noaa]] The Smithsonian’s report of the time has about 70 dead.[[gvp]]",
     "About 1.5 million people in Goma and in Gisenyi, across the border in Rwanda, live with the threat of new lava flows, by a 2018 study in the U.S. Geological Survey’s publications catalog. The study says fractures run from the summit to Goma and on under Lake Kivu.[[usgspub]] Gas is a second danger: the observatory has reported lethal levels of carbon dioxide in the “mazuku”, low spots on the west side of Goma.[[gvp]]"
    ]
   },
@@ -277,7 +277,8 @@
   "n_all": "19",
   "noaa_n": "4",
   "worst_deaths": "100",
-  "worst_date": "January 17, 2002"
+  "worst_date": "January 17, 2002",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-17",
  "reviewed": null

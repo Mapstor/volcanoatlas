@@ -122,7 +122,7 @@
    "table": "noaa",
    "note": "This page is a record, not a safety guide. For the alert level in force, use the Japan Meteorological Agency’s page for the volcano.[[jmanow]]",
    "paras": [
-    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Mount Asama. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]",
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Mount Asama. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]] For {noaa_described_word} entries it gives a description in place of a count: many people killed by falling ash and stones on May 1, 1596, and a few deaths for each of two eruptions in 1803 and for July 16, 1938. Its note on 1803 says one catalogue lists deaths without saying in which of the two eruptions, and that two other sources mention none.[[noaa]]",
     "Several of the dead in the 20th century were climbers. The weather agency’s catalogue records climbers killed in 1913, 1936, 1947 and 1950, in 1947 by blocks thrown out in an eruption.[[jma]] The agency has set alert levels for the volcano since December 1, 2007.[[jma]]"
    ]
   },
@@ -242,7 +242,8 @@
   "n_all": "129",
   "noaa_n": "18",
   "worst_deaths": "1,491",
-  "worst_date": "August 5, 1783"
+  "worst_date": "August 5, 1783",
+  "noaa_described_count": "4"
  },
  "observatory_read": "2026-11-17",
  "since_check": "**No eruption since 2019 on record.** The Japan Meteorological Agency’s page for the volcano, read on {read_date}, shows Volcanic Alert Level 1, the lowest of five, and a commentary dated November 13, 2026.[[jmanow]]",

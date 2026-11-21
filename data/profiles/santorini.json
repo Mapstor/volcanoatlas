@@ -160,7 +160,7 @@
     "The extreme scenario is a larger explosive eruption, rated VEI 3, of the kind Kolumbo produced in 1650: an ash column 5 to 7.5 miles (8 to 12 km) high for half an hour to an hour, hot avalanches of ash, blocks thrown as far as 3.7 miles (6 km), and effects up to 25 miles (40 km) away. Part of Thera would have to be evacuated. The plan gives no odds; it says only that such an eruption has some probability in the near future.[[talos]]",
     "A 2024 study found that the eruption of 726 was larger than the worst case considered until then. Its authors list tsunamis from explosions under water, rafts of floating pumice and large ash clouds among the hazards of a repeat.[[preine]]",
     "The cliffs are a hazard of their own. The head of Greece’s earthquake planning agency told the 2025 briefing that the danger of landslides is high along almost the whole inner slope of the caldera. He named five places most at risk: the Old Port of Fira, Athinios, Ammoudi, Armeni and Korfos on Therasia.[[min0205]] Those are the places the rules of 2025 and 2026 deal with.[[min0216]][[aftod]]",
-    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Santorini. Five carry a tsunami flag: the Minoan eruption, 197 BCE, 46 CE, an entry for 1050 that has no match in the Smithsonian’s list, and 1707. Two carry deaths: one in 1866 and {worst_deaths} in 1926.[[noaa]][[gvp]] We could not trace the {worst_deaths}. NOAA’s entry gives no description, and the 2023 study of the eruptions of 1925 to 1928, which draws on the Greek scientific committee’s reports, records no casualties when the activity began.[[noaa]][[drymoni]]"
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Santorini. Five carry a tsunami flag: the Minoan eruption, 197 BCE, 46 CE, an entry for 1050 that has no match in the Smithsonian’s list, and 1707. Two carry a count of the dead: one in 1866 and {worst_deaths} in 1926.[[noaa]][[gvp]] NOAA’s own note on the {worst_deaths} says the deaths were more likely due to an earthquake than to an eruption, and that a catalogue it cites lists none. The 2023 study of the eruptions of 1925 to 1928, which draws on the Greek scientific committee’s reports, records no casualties when the activity began.[[noaa]][[drymoni]] For the Minoan eruption NOAA gives no count and describes the toll as many: its note says deaths probably occurred, on Santorini and through tsunamis on Crete and elsewhere, but that no direct evidence of them has been found.[[noaa]]"
    ]
   },
   {
@@ -424,7 +424,8 @@
   "rock": "dacite",
   "wall_ft": "980",
   "island_ft": "420",
-  "depth_ft": "1,280"
+  "depth_ft": "1,280",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-21",
  "since_check": "**Not erupting. No eruption since 1950.** The home page of ISMOSAV, the institute that monitors the volcano, read on {read_date}, lists it as active, with its last eruption in 1950 and its latest unrest, of 2024 to 2025, marked as ongoing; the page shows no alert level.[[ismosav]] Greece’s civil protection ministry last ruled on the island on April 27, 2026, when a new decision reopened most of the places closed during that unrest.[[kya26]][[iefen]]",

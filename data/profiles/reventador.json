@@ -98,6 +98,7 @@
     "The main blast began at 9:12 a.m. on November 3, 2002 and lasted about 45 minutes. The ash column rose about 10 miles (16 to 17 km). In the first minutes at least five pyroclastic flows swept east down the valley of the Coca River, as far as 5.6 miles (9 km).[[hall]] A later study counts nine.[[naranjo]]",
     "The flows destroyed a new oil pipeline that was still empty and carried away small bridges on the main highway to Ecuador’s oil fields. A crude-oil pipeline 3 ft (1 m) across was pushed about 330 ft (100 m) downslope and did not break. One house and 20 cattle were buried. No casualties were reported from the flows.[[hall]]",
     "The ash went west.[[ig]] It fell on Quito from 1 p.m. to 4 p.m. and left a layer 1 to 5 mm thick, at most a fifth of an inch, across the city and its suburbs; IG-EPN’s page gives 1 to 2 mm.[[hall]][[ig]] The village of Oyacachi, closer to the volcano, got up to 1.2 inches (3 cm). By late afternoon Quito was nearly dark. Its airport had closed at 12:45 p.m., and the study’s summary counts ten days of closures for the airport, schools and businesses.[[hall]]",
+    "Ecuador’s president declared a state of emergency for the region’s 1.4 million inhabitants, by NASA’s account of the next day, which also reports fears for the water supply and for livestock grazing on ash-covered plants.[[nasa02]] NOAA’s record lists what the ash did: breathing ailments, some roofs that gave way, damaged crops and sick cattle, Quito’s airport closed for eight days and power out in some areas for up to four days. Residents were required by law to sweep streets and sidewalks, which kept much of the ash out of the sewers.[[noaa]]",
     "Explosions went on in pulses and ended between November 7 and 10. Lava followed: two flows in November, the second from a vent low on the southeast flank, at about 8,500 ft (2,600 m).[[hall]][[gvp]] In all the eruption put out about 0.09 cubic mile (0.37 cubic km) of ash, pyroclastic flows and lava.[[hall]]",
     "It also took the top off the mountain. IG-EPN’s figures have the summit at 3,560 m before the eruption and 3,450 m after it, a loss of about 360 ft (110 m). Its scientists wrote in 2019 of almost 100 m, and of a crater about 1,600 ft (480 m) across.[[ig]][[eos]]",
     "Rain did more damage. Debris flows began on the day of the eruption and reached the Coca River, and a month later they were still a daily threat to the crews repairing the pipelines and to travelers on the highway.[[hall]]"
@@ -152,7 +153,7 @@
     "Rain is a hazard of its own here. Loose ash and rock on the slopes can turn into lahars, which are volcanic mudflows, so IG-EPN’s advice in heavy rain is to stay away from the rivers and streams that start on the volcano.[[ig25]]",
     "Roads and pipelines are within reach. The main highway to Ecuador’s oil fields and several oil pipelines pass within about 5.6 miles (9 km) of the volcano, and the pyroclastic flows of 2002 reached them.[[hall]]",
     "Ash travels furthest. In 2002 it was falling on Quito within four hours of the main blast and shut the city’s airport.[[hall]] After the collapse of October 2025, IG-EPN expected light ash near El Chaco and none in the valley between the Andean ranges, where Quito lies.[[ig25]][[hall]]",
-    "NOAA’s database of significant eruptions has {noaa_n_word} entry for Reventador, the eruption of November 3, 2002, and lists no deaths for it.[[noaa]] The 2004 study reports no casualties from the pyroclastic flows. It adds that several deaths and many injuries were attributed to people cleaning ash off roofs, and gives no numbers.[[hall]]"
+    "NOAA’s database of significant eruptions has {noaa_n_word} entry for Reventador, the eruption of November 3, 2002. It gives no count of the dead and describes the toll as few (about 1 to 50): by its note, an undisclosed number of people died or were hurt clearing ash from their roofs.[[noaa]] The 2004 study reports no casualties from the pyroclastic flows. It too attributes several deaths and many injuries to people cleaning ash off roofs, and gives no numbers.[[hall]]"
    ]
   },
   {
@@ -292,6 +293,12 @@
    "url": "https://eos.org/science-updates/ecuadors-el-reventador-volcano-continually-remakes-itself"
   },
   {
+   "id": "nasa02",
+   "publisher": "NASA Earth Observatory",
+   "title": "Ash from Erupting El Reventador Blankets Quito (November 4, 2002)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/ash-from-erupting-el-reventador-blankets-quito-10427/"
+  },
+  {
    "id": "noaa",
    "publisher": "NOAA National Centers for Environmental Information",
    "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
@@ -326,7 +333,8 @@
   "noaa_first": "2002",
   "longest_gap_from_year": "1976",
   "longest_gap_to_year": "2002",
-  "longest_gap_years": "26"
+  "longest_gap_years": "26",
+  "noaa_described_count": "1"
  },
  "observatory_read": "2026-11-18",
  "since_check": "**Alert level Orange.** Ecuador’s risk agency declared it on March 27, 2014, and its monitoring report of April 16, 2026, the newest read for this page, still showed it.[[sngr23]][[sngr]] The Instituto Geofísico’s note of September 2, 2026, read on {read_date}, rates internal activity moderate and surface activity high, both unchanged.[[igfield]]",

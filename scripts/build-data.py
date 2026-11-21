@@ -59,10 +59,22 @@ for i in json.load(open(os.path.join(RAW, 'noaa-volcano-events.json'))):
     num = i.get('volcanoLocationNewNum')
     if not num:
         continue
-    events.setdefault(str(num), []).append({
+    # NOAA's totals (the eruption and what followed it); two events carry a count and no total, and their count is kept
+    deaths = i.get('deathsTotal') or i.get('deaths') or 0
+    injuries = i.get('injuriesTotal') or i.get('injuries') or 0
+    row = {
         'id': i['id'], 'y': i['year'], 'm': i.get('month') or 0, 'd': i.get('day') or 0, 'vei': i.get('vei'),
-        'deaths': i.get('deathsTotal') or 0, 'injuries': i.get('injuriesTotal') or 0, 'tsunami': bool(i.get('tsunamiEventId')),
-    })
+        'deaths': deaths, 'injuries': injuries, 'tsunami': bool(i.get('tsunamiEventId')),
+    }
+    # where NOAA has no count it may still describe the toll: 1 few (~1 to 50), 2 some (~51 to 100), 3 many (~101 to 1000),
+    # 4 very many (~1001 or more). Kept only when there is no count, as dd (deaths) and injd (injuries).
+    dd = 0 if deaths else (i.get('deathsAmountOrderTotal') or i.get('deathsAmountOrder') or 0)
+    injd = 0 if injuries else (i.get('injuriesAmountOrderTotal') or i.get('injuriesAmountOrder') or 0)
+    if dd:
+        row['dd'] = dd
+    if injd:
+        row['injd'] = injd
+    events.setdefault(str(num), []).append(row)
 for rows in events.values():
     rows.sort(key=lambda e: (e['y'], e['m'], e['d']))
 m = sum(len(v) for v in events.values())

@@ -135,7 +135,7 @@
    "table": "noaa",
    "note": "This page is a record, not a safety guide. For current warnings, follow the civil protection units of the states of Colima and Jalisco.",
    "paras": [
-    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Colima. The deadliest is {worst_date}, with {worst_deaths} deaths.[[noaa]]",
+    "NOAA’s database of significant eruptions has **{noaa_n} entries** for Colima. Only one has a count of the dead: {worst_date}, with {worst_deaths} deaths. For the other {noaa_described_word} it describes the toll instead: a few deaths in 1576, their number unknown; many in 1590, when by its note a plague followed the eruption and killed many native residents; and a few in 1818, which one author it cites suggests may have come from starvation and disease after the eruption.[[noaa]]",
     "About 500,000 people lived within 19 miles (30 km) of the volcano at Mexico’s 2010 census, and more than 1.7 million within 62 miles (100 km), by a 2019 study.[[crummy]] The University of Colima’s volcano center names pyroclastic flows, lahars, falling ash and pumice, and lava flows as the hazards, and La Yerbabuena, San Marcos and Tonila among the communities most at risk.[[cuev]]"
    ]
   },
@@ -292,7 +292,8 @@
   "n_vei4": "7",
   "noaa_n": "4",
   "worst_deaths": "13",
-  "worst_date": "January 20, 1913"
+  "worst_date": "January 20, 1913",
+  "noaa_described_count": "3"
  },
  "observatory_read": "2026-11-17",
  "reviewed": null

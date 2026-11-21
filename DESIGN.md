@@ -71,7 +71,8 @@ Text on its background is at least 4.5:1 (checked: muted on page 6.4, red pencil
 - On a phone a record of more than 260 years gets a grid line every 50 years and a year every 100. Year labels are
   drawn last, on a paper edge, so a red date tick passes behind them.
 - No table scrolls sideways on a desktop: a hidden column reads as a broken page. Cells with a length of time or a
-  phrase may break onto a second line (`va-dur`); dates and numbers stay on one line. On a phone a table that still
+  phrase may break onto a second line (`va-dur`); dates and numbers stay on one line. A death toll NOAA describes
+  without counting prints as its word with the range on a second, smaller line (`va-toll`). On a phone a table that still
   does not fit scrolls inside its own box. The page never scrolls sideways.
 
 ## The parts of a record page

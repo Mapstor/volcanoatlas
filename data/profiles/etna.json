@@ -69,7 +69,7 @@
    "paras": [
     "Mount Etna is on the east coast of Sicily, Italy, at {coords}.[[gvp]][[dpc]] The city of Catania is on its south-southeast side, about 17 miles (28 km) from the summit craters.[[ingv0818]]",
     "Italy’s Civil Protection Department calls Etna the largest volcano in Europe; the Smithsonian describes it as the highest and most voluminous volcano in Italy.[[dpc]][[gvp]] It is about 22 miles (35 km) across at its base, with the Nebrodi and Peloritani mountains to the north and the plain of the Simeto River to the south.[[dpc]] INGV puts the ground it covers at about 460 square miles (1,200 sq km) and the people living there at about 700,000.[[ingvgeo]]",
-    "The most strictly protected part of the mountain, about 47,500 acres (19,237 hectares) inside the Etna regional park, has been a UNESCO World Heritage site since 2013.[[unesco]] Etna is one of {n_country} volcanoes in [Italy](/volcanoes-in-italy) on the Smithsonian’s Holocene list; [Stromboli](/volcano/stromboli) is another.[[gvp]]"
+    "The highest part of the mountain, about 47,500 acres (19,237 hectares) of uninhabited land inside the Etna regional park, has been a UNESCO World Heritage site since 2013. UNESCO’s listing calls Etna the most active stratovolcano in the world.[[unesco]][[unescolist]] Etna is one of {n_country} volcanoes in [Italy](/volcanoes-in-italy) on the Smithsonian’s Holocene list; [Stromboli](/volcano/stromboli) is another.[[gvp]]"
    ]
   },
   {
@@ -128,7 +128,7 @@
     "The eruption of 1669 is the most destructive in Etna’s written history. It began on March 11 from a fissure low on the south flank, at only 2,300 to 3,100 ft (700 to 950 m), and lasted 122 days. Its explosions built the Monti Rossi cone.[[ingvdb]][[ingvhist]] About 600 million cubic meters of lava covered about 15 square miles (40 sq km). The flow ran about 10.6 miles (17 km) and wiped out nine villages. Catania’s medieval walls held it and turned it; it took a small part of the city’s west side and reached the coast, where it piled up against Castello Ursino.[[ingvhist]]",
     "One account gives that eruption 20,000 dead. NOAA’s record calls the figure unlikely and notes that the standard accounts mention no deaths; it lists two people killed by a lava flow on March 19, 1669.[[noaa]]",
     "The strongest explosive eruption of historical time came in 122 BCE. Ash and small stones did heavy damage in Catania, and Rome excused the city from taxes for ten years.[[ingvgeo]] The Smithsonian rates it VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index). It gives the same size, with a question mark, to one older eruption, around 1500 BCE.[[gvp]]",
-    "The deadliest eruption that NOAA’s records tie to the volcano itself is that of 1843. On November 25, as people from Bronte watched the lava advance, the front of the flow blew apart, perhaps because the lava had run into a cistern, and 59 people died.[[noaa]][[ingvhist]]",
+    "The deadliest eruption for which NOAA’s records give a count is that of 1843. On November 25, as people from Bronte watched the lava advance, the front of the flow blew apart, perhaps because the lava had run into a cistern, and 59 people died.[[noaa]][[ingvhist]]",
     "In November 1928 a vent opened at only about 3,900 ft (1,200 m) on the east side. Its lava ran about 5 miles (8 km), destroyed the town of Mascali and stopped about 80 ft (25 m) above sea level.[[ingvdb]] Five people died: three men who had gone back for their belongings, and an old couple in their home.[[noaa]]",
     "From December 14, 1991 to March 31, 1993 lava flowed for 473 days: 231 million cubic meters, the most in any eruption since 1669. The flow threatened Zafferana Etnea until it was diverted in May 1992.[[ingvdb]][[ingvhist]]",
     "The eruption of October 2002 to January 2003 spread ash over eastern Sicily and as far as Calabria and Campania, and closed the airports of Catania and Reggio Calabria for long stretches.[[ingvdb]] On December 26, 2018, two days into a short flank eruption, an earthquake of magnitude 4.9 damaged buildings along about 6 miles (10 km) of the Fiandaca fault; NOAA lists 28 injuries.[[ingvhist]][[noaa]]"
@@ -154,7 +154,7 @@
     "To buildings and land more than to lives. Italy’s Civil Protection Department does not count Etna’s lava flows as a danger to people, because they move slowly. The risk is to what stands in their way, and it is greatest when a vent opens low on the mountain, among the towns.[[dpc]] INGV singles out two such eruptions, around 1160 and in 1669, as the kind that carries the highest risk.[[ingvgeo]]",
     "Ash is the other hazard. It does not threaten lives directly, but it shuts roads and airports (the department names Catania, Sigonella and Reggio Calabria), damages crops, and can cause breathing illness.[[dpc]]",
     "Near the craters the danger is sudden. INGV’s bulletins repeat that some of Etna’s phenomena come without warning, so that the hazard there is never zero. They list ash clouds, falling rock, and collapses of the summit cones that send out pyroclastic flows, which are fast currents of hot rock, ash and gas.[[ingv1110]] Several entries in NOAA’s records fit that pattern: nine people killed by rocks from an explosion at the Bocca Nuova in 1979, two tourists in 1987, two people in 1929.[[noaa]]",
-    "NOAA’s database of significant eruptions has {noaa_n} entries for Etna and {noaa_deaths} deaths. But 16,000 of those are filed under February 4, 1169, and NOAA’s own note says that was an earthquake, probably tectonic, with the eruption uncertain. Without that entry the database has 123 deaths in about 2,100 years, 59 of them at Bronte in 1843.[[noaa]]"
+    "NOAA’s database of significant eruptions has {noaa_n} entries for Etna and {noaa_deaths} deaths. But 16,000 of those are filed under February 4, 1169, and NOAA’s own note says that was an earthquake, probably tectonic, with the eruption uncertain. Without that entry the database counts 123 deaths in about 2,100 years, 59 of them at Bronte in 1843. For {noaa_described_word} more eruptions it gives no count and describes the toll instead: many in July 1329, when by its note many people were said to have died of terror; many for March 11, 1669, the entry that carries the doubted figure of 20,000; and some in 1832, when an explosion at the front of a lava flow moving over ice killed several people.[[noaa]]"
    ]
   },
   {
@@ -213,11 +213,11 @@
   ],
   [
    "What was Etna’s worst eruption?",
-   "The eruption of 1669: in 122 days about 600 million cubic meters of lava destroyed nine villages and a small part of western Catania. The deadliest that NOAA’s records tie to the volcano is that of 1843, when 59 people died at Bronte."
+   "The eruption of 1669: in 122 days about 600 million cubic meters of lava destroyed nine villages and a small part of western Catania. The deadliest for which NOAA’s records give a count is that of 1843, when 59 people died at Bronte."
   ],
   [
    "How many people has Mount Etna killed?",
-   "NOAA’s records hold {noaa_deaths} deaths for Etna, but 16,000 of them are filed under 1169 and its own note assigns them to an earthquake. The other 123 include 59 at Bronte in 1843."
+   "NOAA’s records hold {noaa_deaths} deaths for Etna, but 16,000 of them are filed under 1169 and its own note assigns them to an earthquake. The other 123 include 59 at Bronte in 1843. For three more eruptions NOAA describes the toll without a count."
   ],
   [
    "Is it safe to visit Mount Etna?",
@@ -376,6 +376,12 @@
    "url": "https://whc.unesco.org/en/decisions/5131/"
   },
   {
+   "id": "unescolist",
+   "publisher": "UNESCO World Heritage Centre",
+   "title": "Mount Etna (World Heritage List, no. 1427)",
+   "url": "https://whc.unesco.org/en/list/1427/"
+  },
+  {
    "id": "noaa",
    "publisher": "NOAA National Centers for Environmental Information",
    "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
@@ -426,7 +432,8 @@
   "prev_end": "January 12, 2026",
   "long1_span": "1803 to 1819",
   "long2_span": "1979 to 1993",
-  "ground_m": "650"
+  "ground_m": "650",
+  "noaa_described_count": "3"
  },
  "observatory_read": "2026-11-21",
  "since_check": "**Alert level yellow**, the second of four. Italy’s Civil Protection Department raised it from green on June 26, 2026, and its page still showed yellow on {read_date}.[[dpc0626]][[dpc]] INGV’s bulletin for November 2 to 8, 2026, the newest read for this page: gas emission from the summit craters, occasional ash from the Northeast Crater, no lava.[[ingv1110]]",
