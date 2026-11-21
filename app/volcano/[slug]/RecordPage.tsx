@@ -276,7 +276,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
 
   const recordTable = (
     <details className="va-details">
-      <summary>Show all {stats.all.length} eruptions</summary>
+      <summary>{stats.all.length === 1 ? 'Show the one eruption' : <>Show all {stats.all.length} eruptions</>}</summary>
       <p className="va-tcap" id="va-t-record">
         Every eruption of {name} in the Smithsonian’s record
       </p>

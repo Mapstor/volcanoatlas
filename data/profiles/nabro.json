@@ -1,0 +1,323 @@
+{
+ "slug": "nabro",
+ "volcano_number": 221101,
+ "name": "Nabro",
+ "country": "Eritrea",
+ "title": "Nabro Volcano: 2011 Eruption, Death Toll, Location & Height",
+ "description": "Nabro in Eritrea has erupted once on record, in 2011 and 2012. What happened, the two death counts, the sulfur cloud and what satellites have seen since.",
+ "h1": "Nabro Volcano",
+ "facts": {
+  "ground": "etopo"
+ },
+ "big": {
+  "line": "Its only eruption on record ended in June 2012",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "it lasted about a year",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting.** The Smithsonian’s list has no eruption at Nabro after the one that ended in {last_year}.[[gvp]] The volcano had no monitoring when it erupted; the seismometers set up afterwards ran until October 2012, and a paper given in 2016 by Eritrean and British scientists says the country had no permanent network yet.[[goitom15]][[gauntlett23]][[goitom18]] Satellite radar found the ground rising slowly between 2014 and 2020.[[moore21]][[albino21]]",
+ "lede": "Nabro is a volcano in southern Eritrea, at the border with Ethiopia, and the highest in the Danakil depression. It had no eruption on record and no instruments on it when it erupted on the night of June 12, 2011. The eruption put one of the largest volcanic sulfur dioxide clouds since Pinatubo into the stratosphere, drove about 12,000 people from their homes and killed people on both sides of the border. Below: where it is, whether it is active, what happened in 2011, the death counts, who watches it, its height and its record.",
+ "answer": "**Nabro last erupted from {last_start} to {last_end}**, by the Smithsonian’s list. It is the volcano’s only eruption on record, and it is over.[[gvp]] In its first 15 days it released about **5 million tons (4.5 million metric tons) of sulfur dioxide**.[[gauntlett23]] About 12,000 people left their homes.[[biggs21]] Eritrea’s government counted seven dead; a regional office in Ethiopia reported 31 deaths across the border.[[nasa0629]][[noaa]]",
+ "timeline": {
+  "from": 1900,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 2011.45,
+    "label": "2011"
+   }
+  ],
+  "note": "one eruption on the list",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The one raised stretch is the eruption of 2011 and 2012, the only one on the list. The list starts it on June 13, 2011; studies of the eruption put its start late on June 12, universal time.[[gvp]][[albino21]] The list ends it on June 3, 2012, with a question mark: that is the day of the last satellite heat alert in the Smithsonian’s bulletin.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "first on record: 2011",
+  "crater": "caldera",
+  "crater_depth_m": 400,
+  "crater_depth_text": "cliffs up to 1,300 ft",
+  "crater_share": 0.26,
+  "caption": "Nabro cut open. The summit height, the land around the volcano and the height of the caldera’s cliffs are to scale; the outline is schematic.[[gvp]][[etopo]][[nasabefore]] The real caldera is 5 miles (8 km) across and open to the southwest, with a smaller one inside it. The vents of 2011 were inside the caldera.[[gvp]][[gauntlett23]]"
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Nabro?",
+   "map": true,
+   "paras": [
+    "Nabro is in southern [Eritrea](/volcanoes-in-eritrea), near the border with Ethiopia, at {coords}.[[gvp]][[nasabefore]]",
+    "It stands at the southeast end of the Danakil Alps and is the highest volcano in the Danakil depression of northern Ethiopia and Eritrea.[[gvp]] NASA describes the area as remote and sparsely populated, on the edge of the Danakil Desert.[[nasa0928]]",
+    "Its neighbor Mallahle lies to the southwest, where the two calderas meet at the border.[[nasabefore]][[donovan18]] Dubbi, which erupted in 1861, is about 16 miles (25 km) to the north-northeast.[[gvp]][[goitom18]]",
+    "Nabro is one of {n_country} volcanoes in Eritrea on the Smithsonian’s Holocene list. Across the border, [Erta Ale](/volcano/erta-ale) in [Ethiopia](/volcanoes-in-ethiopia) belongs to the same volcanic province on that list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Nabro erupting now?",
+   "paras": [
+    "No. The one eruption on the Smithsonian’s list ended {last_end}, and the list has nothing after it.[[gvp]]",
+    "Two studies have followed the shape of the ground since, by satellite radar. Images from late 2014 to August 2019 show the volcano rising and stretching by up to half an inch (12 mm) a year while the center of the caldera sank. The authors of that study read the rise as a sign that the magma store under Nabro is refilling.[[moore21]]",
+    "The second study, of images from 2015 to 2020, also measured a slow, steady rise: about 0.6 inches (1.5 cm) a year toward the satellite, a signal its authors call small and hard to tell from noise. They name two possible causes, new magma arriving or the system settling after the eruption.[[albino21]]",
+    "Right after the eruption the volcano had sunk instead, by 6 to 8 inches (150 to 200 mm) a year in 2011 and 2012.[[moore21]]",
+    "A study of the earthquakes recorded after the eruption found a store of molten rock about 4 to 6 miles (6 to 10 km) below sea level. Its authors think melt remains there.[[gauntlett23]]"
+   ]
+  },
+  {
+   "id": "2011",
+   "h": "What happened in the 2011 eruption?",
+   "table": "periods",
+   "aside": "callouts",
+   "paras": [
+    "Nabro’s only eruption on record began on the night of June 12, 2011.[[nasabefore]][[goitom15]] The Smithsonian’s list dates it from {last_start} to {last_end} and rates it {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index) (VEI).[[gvp]]",
+    "Earthquakes led up to it. The U.S. Geological Survey located a swarm on the evening of June 12, with two shocks of magnitude 5.7.[[gvp]][[goitom15]] A 2021 study, drawing on the main study of the eruption, puts the start between 20:27 and 20:45 universal time that evening.[[albino21]]",
+    "The first reports, from the aviation ash center in Toulouse, put the top of the plume at 30,000 to 45,000 ft (9.1 to 13.7 km).[[gvp]] Later studies found it had gone higher, into the lower stratosphere at about 9 to 11 miles (15 to 17 km).[[biggs21]]",
+    "The cloud drifted more than 620 miles (1,000 km) northwest over Sudan on June 13, and news reports had a detached part of it over southern Israel the next day.[[gvp]] NASA noted reports of ash as far away as the Central African Republic and Turkmenistan.[[nasabefore]] On June 15 and 16 several airlines cancelled flights, among them flights to and from Addis Ababa, Djibouti and Khartoum.[[gvp]]",
+    "The cloud was extremely rich in sulfur dioxide and, it seems, poor in ash.[[biggs21]] A 2023 study gives about 5 million tons (4.5 million metric tons) of the gas in the first 15 days and calls the result the largest disturbance of the stratosphere’s aerosol layer since [Pinatubo](/volcano/pinatubo) in 1991.[[gauntlett23]] A week into the eruption, NASA researchers’ preliminary estimate was the highest sulfur dioxide level ever detected from space.[[nasabefore]]",
+    "After about a week the explosions eased. On June 19 the thinning plume showed a lava flow about 9.3 miles (15 km) long, running northwest out of the caldera and spreading over a plain; a shorter flow moved south inside the caldera.[[nasa0619]][[donovan18]]",
+    "Lava was still flowing on September 28, 2011, when a NASA satellite recorded heat from the vents and from a flow about 0.8 miles (1.3 km) south of them.[[nasa0928]] The last satellite heat alert came on June 3, 2012, the date the Smithsonian’s list gives, with a question mark, for the end.[[gvp]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "How many people died in the Nabro eruption?",
+   "table": "noaa",
+   "paras": [
+    "Eritrea’s government said seven people had died. NASA relayed that count in July 2011, and so did the Smithsonian’s bulletin, which added that later reports appeared to discount it, without saying how.[[nasa0629]][[gvp]] Studies published since give seven, or at least seven.[[gauntlett23]][[biggs21]][[goitom18]]",
+    "Across the border the figure is higher. A report of the disaster office of Ethiopia’s Afar region, quoted in NOAA’s record of the eruption, gives 31 deaths in Bidu district and attributes them to the ash.[[noaa]]",
+    "NOAA’s database of significant eruptions lists {worst_deaths} deaths for the eruption and describes the injured as many, its word for about 101 to 1,000. It files the eruption under {worst_date}.[[noaa]]",
+    "About 12,000 people left their homes.[[biggs21]][[gauntlett23]] One study says they evacuated themselves; the Eritrean government said at the time that it had evacuated the area’s residents.[[biggs21]][[gvp]] Two villages were destroyed, and the losses were put at $3 million.[[biggs21]]",
+    "Ash contaminated food and water sources, and about 5,000 Ethiopians living near the border were affected, by news reports the Smithsonian relayed.[[gvp]] The Afar office’s report lists what followed in six districts: livestock deaths, people moving away, a critical shortage of water, illness and rising malnutrition.[[noaa]] The Smithsonian’s bulletin adds that ash covered the well-known salt site at Afdera, in the depression, and made its salt inedible.[[gvp]]",
+    "Eritrea had no plan for a volcanic emergency. The main study of the eruption says quick coordination of the response still kept the human cost down.[[goitom15]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Nabro?",
+   "paras": [
+    "No one was monitoring it in 2011. The eruption was pieced together afterwards from earthquake and sound sensors in the region, satellite images, rock samples and short field visits.[[goitom15]] Sound from the eruption, too low to hear, was recorded hundreds of miles away and farther, for weeks.[[goitom15]]",
+    "On August 31, 2011 a temporary network of eight seismometers went in. It ran until October 2012, and a 2023 study used its records to map what lies under the volcano.[[gauntlett23]]",
+    "A paper given in Asmara in 2016 by Eritrean and British scientists counts six other unmonitored volcanoes in Eritrea and says a permanent network had not yet been set up.[[goitom18]]",
+    "NASA wrote in September 2011 that orbiting instruments might be the only reliable way to watch Nabro.[[nasa0928]] The two studies of its rising ground rest on satellite radar.[[moore21]][[albino21]]",
+    "A 2021 paper on East African volcanoes notes that the attention such an eruption draws from abroad is not always followed by lasting investment in local monitoring.[[biggs21]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Nabro?",
+   "paras": [
+    "The Smithsonian gives **{summit_ft} ft ({summit_m} m)**.[[gvp]] A 2023 study gives 7,380 ft (2,248 m).[[gauntlett23]] Either way it is the highest volcano in the Danakil depression.[[gvp]]",
+    "The volcano stands about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]",
+    "A caldera 5 miles (8 km) across, open to the southwest, takes the place of a summit; a smaller one, 3 miles (5 km) across, sits inside it.[[gvp]] Cliffs on its inner edge are up to 1,300 ft (400 m) high.[[nasabefore]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Nabro?",
+   "paras": [
+    "Nabro is a [stratovolcano](/types-of-volcanoes) built mainly of trachyte lava flows and layers of volcanic debris, with a caldera at its top.[[gvp]]",
+    "The Smithsonian gives its main rock as {rock}; the lava and ash of 2011 were trachybasalt.[[gvp]][[donovan18]]",
+    "A 2023 study puts the formation of the caldera at about 130,000 years ago and that of its neighbor Mallahle at about 295,000. It calls the two together the Bidu volcanic complex.[[gauntlett23]] The Smithsonian counts two more volcanoes, Asavyo and Sork Ale, in that complex.[[gvp]]",
+    "NASA describes Nabro as one of many volcanoes along Africa’s Great Rift Valley, which is slowly spreading apart.[[nasa0619]] The range it belongs to runs northeast to southwest, at an angle to the main rifts of the Red Sea and northern Afar.[[donovan18]][[goitom15]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Nabro erupt?",
+   "paras": [
+    "Once, as far as the record goes. The Smithsonian’s Holocene list has one eruption for Nabro, that of 2011 and 2012.[[gvp]]",
+    "Before June 2011 it had not erupted in recorded history, and the satellite heat record in the Smithsonian’s bulletin showed nothing in the five years or so before.[[nasa0619]][[gvp]]",
+    "The volcano has older lava. The Smithsonian’s summary mentions very recent flows from fissures that cross the range, without dates, and a 2023 study puts the last dated activity before 2011 at about 23,000 years ago, inside the caldera.[[gvp]][[gauntlett23]]",
+    "The range also has a history of large explosive eruptions. They left three large sheets of ignimbrite, the deposit of pyroclastic flows, one of which is attributed to Nabro.[[donovan18]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Nabro dangerous?",
+   "note": "This page is a record, not a safety guide. Ash advisories for aircraft in this region come from the Volcanic Ash Advisory Centre in Toulouse.",
+   "paras": [
+    "It erupted in 2011 with little warning and no instruments on it.[[goitom18]][[goitom15]] People died on both sides of the border, about 12,000 left their homes, and ash contaminated food and water.[[noaa]][[biggs21]][[gvp]]",
+    "The ash cloud shut down air traffic in the region for a time.[[goitom18]][[nasa0629]]",
+    "The studies made since report that melt probably remains under the volcano and that the ground rose from 2014 to 2020.[[gauntlett23]][[moore21]][[albino21]] One of them calls for more ground-based study of volcanoes that keep rising, and names Nabro as one.[[albino21]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Nabro’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Nabro has **one confirmed eruption**, known from direct reports. It marks the end date as uncertain.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "June 2011",
+ "callouts": [
+  {
+   "number": "5 million tons",
+   "unit": "of sulfur dioxide",
+   "text": "Released in the first 15 days of the eruption (4.5 million metric tons), by a 2023 study.",
+   "source": "Source: Gauntlett and others, 2023.[[gauntlett23]]"
+  },
+  {
+   "number": "12,000",
+   "unit": "people",
+   "text": "About this many left their homes around the volcano.",
+   "source": "Source: Biggs and others, 2021.[[biggs21]]"
+  }
+ ],
+ "faq_h": "Nabro questions and answers",
+ "faq": [
+  [
+   "Is Nabro erupting now?",
+   "No. Its only eruption on the Smithsonian’s list ended {last_end}. Satellite radar showed the ground rising slowly between 2014 and 2020."
+  ],
+  [
+   "When did Nabro last erupt?",
+   "From {last_start} to {last_end}, by the Smithsonian’s list. Studies of the eruption put its start on the night of June 12, 2011."
+  ],
+  [
+   "Where is Nabro volcano?",
+   "In southern Eritrea, near the border with Ethiopia, at {coords}. It is the highest volcano in the Danakil depression."
+  ],
+  [
+   "How many people died in the 2011 Nabro eruption?",
+   "Eritrea’s government counted seven. A regional office in Ethiopia reported 31 deaths in Bidu district, across the border, and NOAA’s database lists 31."
+  ],
+  [
+   "How much sulfur dioxide did Nabro release?",
+   "About 5 million tons (4.5 million metric tons) in the first 15 days, by a 2023 study. It was one of the largest volcanic releases of the gas since Pinatubo in 1991."
+  ],
+  [
+   "Had Nabro erupted before 2011?",
+   "Not in recorded history. A 2023 study puts the last dated activity before 2011 at about 23,000 years ago."
+  ],
+  [
+   "How tall is Nabro?",
+   "{summit_ft} ft ({summit_m} m) by the Smithsonian; a 2023 study gives 7,380 ft (2,248 m)."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Nabro",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=221101"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "nasabefore",
+   "publisher": "NASA Earth Observatory",
+   "title": "Nabro Volcano Before Eruption (astronaut photograph of January 30, 2011; published June 20, 2011)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/nabro-volcano-before-eruption-51074/"
+  },
+  {
+   "id": "nasa0619",
+   "publisher": "NASA Earth Observatory",
+   "title": "Eruption at Nabro Volcano (image of June 19, 2011; published June 23, 2011)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/eruption-at-nabro-volcano-51135/"
+  },
+  {
+   "id": "nasa0629",
+   "publisher": "NASA Earth Observatory",
+   "title": "Lava Flows at Nabro Volcano, Eritrea (image of June 29, 2011; published July 1, 2011)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/lava-flows-at-nabro-volcano-eritrea-51253/"
+  },
+  {
+   "id": "nasa0928",
+   "publisher": "NASA Earth Observatory",
+   "title": "Ash and Lava Flows at Nabro (images of September 28, 2011; published September 30, 2011)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/ash-and-lava-flows-at-nabro-52323/"
+  },
+  {
+   "id": "goitom15",
+   "publisher": "B. Goitom and 18 others, Bulletin of Volcanology 77, article 85, 2015",
+   "title": "First recorded eruption of Nabro volcano, Eritrea, 2011 (abstract, on the record page of Birkbeck, University of London)",
+   "url": "https://eprints.bbk.ac.uk/13392/"
+  },
+  {
+   "id": "goitom18",
+   "publisher": "B. Goitom, J. Hammond, J. M. Kendall, C. Oppenheimer and G. Ogubazghi, International Conference on Eritrean Studies (Asmara, 2016), proceedings of 2018",
+   "title": "Seismic and volcanic hazards in Eritrea (abstract, on the University of Bristol’s record page)",
+   "url": "https://research-information.bris.ac.uk/en/publications/seismic-and-volcanic-hazards-in-eritrea/"
+  },
+  {
+   "id": "donovan18",
+   "publisher": "A. Donovan, J. Blundy, C. Oppenheimer and I. Buisman, Contributions to Mineralogy and Petrology 173, article 1, 2018",
+   "title": "The 2011 eruption of Nabro volcano, Eritrea: perspectives on magmatic processes from melt inclusions (PDF)",
+   "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/143483625/Full_text_PDF_final_published_version_.pdf"
+  },
+  {
+   "id": "biggs21",
+   "publisher": "J. Biggs and others, Nature Communications 12, article 6881, 2021",
+   "title": "Volcanic activity and hazard in the East African Rift Zone",
+   "url": "https://www.nature.com/articles/s41467-021-27166-y"
+  },
+  {
+   "id": "gauntlett23",
+   "publisher": "M. Gauntlett and nine others, Journal of Geophysical Research: Solid Earth 128, 2023",
+   "title": "Seismic Tomography of Nabro Caldera, Eritrea: Insights Into the Magmatic and Hydrothermal Systems of a Recently Erupted Volcano (PDF)",
+   "url": "https://eprints.bbk.ac.uk/id/eprint/51561/1/51561a.pdf"
+  },
+  {
+   "id": "moore21",
+   "publisher": "C. Moore, T. J. Wright and A. Hooper, Journal of Geophysical Research: Solid Earth 126, 2021",
+   "title": "Rift Focusing and Magmatism During Late-Stage Rifting in Afar (PDF)",
+   "url": "https://eprints.whiterose.ac.uk/id/eprint/180345/1/2020JB021542.pdf"
+  },
+  {
+   "id": "albino21",
+   "publisher": "F. Albino and J. Biggs, Geochemistry, Geophysics, Geosystems 22, 2021",
+   "title": "Magmatic Processes in the East African Rift System: Insights From a 2015–2020 Sentinel-1 InSAR Survey (PDF)",
+   "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/275450939/Full_text_PDF_final_published_version_.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the eruption in the Smithsonian’s record, to today.",
+  "**5 million tons:** 4.5 teragrams (4.5 million metric tons) of sulfur dioxide, converted to U.S. tons and rounded.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "The times given for the start are universal time (UTC). Eritrea’s clocks are three hours ahead, by a pair of times in the Smithsonian’s bulletin.",
+  "Feet, miles and inches are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_year": "2012",
+  "last_start": "June 13, 2011",
+  "last_end": "June 3, 2012 (date uncertain)",
+  "last_length": "1 year",
+  "n_all": "1",
+  "n_country": "4",
+  "worst_date": "June 22, 2011",
+  "rock": "trachyte to trachydacite",
+  "max_vei": "4",
+  "noaa_n": "1",
+  "worst_deaths": "31",
+  "summit_m": "2,218",
+  "summit_ft": "7,277",
+  "coords": "13.37°N, 41.7°E"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}
