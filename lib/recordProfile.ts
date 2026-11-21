@@ -102,6 +102,9 @@ export interface RecordProfile {
     from: number;
     to: number;
     marks: { year: number; label: string }[];
+    /** Eruptions once reported that the Smithsonian lists as discredited (Blup Blup: 1616, 1830): drawn as a dashed mark
+     * crossed out in red pencil, never as part of the line. The caption says what they are and where that is stated. */
+    struck?: { year: number; label: string }[];
     caption: string;
     /** Word for the lower level of the line: "paused" (default) or "quiet". */
     low_label?: string;

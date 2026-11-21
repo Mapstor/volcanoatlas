@@ -1,0 +1,244 @@
+{
+ "slug": "blup-blup",
+ "volcano_number": 251001,
+ "name": "Blup Blup",
+ "country": "Papua New Guinea",
+ "title": "Blup Blup Volcano: No Eruption on Record, Location & Height",
+ "description": "Blup Blup, an island volcano off Papua New Guinea, has no eruption on record. Where it is, how tall, and why Kadovar’s people fled to it in 1976 and 2018.",
+ "h1": "Blup Blup Volcano",
+ "facts": {},
+ "big": {
+  "line": "On the Smithsonian’s list",
+  "number": "{n_all}",
+  "unit": "eruptions",
+  "note": "reports of 1616 and 1830 struck out",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**No eruption on record.** The Smithsonian’s list, updated to November 15, 2026, has no eruption of Blup Blup, and its page carries no report on the volcano.[[gvp]] No alert level and no statement of the Rabaul Volcano Observatory about Blup Blup were found when the sources were read, on {read_date}.",
+ "lede": "Blup Blup is a small volcanic island off the north coast of Papua New Guinea. Nobody has recorded an eruption there. Its neighbors Bam and Kadovar do erupt, and more than once their people have crossed the water to Blup Blup for safety. Below: whether it has erupted, where it is, what its people saw of Kadovar’s eruption, who has fled there, who lives there, its height and its type.",
+ "answer": "**Blup Blup has no eruption on record.** The Smithsonian gives its last eruption as unknown and marks two old reports, of 1616 and 1830, as discredited.[[gvp]] It is a forested **island stratovolcano, {summit_ft} ft ({summit_m} m) high**, off the north coast of Papua New Guinea. About 800 people live on it, and twice it has taken in the people of neighboring Kadovar.[[ifrc]][[kad]]",
+ "timeline": {
+  "from": 1580,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [],
+  "struck": [
+   {
+    "year": 1616.5,
+    "label": "1616"
+   },
+   {
+    "year": 1830.5,
+    "label": "1830"
+   }
+  ],
+  "note": "no eruption on the list",
+  "note_at": "bottom",
+  "caption": "The Smithsonian’s list has no eruption of Blup Blup, so the line never leaves “quiet.”[[gvp]] The two crossed-out years are eruptions once reported for the island. The Smithsonian lists both as discredited."
+ },
+ "section": {
+  "kind": "land",
+  "note": "no eruption on record",
+  "crater": "summit crater",
+  "caption": "Blup Blup as a simple outline rising from the sea. Only the summit height is to scale.[[gvp]] The real island is about 1.2 by 2.2 miles (2 by 3.5 km), forested, with a summit crater about half a mile (800 m) across.[[gvp]]"
+ },
+ "map_zoom": 9,
+ "sections": [
+  {
+   "id": "erupted",
+   "h": "Has Blup Blup ever erupted?",
+   "paras": [
+    "Not on any record. The Smithsonian’s list has no eruption of Blup Blup, and its page gives the last known eruption as “Unknown.”[[gvp]]",
+    "The volcano is still counted among those of the Holocene, the geologic epoch we live in. The Smithsonian rates the evidence for that as credible, and its summary says there may have been eruptions during the Holocene, citing a personal communication from Johnson in 1990.[[gvp]]",
+    "Two eruptions were once credited to the island, in 1616 and 1830. The Smithsonian lists both as discredited, and its summary calls the reports erroneous. It does not say what the reports were or why they fell.[[gvp]]",
+    "The island carries the marks of eruptions all the same: lava flows with well-defined fronts, weak thermal areas on the west and north coasts, and a summit crater about half a mile (800 m) across.[[gvp]]"
+   ]
+  },
+  {
+   "id": "where",
+   "h": "Where is Blup Blup?",
+   "map": true,
+   "paras": [
+    "Blup Blup is a small island off the north coast of mainland Papua New Guinea, at {coords}.[[gvp]] It belongs to the Schouten Islands, which lie off East Sepik Province.[[gvp]][[ifrc]]",
+    "Kadovar and Bam, two more island volcanoes, belong to the same group.[[gvp]] Kadovar lies about 8 to 9 miles (13 to 15 km) to the south, by the reports of the Rabaul Volcano Observatory.[[kad]]",
+    "Blup Blup is one of {n_country} volcanoes in Papua New Guinea on the Smithsonian’s Holocene list. [Manam](/volcano/manam), [Langila](/volcano/langila) and [Bamus](/volcano/bamus) are three of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "seen",
+   "h": "What did Blup Blup see of Kadovar’s eruption?",
+   "paras": [
+    "Kadovar began its first confirmed eruption around midday on January 5, 2018, and it was still erupting in 2023.[[kad]] People on Blup Blup watched from across the water, and the Rabaul Volcano Observatory passed on what they reported.",
+    "On January 12 and 13 they saw incandescence, the glow of hot rock, high on Kadovar’s flank.[[kad]]",
+    "On February 9, at about 10:50 in the morning, residents on the east and west coasts of Blup Blup observed five or six small tsunamis, each under 3 ft (1 m) high. They came before the main collapse of the lava dome on Kadovar.[[kad]]",
+    "People on the island smelled sulfur on February 16 and 22, and a little ash fell on February 21 and 22. Small amounts of ash fell again in September 2018.[[kad]]",
+    "In January and early February 2020 residents reported rumbling from Kadovar and a glow at its summit at night.[[kad]]"
+   ]
+  },
+  {
+   "id": "refuge",
+   "h": "Who has fled to Blup Blup?",
+   "aside": "callouts",
+   "paras": [
+    "The record has three crossings to Blup Blup by people whose own volcano had turned dangerous.",
+    "The oldest is a story told by the people of Bam. In the 1860s or 1870s, when Bam’s eruptions were stronger than usual, islanders escaped to Kadovar and Blup Blup. A history of the region’s eruptions adds that the Bam people had traditional ties with the communities on both islands.[[john9]]",
+    "In 1976 it was Kadovar’s turn. Steam vents and hot ground spread on that island through November, and everyone living there was taken to Blup Blup. The Rabaul Volcano Observatory expected to put a full-time observation post on Blup Blup once an eruption looked close, and a few men stayed on Kadovar to tend the gardens and supply the evacuees.[[kad]] No eruption followed.[[john1]]",
+    "In January 2018 the eruption did come. Kadovar’s whole population crossed to Blup Blup in boats and many canoes. The counts differ: about 500 in a news report citing the Red Cross, about 600 by the Red Cross’s own figure, and 591 by the governor of East Sepik on January 8.[[kad]]",
+    "Within two weeks they were moved again. The Red Cross has them taken to a care center at Dan Dan, south of Wewak on the mainland, between January 14 and 17.[[ifrc]] The observatory’s reasons, in the Smithsonian’s report: they were close to the eruption and hard to supply.[[kad]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Does anyone live on Blup Blup?",
+   "paras": [
+    "Yes. The Red Cross described Blup Blup in January 2018 as an island of about 800 people.[[ifrc]]",
+    "The Smithsonian calls the island forested.[[gvp]] The observatory’s reports of 1976 write its name as one word, Blupblup, and another report on Kadovar adds Rubrub in brackets.[[kad]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Is Blup Blup monitored?",
+   "paras": [
+    "This page found no record of an instrument or an observation post on Blup Blup. Papua New Guinea’s volcanoes are the responsibility of the Rabaul Volcano Observatory. A directory entry of the World Organization of Volcano Observatories, undated and written no earlier than 2002, lists observation posts at four volcanoes: Ulawun, Langila, Manam and Karkar.[[wovo]]",
+    "The observatory has used the island as a lookout on its neighbor. In 1976 it expected to put an observation post there to watch Kadovar, and in 2018 and 2020 its reports on Kadovar passed on what residents of Blup Blup saw, heard and smelled.[[kad]]",
+    "The volcanologist Tony Taylor wrote a report in 1955 on Bam and on an inspection of Kadovar and Blup Blup. The history that lists the report does not give its findings.[[john9]]",
+    "The Smithsonian’s page has no bulletin report and no weekly report on Blup Blup.[[gvp]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Blup Blup?",
+   "paras": [
+    "Blup Blup is **{summit_ft} ft ({summit_m} m)** high, counted from sea level.[[gvp]]",
+    "The island measures about 1.2 by 2.2 miles (2 by 3.5 km). Blocks from a debris avalanche under the sea lie to the northeast of it.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Blup Blup?",
+   "paras": [
+    "The Smithsonian lists Blup Blup as a [stratovolcano](/types-of-volcanoes) whose main rock is {rock}; its summary calls the volcano andesitic to dacitic.[[gvp]]",
+    "Most of its eruptive activity came from the summit crater. The summary adds, each time with a “may”: a lava dome on a ridge to the west and a small satellite cone on the southwest coast.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Blup Blup dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Rabaul Volcano Observatory and Papua New Guinea’s disaster authorities.",
+   "paras": [
+    "Nothing on record says so of the volcano itself. The Smithsonian lists no eruption, and NOAA’s database of significant eruptions has no entry for Blup Blup.[[gvp]][[noaa]]",
+    "What has reached the island came from Kadovar: the small tsunamis of February 9, 2018, a little ash and the smell of sulfur.[[kad]]"
+   ]
+  }
+ ],
+ "callout_note": "January 2018",
+ "callouts": [
+  {
+   "number": "591",
+   "unit": "people",
+   "text": "Kadovar’s evacuees on Blup Blup, by the count the governor of East Sepik gave on January 8, 2018.",
+   "source": "Source: Smithsonian Institution, reports on Kadovar.[[kad]]"
+  },
+  {
+   "number": "800",
+   "unit": "residents",
+   "text": "About this many people lived on Blup Blup when the evacuees arrived.",
+   "source": "Source: International Federation of Red Cross and Red Crescent Societies.[[ifrc]]"
+  }
+ ],
+ "faq_h": "Blup Blup questions and answers",
+ "faq": [
+  [
+   "Has Blup Blup ever erupted?",
+   "No eruption is on record. The Smithsonian’s list has none and gives the last known eruption as unknown. It marks two old reports, of 1616 and 1830, as discredited."
+  ],
+  [
+   "Is Blup Blup an active volcano?",
+   "It is not erupting and has no eruption in recorded history. The Smithsonian keeps it among the volcanoes of the Holocene on evidence it rates credible, and notes weak thermal areas on the west and north coasts."
+  ],
+  [
+   "Where is Blup Blup?",
+   "In the Schouten Islands off the north coast of mainland Papua New Guinea, at {coords}, about 8 to 9 miles (13 to 15 km) north of Kadovar."
+  ],
+  [
+   "How tall is Blup Blup?",
+   "{summit_ft} ft ({summit_m} m) above sea level. The island is about 1.2 by 2.2 miles (2 by 3.5 km)."
+  ],
+  [
+   "Do people live on Blup Blup?",
+   "Yes: about 800, by the Red Cross’s figure of January 2018."
+  ],
+  [
+   "What happened on Blup Blup in 2018?",
+   "The people of Kadovar fled there when their volcano began to erupt on January 5, 2018, and were moved on to the mainland by mid-January. On February 9 residents of Blup Blup saw five or six small tsunamis, each under 3 ft (1 m) high."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Blup Blup",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=251001"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "kad",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Kadovar: bulletin and weekly reports, 1976 to 2023",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=251002"
+  },
+  {
+   "id": "ifrc",
+   "publisher": "International Federation of Red Cross and Red Crescent Societies (on ReliefWeb)",
+   "title": "Papua New Guinea: Volcanic Activity. Emergency Plan of Action Operation Update no. 1, DREF MDRPG007 (2018)",
+   "url": "https://reliefweb.int/report/papua-new-guinea/papua-new-guinea-volcanic-activity-emergency-plan-action-operation-update-n"
+  },
+  {
+   "id": "john9",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands: A History of Volcanic Eruptions and Disaster Management in Papua New Guinea and the Solomon Islands, chapter 9",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/html/ch09.xhtml?page=16"
+  },
+  {
+   "id": "john1",
+   "publisher": "R. Wally Johnson, ANU Press, 2013",
+   "title": "Fire Mountains of the Islands, chapter 1: Burning Islands and Dampier’s Voyage: 1700 (PDF)",
+   "url": "https://press-files.anu.edu.au/downloads/press/p223471/pdf/ch013.pdf"
+  },
+  {
+   "id": "wovo",
+   "publisher": "World Organization of Volcano Observatories",
+   "title": "Directory of member observatories: Papua New Guinea, Rabaul Volcanological Observatory",
+   "url": "https://wovo.iavceivolcano.org/members-observatories-directory/papua-new-guinea-rabaul-volcanological-observatory/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{n_all} eruptions:** the number of eruptions on the Smithsonian’s list for Blup Blup. The reports of 1616 and 1830 are not on the list: the Smithsonian marks them as discredited.",
+  "**8 to 9 miles (13 to 15 km):** the observatory’s report of 1976 gives 13 km from Kadovar, its reports of 2018 and 2020 give 15 km. The governor of East Sepik said about 10 km in January 2018.",
+  "**The crossing of January 2018:** the Smithsonian’s reports, with a witness’s account of January 5 and the governor’s count of January 8, put it in the first days of the eruption. The Red Cross’s operation update dates it to January 12. This page follows the Smithsonian’s reports.",
+  "Feet and miles are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "n_all": "0",
+  "noaa_n": "0",
+  "summit_m": "402",
+  "summit_ft": "1,319",
+  "type": "Stratovolcano",
+  "rock": "andesite to basaltic andesite",
+  "coords": "3.507°S, 144.605°E"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}

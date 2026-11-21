@@ -122,6 +122,12 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
     const next = items[i + 1];
     if (!p.span.continuing && !(next && Math.abs(next.s - p.e) < 0.01)) pts.push([xb, yb]);
   });
+  // a volcano with no eruption on the list (Blup Blup): the pen rests from the left edge of the strip to today
+  if (items.length === 0) {
+    pts.push([x0, yb]);
+    quiet(x0, X(endYear));
+    pts.push([X(endYear), yb]);
+  }
   const lastItem = items[items.length - 1];
   const erupting = Boolean(lastItem && lastItem.span.continuing);
   if (lastItem && !erupting) {
@@ -194,6 +200,13 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   const lastMargin = !erupting && !stats.lastEnd && stats.lastYearOnly === null ? stats.lastYearMargin : null;
   const lastMarginX = lastMargin ? X(lastMargin.year + 0.5) : null;
   const note = spec.note ? fill(spec.note, ctx) : null;
+  const struck = (spec.struck ?? []).filter((mark) => mark.year > y0 && mark.year < y1);
+  const from = y0 < 0 ? `${-y0} BCE` : y0;
+  const label =
+    items.length === 0
+      ? `Strip chart for ${profile.name} from ${from} to ${endDate[0]}: the Smithsonian's list has no eruption, so the line stays low.`
+      : `Strip chart of ${profile.name}'s eruption record from ${from} to ${endDate[0]}: the line is high while an eruption is in progress and low while the volcano is ${low}.`;
+  const struckLabel = struck.length ? ` Crossed-out marks at ${struck.map((mark) => mark.label).join(' and ')} are reports the Smithsonian lists as discredited.` : '';
 
   return (
     <svg
@@ -203,7 +216,7 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
       width={w}
       height={h}
       role="img"
-      aria-label={`Strip chart of ${profile.name}'s eruption record from ${y0 < 0 ? `${-y0} BCE` : y0} to ${endDate[0]}: the line is high while an eruption is in progress and low while the volcano is ${low}.`}
+      aria-label={label + struckLabel}
     >
       <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
       {grid}
@@ -218,6 +231,21 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
       {items.map((p) => (
         <rect key={`b${p.span.eruption.n}`} x={X(p.s)} y={yb + 12} width={Math.max(X(p.e) - X(p.s), 1.2)} height={6} fill={PAL.accent} />
       ))}
+      {struck.map((mark) => {
+        // a report the Smithsonian rejects: a dashed mark where the eruption would stand, crossed out in red pencil
+        const x = X(mark.year);
+        const mid = (ya + yb) / 2;
+        const r = small ? 6 : 8;
+        return (
+          <g key={`x${mark.label}`}>
+            <line x1={x} y1={yb} x2={x} y2={ya} stroke={PAL.mute} strokeWidth={1.2} strokeDasharray="3 4" />
+            <path d={`M${x - r} ${mid - r} L${x + r} ${mid + r} M${x + r} ${mid - r} L${x - r} ${mid + r}`} stroke={PAL.pencil} strokeWidth={2.4} strokeLinecap="round" fill="none" />
+            <text x={x} y={ya - (small ? 8 : 10)} textAnchor="middle" fontSize={fs - 1} fill={PAL.mute} stroke={PAL.paper} strokeWidth={4} paintOrder="stroke">
+              {mark.label}
+            </text>
+          </g>
+        );
+      })}
       <path className="va-draw" d={d} pathLength={1} fill="none" stroke={PAL.ink} strokeWidth={small ? 1.5 : 1.7} strokeLinejoin="round" strokeLinecap="round" />
       <g className="va-pen">
         <path d={`M${xEnd.toFixed(1)} ${penY} l9 -5 l0 10 z`} fill={PAL.ink} />
@@ -241,6 +269,12 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
         })}
       {!small && note && typeof spec.note_at === 'number' && (
         <text className="va-hand" x={X(y0 + (y1 - y0) * spec.note_at)} y={(ya + yb) / 2 + 8} textAnchor="middle" fontSize={hand} fill={PAL.pencil}>
+          {note}
+        </text>
+      )}
+      {small && note && items.length === 0 && (
+        // a strip with no eruption has no date label under it: on a phone the pencil note takes that place
+        <text className="va-hand" x={w / 2} y={yb + 66} textAnchor="middle" fontSize={hand} fill={PAL.pencil}>
           {note}
         </text>
       )}

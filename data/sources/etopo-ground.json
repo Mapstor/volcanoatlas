@@ -192,6 +192,15 @@
 "sea_floor_m": -1869,
 "peak_m": 152
 },
+"251001": {
+"name": "Blup Blup",
+"cells": 883,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -1296,
+"peak_m": 325,
+"retrieved": "2026-11-21"
+},
 "251020": {
 "name": "Manam",
 "cells": 887,
