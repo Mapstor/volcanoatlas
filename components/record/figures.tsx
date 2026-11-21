@@ -152,7 +152,9 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
     if (!to) return;
     const toPrecision: Precision = next ? next.span.startPrecision : 'day';
     const days = daysBetween(p.endYmd, to);
-    if (days > 3) gaps.push({ from: p.endYmd, to, days, text: spanBetween(p.endYmd, p.endPrecision, to, toPrecision).text });
+    // the gap since the last eruption runs to today: whole months, never rounded up, like the page's main number
+    // (Mount Pelee's strip said "94 years" beside a main number of 93 once the data was read after the 16th of a month)
+    if (days > 3) gaps.push({ from: p.endYmd, to, days, text: spanBetween(p.endYmd, p.endPrecision, to, toPrecision, !next).text });
   });
   const centered = spec.label_gaps !== undefined;
   const labelled = centered ? [...gaps].sort((a, b) => b.days - a.days).slice(0, spec.label_gaps) : gaps;

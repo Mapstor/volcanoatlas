@@ -473,7 +473,9 @@ export const METHOD_LABEL: Record<string, string> = {
   'Observations: Reported': 'written reports',
   'Observations: Hydrophonic': 'underwater sound recordings',
   'Observations: Seismicity': 'earthquake records',
+  // "(visual)" was the list's name for it until v. 5.4.0; v. 5.4.1 writes "(visible)"
   'Observations: Satellite (visual)': 'satellite images',
+  'Observations: Satellite (visible)': 'satellite images',
   'Observations: Satellite (infrared)': 'satellite heat readings',
   'Observations: Photo / Video': 'photos or video',
   'Observations: Aviation': 'pilot reports',

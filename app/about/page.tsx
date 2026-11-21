@@ -3,6 +3,7 @@ import { getAllCountries, getAllVolcanoes } from '@/lib/data';
 import { getAllGvp } from '@/lib/gvp';
 import JsonLd from '@/components/JsonLd';
 import { AUTHOR, GVP_EXPORT_DATE, GVP_HOME, SITE_URL, pageMeta } from '@/lib/site';
+import { sourceDates } from '@/lib/eruptions';
 
 export const metadata = pageMeta({
   title: 'About VolcanoAtlas',
@@ -75,7 +76,7 @@ export default async function AboutPage() {
               (version 5.3.4, exported on {GVP_EXPORT_DATE}). Volcano pages link to the matching Smithsonian record where there is one.
             </p>
             <p className="mb-4">
-              Pages that have been rebuilt use version 5.4.0 of that database together with NOAA&apos;s database of significant
+              Pages that have been rebuilt use version {sourceDates().gvpVersion} of that database together with NOAA&apos;s database of significant
               eruptions and the observatory that monitors the volcano. They list their sources, and how each calculated number
               was worked out, at the end of the page.
             </p>
