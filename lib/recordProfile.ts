@@ -416,6 +416,21 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('quiet_unit', years === 1 ? 'year' : 'years');
     set('quiet_span', `about ${years} ${years === 1 ? 'year' : 'years'}`);
   }
+  // a last eruption the record dates from deposits, as a year with a margin (Chimborazo: 550 CE ± 150 years): the year
+  // with its era, the margin, and the years since rounded to the size of the margin, never counted to the year
+  if (!stats.current && stats.lastYearMargin) {
+    const { year, margin } = stats.lastYearMargin;
+    const step = margin < 50 ? 10 : margin < 500 ? 100 : 1000;
+    // there is no year 0: from a year before the common era the count is one less than the plain difference
+    const since = roundTo(new Date().getUTCFullYear() - year - (year < 0 ? 1 : 0), step);
+    set('last_year', yearText(year));
+    set('last_margin', fmt(margin));
+    set('last_span', `about ${yearText(year)} (± ${fmt(margin)} years)`);
+    set('quiet_number', fmt(since));
+    set('quiet_unit', 'years');
+    set('quiet_span', `about ${fmt(since)} years`);
+    set('quiet_round', fmt(step));
+  }
   if (profile.facts.count_from) {
     set('since_year', profile.facts.count_from);
     set('n_since', stats.all.filter((e) => e.sy >= (profile.facts.count_from as number)).length);
@@ -562,6 +577,15 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   set('n_rc_word', word(radiocarbon));
   set('n_vei0', stats.all.filter((e) => e.vei === 0).length);
   set('n_written', stats.methods['Observations: Reported'] ?? 0);
+  // eruptions dated by matching ash layers, and the smallest and largest margin the list puts on a year (Chimborazo: 75 and 2,500 years)
+  set('n_tephra', stats.methods['Correlation: Tephrochronology'] ?? 0);
+  set('n_tephra_word', word(stats.methods['Correlation: Tephrochronology'] ?? 0));
+  const margins = stats.all.map((e) => e.sunc).filter((m): m is number => typeof m === 'number' && m > 0);
+  if (margins.length) {
+    set('margin_min', fmt(Math.min(...margins)));
+    set('margin_max', fmt(Math.max(...margins)));
+    set('n_margin', margins.length);
+  }
   // eruptions someone saw (reports, photos, instruments) against those dated from the rocks afterwards
   const observed = Object.entries(stats.methods).reduce((sum, [method, n]) => sum + (method.startsWith('Observations:') ? n : 0), 0);
   set('n_observed', observed);

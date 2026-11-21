@@ -905,6 +905,15 @@
 "sea_floor_m": null,
 "peak_m": 5767
 },
+"352071": {
+"name": "Chimborazo",
+"cells": 874,
+"sea_share": 0.0,
+"land_m": 3790,
+"sea_floor_m": null,
+"peak_m": 6201,
+"retrieved": "2026-11-21"
+},
 "352080": {
 "name": "Tungurahua",
 "cells": 886,

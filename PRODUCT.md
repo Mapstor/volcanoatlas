@@ -56,6 +56,10 @@ The site is finished when every page is. Then it is frozen for three months and 
 - A date is never printed more exactly than the Smithsonian gives it. Its record marks many days as uncertain (only
   the month, or only the year, is known): those print as "May 1910" or "1857", and any length of time worked out from
   them starts with "about".
+- A last eruption the Smithsonian dates from deposits, as a year with a margin ("550 CE ± 150 years"), is printed as
+  "about 550 CE" with the margin beside it, and the time since is counted in round terms: this year minus that year,
+  rounded to the nearest 100 years for a margin of 50 to 499 years (10 below that, 1,000 above). The calculation is
+  printed on the page. A count to the year would claim more than the record knows.
 - A date the Smithsonian gives as a limit keeps the limit. Its "in or before" and "on or before" print as "(or earlier)"
   after the date, its "on or after" as "(or later)", and the note under the table says what the marks mean. "Before 1558"
   would leave out 1558 itself, and an end date without its mark would read as exact. A length or gap counted from such

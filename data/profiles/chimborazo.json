@@ -1,0 +1,354 @@
+{
+ "slug": "chimborazo",
+ "volcano_number": 352071,
+ "name": "Chimborazo",
+ "country": "Ecuador",
+ "title": "Chimborazo Volcano: Height, Last Eruption, Is It Active?",
+ "description": "Chimborazo is Ecuador’s highest volcano, last in eruption about {quiet_number} years ago. Its height, its state now and why its top is farthest from Earth’s center.",
+ "h1": "Chimborazo Volcano",
+ "facts": {
+  "summit_m": 6263,
+  "summit_ft": 20548,
+  "summit_source": "ig",
+  "summit_source_name": "the Instituto Geofísico",
+  "ground": "etopo"
+ },
+ "big": {
+  "line": "Last eruption on record: about {last_year}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "give or take {last_margin} years",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "lede": "Chimborazo is Ecuador’s highest volcano, an ice-capped mountain whose summit is farther from the center of the Earth than any other point on the planet’s surface. Its last eruption came about {quiet_number} years ago, and Ecuador’s Instituto Geofísico classes it as potentially active. Below: where it is, how high it is, the Earth’s-center record, when it last erupted, its state now, what is happening to its ice, and every eruption on record.",
+ "answer": "**Chimborazo is {summit_ft} ft ({summit_m} m) high**, Ecuador’s highest volcano.[[ig]][[gvp]] Its **last eruption was about {last_year}**, give or take {last_margin} years, on the Smithsonian’s list, and Ecuador’s Instituto Geofísico classes it as **potentially active**.[[gvp]][[ig]] Because the Earth bulges at the Equator, its **summit is the point on the surface farthest from the planet’s center**.[[nos]]",
+ "timeline": {
+  "from": -9000,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": -5409.5,
+    "label": "5410 BCE"
+   },
+   {
+    "year": -7499.5,
+    "label": "7500 BCE"
+   },
+   {
+    "year": -4129.5,
+    "label": "4130 BCE"
+   },
+   {
+    "year": 550.5,
+    "label": "550 CE"
+   },
+   {
+    "year": -2499.5,
+    "label": "2500 BCE"
+   }
+  ],
+  "note": "{n_all} eruptions, all dated from their deposits",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike is one eruption, dated from the ash and rock it left. The dates carry margins of {margin_min} to {margin_max} years, so a spike marks the middle of a range. The list has nothing younger than about {last_year}."
+ },
+ "section": {
+  "kind": "land",
+  "note": "closest to the stars",
+  "ice_from_m": 5000,
+  "ice_label": "ice cap",
+  "caption": "Chimborazo cut open. The summit height, the lower edge of the ice and the land around the volcano are to scale; the outline is schematic.[[ig]][[sam12]][[etopo]] The ice is drawn down to 16,400 ft (5,000 m), about where a 2012 study found the glaciers ending on the east side; on the west side they ended higher.[[sam12]] The real mountain has several summits in a row, drawn here as one. The slab of land under the volcano is cut short at the break mark."
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Chimborazo?",
+   "map": true,
+   "paras": [
+    "Chimborazo is in central Ecuador, on the Cordillera Occidental, the western range of the Andes, at {coords}.[[ig]][[gvp]] It is about 93 miles (150 km) south of Quito, and the city of Riobamba is about 19 miles (30 km) to its southeast.[[ig]][[gvp]]",
+    "It is the southernmost volcano of that range, and the Smithsonian places it at the southern end of Ecuador’s “Avenue of Volcanoes.”[[ig]][[gvp]] The summit is one degree south of the Equator.[[nos]]",
+    "Chimborazo is one of {n_country} volcanoes in [Ecuador](/volcanoes-in-ecuador) on the Smithsonian’s Holocene list; [Cotopaxi](/volcano/cotopaxi) and [Reventador](/volcano/reventador) are two of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Chimborazo?",
+   "paras": [
+    "**Chimborazo is {summit_ft} ft ({summit_m} m) above sea level**, by Ecuador’s Instituto Geofísico.[[ig]] It is the highest volcano in Ecuador and in the Northern Andes.[[gvp]][[ig]]",
+    "Other sources print slightly different heights. The Smithsonian lists 20,541 ft ({gvp_summit_m} m), and a NOAA page uses 20,564 ft (6,268 m).[[gvp]][[nos]]",
+    "On February 5, 2016 a team from the Instituto Geofísico, France’s research institute IRD and Ecuador’s military geographic institute carried a high-precision GPS receiver to the summit and measured there for more than two hours. The aim was to fix the summit’s distance from the center of the Earth to the centimeter.[[ig16]]",
+    "The mountain rises about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]] A 2012 study describes the massif as an ellipse of about 9 by 12 miles (14 by 20 km), with a volume of 17 to 20 cubic miles (72 to 83 cubic km).[[sam12]]",
+    "It has more than one top. The Library of Congress names four summits: Whymper, Veintimilla, Politécnica and Nicolás Martínez, with Whymper the highest.[[loc]] The 2012 study puts Politécnica at about 19,200 ft (5,850 m) and Martínez at about 18,500 ft (5,650 m), in a line east of the main summit.[[sam12]]"
+   ]
+  },
+  {
+   "id": "farthest",
+   "h": "Is Chimborazo’s summit the farthest point from Earth’s center?",
+   "paras": [
+    "**Yes, by NOAA’s account.** The Earth is not a perfect sphere: its rotation makes it slightly thicker at the Equator.[[nos]] Chimborazo stands one degree south of the Equator, where that bulge is greatest, so its summit is farther from the planet’s center than any other point on the surface. NOAA calls it the “closest point on Earth to the stars.”[[nos]]",
+    "NOAA puts the summit more than 6,800 ft (2,072 m) farther from the center than the top of Mount Everest.[[nos]] The Library of Congress gives a larger figure, 7,096 ft (2,163 m).[[loc]] The two differ, and neither page gives the distances they come from.",
+    "Measured the usual way, from sea level, Everest is far higher: 29,029 ft (8,848 m) against Chimborazo’s {summit_ft} ft.[[nos]][[ig]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Chimborazo last erupt?",
+   "paras": [
+    "**About {quiet_number} years ago.** The Smithsonian’s list dates the last eruption to {last_year}, give or take {last_margin} years.[[gvp]] Nobody wrote that eruption down. Every eruption on the list is dated from what it left in the ground: {n_tephra_word} by matching ash layers and {n_rc_word} by radiocarbon.[[gvp]]",
+    "The geologists who found the deposits give a range for the last eruption: between the early 5th century, about 420 CE, and the end of the 7th century.[[barba08]] The Instituto Geofísico uses the same range.[[ig]]",
+    "Chimborazo was once thought to have stopped erupting before the end of the last ice age.[[gvp]] Fieldwork published in 2008 found the deposits of younger eruptions on its east and north sides.[[barba08]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Chimborazo active?",
+   "paras": [
+    "**Ecuador’s Instituto Geofísico classes Chimborazo as potentially active.**[[ig]] In its scheme that is a volcano whose last eruption came within the last 11,700 years; “active” is kept for volcanoes that have erupted since 1532.[[rovig]]",
+    "The institute gives hydrothermal activity as the volcano’s recent activity, and it watches earthquakes, the deformation of the ground and the thermal springs.[[ig]] Chimborazo is one of five volcanoes at the second of its three surveillance levels: more than one seismic station, measurements of how the flanks deform, and occasional sampling of fluids.[[rovig]]",
+    "The institute’s network page shows alert levels, which Ecuador’s risk agency sets, for five volcanoes. Chimborazo is not one of them.[[rovig]]",
+    "The newest items about the volcano on the institute’s site, as listed on {read_date}, date from 2016, when mudflows from melting ice ran down the southeast side (see the section on its ice). A flight with a thermal camera on February 20, 2016 found no warm areas on the upper south and southeast flanks, and in August 2016 one of the institute’s specialists said the volcano’s internal activity had not increased.[[igtag]][[ig1372]]",
+    "Some references still call Chimborazo inactive; the Library of Congress page cited here does.[[loc]] It has not erupted in written history. Its deposits record {n_all} eruptions since about {oldest}, the latest about {quiet_number} years ago.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Chimborazo?",
+   "paras": [
+    "The Smithsonian lists Chimborazo as a [stratovolcano](/types-of-volcanoes) whose main rock is {rock}.[[gvp]] The Instituto Geofísico calls it a compound stratovolcano: three volcanoes built one after another on the same ground.[[ig]]",
+    "The first, the Basal Edifice, was active from about 120,000 to 60,000 years ago.[[sam12]] Between about 65,000 and 60,000 years ago one side of it collapsed. The avalanche of rock spread over about 108 square miles (280 sq km) of the Riobamba basin at an average thickness of about 130 ft (40 m), and reached the Chambo River more than 21 miles (35 km) southeast of the volcano.[[sam12]] The city of Riobamba stands on that deposit.[[ig]][[gvp]]",
+    "The Smithsonian’s summary, whose newest reference is from 2008, dates the collapse to about 35,000 years ago.[[gvp]] The older age used above comes from a 2012 study, which the Instituto Geofísico follows.[[sam12]][[ig]]",
+    "A second volcano then grew on the east side of the scar and was active until about 35,000 years ago; the Politécnica and Martínez summits are what is left of it. The third, the Young Cone, grew to the west and carries the highest summit, Whymper.[[sam12]][[ig]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often has Chimborazo erupted?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} eruptions** of Chimborazo, the oldest about {oldest}.[[gvp]] Their dates are loose: the margins run from {margin_min} to {margin_max} years.[[gvp]]",
+    "The study that first described the deposits, published in 2008, found its most complete exposure about 3 miles (5 km) from the summit crater: a stack about 15 ft (4.5 m) thick. It holds seven layers of ash laid down by flows, most of them judged to be pyroclastic surges (fast blasts of ash and gas that hug the ground), and four layers of ash fall, with old soils between them.[[barba08]]",
+    "From six radiocarbon dates, its authors concluded that the eruptions came at fairly regular intervals between about 8,000 and 1,000 years ago.[[barba08]] The 2012 study counts at least seven eruptions in the last 7,000 years, about 1,000 years apart on average.[[sam12]] They were small eruptions, made violent where magma met water, probably from the ice cap.[[sam12]][[barba08]]",
+    "The Smithsonian’s summary adds that the surges reached down to about 12,500 ft (3,800 m).[[gvp]]",
+    "With the last eruption about {quiet_number} years back and an average gap of about 1,000 years, the authors of the 2012 study conclude that Chimborazo has to be treated as potentially active.[[sam12]]"
+   ]
+  },
+  {
+   "id": "ice",
+   "h": "What is happening to Chimborazo’s ice?",
+   "aside": "callouts",
+   "paras": [
+    "The ice cap is shrinking. In August 2016 a glaciologist of INAMHI, Ecuador’s weather and hydrology institute, said the glaciers had lost 69 percent of their area since 1962 and covered 3.3 square miles (8.5 sq km).[[ig1372]]",
+    "A 2012 study found the glaciers reaching down to about 15,700 to 16,400 ft (4,800 to 5,000 m) on the east and northeast sides and to 18,000 to 19,700 ft (5,500 to 6,000 m) on the west.[[sam12]]",
+    "Between December 2015 and April 2016 the melting turned destructive. At least four mudflows came down the Yambo Rumi gully on the southeast side and destroyed fields and pasture, roads, a stretch of railway and a section of a PetroEcuador pipeline.[[ig1372]] The largest had volumes of about 390,000 to 920,000 cubic yards (300,000 to 700,000 cubic meters).[[ig1372]]",
+    "The biggest, on April 29, 2016, hit the community of Santa Lucía de Chuquipogyo. It left boulders up to 10 ft (3 m) across, spread more than 650 ft (200 m) wide in places, damaged crops and buildings, and carried mud into several houses.[[igtag]]",
+    "The two institutes named three causes: a warming climate, the El Niño that began in 2015, and ash from the neighboring volcano Tungurahua, about 25 miles (40 km) away. In November 2015, a month before the first mudflow, 80 to 160 grams of its ash fell on each square meter of the glacier.[[ig1372]]",
+    "The volcano itself was ruled out. A flight with a thermal camera on February 20, 2016 found no warm areas on the upper south and southeast flanks or near the glacier named as the source of the water.[[igtag]] In August 2016 the institutes gave local authorities a hazard map for mudflows in that gully. About 1,000 residents would be affected by them, by the institute’s count.[[ig1372]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Chimborazo dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Instituto Geofísico and Ecuador’s risk management authorities.",
+   "paras": [
+    "The Instituto Geofísico rates the potential risk as high and names three reasons: the ice cap on the summit, the steep flanks, and the populated areas of Riobamba and Ambato nearby.[[ig]]",
+    "The studies single out the ice. An eruption would melt part of it and could send mudflows, called lahars, far down the valleys.[[sam12]] The two oldest and strongest eruptions in the studied deposits left thick lahar deposits on the north and west flanks.[[barba08]]",
+    "The 2012 study also lists pyroclastic surges and flows, ash fall, and the collapse of a flank, which it says cannot be excluded because a fault system runs nearby.[[sam12]]",
+    "About 463,000 people live within 19 miles (30 km) of the volcano and about 2.3 million within 62 miles (100 km), by the figures on the Smithsonian’s page.[[gvp]] The hazard map the institute lists as in force for the volcano dates from 1990.[[igmap]]",
+    "NOAA’s database of significant eruptions has no entry for Chimborazo.[[noaa]]"
+   ]
+  },
+  {
+   "id": "climb",
+   "h": "Who first climbed Chimborazo?",
+   "paras": [
+    "The first recorded ascent was in 1880, by the English climber Edward Whymper with the Italian guides Louis Carrel and Jean-Antoine Carrel. Critics doubted him, so he climbed it again later that year. The highest summit carries his name.[[loc]]",
+    "Alexander von Humboldt had tried in 1802. On June 23 he, Aimé Bonpland and the Ecuadorian Carlos Montúfar reached 19,286 ft (5,878 m), higher than any European had recorded, and turned back about 1,000 ft (300 m) below the top with altitude sickness.[[loc]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Chimborazo’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Chimborazo has **{n_all} confirmed eruptions**, all dated from deposits. It gives none of them an end date or an explosivity rating.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "the ice in 2016",
+ "callouts": [
+  {
+   "number": "69",
+   "unit": "percent",
+   "text": "Glacier area lost between 1962 and 2016. About 3.3 square miles (8.5 sq km) of ice were left.",
+   "source": "Source: INAMHI, reported by the Instituto Geofísico, 2016.[[ig1372]]"
+  },
+  {
+   "number": "4",
+   "unit": "mudflows",
+   "text": "At least this many ran down one gully on the southeast side between December 2015 and April 2016.",
+   "source": "Source: Instituto Geofísico, 2016.[[ig1372]]"
+  }
+ ],
+ "faq_h": "Chimborazo questions and answers",
+ "faq": [
+  [
+   "How tall is Chimborazo?",
+   "{summit_ft} ft ({summit_m} m) above sea level, the figure of Ecuador’s Instituto Geofísico. The Smithsonian lists 20,541 ft ({gvp_summit_m} m) and a NOAA page uses 20,564 ft (6,268 m)."
+  ],
+  [
+   "Is Chimborazo taller than Mount Everest?",
+   "Not from sea level: Everest is 29,029 ft (8,848 m) and Chimborazo {summit_ft} ft. Measured from the center of the Earth, Chimborazo’s summit is farther out, by more than 6,800 ft (2,072 m) on NOAA’s figures, because the planet bulges at the Equator."
+  ],
+  [
+   "Where is Chimborazo?",
+   "In central Ecuador, on the western range of the Andes, about 93 miles (150 km) south of Quito and about 19 miles (30 km) northwest of Riobamba. Its summit is one degree south of the Equator."
+  ],
+  [
+   "Is Chimborazo an active volcano?",
+   "Ecuador’s Instituto Geofísico classes it as potentially active: it has not erupted since 1532, the institute’s line for “active,” but it has erupted within the last 11,700 years. Some references call it inactive."
+  ],
+  [
+   "When did Chimborazo last erupt?",
+   "About {quiet_number} years ago. The Smithsonian’s list dates the eruption to {last_year}, give or take {last_margin} years, and the study that found its deposits puts it between about 420 CE and the end of the 7th century."
+  ],
+  [
+   "Will Chimborazo erupt again?",
+   "Nobody can say when. Studies of its deposits found eruptions about 1,000 years apart on average over the last 8,000 years, and the last was about {quiet_number} years ago, so their authors and the Instituto Geofísico treat it as a volcano that can erupt again."
+  ],
+  [
+   "What type of volcano is Chimborazo?",
+   "A stratovolcano. The Instituto Geofísico describes it as a compound one, built as three volcanoes in succession; the youngest carries the highest summit, Whymper."
+  ],
+  [
+   "Does Chimborazo have glaciers?",
+   "Yes, but they are shrinking. In 2016 Ecuador’s weather and hydrology institute put the ice at 3.3 square miles (8.5 sq km), 69 percent less than in 1962."
+  ],
+  [
+   "Who was the first to climb Chimborazo?",
+   "Edward Whymper, with the guides Louis and Jean-Antoine Carrel, in 1880. Alexander von Humboldt had reached 19,286 ft (5,878 m) on June 23, 1802 before turning back."
+  ],
+  [
+   "How many times has Chimborazo erupted?",
+   "The Smithsonian’s list has {n_all} eruptions, the oldest about {oldest}. A 2012 study counts at least seven in the last 7,000 years."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Chimborazo record, eruption list, summary and population figures",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=352071"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "ig",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Chimborazo (volcano profile, in Spanish; undated)",
+   "url": "https://www.igepn.edu.ec/chimborazo"
+  },
+  {
+   "id": "rovig",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Red de Observatorios Vulcanológicos: surveillance levels and volcano categories (in Spanish; undated)",
+   "url": "https://www.igepn.edu.ec/red-de-observatorios-vulcanologicos-rovig"
+  },
+  {
+   "id": "igtag",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Reports and news items tagged “chimborazo”, among them the overflight report of February 22, 2016 and the field inspection of May 24, 2016 (in Spanish)",
+   "url": "https://www.igepn.edu.ec/servicios/noticias/tag/chimborazo"
+  },
+  {
+   "id": "ig1372",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Entrega oficial del “Mapa de Amenazas Potenciales por Lahares Secundarios Quebrada Yambo Rumi del Volcán Chimborazo” (August 8, 2016; in Spanish)",
+   "url": "https://www.igepn.edu.ec/servicios/noticias/1372-entrega-oficial-del-mapa-de-amenazas-potenciales-por-lahares-secundarios-quebrada-yambo-rumi-del-volcan-chimborazo"
+  },
+  {
+   "id": "ig16",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Equipo franco-ecuatoriano colocó un GPS en la cima del volcán Chimborazo (February 11, 2016; in Spanish)",
+   "url": "https://www.igepn.edu.ec/servicios/noticias/1268-equipo-franco-ecuatoriano-coloco-un-gps-en-la-cima-del-volcan-chimborazo"
+  },
+  {
+   "id": "igmap",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (Ecuador)",
+   "title": "Mapa de Amenaza Chimborazo Vigente 1990 (Beate, von Hillebrandt and Hall, 1990; scale 1:50,000)",
+   "url": "https://www.igepn.edu.ec/chimborazo-mapa-de-amenaza-volcanica"
+  },
+  {
+   "id": "sam12",
+   "publisher": "Samaniego, Barba, Robin, Fornari and Bernard, Journal of Volcanology and Geothermal Research 221–222, 2012",
+   "title": "Eruptive history of Chimborazo volcano (Ecuador): A large, ice-capped and hazardous compound volcano in the Northern Andes, doi:10.1016/j.jvolgeores.2012.01.014 (PDF on the Instituto Geofísico’s site)",
+   "url": "https://www.igepn.edu.ec/publicaciones-vulcanologia/bibl-chimborazo/18843-samaniego-p-barba-d-robin-c-fornari-m-bernard-b-2012/file"
+  },
+  {
+   "id": "barba08",
+   "publisher": "Barba, Robin, Samaniego and Eissen, Journal of Volcanology and Geothermal Research 176, 2008",
+   "title": "Holocene recurrent explosive activity at Chimborazo volcano (Ecuador), doi:10.1016/j.jvolgeores.2008.05.004 (PDF on the Instituto Geofísico’s site)",
+   "url": "https://www.igepn.edu.ec/publicaciones-vulcanologia/bibl-chimborazo/18844-barba-d-robin-c-samaniego-p-eissen-j-p-2008/file"
+  },
+  {
+   "id": "nos",
+   "publisher": "NOAA National Ocean Service",
+   "title": "What is the highest point on Earth as measured from Earth’s center? (last updated September 23, 2026)",
+   "url": "https://oceanservice.noaa.gov/facts/highestpoint.html"
+  },
+  {
+   "id": "loc",
+   "publisher": "Library of Congress, Geography and Map Division",
+   "title": "Extremities of the Earth: Farthest Point from the Center of the Earth, by Julie Stoner (November 5, 2020)",
+   "url": "https://blogs.loc.gov/maps/2020/11/extremities-of-the-earth-farthest-point-from-the-center-of-the-earth/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** this year minus 550, rounded to the nearest {quiet_round} years. The Smithsonian dates the last eruption to {last_year} with a margin of {last_margin} years either way, so a count to the year would claim more than is known.",
+  "**{summit_ft} ft ({summit_m} m):** the summit height the Instituto Geofísico gives. The Smithsonian’s list has {gvp_summit_m} m, and NOAA’s page and the 2012 study use 6,268 m.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "**about 463,000 and about 2.3 million people:** the Smithsonian’s page prints 463,426 within 30 km and 2,325,666 within 100 km, without a date.",
+  "Feet, miles, square and cubic miles and cubic yards are converted from the metric figures in the sources and rounded, except where a source prints both. Humboldt’s height is the reverse: the Library of Congress prints feet."
+ ],
+ "expect": {
+  "last_year": "550 CE",
+  "last_margin": "150",
+  "quiet_round": "100",
+  "n_all": "6",
+  "n_rc_word": "three",
+  "n_tephra_word": "three",
+  "n_observed": "0",
+  "oldest": "7500 BCE",
+  "margin_min": "75",
+  "margin_max": "2,500",
+  "noaa_n": "0",
+  "summit_m": "6,263",
+  "summit_ft": "20,548",
+  "gvp_summit_m": "6,261",
+  "ground_m": "3,800",
+  "ground_ft": "12,500",
+  "rise_m": "2,450",
+  "rise_ft": "8,000",
+  "type": "Stratovolcano",
+  "rock": "andesite to basaltic andesite",
+  "coords": "1.469°S, 78.817°W"
+ },
+ "observatory_read": "2026-11-21",
+ "since_check": "**Potentially active, no eruption in written history.** The Instituto Geofísico’s page on Chimborazo, read on {read_date}, classes the volcano as potentially active and gives hydrothermal activity as its recent activity; the page carries no date.[[ig]] The institute shows no alert level for it, and the newest items about the volcano on its site are from 2016.[[rovig]][[igtag]]",
+ "reviewed": null
+}

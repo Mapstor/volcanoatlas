@@ -195,6 +195,16 @@ body:has(.va-page) > footer {
   width: calc(88px * var(--va-digits, 3));
   height: 120px;
 }
+/* a number in the thousands (Chimborazo: "1,500 years ago") is set smaller again, so it still shares a line with its unit */
+.va-yearsnum-xl {
+  font-size: 92px;
+}
+.va-yearsnum-xl .va-ring {
+  left: -28px;
+  top: -9px;
+  width: calc(67px * var(--va-digits, 4.3));
+  height: 106px;
+}
 .va-hand {
   font-family: 'Caveat', cursive;
   font-weight: 700;
@@ -943,6 +953,15 @@ body:has(.va-page) > footer {
     width: calc(65px * var(--va-digits, 3));
     height: 90px;
   }
+  .va-yearsnum-xl {
+    font-size: 64px;
+  }
+  .va-yearsnum-xl .va-ring {
+    left: -20px;
+    top: -9px;
+    width: calc(47px * var(--va-digits, 4.3));
+    height: 82px;
+  }
   .va-note1 {
     font-size: 27px;
   }
@@ -1008,6 +1027,15 @@ body:has(.va-page) > footer {
     top: -2px;
     width: calc(59px * var(--va-digits, 3));
     height: 82px;
+  }
+  .va-yearsnum-xl {
+    font-size: 58px;
+  }
+  .va-yearsnum-xl .va-ring {
+    left: -18px;
+    top: -8px;
+    width: calc(43px * var(--va-digits, 4.3));
+    height: 74px;
   }
 }
 

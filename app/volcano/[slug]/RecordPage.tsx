@@ -109,6 +109,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
           ? `${gvpFirst} ${baseBy}.${ref(baseSource)}`
           : `Source: Smithsonian Global Volcanism Program.${ref('gvp')}`;
   const factsFrom = data.ground?.from === 'etopo' ? `${factsSource} Height above the land around it: calculated from NOAA’s elevation grid.${ref('etopo')}` : factsSource;
+  // the headline number: a number in the thousands (Chimborazo: "1,500") is set smaller, and its ring is as wide as its
+  // digits, with the thousands separator counted as a third of one
+  const bigNumber = plain(profile.big.number, ctx);
+  const bigThousands = bigNumber.includes(',');
+  const bigDigits = bigThousands ? bigNumber.replace(/[^0-9]/g, '').length + 0.3 : bigNumber.length;
   const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
   const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
 
@@ -354,12 +359,12 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
 
           <div className="va-big">
             <p className="va-since">{plain(profile.big.line, ctx).replace(/\bat least\b/g, 'at\u00a0least')}</p>
-            <p className={`va-years${plain(profile.big.number, ctx).length >= 3 ? ' va-years-long' : ''}`}>
+            <p className={`va-years${bigNumber.length >= 3 ? ' va-years-long' : ''}`}>
               <span
-                className={`va-yearsnum${plain(profile.big.number, ctx).length >= 3 ? ' va-yearsnum-long' : ''}`}
-                style={{ ['--va-digits' as string]: plain(profile.big.number, ctx).length }}
+                className={`va-yearsnum${bigNumber.length >= 3 ? ' va-yearsnum-long' : ''}${bigThousands ? ' va-yearsnum-xl' : ''}`}
+                style={{ ['--va-digits' as string]: bigDigits }}
               >
-                {plain(profile.big.number, ctx)}
+                {bigNumber}
                 <svg className="va-ring" viewBox="0 0 220 150" preserveAspectRatio="none" aria-hidden="true">
                   <path
                     className="va-ringpath"
