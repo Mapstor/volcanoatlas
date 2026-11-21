@@ -305,12 +305,13 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
   );
 }
 
-/** The cut-open drawing that fits the profile: an island cone, a shield pressed into the sea floor, a volcano on land, or a summit caldera. */
+/** The cut-open drawing that fits the profile: an island cone, a shield pressed into the sea floor, a volcano on land, a summit caldera, or a caldera flooded by the sea. */
 export function SectionDrawing({ data, compact = false }: { data: RecordData; compact?: boolean }) {
   const kind = data.profile.section.kind;
   if (kind === 'shield') return <ShieldDrawing data={data} compact={compact} />;
   if (kind === 'land') return <LandDrawing data={data} compact={compact} />;
   if (kind === 'caldera') return <CalderaDrawing data={data} compact={compact} />;
+  if (kind === 'lagoon') return <LagoonDrawing data={data} compact={compact} />;
   return <ConeDrawing data={data} compact={compact} />;
 }
 
@@ -760,6 +761,135 @@ function CalderaDrawing({ data, compact }: { data: RecordData; compact: boolean 
             />
             <text className="va-hand" x={10} y={pitY - 54} fontSize={23} fill={PAL.pencil}>{lines[0]}</text>
             <text className="va-hand" x={10} y={pitY - 30} fontSize={23} fill={PAL.pencil}>{lines[1]}</text>
+          </>
+        );
+      })()}
+    </svg>
+  );
+}
+
+/**
+ * A caldera flooded by the sea, cut across from one wall to the other: the old volcano's ring of cliffs, the water
+ * inside and the young island in the middle. Four heights are to one scale: the volcano's highest point on the rim,
+ * the top of the cliffs, the island and the deepest water. Widths and shapes are schematic. Only the water moves:
+ * the drawing has no vent, so it is for a volcano that the Smithsonian does not list as erupting.
+ */
+function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
+  const { profile, stats } = data;
+  const sec = profile.section;
+  const lag = sec.lagoon;
+  if (!lag) throw new Error(`record profile ${profile.slug}: a lagoon drawing needs section.lagoon`);
+  if (stats.current) throw new Error(`record profile ${profile.slug}: the lagoon drawing has no vent to show an eruption in progress`);
+  const summit = data.summit?.m ?? lag.wall.m;
+  const summitFt = data.summit?.ft ?? roundTo(feet(lag.wall.m), 10);
+  const ft = (m: number) => fmt(roundTo(feet(m), 10));
+  const w = compact ? 340 : 560;
+  const sx = w / 560;
+  const fs = compact ? 12.5 : 14;
+  const bold = fs + (compact ? 1.5 : 2);
+  const line = fs + 3;
+  const top = compact ? 52 : 70;
+  const high = Math.max(summit, lag.wall.m);
+  const k = (compact ? 250 : 300) / (high + lag.depth.m);
+  const seaY = top + high * k;
+  const Y = (m: number) => seaY - m * k;
+  const floorY = Y(-lag.depth.m);
+  const h = Math.round(floorY + (compact ? 26 : 32));
+  const rimY = Y(high);
+  const wallY = Y(lag.wall.m);
+  const islandY = Y(lag.island.m);
+  // schematic plan, left to right: outer slope, high point, cliff, the wide basin, the island's shield, the narrow
+  // basin, the far cliff, outer slope
+  const xHigh = 56 * sx;
+  const xEdge = 104 * sx;
+  const xShore = 118 * sx;
+  const xFloor0 = 150 * sx;
+  const xK0 = 226 * sx;
+  const xT0 = 340 * sx;
+  const xT1 = 374 * sx;
+  const xK1 = 458 * sx;
+  const xFloor1 = 478 * sx;
+  const xShoreR = 500 * sx;
+  const xEdgeR = 514 * sx;
+  const ground =
+    `M0 ${f(Y(lag.wall.m * 0.5))} L${f(xHigh)} ${f(rimY)} L${f(xEdge)} ${f(wallY)} L${f(xShore)} ${f(seaY)} L${f(xFloor0)} ${f(floorY)} ` +
+    `L${f(xFloor1)} ${f(floorY)} L${f(xShoreR)} ${f(seaY)} L${f(xEdgeR)} ${f(wallY)} L${w} ${f(Y(lag.wall.m * 0.78))}`;
+  // the young lava shield: gentle at its foot on the caldera floor, steeper under the island
+  const hk = floorY - islandY;
+  const left: Curve = [
+    [xK0, floorY],
+    [xK0 + (xT0 - xK0) * 0.5, floorY - hk * 0.1],
+    [xT0 - (xT0 - xK0) * 0.3, islandY + hk * 0.22],
+    [xT0, islandY],
+  ];
+  const right: Curve = [
+    [xT1, islandY],
+    [xT1 + (xK1 - xT1) * 0.3, islandY + hk * 0.22],
+    [xK1 - (xK1 - xT1) * 0.5, floorY - hk * 0.1],
+    [xK1, floorY],
+  ];
+  const shield = `M${f(left[0][0])} ${f(left[0][1])} ${cubic(left)} L${f(right[0][0])} ${f(right[0][1])} ${cubic(right)}`;
+  const xc = (xT0 + xT1) / 2;
+  // the depth bracket stands in the wide basin, its label beside it
+  const xb = xFloor0 + (compact ? 9 : 16);
+  const midY = (seaY + floorY) / 2;
+  const label =
+    `Section drawing of ${profile.name}: cliffs about ${fmt(lag.wall.m)} m high ring a caldera flooded by the sea, ${fmt(lag.depth.m)} m deep at its deepest. ` +
+    `${lag.island.label} rises ${fmt(lag.island.m)} m above the water in the middle. The volcano's highest point is ${fmt(summit)} m above sea level.`;
+
+  return (
+    <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
+      <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
+      <rect x={0} y={seaY} width={w} height={h - seaY} fill={PAL.sea} />
+      <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
+      <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
+      <line x1={0} y1={seaY} x2={w} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+      {/* the old volcano under and around the water, then the young shield that has grown on the caldera floor */}
+      <path d={`${ground} V${h} H0 Z`} fill={PAL.crust} />
+      <path d={`${shield} Z`} fill={PAL.rock} />
+      <path d={ground} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      <path d={shield} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+
+      {/* the volcano's highest point, on the rim */}
+      <line x1={xHigh} y1={rimY - 3} x2={xHigh} y2={rimY - 9} stroke={PAL.ink} strokeWidth={0.8} />
+      <text x={compact ? 6 : 10} y={rimY - 13 - line * (compact ? 1 : 2)} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(summitFt)} ft</text>
+      <text x={compact ? 6 : 10} y={rimY - 12 - (compact ? 0 : line)} fontSize={fs} fill={PAL.ink}>({fmt(summit)} m)</text>
+      {!compact && <text x={10} y={rimY - 11} fontSize={fs} fill={PAL.ink}>above sea level</text>}
+
+      {/* the island */}
+      <text x={xc} y={islandY - 10 - line} textAnchor="middle" fontSize={bold} fontWeight={700} fill={PAL.ink}>{compact ? (lag.island.short ?? lag.island.label) : lag.island.label}</text>
+      <text x={xc} y={islandY - 9} textAnchor="middle" fontSize={fs} fill={PAL.ink}>{compact ? `${ft(lag.island.m)} ft` : `${ft(lag.island.m)} ft (${fmt(lag.island.m)} m)`}</text>
+
+      {/* the deepest water */}
+      <path d={`M${f(xb)} ${f(seaY)} V${f(floorY)} M${f(xb - 5)} ${f(floorY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      <text x={xb + 9} y={midY - line + 4} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(lag.depth.m)} ft</text>
+      <text x={xb + 9} y={midY + 5} fontSize={fs} fill={PAL.ink}>({fmt(lag.depth.m)} m)</text>
+      <text x={xb + 9} y={midY + 5 + line} fontSize={fs - 0.5} fill={PAL.ink}>{compact ? (lag.depth.short ?? lag.depth.label) : lag.depth.label}</text>
+
+      {!compact && (
+        <>
+          {/* the cliffs, named above the far wall */}
+          <line x1={xEdgeR} y1={wallY - 3} x2={xEdgeR} y2={wallY - 9} stroke={PAL.ink} strokeWidth={0.8} />
+          <text x={w - 8} y={wallY - 13 - line} textAnchor="end" fontSize={bold - 1} fontWeight={700} fill={PAL.ink}>{ft(lag.wall.m)} ft ({fmt(lag.wall.m)} m)</text>
+          <text x={w - 8} y={wallY - 12} textAnchor="end" fontSize={fs - 0.5} fill={PAL.ink}>{lag.wall.label}</text>
+          <text className="va-it" x={xShore + 16} y={seaY - 7} fontSize={fs} fill={PAL.ink}>sea level</text>
+        </>
+      )}
+      {!compact && sec.note && (() => {
+        // the pencil note stands in the sky over the wide basin, under the island's name; its arrow ends on the
+        // island's shoulder, clear of the name
+        const words = fill(sec.note, data.ctx);
+        const from = Math.min(xT0 - 34, xShore + 14 + words.length * 8.6 + 10);
+        return (
+          <>
+            <path
+              d={`M${f(from)} ${f(islandY + 8)} C${f(from + 14)} ${f(islandY + 6)} ${f(xT0 - 26)} ${f(islandY + 14)} ${f(xT0 - 15)} ${f(islandY + 32)}`}
+              fill="none"
+              stroke={PAL.pencil}
+              strokeWidth={1.4}
+              strokeLinecap="round"
+            />
+            <text className="va-hand" x={xShore + 14} y={islandY + 13} fontSize={23} fill={PAL.pencil}>{words}</text>
           </>
         );
       })()}

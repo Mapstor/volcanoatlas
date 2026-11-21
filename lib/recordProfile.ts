@@ -49,6 +49,14 @@ export interface Level {
   short?: string;
 }
 
+/** A height or depth of a flooded caldera: meters as the source prints them, and the words drawn beside it. */
+export interface LagoonLevel {
+  m: number;
+  label: string;
+  /** shorter words for the phone drawing */
+  short?: string;
+}
+
 export interface RecordProfile {
   slug: string;
   volcano_number: number;
@@ -106,11 +114,19 @@ export interface RecordProfile {
   map_label?: 'below' | 'above' | 'left';
   /**
    * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
-   * sea floor), "land" (a volcano standing on land or rising straight from the sea surface) or "caldera" (the summit
-   * cut open: rim, caldera floor, a collapse pit and the lava that has refilled it).
+   * sea floor), "land" (a volcano standing on land or rising straight from the sea surface), "caldera" (the summit
+   * cut open: rim, caldera floor, a collapse pit and the lava that has refilled it) or "lagoon" (a caldera flooded by
+   * the sea, cut across: the ring of cliffs, the water inside and the young island in the middle).
    */
   section: {
-    kind?: 'cone' | 'shield' | 'land' | 'caldera';
+    kind?: 'cone' | 'shield' | 'land' | 'caldera' | 'lagoon';
+    /**
+     * Lagoon: heights in meters from the source named in the caption, each with the words drawn beside it. `wall` is
+     * the top of the cliffs above the water, `depth` the deepest water inside the caldera (a positive number) and
+     * `island` the top of the young island in the middle. The volcano's summit is drawn as the high point of the rim.
+     * Feet are converted and rounded to 10; the text takes the same figures from {wall_ft}, {depth_ft}, {island_ft}.
+     */
+    lagoon?: { wall: LagoonLevel; depth: LagoonLevel; island: LagoonLevel };
     /**
      * Caldera: heights above sea level in meters with the feet the source prints, each with the words drawn beside
      * it. `fills` are the tops of the lava layers that refilled the pit, oldest first; the last one is the surface.
@@ -424,6 +440,14 @@ export function buildRecordData(profile: RecordProfile): RecordData {
       set('drop_ft', fmt(cut.before.ft - cut.pit.ft));
     }
     if (cut.fountain) level('fountain', cut.fountain);
+  }
+  // a flooded caldera's levels, so the text prints the same numbers as the drawing
+  const lagoon = profile.section.lagoon;
+  if (lagoon) {
+    for (const [key, level] of [['wall', lagoon.wall], ['depth', lagoon.depth], ['island', lagoon.island]] as const) {
+      set(`${key}_m`, fmt(level.m));
+      set(`${key}_ft`, fmt(roundTo(feet(level.m), 10)));
+    }
   }
   if (profile.section.former) {
     set('former_m', fmt(profile.section.former.m));
