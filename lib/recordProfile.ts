@@ -125,7 +125,7 @@ export interface RecordProfile {
    * the sea, cut across: the ring of cliffs, the water inside and the young island in the middle).
    */
   section: {
-    kind?: 'cone' | 'shield' | 'land' | 'caldera' | 'lagoon';
+    kind?: 'cone' | 'shield' | 'land' | 'caldera' | 'lagoon' | 'basin';
     /**
      * Lagoon: heights in meters from the source named in the caption, each with the words drawn beside it. `wall` is
      * the top of the cliffs above the water, `depth` the deepest water inside the caldera (a positive number) and
@@ -137,6 +137,14 @@ export interface RecordProfile {
      * `former` (below) draws an earlier, higher top of the cone as a dashed outline. This layout has a vent.
      */
     lagoon?: { wall: LagoonLevel; depth: LagoonLevel; island: LagoonLevel; edge?: boolean };
+    /**
+     * Basin: a dry crater or caldera on land with lava domes on its floor (Pululahua), cut across. Meters from the
+     * sources named in the caption, each with the words drawn beside it: `floor` is the height of the crater floor above
+     * sea level, `depth` how far the floor lies below the rim and `dome` how far the domes rise above the floor. The
+     * volcano's summit is drawn as the high point beside the rim. Feet are converted and rounded to 10; the text takes
+     * the same figures from {floor_ft}, {depth_ft}, {dome_ft}.
+     */
+    basin?: { floor: LagoonLevel; depth: LagoonLevel; dome: LagoonLevel };
     /**
      * Caldera: heights above sea level in meters with the feet the source prints, each with the words drawn beside
      * it. `fills` are the tops of the lava layers that refilled the pit, oldest first; the last one is the surface.
@@ -434,6 +442,18 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('quiet_span', `about ${fmt(since)} years`);
     set('quiet_round', fmt(step));
   }
+  // a last eruption whose year the record marks with a question mark and gives no margin (Pululahua: "0290 ?"): the year
+  // with its era and the word uncertain, and the years since to the nearest 100
+  if (!stats.current && stats.lastYearQuestioned !== null) {
+    const year = stats.lastYearQuestioned;
+    const since = roundTo(new Date().getUTCFullYear() - year - (year < 0 ? 1 : 0), 100);
+    set('last_year', yearText(year));
+    set('last_span', `about ${yearText(year)} (date uncertain)`);
+    set('quiet_number', fmt(since));
+    set('quiet_unit', 'years');
+    set('quiet_span', `about ${fmt(since)} years`);
+    set('quiet_round', '100');
+  }
   if (profile.facts.count_from) {
     set('since_year', profile.facts.count_from);
     set('n_since', stats.all.filter((e) => e.sy >= (profile.facts.count_from as number)).length);
@@ -516,6 +536,13 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     if (cut.fountain) level('fountain', cut.fountain);
   }
   // a flooded caldera's levels, so the text prints the same numbers as the drawing
+  const basin = profile.section.basin;
+  if (basin) {
+    for (const [key, level] of [['floor', basin.floor], ['depth', basin.depth], ['dome', basin.dome]] as const) {
+      set(`${key}_m`, fmt(level.m));
+      set(`${key}_ft`, fmt(roundTo(feet(level.m), 10)));
+    }
+  }
   const lagoon = profile.section.lagoon;
   if (lagoon) {
     for (const [key, level] of [['wall', lagoon.wall], ['depth', lagoon.depth], ['island', lagoon.island]] as const) {

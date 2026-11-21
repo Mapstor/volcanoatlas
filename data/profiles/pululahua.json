@@ -1,0 +1,311 @@
+{
+ "slug": "pululahua",
+ "volcano_number": 352011,
+ "name": "Pululahua",
+ "country": "Ecuador",
+ "title": "Pululahua Volcano: Last Eruption, Crater, Height & Location",
+ "description": "Pululahua, the crater volcano north of Quito, last erupted 1,700 to 2,200 years ago. How the crater formed, who lives in it, its height and its record.",
+ "h1": "Pululahua Volcano",
+ "facts": {
+  "ground": "etopo"
+ },
+ "big": {
+  "line": "Last eruption on record: about {last_year}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "or 2,200, says Ecuador’s institute",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting.** Ecuador’s Instituto Geofísico lists Pululahua as potentially active and gives hydrothermal activity as its only recent activity. By its account the volcano has been inactive since its last lava domes formed, more than two thousand years ago.[[ig]] The institute’s page was read on {read_date}.",
+ "lede": "Pululahua is a volcano without a peak: a wide crater with lava domes inside it and beside it, almost on the equator, about ten miles north of Quito. There are farms on the crater floor. Its last eruption came about two thousand years ago, and the sources differ on the date and on how the crater was made. Below: where it is, whether it is active, when it last erupted, how the crater formed, who lives inside it, its height and its record.",
+ "answer": "**Pululahua last erupted roughly 1,700 to 2,200 years ago.** The Smithsonian’s list dates its newest eruption to about {last_year}, with a question mark. Ecuador’s Instituto Geofísico puts the last eruption about 2,200 years before the present.[[gvp]][[ig]] The volcano is a **group of lava domes around a crater about 2.5 miles (4 km) wide**, north of Quito, **{summit_ft} ft ({summit_m} m)** high.[[bv22]][[gvp]] A small community lives and farms in the crater.[[herrera]][[tasiguano]]",
+ "timeline": {
+  "from": -5200,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": -4799.5,
+    "label": "4800 BCE"
+   },
+   {
+    "year": -689.5,
+    "label": "690 BCE"
+   }
+  ],
+  "note": "{n_all} eruptions on the list, all dated by radiocarbon",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike is one eruption on the list. The two close together are those of about 690 and 450 BCE, each given with a margin of {margin_max} years: the time when the crater took its shape. The list puts a question mark on the first date and on the last."
+ },
+ "section": {
+  "kind": "basin",
+  "basin": {
+   "floor": {
+    "m": 2400,
+    "label": "crater floor",
+    "short": "floor"
+   },
+   "depth": {
+    "m": 300,
+    "label": "deep",
+    "short": "deep"
+   },
+   "dome": {
+    "m": 450,
+    "label": "lava domes",
+    "short": "domes"
+   }
+  },
+  "note": "farms on the floor",
+  "caption": "Pululahua cut across. The highest point, the crater floor, the depth of the crater and the height of the domes inside it are to one scale; widths and shapes are schematic.[[gvp]][[herrera]][[bv22]]"
+ },
+ "map_zoom": 10,
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Pululahua?",
+   "map": true,
+   "paras": [
+    "Pululahua is in [Ecuador](/volcanoes-in-ecuador), north of the capital, Quito, and almost on the equator: its coordinates are {coords}.[[gvp]] The Smithsonian puts it about 9 miles (15 km) north of Quito, a geology thesis 11 miles (17 km), and Ecuador’s Instituto Geofísico about 12 miles (20 km) north of the city’s urban edge.[[gvp]][[herrera]][[ig]]",
+    "The towns beside it are San Antonio de Pichincha, Calacalí and Pomasqui.[[ig]] The Mitad del Mundo (“Middle of the World”) monument is about 3 miles (5 km) to the southeast.[[herrera]]",
+    "Pululahua is one of {n_country} volcanoes in Ecuador on the Smithsonian’s Holocene list. [Cotopaxi](/volcano/cotopaxi), [Chimborazo](/volcano/chimborazo) and [Guagua Pichincha](/volcano/guagua-pichincha) are three of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Pululahua active?",
+   "paras": [
+    "It is not erupting. Ecuador’s Instituto Geofísico, which watches the country’s volcanoes, lists Pululahua as “potencialmente activo,” potentially active, and names hydrothermal activity as its only recent activity.[[ig]]",
+    "In 2019 the institute put it this way: the last eruptive period was more than 2,200 years ago, the volcano has been at rest since, and its eruptions are estimated to recur about every 5,000 years, so a reawakening in the short term is very unlikely. Because of the uncertainty, the volcano is under permanent instrumental monitoring.[[ig19]]",
+    "The Smithsonian’s page for Pululahua has no weekly report and no bulletin report.[[gvp]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Pululahua last erupt?",
+   "paras": [
+    "There are two answers, about 500 years apart.",
+    "The Smithsonian’s list dates the newest eruption to about {last_year}, from radiocarbon, and puts a question mark on the date. Its summary says the same in other words: the latest dated eruption came from the domes inside the crater about 1,670 years ago and produced lava flows and pyroclastic flows.[[gvp]]",
+    "The Instituto Geofísico gives the last eruption as about 2,200 years before the present. In its account the last thing the volcano did was build a group of lava domes inside the crater, between about 2,400 and 2,200 years ago.[[ig]] A study of 2022 dates those domes to about 2,240 years ago and calls them the end of the activity.[[bv22]]",
+    "This page’s main number follows the Smithsonian’s list, as on every page of this site, and is rounded to the nearest hundred years because of the question mark."
+   ]
+  },
+  {
+   "id": "crater",
+   "h": "How did Pululahua’s crater form?",
+   "aside": "callouts",
+   "paras": [
+    "In a few centuries of violent eruptions, about 2,600 to 2,300 years ago.",
+    "Before that, Pululahua was a field of lava domes. The institute counts two groups of them, built between about 20,000 and 12,000 years ago.[[ig]]",
+    "The institute counts at least six large explosive eruptions between about 2,600 and 2,400 years ago, and says they forced the people of the Cotocollao culture, who lived north of Quito, to move away.[[ig]] The Smithsonian’s list has two eruptions from that time, about 690 and 450 BCE, rated 5 and 4 on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]]",
+    "One of those eruptions happened on a day without wind. A study of 1993 found its pumice spread in a circle around the volcano, over more than 8,400 square miles (22,000 km²).[[pr93]]",
+    "Whether the crater is a caldera is now disputed. A caldera forms when the ground collapses into an emptied magma chamber, and the Smithsonian and the 1993 study call Pululahua one.[[gvp]][[pr93]] The 2022 study, which worked through 70 layers of deposits at one outcrop, concludes that no collapse took place: repeated explosions destroyed the older domes and dug the hollow, in four bursts spread over about 300 years.[[bv22]]",
+    "The same two studies differ on size. The 1993 study estimated 1.2 to 1.4 cubic miles (5 to 6 km³) of magma; the 2022 study puts the whole explosive sequence at about 0.14 cubic miles (0.6 km³).[[pr93]][[bv22]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Do people live inside Pululahua?",
+   "paras": [
+    "Yes. A community called Pululahua lives in the crater. An environmental-engineering thesis of 2024 from Ecuador’s Escuela Politécnica Nacional describes its people as living on the crater of the volcano, inside the reserve; a geology thesis of 2015 from the same university places the old Pululahua hacienda, whose land the community received, in the low part of the caldera.[[tasiguano]][[herrera]] The Smithsonian’s photographs of 1978 already show the crater floor in use for farming.[[gvp]]",
+    "The community is small: the 2024 thesis gives about 58 inhabitants, and 52 for 2018, a newspaper’s figure. It formed in 1964, when the hacienda’s land was handed to its former workers under the agrarian reform, about 1,150 acres (464 hectares) to 110 people.[[tasiguano]][[herrera]]",
+    "Its people live from farming, small livestock and tourism. The 2015 thesis lists broad beans, peas, alfalfa, beans, cabbage, wheat and corn among their crops.[[tasiguano]][[herrera]]",
+    "The crater is also a protected area. A decree of 1966 made the Pondoña hill and the land around it a national park and let the farming go on; a decree of 1978 renamed it the Pululahua Geobotanical Reserve; its final limits date from 1985. The reserve covers about 8,360 acres (3,383 hectares).[[herrera]] It marked 53 years in February 2019.[[ig19]]",
+    "Visitors come for walks and horseback rides, and the crater is busy on weekends.[[herrera]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Pululahua?",
+   "paras": [
+    "The Instituto Geofísico of the Escuela Politécnica Nacional, in Quito. Its page lists three things it follows at Pululahua: earthquakes, changes in the shape of the ground, and the hot springs.[[ig]]",
+    "A geology thesis of 2015 places hot springs where the Río Blanco rises, at about 7,280 ft (2,220 m). That river drains the crater through the gap in its western wall.[[herrera]][[gvp]]",
+    "The hazard map the institute lists as in force for Pululahua dates from 1988.[[igmap]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Pululahua?",
+   "paras": [
+    "The Smithsonian gives **{summit_ft} ft ({summit_m} m)**; the Instituto Geofísico gives 11,010 ft (3,356 m) for the highest point, the Sincholahua hill.[[gvp]][[ig]] The volcano stands about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]",
+    "The crater floor is flat and lies at about {floor_ft} ft ({floor_m} m).[[herrera]] The 2022 study gives the hollow as about 2.5 miles (4 km) wide and {depth_ft} ft ({depth_m} m) deep.[[bv22]] The lava domes inside it rise as much as {dome_ft} ft ({dome_m} m) above the floor.[[gvp]]",
+    "Other sources size the crater differently: 3 miles (5 km) wide in the Smithsonian’s summary, 2 to 2.5 miles (3 to 4 km) on the institute’s page.[[gvp]][[ig]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Pululahua?",
+   "paras": [
+    "The Smithsonian lists Pululahua as a caldera whose main rock is {rock}.[[gvp]] The Instituto Geofísico calls it a dome complex: it has no cone, and its lava domes are scattered over about 15 square miles (40 km²), with the crater among them.[[ig]]",
+    "A lava dome is a mound of thick lava that piles up over its vent. The 2022 study counts 13 older domes, dated from more than 18,000 to about 11,000 years ago, and three young ones inside the crater.[[bv22]] Pondoña, El Chivo and Pan de Azúcar stand on the crater floor.[[herrera]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Pululahua erupt?",
+   "paras": [
+    "Rarely, and then in bursts. The Smithsonian’s list has {n_all} eruptions in about 7,000 years: one about {oldest}, two when the crater formed, and the last.[[gvp]]",
+    "The Instituto Geofísico estimates that eruptions recur about every 5,000 years.[[ig19]] The 2022 study describes what an active period looks like: four episodes of explosions within about 300 years, with pauses long enough for plants to grow back between them.[[bv22]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Pululahua dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Instituto Geofísico and Ecuador’s risk-management authorities.",
+   "paras": [
+    "Not at present, by the institute’s judgment that a reawakening soon is very unlikely.[[ig19]]",
+    "Its past eruptions were large: the Smithsonian rates one of the eruptions that shaped the crater VEI {max_vei}, and the 1993 study estimates an ash column 13 to 22 miles (21 to 36 km) high.[[gvp]][[pr93]]",
+    "The authors of the 2022 study write that explosive activity on that scale could affect the whole capital and that future activity could put millions of people at risk. They see the largest risk to the people nearby in changes of eruptive style that cannot be foreseen.[[bv22]]",
+    "NOAA’s database of significant eruptions has no entry for Pululahua.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Pululahua’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Pululahua has **{n_all} confirmed eruptions**, all dated by radiocarbon. It gives none of them an end date, and it puts a question mark on the first date and on the last; the table shows those two as “about.”[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "about 2,450 years ago",
+ "callouts": [
+  {
+   "number": "22 miles",
+   "unit": "high",
+   "text": "One estimate of the ash column of the main eruption (36 km). Other estimates in the same study give 13 to 17 miles (21 to 28 km).",
+   "source": "Source: Papale and Rosi, 1993.[[pr93]]"
+  },
+  {
+   "number": "300",
+   "unit": "years",
+   "text": "About how long the eruptions that shaped the crater went on, in four bursts.",
+   "source": "Source: Bulletin of Volcanology, 2022.[[bv22]]"
+  }
+ ],
+ "faq_h": "Pululahua questions and answers",
+ "faq": [
+  [
+   "Is Pululahua an active volcano?",
+   "It is not erupting. Ecuador’s Instituto Geofísico lists it as potentially active, with hydrothermal activity as its only recent activity, and judges a reawakening in the short term very unlikely."
+  ],
+  [
+   "When did Pululahua last erupt?",
+   "About {last_year} by the Smithsonian’s list, which marks the date as uncertain, or about 2,200 years ago by Ecuador’s Instituto Geofísico. Either way, roughly two thousand years ago."
+  ],
+  [
+   "Where is Pululahua?",
+   "In Ecuador, almost on the equator, 9 to 12 miles (15 to 20 km) north of Quito, beside San Antonio de Pichincha and Calacalí. Its coordinates are {coords}."
+  ],
+  [
+   "Do people live in the Pululahua crater?",
+   "Yes. A community of about 50 to 60 people lives there, on land handed to the workers of an old hacienda in 1964. It lives from farming, small livestock and tourism."
+  ],
+  [
+   "How tall is Pululahua?",
+   "{summit_ft} ft ({summit_m} m) by the Smithsonian; 11,010 ft (3,356 m) by Ecuador’s Instituto Geofísico. The crater floor lies at about {floor_ft} ft ({floor_m} m)."
+  ],
+  [
+   "How did the Pululahua crater form?",
+   "In explosive eruptions about 2,600 to 2,300 years ago. Older sources call the crater a caldera, formed by collapse; a study of 2022 concludes that repeated explosions destroyed earlier lava domes and dug it."
+  ],
+  [
+   "Is Pululahua a caldera?",
+   "The Smithsonian lists it as one. A 2022 study in the Bulletin of Volcanology argues that it is not a collapse caldera, and Ecuador’s Instituto Geofísico calls the volcano a dome complex with a crater."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Pululahua",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=352011"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "ig",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (IG-EPN)",
+   "title": "Pululahua (the institute’s page on the volcano, in Spanish)",
+   "url": "https://www.igepn.edu.ec/pululahua"
+  },
+  {
+   "id": "ig19",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (IG-EPN)",
+   "title": "El Instituto Geofísico presente en el 53 Aniversario de la Reserva Geobotánica Pululahua (February 26, 2019)",
+   "url": "https://www.igepn.edu.ec/interactuamos-con-usted/1713-el-instituto-geofisico-presente-en-el-53-aniversario-de-la-reserva-geobotanica-pululahua"
+  },
+  {
+   "id": "igmap",
+   "publisher": "Instituto Geofísico, Escuela Politécnica Nacional (IG-EPN)",
+   "title": "Mapa de Amenaza Pululahua, vigente 1988 (Hall and von Hillebrandt, 1988)",
+   "url": "https://igepn.edu.ec/mapas-historicos/pululahua-1"
+  },
+  {
+   "id": "bv22",
+   "publisher": "Bulletin of Volcanology (Springer), 2022",
+   "title": "The 2.6–2.3 ka explosive eruptive period of the Pululahua dome complex, Ecuador: insights from pyroclast analysis",
+   "url": "https://link.springer.com/article/10.1007/s00445-022-01590-4"
+  },
+  {
+   "id": "pr93",
+   "publisher": "P. Papale and M. Rosi, Bulletin of Volcanology 55, 1993",
+   "title": "A case of no-wind plinian fallout at Pululagua caldera (Ecuador): implications for models of clast dispersal (abstract)",
+   "url": "https://link.springer.com/article/10.1007/BF00304594"
+  },
+  {
+   "id": "herrera",
+   "publisher": "L. F. Herrera Mera, Escuela Politécnica Nacional, 2015",
+   "title": "Geology thesis on the Pululahua Volcanic Complex and its ecosystems (PDF, in Spanish)",
+   "url": "https://bibdigital.epn.edu.ec/bitstream/15000/12418/1/CD-6637.pdf"
+  },
+  {
+   "id": "tasiguano",
+   "publisher": "S. A. Tasiguano Molina, Escuela Politécnica Nacional, 2024",
+   "title": "Environmental-engineering thesis on the community of the Pululahua Geobotanical Reserve (PDF, in Spanish)",
+   "url": "https://bibdigital.epn.edu.ec/bitstream/15000/25776/1/CD%2014477.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** this year minus 290, rounded to the nearest {quiet_round} years. The Smithsonian gives the year from radiocarbon dating and marks it with a question mark, so a count to the year would claim more than is known.",
+  "**roughly 1,700 to 2,200 years ago:** the Smithsonian’s date and the Instituto Geofísico’s “about 2,200 years before the present.”",
+  "**about 7,000 years:** from the first eruption on the Smithsonian’s list, about {oldest}, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "The drawing takes its four heights from three sources: the summit from the Smithsonian, the floor from the 2015 thesis, the depth from the 2022 study and the height of the domes from the Smithsonian’s summary.",
+  "Feet, miles, acres, square miles and cubic miles are converted from the metric figures in the sources and rounded. Ages “before the present” are given as the sources print them."
+ ],
+ "expect": {
+  "last_year": "290 CE",
+  "quiet_round": "100",
+  "n_all": "4",
+  "n_rc": "4",
+  "oldest": "4800 BCE",
+  "max_vei": "5",
+  "margin_max": "150",
+  "noaa_n": "0",
+  "summit_m": "3,360",
+  "summit_ft": "11,024",
+  "type": "Caldera",
+  "rock": "dacite",
+  "coords": "0.0464°N, 78.49°W"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}
