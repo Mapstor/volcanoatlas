@@ -1,0 +1,247 @@
+{
+ "slug": "gaua",
+ "volcano_number": 257020,
+ "name": "Gaua",
+ "country": "Vanuatu",
+ "title": "Gaua Volcano: Mount Garet, Lake Letas and Last Eruption",
+ "description": "Gaua in Vanuatu: Mount Garet’s alert level now, its last eruption in 2022, Lake Letas and the caldera, how often it erupts and every eruption on record.",
+ "h1": "Gaua",
+ "facts": {
+  "count_from": 1962,
+  "summit_m": 797,
+  "summit_ft": 2614,
+  "summit_source": "vmgd",
+  "summit_source_name": "Vanuatu Meteorology and Geo-hazards Department"
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "Alert Level 2: major unrest",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 2, “major unrest”.** The page of Vanuatu’s geohazards department for Mount Garet, read on {read_date}, showed Level 2 on its scale of 0 to 5.[[vmgd]][[vmgdval]] Its newest bulletin for Gaua on the department’s bulletin page, of October 31, 2024, limited the danger zone to the volcanic cone.[[vmgd24]]",
+ "lede": "Gaua is an island volcano in Vanuatu with a lake-filled caldera at its top and an active cone, Mount Garet, inside it. It has no eruption on record before 1962, and its eruptions since have been short and mostly small. Below: its state now, the eruption of 2022, how often it erupts, the dangers, its type and size and every eruption on record.",
+ "answer": "**Gaua is not erupting, but it is restless.** Vanuatu’s geohazards department had Mount Garet, its active cone, at Alert Level 2, “major unrest”, when its page was read on {read_date}.[[vmgd]] Its last eruption, on {last_end}, was a short burst of ash, one day long on the Smithsonian’s list.[[vmgd]][[gvp]] Mount Garet stands **{summit_ft} ft ({summit_m} m)** high.[[vmgd]]",
+ "timeline": {
+  "from": 1955,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1962.5,
+    "label": "1962"
+   },
+   {
+    "year": 1981.5,
+    "label": "1981"
+   },
+   {
+    "year": 2009.7,
+    "label": "2009"
+   },
+   {
+    "year": 2022.3,
+    "label": "2022"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "Mount Garet, in a lake caldera",
+  "caption": "Gaua as a simple outline rising from the sea. Only the height of Mount Garet is to scale, from Vanuatu’s geohazards department; the outline is schematic.[[vmgd]] The real island is about 12 miles (20 km) across and holds a caldera 3.7 by 5.6 miles (6 by 9 km) with Lake Letas and the Mount Garet cone inside.[[gvp]][[vmgd]]"
+ },
+ "map_zoom": 11,
+ "map_label": "below",
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Gaua?",
+   "map": true,
+   "paras": [
+    "Gaua, also called Santa Maria, is an island of Vanuatu about 12 miles (20 km) across, and the whole island is one volcano with a caldera 3.7 by 5.6 miles (6 by 9 km) at its top.[[gvp]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Inside the caldera lie Lake Letas, shaped like a crescent, and the active cone, Mount Garet, in the caldera’s south-west part.[[gvp]][[vmgd]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Gaua erupting now?",
+   "paras": [
+    "No eruption is on the Smithsonian’s list since {last_end}, but the volcano is not quiet.[[gvp]] Vanuatu’s geohazards department had Mount Garet at Alert Level 2, “major unrest”, when its page was read on {read_date}; its levels run from 0 to 5.[[vmgd]][[vmgdval]]",
+    "Its newest bulletin for Gaua on the department’s bulletin page, of October 31, 2024, kept the danger zone to the cone itself and told visitors to expect volcanic gases as they approach it.[[vmgd24]]"
+   ]
+  },
+  {
+   "id": "2022",
+   "h": "What happened in May 2022?",
+   "aside": "callouts",
+   "paras": [
+    "On {last_end}, people at Naveto village, in the north-east of the island, reported a short eruption with loud explosions and a thick column of ash above the summit, the department says.[[vmgd]] The Smithsonian lists it as a one-day eruption rated VEI 1, the latest of {n_since} since {since_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1962",
+   "h": "When did Gaua start erupting?",
+   "paras": [
+    "In 1962, as far as the record goes. That year eruptions began from a vent high on the south-east flank and ended a long dormancy, and all {n_all} confirmed eruptions on the Smithsonian’s list date from {since_year} or later.[[gvp]]",
+    "Its longest eruption on the list lasted from {long1_span}, rated VEI 2; the department dates the ash emissions and explosions of that eruption from November 2009 to December 2010.[[gvp]][[vmgd]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Gaua erupt?",
+   "table": "periods",
+   "paras": [
+    "In short bursts. From {counted_month_year}, when the list’s dates become exact enough to count, to {last_end}, Gaua was erupting on {share} percent of the days.[[gvp]] The longest pause in that time ran from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Gaua dangerous?",
+   "note": "This page is a record, not a safety guide. For warnings, follow the Vanuatu Meteorology and Geo-hazards Department.",
+   "paras": [
+    "The Smithsonian rates none of its eruptions above VEI {max_vei}, and most at VEI 1 or 2.[[gvp]] NOAA’s database of significant eruptions has no entry for Gaua.[[noaa]]",
+    "At Level 2 the department keeps the danger zone to the cone and warns of volcanic gas near it.[[vmgd24]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Gaua?",
+   "paras": [
+    "A stratovolcano of {rock}, with a caldera at its top and scoria cones inside it.[[gvp]][[vmgd]] The caldera, roughly 2,300 ft (700 m) deep, formed in a quiet collapse that was followed by widespread ash eruptions; earlier, lava flows from vents near its rim reached the coast on several sides of the island.[[gvp]]",
+    "Mount Garet has three pit craters across its summit, and its growth, with that of other small cinder cones, left the crescent shape of Lake Letas.[[gvp]][[vmgd]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How high is Mount Garet?",
+   "paras": [
+    "Mount Garet stands **{summit_ft} ft ({summit_m} m)** high, by Vanuatu’s geohazards department; the Smithsonian gives {gvp_summit_m} m for the volcano.[[vmgd]][[gvp]] The island around it is about 12 miles (20 km) across.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Gaua’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Gaua has **{n_all} confirmed eruptions**, all known from written reports, the first in {since_year}.[[gvp]] The list also carries {n_unconfirmed_word} eruption it does not count as confirmed; it is not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Gaua’s pace",
+ "callouts": [
+  {
+   "number": "{n_since}",
+   "unit": "eruptions",
+   "text": "On the Smithsonian’s list since {since_year}, and none before it.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  },
+  {
+   "number": "{share}",
+   "unit": "percent",
+   "text": "Of the days from {counted_month_year} to {last_end}, the share that fell inside an eruption on the Smithsonian’s list.",
+   "source": "Source: Smithsonian; days counted from its dates.[[gvp]]"
+  }
+ ],
+ "faq_h": "Gaua questions and answers",
+ "faq": [
+  [
+   "Is Gaua erupting now?",
+   "No eruption is on record since {last_end}, but Vanuatu’s geohazards department had it at Alert Level 2, “major unrest”, when its page was read on {read_date}."
+  ],
+  [
+   "When did Gaua last erupt?",
+   "On {last_end}: people at Naveto village reported a short eruption with loud explosions and a thick ash column. The Smithsonian lists it as one day long."
+  ],
+  [
+   "What is Lake Letas?",
+   "The crescent-shaped lake inside Gaua’s caldera, around the Mount Garet cone."
+  ],
+  [
+   "How high is Mount Garet?",
+   "{summit_ft} ft ({summit_m} m), by Vanuatu’s geohazards department; the Smithsonian gives {gvp_summit_m} m for the volcano."
+  ],
+  [
+   "When did Gaua start erupting?",
+   "Its first eruption on record came in 1962, from a vent high on the south-east flank, after a long dormancy."
+  ],
+  [
+   "Has Gaua killed anyone?",
+   "No deaths are on record: NOAA’s database of significant eruptions has no entry for it."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Gaua record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=257020"
+  },
+  {
+   "id": "vmgd",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Mount Garet (Gaua): current alert level, description and recent eruptions",
+   "url": "https://www.vmgd.gov.vu/geohazards/volcanoes/mount-garet"
+  },
+  {
+   "id": "vmgdval",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Volcanic Alert Level",
+   "url": "https://www.vmgd.gov.vu/vmgd/index.php/geohazards/volcano/volcano-info/volcanic-alert-level"
+  },
+  {
+   "id": "vmgd24",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Vanuatu Volcano Alert Bulletin No. 10, Gaua activity, October 31, 2024",
+   "url": "https://vmgd.gov.vu/vmgd/index.php/geohazards/volcano/volcano-info/current-volcanic-activity"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the last eruption on the Smithsonian’s list, to today, in whole years.",
+  "**{share} percent of the days:** the days inside the listed eruptions from {counted_from} to {last_end}, divided by all the days in that time. Before {counted_year}, some eruptions on the list lack an exact start or end.",
+  "Miles and feet are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_end": "May 3, 2022",
+  "last_span": "May 3, 2022",
+  "last_year": "2022",
+  "quiet_unit": "years",
+  "n_since": "18",
+  "since_year": "1962",
+  "n_all": "18",
+  "n_written": "18",
+  "counted_from": "July 9, 1981",
+  "counted_month_year": "July 1981",
+  "counted_year": "1981",
+  "share": "2",
+  "longest_gap_from_year": "1982",
+  "longest_gap_to_year": "2009",
+  "long1_span": "2009 to 2010",
+  "max_vei": "3",
+  "n_vei1": "5",
+  "n_vei2": "12",
+  "n_unconfirmed_word": "one",
+  "noaa_n": "0",
+  "summit_m": "797",
+  "summit_ft": "2,614",
+  "gvp_summit_m": "729",
+  "coords": "14.281°S, 167.514°E",
+  "rock": "andesite to basaltic andesite",
+  "type": "Stratovolcano"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
