@@ -166,7 +166,7 @@ volcano/reventador,volcanoes,data,informational,"both counts of how long it has 
 volcano/reykjanes,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/rincon-de-la-vieja,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/ruapehu,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/ruiz-nevado-del,volcanoes,data,informational,,gvp-eruptions,T1,live,rebuild pending
+volcano/ruiz-nevado-del,volcanoes,data,informational,"the 1985 eruption and Armero told from the Colombian survey’s own accounts and NOAA’s database with every competing death toll attributed, what the volcano is doing this week (the bulletin of 17 November 2026: Alerta Amarilla, no ash since 8 March 2026), the 89 days at orange in 2023, and the 2015 hazard map in distances down each river",gvp-eruptions,T1,live,"record page built 2026-11-22 (run 40) in place of the old profile; not erupting by the Smithsonian’s list (hero “Last eruption ended March 8, 2026”), with since_check from the survey’s bulletin of 17 Nov 2026; summit from the Colombian survey (5,321 m) with the Smithsonian’s 5,279 m beside it; uses gvp-volcanoes, gvp-eruptions, noaa-ncei-volcano, noaa-etopo and observatory-pages (eleven documents of the Colombian survey, all read on 2026-11-22); the Smithsonian’s page could not be read (the reader served another volcano), which the page says; waits for the owner’s read before his name goes on"
 volcano/sabancaya,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/san-cristobal,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/san-miguel,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

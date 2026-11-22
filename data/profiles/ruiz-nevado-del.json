@@ -1,0 +1,344 @@
+{
+ "slug": "ruiz-nevado-del",
+ "volcano_number": 351020,
+ "name": "Nevado del Ruiz",
+ "country": "Colombia",
+ "title": "Nevado del Ruiz Volcano: 1985 Armero Eruption & Alert Level",
+ "description": "Nevado del Ruiz in Colombia: the 1985 eruption whose mudflows destroyed Armero, its alert level in November 2026, its hazard map and full eruption record.",
+ "h1": "Nevado del Ruiz Volcano",
+ "facts": {
+  "summit_m": 5321,
+  "summit_ft": 17457,
+  "summit_source": "sgc",
+  "summit_source_name": "the Colombian Geological Survey",
+  "ground": "etopo",
+  "count_from": 1570
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "it lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Alerta Amarilla, the second of four alert states.** The Colombian Geological Survey’s bulletin for November 10 to 16, 2026, issued on November 17, describes the volcano as unstable and records no ash emission since March 8, 2026. Steam and gas rose up to 1,640 ft (500 m) above the summit.[[b1116]][[alert]]",
+ "lede": "Nevado del Ruiz is the volcano whose eruption of November 13, 1985 sent mudflows down its rivers and destroyed the town of Armero. The Smithsonian counts it as South America’s deadliest eruption. The volcano stands in the Andes of central Colombia, about 17 miles (28 km) from the city of Manizales. Its last eruption on the Smithsonian’s list ran from {last_start} to {last_end}, and Colombia’s Geological Survey still keeps it at the yellow alert state. Below: what it is doing now, what the alert states mean, what happened in 1985, how many people its eruptions have killed, the hazard map, its height and its record.",
+ "answer": "**Nevado del Ruiz is not erupting by the Smithsonian’s list.** Its last eruption ran from {last_start} to {last_end}.[[gvp]] Colombia’s Geological Survey keeps it at **Alerta Amarilla, the second of its four alert states**, and its bulletin of November 17, 2026 records no ash emission since March 8, 2026.[[b1116]][[alert]] The eruption of November 13, 1985 killed **{worst_deaths}** people by NOAA’s count, most of them in the town of Armero.[[noaa]][[caldas]]",
+ "timeline": {
+  "from": 1550,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1845.13,
+    "label": "1845"
+   },
+   {
+    "year": 1595.19,
+    "label": "1595"
+   },
+   {
+    "year": 2014.88,
+    "label": "2014"
+   },
+   {
+    "year": 1985.87,
+    "label": "1985"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Most entries before 1984 have no end date. The lahars of 1985 came on November 13, two months into the eruption that lasted until 1991.[[gvp]][[caldas]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "ice cap fed the lahars",
+  "crater": "Arenas crater",
+  "crater_depth_m": 247,
+  "crater_depth_text": "about 810 ft deep",
+  "crater_share": 0.07,
+  "caption": "Nevado del Ruiz cut open. The summit height, the land around the volcano and the depth of the Arenas crater are to scale; the outline is schematic.[[sgc]][[etopo]] The real summit is a broad cluster of lava domes under an ice cap, which is not drawn; the Arenas crater is about 2,850 by 2,720 ft (870 by 830 m) across.[[gvp]][[sgc]]"
+ },
+ "map_zoom": 8,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Nevado del Ruiz?",
+   "map": true,
+   "paras": [
+    "Nevado del Ruiz is in [Colombia](/volcanoes-in-colombia), on the border between the departments of Caldas and Tolima, at {coords}.[[gvp]][[sgc]] The city of Manizales is about 17 miles (28 km) to the northwest and Bogotá about 87 miles (140 km) to the southeast.[[sgc]]",
+    "The volcano is part of Los Nevados National Natural Park. Colombia’s Geological Survey calls it the volcano that draws the most tourists in the country, for its ice cap, hot springs, climbing routes and viewpoints.[[sheet]]",
+    "Before the Spanish arrived it was called Cumanday (white hill), Tabuchía (candle or fire) or Tama (great father), the survey writes.[[sgc]]",
+    "Nevado del Ruiz is one of {n_country} volcanoes in Colombia on the Smithsonian’s Holocene list. [Galeras](/volcano/galeras) and [Purace](/volcano/purace) are two of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Nevado del Ruiz erupting now?",
+   "table": "periods",
+   "paras": [
+    "Not by the Smithsonian’s list. Its last eruption began on {last_start} and ended on {last_end}, after {last_length}.[[gvp]]",
+    "Colombia’s Geological Survey still describes the volcano as unstable. Its bulletin for the week of November 10 to 16, 2026, issued in Manizales on November 17, keeps it at Alerta Amarilla (yellow) and states that no ash emission has been recorded since March 8, 2026.[[b1116]]",
+    "In that week the earthquakes from breaking rock were fewer and weaker than the week before. They were centered under the Arenas crater and up to 6.8 miles (11 km) away, mostly to the northeast; the largest, on November 14, was magnitude 1.8. Steam and gas rose 330 to 1,640 ft (100 to 500 m) above the summit, and satellites picked up low-energy heat spots on the crater floor.[[b1116]]",
+    "The survey asks people to follow its weekly bulletins and the instructions of local and departmental authorities and of the UNGRD, Colombia’s disaster agency.[[b1116]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What do Colombia’s alert states mean?",
+   "paras": [
+    "The Colombian Geological Survey uses four alert states. Verde (green) is an active volcano at rest. Amarilla (yellow) is an active volcano with changes in the base level of what is monitored. Naranja (orange) is a volcano with important changes in what is monitored. Roja (red) is a volcano in eruption.[[alert]]",
+    "Nevado del Ruiz was at orange for 89 days in 2023, from the night of March 30 to June 27.[[n2023]] Earthquakes on its southwest flank had risen sharply from March 24. Before then about 50 rock-fracture earthquakes a day were usual; between March 30 and April 5 there were 5,000 to 12,000 a day. March 29 brought the most earthquakes in a day since the volcano’s seismic monitoring began in 1985.[[q2023]]",
+    "At yellow, the survey wrote when it lowered the level on June 27, 2023, the volcano can still bring more earthquakes, earthquakes that people feel, ash emissions and lahars, and it can go back to orange or move to red.[[n2023]]"
+   ]
+  },
+  {
+   "id": "1985",
+   "h": "What happened in the 1985 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The Smithsonian’s list has an eruption from September 11, 1985 to July 13, 1991.[[gvp]] Its deadly moment came on the night of November 13, 1985. After an eruption at 9:08 p.m., lahars, flows of mud and rock that Colombians call avalanchas, ran down the valleys of the rivers that rise on the volcano.[[caldas]]",
+    "The Smithsonian writes that eruptions recorded since the 16th century have melted parts of the summit ice cap and caused devastating lahars, and it counts the eruption of 1985 as South America’s deadliest.[[gvp]]",
+    "On the Tolima side the lahars came down the Gualí, Azufrado and Lagunilla rivers; on the Caldas side, down the Claro and Chinchiná.[[live]] The one that swept through Armero came down the Lagunilla, and it moved through the town’s streets at more than 18 mph (30 km/h).[[rock]]",
+    "Armero was destroyed. Colombia’s Geological Survey counts more than 20,000 dead there and an estimated 2,000 to 3,000 in Caldas, in Villamaría and Chinchiná.[[caldas]] Its fact sheet puts the toll at about 25,000 and calls the eruption the second deadliest of the 20th century.[[sheet]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "How many people have died at Nevado del Ruiz?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Nevado del Ruiz, each with deaths.[[noaa]]",
+    "For {worst_date} it gives {worst_deaths} dead, a figure from the office of Colombia’s president. Its note adds that the tolls are uncertain and that most estimates fall between 23,000 and 26,000. One study it cites counts 24,270 dead, among them 21,000 of Armero’s 29,000 inhabitants; another puts the dead in Chinchiná at about 1,000. About 10,000 people were injured, 5,200 of whom needed medical care.[[noaa]]",
+    "The eruption of 1845 killed 1,000 people: mudflows from melted snow buried everyone along the Lagunilla valley, NOAA’s note says. The eruption of 1595 killed 636, most of them Indigenous Guali people, in the valleys of the Lagunilla and the Gualí.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Nevado del Ruiz dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Servicio Geológico Colombiano and Colombia’s disaster agency, the UNGRD.",
+   "paras": [
+    "The survey’s hazard map, a third version drawn in 2015, shows where lahars could run: down the Gualí for about 60 miles (97 km) to the Magdalena River; down the Azufrado and Lagunilla for about 49 miles (79 km), across the plain where Armero stood; down the Recio for about 55 miles (88 km); and on the Caldas side down the Claro and Chinchiná for about 39 miles (62 km) to the Cauca River.[[hazmap]]",
+    "Around the volcano, the map shows zones where pyroclastic flows could reach up to 11 miles (18 km), blocks about 3 ft (1 m) across could land about 2.5 miles (4 km) out, and ash could pile up more than about 4 inches (10 cm) deep within about 16 miles (25 km). Ash 0.4 to 4 inches (1 to 10 cm) deep could fall as far as about 34 miles (54 km), on Manizales and Pereira among other towns.[[hazmap]]",
+    "The survey’s fact sheet names 14 municipalities in Tolima whose rural areas near those rivers lie in the lahar zones, among them Murillo, Armero Guayabal, Mariquita and Honda, and adds that the towns of Mariquita and Honda on the Gualí could be hit too. In Caldas it names rural Manizales, Villamaría and Chinchiná.[[sheet]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Nevado del Ruiz?",
+   "paras": [
+    "The Colombian Geological Survey (Servicio Geológico Colombiano), from its Volcanological and Seismological Observatory in Manizales, about 19 miles (30 km) northwest of the Arenas crater.[[live]] It has monitored the volcano’s earthquakes since 1985.[[q2023]]",
+    "A camera with a heat sensor at the observatory streams the volcano around the clock on the survey’s YouTube channel. The survey’s observatories in Manizales, Popayán and Pasto watch 25 active volcanic structures.[[live]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Nevado del Ruiz?",
+   "paras": [
+    "Colombia’s Geological Survey gives **{summit_ft} ft ({summit_m} m)**.[[sgc]][[sheet]] The Smithsonian’s list gives 17,320 ft (5,279 m).[[gvp]]",
+    "The summit stands about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Nevado del Ruiz?",
+   "paras": [
+    "A stratovolcano whose eruptions are mainly explosive, rated 3 to 4 on the Volcanic Explosivity Index, by the survey’s fact sheet.[[sheet]] The Smithsonian gives its main rock as {rock}.[[gvp]]",
+    "The Smithsonian describes a broad, ice-covered volcano spread over more than 77 square miles (200 km²): three major volcanic edifices built since the start of the Pleistocene, the modern one a cluster of lava domes inside the caldera of an older one.[[gvp]]",
+    "Its active crater, Arenas, is about 2,850 by 2,720 ft (870 by 830 m) across and 810 ft (247 m) deep by the survey’s figures; the Smithsonian gives 0.6 miles (1 km) across and 790 ft (240 m) deep.[[sgc]][[gvp]] A lava dome has sat on the crater floor since late 2015.[[sheet]]",
+    "The survey counts two parasitic cones, La Olleta and La Piraña, and traces the volcano’s history back 1.8 million years.[[sgc]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Nevado del Ruiz erupt?",
+   "paras": [
+    "The Smithsonian’s list has {n_all} confirmed eruptions, {n_since} of them since {since_year}.[[gvp]] Between the eruptions since 1984 the longest pause lasted more than {longest_gap_years} years, from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]]",
+    "The latest phase began in 2012. The Smithsonian lists an eruption from {prev_start}, while Colombia’s survey dates the first eruption of the phase, a small explosion, to May 29, 2012.[[gvp]][[sheet]]",
+    "The largest entries on the list are rated VEI {max_vei}; the most recent of them is the eruption of {largest_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Nevado del Ruiz’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Nevado del Ruiz has **{n_all} confirmed eruptions**: {n_written} known from reports, {n_rc_word} dated by radiocarbon and {n_tephra_word} by layers of ash.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "November 13, 1985",
+ "callouts": [
+  {
+   "number": "{worst_deaths}",
+   "unit": "deaths",
+   "text": "NOAA’s count for the night of November 13, 1985, a figure from the office of Colombia’s president. Most estimates fall between 23,000 and 26,000.",
+   "source": "Source: NOAA NCEI/WDS Global Significant Volcanic Eruptions Database.[[noaa]]"
+  },
+  {
+   "number": "21,000",
+   "unit": "in Armero",
+   "text": "Dead out of the town’s 29,000 inhabitants, by an estimate that NOAA’s note cites.",
+   "source": "Source: NOAA NCEI/WDS Global Significant Volcanic Eruptions Database.[[noaa]]"
+  }
+ ],
+ "faq_h": "Nevado del Ruiz questions and answers",
+ "faq": [
+  [
+   "Is Nevado del Ruiz erupting now?",
+   "Not by the Smithsonian’s list: its last eruption ended on {last_end}. Colombia’s Geological Survey keeps the volcano at Alerta Amarilla (yellow), and its bulletin of November 17, 2026 records no ash emission since March 8, 2026."
+  ],
+  [
+   "What is Nevado del Ruiz’s alert level?",
+   "Alerta Amarilla (yellow), the second of four states, in the Colombian Geological Survey’s bulletin of November 17, 2026. It was last at Naranja (orange) from March 30 to June 27, 2023."
+  ],
+  [
+   "What happened at Armero in 1985?",
+   "On the night of November 13, 1985, an eruption of Nevado del Ruiz sent lahars down the river valleys. The one in the Lagunilla valley swept through Armero, where more than 20,000 people died, by Colombia’s Geological Survey."
+  ],
+  [
+   "How many people died in the 1985 eruption?",
+   "{worst_deaths} by NOAA’s database, a figure from the office of Colombia’s president; most estimates fall between 23,000 and 26,000. Colombia’s Geological Survey says about 25,000."
+  ],
+  [
+   "Where is Nevado del Ruiz?",
+   "In Colombia, on the border between Caldas and Tolima, about 17 miles (28 km) southeast of Manizales, at {coords}."
+  ],
+  [
+   "How tall is Nevado del Ruiz?",
+   "{summit_ft} ft ({summit_m} m) by Colombia’s Geological Survey. The Smithsonian’s list gives 17,320 ft (5,279 m)."
+  ],
+  [
+   "Where could lahars go in a new eruption?",
+   "By the survey’s hazard map of 2015: down the Gualí, Azufrado, Lagunilla and Recio rivers toward the Magdalena, and down the Claro and Chinchiná rivers toward the Cauca."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Nevado del Ruiz",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=351020"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "b1116",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Boletín semanal de actividad del volcán Nevado del Ruiz del 10 al 16 de noviembre de 2026 (PDF, in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/boletinesDocumentos/Boletin_semanal_de_actividad_del_volcan_Nevado_del_Ruiz_del_10_de_noviembre_al_16_de_noviembre_de_2026.pdf"
+  },
+  {
+   "id": "alert",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Esquema estados de alerta por actividad volcánica en Colombia (in Spanish)",
+   "url": "https://www2.sgc.gov.co/Paginas/estados-de-alerta-volcanes.aspx"
+  },
+  {
+   "id": "n2023",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Boletín extraordinario volcán Nevado del Ruiz: cambio de nivel de actividad de Naranja a Amarillo (June 27, 2023; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Boletin-extraordinario-volcan-Nevado-del-Ruiz_-_Cambio_nivel_de_actividad-Naranja-a-Amarillo-27-de-junio-2023-1400.aspx"
+  },
+  {
+   "id": "q2023",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "¿Qué está pasando en el volcán Nevado del Ruiz? (June 21, 2023; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Que-esta-pasando-en-el-volcan-Nevado-del-Ruiz-.aspx"
+  },
+  {
+   "id": "sgc",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Generalidades volcán Nevado del Ruiz (in Spanish)",
+   "url": "https://www2.sgc.gov.co/sgc/volcanes/VolcanNevadoRuiz/Paginas/generalidades-volcan-nevado-ruiz.aspx"
+  },
+  {
+   "id": "sheet",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Hoja informativa: volcán Nevado del Ruiz (fact sheet, September 2024; PDF, in Spanish)",
+   "url": "https://www2.sgc.gov.co/Temas-destacados/Documents/Hoja-informativa-volcan-Nevado-de-Ruiz-SGC.pdf"
+  },
+  {
+   "id": "caldas",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Tras la erupción del volcán Nevado del Ruiz, en 1985, la tragedia también llegó a Caldas (2026; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Tras-la-erupcion-del-volcan-Nevado-del-Ruiz-la-tragedia-tambien-llego-a-Caldas.aspx"
+  },
+  {
+   "id": "live",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Ahora los colombianos podrán ver en vivo la actividad del volcán Nevado del Ruiz (November 4, 2025; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Ahora-los-colombianos-podran-ver-en-vivo-la-actividad-del-volcan-Nevado-del-Ruiz.aspx"
+  },
+  {
+   "id": "rock",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "La piedra gigante que está en Armero no proviene del volcán Nevado del Ruiz (March 13, 2026; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/La-piedra-gigante-que-esta-en-Armero-no-proviene-del-volcan-Nevado-del-Ruiz.aspx"
+  },
+  {
+   "id": "hazmap",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Mapa de amenaza volcánica del volcán Nevado del Ruiz, tercera versión, 2015 (in Spanish)",
+   "url": "https://www2.sgc.gov.co/sgc/volcanes/VolcanNevadoRuiz/Paginas/Mapa-amenaza.aspx"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** the survey’s summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles, inches, square miles and miles per hour are converted from the metric figures in the sources and rounded.",
+  "The Smithsonian’s page for the volcano could not be read for this article on November 22, 2026; its summary and eruption list come from the Smithsonian’s own data download.",
+  "NOAA dates the eruption of 1595 to March 12; the Smithsonian lists March 9."
+ ],
+ "expect": {
+  "last_start": "November 18, 2014",
+  "last_end": "March 8, 2026",
+  "last_length": "11 years 4 months",
+  "prev_start": "February 22, 2012",
+  "long2_span": "1985 to 1991",
+  "counted_year": "1984",
+  "longest_gap_years": "20",
+  "longest_gap_from_year": "1991",
+  "longest_gap_to_year": "2012",
+  "n_all": "20",
+  "n_since": "13",
+  "since_year": "1570",
+  "n_written": "13",
+  "n_rc_word": "five",
+  "n_tephra_word": "two",
+  "max_vei": "4",
+  "n_max_vei": "4",
+  "largest_year": "1595",
+  "n_country": "13",
+  "coords": "4.892°N, 75.324°W",
+  "rock": "andesite to basaltic andesite",
+  "gvp_summit_m": "5,279",
+  "summit_m": "5,321",
+  "noaa_n_word": "three",
+  "noaa_described_count": "0",
+  "worst_deaths": "23,080",
+  "worst_date": "November 13, 1985"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
