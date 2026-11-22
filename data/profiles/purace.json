@@ -1,0 +1,351 @@
+{
+ "slug": "purace",
+ "volcano_number": 351060,
+ "name": "Purace",
+ "country": "Colombia",
+ "title": "Purace Volcano, Colombia: Eruption Now, Alert Level & Facts",
+ "description": "Purace in Colombia has been erupting since November 2025. Its alert state in November 2026, the 1949 blast that killed 17 students, and its full record.",
+ "h1": "Purace Volcano",
+ "facts": {
+  "count_from": 1816,
+  "ground": "etopo"
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "ash emissions from the summit crater",
+  "note_weekly": "still going in the {period} report"
+ },
+ "since_check": "**Alerta Amarilla, the second of four alert states.** The Colombian Geological Survey’s bulletin for November 10 to 16, 2026, issued on November 17, counts 13 ash emissions in the week, the highest about 3,300 ft (1 km) above the summit, drifting mainly northwest.[[b1116]][[alert]]",
+ "lede": "Purace is the youngest volcano of the Los Coconucos chain in the Andes of Colombia, about 17 miles (27 km) from the city of Popayán, and one of the country’s most active. After {longest_gap_years} years with nothing on the Smithsonian’s list, it has four listed eruptions since 2022, and the one that began in November 2025 is still going. Colombia’s Geological Survey raised its alert to orange three times between 2024 and 2026, the last time in August 2026, when most of what it measures stood at its highest since monitoring began in 1993. The volcano has been back at yellow since September 29, 2026. Below: what it is doing now, what the alert states mean, what has happened since 2022, the 1949 explosion that killed 17 students, the hazard map, its height and its record.",
+ "answer": "**Purace is erupting.** The Smithsonian lists an eruption that began on {cur_since} and was continuing at its last update, on {cur_last}.[[gvp]] Colombia’s Geological Survey has the volcano at **Alerta Amarilla, the second of its four alert states**, and counted 13 ash emissions in the week of November 10 to 16, 2026.[[b1116]][[alert]] It stands **{summit_ft} ft ({summit_m} m)** high in the department of Cauca.[[gvp]][[sgc]]",
+ "timeline": {
+  "from": 1800,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1885.4,
+    "label": "1885"
+   },
+   {
+    "year": 1949.4,
+    "label": "1949"
+   },
+   {
+    "year": 1847.82,
+    "label": "1847"
+   },
+   {
+    "year": 2025.9,
+    "label": "2025"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Several of the older entries are known only by their year. The longest stretch without an entry runs from 1977 to 2022, and the eruption still going began in November 2025.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "17 students died, 1949",
+  "crater": "inner crater",
+  "crater_depth_m": 100,
+  "crater_depth_text": "about 330 ft deep",
+  "crater_share": 0.1,
+  "caption": "Purace cut open. The summit height, the land around the volcano and the depth of the inner crater are to scale; the outline is schematic.[[gvp]][[etopo]][[sheet]] The real summit has two craters, one inside the other: the outer about 2,950 ft (900 m) across, the inner about 1,800 ft (550 m).[[sheet]] The other volcanoes of the chain, which runs southeast from Purace, are not drawn.[[gvp]]"
+ },
+ "map_zoom": 8,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Purace?",
+   "map": true,
+   "paras": [
+    "Purace (Puracé in Spanish) is in [Colombia](/volcanoes-in-colombia), in the department of Cauca, at {coords}.[[gvp]][[sgc]] The city of Popayán is about 17 miles (27 km) to the northwest; the survey’s general page says 26 km.[[n0801]][[sgc]]",
+    "It is the northwestern end of the Los Coconucos chain, a line of volcanoes that runs southeast for more than 3.7 miles (6 km) to Pan de Azúcar.[[gvp]] The Smithsonian counts nine composite volcanoes in it and five that erupted only once; Colombia’s Geological Survey counts 15 eruptive centers and calls Purace the youngest and the northernmost.[[gvp]][[sgc]]",
+    "The chain lies in the Central Cordillera between the departments of Cauca and Huila, and it is part of Puracé National Park.[[chain]][[sheet]]",
+    "Purace is one of {n_country} volcanoes in Colombia on the Smithsonian’s Holocene list. [Galeras](/volcano/galeras) and [Nevado del Ruiz](/volcano/ruiz-nevado-del) are two of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Purace erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. An eruption began on {cur_since} and was continuing when the list was last updated, on {cur_last}.[[gvp]]",
+    "Colombia’s Geological Survey has the volcano at Alerta Amarilla (yellow). Its bulletin for the week of November 10 to 16, 2026, issued in Popayán on November 17, counts 13 ash emissions, the highest about 3,300 ft (1 km) above the summit, drifting mainly to the northwest.[[b1116]]",
+    "The same bulletin reports earthquakes from moving fluids under Purace and its neighbor Piocollo at depths of less than 1.9 miles (3 km), sulfur dioxide and carbon dioxide still escaping in significant amounts, low-energy heat spots inside the crater seen by satellite, and ground that keeps deforming slowly between Purace, Piocollo and Curiquinga.[[b1116]]",
+    "It asks people to keep away from the crater areas of the three volcanoes and from the headwaters of the rivers that rise on them, because gas, ash and rock fragments can be thrown out without warning. Ash already on the ground, it adds, could feed mudflows of limited reach.[[b1116]]",
+    "The eruption on the list before this one was a single day, {prev_end}, at the Curiquinga crater; the survey dates that event to January 20.[[gvp]][[react]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What do Colombia’s alert states mean?",
+   "paras": [
+    "The Colombian Geological Survey uses four alert states. Verde (green) is an active volcano at rest. Amarilla (yellow) is an active volcano with changes in the base level of what is monitored. Naranja (orange) is a volcano with important changes in what is monitored. Roja (red) is a volcano in eruption.[[alert]]",
+    "Purace went to yellow on March 30, 2022, the day after a small eruption at the neighboring Curiquinga crater.[[gvp]][[sheet]] It has been raised to orange three times: from May 3 to July 5, 2024; from November 29, 2025 to January 22, 2026; and from August 1 to September 29, 2026.[[sheet]][[chain]][[n0801]][[n0929]]",
+    "Orange, the survey wrote on August 1, 2026, means an eruption has become more likely, not that one will happen.[[n0801]] Under orange it issues a bulletin every day; under yellow, every week and every month.[[n0801]][[n0929]]"
+   ]
+  },
+  {
+   "id": "since",
+   "h": "What has happened at Purace since 2022?",
+   "aside": "callouts",
+   "paras": [
+    "The survey traces the change to 2021, when its instruments began to show gradual shifts.[[feature]] On March 29, 2022, a day after several hundred earthquakes, two cracks about 130 ft (40 m) long opened between Purace and Curiquinga and let out gas and some ash.[[gvp]] The survey calls it a small phreatic eruption, one driven by steam, at the Curiquinga crater.[[sheet]]",
+    "The Smithsonian’s list has two more one-day entries: November 16, 2023, and January 19, 2025, the second at the Curiquinga crater. The survey says the ash of that second event helped to seal Curiquinga’s crater, where water has collected since early 2025.[[gvp]][[react]]",
+    "In November 2025 the ash came from Purace’s own crater. On November 29 the survey reported gas and ash rising through it in columns more than 3,280 ft (1,000 m) high, and went to orange.[[n1129]] Between November 25 and December 29 it counted 204 ash emissions, the highest about 5,600 ft (1,700 m) above the summit. It put them down to small explosions within about 0.6 miles (1 km) below the crater and linked a hot spot on the crater floor to a vent about 65 by 80 ft (20 by 25 m) across.[[react]]",
+    "The strongest phase so far came in the middle of 2026. From July 20 the columns of gas and ash reached as much as 11,200 ft (3,400 m) above the summit, at temperatures of about 280°F (140°C), and the output of sulfur dioxide reached about 4,200 metric tons a day. Apart from the slow deformation of the ground, the survey wrote, these were the highest values since it began monitoring the volcano in 1993.[[n0801]] The alert went to orange on August 1 and back to yellow on September 29, after the ash emissions had weakened from September 15.[[n0801]][[n0929]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Has Purace killed people?",
+   "table": "noaa",
+   "paras": [
+    "Yes. NOAA’s database of significant eruptions has {noaa_n_word} entries for Purace.[[noaa]] On {worst_date} blocks thrown out by the volcano killed {worst_deaths} university students who were trying to reach the summit.[[noaa]] The Smithsonian dates that eruption from May 26 to June 11, 1949.[[gvp]]",
+    "The other entry is the eruption of May 25, 1885, the only one the Smithsonian rates VEI {max_vei} without a question mark.[[gvp]] NOAA’s note describes a catastrophic explosion with an earthquake that killed many people and destroyed many houses. It has no count; on its scale the toll is “some”, about 51 to 100 deaths.[[noaa]]",
+    "The survey’s fact sheet says only that past eruptions caused damage and deaths, and that the last considerable eruption was in March 1977.[[sheet]] The Smithsonian’s entry for 1977 reports no casualties or damage.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Purace dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Servicio Geológico Colombiano and Colombia’s disaster agency, the UNGRD.",
+   "paras": [
+    "The survey’s hazard map, a second version drawn in 2014 from field work of 2012, sets out what a considerable eruption could do.[[hazmap]]",
+    "In the high-hazard zone, blocks larger than about 8 inches (20 cm) could land within about 1.9 miles (3 km) of the crater, ash could lie more than about 4 inches (10 cm) deep, and pyroclastic flows could run about 6 miles (10 km) down the valleys of the Cocuy, San Francisco, Vinagre and Anambío rivers.[[hazmap]]",
+    "Mudflows could travel more than 31 miles (50 km), down those rivers and into the valley of the Cauca River, which passes through Popayán.[[hazmap]]",
+    "The survey names the municipalities of Puracé, Popayán and Sotará as the ones under threat in a considerable eruption, along with the indigenous reserves of Puracé, Kokonuko and Paletará and two other indigenous settlements.[[n1129]][[n0801]] The high and medium zones of the map are mainly indigenous and farming areas.[[hazart]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Purace?",
+   "paras": [
+    "The Colombian Geological Survey (Servicio Geológico Colombiano), from its Volcanological and Seismological Observatory in Popayán. Purace and its chain are one of 25 volcanic structures the survey monitors.[[feature]]",
+    "The survey has monitored the volcano with instruments since 1993.[[n0801]] In 2026 it described the network as 121 stations: 71 that send their data by telemetry and about 50 points where gases, hot springs and ground deformation are sampled or measured.[[hazart]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Purace?",
+   "paras": [
+    "The Smithsonian and the survey’s general page give **{summit_ft} ft ({summit_m} m)**.[[gvp]][[sgc]] The survey’s fact sheet of January 2026 gives 15,223 ft (4,640 m).[[sheet]]",
+    "The volcano stands about {rise_ft} ft ({rise_m} m) above the land around it, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Purace?",
+   "paras": [
+    "A stratovolcano.[[gvp]] The survey describes a cone with its top cut off, built of layers of ash and rock fragments with lava flows between them, most of it andesite.[[sgc]] The Smithsonian gives its main rock as {rock}.[[gvp]]",
+    "The top holds two craters, one inside the other. The survey gives the outer one as about 2,950 ft (900 m) across and the inner one as 1,640 to 1,800 ft (500 to 550 m) across and roughly 330 ft (100 m) deep.[[sgc]][[sheet]]",
+    "Steam vents work inside the crater and at one place on the outer north flank.[[sgc]]",
+    "The survey reads the unrest since 2021 as a reawakening of the chain’s northwestern end, where Purace, Piocollo and Curiquinga stand within about a mile (1.7 km) of one another.[[react]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Purace erupt?",
+   "paras": [
+    "The Smithsonian’s list has {n_all} confirmed eruptions, {n_since} of them since {since_year}.[[gvp]] Colombia’s survey counts about 50 eruptions since about 1500, none of them very large, and describes the activity between 1849 and 1977 as fairly continuous.[[react]]",
+    "Then the list has nothing for {longest_gap_years} years, from March {longest_gap_from_year} to March {longest_gap_to_year}. Since 2022 it has four entries, the last of them still open.[[gvp]]",
+    "Its largest entries are rated VEI {max_vei} on the Volcanic Explosivity Index: the eruptions of 1847, 1869 and 1885, the first two with a question mark.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Purace’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Purace has **{n_all} confirmed eruptions**: {n_written} known from reports and {n_rc_word}, about {oldest}, dated by radiocarbon.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2025 and 2026",
+ "callouts": [
+  {
+   "number": "204",
+   "unit": "emissions",
+   "text": "Ash emissions counted by Colombia’s Geological Survey between November 25 and December 29, 2025.",
+   "source": "Source: Servicio Geológico Colombiano, December 29, 2025.[[react]]"
+  },
+  {
+   "number": "11,200 ft",
+   "unit": "(3,400 m)",
+   "text": "Height of the gas and ash columns above the summit after July 20, 2026, the highest in the survey’s instrument record.",
+   "source": "Source: Servicio Geológico Colombiano, August 1, 2026.[[n0801]]"
+  }
+ ],
+ "faq_h": "Purace questions and answers",
+ "faq": [
+  [
+   "Is Purace erupting now?",
+   "By the Smithsonian’s list, yes: the eruption that began on {cur_since} was continuing at the list’s last update, on {cur_last}. Colombia’s Geological Survey counted 13 ash emissions in the week of November 10 to 16, 2026."
+  ],
+  [
+   "What is Purace’s alert level?",
+   "Alerta Amarilla (yellow), the second of four states, in the Colombian Geological Survey’s bulletin of November 17, 2026. It was at Naranja (orange) from August 1 to September 29, 2026."
+  ],
+  [
+   "Where is Purace?",
+   "In Colombia, in the department of Cauca, about 17 miles (27 km) southeast of the city of Popayán, at {coords}."
+  ],
+  [
+   "When was Purace’s last large eruption?",
+   "Colombia’s Geological Survey gives March 1977 as its last considerable eruption. The largest on the Smithsonian’s list are rated VEI {max_vei}: those of 1847, 1869 and 1885."
+  ],
+  [
+   "How many people died at Purace in 1949?",
+   "{worst_deaths}, by NOAA’s database: university students hit by blocks thrown out on {worst_date} as they tried to reach the summit."
+  ],
+  [
+   "How tall is Purace?",
+   "{summit_ft} ft ({summit_m} m) by the Smithsonian and the survey’s general page. The survey’s fact sheet of January 2026 says 15,223 ft (4,640 m)."
+  ],
+  [
+   "What does the name Purace mean?",
+   "Colombia’s Geological Survey says it means “mountain of fire” in Quechua. In Spanish the name is written Puracé."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Puracé",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=351060"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "b1116",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Boletín semanal de actividad del volcán Puracé - cadena volcánica Los Coconucos del 10 al 16 de noviembre de 2026 (PDF, in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/boletinesDocumentos/Boletin_semanal_de_actividad_del_volcan_Purace_Coconucos_del_10_al_16_de_noviembre_de_2026.pdf"
+  },
+  {
+   "id": "alert",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Esquema estados de alerta por actividad volcánica en Colombia (in Spanish)",
+   "url": "https://www2.sgc.gov.co/Paginas/estados-de-alerta-volcanes.aspx"
+  },
+  {
+   "id": "n0929",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Volcán Puracé retorna a estado de alerta Amarilla (September 29, 2026; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Volcan-Purace-retorna-a-estado-de-alerta-Amarilla-29-septiembre-2026.aspx"
+  },
+  {
+   "id": "n0801",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Estado de alerta del volcán Puracé cambia de Amarilla a Naranja (August 1, 2026; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Estado-de-alerta-del-volcan-Purace-cambia-a-Naranja-01-agosto-2026.aspx"
+  },
+  {
+   "id": "n1129",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Estado de alerta del volcán Puracé cambia de Amarilla a Naranja (November 29, 2025; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Estado-de-alerta-del-volcan-Purace-cambia-de-Amarilla-a-Naranja.aspx"
+  },
+  {
+   "id": "react",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Puracé, Piocollo y Curiquinga: los volcanes que dan señales de reactivación del sector noroccidental de Los Coconucos (December 29, 2025; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Purace-Piocollo-Curiquinga-los-volcanes-que-dan-senales-de-reactivacion.aspx"
+  },
+  {
+   "id": "sgc",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Volcán Puracé: generalidades (in Spanish)",
+   "url": "https://www2.sgc.gov.co/sgc/volcanes/VolcanPurace/Paginas/generalidades-volcan-purace.aspx"
+  },
+  {
+   "id": "feature",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "La montaña de fuego del Cauca: el volcán Puracé (in Spanish)",
+   "url": "https://www2.sgc.gov.co/Temas-destacados/Paginas/La-montana-de-fuego-del-Cauca-el-volcan-Purace.aspx"
+  },
+  {
+   "id": "sheet",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Hoja informativa: La montaña de fuego del Cauca, el volcán Puracé (fact sheet, January 2026; PDF, in Spanish)",
+   "url": "https://www2.sgc.gov.co/Temas-destacados/Documents/Hoja-informativa-Purace.pdf"
+  },
+  {
+   "id": "chain",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Volcán Puracé - cadena volcánica Los Coconucos, clave para entender el vulcanismo en Colombia (February 12, 2026; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Volcan-Purace-cadena-volcanica-Los-Coconucos-clave-para-entender-el-vulcanismo-en-Colombia.aspx"
+  },
+  {
+   "id": "hazmap",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "Mapa de amenaza del volcán Puracé, segunda versión, 2014 (in Spanish)",
+   "url": "https://www2.sgc.gov.co/sgc/volcanes/VolcanPurace/Paginas/mapa-de-amenaza.aspx"
+  },
+  {
+   "id": "hazart",
+   "publisher": "Servicio Geológico Colombiano",
+   "title": "¿Qué muestra el mapa de amenaza del volcán Puracé? (September 2, 2026; in Spanish)",
+   "url": "https://www2.sgc.gov.co/Noticias/Paginas/Que-muestra-el-mapa-de-amenaza-del-volcan-Purace.aspx"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles, inches and degrees Fahrenheit are converted from the metric figures in the sources and rounded.",
+  "Dates of the Colombian Geological Survey’s notices are Colombian time. The Smithsonian lists the event at the Curiquinga crater under January 19, 2025; the survey gives January 20."
+ ],
+ "expect": {
+  "cur_since": "November 23, 2025",
+  "prev_end": "January 19, 2025",
+  "summit_m": "4,650",
+  "summit_ft": "15,256",
+  "n_all": "29",
+  "n_since": "28",
+  "since_year": "1816",
+  "n_written": "28",
+  "n_rc_word": "one",
+  "oldest": "160 BCE",
+  "max_vei": "3",
+  "n_max_vei": "3",
+  "n_max_vei_firm": "1",
+  "longest_gap_years": "45",
+  "longest_gap_from_year": "1977",
+  "longest_gap_to_year": "2022",
+  "n_country": "13",
+  "rock": "andesite to basaltic andesite",
+  "coords": "2.3095°N, 76.3948°W",
+  "noaa_n_word": "two",
+  "noaa_described_count": "1",
+  "worst_deaths": "17",
+  "worst_date": "May 26, 1949",
+  "rise_m": "1,600",
+  "ground_m": "3,050"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
