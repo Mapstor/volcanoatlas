@@ -1,0 +1,289 @@
+{
+ "slug": "vulcano",
+ "volcano_number": 211050,
+ "name": "Vulcano",
+ "country": "Italy",
+ "title": "Vulcano, Italy: Alert Level, Last Eruption & Gas Crisis",
+ "description": "Vulcano, the Aeolian island that named volcanoes: Italy’s green alert in November 2026, the 2021 gas crisis, the 1888-1890 eruption and its full record.",
+ "h1": "Vulcano",
+ "facts": {
+  "count_from": 1444
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "it named Vulcanian eruptions",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Green, the lowest of Italy’s four alert levels.** Italy’s Civil Protection Department gives Vulcano’s level as green, the level of a volcano in equilibrium, as it has since December 19, 2023.[[dpc]] INGV’s bulletin on October 2026, issued on November 3, found the crater’s fumaroles stable or slightly cooler, carbon dioxide in the crater at background levels and no significant deformation of the ground.[[ingv2610]]",
+ "lede": "Vulcano is the southernmost of Italy’s Aeolian Islands, in the Tyrrhenian Sea, and the volcano whose name became the word for volcanoes everywhere. Its La Fossa crater last erupted from 1888 to 1890, in blasts that gave Vulcanian eruptions their name, and it still gives off hot gas. Below: its state now, what Italy’s alert colors mean there, the gas crisis of 2021 to 2023, the last eruption, the dangers, its height and every eruption on record.",
+ "answer": "**Vulcano is not erupting.** Its last eruption, at the La Fossa crater, ran from {last_span} on the Smithsonian’s list.[[gvp]] Italy’s Civil Protection Department gives its alert level as **green**, the lowest of four, as it has since December 19, 2023, after a gas crisis that began in 2021.[[dpc]] The island’s highest point, Monte Aria, is **{summit_ft} ft ({summit_m} m)**.[[gvp]][[dpc]]",
+ "timeline": {
+  "from": 1420,
+  "to": 2030,
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1444.1,
+    "label": "1444"
+   },
+   {
+    "year": 1550.5,
+    "label": "1550"
+   },
+   {
+    "year": 1731.5,
+    "label": "1731"
+   },
+   {
+    "year": 1888.6,
+    "label": "1888"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The list has no eruption since {last_end}, {quiet_span} ago.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "Monte Aria, the high point",
+  "caption": "Vulcano as a simple outline rising from the sea. Only the height of the island’s highest point, Monte Aria, is to scale.[[gvp]][[dpc]] The La Fossa cone, where the last eruption took place, rises about 1,300 ft (400 m) above the sea, and the base of the volcano lies about 3,000 to 3,300 ft (900 to 1,000 m) below it.[[dpcit]]"
+ },
+ "map_zoom": 11,
+ "table": {
+  "rows": 1,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Vulcano?",
+   "map": true,
+   "paras": [
+    "Vulcano is the southernmost of the seven Aeolian Islands of [Italy](/volcanoes-in-italy), in the southern Tyrrhenian Sea, and covers about 8.5 square miles (22 km²).[[cie]][[dpc]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Two centers have erupted in historical times: the cone of La Fossa and Vulcanello, at the north end of the island.[[dpcit]][[ingv]] Roman chronicles put the start of Vulcanello in an undersea eruption in 126 BC, and since about 1550 an isthmus has joined it to the rest of the island.[[ingv]]",
+    "Vulcano is one of {n_country} volcanoes in Italy on the Smithsonian’s Holocene list; [Stromboli](/volcano/stromboli) and [Etna](/volcano/etna) are two others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Vulcano erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption since {last_end}.[[gvp]] Since 1890 the volcano has been quiet apart from strong emissions of hot gas and steam from the La Fossa crater and near Porto di Levante.[[dpc]]",
+    "INGV’s bulletin on October 2026, issued on November 3, found the crater’s fumaroles stable or slightly cooler than the month before, carbon dioxide in the crater at background levels and sulfur dioxide at a medium level. Local microearthquakes were infrequent, none in the area reached magnitude 1.0, and the instruments showed no significant deformation or change in gravity.[[ingv2610]] At Vulcano Porto, the carbon dioxide seeping from the ground stayed near background at two sites and above it at the Faraglione.[[ingv2610]]",
+    "The fumaroles on the north side of the crater have run at about 210 to 840 °F (100 to 450 °C) since the last eruption. In two episodes, 1916 to 1927 and 1988 to 1995, their temperatures rose, peaking at 1,150 °F and 1,290 °F (623 °C and 700 °C), INGV writes.[[ingv]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does Vulcano’s green alert mean?",
+   "paras": [
+    "Italy’s volcanic alert levels come in four colors. At Vulcano, green means the volcano is in equilibrium, yellow a potential disequilibrium, orange an unbalanced state and red a strongly unbalanced one.[[dpc]][[cme]]",
+    "The Civil Protection Department declares the level, on the assessments of its scientific centers, and holds a videoconference on the volcano every month.[[cme]][[dpc]] The latest outcome document that INGV’s Aeolian monitoring center links, of December 3, 2025, keeps the level at green.[[cme]]"
+   ]
+  },
+  {
+   "id": "2021",
+   "h": "What happened in the 2021 gas crisis?",
+   "paras": [
+    "From September 2021 INGV recorded significant changes in the signals from the hydrothermal system that feeds La Fossa’s fumaroles.[[cme]] Gas concentrations rose, the areas giving off gas spread and low-energy earthquakes became more frequent, and on October 1, 2021 the level went from green to yellow.[[dpcit]][[dpc]]",
+    "On November 20, 2021 the mayor of Lipari banned overnight stays in the Vulcano Porto area for 30 days because of the rising gas from the ground.[[dpcit]] INGV issued weekly bulletins from October 2021 until December 12, 2023, and later orders of the town restricted access to high-risk areas, the latest cited from April 23 and June 30, 2023.[[cme]]",
+    "After a meeting of Italy’s national commission for major risks on December 15, 2023, the level went back to green, by a government note of December 19, 2023.[[cme]][[dpc]]"
+   ]
+  },
+  {
+   "id": "1888",
+   "h": "What happened in the last eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The Smithsonian’s list dates the last eruption, at La Fossa, from {last_span}; INGV gives August 3, 1888 for the start.[[gvp]][[ingv]] Repeated explosions of medium to high energy sent out pyroclastic flows, ash and bread-crust bombs up to about 3 feet (1 m) or more across, as far as about 1.2 miles (2 km), reaching the area that is now Vulcano Porto.[[dpcit]][[dpc]][[ingv]]",
+    "Mercalli was among the scientists who described the eruption, and it gave its name to a kind of explosive activity: Vulcanian.[[vulcaniana]][[ingv]] Vulcanian eruptions are dry, violent explosions repeated at intervals, with detonations like cannon fire. They throw blocks of older lava and bombs of molten rock up to several yards across, at 220 to 670 mph (100 to 300 m/s), and can send them more than 0.6 miles (1 km) high.[[vulcaniana]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Vulcano dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow Italy’s Civil Protection Department and the town of Lipari.",
+   "paras": [
+    "The main hazard now is gas. Toxic gases escape from cracks in the ground, and carbon dioxide and hydrogen sulfide can collect to dangerous levels near the places where gas bubbles from the sea, in hollows and in closed rooms.[[dpcit]][[cme]]",
+    "The steep cone of La Fossa, weakened by the gases, can slide: slides have happened above La Forgia and on the east flanks, and a large one reaching the sea could set off a tsunami.[[dpcit]]",
+    "NOAA’s database of significant eruptions has no entry for Vulcano.[[noaa]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Vulcano?",
+   "paras": [
+    "INGV, Italy’s national institute of geophysics and volcanology. Its Catania and Palermo sections issue a monthly bulletin on the volcano’s fumaroles, gases, groundwater, earthquakes and ground movement.[[ingv2610]] Its Aeolian monitoring center publishes the current alert level and links the outcome documents of the videoconferences.[[cme]]",
+    "In the latest crisis, INGV writes, its monitoring also picked up earthquakes and deformation of the volcano.[[ingv]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Vulcano?",
+   "paras": [
+    "**{summit_ft} ft ({summit_m} m)** above sea level at Monte Aria, the island’s highest point, by the Smithsonian and the Civil Protection Department.[[gvp]][[dpc]]",
+    "The La Fossa cone rises about 1,300 ft (400 m) above the sea. The volcano is taller than it looks: its base lies about 3,000 to 3,300 ft (900 to 1,000 m) below sea level.[[dpcit]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Vulcano?",
+   "paras": [
+    "A stratovolcano, made of {rock}, by the Smithsonian.[[gvp]]",
+    "Its eruptions above the sea began about 120,000 years ago.[[ingv]] They built at least three large volcanic edifices, partly destroyed by several caldera collapses.[[cie]] The La Fossa cone is made of layers of tuff and lava flows from about the last 6,000 years.[[dpcit]]",
+    "The island also gave volcanoes their name: in Roman times the god who forged weapons for the other gods inside the cone of La Fossa became Vulcano, and the name became the word for volcanoes everywhere, INGV writes.[[cie]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Vulcano erupt?",
+   "paras": [
+    "The Smithsonian counts {n_all} confirmed eruptions. The oldest is dated to about {oldest}; {n_written} are known from written reports and {n_other} were dated from their deposits or by laboratory methods.[[gvp]]",
+    "Since {since_year} the list has {n_since} eruptions, some of them years long, and the last ended in {last_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Vulcano’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Vulcano has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} dated from their deposits or by laboratory methods.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "1888 to 1890",
+ "callouts": [
+  {
+   "number": "1.2",
+   "unit": "miles",
+   "text": "How far bombs from La Fossa flew in the eruption of 1888 to 1890 (about 2 km).",
+   "source": "Source: Civil Protection Department.[[dpcit]]"
+  },
+  {
+   "number": "670",
+   "unit": "mph",
+   "text": "Top launch speed of blocks and bombs in Vulcanian explosions (300 m/s), the kind named after this eruption.",
+   "source": "Source: Civil Protection Department.[[vulcaniana]]"
+  }
+ ],
+ "faq_h": "Vulcano questions and answers",
+ "faq": [
+  [
+   "Is Vulcano erupting now?",
+   "No. Its last eruption on the Smithsonian’s list ended on {last_end}. Since then it has given off hot gas and steam from the La Fossa crater and near Porto di Levante."
+  ],
+  [
+   "What is Vulcano’s alert level?",
+   "Green, the lowest of Italy’s four levels, in November 2026. It was yellow from October 1, 2021 to December 19, 2023, during a gas crisis."
+  ],
+  [
+   "When did Vulcano last erupt?",
+   "From {last_span}, at the La Fossa crater, by the Smithsonian’s list."
+  ],
+  [
+   "Why is it called Vulcano?",
+   "In Roman times the god who forged weapons for the other gods inside the cone of La Fossa became Vulcano, and the name became the word for volcanoes everywhere."
+  ],
+  [
+   "What is a Vulcanian eruption?",
+   "A series of dry, violent explosions at intervals, with detonations like cannon fire, that throw blocks and bombs up to several yards across. The name comes from Vulcano’s eruption of 1888 to 1890."
+  ],
+  [
+   "How tall is Vulcano?",
+   "{summit_ft} ft ({summit_m} m) above sea level at Monte Aria. Its base lies about 3,000 to 3,300 ft (900 to 1,000 m) below the sea."
+  ],
+  [
+   "Is Vulcano dangerous?",
+   "The main hazard now is gas: carbon dioxide and hydrogen sulfide can collect in hollows, closed rooms and near places where gas bubbles from the sea."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Vulcano record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=211050"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "dpc",
+   "publisher": "Dipartimento della Protezione Civile (Italy)",
+   "title": "Vulcano: alert level, alert colors and the changes of 2021 and 2023",
+   "url": "https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/vulcano/"
+  },
+  {
+   "id": "dpcit",
+   "publisher": "Dipartimento della Protezione Civile (Italy)",
+   "title": "Vulcano: the island, the La Fossa cone, the last eruption, hazards and the 2021 crisis (in Italian)",
+   "url": "https://rischi.protezionecivile.gov.it/it/approfondimento/vulcano/"
+  },
+  {
+   "id": "cme",
+   "publisher": "Istituto Nazionale di Geofisica e Vulcanologia (INGV), Centro Monitoraggio Eolie",
+   "title": "Stato di attività di Vulcano: alert level, the 2021-2023 crisis and the videoconference of December 3, 2025 (in Italian)",
+   "url": "https://cme.ingv.it/statodi-attivita-dei-vulcani-eoliani/vulcano"
+  },
+  {
+   "id": "ingv2610",
+   "publisher": "Istituto Nazionale di Geofisica e Vulcanologia (INGV), Sezioni di Catania e Palermo",
+   "title": "Bollettino mensile Vulcano, Rep. N. M11/2026: October 2026, issued November 3, 2026 (PDF, in Italian)",
+   "url": "https://www.ct.ingv.it/index.php/monitoraggio-e-sorveglianza/prodotti-del-monitoraggio/bollettini-settimanali-multidisciplinari/1182-bollettino-Mensile-sul-monitoraggio-vulcanico-geochimico-e-sismico-del-vulcano-Vulcano-del-2026-11-03/file"
+  },
+  {
+   "id": "ingv",
+   "publisher": "Istituto Nazionale di Geofisica e Vulcanologia (INGV)",
+   "title": "Vulcano: activity, Vulcanello, the eruption of 1888-1890 and the fumaroles (in Italian)",
+   "url": "https://www.ingv.it/vulcano"
+  },
+  {
+   "id": "cie",
+   "publisher": "Istituto Nazionale di Geofisica e Vulcanologia (INGV), Centro Informativo Vulcani Isole Eolie",
+   "title": "Vulcano (in Italian)",
+   "url": "https://cie.ingv.it/i-vulcani-delle-isole-eolie/vulcano"
+  },
+  {
+   "id": "vulcaniana",
+   "publisher": "Dipartimento della Protezione Civile (Italy)",
+   "title": "L’attività “vulcaniana” (in Italian)",
+   "url": "https://www.protezionecivile.gov.it/it/approfondimento/l-attivit---vulcaniana-/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today, in whole years.",
+  "Feet, miles, square miles, miles per hour and °F are converted from the metric figures in the sources and rounded.",
+  "The Smithsonian dates the start of the last eruption to August 2, 1888; INGV’s page on the volcano gives August 3, 1888."
+ ],
+ "expect": {
+  "last_end": "March 22, 1890",
+  "last_span": "August 2, 1888 to March 22, 1890",
+  "last_year": "1890",
+  "n_all": "37",
+  "n_since": "14",
+  "since_year": "1444",
+  "n_written": "27",
+  "n_other": "10",
+  "oldest": "6550 BCE",
+  "n_country": "13",
+  "coords": "38.404°N, 14.962°E",
+  "rock": "trachybasalt to tephrite basanite",
+  "type": "Stratovolcano",
+  "summit_m": "500",
+  "gvp_summit_m": "500",
+  "noaa_n": "0"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
