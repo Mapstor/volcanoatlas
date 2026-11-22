@@ -1,0 +1,390 @@
+{
+ "slug": "kirishimayama",
+ "volcano_number": 282090,
+ "name": "Kirishima",
+ "country": "Japan",
+ "title": "Kirishima Volcano (Shinmoedake): Alert Level & Eruptions",
+ "description": "Kirishima in Japan: Shinmoedake’s alert level in November 2026, its eruptions of 2025, 2018 and 2011, the deaths on record and the full eruption list.",
+ "h1": "Kirishima Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 742
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "it lasted {last_length}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 2 of five at Shinmoedake.** The Japan Meteorological Agency’s commentary of November 20, 2026 keeps its warning for the area around the crater and records no eruption since September 8, 2025. Volcanic earthquakes under the crater had been frequent since November 7, and the volcano gave off about 200 metric tons of sulfur dioxide a day on November 19.[[jma1120]]",
+ "lede": "Kirishima is a group of more than 20 small volcanoes on the island of Kyushu, in southern Japan. One of its cones, Shinmoedake, erupted in 2011, 2017, 2018 and 2025, and Japan’s weather agency still keeps a warning on its crater. Another, Ohachi, which the agency calls the most active of the group, has not erupted since 1923; its eruptions killed people in 1566, 1895, 1896, 1900 and 1923. Below: what Shinmoedake is doing now, what the alert levels mean, the recent eruptions, the deaths on record, the dangers, the heights and the full record.",
+ "answer": "**Kirishima is not erupting by the Smithsonian’s list.** Its last eruption, at the Shinmoedake cone, ran from {last_span}.[[gvp]][[jmahist]] Japan’s weather agency keeps Shinmoedake at **Volcanic Alert Level 2 of five**, a warning for about 1.2 miles (2 km) around its crater, and its commentary of November 20, 2026 reports frequent volcanic earthquakes under the crater since November 7.[[jma1120]] The highest peak, Karakunidake, is **{summit_ft} ft ({summit_m} m)**.[[jmapage]]",
+ "timeline": {
+  "from": 700,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1716.86,
+    "label": "1716"
+   },
+   {
+    "year": 1235.07,
+    "label": "1235"
+   },
+   {
+    "year": 788.3,
+    "label": "788"
+   },
+   {
+    "year": 2011.05,
+    "label": "2011"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Most entries before 1880 have no end date. Until 1923 most eruptions came from Ohachi; since 1959 they have come from Shinmoedake, apart from a small one at the north foot in 1971.[[gvp]][[jmahist]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "highest of 20+ cones",
+  "caption": "Kirishima drawn as one cone. The height of its highest peak, Karakunidake, and the land around the group are to scale; the outline is schematic.[[jmapage]][[etopo]] The real volcano is a group of more than 20 small volcanoes on the southern rim of the Kakuto caldera; its recent eruptions came from Shinmoedake, 4,662 ft (1,421 m) high.[[jma]][[jmapage]]"
+ },
+ "map_zoom": 9,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Kirishima?",
+   "map": true,
+   "paras": [
+    "Kirishima is in southern [Japan](/volcanoes-in-japan), on the island of Kyushu, on the border of Miyazaki and Kagoshima prefectures, at {coords}.[[gvp]][[noaa]][[jma]] Japan’s weather agency and the Smithsonian list it as Kirishimayama.[[jmapage]][[gvp]]",
+    "Its cones are spread over the southern rim of the Kakuto caldera, by the agency’s national catalogue.[[jma]] Shinmoedake, the cone that erupted in 2025, sits between the highest peak, Karakunidake, to its northwest and Takachihonomine to its southeast.[[jmapage]]",
+    "The agency’s warning for Shinmoedake names two municipalities, Kobayashi in Miyazaki and Kirishima in Kagoshima.[[jmanow]] NOAA’s note on the eruption of 2011 puts [Sakurajima](/volcano/aira) 28 miles (45 km) to the southwest.[[noaa]]",
+    "Kirishima is one of {n_country} volcanoes in Japan on the Smithsonian’s Holocene list. [Suwanosejima](/volcano/suwanosejima), [Mount Fuji](/volcano/fujisan) and [Mount Asama](/volcano/asamayama) are three of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Kirishima erupting now?",
+   "table": "periods",
+   "paras": [
+    "Not by the Smithsonian’s list. Its last eruption, at Shinmoedake, ran from {last_span}.[[gvp]][[jmahist]] Japan’s weather agency issued its last eruption reports for Shinmoedake on September 7, 2025, and has observed no eruption there since September 8.[[jmaobs]][[jma1120]]",
+    "The agency still keeps Shinmoedake at **Volcanic Alert Level 2** of five. Its commentary of November 20, 2026 reports that volcanic earthquakes under the crater had been frequent since November 7. White steam rose up to 660 ft (200 m) above the crater rim, and the volcano gave off about 200 metric tons of sulfur dioxide a day on November 19, as on November 11, a level the agency calls slightly high.[[jma1120]]",
+    "Satellite positioning had shown a slight swelling deep under Kirishima; that has stalled since about mid-December 2025, and the stretching that pointed to swelling under Shinmoedake itself has not been seen since July 2025.[[jma1120]]",
+    "The eruption before the last one on the list began on {prev_start}. The Smithsonian ends it {prev_end}; the agency observed its last eruption of that year on June 27, 2018.[[gvp]][[jma0622]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What do Kirishima’s alert levels mean?",
+   "paras": [
+    "Japan’s volcanic alert levels run from 1 to 5. At Kirishima the weather agency keeps a separate level for four areas: Shinmoedake, Ohachi, Ebino Kogen around the Ioyama vent, and Ohataike.[[jmapage]] The rest of the group has a general notice only, with no level.[[jma2608]]",
+    "Shinmoedake is at **Level 2**, which closes the area around the crater. The warning is for large blocks thrown up to about 1.2 miles (2 km) from the crater and pyroclastic flows reaching about 0.6 miles (1 km).[[jma1120]] It dates from October 17, 2025, when the agency lowered the level from 3.[[jmanow]]",
+    "Level 3 bans climbing and keeps people out to about 1.9 miles (3 km) from the crater, or about 2.5 miles (4 km) when the activity calls for it. Levels 4 and 5 are for evacuating first the elderly and others who need help, then everyone, from the residential areas at risk. Level 1 can close the crater, the cracks on its west slope and the rim when needed.[[jmaleaf]]",
+    "Shinmoedake went up to Level 3 twice in 2025: on March 30, after a jump in volcanic earthquakes and tilt that showed swelling, until May 27; and on June 23, after a sharp rise in sulfur dioxide, until October 17.[[jma2025]] The levels have been in use there since December 1, 2007.[[jmaleaf]]",
+    "Ohachi, Ebino Kogen and Ohataike were at Level 1 on September 1, 2026.[[jma2608]] On November 22, 2026, the agency’s list of volcanoes under a warning included no area of Kirishima other than Shinmoedake.[[jmaindex]]"
+   ]
+  },
+  {
+   "id": "2025",
+   "h": "What happened in the 2025 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "Steam had come back at the cracks on Shinmoedake’s west slope on April 30, 2025.[[jmahist]] On June 22 an eruption began on the northeast side of the crater, the first the agency had observed there since June 27, 2018. Ash fell on the town of Takaharu that afternoon.[[jmahist]][[jma0622]]",
+    "The next day the agency measured 4,000 metric tons of sulfur dioxide a day at the foot of the volcano, where none had been found on May 15, and raised the level to 3 at 6:30 p.m.[[jma2506]]",
+    "From about July 3 the crater also erupted from its southeast side, and after mid-July the eruptions came at longer and longer intervals. The tallest plume rose about 18,000 ft (5,500 m) above the crater rim on August 28.[[jma2025]][[jmahist]]",
+    "Ash from about July 2 held a few grains that may have been fresh magma, the agency found, and its cameras confirmed no large blocks thrown out.[[jma2025]]",
+    "Its last eruption reports came on September 7, 2025. With the gas declining, it lowered the level to 2 on October 17.[[jmaobs]][[jma2025]]"
+   ]
+  },
+  {
+   "id": "2011",
+   "h": "What happened in the 2011 and 2018 eruptions?",
+   "paras": [
+    "Shinmoedake’s eruption of 2011 began small on January 19 and became a sub-Plinian eruption, a large explosive one, on January 26. Lava then piled up inside the crater: by early February it was about 2,000 ft (600 m) across.[[jmahist]][[jma]]",
+    "Thirteen explosions followed between January 27 and March 1. The one on February 1 threw large blocks about 2 miles (3.2 km) southwest of the crater, and its air shock broke windows in Kirishima City.[[jma]][[jmahist]] NOAA’s note counts more than 180 broken windowpanes in hospitals and schools about 4 miles (6 km) from the crater, and a 92-year-old woman injured.[[noaa]]",
+    "Small stones from later blasts damaged car sunroofs in Kobayashi on February 14 and solar equipment in Takaharu on April 18. Eruptions went on until early September 2011.[[jmahist]][[jma]]",
+    "Shinmoedake erupted again from October 11 to 17, 2017, with a plume up to about 7,500 ft (2,300 m) above the rim and ash as far as Hyuga City, about 56 miles (90 km) to the northeast.[[jmahist]]",
+    "The eruption of 2018 began on March 1. On March 6 came the first explosion since March 1, 2011, and from March 9 lava was seen flowing down the northwest side of the crater. On April 5 the plume rose about 26,000 ft (8,000 m) above the rim, the highest of that eruption.[[jmahist]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "How many people have died at Kirishima?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Kirishimayama, from {noaa_first} to {noaa_last}. {noaa_fatal_word} give a count of the dead, {noaa_deaths} in all. For October 31, 1566 it has no count and describes the toll as many, about 101 to 1,000 people.[[noaa]]",
+    "Most of the deadly eruptions in the agency’s record came from Ohachi. On October 16, 1895, blocks thrown out by an eruption killed three men and an elderly woman within about 650 to 1,000 ft (200 to 300 m) of the crater. On March 15, 1896, a French naval officer climbing the volcano was hurt by a block and his guide was killed. On February 16, 1900, an explosion caught five hunters on the southwest flank, and two of them died later. One person died in the eruptions of July 1923.[[jmahist]]",
+    "Shinmoedake’s eruption of 1716 to 1717 is known in Japan as the Kyoho eruption. Its outburst of November 9, 1716, with falls of pumice and pyroclastic flows, killed 5 people and injured 31. Shrines, temples and more than 600 houses burned, and 405 cattle and horses died, by the agency’s record. NOAA’s two entries for that eruption count one death each.[[jmahist]][[noaa]]",
+    "NOAA’s entry for August 26, 1989 records two deaths, but its note says there was no eruption.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Kirishima dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Japan Meteorological Agency and the local governments around the volcano.",
+   "paras": [
+    "Near Shinmoedake’s crater, yes. The warning in force covers large blocks thrown up to about 1.2 miles (2 km) and pyroclastic flows up to about 0.6 miles (1 km) from the crater, and downwind, ash and small stones can fall much farther. The agency asks people to follow the local governments’ instructions and stay out of the dangerous areas.[[jma1120]]",
+    "When an eruption threatens places where people live, the level goes to 4 or 5; at two hot-spring areas, Shinyu and Yunono, the agency’s leaflet calls for that response from Level 3.[[jmaleaf]]",
+    "Eruptions have reached farther than the zone of the current warning. A pyroclastic flow ran about 1.9 miles (3 km) from the crater in February 1717, and blocks landed about 2 miles (3.2 km) away on February 1, 2011.[[jmaleaf]][[jma]]",
+    "Ebino Kogen has had small eruptions of its own. Ioyama erupted on April 19, 2018, throwing large blocks about 330 ft (100 m), and again about 1,640 ft (500 m) to the west on April 26.[[jmahist]] Its previous eruption that left deposits, in 1768, lasted about 40 days.[[jmaio]]",
+    "It has been at Level 1 since December 6, 2023, and the agency still warns that hot water and mud can be thrown out inside the Ioyama crater and within about 330 ft (100 m) of a steaming area 1,640 ft (500 m) to its west, and that the gas there is a hazard.[[jma552]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Kirishima?",
+   "paras": [
+    "The Japan Meteorological Agency, which lists Kirishimayama among the volcanoes it monitors continuously.[[jmapage]] Its notices come from the Fukuoka District and Kagoshima Local Meteorological Observatories.[[jma1120]]",
+    "Its instruments are seismometers, tiltmeters, microphones for the air waves of explosions, satellite positioning, optical distance meters and cameras.[[jmapage]] Its national catalogue names the other monitors: the Geospatial Information Authority of Japan, the National Research Institute for Earth Science and Disaster Resilience, the University of Tokyo’s Earthquake Research Institute, Kyushu and Kagoshima universities, Kagoshima Prefecture and the municipalities.[[jma]]",
+    "The agency publishes a document on all of Kirishima once a month, early in the month.[[jmapage]] It issued a commentary on Shinmoedake every Friday from October 2 to November 20, 2026.[[jmalist]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Kirishima?",
+   "paras": [
+    "Japan’s weather agency gives **{summit_ft} ft ({summit_m} m)** for Karakunidake, the highest peak of the group, and the Smithsonian’s list gives the same.[[jmapage]][[gvp]]",
+    "The agency’s other heights are Takachihonomine 5,161 ft (1,573 m), Shinmoedake 4,662 ft (1,421 m), Ohatayama 4,439 ft (1,353 m) and Ioyama 4,321 ft (1,317 m).[[jmapage]]",
+    "Karakunidake stands about {rise_ft} ft ({rise_m} m) above the land around the group, which lies at about {ground_ft} ft ({ground_m} m).[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Kirishima?",
+   "paras": [
+    "The Smithsonian classes Kirishimayama as a shield volcano, with {rock} as its main rock.[[gvp]] Japan’s weather agency describes a group of small [stratovolcanoes](/types-of-volcanoes) and pyroclastic cones of basalt and andesite, more than 20 in all, on the southern rim of the Kakuto caldera.[[jma]]",
+    "Most eruptions in written history came from two vents, Ohachi and Shinmoedake. The agency calls Ohachi the most active volcano of the group, though it has not erupted since 1923.[[jmapage]]",
+    "The largest eruptions on the Smithsonian’s list are rated VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index): two at Ohachi, in 788 and {largest_year}, and two from older vents thousands of years earlier.[[gvp]] The eruption of {largest_year} sent out a lava flow, by the agency’s record.[[jmahist]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Kirishima erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}, the year of the first eruption in written records.[[gvp]][[jmahist]]",
+    "The Smithsonian rates {n_vei2} of them VEI 2, {n_vei_marked} of those with a question mark, and {n_vei3} VEI 3.[[gvp]]",
+    "Since 1991 the longest pause between eruptions lasted {longest_gap_years} years, from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Kirishima’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Kirishimayama has **{n_all} confirmed eruptions**: {n_written} known from reports, {n_rc_word} dated by radiocarbon and {n_tephra_word} by layers of ash. It lists {n_unconfirmed_word} more as unconfirmed.[[gvp]]",
+    "The record has no entry for the small eruptions at Ioyama on April 19 and 26, 2018, which Japan’s weather agency records. Its entry for 2025 names no vent; the agency places that eruption at Shinmoedake.[[gvp]][[jmahist]]"
+   ]
+  }
+ ],
+ "callout_note": "the 2025 eruption",
+ "callouts": [
+  {
+   "number": "3.4",
+   "unit": "miles",
+   "text": "Height of the tallest plume of the 2025 eruption above Shinmoedake’s crater rim, on August 28, 2025 (5.5 km).",
+   "source": "Source: Japan Meteorological Agency, record of Kirishima’s activity.[[jmahist]]"
+  },
+  {
+   "number": "4,000",
+   "unit": "tonnes",
+   "text": "Sulfur dioxide a day, measured on June 23, 2025, the day after the eruption began. None had been found on May 15.",
+   "source": "Source: Japan Meteorological Agency, monthly report for June 2025.[[jma2506]]"
+  }
+ ],
+ "faq_h": "Kirishima questions and answers",
+ "faq": [
+  [
+   "Is Kirishima erupting now?",
+   "Not by the Smithsonian’s list: its last eruption, at Shinmoedake, ended on {last_end}. Japan’s weather agency keeps Shinmoedake at Volcanic Alert Level 2, and its commentary of November 20, 2026 reports frequent volcanic earthquakes under the crater since November 7."
+  ],
+  [
+   "What is Shinmoedake’s alert level?",
+   "Level 2 of five, a warning for the area around the crater, in force since October 17, 2025: large blocks could land up to about 1.2 miles (2 km) away and pyroclastic flows could reach about 0.6 miles (1 km). Kirishima’s three other areas with levels were at Level 1 on September 1, 2026."
+  ],
+  [
+   "When did Shinmoedake last erupt?",
+   "From {last_span}, by the Smithsonian’s list. Japan’s weather agency has observed no eruption since September 8, 2025. Before that, Shinmoedake erupted in 2018, 2017 and 2011."
+  ],
+  [
+   "Can you hike near Shinmoedake?",
+   "Not close to it: at Level 2 the agency’s leaflet keeps people out of the area within about 1.2 miles (2 km) of the crater. The agency asks people to follow the local governments’ instructions; check its notices before you go."
+  ],
+  [
+   "Where is Kirishima?",
+   "In southern Japan, on the island of Kyushu, on the border of Miyazaki and Kagoshima prefectures, at {coords}."
+  ],
+  [
+   "How tall is Kirishima?",
+   "{summit_ft} ft ({summit_m} m) at Karakunidake, its highest peak. Shinmoedake, the cone that erupted in 2025, is 4,662 ft (1,421 m)."
+  ],
+  [
+   "How many people have died at Kirishima?",
+   "NOAA’s database counts {noaa_deaths} deaths in its entries from 1716 to 1989, two of them in 1989, when its note says there was no eruption. For October 31, 1566 it describes the toll as many, about 101 to 1,000 people."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Kirishimayama record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=282090"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jma",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 87. Kirishimayama (PDF, 2013)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/087_kirishimayama.pdf"
+  },
+  {
+   "id": "jmapage",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Kirishimayama: heights, alert-level areas and instruments (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/fukuoka/505_Kirishimayama/505_index.html"
+  },
+  {
+   "id": "jmahist",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Kirishimayama: volcanic activity since written records began (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/fukuoka/505_Kirishimayama/505_history.html"
+  },
+  {
+   "id": "jma1120",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Commentary on the state of the volcano, Kirishimayama (Shinmoedake) No. 47, November 20, 2026 (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/VK20261120160000_551.html"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Kirishimayama (Shinmoedake): warnings, alert level and commentaries (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/551.html"
+  },
+  {
+   "id": "jmalist",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Commentaries on the state of the volcano issued for Kirishimayama (Shinmoedake) (list, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/volinfo.php?info=VK&id=551"
+  },
+  {
+   "id": "jmaobs",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Eruption observation reports issued for Kirishimayama (Shinmoedake) (list, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/volinfo.php?info=VG&id=551"
+  },
+  {
+   "id": "jma0622",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Commentary on the state of the volcano, Kirishimayama (Shinmoedake) No. 48, June 22, 2025 (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/VK20250622172000_551.html"
+  },
+  {
+   "id": "jma2506",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National monthly volcano summary, June 2025 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/eqev/data/gaikyo/monthly/202506/202506nihon_kazan_gaikyo.pdf"
+  },
+  {
+   "id": "jma2025",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Japan’s main volcanic activity in 2025, in the monthly report for December 2025 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/eqev/data/gaikyo/monthly/202512/202512nen_nihon_kazan.pdf"
+  },
+  {
+   "id": "jmaleaf",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic Alert Levels of Kirishimayama (Shinmoedake), leaflet, December 2021 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/level/PDF/level_551.pdf"
+  },
+  {
+   "id": "jma2608",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Monthly volcano summary for the Fukuoka region, August 2026 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/fukuoka/26m08/500_26m08.pdf"
+  },
+  {
+   "id": "jmaindex",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcano information for climbers: volcanoes under a warning (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/index.html"
+  },
+  {
+   "id": "jma552",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Kirishimayama (Ebino Kogen, Ioyama area): forecast, alert level and cautions (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/552.html"
+  },
+  {
+   "id": "jmaio",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Criteria for the Volcanic Alert Levels of Kirishimayama (Ebino Kogen, Ioyama area), as of March 14, 2025 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/level_kijunn/552_level_kaisetsu.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today.",
+  "**about {rise_ft} ft ({rise_m} m):** Karakunidake’s height minus the height of the land around the group, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet and miles are converted from the metric figures in the sources and rounded. Dates of the Japan Meteorological Agency’s notices are Japan time.",
+  "NOAA dates the death of 1923 to July 1; Japan’s weather agency lists eruptions on July 11, 15, 16 and 20, 1923."
+ ],
+ "expect": {
+  "last_span": "June 22 to September 7, 2025",
+  "last_end": "September 7, 2025",
+  "last_length": "2 months",
+  "prev_start": "March 1, 2018",
+  "prev_end": "about June 22, 2018",
+  "n_all": "79",
+  "n_since": "71",
+  "since_year": "742",
+  "n_written": "70",
+  "n_rc_word": "three",
+  "n_tephra_word": "six",
+  "n_unconfirmed_word": "six",
+  "max_vei": "4",
+  "n_max_vei": "4",
+  "largest_year": "1235",
+  "n_vei2": "52",
+  "n_vei3": "14",
+  "n_vei_marked": "30",
+  "n_country": "105",
+  "coords": "31.934°N, 130.862°E",
+  "rock": "andesite to basaltic andesite",
+  "type": "Shield volcano",
+  "summit_m": "1,700",
+  "gvp_summit_m": "1,700",
+  "longest_gap_years": "16",
+  "longest_gap_from_year": "1992",
+  "longest_gap_to_year": "2008",
+  "noaa_n_word": "nine",
+  "noaa_fatal_word": "Seven",
+  "noaa_deaths": "12",
+  "noaa_described_count": "1",
+  "noaa_first": "1566",
+  "noaa_last": "2011"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
