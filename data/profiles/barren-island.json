@@ -1,0 +1,308 @@
+{
+ "slug": "barren-island",
+ "volcano_number": 260010,
+ "name": "Barren Island",
+ "country": "India",
+ "title": "Barren Island: India’s Only Active Volcano, Last Eruption",
+ "description": "Barren Island in the Andaman Sea, India’s only active volcano: its last eruption, how often it erupts, how it is watched and why visitors stay on boats.",
+ "h1": "Barren Island",
+ "facts": {
+  "count_from": 1991
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "{n_since} eruptions since {since_year}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting on the Smithsonian’s list.** Its last eruption there ended on {last_end}.[[gvp]] The list of ash advisories from the past seven days, read on {read_date}, had none for Barren Island; the Darwin Volcanic Ash Advisory Centre issues them for the island from satellite images.[[vaacrecent]][[vaa2025]] A 2021 study found no seismic monitoring on the island.[[gunda21]]",
+ "lede": "Barren Island is a small, uninhabited island of India in the Andaman Sea, and the only volcano between Sumatra and Myanmar known to have erupted in historical times. Since {since_year} it has erupted {n_since} times, after none confirmed on the Smithsonian’s list since 1832. Below: its state now, how often it erupts, how it is watched without an observatory, whether you can visit, its size and every eruption on record.",
+ "answer": "**Barren Island is not erupting on the Smithsonian’s list.** Its last eruption ran from {last_span}, one of {n_since} since {since_year}.[[gvp]] The ash advisories of the past seven days, read on {read_date}, had none for the island.[[vaacrecent]] The volcano stands **{summit_ft} ft ({summit_m} m)** above the Andaman Sea.[[gvp]]",
+ "timeline": {
+  "from": 1780,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1787.4,
+    "label": "1787"
+   },
+   {
+    "year": 1832.2,
+    "label": "1832"
+   },
+   {
+    "year": 1991.25,
+    "label": "1991"
+   },
+   {
+    "year": 2025.6,
+    "label": "2025"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "almost 90% is under water",
+  "caption": "Barren Island as a simple outline rising from the sea. Only the height of its highest point is to scale; the outline is schematic.[[gvp]] The volcano rises from about 7,400 ft (2,250 m) below the sea, and almost 90 percent of it is under water; that part is not drawn.[[gvp]][[gunda21]]"
+ },
+ "map_zoom": 13,
+ "map_label": "below",
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Barren Island?",
+   "map": true,
+   "paras": [
+    "Barren Island is an island of India in the Andaman Sea, about 84 miles (135 km) north-east of Port Blair, the capital of the Andaman and Nicobar Islands.[[gvp]] In 2024 India’s government decided to rename Port Blair Sri Vijaya Puram.[[pib2024]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "The island is small and has no inhabitants.[[gvp]] It is the only volcano on the arc of volcanoes between Sumatra and Myanmar known to have erupted in historical times.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Barren Island erupting now?",
+   "paras": [
+    "No, not on the Smithsonian’s list, where its last eruption ran from {last_span}.[[gvp]] The list of ash advisories from the past seven days, read on {read_date}, had none for Barren Island.[[vaacrecent]]",
+    "That check rests on satellites: the Darwin Volcanic Ash Advisory Centre in Australia draws its advisories for the island from satellite images, and a 2021 study by the Indian Institute of Remote Sensing found no seismic station on the island.[[vaa2025]][[gunda21]]"
+   ]
+  },
+  {
+   "id": "only",
+   "h": "Is Barren Island India’s only active volcano?",
+   "paras": [
+    "It is the only volcano in India with a dated eruption on the Smithsonian’s list.[[gvp]] The Andaman and Nicobar Islands’ tourism page and its development corporation both call it the country’s only active volcano.[[antourism]][[aniidco]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Barren Island erupt?",
+   "table": "periods",
+   "paras": [
+    "Often, since {since_year}. The Smithsonian’s list has {n_since} eruptions from {counted_from} to {last_end}, and the volcano was erupting on {share} percent of the days in that time.[[gvp]] The longest pause between them ran from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]]",
+    "Before that, the list has eruptions in 1787, 1789, 1795, 1803 to 1804 and 1832, all known from written reports, and no confirmed eruption from 1832 until {since_year}.[[gvp]] Its oldest dated eruption, from about {oldest}, is known from an ash layer.[[gvp]]"
+   ]
+  },
+  {
+   "id": "recent",
+   "h": "What are its eruptions like?",
+   "aside": "callouts",
+   "paras": [
+    "Small: the Smithsonian rates none above {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index).[[gvp]] They come from the cone of volcanic debris in the middle of the caldera, the source of every eruption on record since 1787.[[gvp]] The eruption that began on September 25, 2018 was of the kind called Strombolian, after [Stromboli](/volcano/stromboli); in April 2019, scientists who came with the Indian Coast Guard saw ash burst out every 8 to 15 minutes.[[gunda21]]",
+    "Lava flows cover much of the caldera floor and have reached the sea on the west coast, where the caldera is open.[[gvp]][[nasa2010]] In 2005, erupted rock and ash reached the sea through the broken western wall of the caldera.[[gunda21]]",
+    "Its ash matters to aircraft. On October 2, 2025, during the last eruption, an advisory from the Darwin center put ash at up to about 9,000 ft (2.7 km), drifting north-east, from images of the Himawari-9 weather satellite.[[vaa2025]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Barren Island?",
+   "paras": [
+    "No observatory does. The 2021 study says a seismic station is not available because the island is a restricted zone, and it recommends setting one up; its authors followed the 2018 eruption with satellite data and earthquake catalogs.[[gunda21]] NASA wrote in 2010 that the island is not monitored directly, and that the Indian Coast Guard, passing pilots and satellites had seen its lava flows and ash plumes off and on since 2005.[[nasa2010]]",
+    "For air traffic, the Darwin Volcanic Ash Advisory Centre, one of nine such centers in the world, advises the aviation industry where volcanic ash is and where it is moving; its advisories cover Barren Island.[[vaac]][[vaa2025]]"
+   ]
+  },
+  {
+   "id": "visit",
+   "h": "Can you visit Barren Island?",
+   "paras": [
+    "Only from a boat. The Andaman and Nicobar Islands’ development corporation says the island can be visited on board the vessel only.[[aniidco]] The islands’ tourism page says boats can be chartered with the permission of the Forest Department, and that foreign nationals must stay on board.[[antourism]]"
+   ]
+  },
+  {
+   "id": "2004",
+   "h": "Did the 2004 earthquake wake it up?",
+   "paras": [
+    "It has been suggested, not shown. Scientists of India’s National Institute of Oceanography wrote in 2006 that Barren Island was the only volcano with sustained eruptions since shortly after the great Sumatra earthquake of December 2004, and that linking the two needed further confirmation.[[nio2006]]",
+    "The 2021 study found earthquakes in the region 3.54 times as frequent in 1990 to 2020 as in 1950 to 1989. Its authors suggest that the pressure released by those earthquakes may have helped bring on eruptions, or at least shaped them.[[gunda21]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Barren Island dangerous?",
+   "note": "This page is a record, not a safety guide. For ash warnings, follow the Darwin Volcanic Ash Advisory Centre; for visits, the Andaman and Nicobar administration.",
+   "paras": [
+    "To people, little is on record: the island has no inhabitants, visitors stay on their boats, and NOAA’s database of significant eruptions has no entry for Barren Island.[[gvp]][[aniidco]][[noaa]]",
+    "Its ash is a hazard to aircraft; the Darwin center tracks it for aviation.[[vaac]][[vaa2025]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How big is Barren Island?",
+   "paras": [
+    "Its highest point is **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]] The island is about 1.9 miles (3 km) across; the caldera in it is about 1.2 miles (2 km) wide, with walls 820 to 1,150 ft (250 to 350 m) high.[[gvp]]",
+    "What shows is only the top. The volcano rises from about 7,400 ft (2,250 m) below the sea, and the 2021 study puts almost 90 percent of it under water.[[gvp]][[gunda21]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Barren Island?",
+   "paras": [
+    "A stratovolcano of {rock} above a subduction zone, the Smithsonian says.[[gvp]] Its caldera, open to the sea on the west, was formed in a large explosive eruption in the late Pleistocene, which left deposits of pyroclastic flows and surges.[[gvp]]",
+    "Eruptions in historical times have reshaped the cone of volcanic debris in the middle of the caldera.[[gvp]] In a NASA satellite image of 2010, green plants covered the caldera rim and the outer slopes.[[nasa2010]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Barren Island’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Barren Island has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} from satellite images or an ash layer.[[gvp]] The list also carries {n_unconfirmed_word} eruptions it does not count as confirmed; they are not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Barren Island’s pace",
+ "callouts": [
+  {
+   "number": "{n_since}",
+   "unit": "eruptions",
+   "text": "On the Smithsonian’s list since {counted_month_year}; before that, none was confirmed after 1832.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  },
+  {
+   "number": "{share}",
+   "unit": "percent",
+   "text": "Of the days from {counted_month_year} to {last_end}, the share that fell inside an eruption on the Smithsonian’s list.",
+   "source": "Source: Smithsonian; days counted from its dates.[[gvp]]"
+  }
+ ],
+ "faq_h": "Barren Island questions and answers",
+ "faq": [
+  [
+   "Is Barren Island erupting now?",
+   "Not on the Smithsonian’s list: its last eruption there ended on {last_end}. The ash advisories of the past seven days, read on {read_date}, had none for the island."
+  ],
+  [
+   "When did Barren Island last erupt?",
+   "From {last_span}, by the Smithsonian’s list, one of {n_since} eruptions since {since_year}."
+  ],
+  [
+   "Is Barren Island India’s only active volcano?",
+   "It is the only volcano in India with a dated eruption on the Smithsonian’s list, and the Andaman and Nicobar Islands’ tourism page calls it the country’s only active volcano."
+  ],
+  [
+   "Can you visit Barren Island?",
+   "Only from a boat. The islands’ development corporation says it can be visited on board the vessel only, and the tourism page says boats need the Forest Department’s permission and foreign nationals must stay on board."
+  ],
+  [
+   "Does anyone live on Barren Island?",
+   "No. The Smithsonian describes the island as uninhabited."
+  ],
+  [
+   "How often does Barren Island erupt?",
+   "It has erupted {n_since} times since {counted_month_year} and was erupting on {share} percent of the days from then to {last_end}, by the Smithsonian’s dates."
+  ],
+  [
+   "Has Barren Island killed anyone?",
+   "No deaths are on record. NOAA’s database of significant eruptions has no entry for it, and the island has no inhabitants."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Barren Island record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=260010"
+  },
+  {
+   "id": "vaacrecent",
+   "publisher": "Bureau of Meteorology, Australia",
+   "title": "Volcanic ash advisories received in the last 7 days",
+   "url": "https://www.bom.gov.au/products/Volc_ash_recent.shtml"
+  },
+  {
+   "id": "vaac",
+   "publisher": "Bureau of Meteorology, Australia",
+   "title": "Darwin Volcanic Ash Advisory Centre",
+   "url": "https://www.bom.gov.au/aviation/volcanic-ash/"
+  },
+  {
+   "id": "vaa2025",
+   "publisher": "Japan Meteorological Agency, Tokyo VAAC",
+   "title": "Volcanic ash advisory 2025/8 from VAAC Darwin for Barren Island, October 2, 2025 (copy)",
+   "url": "https://www.data.jma.go.jp/vaac/data/TextData/2025/20251002_26001000_0008_DA_Text.html"
+  },
+  {
+   "id": "nasa2010",
+   "publisher": "NASA Earth Observatory",
+   "title": "Barren Island Ash Plume, September 27, 2010",
+   "url": "https://science.nasa.gov/earth/earth-observatory/barren-island-ash-plume-46047/"
+  },
+  {
+   "id": "gunda21",
+   "publisher": "Indian Academy of Sciences, Journal of Earth System Science 130:162 (2021)",
+   "title": "Gunda, Champati Ray, Chauhan, Chauhan and Balaji: Barren Island volcanism and seismicity: An intriguing finding",
+   "url": "https://www.ias.ac.in/article/fulltext/jess/130/0162"
+  },
+  {
+   "id": "nio2006",
+   "publisher": "CSIR-National Institute of Oceanography, digital repository",
+   "title": "Laluraj, Balachandran, Sabu and Panampunnayil (2006): Persistent volcanic signature observed around Barren Island, Andaman Sea, India",
+   "url": "https://drs.nio.res.in/drs/handle/2264/597"
+  },
+  {
+   "id": "aniidco",
+   "publisher": "Andaman and Nicobar Islands Integrated Development Corporation (ANIIDCO)",
+   "title": "Entry formalities",
+   "url": "https://aniidco.and.nic.in/entry-formality.php"
+  },
+  {
+   "id": "antourism",
+   "publisher": "Andaman & Nicobar Administration",
+   "title": "Andaman & Nicobar Tourism: Barren Island",
+   "url": "https://www.andaman.gov.in/tourism/Barren"
+  },
+  {
+   "id": "pib2024",
+   "publisher": "Press Information Bureau, Ministry of Home Affairs, India",
+   "title": "Government has decided to rename the capital of Andaman & Nicobar Islands Port Blair as “Sri Vijaya Puram”, September 13, 2024",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2054647&reg=48&lang=2"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today, in whole months.",
+  "**{share} percent of the days:** the days inside the listed eruptions from {counted_from} to {last_end}, divided by all the days in that time. Before {since_year}, some eruptions on the list lack an end date.",
+  "Miles and feet are converted from the metric figures in the sources and rounded. The October 2025 advisory gives the ash height as flight level 090, which is 9,000 ft.",
+  "The distance to Port Blair is 135 km by the Smithsonian and by India’s National Institute of Oceanography, 138 km in the 2021 study; this page uses the Smithsonian’s."
+ ],
+ "expect": {
+  "last_end": "January 11, 2026",
+  "last_span": "July 30, 2025 to January 11, 2026",
+  "last_year": "2026",
+  "n_since": "14",
+  "since_year": "1991",
+  "counted_from": "April 1, 1991",
+  "counted_month_year": "April 1991",
+  "share": "36",
+  "n_all": "20",
+  "n_written": "16",
+  "n_other": "4",
+  "n_tephra": "1",
+  "n_unconfirmed_word": "three",
+  "oldest": "8060 BCE",
+  "longest_gap_from_year": "1995",
+  "longest_gap_to_year": "2005",
+  "coords": "12.278°N, 93.858°E",
+  "rock": "basalt to picro-basalt",
+  "type": "Stratovolcano",
+  "summit_m": "354",
+  "summit_ft": "1,161",
+  "gvp_summit_m": "354",
+  "noaa_n": "0",
+  "max_vei": "2"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
