@@ -1,0 +1,326 @@
+{
+ "slug": "suwanosejima",
+ "volcano_number": 282030,
+ "name": "Suwanosejima",
+ "country": "Japan",
+ "title": "Suwanosejima Volcano: Current Eruption, Alert Level & Facts",
+ "description": "Suwanosejima in Japan has been erupting since 2004. Its alert level in November 2026, the 1813 eruption that emptied the island, and its full record.",
+ "h1": "Suwanosejima Volcano",
+ "facts": {
+  "count_from": 1813
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "at the Otake crater",
+  "note_weekly": "still going in the {period} report"
+ },
+ "since_check": "**Volcanic Alert Level 2 of five.** The Japan Meteorological Agency’s commentary of November 20, 2026 says its warning for the area around the crater continues. In the week to that day it recorded one eruption, on November 14, with a plume 2,300 ft (700 m) above the crater rim, and no explosions.[[jma1120]]",
+ "lede": "Suwanosejima is a small volcanic island in southern Japan and one of the country’s most active volcanoes. By the Smithsonian’s list it has been erupting since 2004, and Japan’s weather agency wrote in 2013 that it had erupted every year since 1956. A few dozen people live about two miles from the crater. In 1813 an eruption drove everyone off the island, and it stayed empty for 70 years. Below: what it is doing now, what its alert level means, the 1813 eruption, who lives there, its height and its record.",
+ "answer": "**Suwanosejima is erupting.** The Smithsonian lists an eruption at its Otake crater that began on {cur_since},[[gvp]] and Japan’s weather agency had the volcano at **Volcanic Alert Level 2 of five** on November 20, 2026, with a warning to keep about a mile (1.5 km) from the crater.[[jma1120]] It is a volcanic island in southern Japan, **{summit_ft} ft ({summit_m} m)** high.[[jma]]",
+ "timeline": {
+  "from": 1800,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1884.5,
+    "label": "1884"
+   },
+   {
+    "year": 1813.5,
+    "label": "1813"
+   },
+   {
+    "year": 1956.87,
+    "label": "1956"
+   },
+   {
+    "year": 2004.81,
+    "label": "2004"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The mark at 1813 is the eruption that emptied the island; nobody lived there again until 1883.[[jma]] From 1949 the raised stretches run almost into one another, and the one still going began in 2004.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "empty from 1813 to 1883",
+  "crater": "Otake crater",
+  "crater_share": 0.08,
+  "caption": "Suwanosejima as a simple outline rising from the sea. Only the summit height is to scale.[[jma]] The real island is 5 miles (8 km) long, with two craters at its summit and a collapse scar open to the sea on the east side.[[jma]][[gvp]]"
+ },
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Suwanosejima?",
+   "map": true,
+   "paras": [
+    "Suwanosejima is an island of [Japan](/volcanoes-in-japan), at {coords}.[[gvp]][[jma]] The Smithsonian places it in the northern Ryukyu Islands.[[gvp]]",
+    "The island is the volcano. Its longest diameter is 5 miles (8 km) and its shortest 3 miles (5 km).[[jma]]",
+    "It belongs to Toshima Village in Kagoshima Prefecture, a village of seven inhabited and five uninhabited islands known as the Tokara Islands.[[toshima]][[jma]] The settlement is about 2.2 miles (3.5 km) south-southwest of the Otake crater.[[jmalevel]]",
+    "Suwanosejima is one of {n_country} volcanoes in Japan on the Smithsonian’s Holocene list. [Sakurajima](/volcano/aira), [Mount Fuji](/volcano/fujisan) and [Mount Asama](/volcano/asamayama) are three of the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Suwanosejima erupting now?",
+   "table": "periods",
+   "paras": [
+    "By the Smithsonian’s list, yes. An eruption at the Otake crater began on **{cur_since}** and was continuing when the list was last updated, on {cur_last}.[[gvp]]",
+    "Japan’s weather agency has the volcano at **Volcanic Alert Level 2** of five, a warning for the area around the crater. In its commentary of November 20, 2026 it recorded one eruption in the week before, on November 14, with a plume 2,300 ft (700 m) above the crater rim. There were no explosions, no large blocks were seen, and a glow showed above the crater at night.[[jma1120]]",
+    "The agency issued such a commentary every Friday from October 2 to November 20, 2026.[[jmalist]] The warning in force dates from March 27, 2024, when it widened the Level 2 zone from about 0.6 miles (1 km) to about a mile (1.5 km) around the center of the crater, with no change in the volcano’s activity.[[jmanow]]",
+    "Activity comes and goes. The agency’s document for August 2026 records no eruption and no explosion in that month.[[jma2608]] In the week of October 9 to 16 it recorded eruptions on two days, with rumbling and ashfall at the settlement.[[jma1016]]",
+    "The agency also reports that satellite positioning from October 2024 pointed to more magma collecting on the west side of the island; that has stalled since about November 2025.[[jma1120]] Earthquakes around the island were more frequent from about October 2024 to about December 2025 and have been few since.[[jma2608]][[jma1120]]",
+    "The eruption on the list before this one ran from {prev_start} to {prev_end}; the list marks that end date as uncertain.[[gvp]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does Alert Level 2 mean at Suwanosejima?",
+   "paras": [
+    "Japan’s volcanic alert levels run from 1 to 5. They have been in use at Suwanosejima since December 1, 2007.[[jmalevel]]",
+    "Level 2 restricts the area around the crater, out to about a mile (1.5 km). Level 3 restricts entry to the mountain, out to about 1.7 miles (2.7 km). Levels 4 and 5, for evacuating first the elderly and then everyone, cover about 2.2 miles (3.5 km) or the whole island.[[jmalevel]]",
+    "Since seismometers began recording in 2001, the agency writes, small eruptions have been observed regularly and activity at the Level 2 mark has continued.[[jmalevel]]",
+    "For Level 3 the agency gives two examples, December 2020 and September 2021, when large blocks landed about 0.6 miles (1 km) from the crater several times in a short period.[[jmalevel]] In 2023 the level went down to 2 on January 24, up to 3 on March 5 and down again on June 9.[[jma2023]]",
+    "To go down to Level 1 the volcano would, as a rule, have to stay below the Level 2 mark for about six months.[[jmalevel]]"
+   ]
+  },
+  {
+   "id": "1813",
+   "h": "What happened in the 1813 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "Suwanosejima’s largest eruption on record began in 1813. The Smithsonian rates it VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index), a rating it gives to {n_max_vei} eruptions on the volcano’s list, one of them with a question mark.[[gvp]]",
+    "Thick scoria buried the places where people lived, and the southwest crater sent two lava flows to the west coast.[[gvp]]",
+    "Japan’s weather agency also lists a pyroclastic flow and puts the magma erupted at about 0.02 cubic miles (0.1 cubic km).[[jma]]",
+    "At the end the summit of Otake collapsed. The slide left the scar, open to the east coast, that still cuts the top of the volcano.[[gvp]]",
+    "Everyone left, and the island stayed empty until 1883, about 70 years.[[jma]][[gvp]]",
+    "Lava reached the sea again in 1884, the year after people came back, this time on the east coast.[[jma]][[gvp]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Does anyone live on Suwanosejima?",
+   "paras": [
+    "Yes. The village’s resident register had 56 people on the island at the end of December 2018.[[toshimaguide]] The weather agency’s catalogue gives the village’s count of 58 for October 31, 2011, and the Smithsonian’s summary says about 50.[[jma]][[gvp]]",
+    "They live about 2.2 miles (3.5 km) south-southwest of the Otake crater, beyond the zones of Levels 2 and 3.[[jmalevel]]",
+    "Ash reaches them often. The agency confirmed ashfall at the settlement on 57 days in 2022 and on 50 days in 2023.[[jma2023]] In the week to October 16, 2026 the village office’s branch on the island reported both rumbling and ashfall.[[jma1016]]",
+    "The agency’s catalogue counts about 1,000 visitors a year, from a village survey of 2010.[[jma]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Suwanosejima?",
+   "paras": [
+    "The Japan Meteorological Agency, which lists Suwanosejima among the volcanoes it monitors continuously.[[jma]] Its notices come from the Fukuoka District and Kagoshima Local Meteorological Observatories.[[jma1120]]",
+    "The instruments are cameras, seismometers, tiltmeters, satellite-positioning receivers and microphones for the air waves of explosions, run by the agency, Kyoto University and local governments.[[jma]] The monthly documents also use data from the Geospatial Information Authority of Japan, the University of Tokyo and Toshima Village.[[jma2608]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Suwanosejima?",
+   "paras": [
+    "Japan’s weather agency gives **{summit_ft} ft ({summit_m} m)** for Otake, the highest point.[[jma]] The height is counted from sea level.",
+    "Two craters sit at the summit, about 660 ft and 1,310 ft (200 m and 400 m) across, in a line from southwest to northeast.[[jma]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Suwanosejima?",
+   "paras": [
+    "Suwanosejima is a [stratovolcano](/types-of-volcanoes) made of andesite.[[jma]] The Smithsonian gives its main rock as {rock}.[[gvp]]",
+    "Its eruptions are of the strombolian and vulcanian kinds, by the agency’s catalogue.[[jma]]",
+    "Most of the volcano above the sea was built in the last 60,000 to 70,000 years.[[jma]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Suwanosejima erupt?",
+   "paras": [
+    "Almost without a break. The agency’s catalogue of 2013 says it had erupted every year since 1956.[[jma]]",
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}. The longest single entry runs from {long1_span}, {long1_years} years; the eruption still going has lasted {cur_number} {cur_unit} so far.[[gvp]]",
+    "The number of explosions swings widely from year to year. The agency counted 519 in 2006 and 70 in 2007, and 1,329 in 2022 against 186 in 2023.[[jma]][[jma2023]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Suwanosejima dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Japan Meteorological Agency and Toshima Village.",
+   "paras": [
+    "Near the crater, yes. The standing warning is for large blocks thrown within about a mile (1.5 km) of the center of the Otake crater, and for ash and small stones carried farther downwind.[[jma1120]]",
+    "Large blocks landed about 3,000 ft (900 m) out on February 15, 2023, and about 0.6 miles (1 km) out in the bursts of December 2020 and September 2021 that the agency gives as examples for Level 3.[[jma2023]][[jmalevel]]",
+    "The agency’s reference for the two highest levels is the eruption of 1813.[[jmalevel]]",
+    "NOAA’s database of significant eruptions has no entry for Suwanosejima.[[noaa]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Suwanosejima’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Suwanosejima has **{n_all} confirmed eruptions**: {n_written} known from reports and {n_tephra_word} dated from ash layers. It lists {n_unconfirmed_word} more as unconfirmed.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "1813 and 2022",
+ "callouts": [
+  {
+   "number": "70 years",
+   "unit": "empty",
+   "text": "After the eruption of 1813 nobody lived on the island until 1883.",
+   "source": "Source: Japan Meteorological Agency, national catalogue.[[jma]]"
+  },
+  {
+   "number": "1,329",
+   "unit": "explosions",
+   "text": "Counted by Japan’s weather agency in 2022. In 2023 it counted 186.",
+   "source": "Source: Japan Meteorological Agency, annual document for 2023.[[jma2023]]"
+  }
+ ],
+ "faq_h": "Suwanosejima questions and answers",
+ "faq": [
+  [
+   "Is Suwanosejima erupting now?",
+   "By the Smithsonian’s list, yes. The current eruption began on {cur_since} and was continuing at the list’s last update, on {cur_last}. Japan’s weather agency recorded one eruption in the week to November 20, 2026."
+  ],
+  [
+   "What is Suwanosejima’s alert level?",
+   "Volcanic Alert Level 2 of five on November 20, 2026: a warning to keep about a mile (1.5 km) from the Otake crater. The warning in force dates from March 27, 2024."
+  ],
+  [
+   "Where is Suwanosejima?",
+   "In southern Japan: it is one of the Tokara Islands of Kagoshima Prefecture, in the northern Ryukyu Islands, at {coords}."
+  ],
+  [
+   "Does anyone live on Suwanosejima?",
+   "Yes: 56 people by the village’s resident register at the end of December 2018, about 2.2 miles (3.5 km) from the active crater."
+  ],
+  [
+   "What happened at Suwanosejima in 1813?",
+   "Its largest eruption on record buried the settlements in scoria, sent lava to the coast and ended with the collapse of the summit. Everyone left, and the island stayed empty until 1883."
+  ],
+  [
+   "How often does Suwanosejima erupt?",
+   "Japan’s weather agency wrote in 2013 that it had erupted every year since 1956. The Smithsonian lists {n_all} confirmed eruptions."
+  ],
+  [
+   "How tall is Suwanosejima?",
+   "{summit_ft} ft ({summit_m} m) at Otake, its highest point."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Suwanosejima record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=282030"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jma",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 97. Suwanosejima (PDF, 2013)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/097_suwanosejima.pdf"
+  },
+  {
+   "id": "jma1120",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Commentary on the state of the volcano, Suwanosejima No. 47, November 20, 2026 (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/VK20261120160000_511.html"
+  },
+  {
+   "id": "jma1016",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Commentary on the state of the volcano, Suwanosejima No. 42, October 16, 2026 (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/VK20261016160000_511.html"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Suwanosejima: warnings, alert level and commentaries (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/511.html"
+  },
+  {
+   "id": "jmalist",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Commentaries on the state of the volcano issued for Suwanosejima (list, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/volinfo.php?id=511&info=VK"
+  },
+  {
+   "id": "jmalevel",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Criteria for the Volcanic Alert Levels of Suwanosejima, as of March 27, 2024 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/level_kijunn/511_level_kaisetsu.pdf"
+  },
+  {
+   "id": "jma2023",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Suwanosejima in 2023 (annual document, PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/fukuoka/2023y/511_23y.pdf"
+  },
+  {
+   "id": "jma2608",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Suwanosejima, August 2026 (monthly document, PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/fukuoka/26m08/511_26m08.pdf"
+  },
+  {
+   "id": "toshima",
+   "publisher": "Toshima Village, Kagoshima Prefecture",
+   "title": "Toshima Village Q&A: the village and its islands (in Japanese)",
+   "url": "https://www.tokara.jp/tourism/profile/qa/"
+  },
+  {
+   "id": "toshimaguide",
+   "publisher": "Toshima Village, Kagoshima Prefecture",
+   "title": "Guide to living in the village: population by island from the resident register at the end of December 2018 (PDF, in Japanese)",
+   "url": "https://www.tokara.jp/resource/kankopdf/kurashiguide.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "Feet, miles and cubic miles are converted from the metric figures in the sources and rounded.",
+  "Dates of the Japan Meteorological Agency’s notices are Japan time. The Smithsonian’s page for the volcano could not be read for this article on November 21, 2026; its summary and eruption list are taken from the Smithsonian’s own data download."
+ ],
+ "expect": {
+  "cur_since": "October 23, 2004",
+  "prev_start": "December 19, 2000",
+  "prev_end": "July 5, 2004",
+  "summit_m": "796",
+  "summit_ft": "2,612",
+  "n_all": "24",
+  "n_since": "23",
+  "n_written": "23",
+  "n_tephra_word": "one",
+  "n_unconfirmed_word": "three",
+  "max_vei": "4",
+  "n_max_vei": "4",
+  "n_max_vei_firm": "3",
+  "long1_span": "1956 to 1984",
+  "long1_years": "27",
+  "n_country": "105",
+  "rock": "andesite to basaltic andesite",
+  "coords": "29.638°N, 129.714°E",
+  "noaa_n": "0"
+ },
+ "observatory_read": "2026-11-21",
+ "reviewed": null
+}

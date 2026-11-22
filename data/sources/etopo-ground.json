@@ -452,6 +452,15 @@
 "sea_floor_m": null,
 "peak_m": 1313
 },
+"282030": {
+"name": "Suwanosejima",
+"cells": 1023,
+"sea_share": 1.0,
+"land_m": null,
+"sea_floor_m": -699,
+"peak_m": 669,
+"retrieved": "2026-11-21"
+},
 "282060": {
 "name": "Kikai",
 "cells": 1028,

@@ -183,6 +183,9 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   // newest rows only when the profile asks for that
   const periodRows = profile.table?.rows ? stats.periods.slice(-profile.table.rows) : stats.periods;
   const shortened = periodRows.length < stats.periods.length;
+  // two approximate dates in one row ("about Jan 5, 1999" to "about Feb 24, 1999") make the table wider than the
+  // text column; only then may its last heading take two lines
+  const wideDates = periodRows.some((row) => row.startText.startsWith('about ') && row.endText.startsWith('about '));
   const periodsTable = periodRows.length > 0 && (
     <>
       <p className="va-tcap" id="va-t-periods">
@@ -196,7 +199,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
               <th scope="col">Ended</th>
               <th scope="col" className="va-dur">Lasted</th>
               <th scope="col" className="va-dur">{profile.table?.gap_label ?? 'Pause that followed'}</th>
-              <th scope="col" className="va-num">Largest VEI</th>
+              <th scope="col" className={wideDates ? 'va-num va-wraps' : 'va-num'}>Largest VEI</th>
             </tr>
           </thead>
           <tbody>
