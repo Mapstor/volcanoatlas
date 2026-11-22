@@ -1,0 +1,343 @@
+{
+ "slug": "whakaari-white-island",
+ "volcano_number": 241040,
+ "name": "Whakaari/White Island",
+ "country": "New Zealand",
+ "title": "Whakaari/White Island Volcano: Alert Level & 2019 Eruption",
+ "description": "Whakaari/White Island, New Zealand’s most active volcano: GeoNet’s Level 2 in November 2026, the October eruption, the 2019 disaster and its record.",
+ "h1": "Whakaari/White Island",
+ "facts": {
+  "count_from": 1826,
+  "summit_m": 321,
+  "summit_ft": 1053,
+  "summit_source": "gnsfact",
+  "summit_source_name": "GNS Science"
+ },
+ "agency_last": {
+  "date": "2026-10",
+  "source": "geonet",
+  "name": "GeoNet"
+ },
+ "big": {
+  "line": "Last eruption: {agency_last}",
+  "number": "{agency_quiet_number}",
+  "unit": "{agency_quiet_unit} ago",
+  "note": "weak ash, by GeoNet’s count",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 2, on New Zealand’s scale of 0 to 5.** GeoNet lowered the level from 3 to 2 and the aviation color code to yellow on November 2, 2026: since Thursday, October 29, no observations had pointed to eruptive activity.[[geonet]][[geonetvab]] Level 2 stands for moderate to heightened unrest, with the potential for eruption hazards.[[geonetval]]",
+ "lede": "Whakaari/White Island is an uninhabited volcanic island in New Zealand’s Bay of Plenty and the country’s most active volcano. It erupted weakly in October 2026, and in December 2019 an explosion killed 22 of the 47 people on the island. Below: its state now, what New Zealand’s alert levels mean, the 2019 eruption, the deaths on record, the dangers, its height and every eruption on record.",
+ "answer": "**Whakaari/White Island is not erupting.** GeoNet reported a weak eruption of ash in **October 2026** and lowered the alert level to **2** on November 2, after no sign of eruptive activity since October 29.[[geonet]][[geonetvab]] The Smithsonian’s list ends earlier, with the eruption of {last_span}.[[gvp]] The island’s highest point is **{summit_ft} ft ({summit_m} m)** above the sea.[[gnsfact]]",
+ "timeline": {
+  "from": 1820,
+  "to": 2030,
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1826.92,
+    "label": "1826"
+   },
+   {
+    "year": 1886.71,
+    "label": "1886"
+   },
+   {
+    "year": 1966.87,
+    "label": "1966"
+   },
+   {
+    "year": 1977.5,
+    "label": "1976"
+   },
+   {
+    "year": 1990.0,
+    "label": "1986"
+   },
+   {
+    "year": 2019.94,
+    "label": "2019"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] GeoNet also reported a weak eruption in {agency_last} that this list does not have.[[geonet]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "most active in NZ",
+  "caption": "Whakaari/White Island as a simple outline rising from the sea. Only the height of its highest point is to scale; the outline is schematic.[[gnsfact]] About 70 percent of the volcano is under the sea and is not drawn.[[gnsfact]]"
+ },
+ "map_zoom": 13,
+ "map_label": "above",
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Whakaari/White Island?",
+   "map": true,
+   "paras": [
+    "Whakaari/White Island is a volcanic island in the Bay of Plenty of [New Zealand](/volcanoes-in-new-zealand), about 30 miles (48 km) offshore by GeoNet’s figure, north-east of Whakatāne.[[geonetabout]][[teara]] It is about 1.2 miles (2 km) across and covers about 800 acres (325 hectares), and no one lives on it.[[gnsfact]][[geonetabout]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Its Māori name, Te Puia o Whakaari, means to make visible, GNS Science writes.[[gnsfact]] The island is important to the Ngāti Awa and Te Whakatōhea tribes, and it is a privately owned scenic reserve.[[teara]][[gnsfact]]",
+    "Whakaari is one of {n_country} volcanoes in New Zealand on the Smithsonian’s Holocene list; [Ruapehu](/volcano/ruapehu) and [Taranaki](/volcano/taranaki) are two others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Whakaari erupting now?",
+   "paras": [
+    "No. GeoNet, which watches New Zealand’s volcanoes, lowered the alert level to 2 on November 2, 2026, because since Thursday, October 29, no observations had pointed to eruptive activity.[[geonet]][[geonetvab]]",
+    "The eruption itself was weak. On October 19 GeoNet reported low, intermittent plumes of steam and gas with minor ash. On October 21 it raised the level to 3 and the aviation color code to orange, writing that the volcano was now continuously, passively erupting a small amount of ash, and on October 27 low plumes of ash and gas were still rising.[[geonet]]",
+    "The Smithsonian’s list ends earlier, with the eruption of {last_span}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does Alert Level 2 mean at Whakaari?",
+   "paras": [
+    "New Zealand’s volcanic alert levels run from 0 to 5. Levels 1 and 2 mean unrest; Levels 3, 4 and 5 mean an eruption is under way, from minor to major.[[geonetval]]",
+    "Level 2 is moderate to heightened unrest, with unrest hazards and the potential for eruption hazards. Level 3, in force from October 21 to November 2, 2026, means a minor eruption, with hazards near the vent.[[geonetval]][[geonet]]",
+    "An eruption may occur at any level, and the levels need not move in order, GeoNet warns. Earth Sciences New Zealand sets the level from the volcano’s activity.[[geonetval]]"
+   ]
+  },
+  {
+   "id": "2019",
+   "h": "What happened on December 9, 2019?",
+   "aside": "callouts",
+   "paras": [
+    "At 2:11 p.m. Whakaari erupted while 47 people were on the island: tourists, 38 of them passengers of the cruise ship Ovation of the Seas, and their guides.[[nzhist2019]] Steam and volcanic gas burst out without warning, and the blast threw rock high into the air; NOAA’s record describes an ash plume and a pyroclastic surge across the whole crater area.[[nzhist2019]][[noaa]] The blast came from vents in the 1978/90 Crater Complex, and it emptied the crater lake, opened new vents and set off landslides into the active crater, GeoNet writes.[[geonetabout]]",
+    "Twenty-two people died, at once or later, of burns or respiratory injuries, and 25 were injured, most of them critically. The bodies of two were never recovered.[[coroners]][[nzhist2019]]",
+    "The crew and passengers of a nearby boat rescued 23 people straight away, and three commercial helicopter pilots landed on the island while it was still erupting and rescued 12 more.[[nzhist2019]] A coroner’s inquiry into the deaths began its second phase in Auckland on September 14, 2026.[[coroners]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "How many people has Whakaari killed?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Whakaari, {noaa_first} and {noaa_last}, with {noaa_deaths} deaths between them.[[noaa]]",
+    "The first was not an eruption. On September 10, 1914, part of the crater wall collapsed, and the landslide overwhelmed the camp of the men working the island’s sulfur. NOAA’s note and GNS Science count 11 sulfur miners killed; New Zealand’s Ministry for Culture and Heritage counts 10.[[noaa]][[gnsfact]][[nzhist1914]]",
+    "The second is the eruption of {worst_date}, with {worst_deaths} deaths and {worst_injuries} people injured.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Whakaari dangerous?",
+   "note": "This page is a record, not a safety guide. For the current alert level, follow GeoNet.",
+   "paras": [
+    "Yes, above all in its crater. Whakaari can erupt suddenly: in 2019 an explosion of steam and gas struck while 47 people were on the island.[[nzhist2019]]",
+    "During the eruption of October 2026, GeoNet warned that sudden, more explosive eruptions could threaten anyone on the crater floor and on the sea to the south-east.[[geonet]] New Zealand’s scale adds that an eruption may come at any alert level.[[geonetval]]"
+   ]
+  },
+  {
+   "id": "visits",
+   "h": "Who has used the island?",
+   "paras": [
+    "Until the 2019 eruption, up to 10,000 tourists a year came by boat or helicopter, Te Ara writes.[[teara]]",
+    "Before them came the sulfur miners. Sulfur was mined at intervals from the 1880s to the 1930s, and the remains of a factory are still on the island, GNS Science writes.[[gnsfact]] In 1914 a landslide overwhelmed the workers’ camp.[[teara]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Whakaari?",
+   "paras": [
+    "Earth Sciences New Zealand, through GeoNet, which sets the alert level.[[geonetval]] It no longer has working monitoring equipment on the island: it watches the volcano from regular observation and gas flights, from webcams on the mainland at Te Kaha and Whakatāne, and by satellite and other remote methods.[[geonetmon]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Whakaari?",
+   "paras": [
+    "**{summit_ft} ft ({summit_m} m)** above sea level at its highest point, GNS Science says; the Smithsonian’s list gives {gvp_summit_m} m.[[gnsfact]][[gvp]]",
+    "The crater floor lies less than 100 ft (30 m) above the sea, and about 70 percent of the volcano is under water.[[gnsfact]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Whakaari?",
+   "paras": [
+    "A stratovolcano, made of {rock}, by the Smithsonian.[[gvp]] GeoNet calls it New Zealand’s most active cone volcano, built up by continuous activity over the past 150,000 years.[[geonetabout]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Whakaari erupt?",
+   "table": "periods",
+   "paras": [
+    "The Smithsonian counts {n_all} confirmed eruptions since {since_year}, every one of them known from written reports.[[gvp]]",
+    "Since {counted_year} it has erupted in long spells and short bursts; the longest on the list ran from {long1_span}, more than {long1_years} years.[[gvp]] GeoNet counts the years from December 1975 to September 2000 as one eruption episode, the longest and largest in the island’s recorded history.[[geonetabout]] GeoNet’s eruption of {agency_last} came {agency_gap} after the last one on the list ended.[[geonet]][[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Whakaari’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Whakaari/White Island has **{n_all} confirmed eruptions**, all of them known from written reports.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "December 9, 2019",
+ "callouts": [
+  {
+   "number": "47",
+   "unit": "people",
+   "text": "On the island when it erupted at 2:11 p.m.; 38 were passengers of one cruise ship.",
+   "source": "Source: Ministry for Culture and Heritage.[[nzhist2019]]"
+  },
+  {
+   "number": "22",
+   "unit": "deaths",
+   "text": "From burns or respiratory injuries, at once or later; the bodies of two were never recovered.",
+   "source": "Source: Coroners Court.[[coroners]]"
+  }
+ ],
+ "faq_h": "Whakaari/White Island questions and answers",
+ "faq": [
+  [
+   "Is Whakaari/White Island erupting now?",
+   "No. GeoNet lowered its alert level to 2 on November 2, 2026, after no sign of eruptive activity since October 29. It had confirmed a weak eruption of ash on October 21."
+  ],
+  [
+   "What is Whakaari’s alert level?",
+   "Level 2, moderate to heightened unrest, on New Zealand’s scale of 0 to 5, since November 2, 2026. It was at Level 3, a minor eruption, from October 21."
+  ],
+  [
+   "When did Whakaari last erupt?",
+   "In October 2026: a weak, continuous release of ash that GeoNet confirmed on October 21 and that had stopped by October 29. The last eruption on the Smithsonian’s list ran from {last_span}."
+  ],
+  [
+   "What happened at Whakaari in 2019?",
+   "At 2:11 p.m. on December 9, 2019, a sudden explosion of steam and gas struck while 47 people were on the island. Twenty-two died and 25 were injured, most of them critically."
+  ],
+  [
+   "How far is Whakaari from the mainland?",
+   "About 30 miles (48 km) offshore in the Bay of Plenty, north-east of Whakatāne, by GeoNet’s figure."
+  ],
+  [
+   "How tall is Whakaari?",
+   "{summit_ft} ft ({summit_m} m) above sea level at its highest point, by GNS Science’s figure. About 70 percent of the volcano is under the sea."
+  ],
+  [
+   "Who owns Whakaari/White Island?",
+   "It is privately owned and is a scenic reserve, Te Ara writes. The island is important to the Ngāti Awa and Te Whakatōhea tribes."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Whakaari/White Island record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=241040"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "geonet",
+   "publisher": "GeoNet (Earth Sciences New Zealand)",
+   "title": "Whakaari/White Island: alert level, aviation color code and the bulletins of October 19 to November 2, 2026",
+   "url": "https://www.geonet.org.nz/volcano/whiteisland"
+  },
+  {
+   "id": "geonetvab",
+   "publisher": "GeoNet (Earth Sciences New Zealand)",
+   "title": "Volcanic Activity Bulletins: “Eruption has ceased at Whakaari/White Island”, November 2, 2026",
+   "url": "https://www.geonet.org.nz/volcano/vab"
+  },
+  {
+   "id": "geonetval",
+   "publisher": "GeoNet (Earth Sciences New Zealand)",
+   "title": "About Volcanic Alert Levels",
+   "url": "https://www.geonet.org.nz/about/volcano/val"
+  },
+  {
+   "id": "teara",
+   "publisher": "Te Ara, the Encyclopedia of New Zealand (Malcolm McKinnon)",
+   "title": "Bay of Plenty places: inshore islands, Whakaari (White Island), updated July 1, 2015",
+   "url": "https://teara.govt.nz/en/bay-of-plenty-places/page-1"
+  },
+  {
+   "id": "nzhist2019",
+   "publisher": "Manatū Taonga, Ministry for Culture and Heritage (New Zealand), NZHistory",
+   "title": "Whakaari / White Island eruption kills 22",
+   "url": "https://nzhistory.govt.nz/page/whakaari-white-island-eruption-kills-22"
+  },
+  {
+   "id": "nzhist1914",
+   "publisher": "Manatū Taonga, Ministry for Culture and Heritage (New Zealand), NZHistory",
+   "title": "New Zealand disasters timeline",
+   "url": "https://nzhistory.govt.nz/culture/new-zealand-disasters/timeline"
+  },
+  {
+   "id": "coroners",
+   "publisher": "Coroners Court of New Zealand",
+   "title": "Whakaari-White Island eruption coronial inquiry",
+   "url": "https://coronerscourt.govt.nz/whakaari-white-island-eruption-coronial-inquiry/"
+  },
+  {
+   "id": "geonetabout",
+   "publisher": "GeoNet (Earth Sciences New Zealand)",
+   "title": "About Whakaari/White Island: overview and eruption history",
+   "url": "https://www.geonet.org.nz/about/volcano/whiteisland"
+  },
+  {
+   "id": "geonetmon",
+   "publisher": "GeoNet (Earth Sciences New Zealand)",
+   "title": "Monitoring Whakaari/White Island",
+   "url": "https://www.geonet.org.nz/volcano/monitoring/whiteisland"
+  },
+  {
+   "id": "gnsfact",
+   "publisher": "GNS Science (now Earth Sciences New Zealand)",
+   "title": "Volcano fact sheet: Whakaari/White Island (PDF)",
+   "url": "https://www.gns.cri.nz/assets/Our-Science/Subfiles/Natural-Hazards-and-Risks/Subfiles/Volcanoes/Volcano-Fact-Sheet-Whakaari-White-Island-2012.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{agency_quiet_number} {agency_quiet_unit} ago:** counted from the end of {agency_last}, the month of GeoNet’s last eruption, to today.",
+  "The Smithsonian’s list ends with the eruption of {last_span}; GeoNet’s eruption of {agency_last} is not on it.",
+  "Miles are converted from the kilometers in the sources and rounded. Times are New Zealand time.",
+  "For 1914, NOAA and GNS Science count 11 deaths and New Zealand’s Ministry for Culture and Heritage 10; the table prints NOAA’s figure.",
+  "The height of the highest point is GNS Science’s; the Smithsonian’s list gives {gvp_summit_m} m. Feet and acres are converted from the metric figures and rounded."
+ ],
+ "expect": {
+  "agency_last": "October 2026",
+  "agency_gap": "about 6 months",
+  "last_end": "March 24, 2026",
+  "last_span": "March 10 to March 24, 2026",
+  "n_all": "39",
+  "n_written": "39",
+  "since_year": "1826",
+  "n_since": "39",
+  "counted_year": "1976",
+  "long1_span": "1986 to 1994",
+  "long1_years": "8",
+  "n_country": "23",
+  "coords": "37.52°S, 177.18°E",
+  "rock": "andesite to basaltic andesite",
+  "type": "Stratovolcano",
+  "summit_m": "321",
+  "gvp_summit_m": "294",
+  "noaa_n_word": "two",
+  "noaa_first": "1914",
+  "noaa_last": "2019",
+  "noaa_deaths": "33",
+  "noaa_described_count": "0",
+  "worst_date": "December 9, 2019",
+  "worst_deaths": "22",
+  "worst_injuries": "25"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}

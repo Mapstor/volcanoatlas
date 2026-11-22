@@ -490,12 +490,13 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     const today: Ymd = [now.getUTCFullYear(), now.getUTCMonth() + 1, now.getUTCDate()];
     set('agency_last', dateText(agency, precision, true));
     set('agency_last_year', agency[0]);
-    const quiet = spanBetween(agency, precision, today, 'day', true);
-    set('agency_quiet_span', quiet.approx ? `about ${quiet.text}` : quiet.text);
-    // the whole years or months since: a month-only date is counted from the month's last day, so the number is never
-    // more than the time that has passed
+    // the time since: a month-only date is counted from the month's last day, so neither the span nor the whole years
+    // or months are ever more than the time that has passed (Whakaari, October 2026: "1 month", not "about 2 months")
     const monthEnd: Ymd = [agency[0], agency[1], new Date(Date.UTC(agency[0], agency[1], 0)).getUTCDate()];
-    const days = daysBetween(precision === 'month' ? monthEnd : agency, today);
+    const since: Ymd = precision === 'month' ? monthEnd : agency;
+    const quiet = spanBetween(since, precision, today, 'day', true);
+    set('agency_quiet_span', quiet.approx ? `about ${quiet.text}` : quiet.text);
+    const days = daysBetween(since, today);
     const years = Math.floor(days / 365.2425);
     if (years >= 2) {
       set('agency_quiet_number', years);
