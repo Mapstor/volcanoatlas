@@ -1,0 +1,321 @@
+{
+ "slug": "la-palma",
+ "volcano_number": 383010,
+ "name": "La Palma",
+ "country": "Spain",
+ "title": "La Palma Volcano (Cumbre Vieja): 2021 Eruption & Alert Level",
+ "description": "La Palma in the Canary Islands: the 2021 Cumbre Vieja eruption in figures, the yellow volcanic alert still in force in November 2026, and its full record.",
+ "h1": "La Palma Volcano",
+ "facts": {
+  "count_from": 1481
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "it lasted 85 days",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Yellow on the Canary Islands’ volcanic traffic light.** INVOLCAN’s weekly chart for La Palma, updated on November 20, 2026, gives the island’s light at yellow, on the indication of the islands’ volcanic emergency plan, PEVOLCA: stay aware of what the civil protection authorities announce.[[guayota]] The light came down from red to yellow on January 31, 2022, after the eruption.[[orden]]",
+ "lede": "La Palma is a volcanic island of the Canary Islands, Spain. The Smithsonian lists seven eruptions on it since 1585; the latest, on the Cumbre Vieja ridge in the south, ran from September to December 2021. In 85 days its lava covered about 3,010 acres (1,219 hectares), and about 7,000 people were evacuated. Below: whether it is erupting now, what the yellow light means, the 2021 eruption in figures, the deaths on record, the dangers, the island’s height and its full record.",
+ "answer": "**La Palma is not erupting by the Smithsonian’s list.** Its last eruption, on the Cumbre Vieja ridge, ran from {last_span}, 85 days by the count of the Canary Islands government.[[gvp]][[gov1225]] The islands’ volcanic traffic light for La Palma is still **yellow**, the second of four colors, in INVOLCAN’s chart of November 20, 2026.[[guayota]] The island’s highest point, Roque de los Muchachos, is **{summit_ft} ft ({summit_m} m)**.[[igngeo]]",
+ "timeline": {
+  "from": 1450,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1585.38,
+    "label": "1585"
+   },
+   {
+    "year": 1712.77,
+    "label": "1712"
+   },
+   {
+    "year": 1949.48,
+    "label": "1949"
+   },
+   {
+    "year": 2021.72,
+    "label": "2021"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] After the eruption of {longest_gap_from_year} the island was quiet for {longest_gap_years} years, the longest pause on the list since 1585.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "Roque de los Muchachos",
+  "caption": "La Palma as a simple outline rising from the sea. Only the height of the island’s highest point, Roque de los Muchachos, is to scale.[[igngeo]] The eruptions of written history broke out along the Cumbre Vieja ridge in the south, a rift 13 miles (21.5 km) long, where the cone of 2021 grew to 3,711 ft (1,131 m).[[igngeo]][[igninfo]]"
+ },
+ "map_zoom": 9,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed",
+  "last_length": "85 days 8 hours"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is La Palma?",
+   "map": true,
+   "paras": [
+    "La Palma is an island of the Canary Islands, [Spain](/volcanoes-in-spain), in the Atlantic Ocean; the Smithsonian places the volcano at {coords}.[[gvp]][[noaa]]",
+    "The island’s north is the Taburiente massif, with the Caldera de Taburiente, which Spain’s National Geographic Institute (IGN) describes as no longer active. Its south is the Cumbre Vieja ridge, a rift 13 miles (21.5 km) long that came back to life about 123,000 years ago.[[igngeo]]",
+    "The 2021 eruption broke out at Cabeza de Vaca, in the municipality of El Paso.[[ignpage]] The emergency, in force from that afternoon, covered five municipalities: Tazacorte, Fuencaliente, Mazo, El Paso and Los Llanos de Aridane.[[orden]]",
+    "La Palma is one of {n_country} volcanoes in Spain on the Smithsonian’s Holocene list. [Tenerife](/volcano/tenerife), with Mount Teide, is another.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is La Palma erupting now?",
+   "table": "periods",
+   "paras": [
+    "No. The eruption on the Cumbre Vieja ridge that began on September 19, 2021 ended on {last_end}, and the Smithsonian’s list has none since.[[gvp]] The scientific committee of the Canary Islands’ volcanic emergency plan declared it over on December 25, 2021.[[gov1225]]",
+    "The island is still under watch. The volcanic traffic light came down from red to yellow on January 31, 2022, when the Cabildo, the island’s council, took over the emergency, and the order kept people out of places made dangerous by gases or unstable ground.[[orden]] INVOLCAN’s weekly chart for La Palma still gave the light at yellow on November 20, 2026.[[guayota]]",
+    "When the committee declared the end, it warned that the end of the eruption did not necessarily mean the end of all volcanic hazards, or of the magma’s reactivation under Cumbre Vieja. Carbon dioxide seeping from the ground on December 23, 2021 was 7.3 times its background level, which can be dangerous in poorly ventilated places or close to the ground.[[gov1225]]",
+    "The eruption before 2021 on the list, at Teneguía, ran from {prev_start} to {prev_end}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does La Palma’s yellow light mean?",
+   "paras": [
+    "The Canary Islands’ volcanic emergency plan, PEVOLCA, uses a traffic light of four colors. Green means people carry on as normal; yellow, that they stay aware of what the civil protection authorities announce; orange, that they follow the authorities’ instructions; red, that the population affected is evacuated.[[guayota]]",
+    "In 2021 the regional emergency ran from 5 p.m. on September 19, with the light at red, until January 31, 2022, when the light went to yellow and the Cabildo’s island emergency plan took over at level 1.[[orden]][[ignpage]] At yellow the Cabildo leads the alert together with the town councils, while the regional plan stays on alert; when the light returns to green, the island’s emergency and the regional plan end, the order says.[[orden]]"
+   ]
+  },
+  {
+   "id": "2021",
+   "h": "What happened in the 2021 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "Earthquakes and swelling of the ground began under Cumbre Vieja on September 11, 2021.[[ignpage]] The eruption broke out at 3:11 p.m. local time on September 19, a fissure eruption of the Strombolian kind; six craters opened.[[igninfo]] By that night about 5,000 people had been evacuated, and the scientific committee recommended an exclusion zone of 1.2 miles (2 km) around the vents.[[gov0920]]",
+    "About 7,000 people were evacuated in all, under decrees of the Cabildo and orders of the Canary Islands government.[[gov1225]]",
+    "The cone grew to 3,711 ft (1,131 m) above sea level, and the tallest eruption column, on December 13, reached about 27,900 ft (8,500 m).[[igninfo]] Its lava reached 2,080 °F (1,140 °C), and blocks were thrown up to 0.9 miles (1.5 km).[[gov1225]]",
+    "Lava covered about 3,010 acres (1,219 hectares), on average 39 ft (12 m) thick and up to 230 ft (70 m). It ran up to 4 miles (6.5 km) over land and 0.7 miles (1.1 km) under the sea, and built two deltas that added 119 acres (48 hectares) of new land.[[gov1225]][[igninfo]]",
+    "Spain’s land registry, the Catastro, counted 1,676 buildings affected, 1,345 of them homes; the EU’s Copernicus satellite service counted 2,988 buildings destroyed. The lava also damaged 46 miles (73.8 km) of roads and 914 acres (370 hectares) of crops, mostly bananas, vineyards and avocados, and La Palma’s airport was closed for about nine and a half days.[[gov1225]]",
+    "In all the volcano put out more than 7 billion cubic feet (200 million cubic meters) of material and about 2 million metric tons of sulfur dioxide. Of 9,090 earthquakes located, the largest, magnitude 5.1 on November 19, came from 22 miles (36 km) down.[[gov1225]]",
+    "It was the longest eruption on record on the island: 85 days and 8 hours, against 84 days for the eruption of 1585.[[gov1225]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Has anyone died in La Palma’s eruptions?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for La Palma, from {noaa_first} to {noaa_last}. {noaa_fatal_word} give one death each; for 1971 it has no count and describes the toll as few, about 1 to 50 people.[[noaa]]",
+    "In the eruption of 1677, gas killed one man and many animals, NOAA’s note says. In 2021, the body of a 72-year-old man was found in November in an exclusion zone in El Paso; a court in the Canary Islands found that he had died after breathing toxic gases.[[noaa]]",
+    "NOAA’s note on the eruption of 1971, at Teneguía, says casualties occurred but very little damage was reported.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is La Palma dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Canary Islands government (PEVOLCA) and the Cabildo of La Palma.",
+   "paras": [
+    "Since the eruption, the hazards the authorities name have been gas and hot, unstable ground. The order that set the light to yellow named carbon dioxide, unstable ground over the lava and high temperatures as the hazards that remained, and kept people out of the places they made dangerous.[[orden]]",
+    "Earthquakes have come with the island’s eruptions. IGN names three during the eruption of 1949 and one in 1677 that reached intensity VII, destroying houses and setting off rockfalls.[[igngeo]] In 2021 the strongest felt earthquakes reached intensity IV to V.[[igninfo]]",
+    "Ash from the 2021 eruption fell on La Palma, Tenerife, El Hierro, La Gomera and Gran Canaria.[[igninfo]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors La Palma?",
+   "paras": [
+    "Spain’s National Geographic Institute (IGN) runs the national volcano monitoring network. On La Palma it tracks earthquakes with seismometers, ground movement with permanent satellite-positioning stations, satellite radar and tiltmeters, and gases with a geochemical network, and in 2021 it set up a center on the island to follow the eruption.[[ignnews]]",
+    "The Canary Islands Volcanological Institute (INVOLCAN) publishes a weekly chart of the island’s activity, with the light that PEVOLCA indicates.[[guayota]] PEVOLCA’s scientific committee advises the authorities on the light.[[orden]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is La Palma?",
+   "paras": [
+    "The island’s highest point, Roque de los Muchachos, is **{summit_ft} ft ({summit_m} m)** above sea level by IGN’s figure, and the Smithsonian’s list gives the same.[[igngeo]][[gvp]]",
+    "The cone of 2021 reached 3,711 ft (1,131 m) and stood at 3,678 ft (1,121 m) when the eruption ended; the new volcano rises about 660 ft (200 m) above the ground around it.[[igninfo]] Bejenado, a volcano in the middle of the island, is 6,083 ft (1,854 m).[[igngeo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is La Palma?",
+   "paras": [
+    "The Smithsonian classes La Palma as a stratovolcano, with {rock} as the main rock.[[gvp]] The eruption of 2021 was a fissure eruption of the Strombolian kind; its lava was of the aa and pahoehoe types, tephrite and basanite in composition.[[igninfo]]",
+    "The island grew from north to south. IGN describes the Taburiente massif in the north as inactive; a giant landslide, the Aridane collapse, carried 43 to 48 cubic miles (180 to 200 km³) of its flank into the sea, and the volcanism moved to the Cumbre Vieja ridge.[[igngeo]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does La Palma erupt?",
+   "paras": [
+    "The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_since} of them since {since_year}.[[gvp]]",
+    "Since 1585 the longest pause between eruptions lasted {longest_gap_years} years, from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]] The eruption of 2021 is the only one on the list rated VEI {max_vei} on the [Volcanic Explosivity Index](/volcanic-explosivity-index); the {n_vei2} others with a rating are VEI 2.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "La Palma’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for La Palma has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} dated in the laboratory, by radiocarbon or by potassium-argon dating.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "the 2021 eruption",
+ "callouts": [
+  {
+   "number": "7,000",
+   "unit": "evacuated",
+   "text": "People moved out of their homes under decrees of the Cabildo and orders of the Canary Islands government.",
+   "source": "Source: Gobierno de Canarias, December 25, 2021.[[gov1225]]"
+  },
+  {
+   "number": "1,676",
+   "unit": "buildings",
+   "text": "Affected by the lava, by Spain’s land registry, 1,345 of them homes. Copernicus counted 2,988 buildings destroyed.",
+   "source": "Source: Gobierno de Canarias, December 25, 2021.[[gov1225]]"
+  }
+ ],
+ "faq_h": "La Palma questions and answers",
+ "faq": [
+  [
+   "Is La Palma erupting now?",
+   "No. Its last eruption, on the Cumbre Vieja ridge, ended on {last_end} after 85 days. The Canary Islands’ volcanic traffic light for the island was still yellow on November 20, 2026."
+  ],
+  [
+   "What is La Palma’s alert level?",
+   "Yellow, the second of four colors of the Canary Islands’ volcanic traffic light, in INVOLCAN’s chart of November 20, 2026: people should stay aware of what the civil protection authorities announce. The light came down from red to yellow on January 31, 2022."
+  ],
+  [
+   "When did La Palma last erupt?",
+   "From {last_span}. The Smithsonian’s list calls it the Tajogaite eruption."
+  ],
+  [
+   "How much damage did the 2021 eruption do?",
+   "Lava covered about 3,010 acres (1,219 hectares). Spain’s land registry counted 1,676 buildings affected, 1,345 of them homes, and about 7,000 people were evacuated."
+  ],
+  [
+   "Did anyone die in the 2021 eruption?",
+   "NOAA records one death: a 72-year-old man found in an exclusion zone in El Paso in November 2021, who had died after breathing toxic gases, a court in the Canary Islands found."
+  ],
+  [
+   "Where is La Palma?",
+   "In the Canary Islands, Spain, in the Atlantic Ocean. The Smithsonian places the volcano at {coords}."
+  ],
+  [
+   "How tall is La Palma?",
+   "{summit_ft} ft ({summit_m} m) at Roque de los Muchachos, the island’s highest point."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): La Palma record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=383010"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "guayota",
+   "publisher": "Instituto Volcanológico de Canarias (INVOLCAN)",
+   "title": "GUAYOTA La Palma: weekly chart of the island’s seismic and volcanic activity, updated November 20, 2026 (PDF)",
+   "url": "https://www.involcan.org/wp-content/uploads/GUAYOTA/guayota-lpa-en-co.pdf"
+  },
+  {
+   "id": "orden",
+   "publisher": "Gobierno de Canarias",
+   "title": "Order No. 22/2022 of January 31, 2022 setting the volcanic traffic light of La Palma to yellow (PDF, in Spanish)",
+   "url": "https://www.ign.es/web/resources/volcanologia/pdf/ORDEN-DEFINITIVA-DEPARTAMENTAL-REFIRIENDO-PLATECA-31.01-1.pdf"
+  },
+  {
+   "id": "ignpage",
+   "publisher": "Instituto Geográfico Nacional (Spain)",
+   "title": "Erupción en la isla de La Palma (in Spanish)",
+   "url": "https://www.ign.es/resources/erupcion-la-palma-2021/index.html"
+  },
+  {
+   "id": "igninfo",
+   "publisher": "Instituto Geográfico Nacional (Spain)",
+   "title": "La erupción en cifras: the 2021 eruption in figures, from PEVOLCA’s communiqué of December 25, 2021 (infographic, PDF, in Spanish)",
+   "url": "https://www.ign.es/resources/erupcion-la-palma-2021/Infografia-primer-aniversario.pdf"
+  },
+  {
+   "id": "gov1225",
+   "publisher": "Gobierno de Canarias",
+   "title": "La erupción de La Palma se declara finalizada tras 85 días y 8 horas de duración y 1.219 hectáreas de coladas (December 25, 2021; in Spanish)",
+   "url": "https://www3.gobiernodecanarias.org/noticias/la-erupcion-de-la-palma-se-declara-finalizada-tras-85-dias-y-8-horas-de-duracion-y-1-219-hectareas-de-coladas/"
+  },
+  {
+   "id": "gov0920",
+   "publisher": "Gobierno de Canarias",
+   "title": "Los planes de evacuación del PEVOLCA evitan daños personales en la erupción volcánica de La Palma (September 20, 2021; in Spanish)",
+   "url": "https://www3.gobiernodecanarias.org/noticias/los-planes-de-evacuacion-del-pevolca-evitan-danos-personales-en-la-erupcion-volcanica-de-la-palma/"
+  },
+  {
+   "id": "igngeo",
+   "publisher": "Instituto Geográfico Nacional (Spain)",
+   "title": "Sismicidad y descripción geológica de La Palma (in Spanish)",
+   "url": "https://www.ign.es/web/resources/sismologia/tproximos/sismotectonica/pag_sismotectonicas/can_la_palma.html"
+  },
+  {
+   "id": "ignnews",
+   "publisher": "Instituto Geográfico Nacional (Spain)",
+   "title": "Noticias e informe mensual de vigilancia volcánica, 2021 (in Spanish)",
+   "url": "https://www.ign.es/web/resources/volcanologia/html/CA_noticias_2021.html"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today, in whole years.",
+  "**85 days:** the length the Canary Islands government and IGN give, 85 days and 8 hours; the Smithsonian’s dates alone make it about {last_length}.",
+  "Feet, miles, acres, cubic feet and °F are converted from the metric figures in the sources and rounded. Times are local time on La Palma.",
+  "The government’s notice of September 20, 2021 gives 3:12 p.m. for the start; IGN’s infographic and the notice of December 25 give 3:11 p.m.",
+  "IGN’s count of earthquakes during the eruption is 8,652, with 1,400 before it; the notice of December 25, 2021 gives 9,090 located.",
+  "The Smithsonian dates the eruption at Tacande (Montaña Quemada) to 1481, give or take 11 years; IGN’s page on the island names an eruption in 1430."
+ ],
+ "expect": {
+  "last_span": "September 19 to December 13, 2021",
+  "last_end": "December 13, 2021",
+  "last_length": "3 months",
+  "prev_start": "October 26",
+  "prev_end": "November 18, 1971",
+  "n_all": "14",
+  "n_since": "8",
+  "since_year": "1481",
+  "n_written": "8",
+  "n_other": "6",
+  "max_vei": "3",
+  "n_max_vei": "1",
+  "largest_year": "2021",
+  "n_vei2": "7",
+  "n_vei3": "1",
+  "n_country": "8",
+  "coords": "28.57°N, 17.83°W",
+  "rock": "trachybasalt to tephrite basanite",
+  "type": "Stratovolcano",
+  "summit_m": "2,426",
+  "gvp_summit_m": "2,426",
+  "longest_gap_years": "236",
+  "longest_gap_from_year": "1712",
+  "longest_gap_to_year": "1949",
+  "noaa_n_word": "three",
+  "noaa_fatal_word": "Two",
+  "noaa_deaths": "2",
+  "noaa_described_count": "1",
+  "noaa_first": "1677",
+  "noaa_last": "2021"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
