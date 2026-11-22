@@ -138,7 +138,7 @@ volcano/mayon,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendin
 volcano/merapi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/michoacan-guanajuato,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/misti-el,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/miyakejima,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/miyakejima,volcanoes,data,informational,"the island emptied by volcanic gas for four years and five months, with JMA's own record leading (last eruption January 2013, very small, which the Smithsonian's list lacks), JMA's Level 1 in its October 2026 document, the 2025 rise to Level 2, the 2000 collapse step by step and why NOAA's 2000 death happened on another island",gvp-eruptions,T2,live,"record page built 2026-11-22 (run 46) in place of the old profile; not erupting; the headline follows JMA's last eruption (January 2013) by the new profile field agency_last (D-68), with the Smithsonian's last (Apr 10 to Jul 21, 2010) beside it in the answer, key facts, strip and table; since_check from JMA's October 2026 document and status page; uses gvp-volcanoes, gvp-eruptions, noaa-ncei-volcano, observatory-pages (JMA, eight documents) and gov-japan-miyake, all read on 2026-11-22; island drawing without ground, with the summit of 814 m before 2000 dashed; map at zoom 11; waits for the owner's read before his name goes on"
 volcano/momotombo,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/mount-cameroon,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/mutnovsky,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

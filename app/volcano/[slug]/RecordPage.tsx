@@ -83,7 +83,9 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   fact('Above the land around it', ctx.rise_ft && `about ${ctx.rise_ft} ft (${ctx.rise_m} m)`);
   fact('Current eruption', ctx.cur_since && `since ${ctx.cur_since}`);
   // a volcano with no eruption on the list is "Unknown", the Smithsonian's own word for it, never a blank
-  fact('Last eruption', !ctx.cur_start && (ctx.last_span || (ctx.n_all === '0' && 'Unknown')));
+  fact('Last eruption', !ctx.cur_start && (ctx.agency_last || ctx.last_span || (ctx.n_all === '0' && 'Unknown')));
+  // an observatory's later eruption leads (D-68); the newest on the Smithsonian's list stays beside it
+  fact('Newest on the Smithsonian’s list', Boolean(ctx.agency_last) && ctx.last_span);
   fact('Recorded eruptions', ctx.n_all);
   fact('Largest recorded', ctx.max_vei && `VEI ${ctx.max_vei}${ctx.max_vei_note ?? ''}`);
   fact('Main rock', ctx.rock);
@@ -99,7 +101,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const summitBy = `${profile.facts.summit_source_name ?? 'the observatory'} for the summit`;
   const baseBy = `${profile.facts.base_source_name ?? 'the observatory'} for the base`;
   const gvpFirst = `Sources: Smithsonian Global Volcanism Program;${ref('gvp')}`;
-  const factsSource =
+  const factsSourceBase =
     summitSource && baseSource
       ? profile.facts.summit_source_name === profile.facts.base_source_name
         ? `${gvpFirst} ${summitBy}${ref(summitSource)} and the base.${ref(baseSource)}`
@@ -109,6 +111,14 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
         : baseSource
           ? `${gvpFirst} ${baseBy}.${ref(baseSource)}`
           : `Source: Smithsonian Global Volcanism Program.${ref('gvp')}`;
+  // the observatory named for the last eruption (D-68): the last attribution's full stop becomes a semicolon
+  const agency = profile.agency_last;
+  const agencyBy = agency ? `${agency.name} for the last eruption.${ref(agency.source)}` : '';
+  const factsSource = !agency
+    ? factsSourceBase
+    : summitSource || baseSource
+      ? `${factsSourceBase.replace(/\.(<sup class="va-ref">(?:(?!<sup).)*<\/sup>)$/, ';$1')} ${agencyBy}`
+      : `${gvpFirst} ${agencyBy}`;
   const factsFrom = data.ground?.from === 'etopo' ? `${factsSource} Height above the land around it: calculated from NOAA’s elevation grid.${ref('etopo')}` : factsSource;
   // the headline number: a number in the thousands (Chimborazo: "1,500") is set smaller, and its ring is as wide as its
   // digits, with the thousands separator counted as a third of one
@@ -220,7 +230,14 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
                 <td className="va-dur">
                   {row.continuing
                     ? ''
-                    : tie(row.pauseAfter ?? (i === periodRows.length - 1 && ctx.quiet_span ? `${ctx.quiet_span} so far` : 'none'))}
+                    : tie(
+                        row.pauseAfter ??
+                          (i === periodRows.length - 1 && ctx.agency_gap
+                            ? `${ctx.agency_gap}, to ${ctx.agency_last}`
+                            : i === periodRows.length - 1 && ctx.quiet_span
+                              ? `${ctx.quiet_span} so far`
+                              : 'none'),
+                      )}
                 </td>
                 <td className="va-num">{row.eruption.vei ?? 'not given'}</td>
               </tr>
@@ -230,7 +247,11 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
       </div>
       <Html
         className="va-srcline"
-        html={`${gvpLine} ${plain(profile.table?.calc_note ?? 'Lengths and gaps are calculated from its dates.', ctx)}${limitNote(periodRows.flatMap((row) => [row.startText, row.endText]), true)} VEI is the ${vei ? `<a href="${vei}">Volcanic Explosivity Index</a>` : 'Volcanic Explosivity Index'}.`}
+        html={`${gvpLine} ${plain(profile.table?.calc_note ?? 'Lengths and gaps are calculated from its dates.', ctx)}${
+          ctx.agency_gap && profile.agency_last
+            ? ` The last gap runs to the eruption of ${ctx.agency_last} that ${profile.agency_last.name} lists and the Smithsonian’s list does not have.${ref(profile.agency_last.source)}`
+            : ''
+        }${limitNote(periodRows.flatMap((row) => [row.startText, row.endText]), true)} VEI is the ${vei ? `<a href="${vei}">Volcanic Explosivity Index</a>` : 'Volcanic Explosivity Index'}.`}
       />
     </>
   );

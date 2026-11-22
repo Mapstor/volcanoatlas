@@ -323,7 +323,9 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
             fill={PAL.ink}
           >
             {dateText(stats.lastEnd, stats.lastEndPrecision)}
-            {stats.lastEndQuestioned ? ' (uncertain)' : ''}: last eruption ended
+            {stats.lastEndQuestioned ? ' (uncertain)' : ''}
+            {/* an observatory that dates a later eruption leads the page (D-68): the strip's end is then the list's own */}
+            {profile.agency_last ? ': last eruption on this list ended' : ': last eruption ended'}
           </text>
         </>
       )}
