@@ -116,7 +116,7 @@ volcano/kanlaon,volcanoes,data,informational,"what the Philippine agency’s ale
 volcano/karangetang,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/karthala,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/karymsky,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/katla,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/katla,volcanoes,data,informational,"the longest quiet on the list since 1721 (108 years against an average of about 50), the floods it sends and where Iceland's civil protection expects them, the 2016 uncertainty phase, NOAA's tolls explained (two lightning deaths in 1755, described tolls for 1262 and 1311, the 1918 'tsunami' NOAA itself calls very doubtful) and the 2011 flood",gvp-eruptions,T2,live,"record page built 2026-11-22 (run 48) in place of the old profile; not erupting (hero 'Last eruption ended November 4, 1918'); since_check from IMO's Katla page and VONA list (no entry since Nov 2024); uses gvp-volcanoes, gvp-eruptions, noaa-ncei-volcano, observatory-pages (IMO), gov-iceland-civil-protection and noaa-etopo, all read on 2026-11-22; land drawing with an ice-filled caldera; map at zoom 9; waits for the owner's read before his name goes on"
 volcano/kavachi,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/kelud,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/kikai,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending

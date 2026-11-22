@@ -1,0 +1,328 @@
+{
+ "slug": "katla",
+ "volcano_number": 372030,
+ "name": "Katla",
+ "country": "Iceland",
+ "title": "Katla Volcano, Iceland: Last Eruption, Floods & History",
+ "description": "Katla, the volcano under Iceland’s Mýrdalsjökull ice cap: no eruption since 1918, the glacial floods it sends to the sea, the 2016 unrest and its record.",
+ "h1": "Katla",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1580
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "its longest quiet since {counted_year}",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**No eruption since 1918 on record.** The Icelandic Meteorological Office’s page for Katla, read on {read_date}, gives 1918 as the last eruption that broke through the ice. Its list of changes to the aviation color code, read the same day, runs from November 27, 2024 to November 10, 2026 and has no entry for Katla.[[imo]][[vona]]",
+ "lede": "Katla is a volcano under the Mýrdalsjökull ice cap in south Iceland, one of the country’s most active. It has not erupted since 1918, its longest quiet since 1721, and when it does, it melts the ice above it and sends floods called jökulhlaups toward the sea. Below: its state now, the floods, the eruption of 1918, the unrest of 2016, the deaths on record, the dangers, its size and every eruption on record.",
+ "answer": "**Katla is not erupting.** Its last eruption, from {last_span} on the Smithsonian’s list, broke through the ice of Mýrdalsjökull; the Icelandic Meteorological Office also gives 1918 as the last.[[gvp]][[imo]] The office’s list of aviation color code changes since November 2024 has no entry for Katla.[[vona]] Its summit is **{summit_ft} ft ({summit_m} m)** high.[[gvp]]",
+ "timeline": {
+  "from": 1570,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1580.6,
+    "label": "1580"
+   },
+   {
+    "year": 1625.7,
+    "label": "1625"
+   },
+   {
+    "year": 1721.4,
+    "label": "1721"
+   },
+   {
+    "year": 1755.8,
+    "label": "1755"
+   },
+   {
+    "year": 1860.4,
+    "label": "1860"
+   },
+   {
+    "year": 1918.8,
+    "label": "1918"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The Icelandic Meteorological Office counts at least 21 eruptions in the last 1,100 years, on average about 50 years apart.[[imoerupt]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "ice up to 2,300 ft thick",
+  "crater": "ice-filled caldera",
+  "crater_share": 0.22,
+  "caption": "Katla cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] Its caldera, about 5.6 by 8.7 miles (9 by 14 km), is filled with ice up to about 2,300 ft (700 m) thick.[[imo]][[imoerupt]]"
+ },
+ "map_zoom": 9,
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Katla?",
+   "map": true,
+   "paras": [
+    "Katla is a volcano in south [Iceland](/volcanoes-in-iceland), under the Mýrdalsjökull ice cap in the country’s Eastern Volcanic Zone.[[imo]] Its volcanic system is about 50 miles (80 km) long, with a swarm of fissures running about 43 miles (70 km) north-east toward the Vatnajökull ice cap.[[imo]][[imoerupt]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Katla is one of {n_country} volcanoes in Iceland on the Smithsonian’s Holocene list; [Hekla](/volcano/hekla) and [Eyjafjallajökull](/volcano/eyjafjallajokull) are two others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Katla erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption since {last_end}, and the Icelandic Meteorological Office gives 1918 as the last time an eruption broke through the ice.[[gvp]][[imo]]",
+    "The office’s list of changes to the aviation color code, read on {read_date}, runs from November 27, 2024 to November 10, 2026 and has no entry for Katla.[[vona]] Its newest monthly overview of earthquakes on its English site, for November 2025, called the activity in Mýrdalsjökull typical and noted several deep earthquakes, 11 to 12 miles (18 to 20 km) down.[[imomon]]"
+   ]
+  },
+  {
+   "id": "floods",
+   "h": "What is a Katla flood, or jökulhlaup?",
+   "paras": [
+    "When Katla erupts, the magma melts the ice above it, and the meltwater bursts out from under the glacier as a flood, a jökulhlaup.[[imo]] Since the great Eldgjá eruption of about 939 CE, its floods have run down to the plains south-east of the ice cap; before it, they went west.[[imoerupt]]",
+    "Iceland’s civil protection expects floods from the Kötlujökull glacier onto the Mýrdalssandur plain, from Sólheimajökull onto the Sólheimasandur and Skógasandur plains, and from Entujökull into the Markarfljót river; by far most past floods ran onto Mýrdalssandur.[[cp]] A large flood down the Markarfljót would put Landeyjar and Þykkvibær under water.[[cp]]",
+    "The worst it warns of is people, livestock, houses and equipment swept away, with roads, bridges and power and phone lines damaged. Once an eruption is confirmed, text messages go to mobile phones in the area.[[cp]]"
+   ]
+  },
+  {
+   "id": "1918",
+   "h": "What happened in the 1918 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "The last eruption ran from {last_span}, on the south side of the caldera, on the Smithsonian’s list, and the Smithsonian rates it VEI 4+.[[gvp]] It lasted about three weeks and spread ash widely over the land around it, NOAA’s record says.[[noaa]]",
+    "Its jökulhlaup swept away sheep and horses, and many people narrowly escaped. Several hundred sheep may have been lost, perhaps the greatest loss of livestock in any Katla flood.[[noaa]]"
+   ]
+  },
+  {
+   "id": "2016",
+   "h": "What happened at Katla in 2016?",
+   "paras": [
+    "An earthquake swarm began at Katla on September 29, 2016. Iceland’s police chiefs declared an uncertainty phase, meaning a course of events had begun that might lead to a natural hazard, and warned travelers near Mýrdalsjökull, above all along the glacial rivers Múlakvísl and Jökulsá á Sólheimasandi.[[cp2016]]",
+    "The civil protection’s scientific advisory board thought the earthquakes were likely caused by magma moving within the caldera.[[cp2016]] No eruption followed: the Smithsonian’s list has none since 1918.[[gvp]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Has Katla killed anyone?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Katla, from {noaa_first} to {noaa_last}. Only one gives a count: two people killed by lightning during the ash fall of the eruption that began on {worst_date}.[[noaa]]",
+    "For {noaa_described_word} it describes the toll without a count: 1262, with probably some casualties, and 1311, when jökulhlaups destroyed many farms and probably drowned many people. The table below puts them in NOAA’s classes of a few and some deaths.[[noaa]]",
+    "The table marks a tsunami in 1918, but NOAA’s tsunami record calls that report very doubtful: the eruption did not raise a tsunami, and its flood may have been taken for one.[[noaa]] In July 2011 a jökulhlaup from three ice cauldrons in the caldera destroyed a 420 ft (128 m) bridge on the Ring Road, and about 200 people were evacuated for the day; no eruption was seen.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Katla dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Icelandic Meteorological Office and Iceland’s civil protection.",
+   "paras": [
+    "Yes, mostly through its floods: the worst case Iceland’s civil protection names is people, livestock and houses swept away by them.[[cp]]",
+    "Its typical eruptions are explosive, throwing ash over the land nearby, how far depending on their size.[[imo]] In the ash fall of 1755, lightning killed two people.[[noaa]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Katla?",
+   "paras": [
+    "The Icelandic Meteorological Office, whose page for Katla shows the volcano’s earthquakes and its GPS measurements.[[imo]] The office also sets the aviation color code for Iceland’s volcanoes and is developing a separate four-level alert system for effects on the ground, from 0 (green) to 3 (red).[[vona]][[vals]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How big is Katla?",
+   "paras": [
+    "Its highest point is **{summit_ft} ft ({summit_m} m)** above sea level, by the Smithsonian; the Icelandic Meteorological Office says the central volcano rises up to about 4,900 ft (1,500 m).[[gvp]][[imo]] It stands about {rise_ft} ft ({rise_m} m) above the land around it.[[etopo]]",
+    "The caldera at its center measures about 5.6 by 8.7 miles (9 by 14 km) and is filled with ice up to about 2,300 ft (700 m) thick.[[imo]][[imoerupt]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Katla?",
+   "paras": [
+    "The Smithsonian lists it as fissure vents, made of {rock}: a central volcano with a long swarm of fissures.[[gvp]][[imo]]",
+    "Its typical eruptions are explosive and basaltic; silicic eruptions are known too, and its rarest kind, effusive basaltic eruptions, have been its largest. The Eldgjá eruption, from about 939 CE, produced about 4.8 cubic miles (20 km³) of lava and ash.[[imo]][[imoerupt]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Katla erupt?",
+   "table": "periods",
+   "paras": [
+    "The Smithsonian counts {n_all} confirmed eruptions, the oldest dated to about {oldest}; {n_tephra} were dated from their ash layers and {n_written} are known from written reports.[[gvp]] The Icelandic Meteorological Office counts at least 21 in the last 1,100 years, on average about 50 years apart.[[imoerupt]]",
+    "Since {counted_year} the longest pause between eruptions on the list ran from {longest_gap_from_year} to {longest_gap_to_year}, {longest_gap_years} years; the quiet since 1918 has now lasted {quiet_number} years.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Katla’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Katla has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} dated from their deposits or by laboratory methods.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "Katla’s rhythm",
+ "callouts": [
+  {
+   "number": "21",
+   "unit": "eruptions",
+   "text": "At least this many in the last 1,100 years, by the Icelandic Meteorological Office’s count.",
+   "source": "Source: Icelandic Meteorological Office.[[imoerupt]]"
+  },
+  {
+   "number": "{quiet_number}",
+   "unit": "years",
+   "text": "Since the last eruption ended in 1918; the eruptions before it came about 50 years apart on average.",
+   "source": "Sources: Smithsonian; Icelandic Meteorological Office.[[gvp]][[imoerupt]]"
+  }
+ ],
+ "faq_h": "Katla questions and answers",
+ "faq": [
+  [
+   "Is Katla erupting now?",
+   "No. Its last eruption ended on {last_end}, and the Icelandic Meteorological Office’s list of aviation color code changes since November 2024 has no entry for Katla."
+  ],
+  [
+   "When did Katla last erupt?",
+   "From {last_span}, by the Smithsonian’s list. The Icelandic Meteorological Office also gives 1918 as the last eruption that broke through the ice."
+  ],
+  [
+   "Is Katla overdue?",
+   "Its eruptions have come about 50 years apart on average, the Icelandic Meteorological Office says, and {quiet_number} years have passed since 1918, the longest pause on the Smithsonian’s list since {counted_year}. That average does not date the next eruption."
+  ],
+  [
+   "What is a jökulhlaup?",
+   "A glacial flood. When Katla erupts under the ice, the meltwater bursts out from under the glacier and rushes toward the sea, most often across the Mýrdalssandur plain."
+  ],
+  [
+   "Has Katla killed anyone?",
+   "NOAA counts two deaths, by lightning during the ash fall of 1755, and describes deaths without a count in 1262 and 1311."
+  ],
+  [
+   "How big is Katla’s caldera?",
+   "About 5.6 by 8.7 miles (9 by 14 km), filled with ice up to about 2,300 ft (700 m) thick."
+  ],
+  [
+   "Where is Katla?",
+   "In south Iceland, under the Mýrdalsjökull ice cap."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Katla record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=372030"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "imo",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Katla",
+   "url": "https://en.vedur.is/volcanoes/katla/"
+  },
+  {
+   "id": "imoerupt",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Katla eruptions",
+   "url": "https://en.vedur.is/volcanoes/katla/katla-eruptions/"
+  },
+  {
+   "id": "vona",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "VONA notifications: changes in the aviation color code of Iceland’s volcanoes",
+   "url": "https://en.vedur.is/earthquakes-and-volcanism/volcanoes/vona-notifications/"
+  },
+  {
+   "id": "vals",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "The Volcano Alert Level System (VALS)",
+   "url": "https://en.vedur.is/earthquakes-and-volcanism/volcanoes/volcano-alert-level-system/"
+  },
+  {
+   "id": "imomon",
+   "publisher": "Icelandic Meteorological Office",
+   "title": "Overview of earthquake activity: monthly overview, November 2025",
+   "url": "https://en.vedur.is/skjalftar-og-eldgos/yfirlit/manudir"
+  },
+  {
+   "id": "cp",
+   "publisher": "Department of Civil Protection and Emergency Management, Iceland (Almannavarnir)",
+   "title": "Katla í Mýrdalsjökli: expected floods and their dangers, September 30, 2017 (in Icelandic)",
+   "url": "https://www.almannavarnir.is/forsidubox/katla-i-myrdalsjokli/"
+  },
+  {
+   "id": "cp2016",
+   "publisher": "Department of Civil Protection and Emergency Management, Iceland (Almannavarnir)",
+   "title": "Uncertainty phase due to seismic unrest in Katla (2016)",
+   "url": "https://www.almannavarnir.is/english/uncertainty-phase-due-to-seismic-unrest-in-katla/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today, in whole years.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles and cubic miles are converted from the metric figures in the sources and rounded.",
+  "The 2016 notice of Iceland’s civil protection shows the date October 30, 2016 on its page and September 30, 2016 in its page data; the earthquakes began on September 29, so the page gives no day for the notice."
+ ],
+ "expect": {
+  "last_end": "November 4, 1918",
+  "last_span": "October 12 to November 4, 1918",
+  "last_year": "1918",
+  "n_all": "128",
+  "n_tephra": "105",
+  "n_written": "17",
+  "n_other": "111",
+  "oldest": "6380 BCE",
+  "since_year": "1580",
+  "n_since": "9",
+  "counted_year": "1721",
+  "longest_gap_from_year": "1756",
+  "longest_gap_to_year": "1823",
+  "longest_gap_years": "67",
+  "n_country": "35",
+  "coords": "63.633°N, 19.083°W",
+  "rock": "basalt to picro-basalt",
+  "type": "Fissure vent",
+  "summit_m": "1,490",
+  "gvp_summit_m": "1,490",
+  "ground_m": "450",
+  "rise_m": "1,050",
+  "noaa_n_word": "15",
+  "noaa_first": "920",
+  "noaa_last": "2011",
+  "noaa_deaths": "2",
+  "noaa_described_count": "2",
+  "noaa_described_word": "two",
+  "worst_date": "October 17, 1755",
+  "worst_deaths": "2",
+  "noaa_tsu": "1"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
