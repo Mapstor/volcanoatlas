@@ -156,7 +156,7 @@ volcano/piton-de-la-fournaise,volcanoes,data,informational,,gvp-eruptions,T2,liv
 volcano/planchon-peteroa,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/poas,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/popocatepetl,volcanoes,data,informational,,gvp-eruptions,T1,live,rebuild pending
-volcano/purace,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/purace,volcanoes,data,informational,"what the volcano is doing this week by Colombia’s Geological Survey, in English and dated (the bulletin of 17 November 2026: Alerta Amarilla, 13 ash emissions in the week), the three times the alert went to orange between 2024 and 2026 with what was measured (the record values of August 2026), the 1949 blocks that killed 17 students, and the hazard map in distances",gvp-eruptions,T2,live,"record page built 2026-11-22 (run 39) in place of the old profile; a continuing eruption (hero “Erupting since November 23, 2025”); no search phrase with the volcano’s name is in the owner’s export, so the section order follows the title’s questions (erupting now, alert states, what has happened since 2022, deaths, danger); uses gvp-volcanoes, gvp-eruptions, noaa-ncei-volcano, noaa-etopo and observatory-pages (the Colombian survey: twelve documents, all read on 2026-11-22); every source link was fetched and read; waits for the owner’s read before his name goes on"
 volcano/puyehue-cordon-caulle,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/rabaul,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/rainier,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
