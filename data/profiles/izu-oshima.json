@@ -1,0 +1,300 @@
+{
+ "slug": "izu-oshima",
+ "volcano_number": 284010,
+ "name": "Izu-Oshima",
+ "country": "Japan",
+ "title": "Izu-Oshima Volcano: Alert Level, 1986 Eruption & History",
+ "description": "Izu-Oshima, the volcanic island south of Tokyo: Japan’s Level 1 alert in November 2026, the 1986 eruption that emptied the island, and its record.",
+ "h1": "Izu-Oshima Volcano",
+ "facts": {
+  "count_from": 1777
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "steam blasts at the summit",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 1 of five.** The Japan Meteorological Agency’s document on October 2026 finds heat and earthquake activity low, no volcanic tremor and no sign of an imminent eruption.[[jma2610]] Its standing warning is for the summit crater, where jets of steam make entry life-threatening.[[jmanow]]",
+ "lede": "Izu-Oshima is a volcanic island about 68 miles (110 km) south-southwest of Tokyo, Japan. Its central cone, Mihara-yama, last erupted in {last_year}, and in November 1986 lava fountains and fissure eruptions led to the evacuation of everyone on the island. Below: its state now, what Japan’s alert levels mean there, the 1986 eruption, the island’s bigger eruptions of the past, the deaths on record, its height and every eruption on record.",
+ "answer": "**Izu-Oshima is not erupting.** The last eruption on the Smithsonian’s list was on {last_end}, at Mihara-yama, the island’s central cone.[[gvp]] The Japan Meteorological Agency keeps the volcano at **Volcanic Alert Level 1 of five**, and its document on October 2026 found no sign of an imminent eruption.[[jmanow]][[jma2610]] The island’s highest point, on Mihara-yama, is **{summit_ft} ft ({summit_m} m)**.[[gvp]][[jmacat]]",
+ "timeline": {
+  "from": 1760,
+  "to": 2030,
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1777.66,
+    "label": "1777"
+   },
+   {
+    "year": 1912.15,
+    "label": "1912"
+   },
+   {
+    "year": 1950.54,
+    "label": "1950"
+   },
+   {
+    "year": 1986.87,
+    "label": "1986"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Since {counted_year} the volcano has seldom been quiet for long: the longest pause, from {longest_gap_from_year} to {longest_gap_to_year}, lasted {longest_gap_years} years.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "Mihara-yama, central cone",
+  "caption": "Izu-Oshima as a simple outline rising from the sea. Only the height of the summit is to scale.[[gvp]] Counting the part under the sea, the volcano is about 3,300 ft (1,000 m) high, JMA writes, and its caldera, 1.9 to 2.8 miles (3 to 4.5 km) across, opens to the east.[[jmaoffice]][[jmacat]]"
+ },
+ "map_zoom": 10,
+ "table": {
+  "rows": 10,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Izu-Oshima?",
+   "map": true,
+   "paras": [
+    "Izu-Oshima is an island in the Izu Islands of [Japan](/volcanoes-in-japan), about 68 miles (110 km) south-southwest of Tokyo, and about 9.3 miles (15 km) long and 5.6 miles (9 km) wide.[[jmaoffice]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "The Japan Meteorological Agency’s warnings for the volcano are addressed to the town of Oshima, in Tokyo Metropolis.[[jmanow]] The town had 8,608 people on November 1, 2011, and the island counted 214,245 visitors in 2010, the agency’s catalogue of active volcanoes says.[[jmacat]]",
+    "Izu-Oshima is one of {n_country} volcanoes in Japan on the Smithsonian’s Holocene list; [Mount Fuji](/volcano/fujisan) and [Mount Asama](/volcano/asamayama) are two others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Izu-Oshima erupting now?",
+   "table": "periods",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption since {last_end}.[[gvp]]",
+    "The Japan Meteorological Agency’s document on October 2026 finds heat and earthquake activity low, no volcanic tremor and no sign of an imminent eruption. Weak steam rose from time to time near Kengamine and from the central vent of Mihara-yama, with no notable change, and a field survey on October 15 found no notable change in the summit area. Volcanic earthquakes were fairly few; they came from 0 to 1.2 miles (0 to 2 km) down under the caldera, and from the north, the east and off the west coast.[[jma2610]]",
+    "The whole island has been swelling since the 1986 eruption, which the agency puts down to magma supplied deep underground, and the swelling has nearly stalled since about 2018. The magma supplied so far is stored at depth, the agency writes, and if activity picks up an eruption could follow.[[jma2610]] Its next document, covering November, is due on December 8, 2026.[[jma2610]]",
+    "The eruption before the last one on the list ran from {prev_start} to {prev_end}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does Alert Level 1 mean at Izu-Oshima?",
+   "paras": [
+    "Japan’s volcanic alert levels run from 1 to 5, and the agency has used them at Izu-Oshima since December 1, 2007.[[jmalevel]] At Level 1 the area to watch is within about 2,000 ft (600 m) of the summit crater, apart from the trails; the standing warning is for the crater itself, where jets of steam make entry life-threatening.[[jmalevel]][[jmanow]]",
+    "Level 2 restricts the area within about 0.6 miles (1 km) of the summit crater, for eruptions at Mihara-yama. Level 3 restricts entry to the mountain: the caldera, or the ground beyond its rim when an eruption could reach farther without threatening homes. At Levels 4 and 5, for evacuating first the elderly and then everyone, the area depends on where the vent opens.[[jmalevel]]",
+    "An eruption that threatens homes skips the lower steps: if one is possible near homes or on the coast below 490 ft (150 m), the level goes to 5.[[jmalevel]]"
+   ]
+  },
+  {
+   "id": "1986",
+   "h": "What happened in the 1986 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "At about 5:25 p.m. on November 15, 1986, an eruption began on the south wall of Mihara-yama’s central vent, with lava fountains 660 to 1,640 ft (200 to 500 m) high and an eruption column of about 9,800 ft (3,000 m).[[jmaoffice]] On November 19 the lava spilled over the crater rim onto the caldera floor.[[jmacat]]",
+    "At 4:15 p.m. on November 21 a fissure opened on the caldera floor, and its eruption column rose to an altitude of 52,000 ft (16,000 m). At 5:46 p.m. another fissure opened on the northwest slope outside the caldera; its lava stopped about 230 ft (70 m) from the crematorium of Motomachi.[[jmaoffice]]",
+    "That night the town ordered everyone off the island. By midday on November 22 about 11,000 residents and 2,000 tourists had reached Shimoda, Ito, Atami, Inatori and Tokyo, and the islanders stayed away for about a month.[[jmaoffice]] NOAA records one death: a 74-year-old man who died of a heart attack while being evacuated by ship.[[noaa]]",
+    "JMA’s catalogue records steam-driven blasts on October 4, 9 and 25, 1990, and a collapse pit about 330 ft (100 m) wide that formed on the crater floor; the Smithsonian’s list counts October 4 only.[[jmacat]][[gvp]]"
+   ]
+  },
+  {
+   "id": "past",
+   "h": "What were Izu-Oshima’s bigger eruptions?",
+   "paras": [
+    "The oldest written record of an eruption is in the Nihon Shoki, for 684. Over more than 10,000 years, large eruptions came about every 100 to 150 years, each putting out hundreds of millions of metric tons of material.[[jmaoffice]]",
+    "In the 9th century magma met water in a fissure eruption and blasted out the hollow that became Habu harbor. In 1421 lava flowed over the caldera’s northeast rim.[[jmaoffice]]",
+    "The last large one, the Anei eruption, began on August 31, 1777. Mihara-yama took shape by April 1778, lava ran northeast to the east coast, and over 16 years the volcano put out about 720 million tons (650 million metric tons).[[jmaoffice]] Medium eruptions followed in 1912 to 1914 and 1950 to 1951, about 44 million tons (40 million metric tons) each.[[jmaoffice]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Has Izu-Oshima killed anyone?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Izu-Oshima, from {noaa_first} to {noaa_last}. {noaa_fatal_word} give one death each; for {noaa_first} it has no count and describes the toll as few.[[noaa]]",
+    "In 1789 heavy ash buried the village of Shimotaka with its people and animals. In 1957 an explosion killed a sightseer and injured 53, and in 1986 a man died of a heart attack during the evacuation. For the death in 1953 NOAA gives no cause.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Izu-Oshima dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Japan Meteorological Agency and the town of Oshima.",
+   "paras": [
+    "Near the summit, yes: the standing warning is for the crater, where jets of steam make entry life-threatening.[[jmanow]]",
+    "In an eruption of medium size, the agency expects large blocks to land within about 0.6 miles (1 km) of the vent, rarely farther; they reached about 2,300 ft (700 m) in 1986 and 3,300 to 3,600 ft (1,000 to 1,100 m) in 1987.[[jmalevel]]",
+    "Lava can approach homes, a case for Level 5 in the agency’s criteria;[[jmalevel]] in 1986 the flow from the fissure outside the caldera came within about 230 ft (70 m) of the crematorium of Motomachi.[[jmaoffice]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Izu-Oshima?",
+   "paras": [
+    "The Japan Meteorological Agency, which monitors it continuously.[[jmacat]] Since April 1, 2008 the agency has had an office for the volcano in the Oshima town hall in Motomachi.[[jmaoffice]]",
+    "Its monthly documents use data from the agency, the Geospatial Information Authority of Japan, the University of Tokyo and the National Research Institute for Earth Science and Disaster Resilience, and its staff survey the summit area in the field, as on October 15, 2026.[[jma2610]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Izu-Oshima?",
+   "paras": [
+    "**{summit_ft} ft ({summit_m} m)** above sea level at its highest point, on Mihara-yama, by the Smithsonian and JMA’s catalogue.[[gvp]][[jmacat]]",
+    "Counting the part under the sea, the volcano is about 3,300 ft (1,000 m) high. The summit crater of Mihara-yama is about 2,600 ft (800 m) wide, with a vertical vent about 980 ft (300 m) across in its middle.[[jmaoffice]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Izu-Oshima?",
+   "paras": [
+    "A stratovolcano, made of {rock}, by the Smithsonian.[[gvp]]",
+    "It has a caldera 1.9 to 2.8 miles (3 to 4.5 km) across that opens to the east, with Mihara-yama as its central cone.[[jmacat]] It grew as an undersea volcano next to three older ones, Okada, Gyojakutsu and Fudeshima, and had roughly its present shape by about 20,000 years ago.[[jmaoffice]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Izu-Oshima erupt?",
+   "paras": [
+    "The Smithsonian counts {n_all} confirmed eruptions. The oldest is dated to about {oldest}; {n_written} are known from written reports and {n_other} were dated from their deposits or by laboratory methods.[[gvp]]",
+    "Since the Anei eruption began in {since_year} the list has {n_since} eruptions, most of them at Mihara-yama. JMA’s catalogue notes that the moderate eruptions of 1912, 1950 and 1986 came 36 to 38 years apart.[[gvp]][[jmacat]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Izu-Oshima’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Izu-Oshima has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} dated from their deposits or by laboratory methods.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "November 1986",
+ "callouts": [
+  {
+   "number": "11,000",
+   "unit": "residents",
+   "text": "Off the island by midday on November 22, 1986, the day after the order to leave, with about 2,000 tourists.",
+   "source": "Source: Japan Meteorological Agency, Izu-Oshima office.[[jmaoffice]]"
+  },
+  {
+   "number": "230",
+   "unit": "feet",
+   "text": "How close the lava from the fissure outside the caldera came to the crematorium of Motomachi (70 m).",
+   "source": "Source: Japan Meteorological Agency, Izu-Oshima office.[[jmaoffice]]"
+  }
+ ],
+ "faq_h": "Izu-Oshima questions and answers",
+ "faq": [
+  [
+   "Is Izu-Oshima erupting now?",
+   "No. Its last eruption on the Smithsonian’s list was on {last_end}. The Japan Meteorological Agency’s document on October 2026 found no sign of an imminent eruption."
+  ],
+  [
+   "What is Izu-Oshima’s alert level?",
+   "Level 1 of five, the lowest, in November 2026. The standing warning is for the summit crater, where jets of steam make entry life-threatening."
+  ],
+  [
+   "When did Izu-Oshima last erupt?",
+   "On {last_end}, by the Smithsonian’s list. JMA’s catalogue records steam-driven blasts on October 4, 9 and 25, 1990."
+  ],
+  [
+   "What happened in the 1986 eruption?",
+   "Lava fountains rose from Mihara-yama from November 15, and on November 21 fissures opened on the caldera floor and outside the caldera. Everyone on the island was evacuated that night and the next morning: about 11,000 residents and 2,000 tourists."
+  ],
+  [
+   "How far is Izu-Oshima from Tokyo?",
+   "About 68 miles (110 km), to the south-southwest."
+  ],
+  [
+   "How tall is Izu-Oshima?",
+   "{summit_ft} ft ({summit_m} m) above sea level at Mihara-yama, and about 3,300 ft (1,000 m) counting the part under the sea."
+  ],
+  [
+   "Has Izu-Oshima killed anyone?",
+   "NOAA records one death each in 1953, 1957 and 1986, and a few in 1789, when ash buried the village of Shimotaka."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Izu-Oshima record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=284010"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency (JMA)",
+   "title": "Volcanic activity of Izu-Oshima: eruption forecast, alert level and warnings in force (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/317.html"
+  },
+  {
+   "id": "jma2610",
+   "publisher": "Japan Meteorological Agency (JMA)",
+   "title": "Monthly volcanic activity document, Izu-Oshima, October 2026 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/tokyo/26m10/317_26m10.pdf"
+  },
+  {
+   "id": "jmalevel",
+   "publisher": "Japan Meteorological Agency (JMA)",
+   "title": "Criteria for the Volcanic Alert Levels of Izu-Oshima and their explanation, as of March 13, 2025 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/level_kijunn/317_level_kaisetsu.pdf"
+  },
+  {
+   "id": "jmacat",
+   "publisher": "Japan Meteorological Agency (JMA)",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 58. Izu-Oshima (PDF)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/058_izu-oshima.pdf"
+  },
+  {
+   "id": "jmaoffice",
+   "publisher": "Japan Meteorological Agency (JMA)",
+   "title": "Izu-Oshima Volcano Disaster Prevention Liaison Office: the volcano, its past eruptions and the 1986 eruption (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/tokyo/rovdm/Izu-Oshima_rovdm/history.html"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today, in whole years.",
+  "Feet, miles and tons are converted from the metric figures in the sources and rounded; tons are US tons of 2,000 pounds. Times are Japan time.",
+  "The evacuation figures are from JMA’s office page on the 1986 eruption; the agency’s catalogue gives the island’s whole population, 10,000 people, as evacuated for about a month.",
+  "For the 1957 explosion, JMA’s catalogue calls the 53 injuries serious and a reference in NOAA’s database calls them slight; this page says injured."
+ ],
+ "expect": {
+  "last_end": "October 4, 1990",
+  "prev_start": "November 16, 1987",
+  "prev_end": "January 27, 1988",
+  "n_all": "99",
+  "n_since": "45",
+  "since_year": "1777",
+  "n_written": "63",
+  "n_other": "36",
+  "oldest": "8450 BCE",
+  "n_country": "105",
+  "coords": "34.724°N, 139.394°E",
+  "rock": "basalt to picro-basalt",
+  "type": "Stratovolcano",
+  "summit_m": "758",
+  "gvp_summit_m": "758",
+  "counted_year": "1912",
+  "longest_gap_years": "12",
+  "longest_gap_from_year": "1974",
+  "longest_gap_to_year": "1986",
+  "noaa_n_word": "four",
+  "noaa_fatal_word": "Three",
+  "noaa_deaths": "3",
+  "noaa_described_count": "1",
+  "noaa_first": "1789",
+  "noaa_last": "1986"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
