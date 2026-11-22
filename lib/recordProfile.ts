@@ -210,6 +210,16 @@ export interface RecordProfile {
    * a volcano (Krakatau, November 2026), so "last erupted" is never printed from the list alone. Required.
    */
   since_check?: string;
+  /**
+   * The last eruption by the volcano's own observatory, for a volcano whose observatory dates one later than the newest
+   * on the Smithsonian's list (Miyakejima: Japan's weather agency lists a very small eruption in January 2013, the list
+   * ends on July 21, 2010). The headline and the key facts follow the observatory; the list stays the record (D-68).
+   * `date` is YYYY-MM-DD, or YYYY-MM when the observatory gives only the month; `source` is a source id; `name` is how
+   * the key facts name the observatory. Tokens: {agency_last}, {agency_last_year}, {agency_quiet_number},
+   * {agency_quiet_unit}, {agency_quiet_span} and {agency_gap} (from the list's last end to the observatory's date).
+   * The build stops once the list reaches that date: the field is then dropped.
+   */
+  agency_last?: { date: string; source: string; name: string };
   /** Day the author read and approved this page, YYYY-MM-DD. Null until he has: no byline is shown before that. */
   reviewed: string | null;
 }
@@ -453,6 +463,52 @@ export function buildRecordData(profile: RecordProfile): RecordData {
     set('quiet_unit', 'years');
     set('quiet_span', `about ${fmt(since)} years`);
     set('quiet_round', '100');
+  }
+  // the observatory's last eruption, when it is later than the newest on the list (D-68)
+  if (profile.agency_last) {
+    const { date, source } = profile.agency_last;
+    const match = /^(\d{4})-(\d{2})(?:-(\d{2}))?$/.exec(date);
+    if (!match) throw new Error(`record profile ${profile.slug}: agency_last.date "${date}" is not YYYY-MM-DD or YYYY-MM`);
+    if (!profile.sources.some((s) => s.id === source)) {
+      throw new Error(`record profile ${profile.slug}: agency_last.source "${source}" is not among the page's sources`);
+    }
+    const precision = match[3] ? 'day' : 'month';
+    const agency: Ymd = [Number(match[1]), Number(match[2]), match[3] ? Number(match[3]) : 1];
+    // the list's newest eruption, as a date that can be compared with the observatory's
+    const listNewest: Ymd | null = stats.current
+      ? null
+      : stats.lastEnd ??
+        (stats.lastYearOnly !== null ? [stats.lastYearOnly, 12, 31] : stats.lastYearMargin ? [stats.lastYearMargin.year, 12, 31] : null);
+    const before = (a: Ymd, b: Ymd) => a[0] !== b[0] ? a[0] < b[0] : a[1] !== b[1] ? a[1] < b[1] : a[2] < b[2];
+    if (stats.current || (listNewest && !before(precision === 'month' ? [listNewest[0], listNewest[1], 1] : listNewest, agency))) {
+      throw new Error(
+        `record profile ${profile.slug}: the Smithsonian's list now reaches the observatory's last eruption (${date}); ` +
+          'drop agency_last and re-read the headline, the key facts and every sentence that names that eruption',
+      );
+    }
+    const now = new Date();
+    const today: Ymd = [now.getUTCFullYear(), now.getUTCMonth() + 1, now.getUTCDate()];
+    set('agency_last', dateText(agency, precision, true));
+    set('agency_last_year', agency[0]);
+    const quiet = spanBetween(agency, precision, today, 'day', true);
+    set('agency_quiet_span', quiet.approx ? `about ${quiet.text}` : quiet.text);
+    // the whole years or months since: a month-only date is counted from the month's last day, so the number is never
+    // more than the time that has passed
+    const monthEnd: Ymd = [agency[0], agency[1], new Date(Date.UTC(agency[0], agency[1], 0)).getUTCDate()];
+    const days = daysBetween(precision === 'month' ? monthEnd : agency, today);
+    const years = Math.floor(days / 365.2425);
+    if (years >= 2) {
+      set('agency_quiet_number', years);
+      set('agency_quiet_unit', 'years');
+    } else {
+      const months = Math.max(1, Math.floor(days / 30.44));
+      set('agency_quiet_number', months);
+      set('agency_quiet_unit', months === 1 ? 'month' : 'months');
+    }
+    if (stats.lastEnd) {
+      const gap = spanBetween(stats.lastEnd, stats.lastEndPrecision, agency, precision);
+      set('agency_gap', gap.approx ? `about ${gap.text}` : gap.text);
+    }
   }
   if (profile.facts.count_from) {
     set('since_year', profile.facts.count_from);

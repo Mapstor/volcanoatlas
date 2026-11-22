@@ -1,0 +1,363 @@
+{
+ "slug": "miyakejima",
+ "volcano_number": 284040,
+ "name": "Miyakejima",
+ "country": "Japan",
+ "title": "Miyakejima Volcano: Alert Level, 2000 Eruption & Evacuation",
+ "description": "Miyakejima, the island south of Tokyo emptied by volcanic gas in 2000: Japan’s Level 1 alert in November 2026, its last eruptions and its full record.",
+ "h1": "Miyakejima",
+ "facts": {
+  "count_from": 1469
+ },
+ "agency_last": {
+  "date": "2013-01",
+  "source": "jmahist",
+  "name": "the Japan Meteorological Agency"
+ },
+ "big": {
+  "line": "Last eruption: {agency_last}",
+  "number": "{agency_quiet_number}",
+  "unit": "{agency_quiet_unit} ago",
+  "note": "very small, by Japan’s count",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 1 of five.** The Japan Meteorological Agency’s document on October 2026 finds earthquakes and steam low and the volcano’s sulfur dioxide output very small, and leaves the level unchanged.[[jma2610]] Its standing warning is for sudden bursts of ash inside the summit crater and within 0.3 mile (500 m) of the main vent.[[jmanow]]",
+ "lede": "Miyakejima is a round volcanic island about 110 miles (180 km) south of Tokyo, in Japan’s Izu Islands. In 2000 its summit fell in to form a new caldera, and the gas that poured out afterward kept everyone off the island for four years and five months. Below: its state now, what Japan’s alert levels mean there, the 2000 eruption and the gas, the earlier eruptions, the deaths on record, the dangers, its height and every eruption on record.",
+ "answer": "**Miyakejima is not erupting.** The Japan Meteorological Agency lists its last eruption, a very small one, in **{agency_last}**; the Smithsonian’s list ends earlier, with the eruption of {last_span}.[[jmahist]][[gvp]] The agency keeps the volcano at **Volcanic Alert Level 1 of five**, and its document on October 2026 found earthquakes and steam low.[[jmanow]][[jma2610]] The summit, Oyama, is **{summit_ft} ft ({summit_m} m)** high.[[gvp]][[jmacat]]",
+ "timeline": {
+  "from": 1440,
+  "to": 2030,
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": 1469.98,
+    "label": "1469"
+   },
+   {
+    "year": 1643.25,
+    "label": "1643"
+   },
+   {
+    "year": 1763.63,
+    "label": "1763"
+   },
+   {
+    "year": 1874.51,
+    "label": "1874"
+   },
+   {
+    "year": 1940.53,
+    "label": "1940"
+   },
+   {
+    "year": 2000.6,
+    "label": "2000"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The Japan Meteorological Agency also lists very small eruptions that are not on this list, the last in {agency_last}.[[jmahist]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "the top fell in, July 2000",
+  "former": {
+   "m": 814,
+   "ft": 2671,
+   "label": "2,671 ft before 2000"
+  },
+  "caption": "Miyakejima as a simple outline rising from the sea. The summit and the earlier summit are to scale; the outline is schematic.[[gvp]][[tokyo]] The collapse that began on July 8, 2000 left a caldera about 1 mile (1.6 km) across inside an older one about 2.2 miles (3.5 km) across.[[jmaoffice]][[jmacat]]"
+ },
+ "map_zoom": 11,
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Miyakejima?",
+   "map": true,
+   "paras": [
+    "Miyakejima is an island in the Izu Islands of [Japan](/volcanoes-in-japan), about 110 miles (180 km) south of Tokyo and about 50 miles (80 km) from the Izu Peninsula.[[villagegeo]] It is nearly round, about 5.6 miles (9 km) across, and covers about 21 square miles (55 km²).[[jmacat]][[villagegeo]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "The island is the village of Miyake, part of Tokyo, with five settlements: Izu, Igaya, Kamitsuki, Tsubota and Ako.[[tokyo]] The village had 2,082 residents on October 31, 2026.[[village]]",
+    "Miyakejima is one of {n_country} volcanoes in Japan on the Smithsonian’s Holocene list; [Izu-Oshima](/volcano/izu-oshima) and [Mount Fuji](/volcano/fujisan) are two others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Miyakejima erupting now?",
+   "paras": [
+    "No. The Japan Meteorological Agency (JMA) has confirmed no eruption since {agency_last}; from 2005 until then it recorded very small eruptions a few times a year.[[jmaoffice]][[jmahist]] The Smithsonian’s list ends earlier, on {last_end}.[[gvp]]",
+    "The agency’s document on October 2026 finds earthquakes and steam low and the sulfur dioxide output very small. The ground in the summit crater has been slightly hotter since 2022, mainly around the main vent, and its cameras have seen no plume rise above the crater rim since February 2020.[[jma2610]]",
+    "Over the longer term, satellite positioning shows the deep part of the volcano swelling, as it has since about 2006, and the agency thinks magma is still building up underground. Its next document, covering November, is due on December 8, 2026.[[jma2610]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does Alert Level 1 mean on Miyakejima?",
+   "paras": [
+    "Japan’s volcanic alert levels run from 1 to 5, and the agency has used them on Miyakejima since March 31, 2008.[[jmalevel]] At Level 1, ash can burst out without warning inside the summit crater, so the agency warns people away from the crater and from the ground within 0.3 mile (500 m) of its main vent.[[jmanow]][[jmalevel]]",
+    "Level 2 closes the ground inside the Oyama ring road, about 0.6 mile (1 km) from the caldera rim. Level 3 restricts entry beyond the ring road toward the settlements, and Levels 4 and 5 are for evacuating first the elderly and then everyone.[[jmalevel]] A flank eruption skips the steps: magma moving into the flank sends the level from 1 straight to 4 or 5.[[jmalevel]]",
+    "The last change came in 2025. The agency raised the level to 2 at 12:50 p.m. on June 17, 2025, when earthquakes beneath the summit crater picked up, and lowered it to 1 again on July 18.[[jmapress]][[jmanow]]"
+   ]
+  },
+  {
+   "id": "2000",
+   "h": "What happened in the 2000 eruption?",
+   "aside": "callouts",
+   "paras": [
+    "On July 8, 2000, a small eruption at the summit was followed by a collapse: the next day a round pit 2,300 to 2,600 ft (700 to 800 m) across was seen from a helicopter.[[jmaoffice]] The eruptions of 2000 left a caldera about 1 mile (1.6 km) across, the first formed on the island in about 2,500 years.[[jmacat]]",
+    "Eruptions came on and off after that.[[jmaoffice]] After the eruption of August 18, a rock about 20 inches (50 cm) across was found punched through the asphalt of the road around the island near Igaya.[[jmalevel]] On August 29 a cool, slow pyroclastic flow ran about 3 miles (5 km) down the northeast side to the sea and about 1.9 miles (3 km) down the southwest side.[[jmaoffice]] Rain turned the ash into mudflows again and again.[[jmahist]]",
+    "On September 1 the evacuation of the whole island was decided, and more than 4,000 islanders had to live off the island.[[jmaoffice]]"
+   ]
+  },
+  {
+   "id": "gas",
+   "h": "Why did the islanders stay away until 2005?",
+   "paras": [
+    "Because of the gas. After the eruptions, the summit went on pouring out volcanic gas heavy with sulfur dioxide, and that kept everyone off the island.[[jmaindex]] When measurements began in late August 2000 the output was about 2,200 tons (2,000 metric tons) a day; in September and October it reached 22,000 to 55,000 tons (20,000 to 50,000 metric tons) a day.[[jmaoffice]]",
+    "The evacuation order was lifted on February 1, 2005, after four years and five months.[[jmaindex]] The output has since fallen, and in the agency’s document on October 2026 it was very small.[[jmaindex]][[jma2610]]"
+   ]
+  },
+  {
+   "id": "past",
+   "h": "What were Miyakejima’s earlier eruptions?",
+   "paras": [
+    "Three of its eruptions in the 20th century, in 1940, 1962 and 1983, broke out from fissures on the flanks.[[jmalevel]] In the agency’s criteria, the time from the first warning earthquakes to a flank eruption can be as short as about an hour, and an eruption near the coast has been reported 1 to 2 hours after one began halfway up the slope.[[jmalevel]]",
+    "The eruption that began on {worst_date} broke out on the northeast flank and at the summit. It killed {worst_deaths} people, injured {worst_injuries}, killed 35 cattle and destroyed or burned down 24 houses.[[jmacat]][[noaa]] Lava reached the coast then and again in 1962, when the children were taken off the island.[[jmalevel]][[jmacat]]",
+    "On October 3, 1983, a fissure opened on the southwest flank, and its lava buried the settlement of Ako. About 400 houses were buried or burned down; no one was hurt.[[jmalevel]][[jmacat]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Has Miyakejima killed anyone?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Miyakejima, from {noaa_first} to {noaa_last}. {noaa_fatal_word} record deaths, {noaa_deaths} in all.[[noaa]]",
+    "In {noaa_first} a person near the crater went missing and was presumed dead, and 45 houses were buried. The {worst_deaths} deaths of 1940 are the worst toll in NOAA’s entries for the island. In 1983 the lava buried and burned about 400 homes and killed no one.[[noaa]]",
+    "The death NOAA counts for 2000 did not happen on Miyakejima. Its total includes the toll of an earthquake on July 1, 2000 that it links to the eruption: a landslide on the island of Kozu-shima killed one person. The same earthquake raised the tsunami in its table, about 3 inches (7 cm) high at Minamiizu.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Miyakejima dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Japan Meteorological Agency and the village of Miyake.",
+   "paras": [
+    "Near the summit, yes: the standing warning is for sudden bursts of ash inside the crater and within 0.3 mile (500 m) of its main vent.[[jmanow]]",
+    "A flank eruption can break out near the settlements with little warning, a case for Level 4 or 5 in the agency’s criteria. The agency writes that its eruptions are generally short, often over in about a day or within a few weeks at most.[[jmalevel]]",
+    "Gas is the other hazard. The summit’s sulfur dioxide output is very small now, and in 2000 it was the gas that kept the island empty for more than four years.[[jma2610]][[jmaindex]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Miyakejima?",
+   "paras": [
+    "The Japan Meteorological Agency, which monitors it continuously.[[jmacat]] Its monthly documents on the volcano follow earthquakes, steam, sulfur dioxide, the heat of the summit crater and the swelling of the ground.[[jma2610]]",
+    "The agency publishes the alert level and the warnings in force on its page for the volcano.[[jmanow]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Miyakejima?",
+   "paras": [
+    "**{summit_ft} ft ({summit_m} m)** above sea level at Oyama, the summit, by the Smithsonian and JMA’s catalogue.[[gvp]][[jmacat]]",
+    "It stood higher before 2000: the Tokyo Metropolitan Government’s Miyake branch office gives the summit as 2,671 ft (814 m) before the eruption and {summit_ft} ft ({summit_m} m) after it.[[tokyo]] Its summit crater is about 1,640 ft (500 m) deep, the village writes.[[villagegeo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Miyakejima?",
+   "paras": [
+    "A stratovolcano, made of {rock}, by the Smithsonian.[[gvp]]",
+    "JMA describes a basalt to andesite stratovolcano: a round island with a caldera about 2.2 miles (3.5 km) across at its center and the caldera of 2000 inside it. Many small cones sit along old fissures, and maars such as Tairoike were blasted out near the coast where magma met water.[[jmacat]] The older caldera formed about 2,300 years ago; another study puts it at about 2,500.[[jmalevel]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Miyakejima erupt?",
+   "table": "periods",
+   "paras": [
+    "JMA’s catalogue counts 13 eruptions in the last 500 years, 17 to 69 years apart, each throwing out roughly 22 to 33 million tons (20 to 30 million metric tons) of rock and ash.[[jmacat]]",
+    "The Smithsonian counts {n_all} confirmed eruptions, the oldest dated to about {oldest}; {n_written} are known from written reports and {n_other} were dated from their deposits or by laboratory methods.[[gvp]] Since {since_year} its list has {n_since}, among them the small eruptions of 2001 to {last_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Miyakejima’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Miyakejima has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} dated from their deposits or by laboratory methods.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "2000 to 2005",
+ "callouts": [
+  {
+   "number": "4,000",
+   "unit": "people",
+   "text": "More than this many islanders had to leave Miyakejima when the whole island was evacuated in September 2000.",
+   "source": "Source: Japan Meteorological Agency.[[jmaoffice]]"
+  },
+  {
+   "number": "55,000",
+   "unit": "tons",
+   "text": "Sulfur dioxide the summit gave off a day for a time after the 2000 eruption (over 50,000 metric tons a day).",
+   "source": "Source: Japan Meteorological Agency.[[jmacat]]"
+  }
+ ],
+ "faq_h": "Miyakejima questions and answers",
+ "faq": [
+  [
+   "Is Miyakejima erupting now?",
+   "No. The Japan Meteorological Agency lists its last eruption, a very small one, in {agency_last} and keeps the volcano at Level 1 of five. The Smithsonian’s list ends with an eruption that ended on {last_end}."
+  ],
+  [
+   "What is Miyakejima’s alert level?",
+   "Level 1 of five, the lowest, in November 2026. The agency raised it to Level 2 on June 17, 2025, after earthquakes beneath the summit crater picked up, and lowered it again on July 18, 2025."
+  ],
+  [
+   "When did Miyakejima last erupt?",
+   "In {agency_last}, a very small eruption, by the Japan Meteorological Agency’s record. The last eruption on the Smithsonian’s list ran from {last_span}. The eruption that formed the summit caldera began in 2000."
+  ],
+  [
+   "Why was Miyakejima evacuated in 2000?",
+   "The summit collapsed and erupted through the summer of 2000, and then gave off large amounts of sulfur dioxide. More than 4,000 islanders left in September 2000, and the evacuation order was lifted on February 1, 2005."
+  ],
+  [
+   "How far is Miyakejima from Tokyo?",
+   "About 110 miles (180 km) south of Tokyo, in the Izu Islands."
+  ],
+  [
+   "How tall is Miyakejima?",
+   "{summit_ft} ft ({summit_m} m) at Oyama, its summit. Before the 2000 eruption the summit stood at 2,671 ft (814 m)."
+  ],
+  [
+   "Has Miyakejima killed anyone?",
+   "NOAA records one death in {noaa_first} and {worst_deaths} in 1940, when 24 houses were destroyed or burned down. It also counts one death in 2000, from a landslide on the island of Kozu-shima during an earthquake it links to the eruption."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Miyakejima record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=284040"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Miyakejima: eruption forecast, alert level and warnings in force (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/320.html"
+  },
+  {
+   "id": "jma2610",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Monthly volcanic activity document, Miyakejima, October 2026 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/tokyo/26m10/320_26m10.pdf"
+  },
+  {
+   "id": "jmalevel",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Criteria for the Volcanic Alert Levels of Miyakejima and their explanation, as of March 26, 2025 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/level_kijunn/320_level_kaisetsu.pdf"
+  },
+  {
+   "id": "jmapress",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Miyakejima’s Volcanic Alert Level raised to 2, press release of June 17, 2025 (in Japanese)",
+   "url": "https://www.jma.go.jp/jma/press/2506/17a/20250617_miyakejima.html"
+  },
+  {
+   "id": "jmacat",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 62. Miyakejima (PDF)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/062_miyakejima.pdf"
+  },
+  {
+   "id": "jmaoffice",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Recent eruptions of Miyakejima: the 2000 eruption, the evacuation and the gas (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/tokyo/rovdm/Miyakejima_rovdm/Miyakejima_rovdm_history.html"
+  },
+  {
+   "id": "jmahist",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Miyakejima: volcanic activity since written records, to 2018 (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/tokyo/320_Miyakejima/320_history.html"
+  },
+  {
+   "id": "jmaindex",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Miyakejima: overview, the 2000 eruption and the volcanic gas (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/tokyo/320_Miyakejima/320_index.html"
+  },
+  {
+   "id": "village",
+   "publisher": "Miyake Village",
+   "title": "Population and households, October 31, 2026 (in Japanese)",
+   "url": "https://www.vill.miyake.tokyo.jp/gyousei/syoukai/jinkou_setai.html"
+  },
+  {
+   "id": "villagegeo",
+   "publisher": "Miyake Village",
+   "title": "Geography: location, size and Oyama (in Japanese)",
+   "url": "https://www.vill.miyake.tokyo.jp/gyousei/syoukai/chiri.html"
+  },
+  {
+   "id": "tokyo",
+   "publisher": "Tokyo Metropolitan Government, Miyake Branch Office",
+   "title": "Geography of Miyakejima and Mikurajima (in Japanese)",
+   "url": "https://www.soumu.metro.tokyo.lg.jp/14miyake/miyakesichonituite/chisei"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{agency_quiet_number} {agency_quiet_unit} ago:** counted from the end of {agency_last}, the month of the last eruption the Japan Meteorological Agency lists, to today, in whole years.",
+  "The Smithsonian’s list ends with the eruption of {last_span}. The agency’s table of activity also has very small eruptions that the list does not, the last in {agency_last}.",
+  "Feet, miles, square miles, inches and tons are converted from the metric figures in the sources and rounded; tons are US tons of 2,000 pounds. Dates and times are Japan time.",
+  "For 1940, NOAA’s database gives VEI 2 and the Smithsonian’s list VEI 3; each table prints its own source’s figure."
+ ],
+ "expect": {
+  "agency_last": "January 2013",
+  "agency_last_year": "2013",
+  "agency_gap": "about 2 years 5 months",
+  "last_end": "July 21, 2010",
+  "last_span": "April 10 to July 21, 2010",
+  "last_year": "2010",
+  "n_all": "39",
+  "n_since": "22",
+  "since_year": "1469",
+  "n_written": "26",
+  "n_other": "13",
+  "oldest": "6450 BCE",
+  "n_country": "105",
+  "coords": "34.094°N, 139.526°E",
+  "rock": "basalt to picro-basalt",
+  "type": "Stratovolcano",
+  "summit_m": "775",
+  "gvp_summit_m": "775",
+  "noaa_n_word": "four",
+  "noaa_first": "1874",
+  "noaa_last": "2000",
+  "noaa_fatal_word": "Three",
+  "noaa_deaths": "13",
+  "noaa_described_count": "0",
+  "noaa_tsu": "1",
+  "worst_date": "July 12, 1940",
+  "worst_deaths": "11",
+  "worst_injuries": "20"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
