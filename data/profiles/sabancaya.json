@@ -1,0 +1,329 @@
+{
+ "slug": "sabancaya",
+ "volcano_number": 354006,
+ "name": "Sabancaya",
+ "country": "Peru",
+ "title": "Sabancaya Volcano, Peru: Eruption Now, Alert Level & History",
+ "description": "Sabancaya in southern Peru is erupting, with the alert at orange in November 2026. The 2025 explosion, the eruptions since 2016 and the 1990s, its record.",
+ "h1": "Sabancaya Volcano",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1986
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "still going at the last update",
+  "note_weekly": "still going in the {period} report"
+ },
+ "since_check": "**Orange alert, the third of four levels.** In its bulletin for November 9 to 15, 2026, published on November 16, Peru’s Geophysical Institute (IGP) wrote that the eruption continues with low, stable activity: no explosions in the week, only water vapor and gas rising up to 330 ft (100 m) above the summit.[[igp1116]][[igplist]]",
+ "lede": "Sabancaya is a volcano in the Andes of southern Peru, 12 miles (19 km) from the village of Maca in the Colca valley and 47 miles (76 km) northwest of the city of Arequipa. It has been erupting since {prev_start}, apart from a pause in {cur_start_year}, and its ash has reached villages around it. Below: its state now, what Peru’s orange alert means, the explosion of {cur_start_year}, the eruptions since 2016 and in the 1990s, the dangers, its height and every eruption on record.",
+ "answer": "**Sabancaya is erupting.** The Smithsonian’s list dates the current eruption from {cur_since} and had it continuing at its last update, on {cur_last}; the one before ran from {prev_start} to {prev_end}.[[gvp]] Peru’s Geophysical Institute (IGP), which watches the volcano, describes one eruptive process since {prev_start}, and kept its alert at **orange**, the third of four levels, in its bulletin of November 16, 2026.[[igp1105]][[igp1116]] The volcano is **{summit_ft} ft ({summit_m} m)** high, in Peru’s Arequipa region.[[gvp]][[igpsab]]",
+ "timeline": {
+  "from": 1980,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1986.96,
+    "label": "1986"
+   },
+   {
+    "year": 1990.41,
+    "label": "1990"
+   },
+   {
+    "year": 2003.58,
+    "label": "2003"
+   },
+   {
+    "year": 2016.85,
+    "label": "2016"
+   },
+   {
+    "year": 2025.7,
+    "label": "2025"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The activity that began in {since_year} was the first recorded since 1784. After the eruption of {longest_gap_from_year} the volcano was quiet for {longest_gap_years} years, the longest pause on the list since {since_year}.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "youngest of the complex",
+  "caption": "Sabancaya cut open. The summit height and the land around the volcano are to scale; the outline is schematic.[[gvp]][[etopo]] IGP calls Sabancaya the youngest volcano of the Ampato–Sabancaya complex.[[igp2023]] Its two neighbors, Ampato to the southwest and Hualca Hualca to the northwest, are both higher.[[gvp]]"
+ },
+ "map_zoom": 8,
+ "table": {
+  "rows": 6,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Sabancaya?",
+   "map": true,
+   "paras": [
+    "Sabancaya is in the Andes of southern [Peru](/volcanoes-in-peru), in the Caylloma province of the Arequipa region.[[igp0819]] Peru’s Geophysical Institute (IGP) places it 12 miles (19 km) from the village of Maca, in the Colca valley, and 47 miles (76 km) northwest of the city of Arequipa.[[igpsab]] The Smithsonian places it at {coords}.[[gvp]]",
+    "It stands between Ampato, to the southwest, and Hualca Hualca, to the northwest.[[gvp]] IGP calls Sabancaya the youngest volcano of the Ampato–Sabancaya complex.[[igp2023]]",
+    "Sabancaya is one of {n_country} volcanoes in Peru on the Smithsonian’s Holocene list; [El Misti](/volcano/misti-el) and [Ubinas](/volcano/ubinas) are two others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Sabancaya erupting now?",
+   "table": "periods",
+   "paras": [
+    "Yes. By the Smithsonian’s list, an eruption began on **{cur_since}** and was continuing at the list’s last update, on {cur_last}.[[gvp]]",
+    "In its bulletin for the week of November 9 to 15, 2026, IGP wrote that the eruptive process continues with low, stable activity. It recorded no explosions, only water vapor and gas rising up to 330 ft (100 m) above the summit, and its monitoring readings were stable, so the alert stayed at orange.[[igp1116]] Its bulletins of November 2, 9 and 16, 2026 all gave the alert at orange.[[igplist]]",
+    "The eruption before this one on the list ran from {prev_start} to {prev_end}.[[gvp]] IGP treats the two as one eruptive process: its daily reports describe the volcano as erupting since {prev_start}, including on August 19, 2025, between the two eruptions on the list.[[igp0819]][[igp1105]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What does Sabancaya’s orange alert mean?",
+   "paras": [
+    "Peru’s volcanic alert has four colors. IGP keeps the volcano’s activity under constant evaluation and recommends a level to the authorities, who are responsible for taking action.[[igpsab]]",
+    "Green means the volcano is inactive and people nearby can go about their lives as usual. Yellow means more earthquakes, fumaroles and possible deformation of the ground, with explosions and ash possible; people should heed the authorities and keep away from risk zones. Orange means a significant rise in eruptive activity, with frequent explosions, ash and ballistic blocks; people should follow the authorities and keep away from the volcano. Red means a critical eruption that puts the population at risk, with large falls of ash and ballistic blocks; people should follow the authorities closely in case of an evacuation.[[igpsab]]",
+    "IGP’s daily reports also give a distance to keep from the crater: 7.5 miles (12 km) at orange in the report of November 5, 2025, and 3.7 miles (6 km) at yellow in the report of August 19, 2025.[[igp1105]][[igp0819]]",
+    "The alert was at yellow on August 19, 2025, and went up to orange after the explosion of September 13, 2025.[[igp0819]][[indeci0914]]"
+   ]
+  },
+  {
+   "id": "2025",
+   "h": "What happened on September 13, 2025?",
+   "paras": [
+    "At 4:25 p.m. local time on September 13, 2025, an explosion sent an eruptive column more than 3 miles (5 km) above the summit, with pyroclastic flows descending. IGP reported a sudden and significant increase in eruptive activity, says the bulletin that Peru’s civil defense institute (INDECI) issued the next day, and the alert was raised to orange.[[indeci0914]] The Smithsonian’s list starts the current eruption on that day.[[gvp]]",
+    "INDECI asked people near the volcano not to approach it for any reason, to keep away from ravines and riverbeds where lahars could run, to cover water tanks, to keep animals in shelters and off pasture covered in ash, to wear glasses and a mask, to stay indoors and to be ready to evacuate if needed.[[indeci0914]]"
+   ]
+  },
+  {
+   "id": "2016",
+   "h": "What happened from 2016 to 2025?",
+   "aside": "callouts",
+   "paras": [
+    "The first explosions came on {prev_start}.[[igp2023]] In May 2023, IGP wrote that the volcano was producing dozens of explosions a day, usually with ash and gas, and that in its most active periods the columns reached 18,000 ft (5,500 m) above the crater.[[igp2023]] From 2019 a lava dome could be seen in the crater, the same report says.[[igp2023]]",
+    "The ash spread as far as 43 miles (70 km) and affected villages including Chivay, Coporaque, Achoma, Lari, Madrigal, Maca, Cabanaconde, Huanca and Huambo.[[igp2023]] IGP counted about 20,000 people at risk in the districts around the volcano, and its daily reports count 10,204 people within 19 miles (30 km) of the crater.[[igp2023]][[igp1105]]",
+    "The Smithsonian’s list ends this eruption on {prev_end}.[[gvp]] By August 19, 2025, IGP’s alert stood at yellow.[[igp0819]]"
+   ]
+  },
+  {
+   "id": "1990",
+   "h": "What happened in the 1990s eruption?",
+   "paras": [
+    "The activity that began in 1986 was the first recorded at Sabancaya since 1784, the Smithsonian notes.[[gvp]] In November 1986 its fumaroles grew sharply stronger.[[ovi]] The Smithsonian’s list then has two eruptions of VEI 1, in 1986 and 1988, and a long one from May 28, 1990 to about September 1998.[[gvp]]",
+    "From 1990 to 1994 explosions came every 15 to 60 minutes, with columns of 0.3 to 1.9 miles (0.5 to 3 km) on average, the volcano observatory of INGEMMET (OVI) writes. In the strongest phase, from May 28 to June 5, 1990, columns rose 2 to 3 miles (3 to 5 km) above the crater, ballistic blocks were thrown up to 0.6 miles (1 km) above it, and lapilli fell 2 to 3 miles (3 to 5 km) away.[[ovi]]",
+    "Ash spread 12 to 19 miles (20 to 30 km) east of the volcano over about 97 square miles (250 km²), up to 0.4 inch (1 cm) thick within 12 miles (20 km). Livestock died, crops were destroyed and whole families moved to safer places.[[ovi]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Sabancaya dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow Peru’s Geophysical Institute (IGP) and the civil defense authorities.",
+   "paras": [
+    "IGP describes volcanic ash as fragments of rock, crystal and glass under 0.08 inch (2 mm) that the wind can carry for tens of miles,[[igpsab]] and in the eruption that began in 2016 it spread up to 43 miles (70 km).[[igp2023]]",
+    "Lahars, mixtures of volcanic debris and rainwater, have come down mainly the Huayuray ravine at Pinchollo, north of the volcano, and the Sallalli river. IGP’s lahar scenarios name Cabanaconde, Achoma and Maca among the towns that could be hit, along with farmland and water channels.[[igpsab]][[igp2023]]",
+    "Near the crater, explosions have thrown blocks about 8 inches (20 cm) across as far as 1,600 ft (500 m), and in IGP’s scenario of a moderate explosive eruption small pyroclastic flows would reach a few kilometers from the summit.[[igp2023]] Pyroclastic flows came down in the explosion of September 13, 2025.[[indeci0914]]",
+    "NOAA’s database of significant eruptions has no entry for Sabancaya.[[noaa]]"
+   ]
+  },
+  {
+   "id": "watch",
+   "h": "Who monitors Sabancaya?",
+   "paras": [
+    "Peru’s Geophysical Institute, through its National Volcanological Center (CENVUL), monitors Sabancaya permanently and in real time.[[igp2023]] Its daily reports give 2013 as the start of permanent monitoring at Sabancaya.[[igp0819]]",
+    "In May 2023 the network on the volcano had seven stations with 13 instruments: six broadband seismometers, two satellite-positioning (GNSS) stations, an infrasound sensor, a multigas analyzer and three video cameras.[[igp2023]]",
+    "IGP issues daily reports and bulletins on the volcano; its three newest bulletins came out on November 2, 9 and 16, 2026.[[igp1105]][[igplist]] The volcano observatory of INGEMMET (OVI) keeps a history of its eruptions.[[ovi]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Sabancaya?",
+   "paras": [
+    "**{summit_ft} ft ({summit_m} m)** above sea level, by the Smithsonian, and IGP gives the same figure.[[gvp]][[igpsab]]",
+    "It rises about {rise_ft} ft ({rise_m} m) above the high ground around it, which lies at about {ground_ft} ft ({ground_m} m).[[gvp]][[etopo]]",
+    "Both of its neighbors are higher: Ampato reaches 20,597 ft (6,278 m) and Hualca Hualca 19,613 ft (5,978 m), in the Smithsonian’s list of the area’s volcanic features.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Sabancaya?",
+   "paras": [
+    "A stratovolcano, made of {rock}, by the Smithsonian.[[gvp]]",
+    "Over the Holocene it has had Plinian eruptions and has poured out lava flows that now spread around it on every side but the south, the Smithsonian notes.[[gvp]] The explosions of 1990 to 1994 and those since 2016 are of the Vulcanian kind, INGEMMET’s observatory writes.[[ovi]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Sabancaya erupt?",
+   "paras": [
+    "The Smithsonian counts {n_all} confirmed eruptions. The oldest is dated to about {oldest}; {n_written} are known from written reports and {n_other} were dated from their deposits.[[gvp]]",
+    "The written record starts with eruptions in 1750 and 1784, and then has nothing until {since_year}.[[gvp]] Since then the list has {n_since} eruptions, two of them about {long1_years} years long: {long2_span} and {long1_span}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Sabancaya’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Sabancaya has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_other} dated from their deposits.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "the eruption since 2016",
+ "callouts": [
+  {
+   "number": "10,204",
+   "unit": "people",
+   "text": "Live within 19 miles (30 km) of the crater, by IGP’s count in its daily reports.",
+   "source": "Source: IGP, daily report of November 5, 2025.[[igp1105]]"
+  },
+  {
+   "number": "43",
+   "unit": "miles",
+   "text": "How far the ash of the eruption that began in 2016 had spread (70 km), IGP reported in May 2023.",
+   "source": "Source: IGP, technical report 010-2023.[[igp2023]]"
+  }
+ ],
+ "faq_h": "Sabancaya questions and answers",
+ "faq": [
+  [
+   "Is Sabancaya erupting now?",
+   "Yes. The Smithsonian lists an eruption since {cur_since}, continuing at its last update on {cur_last}. In the week of November 9 to 15, 2026, IGP recorded no explosions, only water vapor and gas up to 330 ft (100 m) above the summit."
+  ],
+  [
+   "What is Sabancaya’s alert level?",
+   "Orange, the third of Peru’s four alert colors, in IGP’s bulletin of November 16, 2026. At orange, IGP’s daily report of November 5, 2025 asked people not to come within 7.5 miles (12 km) of the crater."
+  ],
+  [
+   "When did Sabancaya start erupting?",
+   "The current eruption on the Smithsonian’s list began on {cur_since}, with an explosion at 4:25 p.m. Peru’s Geophysical Institute describes one eruptive process since {prev_start}."
+  ],
+  [
+   "Where is Sabancaya?",
+   "In the Arequipa region of southern Peru, 12 miles (19 km) from Maca in the Colca valley and 47 miles (76 km) northwest of the city of Arequipa."
+  ],
+  [
+   "How tall is Sabancaya?",
+   "{summit_ft} ft ({summit_m} m) above sea level."
+  ],
+  [
+   "How many people live near Sabancaya?",
+   "IGP counts 10,204 people within 19 miles (30 km) of the crater."
+  ],
+  [
+   "Has Sabancaya killed anyone?",
+   "NOAA’s database of significant eruptions has no entry for it. In the 1990s eruption livestock died, crops were destroyed and families moved away, INGEMMET’s observatory records."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Sabancaya record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=354006"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Smithsonian / USGS",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "igp1116",
+   "publisher": "Instituto Geofísico del Perú (IGP), Centro Vulcanológico Nacional",
+   "title": "Boletín vulcanológico IGP/CENVUL-SAB/BV 2026-0046: Sabancaya, November 9 to 15, 2026, on CENVUL’s latest-information page (in Spanish)",
+   "url": "https://cenvul.igp.gob.pe/ultima-informacion"
+  },
+  {
+   "id": "igplist",
+   "publisher": "Instituto Geofísico del Perú (IGP), Centro Vulcanológico Nacional",
+   "title": "Boletines vulcanológicos: the list of bulletins, with Sabancaya’s of November 2, 9 and 16, 2026 (in Spanish)",
+   "url": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos"
+  },
+  {
+   "id": "igp1105",
+   "publisher": "Instituto Geofísico del Perú (IGP), Centro Vulcanológico Nacional",
+   "title": "Reporte vulcanológico diario IGP/CENVUL/RVD 2025-0309, November 5, 2025 (PDF, in Spanish)",
+   "url": "https://cenvul.igp.gob.pe/backend/uploads/REPORTE_VULCANOLOGICO_DIARIO_5_DE_NOVIEMBRE_DE_2025_4947d3363d.pdf"
+  },
+  {
+   "id": "igp0819",
+   "publisher": "Instituto Geofísico del Perú (IGP), Centro Vulcanológico Nacional",
+   "title": "Reporte vulcanológico diario IGP/CENVUL/RVD 2025-0231, August 19, 2025 (PDF, in Spanish)",
+   "url": "https://cenvul.igp.gob.pe/backend/uploads/REPORTE_VULCANOLOGICO_DIARIO_19_DE_AGOSTO_DE_2025_b1e7d3fdf3.pdf"
+  },
+  {
+   "id": "indeci0914",
+   "publisher": "Instituto Nacional de Defensa Civil (INDECI)",
+   "title": "Boletín informativo de actividad volcánica N° 003-2025-INDECI/COEN, September 14, 2025 (PDF, in Spanish)",
+   "url": "https://portal.indeci.gob.pe/wp-content/uploads/2025/09/BOLETIN-INFORMATIVO-DE-ACTIVIDAD-VOLCANICA-N%C2%B0-003-2025-del-14-09-2025.pdf"
+  },
+  {
+   "id": "igpsab",
+   "publisher": "Instituto Geofísico del Perú (IGP), Centro Vulcanológico Nacional",
+   "title": "El volcán Sabancaya: location, alert colors and volcanic hazards (leaflet, PDF, in Spanish)",
+   "url": "https://repositorio.igp.gob.pe/server/api/core/bitstreams/341d4de4-1e77-4824-82c4-2d3b1c82db1f/content"
+  },
+  {
+   "id": "igp2023",
+   "publisher": "Instituto Geofísico del Perú (IGP)",
+   "title": "Estado del conocimiento sobre la actividad de los volcanes activos de Arequipa, Informe Técnico N° 010-2023/IGP, May 2023 (PDF, in Spanish)",
+   "url": "https://repositorio.igp.gob.pe/server/api/core/bitstreams/7862b1d1-2719-4404-872e-b1cad24ba5dc/content"
+  },
+  {
+   "id": "ovi",
+   "publisher": "Observatorio Vulcanológico del INGEMMET (OVI)",
+   "title": "Actividad histórica del volcán Sabancaya (in Spanish)",
+   "url": "http://ovi.ingemmet.gob.pe/?page_id=454"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{cur_number} {cur_unit}:** counted from {cur_since} to today, on the Smithsonian’s listing of the eruption as continuing. Its last update was {cur_last}.",
+  "**about {rise_ft} ft ({rise_m} m):** the summit height minus the height of the land around the volcano, {ground_m} m. That is the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "Feet, miles, square miles and inches are converted from the metric figures in the sources and rounded. Times are local time in Peru.",
+  "IGP’s leaflet and INDECI’s bulletin put the volcano 76 km from Arequipa; IGP’s technical report of 2023 gives 70 km. This page uses 76 km.",
+  "The eruption counts on this page are the Smithsonian’s. IGP’s report of 2023, citing several catalogs, counts 5 eruptions since 1750."
+ ],
+ "expect": {
+  "cur_since": "September 13, 2025",
+  "cur_start_year": "2025",
+  "prev_start": "November 6, 2016",
+  "prev_end": "April 6, 2025",
+  "n_all": "12",
+  "n_since": "7",
+  "since_year": "1986",
+  "n_written": "9",
+  "n_other": "3",
+  "oldest": "6600 BCE",
+  "n_country": "13",
+  "coords": "15.787°S, 71.857°W",
+  "rock": "andesite to basaltic andesite",
+  "type": "Stratovolcano",
+  "summit_m": "5,960",
+  "gvp_summit_m": "5,960",
+  "long1_span": "2016 to 2025",
+  "long2_span": "1990 to 1998",
+  "long1_years": "8",
+  "long2_years": "8",
+  "longest_gap_years": "13",
+  "longest_gap_from_year": "2003",
+  "noaa_n": "0"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}
