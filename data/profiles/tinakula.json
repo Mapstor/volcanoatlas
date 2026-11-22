@@ -1,0 +1,258 @@
+{
+ "slug": "tinakula",
+ "volcano_number": 256010,
+ "name": "Tinakula",
+ "country": "Solomon Islands",
+ "title": "Tinakula Volcano: Last Eruption, 1840 Disaster & Evacuation",
+ "description": "Tinakula in the Solomon Islands: its eruption of 2018 to 2024, the 1840 eruption that killed its people, the 1971 evacuation and every eruption on record.",
+ "h1": "Tinakula",
+ "facts": {
+  "count_from": 1951
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "after its longest dated eruption",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting on the Smithsonian’s list.** Its last eruption there ended on {last_end}.[[gvp]] The list of ash advisories from the past seven days, read on {read_date}, had none for Tinakula.[[vaacrecent]] No alert level for Tinakula was found when the sources were read.",
+ "lede": "Tinakula is a small volcanic island at the north-western end of the Santa Cruz Islands, in the Solomon Islands. Its eruption of about 1840 killed the people living on it, and it has had no inhabitants since its people were evacuated in 1971. Below: its state now, the eruptions of 1840, 1971 and 2017, the deaths and tsunamis on record, its shape and every eruption on record.",
+ "answer": "**Tinakula is not erupting on the Smithsonian’s list.** Its last eruption, from {last_span}, is the longest of its dated eruptions.[[gvp]] The ash advisories of the past seven days, read on {read_date}, had none for it.[[vaacrecent]] The island volcano rises **{summit_ft} ft ({summit_m} m)** above the sea.[[gvp]]",
+ "timeline": {
+  "from": 1830,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1840.5,
+    "label": "1840"
+   },
+   {
+    "year": 1897.2,
+    "label": "1897"
+   },
+   {
+    "year": 1965.9,
+    "label": "1965"
+   },
+   {
+    "year": 2017.8,
+    "label": "2017"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "breach open to the sea",
+  "crater": "breached crater",
+  "crater_share": 0.15,
+  "caption": "Tinakula as a simple outline rising from the sea. Only the summit height is to scale; the outline is schematic.[[gvp]] The volcano rises about 1.9 to 2.5 miles (3 to 4 km) from the sea floor; that part is not drawn.[[gvp]]"
+ },
+ "map_zoom": 13,
+ "map_label": "above",
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Tinakula?",
+   "map": true,
+   "paras": [
+    "Tinakula is a small island volcano at the north-western end of the Santa Cruz Islands, about 400 miles (640 km) east-south-east of Honiara, the capital of the Solomon Islands.[[gvp]] The island is about 2.2 miles (3.5 km) wide, and the Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Its nearest neighbors are Te Motu (Trevanion) Island, about 19 miles (30 km) to the south, Nupani, about 25 miles (40 km) to the north, and the Reef Islands, about 37 miles (60 km) to the east.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Tinakula erupting now?",
+   "paras": [
+    "No, not on the Smithsonian’s list, where its last eruption ran from {last_span}.[[gvp]] The list of ash advisories from the past seven days, read on {read_date}, had none for Tinakula.[[vaacrecent]]",
+    "The Smithsonian’s reports on that long eruption rest mostly on satellites: heat at the summit, plumes of gas and steam and, at times, lava flows, with a ship’s visit in January 2019.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1840",
+   "h": "What happened on Tinakula in 1840?",
+   "paras": [
+    "About 1840, an explosive eruption sent pyroclastic flows down every side of the island and killed the people living on it, the Smithsonian says.[[gvp]] NOAA’s database describes the toll as many deaths, its class of about 101 to 1,000, without a count, and notes that heavy seas kept them from escaping.[[noaa]]"
+   ]
+  },
+  {
+   "id": "1971",
+   "h": "Why does no one live on Tinakula?",
+   "aside": "callouts",
+   "paras": [
+    "Its people left in 1971. An eruption that began on September 6, 1971, after a small tsunami at the island, sent a lava flow about 1,000 ft (300 m) down the north-west flank, and about 160 people were evacuated; the island has had no inhabitants since.[[gvp]]",
+    "On Te Motu (Trevanion) Island, the people of Neo village heard the volcano thunder that evening and moved to higher ground.[[gvp]][[noaa]] The Smithsonian notes that islanders from the outer Reef Islands travel now and then to tend gardens on Tinakula’s south-east flank.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2017",
+   "h": "What happened in October 2017?",
+   "paras": [
+    "It had a short eruption, from {prev_start} to {prev_end}, which the Smithsonian rates VEI 3.[[gvp]] The Wellington Volcanic Ash Advisory Centre reported a plume drifting south-east at about 35,000 ft (10.7 km).[[gvp]]",
+    "Most of the ash fell on Tinakula itself. A little drifted south-east and briefly fouled drinking water in nearby Reef Islands communities, and ash also fell on Fenualoa Island, about 31 miles (50 km) to the east-north-east.[[gvp]] A large plume of sulfur dioxide was released on October 21, and a smaller one on October 28.[[gvp]]"
+   ]
+  },
+  {
+   "id": "people",
+   "h": "Has Tinakula killed anyone?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Tinakula, from {noaa_first} to {noaa_last}. Only the eruption of about 1840 has deaths, and NOAA describes them as many, without a count.[[noaa]]",
+    "The other entries are there for tsunamis: in 1897; in 1966, when a landslide from near the summit fell into the sea and raised only small local waves; and in 1971. NOAA’s tsunami records rate the waves of 1897 and 1966 as probable and those of 1971 as definite.[[noaa]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Tinakula dangerous?",
+   "note": "This page is a record, not a safety guide. For warnings, follow the Solomon Islands’ National Disaster Management Office.",
+   "paras": [
+    "To anyone on or near it, yes: its eruption of about 1840 killed the island’s people with pyroclastic flows, and NOAA links tsunamis to its eruptions of 1897, 1966 and 1971.[[gvp]][[noaa]] In 2017 its ash reached islands about 31 miles (50 km) away.[[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Tinakula erupt?",
+   "table": "periods",
+   "paras": [
+    "Often. Eruptions have been seen there since the first Spanish explorers came in 1595, and the Smithsonian’s list has {n_since} since {since_year}.[[gvp]] From {counted_month_year}, when its dates become complete enough to count, to {last_end}, the volcano was erupting on {share} percent of the days.[[gvp]]",
+    "The longest pause between eruptions in that time ran from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]] The oldest eruption on the list, from about {oldest}, is dated by radiocarbon.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Tinakula?",
+   "paras": [
+    "A stratovolcano of {rock}. The island is the exposed top of a massive volcano that rises about 1.9 to 2.5 miles (3 to 4 km) from the sea floor.[[gvp]]",
+    "Its summit crater is breached: it lies open from the summit to below the sea on the north-west side, and landslides in 1965 enlarged that scar into a bay on the north-west coast.[[gvp]] Most recorded eruptions came from a cone built inside the breach; a smaller cone, Mendana, sits on the south-east side.[[gvp]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How big is Tinakula?",
+   "paras": [
+    "Its summit is **{summit_ft} ft ({summit_m} m)** above sea level, on an island about 2.2 miles (3.5 km) wide.[[gvp]] Most of the volcano is under water: it rises about 1.9 to 2.5 miles (3 to 4 km) from the sea floor.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Tinakula’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Tinakula has **{n_all} confirmed eruptions**: {n_written} known from written reports and {n_rc_word} dated by radiocarbon.[[gvp]] The list also carries {n_unconfirmed_word} eruptions it does not count as confirmed; they are not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Tinakula’s record",
+ "callouts": [
+  {
+   "number": "160",
+   "unit": "people",
+   "text": "Evacuated from the island in the eruption of 1971; no one has lived there since.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  },
+  {
+   "number": "{long1_years}",
+   "unit": "years",
+   "text": "At least this long: its last eruption, {long1_span}, the longest of its dated eruptions.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  }
+ ],
+ "faq_h": "Tinakula questions and answers",
+ "faq": [
+  [
+   "Is Tinakula erupting now?",
+   "Not on the Smithsonian’s list: its last eruption there ended on {last_end}. The ash advisories of the past seven days, read on {read_date}, had none for it."
+  ],
+  [
+   "When did Tinakula last erupt?",
+   "From {last_span}, by the Smithsonian’s list, the longest of its dated eruptions."
+  ],
+  [
+   "Does anyone live on Tinakula?",
+   "No. About 160 people were evacuated during the eruption of 1971, and the island has had no inhabitants since; islanders from the Reef Islands come at times to tend gardens."
+  ],
+  [
+   "What happened on Tinakula in 1840?",
+   "An explosive eruption sent pyroclastic flows down all sides of the island and killed its inhabitants. NOAA describes the deaths as many, without a number."
+  ],
+  [
+   "Has Tinakula caused tsunamis?",
+   "NOAA links tsunamis to its eruptions of 1897, 1966 and 1971; the one of 1966 came from a landslide and raised only small local waves."
+  ],
+  [
+   "Where is Tinakula?",
+   "At the north-western end of the Santa Cruz Islands, about 400 miles (640 km) east-south-east of Honiara, the capital of the Solomon Islands."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Tinakula record, eruption list and reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=256010"
+  },
+  {
+   "id": "vaacrecent",
+   "publisher": "Bureau of Meteorology, Australia",
+   "title": "Volcanic ash advisories received in the last 7 days",
+   "url": "https://www.bom.gov.au/products/Volc_ash_recent.shtml"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today, in whole months.",
+  "**{share} percent of the days:** the days inside the listed eruptions from {counted_from} to {last_end}, divided by all the days in that time. Before {counted_year}, some eruptions on the list lack an end date.",
+  "Miles and feet are converted from the metric figures in the sources and rounded.",
+  "The map’s tiles, drawn by OpenStreetMap contributors, mark the peak at 851 m; this page uses the Smithsonian’s {gvp_summit_m} m."
+ ],
+ "expect": {
+  "last_end": "December 31, 2024",
+  "last_span": "December 8, 2018 to December 31, 2024",
+  "last_year": "2024",
+  "long1_span": "2018 to 2024",
+  "long1_years": "6",
+  "prev_start": "October 21",
+  "prev_end": "October 26, 2017",
+  "n_since": "12",
+  "since_year": "1951",
+  "counted_from": "February 29, 2000",
+  "counted_month_year": "February 2000",
+  "counted_year": "2000",
+  "share": "37",
+  "longest_gap_from_year": "2008",
+  "longest_gap_to_year": "2017",
+  "n_all": "25",
+  "n_written": "24",
+  "n_rc_word": "one",
+  "n_unconfirmed_word": "three",
+  "oldest": "1050 BCE",
+  "noaa_n_word": "four",
+  "noaa_first": "1840",
+  "noaa_last": "1971",
+  "noaa_tsu": "3",
+  "noaa_deaths": "0",
+  "noaa_described_count": "1",
+  "max_vei": "3",
+  "coords": "10.386°S, 165.804°E",
+  "rock": "andesite to basaltic andesite",
+  "type": "Stratovolcano",
+  "summit_m": "796",
+  "summit_ft": "2,612",
+  "gvp_summit_m": "796"
+ },
+ "observatory_read": "2026-11-22",
+ "reviewed": null
+}

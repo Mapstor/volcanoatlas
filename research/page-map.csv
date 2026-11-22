@@ -192,7 +192,7 @@ volcano/telica,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pendi
 volcano/tenerife,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/tengger-caldera,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/terceira,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
-volcano/tinakula,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
+volcano/tinakula,volcanoes,data,informational,"the island whose people were killed by pyroclastic flows about 1840 and evacuated in 1971 (about 160, none living there since), its 2018-2024 eruption the longest of its dated ones, NOAA's tsunamis of 1897, 1966 and 1971 explained, and the 2017 ash on the Reef Islands",gvp-eruptions,T2,live,"record page built 2026-11-22 (run 50) in place of the old profile; not erupting (hero 'Last eruption ended December 31, 2024'); since_check from the Smithsonian's list and the 7-day advisory list (no alert level found); uses gvp-volcanoes, gvp-eruptions, noaa-ncei-volcano, noaa-ncei-tsunami and bom-darwin-vaac, all read on 2026-11-22; Solomon Islands sources (NDMO, ReliefWeb, SIBC) unreadable and not used; island drawing with a breached crater; map at zoom 13 with the label above the marker; waits for the owner's read before his name goes on"
 volcano/tolbachik,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/tolima-nevado-del,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
 volcano/tongariro,volcanoes,data,informational,,gvp-eruptions,T2,live,rebuild pending
