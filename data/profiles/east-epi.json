@@ -1,0 +1,299 @@
+{
+ "slug": "east-epi",
+ "volcano_number": 257060,
+ "name": "East Epi",
+ "country": "Vanuatu",
+ "title": "East Epi Volcano: Underwater Cones, Depth and 2023 Eruption",
+ "description": "East Epi, Vanuatu’s underwater volcano: its top {summit_below_ft} ft below the sea, its alert level now, the 2023 eruption and tsunami, and every eruption on record.",
+ "h1": "East Epi",
+ "facts": {
+  "count_from": 1920,
+  "summit_m": -34,
+  "summit_ft": -111,
+  "summit_source": "vmgd24",
+  "summit_source_name": "Vanuatu Meteorology and Geo-hazards Department"
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "Alert Level 1: signs of unrest",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 1, “signs of unrest”.** The page of Vanuatu’s geohazards department for East Epi, read on {read_date}, showed Level 1 on its scale of 0 to 5, the level its bulletin says has held since February 1, 2023.[[vmgd]][[vmgdval]][[vmgdb]] The bulletin keeps a danger zone of 1.2 miles (2 km) around the underwater vents.[[vmgdb]]",
+ "lede": "East Epi is a group of volcanic cones under the sea off Epi Island, in central Vanuatu. Its shallowest cone, Epi B, has twice built a short-lived island, and in 2023 its explosions threw ash and steam above the waves. Below: its state now, how deep it lies, the 2023 eruption, the dangers, its type and every eruption on record.",
+ "answer": "**East Epi is not erupting, but it is restless.** Vanuatu’s geohazards department has kept it at Alert Level 1, “signs of unrest”, since February 1, 2023, with a danger zone of 1.2 miles (2 km) around its vents.[[vmgdb]] Its last eruption, which the Smithsonian dates from {last_span}, threw ash and steam about 330 ft (100 m) above the sea.[[gvp]][[vmgd]] The volcano is a group of cones under the sea, and the top of the shallowest, Epi B, lies **{summit_below_ft} ft ({summit_below_m} m)** below the surface.[[vmgd24]][[gvp]]",
+ "timeline": {
+  "from": 1915,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1920.1,
+    "label": "1920"
+   },
+   {
+    "year": 1953.1,
+    "label": "1953"
+   },
+   {
+    "year": 2004.1,
+    "label": "2004"
+   },
+   {
+    "year": 2023.1,
+    "label": "2023"
+   }
+  ],
+  "note": "{n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The eruption around 1979 is dated only to within 5 years, so its place on the strip is approximate."
+ },
+ "section": {
+  "kind": "seamount",
+  "seamount": {
+   "name": "Epi B",
+   "height": {
+    "m": 300,
+    "ft": 1000,
+    "label": "tall",
+    "about": true
+   },
+   "crater": {
+    "m": 90,
+    "ft": 295,
+    "label": "crater floor"
+   },
+   "foot": {
+    "km": 1.8,
+    "mi": 1.1,
+    "about": true
+   },
+   "crater_width": {
+    "m": 150,
+    "ft": 500
+   }
+  },
+  "note": "erupted in 2023",
+  "caption": "Epi B, East Epi’s shallowest cone, cut across. Depths are to one scale; widths are squeezed, so the cone looks steeper than it is. The top’s depth is the figure in the bulletins of Vanuatu’s geohazards department; the cone’s height, its width and the crater come from the survey of March 2004, as the Smithsonian reports it.[[vmgd24]][[noaa2023]]"
+ },
+ "map_zoom": 10,
+ "map_label": "below",
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is East Epi?",
+   "map": true,
+   "paras": [
+    "East Epi lies under the sea off the east coast of Epi Island, in central Vanuatu.[[gvp]][[vmgd]] Its three main cones, Epi A, Epi B and Epi C, lie 2.5 to 6 miles (4 to 10 km) north-north-east of the island, and the island volcano Lopevi rises about 10 miles (16 km) north of them.[[vmgd]]",
+    "The Smithsonian places the volcano at {coords}.[[gvp]] Port Vila, Vanuatu’s capital, lies about 78 miles (125 km) to the south.[[tsu2023]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is East Epi erupting now?",
+   "paras": [
+    "No eruption is on the Smithsonian’s list since {last_end}, but the volcano is restless.[[gvp]] Vanuatu’s geohazards department has kept East Epi at Volcanic Alert Level 1, “signs of unrest”, since February 1, 2023; its levels run from 0 to 5, and its page still showed Level 1 when read on {read_date}.[[vmgdb]][[vmgdval]][[vmgd]]",
+    "Its bulletin says seismic data show the unrest even when nothing can be seen at the sea surface. It keeps boats and people out of a danger zone of 1.2 miles (2 km) around the underwater vents and warns that pumice may float on the sea and wash ashore on Epi and other islands.[[vmgdb]]"
+   ]
+  },
+  {
+   "id": "deep",
+   "h": "How deep is East Epi?",
+   "aside": "callouts",
+   "paras": [
+    "Epi B, the cone that erupted in 2023, is the shallowest of the group.[[vmgd]][[gvp]] Its top lies **{summit_below_ft} ft ({summit_below_m} m)** below the sea surface, the figure in the department’s bulletins.[[vmgd24]] Surveys found it at that depth from 1974 to 2001, and a survey of the sea floor in March 2004 put the highest point, on the crater’s north-west rim, at the same {summit_below_m} m.[[gvp]]",
+    "That survey measured Epi B as a cone about {cone_height_ft} ft ({cone_height_m} m) tall and about {foot_mi} miles ({foot_km} km) across at its foot, with a crater about {crater_width_ft} ft ({crater_width_m} m) wide whose floor lies {crater_floor_ft} ft ({crater_floor_m} m) below the surface.[[noaa2023]]",
+    "The Smithsonian’s list gives the volcano an elevation of {gvp_summit_ft} ft ({gvp_summit_m} m). That is the height its own table gives for Pomare, a stratovolcano on Epi Island, and the top of Epi B lies 8 miles (13 km) north-north-east of the island’s summit.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2023",
+   "h": "What happened in 2023?",
+   "paras": [
+    "The eruption began under the sea in the last week of January 2023, by NOAA’s account, and broke through the surface on January 31 in UTC, the morning of February 1 in Vanuatu.[[tsu2023]] People on Epi heard a large explosion at sunrise and saw a column of ash and steam rise about 330 ft (100 m) above the sea; the explosions at the surface lasted only a few hours.[[tsu2023]][[vmgd]] Rafts of pumice then drifted on the sea, and the water around the vent turned discolored.[[noaa2023]]",
+    "Tide gauges at Port Vila, 78 miles (125 km) to the south, and Luganville, 109 miles (175 km) to the north, recorded a small tsunami of about 2 inches (5 cm), with no apparent effect on nearby communities.[[tsu2023]] The Smithsonian lists the eruption from {last_span}, rated VEI {last_vei}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "islands",
+   "h": "Has East Epi broken the surface before?",
+   "paras": [
+    "Yes. Eruptions of Epi B built short-lived islands in {since_year} and {largest_year}, the Smithsonian says, and the eruption of {largest_year} is the largest on its list, rated VEI {max_vei}.[[gvp]]",
+    "In February 2004 the crew of the fishing boat Azur, near Lopevi, photographed an explosion rising above the sea on February 19, and an infrasound station in New Caledonia, more than 370 miles (600 km) away, confirmed the eruption.[[vmgd]] The Smithsonian dates that eruption from {prev_start} to {prev_end}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is East Epi dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For warnings, follow the Vanuatu Meteorology and Geo-hazards Department.",
+   "paras": [
+    "Mostly at sea: the department says its hazards persist in the waters around the volcano.[[vmgd24]] At Level 1 its danger zone reaches 1.2 miles (2 km) from the vents, and its bulletins tell boat crews and the people of Epi, Tongoa and the Shepherd Islands to keep out of it.[[vmgdb]][[vmgd24]] The eruptions on the Smithsonian’s list reach VEI {max_vei} at most.[[gvp]]",
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for East Epi, both with a tsunami.[[noaa]] The tsunami of 2023 measured about 2 inches (5 cm).[[tsu2023]] The entry of {noaa_first} links an eruption reported near Epi with a tsunami and an earthquake; NOAA gives its deaths as few, without a count, and the report it cites places them at Santa Cruz, in the Solomon Islands. Its own notes name Karua, a volcano south-east of Epi, as the likely source, and the Smithsonian’s list has no East Epi eruption that year.[[noaa1901]][[tsu1901]][[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is East Epi?",
+   "paras": [
+    "A cluster of underwater cones of basalt and dacite, which the Smithsonian classes as stratovolcanoes. They lie in and around what may be a caldera about 6 miles (10 km) across, with the three main cones on its northern rim.[[gvp]][[vmgd]] A study of 2018 offers a different model for how they formed.[[gvp]]",
+    "A research cruise in 2013 sampled six of the cones; it brought up very fresh pumice and lava bombs from Epi B and older-looking rock from the others.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "East Epi’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for East Epi has **{n_all} confirmed eruptions**, all known from written reports, the first in {since_year}.[[gvp]] The list also carries {n_unconfirmed_word} uncertain eruptions, which are not in the table; its summary notes discolored water seen often in 1971–1974 and in 1988.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "under the waves",
+ "callouts": [
+  {
+   "number": "{summit_below_ft}",
+   "unit": "ft",
+   "text": "Of water above the top of Epi B, the cone that erupted in 2023.",
+   "source": "Source: Vanuatu Meteorology and Geo-hazards Department.[[vmgd24]]"
+  },
+  {
+   "number": "{n_since}",
+   "unit": "eruptions",
+   "text": "On the Smithsonian’s list since {since_year}; two of them built short-lived islands.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  }
+ ],
+ "faq_h": "East Epi questions and answers",
+ "faq": [
+  [
+   "Is East Epi erupting now?",
+   "No eruption is on the Smithsonian’s list since {last_end}. Vanuatu’s geohazards department keeps East Epi at Alert Level 1, signs of unrest, with a danger zone of 1.2 miles (2 km) around its vents; its page showed Level 1 when read on {read_date}."
+  ],
+  [
+   "What is East Epi’s elevation?",
+   "Its highest point is under the sea: the top of Epi B lies {summit_below_ft} ft ({summit_below_m} m) below the surface, by the department’s bulletins and the survey of March 2004. The {gvp_summit_ft} ft ({gvp_summit_m} m) on the Smithsonian’s list is the height its own table gives for Pomare, on Epi Island."
+  ],
+  [
+   "When did East Epi last erupt?",
+   "From {last_span}, by the Smithsonian’s list. At the surface it lasted a few hours on February 1, 2023, when explosions threw ash and steam about 330 ft (100 m) above the sea."
+  ],
+  [
+   "Did the 2023 eruption cause a tsunami?",
+   "A small one: tide gauges at Port Vila and Luganville recorded about 2 inches (5 cm), and no effect on nearby communities was reported."
+  ],
+  [
+   "Has East Epi ever formed an island?",
+   "Yes. Eruptions of its cone Epi B built short-lived islands in {since_year} and {largest_year}."
+  ],
+  [
+   "Can you see East Epi from Epi Island?",
+   "Not as a mountain: its cones are under the sea. In 2023 people on Epi saw the explosions and steam above the sea, and an overflight found pumice and discolored water; the department says that now nothing may show at the surface while the unrest goes on."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): East Epi record, eruption list and Bulletin reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=257060"
+  },
+  {
+   "id": "vmgd",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "East Epi: current alert level, description and recent eruptions",
+   "url": "https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi"
+  },
+  {
+   "id": "vmgdb",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Volcanoes: Volcanic Alert Bulletin for East Epi",
+   "url": "https://www.vmgd.gov.vu/geohazards/volcanoes"
+  },
+  {
+   "id": "vmgdval",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Volcanic Alert Level",
+   "url": "https://www.vmgd.gov.vu/vmgd/index.php/geohazards/volcano/volcano-info/volcanic-alert-level"
+  },
+  {
+   "id": "vmgd24",
+   "publisher": "Vanuatu Meteorology and Geo-hazards Department",
+   "title": "Vanuatu Volcano Alert Bulletin No. 10, East Epi activity, October 31, 2024",
+   "url": "https://vmgd.gov.vu/vmgd/index.php/geohazards/volcano/volcano-info/current-volcanic-activity"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "noaa2023",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: East Epi, January 31, 2023 (event record with comments, quoting the Smithsonian’s report of March 2023)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/7562"
+  },
+  {
+   "id": "tsu2023",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Historical Tsunami Database, doi:10.7289/V5PN93H7: East Epi volcano, January 31, 2023 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5906"
+  },
+  {
+   "id": "noaa1901",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: East Epi, August 9, 1901 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/5064"
+  },
+  {
+   "id": "tsu1901",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Historical Tsunami Database, doi:10.7289/V5PN93H7: Loyalty Islands, August 9, 1901 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1280"
+  }
+ ],
+ "calc": [
+  "**{summit_below_ft} ft ({summit_below_m} m) below sea level:** the depth of Epi B’s top in the department’s bulletins, in feet as the bulletin prints them. The Smithsonian’s volcano page gives the same {summit_below_m} m from the surveys of 1974 to 2001 and of March 2004.",
+  "**About {cone_height_ft} ft, {foot_mi} miles, {crater_width_ft} ft and {crater_floor_ft} ft:** converted from the survey’s {cone_height_m} m, {foot_km} km, {crater_width_m} m and {crater_floor_m} m, as the Smithsonian reports them; the figures the survey gives as approximate, the height and the crater’s width, are rounded to the same degree.",
+  "Miles and feet are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_end": "February 23, 2023",
+  "last_span": "January 31 to February 23, 2023",
+  "last_year": "2023",
+  "last_vei": "1",
+  "quiet_unit": "years",
+  "n_all": "9",
+  "n_since": "9",
+  "since_year": "1920",
+  "n_written": "9",
+  "n_unconfirmed_word": "six",
+  "largest_year": "1953",
+  "max_vei": "3",
+  "n_max_vei": "1",
+  "prev_start": "February 16",
+  "prev_end": "February 24, 2004",
+  "noaa_n": "2",
+  "noaa_n_word": "two",
+  "noaa_tsu": "2",
+  "noaa_first": "1901",
+  "noaa_last": "2023",
+  "noaa_described_count": "1",
+  "noaa_fatal_count": "0",
+  "summit_below_m": "34",
+  "summit_below_ft": "111",
+  "gvp_summit_m": "833",
+  "gvp_summit_ft": "2,733",
+  "cone_height_m": "300",
+  "crater_floor_m": "90",
+  "crater_width_m": "150",
+  "foot_km": "1.8",
+  "coords": "16.6797°S, 168.3893°E",
+  "type": "Stratovolcano"
+ },
+ "observatory_read": "2026-11-28",
+ "reviewed": null
+}

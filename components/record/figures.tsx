@@ -377,6 +377,7 @@ export function SectionDrawing({ data, compact = false }: { data: RecordData; co
   if (kind === 'caldera') return <CalderaDrawing data={data} compact={compact} />;
   if (kind === 'lagoon') return <LagoonDrawing data={data} compact={compact} />;
   if (kind === 'basin') return <BasinDrawing data={data} compact={compact} />;
+  if (kind === 'seamount') return <SeamountDrawing data={data} compact={compact} />;
   return <ConeDrawing data={data} compact={compact} />;
 }
 
@@ -988,6 +989,128 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
           </>
         );
       })()}
+    </svg>
+  );
+}
+
+/**
+ * A cone whose top lies under the sea (East Epi's Epi B), cut across: the water from its surface down to the sea floor
+ * and the cone standing on the floor, with its crater. Depths are to one scale: the top, the crater floor and the foot
+ * of the cone. Widths are squeezed so the cone fits, which makes it look steeper than it is; the drawing prints the
+ * true width at the foot and the caption says so. The far rim is drawn a little lower than the near one, where the
+ * source puts the highest point (schematic). Only the water moves: there is no vent, so the build stops while the
+ * Smithsonian lists the volcano as erupting.
+ */
+function SeamountDrawing({ data, compact }: { data: RecordData; compact: boolean }) {
+  const { profile, stats } = data;
+  const sec = profile.section;
+  const sm = sec.seamount;
+  if (!sm) throw new Error(`record profile ${profile.slug}: a seamount drawing needs section.seamount`);
+  if (stats.current) throw new Error(`record profile ${profile.slug}: the seamount drawing has no vent to show an eruption in progress`);
+  if (!data.summit || data.summit.m >= 0) throw new Error(`record profile ${profile.slug}: the seamount drawing needs a top below sea level`);
+  const ft = (lv: LagoonLevel) => fmt(lv.ft ?? roundTo(feet(lv.m), 10));
+  const topM = -data.summit.m;
+  const topFt = -data.summit.ft;
+  const footM = topM + sm.height.m;
+  const w = compact ? 340 : 560;
+  const fs = compact ? 12.5 : 14;
+  const bold = fs + (compact ? 1.5 : 2);
+  const line = fs + 3;
+  // paper above the surface carries the top's depth and the pencil note; one scale for every depth below it
+  const seaY = compact ? 50 : 62;
+  const k = (compact ? 205 : 262) / footM;
+  const Y = (m: number) => seaY + m * k;
+  const topY = Y(topM);
+  const floorY = Y(footM);
+  const h = Math.round(floorY + (compact ? 40 : 46));
+  const cx = w * (compact ? 0.47 : 0.5);
+  const W = w * 0.33;
+  // the crater, squeezed by as much as the foot
+  const cw = sm.crater_width ? Math.max(8, (sm.crater_width.m / (sm.foot.km * 1000)) * 2 * W) : 0;
+  const craterY = sm.crater ? Y(sm.crater.m) : topY;
+  const rimL = cx - cw / 2;
+  const rimR = cx + cw / 2;
+  const lip = compact ? 4 : 6;
+  const rimRY = topY + (cw ? 3 : 0);
+  const H = floorY - topY;
+  // flanks: gentle at the foot on the sea floor, steeper under the rim
+  const left: Curve = [
+    [cx - W, floorY],
+    [cx - W * 0.6, floorY - H * 0.07],
+    [rimL - lip - (W - cw / 2) * 0.28, topY + H * 0.3],
+    [rimL - lip, topY],
+  ];
+  const right: Curve = [
+    [rimR + lip, rimRY],
+    [rimR + lip + (W - cw / 2) * 0.28, rimRY + H * 0.3],
+    [cx + W * 0.6, floorY - H * 0.07],
+    [cx + W, floorY],
+  ];
+  const crater = cw ? `L${f(rimL)} ${f(topY)} L${f(rimL + cw * 0.18)} ${f(craterY)} L${f(rimR - cw * 0.18)} ${f(craterY)} L${f(rimR)} ${f(rimRY)} ` : '';
+  const outline = `M${f(left[0][0])} ${f(left[0][1])} ${cubic(left)} ${crater}L${f(right[0][0])} ${f(right[0][1])} ${cubic(right)} Z`;
+  // the same cone without its crater, for the layer lines inside
+  const body = `M${f(left[0][0])} ${f(left[0][1])} ${cubic(left)} L${f(right[0][0])} ${f(right[0][1])} ${cubic(right)} Z`;
+  const xa = compact ? 14 : 20;
+  const xr = w - (compact ? 14 : 20);
+  const midH = topY + H * 0.38;
+  const about = (on?: boolean) => (on ? 'about ' : '');
+  const label =
+    `Section drawing of ${profile.name}: the cone ${sm.name} rises ${about(sm.height.about)}${fmt(sm.height.m)} m from the sea floor to a top ${fmt(topM)} m below the sea surface, ` +
+    `and is ${about(sm.foot.about)}${sm.foot.km} km across at its foot${sm.crater ? `; its crater floor lies ${fmt(sm.crater.m)} m below the surface` : ''}. Depths are to scale; widths are squeezed.`;
+
+  return (
+    <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
+      <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
+      <rect x={0} y={seaY} width={w} height={floorY - seaY} fill={PAL.sea} />
+      {[0.35, 0.6, 0.85].map((share) => (
+        <line key={share} x1={0} y1={f(seaY + (floorY - seaY) * share)} x2={w} y2={f(seaY + (floorY - seaY) * share)} stroke={PAL.seaInk} strokeWidth={0.5} opacity={0.25} />
+      ))}
+      <rect x={0} y={floorY} width={w} height={h - floorY} fill={PAL.crust} />
+      <path d={outline} fill={PAL.rock} />
+      {[0.78, 0.56].map((sc) => (
+        <path key={sc} d={body} fill="none" stroke={PAL.paper} strokeWidth={1} opacity={0.35} transform={`translate(${f(cx * (1 - sc))} ${f(floorY * (1 - sc))}) scale(${sc})`} />
+      ))}
+      <path d={outline} fill="none" stroke={PAL.ink} strokeWidth={1.6} strokeLinejoin="round" />
+      <line x1={0} y1={floorY} x2={w} y2={floorY} stroke={PAL.ink} strokeWidth={1.2} />
+      <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
+      <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
+      <line x1={0} y1={seaY} x2={w} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+      <text className="va-it" x={w - 8} y={seaY - 7} textAnchor="end" fontSize={fs} fill={PAL.ink}>sea level</text>
+
+      {/* the water above the top: the bracket in the sea, its words on the paper above */}
+      <line x1={xa + 6} y1={topY} x2={rimL - lip - 4} y2={topY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
+      <path d={`M${f(xa)} ${f(seaY)} V${f(topY)} M${f(xa - 5)} ${f(seaY)} h10 M${f(xa - 5)} ${f(topY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      <text x={xa - 6} y={seaY - 10 - line} fontSize={bold} fontWeight={700} fill={PAL.ink}>{fmt(topFt)} ft ({fmt(topM)} m)</text>
+      <text x={xa - 6} y={seaY - 9} fontSize={fs} fill={PAL.ink}>of water above the top</text>
+
+      {/* the cone's height from its foot */}
+      <line x1={rimR + lip + 6} y1={topY} x2={xr + 6} y2={topY} stroke={PAL.ink} strokeWidth={0.8} strokeDasharray="3 3" />
+      <path d={`M${f(xr)} ${f(topY)} V${f(floorY)} M${f(xr - 5)} ${f(topY)} h10 M${f(xr - 5)} ${f(floorY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
+      <text x={xr - 9} y={midH - 4} textAnchor="end" fontSize={bold} fontWeight={700} fill={PAL.ink}>{about(sm.height.about)}{ft(sm.height)} ft</text>
+      <text x={xr - 9} y={midH - 4 + line} textAnchor="end" fontSize={fs} fill={PAL.ink}>({fmt(sm.height.m)} m) {compact ? (sm.height.short ?? sm.height.label) : sm.height.label}</text>
+
+      <text x={cx} y={f(topY + H * 0.64)} textAnchor="middle" fontSize={bold} fontWeight={700} fill={PAL.ink}>{sm.name}</text>
+      <text className="va-it" x={compact ? 8 : 10} y={floorY - 7} fontSize={fs - 1} fill={PAL.seaInk}>sea floor</text>
+
+      {/* the width at the foot, measured along the sea floor */}
+      <path d={`M${f(cx - W)} ${f(floorY + 12)} H${f(cx + W)} M${f(cx - W)} ${f(floorY + 7)} v10 M${f(cx + W)} ${f(floorY + 7)} v10`} stroke={PAL.ink} strokeWidth={0.9} fill="none" />
+      <text x={cx} y={floorY + 30} textAnchor="middle" fontSize={fs - 0.5} fill={PAL.ink}>
+        {about(sm.foot.about)}{sm.foot.mi} miles ({sm.foot.km} km) across{compact ? '' : ' at its foot'}
+      </text>
+
+      {!compact && sm.crater && (
+        <>
+          <line x1={rimL + cw * 0.3} y1={craterY - 2} x2={xa + 146} y2={craterY + 16} stroke={PAL.ink} strokeWidth={0.8} />
+          <text x={xa - 6} y={craterY + 20} fontSize={fs} fontWeight={700} fill={PAL.ink}>{sm.crater.label}</text>
+          <text x={xa - 6} y={craterY + 20 + line} fontSize={fs - 0.5} fill={PAL.ink}>{ft(sm.crater)} ft ({fmt(sm.crater.m)} m) down</text>
+        </>
+      )}
+      {!compact && sec.note && (
+        <>
+          <path d={`M${f(cx + 40)} 30 C${f(cx + 16)} 32 ${f(cx + 6)} ${f(seaY + 4)} ${f(cx + 1)} ${f(craterY - 8)}`} fill="none" stroke={PAL.pencil} strokeWidth={1.4} strokeLinecap="round" />
+          <text className="va-hand" x={cx + 46} y={36} fontSize={23} fill={PAL.pencil}>{fill(sec.note, data.ctx)}</text>
+        </>
+      )}
     </svg>
   );
 }

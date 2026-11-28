@@ -123,11 +123,12 @@ export interface RecordProfile {
   /**
    * kind: "cone" (island cone with its base on the sea floor), "shield" (broad shield with the part pressed into the
    * sea floor), "land" (a volcano standing on land or rising straight from the sea surface), "caldera" (the summit
-   * cut open: rim, caldera floor, a collapse pit and the lava that has refilled it) or "lagoon" (a caldera flooded by
-   * the sea, cut across: the ring of cliffs, the water inside and the young island in the middle).
+   * cut open: rim, caldera floor, a collapse pit and the lava that has refilled it), "lagoon" (a caldera flooded by
+   * the sea, cut across: the ring of cliffs, the water inside and the young island in the middle) or "seamount" (a
+   * cone whose top lies under the sea, cut across).
    */
   section: {
-    kind?: 'cone' | 'shield' | 'land' | 'caldera' | 'lagoon' | 'basin';
+    kind?: 'cone' | 'shield' | 'land' | 'caldera' | 'lagoon' | 'basin' | 'seamount';
     /**
      * Lagoon: heights in meters from the source named in the caption, each with the words drawn beside it. `wall` is
      * the top of the cliffs above the water, `depth` the deepest water inside the caldera (a positive number) and
@@ -153,6 +154,22 @@ export interface RecordProfile {
      * the same figures from {floor_ft}, {depth_ft}, {dome_ft}.
      */
     basin?: { floor: LagoonLevel; depth: LagoonLevel; dome: LagoonLevel };
+    /**
+     * Seamount: a cone whose top lies under the sea (East Epi's Epi B), cut across. The top's depth is the summit in
+     * `facts` (summit_m and summit_ft below zero, with their source). `height` is the cone's height from its foot on the
+     * sea floor to its top, `crater` the depth of the crater floor below the sea surface, `foot` the cone's width at its
+     * foot and `crater_width` the crater's, all as the source gives them (`about: true` prints "about"; feet as the page
+     * prints them). Depths are to one scale; widths are squeezed, which the caption has to say. There is no vent: the
+     * build stops while the volcano is listed as erupting. Tokens: {cone_height_m}, {cone_height_ft}, {crater_floor_m},
+     * {crater_floor_ft}, {foot_km}, {foot_mi}, {crater_width_m}, {crater_width_ft}.
+     */
+    seamount?: {
+      name: string;
+      height: LagoonLevel & { about?: boolean };
+      crater?: LagoonLevel;
+      foot: { km: number; mi: number; about?: boolean };
+      crater_width?: { m: number; ft: number };
+    };
     /**
      * Caldera: heights above sea level in meters with the feet the source prints, each with the words drawn beside
      * it. `fills` are the tops of the lava layers that refilled the pit, oldest first; the last one is the surface.
@@ -630,12 +647,39 @@ export function buildRecordData(profile: RecordProfile): RecordData {
       set('lost_ft', fmt(profile.section.former.ft - summit.ft));
     }
   }
-  if (volcano.elevation !== null) set('gvp_summit_m', fmt(volcano.elevation));
+  if (volcano.elevation !== null) {
+    set('gvp_summit_m', fmt(volcano.elevation));
+    set('gvp_summit_ft', fmt(Math.round(feet(volcano.elevation))));
+  }
+  const seamount = profile.section.seamount;
+  if ((profile.section.kind === 'seamount') !== Boolean(seamount)) throw new Error(`record profile ${profile.slug}: section.kind "seamount" and section.seamount go together`);
+  // a top under the sea is printed as a depth ("111 ft (34 m) below sea level"), never as a height with a minus sign
+  if (summit && summit.m < 0 && !seamount) throw new Error(`record profile ${profile.slug}: a summit below sea level needs the seamount drawing`);
+  if (seamount) {
+    if (!summit || summit.m >= 0 || summit.ft >= 0 || !own) throw new Error(`record profile ${profile.slug}: the seamount drawing needs the top's depth as summit_m and summit_ft below zero, with summit_source`);
+    if (seamount.crater && seamount.crater.m <= -summit.m) throw new Error(`record profile ${profile.slug}: the crater floor must lie deeper than the top`);
+    if (ground) throw new Error(`record profile ${profile.slug}: a seamount has no land around it: leave facts.ground out`);
+    set('cone_height_m', fmt(seamount.height.m));
+    set('cone_height_ft', fmt(seamount.height.ft ?? roundTo(feet(seamount.height.m), 10)));
+    if (seamount.crater) {
+      set('crater_floor_m', fmt(seamount.crater.m));
+      set('crater_floor_ft', fmt(seamount.crater.ft ?? roundTo(feet(seamount.crater.m), 10)));
+    }
+    set('foot_km', seamount.foot.km);
+    set('foot_mi', seamount.foot.mi);
+    if (seamount.crater_width) {
+      set('crater_width_m', fmt(seamount.crater_width.m));
+      set('crater_width_ft', fmt(seamount.crater_width.ft));
+    }
+  }
   if (profile.section.root_m !== undefined) {
     set('root_m', fmt(profile.section.root_m));
     set('root_ft', fmt(roundTo(feet(profile.section.root_m), 50)));
   }
-  if (summit) {
+  if (summit && summit.m < 0) {
+    set('summit_below_m', fmt(-summit.m));
+    set('summit_below_ft', fmt(-summit.ft));
+  } else if (summit) {
     set('summit_m', fmt(summit.m));
     set('summit_ft', fmt(summit.ft));
     if (profile.facts.base_m !== undefined) {
@@ -691,6 +735,11 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   set('n_observed', observed);
   set('n_dated', stats.all.length - observed);
   set('max_vei', stats.maxVei);
+  {
+    // the newest eruption's size, as the record table prints it
+    const newest = stats.all[stats.all.length - 1];
+    if (newest && newest.vei !== null && newest.vei !== undefined) set('last_vei', `${newest.vei}${newest.veiq === '?' ? '?' : ''}`);
+  }
   if (stats.maxVei !== null && stats.maxVei !== undefined) {
     // the largest eruptions in the list: how many reach the top size, and the year of the newest of them
     const top = stats.all.filter((e) => e.vei === stats.maxVei);
