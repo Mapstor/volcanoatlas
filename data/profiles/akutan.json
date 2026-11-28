@@ -1,0 +1,277 @@
+{
+ "slug": "akutan",
+ "volcano_number": 311320,
+ "name": "Akutan",
+ "country": "United States",
+ "title": "Akutan Volcano, Alaska: Eruptions, Caldera and Alert Level",
+ "description": "Akutan Volcano on Alaska's Akutan Island: its caldera and cinder cone, the 1996 earthquake swarms, the last eruption in 1992 and every eruption on record.",
+ "h1": "Akutan Volcano",
+ "facts": {
+  "count_from": 1848
+ },
+ "big": {
+  "line": "Last eruption: {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "one small ash cloud that day",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting.** When this page was checked on {read_date}, the Alaska Volcano Observatory showed aviation color code GREEN and alert level NORMAL for Akutan, with no new update since September 6, 2019.[[avo]] The Smithsonian’s list has no eruption after {last_end}.[[gvp]]",
+ "lede": "Akutan is a stratovolcano with a summit caldera on the island of the same name, in Alaska’s Aleutians. Written reports record {n_written} of its eruptions since {since_year}, the last in 1992, and in 1996 two strong earthquake swarms shook the island without an eruption. Below: its state now, the last eruptions, the caldera, the swarms of 1996, the dangers and every eruption on record.",
+ "answer": "**Akutan is not erupting.** Its last eruption on the Smithsonian’s list was on {last_end}, when a small ash cloud rose over the summit.[[gvp]][[avo92b]] It is a **stratovolcano** with a summit caldera on Akutan Island, in the Aleutian Islands of Alaska, and its highest point, Akutan Peak, stands **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]][[avo]]",
+ "timeline": {
+  "from": 1840,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1848.2,
+    "label": "1848"
+   },
+   {
+    "year": 1929.4,
+    "label": "1929"
+   },
+   {
+    "year": 1978.7,
+    "label": "1978"
+   },
+   {
+    "year": 1992.9,
+    "label": "1992"
+   }
+  ],
+  "note": "{n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The {n_rc_word} older eruptions, dated by radiocarbon, lie off the left edge, before 1840. Many eruptions of the 1800s are known only by their year and show as a single spike."
+ },
+ "section": {
+  "kind": "land",
+  "note": "the active cinder cone",
+  "crater": "caldera",
+  "crater_depth_m": 365,
+  "crater_depth_text": "up to 1,200 ft deep",
+  "crater_share": 0.16,
+  "dome_m": 200,
+  "caption": "Akutan as a simple outline rising from the sea. The height of Akutan Peak on the caldera’s rim, from the Smithsonian, and the caldera’s greatest depth and the cinder cone inside it, from the Alaska Volcano Observatory, are to one scale; the outline and the widths are schematic, and the caldera is about 1.2 miles (2 km) across.[[gvp]][[avo]]"
+ },
+ "map_zoom": 10,
+ "map_label": "below",
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Akutan Volcano?",
+   "map": true,
+   "paras": [
+    "On Akutan Island, in the east-central Aleutian Islands of southwestern Alaska.[[ofr]] The Smithsonian places the summit at {coords}.[[gvp]]",
+    "The Alaska Volcano Observatory (AVO) lists the city of Akutan 8.6 miles (13.8 km) to the east and Unalaska 28.7 miles (46.1 km) to the south-west.[[avo]] Akutan is one of {n_country} volcanoes in the [United States](/volcanoes-in-united-states) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Akutan erupting now?",
+   "paras": [
+    "No. The Smithsonian’s list has no eruption since {last_end}.[[gvp]] When this page was checked on {read_date}, AVO showed aviation color code GREEN and alert level NORMAL for Akutan, with no new update since September 6, 2019.[[avo]]",
+    "The USGS ranks it among the five Alaska volcanoes of highest priority for monitoring, with Augustine, Makushin, Redoubt and Spurr, in a table drawn from its 2018 threat assessment.[[nvews]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Akutan last erupt?",
+   "paras": [
+    "On **{last_end}**. A small ash cloud rose to about 5,900 ft (1.8 km), drifted about 12 miles (20 km) north and quickly broke up.[[avo92b]]",
+    "Earlier that year an eruption ran from {prev_start} to {prev_end}, by the Smithsonian’s list.[[gvp]] On March 22 a pilot reported ash at about 14,100 ft (4.3 km), and fishing vessels off the island reported ashfall.[[avo92a]] An AVO report of 2009 counted 11 eruptions at Akutan from 1980 to 1992, many of them lasting several months.[[gvp]]"
+   ]
+  },
+  {
+   "id": "caldera",
+   "h": "What is inside Akutan’s caldera?",
+   "aside": "callouts",
+   "paras": [
+    "A circular caldera about 1.2 miles (2 km) across and 200 to 1,200 ft (60 to 365 m) deep tops the volcano, breached to the north.[[avo]] In its north-east quarter stands the active cinder cone, over 650 ft (200 m) high and about 0.6 miles (1 km) across, and the caldera also holds a small lake.[[avo]][[gvp]]",
+    "The last eruption that formed a caldera came about 1,600 years ago, AVO says; the largest on the Smithsonian’s list, rated VEI {max_vei}, is dated about {largest_year} CE.[[avo]][[gvp]] Basalt lava, some of it from 1929, covers the caldera floor north and south of the cone, and flows of 1947 cover the middle of the island’s north-west end at Lava Point.[[avo]] In July 1980 observers saw a fresh-looking lava flow that had come out through a breach in the caldera’s north-north-west wall.[[gvp]]"
+   ]
+  },
+  {
+   "id": "1996",
+   "h": "What happened in 1996?",
+   "paras": [
+    "From March 10 to 18, 1996, two strong swarms of earthquakes shook Akutan Island. On March 11 there were more than 80 of magnitude 3 or more, the largest 5.2; on March 13 more than 120, the largest 5.3.[[gvp]] Felt earthquakes came as often as one a minute, and the second swarm caused minor damage to household items, interior walls and plumbing in the city of Akutan.[[avo96]]",
+    "Some residents and dozens of workers from the seafood plant left the island.[[gvp]] AVO raised its level of concern to Orange and kept watch around the clock for several weeks; that summer its crews found a 12-mile (20 km) system of ground cracks that had probably opened during the swarms.[[avo96]] Satellite radar later showed that the western part of the island, the volcano with it, had risen and the eastern part had sunk. No eruption followed.[[lu]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Akutan dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, use the Alaska Volcano Observatory’s notices.[[hans]]",
+   "paras": [
+    "Mostly to aircraft. Ash plumes are its main hazard, the USGS’s 1998 assessment says, and a major one for planes using the airfield at Dutch Harbor or flying near the island. Recent eruptions dropped only small amounts of ash, mostly on the upper slopes; some fell on the Akutan Harbor area in 1911, 1948, 1987 and 1989.[[ofr]]",
+    "Larger eruptions are unlikely, the assessment says, but could send pyroclastic flows and lahars down the major valleys and throw volcanic bombs more than 6 miles (10 km).[[ofr]] The city of Akutan counted 1,589 people in the 2020 census, 1,476 of them in group quarters.[[census]] NOAA’s database of significant eruptions has no entry for Akutan.[[noaa]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Akutan erupt?",
+   "paras": [
+    "Often. The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_written} of them known from written reports since {since_year}, and {n_rc_word} older ones dated by radiocarbon, the oldest about {oldest}.[[gvp]] The USGS’s 1998 assessment counted at least 27 eruptions since written records began in the late 1700s.[[ofr]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Akutan, and what type of volcano is it?",
+   "paras": [
+    "**{summit_ft} ft ({summit_m} m)** at Akutan Peak, the highest point of the caldera’s rim, by the Smithsonian and the Alaska Volcano Observatory.[[gvp]][[avo]] It is a stratovolcano with a summit caldera, and the Smithsonian lists its main rock as {rock}.[[gvp]][[avo]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Akutan’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Akutan has **{n_all} confirmed eruptions**: {n_written} known from written reports since {since_year} and {n_rc_word} dated by radiocarbon.[[gvp]] The list also carries {n_unconfirmed_word} eruptions it does not count as confirmed, from 1790 to 1972; they are not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Akutan in two numbers",
+ "callouts": [
+  {
+   "number": "{n_all}",
+   "unit": "eruptions",
+   "text": "Confirmed on the Smithsonian’s list, {n_written} of them from written reports since {since_year}.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  },
+  {
+   "number": "12",
+   "unit": "miles",
+   "text": "Of ground cracks found in the summer of 1996, probably opened by the earthquake swarms of March.",
+   "source": "Source: Alaska Volcano Observatory.[[avo96]]"
+  }
+ ],
+ "faq_h": "Akutan questions and answers",
+ "faq": [
+  [
+   "Is Akutan Volcano erupting?",
+   "No. Its last eruption on the Smithsonian’s list was on {last_end}. When this page was checked on {read_date}, the Alaska Volcano Observatory showed color code GREEN and alert level NORMAL."
+  ],
+  [
+   "When did Akutan last erupt?",
+   "On {last_end}, when a small ash cloud rose to about 5,900 ft (1.8 km). Earlier that year an eruption lasted from {prev_start} to {prev_end}."
+  ],
+  [
+   "Is Akutan Volcano dangerous?",
+   "Mainly to aircraft: ash plumes are its main hazard, by the USGS’s 1998 assessment. Larger eruptions, which it calls unlikely, could send pyroclastic flows and lahars down the valleys."
+  ],
+  [
+   "How tall is Akutan Volcano?",
+   "{summit_ft} ft ({summit_m} m) at Akutan Peak, the highest point of its caldera’s rim."
+  ],
+  [
+   "What happened at Akutan in 1996?",
+   "Two strong earthquake swarms in March 1996, the largest earthquake magnitude 5.3. Some residents and seafood plant workers left the island and ground cracks opened, but no eruption followed."
+  ],
+  [
+   "Where is Akutan Volcano?",
+   "On Akutan Island in the east-central Aleutian Islands of Alaska, 8.6 miles (13.8 km) west of the city of Akutan."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Akutan record, eruption list and Bulletin reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=311320"
+  },
+  {
+   "id": "hans",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Notification Service",
+   "url": "https://volcanoes.usgs.gov/hans-public/"
+  },
+  {
+   "id": "avo",
+   "publisher": "Alaska Volcano Observatory (USGS, University of Alaska Fairbanks, Alaska Division of Geological and Geophysical Surveys)",
+   "title": "Akutan: facts, description and current activity",
+   "url": "https://avo.alaska.edu/volcano/akutan"
+  },
+  {
+   "id": "avo92b",
+   "publisher": "Alaska Volcano Observatory (USGS, University of Alaska Fairbanks, Alaska Division of Geological and Geophysical Surveys)",
+   "title": "Akutan 1992/12: the eruption of December 18, 1992",
+   "url": "https://avo.alaska.edu/eruption/akutan-1992-12"
+  },
+  {
+   "id": "avo92a",
+   "publisher": "Alaska Volcano Observatory (USGS, University of Alaska Fairbanks, Alaska Division of Geological and Geophysical Surveys)",
+   "title": "Akutan 1992/3: the eruption of March to May 1992",
+   "url": "https://avo.alaska.edu/eruption/akutan-1992-3"
+  },
+  {
+   "id": "avo96",
+   "publisher": "Alaska Volcano Observatory (USGS, University of Alaska Fairbanks, Alaska Division of Geological and Geophysical Surveys)",
+   "title": "Akutan 1996/3: the seismic swarm of March 1996",
+   "url": "https://avo.alaska.edu/eruption/akutan-1996-3"
+  },
+  {
+   "id": "lu",
+   "publisher": "U.S. Geological Survey",
+   "title": "Lu and others (2000), Ground deformation associated with the March 1996 earthquake swarm at Akutan volcano, Alaska",
+   "url": "https://www.usgs.gov/publications/ground-deformation-associated-march-1996-earthquake-swarm-akutan-volcano-alaska"
+  },
+  {
+   "id": "ofr",
+   "publisher": "U.S. Geological Survey",
+   "title": "Waythomas and others (1998), Preliminary volcano-hazard assessment for Akutan Volcano, Open-File Report 98-360",
+   "url": "https://www.usgs.gov/publications/preliminary-volcano-hazard-assessment-akutan-volcano-east-central-aleutian-islands"
+  },
+  {
+   "id": "nvews",
+   "publisher": "U.S. Geological Survey",
+   "title": "National Volcano Early Warning System: monitoring volcanoes according to their threat",
+   "url": "https://www.usgs.gov/programs/VHP/national-volcano-early-warning-system-monitoring-volcanoes-according-their-threat"
+  },
+  {
+   "id": "census",
+   "publisher": "Alaska Department of Labor and Workforce Development, Research and Analysis",
+   "title": "2020 Census Data for Redistricting: Akutan city",
+   "url": "https://live.laborstats.alaska.gov/census-data/redistrict?value%5B0%5D=4400&value%5B1%5D=4611&value%5B2%5D=4667&value%5B3%5D=4703&value%5B4%5D=4764&value%5B5%5D=4821&value%5B6%5D=4887"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the last eruption on the Smithsonian’s list, to today.",
+  "**Distances:** the Alaska Volcano Observatory lists the city of Akutan 8.6 miles (13.8 km) east and Unalaska 28.7 miles (46.1 km) south-west of the volcano; the Smithsonian gives about 13 km to the village, and the USGS’s 1998 assessment about 56 km to Dutch Harbor/Unalaska. This page uses the observatory’s list.",
+  "**The earthquakes of 1996:** the Smithsonian’s reports give magnitude 5.2 for the largest earthquake of March 11 and 5.3 for March 13, and the observatory 5.3; the 2000 study by Lu and others gives 5.1 and about 3,000 earthquakes felt by residents.",
+  "**The caldera:** the observatory describes the caldera as breached to the north, the Smithsonian to the north-west.",
+  "**The eruption of spring 1992:** it ends on May 21 in the Smithsonian’s list and on May 31 on the observatory’s page; this page uses the list.",
+  "Miles and feet are converted from the metric figures in the sources and rounded, except where the source prints miles."
+ ],
+ "expect": {
+  "last_end": "December 18, 1992",
+  "quiet_unit": "years",
+  "n_all": "40",
+  "n_written": "35",
+  "since_year": "1848",
+  "n_rc": "5",
+  "n_rc_word": "five",
+  "n_since": "35",
+  "prev_start": "March 8",
+  "prev_end": "May 21, 1992",
+  "rock": "basalt to picro-basalt",
+  "n_unconfirmed_word": "seven",
+  "max_vei": "5",
+  "largest_year": "340",
+  "noaa_n": "0",
+  "summit_m": "1,303",
+  "summit_ft": "4,275",
+  "coords": "54.134°N, 165.986°W",
+  "type": "Stratovolcano"
+ },
+ "observatory_read": "2026-11-28",
+ "reviewed": null
+}
