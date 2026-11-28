@@ -1,0 +1,289 @@
+{
+ "slug": "lengai-ol-doinyo",
+ "volcano_number": 222120,
+ "name": "Ol Doinyo Lengai",
+ "country": "Tanzania",
+ "title": "Ol Doinyo Lengai Volcano: Carbonatite Lava and Eruptions",
+ "description": "Ol Doinyo Lengai in Tanzania: erupting since 2017, the only volcano with natrocarbonatite lava, its 2007 explosions and every eruption on record.",
+ "h1": "Ol Doinyo Lengai",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 1880
+ },
+ "big": {
+  "line": "Erupting since {cur_since}",
+  "number": "{cur_number}",
+  "unit": "{cur_unit}",
+  "note": "lava that turns white",
+  "note_weekly": "still going in the {period} report"
+ },
+ "since_check": "**Erupting on the Smithsonian’s list since {cur_since}.** Its last update of that eruption is dated {cur_last}.[[gvp]] No alert level for Ol Doinyo Lengai was found when the sources were read, on {read_date}; in 2007 and 2008 scientists followed its eruptions without instruments on the ground, from satellite images and photos taken by local pilots.[[kervyn]]",
+ "lede": "Ol Doinyo Lengai, the Maasai “Mountain of God”, is a volcano in northern Tanzania that erupts a lava no other volcano does: natrocarbonatite, black when it flows and white soon after. It stands above the floor of the Rift Valley south of Lake Natron. Below: its eruption now, its strange lava, its crater, the explosions of 2007 and 2008, the dangers, how often it erupts and every eruption on record.",
+ "answer": "**Ol Doinyo Lengai is erupting, by the Smithsonian’s list:** its current eruption began on {cur_since}, and was continuing at the last update, on {cur_last}.[[gvp]] It is **the only volcano known to erupt natrocarbonatite lava**, which pours out at 930 to 1,100 °F (500 to 600 °C), against 2,120 °F (1,160 °C) for lava from Kilauea, and soon turns from black to white.[[usgs03]][[nasa09]] Its summit stands **{summit_ft} ft ({summit_m} m)** high in northern Tanzania.[[gvp]][[ncaa]]",
+ "timeline": {
+  "from": 1870,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1880.9,
+    "label": "1880"
+   },
+   {
+    "year": 1917.0,
+    "label": "1917"
+   },
+   {
+    "year": 1983.0,
+    "label": "1983"
+   },
+   {
+    "year": 2007.4,
+    "label": "2007"
+   },
+   {
+    "year": 2017.3,
+    "label": "2017"
+   }
+  ],
+  "note": "{n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The raised stretches are long eruptions on the list, from {long2_span} and from {long1_span} among them; the stretch at the right edge is the eruption listed as continuing since {cur_since}. The {n_tephra_word} older eruptions dated from layers of ash lie off the left edge, before 1880."
+ },
+ "section": {
+  "kind": "land",
+  "crater": "North Crater",
+  "crater_share": 0.07,
+  "note": "lava that turns white",
+  "caption": "Ol Doinyo Lengai as a simple outline on the floor of the Rift Valley. Two heights are to scale: the summit, by the Smithsonian, and the land around the volcano, from NOAA’s elevation grid; the outline is schematic.[[gvp]][[etopo]] The drawing shows lava at the vent for as long as the Smithsonian lists the eruption as continuing."
+ },
+ "map_zoom": 10,
+ "map_label": "below",
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Ol Doinyo Lengai?",
+   "map": true,
+   "paras": [
+    "In northern Tanzania, in the Gregory Rift Valley, where it rises abruptly from the broad plain south of Lake Natron.[[gvp]] Most of the stream channels on its flanks drain into the lake.[[nasa20]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Arusha airport lies about 68 miles (110 km) to the south-east and Wilson airport in Nairobi, Kenya, about 118 miles (190 km) to the north-east, distances NOAA gives in its account of the eruption of 1967.[[noaa1967]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Ol Doinyo Lengai erupting now?",
+   "paras": [
+    "By the Smithsonian’s list, yes. Its current eruption began on **{cur_since}**, in the North Crater, and was continuing when the list was last updated, on {cur_last}; the list rates it VEI {last_vei}.[[gvp]]",
+    "For 25 years before September 2007 its eruptions were mostly lava flows, a study of 2010 says, and the explosive eruption that followed is the last on the Smithsonian’s list rated above VEI {last_vei}.[[kervyn]][[gvp]] No alert level for the volcano was found when the sources for this page were read, on {read_date}."
+   ]
+  },
+  {
+   "id": "lava",
+   "h": "Why is Ol Doinyo Lengai’s lava so unusual?",
+   "aside": "callouts",
+   "paras": [
+    "It is natrocarbonatite: lava rich in sodium, potassium and calcium carbonate and low in silica.[[nasa20]] Ol Doinyo Lengai is the only volcano known to erupt it, and the only one known to have erupted any carbonatite lava in historical time; other carbonatite volcanoes exist, but none is active.[[nasa09]][[usgs03]][[ncaa]]",
+    "It erupts at 930 to 1,100 °F (500 to 600 °C), the USGS says, against 2,120 °F (1,160 °C) for lava from Kilauea, and it runs so freely that eyewitnesses compare a flow to runny mud.[[usgs03]] Fresh flows are black and soon turn white; within a few months they crumble to a brown powder.[[usgs03]] Early European mapmakers took the white for snow and listed the mountain with Kilimanjaro and Mount Kenya among the snow-capped peaks.[[ncaa]]"
+   ]
+  },
+  {
+   "id": "crater",
+   "h": "What is in its summit crater?",
+   "paras": [
+    "Lava and the cones it builds. In 2003 the USGS described a summit crater about 1,300 ft (400 m) across, where visitors could see spatter cones, small lava flows and at times lava lakes and low fountains.[[usgs03]]",
+    "Its shape keeps changing. In the middle of the 20th century the north crater had steep walls about 650 ft (200 m) deep; lava erupted from 1983 on had mostly filled it by about 2000, and from late 1998 lava spilled over its rim, the Smithsonian says.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2007",
+   "h": "What happened in 2007 and 2008?",
+   "paras": [
+    "On September 4, 2007, after 25 years of lava eruptions, Ol Doinyo Lengai turned explosive.[[kervyn]] Its eruptions ranged from ash jets about 330 ft (100 m) high to columns 1.2 to 9 miles (2 to 15 km) high that carried ash up to 62 miles (100 km) away, and they peaked at the end of September 2007 and in February 2008, when the first pyroclastic flows were recorded there.[[kervyn]]",
+    "The explosions built a new cone inside the crater, about 1,300 ft (400 m) wide and 250 ft (75 m) high, and what they threw out came from a carbonated silicate magma, nephelinite, rather than natrocarbonatite.[[kervyn]] The Smithsonian lists this eruption as one of its largest, rated VEI {max_vei}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Ol Doinyo Lengai dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For warnings, follow Tanzania’s authorities.",
+   "paras": [
+    "Its eruptions on the Smithsonian’s list reach VEI {max_vei} at most, and NOAA’s database of significant eruptions has {noaa_n_word} entries for it, none with a death; NOAA rates the eruption of 1966 VEI 4.[[gvp]][[noaa]]",
+    "Ash did the harm. In 1917 ash fall killed the plants on the mountain’s slopes, and in 1967 ash fell at Arusha airport and at Wilson airport in Nairobi, where the corrosive dust damaged the aluminum of aircraft.[[noaa1917]][[noaa1967]] NOAA lists the eruptions of 1940 and 1966 as causing some damage to land and property.[[noaa]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Ol Doinyo Lengai erupt?",
+   "table": "periods",
+   "paras": [
+    "Often, and for years at a time. The Smithsonian’s list counts {n_since} eruptions since {since_year}, and two of them ran for {long2_years} and {long1_years} years, from {long2_span} and from {long1_span}.[[gvp]] From {counted_month_year}, when the list’s dates become exact enough to count, to its last update, Ol Doinyo Lengai was in eruption **about {share} percent of the time**.[[gvp]]",
+    "Its longest pause in those years ran from {longest_gap_from_year} to {longest_gap_to_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Ol Doinyo Lengai?",
+   "paras": [
+    "A stratovolcano whose cone was built by about 15,000 years ago; since then it has thrown out natrocarbonatite and nephelinite ash, and in historical times natrocarbonatite lava as well.[[gvp]] Its eruptions alternate between lava that forms lakes and fountains and explosive bursts that build cinder and ash cones.[[nasa09]]",
+    "Side vents surround the main cone, and its summit stands {rise_ft} ft ({rise_m} m) above the land {ring_mi} miles ({ring_km} km) around it.[[nasa20]][[etopo]] The USGS puts its rise above the plains of the Rift Valley at 7,200 ft (2,200 m).[[usgs03]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Ol Doinyo Lengai’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Ol Doinyo Lengai has **{n_all} confirmed eruptions**: {n_written} known from written reports since {since_year} and {n_tephra_word} older ones dated from layers of ash, the oldest about {oldest}.[[gvp]] The list also carries {n_unconfirmed_word} eruption it does not count as confirmed; it is not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Lengai in two numbers",
+ "callouts": [
+  {
+   "number": "930–1,100",
+   "unit": "°F",
+   "text": "Its lava as it erupts, against 2,120 °F for lava from Kilauea.",
+   "source": "Source: USGS.[[usgs03]]"
+  },
+  {
+   "number": "{share}",
+   "unit": "percent",
+   "text": "Of the time since {counted_month_year} that Ol Doinyo Lengai has spent in eruption, by the Smithsonian’s dates.",
+   "source": "Source: Smithsonian; days counted from its dates.[[gvp]]"
+  }
+ ],
+ "faq_h": "Ol Doinyo Lengai questions and answers",
+ "faq": [
+  [
+   "Is Ol Doinyo Lengai erupting?",
+   "Yes, by the Smithsonian’s list: its current eruption began on {cur_since}, and was continuing at the last update, on {cur_last}."
+  ],
+  [
+   "Why is Ol Doinyo Lengai’s lava white?",
+   "It comes out black and soon turns white as it reacts with rain and moisture in the air; within a few months the flows crumble to a brown powder."
+  ],
+  [
+   "How hot is Ol Doinyo Lengai’s lava?",
+   "About 930 to 1,100 °F (500 to 600 °C), the USGS says, against 2,120 °F (1,160 °C) for lava from Kilauea."
+  ],
+  [
+   "What does Ol Doinyo Lengai mean?",
+   "“Mountain of God” in the Maasai language; the mountain is sacred to the Maasai."
+  ],
+  [
+   "How high is Ol Doinyo Lengai?",
+   "{summit_ft} ft ({summit_m} m), by the Smithsonian and the Ngorongoro Lengai geopark."
+  ],
+  [
+   "What happened at Ol Doinyo Lengai in 2007?",
+   "On September 4, 2007, after 25 years of lava eruptions, it turned explosive: ash columns rose up to 9 miles (15 km) high, and the explosions built a new cone inside its crater."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Ol Doinyo Lengai record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=222120"
+  },
+  {
+   "id": "usgs03",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Watch: World’s Coolest Lava is in Africa (Hawaiian Volcano Observatory, April 17, 2003)",
+   "url": "https://www.usgs.gov/news/volcano-watch-worlds-coolest-lava-africa"
+  },
+  {
+   "id": "nasa09",
+   "publisher": "NASA Earth Observatory",
+   "title": "Changes on Ol Doinyo Lengai (Image of the Day, September 20, 2009)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/changes-on-ol-doinyo-lengai-40217/"
+  },
+  {
+   "id": "nasa20",
+   "publisher": "NASA Earth Observatory",
+   "title": "Ol Doinyo Lengai (astronaut photo ISS063-E-104178, October 6, 2020)",
+   "url": "https://earthobservatory.nasa.gov/images/148042/ol-doinyo-lengai"
+  },
+  {
+   "id": "ncaa",
+   "publisher": "Ngorongoro Lengai UNESCO Global Geopark, Ngorongoro Conservation Area Authority",
+   "title": "Major attractions: Ol Doinyo Lengai",
+   "url": "https://geopark.ncaa.go.tz/major-attractions/"
+  },
+  {
+   "id": "kervyn",
+   "publisher": "U.S. Geological Survey",
+   "title": "Kervyn and others (2010): Fundamental changes in the activity of the natrocarbonatite volcano Oldoinyo Lengai, Tanzania, Bulletin of Volcanology (publication record)",
+   "url": "https://www.usgs.gov/publications/fundamental-changes-activity-natrocarbonatite-volcano-oldoinyo-lengai-tanzania"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "noaa1917",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Ol Doinyo Lengai, January 1917 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/1666"
+  },
+  {
+   "id": "noaa1967",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Ol Doinyo Lengai, July 8, 1967 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/1672"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**About {rise_ft} ft ({rise_m} m) above its surroundings:** the summit height minus the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m. The USGS gives 2,200 m above the plains of the Rift Valley, measured from lower ground.",
+  "**About {share} percent of the time:** the days inside an eruption on the Smithsonian’s list from {counted_month_year} to its last update, as a share of all days in that span.",
+  "**930 to 1,100 °F:** the USGS’s conversion of 500 to 600 °C. The geopark gives about 510 °C (950 °F).",
+  "Miles and feet are converted from the metric figures in the sources and rounded, except where the source prints them."
+ ],
+ "expect": {
+  "cur_since": "April 9, 2017",
+  "cur_last": "October 4, 2026",
+  "last_vei": "0",
+  "n_all": "26",
+  "n_since": "22",
+  "since_year": "1880",
+  "n_written": "22",
+  "n_tephra": "4",
+  "oldest": "1550 BCE",
+  "n_unconfirmed_word": "one",
+  "max_vei": "3",
+  "largest_year": "2007",
+  "long1_span": "1994 to 2006",
+  "long2_span": "1983 to 1993",
+  "long1_years": "11",
+  "long2_years": "10",
+  "longest_gap_from_year": "1967",
+  "longest_gap_to_year": "1983",
+  "counted_month_year": "March 1960",
+  "noaa_n": "4",
+  "noaa_fatal_count": "0",
+  "noaa_first": "1917",
+  "noaa_last": "1967",
+  "summit_m": "2,962",
+  "summit_ft": "9,718",
+  "rise_m": "1,700",
+  "coords": "2.764°S, 35.914°E",
+  "rock": "foidite",
+  "type": "Stratovolcano"
+ },
+ "observatory_read": "2026-11-28",
+ "reviewed": null
+}

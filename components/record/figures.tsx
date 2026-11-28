@@ -87,6 +87,11 @@ export function Timeline({ data, small = false }: { data: RecordData; small?: bo
       return { s: span.openStart && (span.continuing || end > start) ? y0 : Math.max(y0, start), e: end, span, loose, endYmd, endPrecision };
     })
     .filter((p) => p.e > y0);
+  // an open start reaches the left edge only for the first eruption in the strip; later in the record the eruption is
+  // drawn from its stated date (Ol Doinyo Lengai: an eruption "in or before" June 2011 follows one that ended in 2010)
+  items.forEach((p, i) => {
+    if (i > 0 && p.span.openStart) p.s = Math.max(y0, decimalYear(p.span.start));
+  });
   // such a block never runs past the start of the next eruption
   items.forEach((p, i) => {
     const next = items[i + 1];
