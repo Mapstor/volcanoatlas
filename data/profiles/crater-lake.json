@@ -1,0 +1,298 @@
+{
+ "slug": "crater-lake",
+ "volcano_number": 322160,
+ "name": "Crater Lake",
+ "country": "United States",
+ "title": "Crater Lake Volcano: Mount Mazama, Eruption & Lake Depth",
+ "description": "Crater Lake in Oregon: the eruption that collapsed Mount Mazama 7,700 years ago, the deepest lake in the US, Wizard Island and the alert level now.",
+ "h1": "Crater Lake",
+ "facts": {
+  "ground": "etopo"
+ },
+ "big": {
+  "line": "Last eruption on record: about {last_year}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "Volcano Alert Level: Normal",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting. Volcano Alert Level Normal, Aviation Color Code Green.** The weekly update of the USGS Cascades Volcano Observatory of November 20, 2026, read on {read_date}, put every Cascade volcano, Crater Lake among them, at normal background activity.[[cvo]] The Smithsonian’s list has no eruption after about {last_year}.[[gvp]]",
+ "lede": "Crater Lake, in the Cascade Range of Oregon, fills the caldera of Mount Mazama, a volcano about 12,000 ft (3,660 m) high whose top collapsed in a series of explosive eruptions about 7,700 years ago. Its lake is the deepest in the United States, and its later eruptions built Wizard Island and a lava dome under the water. Below: its state now, the eruption that made the caldera, the lake and its island, whether it could erupt again and every eruption on record.",
+ "answer": "**Crater Lake is not erupting.** The USGS keeps it at Volcano Alert Level Normal, and the last eruption on the Smithsonian’s list came about {last_year}.[[cvo]][[gvp]] The lake fills the caldera of Mount Mazama, which collapsed in a series of explosive eruptions about 7,700 years ago, and at **{depth_ft} ft ({depth_m} m)** it is the deepest lake in the United States.[[usgs]][[npsplace]]",
+ "timeline": {
+  "from": -6300,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 0,
+  "marks": [
+   {
+    "year": -5900,
+    "label": "5900 BCE"
+   },
+   {
+    "year": -5250,
+    "label": "5250 BCE"
+   },
+   {
+    "year": -2850,
+    "label": "2850 BCE"
+   }
+  ],
+  "note": "{n_all} eruptions on the list, the last about {last_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] Each spike is one eruption on the list, all of them dated by radiocarbon, by layers of ash or by an ice core, so each date carries a margin."
+ },
+ "section": {
+  "kind": "lagoon",
+  "lagoon": {
+   "lake": {
+    "m": 1882,
+    "ft": 6173,
+    "label": "lake surface"
+   },
+   "wall": {
+    "m": 600,
+    "ft": 2000,
+    "label": "cliffs above the lake",
+    "short": "cliffs"
+   },
+   "depth": {
+    "m": 592,
+    "ft": 1943,
+    "label": "deepest water",
+    "short": "deep"
+   },
+   "island": {
+    "m": 234,
+    "ft": 767,
+    "label": "Wizard Island",
+    "short": "Wizard Is."
+   }
+  },
+  "note": "a cinder cone",
+  "caption": "Crater Lake cut across, from one wall of the caldera to the other. The volcano’s highest point, the cliffs, the deepest water and Wizard Island are to one scale, measured from the lake’s surface, which lies about {lake_ft} ft ({lake_m} m) above sea level; the land outside is drawn at the height of the land around the volcano. Widths and shapes are schematic.[[gvp]][[npsplace]][[npsguide]][[etopo]]"
+ },
+ "map_zoom": 11,
+ "map_label": "below",
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Crater Lake?",
+   "map": true,
+   "paras": [
+    "Crater Lake lies in the southern Cascade Range of Oregon, in Klamath County, inside Crater Lake National Park.[[gvp]][[usgs]][[npsplace]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "The lake averages more than 5 miles (8 km) across. It fills a caldera 5 by 6 miles (8 by 10 km) wide, the collapsed top of the volcano called Mount Mazama.[[npsplace]][[usgs]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Crater Lake still an active volcano?",
+   "paras": [
+    "It is not erupting. The USGS Cascades Volcano Observatory put Crater Lake at Volcano Alert Level Normal and Aviation Color Code Green in its weekly update of November 20, 2026.[[cvo]]",
+    "It still counts as active: the USGS rates its threat potential very high on the scale of its National Volcano Early Warning System.[[usgs]]"
+   ]
+  },
+  {
+   "id": "mazama",
+   "h": "What happened to Mount Mazama?",
+   "aside": "callouts",
+   "paras": [
+    "About 7,700 years ago, a series of explosive eruptions made Mount Mazama, then about 12,000 ft (3,660 m) high, collapse into a basin more than 0.6 miles (1 km) deep.[[usgs]][[npsnature]] It was the largest explosive eruption in the Cascades in the past 400,000 years, the USGS says.[[ofr]]",
+    "The Smithsonian counts it among the largest eruptions known on Earth since the last ice age: its ash reached as far as Canada, and its pyroclastic flows traveled 25 miles (40 km) from the volcano.[[gvp]] It rates the eruption VEI {max_vei} and dates it by an ice core to about {largest_year}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "lake",
+   "h": "How deep is Crater Lake?",
+   "paras": [
+    "**{depth_ft} ft ({depth_m} m)** at its deepest, which makes it the deepest lake in the United States, the Park Service says.[[npsplace]] Its walls rise up to {wall_ft} ft ({wall_m} m) above the water, and its surface lies about {lake_ft} ft ({lake_m} m) above sea level.[[npsplace]][[npsguide]]",
+    "Rain and melted snow fill it, about 42 ft (13 m) of snow in an average year, and evaporation and seepage keep it from rising higher; its level changes only a few feet from year to year.[[npsnature]][[npsplace]][[npsguide]]"
+   ]
+  },
+  {
+   "id": "wizard",
+   "h": "What is Wizard Island?",
+   "paras": [
+    "A cinder cone that grew on the caldera floor within a few hundred years of the collapse.[[gvp]] It rises {island_ft} ft ({island_m} m) above the lake and has a crater about 300 ft (90 m) across and 90 ft (27 m) deep at its top.[[npsplace]]",
+    "Its neighbor of the same age, Merriam Cone, never reached the surface. The last eruption on the list, about {last_year}, built a small lava dome beneath the lake east of Wizard Island.[[gvp]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Could Crater Lake erupt again?",
+   "note": "This page is a record, not a safety guide. For alerts, follow the USGS Cascades Volcano Observatory.",
+   "paras": [
+    "The USGS expects so: the volcanic center will be active in the future, it says, though it has had no significant eruption in about the past 5,000 years.[[usgshaz]] Future eruptions will likely come inside the caldera and probably beneath the water’s surface.[[usgshaz]]",
+    "The hazards it lists include steam-driven explosions, falling ash, pyroclastic flows, lahars and rockfalls.[[usgshaz]] NOAA’s database of significant eruptions has no entry for Crater Lake.[[noaa]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often has Crater Lake erupted?",
+   "paras": [
+    "Rarely, and not for a long time. The Smithsonian’s list has {n_all} eruptions, the oldest about {oldest} and the last about {last_year}, {quiet_span} ago.[[gvp]] Mount Mazama itself was built between about 420,000 and 40,000 years ago from at least five overlapping volcanoes.[[gvp]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How high is Crater Lake’s rim?",
+   "paras": [
+    "The volcano’s highest point is **{summit_ft} ft ({summit_m} m)** above sea level, by the Smithsonian and the USGS.[[gvp]][[usgs]] The Park Service names Hillman Peak, 8,151 ft (2,484 m), as the highest point on the rim and Mount Scott, 8,929 ft (2,722 m), as the highest in the park.[[npsnature]]",
+    "The land around the volcano lies at about {ground_ft} ft ({ground_m} m), so its top stands about {rise_ft} ft ({rise_m} m) above its surroundings.[[etopo]]"
+   ]
+  },
+  {
+   "id": "type",
+   "h": "What type of volcano is Crater Lake?",
+   "paras": [
+    "A caldera, the Smithsonian and the USGS say: the collapsed remains of Mount Mazama, a cluster of overlapping shield volcanoes and stratovolcanoes of andesite and dacite.[[gvp]][[usgs]] Its main rock on the Smithsonian’s list is {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Crater Lake’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Crater Lake has **{n_all} confirmed eruptions**, all before written history: {n_rc_word} dated by radiocarbon, {n_tephra_word} by layers of ash and one by an ice core.[[gvp]]"
+   ]
+  }
+ ],
+ "callout_note": "Mazama in numbers",
+ "callouts": [
+  {
+   "number": "12,000",
+   "unit": "ft",
+   "text": "About how tall Mount Mazama stood before its top collapsed, about 7,700 years ago.",
+   "source": "Source: National Park Service.[[npsnature]]"
+  },
+  {
+   "number": "{depth_ft}",
+   "unit": "ft",
+   "text": "Crater Lake at its deepest, the deepest lake in the United States.",
+   "source": "Source: National Park Service.[[npsplace]]"
+  }
+ ],
+ "faq_h": "Crater Lake questions and answers",
+ "faq": [
+  [
+   "Is Crater Lake an active volcano?",
+   "The USGS expects the volcanic center to erupt again, most likely inside the caldera. It is not erupting now: the USGS had it at Volcano Alert Level Normal in its update of November 20, 2026."
+  ],
+  [
+   "When did Crater Lake last erupt?",
+   "About {last_year}, by the Smithsonian’s list, when a small lava dome grew beneath the lake east of Wizard Island."
+  ],
+  [
+   "How deep is Crater Lake?",
+   "{depth_ft} ft ({depth_m} m) at its deepest, by the Park Service, which makes it the deepest lake in the United States."
+  ],
+  [
+   "How was Crater Lake formed?",
+   "Mount Mazama, a volcano about 12,000 ft high, collapsed during a series of explosive eruptions about 7,700 years ago, and rain and snow filled the caldera it left."
+  ],
+  [
+   "What is Wizard Island?",
+   "A cinder cone that grew on the caldera floor after the collapse; it rises {island_ft} ft ({island_m} m) above the lake."
+  ],
+  [
+   "How tall was Mount Mazama?",
+   "About 12,000 ft (3,660 m) before the collapse, by the Park Service."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Crater Lake record and eruption list",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=322160"
+  },
+  {
+   "id": "usgs",
+   "publisher": "U.S. Geological Survey",
+   "title": "Crater Lake (volcano page)",
+   "url": "https://www.usgs.gov/volcanoes/crater-lake"
+  },
+  {
+   "id": "usgshaz",
+   "publisher": "U.S. Geological Survey",
+   "title": "Hazards: Crater Lake",
+   "url": "https://www.usgs.gov/volcanoes/crater-lake/science/hazards"
+  },
+  {
+   "id": "cvo",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Updates: Cascades Volcano Observatory weekly update of November 20, 2026",
+   "url": "https://www.usgs.gov/programs/VHP/volcano-updates"
+  },
+  {
+   "id": "ofr",
+   "publisher": "U.S. Geological Survey",
+   "title": "Schilling and others (2008): Digital Data for Volcano Hazards in the Crater Lake Region, Oregon, Open-File Report 2007-1223",
+   "url": "https://pubs.usgs.gov/of/2007/1223/"
+  },
+  {
+   "id": "npsplace",
+   "publisher": "National Park Service",
+   "title": "Crater Lake",
+   "url": "https://www.nps.gov/places/crater-lake.htm"
+  },
+  {
+   "id": "npsnature",
+   "publisher": "National Park Service",
+   "title": "Crater Lake National Park: Crater Lake",
+   "url": "https://www.nps.gov/crla/learn/nature/crater-lake.htm"
+  },
+  {
+   "id": "npsguide",
+   "publisher": "National Park Service",
+   "title": "Crater Lake Reflections visitor guide, winter and spring 2024-25 (PDF)",
+   "url": "https://home.nps.gov/crla/learn/news/upload/Crater_Lake_Reflections_Winter-Spring_2024-25_Low-Res_508-2.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_span} ago:** counted from about {last_year}, the last eruption on the Smithsonian’s list, to today, rounded to the nearest 100 years. The Smithsonian’s own summary puts that eruption about 4,200 years ago, the Park Service about 4,800 and the USGS volcano page 6,600; this page uses the date on the list.",
+  "**About {rise_ft} ft ({rise_m} m) above its surroundings:** the summit height minus the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "**{depth_ft} ft ({depth_m} m) deep:** the Park Service’s figure; the USGS gives 594 m (1,949 ft) and the Smithsonian 600 m. The lake’s surface, {lake_ft} ft in the Park Service’s guide, is converted to meters.",
+  "Miles and feet are converted from the metric figures in the sources and rounded, except where the source prints feet."
+ ],
+ "expect": {
+  "last_year": "2850 BCE",
+  "quiet_unit": "years",
+  "quiet_span": "about 4,900 years",
+  "n_all": "5",
+  "n_rc": "2",
+  "n_tephra": "2",
+  "oldest": "5900 BCE",
+  "largest_year": "5680 BCE",
+  "max_vei": "7",
+  "noaa_n": "0",
+  "summit_m": "2,487",
+  "summit_ft": "8,159",
+  "gvp_summit_m": "2,487",
+  "ground_m": "1,650",
+  "rise_m": "850",
+  "depth_ft": "1,943",
+  "depth_m": "592",
+  "wall_ft": "2,000",
+  "island_ft": "767",
+  "lake_ft": "6,173",
+  "lake_m": "1,882",
+  "coords": "42.942°N, 122.107°W",
+  "rock": "dacite",
+  "type": "Caldera"
+ },
+ "observatory_read": "2026-11-28",
+ "reviewed": null
+}
