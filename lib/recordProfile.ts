@@ -58,6 +58,8 @@ export interface LagoonLevel {
   label: string;
   /** shorter words for the phone drawing */
   short?: string;
+  /** feet as the source prints them (the lagoon drawing and its tokens); without it, feet are converted and rounded to 10 */
+  ft?: number;
 }
 
 export interface RecordProfile {
@@ -136,7 +138,13 @@ export interface RecordProfile {
      * prints for the volcano (the build stops when the two differ, and {island_ft} is the summit's feet), and
      * `former` (below) draws an earlier, higher top of the cone as a dashed outline. This layout has a vent.
      */
-    lagoon?: { wall: LagoonLevel; depth: LagoonLevel; island: LagoonLevel; edge?: boolean };
+    lagoon?: { wall: LagoonLevel; depth: LagoonLevel; island: LagoonLevel; edge?: boolean; lake?: LagoonLevel };
+    /*
+     * `lake` is for a caldera lake that stands above the sea (Crater Lake): its surface above sea level, with the words
+     * drawn at the waterline. `wall`, `depth` and `island` are then measured from the lake's surface, while the summit
+     * stays above sea level. The water fills only the caldera, and with `facts.ground` the land outside is drawn at the
+     * height of the land around the volcano. The text takes the lake's figures from {lake_m} and {lake_ft}.
+     */
     /**
      * Basin: a dry crater or caldera on land with lava domes on its floor (Pululahua), cut across. Meters from the
      * sources named in the caption, each with the words drawn beside it: `floor` is the height of the crater floor above
@@ -604,7 +612,12 @@ export function buildRecordData(profile: RecordProfile): RecordData {
   if (lagoon) {
     for (const [key, level] of [['wall', lagoon.wall], ['depth', lagoon.depth], ['island', lagoon.island]] as const) {
       set(`${key}_m`, fmt(level.m));
-      set(`${key}_ft`, fmt(roundTo(feet(level.m), 10)));
+      set(`${key}_ft`, fmt(level.ft ?? roundTo(feet(level.m), 10)));
+    }
+    if (lagoon.lake) {
+      if (lagoon.edge) throw new Error(`record profile ${profile.slug}: lagoon.lake and lagoon.edge cannot be combined`);
+      set('lake_m', fmt(lagoon.lake.m));
+      set('lake_ft', fmt(lagoon.lake.ft ?? roundTo(feet(lagoon.lake.m), 10)));
     }
     // on the hollow's edge the young cone is the summit: one figure for both, in the feet the page prints
     if (lagoon.edge && summit) set('island_ft', fmt(summit.ft));

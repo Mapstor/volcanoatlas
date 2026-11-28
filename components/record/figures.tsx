@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import { dateText, daysBetween, decimalYear, feet, fmt, precisionOf, roundTo, spanBetween, yearText, type Precision, type Ymd } from '@/lib/eruptions';
-import { fill, type RecordData } from '@/lib/recordProfile';
+import { fill, type LagoonLevel, type RecordData } from '@/lib/recordProfile';
 
 /** Drawings of the record page. Every position and label comes from the source data passed in. */
 
@@ -849,19 +849,24 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
   if (stats.current) throw new Error(`record profile ${profile.slug}: the lagoon drawing has no vent to show an eruption in progress`);
   const summit = data.summit?.m ?? lag.wall.m;
   const summitFt = data.summit?.ft ?? roundTo(feet(lag.wall.m), 10);
-  const ft = (m: number) => fmt(roundTo(feet(m), 10));
+  const ft = (lv: LagoonLevel) => fmt(lv.ft ?? roundTo(feet(lv.m), 10));
+  // a lake above the sea (Crater Lake): heights from its surface, the land outside at the height around the volcano
+  const lake = lag.lake;
+  const base = lake ? lake.m : 0;
+  const outside = lake && data.ground ? data.ground.m - base : null;
   const w = compact ? 340 : 560;
   const sx = w / 560;
   const fs = compact ? 12.5 : 14;
   const bold = fs + (compact ? 1.5 : 2);
   const line = fs + 3;
   const top = compact ? 52 : 70;
-  const high = Math.max(summit, lag.wall.m);
-  const k = (compact ? 250 : 300) / (high + lag.depth.m);
+  const high = Math.max(summit - base, lag.wall.m);
+  const low = Math.max(lag.depth.m, outside !== null ? -outside : 0);
+  const k = (compact ? 250 : 300) / (high + low);
   const seaY = top + high * k;
   const Y = (m: number) => seaY - m * k;
   const floorY = Y(-lag.depth.m);
-  const h = Math.round(floorY + (compact ? 26 : 32));
+  const h = Math.round(Y(-low) + (compact ? 26 : 32));
   const rimY = Y(high);
   const wallY = Y(lag.wall.m);
   const islandY = Y(lag.island.m);
@@ -879,8 +884,8 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
   const xShoreR = 500 * sx;
   const xEdgeR = 514 * sx;
   const ground =
-    `M0 ${f(Y(lag.wall.m * 0.5))} L${f(xHigh)} ${f(rimY)} L${f(xEdge)} ${f(wallY)} L${f(xShore)} ${f(seaY)} L${f(xFloor0)} ${f(floorY)} ` +
-    `L${f(xFloor1)} ${f(floorY)} L${f(xShoreR)} ${f(seaY)} L${f(xEdgeR)} ${f(wallY)} L${w} ${f(Y(lag.wall.m * 0.78))}`;
+    `M0 ${f(Y(outside ?? lag.wall.m * 0.5))} L${f(xHigh)} ${f(rimY)} L${f(xEdge)} ${f(wallY)} L${f(xShore)} ${f(seaY)} L${f(xFloor0)} ${f(floorY)} ` +
+    `L${f(xFloor1)} ${f(floorY)} L${f(xShoreR)} ${f(seaY)} L${f(xEdgeR)} ${f(wallY)} L${w} ${f(Y(outside ?? lag.wall.m * 0.78))}`;
   // the young lava shield: gentle at its foot on the caldera floor, steeper under the island
   const hk = floorY - islandY;
   const left: Curve = [
@@ -900,17 +905,40 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
   // the depth bracket stands in the wide basin, its label beside it
   const xb = xFloor0 + (compact ? 9 : 16);
   const midY = (seaY + floorY) / 2;
-  const label =
-    `Section drawing of ${profile.name}: cliffs about ${fmt(lag.wall.m)} m high ring a caldera flooded by the sea, ${fmt(lag.depth.m)} m deep at its deepest. ` +
-    `${lag.island.label} rises ${fmt(lag.island.m)} m above the water in the middle. The volcano's highest point is ${fmt(summit)} m above sea level.`;
+  const label = lake
+    ? `Section drawing of ${profile.name}: cliffs up to ${fmt(lag.wall.m)} m high ring a caldera holding a lake, ${fmt(lag.depth.m)} m deep at its deepest. ` +
+      `${lag.island.label} rises ${fmt(lag.island.m)} m above the water. The volcano's highest point is ${fmt(summit)} m above sea level, and the lake's surface about ${fmt(lake.m)} m.`
+    : `Section drawing of ${profile.name}: cliffs about ${fmt(lag.wall.m)} m high ring a caldera flooded by the sea, ${fmt(lag.depth.m)} m deep at its deepest. ` +
+      `${lag.island.label} rises ${fmt(lag.island.m)} m above the water in the middle. The volcano's highest point is ${fmt(summit)} m above sea level.`;
+  // the lake fills only the caldera
+  const waterD = `M${f(xShore)} ${f(seaY)} L${f(xFloor0)} ${f(floorY)} L${f(xFloor1)} ${f(floorY)} L${f(xShoreR)} ${f(seaY)} Z`;
+  const clipId = `va-lake-${profile.slug}-${compact ? 's' : 'w'}`;
 
   return (
     <svg className={`va-sec ${compact ? 'va-sec-small' : 'va-sec-wide'}`} xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} role="img" aria-label={label}>
       <rect x={0} y={0} width={w} height={h} fill={PAL.paper} />
-      <rect x={0} y={seaY} width={w} height={h - seaY} fill={PAL.sea} />
-      <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
-      <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
-      <line x1={0} y1={seaY} x2={w} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+      {lake ? (
+        <>
+          <defs>
+            <clipPath id={clipId}>
+              <path d={waterD} />
+            </clipPath>
+          </defs>
+          <path d={waterD} fill={PAL.sea} />
+          <g clipPath={`url(#${clipId})`}>
+            <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
+            <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
+          </g>
+          <line x1={xShore} y1={seaY} x2={xShoreR} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+        </>
+      ) : (
+        <>
+          <rect x={0} y={seaY} width={w} height={h - seaY} fill={PAL.sea} />
+          <path className="va-wave" d={wavePath(seaY + 6, 18, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.9} opacity={0.5} />
+          <path className="va-wave va-wave2" d={wavePath(seaY + 13, 26, w)} fill="none" stroke={PAL.seaInk} strokeWidth={0.8} opacity={0.3} />
+          <line x1={0} y1={seaY} x2={w} y2={seaY} stroke={PAL.ink} strokeWidth={1.3} />
+        </>
+      )}
       {/* the old volcano under and around the water, then the young shield that has grown on the caldera floor */}
       <path d={`${ground} V${h} H0 Z`} fill={PAL.crust} />
       <path d={`${shield} Z`} fill={PAL.rock} />
@@ -925,11 +953,11 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
 
       {/* the island */}
       <text x={xc} y={islandY - 10 - line} textAnchor="middle" fontSize={bold} fontWeight={700} fill={PAL.ink}>{compact ? (lag.island.short ?? lag.island.label) : lag.island.label}</text>
-      <text x={xc} y={islandY - 9} textAnchor="middle" fontSize={fs} fill={PAL.ink}>{compact ? `${ft(lag.island.m)} ft` : `${ft(lag.island.m)} ft (${fmt(lag.island.m)} m)`}</text>
+      <text x={xc} y={islandY - 9} textAnchor="middle" fontSize={fs} fill={PAL.ink}>{compact ? `${ft(lag.island)} ft` : `${ft(lag.island)} ft (${fmt(lag.island.m)} m)`}</text>
 
       {/* the deepest water */}
       <path d={`M${f(xb)} ${f(seaY)} V${f(floorY)} M${f(xb - 5)} ${f(floorY)} h10`} stroke={PAL.ink} strokeWidth={1.1} fill="none" />
-      <text x={xb + 9} y={midY - line + 4} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(lag.depth.m)} ft</text>
+      <text x={xb + 9} y={midY - line + 4} fontSize={bold} fontWeight={700} fill={PAL.ink}>{ft(lag.depth)} ft</text>
       <text x={xb + 9} y={midY + 5} fontSize={fs} fill={PAL.ink}>({fmt(lag.depth.m)} m)</text>
       <text x={xb + 9} y={midY + 5 + line} fontSize={fs - 0.5} fill={PAL.ink}>{compact ? (lag.depth.short ?? lag.depth.label) : lag.depth.label}</text>
 
@@ -937,9 +965,9 @@ function LagoonDrawing({ data, compact }: { data: RecordData; compact: boolean }
         <>
           {/* the cliffs, named above the far wall */}
           <line x1={xEdgeR} y1={wallY - 3} x2={xEdgeR} y2={wallY - 9} stroke={PAL.ink} strokeWidth={0.8} />
-          <text x={w - 8} y={wallY - 13 - line} textAnchor="end" fontSize={bold - 1} fontWeight={700} fill={PAL.ink}>{ft(lag.wall.m)} ft ({fmt(lag.wall.m)} m)</text>
+          <text x={w - 8} y={wallY - 13 - line} textAnchor="end" fontSize={bold - 1} fontWeight={700} fill={PAL.ink}>{ft(lag.wall)} ft ({fmt(lag.wall.m)} m)</text>
           <text x={w - 8} y={wallY - 12} textAnchor="end" fontSize={fs - 0.5} fill={PAL.ink}>{lag.wall.label}</text>
-          <text className="va-it" x={xShore + 16} y={seaY - 7} fontSize={fs} fill={PAL.ink}>sea level</text>
+          <text className="va-it" x={xShore + 16} y={seaY - 7} fontSize={fs} fill={PAL.ink}>{lake ? lake.label : 'sea level'}</text>
         </>
       )}
       {!compact && sec.note && (() => {
