@@ -1,0 +1,315 @@
+{
+ "slug": "asosan",
+ "volcano_number": 282110,
+ "name": "Mount Aso",
+ "country": "Japan",
+ "title": "Mount Aso (Asosan): Alert Level, Eruptions, Deaths, Caldera",
+ "description": "Mount Aso in Japan: Nakadake’s alert level in November 2026, the unrest of 2026, the eruptions of 2021 and 2016, the deaths on record and the caldera.",
+ "h1": "Mount Aso",
+ "facts": {
+  "ground": "etopo",
+  "count_from": 864
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "from Nakadake’s first crater",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Volcanic Alert Level 2 of five at Nakadake.** The Japan Meteorological Agency lowered Mount Aso from Level 3 to Level 2 on September 1, 2026, and its commentary of November 27, 2026 keeps the warning for about 0.6 miles (1 km) around Nakadake’s first crater and reports no eruption.[[jmanow]]",
+ "lede": "Mount Aso, called Asosan in Japan and on the Smithsonian’s list, is a giant caldera in the middle of Kyushu with a group of younger cones inside. One of them, Nakadake, is among the most active volcanoes in Japan: its recent eruptions came in 2016, 2019–2020 and 2021, explosions at its crater killed people in 1953, 1958 and 1979, and in 2026 rising tremor and gas kept the alert level at 3 from August 14 to September 1. Below: what it is doing now, what the levels mean, the last eruptions, the caldera, the deaths on record, the dangers and every eruption on record.",
+ "answer": "**Mount Aso is not erupting by the Smithsonian’s list.** Its last eruption, at Nakadake’s first crater, ran from {last_span}.[[gvp]][[jma2110]] Japan’s weather agency keeps Nakadake at **Volcanic Alert Level 2 of five**, a warning for about 0.6 miles (1 km) around the crater, after Level 3 from August 14 to September 1, 2026.[[jmanow]][[jma0814]] Its caldera, 16 miles (25 km) from north to south, is among the largest in the world, and its highest cone, Takadake, stands **{summit_ft} ft ({summit_m} m)** high.[[jmacat]][[gvp]]",
+ "timeline": {
+  "from": 840,
+  "to": 2030,
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 864.9,
+    "label": "864"
+   },
+   {
+    "year": 1958.5,
+    "label": "1958"
+   },
+   {
+    "year": 2021.8,
+    "label": "2021"
+   }
+  ],
+  "note": "the Smithsonian lists {n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The {n_dated} older eruptions, dated by radiocarbon, argon or layers of ash, lie off the left edge. Japan’s weather agency marks its first entry, in 553, as an uncertain eruption, and the Smithsonian does not count it as confirmed; most early entries have no end date.[[jmacat]][[gvp]]"
+ },
+ "section": {
+  "kind": "land",
+  "note": "Takadake, the highest cone",
+  "caption": "Mount Aso drawn as one cone. The height of its highest cone, Takadake, and the land around it are to scale; the outline is schematic.[[jmacat]][[etopo]] The real volcano is a caldera 16 by 11 miles (25 by 18 km) with a group of central cones; the one that erupts, Nakadake, is 4,941 ft (1,506 m) high.[[jmacat]]"
+ },
+ "map_zoom": 10,
+ "table": {
+  "rows": 8,
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Mount Aso?",
+   "map": true,
+   "paras": [
+    "In Kumamoto Prefecture, in the middle of the island of Kyushu in southern Japan.[[jmacat]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Its caldera measures 16 miles (25 km) from north to south and 11 miles (18 km) from east to west, and a group of younger cones rises in the middle of it.[[jmacat]] Mount Aso is one of {n_country} volcanoes in [Japan](/volcanoes-in-japan) on the Smithsonian’s Holocene list.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Mount Aso erupting now?",
+   "table": "periods",
+   "paras": [
+    "Not by the Smithsonian’s list. Its last eruption ran from {last_span}.[[gvp]] Japan’s weather agency keeps Nakadake at **Volcanic Alert Level 2** of five, a warning for about 0.6 miles (1 km) around its first crater, since September 1, 2026, when it lowered the level from 3.[[jmanow]]",
+    "Its commentary of November 27, 2026 reports white steam up to about 2,300 ft (700 m) above the crater rim and about 900 metric tons of sulfur dioxide a day on November 24, down from 1,800 tons on November 12, a level it calls low. It reports no eruption.[[jmanow]]",
+    "Satellite positioning had shown the ground stretching since about May 2026, which the agency reads as magma gathering in a reservoir deep under the Kusasenri area; that has stalled since about August.[[jmanow]]"
+   ]
+  },
+  {
+   "id": "2026",
+   "h": "What happened at Mount Aso in 2026?",
+   "paras": [
+    "On June 21, 2026, volcanic tremor grew stronger and the agency measured about 1,700 metric tons of sulfur dioxide a day, so it raised the level from 1 to 2 and warned of danger within about 0.6 miles (1 km) of the first crater.[[jma0621]]",
+    "Tremor grew again from the evening of August 12. On August 14 the sulfur dioxide had jumped to about 2,700 tons a day, from 1,200 tons on August 6, and at 3:45 p.m. the agency raised the level to 3, which bans climbing and covers about 1.2 miles (2 km) around the crater.[[jma0814]] It lowered the level to 2 again on September 1. No eruption was reported.[[jmanow]][[jma0814]]"
+   ]
+  },
+  {
+   "id": "level",
+   "h": "What do Mount Aso’s alert levels mean?",
+   "paras": [
+    "Japan’s volcanic alert levels run from 1 to 5, and Aso has used them since December 1, 2007. Distances are measured from Nakadake’s first crater.[[jmaleaf]]",
+    "**Level 1** keeps people out of the craters only. **Level 2** restricts the area within about 0.6 miles (1 km), for small eruptions that throw blocks that far. **Level 3** bans climbing and restricts about 1.2 miles (2 km), or up to about 2.5 miles (4 km) near the homes. **Level 4** calls for older and vulnerable people to leave, for pyroclastic flows that could run about 2.5 miles (4 km). **Level 5** is for lava reaching the homes, which has not happened in written history.[[jmaleaf]]",
+    "The agency’s leaflet gives past examples: 1953, 1957 and 1977 for Level 2; 1933, 1958 and 1979 for Level 3; 1958 for Level 4.[[jmaleaf]]"
+   ]
+  },
+  {
+   "id": "last",
+   "h": "When did Mount Aso last erupt?",
+   "paras": [
+    "In October 2021. At 4:43 a.m. on October 14, Nakadake’s first crater threw out large blocks, its first eruption since June 2020. At 11:43 a.m. on October 20, an eruption sent a pyroclastic flow more than 0.6 miles (1 km), mostly to the north-west, and ash 11,500 ft (3,500 m) above the crater rim; the agency raised the level to 3 five minutes later. Ash fell in parts of Aso, Takamori and Yamato in Kumamoto and of Takachiho and Gokase in Miyazaki.[[jma2110]]",
+    "The eruption before it ran from {prev_start} to {prev_end}, by the Smithsonian’s list.[[gvp]] The eruption of October 8, 2016 is the latest the Smithsonian rates VEI 3: satellite images showed its ash cloud at about 36,100 ft (11 km) above sea level, and falling fragments cracked a window at a youth center about 3 miles (5 km) away.[[gvp]] A ropeway station near the crater was half-buried in ash and its roof destroyed.[[noaa2016]]"
+   ]
+  },
+  {
+   "id": "caldera",
+   "h": "How did the Aso caldera form?",
+   "aside": "callouts",
+   "paras": [
+    "In four gigantic eruptions of pyroclastic flows, from about 270,000 to 90,000 years ago, Japan’s weather agency says.[[jmacat]] The Smithsonian counts Aso among the largest calderas in the world.[[gvp]]",
+    "Inside it stand 17 central cones; Nakadake has been the most active of them for 2,000 years.[[gvp]] It is the only active one, a cone of basaltic andesite to basalt and one of the most active volcanoes in Japan. A hot, strongly acidic lake, the yudamari, fills its first crater in quiet times. In active times the lake disappears and the crater gives off black, sandy ash, known locally as yona, and throws out glowing blocks and scoria in Strombolian explosions; sometimes it explodes violently in steam-driven eruptions.[[jmacat]][[jmapage]]"
+   ]
+  },
+  {
+   "id": "deaths",
+   "h": "How many people have died at Mount Aso?",
+   "table": "noaa",
+   "paras": [
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Asosan, from {noaa_first} to {noaa_last}; {noaa_fatal_word} of them give a count of the dead, {noaa_deaths} in all. For {noaa_described_word} more it gives no count: it describes the toll of 1331 as few and that of 1826 as many, from older accounts that other compilers and Japanese records do not list.[[noaa]]",
+    "The worst entry, 12 ropeway workers killed by a nighttime explosion, is dated October 1957 by NOAA.[[noaa1957]] Japan’s weather agency dates that explosion inside the first crater to June 24, 1958, with 12 killed and 28 injured. Its catalogue also lists 6 sightseers killed and more than 90 injured in 1953, and 3 killed and 11 injured by the explosion of September 6, 1979.[[jmacat]]",
+    "Gas has killed people too: NOAA lists tourists who died from breathing volcanic gas in 1989, 1990 (three times) and 1994, and two men who died about 330 ft (100 m) south of the first crater’s rim on {last_death_date}, with no eruption.[[noaa]] Earlier entries include 3 pilgrims in 1854 and sulfur miners in 1872.[[jmacat]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Mount Aso dangerous?",
+   "note": "This page is a record, not a safety guide. For current warnings, follow the Japan Meteorological Agency and the local governments around the volcano.",
+   "paras": [
+    "Near Nakadake, yes. The warning in force covers large blocks and pyroclastic flows within about 0.6 miles (1 km) of the first crater, ash and small stones that the wind can carry much farther, and volcanic gas; the agency asks people to follow the local governments and stay out of the closed areas.[[jmanow]]",
+    "Many people come close. The agency’s catalogue gives 17.5 million sightseers a year for Aso, from Kumamoto Prefecture’s figures for 2010, and lists ropeway stations among the shelters.[[jmacat]] Eruptions have reached beyond the current zone: the pyroclastic flow of October 2021 ran more than 0.6 miles (1 km), and falling fragments in 2016 cracked a window about 3 miles (5 km) away.[[jma2110]][[gvp]]"
+   ]
+  },
+  {
+   "id": "often",
+   "h": "How often does Mount Aso erupt?",
+   "paras": [
+    "Very often. The Smithsonian’s list has **{n_all} confirmed eruptions**, {n_written} of them known from written reports since {since_year}, and rates {n_max_vei} of them VEI {max_vei}, the highest it gives for this volcano, the latest in {largest_year}.[[gvp]] A Smithsonian report of 1995 counted more than 165 eruptions of Nakadake since 553.[[gvp]]"
+   ]
+  },
+  {
+   "id": "tall",
+   "h": "How tall is Mount Aso, and what type of volcano is it?",
+   "paras": [
+    "Its highest point, Takadake, is **{summit_ft} ft ({summit_m} m)** above sea level; Nakadake, the cone that erupts, is 4,941 ft (1,506 m).[[jmacat]] The land {ring_mi} miles away lies at about {ground_ft} ft ({ground_m} m), so Takadake stands about {rise_ft} ft ({rise_m} m) above it.[[etopo]]",
+    "The Smithsonian lists Aso as a caldera, and its main rock as {rock}.[[gvp]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Mount Aso’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Asosan has **{n_all} confirmed eruptions**: {n_written} known from written reports since {since_year}, {n_rc_word} dated by radiocarbon, {n_tephra_word} from layers of ash and one by argon dating, the oldest about {oldest}.[[gvp]] The list also carries {n_unconfirmed} eruptions it does not count as confirmed; they are not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Aso in two numbers",
+ "callouts": [
+  {
+   "number": "16",
+   "unit": "miles",
+   "text": "Across the caldera from north to south; 11 miles from east to west.",
+   "source": "Source: Japan Meteorological Agency.[[jmacat]]"
+  },
+  {
+   "number": "12",
+   "unit": "killed",
+   "text": "By the explosion inside Nakadake’s first crater on June 24, 1958, with 28 injured.",
+   "source": "Source: Japan Meteorological Agency.[[jmacat]]"
+  }
+ ],
+ "faq_h": "Mount Aso questions and answers",
+ "faq": [
+  [
+   "Is Mount Aso erupting?",
+   "No. Its last eruption on the Smithsonian’s list ended on {last_end}. Japan’s weather agency keeps Nakadake at Volcanic Alert Level 2 of five since September 1, 2026, and reported no eruption in its commentary of November 27, 2026."
+  ],
+  [
+   "What is Mount Aso’s alert level?",
+   "As of November 27, 2026, Level 2 of five, a warning for the area within about 0.6 miles (1 km) of Nakadake’s first crater. The agency raised it to 3 on August 14, 2026 and lowered it to 2 on September 1."
+  ],
+  [
+   "When did Mount Aso last erupt?",
+   "In October 2021: on October 14 the first crater threw out large blocks, and on October 20 an eruption sent a pyroclastic flow more than 0.6 miles (1 km) and ash 11,500 ft (3,500 m) above the rim."
+  ],
+  [
+   "How big is the Aso caldera?",
+   "16 miles (25 km) from north to south and 11 miles (18 km) from east to west, by Japan’s weather agency, which says four gigantic eruptions formed it from about 270,000 to 90,000 years ago."
+  ],
+  [
+   "Has anyone died at Mount Aso?",
+   "Yes. NOAA’s database counts {noaa_deaths} deaths in {noaa_fatal_word} entries. The worst explosion, which Japan’s weather agency dates to June 24, 1958, killed 12 people near the crater."
+  ],
+  [
+   "Can you visit Nakadake’s crater?",
+   "Not as of November 27, 2026: the agency’s Level 2 warning covers the area within about 0.6 miles (1 km) of the first crater, and Aso City and Minamiaso Village restrict entry."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Asosan record, eruption list and Bulletin reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=282110"
+  },
+  {
+   "id": "weekly",
+   "publisher": "Global Volcanism Program, Smithsonian Institution and U.S. Geological Survey",
+   "title": "Weekly Volcanic Activity Report",
+   "url": "https://volcano.si.edu/reports_weekly.cfm"
+  },
+  {
+   "id": "jmacat",
+   "publisher": "Japan Meteorological Agency",
+   "title": "National Catalogue of the Active Volcanoes in Japan, fourth edition, English version: 84. Asosan (PDF)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/souran_eng/volcanoes/084_asosan.pdf"
+  },
+  {
+   "id": "jmapage",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Asosan: overview and eruption history (in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/fukuoka/503_Asosan/503_index.html"
+  },
+  {
+   "id": "jmanow",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic activity of Asosan: warnings, alert level and the commentary of November 27, 2026 (in Japanese)",
+   "url": "https://ds.data.jma.go.jp/svd/vois/data/report/activity_info/503.html"
+  },
+  {
+   "id": "jma0621",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Press release: Asosan raised to alert level 2, June 21, 2026 (PDF, in Japanese)",
+   "url": "https://www.jma.go.jp/jma/press/2606/21a/20260621_asosan.pdf"
+  },
+  {
+   "id": "jma0814",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Press release: Asosan raised to alert level 3, August 14, 2026 (PDF, in Japanese)",
+   "url": "https://www.jma.go.jp/jma/press/2608/14b/asosan_20260814.pdf"
+  },
+  {
+   "id": "jmaleaf",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Volcanic Alert Levels of Asosan, leaflet, March 2024 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/filing/level/PDF/level_503.pdf"
+  },
+  {
+   "id": "jma2110",
+   "publisher": "Japan Meteorological Agency",
+   "title": "Monthly volcanic activity report: Asosan, October 2021 (PDF, in Japanese)",
+   "url": "https://www.data.jma.go.jp/vois/data/report/monthly_v-act_doc/fukuoka/21m10/503_21m10.pdf"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "noaa1957",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Asosan, October 1957 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/1019"
+  },
+  {
+   "id": "noaa2016",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Asosan, October 8, 2016 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/6744"
+  },
+  {
+   "id": "etopo",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74",
+   "url": "https://doi.org/10.25921/fd45-gt74"
+  }
+ ],
+ "calc": [
+  "**{quiet_number} {quiet_unit} ago:** counted from {last_end}, the end of the last eruption on the Smithsonian’s list, to today.",
+  "**About {rise_ft} ft ({rise_m} m) above the land around it:** Takadake’s height minus the median height of the land 14 to 16 km from the summit in NOAA’s ETOPO 2022 grid, rounded to 50 m.",
+  "**The explosion that killed 12:** NOAA’s record dates it to October 1957 and gives 20 injured (noting that the agency says 28); the agency’s catalogue dates it to June 24, 1958. The Smithsonian’s list has one eruption from October 1957 to December 1958 that takes in both dates.",
+  "Miles and feet are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_end": "October 20, 2021",
+  "last_span": "October 14 to October 20, 2021",
+  "prev_start": "April 16, 2019",
+  "prev_end": "June 16, 2020",
+  "n_all": "172",
+  "n_written": "159",
+  "since_year": "864",
+  "n_since": "159",
+  "n_rc": "10",
+  "n_tephra": "2",
+  "n_other": "13",
+  "n_dated": "13",
+  "n_unconfirmed": "15",
+  "max_vei": "3",
+  "n_max_vei": "9",
+  "largest_year": "2016",
+  "noaa_n": "16",
+  "noaa_first": "1331",
+  "noaa_last": "2016",
+  "noaa_deaths": "37",
+  "noaa_fatal_count": "13",
+  "noaa_described_count": "2",
+  "worst_deaths": "12",
+  "worst_date": "October 1957",
+  "last_death_date": "November 23, 1997",
+  "summit_m": "1,592",
+  "summit_ft": "5,223",
+  "rise_m": "850",
+  "coords": "32.8849°N, 131.085°E",
+  "rock": "andesite to basaltic andesite",
+  "type": "Caldera"
+ },
+ "observatory_read": "2026-11-28",
+ "reviewed": null
+}
