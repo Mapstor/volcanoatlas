@@ -78,7 +78,8 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
     if (value) keyFacts.push([label, value]);
   };
   fact('Type', ctx.type);
-  fact('Summit', ctx.summit_ft && `${ctx.summit_ft} ft (${ctx.summit_m} m)`);
+  // a top under the sea (East Epi) is a depth, printed as such
+  fact('Summit', ctx.summit_ft ? `${ctx.summit_ft} ft (${ctx.summit_m} m)` : ctx.summit_below_ft && `${ctx.summit_below_ft} ft (${ctx.summit_below_m} m) below sea level`);
   fact('Base', ctx.base_ft && `about ${ctx.base_ft} ft (${ctx.base_m} m) below sea level`);
   fact('Above the land around it', ctx.rise_ft && `about ${ctx.rise_ft} ft (${ctx.rise_m} m)`);
   fact('Current eruption', ctx.cur_since && `since ${ctx.cur_since}`);
@@ -125,7 +126,7 @@ export default async function RecordPage({ profile }: { profile: RecordProfile }
   const bigNumber = plain(profile.big.number, ctx);
   const bigThousands = bigNumber.includes(',');
   const bigDigits = bigThousands ? bigNumber.replace(/[^0-9]/g, '').length + 0.3 : bigNumber.length;
-  const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ''}`;
+  const mapDetail = `${ctx.coords}${ctx.summit_ft ? `, summit ${ctx.summit_ft} ft (${ctx.summit_m} m)` : ctx.summit_below_ft ? `, top ${ctx.summit_below_ft} ft (${ctx.summit_below_m} m) below sea level` : ''}`;
   const bigMap = `https://www.openstreetmap.org/?mlat=${volcano.lat}&mlon=${volcano.lon}#map=9/${volcano.lat}/${volcano.lon}`;
 
   // every other volcano with a profile page in the country, rebuilt pages without an old profile included
