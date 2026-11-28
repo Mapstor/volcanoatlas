@@ -85,7 +85,7 @@
    "h": "What do Mount Aso’s alert levels mean?",
    "paras": [
     "Japan’s volcanic alert levels run from 1 to 5, and Aso has used them since December 1, 2007. Distances are measured from Nakadake’s first crater.[[jmaleaf]]",
-    "**Level 1** keeps people out of the craters only. **Level 2** closes the area within about 0.6 miles (1 km), for small eruptions that throw blocks that far. **Level 3** bans climbing and closes about 1.2 miles (2 km), or up to about 2.5 miles (4 km) near the homes. **Level 4** calls for older and vulnerable people to leave, for pyroclastic flows that could run about 2.5 miles (4 km). **Level 5** is for lava reaching the homes, which has not happened in written history.[[jmaleaf]]",
+    "**Level 1** keeps people out of the craters only. **Level 2** restricts the area within about 0.6 miles (1 km), for small eruptions that throw blocks that far. **Level 3** bans climbing and restricts about 1.2 miles (2 km), or up to about 2.5 miles (4 km) near the homes. **Level 4** calls for older and vulnerable people to leave, for pyroclastic flows that could run about 2.5 miles (4 km). **Level 5** is for lava reaching the homes, which has not happened in written history.[[jmaleaf]]",
     "The agency’s leaflet gives past examples: 1953, 1957 and 1977 for Level 2; 1933, 1958 and 1979 for Level 3; 1958 for Level 4.[[jmaleaf]]"
    ]
   },
@@ -111,7 +111,7 @@
    "h": "How many people have died at Mount Aso?",
    "table": "noaa",
    "paras": [
-    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Asosan, from {noaa_first} to {noaa_last}. {noaa_fatal_word} give a count of the dead, {noaa_deaths} in all. For {noaa_described_word} more it gives no count: it describes the toll of 1331 as few and that of 1826 as many, from older accounts that other compilers and Japanese records do not list.[[noaa]]",
+    "NOAA’s database of significant eruptions has {noaa_n_word} entries for Asosan, from {noaa_first} to {noaa_last}; {noaa_fatal_word} of them give a count of the dead, {noaa_deaths} in all. For {noaa_described_word} more it gives no count: it describes the toll of 1331 as few and that of 1826 as many, from older accounts that other compilers and Japanese records do not list.[[noaa]]",
     "The worst entry, 12 ropeway workers killed by a nighttime explosion, is dated October 1957 by NOAA.[[noaa1957]] Japan’s weather agency dates that explosion inside the first crater to June 24, 1958, with 12 killed and 28 injured. Its catalogue also lists 6 sightseers killed and more than 90 injured in 1953, and 3 killed and 11 injured by the explosion of September 6, 1979.[[jmacat]]",
     "Gas has killed people too: NOAA lists tourists who died from breathing volcanic gas in 1989, 1990 (three times) and 1994, and two men who died about 330 ft (100 m) south of the first crater’s rim on {last_death_date}, with no eruption.[[noaa]] Earlier entries include 3 pilgrims in 1854 and sulfur miners in 1872.[[jmacat]]"
    ]
