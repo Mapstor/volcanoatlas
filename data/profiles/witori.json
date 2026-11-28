@@ -1,0 +1,242 @@
+{
+ "slug": "witori",
+ "volcano_number": 252080,
+ "name": "Witori",
+ "country": "Papua New Guinea",
+ "title": "Witori Volcano and Mount Pago: Eruptions, Caldera, Danger",
+ "description": "Witori in Papua New Guinea: the Pago cone in its caldera, the 2002 eruption that forced 15,000 to leave, the 2012 eruption and every eruption on record.",
+ "h1": "Witori",
+ "facts": {
+  "count_from": 1911
+ },
+ "big": {
+  "line": "Last eruption ended {last_end}",
+  "number": "{quiet_number}",
+  "unit": "{quiet_unit} ago",
+  "note": "from Pago, the cone in its caldera",
+  "note_weekly": "in the {period} weekly report"
+ },
+ "since_check": "**Not erupting on the Smithsonian’s list.** Its last eruption there ended on {last_end}.[[gvp]] The list of ash advisories from the past seven days, read on {read_date}, had none for Witori or any other volcano in Papua New Guinea.[[vaacrecent]] No alert level and no statement of the Rabaul Volcanological Observatory about Witori were found when the sources were read.",
+ "lede": "Witori is a caldera on the north coast of New Britain, Papua New Guinea, with a young cone, Pago, growing inside it. Three of its prehistoric eruptions rate VEI 6 on the Smithsonian’s list, and in 2002 Pago drove about 15,000 people from their homes. Below: its state now, Pago, the eruptions of 2002 and 2012, the great eruptions, the dangers and every eruption on record.",
+ "answer": "**Witori is not erupting.** Its last eruption on the Smithsonian’s list, from Pago, the cone inside its caldera, ran from {last_span}, and no ash advisory for it was on the list of the past seven days when read on {read_date}.[[gvp]][[vaacrecent]] In 2002 Pago’s eruption led to the evacuation of **about 15,000 people**.[[gvp]] Pago is the volcano’s highest point, **{summit_ft} ft ({summit_m} m)** above sea level.[[gvp]]",
+ "timeline": {
+  "from": 1900,
+  "to": 2030,
+  "low_label": "quiet",
+  "label_gaps": 1,
+  "marks": [
+   {
+    "year": 1911.5,
+    "label": "1911"
+   },
+   {
+    "year": 1933.6,
+    "label": "1933"
+   },
+   {
+    "year": 2002.6,
+    "label": "2002"
+   },
+   {
+    "year": 2012.4,
+    "label": "2012"
+   }
+  ],
+  "note": "{n_since} eruptions since {since_year}",
+  "note_at": "bottom",
+  "caption": "Drawn from the Smithsonian’s eruption dates, not an instrument record.[[gvp]] The {n_dated} older eruptions, dated by radiocarbon or from layers of ash, lie off the left edge, before 1900; the eruption the list starts in 1911 is dated to within half a year."
+ },
+ "section": {
+  "kind": "land",
+  "note": "Pago, inside the caldera",
+  "caption": "Witori as a simple outline rising from the sea. Only the height of Pago, its highest point, is to scale, from the Smithsonian; the outline is schematic.[[gvp]] The real volcano is a caldera 3.4 by 4.7 miles (5.5 by 7.5 km) whose young cone, Pago, has grown higher than the caldera’s rim.[[gvp]]"
+ },
+ "map_zoom": 10,
+ "map_label": "below",
+ "table": {
+  "gap_label": "Quiet time that followed"
+ },
+ "sections": [
+  {
+   "id": "where",
+   "h": "Where is Witori?",
+   "map": true,
+   "paras": [
+    "On the north coast of central New Britain, an island of Papua New Guinea, where its caldera holds the active cone Pago.[[gvp]] The Smithsonian places the volcano at {coords}.[[gvp]]",
+    "Kimbe, the provincial capital, lies about 30 miles (48 km) to the north, and the village of Rikau about 6.5 miles (10.5 km) north of Pago’s craters, in the reports of the 2002 eruption.[[gvp]]"
+   ]
+  },
+  {
+   "id": "now",
+   "h": "Is Witori erupting now?",
+   "paras": [
+    "No. The last eruption on the Smithsonian’s list ran from {last_span}.[[gvp]] The list of ash advisories from the past seven days, read on {read_date}, had none for Witori, and no statement of the Rabaul Volcanological Observatory about it was found.[[vaacrecent]]",
+    "That eruption began on May 3, 2012, with an explosion that sent ash up to 45,000 ft (13.7 km); on July 10 ash rose to 14,000 ft (4.3 km), and on July 11 it drifted more than 170 miles (275 km) to the south-west, by the Darwin Volcanic Ash Advisory Centre’s reports.[[gvp]]"
+   ]
+  },
+  {
+   "id": "pago",
+   "h": "What is Pago?",
+   "aside": "callouts",
+   "paras": [
+    "The young cone inside Witori’s caldera, and the source of all {n_since} eruptions on the Smithsonian’s list since {since_year}.[[gvp]] It may have formed less than 350 years ago and has grown higher than the caldera’s rim: Pago reaches {summit_ft} ft ({summit_m} m), the rim 2,000 ft (610 m).[[gvp]]",
+    "Ten lava flows of dacite from Pago cover much of the caldera floor. The youngest came out in 2002 and 2003 from vents running from the summit nearly to the caldera’s north-west wall.[[gvp]]"
+   ]
+  },
+  {
+   "id": "2002",
+   "h": "What happened in 2002?",
+   "paras": [
+    "On August 3, 2002, Pago erupted for the first time since the 1930s; that afternoon a Qantas crew reported an ash cloud rising to 30,000 ft (9.1 km).[[gvp]] By August 9, 6,000 to 8,000 people had left the villages around it; by September 27 about 13,000 of the Hoskins Peninsula’s 15,000 people had been evacuated, and by October 10 about 15,000 in all.[[gvp]]",
+    "Lava flowed from five vents on the north-west flank but stayed inside the caldera, and the flows stopped after February 2003; the Smithsonian ends the eruption about March 26, 2003.[[gvp]] The USGS sent a team of its Volcano Disaster Assistance Program to help track the volcano, and NASA’s satellite image of August 15 shows the ash streaming north.[[usgs02]][[nasa02]]"
+   ]
+  },
+  {
+   "id": "great",
+   "h": "How large were Witori’s great eruptions?",
+   "paras": [
+    "Very large. Five major explosive eruptions between about 5,600 and 1,200 years ago built the volcano’s gently sloping outer flanks of pyroclastic-flow and ash-fall deposits, and many of them may have shaped the caldera.[[gvp]] The Smithsonian rates {n_vei6} of its eruptions VEI 6, one of them with a question mark, the newest about {largest_year} CE.[[gvp]]",
+    "The USGS counts at least 10 to 12 large explosive eruptions in the past 5,600 years and dates the eruption that formed the caldera to about 3,300 years ago.[[usgs02]]"
+   ]
+  },
+  {
+   "id": "danger",
+   "h": "Is Witori dangerous?",
+   "table": "noaa",
+   "note": "This page is a record, not a safety guide. For warnings, follow the Rabaul Volcanological Observatory and Papua New Guinea’s authorities.",
+   "paras": [
+    "It can be. Large explosive eruptions of Pago would endanger as many as 30,000 people within 19 miles (30 km), the USGS warned in 2002.[[usgs02]] NOAA’s database of significant eruptions has {noaa_n_word} entries for Witori, from {noaa_first} to {noaa_last}.[[noaa]]",
+    "NOAA gives the deaths of {noaa_described_word} of them as few, without a count. For the eruption of about 4000 BCE it notes fatalities and damage whose details are unknown; for 1914 it notes that people on the north-east coast, about 8 miles (13 km) from the volcano, faced starvation and perhaps died from it.[[noaa4000]][[noaa1914]]"
+   ]
+  },
+  {
+   "id": "record",
+   "h": "Witori’s full eruption record",
+   "table": "record",
+   "paras": [
+    "The Smithsonian’s record for Witori has **{n_all} confirmed eruptions**: {n_written} known from written reports since {since_year}, {n_rc} dated by radiocarbon and {n_tephra} from layers of ash, the oldest about {oldest}.[[gvp]] The list also carries {n_unconfirmed_word} eruption it does not count as confirmed, in 2004; it is not in the table."
+   ]
+  }
+ ],
+ "callout_note": "Witori in two numbers",
+ "callouts": [
+  {
+   "number": "15,000",
+   "unit": "people",
+   "text": "Evacuated from around Pago by October 10, 2002.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  },
+  {
+   "number": "{n_vei6}",
+   "unit": "at VEI 6",
+   "text": "Eruptions of that size on the Smithsonian’s list, the newest about {largest_year} CE.",
+   "source": "Source: Smithsonian.[[gvp]]"
+  }
+ ],
+ "faq_h": "Witori questions and answers",
+ "faq": [
+  [
+   "Is Witori erupting?",
+   "No. Its last eruption on the Smithsonian’s list, from the Pago cone, ended on {last_end}, and no ash advisory for it was on the list of the past seven days when read on {read_date}."
+  ],
+  [
+   "What is Mount Pago?",
+   "The young cone inside Witori’s caldera on New Britain, the source of its eruptions since 1911. It may be less than 350 years old and now stands higher than the caldera’s rim."
+  ],
+  [
+   "How high is Pago?",
+   "{summit_ft} ft ({summit_m} m) above sea level, by the Smithsonian; the caldera’s rim reaches 2,000 ft (610 m)."
+  ],
+  [
+   "When did Pago last erupt?",
+   "From {last_span}, by the Smithsonian’s list; on May 3, 2012, ash rose to 45,000 ft (13.7 km)."
+  ],
+  [
+   "How many people were evacuated in 2002?",
+   "About 15,000 by October 10, 2002; by September 27 about 13,000 of the Hoskins Peninsula’s 15,000 people had left."
+  ],
+  [
+   "How big is the Witori caldera?",
+   "3.4 by 4.7 miles (5.5 by 7.5 km), by the Smithsonian; the USGS gives 7 by 3.5 miles (11 by 6 km)."
+  ]
+ ],
+ "sources": [
+  {
+   "id": "gvp",
+   "publisher": "Global Volcanism Program, Smithsonian Institution",
+   "title": "Volcanoes of the World, v. {gvp_version} ({gvp_version_date}): Witori record, eruption list and Bulletin reports",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=252080"
+  },
+  {
+   "id": "vaacrecent",
+   "publisher": "Bureau of Meteorology, Australia",
+   "title": "Volcanic ash advisories received in the last 7 days",
+   "url": "https://www.bom.gov.au/products/Volc_ash_recent.shtml"
+  },
+  {
+   "id": "usgs02",
+   "publisher": "U.S. Geological Survey",
+   "title": "Volcano Watch: USGS sends team to assess eruption hazards in Papua New Guinea (Hawaiian Volcano Observatory, September 19, 2002)",
+   "url": "https://www.usgs.gov/news/volcano-watch-usgs-sends-team-assess-eruption-hazards-papua-new-guinea"
+  },
+  {
+   "id": "nasa02",
+   "publisher": "NASA Earth Observatory",
+   "title": "Eruption of Pago (August 19, 2002)",
+   "url": "https://science.nasa.gov/earth/earth-observatory/eruption-of-pago-10050/"
+  },
+  {
+   "id": "noaa",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database, doi:10.7289/V5JW8BSH",
+   "url": "https://doi.org/10.7289/V5JW8BSH"
+  },
+  {
+   "id": "noaa4000",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Witori, about 4000 BCE (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/5230"
+  },
+  {
+   "id": "noaa1914",
+   "publisher": "NOAA National Centers for Environmental Information",
+   "title": "NCEI/WDS Global Significant Volcanic Eruptions Database: Witori, 1914 (event record with comments)",
+   "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/event-more-info/1354"
+  }
+ ],
+ "calc": [
+  "**About 15,000 evacuated:** the figure for October 10, 2002, in the Smithsonian’s reports, which give about 13,000 of the Hoskins Peninsula’s 15,000 people by September 27. NASA’s caption of August 19, 2002, cites news reports of about 8,000 by August 9.",
+  "**The caldera’s size:** the Smithsonian’s summary gives 5.5 by 7.5 km and one of its reports about 8 km across; the USGS gives 11 by 6 km with walls up to 500 m. This page leads with the Smithsonian’s summary.",
+  "Miles and feet are converted from the metric figures in the sources and rounded."
+ ],
+ "expect": {
+  "last_end": "July 11, 2012",
+  "last_span": "May 3 to July 11, 2012",
+  "quiet_unit": "years",
+  "n_all": "19",
+  "n_since": "6",
+  "since_year": "1911",
+  "n_written": "6",
+  "n_rc": "7",
+  "n_tephra": "6",
+  "n_dated": "13",
+  "oldest": "7510 BCE",
+  "n_unconfirmed_word": "one",
+  "n_vei6": "3",
+  "n_max_vei_firm": "2",
+  "largest_year": "710",
+  "max_vei": "6",
+  "noaa_n": "4",
+  "noaa_first": "4000 BCE",
+  "noaa_last": "1914",
+  "noaa_described_count": "2",
+  "noaa_fatal_count": "0",
+  "summit_m": "724",
+  "summit_ft": "2,375",
+  "coords": "5.5745°S, 150.5161°E",
+  "rock": "dacite",
+  "type": "Caldera"
+ },
+ "observatory_read": "2026-11-28",
+ "reviewed": null
+}
